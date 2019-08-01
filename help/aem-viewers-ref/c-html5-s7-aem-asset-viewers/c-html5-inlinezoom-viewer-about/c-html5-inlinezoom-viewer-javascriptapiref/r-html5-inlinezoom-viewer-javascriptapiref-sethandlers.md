@@ -1,0 +1,46 @@
+---
+description: JavaScript API reference for Inline Zoom Viewer.
+seo-description: JavaScript API reference for Inline Zoom Viewer.
+seo-title: setHandlers
+solution: Experience Manager
+title: setHandlers
+topic: Dynamic media
+uuid: 357b0e33-befa-4b89-add5-67cc9e7fd9e7
+index: y
+internal: n
+snippet: y
+---
+
+# setHandlers{#sethandlers}
+
+JavaScript API reference for Inline Zoom Viewer.
+
+ `setHandlers(handlers)`
+
+Specifies zero or more callback handlers. A call to this method fully overwrites event handlers that were previously assigned for that viewer instance. Must be called before `init()`.
+
+## Parameter {#section-0cc9961784d04eb3b7d50011309b0119}
+
+<table id="table_896DFF34A68A403DB93A6D597461A573"> 
+ <tbody> 
+  <tr> 
+   <td colname="col1"> <p> <span class="codeph"> <span class="varname"> handlers </span> </span> </p> </td> 
+   <td colname="col2"> <p> <span class="codeph"> {Object} </span> JSON object with viewer event callbacks, where the property name is the name of the supported viewer event and the property value is a JavaScript function reference to an appropriate callback. </p> <p>See <a href="../../../c-html5-s7-aem-asset-viewers/c-html5-flyout-viewer-20-about/c-html5-flyout-viewer-20-event-callbacks.md#concept-53eb01d28189437790268da4929f2a10" format="dita" scope="local"> Event callbacks </a> for more information about viewer events. </p> </td> 
+  </tr> 
+ </tbody> 
+</table>
+
+## Returns {#section-1d3cf85bc7cc4dfe9670e038d02b9101}
+
+None.
+
+## Example {#section-9e9332aa86b74a5fb321375c03fdc5b3}
+
+```
+<instance>.setHandlers({ 
+ "initComplete":function() { 
+  console.log("init complete"); 
+} 
+})
+```
+
