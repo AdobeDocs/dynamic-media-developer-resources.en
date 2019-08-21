@@ -1,19 +1,24 @@
 ---
+title: Adobe Dynamic Media Classic release notes
+seo-title: Adobe Dynamic Media Classic release notes
+description: Release notes for Adobe Dynamic Media Classic
+seo-description: Release notes for Adobe Dynamic Media Classic-part of the Adobe Experience Manager solution in the Adobe Experience Cloud.
+author: Rick Brough
 cloud: experience-cloud
-product: adobe
+product: dynamic media classic
 archtype: end-user
 user-guide: null
 ---
 
-# Table of Contents {#table-of-contents}
+# Table of contents {#table-of-contents}
 
-+ [Release notes](s7rn2017.md)
++ [Latest release notes](s7rn2017.md)
 + Archive
-   + [Scene7 Fall 2016 Release](s7rnfall2016.md)
-   + [Scene7 Publishing System 6.10 Release Notes (May 2015)](s7rn610.md)
-   + [Scene7 Publishing System 6.9 Release Notes (October 2014)](s7rn69.md)
-   + [Scene7 Publishing System 6.8 Release Notes (May 2014)](s7rn68.md)
-   + [Scene7 Publishing System 6.7 Release Notes](s7rn67.md)
-   + [Scene7 Publishing System 6.6 Release Notes](s7rn66.md)
-   + [Scene7 Publishing System 6.5 Release Notes](s7rn65.md)
-   + [Scene7 Publishing System 6.0 Release Notes](s7rn60.md)
+   + [Scene7 Fall 2016 release](s7rnfall2016.md)
+   + [Scene7 Publishing System 6.10 release notes (May 2015)](s7rn610.md)
+   + [Scene7 Publishing System 6.9 release notes (October 2014)](s7rn69.md)
+   + [Scene7 Publishing System 6.8 release notes (May 2014)](s7rn68.md)
+   + [Scene7 Publishing System 6.7 release notes](s7rn67.md)
+   + [Scene7 Publishing System 6.6 release notes](s7rn66.md)
+   + [Scene7 Publishing System 6.5 release notes](s7rn65.md)
+   + [Scene7 Publishing System 6.0 release notes](s7rn60.md)
