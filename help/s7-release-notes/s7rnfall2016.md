@@ -35,7 +35,7 @@ See [HTTP2 Delivery of Content FAQ](https://docs.adobe.com/content/docs/en/aem/6
 
 ## Scene7 Publishing System {#section-24487cb493444d808fb7193f0a00cdd4}
 
-For complete documentation, see [http://help.adobe.com/en_US/scene7/using/index.html](http://help.adobe.com/en_US/scene7/using/index.html)
+For complete documentation, see [https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html](https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html)
 
 **New features, enhancements, and bug fixes**
 
@@ -292,7 +292,7 @@ The User Guide is located in the Adobe HTML5 Viewer SDK folder of the client ins
 
     * In versions 2.7.2 and earlier some components were added to the DOM using `insertBefore()` API. As a result, such components would put themselves in the bottom of the stacking order, no matter when component instance is created relative to other components. With the 2.8.1 release all components are using `appendChild()` API now, which means that the component stacking order would match the order of instance creation. 
     
-    * Using `iscommand` modifier to set image alpha channel format is not supported. Use component "FMT" parameter instead. 
+    * Using `iscommand` modifier to set image alpha channel format is not supported. Use component `FMT` parameter instead. 
     * CSS transform property is not supported at this time.
 
 * Touch devices
