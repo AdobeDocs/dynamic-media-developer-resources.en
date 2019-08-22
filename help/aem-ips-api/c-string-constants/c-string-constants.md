@@ -5,7 +5,7 @@ seo-title: String constants
 solution: Experience Manager
 title: String constants
 topic: Scene7 Image Production System API
-uuid: 1b15936d-bf13-4a61-a1b0-cf3ae2fb1f10
+uuid: 52bca54b-7d63-4819-a45c-f03c3870fefb
 index: y
 internal: n
 snippet: y

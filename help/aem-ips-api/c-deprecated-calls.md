@@ -5,7 +5,7 @@ seo-title: Deprecated calls
 solution: Experience Manager
 title: Deprecated calls
 topic: Scene7 Image Production System API
-uuid: d07c2baf-27c7-4845-902a-d71624237965
+uuid: f3faf451-b9f0-4971-b00e-58ee5f768691
 index: y
 internal: n
 snippet: y

@@ -5,7 +5,7 @@ seo-title: Operation parameters
 solution: Experience Manager
 title: Operation parameters
 topic: Scene7 Image Production System API
-uuid: 3ce37e32-05e0-41d3-a708-030126193a1b
+uuid: cdc3014d-3414-410a-9756-ee43cc70262a
 index: y
 internal: n
 snippet: y

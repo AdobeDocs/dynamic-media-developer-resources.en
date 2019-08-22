@@ -5,7 +5,7 @@ seo-title: Data types
 solution: Experience Manager
 title: Data types
 topic: Scene7 Image Production System API
-uuid: 25229b2e-f478-4ee6-8cb7-238c1f6a3db4
+uuid: 37c8d7bb-cd18-4db8-b342-0f7911a289e4
 index: y
 internal: n
 snippet: y

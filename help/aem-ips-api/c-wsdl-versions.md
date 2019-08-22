@@ -5,7 +5,7 @@ seo-title: IPS Web Service WSDL versions
 solution: Experience Manager
 title: IPS Web Service WSDL versions
 topic: Scene7 Image Production System API
-uuid: 7906ec1f-9cbf-40fc-aa2d-07e36211880e
+uuid: 74a7db5e-3961-4237-b78d-19bbdcc3b397
 index: y
 internal: n
 snippet: y

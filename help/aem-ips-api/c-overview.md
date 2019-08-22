@@ -5,7 +5,7 @@ seo-title: About Scene7 Image Production System API
 solution: Experience Manager
 title: About Scene7 Image Production System API
 topic: Scene7 Image Production System API
-uuid: 89cdea94-6600-4086-ae2c-5b0b75c4ec84
+uuid: 04e6f285-337f-4786-be8e-c6e594e78f54
 index: y
 internal: n
 snippet: y

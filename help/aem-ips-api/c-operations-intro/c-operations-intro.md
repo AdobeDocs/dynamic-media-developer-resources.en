@@ -5,7 +5,7 @@ seo-title: Operations methods
 solution: Experience Manager
 title: Operations methods
 topic: Scene7 Image Production System API
-uuid: 712cb470-d566-4795-8378-e8e65451fc90
+uuid: eae429e5-a697-40f7-b3c6-a6db5603adb0
 index: y
 internal: n
 snippet: y

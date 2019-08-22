@@ -5,7 +5,7 @@ seo-title: Uploading assets by way of HTTP POSTs to the UploadFile Servlet
 solution: Experience Manager
 title: Uploading assets by way of HTTP POSTs to the UploadFile Servlet
 topic: Scene7 Image Production System API
-uuid: 92d9b14b-a54e-484b-823b-128f4ffeb5c1
+uuid: a6f4b8c1-0709-4095-909c-cc5560f7eab9
 index: y
 internal: n
 snippet: y
@@ -89,7 +89,7 @@ The upload job consists of one or more HTTP POSTs that use a common `jobHandle` 
 
 Within the `<uploadPostParams>` block is the `<uploadParams>` block that designates the processing of the included files.
 
-See [UploadPostJob](r_upload_post_job.md#reference_BCA2339B593F4637A687C33937215EF4).
+See [UploadPostJob](types/c-data-types/r-upload-post-job.md#reference-bca2339b593f4637a687c33937215ef4).
 
 While you might assume that the `uploadParams` parameter can change for individual files as a part of the same job, that is not the case. Use the same `uploadParams` parameters for the entire job.
 
