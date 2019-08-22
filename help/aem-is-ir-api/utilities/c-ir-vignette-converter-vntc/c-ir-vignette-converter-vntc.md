@@ -5,7 +5,7 @@ seo-title: Vignette converter (vntc)
 solution: Experience Manager
 title: Vignette converter (vntc)
 topic: Scene7 Image Serving - Image Rendering API
-uuid: f12a9709-42ab-453a-aeee-4372a364d9a8
+uuid: ba95dc8c-e0ad-4780-abbf-415772b9a2ed
 index: y
 internal: n
 snippet: y

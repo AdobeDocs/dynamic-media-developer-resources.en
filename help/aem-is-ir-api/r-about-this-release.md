@@ -5,7 +5,7 @@ seo-title: About this release
 solution: Experience Manager
 title: About this release
 topic: Scene7 Image Serving - Image Rendering API
-uuid: 7c721235-fad0-40f8-95ab-58aecdfeb6d2
+uuid: 1d167069-8091-4f7c-bc0e-6ef8bae98ab4
 index: y
 internal: n
 snippet: y

@@ -5,7 +5,7 @@ seo-title: Disk space requirements and recommendations
 solution: Experience Manager
 title: Disk space requirements and recommendations
 topic: Scene7 Image Serving - Image Rendering API
-uuid: b203e527-b01d-4e96-8f16-2b3d3dfacabf
+uuid: a4985144-d155-430e-9633-7bd089c35138
 index: y
 internal: n
 snippet: y

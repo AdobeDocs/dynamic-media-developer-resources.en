@@ -5,7 +5,7 @@ seo-title: Installing on Linux
 solution: Experience Manager
 title: Installing on Linux
 topic: Scene7 Image Serving - Image Rendering API
-uuid: 78020569-8d06-4bcc-88ce-db31d06ee38a
+uuid: e2e103c8-087f-4b9c-bdb3-7bc019f78ea8
 index: y
 internal: n
 snippet: y

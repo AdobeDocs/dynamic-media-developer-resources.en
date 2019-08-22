@@ -5,7 +5,7 @@ seo-title: Starting or stopping on Linux
 solution: Experience Manager
 title: Starting or stopping on Linux
 topic: Scene7 Image Serving - Image Rendering API
-uuid: 0c2e3220-0ba2-4698-9b35-433668c85b63
+uuid: 3d30c452-a5be-4423-8dec-032250d3e3f8
 index: y
 internal: n
 snippet: y

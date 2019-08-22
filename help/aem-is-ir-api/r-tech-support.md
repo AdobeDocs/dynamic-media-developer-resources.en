@@ -5,7 +5,7 @@ seo-title: Technical support
 solution: Experience Manager
 title: Technical support
 topic: Scene7 Image Serving - Image Rendering API
-uuid: 6b89a1c7-2713-4f2e-b5ea-b74a2cc311ca
+uuid: e703601c-c3c4-478b-865b-8cd45e9cdf56
 index: y
 internal: n
 snippet: y

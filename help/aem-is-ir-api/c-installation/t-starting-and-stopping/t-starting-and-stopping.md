@@ -5,7 +5,7 @@ seo-title: Starting and stopping Image Serving
 solution: Experience Manager
 title: Starting and stopping Image Serving
 topic: Scene7 Image Serving - Image Rendering API
-uuid: 6ef9751e-18f8-42ab-8ba5-c946eb6afdff
+uuid: 32af8ac6-4fe6-4f5f-8c4e-16727bf2c3a3
 index: y
 internal: n
 snippet: y

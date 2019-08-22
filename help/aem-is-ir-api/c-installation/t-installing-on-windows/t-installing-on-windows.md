@@ -5,7 +5,7 @@ seo-title: Installing on Windows
 solution: Experience Manager
 title: Installing on Windows
 topic: Scene7 Image Serving - Image Rendering API
-uuid: aaca49e9-d916-45ed-9c29-b48566be43a6
+uuid: 0521649b-c8f4-4832-8b12-363d7a646418
 index: y
 internal: n
 snippet: y

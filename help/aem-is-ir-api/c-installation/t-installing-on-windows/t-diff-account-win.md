@@ -5,7 +5,7 @@ seo-title: Installing under a different user account than administrator
 solution: Experience Manager
 title: Installing under a different user account than administrator
 topic: Scene7 Image Serving - Image Rendering API
-uuid: 8792438b-54a1-4792-9984-6d3a32930c75
+uuid: ffed5cbf-3124-442e-9c91-721a60c9df92
 index: y
 internal: n
 snippet: y

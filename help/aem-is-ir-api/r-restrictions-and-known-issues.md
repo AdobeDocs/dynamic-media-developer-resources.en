@@ -5,7 +5,7 @@ seo-title: Restrictions and known issues
 solution: Experience Manager
 title: Restrictions and known issues
 topic: Scene7 Image Serving - Image Rendering API
-uuid: 58ba48c0-d51c-40bc-b054-8fd21a9cc7d8
+uuid: 95b6e547-7e9c-4172-a5c1-4c166182835c
 index: y
 internal: n
 snippet: y

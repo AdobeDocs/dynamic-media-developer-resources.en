@@ -5,7 +5,7 @@ seo-title: Document conventions
 solution: Experience Manager
 title: Document conventions
 topic: Scene7 Image Serving - Image Rendering API
-uuid: 5175a288-b95b-4e64-bfff-5da85ac8e50a
+uuid: 2be81237-f04e-4df9-8922-75bb1954df45
 index: y
 internal: n
 snippet: y

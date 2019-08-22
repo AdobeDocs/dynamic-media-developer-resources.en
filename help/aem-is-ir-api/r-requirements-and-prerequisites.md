@@ -5,7 +5,7 @@ seo-title: System requirements and prerequisites
 solution: Experience Manager
 title: System requirements and prerequisites
 topic: Scene7 Image Serving - Image Rendering API
-uuid: 24e20c54-2be8-45b3-9214-eab1f995af94
+uuid: 1db2e9ea-7133-41d5-82e8-a100e34e0a8e
 index: y
 internal: n
 snippet: y

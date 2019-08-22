@@ -5,7 +5,7 @@ seo-title: Contents
 solution: Experience Manager
 title: Contents
 topic: Scene7 Image Serving - Image Rendering API
-uuid: d1ef6bc3-e8a1-4694-b4e6-f3f88f0a16db
+uuid: a8389fd5-7bc8-4f35-8191-131a503f374a
 index: y
 internal: n
 snippet: y

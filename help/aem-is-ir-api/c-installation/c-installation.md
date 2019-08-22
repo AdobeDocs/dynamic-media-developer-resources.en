@@ -5,7 +5,7 @@ seo-title: Installation
 solution: Experience Manager
 title: Installation
 topic: Scene7 Image Serving - Image Rendering API
-uuid: 86d9386f-bad1-4946-8a05-e8e75bd71a2f
+uuid: 163ca1a9-3ca0-478e-b90b-368ae934d2f3
 index: y
 internal: n
 snippet: y

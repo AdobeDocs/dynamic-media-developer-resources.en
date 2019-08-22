@@ -5,7 +5,7 @@ seo-title: Updating from IS 4.7.4 or later
 solution: Experience Manager
 title: Updating from IS 4.7.4 or later
 topic: Scene7 Image Serving - Image Rendering API
-uuid: dccfa256-83d7-4400-8bec-ef0b7046103d
+uuid: bca3461f-87c9-4e6d-a602-b3f085539e4c
 index: y
 internal: n
 snippet: y

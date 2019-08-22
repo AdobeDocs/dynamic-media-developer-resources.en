@@ -5,7 +5,7 @@ seo-title: Install folder
 solution: Experience Manager
 title: Install folder
 topic: Scene7 Image Serving - Image Rendering API
-uuid: 92edd6e5-efbc-499b-8bb0-f14679f8adcc
+uuid: 565a642f-8b3f-4c1d-8329-c7faa8c5959d
 index: y
 internal: n
 snippet: y

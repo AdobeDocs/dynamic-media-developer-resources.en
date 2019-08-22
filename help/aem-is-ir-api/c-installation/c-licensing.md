@@ -5,7 +5,7 @@ seo-title: Licensing
 solution: Experience Manager
 title: Licensing
 topic: Scene7 Image Serving - Image Rendering API
-uuid: 4d2c0289-9643-49d2-9f04-08515cffcbcf
+uuid: e12bbd67-1551-4bd1-b7d0-edca37e05329
 index: y
 internal: n
 snippet: y

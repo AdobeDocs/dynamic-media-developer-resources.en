@@ -5,7 +5,7 @@ seo-title: Installing for the first time
 solution: Experience Manager
 title: Installing for the first time
 topic: Scene7 Image Serving - Image Rendering API
-uuid: 3f5b8192-1823-4c10-b3d1-e7de313a85e7
+uuid: 69dfff6b-8c06-476b-bc94-8ecf5d0d071f
 index: y
 internal: n
 snippet: y

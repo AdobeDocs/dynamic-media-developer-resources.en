@@ -5,7 +5,7 @@ seo-title: Starting or stopping on Windows
 solution: Experience Manager
 title: Starting or stopping on Windows
 topic: Scene7 Image Serving - Image Rendering API
-uuid: ad7149d4-f3c2-4ab3-9b4d-6c9c670a1c35
+uuid: 10004e3f-d437-4e0b-a4fb-f2d9158fc5e4
 index: y
 internal: n
 snippet: y
