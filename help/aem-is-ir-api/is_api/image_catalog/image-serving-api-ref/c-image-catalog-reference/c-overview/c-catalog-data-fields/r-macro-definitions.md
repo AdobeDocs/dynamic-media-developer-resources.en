@@ -1,0 +1,28 @@
+---
+description: The following fields are recognized in macro definition files.
+seo-description: The following fields are recognized in macro definition files.
+seo-title: Macro definitions
+solution: Experience Manager
+title: Macro definitions
+topic: Scene7 Image Serving - Image Rendering API
+uuid: 7dad3012-df41-4658-9cae-a0f89a2857a3
+index: y
+internal: n
+snippet: y
+---
+
+# Macro definitions{#macro-definitions}
+
+The following fields are recognized in macro definition files.
+
+<table id="simpletable_C34D1161A6E84214AD97F79345BDB180"> 
+ <tr class="strow"> 
+  <td class="stentry"> <p><span class="codeph"> <a href="../../../../../../is_api/image_catalog/image-serving-api-ref/c-image-catalog-reference/c-macro-definition-reference/r-name-macro.md#reference-7430cb46507c4cc2979151ceea76781a" type="reference" format="dita" scope="local"> Name</a></span> </p></td> 
+  <td class="stentry"> <p>Macro name (index key). </p></td> 
+ </tr> 
+ <tr class="strow"> 
+  <td class="stentry"> <p><span class="codeph"> <a href="r_definition_macro.md#reference_5A1E30EF92DA4C12B95968464281C625" type="reference" format="dita" scope="local"> Definition</a></span> </p></td> 
+  <td class="stentry"> <p>Macro definition. </p></td> 
+ </tr> 
+</table>
+
