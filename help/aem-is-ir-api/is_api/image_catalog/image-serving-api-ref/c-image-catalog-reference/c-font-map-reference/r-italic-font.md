@@ -15,7 +15,7 @@ snippet: y
 
 Italics flag.
 
- Specifies whether the font file referenced by this font map record should be used when requested by the RTF italics ( `\i`) command.
+Specifies whether the font file referenced by this font map record should be used when requested by the RTF italics ( `\i`) command.
 
 ## Properties {#section-607e76490e87418496d1c6763018a14f}
 
@@ -23,7 +23,7 @@ Flag. Optional tertiary index key for the font map.
 
 ## Default {#section-0b88057d00ce4160929c23fbf138b309}
 
-0.
+0
 
 ## See also {#section-05057a6689a942b4b539c5de35c9b2a6}
 
