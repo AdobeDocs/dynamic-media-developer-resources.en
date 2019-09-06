@@ -21,7 +21,7 @@ Flag. Optional secondary index key for the font map.
 
 ## Default {#section-ee7e72f864c5463b963b4b2b513bfad7}
 
-0.
+0
 
 ## See also {#section-1884263aa44641e19076a038f5c45f7c}
 
