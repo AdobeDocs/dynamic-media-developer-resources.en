@@ -1,0 +1,24 @@
+---
+description: The SvgRender component is an independent Java application.
+seo-description: The SvgRender component is an independent Java application.
+seo-title: Configuring SVG
+solution: Experience Manager
+title: Configuring SVG
+topic: Scene7 Image Serving - Image Rendering API
+uuid: f6e131af-283e-4649-b349-123489c0838d
+index: y
+internal: n
+snippet: y
+---
+
+# Configuring SVG{#configuring-svg}
+
+The SvgRender component is an independent Java application.
+
+SVG configuration settings are located in [!DNL PlatformServer.conf], [!DNL SVG.conf], [!DNL ImageServerRegistry.xml], and [!DNL ServerSupervisorRegistry.xml].
+
+A socket connection is used to communicate between SvgRender and the Image Server. The port number is 27346. If necessary, it can be changed by setting `SVGRender.port` in [!DNL svg.conf] and `<SVGTcpPort>` in [!DNL ImageServerRegistry.xml] to a new value.
+
+## See also {#section-c085b47d54d44059bdaa67fd5e226e91}
+
+[SVG Configuration Settings](../../../is-api/image-serving-api-ref/c-configuration-and-administration/c-server-settings/r-svg.md#reference-232104868b2d4af9a4ac9c87552c0bb5) 
