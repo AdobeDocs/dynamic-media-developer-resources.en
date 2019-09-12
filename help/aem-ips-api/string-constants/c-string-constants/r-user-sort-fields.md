@@ -1,0 +1,29 @@
+---
+description: Used by getUsersParam/sortBy.
+seo-description: Used by getUsersParam/sortBy.
+seo-title: User Sort Fields
+solution: Experience Manager
+title: User Sort Fields
+topic: Scene7 Image Production System API
+uuid: df7fb1be-ab5e-4d0d-a000-ce29b45ac41f
+index: y
+internal: n
+snippet: y
+---
+
+# User Sort Fields{#user-sort-fields}
+
+Used by getUsersParam/sortBy.
+
+ Syntax 
+
+## Values {#section-cb8e5bad0b6849d3bc093682132b8b6d}
+
+* `None` 
+* `FirstName` 
+* `LastName` 
+* `Email` 
+* `Role` 
+* `Valid` 
+* `PasswordExpiration`
+
