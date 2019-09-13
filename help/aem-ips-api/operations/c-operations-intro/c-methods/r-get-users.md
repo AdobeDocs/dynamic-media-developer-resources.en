@@ -15,8 +15,6 @@ snippet: y
 
 Gets an array of users as specified by company, group, and user role handles. This operation lets you sort returned users and filter by character.
 
- Syntax 
-
 ## Authorized User Types {#section-6a8f23cc6b22442d8776f701016971ed}
 
 * `IpsAdmin` 
@@ -24,9 +22,6 @@ Gets an array of users as specified by company, group, and user role handles. Th
 * `TrialSiteAdmin` 
 * `ImagePortalAdmin`
 
-## Section Title {#section-0b19e22a32f04954a3d5bd3f00be8fe3}
-
-** ** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|

@@ -107,19 +107,4 @@ Returns assets from IPS.
  </tbody> 
 </table>
 
-## Section Title {#section-716a6ffb63dc4062830dcd02a7111b46}
-
-** ** 
-
-```
-          Codeblock
-        
-```
-
-** ** 
-
-```
-          Codeblock
-        
-```
 
