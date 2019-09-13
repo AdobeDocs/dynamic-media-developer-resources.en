@@ -13,9 +13,7 @@ snippet: y
 
 # updateVignettePublishFormat{#updatevignettepublishformat}
 
-Updates the vignette publish format settings.
-
- Syntax 
+Updates the vignette publish format settings. 
 
 ## Authorized User Types {#section-2f2ad136d2884dc9bfef6da008196ed0}
 
@@ -50,7 +48,7 @@ Updates the vignette publish format settings.
 |---|---|---|---|
 |  ` *`vignetteFormatHandle`*`  | `xsd:string`  | Yes  | Handle to the updated vignette publish format.  |
 
-## Section Title {#section-fcba4bf2b7264786a676e315a35dbe43}
+## Example {#section-fcba4bf2b7264786a676e315a35dbe43}
 
 This code sample updates a vignette publish format and returns the handle to the updated format.
 
