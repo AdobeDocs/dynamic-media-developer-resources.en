@@ -5,21 +5,33 @@ seo-title: Path
 solution: Experience Manager
 title: Path
 topic: Scene7 Image Serving - Image Rendering API
-uuid: 3d9a2de9-d90b-4edd-9218-0394fc4fc871
+uuid: d1ed8a98-60eb-4bdb-884e-ea08c018d834
 index: y
 internal: n
 snippet: y
+containsConref:true
 ---
 
 # Path{#path}
 
-## Section Title {#section-81438465198f4a3698b9b59b6f896480}
+<a id="section_0455CBCDA06147C3A6BD1DEEC11AD627"></a>
 
-## Section Title {#section-89d71bf6b2fa41be870032549fd0676b}
+The server uses the path resolution rules described in [Managing Source Data](../../../../../../is-api/image-serving-api-ref/c-configuration-and-administration/c-configuration-and-administration.md#concept-1ec4d9f0e58a430cae045761f1ff9173) to find the data file.
 
-## Section Title {#section-67ac4294c8144efc96a3779fbc85d214}
+## Properties {#section-72d9edc532ad43349afcb4df22e1c692}
 
-## Section Title {#section-71a32313926c4592917b83c85b89c940}
+Text string. Required for image and SVG records, may be empty for template records. If specified, it must be a valid relative or absolute Image Server file path. attribute::DefaultExt is appended if no file suffix is present.
 
-## Section Title {#section-f4731fcedfbd480b91c8f29bf9150223}
+## Supported image file formats {#section-8d6443c883aa48aaa00316fe9661aaa8}
 
+Refer to the description of the Image Converter (IC) utility for a complete list of supported image file formats.
+
+Applications which require image data in multiple different resolutions will perform best when using the Scene7 pyramid TIFF (PTIFF) multi-resolution format. The IC utility is used to create PTIFF images from any supported image format.
+
+## Default {#section-82dad83ec3f84ae8bf2f850b4139f63e}
+
+None.
+
+## See also {#section-b36074fae77d49f5bdfd63e9c36aa3ba}
+
+[IC Utility](../../../../../../is-api/is-utils/utilities/r-ic.md#reference-de9f43c63a8f48f1a755ff1760af8b7b), [attribute::RootPath](../../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-rootpath.md#reference-17d57e5967be403b8408fa7214017494), [attribute::DefaultExt](../../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-defaultext.md#reference-1b96c71a253049ddaeae09892d3484a0), [src=](../../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-src.md#reference-f6506637778c4c69bf106a7924a91ab1) 

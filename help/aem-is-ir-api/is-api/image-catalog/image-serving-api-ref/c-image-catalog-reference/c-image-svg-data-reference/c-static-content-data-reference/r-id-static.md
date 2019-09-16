@@ -5,17 +5,29 @@ seo-title: Id
 solution: Experience Manager
 title: Id
 topic: Scene7 Image Serving - Image Rendering API
-uuid: fa5e35c3-6e10-4a9f-bc44-2efe68d12baa
+uuid: 45a79636-3fa9-4f2a-98bb-a46c9b627dd4
 index: y
 internal: n
 snippet: y
+containsConref:true
 ---
 
 # Id{#id}
 
-## Section Title {#section-90d7f843e9fb44c88270e1829b7a4f4b}
+ Typically a short and unique identifier, such as a SKU number, possibly with some sort of suffix, such as if a SKU has multiple images or has locale-specific variations. May also be a more complex string which looks more like a file path, to support easy retrofitting of web sites with Image Serving.
 
-## Section Title {#section-7a6882d8fef04117953b4a4e9754aaa2}
+>[!NOTE]
+>
+>The image and SVG tables are merged into a single table when the image catalog is loaded. Id values must be unique across both tables. The SVG record is discarded if the image table contains a record with the same ID value. Static content is managed with a separate table; static content items and image/SVG items may thus have the same Id values.
 
-## Section Title {#section-c6d3e4a01c914df3823dbd4280faae37}
+## Properties {#section-874a6853f67b4b229341ca76682884ae}
 
+Text string. Required. Record identifier for the image/SVG or static content data table. Each `catalog::Id` value within this image catalog/SVG catalog or within this static content catalog must be unique and must not include ',' characters.
+
+## Default {#section-a26e7d83a5ee44b5918baef82ee48e14}
+
+None.
+
+## See also {#section-a258d818487d4ee6b7a99a65d18471a9}
+
+[attribute::RootId](../../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-rootid.md#reference-13653312925e4a08b90f99961d53f546)  
