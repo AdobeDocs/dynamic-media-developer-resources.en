@@ -10,8 +10,6 @@ uuid: 22c271f7-e9dc-4f3e-af7b-1efe89df983e
 
 # Properties{#properties}
 
-Property data is returned in response to several req= types.
-
 Property data is returned in response to the following `req=` types:
 
 * `catalogprops` 
@@ -20,6 +18,12 @@ Property data is returned in response to the following `req=` types:
 * `userdata`
 
 `userdata` responses are formatted as properties only when the contents of `catalog::UserData` follow the properties format.
+
+* [Text (Java) properties](r-text-java-properties.md)
+* [JavaScript properties](r-javascript-properties.md)
+* [XML properties](r-xml-properties.md)
+* [JSONP properties](r-json-properties.md)
+
 
 ## See also {#section-869fc97ffc4648f5a64062311be26819}
 

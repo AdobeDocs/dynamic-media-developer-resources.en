@@ -57,4 +57,4 @@ Convert image to a bi-tonal GIF with key-color transparency and force colors to 
 
 ## See also {#section-ea5e8de6084540cf86010370a4d0f01f}
 
-[fmt=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-is-http-fmt.md#reference-cdf10043423b45ba9fe15157fb3ae37a) , [color](r_is_http_color.md#reference_0FDB264A3AED4BD78451BB55311F6E93) 
+[fmt=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-is-http-fmt.md#reference-cdf10043423b45ba9fe15157fb3ae37a) , [color](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-data-types/r-is-http-color.md) 

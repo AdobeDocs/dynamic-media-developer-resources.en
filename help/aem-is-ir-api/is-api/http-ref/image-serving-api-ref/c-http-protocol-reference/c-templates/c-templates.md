@@ -23,3 +23,7 @@ Any `src=` or `mask=`commands embedded in the template may resolve to the main c
 It is highly recommended to always include default definitions for all variables used in a template. This way, the image output of the template can always be viewed simply by specifying its `attribute::RootId` and `catalog::Id`, without having to know what variables are used in the template.
 
 The predefined path substitution variable `$object$` can be used to apply the image object specified in the url path to any layer source or mask ( `src=` or `mask=`), even in nested or embedded requests. 
+
+* [Example A](r-example-a.md)
+* [Example B](r-example-b.md)
+* [Example C](r-example-c.md)

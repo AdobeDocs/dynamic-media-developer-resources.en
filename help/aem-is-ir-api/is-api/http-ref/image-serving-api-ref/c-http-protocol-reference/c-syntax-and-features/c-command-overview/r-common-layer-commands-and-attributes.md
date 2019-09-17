@@ -26,7 +26,7 @@ These commands apply to image, text, and solid color layers. Most are not meanin
   <td class="stentry"> <p>Extends (or crops) the layer rectangle. </p></td> 
  </tr> 
  <tr class="strow"> 
-  <td class="stentry"> <p> <a href="r_is_http_color.md#reference_0FDB264A3AED4BD78451BB55311F6E93" type="reference" format="dita" scope="local"> color</a> </p></td> 
+  <td class="stentry"> <p> <a href="/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-data-types/r-is-http-color.md" type="reference" format="dita" scope="local"> color</a> </p></td> 
   <td class="stentry"> <p>Specifies layer color and opacity. </p></td> 
  </tr> 
  <tr class="strow"> 

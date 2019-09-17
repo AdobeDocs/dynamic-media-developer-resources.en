@@ -18,7 +18,7 @@ These commands can be used to define layer effects, such as drop shadow or glow 
   <td class="stentry"> <p>Specifies the layer blend mode. </p></td> 
  </tr> 
  <tr class="strow"> 
-  <td class="stentry"> <p> <a href="r_is_http_color.md#reference_0FDB264A3AED4BD78451BB55311F6E93" type="reference" format="dita" scope="local"> color</a> </p></td> 
+  <td class="stentry"> <p> <a href="/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-data-types/r-is-http-color.md" type="reference" format="dita" scope="local"> color</a> </p></td> 
   <td class="stentry"> <p>Specifies the principal effect color and opacity. </p></td> 
  </tr> 
  <tr class="strow"> 
@@ -50,4 +50,3 @@ These commands can be used to define layer effects, such as drop shadow or glow 
   <td class="stentry"> <p>Positions the effect layer relative to its parent layer. </p></td> 
  </tr> 
 </table>
-

@@ -65,4 +65,4 @@ Colorize the background area of an image; the image foreground is defined by a s
 
 ## See also {#section-f239d8f4ce70434f8d30e482ed60ee5e}
 
-[color=](r_is_http_color.md#reference_0FDB264A3AED4BD78451BB55311F6E93) , [mask=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-mask.md#reference-922254e027404fb890b850e2723ee06e)  
+[color=](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-data-types/r-is-http-color.md) , [mask=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-mask.md#reference-922254e027404fb890b850e2723ee06e)  
