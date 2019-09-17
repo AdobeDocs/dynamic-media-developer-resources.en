@@ -49,4 +49,4 @@ The text opacity in this example is 90&#42;70/100=63%, and the effect layer opac
 
 ## See also {#section-dbdad35ccd544590b4b11d31a9ab062e}
 
-[color=](r_is_http_color.md#reference_0FDB264A3AED4BD78451BB55311F6E93) , [bgColor=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-bgcolor.md#reference-441371ba4ef54fe781887c5ae448f6ab) 
+[color=](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-data-types/r-is-http-color.md) , [bgColor=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-bgcolor.md#reference-441371ba4ef54fe781887c5ae448f6ab) 
