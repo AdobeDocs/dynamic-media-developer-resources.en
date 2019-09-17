@@ -12,3 +12,5 @@ uuid: 66e9d7e7-bb1e-4f76-abdd-43679abd443b
 
 Information about the macro name and definition parameters.
 
+* [Name](r-name-macro.md)
+* [Definition](r-definition-macro.md)

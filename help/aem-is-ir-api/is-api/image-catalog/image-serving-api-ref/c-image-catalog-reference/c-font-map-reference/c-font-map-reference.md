@@ -17,3 +17,10 @@ Entries in the font map of a specific image catalog will override entries in the
 Image Serving supports Adobe Type 1, OpenType, and TrueType fonts.
 
 `textPs=` also supports CID, ATC, and bitmap fonts. 
+
+* [Bold](r-bold-font.md)
+* [FontPath](r-fontpath-font.md)
+* [Italic](r-italic-font.md)
+* [MetricsPath](r-metricspath-font.md)
+* [Name](r-name-font.md)
+* [PsName](r-psname-font.md)

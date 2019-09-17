@@ -12,3 +12,7 @@ uuid: 1e8af0a9-bc08-4e7f-bab2-344ec644e873
 
 This section describes the static content data attributes.
 
+* [Expiration](r-expiration-static.md)
+* [Id](r-id-static.md)
+* [Path](r-path-static.md)
+* [TimeStamp](r-timestamp-static.md)

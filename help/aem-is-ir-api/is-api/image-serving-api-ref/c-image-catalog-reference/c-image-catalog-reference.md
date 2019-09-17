@@ -12,3 +12,7 @@ uuid: 39d39f42-cd1b-46f5-859c-f32b6b5a20b3
 
 Image catalogs provide information about images and supporting data such as fonts and ICC profiles, to the server.
 
+* [Overview](c-overview.md)
+* [Updating image catalogs](*c-updating-image-catalogs.md)
+* [Default catalog](*c-default-catalog.md)
+* [Catalog attributes](*c-catalog-attributes/c-catalog-attributes.md)

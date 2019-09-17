@@ -12,3 +12,7 @@ uuid: d5c48d0c-b632-44eb-9f41-c5770c468b01
 
 This section describes the SVG data attributes.
 
+* [Expiration](r-expiration-svg.md)
+* [Id](r-id-svg.md)
+* [Path](r-path-svg.md)
+* [TimeStamp](r-timestamp-svg.md)

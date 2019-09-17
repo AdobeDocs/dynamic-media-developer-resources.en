@@ -12,3 +12,8 @@ uuid: adba052d-a88b-4350-a4f8-faf649ca0e60
 
 This section describes the catalog data fields.
 
+* [Image_SVG data](r-image-svg-data.md)
+* [Static contents data](r-static-contents-data.md)
+* [Macro definitions](r-macro-definitions.md)
+* [Font maps](r-font-maps.md)
+* [ICC profile maps](r-icc-profile-maps.md)

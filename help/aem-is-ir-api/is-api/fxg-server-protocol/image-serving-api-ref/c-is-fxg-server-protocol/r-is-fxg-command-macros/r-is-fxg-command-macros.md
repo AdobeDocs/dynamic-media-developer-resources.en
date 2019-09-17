@@ -12,7 +12,7 @@ uuid: f90d5132-aa5b-424f-a123-838723ed891a
 
 Command macros provide named shortcuts for sets of commands.
 
- Macros are defined in separate macro definition files, which can be attached to image catalogs or the default catalog.
+Macros are defined in separate macro definition files, which can be attached to image catalogs or the default catalog.
 
 Macros may be invoked anywhere in a request after the '?', as well as anywhere within a `catalog::Modifier` field. Macros can only represent one or more complete Image Serving commands, thus must be enclosed by '&' separators (except when at the beginning or end of the modifier string).
 
@@ -41,3 +41,5 @@ The macro would be used as follows:
 [!DNL http://server/cat/8243?$view$&wid=480]
 
 Since `wid=` is different for the third request, we simply override the value *after* the macro is invoked (specifying `wid=`*before* `$view$` would not have any effect). 
+
++ [name](r-name.md)
