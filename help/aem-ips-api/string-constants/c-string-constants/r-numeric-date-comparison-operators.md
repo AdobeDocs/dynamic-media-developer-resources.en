@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Numeric/Date Comparison Operators
 topic: Scene7 Image Production System API
 uuid: 95f923df-ba72-4926-a5a4-51cea6d39495
-index: y
-internal: n
-snippet: y
 ---
 
 # Numeric/Date Comparison Operators{#numeric-date-comparison-operators}

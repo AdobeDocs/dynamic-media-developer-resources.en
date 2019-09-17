@@ -6,9 +6,6 @@ solution: Experience Manager
 title: renameFolder
 topic: Scene7 Image Production System API
 uuid: 7d190a57-1d81-4f41-9205-b8ffdf7330ec
-index: y
-internal: n
-snippet: y
 ---
 
 # renameFolder{#renamefolder}

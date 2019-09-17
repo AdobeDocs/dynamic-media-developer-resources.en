@@ -6,9 +6,6 @@ solution: Experience Manager
 title: PostScript Colorspace Modes
 topic: Scene7 Image Production System API
 uuid: 88fb9809-cff6-4a6b-8f45-dec528dce600
-index: y
-internal: n
-snippet: y
 ---
 
 # PostScript Colorspace Modes{#postscript-colorspace-modes}

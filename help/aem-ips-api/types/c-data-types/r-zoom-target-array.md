@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ZoomTargetArray
 topic: Scene7 Image Production System API
 uuid: 6dc21229-33b0-4e10-bcf2-1319016ffded
-index: y
-internal: n
-snippet: y
 ---
 
 # ZoomTargetArray{#zoomtargetarray}

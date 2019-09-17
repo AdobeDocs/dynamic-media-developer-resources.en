@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Defining Scale for 2D Images
 topic: Scene7 Image Authoring
 uuid: c6599b12-84bf-445a-a8ef-f1e0d7dc3f5b
-index: y
-internal: n
-snippet: y
 ---
 
 # Defining Scale for 2D Images{#defining-scale-for-d-images}

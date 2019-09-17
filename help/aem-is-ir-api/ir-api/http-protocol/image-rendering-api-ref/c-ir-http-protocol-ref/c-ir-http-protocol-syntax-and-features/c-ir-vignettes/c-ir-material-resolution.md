@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Material resolution
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 2c37d217-8d49-478e-88d1-7121d0f0419b
-index: y
-internal: n
-snippet: y
 ---
 
 # Material resolution{#material-resolution}

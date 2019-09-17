@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Catalog data fields
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 027ac3d6-3d64-4507-b17f-5ede48d55560
-index: y
-internal: n
-snippet: y
 ---
 
 # Catalog data fields{#catalog-data-fields}

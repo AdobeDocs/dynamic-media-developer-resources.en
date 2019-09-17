@@ -6,9 +6,6 @@ solution: Experience Manager
 title: View transform for images
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 8594f746-0e58-4a59-933c-a44dc0b06c25
-index: y
-internal: n
-snippet: y
 ---
 
 # View transform for images{#view-transform-for-images}

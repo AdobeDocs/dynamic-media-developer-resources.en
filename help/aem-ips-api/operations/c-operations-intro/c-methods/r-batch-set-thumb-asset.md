@@ -6,9 +6,6 @@ solution: Experience Manager
 title: batchSetThumbAsset
 topic: Scene7 Image Production System API
 uuid: 16c298a7-bb07-4643-824b-8f864d7f0290
-index: y
-internal: n
-snippet: y
 ---
 
 # batchSetThumbAsset{#batchsetthumbasset}

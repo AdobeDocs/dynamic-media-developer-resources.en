@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Basic character formatting
 topic: Scene7 Image Serving - Image Rendering API
 uuid: cc8f276a-ebcc-479b-bd86-7ac0dc755f11
-index: y
-internal: n
-snippet: y
 ---
 
 # Basic character formatting{#basic-character-formatting}

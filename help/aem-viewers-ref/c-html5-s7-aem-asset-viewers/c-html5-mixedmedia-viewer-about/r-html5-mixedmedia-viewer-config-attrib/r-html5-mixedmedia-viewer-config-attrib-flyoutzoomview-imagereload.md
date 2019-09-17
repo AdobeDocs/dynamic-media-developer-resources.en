@@ -6,9 +6,6 @@ solution: Experience Manager
 title: FlyoutZoomView.imagereload
 topic: Dynamic media
 uuid: 5cded4cb-7b02-47da-9e2d-b236548cc61d
-index: y
-internal: n
-snippet: y
 ---
 
 # FlyoutZoomView.imagereload{#flyoutzoomview-imagereload}

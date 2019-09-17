@@ -6,9 +6,6 @@ solution: Experience Manager
 title: CabinetInfo
 topic: Scene7 Image Production System API
 uuid: 5193f1e1-90d8-4c9a-b50d-a47a8b859992
-index: y
-internal: n
-snippet: y
 ---
 
 # CabinetInfo{#cabinetinfo}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: VideoPlayer.waiticon
 topic: Dynamic media
 uuid: d57aa367-27cd-4aa2-b1bb-05a29b0c245a
-index: y
-internal: n
-snippet: y
 ---
 
 # VideoPlayer.waiticon{#videoplayer-waiticon}

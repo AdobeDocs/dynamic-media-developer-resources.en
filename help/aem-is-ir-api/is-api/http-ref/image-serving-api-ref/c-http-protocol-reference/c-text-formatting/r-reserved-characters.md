@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Reserved characters
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 3b18da2e-5399-49d0-83c9-66dbf6e7807b
-index: y
-internal: n
-snippet: y
 ---
 
 # Reserved characters{#reserved-characters}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Overcoming Imperfections
 topic: Scene7 Image Authoring
 uuid: a1a226ee-1b8d-4787-aea9-ab0ee0ad6340
-index: y
-internal: n
-snippet: y
 ---
 
 # Overcoming Imperfections{#overcoming-imperfections}

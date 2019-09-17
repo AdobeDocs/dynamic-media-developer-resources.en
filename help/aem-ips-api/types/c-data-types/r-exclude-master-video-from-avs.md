@@ -4,9 +4,6 @@ seo-description: Excludes the master video from the adaptive video set.
 seo-title: ExcludeMasterVideoFromAVS
 title: ExcludeMasterVideoFromAVS
 uuid: 883c6ab0-314d-4257-82bc-0447031e68a4
-index: y
-internal: n
-snippet: y
 ---
 
 # ExcludeMasterVideoFromAVS{#excludemastervideofromavs}

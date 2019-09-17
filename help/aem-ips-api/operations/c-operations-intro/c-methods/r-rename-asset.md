@@ -6,9 +6,6 @@ solution: Experience Manager
 title: renameAsset
 topic: Scene7 Image Production System API
 uuid: f285d7e4-00df-4d90-a05a-71747a4c54cc
-index: y
-internal: n
-snippet: y
 ---
 
 # renameAsset{#renameasset}

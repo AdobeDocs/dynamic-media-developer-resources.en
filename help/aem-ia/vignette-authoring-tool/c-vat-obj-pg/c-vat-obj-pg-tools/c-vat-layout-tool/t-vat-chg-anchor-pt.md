@@ -6,9 +6,6 @@ solution: Experience Manager
 title: To Change the Anchor Point for a Decal Using the Layout Tool
 topic: Scene7 Image Authoring
 uuid: 14647785-f138-4f8f-8483-e940f33630c9
-index: y
-internal: n
-snippet: y
 ---
 
 # To Change the Anchor Point for a Decal Using the Layout Tool{#to-change-the-anchor-point-for-a-decal-using-the-layout-tool}

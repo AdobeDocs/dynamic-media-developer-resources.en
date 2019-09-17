@@ -6,9 +6,6 @@ solution: Experience Manager
 title: setUrlModifier
 topic: Scene7 Image Production System API
 uuid: ec423e57-338b-4a32-be5a-a73fa96712ce
-index: y
-internal: n
-snippet: y
 ---
 
 # setUrlModifier{#seturlmodifier}

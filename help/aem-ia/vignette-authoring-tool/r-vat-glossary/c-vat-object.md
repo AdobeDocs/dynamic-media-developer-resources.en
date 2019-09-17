@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Object
 topic: Scene7 Image Authoring
 uuid: 55290476-d498-40bf-bfd2-93f09cfedeb3
-index: y
-internal: n
-snippet: y
 ---
 
 # Object{#object}

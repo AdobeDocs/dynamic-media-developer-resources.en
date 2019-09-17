@@ -6,9 +6,6 @@ solution: Experience Manager
 title: RTFInfo
 topic: Scene7 Image Production System API
 uuid: cd7744bd-d033-4095-82c7-2a7b7db7e97f
-index: y
-internal: n
-snippet: y
 ---
 
 # RTFInfo{#rtfinfo}

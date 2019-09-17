@@ -6,9 +6,6 @@ solution: Experience Manager
 title: hide
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 15c01750-958a-497d-a999-cacf359bb985
-index: y
-internal: n
-snippet: y
 ---
 
 # hide{#hide}

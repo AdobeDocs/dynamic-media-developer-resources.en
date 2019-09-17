@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Active Job States
 topic: Scene7 Image Production System API
 uuid: 77020ada-cea6-4de2-bb90-8d5cf835c221
-index: y
-internal: n
-snippet: y
 ---
 
 # Active Job States{#active-job-states}

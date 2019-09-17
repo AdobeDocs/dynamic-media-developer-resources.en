@@ -6,9 +6,6 @@ solution: Experience Manager
 title: op_blur
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 8405bbb5-fe09-412e-9b52-0af2c01f48b9
-index: y
-internal: n
-snippet: y
 ---
 
 # op_blur{#op-blur}

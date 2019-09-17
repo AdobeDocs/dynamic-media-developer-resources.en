@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Creating Sketch Features
 topic: Scene7 Image Authoring
 uuid: c8e6b129-3192-4296-a1c8-c90a24368b1b
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating Sketch Features{#creating-sketch-features}

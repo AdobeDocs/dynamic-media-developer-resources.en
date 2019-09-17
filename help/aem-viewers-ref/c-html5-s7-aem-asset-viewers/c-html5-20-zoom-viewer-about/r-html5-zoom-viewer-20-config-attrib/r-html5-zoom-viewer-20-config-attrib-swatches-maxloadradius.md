@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Swatches.maxloadradius
 topic: Dynamic media
 uuid: cff2e7a4-ba88-4248-8e9f-ed1a3b628924
-index: y
-internal: n
-snippet: y
 ---
 
 # Swatches.maxloadradius{#swatches-maxloadradius}

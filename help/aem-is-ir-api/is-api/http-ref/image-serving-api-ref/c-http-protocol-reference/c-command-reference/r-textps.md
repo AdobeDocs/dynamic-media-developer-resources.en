@@ -6,9 +6,6 @@ solution: Experience Manager
 title: textPs
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 45e587b6-8dc8-408c-ade6-d70025fd1117
-index: y
-internal: n
-snippet: y
 ---
 
 # textPs{#textps}

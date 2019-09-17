@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Defining Cabinet Segments
 topic: Scene7 Image Authoring
 uuid: 7e1c1c97-0e10-4dfe-bf7b-f38515802c4c
-index: y
-internal: n
-snippet: y
 ---
 
 # Defining Cabinet Segments{#defining-cabinet-segments}

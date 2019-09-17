@@ -7,9 +7,6 @@ solution: Experience Manager
 title: Customizing Mixed Media Viewer
 topic: Dynamic media
 uuid: 039462a7-2915-48f3-8d4b-0c527801b85a
-index: y
-internal: n
-snippet: y
 ---
 
 # Customizing Mixed Media Viewer{#customizing-mixed-media-viewer}

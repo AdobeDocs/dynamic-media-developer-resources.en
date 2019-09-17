@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Door Object Properties
 topic: Scene7 Image Authoring
 uuid: a651220f-561a-48d8-990c-ced8aa00e5f3
-index: y
-internal: n
-snippet: y
 ---
 
 # Door Object Properties{#door-object-properties}

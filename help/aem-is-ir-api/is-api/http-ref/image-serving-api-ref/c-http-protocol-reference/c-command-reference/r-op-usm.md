@@ -6,9 +6,6 @@ solution: Experience Manager
 title: op_usm
 topic: Scene7 Image Serving - Image Rendering API
 uuid: c647e063-2405-489b-b14d-a70638ac8af7
-index: y
-internal: n
-snippet: y
 ---
 
 # op_usm{#op-usm}

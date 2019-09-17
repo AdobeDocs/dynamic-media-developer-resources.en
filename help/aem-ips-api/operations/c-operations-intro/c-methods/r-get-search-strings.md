@@ -6,9 +6,6 @@ solution: Experience Manager
 title: getSearchStrings
 topic: Scene7 Image Production System API
 uuid: 9d588d6b-c79c-4531-a2e8-8467254a7985
-index: y
-internal: n
-snippet: y
 ---
 
 # getSearchStrings{#getsearchstrings}

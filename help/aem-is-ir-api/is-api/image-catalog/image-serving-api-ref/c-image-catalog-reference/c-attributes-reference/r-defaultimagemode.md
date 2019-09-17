@@ -6,9 +6,6 @@ solution: Experience Manager
 title: DefaultImageMode
 topic: Scene7 Image Serving - Image Rendering API
 uuid: e5640f09-e1e3-473b-8fbc-84c6bfce2460
-index: y
-internal: n
-snippet: y
 ---
 
 # DefaultImageMode{#defaultimagemode}

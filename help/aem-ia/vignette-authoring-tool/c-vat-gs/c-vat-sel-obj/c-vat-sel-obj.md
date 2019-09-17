@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Selecting and changing objects
 topic: Scene7 Image Authoring
 uuid: 9bde26fa-45ee-47e0-9203-2677d91090c7
-index: y
-internal: n
-snippet: y
 ---
 
 # Selecting and changing objects{#selecting-and-changing-objects}

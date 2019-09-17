@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Sizing the Window When You Zoom
 topic: Scene7 Image Authoring
 uuid: 11acc2c2-a0c1-481f-a385-0a3519d30298
-index: y
-internal: n
-snippet: y
 ---
 
 # Sizing the Window When You Zoom{#sizing-the-window-when-you-zoom}

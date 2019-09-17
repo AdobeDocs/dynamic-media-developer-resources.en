@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Swatches.align
 topic: Dynamic media
 uuid: 5cff285b-69f0-4ffe-b165-c2d1fdc8aa75
-index: y
-internal: n
-snippet: y
 ---
 
 # Swatches.align{#swatches-align}

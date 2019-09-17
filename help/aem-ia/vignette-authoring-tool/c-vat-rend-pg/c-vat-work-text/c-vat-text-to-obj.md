@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Aligning Textures to Objects
 topic: Scene7 Image Authoring
 uuid: 39d4424f-f516-437f-a769-094d1439028c
-index: y
-internal: n
-snippet: y
 ---
 
 # Aligning Textures to Objects{#aligning-textures-to-objects}

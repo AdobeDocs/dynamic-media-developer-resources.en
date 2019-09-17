@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Changing the mask color
 topic: Scene7 Image Authoring
 uuid: 65753bf6-0b0d-4119-80a8-85f4c913093d
-index: y
-internal: n
-snippet: y
 ---
 
 # Changing the mask color{#changing-the-mask-color}

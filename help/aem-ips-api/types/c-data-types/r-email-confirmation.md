@@ -6,9 +6,6 @@ solution: Experience Manager
 title: EmailConfirmation
 topic: Scene7 Image Production System API
 uuid: c3b7aada-a03a-418d-80b2-31a86a1af786
-index: y
-internal: n
-snippet: y
 ---
 
 # EmailConfirmation{#emailconfirmation}

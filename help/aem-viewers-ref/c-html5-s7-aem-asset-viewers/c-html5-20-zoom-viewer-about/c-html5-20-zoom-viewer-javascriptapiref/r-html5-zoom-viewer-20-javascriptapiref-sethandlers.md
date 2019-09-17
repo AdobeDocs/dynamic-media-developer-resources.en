@@ -6,9 +6,6 @@ solution: Experience Manager
 title: setHandlers
 topic: Dynamic media
 uuid: d69160bf-b4de-4cde-8173-bf4da601a265
-index: y
-internal: n
-snippet: y
 ---
 
 # setHandlers{#sethandlers}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Exporting to Photoshop
 topic: Scene7 Image Authoring
 uuid: 11243830-21d4-4f12-8c61-56ac4689e82a
-index: y
-internal: n
-snippet: y
 ---
 
 # Exporting to Photoshop{#exporting-to-photoshop}

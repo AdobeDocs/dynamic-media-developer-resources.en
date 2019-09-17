@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Deleting or replacing source data files
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 13dc0489-7ab0-481e-b213-214affe9819e
-index: y
-internal: n
-snippet: y
 ---
 
 # Deleting or replacing source data files{#deleting-or-replacing-source-data-files}

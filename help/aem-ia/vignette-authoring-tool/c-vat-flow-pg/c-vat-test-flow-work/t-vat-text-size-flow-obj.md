@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Changing the Texture Size for Flowline Objects
 topic: Scene7 Image Authoring
 uuid: 0bcbb0ab-527b-4585-bfc9-6b01511077b3
-index: y
-internal: n
-snippet: y
 ---
 
 # Changing the Texture Size for Flowline Objects{#changing-the-texture-size-for-flowline-objects}

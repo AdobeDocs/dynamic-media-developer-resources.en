@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Clone Brush
 topic: Scene7 Image Authoring
 uuid: 580823e6-b1fc-4bd4-b970-0786d160ba2e
-index: y
-internal: n
-snippet: y
 ---
 
 # The Clone Brush{#the-clone-brush}

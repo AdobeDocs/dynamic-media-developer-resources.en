@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Full Screen Support
 topic: Dynamic media
 uuid: 13a26956-157c-4562-877b-2ef09592f36d
-index: y
-internal: n
-snippet: y
 ---
 
 # Full Screen Support{#full-screen-support}

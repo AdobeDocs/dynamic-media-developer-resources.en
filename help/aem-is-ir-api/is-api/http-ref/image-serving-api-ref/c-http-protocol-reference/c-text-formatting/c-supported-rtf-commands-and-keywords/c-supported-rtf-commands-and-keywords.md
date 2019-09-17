@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Supported RTF commands and keywords
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 0b77d0c5-c4cc-4de7-b51d-6f2ca02316f5
-index: y
-internal: n
-snippet: y
 ---
 
 # Supported RTF commands and keywords{#supported-rtf-commands-and-keywords}

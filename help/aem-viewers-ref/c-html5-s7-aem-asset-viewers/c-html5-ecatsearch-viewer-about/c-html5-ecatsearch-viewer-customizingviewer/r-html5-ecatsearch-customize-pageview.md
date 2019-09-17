@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Page view
 topic: Dynamic media
 uuid: f585bf57-c66a-4213-a2af-d9625beb5bed
-index: y
-internal: n
-snippet: y
 ---
 
 # Page view{#page-view}

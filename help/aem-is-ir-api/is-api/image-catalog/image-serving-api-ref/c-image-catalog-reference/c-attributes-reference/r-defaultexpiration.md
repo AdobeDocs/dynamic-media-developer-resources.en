@@ -6,9 +6,6 @@ solution: Experience Manager
 title: DefaultExpiration
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 5266bff9-f20b-4b3b-9566-8a3f5ba0777a
-index: y
-internal: n
-snippet: y
 ---
 
 # DefaultExpiration{#defaultexpiration}

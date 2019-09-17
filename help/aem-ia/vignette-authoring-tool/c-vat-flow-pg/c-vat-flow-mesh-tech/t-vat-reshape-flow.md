@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Reshaping Flowlines
 topic: Scene7 Image Authoring
 uuid: eb220012-8cb9-40f1-8242-25f33a550925
-index: y
-internal: n
-snippet: y
 ---
 
 # Reshaping Flowlines{#reshaping-flowlines}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: setImageSetMembers
 topic: Scene7 Image Production System API
 uuid: 84a73ff4-e93f-4764-80e8-e15f1fec1aeb
-index: y
-internal: n
-snippet: y
 ---
 
 # setImageSetMembers{#setimagesetmembers}

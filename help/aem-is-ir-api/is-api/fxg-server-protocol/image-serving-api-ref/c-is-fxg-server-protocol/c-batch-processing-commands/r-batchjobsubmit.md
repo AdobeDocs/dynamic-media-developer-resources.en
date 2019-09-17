@@ -6,9 +6,6 @@ solution: Experience Manager
 title: batchjobsubmit
 topic: Scene7 Image Serving - Image Rendering API
 uuid: eb695666-fcaf-40bc-8b56-452819f058d2
-index: y
-internal: n
-snippet: y
 ---
 
 # batchjobsubmit{#batchjobsubmit}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Designing a Hierarchy for Dynamic Rendering
 topic: Scene7 Image Authoring
 uuid: d7670918-144a-4f62-8579-832d9d80ea9d
-index: y
-internal: n
-snippet: y
 ---
 
 # Designing a Hierarchy for Dynamic Rendering{#designing-a-hierarchy-for-dynamic-rendering}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Swatches.textpos
 topic: Dynamic media
 uuid: 1ad94058-4dca-40b9-a694-a6c1452880c1
-index: y
-internal: n
-snippet: y
 ---
 
 # Swatches.textpos{#swatches-textpos}

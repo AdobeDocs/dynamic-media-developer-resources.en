@@ -7,9 +7,6 @@ solution: Experience Manager
 title: Customizing Zoom Viewer
 topic: Dynamic media
 uuid: 7ecbc4cc-b5c0-4f4a-b747-03c484de6851
-index: y
-internal: n
-snippet: y
 ---
 
 # Customizing Zoom Viewer{#customizing-zoom-viewer}

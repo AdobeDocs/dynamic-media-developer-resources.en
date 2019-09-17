@@ -6,9 +6,6 @@ solution: Experience Manager
 title: bgColor
 topic: Scene7 Image Serving - Image Rendering API
 uuid: bcbd368f-d200-4b1f-8e9f-bf4d88f14b72
-index: y
-internal: n
-snippet: y
 ---
 
 # bgColor{#bgcolor}

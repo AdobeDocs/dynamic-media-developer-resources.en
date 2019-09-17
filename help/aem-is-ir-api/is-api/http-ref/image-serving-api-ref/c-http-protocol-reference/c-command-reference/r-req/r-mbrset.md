@@ -6,9 +6,6 @@ solution: Experience Manager
 title: mbrSet
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 829c44ce-c66a-49a9-ba69-9e8e94ef8921
-index: y
-internal: n
-snippet: y
 ---
 
 # mbrSet{#mbrset}

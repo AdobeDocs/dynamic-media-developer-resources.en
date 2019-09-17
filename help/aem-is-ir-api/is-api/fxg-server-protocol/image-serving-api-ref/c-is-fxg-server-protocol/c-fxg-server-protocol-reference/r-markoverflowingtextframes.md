@@ -6,9 +6,6 @@ solution: Experience Manager
 title: markOverflowingTextFrames
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 90237128-8d29-45cc-90e8-7fe46c1dae38
-index: y
-internal: n
-snippet: y
 ---
 
 # markOverflowingTextFrames{#markoverflowingtextframes}

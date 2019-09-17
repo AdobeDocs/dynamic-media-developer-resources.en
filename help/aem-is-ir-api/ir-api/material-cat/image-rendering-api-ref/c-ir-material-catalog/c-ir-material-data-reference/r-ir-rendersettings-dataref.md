@@ -6,9 +6,6 @@ solution: Experience Manager
 title: RenderSettings
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 19823ca5-51a1-4885-b578-d7c9852acab6
-index: y
-internal: n
-snippet: y
 ---
 
 # RenderSettings{#rendersettings}

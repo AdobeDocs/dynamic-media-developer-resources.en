@@ -6,9 +6,6 @@ solution: Experience Manager
 title: UrlArray
 topic: Scene7 Image Production System API
 uuid: 59568d38-6e05-45ca-8054-cec2c5ea8c02
-index: y
-internal: n
-snippet: y
 ---
 
 # UrlArray{#urlarray}

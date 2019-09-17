@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Cabinet Options
 topic: Scene7 Image Authoring
 uuid: 215c5aa1-4173-49e6-a678-91c2f4c94556
-index: y
-internal: n
-snippet: y
 ---
 
 # Cabinet Options{#cabinet-options}

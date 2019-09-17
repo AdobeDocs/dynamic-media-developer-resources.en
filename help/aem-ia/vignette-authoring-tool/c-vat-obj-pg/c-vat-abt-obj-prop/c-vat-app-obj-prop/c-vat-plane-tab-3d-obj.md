@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Plane Tab for 3D Objects
 topic: Scene7 Image Authoring
 uuid: b3de78ae-1bdf-46b3-b0cf-36853a390355
-index: y
-internal: n
-snippet: y
 ---
 
 # Plane Tab for 3D Objects{#plane-tab-for-d-objects}

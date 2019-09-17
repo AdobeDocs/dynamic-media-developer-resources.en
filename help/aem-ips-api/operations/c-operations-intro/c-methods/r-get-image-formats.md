@@ -6,9 +6,6 @@ solution: Experience Manager
 title: getImageFormats
 topic: Scene7 Image Production System API
 uuid: 0adf989d-9c72-4337-99c0-de6931943e78
-index: y
-internal: n
-snippet: y
 ---
 
 # getImageFormats{#getimageformats}

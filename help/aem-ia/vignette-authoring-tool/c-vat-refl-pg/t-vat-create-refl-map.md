@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Creating the Reflection Map
 topic: Scene7 Image Authoring
 uuid: 2fc9bc9e-407e-43df-b075-fc8ca6a5214f
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating the Reflection Map{#creating-the-reflection-map}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Video360 player
 topic: Dynamic media
 uuid: e78a9c22-4217-42cc-ba47-3acb4130a4fd
-index: y
-internal: n
-snippet: y
 ---
 
 # Video360 player{#video-player}

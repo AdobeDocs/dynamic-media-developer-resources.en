@@ -6,9 +6,6 @@ solution: Experience Manager
 title: AutoColorCropOptions
 topic: Scene7 Image Production System API
 uuid: 632ae721-7b39-4cd1-a1c6-1a3554167a4e
-index: y
-internal: n
-snippet: y
 ---
 
 # AutoColorCropOptions{#autocolorcropoptions}

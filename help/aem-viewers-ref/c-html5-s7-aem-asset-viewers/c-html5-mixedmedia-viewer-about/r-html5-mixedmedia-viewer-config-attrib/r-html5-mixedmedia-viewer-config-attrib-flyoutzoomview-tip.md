@@ -6,9 +6,6 @@ solution: Experience Manager
 title: FlyoutZoomView.tip
 topic: Dynamic media
 uuid: 16a0ca99-1ed5-4f1d-b068-55adc46fde0b
-index: y
-internal: n
-snippet: y
 ---
 
 # FlyoutZoomView.tip{#flyoutzoomview-tip}

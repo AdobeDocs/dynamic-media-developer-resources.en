@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Image Serving color management
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 6291372e-ec4c-4fbd-bffc-b55b1bf2f8cf
-index: y
-internal: n
-snippet: y
 ---
 
 # Image Serving color management{#image-serving-color-management}

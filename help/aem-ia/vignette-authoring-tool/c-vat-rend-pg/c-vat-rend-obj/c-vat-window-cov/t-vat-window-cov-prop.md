@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Changing Window Covering Frame Properties
 topic: Scene7 Image Authoring
 uuid: 05055b1d-b4f7-4955-b6cb-1438ccc036f2
-index: y
-internal: n
-snippet: y
 ---
 
 # Changing Window Covering Frame Properties{#changing-window-covering-frame-properties}

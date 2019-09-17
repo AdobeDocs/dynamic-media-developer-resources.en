@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Static contents data
 topic: Scene7 Image Serving - Image Rendering API
 uuid: a890ffef-55b2-4880-afa5-ced8598642d1
-index: y
-internal: n
-snippet: y
 ---
 
 # Static contents data{#static-contents-data}

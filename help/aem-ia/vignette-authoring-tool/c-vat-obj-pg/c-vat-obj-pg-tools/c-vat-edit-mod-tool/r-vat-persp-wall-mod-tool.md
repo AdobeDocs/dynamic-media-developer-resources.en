@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Setting the Perspective for a Wall with the Model Tool
 topic: Scene7 Image Authoring
 uuid: 0cf93f47-b0ce-4be8-8bf8-f6ef32f22071
-index: y
-internal: n
-snippet: y
 ---
 
 # Setting the Perspective for a Wall with the Model Tool{#setting-the-perspective-for-a-wall-with-the-model-tool}

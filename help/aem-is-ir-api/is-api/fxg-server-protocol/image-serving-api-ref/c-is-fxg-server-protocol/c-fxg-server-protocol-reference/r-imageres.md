@@ -6,9 +6,6 @@ solution: Experience Manager
 title: imageRes
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 9fd252b8-2956-4618-85dd-a47fc836639c
-index: y
-internal: n
-snippet: y
 ---
 
 # imageRes{#imageres}

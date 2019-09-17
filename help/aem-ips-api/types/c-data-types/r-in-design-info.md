@@ -6,9 +6,6 @@ solution: Experience Manager
 title: InDesignInfo
 topic: Scene7 Image Production System API
 uuid: d734bbe2-0bc4-46f4-b4a0-8c39949e8d46
-index: y
-internal: n
-snippet: y
 ---
 
 # InDesignInfo{#indesigninfo}

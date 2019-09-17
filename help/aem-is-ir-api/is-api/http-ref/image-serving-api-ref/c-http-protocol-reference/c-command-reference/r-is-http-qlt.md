@@ -6,9 +6,6 @@ solution: Experience Manager
 title: qlt
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 9f69845d-3b25-41a7-b6c0-83cf1d2bc450
-index: y
-internal: n
-snippet: y
 ---
 
 # qlt{#qlt}

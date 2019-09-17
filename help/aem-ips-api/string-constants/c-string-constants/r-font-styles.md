@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Font Styles
 topic: Scene7 Image Production System API
 uuid: aa4a03d5-e1d0-45cb-9c53-27d59fd391e4
-index: y
-internal: n
-snippet: y
 ---
 
 # Font Styles{#font-styles}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Reflections
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 6d86f566-0f02-4304-8a6c-08b1a2e9c72e
-index: y
-internal: n
-snippet: y
 ---
 
 # Reflections{#reflections}

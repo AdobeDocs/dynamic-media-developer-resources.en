@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Image Server examples
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 0db0350f-017b-43d8-8dbb-69234b21a747
-index: y
-internal: n
-snippet: y
 ---
 
 # Image Server examples{#image-server-examples}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Importing a Mask
 topic: Scene7 Image Authoring
 uuid: aa097645-0329-46e7-b762-ad9406a3712b
-index: y
-internal: n
-snippet: y
 ---
 
 # Importing a Mask{#importing-a-mask}

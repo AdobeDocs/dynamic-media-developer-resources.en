@@ -6,9 +6,6 @@ solution: Experience Manager
 title: deleteProject
 topic: Scene7 Image Production System API
 uuid: 0915066f-2106-4cbc-a68a-f149810c24f8
-index: y
-internal: n
-snippet: y
 ---
 
 # deleteProject{#deleteproject}

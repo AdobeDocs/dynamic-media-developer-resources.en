@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Hotspots
 topic: Dynamic media
 uuid: 79c4d128-e24a-43b0-8e18-13b588eb396e
-index: y
-internal: n
-snippet: y
 ---
 
 # Hotspots{#hotspots}

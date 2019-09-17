@@ -6,9 +6,6 @@ solution: Experience Manager
 title: mediaMargin
 topic: Scene7 Image Serving - Image Rendering API
 uuid: e72f4791-d5c7-4b4d-90dd-39b478640abd
-index: y
-internal: n
-snippet: y
 ---
 
 # mediaMargin{#mediamargin}

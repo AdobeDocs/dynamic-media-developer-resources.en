@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Request locking
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 03239376-1e40-48d2-a396-c276802854ed
-index: y
-internal: n
-snippet: y
 ---
 
 # Request locking{#request-locking}

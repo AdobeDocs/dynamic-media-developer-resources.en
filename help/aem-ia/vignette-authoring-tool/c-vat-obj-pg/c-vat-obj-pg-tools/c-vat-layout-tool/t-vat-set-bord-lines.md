@@ -6,9 +6,6 @@ solution: Experience Manager
 title: To Set Border Lines for a Wall
 topic: Scene7 Image Authoring
 uuid: 9b07a0e8-5454-4fe1-a79a-bff004e7d912
-index: y
-internal: n
-snippet: y
 ---
 
 # To Set Border Lines for a Wall{#to-set-border-lines-for-a-wall}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: checkLogin
 topic: Scene7 Image Production System API
 uuid: 69f9e5f6-50c2-403d-93b2-b84a01f512a9
-index: y
-internal: n
-snippet: y
 ---
 
 # checkLogin{#checklogin}

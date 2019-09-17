@@ -6,9 +6,6 @@ solution: Experience Manager
 title: BatchMetadataUpdateArray
 topic: Scene7 Image Production System API
 uuid: f095fd2a-025f-4a12-9637-d49d3324955c
-index: y
-internal: n
-snippet: y
 ---
 
 # BatchMetadataUpdateArray{#batchmetadataupdatearray}

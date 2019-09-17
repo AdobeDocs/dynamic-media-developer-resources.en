@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ZoomView.enableHD
 topic: Dynamic media
 uuid: 1d64e161-761e-4f43-bb05-3a0edc5a3c60
-index: y
-internal: n
-snippet: y
 ---
 
 # ZoomView.enableHD{#zoomview-enablehd}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: createViewerPreset
 topic: Scene7 Image Production System API
 uuid: 4160d2b0-6147-459f-830a-43c99b8dc196
-index: y
-internal: n
-snippet: y
 ---
 
 # createViewerPreset{#createviewerpreset}

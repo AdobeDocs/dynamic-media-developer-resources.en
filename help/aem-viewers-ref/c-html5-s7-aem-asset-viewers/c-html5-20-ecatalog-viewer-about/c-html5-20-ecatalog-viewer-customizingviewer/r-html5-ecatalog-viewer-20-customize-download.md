@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Download
 topic: Dynamic media
 uuid: 0a6c2362-6c2a-42cc-b274-377aa507a557
-index: y
-internal: n
-snippet: y
 ---
 
 # Download{#download}

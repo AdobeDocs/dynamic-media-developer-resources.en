@@ -6,9 +6,6 @@ solution: Experience Manager
 title: setVideo
 topic: Dynamic media
 uuid: 0a1b3caa-ded6-4020-962c-41c3ece0a865
-index: y
-internal: n
-snippet: y
 ---
 
 # setVideo{#setvideo}

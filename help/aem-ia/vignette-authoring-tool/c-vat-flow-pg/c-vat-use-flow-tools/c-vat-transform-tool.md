@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Transform Tool
 topic: Scene7 Image Authoring
 uuid: 01e72eb6-a5bd-4415-8160-501abbbcc26c
-index: y
-internal: n
-snippet: y
 ---
 
 # The Transform Tool{#the-transform-tool}

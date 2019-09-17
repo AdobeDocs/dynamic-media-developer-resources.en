@@ -6,9 +6,6 @@ solution: Experience Manager
 title: PublishInfo
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 2bcd65b8-2f3e-4652-b346-a850900e8c7b
-index: y
-internal: n
-snippet: y
 ---
 
 # PublishInfo{#publishinfo}

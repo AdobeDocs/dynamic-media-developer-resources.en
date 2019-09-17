@@ -6,9 +6,6 @@ solution: Experience Manager
 title: To Examine an Individual Row in the Histogram
 topic: Scene7 Image Authoring
 uuid: 847c8ec5-c6e1-4d49-94ff-9cbdbb751866
-index: y
-internal: n
-snippet: y
 ---
 
 # To Examine an Individual Row in the Histogram{#to-examine-an-individual-row-in-the-histogram}

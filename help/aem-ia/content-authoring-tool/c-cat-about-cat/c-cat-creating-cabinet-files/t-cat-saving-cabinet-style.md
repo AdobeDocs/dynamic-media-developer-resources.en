@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Saving Your Cabinet Style
 topic: Scene7 Image Authoring
 uuid: ede13b14-ee7e-4851-82ee-cf2d5fa7d19f
-index: y
-internal: n
-snippet: y
 ---
 
 # Saving Your Cabinet Style{#saving-your-cabinet-style}

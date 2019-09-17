@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ManualCropOptions
 topic: Scene7 Image Production System API
 uuid: ac3710d9-14b0-4e2f-90a5-f66fe37851ab
-index: y
-internal: n
-snippet: y
 ---
 
 # ManualCropOptions{#manualcropoptions}

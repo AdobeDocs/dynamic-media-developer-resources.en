@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Layer transforms
 topic: Scene7 Image Serving - Image Rendering API
 uuid: b32b5af4-66ad-474a-9bca-4b6da8f43bf9
-index: y
-internal: n
-snippet: y
 ---
 
 # Layer transforms{#layer-transforms}

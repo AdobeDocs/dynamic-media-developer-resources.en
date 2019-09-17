@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Twitter share
 topic: Dynamic media
 uuid: c16ce881-e5d5-4864-bfad-69b4c9b51a21
-index: y
-internal: n
-snippet: y
 ---
 
 # Twitter share{#twitter-share}

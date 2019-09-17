@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Changing the Width of the Side Menu Area
 topic: Scene7 Image Authoring
 uuid: ad1fe477-7a2c-438b-854c-1a6072d6caa1
-index: y
-internal: n
-snippet: y
 ---
 
 # Changing the Width of the Side Menu Area{#changing-the-width-of-the-side-menu-area}

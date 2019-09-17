@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Returns
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 06c216c9-7618-439c-9900-1cdf1b3ba06f
-index: y
-internal: n
-snippet: y
 ---
 
 # Returns{#returns}

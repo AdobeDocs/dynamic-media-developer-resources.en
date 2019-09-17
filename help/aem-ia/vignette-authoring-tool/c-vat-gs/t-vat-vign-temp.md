@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Using a Vignette as a Template
 topic: Scene7 Image Authoring
 uuid: 5d9adbe2-92e1-4eff-8d44-ba94df03da7b
-index: y
-internal: n
-snippet: y
 ---
 
 # Using a Vignette as a Template{#using-a-vignette-as-a-template}

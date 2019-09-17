@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Favorites menu
 topic: Dynamic media
 uuid: 46de2a74-690e-4010-8a71-54206dd02fd0
-index: y
-internal: n
-snippet: y
 ---
 
 # Favorites menu{#favorites-menu}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Facebook share
 topic: Dynamic media
 uuid: 614e7a06-90b6-4fe0-9ecf-be97881ec6d1
-index: y
-internal: n
-snippet: y
 ---
 
 # Facebook share{#facebook-share}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Compatibility notes
 topic: Dynamic media
 uuid: cf732a03-bfaa-4838-862f-73343cefbd67
-index: y
-internal: n
-snippet: y
 ---
 
 # Compatibility notes{#compatibility-notes}

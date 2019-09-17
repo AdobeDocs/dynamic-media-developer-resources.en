@@ -6,9 +6,6 @@ solution: Experience Manager
 title: IccProfileInfo
 topic: Scene7 Image Production System API
 uuid: 5266c727-136e-4eeb-85b0-739e4dd9b731
-index: y
-internal: n
-snippet: y
 ---
 
 # IccProfileInfo{#iccprofileinfo}

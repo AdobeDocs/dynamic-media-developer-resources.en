@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Asset Sort Fields
 topic: Scene7 Image Production System API
 uuid: d7db11e4-3acf-457d-9708-64167fbea899
-index: y
-internal: n
-snippet: y
 ---
 
 # Asset Sort Fields{#asset-sort-fields}

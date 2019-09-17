@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Texture Tool
 topic: Scene7 Image Authoring
 uuid: 488189c1-f4a2-4808-a077-e65299eea858
-index: y
-internal: n
-snippet: y
 ---
 
 # The Texture Tool{#the-texture-tool}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Navigating in the 3D Modeling Page
 topic: Scene7 Image Authoring
 uuid: fdeb77e3-c368-440e-ac71-389dc1801f76
-index: y
-internal: n
-snippet: y
 ---
 
 # Navigating in the 3D Modeling Page{#navigating-in-the-d-modeling-page}

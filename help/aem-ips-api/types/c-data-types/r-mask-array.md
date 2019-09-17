@@ -6,9 +6,6 @@ solution: Experience Manager
 title: MaskArray
 topic: Scene7 Image Production System API
 uuid: c57fcdae-2cad-48ca-8ade-bb81efee142c
-index: y
-internal: n
-snippet: y
 ---
 
 # MaskArray{#maskarray}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: deleteAsset
 topic: Scene7 Image Production System API
 uuid: 47f700e0-04bf-4d33-a18a-d938f7e9e326
-index: y
-internal: n
-snippet: y
 ---
 
 # deleteAsset{#deleteasset}

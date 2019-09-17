@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Zoom out button
 topic: Dynamic media
 uuid: 2e95855a-c3af-4a79-a33a-f27d88dc14a4
-index: y
-internal: n
-snippet: y
 ---
 
 # Zoom out button{#zoom-out-button}

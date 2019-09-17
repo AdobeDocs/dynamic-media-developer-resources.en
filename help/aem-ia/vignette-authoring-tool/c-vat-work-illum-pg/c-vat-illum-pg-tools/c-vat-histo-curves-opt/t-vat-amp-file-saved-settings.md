@@ -6,9 +6,6 @@ solution: Experience Manager
 title: To Use an .amp File Containing Saved Settings
 topic: Scene7 Image Authoring
 uuid: 34867e1f-ca30-401e-8028-3795ecc942b8
-index: y
-internal: n
-snippet: y
 ---
 
 # To Use an .amp File Containing Saved Settings{#to-use-an-amp-file-containing-saved-settings}

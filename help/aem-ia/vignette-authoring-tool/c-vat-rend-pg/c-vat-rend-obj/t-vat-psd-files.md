@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Batch Rendering PSD Files
 topic: Scene7 Image Authoring
 uuid: fbba96c1-4a29-41fa-9bb1-df9a61b19976
-index: y
-internal: n
-snippet: y
 ---
 
 # Batch Rendering PSD Files{#batch-rendering-psd-files}

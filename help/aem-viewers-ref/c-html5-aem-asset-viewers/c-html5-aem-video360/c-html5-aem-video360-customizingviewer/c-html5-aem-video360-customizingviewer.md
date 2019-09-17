@@ -7,9 +7,6 @@ solution: Experience Manager
 title: Customizing Video360 Viewer
 topic: Dynamic media
 uuid: 1f021a11-856e-4bbc-a2ee-454ab0a60adb
-index: y
-internal: n
-snippet: y
 ---
 
 # Customizing Video360 Viewer{#customizing-video-viewer}

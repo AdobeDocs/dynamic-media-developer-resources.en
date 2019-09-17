@@ -6,9 +6,6 @@ solution: Experience Manager
 title: To Create a Full Repeat from a Half-Drop Repeat
 topic: Scene7 Image Authoring
 uuid: d3ae3093-a7b2-42d7-b08b-0a40736f436d
-index: y
-internal: n
-snippet: y
 ---
 
 # To Create a Full Repeat from a Half-Drop Repeat{#to-create-a-full-repeat-from-a-half-drop-repeat}

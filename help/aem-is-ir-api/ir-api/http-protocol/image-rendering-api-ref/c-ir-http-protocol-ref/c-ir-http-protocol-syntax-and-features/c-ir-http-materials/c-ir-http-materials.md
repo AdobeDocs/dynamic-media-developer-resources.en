@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Materials
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 82284e25-cfe0-4cf8-b410-b49196cc721c
-index: y
-internal: n
-snippet: y
 ---
 
 # Materials{#materials}

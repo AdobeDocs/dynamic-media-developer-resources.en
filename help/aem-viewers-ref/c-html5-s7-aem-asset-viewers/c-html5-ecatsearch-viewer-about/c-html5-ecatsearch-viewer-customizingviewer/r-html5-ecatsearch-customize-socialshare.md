@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Social share
 topic: Dynamic media
 uuid: 6d463eb1-c6bf-4f1c-90e4-b5ef1e5a1538
-index: y
-internal: n
-snippet: y
 ---
 
 # Social share{#social-share}

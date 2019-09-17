@@ -6,9 +6,6 @@ solution: Experience Manager
 title: CallToAction.scrollbar
 topic: Dynamic media
 uuid: 20b14257-da2f-4557-a732-b14421b0eb7e
-index: y
-internal: n
-snippet: y
 ---
 
 # CallToAction.scrollbar{#calltoaction-scrollbar}

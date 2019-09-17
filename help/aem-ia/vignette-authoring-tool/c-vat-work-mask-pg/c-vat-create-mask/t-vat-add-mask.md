@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Adding a mask
 topic: Scene7 Image Authoring
 uuid: 0ddc702f-b648-42fa-bd20-15bd04288e41
-index: y
-internal: n
-snippet: y
 ---
 
 # Adding a mask{#adding-a-mask}

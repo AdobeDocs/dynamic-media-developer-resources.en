@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ActiveJob
 topic: Scene7 Image Production System API
 uuid: d7120a88-6f3e-4844-aafa-83d419470fad
-index: y
-internal: n
-snippet: y
 ---
 
 # ActiveJob{#activejob}

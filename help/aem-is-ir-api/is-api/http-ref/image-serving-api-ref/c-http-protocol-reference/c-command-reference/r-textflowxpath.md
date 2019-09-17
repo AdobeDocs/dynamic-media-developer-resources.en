@@ -6,9 +6,6 @@ solution: Experience Manager
 title: textFlowXPath
 topic: Scene7 Image Serving - Image Rendering API
 uuid: ce833ae7-e774-4954-a521-b6247e75f6eb
-index: y
-internal: n
-snippet: y
 ---
 
 # textFlowXPath{#textflowxpath}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: setAssetsContextState
 topic: Scene7 Image Production System API
 uuid: 4b94f9ea-3f7b-45ee-9381-6434f2bc4e31
-index: y
-internal: n
-snippet: y
 ---
 
 # setAssetsContextState{#setassetscontextstate}

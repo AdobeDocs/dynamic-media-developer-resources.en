@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Changing the Blur Filter
 topic: Scene7 Image Authoring
 uuid: 509126c3-5d80-40f4-a371-ca0a842a0dd3
-index: y
-internal: n
-snippet: y
 ---
 
 # Changing the Blur Filter{#changing-the-blur-filter}

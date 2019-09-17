@@ -6,9 +6,6 @@ solution: Experience Manager
 title: layer
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 882309b3-51d7-477e-bd09-068ce9e55eb5
-index: y
-internal: n
-snippet: y
 ---
 
 # layer{#layer}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: updateFolderPermissions
 topic: Scene7 Image Production System API
 uuid: 940d7b63-80cf-4097-9cf9-8499b69181b7
-index: y
-internal: n
-snippet: y
 ---
 
 # updateFolderPermissions{#updatefolderpermissions}

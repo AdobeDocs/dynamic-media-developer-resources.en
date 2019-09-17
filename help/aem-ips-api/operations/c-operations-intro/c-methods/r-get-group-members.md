@@ -6,9 +6,6 @@ solution: Experience Manager
 title: getGroupMembers
 topic: Scene7 Image Production System API
 uuid: 02322b66-1c0c-4d84-a3eb-97a4fb605318
-index: y
-internal: n
-snippet: y
 ---
 
 # getGroupMembers{#getgroupmembers}

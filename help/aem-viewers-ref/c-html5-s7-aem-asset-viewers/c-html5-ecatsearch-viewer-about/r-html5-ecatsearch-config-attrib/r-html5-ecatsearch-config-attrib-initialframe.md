@@ -6,9 +6,6 @@ solution: Experience Manager
 title: InitialFrame
 topic: Dynamic media
 uuid: 3f805ef8-f5c4-42a1-952e-a21a0854446e
-index: y
-internal: n
-snippet: y
 ---
 
 # InitialFrame{#initialframe}

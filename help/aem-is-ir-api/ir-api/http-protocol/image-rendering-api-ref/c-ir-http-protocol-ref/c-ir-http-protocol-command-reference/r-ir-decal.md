@@ -6,9 +6,6 @@ solution: Experience Manager
 title: decal
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 3a164f92-b0fc-4698-8aaa-934f029437c0
-index: y
-internal: n
-snippet: y
 ---
 
 # decal{#decal}

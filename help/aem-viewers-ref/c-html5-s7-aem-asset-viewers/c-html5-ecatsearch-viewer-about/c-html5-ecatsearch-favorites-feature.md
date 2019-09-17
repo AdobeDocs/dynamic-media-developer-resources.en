@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Search feature
 topic: Dynamic media
 uuid: eb8e79fa-893b-402c-a937-6d7121c95821
-index: y
-internal: n
-snippet: y
 ---
 
 # Search feature{#search-feature}

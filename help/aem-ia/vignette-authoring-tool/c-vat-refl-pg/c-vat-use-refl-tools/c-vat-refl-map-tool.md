@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Reflection Map Tool
 topic: Scene7 Image Authoring
 uuid: 76865a53-9ab5-4b71-999b-beeb5a62830f
-index: y
-internal: n
-snippet: y
 ---
 
 # The Reflection Map Tool{#the-reflection-map-tool}

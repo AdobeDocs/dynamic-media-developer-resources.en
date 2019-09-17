@@ -6,9 +6,6 @@ solution: Experience Manager
 title: TaskProgress
 topic: Scene7 Image Production System API
 uuid: b3b67803-147a-48a3-acc3-d608e01e0800
-index: y
-internal: n
-snippet: y
 ---
 
 # TaskProgress{#taskprogress}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: updateMetadataField
 topic: Scene7 Image Production System API
 uuid: 8712b09b-b02a-4fb3-a0ed-084dc48a717a
-index: y
-internal: n
-snippet: y
 ---
 
 # updateMetadataField{#updatemetadatafield}

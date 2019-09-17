@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Miscellaneous commands
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 31718b04-f09c-4103-8ccb-6818f91a1e32
-index: y
-internal: n
-snippet: y
 ---
 
 # Miscellaneous commands{#miscellaneous-commands}

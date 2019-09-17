@@ -6,9 +6,6 @@ solution: Experience Manager
 title: User Sort Fields
 topic: Scene7 Image Production System API
 uuid: df7fb1be-ab5e-4d0d-a000-ce29b45ac41f
-index: y
-internal: n
-snippet: y
 ---
 
 # User Sort Fields{#user-sort-fields}

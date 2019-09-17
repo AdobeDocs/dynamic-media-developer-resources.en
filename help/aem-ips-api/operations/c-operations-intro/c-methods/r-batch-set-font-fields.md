@@ -6,9 +6,6 @@ solution: Experience Manager
 title: batchSetFontFields
 topic: Scene7 Image Production System API
 uuid: 0209865e-32b3-4bea-a508-05771a0365e1
-index: y
-internal: n
-snippet: y
 ---
 
 # batchSetFontFields{#batchsetfontfields}

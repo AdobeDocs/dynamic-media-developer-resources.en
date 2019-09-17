@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Creating an Image Map
 topic: Scene7 Image Authoring
 uuid: 69111edb-a619-4ee8-b3e4-ea1be1c9903a
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating an Image Map{#creating-an-image-map}

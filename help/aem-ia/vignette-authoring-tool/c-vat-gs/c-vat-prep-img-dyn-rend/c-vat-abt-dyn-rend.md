@@ -6,9 +6,6 @@ solution: Experience Manager
 title: About Dynamic Rendering
 topic: Scene7 Image Authoring
 uuid: cb8d28ca-832c-42db-adc3-498c0043c86c
-index: y
-internal: n
-snippet: y
 ---
 
 # About Dynamic Rendering{#about-dynamic-rendering}

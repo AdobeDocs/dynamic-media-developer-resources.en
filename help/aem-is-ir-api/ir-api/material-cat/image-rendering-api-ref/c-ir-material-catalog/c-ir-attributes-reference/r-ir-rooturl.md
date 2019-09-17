@@ -6,9 +6,6 @@ solution: Experience Manager
 title: RootUrl *
 topic: Scene7 Image Serving - Image Rendering API
 uuid: aa10f210-4765-4b0e-9ce1-812b00cd8cf5
-index: y
-internal: n
-snippet: y
 ---
 
 # RootUrl *{#rooturl}

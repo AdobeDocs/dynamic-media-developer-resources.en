@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Mask Brush
 topic: Scene7 Image Authoring
 uuid: ad71e035-d204-4d3d-bee2-33a28a096d16
-index: y
-internal: n
-snippet: y
 ---
 
 # The Mask Brush{#the-mask-brush}

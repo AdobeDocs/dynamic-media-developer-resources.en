@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Preparing an Image in Photoshop
 topic: Scene7 Image Authoring
 uuid: e4d5e4d1-ec4e-4f16-9a5c-d53a95d2d902
-index: y
-internal: n
-snippet: y
 ---
 
 # Preparing an Image in Photoshop{#preparing-an-image-in-photoshop}

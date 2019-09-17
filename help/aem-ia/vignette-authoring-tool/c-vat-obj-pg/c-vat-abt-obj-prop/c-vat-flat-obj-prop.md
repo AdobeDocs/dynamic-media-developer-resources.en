@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Flat Object Properties
 topic: Scene7 Image Authoring
 uuid: 226cd132-8552-4206-8c6b-281484ff4bbd
-index: y
-internal: n
-snippet: y
 ---
 
 # Flat Object Properties{#flat-object-properties}

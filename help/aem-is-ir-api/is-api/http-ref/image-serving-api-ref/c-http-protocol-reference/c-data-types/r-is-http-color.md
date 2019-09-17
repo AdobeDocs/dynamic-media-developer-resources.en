@@ -6,9 +6,6 @@ solution: Experience Manager
 title: color
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 61308b8e-eaac-4b2e-8500-2f9efa8a6ce8
-index: y
-internal: n
-snippet: y
 ---
 
 # color{#color}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Image Rendering HTTP protocol basic syntax
 topic: Scene7 Image Serving - Image Rendering API
 uuid: e01314f0-6aaa-41ca-8c05-d5db3148a071
-index: y
-internal: n
-snippet: y
 ---
 
 # Image Rendering HTTP protocol basic syntax{#image-rendering-http-protocol-basic-syntax}

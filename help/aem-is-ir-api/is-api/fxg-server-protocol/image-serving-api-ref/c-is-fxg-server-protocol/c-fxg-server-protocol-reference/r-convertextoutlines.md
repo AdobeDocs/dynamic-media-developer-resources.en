@@ -6,9 +6,6 @@ solution: Experience Manager
 title: convertTextToOutlines
 topic: Scene7 Image Serving - Image Rendering API
 uuid: ec8a5f86-be10-494e-bc06-5c81520696f9
-index: y
-internal: n
-snippet: y
 ---
 
 # convertTextToOutlines{#converttexttooutlines}

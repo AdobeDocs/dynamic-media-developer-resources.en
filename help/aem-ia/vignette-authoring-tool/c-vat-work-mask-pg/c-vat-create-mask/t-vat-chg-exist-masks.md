@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Changing Existing Masks
 topic: Scene7 Image Authoring
 uuid: d72de89e-5c20-4c1b-813b-32ed77490dfc
-index: y
-internal: n
-snippet: y
 ---
 
 # Changing Existing Masks{#changing-existing-masks}

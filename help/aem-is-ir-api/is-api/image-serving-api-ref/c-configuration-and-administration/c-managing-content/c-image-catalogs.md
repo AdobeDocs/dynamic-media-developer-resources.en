@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Image catalogs
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 7d7285e2-ee9c-4e88-b270-b686d1984d82
-index: y
-internal: n
-snippet: y
 ---
 
 # Image catalogs{#image-catalogs}

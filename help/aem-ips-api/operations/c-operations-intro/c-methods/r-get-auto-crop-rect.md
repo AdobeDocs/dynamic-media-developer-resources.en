@@ -6,9 +6,6 @@ solution: Experience Manager
 title: getAutoCropRect
 topic: Scene7 Image Production System API
 uuid: bb00d89a-5fc4-476f-aa47-3cf69ef99afe
-index: y
-internal: n
-snippet: y
 ---
 
 # getAutoCropRect{#getautocroprect}

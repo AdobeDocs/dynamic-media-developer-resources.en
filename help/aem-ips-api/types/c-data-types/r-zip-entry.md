@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ZipEntry
 topic: Scene7 Image Production System API
 uuid: 05aac11b-249c-4c44-943d-fa6bf35d3637
-index: y
-internal: n
-snippet: y
 ---
 
 # ZipEntry{#zipentry}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Catalog folder (ir.catalogRootPath)
 topic: Scene7 Image Serving - Image Rendering API
 uuid: d9c9f801-6622-4879-ba08-b381a45632a3
-index: y
-internal: n
-snippet: y
 ---
 
 # Catalog folder (ir.catalogRootPath){#catalog-folder-ir-catalogrootpath}

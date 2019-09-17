@@ -6,9 +6,6 @@ solution: Experience Manager
 title: StaticContentCatalogFile
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 82d2a68a-255a-4e65-a29f-7022e7f0f5ec
-index: y
-internal: n
-snippet: y
 ---
 
 # StaticContentCatalogFile{#staticcontentcatalogfile}

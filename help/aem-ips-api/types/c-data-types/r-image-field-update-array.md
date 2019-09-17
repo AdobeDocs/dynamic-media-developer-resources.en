@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ImageFieldUpdateArray
 topic: Scene7 Image Production System API
 uuid: ac0f0e46-2ead-4ca3-9c7e-894e7b502949
-index: y
-internal: n
-snippet: y
 ---
 
 # ImageFieldUpdateArray{#imagefieldupdatearray}

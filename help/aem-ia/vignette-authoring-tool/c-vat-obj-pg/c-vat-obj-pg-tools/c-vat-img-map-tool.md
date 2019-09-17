@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Image Map tool
 topic: Scene7 Image Authoring
 uuid: 16fb09ee-bc37-447e-b7de-ec26b5345085
-index: y
-internal: n
-snippet: y
 ---
 
 # The Image Map tool{#the-image-map-tool}

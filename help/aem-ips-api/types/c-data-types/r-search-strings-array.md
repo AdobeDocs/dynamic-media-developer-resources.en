@@ -6,9 +6,6 @@ solution: Experience Manager
 title: SearchStringsArray
 topic: Scene7 Image Production System API
 uuid: 69103ece-83ad-491f-9910-2929a3c36008
-index: y
-internal: n
-snippet: y
 ---
 
 # SearchStringsArray{#searchstringsarray}

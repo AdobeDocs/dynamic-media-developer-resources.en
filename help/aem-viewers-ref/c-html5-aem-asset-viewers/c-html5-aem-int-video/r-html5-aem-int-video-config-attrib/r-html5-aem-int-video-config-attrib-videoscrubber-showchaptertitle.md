@@ -6,9 +6,6 @@ solution: Experience Manager
 title: VideoScrubber.showchaptertitle
 topic: Dynamic media
 uuid: abd9624d-b24d-491c-afe2-1aafbdf90ae1
-index: y
-internal: n
-snippet: y
 ---
 
 # VideoScrubber.showchaptertitle{#videoscrubber-showchaptertitle}

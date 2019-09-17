@@ -6,9 +6,6 @@ solution: Experience Manager
 title: SavePath
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 02b88e83-7fee-40d4-95ea-daba9a608e8e
-index: y
-internal: n
-snippet: y
 ---
 
 # SavePath{#savepath}

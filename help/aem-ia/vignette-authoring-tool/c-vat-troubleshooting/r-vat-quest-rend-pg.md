@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Questions About the Render Page
 topic: Scene7 Image Authoring
 uuid: 6f4bc892-9630-4575-a11d-eac46716e7bd
-index: y
-internal: n
-snippet: y
 ---
 
 # Questions About the Render Page{#questions-about-the-render-page}

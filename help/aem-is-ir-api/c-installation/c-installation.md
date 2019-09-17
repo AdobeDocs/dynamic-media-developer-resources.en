@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Installation
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 19e9599e-800b-4c22-9325-fc47b9e5e19a
-index: y
-internal: n
-snippet: y
 ---
 
 # Installation{#installation}

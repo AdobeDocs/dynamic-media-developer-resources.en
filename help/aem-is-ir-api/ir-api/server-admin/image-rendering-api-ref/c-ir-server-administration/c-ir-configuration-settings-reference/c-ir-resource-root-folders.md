@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Resource root folders (ir.resourceRootPaths)
 topic: Scene7 Image Serving - Image Rendering API
 uuid: a2a8ecd1-ddfe-46c5-bb70-4640e0992de8
-index: y
-internal: n
-snippet: y
 ---
 
 # Resource root folders (ir.resourceRootPaths){#resource-root-folders-ir-resourcerootpaths}

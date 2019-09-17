@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Session catalog
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 69c0f6cd-dfaf-47bf-bdd9-7abb4e6f7465
-index: y
-internal: n
-snippet: y
 ---
 
 # Session catalog{#session-catalog}

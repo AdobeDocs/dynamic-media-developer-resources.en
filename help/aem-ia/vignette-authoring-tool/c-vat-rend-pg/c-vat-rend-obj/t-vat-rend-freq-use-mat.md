@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Rendering with Frequently Used Materials
 topic: Scene7 Image Authoring
 uuid: 87ced264-6aaa-4670-919a-aeecb41cb3e3
-index: y
-internal: n
-snippet: y
 ---
 
 # Rendering with Frequently Used Materials{#rendering-with-frequently-used-materials}

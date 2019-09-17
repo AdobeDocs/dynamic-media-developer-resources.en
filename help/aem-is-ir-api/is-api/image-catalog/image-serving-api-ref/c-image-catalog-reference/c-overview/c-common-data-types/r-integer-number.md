@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Integer number
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 8f10318d-d284-43b6-8dc9-29999bff431a
-index: y
-internal: n
-snippet: y
 ---
 
 # Integer number{#integer-number}

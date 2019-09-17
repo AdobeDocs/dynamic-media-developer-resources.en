@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Define Where a Flowline/Sketch Object Meets a Plane
 topic: Scene7 Image Authoring
 uuid: f1f61d92-2d79-46c8-83a0-04ef9f4503b0
-index: y
-internal: n
-snippet: y
 ---
 
 # Define Where a Flowline/Sketch Object Meets a Plane{#define-where-a-flowline-sketch-object-meets-a-plane}

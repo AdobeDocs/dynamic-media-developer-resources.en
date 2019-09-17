@@ -6,9 +6,6 @@ solution: Experience Manager
 title: videoServerUrl
 topic: Dynamic media
 uuid: 551338fe-8fc6-4045-8205-4cf102782f8d
-index: y
-internal: n
-snippet: y
 ---
 
 # videoServerUrl{#videoserverurl}

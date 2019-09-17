@@ -6,9 +6,6 @@ solution: Experience Manager
 title: VideoPlayer.posterimage
 topic: Dynamic media
 uuid: 6b21179c-a227-4194-8640-0fcf73ee80e9
-index: y
-internal: n
-snippet: y
 ---
 
 # VideoPlayer.posterimage{#videoplayer-posterimage}

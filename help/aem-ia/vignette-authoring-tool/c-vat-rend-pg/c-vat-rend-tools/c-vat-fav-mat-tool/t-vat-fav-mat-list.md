@@ -6,9 +6,6 @@ solution: Experience Manager
 title: To Save Materials to the Favorite Materials List
 topic: Scene7 Image Authoring
 uuid: 4be2e397-a168-439e-a050-708b51ca8b7c
-index: y
-internal: n
-snippet: y
 ---
 
 # To Save Materials to the Favorite Materials List{#to-save-materials-to-the-favorite-materials-list}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Auxiliary data caches
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 10ce998e-e300-4d24-9d92-a8693dade327
-index: y
-internal: n
-snippet: y
 ---
 
 # Auxiliary data caches{#auxiliary-data-caches}

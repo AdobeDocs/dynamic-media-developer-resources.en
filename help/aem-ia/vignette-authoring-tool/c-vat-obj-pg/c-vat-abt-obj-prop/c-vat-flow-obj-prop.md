@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Flowline Sketch Object properties
 topic: Scene7 Image Authoring
 uuid: 1db5ea05-2293-4ff1-9aad-7e0e06c20f7d
-index: y
-internal: n
-snippet: y
 ---
 
 # Flowline Sketch Object properties{#flowline-sketch-object-properties}

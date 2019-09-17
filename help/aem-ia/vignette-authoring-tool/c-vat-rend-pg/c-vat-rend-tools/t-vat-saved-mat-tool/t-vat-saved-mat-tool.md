@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Saved Materials Tool
 topic: Scene7 Image Authoring
 uuid: 0f3cb922-4d9c-4099-89ef-9457319f8c92
-index: y
-internal: n
-snippet: y
 ---
 
 # The Saved Materials Tool{#the-saved-materials-tool}

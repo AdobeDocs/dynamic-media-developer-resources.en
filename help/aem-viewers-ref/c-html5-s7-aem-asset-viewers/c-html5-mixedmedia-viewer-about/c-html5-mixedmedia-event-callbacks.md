@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Event callbacks
 topic: Dynamic media
 uuid: 696838d2-11e4-4ef8-9cd3-136c5d5f6ed9
-index: y
-internal: n
-snippet: y
 ---
 
 # Event callbacks{#event-callbacks}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Variable processing in embedded foreign requests
 topic: Scene7 Image Serving - Image Rendering API
 uuid: b4334a2e-dab1-4458-ab3d-bb79d2c4fdd4
-index: y
-internal: n
-snippet: y
 ---
 
 # Variable processing in embedded foreign requests{#variable-processing-in-embedded-foreign-requests}

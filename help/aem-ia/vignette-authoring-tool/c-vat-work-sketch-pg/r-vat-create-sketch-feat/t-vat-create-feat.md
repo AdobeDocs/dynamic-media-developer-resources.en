@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Creating a Feature
 topic: Scene7 Image Authoring
 uuid: 12a2daea-b14c-4eb6-9777-702cf8f93f17
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating a Feature{#creating-a-feature}

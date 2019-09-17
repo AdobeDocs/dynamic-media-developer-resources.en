@@ -6,9 +6,6 @@ solution: Experience Manager
 title: HandleArray
 topic: Scene7 Image Production System API
 uuid: e6d24c00-80c4-441d-ae2b-bbd2725dd073
-index: y
-internal: n
-snippet: y
 ---
 
 # HandleArray{#handlearray}

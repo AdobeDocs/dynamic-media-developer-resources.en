@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Questions About Performance
 topic: Scene7 Image Authoring
 uuid: d52adb33-7dfd-460b-9ae7-ef34ec445a2e
-index: y
-internal: n
-snippet: y
 ---
 
 # Questions About Performance{#questions-about-performance}

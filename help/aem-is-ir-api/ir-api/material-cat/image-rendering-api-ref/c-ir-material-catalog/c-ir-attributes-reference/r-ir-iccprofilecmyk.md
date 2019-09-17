@@ -6,9 +6,6 @@ solution: Experience Manager
 title: IccProfileCmyk
 topic: Scene7 Image Serving - Image Rendering API
 uuid: d923d0fd-f00b-4fce-8ce9-8b177b4dba96
-index: y
-internal: n
-snippet: y
 ---
 
 # IccProfileCmyk{#iccprofilecmyk}

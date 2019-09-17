@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Copy-fitting
 topic: Scene7 Image Serving - Image Rendering API
 uuid: c3ddbf1f-c724-4436-96ff-2c616dfd355d
-index: y
-internal: n
-snippet: y
 ---
 
 # Copy-fitting{#copy-fitting}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: RootPath
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 859bebf2-5ee7-4daa-8970-a18bddcee684
-index: y
-internal: n
-snippet: y
 ---
 
 # RootPath{#rootpath}

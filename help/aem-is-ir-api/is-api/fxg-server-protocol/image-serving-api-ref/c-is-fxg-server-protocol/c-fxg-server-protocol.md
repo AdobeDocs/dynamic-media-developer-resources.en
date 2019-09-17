@@ -6,9 +6,6 @@ solution: Experience Manager
 title: FXG server protocol
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 5cb123ca-2274-4ddb-8fa1-ab22a19172f6
-index: y
-internal: n
-snippet: y
 ---
 
 # FXG server protocol{#fxg-server-protocol}

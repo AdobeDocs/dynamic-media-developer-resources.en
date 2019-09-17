@@ -6,9 +6,6 @@ solution: Experience Manager
 title: CarouselView.maxloadradius
 topic: Dynamic media
 uuid: 0dcebbce-f449-4f5f-acbc-02960e1dbdba
-index: y
-internal: n
-snippet: y
 ---
 
 # CarouselView.maxloadradius{#carouselview-maxloadradius}

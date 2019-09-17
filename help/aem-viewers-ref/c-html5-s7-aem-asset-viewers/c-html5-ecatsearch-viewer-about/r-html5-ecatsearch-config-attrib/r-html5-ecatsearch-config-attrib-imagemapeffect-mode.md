@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ImageMapEffect.mode
 topic: Dynamic media
 uuid: af2f11a8-a452-49d6-9e8f-d4a5f05b73d2
-index: y
-internal: n
-snippet: y
 ---
 
 # ImageMapEffect.mode{#imagemapeffect-mode}

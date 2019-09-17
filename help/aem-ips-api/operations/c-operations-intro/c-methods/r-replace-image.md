@@ -6,9 +6,6 @@ solution: Experience Manager
 title: replaceImage
 topic: Scene7 Image Production System API
 uuid: 46824e33-265c-4425-9ab1-8ad6b7ac154d
-index: y
-internal: n
-snippet: y
 ---
 
 # replaceImage{#replaceimage}

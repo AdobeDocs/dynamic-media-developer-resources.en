@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Changing Texture Material Properties
 topic: Scene7 Image Authoring
 uuid: f4a6b7ad-8ff5-4cf5-9947-2706690a1ec3
-index: y
-internal: n
-snippet: y
 ---
 
 # Changing Texture Material Properties{#changing-texture-material-properties}

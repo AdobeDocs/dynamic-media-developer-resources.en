@@ -6,9 +6,6 @@ solution: Experience Manager
 title: VideoPlayer.progressivebitrate
 topic: Dynamic media
 uuid: 94de31cd-2b4e-4247-b181-26666767f065
-index: y
-internal: n
-snippet: y
 ---
 
 # VideoPlayer.progressivebitrate{#videoplayer-progressivebitrate}

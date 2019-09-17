@@ -6,9 +6,6 @@ solution: Experience Manager
 title: AudioInfo
 topic: Scene7 Image Production System API
 uuid: f8b8ed63-aac6-4ef1-bdf1-4b27265acffa
-index: y
-internal: n
-snippet: y
 ---
 
 # AudioInfo{#audioinfo}

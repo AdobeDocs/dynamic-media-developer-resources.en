@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Defining Scale for 3D Images
 topic: Scene7 Image Authoring
 uuid: 51f1c93f-5e20-409b-a831-56dd4c6d97b4
-index: y
-internal: n
-snippet: y
 ---
 
 # Defining Scale for 3D Images{#defining-scale-for-d-images}

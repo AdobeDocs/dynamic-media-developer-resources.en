@@ -6,9 +6,6 @@ solution: Experience Manager
 title: catalog-server.conf
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 797a43d2-18f5-4735-8b19-da231952b1a2
-index: y
-internal: n
-snippet: y
 ---
 
 # catalog-server.conf{#catalog-server-conf}

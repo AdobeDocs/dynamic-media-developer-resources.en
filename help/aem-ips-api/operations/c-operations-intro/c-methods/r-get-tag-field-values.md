@@ -6,9 +6,6 @@ solution: Experience Manager
 title: getTagFieldValues
 topic: Scene7 Image Production System API
 uuid: 92d84dfc-6a6c-4876-9670-1152adb6317c
-index: y
-internal: n
-snippet: y
 ---
 
 # getTagFieldValues{#gettagfieldvalues}

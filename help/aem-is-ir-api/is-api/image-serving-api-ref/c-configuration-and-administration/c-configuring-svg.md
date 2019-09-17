@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Configuring SVG
 topic: Scene7 Image Serving - Image Rendering API
 uuid: f6e131af-283e-4649-b349-123489c0838d
-index: y
-internal: n
-snippet: y
 ---
 
 # Configuring SVG{#configuring-svg}

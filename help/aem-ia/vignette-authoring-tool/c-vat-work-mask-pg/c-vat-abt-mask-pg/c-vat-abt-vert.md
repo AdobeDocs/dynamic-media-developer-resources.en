@@ -6,9 +6,6 @@ solution: Experience Manager
 title: About Vertexes
 topic: Scene7 Image Authoring
 uuid: 1acbd5e1-7656-4466-b6f4-681c3818276a
-index: y
-internal: n
-snippet: y
 ---
 
 # About Vertexes{#about-vertexes}

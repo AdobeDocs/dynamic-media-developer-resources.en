@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Adding Perspective Example
 topic: Scene7 Image Authoring
 uuid: d4917fc6-4a28-48c5-b04e-06a7aa502519
-index: y
-internal: n
-snippet: y
 ---
 
 # Adding Perspective Example{#adding-perspective-example}

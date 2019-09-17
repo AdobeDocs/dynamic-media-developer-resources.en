@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Render
 topic: Scene7 Image Authoring
 uuid: 7d5c6c49-f29f-41ad-b53e-2c26c7703698
-index: y
-internal: n
-snippet: y
 ---
 
 # Render{#render}

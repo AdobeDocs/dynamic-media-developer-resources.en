@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Installing multiple viewers on the same server
 topic: Dynamic media
 uuid: 91ae8eb5-1d23-4fa3-a0d6-a4a0ed0eb104
-index: y
-internal: n
-snippet: y
 ---
 
 # Installing multiple viewers on the same server{#installing-multiple-viewers-on-the-same-server}

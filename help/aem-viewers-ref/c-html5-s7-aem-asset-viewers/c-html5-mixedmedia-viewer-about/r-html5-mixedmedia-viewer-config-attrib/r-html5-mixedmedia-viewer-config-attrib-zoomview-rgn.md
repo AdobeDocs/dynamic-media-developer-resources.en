@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ZoomView.rgn
 topic: Dynamic media
 uuid: e0aa04a8-069e-4499-8d06-7b800940dba3
-index: y
-internal: n
-snippet: y
 ---
 
 # ZoomView.rgn{#zoomview-rgn}

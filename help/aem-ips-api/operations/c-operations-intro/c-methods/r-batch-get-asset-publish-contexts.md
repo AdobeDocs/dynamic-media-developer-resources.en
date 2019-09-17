@@ -6,9 +6,6 @@ solution: Experience Manager
 title: batchGetAssetPublishContexts
 topic: Scene7 Image Production System API
 uuid: 7f442019-37a9-4473-be92-a952a7a67664
-index: y
-internal: n
-snippet: y
 ---
 
 # batchGetAssetPublishContexts{#batchgetassetpublishcontexts}

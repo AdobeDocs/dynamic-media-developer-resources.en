@@ -6,9 +6,6 @@ solution: Experience Manager
 title: CallToAction.enabledragging
 topic: Dynamic media
 uuid: efb272b5-e30e-44d5-9dec-0529b1074ed2
-index: y
-internal: n
-snippet: y
 ---
 
 # CallToAction.enabledragging{#calltoaction-enabledragging}

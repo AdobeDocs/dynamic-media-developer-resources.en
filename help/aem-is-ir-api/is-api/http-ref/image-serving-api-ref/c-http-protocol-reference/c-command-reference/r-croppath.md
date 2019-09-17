@@ -6,9 +6,6 @@ solution: Experience Manager
 title: cropPathE
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 4689fd20-dfa0-47eb-8184-cd233f1ac088
-index: y
-internal: n
-snippet: y
 ---
 
 # cropPathE{#croppathe}

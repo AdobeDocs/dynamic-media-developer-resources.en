@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ImageSet
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 1a34aaef-4053-4474-abb8-794331898d88
-index: y
-internal: n
-snippet: y
 ---
 
 # ImageSet{#imageset}

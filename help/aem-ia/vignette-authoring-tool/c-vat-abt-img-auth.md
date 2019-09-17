@@ -6,9 +6,6 @@ solution: Experience Manager
 title: About Image Authoring
 topic: Scene7 Image Authoring
 uuid: f5277f32-38f0-4fdf-9dd4-447107273740
-index: y
-internal: n
-snippet: y
 ---
 
 # About Image Authoring{#about-image-authoring}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Moving an Object
 topic: Scene7 Image Authoring
 uuid: 4bcf1a35-751a-437e-926d-54a5c1e614e4
-index: y
-internal: n
-snippet: y
 ---
 
 # Moving an Object{#moving-an-object}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ColorManagementOptions
 topic: Scene7 Image Production System API
 uuid: ddf50d22-8d7b-4881-8023-bd7f58cbd882
-index: y
-internal: n
-snippet: y
 ---
 
 # ColorManagementOptions{#colormanagementoptions}

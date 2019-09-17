@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Apply New Material Tool
 topic: Scene7 Image Authoring
 uuid: 6c27abf1-ff29-43c2-868d-e23c69dbdb8f
-index: y
-internal: n
-snippet: y
 ---
 
 # The Apply New Material Tool{#the-apply-new-material-tool}

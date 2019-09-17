@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Scene coordinates
 topic: Scene7 Image Serving - Image Rendering API
 uuid: d1215ba2-9cad-4cf6-a57e-7c1d845b0199
-index: y
-internal: n
-snippet: y
 ---
 
 # Scene coordinates{#scene-coordinates}

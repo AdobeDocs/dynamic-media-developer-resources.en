@@ -6,9 +6,6 @@ solution: Experience Manager
 title: AssetOperationFault
 topic: Scene7 Image Production System API
 uuid: fb6c5482-6e16-4561-927b-e4daeb7bdd7b
-index: y
-internal: n
-snippet: y
 ---
 
 # AssetOperationFault{#assetoperationfault}

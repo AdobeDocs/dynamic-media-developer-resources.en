@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Varying material opacity
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 6af07ea8-44ba-4253-8a26-614725af2f46
-index: y
-internal: n
-snippet: y
 ---
 
 # Varying material opacity{#varying-material-opacity}

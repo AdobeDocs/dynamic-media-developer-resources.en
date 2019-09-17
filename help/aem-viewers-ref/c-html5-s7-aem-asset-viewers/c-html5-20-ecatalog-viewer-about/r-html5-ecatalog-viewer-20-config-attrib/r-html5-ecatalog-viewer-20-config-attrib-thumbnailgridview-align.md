@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ThumbnailGridView.align
 topic: Dynamic media
 uuid: b51ed5e1-83b5-4f00-8ff7-3366b3ff2596
-index: y
-internal: n
-snippet: y
 ---
 
 # ThumbnailGridView.align{#thumbnailgridview-align}

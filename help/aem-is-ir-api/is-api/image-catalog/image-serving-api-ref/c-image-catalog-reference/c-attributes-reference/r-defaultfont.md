@@ -6,9 +6,6 @@ solution: Experience Manager
 title: DefaultFont
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 0d1ada8d-2ffe-4799-b771-8f9113e04661
-index: y
-internal: n
-snippet: y
 ---
 
 # DefaultFont{#defaultfont}

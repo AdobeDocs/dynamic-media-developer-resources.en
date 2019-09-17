@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Video360Viewer
 topic: Dynamic media
 uuid: b5d5e270-687c-40aa-9de4-c5bc2a7806f7
-index: y
-internal: n
-snippet: y
 ---
 
 # Video360Viewer{#video-viewer}

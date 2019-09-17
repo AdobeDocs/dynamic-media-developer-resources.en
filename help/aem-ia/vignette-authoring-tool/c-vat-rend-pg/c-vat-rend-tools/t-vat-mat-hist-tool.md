@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Material History Tool
 topic: Scene7 Image Authoring
 uuid: 8e6b7832-9144-4297-920a-c1a6866777ce
-index: y
-internal: n
-snippet: y
 ---
 
 # The Material History Tool{#the-material-history-tool}

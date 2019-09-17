@@ -6,9 +6,6 @@ solution: Experience Manager
 title: CssInfo
 topic: Scene7 Image Production System API
 uuid: 88575f2b-ace4-4a93-8e35-9685f5893530
-index: y
-internal: n
-snippet: y
 ---
 
 # CssInfo{#cssinfo}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: config
 topic: Dynamic media
 uuid: 9e9bb580-a33a-4405-b05c-56962d702145
-index: y
-internal: n
-snippet: y
 ---
 
 # config{#config}

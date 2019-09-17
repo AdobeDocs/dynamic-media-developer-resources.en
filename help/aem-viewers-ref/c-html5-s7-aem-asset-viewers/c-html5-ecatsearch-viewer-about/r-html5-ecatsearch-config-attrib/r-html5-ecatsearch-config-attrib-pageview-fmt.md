@@ -6,9 +6,6 @@ solution: Experience Manager
 title: PageView.fmt
 topic: Dynamic media
 uuid: bbae406c-9169-4944-8e91-f2d7c8011520
-index: y
-internal: n
-snippet: y
 ---
 
 # PageView.fmt{#pageview-fmt}

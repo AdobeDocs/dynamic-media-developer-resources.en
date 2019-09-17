@@ -6,9 +6,6 @@ solution: Experience Manager
 title: IllustratorOptions
 topic: Scene7 Image Production System API
 uuid: 87b38464-33db-4512-aa16-607b96a40673
-index: y
-internal: n
-snippet: y
 ---
 
 # IllustratorOptions{#illustratoroptions}

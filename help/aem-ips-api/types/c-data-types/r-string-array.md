@@ -6,9 +6,6 @@ solution: Experience Manager
 title: StringArray
 topic: Scene7 Image Production System API
 uuid: d7be5c7b-6086-47bd-ac0d-84b375f2df2f
-index: y
-internal: n
-snippet: y
 ---
 
 # StringArray{#stringarray}

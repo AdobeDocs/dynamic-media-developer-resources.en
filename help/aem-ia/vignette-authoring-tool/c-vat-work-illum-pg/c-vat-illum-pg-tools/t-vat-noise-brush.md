@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Noise Brush
 topic: Scene7 Image Authoring
 uuid: 06dda41c-c433-4d8d-8b51-1aea13690ce7
-index: y
-internal: n
-snippet: y
 ---
 
 # The Noise Brush{#the-noise-brush}

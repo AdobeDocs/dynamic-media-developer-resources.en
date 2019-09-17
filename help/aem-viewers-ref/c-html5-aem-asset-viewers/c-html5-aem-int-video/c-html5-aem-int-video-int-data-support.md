@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Interactive data support
 topic: Dynamic media
 uuid: 70b2ec2e-0ea7-461d-a185-731fb0ef8f3e
-index: y
-internal: n
-snippet: y
 ---
 
 # Interactive data support{#interactive-data-support}

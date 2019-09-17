@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Repeat
 topic: Scene7 Image Serving - Image Rendering API
 uuid: bd15a573-9902-4672-992d-90d171160a46
-index: y
-internal: n
-snippet: y
 ---
 
 # Repeat{#repeat}

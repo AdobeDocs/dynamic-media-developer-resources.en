@@ -6,9 +6,6 @@ solution: Experience Manager
 title: anchor
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 1e695882-f97a-4208-b595-2851b91bdbfe
-index: y
-internal: n
-snippet: y
 ---
 
 # anchor{#anchor}

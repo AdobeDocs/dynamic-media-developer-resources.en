@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Using Material Templates
 topic: Scene7 Image Authoring
 uuid: 078bcfe2-2351-4af1-a70b-62d3ff1ac55a
-index: y
-internal: n
-snippet: y
 ---
 
 # Using Material Templates{#using-material-templates}

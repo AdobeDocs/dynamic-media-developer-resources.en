@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Setting the Block
 topic: Scene7 Image Authoring
 uuid: 1a5a9eb8-1ba0-48f8-954a-ba2686dcc94d
-index: y
-internal: n
-snippet: y
 ---
 
 # Setting the Block{#setting-the-block}

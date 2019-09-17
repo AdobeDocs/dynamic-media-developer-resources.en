@@ -6,9 +6,6 @@ solution: Experience Manager
 title: To Batch-Render Using Materials in the Favorite Materials List
 topic: Scene7 Image Authoring
 uuid: 6a0e7fb8-a2cd-4b73-8494-5158192108c0
-index: y
-internal: n
-snippet: y
 ---
 
 # To Batch-Render Using Materials in the Favorite Materials List{#to-batch-render-using-materials-in-the-favorite-materials-list}

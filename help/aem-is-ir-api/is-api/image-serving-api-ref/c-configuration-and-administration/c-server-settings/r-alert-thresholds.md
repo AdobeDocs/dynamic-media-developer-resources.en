@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Alert thresholds
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 032cb396-1a03-4ba9-82d6-ed2cb06e8cf2
-index: y
-internal: n
-snippet: y
 ---
 
 # Alert thresholds{#alert-thresholds}

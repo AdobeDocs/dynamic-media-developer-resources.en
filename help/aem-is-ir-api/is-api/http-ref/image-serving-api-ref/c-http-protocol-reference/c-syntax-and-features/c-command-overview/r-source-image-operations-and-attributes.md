@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Source image operations
 topic: Scene7 Image Serving - Image Rendering API
 uuid: ad6dbcd8-f4a4-4439-b51a-2aca30d198e0
-index: y
-internal: n
-snippet: y
 ---
 
 # Source image operations{#source-image-operations}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Cabinets
 topic: Scene7 Image Serving - Image Rendering API
 uuid: d515c613-07c5-49ef-ad6e-568a1f6c1335
-index: y
-internal: n
-snippet: y
 ---
 
 # Cabinets{#cabinets}

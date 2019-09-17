@@ -6,9 +6,6 @@ solution: Experience Manager
 title: UserData
 topic: Scene7 Image Serving - Image Rendering API
 uuid: cadc9f3c-c0ca-4c88-bc8a-97c28b439b01
-index: y
-internal: n
-snippet: y
 ---
 
 # UserData{#userdata}

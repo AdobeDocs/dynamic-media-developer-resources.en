@@ -6,9 +6,6 @@ solution: Experience Manager
 title: XML properties
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 9d169ad2-e466-4ab3-8900-ea9c6125edad
-index: y
-internal: n
-snippet: y
 ---
 
 # XML properties{#xml-properties}

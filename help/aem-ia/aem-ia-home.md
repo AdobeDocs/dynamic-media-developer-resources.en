@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Image Authoring Help Home
 topic: Scene7 Image Authoring
 uuid: b0cc4b4e-cc2f-4465-9ad9-5f09b2e99821
-index: y
-internal: n
-snippet: y
 ---
 
 # Image Authoring Help Home{#image-authoring-help-home}

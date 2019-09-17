@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Alignment Tool
 topic: Scene7 Image Authoring
 uuid: 84e0a364-af09-4f63-aeda-fde6d5bb9b49
-index: y
-internal: n
-snippet: y
 ---
 
 # The Alignment Tool{#the-alignment-tool}

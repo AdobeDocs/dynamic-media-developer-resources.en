@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Scene7 Viewers 4.9.2 Release Notes
 topic: Dynamic media
 uuid: 285c2170-90e8-44dd-bacd-9debd8590afc
-index: y
-internal: n
-snippet: y
 ---
 
 # Scene7 Viewers 4.9.2 Release Notes{#scene-viewers-release-notes}

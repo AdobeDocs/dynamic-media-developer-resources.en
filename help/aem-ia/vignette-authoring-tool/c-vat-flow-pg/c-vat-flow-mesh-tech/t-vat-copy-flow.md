@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Copying a Flowline
 topic: Scene7 Image Authoring
 uuid: 7b78ba89-94f7-4ac7-a913-876ae0a583a4
-index: y
-internal: n
-snippet: y
 ---
 
 # Copying a Flowline{#copying-a-flowline}

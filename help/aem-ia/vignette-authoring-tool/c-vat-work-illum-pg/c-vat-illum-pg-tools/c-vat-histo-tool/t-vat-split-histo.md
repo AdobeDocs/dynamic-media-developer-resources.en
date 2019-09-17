@@ -6,9 +6,6 @@ solution: Experience Manager
 title: To Split the Histogram, then Change the Brightness for the Split Areas
 topic: Scene7 Image Authoring
 uuid: 79d777ee-28fe-4ae1-b544-4d6b909ff0ab
-index: y
-internal: n
-snippet: y
 ---
 
 # To Split the Histogram, then Change the Brightness for the Split Areas{#to-split-the-histogram-then-change-the-brightness-for-the-split-areas}

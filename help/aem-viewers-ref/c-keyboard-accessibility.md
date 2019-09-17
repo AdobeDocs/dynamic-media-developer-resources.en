@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Keyboard accessibility and navigation
 topic: Dynamic media
 uuid: 9d7df3b0-2d77-4a2f-9ef1-210ccbd7a1a6
-index: y
-internal: n
-snippet: y
 ---
 
 # Keyboard accessibility and navigation{#keyboard-accessibility-and-navigation}

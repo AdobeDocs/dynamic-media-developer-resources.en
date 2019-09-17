@@ -6,9 +6,6 @@ solution: Experience Manager
 title: perspective
 topic: Scene7 Image Serving - Image Rendering API
 uuid: b22d7b49-db08-48df-80bc-5b7237aea475
-index: y
-internal: n
-snippet: y
 ---
 
 # perspective{#perspective}

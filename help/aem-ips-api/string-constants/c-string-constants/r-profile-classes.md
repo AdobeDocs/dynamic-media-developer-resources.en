@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Profile Classes
 topic: Scene7 Image Production System API
 uuid: da73b9d9-e19e-4166-a4c4-14f7eb17e3d5
-index: y
-internal: n
-snippet: y
 ---
 
 # Profile Classes{#profile-classes}

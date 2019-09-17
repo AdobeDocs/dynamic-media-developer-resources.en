@@ -6,9 +6,6 @@ solution: Experience Manager
 title: About Mask options
 topic: Scene7 Image Authoring
 uuid: 7accba94-f7c1-44f8-9fff-902713804192
-index: y
-internal: n
-snippet: y
 ---
 
 # About Mask options{#about-mask-options}

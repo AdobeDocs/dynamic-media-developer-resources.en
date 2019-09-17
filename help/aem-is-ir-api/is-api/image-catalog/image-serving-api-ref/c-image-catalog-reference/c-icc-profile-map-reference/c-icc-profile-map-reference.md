@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ICC profile map reference
 topic: Scene7 Image Serving - Image Rendering API
 uuid: eee1e8d5-cf16-4e73-9b44-4ec032cf3553
-index: y
-internal: n
-snippet: y
 ---
 
 # ICC profile map reference{#icc-profile-map-reference}

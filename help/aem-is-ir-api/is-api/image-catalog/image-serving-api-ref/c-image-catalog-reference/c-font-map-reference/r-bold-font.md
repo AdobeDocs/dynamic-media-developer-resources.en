@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Bold
 topic: Scene7 Image Serving - Image Rendering API
 uuid: c9bc05d6-07ff-4ad9-a5b2-3ddc81a746af
-index: y
-internal: n
-snippet: y
 ---
 
 # Bold{#bold}

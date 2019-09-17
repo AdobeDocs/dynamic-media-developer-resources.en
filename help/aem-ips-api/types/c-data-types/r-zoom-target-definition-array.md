@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ZoomTargetDefinitionArray
 topic: Scene7 Image Production System API
 uuid: 681b323e-fe00-4d9e-9201-7fb46080d041
-index: y
-internal: n
-snippet: y
 ---
 
 # ZoomTargetDefinitionArray{#zoomtargetdefinitionarray}

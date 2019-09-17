@@ -7,9 +7,6 @@ solution: Experience Manager
 title: Customizing Video Viewer
 topic: Dynamic media
 uuid: e18fdf8b-5834-4c99-b8a3-90d1f8310dc1
-index: y
-internal: n
-snippet: y
 ---
 
 # Customizing Video Viewer{#customizing-video-viewer}

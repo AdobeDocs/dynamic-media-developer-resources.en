@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Path
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 470cee37-9840-402a-bde5-ace8988996d2
-index: y
-internal: n
-snippet: y
 ---
 
 # Path{#path}

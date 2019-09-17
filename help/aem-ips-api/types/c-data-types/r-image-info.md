@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ImageInfo
 topic: Scene7 Image Production System API
 uuid: 89138f10-c80b-49b8-886f-45b0960038b8
-index: y
-internal: n
-snippet: y
 ---
 
 # ImageInfo{#imageinfo}

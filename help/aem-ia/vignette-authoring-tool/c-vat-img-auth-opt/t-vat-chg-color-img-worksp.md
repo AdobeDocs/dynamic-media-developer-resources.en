@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Changing the Color of the Image Workspace
 topic: Scene7 Image Authoring
 uuid: 3e9aba9c-0cc6-453a-b0f6-42b6772c19db
-index: y
-internal: n
-snippet: y
 ---
 
 # Changing the Color of the Image Workspace{#changing-the-color-of-the-image-workspace}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Profile Tool
 topic: Scene7 Image Authoring
 uuid: aaed8366-438e-40fe-9e1c-71fbad61b523
-index: y
-internal: n
-snippet: y
 ---
 
 # The Profile Tool{#the-profile-tool}

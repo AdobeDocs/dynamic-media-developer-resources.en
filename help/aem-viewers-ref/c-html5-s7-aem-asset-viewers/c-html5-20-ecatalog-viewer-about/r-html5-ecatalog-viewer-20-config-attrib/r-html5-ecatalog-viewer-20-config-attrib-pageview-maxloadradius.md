@@ -6,9 +6,6 @@ solution: Experience Manager
 title: PageView.maxloadradius
 topic: Dynamic media
 uuid: 425624c5-3cbe-4b63-8c6b-eff31f2ed919
-index: y
-internal: n
-snippet: y
 ---
 
 # PageView.maxloadradius{#pageview-maxloadradius}

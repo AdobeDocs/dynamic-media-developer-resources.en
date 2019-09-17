@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Search button
 topic: Dynamic media
 uuid: a4d64d61-338e-4963-865e-c1afe1a4876f
-index: y
-internal: n
-snippet: y
 ---
 
 # Search button{#search-button}

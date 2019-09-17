@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Intended audience
 topic: Scene7 Image Serving - Image Rendering API
 uuid: a1a60d51-2a64-49ee-b409-59e8f67cdab0
-index: y
-internal: n
-snippet: y
 ---
 
 # Intended audience{#intended-audience}

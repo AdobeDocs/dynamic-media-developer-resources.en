@@ -7,9 +7,6 @@ solution: Experience Manager
 title: Spin
 topic: Dynamic media
 uuid: 5d5cdf83-cfe8-48cd-af74-b270f7400b14
-index: y
-internal: n
-snippet: y
 ---
 
 # Spin{#spin}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: monitor.conf
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 31949797-df2c-4b7c-841b-4c623299a228
-index: y
-internal: n
-snippet: y
 ---
 
 # monitor.conf{#monitor-conf}

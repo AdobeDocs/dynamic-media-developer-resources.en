@@ -6,9 +6,6 @@ solution: Experience Manager
 title: InteractiveSwatches.fmt
 topic: Dynamic media
 uuid: 0a30c913-39d1-4521-b65c-f2b3879f6928
-index: y
-internal: n
-snippet: y
 ---
 
 # InteractiveSwatches.fmt{#interactiveswatches-fmt}

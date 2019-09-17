@@ -6,9 +6,6 @@ solution: Experience Manager
 title: VideoScrubber.chaptertimepattern
 topic: Dynamic media
 uuid: bb021ecb-e169-4cf1-b121-7289311353ed
-index: y
-internal: n
-snippet: y
 ---
 
 # VideoScrubber.chaptertimepattern{#videoscrubber-chaptertimepattern}

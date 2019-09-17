@@ -6,9 +6,6 @@ solution: Experience Manager
 title: SearchFilter
 topic: Scene7 Image Production System API
 uuid: 85a434d3-51a5-4e68-901e-70585c0e8b20
-index: y
-internal: n
-snippet: y
 ---
 
 # SearchFilter{#searchfilter}

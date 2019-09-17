@@ -6,9 +6,6 @@ solution: Experience Manager
 title: getAssetPublishHistory
 topic: Scene7 Image Production System API
 uuid: 15025c3d-eac3-4cb8-9a2a-fd80bd67478f
-index: y
-internal: n
-snippet: y
 ---
 
 # getAssetPublishHistory{#getassetpublishhistory}

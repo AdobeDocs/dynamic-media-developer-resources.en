@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Changing the Orientation of the Flowline Mesh
 topic: Scene7 Image Authoring
 uuid: faee6485-5eec-42db-9b45-79faa0547cc2
-index: y
-internal: n
-snippet: y
 ---
 
 # Changing the Orientation of the Flowline Mesh{#changing-the-orientation-of-the-flowline-mesh}

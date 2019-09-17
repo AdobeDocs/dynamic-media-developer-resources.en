@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Technical Support
 topic: Scene7 Image Authoring
 uuid: b451d89a-c0b8-4263-8439-fe77e0ab90af
-index: y
-internal: n
-snippet: y
 ---
 
 # Technical Support{#technical-support}

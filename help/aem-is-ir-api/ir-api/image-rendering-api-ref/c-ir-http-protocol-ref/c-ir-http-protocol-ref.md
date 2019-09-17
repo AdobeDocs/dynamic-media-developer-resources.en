@@ -6,9 +6,6 @@ solution: Experience Manager
 title: HTTP protocol reference
 topic: Scene7 Image Serving - Image Rendering API
 uuid: efa23fad-b232-4a5b-b594-a0b668279aad
-index: y
-internal: n
-snippet: y
 ---
 
 # HTTP protocol reference{#http-protocol-reference}

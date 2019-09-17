@@ -6,9 +6,6 @@ solution: Experience Manager
 title: FlyoutZoomView.zoomfactor
 topic: Dynamic media
 uuid: 58d49de7-4828-46ae-b2e7-eb9398e98a99
-index: y
-internal: n
-snippet: y
 ---
 
 # FlyoutZoomView.zoomfactor{#flyoutzoomview-zoomfactor}

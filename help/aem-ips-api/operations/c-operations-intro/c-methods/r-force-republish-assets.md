@@ -6,9 +6,6 @@ solution: Experience Manager
 title: forceRepublishAssets
 topic: Scene7 Image Production System API
 uuid: fd1f4ece-075c-40e3-868a-f27b9a4c3374
-index: y
-internal: n
-snippet: y
 ---
 
 # forceRepublishAssets{#forcerepublishassets}

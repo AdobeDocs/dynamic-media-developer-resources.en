@@ -6,9 +6,6 @@ solution: Experience Manager
 title: removeProjectAssets
 topic: Scene7 Image Production System API
 uuid: bae09dc3-4328-4264-8fb2-e4f0c53546eb
-index: y
-internal: n
-snippet: y
 ---
 
 # removeProjectAssets{#removeprojectassets}

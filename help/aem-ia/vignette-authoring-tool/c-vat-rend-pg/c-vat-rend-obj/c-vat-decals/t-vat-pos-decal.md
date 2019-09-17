@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Changing the Angle or Position of a Decal
 topic: Scene7 Image Authoring
 uuid: 7e90c861-7e0d-42b2-91db-c5ae291e833d
-index: y
-internal: n
-snippet: y
 ---
 
 # Changing the Angle or Position of a Decal{#changing-the-angle-or-position-of-a-decal}

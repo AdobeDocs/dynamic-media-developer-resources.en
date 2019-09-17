@@ -6,9 +6,6 @@ solution: Experience Manager
 title: User Char Filter Fields
 topic: Scene7 Image Production System API
 uuid: b8137f42-d7f6-4545-ac7a-7d94a59c40c3
-index: y
-internal: n
-snippet: y
 ---
 
 # User Char Filter Fields{#user-char-filter-fields}

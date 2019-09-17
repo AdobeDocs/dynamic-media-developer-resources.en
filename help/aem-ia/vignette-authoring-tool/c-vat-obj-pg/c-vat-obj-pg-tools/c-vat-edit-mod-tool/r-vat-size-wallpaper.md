@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Sizing Wallpaper
 topic: Scene7 Image Authoring
 uuid: 11dcb70b-aa7b-49e0-b089-0eee20055857
-index: y
-internal: n
-snippet: y
 ---
 
 # Sizing Wallpaper{#sizing-wallpaper}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: addCompany
 topic: Scene7 Image Production System API
 uuid: 2f00a06d-40d1-4ba3-a317-6ea91e25beb3
-index: y
-internal: n
-snippet: y
 ---
 
 # addCompany{#addcompany}

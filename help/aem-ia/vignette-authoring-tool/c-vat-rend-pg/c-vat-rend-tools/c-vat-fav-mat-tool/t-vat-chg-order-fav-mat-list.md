@@ -6,9 +6,6 @@ solution: Experience Manager
 title: To Change the Order of the Favorite Materials List
 topic: Scene7 Image Authoring
 uuid: 9816b3b7-71bc-4201-9e38-f9ac18f773d8
-index: y
-internal: n
-snippet: y
 ---
 
 # To Change the Order of the Favorite Materials List{#to-change-the-order-of-the-favorite-materials-list}

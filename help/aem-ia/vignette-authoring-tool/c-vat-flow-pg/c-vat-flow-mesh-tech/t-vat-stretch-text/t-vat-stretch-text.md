@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Stretching Textures
 topic: Scene7 Image Authoring
 uuid: 0dd2afee-b1bb-4ffd-b9ab-4b63e904d1a9
-index: y
-internal: n
-snippet: y
 ---
 
 # Stretching Textures{#stretching-textures}

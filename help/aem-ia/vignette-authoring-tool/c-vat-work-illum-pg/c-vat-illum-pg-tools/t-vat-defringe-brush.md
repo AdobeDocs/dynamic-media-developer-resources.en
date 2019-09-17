@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Defringe Brush
 topic: Scene7 Image Authoring
 uuid: 8b6a92d0-4709-4643-b50b-2e0fdbfd28d1
-index: y
-internal: n
-snippet: y
 ---
 
 # The Defringe Brush{#the-defringe-brush}

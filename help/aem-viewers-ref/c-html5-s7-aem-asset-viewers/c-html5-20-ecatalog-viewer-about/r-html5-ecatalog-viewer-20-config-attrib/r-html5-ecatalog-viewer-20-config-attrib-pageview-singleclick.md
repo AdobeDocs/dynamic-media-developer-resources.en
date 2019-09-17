@@ -6,9 +6,6 @@ solution: Experience Manager
 title: PageView.singleclick
 topic: Dynamic media
 uuid: 608700d2-5be4-4b96-b026-b12a3ade68ee
-index: y
-internal: n
-snippet: y
 ---
 
 # PageView.singleclick{#pageview-singleclick}

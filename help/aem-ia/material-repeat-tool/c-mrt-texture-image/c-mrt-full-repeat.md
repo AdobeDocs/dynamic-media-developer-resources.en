@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Identifying the Full Repeat
 topic: Scene7 Image Authoring
 uuid: 1994032f-244c-435d-bf10-dea2e06c1207
-index: y
-internal: n
-snippet: y
 ---
 
 # Identifying the Full Repeat{#identifying-the-full-repeat}

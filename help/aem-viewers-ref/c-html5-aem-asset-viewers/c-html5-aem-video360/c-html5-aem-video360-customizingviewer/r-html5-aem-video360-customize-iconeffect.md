@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Icon effect
 topic: Dynamic media
 uuid: a1e7d877-097c-4f43-8a6d-9627dc4924b1
-index: y
-internal: n
-snippet: y
 ---
 
 # Icon effect{#icon-effect}

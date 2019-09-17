@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Texture Eraser Tool
 topic: Scene7 Image Authoring
 uuid: a8d2d3f0-5a65-4172-bb73-1c03ac25a2f4
-index: y
-internal: n
-snippet: y
 ---
 
 # The Texture Eraser Tool{#the-texture-eraser-tool}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: First page button
 topic: Dynamic media
 uuid: 10097f10-d53b-409c-baad-d21a04d6b418
-index: y
-internal: n
-snippet: y
 ---
 
 # First page button{#first-page-button}

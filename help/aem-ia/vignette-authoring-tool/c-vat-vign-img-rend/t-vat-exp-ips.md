@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Exporting to IPS
 topic: Scene7 Image Authoring
 uuid: 9f8f3fdb-85d0-464d-a25c-4ce979e8acf1
-index: y
-internal: n
-snippet: y
 ---
 
 # Exporting to IPS{#exporting-to-ips}

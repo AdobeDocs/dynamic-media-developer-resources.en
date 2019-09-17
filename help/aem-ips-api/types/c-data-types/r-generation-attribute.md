@@ -6,9 +6,6 @@ solution: Experience Manager
 title: GenerationAttribute
 topic: Scene7 Image Production System API
 uuid: fe387eba-a30d-49d5-9e53-2083f42a5dd0
-index: y
-internal: n
-snippet: y
 ---
 
 # GenerationAttribute{#generationattribute}

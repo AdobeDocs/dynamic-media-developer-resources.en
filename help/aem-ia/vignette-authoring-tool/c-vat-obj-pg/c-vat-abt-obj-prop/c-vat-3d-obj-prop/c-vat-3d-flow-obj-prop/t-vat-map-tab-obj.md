@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Map tab for objects
 topic: Scene7 Image Authoring
 uuid: 1803b3f6-2809-49a4-a409-a07356011d7d
-index: y
-internal: n
-snippet: y
 ---
 
 # Map tab for objects{#map-tab-for-objects}

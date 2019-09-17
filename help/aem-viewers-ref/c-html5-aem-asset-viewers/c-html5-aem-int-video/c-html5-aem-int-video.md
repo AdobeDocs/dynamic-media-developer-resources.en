@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Interactive Video
 topic: Dynamic media
 uuid: 116c6b40-2490-4f1a-9c76-e06082069cc8
-index: y
-internal: n
-snippet: y
 ---
 
 # Interactive Video{#interactive-video}

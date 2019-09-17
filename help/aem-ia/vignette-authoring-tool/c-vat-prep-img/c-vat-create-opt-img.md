@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Creating Optimal Images
 topic: Scene7 Image Authoring
 uuid: 38e949c1-8e59-45b4-934f-1abcc4902eea
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating Optimal Images{#creating-optimal-images}

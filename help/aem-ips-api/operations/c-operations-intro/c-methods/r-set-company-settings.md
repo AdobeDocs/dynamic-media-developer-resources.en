@@ -6,9 +6,6 @@ solution: Experience Manager
 title: setCompanySettings
 topic: Scene7 Image Production System API
 uuid: 5908082f-6743-4444-ba73-757ad4664890
-index: y
-internal: n
-snippet: y
 ---
 
 # setCompanySettings{#setcompanysettings}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: pos
 topic: Scene7 Image Serving - Image Rendering API
 uuid: f44c258d-84e9-465b-8495-ae9b96a106c3
-index: y
-internal: n
-snippet: y
 ---
 
 # pos{#pos}

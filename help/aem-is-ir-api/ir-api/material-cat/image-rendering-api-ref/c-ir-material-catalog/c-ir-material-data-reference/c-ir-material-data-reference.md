@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Material data reference
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 1f2dae40-0314-483a-a731-11889e166dee
-index: y
-internal: n
-snippet: y
 ---
 
 # Material data reference{#material-data-reference}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: VideoPlayer.ssl
 topic: Dynamic media
 uuid: 07e2c55b-2388-44c8-83ab-338997c5cb71
-index: y
-internal: n
-snippet: y
 ---
 
 # VideoPlayer.ssl{#videoplayer-ssl}

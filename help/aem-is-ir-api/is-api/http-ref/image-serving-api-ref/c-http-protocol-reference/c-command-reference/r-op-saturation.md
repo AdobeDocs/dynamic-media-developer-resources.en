@@ -6,9 +6,6 @@ solution: Experience Manager
 title: op_saturation
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 5e987841-0c3b-4f68-96b1-fad8757f3402
-index: y
-internal: n
-snippet: y
 ---
 
 # op_saturation{#op-saturation}

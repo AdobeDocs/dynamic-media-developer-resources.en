@@ -6,9 +6,6 @@ solution: Experience Manager
 title: FlyoutZoomView.iscommand
 topic: Dynamic media
 uuid: 1b776481-c40b-4892-9891-ebf3e713a4dc
-index: y
-internal: n
-snippet: y
 ---
 
 # FlyoutZoomView.iscommand{#flyoutzoomview-iscommand}

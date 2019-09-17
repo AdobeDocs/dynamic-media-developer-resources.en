@@ -6,9 +6,6 @@ solution: Experience Manager
 title: blendMode
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 9ae30495-c10b-4c55-968e-effb602a0857
-index: y
-internal: n
-snippet: y
 ---
 
 # blendMode{#blendmode}

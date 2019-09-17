@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Swatches.partialswatches
 topic: Dynamic media
 uuid: 5b15b367-a643-4a4a-9ed5-91c1da3169be
-index: y
-internal: n
-snippet: y
 ---
 
 # Swatches.partialswatches{#swatches-partialswatches}

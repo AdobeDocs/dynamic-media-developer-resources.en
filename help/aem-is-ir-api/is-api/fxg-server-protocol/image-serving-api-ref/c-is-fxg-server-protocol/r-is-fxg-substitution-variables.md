@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Substitution Variables
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 87cd9594-ba3b-429d-aa57-399902ef3abe
-index: y
-internal: n
-snippet: y
 ---
 
 # Substitution Variables{#substitution-variables}

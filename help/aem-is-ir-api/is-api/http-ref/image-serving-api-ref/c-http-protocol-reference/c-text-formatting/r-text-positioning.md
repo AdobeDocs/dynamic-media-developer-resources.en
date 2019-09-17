@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Text positioning
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 77289c50-2f3a-4486-8274-eecfd6e5452f
-index: y
-internal: n
-snippet: y
 ---
 
 # Text positioning{#text-positioning}

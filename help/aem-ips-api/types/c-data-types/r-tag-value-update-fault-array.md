@@ -6,9 +6,6 @@ solution: Experience Manager
 title: TagValueUpdateFaultArray
 topic: Scene7 Image Production System API
 uuid: c0dae056-3c26-4b8e-9069-c63a8a1b719f
-index: y
-internal: n
-snippet: y
 ---
 
 # TagValueUpdateFaultArray{#tagvalueupdatefaultarray}

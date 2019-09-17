@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Choosing a custom color
 topic: Scene7 Image Authoring
 uuid: 4b9b86c2-6957-4a96-8578-a53e31eec945
-index: y
-internal: n
-snippet: y
 ---
 
 # Choosing a custom color{#choosing-a-custom-color}

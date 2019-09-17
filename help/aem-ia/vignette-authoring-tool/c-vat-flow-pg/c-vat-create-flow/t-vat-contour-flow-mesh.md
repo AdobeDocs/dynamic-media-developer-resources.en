@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Changing the Contours of the Flowline Mesh
 topic: Scene7 Image Authoring
 uuid: 2e8ba057-a19a-479b-be75-4d99767ef481
-index: y
-internal: n
-snippet: y
 ---
 
 # Changing the Contours of the Flowline Mesh{#changing-the-contours-of-the-flowline-mesh}

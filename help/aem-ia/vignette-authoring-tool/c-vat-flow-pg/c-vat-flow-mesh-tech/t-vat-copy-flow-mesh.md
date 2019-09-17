@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Copying a Flowline Mesh
 topic: Scene7 Image Authoring
 uuid: 8dd2b8b2-a280-4695-8c9e-1fd442578f02
-index: y
-internal: n
-snippet: y
 ---
 
 # Copying a Flowline Mesh{#copying-a-flowline-mesh}

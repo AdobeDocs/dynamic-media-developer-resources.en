@@ -6,9 +6,6 @@ solution: Experience Manager
 title: AssetPublishContexts
 topic: Scene7 Image Production System API
 uuid: 85914db3-d2ea-4e73-8f8d-6e18d2d44f55
-index: y
-internal: n
-snippet: y
 ---
 
 # AssetPublishContexts{#assetpublishcontexts}

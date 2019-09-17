@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Creating a Full-Tile Repeat
 topic: Scene7 Image Authoring
 uuid: fc4372a5-1f0b-4eff-8d0c-034a9762d760
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating a Full-Tile Repeat{#creating-a-full-tile-repeat}

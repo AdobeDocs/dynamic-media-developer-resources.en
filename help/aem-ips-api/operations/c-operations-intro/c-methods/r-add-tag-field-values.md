@@ -6,9 +6,6 @@ solution: Experience Manager
 title: addTagFieldValues
 topic: Scene7 Image Production System API
 uuid: 9304f02c-a1df-4477-ab33-f2491c390c92
-index: y
-internal: n
-snippet: y
 ---
 
 # addTagFieldValues{#addtagfieldvalues}

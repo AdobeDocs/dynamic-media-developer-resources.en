@@ -6,9 +6,6 @@ solution: Experience Manager
 title: scl
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 10a365dc-9fc1-4236-9528-4aca04a4ca19
-index: y
-internal: n
-snippet: y
 ---
 
 # scl{#scl}

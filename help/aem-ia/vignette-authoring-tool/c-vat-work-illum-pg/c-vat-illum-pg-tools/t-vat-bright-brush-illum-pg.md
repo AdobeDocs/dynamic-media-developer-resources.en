@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Brightness Brush
 topic: Scene7 Image Authoring
 uuid: 1be37486-538c-462c-942b-9d10067a2fec
-index: y
-internal: n
-snippet: y
 ---
 
 # The Brightness Brush{#the-brightness-brush}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Exporting a Vignette to an Image File
 topic: Scene7 Image Authoring
 uuid: f5d34e4c-fffa-4225-9542-f0e4aef540bd
-index: y
-internal: n
-snippet: y
 ---
 
 # Exporting a Vignette to an Image File{#exporting-a-vignette-to-an-image-file}

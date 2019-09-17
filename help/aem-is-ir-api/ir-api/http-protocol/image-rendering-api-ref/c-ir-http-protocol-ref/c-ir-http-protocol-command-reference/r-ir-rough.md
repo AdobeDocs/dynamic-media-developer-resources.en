@@ -6,9 +6,6 @@ solution: Experience Manager
 title: rough
 topic: Scene7 Image Serving - Image Rendering API
 uuid: d3b4ece1-cc2a-4012-ad81-2f313d3a370b
-index: y
-internal: n
-snippet: y
 ---
 
 # rough{#rough}

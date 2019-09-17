@@ -6,9 +6,6 @@ solution: Experience Manager
 title: IPS Web Service WSDL versions
 topic: Scene7 Image Production System API
 uuid: 3443bb91-1663-4686-b20a-94c372f0026e
-index: y
-internal: n
-snippet: y
 ---
 
 # IPS Web Service WSDL versions{#ips-web-service-wsdl-versions}

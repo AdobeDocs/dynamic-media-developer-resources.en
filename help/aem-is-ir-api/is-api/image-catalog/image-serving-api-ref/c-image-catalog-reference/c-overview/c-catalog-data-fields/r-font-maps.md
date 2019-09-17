@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Font maps
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 836131e6-d899-4e36-a837-df46bf27a6b2
-index: y
-internal: n
-snippet: y
 ---
 
 # Font maps{#font-maps}

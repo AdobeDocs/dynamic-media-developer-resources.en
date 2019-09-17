@@ -6,9 +6,6 @@ solution: Experience Manager
 title: getCompanyMembership
 topic: Scene7 Image Production System API
 uuid: fb3dfe29-4292-4ab2-8015-36c4930a9c05
-index: y
-internal: n
-snippet: y
 ---
 
 # getCompanyMembership{#getcompanymembership}

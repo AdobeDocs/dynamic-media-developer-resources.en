@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Window coverings
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 3d74466a-b7c3-43b0-9b0b-f8bb809e2773
-index: y
-internal: n
-snippet: y
 ---
 
 # Window coverings{#window-coverings}

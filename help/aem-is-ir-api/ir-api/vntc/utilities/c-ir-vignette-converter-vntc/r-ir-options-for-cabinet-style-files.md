@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Options for cabinet style files
 topic: Scene7 Image Serving - Image Rendering API
 uuid: bca84724-d710-45da-86e9-7385f689fd4b
-index: y
-internal: n
-snippet: y
 ---
 
 # Options for cabinet style files{#options-for-cabinet-style-files}

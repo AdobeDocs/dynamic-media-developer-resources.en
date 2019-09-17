@@ -6,9 +6,6 @@ solution: Experience Manager
 title: VignetteMapFile
 topic: Scene7 Image Serving - Image Rendering API
 uuid: d07dcfea-241e-4431-b09e-dbd1df38b8ca
-index: y
-internal: n
-snippet: y
 ---
 
 # VignetteMapFile{#vignettemapfile}

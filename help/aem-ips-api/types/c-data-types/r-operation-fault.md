@@ -6,9 +6,6 @@ solution: Experience Manager
 title: OperationFault
 topic: Scene7 Image Production System API
 uuid: 879d025b-3269-4f87-b8bd-b7916509d077
-index: y
-internal: n
-snippet: y
 ---
 
 # OperationFault{#operationfault}

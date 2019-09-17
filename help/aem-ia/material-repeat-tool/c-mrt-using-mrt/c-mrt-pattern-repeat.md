@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Choosing the Pattern Repeat
 topic: Scene7 Image Authoring
 uuid: e1fa3bed-a9c0-4592-933d-803c36ee96ac
-index: y
-internal: n
-snippet: y
 ---
 
 # Choosing the Pattern Repeat{#choosing-the-pattern-repeat}

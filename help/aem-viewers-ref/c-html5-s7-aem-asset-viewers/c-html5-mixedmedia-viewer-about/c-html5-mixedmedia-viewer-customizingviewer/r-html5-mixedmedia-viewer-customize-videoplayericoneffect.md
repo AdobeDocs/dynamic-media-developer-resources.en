@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Video player icon effect
 topic: Dynamic media
 uuid: 5d59c4b2-a7a1-49e1-84c7-0e127a571c4f
-index: y
-internal: n
-snippet: y
 ---
 
 # Video player icon effect{#video-player-icon-effect}

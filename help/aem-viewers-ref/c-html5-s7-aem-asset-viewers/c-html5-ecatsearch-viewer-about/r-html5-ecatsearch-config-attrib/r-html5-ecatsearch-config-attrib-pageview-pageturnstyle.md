@@ -6,9 +6,6 @@ solution: Experience Manager
 title: PageView.pageturnstyle
 topic: Dynamic media
 uuid: 748adb73-bfb6-4fce-aa6a-4216184edabb
-index: y
-internal: n
-snippet: y
 ---
 
 # PageView.pageturnstyle{#pageview-pageturnstyle}

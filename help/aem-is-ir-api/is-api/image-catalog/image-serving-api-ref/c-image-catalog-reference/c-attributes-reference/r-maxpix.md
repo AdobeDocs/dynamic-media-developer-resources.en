@@ -6,9 +6,6 @@ solution: Experience Manager
 title: MaxPix
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 22c5fac8-1e64-4917-8bb8-69a95ab549cb
-index: y
-internal: n
-snippet: y
 ---
 
 # MaxPix{#maxpix}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Foreign image sources
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 28a17400-4807-4e14-937a-80309be53d55
-index: y
-internal: n
-snippet: y
 ---
 
 # Foreign image sources{#foreign-image-sources}

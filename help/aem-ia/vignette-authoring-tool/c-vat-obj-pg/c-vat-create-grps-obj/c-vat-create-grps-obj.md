@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Creating Groups and Objects
 topic: Scene7 Image Authoring
 uuid: 620b6878-ac57-48d5-816b-869aae99dfcc
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating Groups and Objects{#creating-groups-and-objects}

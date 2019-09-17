@@ -6,9 +6,6 @@ solution: Experience Manager
 title: VideoScrubber.showtime
 topic: Dynamic media
 uuid: fe4e7327-5f2e-4eb4-a3ea-57a901fec1ca
-index: y
-internal: n
-snippet: y
 ---
 
 # VideoScrubber.showtime{#videoscrubber-showtime}

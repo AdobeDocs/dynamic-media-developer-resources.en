@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Unmasked Properties
 topic: Scene7 Image Authoring
 uuid: 3c1417cc-fcb5-44f3-ae19-c1fe7491becb
-index: y
-internal: n
-snippet: y
 ---
 
 # Unmasked Properties{#unmasked-properties}

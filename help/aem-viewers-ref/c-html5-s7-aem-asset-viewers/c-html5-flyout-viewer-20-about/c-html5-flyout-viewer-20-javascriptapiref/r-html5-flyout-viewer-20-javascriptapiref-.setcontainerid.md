@@ -6,9 +6,6 @@ solution: Experience Manager
 title: setContainerId
 topic: Dynamic media
 uuid: 9a124dfb-e094-4426-8c46-aa1a784b127d
-index: y
-internal: n
-snippet: y
 ---
 
 # setContainerId{#setcontainerid}

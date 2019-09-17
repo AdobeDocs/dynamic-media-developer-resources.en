@@ -6,9 +6,6 @@ solution: Experience Manager
 title: deleteJob
 topic: Scene7 Image Production System API
 uuid: c1109cae-a3ca-40db-b641-9a6fc116c964
-index: y
-internal: n
-snippet: y
 ---
 
 # deleteJob{#deletejob}

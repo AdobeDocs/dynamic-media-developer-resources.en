@@ -6,9 +6,6 @@ solution: Experience Manager
 title: pathAttr
 topic: Scene7 Image Serving - Image Rendering API
 uuid: b0ca5821-ee08-4c18-919d-775b75f19acd
-index: y
-internal: n
-snippet: y
 ---
 
 # pathAttr{#pathattr}

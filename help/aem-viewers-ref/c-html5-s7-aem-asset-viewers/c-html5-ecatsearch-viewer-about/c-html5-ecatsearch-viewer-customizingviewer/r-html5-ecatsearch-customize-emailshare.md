@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Email share
 topic: Dynamic media
 uuid: fc60dd7b-651e-458c-9057-693ca1c0afdc
-index: y
-internal: n
-snippet: y
 ---
 
 # Email share{#email-share}

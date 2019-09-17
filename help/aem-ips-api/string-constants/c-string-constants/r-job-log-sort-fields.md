@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Job Log Sort Fields
 topic: Scene7 Image Production System API
 uuid: 20f870da-421b-4cb0-8287-0220ad9b9cb5
-index: y
-internal: n
-snippet: y
 ---
 
 # Job Log Sort Fields{#job-log-sort-fields}

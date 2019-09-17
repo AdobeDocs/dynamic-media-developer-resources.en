@@ -6,9 +6,6 @@ solution: Experience Manager
 title: BasicZoomViewer
 topic: Dynamic media
 uuid: 727e38af-636a-4eb3-b373-6940169d006b
-index: y
-internal: n
-snippet: y
 ---
 
 # BasicZoomViewer{#basiczoomviewer}

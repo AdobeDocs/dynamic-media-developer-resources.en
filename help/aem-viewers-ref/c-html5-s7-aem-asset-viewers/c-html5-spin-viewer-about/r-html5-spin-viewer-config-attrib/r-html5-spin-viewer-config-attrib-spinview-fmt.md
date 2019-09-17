@@ -6,9 +6,6 @@ solution: Experience Manager
 title: SpinView.fmt
 topic: Dynamic media
 uuid: 6004d8ab-7dc7-451d-b0e2-4f6d308203d1
-index: y
-internal: n
-snippet: y
 ---
 
 # SpinView.fmt{#spinview-fmt}

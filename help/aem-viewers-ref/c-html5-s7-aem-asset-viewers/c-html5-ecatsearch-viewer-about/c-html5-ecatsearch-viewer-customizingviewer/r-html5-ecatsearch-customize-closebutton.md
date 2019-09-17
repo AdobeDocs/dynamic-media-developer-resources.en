@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Close button
 topic: Dynamic media
 uuid: 312325a8-e10d-4c9f-a008-18ab666fbdd2
-index: y
-internal: n
-snippet: y
 ---
 
 # Close button{#close-button}

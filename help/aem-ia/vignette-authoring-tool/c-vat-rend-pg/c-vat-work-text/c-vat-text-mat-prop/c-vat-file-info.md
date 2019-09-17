@@ -6,9 +6,6 @@ solution: Experience Manager
 title: File Info
 topic: Scene7 Image Authoring
 uuid: 5b1399ba-7a17-4d0f-b09a-8a7a181273b9
-index: y
-internal: n
-snippet: y
 ---
 
 # File Info{#file-info}

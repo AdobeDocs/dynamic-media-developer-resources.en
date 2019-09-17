@@ -6,9 +6,6 @@ solution: Experience Manager
 title: SpinView.transition
 topic: Dynamic media
 uuid: 9d7ea421-9892-4276-8f22-3e1099f91f2f
-index: y
-internal: n
-snippet: y
 ---
 
 # SpinView.transition{#spinview-transition}

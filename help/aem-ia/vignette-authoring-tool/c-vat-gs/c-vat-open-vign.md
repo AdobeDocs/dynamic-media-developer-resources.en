@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Opening a Vignette
 topic: Scene7 Image Authoring
 uuid: 9ce252f4-04c4-4070-a5d6-92d81095a36d
-index: y
-internal: n
-snippet: y
 ---
 
 # Opening a Vignette{#opening-a-vignette}

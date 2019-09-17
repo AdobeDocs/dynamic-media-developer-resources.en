@@ -6,9 +6,6 @@ solution: Experience Manager
 title: AcoInfo
 topic: Scene7 Image Production System API
 uuid: 8384f1d7-8566-4dd6-a5b5-be20971b7aba
-index: y
-internal: n
-snippet: y
 ---
 
 # AcoInfo{#acoinfo}

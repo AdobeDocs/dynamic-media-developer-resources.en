@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Spin left button
 topic: Dynamic media
 uuid: ef804867-2e84-4117-be56-eefcd44f9ca2
-index: y
-internal: n
-snippet: y
 ---
 
 # Spin left button{#spin-left-button}

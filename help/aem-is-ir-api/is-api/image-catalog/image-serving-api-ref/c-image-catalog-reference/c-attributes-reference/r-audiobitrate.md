@@ -6,9 +6,6 @@ solution: Experience Manager
 title: AudioBitRate
 topic: Scene7 Image Serving - Image Rendering API
 uuid: cdcfd6b9-e0ce-4a00-b80b-4bfc4fad4b9c
-index: y
-internal: n
-snippet: y
 ---
 
 # AudioBitRate{#audiobitrate}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: init
 topic: Dynamic media
 uuid: e5d990af-1c5a-4253-8ecd-b51119cee3a2
-index: y
-internal: n
-snippet: y
 ---
 
 # init{#init}

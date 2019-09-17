@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Previous page button
 topic: Dynamic media
 uuid: 6ba16329-ce24-4a06-970e-cfcd35a8b2f0
-index: y
-internal: n
-snippet: y
 ---
 
 # Previous page button{#previous-page-button}

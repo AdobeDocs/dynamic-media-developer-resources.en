@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Uploading assets by way of HTTP POSTs to the UploadFile Servlet
 topic: Scene7 Image Production System API
 uuid: 8d562316-0849-4b95-a974-29732d453dc8
-index: y
-internal: n
-snippet: y
 ---
 
 # Uploading assets by way of HTTP POSTs to the UploadFile Servlet{#uploading-assets-by-way-of-http-posts-to-the-uploadfile-servlet}

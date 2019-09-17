@@ -6,9 +6,6 @@ solution: Experience Manager
 title: OptimizeImagesJob
 topic: Scene7 Image Production System API
 uuid: 8d1eceb7-fa50-4649-b5a6-6102449a4c72
-index: y
-internal: n
-snippet: y
 ---
 
 # OptimizeImagesJob{#optimizeimagesjob}

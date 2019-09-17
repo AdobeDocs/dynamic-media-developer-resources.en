@@ -6,9 +6,6 @@ solution: Experience Manager
 title: TableOfContents.maxitems
 topic: Dynamic media
 uuid: b1ed5145-e5d1-4458-94c4-00ee55f58a05
-index: y
-internal: n
-snippet: y
 ---
 
 # TableOfContents.maxitems{#tableofcontents-maxitems}

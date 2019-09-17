@@ -6,9 +6,6 @@ solution: Experience Manager
 title: createPropertySetType
 topic: Scene7 Image Production System API
 uuid: ecbaad48-d725-4f7a-a37d-5e4cde3295cb
-index: y
-internal: n
-snippet: y
 ---
 
 # createPropertySetType{#createpropertysettype}

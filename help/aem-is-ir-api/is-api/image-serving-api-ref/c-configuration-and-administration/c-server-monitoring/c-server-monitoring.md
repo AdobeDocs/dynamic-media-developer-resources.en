@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Server monitoring
 topic: Scene7 Image Serving - Image Rendering API
 uuid: c4042ed9-e186-4f0f-a48b-1af3b67a2f04
-index: y
-internal: n
-snippet: y
 ---
 
 # Server monitoring{#server-monitoring}

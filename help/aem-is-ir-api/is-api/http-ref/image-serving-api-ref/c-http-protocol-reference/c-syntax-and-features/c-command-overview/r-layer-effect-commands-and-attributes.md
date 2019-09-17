@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Layer effect commands
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 5fef90d1-0507-497b-9187-869672996852
-index: y
-internal: n
-snippet: y
 ---
 
 # Layer effect commands{#layer-effect-commands}

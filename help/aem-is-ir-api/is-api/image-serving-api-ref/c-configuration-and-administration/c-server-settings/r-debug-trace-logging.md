@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Debug_trace logging
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 33f1d093-007d-453b-965a-9d701a845954
-index: y
-internal: n
-snippet: y
 ---
 
 # Debug_trace logging{#debug-trace-logging}

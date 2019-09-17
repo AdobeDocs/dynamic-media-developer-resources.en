@@ -6,9 +6,6 @@ solution: Experience Manager
 title: MetadataUpdateArray
 topic: Scene7 Image Production System API
 uuid: 2d79e7a0-b8bd-4746-a5d7-b742913ebc20
-index: y
-internal: n
-snippet: y
 ---
 
 # MetadataUpdateArray{#metadataupdatearray}

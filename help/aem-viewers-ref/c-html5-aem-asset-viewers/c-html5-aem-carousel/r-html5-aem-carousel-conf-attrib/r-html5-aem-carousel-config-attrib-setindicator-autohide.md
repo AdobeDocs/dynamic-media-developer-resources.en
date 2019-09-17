@@ -6,9 +6,6 @@ solution: Experience Manager
 title: SetIndicator.autohide
 topic: Dynamic media
 uuid: eb93ad7a-6176-47ed-92c6-2eb1afcac0eb
-index: y
-internal: n
-snippet: y
 ---
 
 # SetIndicator.autohide{#setindicator-autohide}

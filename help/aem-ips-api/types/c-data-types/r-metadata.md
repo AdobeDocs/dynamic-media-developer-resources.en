@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Metadata
 topic: Scene7 Image Production System API
 uuid: fb7a0ef8-a16c-41e3-84cf-160602cb284b
-index: y
-internal: n
-snippet: y
 ---
 
 # Metadata{#metadata}

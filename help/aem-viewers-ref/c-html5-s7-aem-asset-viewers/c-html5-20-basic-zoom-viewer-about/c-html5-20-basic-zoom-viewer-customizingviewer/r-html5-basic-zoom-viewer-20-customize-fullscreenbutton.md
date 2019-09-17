@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Full screen button
 topic: Dynamic media
 uuid: 8f0ce51b-1ef6-4631-8a54-7d34cb6e3ef2
-index: y
-internal: n
-snippet: y
 ---
 
 # Full screen button{#full-screen-button}

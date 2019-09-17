@@ -6,9 +6,6 @@ solution: Experience Manager
 title: CompanyMemberArray
 topic: Scene7 Image Production System API
 uuid: 7245ad57-3673-422b-a21a-82d16691923e
-index: y
-internal: n
-snippet: y
 ---
 
 # CompanyMemberArray{#companymemberarray}

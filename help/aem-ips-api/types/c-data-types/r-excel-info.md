@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ExcelInfo
 topic: Scene7 Image Production System API
 uuid: 27c11719-ac8f-43b2-a08a-cb46f47b8006
-index: y
-internal: n
-snippet: y
 ---
 
 # ExcelInfo{#excelinfo}

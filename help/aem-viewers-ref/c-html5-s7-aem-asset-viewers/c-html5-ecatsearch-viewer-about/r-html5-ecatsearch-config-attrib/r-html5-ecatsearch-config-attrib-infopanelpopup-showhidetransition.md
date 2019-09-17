@@ -6,9 +6,6 @@ solution: Experience Manager
 title: InfoPanelPopup.showhidetransition
 topic: Dynamic media
 uuid: ddd78693-e8f3-473c-91b3-8038e99c8ff1
-index: y
-internal: n
-snippet: y
 ---
 
 # InfoPanelPopup.showhidetransition{#infopanelpopup-showhidetransition}

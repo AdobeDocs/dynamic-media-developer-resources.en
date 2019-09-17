@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Deprecated calls
 topic: Scene7 Image Production System API
 uuid: 03925728-f011-45f0-84a6-808dff0fd529
-index: y
-internal: n
-snippet: y
 ---
 
 # Deprecated calls{#deprecated-calls}

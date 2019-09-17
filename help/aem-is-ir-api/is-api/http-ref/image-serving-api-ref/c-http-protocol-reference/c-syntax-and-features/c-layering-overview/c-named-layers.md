@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Named layers
 topic: Scene7 Image Serving - Image Rendering API
 uuid: dad30027-338b-4387-9a14-b26c1b925b18
-index: y
-internal: n
-snippet: y
 ---
 
 # Named layers{#named-layers}

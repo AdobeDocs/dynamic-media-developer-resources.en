@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Alignment
 topic: Scene7 Image Serving - Image Rendering API
 uuid: c64d7986-9bb9-4566-8e2f-dca7f459049e
-index: y
-internal: n
-snippet: y
 ---
 
 # Alignment{#alignment}

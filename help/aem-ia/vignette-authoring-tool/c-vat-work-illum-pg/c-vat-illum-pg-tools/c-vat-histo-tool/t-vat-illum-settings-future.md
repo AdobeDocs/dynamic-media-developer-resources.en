@@ -6,9 +6,6 @@ solution: Experience Manager
 title: To Save Illumination Settings for Future Use
 topic: Scene7 Image Authoring
 uuid: 07f94717-de6c-45ba-9f9f-f5f8396fe6ca
-index: y
-internal: n
-snippet: y
 ---
 
 # To Save Illumination Settings for Future Use{#to-save-illumination-settings-for-future-use}

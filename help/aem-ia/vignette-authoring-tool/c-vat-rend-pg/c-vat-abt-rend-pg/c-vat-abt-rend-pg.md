@@ -6,9 +6,6 @@ solution: Experience Manager
 title: About the Render Page
 topic: Scene7 Image Authoring
 uuid: dd13774c-ad7e-4e07-8f07-785665c8bb5d
-index: y
-internal: n
-snippet: y
 ---
 
 # About the Render Page{#about-the-render-page}

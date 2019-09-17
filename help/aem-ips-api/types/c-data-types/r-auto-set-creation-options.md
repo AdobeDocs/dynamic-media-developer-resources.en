@@ -6,9 +6,6 @@ solution: Experience Manager
 title: AutoSetCreationOptions
 topic: Scene7 Image Production System API
 uuid: 2840fc3a-1135-4719-8f62-96a816df5f88
-index: y
-internal: n
-snippet: y
 ---
 
 # AutoSetCreationOptions{#autosetcreationoptions}

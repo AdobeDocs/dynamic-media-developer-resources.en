@@ -6,9 +6,6 @@ solution: Experience Manager
 title: createVignettePublishFormat
 topic: Scene7 Image Production System API
 uuid: 834ebe6a-e105-4075-8004-172237980933
-index: y
-internal: n
-snippet: y
 ---
 
 # createVignettePublishFormat{#createvignettepublishformat}

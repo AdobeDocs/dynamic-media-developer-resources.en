@@ -4,9 +4,6 @@ seo-description: Certain content that the Interactive Image Viewer displays is s
 seo-title: Localization of user interface elements
 title: Localization of user interface elements
 uuid: 1a22570b-8435-4e57-a022-34428bddc7f7
-index: y
-internal: n
-snippet: y
 ---
 
 # Localization of user interface elements{#localization-of-user-interface-elements}

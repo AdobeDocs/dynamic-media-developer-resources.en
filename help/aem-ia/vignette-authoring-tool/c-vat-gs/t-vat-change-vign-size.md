@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Changing the Size of a Vignette
 topic: Scene7 Image Authoring
 uuid: e24382d6-ad4d-4f51-8cf8-67edabfb2e72
-index: y
-internal: n
-snippet: y
 ---
 
 # Changing the Size of a Vignette{#changing-the-size-of-a-vignette}

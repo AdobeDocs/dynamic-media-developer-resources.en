@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Creating a New Cabinet Style File
 topic: Scene7 Image Authoring
 uuid: 195f5fd5-3d55-49b0-894a-04f25aa4f86c
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating a New Cabinet Style File{#creating-a-new-cabinet-style-file}

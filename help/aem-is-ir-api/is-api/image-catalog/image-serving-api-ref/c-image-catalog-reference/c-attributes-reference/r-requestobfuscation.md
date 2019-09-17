@@ -6,9 +6,6 @@ solution: Experience Manager
 title: RequestObfuscation
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 07154e06-c386-45a7-b5ac-60f0aef3c362
-index: y
-internal: n
-snippet: y
 ---
 
 # RequestObfuscation{#requestobfuscation}

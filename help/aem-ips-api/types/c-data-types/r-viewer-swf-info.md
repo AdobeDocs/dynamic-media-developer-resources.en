@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ViewerSwfInfo
 topic: Scene7 Image Production System API
 uuid: 1432b0b0-7084-4eb0-a3cd-0e5bee2a5649
-index: y
-internal: n
-snippet: y
 ---
 
 # ViewerSwfInfo{#viewerswfinfo}

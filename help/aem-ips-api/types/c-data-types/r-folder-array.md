@@ -6,9 +6,6 @@ solution: Experience Manager
 title: FolderArray
 topic: Scene7 Image Production System API
 uuid: 4dd51d7c-6198-4c69-a2ae-c533fd8baae9
-index: y
-internal: n
-snippet: y
 ---
 
 # FolderArray{#folderarray}

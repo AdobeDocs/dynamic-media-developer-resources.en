@@ -6,9 +6,6 @@ solution: Experience Manager
 title: rule
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 8b8e5b06-a0b7-47e1-942d-0297d08c313b
-index: y
-internal: n
-snippet: y
 ---
 
 # rule{#rule}

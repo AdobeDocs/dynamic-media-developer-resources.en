@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Roughness
 topic: Scene7 Image Serving - Image Rendering API
 uuid: d71e4411-dd59-4347-a7c2-132e130ff36b
-index: y
-internal: n
-snippet: y
 ---
 
 # Roughness{#roughness}

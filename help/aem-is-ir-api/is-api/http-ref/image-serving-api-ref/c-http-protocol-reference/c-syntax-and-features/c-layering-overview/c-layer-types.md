@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Layer types
 topic: Scene7 Image Serving - Image Rendering API
 uuid: d88b2163-7c9f-4885-9722-be3339e7127a
-index: y
-internal: n
-snippet: y
 ---
 
 # Layer types{#layer-types}

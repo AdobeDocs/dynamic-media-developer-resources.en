@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Text formatting
 topic: Scene7 Image Serving - Image Rendering API
 uuid: e67b6dd2-2a78-4014-9525-816d91c9e783
-index: y
-internal: n
-snippet: y
 ---
 
 # Text formatting{#text-formatting}

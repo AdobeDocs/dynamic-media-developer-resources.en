@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Uninstalling on Linux and Solaris
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 80c0d6ec-985b-4596-bd67-22e5029f7b37
-index: y
-internal: n
-snippet: y
 ---
 
 # Uninstalling on Linux and Solaris{#uninstalling-on-linux-and-solaris}

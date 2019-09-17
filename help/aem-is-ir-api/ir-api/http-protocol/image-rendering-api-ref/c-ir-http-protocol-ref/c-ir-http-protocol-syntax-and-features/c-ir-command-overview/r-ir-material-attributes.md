@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Material attributes
 topic: Scene7 Image Serving - Image Rendering API
 uuid: afdff304-f607-4820-bdb2-f428271efb87
-index: y
-internal: n
-snippet: y
 ---
 
 # Material attributes{#material-attributes}

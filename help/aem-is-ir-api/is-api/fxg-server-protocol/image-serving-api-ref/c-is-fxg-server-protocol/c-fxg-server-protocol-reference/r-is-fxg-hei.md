@@ -6,9 +6,6 @@ solution: Experience Manager
 title: hei
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 6f7e580b-6399-4661-b5d9-8044574ba124
-index: y
-internal: n
-snippet: y
 ---
 
 # hei{#hei}

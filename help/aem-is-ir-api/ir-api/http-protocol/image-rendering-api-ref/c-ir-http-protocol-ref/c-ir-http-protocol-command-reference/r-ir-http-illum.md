@@ -6,9 +6,6 @@ solution: Experience Manager
 title: illum
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 16c7144f-7f16-47d1-8140-fd679e702660
-index: y
-internal: n
-snippet: y
 ---
 
 # illum{#illum}

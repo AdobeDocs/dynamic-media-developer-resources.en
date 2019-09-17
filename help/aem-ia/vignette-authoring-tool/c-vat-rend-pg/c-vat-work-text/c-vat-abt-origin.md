@@ -6,9 +6,6 @@ solution: Experience Manager
 title: About the Origin
 topic: Scene7 Image Authoring
 uuid: cae738b4-8c53-4771-bbe1-0088d02e5225
-index: y
-internal: n
-snippet: y
 ---
 
 # About the Origin{#about-the-origin}

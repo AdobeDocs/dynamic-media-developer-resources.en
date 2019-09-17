@@ -6,9 +6,6 @@ solution: Experience Manager
 title: deleteGroup
 topic: Scene7 Image Production System API
 uuid: 04934b16-b7ef-4657-9f63-c91fcc741ca4
-index: y
-internal: n
-snippet: y
 ---
 
 # deleteGroup{#deletegroup}

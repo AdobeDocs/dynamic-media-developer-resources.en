@@ -6,9 +6,6 @@ solution: Experience Manager
 title: OnFailObj
 topic: Scene7 Image Serving - Image Rendering API
 uuid: b9dcaf29-ffa5-47db-9c8c-d1809da73582
-index: y
-internal: n
-snippet: y
 ---
 
 # OnFailObj{#onfailobj}

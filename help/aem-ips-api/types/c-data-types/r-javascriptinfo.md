@@ -6,9 +6,6 @@ solution: Experience Manager
 title: JavascriptInfo
 topic: Scene7 Image Production System API
 uuid: cc80127a-f189-43a8-9ea1-1887520441fa
-index: y
-internal: n
-snippet: y
 ---
 
 # JavascriptInfo{#javascriptinfo}

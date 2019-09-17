@@ -6,9 +6,6 @@ solution: Experience Manager
 title: To Import a Drop Shadow from Photoshop
 topic: Scene7 Image Authoring
 uuid: 62d72782-5d05-4ec3-acd4-83b1842dfe52
-index: y
-internal: n
-snippet: y
 ---
 
 # To Import a Drop Shadow from Photoshop{#to-import-a-drop-shadow-from-photoshop}

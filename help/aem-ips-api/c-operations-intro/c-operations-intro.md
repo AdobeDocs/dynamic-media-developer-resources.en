@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Operations methods
 topic: Scene7 Image Production System API
 uuid: 713646a7-1108-4f93-bec2-3fbe7e548515
-index: y
-internal: n
-snippet: y
 ---
 
 # Operations methods{#operations-methods}

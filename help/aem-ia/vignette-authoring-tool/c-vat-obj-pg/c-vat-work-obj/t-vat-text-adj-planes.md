@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Matching Up Textures on Adjacent Planes
 topic: Scene7 Image Authoring
 uuid: 789719e4-8d35-4b3a-9c46-18122af3a2c0
-index: y
-internal: n
-snippet: y
 ---
 
 # Matching Up Textures on Adjacent Planes{#matching-up-textures-on-adjacent-planes}

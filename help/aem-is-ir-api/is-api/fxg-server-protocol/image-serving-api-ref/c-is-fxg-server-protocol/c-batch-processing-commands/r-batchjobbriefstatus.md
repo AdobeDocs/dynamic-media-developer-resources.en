@@ -6,9 +6,6 @@ solution: Experience Manager
 title: batchjobbriefstatus
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 601e8395-8a77-4324-9cd7-5fe321bc91e3
-index: y
-internal: n
-snippet: y
 ---
 
 # batchjobbriefstatus{#batchjobbriefstatus}

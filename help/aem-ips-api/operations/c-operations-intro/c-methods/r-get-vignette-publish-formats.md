@@ -6,9 +6,6 @@ solution: Experience Manager
 title: getVignettePublishFormats
 topic: Scene7 Image Production System API
 uuid: 2cf58002-5c4a-4391-85d4-4a67cb085afa
-index: y
-internal: n
-snippet: y
 ---
 
 # getVignettePublishFormats{#getvignettepublishformats}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Licensing
 topic: Scene7 Image Serving - Image Rendering API
 uuid: dbc4eddc-a518-4337-9e09-ba40c02de797
-index: y
-internal: n
-snippet: y
 ---
 
 # Licensing{#licensing}

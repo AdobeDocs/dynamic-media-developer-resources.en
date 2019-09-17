@@ -6,9 +6,6 @@ solution: Experience Manager
 title: View transform for thumbnails
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 29924bc1-ada1-420f-aef7-bf9a7db7065b
-index: y
-internal: n
-snippet: y
 ---
 
 # View transform for thumbnails{#view-transform-for-thumbnails}

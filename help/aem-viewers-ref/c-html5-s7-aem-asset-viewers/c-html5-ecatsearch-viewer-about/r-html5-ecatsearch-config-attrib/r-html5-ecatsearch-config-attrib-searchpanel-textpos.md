@@ -6,9 +6,6 @@ solution: Experience Manager
 title: SearchPanel.textpos
 topic: Dynamic media
 uuid: ed68aaa1-121c-458e-a724-3832915dca24
-index: y
-internal: n
-snippet: y
 ---
 
 # SearchPanel.textpos{#searchpanel-textpos}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Questions About the Mask Page
 topic: Scene7 Image Authoring
 uuid: 2d33006c-8275-4308-baa0-6ec0eab68275
-index: y
-internal: n
-snippet: y
 ---
 
 # Questions About the Mask Page{#questions-about-the-mask-page}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: IccProfileSrcGray
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 823c0e33-8bb7-4754-81cf-61a5ed6f45ce
-index: y
-internal: n
-snippet: y
 ---
 
 # IccProfileSrcGray{#iccprofilesrcgray}

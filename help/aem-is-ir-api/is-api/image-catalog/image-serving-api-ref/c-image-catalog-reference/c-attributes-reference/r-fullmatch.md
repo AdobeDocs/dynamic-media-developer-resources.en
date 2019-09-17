@@ -6,9 +6,6 @@ solution: Experience Manager
 title: FullMatch
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 0c69ba92-1411-4cb7-ac28-d26fe035222f
-index: y
-internal: n
-snippet: y
 ---
 
 # FullMatch{#fullmatch}

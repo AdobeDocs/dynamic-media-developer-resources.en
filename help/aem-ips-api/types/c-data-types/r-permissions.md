@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Permission
 topic: Scene7 Image Production System API
 uuid: 3b3580d3-e5bc-42bf-bfbe-ab0ec2dea574
-index: y
-internal: n
-snippet: y
 ---
 
 # Permission{#permission}

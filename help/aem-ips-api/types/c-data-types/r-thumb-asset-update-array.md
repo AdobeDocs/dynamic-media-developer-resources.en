@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ThumbAssetUpdateArray
 topic: Scene7 Image Production System API
 uuid: 43b96b01-3a88-48cc-b653-262c9fb798a5
-index: y
-internal: n
-snippet: y
 ---
 
 # ThumbAssetUpdateArray{#thumbassetupdatearray}

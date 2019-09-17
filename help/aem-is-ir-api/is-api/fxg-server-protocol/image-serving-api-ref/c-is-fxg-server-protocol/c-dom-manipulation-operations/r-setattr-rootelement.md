@@ -6,9 +6,6 @@ solution: Experience Manager
 title: setAttr.rootElement
 topic: Scene7 Image Serving - Image Rendering API
 uuid: dda16612-57c7-4abe-8aa4-00e599a8ea69
-index: y
-internal: n
-snippet: y
 ---
 
 # setAttr.rootElement{#setattr-rootelement}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: op_hue
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 23da539e-0192-4dc4-a19b-41aa94a82730
-index: y
-internal: n
-snippet: y
 ---
 
 # op_hue{#op-hue}

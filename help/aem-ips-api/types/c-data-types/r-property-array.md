@@ -6,9 +6,6 @@ solution: Experience Manager
 title: PropertyArray
 topic: Scene7 Image Production System API
 uuid: a28dd70f-953c-472a-9c23-020db134e1af
-index: y
-internal: n
-snippet: y
 ---
 
 # PropertyArray{#propertyarray}

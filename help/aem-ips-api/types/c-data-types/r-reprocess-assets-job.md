@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ReprocessAssetsJob
 topic: Scene7 Image Production System API
 uuid: 5b4aa838-0fb4-4ae8-be5a-8ce1e1487127
-index: y
-internal: n
-snippet: y
 ---
 
 # ReprocessAssetsJob{#reprocessassetsjob}

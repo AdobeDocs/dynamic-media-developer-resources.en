@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Rendering with a Solid Color
 topic: Scene7 Image Authoring
 uuid: 5073a786-3a81-4fe0-895e-8fc825fb6321
-index: y
-internal: n
-snippet: y
 ---
 
 # Rendering with a Solid Color{#rendering-with-a-solid-color}

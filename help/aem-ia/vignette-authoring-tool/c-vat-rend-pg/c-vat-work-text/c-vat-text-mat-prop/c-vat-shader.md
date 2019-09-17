@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Shader
 topic: Scene7 Image Authoring
 uuid: 6bf7c0fb-f993-40c3-83c7-8583900ab3db
-index: y
-internal: n
-snippet: y
 ---
 
 # Shader{#shader}

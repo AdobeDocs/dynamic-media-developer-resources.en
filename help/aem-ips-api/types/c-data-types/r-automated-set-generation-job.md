@@ -6,9 +6,6 @@ solution: Experience Manager
 title: AutomatedSetGenerationJob
 topic: Scene7 Image Production System API
 uuid: 9c664bde-a731-4d6b-ae6b-c862bda02d4c
-index: y
-internal: n
-snippet: y
 ---
 
 # AutomatedSetGenerationJob{#automatedsetgenerationjob}

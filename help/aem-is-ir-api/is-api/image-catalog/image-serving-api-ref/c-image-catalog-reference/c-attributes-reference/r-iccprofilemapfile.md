@@ -6,9 +6,6 @@ solution: Experience Manager
 title: IccProfileMapFile
 topic: Scene7 Image Serving - Image Rendering API
 uuid: da7e6b02-8fe6-4045-b4c5-b46d7bdd6ee2
-index: y
-internal: n
-snippet: y
 ---
 
 # IccProfileMapFile{#iccprofilemapfile}

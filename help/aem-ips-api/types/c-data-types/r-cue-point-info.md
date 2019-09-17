@@ -6,9 +6,6 @@ solution: Experience Manager
 title: CuePointInfo
 topic: Scene7 Image Production System API
 uuid: 0a1f7235-cbb9-4643-88de-31ada3cef2e5
-index: y
-internal: n
-snippet: y
 ---
 
 # CuePointInfo{#cuepointinfo}

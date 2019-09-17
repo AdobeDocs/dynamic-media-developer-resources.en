@@ -6,9 +6,6 @@ solution: Experience Manager
 title: op_brightness
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 751ec9e5-4a70-438d-950c-deff4db034b1
-index: y
-internal: n
-snippet: y
 ---
 
 # op_brightness{#op-brightness}

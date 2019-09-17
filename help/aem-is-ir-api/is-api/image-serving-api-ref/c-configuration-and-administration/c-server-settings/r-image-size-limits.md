@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Image size limits
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 6736e652-c495-45a2-bdd2-9975f99af0a2
-index: y
-internal: n
-snippet: y
 ---
 
 # Image size limits{#image-size-limits}

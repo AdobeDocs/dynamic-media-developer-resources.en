@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Text layer commands
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 00d2643c-1a74-4542-bd72-e6dc22d402b0
-index: y
-internal: n
-snippet: y
 ---
 
 # Text layer commands{#text-layer-commands}

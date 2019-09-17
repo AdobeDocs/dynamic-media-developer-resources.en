@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ThumbRes
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 10bbad31-a0fd-4ed3-b708-87822777acdd
-index: y
-internal: n
-snippet: y
 ---
 
 # ThumbRes{#thumbres}

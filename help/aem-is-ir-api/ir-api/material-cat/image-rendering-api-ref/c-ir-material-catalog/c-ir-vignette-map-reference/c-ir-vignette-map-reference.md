@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Vignette map reference
 topic: Scene7 Image Serving - Image Rendering API
 uuid: a7056c16-1d05-44c8-9dd5-8969f64d3383
-index: y
-internal: n
-snippet: y
 ---
 
 # Vignette map reference{#vignette-map-reference}

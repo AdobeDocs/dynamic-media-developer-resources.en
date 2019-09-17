@@ -6,9 +6,6 @@ solution: Experience Manager
 title: SpinView.iscommand
 topic: Dynamic media
 uuid: e2c86ec3-0f8a-42eb-98a1-689f083fa20c
-index: y
-internal: n
-snippet: y
 ---
 
 # SpinView.iscommand{#spinview-iscommand}

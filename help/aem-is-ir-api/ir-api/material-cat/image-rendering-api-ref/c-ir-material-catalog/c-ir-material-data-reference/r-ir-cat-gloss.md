@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Gloss
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 7db83f99-15ab-4c43-adfb-07ad0b0c9707
-index: y
-internal: n
-snippet: y
 ---
 
 # Gloss{#gloss}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Video player
 topic: Dynamic media
 uuid: ff0f78b1-ff88-47b8-a118-4e0b3e75f341
-index: y
-internal: n
-snippet: y
 ---
 
 # Video player{#video-player}

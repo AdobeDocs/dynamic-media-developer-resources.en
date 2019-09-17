@@ -6,9 +6,6 @@ solution: Experience Manager
 title: getActiveJobs
 topic: Scene7 Image Production System API
 uuid: 3231d349-b254-4dd0-804d-8beaab116b56
-index: y
-internal: n
-snippet: y
 ---
 
 # getActiveJobs{#getactivejobs}

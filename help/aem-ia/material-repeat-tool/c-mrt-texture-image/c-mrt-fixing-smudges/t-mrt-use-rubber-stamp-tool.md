@@ -6,9 +6,6 @@ solution: Experience Manager
 title: To Use the Rubber Stamp Tool
 topic: Scene7 Image Authoring
 uuid: cd502494-621f-4afc-845e-7cd56baebb1c
-index: y
-internal: n
-snippet: y
 ---
 
 # To Use the Rubber Stamp Tool{#to-use-the-rubber-stamp-tool}

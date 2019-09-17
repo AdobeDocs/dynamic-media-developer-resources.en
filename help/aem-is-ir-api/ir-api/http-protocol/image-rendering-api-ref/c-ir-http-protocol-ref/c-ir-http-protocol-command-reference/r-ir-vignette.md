@@ -6,9 +6,6 @@ solution: Experience Manager
 title: vignette
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 8bba4ad4-bd55-4c55-8ebf-585371cf33f1
-index: y
-internal: n
-snippet: y
 ---
 
 # vignette{#vignette}

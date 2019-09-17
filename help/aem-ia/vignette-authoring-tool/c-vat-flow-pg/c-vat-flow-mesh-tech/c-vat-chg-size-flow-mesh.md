@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Changing the Size of the Flowline Mesh
 topic: Scene7 Image Authoring
 uuid: 6d2a15d1-4299-44db-984c-81ae5f4cf6a5
-index: y
-internal: n
-snippet: y
 ---
 
 # Changing the Size of the Flowline Mesh{#changing-the-size-of-the-flowline-mesh}

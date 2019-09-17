@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Catalog cache folder (ir.catalogCacheRoot)
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 18d400f4-7827-44a1-b09b-2292b97cd6cb
-index: y
-internal: n
-snippet: y
 ---
 
 # Catalog cache folder (ir.catalogCacheRoot){#catalog-cache-folder-ir-catalogcacheroot}

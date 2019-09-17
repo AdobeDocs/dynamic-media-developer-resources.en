@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Example C
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 25f228c2-dc03-461a-aee8-40fdb3d4cf5e
-index: y
-internal: n
-snippet: y
 ---
 
 # Example C{#example-c}

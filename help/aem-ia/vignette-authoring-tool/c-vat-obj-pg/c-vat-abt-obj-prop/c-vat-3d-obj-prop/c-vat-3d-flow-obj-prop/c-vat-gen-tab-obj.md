@@ -6,9 +6,6 @@ solution: Experience Manager
 title: General tab for objects
 topic: Scene7 Image Authoring
 uuid: 8897ca9b-6a96-4228-a83c-f8f8dff029e5
-index: y
-internal: n
-snippet: y
 ---
 
 # General tab for objects{#general-tab-for-objects}

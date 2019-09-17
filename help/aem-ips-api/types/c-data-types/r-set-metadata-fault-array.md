@@ -6,9 +6,6 @@ solution: Experience Manager
 title: SetMetadataFaultArray
 topic: Scene7 Image Production System API
 uuid: 9a56312d-51a3-476c-b0a7-b5117f47b52c
-index: y
-internal: n
-snippet: y
 ---
 
 # SetMetadataFaultArray{#setmetadatafaultarray}

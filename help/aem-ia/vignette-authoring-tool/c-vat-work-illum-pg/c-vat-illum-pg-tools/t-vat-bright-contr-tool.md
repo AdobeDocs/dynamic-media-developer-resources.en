@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Brightness-Contrast Tool
 topic: Scene7 Image Authoring
 uuid: 089cb5bb-b237-424d-af06-819579dcb6f8
-index: y
-internal: n
-snippet: y
 ---
 
 # The Brightness-Contrast Tool{#the-brightness-contrast-tool}

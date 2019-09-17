@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Using the Edge Recognition for Sketch Features
 topic: Scene7 Image Authoring
 uuid: 7a566ab9-e12f-408d-8ac2-72644912c636
-index: y
-internal: n
-snippet: y
 ---
 
 # Using the Edge Recognition for Sketch Features{#using-the-edge-recognition-for-sketch-features}

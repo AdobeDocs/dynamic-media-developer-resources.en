@@ -6,9 +6,6 @@ solution: Experience Manager
 title: About Window Coverings
 topic: Scene7 Image Authoring
 uuid: 754b8877-720c-4499-bd1d-3362151cded7
-index: y
-internal: n
-snippet: y
 ---
 
 # About Window Coverings{#about-window-coverings}

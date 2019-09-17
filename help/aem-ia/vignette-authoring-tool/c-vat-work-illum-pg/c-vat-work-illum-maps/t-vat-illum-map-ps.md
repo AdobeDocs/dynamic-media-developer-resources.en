@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Editing an Illumination Map in Photoshop
 topic: Scene7 Image Authoring
 uuid: bb2059cb-7e6f-40e3-be14-a2afb56dde03
-index: y
-internal: n
-snippet: y
 ---
 
 # Editing an Illumination Map in Photoshop{#editing-an-illumination-map-in-photoshop}

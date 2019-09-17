@@ -6,9 +6,6 @@ solution: Experience Manager
 title: View Properties
 topic: Scene7 Image Authoring
 uuid: 75958816-a9ce-4085-9f21-2f8ed44e782a
-index: y
-internal: n
-snippet: y
 ---
 
 # View Properties{#view-properties}

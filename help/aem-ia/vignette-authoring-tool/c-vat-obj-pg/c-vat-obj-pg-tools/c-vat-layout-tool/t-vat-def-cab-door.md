@@ -6,9 +6,6 @@ solution: Experience Manager
 title: To Define a Cabinet Door Type Using the Layout Tool
 topic: Scene7 Image Authoring
 uuid: f4b3791d-2ceb-4058-833c-d9d821c649d3
-index: y
-internal: n
-snippet: y
 ---
 
 # To Define a Cabinet Door Type Using the Layout Tool{#to-define-a-cabinet-door-type-using-the-layout-tool}

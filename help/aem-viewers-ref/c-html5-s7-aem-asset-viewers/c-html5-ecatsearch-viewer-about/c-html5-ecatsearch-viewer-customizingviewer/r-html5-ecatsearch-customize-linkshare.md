@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Link share
 topic: Dynamic media
 uuid: e3b398c3-8dc8-4eaf-ba33-d4e76181cef8
-index: y
-internal: n
-snippet: y
 ---
 
 # Link share{#link-share}

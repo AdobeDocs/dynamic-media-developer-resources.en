@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Deleting a Group or Object
 topic: Scene7 Image Authoring
 uuid: 0e84bc2e-dd11-4061-894e-2b303212263b
-index: y
-internal: n
-snippet: y
 ---
 
 # Deleting a Group or Object{#deleting-a-group-or-object}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Color management attributes
 topic: Scene7 Image Serving - Image Rendering API
 uuid: e136b1bd-650e-4f3d-90e8-df1df814ec48
-index: y
-internal: n
-snippet: y
 ---
 
 # Color management attributes{#color-management-attributes}

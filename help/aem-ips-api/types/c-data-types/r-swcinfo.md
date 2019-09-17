@@ -6,9 +6,6 @@ solution: Experience Manager
 title: SwcInfo
 topic: Scene7 Image Production System API
 uuid: 930b2ccd-5f32-4cc2-bef7-1f6eeb48dd1b
-index: y
-internal: n
-snippet: y
 ---
 
 # SwcInfo{#swcinfo}

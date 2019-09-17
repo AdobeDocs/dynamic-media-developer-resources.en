@@ -6,9 +6,6 @@ solution: Experience Manager
 title: RuleSetFile
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 904fb549-053a-4f84-9cee-766df8d798e2
-index: y
-internal: n
-snippet: y
 ---
 
 # RuleSetFile{#rulesetfile}

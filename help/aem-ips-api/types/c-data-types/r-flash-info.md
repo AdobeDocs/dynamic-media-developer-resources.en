@@ -6,9 +6,6 @@ solution: Experience Manager
 title: FlashInfo
 topic: Scene7 Image Production System API
 uuid: ac36a7db-7ffd-40ab-bb21-9cbc0c31070b
-index: y
-internal: n
-snippet: y
 ---
 
 # FlashInfo{#flashinfo}

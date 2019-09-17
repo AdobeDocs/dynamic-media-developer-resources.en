@@ -6,9 +6,6 @@ solution: Experience Manager
 title: iccEmbed
 topic: Scene7 Image Serving - Image Rendering API
 uuid: a53580f4-86bc-4dbf-87ee-8829091b6381
-index: y
-internal: n
-snippet: y
 ---
 
 # iccEmbed{#iccembed}

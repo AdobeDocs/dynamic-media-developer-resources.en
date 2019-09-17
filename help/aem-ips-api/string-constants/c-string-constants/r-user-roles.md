@@ -6,9 +6,6 @@ solution: Experience Manager
 title: User Roles
 topic: Scene7 Image Production System API
 uuid: d971c6aa-981a-4e15-b268-7bd685bad03b
-index: y
-internal: n
-snippet: y
 ---
 
 # User Roles{#user-roles}

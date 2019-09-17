@@ -6,9 +6,6 @@ solution: Experience Manager
 title: deleteImageMap
 topic: Scene7 Image Production System API
 uuid: 0abdf72c-f445-41d0-bd88-63b7ad1359d5
-index: y
-internal: n
-snippet: y
 ---
 
 # deleteImageMap{#deleteimagemap}

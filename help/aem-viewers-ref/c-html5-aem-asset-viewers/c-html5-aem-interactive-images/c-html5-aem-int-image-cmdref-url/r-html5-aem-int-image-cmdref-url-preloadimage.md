@@ -6,9 +6,6 @@ solution: Experience Manager
 title: preloadimage
 topic: Dynamic media
 uuid: 3b45dc86-8963-465f-b23f-519d54c2ce85
-index: y
-internal: n
-snippet: y
 ---
 
 # preloadimage{#preloadimage}

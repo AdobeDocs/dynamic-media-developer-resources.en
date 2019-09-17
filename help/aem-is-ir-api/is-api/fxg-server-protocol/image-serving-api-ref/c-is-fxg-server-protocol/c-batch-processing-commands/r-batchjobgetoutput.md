@@ -6,9 +6,6 @@ solution: Experience Manager
 title: batchjobgetoutput
 topic: Scene7 Image Serving - Image Rendering API
 uuid: c2d49cc2-3223-4f0f-8ba7-4f74a5f76789
-index: y
-internal: n
-snippet: y
 ---
 
 # batchjobgetoutput{#batchjobgetoutput}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: printerMark
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 3e5699ce-3ccd-4f85-91dd-c40c252a758d
-index: y
-internal: n
-snippet: y
 ---
 
 # printerMark{#printermark}

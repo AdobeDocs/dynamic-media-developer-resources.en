@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Feather Tool
 topic: Scene7 Image Authoring
 uuid: 4ff5dacb-8e18-436d-880d-7f3702c7745d
-index: y
-internal: n
-snippet: y
 ---
 
 # The Feather Tool{#the-feather-tool}

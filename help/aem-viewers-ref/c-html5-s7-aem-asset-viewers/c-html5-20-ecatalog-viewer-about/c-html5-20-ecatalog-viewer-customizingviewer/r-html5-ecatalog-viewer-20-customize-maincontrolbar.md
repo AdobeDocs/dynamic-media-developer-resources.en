@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Main control bar
 topic: Dynamic media
 uuid: 0900f678-d7ec-4653-bc8a-21b8da7d5044
-index: y
-internal: n
-snippet: y
 ---
 
 # Main control bar{#main-control-bar}

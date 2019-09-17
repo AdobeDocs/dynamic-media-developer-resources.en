@@ -6,9 +6,6 @@ solution: Experience Manager
 title: EmailShare.emailurl
 topic: Dynamic media
 uuid: 27e3b0fb-0503-4993-a858-3f29d8d3bfb0
-index: y
-internal: n
-snippet: y
 ---
 
 # EmailShare.emailurl{#emailshare-emailurl}

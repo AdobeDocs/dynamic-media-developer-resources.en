@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Zoom view icon effect
 topic: Dynamic media
 uuid: 69a44789-9587-4459-9c75-048773c9e368
-index: y
-internal: n
-snippet: y
 ---
 
 # Zoom view icon effect{#zoom-view-icon-effect}

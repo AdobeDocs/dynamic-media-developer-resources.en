@@ -6,9 +6,6 @@ solution: Experience Manager
 title: PageView.iconEffect
 topic: Dynamic media
 uuid: c8adabf9-ccbf-4a46-b1e7-b4cb58d4e606
-index: y
-internal: n
-snippet: y
 ---
 
 # PageView.iconEffect{#pageview-iconeffect}

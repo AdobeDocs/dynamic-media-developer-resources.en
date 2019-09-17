@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Repeatable textures
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 11a55d9f-a1d7-490e-af0e-9bf2c3a35501
-index: y
-internal: n
-snippet: y
 ---
 
 # Repeatable textures{#repeatable-textures}

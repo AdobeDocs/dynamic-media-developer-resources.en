@@ -6,9 +6,6 @@ solution: Experience Manager
 title: To Preserve the Contrast of the Object and Adjust the Brightness Automatically
 topic: Scene7 Image Authoring
 uuid: f0020684-12a8-4ed4-ab38-da0fc5876fd0
-index: y
-internal: n
-snippet: y
 ---
 
 # To Preserve the Contrast of the Object and Adjust the Brightness Automatically{#to-preserve-the-contrast-of-the-object-and-adjust-the-brightness-automatically}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Image Serving components
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 84e04972-32ce-4aca-aae6-d5b8bbe761e6
-index: y
-internal: n
-snippet: y
 ---
 
 # Image Serving components{#image-serving-components}

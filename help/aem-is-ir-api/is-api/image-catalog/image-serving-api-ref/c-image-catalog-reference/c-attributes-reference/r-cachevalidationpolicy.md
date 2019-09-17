@@ -6,9 +6,6 @@ solution: Experience Manager
 title: CacheValidationPolicy
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 371dadbf-d58e-4214-8050-7e8907b436e3
-index: y
-internal: n
-snippet: y
 ---
 
 # CacheValidationPolicy{#cachevalidationpolicy}

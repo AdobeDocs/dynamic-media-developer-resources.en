@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Importing from Photoshop
 topic: Scene7 Image Authoring
 uuid: c9c3c210-beed-4cb0-9690-a7e5ba6597c5
-index: y
-internal: n
-snippet: y
 ---
 
 # Importing from Photoshop{#importing-from-photoshop}

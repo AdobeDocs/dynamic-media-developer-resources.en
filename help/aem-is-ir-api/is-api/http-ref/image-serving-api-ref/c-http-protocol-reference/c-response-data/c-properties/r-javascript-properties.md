@@ -6,9 +6,6 @@ solution: Experience Manager
 title: JavaScript properties
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 832a927e-ecaf-438c-8fbf-a702d58902d8
-index: y
-internal: n
-snippet: y
 ---
 
 # JavaScript properties{#javascript-properties}

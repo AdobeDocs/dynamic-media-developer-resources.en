@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Expiration
 topic: Scene7 Image Serving - Image Rendering API
 uuid: a727bbfc-940b-4d65-96d6-b2159b70bac1
-index: y
-internal: n
-snippet: y
 containsConref:true
 ---
 

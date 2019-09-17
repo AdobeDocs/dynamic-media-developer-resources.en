@@ -6,9 +6,6 @@ solution: Experience Manager
 title: SSL
 topic: Scene7 Image Serving - Image Rendering API
 uuid: dec9bd09-8191-4010-8898-2890ffbe9ca7
-index: y
-internal: n
-snippet: y
 ---
 
 # SSL{#ssl}

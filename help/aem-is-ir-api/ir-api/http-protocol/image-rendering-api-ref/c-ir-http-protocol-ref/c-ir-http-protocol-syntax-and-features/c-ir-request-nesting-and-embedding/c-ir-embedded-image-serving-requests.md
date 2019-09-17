@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Embedded Image Server requests
 topic: Scene7 Image Serving - Image Rendering API
 uuid: dd72880d-8824-40b3-a5da-0f6ff4922939
-index: y
-internal: n
-snippet: y
 ---
 
 # Embedded Image Server requests{#embedded-image-server-requests}

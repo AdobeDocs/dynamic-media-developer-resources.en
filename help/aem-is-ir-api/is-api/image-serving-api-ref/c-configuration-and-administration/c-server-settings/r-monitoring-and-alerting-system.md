@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Monitoring and alerting system
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 944c7d53-09ec-443e-ac8c-85684d8fda0f
-index: y
-internal: n
-snippet: y
 ---
 
 # Monitoring and alerting system{#monitoring-and-alerting-system}

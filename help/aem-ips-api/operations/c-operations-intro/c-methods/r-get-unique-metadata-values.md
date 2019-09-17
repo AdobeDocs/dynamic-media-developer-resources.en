@@ -6,9 +6,6 @@ solution: Experience Manager
 title: getUniqueMetadataValues
 topic: Scene7 Image Production System API
 uuid: 5b2f95a7-cc0b-4938-99b9-2aefa0ffe693
-index: y
-internal: n
-snippet: y
 ---
 
 # getUniqueMetadataValues{#getuniquemetadatavalues}

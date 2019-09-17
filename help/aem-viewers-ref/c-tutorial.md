@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Viewer SDK Tutorial
 topic: Dynamic media
 uuid: ea331f05-0c58-4e6b-b5a1-d9b8372d8e94
-index: y
-internal: n
-snippet: y
 ---
 
 # Viewer SDK Tutorial{#viewer-sdk-tutorial}

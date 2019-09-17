@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Sharpen
 topic: Scene7 Image Authoring
 uuid: 2842505c-ffb7-4507-a9af-6b2e6b888137
-index: y
-internal: n
-snippet: y
 ---
 
 # Sharpen{#sharpen}

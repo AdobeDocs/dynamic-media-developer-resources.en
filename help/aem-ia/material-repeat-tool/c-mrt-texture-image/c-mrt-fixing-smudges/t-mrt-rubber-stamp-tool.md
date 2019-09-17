@@ -6,9 +6,6 @@ solution: Experience Manager
 title: To Adjust the Opacity for the Rubber Stamp Tool
 topic: Scene7 Image Authoring
 uuid: 26d09c12-c112-4713-966a-fecfccec524e
-index: y
-internal: n
-snippet: y
 ---
 
 # To Adjust the Opacity for the Rubber Stamp Tool{#to-adjust-the-opacity-for-the-rubber-stamp-tool}

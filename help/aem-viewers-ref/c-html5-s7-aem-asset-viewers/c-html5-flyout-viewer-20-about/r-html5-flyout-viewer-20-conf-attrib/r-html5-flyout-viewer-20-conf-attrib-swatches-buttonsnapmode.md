@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Swatches.buttonsnapmode
 topic: Dynamic media
 uuid: 5d2e4d94-4e24-482e-891a-34ee21f97121
-index: y
-internal: n
-snippet: y
 ---
 
 # Swatches.buttonsnapmode{#swatches-buttonsnapmode}

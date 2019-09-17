@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ImageFormatArray
 topic: Scene7 Image Production System API
 uuid: 978cf9ce-8598-424c-af09-cef91d149944
-index: y
-internal: n
-snippet: y
 ---
 
 # ImageFormatArray{#imageformatarray}

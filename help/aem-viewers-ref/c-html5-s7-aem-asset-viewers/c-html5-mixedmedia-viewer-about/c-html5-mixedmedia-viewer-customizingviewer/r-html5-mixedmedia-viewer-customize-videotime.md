@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Video time
 topic: Dynamic media
 uuid: f93e495b-44a1-493c-9bc6-5c088478ddce
-index: y
-internal: n
-snippet: y
 ---
 
 # Video time{#video-time}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Installing under a different user account than administrator
 topic: Scene7 Image Serving - Image Rendering API
 uuid: c5944515-c378-45c3-bc18-3261133ba009
-index: y
-internal: n
-snippet: y
 ---
 
 # Installing under a different user account than administrator{#installing-under-a-different-user-account-than-administrator}

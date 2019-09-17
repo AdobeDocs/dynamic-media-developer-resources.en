@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ImageServerRegistry.xml
 topic: Scene7 Image Serving - Image Rendering API
 uuid: cc401f75-1eb1-40fe-8308-eaaf9e14f906
-index: y
-internal: n
-snippet: y
 ---
 
 # ImageServerRegistry.xml{#imageserverregistry-xml}

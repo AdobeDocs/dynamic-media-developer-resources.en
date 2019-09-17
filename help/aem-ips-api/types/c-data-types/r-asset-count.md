@@ -6,9 +6,6 @@ solution: Experience Manager
 title: AssetCount
 topic: Scene7 Image Production System API
 uuid: 15b745fb-203a-4301-b1ea-8e12ea7450e8
-index: y
-internal: n
-snippet: y
 ---
 
 # AssetCount{#assetcount}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: op_contrast
 topic: Scene7 Image Serving - Image Rendering API
 uuid: d17b0b49-792b-41ce-a154-5e7635c9ab43
-index: y
-internal: n
-snippet: y
 ---
 
 # op_contrast{#op-contrast}

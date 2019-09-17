@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Texture
 topic: Scene7 Image Authoring
 uuid: 0c6ff66f-d727-419c-a3f5-44fbf339ebfb
-index: y
-internal: n
-snippet: y
 ---
 
 # Texture{#texture}

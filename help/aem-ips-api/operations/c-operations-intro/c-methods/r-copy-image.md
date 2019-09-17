@@ -6,9 +6,6 @@ solution: Experience Manager
 title: copyImage
 topic: Scene7 Image Production System API
 uuid: ae24f0cc-bcf0-4652-a67d-ed69f8a0da92
-index: y
-internal: n
-snippet: y
 ---
 
 # copyImage{#copyimage}

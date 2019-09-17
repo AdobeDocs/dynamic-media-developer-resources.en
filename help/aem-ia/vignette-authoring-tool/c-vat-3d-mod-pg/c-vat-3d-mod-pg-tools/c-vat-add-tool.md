@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Add Tool
 topic: Scene7 Image Authoring
 uuid: 4267dcf4-ca79-403f-91df-cbbb097f9633
-index: y
-internal: n
-snippet: y
 ---
 
 # The Add Tool{#the-add-tool}

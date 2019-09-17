@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ExcludeByproductCondition
 topic: Scene7 Image Production System API
 uuid: 70581512-7b26-4319-b12b-27fbb205d871
-index: y
-internal: n
-snippet: y
 ---
 
 # ExcludeByproductCondition{#excludebyproductcondition}

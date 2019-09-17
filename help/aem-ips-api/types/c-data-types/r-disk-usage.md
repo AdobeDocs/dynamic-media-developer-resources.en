@@ -6,9 +6,6 @@ solution: Experience Manager
 title: DiskUsage
 topic: Scene7 Image Production System API
 uuid: a63f0ed0-c689-43b0-9c3e-9500715d15a5
-index: y
-internal: n
-snippet: y
 ---
 
 # DiskUsage{#diskusage}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Creating an image map for dynamic rendering
 topic: Scene7 Image Authoring
 uuid: bf2e91a4-401f-48d7-b4f4-f93e7f90854d
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating an image map for dynamic rendering{#creating-an-image-map-for-dynamic-rendering}

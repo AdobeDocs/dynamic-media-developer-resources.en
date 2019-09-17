@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ImageMapDefinition
 topic: Scene7 Image Production System API
 uuid: e3b9a304-5c43-46ce-8e87-860b49006a37
-index: y
-internal: n
-snippet: y
 ---
 
 # ImageMapDefinition{#imagemapdefinition}

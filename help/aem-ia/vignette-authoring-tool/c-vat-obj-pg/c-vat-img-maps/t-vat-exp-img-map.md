@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Exporting an image map
 topic: Scene7 Image Authoring
 uuid: dae0bc72-a7a9-49c8-b422-98a45ca674eb
-index: y
-internal: n
-snippet: y
 ---
 
 # Exporting an image map{#exporting-an-image-map}

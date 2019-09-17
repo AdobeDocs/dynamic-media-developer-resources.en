@@ -6,9 +6,6 @@ solution: Experience Manager
 title: PostScriptInfo
 topic: Scene7 Image Production System API
 uuid: 2f41a26c-ba97-4b4f-b2fa-f0e0cbc0b4ab
-index: y
-internal: n
-snippet: y
 ---
 
 # PostScriptInfo{#postscriptinfo}

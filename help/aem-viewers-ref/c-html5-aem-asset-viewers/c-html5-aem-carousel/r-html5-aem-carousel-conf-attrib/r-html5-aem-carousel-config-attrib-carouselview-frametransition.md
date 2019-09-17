@@ -6,9 +6,6 @@ solution: Experience Manager
 title: CarouselView.frametransition
 topic: Dynamic media
 uuid: 9539ede1-08fb-4bfc-8a5a-870c7d84de7f
-index: y
-internal: n
-snippet: y
 ---
 
 # CarouselView.frametransition{#carouselview-frametransition}

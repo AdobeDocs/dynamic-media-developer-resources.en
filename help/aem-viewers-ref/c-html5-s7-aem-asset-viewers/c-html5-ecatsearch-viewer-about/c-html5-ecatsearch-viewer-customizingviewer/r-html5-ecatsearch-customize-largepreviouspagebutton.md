@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Large previous page button
 topic: Dynamic media
 uuid: 10c9ade6-8bbd-4c05-bf3e-22d95b786d7b
-index: y
-internal: n
-snippet: y
 ---
 
 # Large previous page button{#large-previous-page-button}

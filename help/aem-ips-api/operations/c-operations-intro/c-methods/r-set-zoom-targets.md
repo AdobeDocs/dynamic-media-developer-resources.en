@@ -6,9 +6,6 @@ solution: Experience Manager
 title: setZoomTargets
 topic: Scene7 Image Production System API
 uuid: 5d0aecec-ebd8-4c69-9514-c29fae347ee6
-index: y
-internal: n
-snippet: y
 ---
 
 # setZoomTargets{#setzoomtargets}

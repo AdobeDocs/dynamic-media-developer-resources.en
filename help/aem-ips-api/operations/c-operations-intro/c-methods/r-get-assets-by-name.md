@@ -6,9 +6,6 @@ solution: Experience Manager
 title: getAssetsByName
 topic: Scene7 Image Production System API
 uuid: e86b3b16-ad93-4f70-9f59-b72395513c4c
-index: y
-internal: n
-snippet: y
 ---
 
 # getAssetsByName{#getassetsbyname}

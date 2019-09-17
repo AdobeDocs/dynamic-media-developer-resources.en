@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Property
 topic: Scene7 Image Production System API
 uuid: 3e1bcd92-cc39-4590-b495-f80b5ca92b1f
-index: y
-internal: n
-snippet: y
 ---
 
 # Property{#property}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Adding a Vertex to a Flowline
 topic: Scene7 Image Authoring
 uuid: 11a73e11-bf5b-4196-9628-428c4fc7227c
-index: y
-internal: n
-snippet: y
 ---
 
 # Adding a Vertex to a Flowline{#adding-a-vertex-to-a-flowline}

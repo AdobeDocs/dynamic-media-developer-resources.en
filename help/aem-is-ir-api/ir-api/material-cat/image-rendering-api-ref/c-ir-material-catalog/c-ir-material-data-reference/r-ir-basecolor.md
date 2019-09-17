@@ -6,9 +6,6 @@ solution: Experience Manager
 title: BaseColor
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 572ad63b-e3b1-478a-b3b3-2cba0b3413d6
-index: y
-internal: n
-snippet: y
 ---
 
 # BaseColor{#basecolor}

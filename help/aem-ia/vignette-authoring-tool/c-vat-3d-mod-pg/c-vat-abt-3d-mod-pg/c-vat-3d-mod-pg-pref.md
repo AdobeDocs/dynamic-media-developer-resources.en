@@ -6,9 +6,6 @@ solution: Experience Manager
 title: 3D Modeling Page Preferences
 topic: Scene7 Image Authoring
 uuid: fb4a86dc-e4f4-49da-b340-455884596b5d
-index: y
-internal: n
-snippet: y
 ---
 
 # 3D Modeling Page Preferences{#d-modeling-page-preferences}

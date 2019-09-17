@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Video360Player.vrrender
 topic: Dynamic media
 uuid: 773ee479-012c-4649-adae-1f520ec37abb
-index: y
-internal: n
-snippet: y
 ---
 
 # Video360Player.vrrender{#video-player-vrrender}

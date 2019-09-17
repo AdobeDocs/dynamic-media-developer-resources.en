@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Gloss
 topic: Scene7 Image Authoring
 uuid: cb840f54-83f6-4e5f-b841-837e171f640f
-index: y
-internal: n
-snippet: y
 ---
 
 # Gloss{#gloss}

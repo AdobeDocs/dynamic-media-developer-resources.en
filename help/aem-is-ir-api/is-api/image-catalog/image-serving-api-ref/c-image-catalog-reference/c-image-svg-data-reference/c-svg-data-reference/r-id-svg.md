@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Id
 topic: Scene7 Image Serving - Image Rendering API
 uuid: a700472c-e1eb-4eb0-95ff-7afd4ce27931
-index: y
-internal: n
-snippet: y
 containsConref:true
 ---
 

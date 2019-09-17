@@ -6,9 +6,6 @@ solution: Experience Manager
 title: SearchPanel.maxloadradius
 topic: Dynamic media
 uuid: 37d58c88-3d45-44d9-9f2c-d616d1077906
-index: y
-internal: n
-snippet: y
 ---
 
 # SearchPanel.maxloadradius{#searchpanel-maxloadradius}

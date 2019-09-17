@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Resetting the Illumination Map
 topic: Scene7 Image Authoring
 uuid: 3842d1f5-96bc-432e-9510-bdd4e18028fb
-index: y
-internal: n
-snippet: y
 ---
 
 # Resetting the Illumination Map{#resetting-the-illumination-map}

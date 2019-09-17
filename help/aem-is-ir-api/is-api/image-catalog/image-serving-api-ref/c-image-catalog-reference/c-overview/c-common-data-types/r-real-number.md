@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Real number
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 36e34cb8-7976-4c2b-8ac1-aa1c946f14fa
-index: y
-internal: n
-snippet: y
 ---
 
 # Real number{#real-number}

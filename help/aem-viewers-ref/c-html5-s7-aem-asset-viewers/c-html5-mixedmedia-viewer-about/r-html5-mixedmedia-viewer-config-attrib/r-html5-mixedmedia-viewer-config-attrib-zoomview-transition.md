@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ZoomView.transition
 topic: Dynamic media
 uuid: c7daf4e8-cb37-4f20-aaca-2ccde341d775
-index: y
-internal: n
-snippet: y
 ---
 
 # ZoomView.transition{#zoomview-transition}

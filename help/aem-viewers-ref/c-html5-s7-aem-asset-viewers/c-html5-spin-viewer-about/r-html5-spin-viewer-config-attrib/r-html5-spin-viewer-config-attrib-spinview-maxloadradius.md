@@ -6,9 +6,6 @@ solution: Experience Manager
 title: SpinView.maxloadradius
 topic: Dynamic media
 uuid: 8f475fa8-92d1-4663-bc12-1e65b76076ba
-index: y
-internal: n
-snippet: y
 ---
 
 # SpinView.maxloadradius{#spinview-maxloadradius}

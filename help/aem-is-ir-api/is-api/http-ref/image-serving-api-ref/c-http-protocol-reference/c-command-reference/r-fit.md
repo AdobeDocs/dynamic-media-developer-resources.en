@@ -6,9 +6,6 @@ solution: Experience Manager
 title: fit
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 669fe757-f3a1-4cd4-b46c-6fbe5a039ce0
-index: y
-internal: n
-snippet: y
 ---
 
 # fit{#fit}

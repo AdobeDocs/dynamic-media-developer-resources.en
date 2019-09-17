@@ -6,9 +6,6 @@ solution: Experience Manager
 title: AutoTransparentCropOptions
 topic: Scene7 Image Production System API
 uuid: 4c3d365d-e011-4f38-bea7-68cf0cba7893
-index: y
-internal: n
-snippet: y
 ---
 
 # AutoTransparentCropOptions{#autotransparentcropoptions}

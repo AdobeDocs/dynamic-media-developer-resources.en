@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Adjusting Hue and Saturation
 topic: Scene7 Image Authoring
 uuid: 1ca1b402-721b-469c-b2e5-d8050dfb849a
-index: y
-internal: n
-snippet: y
 ---
 
 # Adjusting Hue and Saturation{#adjusting-hue-and-saturation}

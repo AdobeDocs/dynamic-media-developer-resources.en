@@ -7,9 +7,6 @@ solution: Experience Manager
 title: Customizing Flyout Viewer
 topic: Dynamic media
 uuid: 10b5caa4-5298-43fa-af86-4f0b77be967b
-index: y
-internal: n
-snippet: y
 ---
 
 # Customizing Flyout Viewer{#customizing-flyout-viewer}

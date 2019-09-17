@@ -6,9 +6,6 @@ solution: Experience Manager
 title: View attributes
 topic: Scene7 Image Serving - Image Rendering API
 uuid: eae8d998-a4ba-4871-9a8a-c15c22a20580
-index: y
-internal: n
-snippet: y
 ---
 
 # View attributes{#view-attributes}

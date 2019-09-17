@@ -6,9 +6,6 @@ solution: Experience Manager
 title: FavoritesView.fmt
 topic: Dynamic media
 uuid: 777411ee-c73f-4921-8ee1-7eb002ac3e95
-index: y
-internal: n
-snippet: y
 ---
 
 # FavoritesView.fmt{#favoritesview-fmt}

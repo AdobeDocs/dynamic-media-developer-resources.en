@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Resetting the Resolution for a Flowline Object
 topic: Scene7 Image Authoring
 uuid: 2cc824aa-41f9-48bb-9d74-402398b43981
-index: y
-internal: n
-snippet: y
 ---
 
 # Resetting the Resolution for a Flowline Object{#resetting-the-resolution-for-a-flowline-object}

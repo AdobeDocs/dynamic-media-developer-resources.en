@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Image map effect
 topic: Dynamic media
 uuid: 193d2f4e-77a2-4741-bf36-90ca31c600c6
-index: y
-internal: n
-snippet: y
 ---
 
 # Image map effect{#image-map-effect}

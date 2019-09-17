@@ -6,9 +6,6 @@ solution: Experience Manager
 title: eCatalogViewer
 topic: Dynamic media
 uuid: b87b6f6b-3e83-47b3-b867-30eca5eae56b
-index: y
-internal: n
-snippet: y
 ---
 
 # eCatalogViewer{#ecatalogviewer}

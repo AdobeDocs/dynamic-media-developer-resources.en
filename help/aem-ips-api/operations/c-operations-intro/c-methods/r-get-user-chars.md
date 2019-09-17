@@ -6,9 +6,6 @@ solution: Experience Manager
 title: getUserChars
 topic: Scene7 Image Production System API
 uuid: c9fa7826-5174-4298-99e6-a0627e432567
-index: y
-internal: n
-snippet: y
 ---
 
 # getUserChars{#getuserchars}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Install folder
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 3e3a5077-f165-42e0-806b-c2cc97aa4f9a
-index: y
-internal: n
-snippet: y
 ---
 
 # Install folder{#install-folder}

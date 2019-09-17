@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Using a Window Covering
 topic: Scene7 Image Authoring
 uuid: d006bdec-27b5-4c80-96c3-a00ca9262217
-index: y
-internal: n
-snippet: y
 ---
 
 # Using a Window Covering{#using-a-window-covering}

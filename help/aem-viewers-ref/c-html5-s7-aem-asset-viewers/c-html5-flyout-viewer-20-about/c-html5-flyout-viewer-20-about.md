@@ -7,9 +7,6 @@ solution: Experience Manager
 title: Flyout
 topic: Dynamic media
 uuid: 588e1baa-4165-4aec-8fbe-1a916c0f409f
-index: y
-internal: n
-snippet: y
 ---
 
 # Flyout{#flyout}

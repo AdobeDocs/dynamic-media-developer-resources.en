@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ConfigSettingArray
 topic: Scene7 Image Production System API
 uuid: c6c5636c-a2df-4eed-8bb4-7b16a610ae4a
-index: y
-internal: n
-snippet: y
 ---
 
 # ConfigSettingArray{#configsettingarray}

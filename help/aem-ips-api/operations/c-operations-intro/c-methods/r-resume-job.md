@@ -6,9 +6,6 @@ solution: Experience Manager
 title: resumeJob
 topic: Scene7 Image Production System API
 uuid: 0ca5db75-cce0-4afc-9a58-c47c6229931e
-index: y
-internal: n
-snippet: y
 ---
 
 # resumeJob{#resumejob}

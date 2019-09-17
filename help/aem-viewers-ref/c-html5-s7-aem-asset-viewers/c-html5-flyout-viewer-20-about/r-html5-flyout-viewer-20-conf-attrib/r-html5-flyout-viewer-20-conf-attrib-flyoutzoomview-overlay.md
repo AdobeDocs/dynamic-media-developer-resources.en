@@ -6,9 +6,6 @@ solution: Experience Manager
 title: FlyoutZoomView.overlay
 topic: Dynamic media
 uuid: e6e9e97c-5d9b-47ca-bae3-ed3371c5ff9b
-index: y
-internal: n
-snippet: y
 ---
 
 # FlyoutZoomView.overlay{#flyoutzoomview-overlay}

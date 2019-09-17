@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Rotate Tool
 topic: Scene7 Image Authoring
 uuid: 524cd611-0edf-496a-90cd-00e1f5b150dc
-index: y
-internal: n
-snippet: y
 ---
 
 # The Rotate Tool{#the-rotate-tool}

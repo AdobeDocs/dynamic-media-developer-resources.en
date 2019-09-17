@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Render Page Options
 topic: Scene7 Image Authoring
 uuid: dbd3af66-5098-4052-867d-41dda0bdce93
-index: y
-internal: n
-snippet: y
 ---
 
 # Render Page Options{#render-page-options}

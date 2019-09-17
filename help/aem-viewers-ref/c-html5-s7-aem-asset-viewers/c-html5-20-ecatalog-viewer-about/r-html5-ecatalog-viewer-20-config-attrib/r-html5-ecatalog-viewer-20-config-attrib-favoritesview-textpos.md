@@ -6,9 +6,6 @@ solution: Experience Manager
 title: FavoritesView.textpos
 topic: Dynamic media
 uuid: e3e5f0c8-8a20-4e9c-8018-156af2a3ca3b
-index: y
-internal: n
-snippet: y
 ---
 
 # FavoritesView.textpos{#favoritesview-textpos}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Fixing Smudges, Tears, Spots, and Holes
 topic: Scene7 Image Authoring
 uuid: 05983a59-e9e4-4619-89a7-0af8900ad61d
-index: y
-internal: n
-snippet: y
 ---
 
 # Fixing Smudges, Tears, Spots, and Holes{#fixing-smudges-tears-spots-and-holes}

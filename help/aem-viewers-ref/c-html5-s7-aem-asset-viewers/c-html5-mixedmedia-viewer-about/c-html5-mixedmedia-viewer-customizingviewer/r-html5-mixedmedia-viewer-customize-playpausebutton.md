@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Play/Pause button
 topic: Dynamic media
 uuid: a02499da-e2d9-465f-b198-4b2221f3502b
-index: y
-internal: n
-snippet: y
 ---
 
 # Play/Pause button{#play-pause-button}

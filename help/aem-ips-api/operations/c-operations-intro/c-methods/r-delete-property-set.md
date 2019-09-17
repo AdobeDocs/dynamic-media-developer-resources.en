@@ -6,9 +6,6 @@ solution: Experience Manager
 title: deletePropertySet
 topic: Scene7 Image Production System API
 uuid: b4fdf51f-89ec-4a69-9179-078ee8e1937f
-index: y
-internal: n
-snippet: y
 ---
 
 # deletePropertySet{#deletepropertyset}

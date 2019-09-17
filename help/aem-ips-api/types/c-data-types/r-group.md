@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Group
 topic: Scene7 Image Production System API
 uuid: 4be4ff41-8ef1-4b56-b2dc-074992fe0d6b
-index: y
-internal: n
-snippet: y
 ---
 
 # Group{#group}

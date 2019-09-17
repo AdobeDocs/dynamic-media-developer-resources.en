@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Adjusting the Preview for a Foreshortened Object
 topic: Scene7 Image Authoring
 uuid: 0d9674f0-321d-4f63-9480-e987d586823a
-index: y
-internal: n
-snippet: y
 ---
 
 # Adjusting the Preview for a Foreshortened Object{#adjusting-the-preview-for-a-foreshortened-object}

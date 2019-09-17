@@ -6,9 +6,6 @@ solution: Experience Manager
 title: 3D Flowline or Sketch Object Properties
 topic: Scene7 Image Authoring
 uuid: 2fa25b18-e85c-48aa-8c63-da08835cebb2
-index: y
-internal: n
-snippet: y
 ---
 
 # 3D Flowline or Sketch Object Properties{#d-flowline-or-sketch-object-properties}

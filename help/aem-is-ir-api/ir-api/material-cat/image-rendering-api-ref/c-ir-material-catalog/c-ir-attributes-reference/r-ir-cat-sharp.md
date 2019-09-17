@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Sharp
 topic: Scene7 Image Serving - Image Rendering API
 uuid: f6a6101c-3d9e-4557-892b-be7943b4fdca
-index: y
-internal: n
-snippet: y
 ---
 
 # Sharp{#sharp}

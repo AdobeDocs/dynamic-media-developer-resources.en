@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Overlap Options Tool
 topic: Scene7 Image Authoring
 uuid: c926a0fb-774c-45c9-84aa-0d225d8b5d64
-index: y
-internal: n
-snippet: y
 ---
 
 # The Overlap Options Tool{#the-overlap-options-tool}

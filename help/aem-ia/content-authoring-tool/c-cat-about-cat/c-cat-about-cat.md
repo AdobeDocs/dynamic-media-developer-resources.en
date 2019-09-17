@@ -6,9 +6,6 @@ solution: Experience Manager
 title: About the Content Authoring Tool
 topic: Scene7 Image Authoring
 uuid: de0e04f6-dd59-4d86-b491-902ece65b2ee
-index: y
-internal: n
-snippet: y
 ---
 
 # About the Content Authoring Tool{#about-the-content-authoring-tool}

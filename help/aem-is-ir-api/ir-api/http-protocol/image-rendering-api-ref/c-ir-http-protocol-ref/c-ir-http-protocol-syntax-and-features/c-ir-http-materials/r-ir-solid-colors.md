@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Solid colors
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 75b60e44-1727-4f3e-a186-df66fabeec0d
-index: y
-internal: n
-snippet: y
 ---
 
 # Solid colors{#solid-colors}

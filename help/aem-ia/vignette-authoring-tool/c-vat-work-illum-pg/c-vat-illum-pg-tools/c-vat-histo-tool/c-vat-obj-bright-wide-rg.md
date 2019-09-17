@@ -6,9 +6,6 @@ solution: Experience Manager
 title: To Make the Active Object or Group Brighter, with a Wider Range of Contrast
 topic: Scene7 Image Authoring
 uuid: f019e3e7-7fef-4f79-b818-7c8574140a9f
-index: y
-internal: n
-snippet: y
 ---
 
 # To Make the Active Object or Group Brighter, with a Wider Range of Contrast{#to-make-the-active-object-or-group-brighter-with-a-wider-range-of-contrast}

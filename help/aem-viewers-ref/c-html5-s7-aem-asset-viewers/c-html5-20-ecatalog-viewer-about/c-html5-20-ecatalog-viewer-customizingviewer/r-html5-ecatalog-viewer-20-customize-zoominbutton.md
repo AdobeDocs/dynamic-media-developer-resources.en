@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Zoom in button
 topic: Dynamic media
 uuid: 927d3719-46fa-4e05-9b17-73e2e2f4d9d6
-index: y
-internal: n
-snippet: y
 ---
 
 # Zoom in button{#zoom-in-button}

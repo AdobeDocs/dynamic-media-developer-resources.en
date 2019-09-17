@@ -6,9 +6,6 @@ solution: Experience Manager
 title: getZipEntries
 topic: Scene7 Image Production System API
 uuid: cfc45f83-1cf9-4c50-9aac-5a731e62a839
-index: y
-internal: n
-snippet: y
 ---
 
 # getZipEntries{#getzipentries}

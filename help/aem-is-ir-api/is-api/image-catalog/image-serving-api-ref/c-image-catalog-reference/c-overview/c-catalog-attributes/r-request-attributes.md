@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Request attributes
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 02156b81-9f18-461e-94c1-43b1155c4ab6
-index: y
-internal: n
-snippet: y
 ---
 
 # Request attributes{#request-attributes}

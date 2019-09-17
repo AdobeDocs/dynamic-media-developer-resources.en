@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Metadata Field Types
 topic: Scene7 Image Production System API
 uuid: 57d292bb-848a-4e6e-bd08-4e6af1f9fc72
-index: y
-internal: n
-snippet: y
 ---
 
 # Metadata Field Types{#metadata-field-types}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Exporting the Illumination Map
 topic: Scene7 Image Authoring
 uuid: 2ea4a357-b518-4b12-a643-cc79c71e0c25
-index: y
-internal: n
-snippet: y
 ---
 
 # Exporting the Illumination Map{#exporting-the-illumination-map}

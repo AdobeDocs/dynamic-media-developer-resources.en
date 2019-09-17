@@ -6,9 +6,6 @@ solution: Experience Manager
 title: getXMPPacket
 topic: Scene7 Image Production System API
 uuid: c4b40e76-a459-4036-ace2-8df202305bf9
-index: y
-internal: n
-snippet: y
 ---
 
 # getXMPPacket{#getxmppacket}

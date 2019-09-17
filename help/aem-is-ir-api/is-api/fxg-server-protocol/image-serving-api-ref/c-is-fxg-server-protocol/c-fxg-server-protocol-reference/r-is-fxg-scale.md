@@ -6,9 +6,6 @@ solution: Experience Manager
 title: scale
 topic: Scene7 Image Serving - Image Rendering API
 uuid: db5bab94-e5c1-41fe-ab1b-5c62b6a798d0
-index: y
-internal: n
-snippet: y
 ---
 
 # scale{#scale}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: AssetType
 topic: Scene7 Image Serving - Image Rendering API
 uuid: e9e0d7e0-0429-4949-aafa-0ac7032fdfe5
-index: y
-internal: n
-snippet: y
 ---
 
 # AssetType{#assettype}

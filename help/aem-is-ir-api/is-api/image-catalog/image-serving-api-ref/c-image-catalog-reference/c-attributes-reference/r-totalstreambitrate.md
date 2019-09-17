@@ -6,9 +6,6 @@ solution: Experience Manager
 title: TotalStreamBitRate
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 0fdb7189-cae6-4cf0-ae00-f46a7709fc46
-index: y
-internal: n
-snippet: y
 ---
 
 # TotalStreamBitRate{#totalstreambitrate}

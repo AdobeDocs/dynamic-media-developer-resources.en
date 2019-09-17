@@ -6,9 +6,6 @@ solution: Experience Manager
 title: effect
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 622dc7ca-55b8-4a82-b9a7-65588aee87d0
-index: y
-internal: n
-snippet: y
 ---
 
 # effect{#effect}

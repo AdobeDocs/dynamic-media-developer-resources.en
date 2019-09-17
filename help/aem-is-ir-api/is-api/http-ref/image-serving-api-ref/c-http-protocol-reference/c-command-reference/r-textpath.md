@@ -6,9 +6,6 @@ solution: Experience Manager
 title: textPath
 topic: Scene7 Image Serving - Image Rendering API
 uuid: a2f0047b-ad62-4605-a723-b43d53fbea56
-index: y
-internal: n
-snippet: y
 ---
 
 # textPath{#textpath}

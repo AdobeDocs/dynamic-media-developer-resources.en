@@ -7,9 +7,6 @@ solution: Experience Manager
 title: Mixed Media
 topic: Dynamic media
 uuid: b6028c54-7a3c-41eb-89f8-7b86bb0d0deb
-index: y
-internal: n
-snippet: y
 ---
 
 # Mixed Media{#mixed-media}

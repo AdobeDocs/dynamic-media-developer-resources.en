@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ProfilePath
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 59e78bfb-bc5c-45e4-aa70-d18cab2f9e39
-index: y
-internal: n
-snippet: y
 ---
 
 # ProfilePath{#profilepath}

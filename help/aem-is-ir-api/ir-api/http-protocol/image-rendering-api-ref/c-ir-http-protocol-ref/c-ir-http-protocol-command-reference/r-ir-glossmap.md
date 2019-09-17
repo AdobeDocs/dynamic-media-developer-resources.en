@@ -6,9 +6,6 @@ solution: Experience Manager
 title: glossmap
 topic: Scene7 Image Serving - Image Rendering API
 uuid: f137d362-74a1-45b3-9274-a3a2d6cf5db0
-index: y
-internal: n
-snippet: y
 ---
 
 # glossmap{#glossmap}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The compositing canvas
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 7ec2f1b3-61fc-4bfe-96d2-a5946a238e74
-index: y
-internal: n
-snippet: y
 ---
 
 # The compositing canvas{#the-compositing-canvas}

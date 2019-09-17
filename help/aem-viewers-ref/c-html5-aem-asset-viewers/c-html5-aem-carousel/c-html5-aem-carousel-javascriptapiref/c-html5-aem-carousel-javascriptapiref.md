@@ -6,9 +6,6 @@ solution: Experience Manager
 title: JavaScript API reference for Carousel Viewer
 topic: Dynamic media
 uuid: d235ca5e-9c5b-44e2-84b1-2704bf8c6ca5
-index: y
-internal: n
-snippet: y
 ---
 
 # JavaScript API reference for Carousel Viewer{#javascript-api-reference-for-carousel-viewer}

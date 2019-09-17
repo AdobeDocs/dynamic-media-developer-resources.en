@@ -6,9 +6,6 @@ solution: Experience Manager
 title: PermissionUpdateArray
 topic: Scene7 Image Production System API
 uuid: e5dd40a6-d9c0-4be0-930b-f85ca0067319
-index: y
-internal: n
-snippet: y
 ---
 
 # PermissionUpdateArray{#permissionupdatearray}

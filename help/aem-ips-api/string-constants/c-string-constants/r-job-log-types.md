@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Job Log Types
 topic: Scene7 Image Production System API
 uuid: 2d8936c8-076b-431e-bcea-24c5aae0faee
-index: y
-internal: n
-snippet: y
 ---
 
 # Job Log Types{#job-log-types}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: getUserInfo
 topic: Scene7 Image Production System API
 uuid: b305c108-22e9-4268-a5b3-25fddd844c24
-index: y
-internal: n
-snippet: y
 ---
 
 # getUserInfo{#getuserinfo}

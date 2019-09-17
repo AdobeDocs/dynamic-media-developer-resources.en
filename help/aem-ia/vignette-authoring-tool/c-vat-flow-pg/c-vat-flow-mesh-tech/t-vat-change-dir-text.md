@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Changing the Direction of a Texture
 topic: Scene7 Image Authoring
 uuid: f0354c8b-57ef-41f1-b6f9-ad368919a9d1
-index: y
-internal: n
-snippet: y
 ---
 
 # Changing the Direction of a Texture{#changing-the-direction-of-a-texture}

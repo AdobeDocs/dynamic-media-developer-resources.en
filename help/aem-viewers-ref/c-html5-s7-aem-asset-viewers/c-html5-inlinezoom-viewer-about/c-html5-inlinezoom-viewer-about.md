@@ -7,9 +7,6 @@ solution: Experience Manager
 title: Inline Zoom
 topic: Dynamic media
 uuid: 2287aef0-79ba-4d63-911a-969fa1c63385
-index: y
-internal: n
-snippet: y
 ---
 
 # Inline Zoom{#inline-zoom}

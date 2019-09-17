@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Modifier
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 725724dd-b664-4d43-8072-a79ea7e7fcce
-index: y
-internal: n
-snippet: y
 ---
 
 # Modifier{#modifier}

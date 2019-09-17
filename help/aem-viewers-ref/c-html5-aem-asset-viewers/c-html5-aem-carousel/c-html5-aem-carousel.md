@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Carousel
 topic: Dynamic media
 uuid: 0ba4f40b-8dde-4479-b906-3115f09ab249
-index: y
-internal: n
-snippet: y
 ---
 
 # Carousel{#carousel}

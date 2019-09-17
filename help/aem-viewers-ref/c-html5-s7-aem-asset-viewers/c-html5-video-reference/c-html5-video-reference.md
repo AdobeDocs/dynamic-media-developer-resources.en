@@ -7,9 +7,6 @@ solution: Experience Manager
 title: Video
 topic: Dynamic media
 uuid: 961a9b99-5892-4ee3-a2df-13e299f5d086
-index: y
-internal: n
-snippet: y
 ---
 
 # Video{#video}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: To Make Flowlines Tight or Loose
 topic: Scene7 Image Authoring
 uuid: e19fb864-0068-4d7a-bbfc-20fe99054fdd
-index: y
-internal: n
-snippet: y
 ---
 
 # To Make Flowlines Tight or Loose{#to-make-flowlines-tight-or-loose}

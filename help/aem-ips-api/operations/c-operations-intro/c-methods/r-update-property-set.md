@@ -6,9 +6,6 @@ solution: Experience Manager
 title: updatePropertySet
 topic: Scene7 Image Production System API
 uuid: 21a59c5a-7799-4af6-ab9f-b0311f5f7254
-index: y
-internal: n
-snippet: y
 ---
 
 # updatePropertySet{#updatepropertyset}

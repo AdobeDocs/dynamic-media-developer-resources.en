@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Creating an Image to Work With
 topic: Scene7 Image Authoring
 uuid: 3666ea64-fe59-4acf-b16b-790027576ed0
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating an Image to Work With{#creating-an-image-to-work-with}

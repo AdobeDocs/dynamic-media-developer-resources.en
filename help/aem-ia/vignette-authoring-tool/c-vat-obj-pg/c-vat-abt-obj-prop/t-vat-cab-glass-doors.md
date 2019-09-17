@@ -6,9 +6,6 @@ solution: Experience Manager
 title: About Cabinets with Glass Doors
 topic: Scene7 Image Authoring
 uuid: 63eff657-ad10-4757-92a8-9765f3211b25
-index: y
-internal: n
-snippet: y
 ---
 
 # About Cabinets with Glass Doors{#about-cabinets-with-glass-doors}

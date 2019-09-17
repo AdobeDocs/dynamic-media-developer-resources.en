@@ -6,9 +6,6 @@ solution: Experience Manager
 title: FlyoutZoomView.highlightmode
 topic: Dynamic media
 uuid: 397c1af0-f806-4555-83fa-ec7548b59a60
-index: y
-internal: n
-snippet: y
 ---
 
 # FlyoutZoomView.highlightmode{#flyoutzoomview-highlightmode}

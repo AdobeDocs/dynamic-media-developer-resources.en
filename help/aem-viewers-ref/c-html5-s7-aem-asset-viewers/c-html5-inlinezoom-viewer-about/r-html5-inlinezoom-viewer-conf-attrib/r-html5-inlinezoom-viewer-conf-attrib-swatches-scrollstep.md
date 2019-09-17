@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Swatches.scrollstep
 topic: Dynamic media
 uuid: 0228e690-191a-4fcf-8d9e-8a51283314ea
-index: y
-internal: n
-snippet: y
 ---
 
 # Swatches.scrollstep{#swatches-scrollstep}

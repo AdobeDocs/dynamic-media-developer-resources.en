@@ -6,9 +6,6 @@ solution: Experience Manager
 title: About the Vignette Update tool
 topic: Scene7 Image Authoring
 uuid: 46e060f4-b16c-4a45-841c-234ee265a0c6
-index: y
-internal: n
-snippet: y
 ---
 
 # About the Vignette Update tool{#about-the-vignette-update-tool}

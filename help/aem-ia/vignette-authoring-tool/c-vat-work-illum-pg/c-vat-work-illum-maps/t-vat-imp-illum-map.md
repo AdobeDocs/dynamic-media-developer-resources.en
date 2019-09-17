@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Importing an Illumination Map
 topic: Scene7 Image Authoring
 uuid: d98b9a35-f964-4fce-9b83-bf2d6c247d24
-index: y
-internal: n
-snippet: y
 ---
 
 # Importing an Illumination Map{#importing-an-illumination-map}

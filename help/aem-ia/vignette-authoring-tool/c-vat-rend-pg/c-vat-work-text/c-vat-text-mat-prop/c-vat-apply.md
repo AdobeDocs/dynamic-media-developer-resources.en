@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Apply
 topic: Scene7 Image Authoring
 uuid: f5f6ac55-2aba-4838-8600-6ef719783388
-index: y
-internal: n
-snippet: y
 ---
 
 # Apply{#apply}

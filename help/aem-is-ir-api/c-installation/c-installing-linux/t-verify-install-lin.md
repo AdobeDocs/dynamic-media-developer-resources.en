@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Verifying the installation
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 4fdf61c7-3c9f-4f3e-9696-60eb7e3f2209
-index: y
-internal: n
-snippet: y
 ---
 
 # Verifying the installation{#verifying-the-installation}

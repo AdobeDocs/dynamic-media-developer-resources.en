@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ImageServingPublishJob
 topic: Scene7 Image Production System API
 uuid: ab207299-ecb8-4acc-a5b3-b7553149b7b8
-index: y
-internal: n
-snippet: y
 ---
 
 # ImageServingPublishJob{#imageservingpublishjob}

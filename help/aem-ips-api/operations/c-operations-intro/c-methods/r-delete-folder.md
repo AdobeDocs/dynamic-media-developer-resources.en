@@ -6,9 +6,6 @@ solution: Experience Manager
 title: deleteFolder
 topic: Scene7 Image Production System API
 uuid: 76af65fb-86ef-43e2-bfec-3682acf0afe6
-index: y
-internal: n
-snippet: y
 ---
 
 # deleteFolder{#deletefolder}

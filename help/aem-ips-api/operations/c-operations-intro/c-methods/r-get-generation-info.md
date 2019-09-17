@@ -6,9 +6,6 @@ solution: Experience Manager
 title: getGenerationInfo
 topic: Scene7 Image Production System API
 uuid: 4310a702-c08b-4479-9f57-9f2bc1d6b032
-index: y
-internal: n
-snippet: y
 ---
 
 # getGenerationInfo{#getgenerationinfo}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Variable processing in nested requests
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 2f3fefac-d45e-4c53-854f-1fe16d0cedd9
-index: y
-internal: n
-snippet: y
 ---
 
 # Variable processing in nested requests{#variable-processing-in-nested-requests}

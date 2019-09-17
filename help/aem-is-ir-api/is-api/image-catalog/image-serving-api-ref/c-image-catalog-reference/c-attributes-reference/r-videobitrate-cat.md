@@ -6,9 +6,6 @@ solution: Experience Manager
 title: VideoBitRate
 topic: Scene7 Image Serving - Image Rendering API
 uuid: dff00d03-5fea-42cf-9b81-cd3488e666e4
-index: y
-internal: n
-snippet: y
 ---
 
 # VideoBitRate{#videobitrate}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Glossary
 topic: Scene7 Image Authoring
 uuid: feaf89a9-87e6-44cc-a51b-a2706fff7dc6
-index: y
-internal: n
-snippet: y
 ---
 
 # Glossary{#glossary}
