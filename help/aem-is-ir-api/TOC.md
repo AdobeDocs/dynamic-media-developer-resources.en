@@ -2,10 +2,10 @@
 cloud: experience-cloud
 product: adobe
 archtype: end-user
-user-guide: null
+user-guide-title: Dynamic Media Developer Image Serving and Rendering API
 ---
 
-# Table of Contents {#table-of-contents}
+# Dynamic Media Developer Image Serving and Rendering API {#image-serving-api}
 
 + [Scene7 IS and IR API Home](home.md)
 + [About this release](r-about-this-release.md)
