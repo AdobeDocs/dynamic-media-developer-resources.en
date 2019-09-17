@@ -22,4 +22,5 @@ None.
 
 ## See also {#section-4c657d025f2a4407b9cb914217a8e64a}
 
-[font::Bold](r_bold_font.md#reference_F7B017EF67574A29ABFC3954AB64159C) , [font::Italic](r_italic_font.md#reference_DC04A532B34A41AF81B0B9644ACFAAD6) 
+* [font::Bold](r-bold-font.md#reference_F7B017EF67574A29ABFC3954AB64159C)
+* [font::Italic](r-italic-font.md#reference_DC04A532B34A41AF81B0B9644ACFAAD6) 
