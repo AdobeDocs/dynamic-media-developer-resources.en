@@ -12,11 +12,7 @@ uuid: 71cdec4e-c1d6-4518-87ed-5c47a5112b15
 
 Removes tag field values from the dictionary of a tag field.
 
- Syntax 
-
 ## Authorized User Types {#section-e6f97c875c2a4cf0a7bc22096b649497}
-
-****
 
 * `IpsAdmin` 
 * `IpsCompanyAdmin` 

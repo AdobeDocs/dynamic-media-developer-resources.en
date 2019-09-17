@@ -18,6 +18,6 @@ You do not need to create geometry for vignettes featuring apparel, linen, or si
 
 If you are creating a three-dimensional vignette, you must import the geometry on the [!DNL Object] page and save the vignette.
 
-##  May I use 2D objects in a 3D vignette? {#may-i-use-d-objects-in-a-d-vignette}
+## May I use 2D objects in a 3D vignette? {#may-i-use-d-objects-in-a-d-vignette}
 
 All objects in a 3D vignette must be created when the [!DNL Type] is set to 3D. While there are objects that show up for both 2D and 3D, they cannot intermix as they do not render. 

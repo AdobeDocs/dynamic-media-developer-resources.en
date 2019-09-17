@@ -43,8 +43,6 @@ Creates a preset view that determines what a user can see. The viewer can be of 
 
 This code sample creates a video player preset. The response returns a handle to the preset.
 
-** ** 
-
 ```java
 <createViewerPresetParam xmlns="http://www.scene7.com/IpsApi/xsd/2008-01-15">
    <companyHandle>c|0</companyHandle>

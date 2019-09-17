@@ -16,8 +16,6 @@ Creates a generic asset set with a raw set definition string to be published to 
 
 ## Authorized User Types {#section-d670d3af552147199b65c7eb847544a3}
 
-** **
-
 * `IpsUser` 
 * `IpsAdmin` 
 * `IpsCompanyAdmin` 
