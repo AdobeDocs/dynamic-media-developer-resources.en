@@ -6,9 +6,6 @@ solution: Experience Manager
 title: TaskItemProgressArray
 topic: Scene7 Image Production System API
 uuid: f62f1123-bd7c-4099-b36d-58aff283bdb3
-index: y
-internal: n
-snippet: y
 ---
 
 # TaskItemProgressArray{#taskitemprogressarray}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: PremierExpressRemixInfo
 topic: Scene7 Image Production System API
 uuid: e3a2d6f9-e6ba-4841-99b9-c514a4fb2397
-index: y
-internal: n
-snippet: y
 ---
 
 # PremierExpressRemixInfo{#premierexpressremixinfo}

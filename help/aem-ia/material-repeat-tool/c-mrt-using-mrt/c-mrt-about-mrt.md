@@ -6,9 +6,6 @@ solution: Experience Manager
 title: About the Material Repeat Tool
 topic: Scene7 Image Authoring
 uuid: 9348fc67-0312-442e-bd29-a6fc8e749877
-index: y
-internal: n
-snippet: y
 ---
 
 # About the Material Repeat Tool{#about-the-material-repeat-tool}

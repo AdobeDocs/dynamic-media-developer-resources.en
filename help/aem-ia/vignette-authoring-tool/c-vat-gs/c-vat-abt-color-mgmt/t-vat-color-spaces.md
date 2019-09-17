@@ -6,9 +6,6 @@ solution: Experience Manager
 title: To Test Color Spaces
 topic: Scene7 Image Authoring
 uuid: 05351bde-6c23-4912-b829-a61b271295bb
-index: y
-internal: n
-snippet: y
 ---
 
 # To Test Color Spaces{#to-test-color-spaces}

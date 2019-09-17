@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Preparing Images for Window Covering Files
 topic: Scene7 Image Authoring
 uuid: 43eb0a69-41e7-4fea-82cc-b701ec6de152
-index: y
-internal: n
-snippet: y
 ---
 
 # Preparing Images for Window Covering Files{#preparing-images-for-window-covering-files}

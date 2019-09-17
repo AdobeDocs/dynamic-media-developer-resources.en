@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Photoshop Anchor Modes
 topic: Scene7 Image Production System API
 uuid: 7dd313ce-7e09-4b31-9005-4c2c319e42f8
-index: y
-internal: n
-snippet: y
 ---
 
 # Photoshop Anchor Modes{#photoshop-anchor-modes}

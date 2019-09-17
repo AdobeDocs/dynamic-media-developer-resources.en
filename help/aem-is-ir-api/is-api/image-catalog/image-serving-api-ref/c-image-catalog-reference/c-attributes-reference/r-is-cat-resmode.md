@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ResMode
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 14d184bd-6664-4f8f-b551-a92cb92a0d84
-index: y
-internal: n
-snippet: y
 ---
 
 # ResMode{#resmode}

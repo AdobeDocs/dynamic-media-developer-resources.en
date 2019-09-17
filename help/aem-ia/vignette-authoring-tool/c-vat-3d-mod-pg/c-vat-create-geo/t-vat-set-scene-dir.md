@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Setting the Scene Directions
 topic: Scene7 Image Authoring
 uuid: c220fc5e-c351-46ff-a115-c56503d40d2e
-index: y
-internal: n
-snippet: y
 ---
 
 # Setting the Scene Directions{#setting-the-scene-directions}

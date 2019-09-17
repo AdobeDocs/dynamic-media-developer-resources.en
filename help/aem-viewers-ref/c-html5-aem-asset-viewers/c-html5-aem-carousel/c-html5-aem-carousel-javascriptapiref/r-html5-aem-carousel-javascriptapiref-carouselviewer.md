@@ -6,9 +6,6 @@ solution: Experience Manager
 title: CarouselViewer
 topic: Dynamic media
 uuid: 443a5b54-b5f6-4594-810b-ce9b2ba40611
-index: y
-internal: n
-snippet: y
 ---
 
 # CarouselViewer{#carouselviewer}

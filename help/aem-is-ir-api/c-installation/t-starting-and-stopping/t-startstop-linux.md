@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Starting or stopping on Linux
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 92cf60c4-3f80-42bc-b135-17bc22ba151e
-index: y
-internal: n
-snippet: y
 ---
 
 # Starting or stopping on Linux{#starting-or-stopping-on-linux}

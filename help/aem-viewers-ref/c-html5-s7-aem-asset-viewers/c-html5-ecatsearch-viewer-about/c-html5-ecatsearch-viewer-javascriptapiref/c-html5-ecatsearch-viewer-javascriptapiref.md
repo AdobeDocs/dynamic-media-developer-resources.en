@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Javascript API reference for eCatalog Search Viewer
 topic: Dynamic media
 uuid: b65dec1e-567a-450f-9e24-e7841dc6f701
-index: y
-internal: n
-snippet: y
 ---
 
 # Javascript API reference for eCatalog Search Viewer{#javascript-api-reference-for-ecatalog-search-viewer}

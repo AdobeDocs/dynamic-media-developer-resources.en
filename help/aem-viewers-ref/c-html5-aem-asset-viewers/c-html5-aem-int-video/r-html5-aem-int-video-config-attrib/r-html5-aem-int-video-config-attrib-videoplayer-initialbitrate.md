@@ -6,9 +6,6 @@ solution: Experience Manager
 title: VideoPlayer.initialbitrate
 topic: Dynamic media
 uuid: 251ab7d2-a0b5-4658-a2b8-6b39dd93dd5b
-index: y
-internal: n
-snippet: y
 ---
 
 # VideoPlayer.initialbitrate{#videoplayer-initialbitrate}

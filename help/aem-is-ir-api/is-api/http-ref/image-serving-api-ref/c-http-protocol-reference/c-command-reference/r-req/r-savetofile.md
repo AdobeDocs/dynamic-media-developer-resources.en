@@ -6,9 +6,6 @@ solution: Experience Manager
 title: saveToFile
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 32a56d77-89e2-4f78-9fab-1b528e9a024a
-index: y
-internal: n
-snippet: y
 ---
 
 # saveToFile{#savetofile}

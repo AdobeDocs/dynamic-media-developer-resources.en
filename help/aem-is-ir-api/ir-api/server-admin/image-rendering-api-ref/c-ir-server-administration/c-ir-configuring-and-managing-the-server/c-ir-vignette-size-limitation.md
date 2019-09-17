@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Vignette size limitation
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 218e8c7e-f313-47cb-af42-30c585d4ec12
-index: y
-internal: n
-snippet: y
 ---
 
 # Vignette size limitation{#vignette-size-limitation}

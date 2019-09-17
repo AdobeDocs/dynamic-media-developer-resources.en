@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Color handling
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 6c51d204-27ca-4fbd-a297-bf1d04b63a3f
-index: y
-internal: n
-snippet: y
 ---
 
 # Color handling{#color-handling}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: CallToAction.fmt
 topic: Dynamic media
 uuid: c85160e2-431f-42af-a468-c754bfe86ecd
-index: y
-internal: n
-snippet: y
 ---
 
 # CallToAction.fmt{#calltoaction-fmt}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Operations  New and Modified
 topic: Scene7 Image Production System API
 uuid: e36f0d5c-0170-4a65-9347-c7fd3538726b
-index: y
-internal: n
-snippet: y
 ---
 
 # Operations: New and Modified{#operations-new-and-modified}

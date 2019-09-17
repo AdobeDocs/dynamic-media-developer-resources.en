@@ -6,9 +6,6 @@ solution: Experience Manager
 title: getAssociatedAssets
 topic: Scene7 Image Production System API
 uuid: 70c2f8aa-9104-42b0-b85b-14f90f1ead52
-index: y
-internal: n
-snippet: y
 ---
 
 # getAssociatedAssets{#getassociatedassets}

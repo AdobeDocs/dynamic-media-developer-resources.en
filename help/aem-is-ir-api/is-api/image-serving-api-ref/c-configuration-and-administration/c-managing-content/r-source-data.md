@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Source data
 topic: Scene7 Image Serving - Image Rendering API
 uuid: d654eee7-ef2d-4546-93bb-72f80c38e018
-index: y
-internal: n
-snippet: y
 ---
 
 # Source data{#source-data}

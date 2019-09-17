@@ -6,9 +6,6 @@ solution: Experience Manager
 title: setAssetsPublishState
 topic: Scene7 Image Production System API
 uuid: 2910cd6c-573b-405c-864d-a0136ac5472d
-index: y
-internal: n
-snippet: y
 ---
 
 # setAssetsPublishState{#setassetspublishstate}

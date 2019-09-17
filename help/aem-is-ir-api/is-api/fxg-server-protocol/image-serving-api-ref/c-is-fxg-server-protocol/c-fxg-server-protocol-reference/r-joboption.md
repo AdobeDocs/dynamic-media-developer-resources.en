@@ -6,9 +6,6 @@ solution: Experience Manager
 title: joboption
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 7288cf29-850f-4121-8425-5f995daac22d
-index: y
-internal: n
-snippet: y
 ---
 
 # joboption{#joboption}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Content data folders
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 7c4d60ca-8a8b-453c-887d-a6a16eacc883
-index: y
-internal: n
-snippet: y
 ---
 
 # Content data folders{#content-data-folders}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Thumbnails
 topic: Dynamic media
 uuid: 623f6c7a-4ec7-4708-a7ed-1aa42a21e430
-index: y
-internal: n
-snippet: y
 ---
 
 # Thumbnails{#thumbnails}

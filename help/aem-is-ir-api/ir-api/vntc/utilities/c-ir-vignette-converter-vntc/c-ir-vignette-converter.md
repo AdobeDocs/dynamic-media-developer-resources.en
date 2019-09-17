@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Vignette Converter
 topic: Scene7 Image Serving - Image Rendering API
 uuid: b32a30d6-ae4a-406f-88a9-e8b0eec394c9
-index: y
-internal: n
-snippet: y
 ---
 
 # Vignette Converter{#vignette-converter}

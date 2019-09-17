@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Asset Search System Fields
 topic: Scene7 Image Production System API
 uuid: 2af88d8a-4f04-4a90-8f60-ff0c32197023
-index: y
-internal: n
-snippet: y
 ---
 
 # Asset Search System Fields{#asset-search-system-fields}

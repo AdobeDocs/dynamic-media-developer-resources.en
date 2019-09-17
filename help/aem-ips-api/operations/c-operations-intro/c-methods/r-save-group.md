@@ -6,9 +6,6 @@ solution: Experience Manager
 title: saveGroup
 topic: Scene7 Image Production System API
 uuid: d1631a55-7f1d-48b4-8b35-fd5a05277219
-index: y
-internal: n
-snippet: y
 ---
 
 # saveGroup{#savegroup}

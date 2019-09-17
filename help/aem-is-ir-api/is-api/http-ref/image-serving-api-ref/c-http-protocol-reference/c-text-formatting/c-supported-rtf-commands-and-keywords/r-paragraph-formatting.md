@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Paragraph formatting
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 4f9255b2-3a74-4c9a-80c5-d85b4627027e
-index: y
-internal: n
-snippet: y
 ---
 
 # Paragraph formatting{#paragraph-formatting}

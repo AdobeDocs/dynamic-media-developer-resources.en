@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Print feature
 topic: Dynamic media
 uuid: 4ff170a3-ce37-454f-b4b0-b323de3dc9c9
-index: y
-internal: n
-snippet: y
 ---
 
 # Print feature{#print-feature}

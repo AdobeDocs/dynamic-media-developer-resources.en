@@ -7,9 +7,6 @@ solution: Experience Manager
 title: Customizing Spin Viewer
 topic: Dynamic media
 uuid: d951501c-d6da-454c-be2f-0887ffcac77c
-index: y
-internal: n
-snippet: y
 ---
 
 # Customizing Spin Viewer{#customizing-spin-viewer}

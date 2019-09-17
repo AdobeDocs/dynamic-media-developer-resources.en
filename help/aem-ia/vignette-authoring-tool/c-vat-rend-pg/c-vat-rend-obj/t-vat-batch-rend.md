@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Batch Rendering
 topic: Scene7 Image Authoring
 uuid: 55a4ad98-0a1c-4e3c-be5f-b833d239de49
-index: y
-internal: n
-snippet: y
 ---
 
 # Batch Rendering{#batch-rendering}

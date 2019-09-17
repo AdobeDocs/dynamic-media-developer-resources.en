@@ -6,9 +6,6 @@ solution: Experience Manager
 title: enableVisibleAttributeOptimization
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 7f79aa12-6364-4b34-b547-88d4a778c015
-index: y
-internal: n
-snippet: y
 ---
 
 # enableVisibleAttributeOptimization{#enablevisibleattributeoptimization}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Restrictions
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 05e97255-db4d-4587-94d2-a7ea608ff7d4
-index: y
-internal: n
-snippet: y
 ---
 
 # Restrictions{#restrictions}

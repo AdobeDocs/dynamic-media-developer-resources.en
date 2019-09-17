@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Editing a Vignette in Photoshop
 topic: Scene7 Image Authoring
 uuid: f3b059a2-21e3-445a-842a-fc4251fea20f
-index: y
-internal: n
-snippet: y
 ---
 
 # Editing a Vignette in Photoshop{#editing-a-vignette-in-photoshop}

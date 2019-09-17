@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Edit Menu
 topic: Scene7 Image Authoring
 uuid: 16bbddd3-7685-418f-a501-82a2920d6c7f
-index: y
-internal: n
-snippet: y
 ---
 
 # The Edit Menu{#the-edit-menu}

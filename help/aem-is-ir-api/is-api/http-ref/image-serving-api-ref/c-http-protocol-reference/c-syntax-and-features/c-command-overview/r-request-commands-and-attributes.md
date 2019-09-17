@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Request commands
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 5566bbcd-baf8-4003-b61d-df4e414df781
-index: y
-internal: n
-snippet: y
 ---
 
 # Request commands{#request-commands}

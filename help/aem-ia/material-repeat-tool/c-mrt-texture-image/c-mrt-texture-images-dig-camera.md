@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Creating Texture Images with a Digital Camera
 topic: Scene7 Image Authoring
 uuid: e089657e-217e-4577-b369-a3d525594d5c
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating Texture Images with a Digital Camera{#creating-texture-images-with-a-digital-camera}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: interactivedata
 topic: Dynamic media
 uuid: 72360679-7a39-46dd-ab10-7228d9c42a98
-index: y
-internal: n
-snippet: y
 ---
 
 # interactivedata{#interactivedata}

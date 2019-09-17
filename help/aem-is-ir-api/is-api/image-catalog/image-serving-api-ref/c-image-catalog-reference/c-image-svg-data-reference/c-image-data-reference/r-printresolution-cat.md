@@ -6,9 +6,6 @@ solution: Experience Manager
 title: PrintResolution
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 1c7f504a-c69d-4cfc-af01-b2b6ac6f0fbf
-index: y
-internal: n
-snippet: y
 ---
 
 # PrintResolution{#printresolution}

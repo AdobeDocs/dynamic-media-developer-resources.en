@@ -6,9 +6,6 @@ solution: Experience Manager
 title: createDerivedAsset
 topic: Scene7 Image Production System API
 uuid: e1f9b690-af34-4da5-a534-c3a8c6b0a8fc
-index: y
-internal: n
-snippet: y
 ---
 
 # createDerivedAsset{#createderivedasset}

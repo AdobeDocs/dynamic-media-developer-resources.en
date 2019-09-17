@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Changing the Depth of a Texture
 topic: Scene7 Image Authoring
 uuid: 02081e0a-3c0b-4053-8d99-ff6f56ba306d
-index: y
-internal: n
-snippet: y
 ---
 
 # Changing the Depth of a Texture{#changing-the-depth-of-a-texture}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: targets
 topic: Scene7 Image Serving - Image Rendering API
 uuid: e20dcd2c-913a-4153-97c7-dfb190763e39
-index: y
-internal: n
-snippet: y
 ---
 
 # targets{#targets}

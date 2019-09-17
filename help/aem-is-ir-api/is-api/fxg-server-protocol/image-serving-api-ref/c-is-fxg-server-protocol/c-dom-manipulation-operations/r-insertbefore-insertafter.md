@@ -6,9 +6,6 @@ solution: Experience Manager
 title: insertBefore,insertAfter
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 5ac0f675-333b-4f85-abe0-642cf96de425
-index: y
-internal: n
-snippet: y
 ---
 
 # insertBefore,insertAfter{#insertbefore-insertafter}

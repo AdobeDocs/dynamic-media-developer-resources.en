@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ClientAddressFilter
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 6a557795-0caf-4b5f-974e-fb4c1481a83c
-index: y
-internal: n
-snippet: y
 ---
 
 # ClientAddressFilter{#clientaddressfilter}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: LayerViewInfo
 topic: Scene7 Image Production System API
 uuid: 58d26f4d-03a6-4f57-bc8e-117355c0d74c
-index: y
-internal: n
-snippet: y
 ---
 
 # LayerViewInfo{#layerviewinfo}

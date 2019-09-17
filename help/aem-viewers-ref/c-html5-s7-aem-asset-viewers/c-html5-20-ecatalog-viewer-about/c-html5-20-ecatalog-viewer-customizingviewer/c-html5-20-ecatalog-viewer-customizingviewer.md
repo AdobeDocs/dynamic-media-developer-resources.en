@@ -7,9 +7,6 @@ solution: Experience Manager
 title: Customizing eCatalog Viewer
 topic: Dynamic media
 uuid: 20d0d342-acb8-421f-9ec1-447edeafda86
-index: y
-internal: n
-snippet: y
 ---
 
 # Customizing eCatalog Viewer{#customizing-ecatalog-viewer}

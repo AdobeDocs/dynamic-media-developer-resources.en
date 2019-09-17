@@ -6,9 +6,6 @@ solution: Experience Manager
 title: PageView.enableHD
 topic: Dynamic media
 uuid: dcfb202d-6ed8-4cb9-9254-b8dcfe99cd00
-index: y
-internal: n
-snippet: y
 ---
 
 # PageView.enableHD{#pageview-enablehd}

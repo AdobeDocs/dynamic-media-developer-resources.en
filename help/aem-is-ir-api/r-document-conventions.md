@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Document conventions
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 049c4d1b-b363-43bd-9597-168c97884ab7
-index: y
-internal: n
-snippet: y
 ---
 
 # Document conventions{#document-conventions}

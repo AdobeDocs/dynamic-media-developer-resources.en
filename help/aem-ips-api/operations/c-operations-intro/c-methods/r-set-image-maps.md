@@ -6,9 +6,6 @@ solution: Experience Manager
 title: setImageMaps
 topic: Scene7 Image Production System API
 uuid: 1dd7e032-34b4-464d-8ec6-7ad282d12891
-index: y
-internal: n
-snippet: y
 ---
 
 # setImageMaps{#setimagemaps}

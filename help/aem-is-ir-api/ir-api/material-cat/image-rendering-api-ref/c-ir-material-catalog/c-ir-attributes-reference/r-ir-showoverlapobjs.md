@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ShowOverlapObjs
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 965dcff5-30e1-4237-aa71-ee7533a674d8
-index: y
-internal: n
-snippet: y
 ---
 
 # ShowOverlapObjs{#showoverlapobjs}

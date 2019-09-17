@@ -6,9 +6,6 @@ solution: Experience Manager
 title: IccRenderIntent
 topic: Scene7 Image Serving - Image Rendering API
 uuid: c7edd8d8-c513-48d9-b3f6-1c3ad39a67e3
-index: y
-internal: n
-snippet: y
 ---
 
 # IccRenderIntent{#iccrenderintent}

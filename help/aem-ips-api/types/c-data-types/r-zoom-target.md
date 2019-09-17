@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ZoomTarget
 topic: Scene7 Image Production System API
 uuid: 08a03140-c8cc-49d8-9575-ae153b3899c9
-index: y
-internal: n
-snippet: y
 ---
 
 # ZoomTarget{#zoomtarget}

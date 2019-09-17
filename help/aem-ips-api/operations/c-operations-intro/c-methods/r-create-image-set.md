@@ -6,9 +6,6 @@ solution: Experience Manager
 title: createImageSet
 topic: Scene7 Image Production System API
 uuid: 688f3954-bc8f-4687-8d66-e064561cd4a0
-index: y
-internal: n
-snippet: y
 ---
 
 # createImageSet{#createimageset}

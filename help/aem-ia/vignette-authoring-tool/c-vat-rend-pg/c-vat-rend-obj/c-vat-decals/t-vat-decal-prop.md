@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Changing a Decal's Properties
 topic: Scene7 Image Authoring
 uuid: 832d13cf-e8b9-465b-833f-6cd83c76e349
-index: y
-internal: n
-snippet: y
 ---
 
 # Changing a Decal's Properties{#changing-a-decal-s-properties}

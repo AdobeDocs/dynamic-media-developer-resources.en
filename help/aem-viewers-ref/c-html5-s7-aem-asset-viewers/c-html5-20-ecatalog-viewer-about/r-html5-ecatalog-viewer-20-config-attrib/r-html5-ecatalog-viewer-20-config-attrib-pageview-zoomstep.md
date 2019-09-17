@@ -6,9 +6,6 @@ solution: Experience Manager
 title: PageView.zoomstep
 topic: Dynamic media
 uuid: 11458300-4a1b-4623-8ea1-db804daab3cf
-index: y
-internal: n
-snippet: y
 ---
 
 # PageView.zoomstep{#pageview-zoomstep}

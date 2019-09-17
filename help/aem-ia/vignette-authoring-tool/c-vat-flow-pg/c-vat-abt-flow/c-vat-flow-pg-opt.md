@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Flowline Page Options
 topic: Scene7 Image Authoring
 uuid: efcb99ab-0e40-43e6-aa5a-35813a97607b
-index: y
-internal: n
-snippet: y
 ---
 
 # Flowline Page Options{#flowline-page-options}

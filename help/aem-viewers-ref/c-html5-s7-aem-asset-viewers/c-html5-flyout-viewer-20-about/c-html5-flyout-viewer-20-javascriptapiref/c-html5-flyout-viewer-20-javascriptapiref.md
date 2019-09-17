@@ -6,9 +6,6 @@ solution: Experience Manager
 title: JavaScript API reference for Flyout Viewer
 topic: Dynamic media
 uuid: 45621805-8aa5-4ced-a36a-ebecb2a606a0
-index: y
-internal: n
-snippet: y
 ---
 
 # JavaScript API reference for Flyout Viewer{#javascript-api-reference-for-flyout-viewer}

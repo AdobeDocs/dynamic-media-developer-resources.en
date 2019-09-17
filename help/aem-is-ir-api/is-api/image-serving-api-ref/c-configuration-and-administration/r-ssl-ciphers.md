@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Defining SSL ciphers
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 9490fb9a-5abb-4f5e-b660-b7af0a5e4b4d
-index: y
-internal: n
-snippet: y
 ---
 
 # Defining SSL ciphers{#defining-ssl-ciphers}

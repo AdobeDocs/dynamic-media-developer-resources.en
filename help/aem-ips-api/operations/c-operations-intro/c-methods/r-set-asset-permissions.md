@@ -6,9 +6,6 @@ solution: Experience Manager
 title: setAssetPermissions
 topic: Scene7 Image Production System API
 uuid: 38f26482-bce9-4d2c-9714-e8c3ae40c2d1
-index: y
-internal: n
-snippet: y
 ---
 
 # setAssetPermissions{#setassetpermissions}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Command reference – Configuration attributes
 topic: Dynamic media
 uuid: ef118730-1bd2-4b88-917c-1fa51c6a488b
-index: y
-internal: n
-snippet: y
 ---
 
 # Command reference – Configuration attributes{#command-reference-configuration-attributes}

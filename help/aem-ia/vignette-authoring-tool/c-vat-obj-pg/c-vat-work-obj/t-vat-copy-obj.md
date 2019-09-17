@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Copying an Object
 topic: Scene7 Image Authoring
 uuid: 723a0dec-0177-4900-9162-758d978ddeda
-index: y
-internal: n
-snippet: y
 ---
 
 # Copying an Object{#copying-an-object}

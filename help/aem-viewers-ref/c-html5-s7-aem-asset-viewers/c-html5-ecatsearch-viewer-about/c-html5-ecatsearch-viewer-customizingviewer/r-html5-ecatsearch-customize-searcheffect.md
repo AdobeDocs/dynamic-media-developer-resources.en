@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Search effect
 topic: Dynamic media
 uuid: 3a076ff8-2da5-4020-8a77-8f5a256afefe
-index: y
-internal: n
-snippet: y
 ---
 
 # Search effect{#search-effect}

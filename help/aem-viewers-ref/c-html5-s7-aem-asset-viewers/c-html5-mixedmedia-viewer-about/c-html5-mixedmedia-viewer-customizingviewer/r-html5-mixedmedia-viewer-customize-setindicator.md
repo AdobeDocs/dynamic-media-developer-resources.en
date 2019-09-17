@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Set indicator
 topic: Dynamic media
 uuid: e62fac7c-28b6-40bf-83cc-8bcfbaa0dfa3
-index: y
-internal: n
-snippet: y
 ---
 
 # Set indicator{#set-indicator}

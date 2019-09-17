@@ -6,9 +6,6 @@ solution: Experience Manager
 title: About Objects
 topic: Scene7 Image Authoring
 uuid: 008ec9f0-71b5-45e7-a07b-ffe0838887b5
-index: y
-internal: n
-snippet: y
 ---
 
 # About Objects{#about-objects}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Job Types
 topic: Scene7 Image Production System API
 uuid: ec55f636-d5c9-419c-b965-eee17ed7e2e7
-index: y
-internal: n
-snippet: y
 ---
 
 # Job Types{#job-types}

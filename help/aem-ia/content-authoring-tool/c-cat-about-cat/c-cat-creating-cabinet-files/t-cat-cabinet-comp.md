@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Defining a Cabinet Component
 topic: Scene7 Image Authoring
 uuid: 4127a5e0-d7b8-4b66-a05a-405654209e20
-index: y
-internal: n
-snippet: y
 ---
 
 # Defining a Cabinet Component{#defining-a-cabinet-component}

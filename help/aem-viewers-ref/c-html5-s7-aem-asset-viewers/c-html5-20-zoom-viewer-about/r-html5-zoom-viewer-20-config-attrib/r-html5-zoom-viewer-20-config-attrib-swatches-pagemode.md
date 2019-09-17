@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Swatches.pagemode
 topic: Dynamic media
 uuid: 9eafa02d-6a6f-43c0-9c01-001b3cab9e84
-index: y
-internal: n
-snippet: y
 ---
 
 # Swatches.pagemode{#swatches-pagemode}

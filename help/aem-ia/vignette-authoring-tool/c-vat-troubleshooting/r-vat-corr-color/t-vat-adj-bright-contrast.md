@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Adjusting Brightness and Contrast
 topic: Scene7 Image Authoring
 uuid: 746ac85e-2b31-4565-b855-5d6feb0f0f50
-index: y
-internal: n
-snippet: y
 ---
 
 # Adjusting Brightness and Contrast{#adjusting-brightness-and-contrast}

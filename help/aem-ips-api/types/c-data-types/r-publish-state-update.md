@@ -6,9 +6,6 @@ solution: Experience Manager
 title: PublishStateUpdate
 topic: Scene7 Image Production System API
 uuid: b08acff6-2861-41aa-8e25-cecf7e36ad53
-index: y
-internal: n
-snippet: y
 ---
 
 # PublishStateUpdate{#publishstateupdate}

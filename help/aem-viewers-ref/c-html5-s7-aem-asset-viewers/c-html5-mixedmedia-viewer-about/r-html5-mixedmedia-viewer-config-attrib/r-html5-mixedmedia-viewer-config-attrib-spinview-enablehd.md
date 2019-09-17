@@ -6,9 +6,6 @@ solution: Experience Manager
 title: SpinView.enableHD
 topic: Dynamic media
 uuid: 3e7cdb44-4366-4e84-a6c7-c1cf1f5e6344
-index: y
-internal: n
-snippet: y
 ---
 
 # SpinView.enableHD{#spinview-enablehd}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Bfc
 topic: Scene7 Image Serving - Image Rendering API
 uuid: ea27f001-6d7d-4df4-b88c-60859a92e096
-index: y
-internal: n
-snippet: y
 ---
 
 # Bfc{#bfc}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Nested Image Rendering requests
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 12551bd5-ff5f-45d6-81e9-5ba0be47a425
-index: y
-internal: n
-snippet: y
 ---
 
 # Nested Image Rendering requests{#nested-image-rendering-requests}

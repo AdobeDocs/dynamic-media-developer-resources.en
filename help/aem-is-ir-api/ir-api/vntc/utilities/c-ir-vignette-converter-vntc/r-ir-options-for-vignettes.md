@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Options for vignettes
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 0cb40314-07ce-496b-a27b-560d7bb4fa8e
-index: y
-internal: n
-snippet: y
 ---
 
 # Options for vignettes{#options-for-vignettes}

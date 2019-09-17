@@ -6,9 +6,6 @@ solution: Experience Manager
 title: SearchPanel.align
 topic: Dynamic media
 uuid: 769ae5e4-23ee-435a-9a56-d84a32004b00
-index: y
-internal: n
-snippet: y
 ---
 
 # SearchPanel.align{#searchpanel-align}

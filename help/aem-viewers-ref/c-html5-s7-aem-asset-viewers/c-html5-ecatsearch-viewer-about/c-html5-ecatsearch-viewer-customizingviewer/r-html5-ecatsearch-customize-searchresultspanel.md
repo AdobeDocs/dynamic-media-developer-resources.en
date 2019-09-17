@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Search results panel
 topic: Dynamic media
 uuid: 43d8e003-79f7-4e41-98d7-b362ab7180ea
-index: y
-internal: n
-snippet: y
 ---
 
 # Search results panel{#search-results-panel}

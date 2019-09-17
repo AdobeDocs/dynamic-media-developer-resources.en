@@ -6,9 +6,6 @@ solution: Experience Manager
 title: op_noise
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 531f7a94-149b-4090-a163-a1895156250b
-index: y
-internal: n
-snippet: y
 ---
 
 # op_noise{#op-noise}

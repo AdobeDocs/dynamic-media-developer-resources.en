@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ImageSetMemberUpdateArray
 topic: Scene7 Image Production System API
 uuid: 23d45181-1103-4e3a-89a4-984470c11728
-index: y
-internal: n
-snippet: y
 ---
 
 # ImageSetMemberUpdateArray{#imagesetmemberupdatearray}

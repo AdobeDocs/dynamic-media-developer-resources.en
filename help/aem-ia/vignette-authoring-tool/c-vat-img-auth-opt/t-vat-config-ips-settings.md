@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Configuring IPS Settings
 topic: Scene7 Image Authoring
 uuid: 9b0622fb-9533-4648-8413-68c1c57efbc6
-index: y
-internal: n
-snippet: y
 ---
 
 # Configuring IPS Settings{#configuring-ips-settings}

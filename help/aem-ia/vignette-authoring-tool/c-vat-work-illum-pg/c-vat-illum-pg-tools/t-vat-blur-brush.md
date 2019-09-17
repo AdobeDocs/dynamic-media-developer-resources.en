@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Blur Brush
 topic: Scene7 Image Authoring
 uuid: 0a65fc74-dfa5-4024-9d22-8c8967455944
-index: y
-internal: n
-snippet: y
 ---
 
 # The Blur Brush{#the-blur-brush}

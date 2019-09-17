@@ -6,9 +6,6 @@ solution: Experience Manager
 title: HTTPS video delivery
 topic: Dynamic media
 uuid: 7f8c1fe6-b464-4d80-9ffe-a36081825d49
-index: y
-internal: n
-snippet: y
 ---
 
 # HTTPS video delivery{#https-video-delivery}

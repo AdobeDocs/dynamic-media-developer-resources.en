@@ -6,9 +6,6 @@ solution: Experience Manager
 title: JpegQuality
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 82dabdae-a1f3-484a-a520-ae765914d0f7
-index: y
-internal: n
-snippet: y
 ---
 
 # JpegQuality{#jpegquality}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: map
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 57cb0fcf-5a07-4109-bfd4-ef9aaf794b27
-index: y
-internal: n
-snippet: y
 ---
 
 # map{#map}

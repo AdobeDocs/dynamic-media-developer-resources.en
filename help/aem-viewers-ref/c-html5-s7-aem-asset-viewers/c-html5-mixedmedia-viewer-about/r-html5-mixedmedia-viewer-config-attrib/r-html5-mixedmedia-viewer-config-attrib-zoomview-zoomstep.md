@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ZoomView.zoomstep
 topic: Dynamic media
 uuid: 914091e0-f026-423c-8c33-86a0284ac600
-index: y
-internal: n
-snippet: y
 ---
 
 # ZoomView.zoomstep{#zoomview-zoomstep}

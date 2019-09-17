@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Batch Rendering to IPS
 topic: Scene7 Image Authoring
 uuid: 81cc1c9d-0ea9-41db-8bdd-4c3fc2f949fd
-index: y
-internal: n
-snippet: y
 ---
 
 # Batch Rendering to IPS{#batch-rendering-to-ips}

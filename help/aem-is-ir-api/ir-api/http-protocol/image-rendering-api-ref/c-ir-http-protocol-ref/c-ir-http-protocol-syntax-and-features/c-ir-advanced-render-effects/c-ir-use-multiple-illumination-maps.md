@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Using multiple illumination maps
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 24d86229-6e88-4fe2-80ef-30461aee3db5
-index: y
-internal: n
-snippet: y
 ---
 
 # Using multiple illumination maps{#using-multiple-illumination-maps}

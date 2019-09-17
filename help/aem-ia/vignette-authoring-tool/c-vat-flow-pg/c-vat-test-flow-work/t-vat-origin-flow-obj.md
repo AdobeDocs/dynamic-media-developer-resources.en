@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Changing the Origin for Flowline Objects
 topic: Scene7 Image Authoring
 uuid: 3e5b537e-60ef-40ac-9155-bbee353cf708
-index: y
-internal: n
-snippet: y
 ---
 
 # Changing the Origin for Flowline Objects{#changing-the-origin-for-flowline-objects}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Warnings Tab
 topic: Scene7 Image Authoring
 uuid: 6f409872-0d80-46ea-9d1f-dff2200945f0
-index: y
-internal: n
-snippet: y
 ---
 
 # Warnings Tab{#warnings-tab}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ZoomView.reset
 topic: Dynamic media
 uuid: 97b99aa0-5ef2-4769-a02d-24d815efb472
-index: y
-internal: n
-snippet: y
 ---
 
 # ZoomView.reset{#zoomview-reset}

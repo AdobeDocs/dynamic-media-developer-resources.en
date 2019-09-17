@@ -6,9 +6,6 @@ solution: Experience Manager
 title: setParam
 topic: Dynamic media
 uuid: 5f7be1d4-28aa-497c-9067-853c227aa11a
-index: y
-internal: n
-snippet: y
 ---
 
 # setParam{#setparam}

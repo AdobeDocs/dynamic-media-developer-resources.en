@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Changing Feature Profiles
 topic: Scene7 Image Authoring
 uuid: 1f50b0cf-0af7-4894-8c6b-1938008bdfad
-index: y
-internal: n
-snippet: y
 ---
 
 # Changing Feature Profiles{#changing-feature-profiles}

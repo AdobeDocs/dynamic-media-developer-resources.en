@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ControlBar.transition
 topic: Dynamic media
 uuid: cde4a5b9-4512-41a6-84ce-9f4fc2cc0399
-index: y
-internal: n
-snippet: y
 ---
 
 # ControlBar.transition{#controlbar-transition}

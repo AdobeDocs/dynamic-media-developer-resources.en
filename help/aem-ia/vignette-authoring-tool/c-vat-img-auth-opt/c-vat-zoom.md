@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Zooming
 topic: Scene7 Image Authoring
 uuid: b891d282-ff27-4948-9b69-7b018282b2d4
-index: y
-internal: n
-snippet: y
 ---
 
 # Zooming{#zooming}

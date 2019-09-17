@@ -6,9 +6,6 @@ solution: Experience Manager
 title: rotate
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 160d3c4b-3871-43bd-a17d-96198c7ea839
-index: y
-internal: n
-snippet: y
 ---
 
 # rotate{#rotate}

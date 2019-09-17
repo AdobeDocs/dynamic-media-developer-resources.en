@@ -6,9 +6,6 @@ solution: Experience Manager
 title: MixedMediaViewer
 topic: Dynamic media
 uuid: ccaabc04-a9d0-4f58-96bd-ba76e977bfac
-index: y
-internal: n
-snippet: y
 ---
 
 # MixedMediaViewer{#mixedmediaviewer}

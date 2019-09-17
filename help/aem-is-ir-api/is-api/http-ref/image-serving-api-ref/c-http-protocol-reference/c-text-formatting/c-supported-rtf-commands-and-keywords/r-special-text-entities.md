@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Special text entities
 topic: Scene7 Image Serving - Image Rendering API
 uuid: efcc3962-7097-4395-8b9f-f37c6e7f5b75
-index: y
-internal: n
-snippet: y
 ---
 
 # Special text entities{#special-text-entities}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: PhotoshopLayerOptions
 topic: Scene7 Image Production System API
 uuid: af4d5c28-f7c1-4f89-943e-386a5f83474f
-index: y
-internal: n
-snippet: y
 ---
 
 # PhotoshopLayerOptions{#photoshoplayeroptions}

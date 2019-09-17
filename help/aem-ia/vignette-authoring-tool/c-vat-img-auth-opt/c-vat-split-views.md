@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Splitting Views
 topic: Scene7 Image Authoring
 uuid: b02c78c1-ce25-40a8-b47e-e19826913343
-index: y
-internal: n
-snippet: y
 ---
 
 # Splitting Views{#splitting-views}

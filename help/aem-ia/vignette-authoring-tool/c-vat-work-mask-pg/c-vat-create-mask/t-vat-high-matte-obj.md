@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Creating a Mask for a Highlight Matte Object
 topic: Scene7 Image Authoring
 uuid: 1b024ca4-f17c-4391-9b45-eb4d6619bc45
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating a Mask for a Highlight Matte Object{#creating-a-mask-for-a-highlight-matte-object}

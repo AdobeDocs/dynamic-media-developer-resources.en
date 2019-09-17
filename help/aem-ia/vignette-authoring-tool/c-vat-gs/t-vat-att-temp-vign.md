@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Attaching a Template to an Existing Vignette
 topic: Scene7 Image Authoring
 uuid: 8cbc5177-6e50-4415-b9f5-75659acc0aae
-index: y
-internal: n
-snippet: y
 ---
 
 # Attaching a Template to an Existing Vignette{#attaching-a-template-to-an-existing-vignette}

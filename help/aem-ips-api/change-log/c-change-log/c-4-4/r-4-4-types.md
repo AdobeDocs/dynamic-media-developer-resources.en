@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Data Types  New and Modified
 topic: Scene7 Image Production System API
 uuid: 6f5100ad-5b8e-434c-b2dd-f2e01f304b2f
-index: y
-internal: n
-snippet: y
 ---
 
 # Data Types: New and Modified{#data-types-new-and-modified}

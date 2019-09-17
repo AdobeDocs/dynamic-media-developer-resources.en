@@ -6,9 +6,6 @@ solution: Experience Manager
 title: User
 topic: Scene7 Image Production System API
 uuid: 37e939ae-dd1a-4550-aa93-b7b091ebc339
-index: y
-internal: n
-snippet: y
 ---
 
 # User{#user}

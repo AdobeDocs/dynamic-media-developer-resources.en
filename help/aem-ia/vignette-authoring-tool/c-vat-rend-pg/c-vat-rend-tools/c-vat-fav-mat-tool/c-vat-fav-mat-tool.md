@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Favorite Materials Tool
 topic: Scene7 Image Authoring
 uuid: 46bc772c-490a-40c7-8f75-ffa1e059a25c
-index: y
-internal: n
-snippet: y
 ---
 
 # The Favorite Materials Tool{#the-favorite-materials-tool}

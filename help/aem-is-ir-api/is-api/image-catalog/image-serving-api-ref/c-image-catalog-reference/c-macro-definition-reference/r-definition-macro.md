@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Definition
 topic: Scene7 Image Serving - Image Rendering API
 uuid: f576d5e7-cd80-4b7b-a6b6-2dc38cafbc7f
-index: y
-internal: n
-snippet: y
 ---
 
 # Definition{#definition}

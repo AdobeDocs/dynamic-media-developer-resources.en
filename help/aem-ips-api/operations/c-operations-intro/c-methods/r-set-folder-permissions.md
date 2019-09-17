@@ -6,9 +6,6 @@ solution: Experience Manager
 title: setFolderPermissions
 topic: Scene7 Image Production System API
 uuid: 3a33034e-df2c-48ab-8ade-b76bea444388
-index: y
-internal: n
-snippet: y
 ---
 
 # setFolderPermissions{#setfolderpermissions}

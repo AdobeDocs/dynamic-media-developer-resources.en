@@ -6,9 +6,6 @@ solution: Experience Manager
 title: getAssetJobLogs
 topic: Scene7 Image Production System API
 uuid: 7ea81baf-769b-4c73-bbc6-f52c89c98d50
-index: y
-internal: n
-snippet: y
 ---
 
 # getAssetJobLogs{#getassetjoblogs}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: CarouselView.autoplay
 topic: Dynamic media
 uuid: 12730b17-110e-405b-97fe-e70fab89c703
-index: y
-internal: n
-snippet: y
 ---
 
 # CarouselView.autoplay{#carouselview-autoplay}

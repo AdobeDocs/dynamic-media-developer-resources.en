@@ -6,9 +6,6 @@ solution: Experience Manager
 title: About Perspective, Scene Directions, and Vanishing Points
 topic: Scene7 Image Authoring
 uuid: 100a0a5c-894a-402a-8ac5-ae0e3570c46c
-index: y
-internal: n
-snippet: y
 ---
 
 # About Perspective, Scene Directions, and Vanishing Points{#about-perspective-scene-directions-and-vanishing-points}

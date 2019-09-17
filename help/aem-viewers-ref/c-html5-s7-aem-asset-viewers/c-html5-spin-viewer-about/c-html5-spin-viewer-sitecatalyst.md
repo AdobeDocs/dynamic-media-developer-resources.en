@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Support for Adobe Analytics tracking
 topic: Dynamic media
 uuid: 337671f0-22e8-4e3e-a0a9-ce49d271ea56
-index: y
-internal: n
-snippet: y
 ---
 
 # Support for Adobe Analytics tracking{#support-for-adobe-analytics-tracking}

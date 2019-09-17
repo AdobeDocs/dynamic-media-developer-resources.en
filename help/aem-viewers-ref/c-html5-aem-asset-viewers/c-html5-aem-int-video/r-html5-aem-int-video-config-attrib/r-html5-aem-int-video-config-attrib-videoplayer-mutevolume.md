@@ -6,9 +6,6 @@ solution: Experience Manager
 title: VideoPlayer.mutevolume
 topic: Dynamic media
 uuid: 00a660f1-fa00-4821-aaec-7d370376c347
-index: y
-internal: n
-snippet: y
 ---
 
 # VideoPlayer.mutevolume{#videoplayer-mutevolume}

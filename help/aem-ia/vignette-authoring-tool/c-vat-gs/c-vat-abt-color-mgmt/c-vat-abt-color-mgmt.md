@@ -6,9 +6,6 @@ solution: Experience Manager
 title: About Color Management
 topic: Scene7 Image Authoring
 uuid: 8554c8af-1b0d-41e6-a6d0-94e808e8dabe
-index: y
-internal: n
-snippet: y
 ---
 
 # About Color Management{#about-color-management}

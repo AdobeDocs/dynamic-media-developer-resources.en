@@ -6,9 +6,6 @@ solution: Experience Manager
 title: clipXPath
 topic: Scene7 Image Serving - Image Rendering API
 uuid: a4062f3f-5dba-4514-acde-e1b7d608a2e9
-index: y
-internal: n
-snippet: y
 ---
 
 # clipXPath{#clipxpath}

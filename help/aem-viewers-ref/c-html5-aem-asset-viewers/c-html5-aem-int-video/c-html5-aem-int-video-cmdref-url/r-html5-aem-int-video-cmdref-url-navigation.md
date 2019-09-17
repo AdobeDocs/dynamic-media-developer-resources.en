@@ -6,9 +6,6 @@ solution: Experience Manager
 title: navigation
 topic: Dynamic media
 uuid: eecc7458-153c-4f36-b29e-97451f275c0c
-index: y
-internal: n
-snippet: y
 ---
 
 # navigation{#navigation}

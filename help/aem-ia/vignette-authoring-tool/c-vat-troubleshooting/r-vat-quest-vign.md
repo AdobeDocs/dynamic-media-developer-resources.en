@@ -6,9 +6,6 @@ solution: Experience Manager
 title: General Questions About Vignettes
 topic: Scene7 Image Authoring
 uuid: 19d57802-9efb-4bb9-ac9a-2f0c2ac45336
-index: y
-internal: n
-snippet: y
 ---
 
 # General Questions About Vignettes{#general-questions-about-vignettes}

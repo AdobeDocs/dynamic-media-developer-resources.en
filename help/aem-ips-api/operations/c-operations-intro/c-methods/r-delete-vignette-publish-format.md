@@ -6,9 +6,6 @@ solution: Experience Manager
 title: deleteVignettePublishFormat
 topic: Scene7 Image Production System API
 uuid: 3c8148d5-dec6-4ffa-8ab8-2cd70811ada6
-index: y
-internal: n
-snippet: y
 ---
 
 # deleteVignettePublishFormat{#deletevignettepublishformat}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: SupervisorRegistry.xml
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 8442a3d6-5f45-48d1-8e6e-71f0ed384227
-index: y
-internal: n
-snippet: y
 ---
 
 # SupervisorRegistry.xml{#supervisorregistry-xml}

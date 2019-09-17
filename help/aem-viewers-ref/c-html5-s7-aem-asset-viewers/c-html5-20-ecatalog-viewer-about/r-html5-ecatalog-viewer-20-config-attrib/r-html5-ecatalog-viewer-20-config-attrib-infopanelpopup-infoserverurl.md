@@ -6,9 +6,6 @@ solution: Experience Manager
 title: InfoPanelPopup.infoServerUrl
 topic: Dynamic media
 uuid: 0d0f2fd8-b3fc-46fd-8720-9c4c51db9646
-index: y
-internal: n
-snippet: y
 ---
 
 # InfoPanelPopup.infoServerUrl{#infopanelpopup-infoserverurl}

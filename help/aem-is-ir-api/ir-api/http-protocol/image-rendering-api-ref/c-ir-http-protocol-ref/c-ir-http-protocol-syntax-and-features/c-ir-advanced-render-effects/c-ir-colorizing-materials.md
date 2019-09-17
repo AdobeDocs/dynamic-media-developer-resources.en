@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Colorizing materials
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 3f5a9089-6e35-446c-89f9-71b067e0d1df
-index: y
-internal: n
-snippet: y
 ---
 
 # Colorizing materials{#colorizing-materials}

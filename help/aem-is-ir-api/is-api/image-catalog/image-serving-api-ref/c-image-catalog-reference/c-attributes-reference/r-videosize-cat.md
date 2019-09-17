@@ -6,9 +6,6 @@ solution: Experience Manager
 title: VideoSize
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 078508a7-8b06-4c40-9497-82b365b96fe2
-index: y
-internal: n
-snippet: y
 ---
 
 # VideoSize{#videosize}

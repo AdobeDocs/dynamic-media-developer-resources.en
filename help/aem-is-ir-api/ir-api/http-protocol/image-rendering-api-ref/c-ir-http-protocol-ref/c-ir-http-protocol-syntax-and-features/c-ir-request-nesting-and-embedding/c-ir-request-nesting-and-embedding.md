@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Request nesting and embedding *
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 1884ae71-6ff5-4945-9411-a7183c32b772
-index: y
-internal: n
-snippet: y
 ---
 
 # Request nesting and embedding *{#request-nesting-and-embedding}

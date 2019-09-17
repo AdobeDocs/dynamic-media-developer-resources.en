@@ -6,9 +6,6 @@ solution: Experience Manager
 title: About Illumination Options
 topic: Scene7 Image Authoring
 uuid: c782a17c-7dcb-44c9-a945-175bbc39c633
-index: y
-internal: n
-snippet: y
 ---
 
 # About Illumination Options{#about-illumination-options}

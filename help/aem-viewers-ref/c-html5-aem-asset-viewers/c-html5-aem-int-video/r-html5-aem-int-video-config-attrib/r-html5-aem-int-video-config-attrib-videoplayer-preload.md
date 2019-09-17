@@ -6,9 +6,6 @@ solution: Experience Manager
 title: VideoPlayer.preload
 topic: Dynamic media
 uuid: d080465d-7349-4671-aaa4-c49e549d1f64
-index: y
-internal: n
-snippet: y
 ---
 
 # VideoPlayer.preload{#videoplayer-preload}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: PageView.doubleclick
 topic: Dynamic media
 uuid: ac4fb532-f554-4831-b341-7f8d6ef3a1c0
-index: y
-internal: n
-snippet: y
 ---
 
 # PageView.doubleclick{#pageview-doubleclick}

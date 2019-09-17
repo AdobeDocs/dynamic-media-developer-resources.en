@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ThumbnailGridView.enabledragging
 topic: Dynamic media
 uuid: d7a12c2e-b50e-473e-9406-8ef0541e38c4
-index: y
-internal: n
-snippet: y
 ---
 
 # ThumbnailGridView.enabledragging{#thumbnailgridview-enabledragging}

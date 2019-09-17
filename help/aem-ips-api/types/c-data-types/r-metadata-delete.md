@@ -6,9 +6,6 @@ solution: Experience Manager
 title: MetadataDelete
 topic: Scene7 Image Production System API
 uuid: 7bd80931-4b7a-4a70-a505-b351653549af
-index: y
-internal: n
-snippet: y
 ---
 
 # MetadataDelete{#metadatadelete}

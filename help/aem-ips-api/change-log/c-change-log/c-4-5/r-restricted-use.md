@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Restricted Use
 topic: Scene7 Image Production System API
 uuid: 76a423e5-ff7d-44a3-aba4-af258ea55256
-index: y
-internal: n
-snippet: y
 ---
 
 # Restricted Use{#restricted-use}

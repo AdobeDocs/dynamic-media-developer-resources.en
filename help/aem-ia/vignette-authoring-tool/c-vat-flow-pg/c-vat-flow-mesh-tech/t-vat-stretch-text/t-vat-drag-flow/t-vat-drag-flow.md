@@ -6,9 +6,6 @@ solution: Experience Manager
 title: To Stretch a Texture by Dragging Flowlines
 topic: Scene7 Image Authoring
 uuid: e5d850fb-2070-4ac5-979b-1b1d0a511072
-index: y
-internal: n
-snippet: y
 ---
 
 # To Stretch a Texture by Dragging Flowlines{#to-stretch-a-texture-by-dragging-flowlines}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Changing Window Covering Material Properties
 topic: Scene7 Image Authoring
 uuid: ecb95614-e758-4fe0-a82c-44896a8a55f9
-index: y
-internal: n
-snippet: y
 ---
 
 # Changing Window Covering Material Properties{#changing-window-covering-material-properties}

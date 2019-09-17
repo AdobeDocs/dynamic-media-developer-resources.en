@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Cropping a Vignette
 topic: Scene7 Image Authoring
 uuid: 1e98ef71-3049-4dd5-b206-5db31ba172b4
-index: y
-internal: n
-snippet: y
 ---
 
 # Cropping a Vignette{#cropping-a-vignette}

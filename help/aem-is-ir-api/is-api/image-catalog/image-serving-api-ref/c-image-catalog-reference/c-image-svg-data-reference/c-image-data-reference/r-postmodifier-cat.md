@@ -6,9 +6,6 @@ solution: Experience Manager
 title: PostModifier
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 8800a9b2-e9c0-498b-b4e1-37952ba7c842
-index: y
-internal: n
-snippet: y
 ---
 
 # PostModifier{#postmodifier}

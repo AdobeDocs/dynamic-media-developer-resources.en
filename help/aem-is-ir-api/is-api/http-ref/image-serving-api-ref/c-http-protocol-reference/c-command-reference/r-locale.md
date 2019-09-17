@@ -6,9 +6,6 @@ solution: Experience Manager
 title: locale
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 82acc0bb-fd94-44c9-8ff9-3b9cefab4627
-index: y
-internal: n
-snippet: y
 ---
 
 # locale{#locale}

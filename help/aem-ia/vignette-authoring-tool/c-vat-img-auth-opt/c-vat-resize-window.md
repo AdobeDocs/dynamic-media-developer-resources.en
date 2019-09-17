@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Resizing Windows
 topic: Scene7 Image Authoring
 uuid: 5ba1eabb-5bb8-499a-a55b-0dbc068ec439
-index: y
-internal: n
-snippet: y
 ---
 
 # Resizing Windows{#resizing-windows}

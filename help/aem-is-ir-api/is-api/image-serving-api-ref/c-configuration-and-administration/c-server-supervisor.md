@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Server supervisor
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 6ac38d90-00ed-4d49-84f0-2e77e7a86d47
-index: y
-internal: n
-snippet: y
 ---
 
 # Server supervisor{#server-supervisor}

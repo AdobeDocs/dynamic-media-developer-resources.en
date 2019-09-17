@@ -6,9 +6,6 @@ solution: Experience Manager
 title: size
 topic: Scene7 Image Serving - Image Rendering API
 uuid: b82f3429-3d84-4707-8126-d390239df9a2
-index: y
-internal: n
-snippet: y
 ---
 
 # size{#size}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ContextStateUpdate
 topic: Scene7 Image Production System API
 uuid: ef579d3c-1899-4088-903e-e6ed5a414ca8
-index: y
-internal: n
-snippet: y
 ---
 
 # ContextStateUpdate{#contextstateupdate}

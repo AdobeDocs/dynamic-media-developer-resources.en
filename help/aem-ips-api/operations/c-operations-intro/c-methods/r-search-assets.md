@@ -6,9 +6,6 @@ solution: Experience Manager
 title: searchAssets
 topic: Scene7 Image Production System API
 uuid: 125e9e0d-1856-4e80-9778-ca93cd04b766
-index: y
-internal: n
-snippet: y
 ---
 
 # searchAssets{#searchassets}

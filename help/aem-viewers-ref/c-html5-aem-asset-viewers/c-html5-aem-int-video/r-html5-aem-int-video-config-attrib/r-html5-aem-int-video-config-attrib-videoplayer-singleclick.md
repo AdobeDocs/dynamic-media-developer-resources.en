@@ -6,9 +6,6 @@ solution: Experience Manager
 title: VideoPlayer.singleclick
 topic: Dynamic media
 uuid: 5b387eb6-1e09-4506-beea-3f1cf337cb9d
-index: y
-internal: n
-snippet: y
 ---
 
 # VideoPlayer.singleclick{#videoplayer-singleclick}

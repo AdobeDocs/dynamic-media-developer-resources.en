@@ -6,9 +6,6 @@ solution: Experience Manager
 title: TrustedDomains
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 1d056d68-b699-413c-897c-8612444735c5
-index: y
-internal: n
-snippet: y
 ---
 
 # TrustedDomains{#trusteddomains}

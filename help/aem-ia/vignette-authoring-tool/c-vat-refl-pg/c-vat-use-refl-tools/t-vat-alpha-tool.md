@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Alpha Tool
 topic: Scene7 Image Authoring
 uuid: 6e45a1c0-bfa6-47fd-8ffd-38456637aed7
-index: y
-internal: n
-snippet: y
 ---
 
 # The Alpha Tool{#the-alpha-tool}

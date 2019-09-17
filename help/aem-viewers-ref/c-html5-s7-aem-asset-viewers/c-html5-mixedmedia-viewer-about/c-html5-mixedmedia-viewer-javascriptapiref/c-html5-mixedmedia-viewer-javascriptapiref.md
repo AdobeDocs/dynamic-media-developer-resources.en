@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Javascript API reference for Mixed Media Viewer
 topic: Dynamic media
 uuid: 8a416e62-3ae1-4539-8757-d68f99ea1d1a
-index: y
-internal: n
-snippet: y
 ---
 
 # Javascript API reference for Mixed Media Viewer{#javascript-api-reference-for-mixed-media-viewer}

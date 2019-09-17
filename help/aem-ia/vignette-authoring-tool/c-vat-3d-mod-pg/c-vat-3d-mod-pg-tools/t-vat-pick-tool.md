@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Pick tool
 topic: Scene7 Image Authoring
 uuid: f730d834-e941-4516-8ce5-624de80d640d
-index: y
-internal: n
-snippet: y
 ---
 
 # The Pick tool{#the-pick-tool}

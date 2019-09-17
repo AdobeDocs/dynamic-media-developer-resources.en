@@ -6,9 +6,6 @@ solution: Experience Manager
 title: rect
 topic: Scene7 Image Serving - Image Rendering API
 uuid: c4830fc5-d102-4789-8753-0a660d4a557e
-index: y
-internal: n
-snippet: y
 ---
 
 # rect{#rect}

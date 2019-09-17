@@ -6,9 +6,6 @@ solution: Experience Manager
 title: FavoritesView.iscommand
 topic: Dynamic media
 uuid: 59a25b65-a08f-46e9-a9eb-33672e4a0cb5
-index: y
-internal: n
-snippet: y
 ---
 
 # FavoritesView.iscommand{#favoritesview-iscommand}

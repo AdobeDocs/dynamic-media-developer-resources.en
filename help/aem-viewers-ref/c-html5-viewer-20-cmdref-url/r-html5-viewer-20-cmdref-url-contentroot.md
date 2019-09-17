@@ -6,9 +6,6 @@ solution: Experience Manager
 title: contentUrl
 topic: Dynamic media
 uuid: 85b00c4e-b382-4970-b780-e4ef59108cb7
-index: y
-internal: n
-snippet: y
 ---
 
 # contentUrl{#contenturl}

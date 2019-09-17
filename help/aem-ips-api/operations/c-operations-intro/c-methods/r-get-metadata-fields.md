@@ -6,9 +6,6 @@ solution: Experience Manager
 title: getMetadataFields
 topic: Scene7 Image Production System API
 uuid: bf891bae-53c8-4e3d-90df-caca9a7e022b
-index: y
-internal: n
-snippet: y
 ---
 
 # getMetadataFields{#getmetadatafields}

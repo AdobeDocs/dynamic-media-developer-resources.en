@@ -6,9 +6,6 @@ solution: Experience Manager
 title: saveMetadataField
 topic: Scene7 Image Production System API
 uuid: ccd84366-732a-4caf-914d-3bc5fe499e7a
-index: y
-internal: n
-snippet: y
 ---
 
 # saveMetadataField{#savemetadatafield}

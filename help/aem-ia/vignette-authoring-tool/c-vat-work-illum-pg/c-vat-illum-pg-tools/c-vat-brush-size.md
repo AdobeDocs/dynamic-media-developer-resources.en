@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Choosing a Brush Size and Brush Edge
 topic: Scene7 Image Authoring
 uuid: 4de9ddf6-781d-4932-8971-f8fe20fc692b
-index: y
-internal: n
-snippet: y
 ---
 
 # Choosing a Brush Size and Brush Edge{#choosing-a-brush-size-and-brush-edge}

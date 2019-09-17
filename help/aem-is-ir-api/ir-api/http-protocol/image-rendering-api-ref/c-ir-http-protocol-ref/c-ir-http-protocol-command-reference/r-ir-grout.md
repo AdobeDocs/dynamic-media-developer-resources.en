@@ -6,9 +6,6 @@ solution: Experience Manager
 title: grout
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 00069004-40f2-4ab6-85d8-ca197b7bef69
-index: y
-internal: n
-snippet: y
 ---
 
 # grout{#grout}

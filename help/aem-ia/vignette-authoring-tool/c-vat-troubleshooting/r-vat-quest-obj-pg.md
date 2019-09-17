@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Questions About the Object Page
 topic: Scene7 Image Authoring
 uuid: c7563792-7801-45a9-9791-1fe4caf53897
-index: y
-internal: n
-snippet: y
 ---
 
 # Questions About the Object Page{#questions-about-the-object-page}

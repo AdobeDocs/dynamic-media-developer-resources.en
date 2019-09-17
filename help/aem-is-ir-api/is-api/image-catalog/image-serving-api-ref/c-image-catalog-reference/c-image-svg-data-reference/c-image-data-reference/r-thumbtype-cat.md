@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ThumbType
 topic: Scene7 Image Serving - Image Rendering API
 uuid: b737b5a4-ad6d-4a9c-b48f-81cf170dd210
-index: y
-internal: n
-snippet: y
 ---
 
 # ThumbType{#thumbtype}

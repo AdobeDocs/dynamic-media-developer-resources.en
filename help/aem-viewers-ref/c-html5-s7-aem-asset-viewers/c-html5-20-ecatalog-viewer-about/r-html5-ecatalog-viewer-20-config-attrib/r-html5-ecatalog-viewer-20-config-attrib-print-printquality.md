@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Print.printquality
 topic: Dynamic media
 uuid: fbecd11f-e7c6-4c70-9ff3-eef8e323d5f3
-index: y
-internal: n
-snippet: y
 ---
 
 # Print.printquality{#print-printquality}

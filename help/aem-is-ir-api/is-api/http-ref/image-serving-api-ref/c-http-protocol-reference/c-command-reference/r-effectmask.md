@@ -6,9 +6,6 @@ solution: Experience Manager
 title: effectMask
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 2b90cc36-1e33-4116-a11d-74eafa9b366a
-index: y
-internal: n
-snippet: y
 ---
 
 # effectMask{#effectmask}

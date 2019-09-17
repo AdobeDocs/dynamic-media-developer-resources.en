@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Edit Model tool
 topic: Scene7 Image Authoring
 uuid: c1ff8800-e48a-4f7a-ba4c-c7c78576a26b
-index: y
-internal: n
-snippet: y
 ---
 
 # The Edit Model tool{#the-edit-model-tool}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Starting the Material Repeat Tool
 topic: Scene7 Image Authoring
 uuid: 87705604-1ba9-46c5-9c36-8fba53ba53d0
-index: y
-internal: n
-snippet: y
 ---
 
 # Starting the Material Repeat Tool{#starting-the-material-repeat-tool}

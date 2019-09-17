@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Help menu
 topic: Scene7 Image Authoring
 uuid: 42cbc916-245b-4592-9ad8-df9820b5d018
-index: y
-internal: n
-snippet: y
 ---
 
 # The Help menu{#the-help-menu}

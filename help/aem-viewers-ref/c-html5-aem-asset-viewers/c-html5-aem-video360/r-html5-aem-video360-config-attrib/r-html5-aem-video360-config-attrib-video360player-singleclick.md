@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Video360Player.singleclick
 topic: Dynamic media
 uuid: 2972405c-5c89-45d0-a542-19c7463901b4
-index: y
-internal: n
-snippet: y
 ---
 
 # Video360Player.singleclick{#video-player-singleclick}

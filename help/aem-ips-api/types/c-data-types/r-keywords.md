@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Keywords
 topic: Scene7 Image Production System API
 uuid: 147b7dcd-dd6d-4530-b046-18925e851eb1
-index: y
-internal: n
-snippet: y
 ---
 
 # Keywords{#keywords}

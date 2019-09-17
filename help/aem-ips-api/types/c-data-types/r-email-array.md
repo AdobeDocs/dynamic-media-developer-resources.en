@@ -6,9 +6,6 @@ solution: Experience Manager
 title: EmailArray
 topic: Scene7 Image Production System API
 uuid: fb5f14c6-d950-49e7-8a08-ac01ca90b2df
-index: y
-internal: n
-snippet: y
 ---
 
 # EmailArray{#emailarray}

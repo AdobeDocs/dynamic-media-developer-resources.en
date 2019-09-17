@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ThumbBkgColor
 topic: Scene7 Image Serving - Image Rendering API
 uuid: c75c01f4-036e-46fd-9bc1-480920c0c05a
-index: y
-internal: n
-snippet: y
 ---
 
 # ThumbBkgColor{#thumbbkgcolor}

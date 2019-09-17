@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Video360Player.playback
 topic: Dynamic media
 uuid: ce814963-5cb8-408e-9d57-e7b7e61e0fab
-index: y
-internal: n
-snippet: y
 ---
 
 # Video360Player.playback{#video-player-playback}

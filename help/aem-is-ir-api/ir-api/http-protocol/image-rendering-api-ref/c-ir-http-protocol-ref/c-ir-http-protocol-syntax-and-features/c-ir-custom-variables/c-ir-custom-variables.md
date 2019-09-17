@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Custom variables
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 933fba00-759c-4bd3-bada-eec751426d9e
-index: y
-internal: n
-snippet: y
 ---
 
 # Custom variables{#custom-variables}

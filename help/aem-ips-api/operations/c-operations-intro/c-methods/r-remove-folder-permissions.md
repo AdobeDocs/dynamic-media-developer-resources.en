@@ -6,9 +6,6 @@ solution: Experience Manager
 title: removeFolderPermissions
 topic: Scene7 Image Production System API
 uuid: cd9f7a42-e314-4ec9-abe2-a27581c7cd23
-index: y
-internal: n
-snippet: y
 ---
 
 # removeFolderPermissions{#removefolderpermissions}

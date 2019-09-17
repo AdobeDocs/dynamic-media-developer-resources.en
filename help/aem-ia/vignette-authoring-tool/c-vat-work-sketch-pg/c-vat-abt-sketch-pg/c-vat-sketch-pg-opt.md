@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Sketch Page Options
 topic: Scene7 Image Authoring
 uuid: 29ea1dbe-e895-4cac-bc9e-9f66da9915ec
-index: y
-internal: n
-snippet: y
 ---
 
 # Sketch Page Options{#sketch-page-options}

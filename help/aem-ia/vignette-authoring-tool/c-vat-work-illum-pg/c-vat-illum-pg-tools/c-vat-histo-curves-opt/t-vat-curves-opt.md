@@ -6,9 +6,6 @@ solution: Experience Manager
 title: To Use the Curves Option
 topic: Scene7 Image Authoring
 uuid: fbe101ba-65cf-44f4-9dcd-8f83418b21c4
-index: y
-internal: n
-snippet: y
 ---
 
 # To Use the Curves Option{#to-use-the-curves-option}

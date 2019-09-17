@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Changing Material Repeat Tool Options
 topic: Scene7 Image Authoring
 uuid: 651c142b-4925-4549-9f04-8b5fc73af52d
-index: y
-internal: n
-snippet: y
 ---
 
 # Changing Material Repeat Tool Options{#changing-material-repeat-tool-options}

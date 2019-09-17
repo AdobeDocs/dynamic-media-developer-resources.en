@@ -6,9 +6,6 @@ solution: Experience Manager
 title: pauseJob
 topic: Scene7 Image Production System API
 uuid: baad2ad6-46f5-4133-a6d9-8ffadf990a06
-index: y
-internal: n
-snippet: y
 ---
 
 # pauseJob{#pausejob}

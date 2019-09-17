@@ -6,9 +6,6 @@ solution: Experience Manager
 title: AuxPath
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 95d28f8d-27ec-480a-a62a-7e5e8fbfb3fb
-index: y
-internal: n
-snippet: y
 ---
 
 # AuxPath{#auxpath}

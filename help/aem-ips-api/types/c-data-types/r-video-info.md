@@ -6,9 +6,6 @@ solution: Experience Manager
 title: VideoInfo
 topic: Scene7 Image Production System API
 uuid: c90f2a56-64ff-4f04-bfed-739e33d9a319
-index: y
-internal: n
-snippet: y
 ---
 
 # VideoInfo{#videoinfo}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: TagCondition
 topic: Scene7 Image Production System API
 uuid: c7727267-05b6-4011-9ddf-7f3134e9609b
-index: y
-internal: n
-snippet: y
 ---
 
 # TagCondition{#tagcondition}

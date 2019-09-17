@@ -6,9 +6,6 @@ solution: Experience Manager
 title: TagFieldValuesArray
 topic: Scene7 Image Production System API
 uuid: 40a9110d-8ed4-4a9a-95ed-640c8215a7da
-index: y
-internal: n
-snippet: y
 ---
 
 # TagFieldValuesArray{#tagfieldvaluesarray}

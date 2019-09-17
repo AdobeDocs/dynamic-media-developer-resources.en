@@ -6,9 +6,6 @@ solution: Experience Manager
 title: FavoritesView.favoritesThumbView
 topic: Dynamic media
 uuid: a95d4051-7bc1-4b3f-8478-c5b7ab28fa61
-index: y
-internal: n
-snippet: y
 ---
 
 # FavoritesView.favoritesThumbView{#favoritesview-favoritesthumbview}

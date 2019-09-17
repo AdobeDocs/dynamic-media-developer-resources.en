@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Access log
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 33cd4338-1fe7-46ac-83f5-200ea26f1e22
-index: y
-internal: n
-snippet: y
 ---
 
 # Access log{#access-log}

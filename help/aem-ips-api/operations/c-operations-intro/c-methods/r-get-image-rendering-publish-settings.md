@@ -6,9 +6,6 @@ solution: Experience Manager
 title: getImageRenderingPublishSettings
 topic: Scene7 Image Production System API
 uuid: b1c253b5-febe-4dc7-95a1-a5f4789030e7
-index: y
-internal: n
-snippet: y
 ---
 
 # getImageRenderingPublishSettings{#getimagerenderingpublishsettings}

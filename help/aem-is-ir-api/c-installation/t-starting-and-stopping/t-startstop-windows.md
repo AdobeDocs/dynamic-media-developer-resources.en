@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Starting or stopping on Windows
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 79b7690a-cea1-4c5e-99d6-60febf0e85f5
-index: y
-internal: n
-snippet: y
 ---
 
 # Starting or stopping on Windows{#starting-or-stopping-on-windows}

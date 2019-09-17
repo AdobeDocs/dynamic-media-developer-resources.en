@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Non-Texturable Object Properties
 topic: Scene7 Image Authoring
 uuid: 6ca4bcc2-d4de-463a-ba5c-9f125f266823
-index: y
-internal: n
-snippet: y
 ---
 
 # Non-Texturable Object Properties{#non-texturable-object-properties}

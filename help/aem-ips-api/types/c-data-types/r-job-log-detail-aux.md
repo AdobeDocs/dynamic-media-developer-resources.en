@@ -6,9 +6,6 @@ solution: Experience Manager
 title: JobLogDetailAux
 topic: Scene7 Image Production System API
 uuid: df6f61f2-54f1-4996-938c-c3ea8c27551a
-index: y
-internal: n
-snippet: y
 ---
 
 # JobLogDetailAux{#joblogdetailaux}

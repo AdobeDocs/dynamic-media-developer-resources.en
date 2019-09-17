@@ -6,9 +6,6 @@ solution: Experience Manager
 title: IccBlackPointCompensation
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 284339b1-e6fd-499a-a581-c87aa1765c0e
-index: y
-internal: n
-snippet: y
 ---
 
 # IccBlackPointCompensation{#iccblackpointcompensation}

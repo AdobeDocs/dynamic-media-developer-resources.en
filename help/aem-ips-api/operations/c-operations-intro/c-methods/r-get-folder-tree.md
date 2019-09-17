@@ -6,9 +6,6 @@ solution: Experience Manager
 title: getFolderTree
 topic: Scene7 Image Production System API
 uuid: 93fda0d6-c656-4254-b07b-7a448e164f28
-index: y
-internal: n
-snippet: y
 ---
 
 # getFolderTree{#getfoldertree}

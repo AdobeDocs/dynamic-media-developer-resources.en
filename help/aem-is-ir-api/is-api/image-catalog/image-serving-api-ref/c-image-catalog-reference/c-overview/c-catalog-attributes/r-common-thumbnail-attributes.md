@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Common thumbnail attributes
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 937988ba-43c3-4542-8e48-9f94cf3f61ad
-index: y
-internal: n
-snippet: y
 ---
 
 # Common thumbnail attributes{#common-thumbnail-attributes}

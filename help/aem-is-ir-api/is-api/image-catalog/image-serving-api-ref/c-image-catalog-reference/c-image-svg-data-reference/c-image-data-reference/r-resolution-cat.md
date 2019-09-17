@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Resolution
 topic: Scene7 Image Serving - Image Rendering API
 uuid: caa199c8-d216-47b0-9eb6-fdff7124087c
-index: y
-internal: n
-snippet: y
 ---
 
 # Resolution{#resolution}

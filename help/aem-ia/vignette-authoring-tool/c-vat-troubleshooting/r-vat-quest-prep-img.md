@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Questions About Preparing Images
 topic: Scene7 Image Authoring
 uuid: 78e2f445-6f8f-450e-9e0d-bbfce2df844a
-index: y
-internal: n
-snippet: y
 ---
 
 # Questions About Preparing Images{#questions-about-preparing-images}

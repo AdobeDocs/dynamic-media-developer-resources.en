@@ -6,9 +6,6 @@ solution: Experience Manager
 title: IccProfileFieldUpdate
 topic: Scene7 Image Production System API
 uuid: 0a37e7d9-7ed9-4db2-afc7-eaee69f97d9b
-index: y
-internal: n
-snippet: y
 ---
 
 # IccProfileFieldUpdate{#iccprofilefieldupdate}

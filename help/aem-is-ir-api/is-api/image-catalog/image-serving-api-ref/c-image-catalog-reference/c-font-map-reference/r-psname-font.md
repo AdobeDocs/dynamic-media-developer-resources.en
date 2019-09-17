@@ -6,9 +6,6 @@ solution: Experience Manager
 title: PsName
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 8c7624c5-7f34-4128-abb7-94c007669b80
-index: y
-internal: n
-snippet: y
 ---
 
 # PsName{#psname}

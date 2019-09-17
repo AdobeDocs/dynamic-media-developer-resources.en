@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Text string localization
 topic: Scene7 Image Serving - Image Rendering API
 uuid: bdff2403-e3bb-4b3f-a8d7-bb108c1fbee8
-index: y
-internal: n
-snippet: y
 ---
 
 # Text string localization{#text-string-localization}

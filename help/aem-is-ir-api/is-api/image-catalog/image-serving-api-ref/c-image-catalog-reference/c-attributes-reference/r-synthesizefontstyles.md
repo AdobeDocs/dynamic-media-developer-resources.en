@@ -6,9 +6,6 @@ solution: Experience Manager
 title: SynthesizeFontStyles
 topic: Scene7 Image Serving - Image Rendering API
 uuid: f1c67490-7f14-4a6c-a7ba-5a476231ef34
-index: y
-internal: n
-snippet: y
 ---
 
 # SynthesizeFontStyles{#synthesizefontstyles}

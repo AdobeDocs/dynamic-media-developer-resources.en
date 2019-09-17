@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Trace Tool
 topic: Scene7 Image Authoring
 uuid: b4a9564f-8b9d-492c-bee4-4f44ee00ae09
-index: y
-internal: n
-snippet: y
 ---
 
 # The Trace Tool{#the-trace-tool}

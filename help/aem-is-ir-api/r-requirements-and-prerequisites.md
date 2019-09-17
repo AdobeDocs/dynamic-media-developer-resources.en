@@ -6,9 +6,6 @@ solution: Experience Manager
 title: System requirements and prerequisites
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 80196574-f5a2-4298-880a-cc36f90b6e21
-index: y
-internal: n
-snippet: y
 ---
 
 # System requirements and prerequisites{#system-requirements-and-prerequisites}

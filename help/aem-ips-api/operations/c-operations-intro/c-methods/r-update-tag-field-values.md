@@ -6,9 +6,6 @@ solution: Experience Manager
 title: updateTagFieldValues
 topic: Scene7 Image Production System API
 uuid: 21689469-a0dd-480b-82ba-ebd12956ff8f
-index: y
-internal: n
-snippet: y
 ---
 
 # updateTagFieldValues{#updatetagfieldvalues}

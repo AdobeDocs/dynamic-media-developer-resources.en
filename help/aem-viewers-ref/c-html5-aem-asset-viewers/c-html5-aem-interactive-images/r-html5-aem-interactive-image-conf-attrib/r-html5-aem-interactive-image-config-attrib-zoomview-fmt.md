@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ZoomView.fmt
 topic: Dynamic media
 uuid: 73a2196f-0ece-497a-9a12-376dafbbae56
-index: y
-internal: n
-snippet: y
 ---
 
 # ZoomView.fmt{#zoomview-fmt}

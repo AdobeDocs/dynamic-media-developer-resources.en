@@ -6,9 +6,6 @@ solution: Experience Manager
 title: setLocalizedTexts
 topic: Dynamic media
 uuid: c87e9f32-59f9-4f7a-a2cb-89813c00524b
-index: y
-internal: n
-snippet: y
 ---
 
 # setLocalizedTexts{#setlocalizedtexts}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Adding a Flowline to the Flowline Mesh
 topic: Scene7 Image Authoring
 uuid: 91c1c68b-8574-4f43-9acb-7f2b36c2aab2
-index: y
-internal: n
-snippet: y
 ---
 
 # Adding a Flowline to the Flowline Mesh{#adding-a-flowline-to-the-flowline-mesh}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Creating a Highlight Matte Object
 topic: Scene7 Image Authoring
 uuid: eb3f0619-7dc6-400e-a0af-d5b585286f99
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating a Highlight Matte Object{#creating-a-highlight-matte-object}

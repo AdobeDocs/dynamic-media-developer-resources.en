@@ -6,9 +6,6 @@ solution: Experience Manager
 title: CallToAction.textpos
 topic: Dynamic media
 uuid: 3592daf7-6222-4c42-b6bb-ab3ef5b8ae70
-index: y
-internal: n
-snippet: y
 ---
 
 # CallToAction.textpos{#calltoaction-textpos}

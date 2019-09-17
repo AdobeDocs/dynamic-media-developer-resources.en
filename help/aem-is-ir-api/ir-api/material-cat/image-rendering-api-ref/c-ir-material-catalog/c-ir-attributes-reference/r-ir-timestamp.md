@@ -6,9 +6,6 @@ solution: Experience Manager
 title: TimeStamp
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 10ceb600-1ed9-46a1-ae07-889d601ac0f4
-index: y
-internal: n
-snippet: y
 ---
 
 # TimeStamp{#timestamp}

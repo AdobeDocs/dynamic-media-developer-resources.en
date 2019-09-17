@@ -6,9 +6,6 @@ solution: Experience Manager
 title: SpinView.singleclick
 topic: Dynamic media
 uuid: b360db52-f705-4966-b77b-009bed729c25
-index: y
-internal: n
-snippet: y
 ---
 
 # SpinView.singleclick{#spinview-singleclick}

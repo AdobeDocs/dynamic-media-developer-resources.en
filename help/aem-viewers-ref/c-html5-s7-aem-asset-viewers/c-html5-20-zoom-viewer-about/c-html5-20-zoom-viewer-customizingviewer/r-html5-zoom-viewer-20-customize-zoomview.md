@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Zoom view
 topic: Dynamic media
 uuid: 34cb6c80-77eb-42b0-91dd-ae0369ea2881
-index: y
-internal: n
-snippet: y
 ---
 
 # Zoom view{#zoom-view}

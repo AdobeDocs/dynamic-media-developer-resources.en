@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Main viewer area
 topic: Dynamic media
 uuid: 9d0a23e2-97c2-441e-8e4c-ef528ff654d2
-index: y
-internal: n
-snippet: y
 ---
 
 # Main viewer area{#main-viewer-area}

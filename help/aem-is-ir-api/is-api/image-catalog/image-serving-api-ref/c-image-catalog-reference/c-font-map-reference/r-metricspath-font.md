@@ -6,9 +6,6 @@ solution: Experience Manager
 title: MetricsPath
 topic: Scene7 Image Serving - Image Rendering API
 uuid: b59110bf-330f-4ca4-8b0a-219a61d383f7
-index: y
-internal: n
-snippet: y
 ---
 
 # MetricsPath{#metricspath}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: zoomMode
 topic: Dynamic media
 uuid: fdbe7ab6-47db-46cf-8a0d-085c66d4b0f8
-index: y
-internal: n
-snippet: y
 ---
 
 # zoomMode{#zoommode}

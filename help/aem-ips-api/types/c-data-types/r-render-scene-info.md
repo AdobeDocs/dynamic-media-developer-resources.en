@@ -6,9 +6,6 @@ solution: Experience Manager
 title: RenderSceneInfo
 topic: Scene7 Image Production System API
 uuid: 1b93713e-9da0-441b-9ee0-434a405284c2
-index: y
-internal: n
-snippet: y
 ---
 
 # RenderSceneInfo{#rendersceneinfo}

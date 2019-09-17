@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Creating and Editing Groups
 topic: Scene7 Image Authoring
 uuid: 643eb938-aff9-49fc-a2d5-6d17d2465c31
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating and Editing Groups{#creating-and-editing-groups}

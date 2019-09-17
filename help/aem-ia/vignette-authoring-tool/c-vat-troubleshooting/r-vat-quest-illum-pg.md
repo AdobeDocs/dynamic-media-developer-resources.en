@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Questions About the Illumination Page
 topic: Scene7 Image Authoring
 uuid: 779b466d-58e4-449d-9f7a-a39f9aab3d8d
-index: y
-internal: n
-snippet: y
 ---
 
 # Questions About the Illumination Page{#questions-about-the-illumination-page}

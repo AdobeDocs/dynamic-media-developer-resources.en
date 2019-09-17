@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Location of utilities
 topic: Scene7 Image Serving - Image Rendering API
 uuid: e06c4ba1-e00f-464c-a6cf-54dcbabbfb45
-index: y
-internal: n
-snippet: y
 ---
 
 # Location of utilities{#location-of-utilities}

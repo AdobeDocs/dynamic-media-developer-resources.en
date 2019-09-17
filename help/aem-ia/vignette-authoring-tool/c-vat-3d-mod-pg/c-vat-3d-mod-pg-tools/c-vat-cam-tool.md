@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Camera Tool
 topic: Scene7 Image Authoring
 uuid: c2dd2ef1-e176-415e-89bb-ee35d69361e3
-index: y
-internal: n
-snippet: y
 ---
 
 # The Camera Tool{#the-camera-tool}

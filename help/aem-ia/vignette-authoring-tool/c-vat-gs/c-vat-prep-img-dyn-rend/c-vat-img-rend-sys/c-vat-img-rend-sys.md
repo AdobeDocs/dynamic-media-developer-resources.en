@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Sending Images to the Image Rendering System
 topic: Scene7 Image Authoring
 uuid: 2f24c05d-e7ba-426e-8e0e-68ea0a1d5741
-index: y
-internal: n
-snippet: y
 ---
 
 # Sending Images to the Image Rendering System{#sending-images-to-the-image-rendering-system}

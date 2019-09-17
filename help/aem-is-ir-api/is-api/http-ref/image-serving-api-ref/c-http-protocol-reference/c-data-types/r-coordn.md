@@ -6,9 +6,6 @@ solution: Experience Manager
 title: coordN
 topic: Scene7 Image Serving - Image Rendering API
 uuid: e182650b-aff6-4dd2-8edb-cd0d361865fd
-index: y
-internal: n
-snippet: y
 ---
 
 # coordN{#coordn}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: FavoritesEffect.expiration
 topic: Dynamic media
 uuid: 3b852317-af42-423e-a065-92192f0065db
-index: y
-internal: n
-snippet: y
 ---
 
 # FavoritesEffect.expiration{#favoriteseffect-expiration}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: moveFolder
 topic: Scene7 Image Production System API
 uuid: 424858c3-5796-4ae9-b5ad-fd50ddbee702
-index: y
-internal: n
-snippet: y
 ---
 
 # moveFolder{#movefolder}

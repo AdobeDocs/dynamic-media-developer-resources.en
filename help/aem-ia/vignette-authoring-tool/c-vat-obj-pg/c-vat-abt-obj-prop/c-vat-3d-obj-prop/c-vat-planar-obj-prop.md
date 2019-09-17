@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Planar Object Properties
 topic: Scene7 Image Authoring
 uuid: 967cf032-4993-4bd0-a1fa-71029d0e44a0
-index: y
-internal: n
-snippet: y
 ---
 
 # Planar Object Properties{#planar-object-properties}

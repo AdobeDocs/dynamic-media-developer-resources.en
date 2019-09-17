@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Previewing the Illumination Map
 topic: Scene7 Image Authoring
 uuid: 38ac1450-c812-4eb6-81c6-3591c37830bb
-index: y
-internal: n
-snippet: y
 ---
 
 # Previewing the Illumination Map{#previewing-the-illumination-map}

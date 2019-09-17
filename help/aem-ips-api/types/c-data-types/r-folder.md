@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Folder
 topic: Scene7 Image Production System API
 uuid: 8ba8d9cb-c4e5-423c-b8cb-ba8751952771
-index: y
-internal: n
-snippet: y
 ---
 
 # Folder{#folder}

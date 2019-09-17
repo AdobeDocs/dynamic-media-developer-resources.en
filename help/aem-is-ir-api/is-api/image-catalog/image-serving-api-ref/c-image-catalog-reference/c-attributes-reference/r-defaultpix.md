@@ -6,9 +6,6 @@ solution: Experience Manager
 title: DefaultPix
 topic: Scene7 Image Serving - Image Rendering API
 uuid: f5d2e4f7-f9c5-40a5-8a64-67241fcb0242
-index: y
-internal: n
-snippet: y
 ---
 
 # DefaultPix{#defaultpix}

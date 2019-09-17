@@ -6,9 +6,6 @@ solution: Experience Manager
 title: getOriginalFilePaths
 topic: Scene7 Image Production System API
 uuid: c4acf288-1a57-4295-806b-348f15a089cc
-index: y
-internal: n
-snippet: y
 ---
 
 # getOriginalFilePaths{#getoriginalfilepaths}

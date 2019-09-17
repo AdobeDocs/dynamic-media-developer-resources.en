@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Call to action
 topic: Dynamic media
 uuid: 04a042d8-7329-4f1d-b3b9-312d620b1f29
-index: y
-internal: n
-snippet: y
 ---
 
 # Call to action{#call-to-action}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Font handling
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 6a751973-5dae-472e-a908-bf24fa59d031
-index: y
-internal: n
-snippet: y
 ---
 
 # Font handling{#font-handling}

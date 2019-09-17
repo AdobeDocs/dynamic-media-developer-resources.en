@@ -6,9 +6,6 @@ solution: Experience Manager
 title: About Resolution
 topic: Scene7 Image Authoring
 uuid: a9eb8cd4-888a-489d-9d6c-6cf6d846ec05
-index: y
-internal: n
-snippet: y
 ---
 
 # About Resolution{#about-resolution}

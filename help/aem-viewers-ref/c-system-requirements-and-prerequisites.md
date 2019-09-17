@@ -6,9 +6,6 @@ solution: Experience Manager
 title: System requirements
 topic: Dynamic media
 uuid: d282af6a-112e-48d6-b3ad-bec0648f4654
-index: y
-internal: n
-snippet: y
 ---
 
 # System requirements{#system-requirements}

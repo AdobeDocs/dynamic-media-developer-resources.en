@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Choosing an Image Display Option
 topic: Scene7 Image Authoring
 uuid: 7a7ae86a-10b1-4dd4-83e6-58574f28f892
-index: y
-internal: n
-snippet: y
 ---
 
 # Choosing an Image Display Option{#choosing-an-image-display-option}

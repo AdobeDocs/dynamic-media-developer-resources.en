@@ -6,9 +6,6 @@ solution: Experience Manager
 title: LocaleStrMap
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 44207916-80a6-42cb-8bf1-fcf0f5194c6d
-index: y
-internal: n
-snippet: y
 ---
 
 # LocaleStrMap{#localestrmap}

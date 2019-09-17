@@ -6,9 +6,6 @@ solution: Experience Manager
 title: MacroFile
 topic: Scene7 Image Serving - Image Rendering API
 uuid: a383b00a-47f8-4c1c-9fd0-0701d8f78b18
-index: y
-internal: n
-snippet: y
 ---
 
 # MacroFile{#macrofile}

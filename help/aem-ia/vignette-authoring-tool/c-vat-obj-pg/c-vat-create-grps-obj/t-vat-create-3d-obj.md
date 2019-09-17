@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Creating 3D Objects
 topic: Scene7 Image Authoring
 uuid: c0e9e514-22ea-4493-9d2e-d46a59b0595c
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating 3D Objects{#creating-d-objects}

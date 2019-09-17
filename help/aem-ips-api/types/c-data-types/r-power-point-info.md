@@ -6,9 +6,6 @@ solution: Experience Manager
 title: PowerPointInfo
 topic: Scene7 Image Production System API
 uuid: 26626c06-b610-4c3c-a249-70c6edc9ebdd
-index: y
-internal: n
-snippet: y
 ---
 
 # PowerPointInfo{#powerpointinfo}

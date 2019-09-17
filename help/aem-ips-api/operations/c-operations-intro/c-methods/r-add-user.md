@@ -6,9 +6,6 @@ solution: Experience Manager
 title: addUser
 topic: Scene7 Image Production System API
 uuid: b8c5ada6-470e-4795-a4f3-20750da709a9
-index: y
-internal: n
-snippet: y
 ---
 
 # addUser{#adduser}

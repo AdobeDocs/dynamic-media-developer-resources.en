@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Image map support
 topic: Dynamic media
 uuid: 69aeda21-909d-45da-bcf5-73ade8c5adda
-index: y
-internal: n
-snippet: y
 ---
 
 # Image map support{#image-map-support}

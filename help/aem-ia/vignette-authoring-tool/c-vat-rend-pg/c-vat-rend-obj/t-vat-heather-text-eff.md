@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Rendering Heathering and Simple Texture Effects
 topic: Scene7 Image Authoring
 uuid: 00a58d72-0f36-44fc-8fbb-6993a00dc3c5
-index: y
-internal: n
-snippet: y
 ---
 
 # Rendering Heathering and Simple Texture Effects{#rendering-heathering-and-simple-texture-effects}

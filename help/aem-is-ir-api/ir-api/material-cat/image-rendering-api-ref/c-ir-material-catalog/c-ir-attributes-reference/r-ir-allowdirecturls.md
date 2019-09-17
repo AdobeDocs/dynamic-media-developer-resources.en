@@ -6,9 +6,6 @@ solution: Experience Manager
 title: AllowDirectURLs
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 6b03abd1-bff6-4ff2-9945-9905355de87e
-index: y
-internal: n
-snippet: y
 ---
 
 # AllowDirectURLs{#allowdirecturls}

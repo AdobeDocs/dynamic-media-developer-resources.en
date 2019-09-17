@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Macro definitions
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 806f6394-0af8-4f69-83ec-6fe3b41efa27
-index: y
-internal: n
-snippet: y
 ---
 
 # Macro definitions{#macro-definitions}

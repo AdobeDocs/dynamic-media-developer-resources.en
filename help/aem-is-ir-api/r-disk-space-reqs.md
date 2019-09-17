@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Disk space requirements and recommendations
 topic: Scene7 Image Serving - Image Rendering API
 uuid: a6a21886-94d6-45b3-af68-497e039bdbac
-index: y
-internal: n
-snippet: y
 ---
 
 # Disk space requirements and recommendations{#disk-space-requirements-and-recommendations}

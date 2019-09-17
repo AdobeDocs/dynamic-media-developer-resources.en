@@ -6,9 +6,6 @@ solution: Experience Manager
 title: quantize
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 4e9c4807-59bc-4eb9-bcab-0bf0cfdf56d4
-index: y
-internal: n
-snippet: y
 ---
 
 # quantize{#quantize}

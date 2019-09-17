@@ -6,9 +6,6 @@ solution: Experience Manager
 title: getCompanyInfo
 topic: Scene7 Image Production System API
 uuid: 9218cba8-2873-46b7-90e3-7ab9d5018690
-index: y
-internal: n
-snippet: y
 ---
 
 # getCompanyInfo{#getcompanyinfo}

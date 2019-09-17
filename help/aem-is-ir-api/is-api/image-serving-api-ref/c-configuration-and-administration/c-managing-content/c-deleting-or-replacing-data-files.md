@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Deleting or replacing data files
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 7b446144-48f6-4b50-93ec-0287425d932a
-index: y
-internal: n
-snippet: y
 ---
 
 # Deleting or replacing data files{#deleting-or-replacing-data-files}

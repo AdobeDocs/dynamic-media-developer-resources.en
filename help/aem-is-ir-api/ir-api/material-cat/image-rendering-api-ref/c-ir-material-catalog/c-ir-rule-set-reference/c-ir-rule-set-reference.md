@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Rule set reference
 topic: Scene7 Image Serving - Image Rendering API
 uuid: aeec7597-4d23-4cf8-8bdc-3a133152eadb
-index: y
-internal: n
-snippet: y
 ---
 
 # Rule set reference{#rule-set-reference}

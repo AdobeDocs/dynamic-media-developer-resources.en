@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Importing Geometry
 topic: Scene7 Image Authoring
 uuid: 9fb7acdb-f2be-417c-a40b-f255d8955349
-index: y
-internal: n
-snippet: y
 ---
 
 # Importing Geometry{#importing-geometry}

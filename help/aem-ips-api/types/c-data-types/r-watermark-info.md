@@ -6,9 +6,6 @@ solution: Experience Manager
 title: WatermarkInfo
 topic: Scene7 Image Production System API
 uuid: 1bd6b2c5-c0e5-498f-98e6-42c636f1750c
-index: y
-internal: n
-snippet: y
 ---
 
 # WatermarkInfo{#watermarkinfo}

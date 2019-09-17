@@ -6,9 +6,6 @@ solution: Experience Manager
 title: sharpen
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 0fc0b694-f332-4a16-9970-6b699528f165
-index: y
-internal: n
-snippet: y
 ---
 
 # sharpen{#sharpen}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: cdnCacheInvalidation
 topic: Scene7 Image Production System API
 uuid: 16cf53d4-4101-405c-b008-009b6ac62169
-index: y
-internal: n
-snippet: y
 ---
 
 # cdnCacheInvalidation{#cdncacheinvalidation}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Spin view icon effect
 topic: Dynamic media
 uuid: 33445a3d-51dc-47a4-a8d1-87d25ea001e1
-index: y
-internal: n
-snippet: y
 ---
 
 # Spin view icon effect{#spin-view-icon-effect}

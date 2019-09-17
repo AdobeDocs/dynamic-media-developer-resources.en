@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Localization of user interface elements
 topic: Dynamic media
 uuid: 842970d9-0882-4163-8c49-3ea35d372d35
-index: y
-internal: n
-snippet: y
 ---
 
 # Localization of user interface elements{#localization-of-user-interface-elements}

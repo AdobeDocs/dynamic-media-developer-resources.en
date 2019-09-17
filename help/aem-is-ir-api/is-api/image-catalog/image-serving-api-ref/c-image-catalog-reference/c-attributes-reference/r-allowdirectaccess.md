@@ -6,9 +6,6 @@ solution: Experience Manager
 title: AllowDirectAccess
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 6d413fac-6930-4f6d-90ad-62abb419efef
-index: y
-internal: n
-snippet: y
 ---
 
 # AllowDirectAccess{#allowdirectaccess}

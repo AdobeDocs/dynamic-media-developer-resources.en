@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Illustrator Processes
 topic: Scene7 Image Production System API
 uuid: 77524dce-25f5-4b01-a729-605a93544fbb
-index: y
-internal: n
-snippet: y
 ---
 
 # Illustrator Processes{#illustrator-processes}

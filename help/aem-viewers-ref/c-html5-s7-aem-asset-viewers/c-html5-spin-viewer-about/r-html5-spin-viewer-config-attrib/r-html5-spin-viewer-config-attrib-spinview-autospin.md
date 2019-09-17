@@ -6,9 +6,6 @@ solution: Experience Manager
 title: SpinView.autospin
 topic: Dynamic media
 uuid: 9d24ed39-e4b9-442b-bc64-c77707ff69d8
-index: y
-internal: n
-snippet: y
 ---
 
 # SpinView.autospin{#spinview-autospin}

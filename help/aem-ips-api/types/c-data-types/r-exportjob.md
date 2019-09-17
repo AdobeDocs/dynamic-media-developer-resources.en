@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ExportJob
 topic: Scene7 Image Production System API
 uuid: 439e3dd8-85b8-4f5b-abf8-8cc5a3f59fe6
-index: y
-internal: n
-snippet: y
 ---
 
 # ExportJob{#exportjob}

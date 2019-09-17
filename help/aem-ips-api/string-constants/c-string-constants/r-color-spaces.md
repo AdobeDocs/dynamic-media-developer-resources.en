@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Color Spaces
 topic: Scene7 Image Production System API
 uuid: a703fccb-932d-4de8-84a1-bc0483013151
-index: y
-internal: n
-snippet: y
 ---
 
 # Color Spaces{#color-spaces}

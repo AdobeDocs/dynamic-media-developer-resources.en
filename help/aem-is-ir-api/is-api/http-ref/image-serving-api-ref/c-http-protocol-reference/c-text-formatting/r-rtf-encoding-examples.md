@@ -6,9 +6,6 @@ solution: Experience Manager
 title: RTF encoding examples
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 29fb4f59-b4bf-4768-a6e1-cc50926da936
-index: y
-internal: n
-snippet: y
 ---
 
 # RTF encoding examples{#rtf-encoding-examples}

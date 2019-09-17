@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Memory considerations
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 21247081-ff27-4237-93da-5fc996417dfd
-index: y
-internal: n
-snippet: y
 ---
 
 # Memory considerations{#memory-considerations}

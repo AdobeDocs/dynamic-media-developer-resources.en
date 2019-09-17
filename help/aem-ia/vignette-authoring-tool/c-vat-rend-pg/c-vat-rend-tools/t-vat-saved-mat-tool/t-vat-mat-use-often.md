@@ -6,9 +6,6 @@ solution: Experience Manager
 title: To Save Materials You Use Often
 topic: Scene7 Image Authoring
 uuid: fc730819-3f73-46a8-83d7-0531d1102c45
-index: y
-internal: n
-snippet: y
 ---
 
 # To Save Materials You Use Often{#to-save-materials-you-use-often}

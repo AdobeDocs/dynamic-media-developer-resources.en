@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Set the Perspective for a 2D Object
 topic: Scene7 Image Authoring
 uuid: 392c75e3-d05f-4aa4-b6b4-e21145e955d9
-index: y
-internal: n
-snippet: y
 ---
 
 # Set the Perspective for a 2D Object{#set-the-perspective-for-a-d-object}

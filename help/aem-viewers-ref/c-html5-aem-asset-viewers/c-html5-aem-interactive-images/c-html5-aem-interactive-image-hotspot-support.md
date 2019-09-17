@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Hotspot support
 topic: Dynamic media
 uuid: 62e0e55a-55a3-417d-ad51-ec77a7c16ac3
-index: y
-internal: n
-snippet: y
 ---
 
 # Hotspot support{#hotspot-support}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: VideoTime.timepattern
 topic: Dynamic media
 uuid: 211e0107-b6d1-43d6-b79d-34ed54383f80
-index: y
-internal: n
-snippet: y
 ---
 
 # VideoTime.timepattern{#videotime-timepattern}

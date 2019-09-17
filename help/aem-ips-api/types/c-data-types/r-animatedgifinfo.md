@@ -6,9 +6,6 @@ solution: Experience Manager
 title: AnimatedGifInfo
 topic: Scene7 Image Production System API
 uuid: add69c62-1139-4993-acf7-2e11e734ea83
-index: y
-internal: n
-snippet: y
 ---
 
 # AnimatedGifInfo{#animatedgifinfo}

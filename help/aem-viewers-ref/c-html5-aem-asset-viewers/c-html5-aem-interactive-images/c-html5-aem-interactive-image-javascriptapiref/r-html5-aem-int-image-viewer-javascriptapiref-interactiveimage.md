@@ -6,9 +6,6 @@ solution: Experience Manager
 title: InteractiveImage
 topic: Dynamic media
 uuid: 19bd0603-3180-4913-b5a0-93699c5131bc
-index: y
-internal: n
-snippet: y
 ---
 
 # InteractiveImage{#interactiveimage}

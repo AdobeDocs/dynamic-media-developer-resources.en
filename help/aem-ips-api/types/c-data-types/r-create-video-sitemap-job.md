@@ -6,9 +6,6 @@ solution: Experience Manager
 title: CreateVideoSitemapJob
 topic: Scene7 Image Production System API
 uuid: 85db2e47-ee15-4fdd-a8e2-bb45078f814a
-index: y
-internal: n
-snippet: y
 ---
 
 # CreateVideoSitemapJob{#createvideositemapjob}

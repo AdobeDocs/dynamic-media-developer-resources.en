@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Remove Favorite button
 topic: Dynamic media
 uuid: c2e1929d-d859-49d5-8bdc-13507e25d02c
-index: y
-internal: n
-snippet: y
 ---
 
 # Remove Favorite button{#remove-favorite-button}

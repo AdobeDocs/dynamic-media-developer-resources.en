@@ -6,9 +6,6 @@ solution: Experience Manager
 title: bgc
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 551a0da8-dd1f-484a-bf7e-f4896370340a
-index: y
-internal: n
-snippet: y
 ---
 
 # bgc{#bgc}

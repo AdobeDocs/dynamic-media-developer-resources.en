@@ -6,9 +6,6 @@ solution: Experience Manager
 title: expression
 topic: Scene7 Image Serving - Image Rendering API
 uuid: f2036015-a2c7-4392-86f6-4cdf3152839a
-index: y
-internal: n
-snippet: y
 ---
 
 # expression{#expression}

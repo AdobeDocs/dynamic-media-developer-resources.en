@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Mask tab for objects
 topic: Scene7 Image Authoring
 uuid: 7104d617-1b17-4070-b2f7-0ee87558c478
-index: y
-internal: n
-snippet: y
 ---
 
 # Mask tab for objects{#mask-tab-for-objects}

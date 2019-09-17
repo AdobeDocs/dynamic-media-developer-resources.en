@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Trace log
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 227b4c6c-38d3-4acd-8cfd-aa812c3f260d
-index: y
-internal: n
-snippet: y
 ---
 
 # Trace log{#trace-log}

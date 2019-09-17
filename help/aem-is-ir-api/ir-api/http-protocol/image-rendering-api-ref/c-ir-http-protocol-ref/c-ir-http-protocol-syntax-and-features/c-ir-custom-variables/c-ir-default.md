@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Default
 topic: Scene7 Image Serving - Image Rendering API
 uuid: e8c36233-abf9-4342-8523-72ff7c831634
-index: y
-internal: n
-snippet: y
 ---
 
 # Default{#default}

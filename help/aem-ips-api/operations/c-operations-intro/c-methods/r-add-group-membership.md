@@ -6,9 +6,6 @@ solution: Experience Manager
 title: addGroupMembership
 topic: Scene7 Image Production System API
 uuid: a8e25f27-c300-424d-83ac-e41bb4cb7964
-index: y
-internal: n
-snippet: y
 ---
 
 # addGroupMembership{#addgroupmembership}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: View All Favorites button
 topic: Dynamic media
 uuid: f9fd2110-d225-4eba-8e21-acc9c0e1dfd4
-index: y
-internal: n
-snippet: y
 ---
 
 # View All Favorites button{#view-all-favorites-button}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Saving Your Work
 topic: Scene7 Image Authoring
 uuid: c4828b53-e22c-4838-9e50-643dcf8fc497
-index: y
-internal: n
-snippet: y
 ---
 
 # Saving Your Work{#saving-your-work}

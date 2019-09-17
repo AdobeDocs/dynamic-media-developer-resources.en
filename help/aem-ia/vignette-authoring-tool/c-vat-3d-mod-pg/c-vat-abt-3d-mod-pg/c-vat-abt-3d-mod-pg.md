@@ -6,9 +6,6 @@ solution: Experience Manager
 title: About the 3D Modeling Page
 topic: Scene7 Image Authoring
 uuid: d054d27a-8259-4ebd-a2e0-2ea18bb429e7
-index: y
-internal: n
-snippet: y
 ---
 
 # About the 3D Modeling Page{#about-the-d-modeling-page}

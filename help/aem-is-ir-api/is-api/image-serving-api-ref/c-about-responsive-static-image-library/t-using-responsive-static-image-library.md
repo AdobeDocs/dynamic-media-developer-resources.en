@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Using Responsive Image library
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 325cdc8d-2bfa-4f9b-bf88-51d1dcc6c495
-index: y
-internal: n
-snippet: y
 ---
 
 # Using Responsive Image library{#using-responsive-image-library}

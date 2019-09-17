@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Creating Thumbnails for a Set of Images
 topic: Scene7 Image Authoring
 uuid: 6246b85f-076c-435e-8d5b-219d604db0e2
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating Thumbnails for a Set of Images{#creating-thumbnails-for-a-set-of-images}

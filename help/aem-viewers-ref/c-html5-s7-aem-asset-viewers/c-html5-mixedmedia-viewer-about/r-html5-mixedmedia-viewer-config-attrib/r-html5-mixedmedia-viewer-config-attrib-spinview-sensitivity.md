@@ -6,9 +6,6 @@ solution: Experience Manager
 title: SpinView.sensitivity
 topic: Dynamic media
 uuid: 7c63a7c5-ac75-485d-94ac-d1e133fbe44f
-index: y
-internal: n
-snippet: y
 ---
 
 # SpinView.sensitivity{#spinview-sensitivity}

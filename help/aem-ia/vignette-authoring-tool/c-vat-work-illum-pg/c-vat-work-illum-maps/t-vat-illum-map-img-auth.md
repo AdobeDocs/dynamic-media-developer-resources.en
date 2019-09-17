@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Creating an Illumination Map with Image Authoring
 topic: Scene7 Image Authoring
 uuid: e3853f15-6467-4a68-a163-54e234b8bfa0
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating an Illumination Map with Image Authoring{#creating-an-illumination-map-with-image-authoring}

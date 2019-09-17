@@ -6,9 +6,6 @@ solution: Experience Manager
 title: FavoritesView.maxloadradius
 topic: Dynamic media
 uuid: 0479c371-487a-4e05-b009-9036ea464abf
-index: y
-internal: n
-snippet: y
 ---
 
 # FavoritesView.maxloadradius{#favoritesview-maxloadradius}

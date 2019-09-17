@@ -6,9 +6,6 @@ solution: Experience Manager
 title: JavaScript API reference for Interactive Image Viewer
 topic: Dynamic media
 uuid: 952c85b7-556c-4f58-aa65-003b0de70fd2
-index: y
-internal: n
-snippet: y
 ---
 
 # JavaScript API reference for Interactive Image Viewer{#javascript-api-reference-for-interactive-image-viewer}

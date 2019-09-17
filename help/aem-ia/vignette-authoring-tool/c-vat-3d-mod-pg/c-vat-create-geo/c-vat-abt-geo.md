@@ -6,9 +6,6 @@ solution: Experience Manager
 title: About Geometry
 topic: Scene7 Image Authoring
 uuid: 3b579c6a-6e59-4d72-8545-1b463141f366
-index: y
-internal: n
-snippet: y
 ---
 
 # About Geometry{#about-geometry}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: updateXMPPacket
 topic: Scene7 Image Production System API
 uuid: 97a40261-8f85-4e8c-8aa5-ed4fec297f33
-index: y
-internal: n
-snippet: y
 ---
 
 # updateXMPPacket{#updatexmppacket}

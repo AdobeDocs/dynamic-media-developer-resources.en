@@ -6,9 +6,6 @@ solution: Experience Manager
 title: saveImageFormat
 topic: Scene7 Image Production System API
 uuid: b11ea668-7a82-439c-b16b-909dc86c00a2
-index: y
-internal: n
-snippet: y
 ---
 
 # saveImageFormat{#saveimageformat}

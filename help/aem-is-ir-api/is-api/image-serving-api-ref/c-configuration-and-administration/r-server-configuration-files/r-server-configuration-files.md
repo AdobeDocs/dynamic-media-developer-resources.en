@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Server configuration files
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 02905b23-bbf3-4ae7-828d-915b22d8f167
-index: y
-internal: n
-snippet: y
 ---
 
 # Server configuration files{#server-configuration-files}

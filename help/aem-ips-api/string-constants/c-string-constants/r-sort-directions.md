@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Sort Directions
 topic: Scene7 Image Production System API
 uuid: 9ff9d2f6-d41e-466e-a208-a30de04d3433
-index: y
-internal: n
-snippet: y
 ---
 
 # Sort Directions{#sort-directions}

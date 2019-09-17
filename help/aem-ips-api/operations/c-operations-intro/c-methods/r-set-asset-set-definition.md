@@ -6,9 +6,6 @@ solution: Experience Manager
 title: setAssetSetDefinition
 topic: Scene7 Image Production System API
 uuid: 2a2dce5d-7a01-49af-ac8b-33ae0b234ecc
-index: y
-internal: n
-snippet: y
 ---
 
 # setAssetSetDefinition{#setassetsetdefinition}

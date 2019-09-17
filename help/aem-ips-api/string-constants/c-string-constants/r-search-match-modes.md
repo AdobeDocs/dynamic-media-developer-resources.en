@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Search Match Modes
 topic: Scene7 Image Production System API
 uuid: bbc90f83-3e7a-428f-b9c7-1defaaa3af72
-index: y
-internal: n
-snippet: y
 ---
 
 # Search Match Modes{#search-match-modes}

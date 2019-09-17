@@ -6,9 +6,6 @@ solution: Experience Manager
 title: getComponent
 topic: Dynamic media
 uuid: e69da809-584c-4311-95c6-3efe9d15ad1f
-index: y
-internal: n
-snippet: y
 ---
 
 # getComponent{#getcomponent}

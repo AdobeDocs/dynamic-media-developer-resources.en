@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Wall borders
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 40acd667-5e8b-4425-b44a-0681e608d189
-index: y
-internal: n
-snippet: y
 ---
 
 # Wall borders{#wall-borders}

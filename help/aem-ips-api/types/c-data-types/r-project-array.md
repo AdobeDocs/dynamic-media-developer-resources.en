@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ProjectArray
 topic: Scene7 Image Production System API
 uuid: 5828eac9-653b-4241-bfdc-6ec5b5c0b25e
-index: y
-internal: n
-snippet: y
 ---
 
 # ProjectArray{#projectarray}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: pscan
 topic: Scene7 Image Serving - Image Rendering API
 uuid: c8e1d7a9-679c-437f-aa53-67aca3f40b30
-index: y
-internal: n
-snippet: y
 ---
 
 # pscan{#pscan}

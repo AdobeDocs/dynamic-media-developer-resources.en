@@ -6,9 +6,6 @@ solution: Experience Manager
 title: PageView.iscommand
 topic: Dynamic media
 uuid: 32bfd041-e44c-4a78-a923-896a85d8f75f
-index: y
-internal: n
-snippet: y
 ---
 
 # PageView.iscommand{#pageview-iscommand}

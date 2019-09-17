@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Mesh Tool
 topic: Scene7 Image Authoring
 uuid: b70d5587-5820-4f11-b6bc-1c86022fb2bf
-index: y
-internal: n
-snippet: y
 ---
 
 # The Mesh Tool{#the-mesh-tool}

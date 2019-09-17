@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Javascript API reference for Zoom Viewer
 topic: Dynamic media
 uuid: add69992-7613-4ec2-9845-f01bf0392d0c
-index: y
-internal: n
-snippet: y
 ---
 
 # Javascript API reference for Zoom Viewer{#javascript-api-reference-for-zoom-viewer}

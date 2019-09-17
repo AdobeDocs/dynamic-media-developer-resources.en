@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Viewer SDK namespace
 topic: Dynamic media
 uuid: 7a62df86-67d1-44df-a525-1bbd991c3235
-index: y
-internal: n
-snippet: y
 ---
 
 # Viewer SDK namespace{#viewer-sdk-namespace}

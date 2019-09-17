@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ThumbHorizAlign
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 2fbe71e2-1227-415b-ad4c-0d0752f8f729
-index: y
-internal: n
-snippet: y
 ---
 
 # ThumbHorizAlign{#thumbhorizalign}

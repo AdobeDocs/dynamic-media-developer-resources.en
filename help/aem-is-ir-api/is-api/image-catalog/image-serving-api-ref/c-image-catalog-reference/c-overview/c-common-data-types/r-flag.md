@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Flag
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 85c60ef4-4509-41e0-b846-3cfc54689272
-index: y
-internal: n
-snippet: y
 ---
 
 # Flag{#flag}

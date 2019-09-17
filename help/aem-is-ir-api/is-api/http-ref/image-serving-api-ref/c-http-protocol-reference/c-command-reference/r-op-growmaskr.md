@@ -6,9 +6,6 @@ solution: Experience Manager
 title: op_growMaskR
 topic: Scene7 Image Serving - Image Rendering API
 uuid: b81968e7-ebaf-426c-9230-1afcf4b5cf24
-index: y
-internal: n
-snippet: y
 ---
 
 # op_growMaskR{#op-growmaskr}

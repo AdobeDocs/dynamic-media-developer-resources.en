@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Adjusting Color Balance
 topic: Scene7 Image Authoring
 uuid: f36278ef-6a4a-4f02-b1f8-5cf947d96b34
-index: y
-internal: n
-snippet: y
 ---
 
 # Adjusting Color Balance{#adjusting-color-balance}

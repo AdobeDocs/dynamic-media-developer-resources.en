@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Preparing Images for Cabinet Files
 topic: Scene7 Image Authoring
 uuid: 17abb45e-ee94-4d68-89ce-fff4f6bf7b0d
-index: y
-internal: n
-snippet: y
 ---
 
 # Preparing Images for Cabinet Files{#preparing-images-for-cabinet-files}

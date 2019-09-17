@@ -6,9 +6,6 @@ solution: Experience Manager
 title: MPEvent
 topic: Scene7 Image Production System API
 uuid: 0d15c07f-5545-42bb-a793-b6c77e7a1b7b
-index: y
-internal: n
-snippet: y
 ---
 
 # MPEvent{#mpevent}

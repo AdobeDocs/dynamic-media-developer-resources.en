@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Previewing Images Before You Open Them
 topic: Scene7 Image Authoring
 uuid: 95cf9af7-1c3e-46a2-b79b-00f4c160df04
-index: y
-internal: n
-snippet: y
 ---
 
 # Previewing Images Before You Open Them{#previewing-images-before-you-open-them}

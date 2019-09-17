@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Overlapping Flowlines
 topic: Scene7 Image Authoring
 uuid: aecf18b8-2d6c-4d1e-90ed-effac254ce77
-index: y
-internal: n
-snippet: y
 ---
 
 # Overlapping Flowlines{#overlapping-flowlines}

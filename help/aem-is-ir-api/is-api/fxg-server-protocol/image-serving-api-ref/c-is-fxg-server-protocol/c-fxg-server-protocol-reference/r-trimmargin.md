@@ -6,9 +6,6 @@ solution: Experience Manager
 title: trimMargin
 topic: Scene7 Image Serving - Image Rendering API
 uuid: af94f9e8-a32e-439a-817a-a40aa8dc7dd4
-index: y
-internal: n
-snippet: y
 ---
 
 # trimMargin{#trimmargin}

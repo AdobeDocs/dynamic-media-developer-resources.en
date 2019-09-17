@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Creating 2D Objects
 topic: Scene7 Image Authoring
 uuid: 16cb2f0f-a860-45ea-bd9d-2444d5c89471
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating 2D Objects{#creating-d-objects}

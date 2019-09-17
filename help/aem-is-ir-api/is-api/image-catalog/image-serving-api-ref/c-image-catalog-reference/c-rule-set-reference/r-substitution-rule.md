@@ -6,9 +6,6 @@ solution: Experience Manager
 title: substitution
 topic: Scene7 Image Serving - Image Rendering API
 uuid: e5730559-0512-4416-927d-a7faf9180741
-index: y
-internal: n
-snippet: y
 ---
 
 # substitution{#substitution}

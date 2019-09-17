@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Server administration overview
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 83aa83b7-bb7a-4bbd-923c-dd69763fe9c9
-index: y
-internal: n
-snippet: y
 ---
 
 # Server administration overview{#server-administration-overview}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The 3D Import Tool
 topic: Scene7 Image Authoring
 uuid: 875b9f33-e33f-4553-a457-7b06e6d79b55
-index: y
-internal: n
-snippet: y
 ---
 
 # The 3D Import Tool{#the-d-import-tool}

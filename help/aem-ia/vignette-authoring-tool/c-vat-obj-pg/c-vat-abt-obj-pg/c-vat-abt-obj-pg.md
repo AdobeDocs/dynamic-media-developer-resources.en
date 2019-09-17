@@ -6,9 +6,6 @@ solution: Experience Manager
 title: About the Object Page
 topic: Scene7 Image Authoring
 uuid: 45a5b350-03fa-4e7a-9062-64b236bb3852
-index: y
-internal: n
-snippet: y
 ---
 
 # About the Object Page{#about-the-object-page}

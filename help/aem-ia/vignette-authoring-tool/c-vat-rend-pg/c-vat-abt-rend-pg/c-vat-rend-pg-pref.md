@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Render Page Preferences
 topic: Scene7 Image Authoring
 uuid: 16118794-d2ef-45e6-a350-638a692c360a
-index: y
-internal: n
-snippet: y
 ---
 
 # Render Page Preferences{#render-page-preferences}

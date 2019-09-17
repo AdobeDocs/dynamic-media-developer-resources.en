@@ -6,9 +6,6 @@ solution: Experience Manager
 title: setImageServingPublishSettings
 topic: Scene7 Image Production System API
 uuid: 16fc8600-8b04-4078-abb0-201d750b28aa
-index: y
-internal: n
-snippet: y
 ---
 
 # setImageServingPublishSettings{#setimageservingpublishsettings}

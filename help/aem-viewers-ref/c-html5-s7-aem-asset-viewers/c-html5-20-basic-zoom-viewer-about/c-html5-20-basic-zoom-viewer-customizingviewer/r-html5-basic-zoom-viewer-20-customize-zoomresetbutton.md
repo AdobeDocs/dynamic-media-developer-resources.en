@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Zoom reset button
 topic: Dynamic media
 uuid: 438e50e8-8e0f-485a-89d8-6fabd8051b2f
-index: y
-internal: n
-snippet: y
 ---
 
 # Zoom reset button{#zoom-reset-button}

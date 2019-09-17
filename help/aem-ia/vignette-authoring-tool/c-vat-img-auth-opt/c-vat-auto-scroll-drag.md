@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Auto-Scrolling When Dragging
 topic: Scene7 Image Authoring
 uuid: 04ca0bf5-d855-4b8a-839e-b0ba6092912c
-index: y
-internal: n
-snippet: y
 ---
 
 # Auto-Scrolling When Dragging{#auto-scrolling-when-dragging}

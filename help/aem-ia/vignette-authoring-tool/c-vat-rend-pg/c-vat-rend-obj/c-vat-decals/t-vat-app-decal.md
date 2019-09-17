@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Applying a Decal
 topic: Scene7 Image Authoring
 uuid: 427c9dce-19dd-496c-a4db-fbb6fa6ca58e
-index: y
-internal: n
-snippet: y
 ---
 
 # Applying a Decal{#applying-a-decal}

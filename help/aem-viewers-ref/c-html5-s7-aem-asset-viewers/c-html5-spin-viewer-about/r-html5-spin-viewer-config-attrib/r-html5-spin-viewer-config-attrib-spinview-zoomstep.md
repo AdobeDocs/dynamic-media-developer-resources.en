@@ -6,9 +6,6 @@ solution: Experience Manager
 title: SpinView.zoomstep
 topic: Dynamic media
 uuid: f8369636-08e9-4f00-8562-86a2a907b4fa
-index: y
-internal: n
-snippet: y
 ---
 
 # SpinView.zoomstep{#spinview-zoomstep}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Choosing a Preview Texture
 topic: Scene7 Image Authoring
 uuid: 2c1d1d2e-7846-4557-acce-c8c942d4b6de
-index: y
-internal: n
-snippet: y
 ---
 
 # Choosing a Preview Texture{#choosing-a-preview-texture}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: catalogprops
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 09252d39-8604-4785-bcdc-ad229a691035
-index: y
-internal: n
-snippet: y
 ---
 
 # catalogprops{#catalogprops}

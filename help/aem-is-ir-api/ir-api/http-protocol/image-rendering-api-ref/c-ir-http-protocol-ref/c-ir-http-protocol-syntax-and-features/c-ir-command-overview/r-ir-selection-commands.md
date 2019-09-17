@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Selection commands
 topic: Scene7 Image Serving - Image Rendering API
 uuid: fac4080b-3b7e-46ac-a564-3a7eff80c9eb
-index: y
-internal: n
-snippet: y
 ---
 
 # Selection commands{#selection-commands}

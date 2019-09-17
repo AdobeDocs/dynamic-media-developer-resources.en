@@ -6,9 +6,6 @@ solution: Experience Manager
 title: InteractiveSwatches.displaymode
 topic: Dynamic media
 uuid: 279b1632-cf03-454d-b15f-9e785daad692
-index: y
-internal: n
-snippet: y
 ---
 
 # InteractiveSwatches.displaymode{#interactiveswatches-displaymode}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Adding Geometry
 topic: Scene7 Image Authoring
 uuid: b020d23b-a36a-458d-9aaf-4a1b2073726c
-index: y
-internal: n
-snippet: y
 ---
 
 # Adding Geometry{#adding-geometry}

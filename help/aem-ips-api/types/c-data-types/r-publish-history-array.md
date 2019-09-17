@@ -6,9 +6,6 @@ solution: Experience Manager
 title: PublishHistoryArray
 topic: Scene7 Image Production System API
 uuid: ce925322-43d7-4e29-bfdb-7c29eabb3ef0
-index: y
-internal: n
-snippet: y
 ---
 
 # PublishHistoryArray{#publishhistoryarray}

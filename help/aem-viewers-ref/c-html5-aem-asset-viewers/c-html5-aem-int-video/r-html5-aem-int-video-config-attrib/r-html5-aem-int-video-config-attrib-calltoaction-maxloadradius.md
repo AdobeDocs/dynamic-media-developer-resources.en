@@ -6,9 +6,6 @@ solution: Experience Manager
 title: CallToAction.maxloadradius
 topic: Dynamic media
 uuid: ec5a4b0d-1dae-456f-a9da-91541cfba1a7
-index: y
-internal: n
-snippet: y
 ---
 
 # CallToAction.maxloadradius{#calltoaction-maxloadradius}

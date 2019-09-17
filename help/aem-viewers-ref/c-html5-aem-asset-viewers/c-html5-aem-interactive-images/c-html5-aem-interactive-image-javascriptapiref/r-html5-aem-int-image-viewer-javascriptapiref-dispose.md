@@ -6,9 +6,6 @@ solution: Experience Manager
 title: dispose
 topic: Dynamic media
 uuid: d9698486-8ffd-4b12-844b-e80b929675ec
-index: y
-internal: n
-snippet: y
 ---
 
 # dispose{#dispose}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ThumbnailGridView.scrollbar
 topic: Dynamic media
 uuid: 2a6383ee-20f5-422e-81eb-0b06b0297b5d
-index: y
-internal: n
-snippet: y
 ---
 
 # ThumbnailGridView.scrollbar{#thumbnailgridview-scrollbar}

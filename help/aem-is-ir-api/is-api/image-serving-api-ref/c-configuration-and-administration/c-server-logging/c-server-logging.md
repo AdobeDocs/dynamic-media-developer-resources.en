@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Server logging
 topic: Scene7 Image Serving - Image Rendering API
 uuid: f6145737-e4c3-4533-9be5-5b5a0202fe33
-index: y
-internal: n
-snippet: y
 ---
 
 # Server logging{#server-logging}

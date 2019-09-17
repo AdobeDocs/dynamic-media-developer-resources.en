@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Layout Tool
 topic: Scene7 Image Authoring
 uuid: 95a6117e-c3b9-4692-8cee-8adf9c22e663
-index: y
-internal: n
-snippet: y
 ---
 
 # The Layout Tool{#the-layout-tool}

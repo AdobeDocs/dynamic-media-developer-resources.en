@@ -6,9 +6,6 @@ solution: Experience Manager
 title: pathEmbed
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 93e63c7c-c091-4bb1-baff-45706fd611ea
-index: y
-internal: n
-snippet: y
 ---
 
 # pathEmbed{#pathembed}

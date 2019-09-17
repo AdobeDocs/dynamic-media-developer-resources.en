@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Setting Up IPS for Dragging and Dropping
 topic: Scene7 Image Authoring
 uuid: 15eefbef-ec30-40a4-8ca2-d76fc9be8e6d
-index: y
-internal: n
-snippet: y
 ---
 
 # Setting Up IPS for Dragging and Dropping{#setting-up-ips-for-dragging-and-dropping}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: InfoPanelPopup.template
 topic: Dynamic media
 uuid: c7063907-78e8-47f8-9424-78ab9d123ad1
-index: y
-internal: n
-snippet: y
 ---
 
 # InfoPanelPopup.template{#infopanelpopup-template}

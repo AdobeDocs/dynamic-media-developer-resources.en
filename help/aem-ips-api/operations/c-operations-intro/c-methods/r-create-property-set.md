@@ -6,9 +6,6 @@ solution: Experience Manager
 title: createPropertySet
 topic: Scene7 Image Production System API
 uuid: f0b5b951-143f-4a31-bb6b-cdeabdebbcbb
-index: y
-internal: n
-snippet: y
 ---
 
 # createPropertySet{#createpropertyset}

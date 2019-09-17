@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Dragging and Dropping Textures
 topic: Scene7 Image Authoring
 uuid: 605cdb2d-c6ac-4979-b627-b06359906295
-index: y
-internal: n
-snippet: y
 ---
 
 # Dragging and Dropping Textures{#dragging-and-dropping-textures}

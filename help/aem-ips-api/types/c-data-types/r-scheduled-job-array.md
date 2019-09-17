@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ScheduledJobArray
 topic: Scene7 Image Production System API
 uuid: ef186476-d356-4516-b0c5-91e568e122cb
-index: y
-internal: n
-snippet: y
 ---
 
 # ScheduledJobArray{#scheduledjobarray}

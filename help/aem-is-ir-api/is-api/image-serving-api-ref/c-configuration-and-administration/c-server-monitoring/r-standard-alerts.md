@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Standard alerts
 topic: Scene7 Image Serving - Image Rendering API
 uuid: d3294434-a44b-4742-9d77-a6945760d33c
-index: y
-internal: n
-snippet: y
 ---
 
 # Standard alerts{#standard-alerts}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: RootId
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 98cece72-487f-4a0d-ad6f-018b656f0f03
-index: y
-internal: n
-snippet: y
 ---
 
 # RootId{#rootid}

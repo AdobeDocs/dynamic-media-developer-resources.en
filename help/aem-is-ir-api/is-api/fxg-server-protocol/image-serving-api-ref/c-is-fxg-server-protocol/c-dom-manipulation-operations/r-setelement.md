@@ -6,9 +6,6 @@ solution: Experience Manager
 title: setElement
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 717c9c3c-a2e0-4179-8158-9913f4e09a96
-index: y
-internal: n
-snippet: y
 ---
 
 # setElement{#setelement}

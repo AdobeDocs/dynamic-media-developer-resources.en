@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Assistive technology support
 topic: Dynamic media
 uuid: e7090fb1-9458-4f97-a11f-5b0600a13db0
-index: y
-internal: n
-snippet: y
 ---
 
 # Assistive technology support{#assistive-technology-support}

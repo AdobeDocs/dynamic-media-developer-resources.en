@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Solid color layer commands
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 51d82a95-d940-4c62-8ea8-b8805ba16fd3
-index: y
-internal: n
-snippet: y
 ---
 
 # Solid color layer commands{#solid-color-layer-commands}

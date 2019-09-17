@@ -6,9 +6,6 @@ solution: Experience Manager
 title: saveImageMap
 topic: Scene7 Image Production System API
 uuid: 9714fc99-2259-4766-96d7-fe2f9fd2f341
-index: y
-internal: n
-snippet: y
 ---
 
 # saveImageMap{#saveimagemap}

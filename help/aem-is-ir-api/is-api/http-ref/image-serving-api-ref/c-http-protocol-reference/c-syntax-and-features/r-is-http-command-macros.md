@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Command macros
 topic: Scene7 Image Serving - Image Rendering API
 uuid: a6ff5642-6716-484f-b37e-066994362a9b
-index: y
-internal: n
-snippet: y
 ---
 
 # Command macros{#command-macros}

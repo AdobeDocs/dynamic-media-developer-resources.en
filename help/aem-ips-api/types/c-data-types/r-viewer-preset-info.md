@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ViewerPresetInfo
 topic: Scene7 Image Production System API
 uuid: 0117488d-b89d-48d4-b081-af177a22f71f
-index: y
-internal: n
-snippet: y
 ---
 
 # ViewerPresetInfo{#viewerpresetinfo}

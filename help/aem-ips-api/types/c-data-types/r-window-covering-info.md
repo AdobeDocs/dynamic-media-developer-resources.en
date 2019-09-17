@@ -6,9 +6,6 @@ solution: Experience Manager
 title: WindowCoveringInfo
 topic: Scene7 Image Production System API
 uuid: 6ca5c5b2-9fb1-4ba2-b981-f1912231512c
-index: y
-internal: n
-snippet: y
 ---
 
 # WindowCoveringInfo{#windowcoveringinfo}

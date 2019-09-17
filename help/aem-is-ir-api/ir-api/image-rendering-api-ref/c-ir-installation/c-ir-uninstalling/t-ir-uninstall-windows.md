@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Uninstalling on Windows
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 7b20bf37-4147-4169-ac5e-42e7b330ca51
-index: y
-internal: n
-snippet: y
 ---
 
 # Uninstalling on Windows{#uninstalling-on-windows}

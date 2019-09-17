@@ -4,9 +4,6 @@ seo-description: Video caption properties
 seo-title: VideoCaptionInfo
 title: VideoCaptionInfo
 uuid: affd5019-9916-421d-8c4b-676d48bf010c
-index: y
-internal: n
-snippet: y
 ---
 
 # VideoCaptionInfo{#videocaptioninfo}

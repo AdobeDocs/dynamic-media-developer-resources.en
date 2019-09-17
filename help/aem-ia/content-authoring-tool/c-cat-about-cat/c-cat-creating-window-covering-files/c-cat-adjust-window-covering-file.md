@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Adjusting the Window Covering File
 topic: Scene7 Image Authoring
 uuid: fb72d09d-9c7b-4b30-831f-16e1d0fa2f5f
-index: y
-internal: n
-snippet: y
 ---
 
 # Adjusting the Window Covering File{#adjusting-the-window-covering-file}

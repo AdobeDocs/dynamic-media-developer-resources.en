@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Viewing Masks
 topic: Scene7 Image Authoring
 uuid: 60cf9b88-2b0b-48da-a1ab-721005c55bfc
-index: y
-internal: n
-snippet: y
 ---
 
 # Viewing Masks{#viewing-masks}

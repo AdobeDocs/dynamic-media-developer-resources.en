@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Matching Up Textures on Adjacent Flowline Objects
 topic: Scene7 Image Authoring
 uuid: b9066213-7470-4b53-bebb-96d8c37bfc89
-index: y
-internal: n
-snippet: y
 ---
 
 # Matching Up Textures on Adjacent Flowline Objects{#matching-up-textures-on-adjacent-flowline-objects}

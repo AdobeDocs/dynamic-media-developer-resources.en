@@ -6,9 +6,6 @@ solution: Experience Manager
 title: deleteImageFormat
 topic: Scene7 Image Production System API
 uuid: 70dddde9-830b-4267-8ef5-df5241f549e3
-index: y
-internal: n
-snippet: y
 ---
 
 # deleteImageFormat{#deleteimageformat}

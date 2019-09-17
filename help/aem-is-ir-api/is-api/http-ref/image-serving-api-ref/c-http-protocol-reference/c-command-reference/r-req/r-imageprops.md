@@ -6,9 +6,6 @@ solution: Experience Manager
 title: imageprops
 topic: Scene7 Image Serving - Image Rendering API
 uuid: e9bf2780-a520-4fb1-ab4c-40bb799e36a4
-index: y
-internal: n
-snippet: y
 ---
 
 # imageprops{#imageprops}

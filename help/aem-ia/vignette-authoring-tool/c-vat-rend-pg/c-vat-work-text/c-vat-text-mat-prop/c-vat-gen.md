@@ -6,9 +6,6 @@ solution: Experience Manager
 title: General
 topic: Scene7 Image Authoring
 uuid: 81141a73-6f5b-450e-af35-7ccd30e197d4
-index: y
-internal: n
-snippet: y
 ---
 
 # General{#general}

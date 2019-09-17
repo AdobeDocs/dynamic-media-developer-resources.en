@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Last page button
 topic: Dynamic media
 uuid: f77b9ac5-4f00-41d4-9495-c4805d4a41f9
-index: y
-internal: n
-snippet: y
 ---
 
 # Last page button{#last-page-button}

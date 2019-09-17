@@ -6,9 +6,6 @@ solution: Experience Manager
 title: AssetJobLog
 topic: Scene7 Image Production System API
 uuid: 0dd65da1-f358-4d9a-98a2-abfb036347e3
-index: y
-internal: n
-snippet: y
 ---
 
 # AssetJobLog{#assetjoblog}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Correcting Color
 topic: Scene7 Image Authoring
 uuid: e0a3dd21-1f78-4920-b164-d1aab7bd8d73
-index: y
-internal: n
-snippet: y
 ---
 
 # Correcting Color{#correcting-color}

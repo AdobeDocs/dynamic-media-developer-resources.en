@@ -6,9 +6,6 @@ solution: Experience Manager
 title: CallToAction.direction
 topic: Dynamic media
 uuid: fe182e8f-696d-4515-afdb-49964a374dae
-index: y
-internal: n
-snippet: y
 ---
 
 # CallToAction.direction{#calltoaction-direction}

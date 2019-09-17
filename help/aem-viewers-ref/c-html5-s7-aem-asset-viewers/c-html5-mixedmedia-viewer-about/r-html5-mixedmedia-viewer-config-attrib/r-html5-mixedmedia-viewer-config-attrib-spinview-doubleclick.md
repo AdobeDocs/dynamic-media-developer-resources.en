@@ -6,9 +6,6 @@ solution: Experience Manager
 title: SpinView.doubleclick
 topic: Dynamic media
 uuid: 8e78d91e-e4c6-40f1-9421-8da8bc404ee0
-index: y
-internal: n
-snippet: y
 ---
 
 # SpinView.doubleclick{#spinview-doubleclick}

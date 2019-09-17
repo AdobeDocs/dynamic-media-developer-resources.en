@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Image server proxy
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 49aa0861-9b03-4a62-8604-67e6cb7a621f
-index: y
-internal: n
-snippet: y
 ---
 
 # Image server proxy{#image-server-proxy}

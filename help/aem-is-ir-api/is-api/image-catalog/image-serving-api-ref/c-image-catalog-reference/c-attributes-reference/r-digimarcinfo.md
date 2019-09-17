@@ -6,9 +6,6 @@ solution: Experience Manager
 title: DigimarcInfo
 topic: Scene7 Image Serving - Image Rendering API
 uuid: fc47645d-e3e9-433e-9194-2aa9ddc123ab
-index: y
-internal: n
-snippet: y
 ---
 
 # DigimarcInfo{#digimarcinfo}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: MetadataConditionArray
 topic: Scene7 Image Production System API
 uuid: 235cafa9-3d96-464f-9943-9f0addfa05c1
-index: y
-internal: n
-snippet: y
 ---
 
 # MetadataConditionArray{#metadataconditionarray}

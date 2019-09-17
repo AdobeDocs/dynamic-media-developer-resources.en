@@ -6,9 +6,6 @@ solution: Experience Manager
 title: FavoritesMenu.bearing
 topic: Dynamic media
 uuid: badc02ef-2724-41bb-9b00-c65966be8577
-index: y
-internal: n
-snippet: y
 ---
 
 # FavoritesMenu.bearing{#favoritesmenu-bearing}

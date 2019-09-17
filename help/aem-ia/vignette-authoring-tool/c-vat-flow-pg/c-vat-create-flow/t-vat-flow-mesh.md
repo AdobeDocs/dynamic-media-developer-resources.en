@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Starting the Flowline Mesh
 topic: Scene7 Image Authoring
 uuid: 60c6d407-08b7-425f-9ec1-bbe79d17489d
-index: y
-internal: n
-snippet: y
 ---
 
 # Starting the Flowline Mesh{#starting-the-flowline-mesh}

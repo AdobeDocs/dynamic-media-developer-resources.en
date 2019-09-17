@@ -6,9 +6,6 @@ solution: Experience Manager
 title: XslInfo
 topic: Scene7 Image Production System API
 uuid: de0f2449-fdf7-49f7-b199-dcc0bc3decf7
-index: y
-internal: n
-snippet: y
 ---
 
 # XslInfo{#xslinfo}

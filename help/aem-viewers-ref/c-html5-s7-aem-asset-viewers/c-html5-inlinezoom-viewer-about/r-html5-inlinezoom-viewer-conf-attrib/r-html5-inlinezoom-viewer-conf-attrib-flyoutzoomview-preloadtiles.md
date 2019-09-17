@@ -6,9 +6,6 @@ solution: Experience Manager
 title: FlyoutZoomView.preloadtiles
 topic: Dynamic media
 uuid: 8e989ca7-1ef7-4758-b6b9-c447d7647d1d
-index: y
-internal: n
-snippet: y
 ---
 
 # FlyoutZoomView.preloadtiles{#flyoutzoomview-preloadtiles}

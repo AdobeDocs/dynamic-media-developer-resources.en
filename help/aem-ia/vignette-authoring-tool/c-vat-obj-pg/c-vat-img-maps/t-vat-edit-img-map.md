@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Editing an Image Map
 topic: Scene7 Image Authoring
 uuid: 70116343-8521-4ea9-b131-5573df7383d7
-index: y
-internal: n
-snippet: y
 ---
 
 # Editing an Image Map{#editing-an-image-map}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Properties
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 22c271f7-e9dc-4f3e-af7b-1efe89df983e
-index: y
-internal: n
-snippet: y
 ---
 
 # Properties{#properties}

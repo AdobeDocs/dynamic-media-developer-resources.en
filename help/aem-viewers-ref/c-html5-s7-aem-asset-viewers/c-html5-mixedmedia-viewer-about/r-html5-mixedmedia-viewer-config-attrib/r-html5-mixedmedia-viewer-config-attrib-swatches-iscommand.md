@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Swatches.iscommand
 topic: Dynamic media
 uuid: b5dfb326-fbd8-4220-a44c-0d4f80b2a8fa
-index: y
-internal: n
-snippet: y
 ---
 
 # Swatches.iscommand{#swatches-iscommand}

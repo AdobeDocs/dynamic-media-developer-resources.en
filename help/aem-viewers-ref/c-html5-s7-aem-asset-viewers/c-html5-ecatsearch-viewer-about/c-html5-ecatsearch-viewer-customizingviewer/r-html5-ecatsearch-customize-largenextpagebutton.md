@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Large next page button
 topic: Dynamic media
 uuid: b68332b1-7b6b-46d8-8a0a-aa5a78fca5fb
-index: y
-internal: n
-snippet: y
 ---
 
 # Large next page button{#large-next-page-button}

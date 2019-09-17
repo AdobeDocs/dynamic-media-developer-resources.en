@@ -6,9 +6,6 @@ solution: Experience Manager
 title: PublishContextArray
 topic: Scene7 Image Production System API
 uuid: 47aa483c-c141-499b-b58c-7b09cc9c2a4b
-index: y
-internal: n
-snippet: y
 ---
 
 # PublishContextArray{#publishcontextarray}

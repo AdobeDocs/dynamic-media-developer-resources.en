@@ -6,9 +6,6 @@ solution: Experience Manager
 title: batchSetImageFields
 topic: Scene7 Image Production System API
 uuid: e0ad7da4-cb28-4402-8b47-a600916d23b3
-index: y
-internal: n
-snippet: y
 ---
 
 # batchSetImageFields{#batchsetimagefields}

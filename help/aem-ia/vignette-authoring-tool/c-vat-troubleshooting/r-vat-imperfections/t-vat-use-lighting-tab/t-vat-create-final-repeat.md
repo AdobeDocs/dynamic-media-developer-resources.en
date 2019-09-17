@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Creating the Final Repeat
 topic: Scene7 Image Authoring
 uuid: 6d3458c5-c431-480c-9443-f63489f7c062
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating the Final Repeat{#creating-the-final-repeat}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ZoomView.iscommand
 topic: Dynamic media
 uuid: 35c40a49-5b8e-443e-947a-5d91286ae214
-index: y
-internal: n
-snippet: y
 ---
 
 # ZoomView.iscommand{#zoomview-iscommand}

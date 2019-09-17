@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Request preprocessing
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 375bbca2-7a4a-49a9-9577-86e6b2f19990
-index: y
-internal: n
-snippet: y
 ---
 
 # Request preprocessing{#request-preprocessing}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The File Menu
 topic: Scene7 Image Authoring
 uuid: 40586f7c-4c2f-4aa6-9f59-560a9de66577
-index: y
-internal: n
-snippet: y
 ---
 
 # The File Menu{#the-file-menu}

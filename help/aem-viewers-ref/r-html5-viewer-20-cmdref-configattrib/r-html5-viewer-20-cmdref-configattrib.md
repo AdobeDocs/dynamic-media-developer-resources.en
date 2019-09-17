@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Command reference common to all viewers – Configuration attributes
 topic: Dynamic media
 uuid: 6b8f5452-2814-4b07-9d95-f0fc83ce00a9
-index: y
-internal: n
-snippet: y
 ---
 
 # Command reference common to all viewers – Configuration attributes{#command-reference-common-to-all-viewers-configuration-attributes}

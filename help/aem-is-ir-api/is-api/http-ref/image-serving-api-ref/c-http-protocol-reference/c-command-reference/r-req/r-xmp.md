@@ -6,9 +6,6 @@ solution: Experience Manager
 title: xmp
 topic: Scene7 Image Serving - Image Rendering API
 uuid: e1583ffe-531a-4334-b974-72df6fcb14ba
-index: y
-internal: n
-snippet: y
 ---
 
 # xmp{#xmp}

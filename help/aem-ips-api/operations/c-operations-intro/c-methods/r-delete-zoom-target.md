@@ -6,9 +6,6 @@ solution: Experience Manager
 title: deleteZoomTarget
 topic: Scene7 Image Production System API
 uuid: 01a9321f-89a9-4263-937b-b0b49fe2fb81
-index: y
-internal: n
-snippet: y
 ---
 
 # deleteZoomTarget{#deletezoomtarget}

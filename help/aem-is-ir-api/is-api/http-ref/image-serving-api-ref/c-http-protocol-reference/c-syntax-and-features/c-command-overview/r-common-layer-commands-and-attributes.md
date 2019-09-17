@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Common layer commands
 topic: Scene7 Image Serving - Image Rendering API
 uuid: f11da6ba-18f2-42d6-8257-cb8ebef8c7d8
-index: y
-internal: n
-snippet: y
 ---
 
 # Common layer commands{#common-layer-commands}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Spin view
 topic: Dynamic media
 uuid: 74f42373-b08c-43c8-8f08-e61a09655b61
-index: y
-internal: n
-snippet: y
 ---
 
 # Spin view{#spin-view}

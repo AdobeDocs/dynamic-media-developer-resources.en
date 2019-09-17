@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Managing page labels
 topic: Dynamic media
 uuid: ab3df37d-113b-4762-ba9c-b92ffc41f1a2
-index: y
-internal: n
-snippet: y
 ---
 
 # Managing page labels{#managing-page-labels}

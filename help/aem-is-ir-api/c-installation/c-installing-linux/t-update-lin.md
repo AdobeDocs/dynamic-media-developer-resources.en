@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Updating from IS 4.7.4 or later
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 70beb1a3-71b9-4bd0-b048-13d88446a9d3
-index: y
-internal: n
-snippet: y
 ---
 
 # Updating from IS 4.7.4 or later{#updating-from-is-or-later}

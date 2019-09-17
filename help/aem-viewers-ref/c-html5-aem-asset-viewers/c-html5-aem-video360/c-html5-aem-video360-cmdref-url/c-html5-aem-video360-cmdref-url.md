@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Command reference – URL
 topic: Dynamic media
 uuid: 70c212d7-35ee-408f-abe4-19ba1e4d773d
-index: y
-internal: n
-snippet: y
 ---
 
 # Command reference – URL{#command-reference-url}

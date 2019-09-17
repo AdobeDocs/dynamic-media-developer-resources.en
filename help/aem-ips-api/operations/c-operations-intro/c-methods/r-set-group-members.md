@@ -6,9 +6,6 @@ solution: Experience Manager
 title: setGroupMembers
 topic: Scene7 Image Production System API
 uuid: fe6585ef-a4b3-4b3c-95d0-624017650497
-index: y
-internal: n
-snippet: y
 ---
 
 # setGroupMembers{#setgroupmembers}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Status Bar
 topic: Scene7 Image Authoring
 uuid: b8c71747-5613-4d43-ac85-0f504ced923c
-index: y
-internal: n
-snippet: y
 ---
 
 # Status Bar{#status-bar}

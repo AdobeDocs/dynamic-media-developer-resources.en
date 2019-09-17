@@ -6,9 +6,6 @@ solution: Experience Manager
 title: MetadataDeleteArray
 topic: Scene7 Image Production System API
 uuid: 02bf3cb4-1643-4b97-9353-abb5001b1aa2
-index: y
-internal: n
-snippet: y
 ---
 
 # MetadataDeleteArray{#metadatadeletearray}

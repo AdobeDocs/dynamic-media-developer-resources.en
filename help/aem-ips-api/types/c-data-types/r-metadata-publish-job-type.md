@@ -6,9 +6,6 @@ solution: Experience Manager
 title: MetadataPublishJobType
 topic: Scene7 Image Production System API
 uuid: 14cbb67e-56dc-4a25-b871-740be7ea7858
-index: y
-internal: n
-snippet: y
 ---
 
 # MetadataPublishJobType{#metadatapublishjobtype}

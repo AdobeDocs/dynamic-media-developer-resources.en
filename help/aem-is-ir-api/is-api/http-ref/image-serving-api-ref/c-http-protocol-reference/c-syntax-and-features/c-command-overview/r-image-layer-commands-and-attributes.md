@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Image layer commands
 topic: Scene7 Image Serving - Image Rendering API
 uuid: eb8d2af0-3ec1-4730-886b-7494fb22b3e4
-index: y
-internal: n
-snippet: y
 ---
 
 # Image layer commands{#image-layer-commands}

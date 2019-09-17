@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Creating a New Window Covering File
 topic: Scene7 Image Authoring
 uuid: 68c510fa-2639-4888-9db0-077d5d743a3e
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating a New Window Covering File{#creating-a-new-window-covering-file}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: JSONP properties
 topic: Scene7 Image Serving - Image Rendering API
 uuid: e53d75f2-9b43-4e8f-8191-66f69f344cdd
-index: y
-internal: n
-snippet: y
 ---
 
 # JSONP properties{#jsonp-properties}

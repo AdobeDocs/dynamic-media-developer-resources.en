@@ -6,9 +6,6 @@ solution: Experience Manager
 title: UseLastModified
 topic: Scene7 Image Serving - Image Rendering API
 uuid: f2ce2e04-4133-40af-ac82-cae57b253fe9
-index: y
-internal: n
-snippet: y
 ---
 
 # UseLastModified{#uselastmodified}

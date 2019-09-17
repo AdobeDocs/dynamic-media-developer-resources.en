@@ -6,9 +6,6 @@ solution: Experience Manager
 title: To Stretch a Texture by Changing the Value Amount
 topic: Scene7 Image Authoring
 uuid: 7c47a247-592b-41e4-8d09-fb994b4efa60
-index: y
-internal: n
-snippet: y
 ---
 
 # To Stretch a Texture by Changing the Value Amount{#to-stretch-a-texture-by-changing-the-value-amount}

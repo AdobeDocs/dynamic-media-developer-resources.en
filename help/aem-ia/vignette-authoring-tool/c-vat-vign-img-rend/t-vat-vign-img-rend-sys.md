@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Preparing Vignettes for the Image Rendering System
 topic: Scene7 Image Authoring
 uuid: 6739eb07-293f-439a-84d0-b6f0558e701e
-index: y
-internal: n
-snippet: y
 ---
 
 # Preparing Vignettes for the Image Rendering System{#preparing-vignettes-for-the-image-rendering-system}

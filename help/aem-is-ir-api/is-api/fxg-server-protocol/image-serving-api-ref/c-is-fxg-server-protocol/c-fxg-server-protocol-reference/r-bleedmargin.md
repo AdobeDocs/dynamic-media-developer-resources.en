@@ -6,9 +6,6 @@ solution: Experience Manager
 title: bleedmargin
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 084d09dd-3f8e-4d2b-8a1c-21d87d925b14
-index: y
-internal: n
-snippet: y
 ---
 
 # bleedmargin{#bleedmargin}

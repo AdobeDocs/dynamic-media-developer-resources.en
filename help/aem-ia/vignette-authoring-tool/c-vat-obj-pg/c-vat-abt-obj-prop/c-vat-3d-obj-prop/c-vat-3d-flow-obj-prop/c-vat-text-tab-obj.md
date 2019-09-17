@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Texture tab for objects
 topic: Scene7 Image Authoring
 uuid: 7669d291-62fa-48ad-b4b7-c06c6933c55f
-index: y
-internal: n
-snippet: y
 ---
 
 # Texture tab for objects{#texture-tab-for-objects}

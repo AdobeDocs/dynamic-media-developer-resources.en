@@ -6,9 +6,6 @@ solution: Experience Manager
 title: SystemFieldConditionArray
 topic: Scene7 Image Production System API
 uuid: 06d7f503-23d2-4bd0-a47b-e6077a8a7547
-index: y
-internal: n
-snippet: y
 ---
 
 # SystemFieldConditionArray{#systemfieldconditionarray}

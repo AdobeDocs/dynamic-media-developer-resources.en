@@ -6,9 +6,6 @@ solution: Experience Manager
 title: HttpFlashStreamingContext
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 7a69e7ac-9a32-4e32-a7bc-cc90c5cbe49c
-index: y
-internal: n
-snippet: y
 ---
 
 # HttpFlashStreamingContext{#httpflashstreamingcontext}

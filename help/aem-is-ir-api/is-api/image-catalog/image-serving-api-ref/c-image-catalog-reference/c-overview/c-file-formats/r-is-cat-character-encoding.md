@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Character encoding
 topic: Scene7 Image Serving - Image Rendering API
 uuid: dfb56411-40d1-4bac-9213-9104ecba2a02
-index: y
-internal: n
-snippet: y
 ---
 
 # Character encoding{#character-encoding}

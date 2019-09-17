@@ -6,9 +6,6 @@ solution: Experience Manager
 title: About Sub-Groups
 topic: Scene7 Image Authoring
 uuid: a1935b34-99dd-4b70-88b4-7ef7af002c5e
-index: y
-internal: n
-snippet: y
 ---
 
 # About Sub-Groups{#about-sub-groups}

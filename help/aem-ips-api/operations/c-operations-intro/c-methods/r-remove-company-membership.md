@@ -6,9 +6,6 @@ solution: Experience Manager
 title: removeCompanyMembership
 topic: Scene7 Image Production System API
 uuid: af57fde0-2297-41da-87bf-f063fc313264
-index: y
-internal: n
-snippet: y
 ---
 
 # removeCompanyMembership{#removecompanymembership}

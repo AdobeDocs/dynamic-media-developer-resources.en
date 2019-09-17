@@ -6,9 +6,6 @@ solution: Experience Manager
 title: AssetMetadataFields
 topic: Scene7 Image Production System API
 uuid: aefb734c-7609-4227-ae2c-48a1469740ec
-index: y
-internal: n
-snippet: y
 ---
 
 # AssetMetadataFields{#assetmetadatafields}

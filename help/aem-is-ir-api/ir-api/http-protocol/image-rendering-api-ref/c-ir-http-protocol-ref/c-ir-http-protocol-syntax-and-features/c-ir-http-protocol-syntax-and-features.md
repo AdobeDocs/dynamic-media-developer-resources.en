@@ -6,9 +6,6 @@ solution: Experience Manager
 title: HTTP protocol syntax and features
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 5badae8e-0874-43b1-b019-bd7445e6c2ce
-index: y
-internal: n
-snippet: y
 ---
 
 # HTTP protocol syntax and features{#http-protocol-syntax-and-features}

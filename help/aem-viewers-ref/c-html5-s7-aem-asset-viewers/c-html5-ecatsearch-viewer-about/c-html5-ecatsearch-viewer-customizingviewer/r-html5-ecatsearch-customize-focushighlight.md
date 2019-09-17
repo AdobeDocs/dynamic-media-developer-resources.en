@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Focus highlight
 topic: Dynamic media
 uuid: 0bd36795-e663-4f0e-8310-a57c2ffae4a2
-index: y
-internal: n
-snippet: y
 ---
 
 # Focus highlight{#focus-highlight}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: PlatformServer.conf
 topic: Scene7 Image Serving - Image Rendering API
 uuid: d798762b-c9ff-4e1b-b2ac-c5e40476b375
-index: y
-internal: n
-snippet: y
 ---
 
 # PlatformServer.conf{#platformserver-conf}

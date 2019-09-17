@@ -6,9 +6,6 @@ solution: Experience Manager
 title: TemplateInfo
 topic: Scene7 Image Production System API
 uuid: ab405069-c231-435e-999e-95c64bd740be
-index: y
-internal: n
-snippet: y
 ---
 
 # TemplateInfo{#templateinfo}

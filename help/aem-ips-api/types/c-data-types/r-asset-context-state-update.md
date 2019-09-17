@@ -6,9 +6,6 @@ solution: Experience Manager
 title: AssetContextStateUpdate
 topic: Scene7 Image Production System API
 uuid: 74bc693f-1ce9-4dcf-92f5-1177668ea3ef
-index: y
-internal: n
-snippet: y
 ---
 
 # AssetContextStateUpdate{#assetcontextstateupdate}

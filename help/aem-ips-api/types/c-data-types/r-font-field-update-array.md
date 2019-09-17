@@ -6,9 +6,6 @@ solution: Experience Manager
 title: FontFieldUpdateArray
 topic: Scene7 Image Production System API
 uuid: d2fbf891-ec1c-4465-a14e-c5ac1f5bef5a
-index: y
-internal: n
-snippet: y
 ---
 
 # FontFieldUpdateArray{#fontfieldupdatearray}

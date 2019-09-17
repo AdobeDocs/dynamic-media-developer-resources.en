@@ -6,9 +6,6 @@ solution: Experience Manager
 title: callToActionRecap
 topic: Dynamic media
 uuid: eda844e5-8ad2-4617-b38a-da0f7e981f68
-index: y
-internal: n
-snippet: y
 ---
 
 # callToActionRecap{#calltoactionrecap}

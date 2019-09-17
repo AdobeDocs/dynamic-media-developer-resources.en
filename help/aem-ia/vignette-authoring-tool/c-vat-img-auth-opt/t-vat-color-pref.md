@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Setting Color Preferences
 topic: Scene7 Image Authoring
 uuid: a7030bea-249c-4f24-855a-0b655de02cec
-index: y
-internal: n
-snippet: y
 ---
 
 # Setting Color Preferences{#setting-color-preferences}

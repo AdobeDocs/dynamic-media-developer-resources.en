@@ -6,9 +6,6 @@ solution: Experience Manager
 title: UploadUrlArray
 topic: Scene7 Image Production System API
 uuid: cb7338cd-5873-4e84-bf6d-39abff3166cd
-index: y
-internal: n
-snippet: y
 ---
 
 # UploadUrlArray{#uploadurlarray}

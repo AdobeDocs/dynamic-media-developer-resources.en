@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Next page button
 topic: Dynamic media
 uuid: 38be0f94-42eb-42ca-8e56-935aeeb4dc2b
-index: y
-internal: n
-snippet: y
 ---
 
 # Next page button{#next-page-button}

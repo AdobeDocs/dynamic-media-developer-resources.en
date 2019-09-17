@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Rendering with a Texture
 topic: Scene7 Image Authoring
 uuid: b3cdf642-232d-400e-845e-20d8965f1cda
-index: y
-internal: n
-snippet: y
 ---
 
 # Rendering with a Texture{#rendering-with-a-texture}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: crop
 topic: Scene7 Image Serving - Image Rendering API
 uuid: c8eca467-7564-48a6-82d7-17f68a1399e1
-index: y
-internal: n
-snippet: y
 ---
 
 # crop{#crop}

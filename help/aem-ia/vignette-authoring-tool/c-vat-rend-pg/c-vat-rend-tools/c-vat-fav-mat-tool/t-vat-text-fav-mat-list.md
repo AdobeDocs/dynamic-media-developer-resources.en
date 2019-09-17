@@ -6,9 +6,6 @@ solution: Experience Manager
 title: To Apply a Texture from the Favorite Materials List
 topic: Scene7 Image Authoring
 uuid: f9088ad3-a972-4e52-8fa0-a51ab7546e90
-index: y
-internal: n
-snippet: y
 ---
 
 # To Apply a Texture from the Favorite Materials List{#to-apply-a-texture-from-the-favorite-materials-list}

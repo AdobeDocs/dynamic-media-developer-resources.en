@@ -6,9 +6,6 @@ solution: Experience Manager
 title: getActivePublishContext
 topic: Scene7 Image Production System API
 uuid: 856704d1-e97b-4d2d-b80c-620450b78432
-index: y
-internal: n
-snippet: y
 ---
 
 # getActivePublishContext{#getactivepublishcontext}

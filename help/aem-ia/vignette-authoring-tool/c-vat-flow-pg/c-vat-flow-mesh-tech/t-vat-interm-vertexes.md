@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Deleting Intermediate Vertexes
 topic: Scene7 Image Authoring
 uuid: 64316246-8c02-4809-839b-05a37c09b41f
-index: y
-internal: n
-snippet: y
 ---
 
 # Deleting Intermediate Vertexes{#deleting-intermediate-vertexes}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Questions About the Flowline Page
 topic: Scene7 Image Authoring
 uuid: a69fa35a-e123-4152-a7ab-b303b4efb438
-index: y
-internal: n
-snippet: y
 ---
 
 # Questions About the Flowline Page{#questions-about-the-flowline-page}

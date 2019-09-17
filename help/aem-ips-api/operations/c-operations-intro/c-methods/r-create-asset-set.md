@@ -6,9 +6,6 @@ solution: Experience Manager
 title: createAssetSet
 topic: Scene7 Image Production System API
 uuid: 1e86bd37-511c-4c12-abfd-075053b86f78
-index: y
-internal: n
-snippet: y
 ---
 
 # createAssetSet{#createassetset}

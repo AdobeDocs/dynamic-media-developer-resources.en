@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Redirect on error
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 894babe9-9c3c-4972-ae8f-387d65b4167d
-index: y
-internal: n
-snippet: y
 ---
 
 # Redirect on error{#redirect-on-error}

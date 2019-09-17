@@ -6,9 +6,6 @@ solution: Experience Manager
 title: To Import Photoshop Swatches to the Favorite Materials List
 topic: Scene7 Image Authoring
 uuid: 90a801f0-8271-458a-8759-57b7b2ff91e7
-index: y
-internal: n
-snippet: y
 ---
 
 # To Import Photoshop Swatches to the Favorite Materials List{#to-import-photoshop-swatches-to-the-favorite-materials-list}

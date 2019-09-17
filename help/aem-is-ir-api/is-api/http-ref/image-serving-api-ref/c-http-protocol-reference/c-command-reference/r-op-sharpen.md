@@ -6,9 +6,6 @@ solution: Experience Manager
 title: op_sharpen
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 1a00c60a-0d5c-4a99-a649-f29ebd710cf3
-index: y
-internal: n
-snippet: y
 ---
 
 # op_sharpen{#op-sharpen}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Using the Lighting tab
 topic: Scene7 Image Authoring
 uuid: 935ab746-e618-481c-970a-21b991fff9e7
-index: y
-internal: n
-snippet: y
 ---
 
 # Using the Lighting tab{#using-the-lighting-tab}

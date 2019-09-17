@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ZoomView.iconeffect
 topic: Dynamic media
 uuid: 9eab6cb2-92a3-41d2-999a-254a7109d6b6
-index: y
-internal: n
-snippet: y
 ---
 
 # ZoomView.iconeffect{#zoomview-iconeffect}

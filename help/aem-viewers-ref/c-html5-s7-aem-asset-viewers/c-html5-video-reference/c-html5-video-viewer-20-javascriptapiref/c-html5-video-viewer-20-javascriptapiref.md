@@ -6,9 +6,6 @@ solution: Experience Manager
 title: JavaScript API reference for Video Viewer
 topic: Dynamic media
 uuid: 371f6dad-e7ba-434d-9a12-dbc9b871735e
-index: y
-internal: n
-snippet: y
 ---
 
 # JavaScript API reference for Video Viewer{#javascript-api-reference-for-video-viewer}

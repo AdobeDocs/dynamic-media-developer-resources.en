@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Wall Object Properties
 topic: Scene7 Image Authoring
 uuid: b539fcbe-f526-4a1e-a704-7021ed0addb5
-index: y
-internal: n
-snippet: y
 ---
 
 # Wall Object Properties{#wall-object-properties}

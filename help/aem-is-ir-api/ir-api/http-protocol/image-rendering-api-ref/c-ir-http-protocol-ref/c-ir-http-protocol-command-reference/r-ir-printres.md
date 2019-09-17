@@ -6,9 +6,6 @@ solution: Experience Manager
 title: printRes
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 5bca705a-3a48-4e5e-83eb-c200b6318564
-index: y
-internal: n
-snippet: y
 ---
 
 # printRes{#printres}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: resolve
 topic: Scene7 Image Serving - Image Rendering API
 uuid: bd1576a7-4802-4a87-b1c0-406f51382561
-index: y
-internal: n
-snippet: y
 ---
 
 # resolve{#resolve}

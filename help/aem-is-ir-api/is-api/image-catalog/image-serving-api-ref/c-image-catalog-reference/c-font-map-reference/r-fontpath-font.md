@@ -6,9 +6,6 @@ solution: Experience Manager
 title: FontPath
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 199a2acd-2b7f-41a0-88b2-4955a9bc9c63
-index: y
-internal: n
-snippet: y
 ---
 
 # FontPath{#fontpath}

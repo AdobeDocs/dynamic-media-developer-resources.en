@@ -6,9 +6,6 @@ solution: Experience Manager
 title: FontInfo
 topic: Scene7 Image Production System API
 uuid: 3747fef9-b065-4dc4-9c96-0ea483f1fd56
-index: y
-internal: n
-snippet: y
 ---
 
 # FontInfo{#fontinfo}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: jobdata
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 4d0fca91-f08a-48cf-931a-504d295785fc
-index: y
-internal: n
-snippet: y
 ---
 
 # jobdata{#jobdata}

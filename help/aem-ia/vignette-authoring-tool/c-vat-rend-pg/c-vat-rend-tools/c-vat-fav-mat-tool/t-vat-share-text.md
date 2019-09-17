@@ -6,9 +6,6 @@ solution: Experience Manager
 title: To Share Textures in the Favorite Materials List with Other Users
 topic: Scene7 Image Authoring
 uuid: e591ed53-9309-49f7-a750-93e08d2d0566
-index: y
-internal: n
-snippet: y
 ---
 
 # To Share Textures in the Favorite Materials List with Other Users{#to-share-textures-in-the-favorite-materials-list-with-other-users}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Histogram Tool
 topic: Scene7 Image Authoring
 uuid: 37871908-1bf5-4aa8-b40b-d43607fd913c
-index: y
-internal: n
-snippet: y
 ---
 
 # The Histogram Tool{#the-histogram-tool}

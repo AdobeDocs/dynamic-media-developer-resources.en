@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Changing the Texture Anchor Point
 topic: Scene7 Image Authoring
 uuid: 0704d48c-2b0f-4510-9e75-32079d94895b
-index: y
-internal: n
-snippet: y
 ---
 
 # Changing the Texture Anchor Point{#changing-the-texture-anchor-point}

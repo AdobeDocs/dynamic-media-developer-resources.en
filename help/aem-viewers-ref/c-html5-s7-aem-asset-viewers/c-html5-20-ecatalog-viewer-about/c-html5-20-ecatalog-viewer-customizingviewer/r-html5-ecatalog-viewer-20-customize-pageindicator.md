@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Page indicator
 topic: Dynamic media
 uuid: 5e33c149-fdc7-419a-b5ff-b9be3f342d9f
-index: y
-internal: n
-snippet: y
 ---
 
 # Page indicator{#page-indicator}

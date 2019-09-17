@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Caption button
 topic: Dynamic media
 uuid: a03170e4-aaa9-4822-99dd-b9cf13206bbc
-index: y
-internal: n
-snippet: y
 ---
 
 # Caption button{#caption-button}

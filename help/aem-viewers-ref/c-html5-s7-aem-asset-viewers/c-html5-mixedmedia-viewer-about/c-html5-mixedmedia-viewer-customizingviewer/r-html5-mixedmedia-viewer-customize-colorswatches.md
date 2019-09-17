@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Color swatches
 topic: Dynamic media
 uuid: 868d938f-578a-4ecf-8a71-9569450492fb
-index: y
-internal: n
-snippet: y
 ---
 
 # Color swatches{#color-swatches}

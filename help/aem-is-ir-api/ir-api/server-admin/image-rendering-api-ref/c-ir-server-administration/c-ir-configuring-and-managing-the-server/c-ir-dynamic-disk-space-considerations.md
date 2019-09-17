@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Dynamic disk space considerations
 topic: Scene7 Image Serving - Image Rendering API
 uuid: fe8fd251-75fc-4c27-b58e-7b39a4f00118
-index: y
-internal: n
-snippet: y
 ---
 
 # Dynamic disk space considerations{#dynamic-disk-space-considerations}

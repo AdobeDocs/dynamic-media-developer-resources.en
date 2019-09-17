@@ -6,9 +6,6 @@ solution: Experience Manager
 title: removeAssetPermissions
 topic: Scene7 Image Production System API
 uuid: 5a351862-f412-4d89-90b7-9e70a26eacbc
-index: y
-internal: n
-snippet: y
 ---
 
 # removeAssetPermissions{#removeassetpermissions}

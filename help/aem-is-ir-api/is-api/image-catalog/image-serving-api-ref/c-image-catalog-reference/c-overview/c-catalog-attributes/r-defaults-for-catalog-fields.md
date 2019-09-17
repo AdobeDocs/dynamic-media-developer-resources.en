@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Defaults for catalog fields
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 8902766c-c2d9-433a-9c49-3182b063269f
-index: y
-internal: n
-snippet: y
 ---
 
 # Defaults for catalog fields{#defaults-for-catalog-fields}

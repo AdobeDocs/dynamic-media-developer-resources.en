@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Magic Wand Tool
 topic: Scene7 Image Authoring
 uuid: 1a8c33d3-a3c0-4394-89d0-c60375284c6a
-index: y
-internal: n
-snippet: y
 ---
 
 # The Magic Wand Tool{#the-magic-wand-tool}

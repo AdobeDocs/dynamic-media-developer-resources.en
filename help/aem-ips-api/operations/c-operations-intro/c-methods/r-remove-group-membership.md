@@ -6,9 +6,6 @@ solution: Experience Manager
 title: removeGroupMembership
 topic: Scene7 Image Production System API
 uuid: 553d91a3-73d6-4323-9436-a3ba13260a6c
-index: y
-internal: n
-snippet: y
 ---
 
 # removeGroupMembership{#removegroupmembership}

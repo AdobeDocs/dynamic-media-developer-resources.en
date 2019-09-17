@@ -6,9 +6,6 @@ solution: Experience Manager
 title: img
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 4809f916-0ccf-4a24-a93b-c51ed6203061
-index: y
-internal: n
-snippet: y
 ---
 
 # img{#img}

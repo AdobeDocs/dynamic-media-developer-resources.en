@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Scene7 Fall 2016 Release
 topic: Dynamic media
 uuid: 3fddda65-0c6e-48ec-bd60-7e0ca59421a8
-index: y
-internal: n
-snippet: y
 ---
 
 # Scene7 Fall 2016 Release{#scene-fall-release}

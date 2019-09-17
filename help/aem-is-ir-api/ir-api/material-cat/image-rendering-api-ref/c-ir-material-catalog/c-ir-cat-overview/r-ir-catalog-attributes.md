@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Catalog attributes
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 91e1fbf8-cb0f-4509-814c-40f7bdbd74db
-index: y
-internal: n
-snippet: y
 ---
 
 # Catalog attributes{#catalog-attributes}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Scanning the Pattern for the Full Repeat
 topic: Scene7 Image Authoring
 uuid: 67d1c2bd-cfaa-48af-83cf-e32f0a457009
-index: y
-internal: n
-snippet: y
 ---
 
 # Scanning the Pattern for the Full Repeat{#scanning-the-pattern-for-the-full-repeat}

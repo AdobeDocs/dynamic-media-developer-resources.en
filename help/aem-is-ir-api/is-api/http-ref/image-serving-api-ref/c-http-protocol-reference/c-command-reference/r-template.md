@@ -6,9 +6,6 @@ solution: Experience Manager
 title: template
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 59b37d60-1d0c-4d0b-a5a0-98d8bf9e9064
-index: y
-internal: n
-snippet: y
 ---
 
 # template{#template}

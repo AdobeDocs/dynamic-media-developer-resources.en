@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Swatches.direction
 topic: Dynamic media
 uuid: 1ec6fc6a-ef53-46bf-9a14-7f7cf960a592
-index: y
-internal: n
-snippet: y
 ---
 
 # Swatches.direction{#swatches-direction}

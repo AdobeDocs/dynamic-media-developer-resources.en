@@ -6,9 +6,6 @@ solution: Experience Manager
 title: SocialShare.bearing
 topic: Dynamic media
 uuid: 43217e2e-71c5-4c58-94e0-c6ed38e25a5b
-index: y
-internal: n
-snippet: y
 ---
 
 # SocialShare.bearing{#socialshare-bearing}

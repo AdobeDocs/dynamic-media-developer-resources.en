@@ -6,9 +6,6 @@ solution: Experience Manager
 title: SpinView.iconeffect
 topic: Dynamic media
 uuid: f568a98d-1b34-4a85-bd2f-e67a34b3a3e9
-index: y
-internal: n
-snippet: y
 ---
 
 # SpinView.iconeffect{#spinview-iconeffect}

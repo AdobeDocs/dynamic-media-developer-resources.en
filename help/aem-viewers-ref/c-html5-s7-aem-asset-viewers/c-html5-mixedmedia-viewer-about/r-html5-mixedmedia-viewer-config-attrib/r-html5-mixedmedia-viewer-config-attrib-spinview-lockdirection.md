@@ -6,9 +6,6 @@ solution: Experience Manager
 title: SpinView.lockdirection
 topic: Dynamic media
 uuid: b46a3d78-e381-4351-a4f4-a228386df527
-index: y
-internal: n
-snippet: y
 ---
 
 # SpinView.lockdirection{#spinview-lockdirection}

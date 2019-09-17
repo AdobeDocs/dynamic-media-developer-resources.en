@@ -6,9 +6,6 @@ solution: Experience Manager
 title: CarouselView.iscommand
 topic: Dynamic media
 uuid: 005b130c-9316-4cf9-ae59-9f8ef381dda3
-index: y
-internal: n
-snippet: y
 ---
 
 # CarouselView.iscommand{#carouselview-iscommand}

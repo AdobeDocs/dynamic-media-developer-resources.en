@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ThumbVertAlign
 topic: Scene7 Image Serving - Image Rendering API
 uuid: a90281eb-9681-4b4a-a94b-663f007fb32f
-index: y
-internal: n
-snippet: y
 ---
 
 # ThumbVertAlign{#thumbvertalign}

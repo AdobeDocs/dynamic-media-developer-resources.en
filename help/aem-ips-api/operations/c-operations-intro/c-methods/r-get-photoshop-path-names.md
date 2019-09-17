@@ -6,9 +6,6 @@ solution: Experience Manager
 title: getPhotoshopPathNames
 topic: Scene7 Image Production System API
 uuid: d3f1dea5-393b-498e-963d-37a4e38068a2
-index: y
-internal: n
-snippet: y
 ---
 
 # getPhotoshopPathNames{#getphotoshoppathnames}

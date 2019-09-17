@@ -6,9 +6,6 @@ solution: Experience Manager
 title: DefaultExt
 topic: Scene7 Image Serving - Image Rendering API
 uuid: aa245d18-15cc-41cb-a49d-757d74fe6231
-index: y
-internal: n
-snippet: y
 ---
 
 # DefaultExt{#defaultext}

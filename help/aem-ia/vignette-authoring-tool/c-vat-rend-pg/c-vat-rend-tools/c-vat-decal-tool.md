@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Decal Tool
 topic: Scene7 Image Authoring
 uuid: 83fbab47-5f77-4778-82b9-98a435c84ebb
-index: y
-internal: n
-snippet: y
 ---
 
 # The Decal Tool{#the-decal-tool}

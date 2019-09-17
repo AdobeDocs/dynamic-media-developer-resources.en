@@ -6,9 +6,6 @@ solution: Experience Manager
 title: WordInfo
 topic: Scene7 Image Production System API
 uuid: 616c7006-a7fe-4dbe-9532-1b296e774107
-index: y
-internal: n
-snippet: y
 ---
 
 # WordInfo{#wordinfo}

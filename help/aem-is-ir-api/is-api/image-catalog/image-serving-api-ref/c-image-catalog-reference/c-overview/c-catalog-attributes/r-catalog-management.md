@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Catalog management
 topic: Scene7 Image Serving - Image Rendering API
 uuid: ef714ec5-8133-4d6f-bed0-29553fdb2af3
-index: y
-internal: n
-snippet: y
 ---
 
 # Catalog management{#catalog-management}

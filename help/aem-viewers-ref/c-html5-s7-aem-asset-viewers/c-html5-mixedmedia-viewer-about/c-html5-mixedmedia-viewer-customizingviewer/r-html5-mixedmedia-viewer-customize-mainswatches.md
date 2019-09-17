@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Main swatches
 topic: Dynamic media
 uuid: a968372d-3d11-45d7-b17f-50ec998f5e88
-index: y
-internal: n
-snippet: y
 ---
 
 # Main swatches{#main-swatches}

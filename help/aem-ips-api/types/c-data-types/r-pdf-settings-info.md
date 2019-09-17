@@ -6,9 +6,6 @@ solution: Experience Manager
 title: PdfSettingsInfo
 topic: Scene7 Image Production System API
 uuid: abbcf82d-5b6e-4f2c-8940-88ea8651aa40
-index: y
-internal: n
-snippet: y
 ---
 
 # PdfSettingsInfo{#pdfsettingsinfo}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Creating a Camera Model
 topic: Scene7 Image Authoring
 uuid: 0f64cc56-2a3d-4a73-90dc-53840fafee7f
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating a Camera Model{#creating-a-camera-model}

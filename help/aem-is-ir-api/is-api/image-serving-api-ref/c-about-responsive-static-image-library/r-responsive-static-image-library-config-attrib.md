@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Command reference – Configuration attributes
 topic: Scene7 Image Serving - Image Rendering API
 uuid: a3d52680-2a28-40c8-9b5f-b1c252c88e4d
-index: y
-internal: n
-snippet: y
 ---
 
 # Command reference – Configuration attributes{#command-reference-configuration-attributes}

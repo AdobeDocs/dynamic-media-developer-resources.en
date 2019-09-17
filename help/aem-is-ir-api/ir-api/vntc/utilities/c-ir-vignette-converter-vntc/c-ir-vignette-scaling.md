@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Vignette scaling
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 08c8f826-7dce-4bcb-9323-4892262eb578
-index: y
-internal: n
-snippet: y
 ---
 
 # Vignette scaling{#vignette-scaling}

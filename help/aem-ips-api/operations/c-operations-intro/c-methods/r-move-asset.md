@@ -6,9 +6,6 @@ solution: Experience Manager
 title: moveAsset
 topic: Scene7 Image Production System API
 uuid: cabeb7b7-ab0b-44d0-ad90-623f76e4323d
-index: y
-internal: n
-snippet: y
 ---
 
 # moveAsset{#moveasset}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Previous slide
 topic: Dynamic media
 uuid: 733fa270-ce95-4493-9d31-f7f638d8368d
-index: y
-internal: n
-snippet: y
 ---
 
 # Previous slide{#previous-slide}

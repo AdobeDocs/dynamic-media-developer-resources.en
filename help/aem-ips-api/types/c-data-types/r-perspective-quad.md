@@ -6,9 +6,6 @@ solution: Experience Manager
 title: PerspectiveQuad
 topic: Scene7 Image Production System API
 uuid: e83b7b8c-995b-4ac0-ace5-491f7e98674d
-index: y
-internal: n
-snippet: y
 ---
 
 # PerspectiveQuad{#perspectivequad}

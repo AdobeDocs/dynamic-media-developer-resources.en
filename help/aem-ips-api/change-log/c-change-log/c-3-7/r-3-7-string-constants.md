@@ -6,9 +6,6 @@ solution: Experience Manager
 title: String Constants  New and Modified
 topic: Scene7 Image Production System API
 uuid: 5172190d-514f-4197-b8df-abb530d85d7a
-index: y
-internal: n
-snippet: y
 ---
 
 # String Constants: New and Modified{#string-constants-new-and-modified}

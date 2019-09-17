@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Server administration preface
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 182782f1-44a8-421d-bacc-f08dcf95f58b
-index: y
-internal: n
-snippet: y
 ---
 
 # Server administration preface{#server-administration-preface}

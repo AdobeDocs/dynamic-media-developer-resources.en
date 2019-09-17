@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Video scrubber
 topic: Dynamic media
 uuid: c68d3693-3772-470a-893a-b701ddec3414
-index: y
-internal: n
-snippet: y
 ---
 
 # Video scrubber{#video-scrubber}

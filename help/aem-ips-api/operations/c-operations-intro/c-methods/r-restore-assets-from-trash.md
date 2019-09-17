@@ -6,9 +6,6 @@ solution: Experience Manager
 title: restoreAssetsFromTrash
 topic: Scene7 Image Production System API
 uuid: f7424d4c-7807-4de9-ad0c-f96364bf7b82
-index: y
-internal: n
-snippet: y
 ---
 
 # restoreAssetsFromTrash{#restoreassetsfromtrash}

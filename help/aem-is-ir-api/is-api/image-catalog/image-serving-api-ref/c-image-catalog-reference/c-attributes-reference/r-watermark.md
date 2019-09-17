@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Watermark
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 18add7ab-0797-4ab3-a7e8-05c745abe605
-index: y
-internal: n
-snippet: y
 ---
 
 # Watermark{#watermark}

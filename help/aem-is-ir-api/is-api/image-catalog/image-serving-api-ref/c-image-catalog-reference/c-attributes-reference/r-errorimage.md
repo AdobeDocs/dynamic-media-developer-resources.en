@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ErrorImage
 topic: Scene7 Image Serving - Image Rendering API
 uuid: b071c0cd-e7b8-422b-9b23-d93f504d9ce5
-index: y
-internal: n
-snippet: y
 ---
 
 # ErrorImage{#errorimage}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Changing the Texture Origin and Size
 topic: Scene7 Image Authoring
 uuid: 461a5650-b9bf-40bd-83da-4bceb9dd93b2
-index: y
-internal: n
-snippet: y
 ---
 
 # Changing the Texture Origin and Size{#changing-the-texture-origin-and-size}

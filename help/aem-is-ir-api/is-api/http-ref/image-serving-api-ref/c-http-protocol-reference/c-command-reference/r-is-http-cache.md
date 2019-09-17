@@ -6,9 +6,6 @@ solution: Experience Manager
 title: cache
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 08f4e4d0-0f7d-48fe-956c-284af97c902e
-index: y
-internal: n
-snippet: y
 ---
 
 # cache{#cache}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: deleteAttr
 topic: Scene7 Image Serving - Image Rendering API
 uuid: b1176c1a-9ec3-4a95-9f91-97f9f168c252
-index: y
-internal: n
-snippet: y
 ---
 
 # deleteAttr{#deleteattr}

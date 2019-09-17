@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Advanced Flowline Mesh Techniques
 topic: Scene7 Image Authoring
 uuid: 1ecc237f-63fe-4ad6-97eb-a0f98a39155b
-index: y
-internal: n
-snippet: y
 ---
 
 # Advanced Flowline Mesh Techniques{#advanced-flowline-mesh-techniques}

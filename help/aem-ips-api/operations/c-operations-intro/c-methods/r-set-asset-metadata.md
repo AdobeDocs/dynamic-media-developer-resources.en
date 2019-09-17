@@ -6,9 +6,6 @@ solution: Experience Manager
 title: setAssetMetadata
 topic: Scene7 Image Production System API
 uuid: 17fe8277-a164-4f91-af96-ea43d41bd4f2
-index: y
-internal: n
-snippet: y
 ---
 
 # setAssetMetadata{#setassetmetadata}

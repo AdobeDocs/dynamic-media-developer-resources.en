@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Image Serving HTTP encoding
 topic: Scene7 Image Serving - Image Rendering API
 uuid: e7fb368b-060a-439e-95a1-16b94d4796dc
-index: y
-internal: n
-snippet: y
 ---
 
 # Image Serving HTTP encoding{#image-serving-http-encoding}

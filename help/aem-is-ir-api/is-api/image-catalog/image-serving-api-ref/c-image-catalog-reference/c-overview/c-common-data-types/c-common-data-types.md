@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Common data types
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 125a4044-7699-4c4f-9dea-a2934d919309
-index: y
-internal: n
-snippet: y
 ---
 
 # Common data types{#common-data-types}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Layer placement
 topic: Scene7 Image Serving - Image Rendering API
 uuid: d9d778f2-13dd-4ea1-a703-52eac70bb3d8
-index: y
-internal: n
-snippet: y
 ---
 
 # Layer placement{#layer-placement}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Document (text box) properties
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 743a773a-83b0-4667-9c67-4cefbfe77bbd
-index: y
-internal: n
-snippet: y
 ---
 
 # Document (text box) properties{#document-text-box-properties}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: getFolders
 topic: Scene7 Image Production System API
 uuid: 06e9d745-b711-43e3-8dc6-93da66b981b1
-index: y
-internal: n
-snippet: y
 ---
 
 # getFolders{#getfolders}

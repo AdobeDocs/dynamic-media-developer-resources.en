@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ZoomView.singleclick
 topic: Dynamic media
 uuid: 919dd48e-b621-4dbb-9cae-f2d0f91f45a9
-index: y
-internal: n
-snippet: y
 ---
 
 # ZoomView.singleclick{#zoomview-singleclick}

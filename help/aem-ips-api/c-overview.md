@@ -6,9 +6,6 @@ solution: Experience Manager
 title: About Scene7 Image Production System API
 topic: Scene7 Image Production System API
 uuid: 22f5a601-165a-4dc2-b545-2aa1d6f5a370
-index: y
-internal: n
-snippet: y
 ---
 
 # About Scene7 Image Production System API{#about-scene-image-production-system-api}

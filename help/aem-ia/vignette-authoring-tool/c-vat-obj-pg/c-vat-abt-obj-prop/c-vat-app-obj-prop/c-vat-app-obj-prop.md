@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Appliance Object properties
 topic: Scene7 Image Authoring
 uuid: 39d87cf9-ae9c-493a-abb7-0ca605831084
-index: y
-internal: n
-snippet: y
 ---
 
 # Appliance Object properties{#appliance-object-properties}

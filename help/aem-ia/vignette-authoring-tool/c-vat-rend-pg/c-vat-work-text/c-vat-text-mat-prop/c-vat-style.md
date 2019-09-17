@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Style File
 topic: Scene7 Image Authoring
 uuid: 72b6bf6e-79c0-454f-8f5a-ae854c14673e
-index: y
-internal: n
-snippet: y
 ---
 
 # Style File{#style-file}

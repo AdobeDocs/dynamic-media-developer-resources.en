@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Image Authoring Window
 topic: Scene7 Image Authoring
 uuid: 87640ac8-143f-40ac-aac4-921f01b1bc06
-index: y
-internal: n
-snippet: y
 ---
 
 # The Image Authoring Window{#the-image-authoring-window}

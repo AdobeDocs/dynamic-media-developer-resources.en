@@ -6,9 +6,6 @@ solution: Experience Manager
 title: textAttr
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 07b3d263-2ed6-4363-83e1-3b841e9967c5
-index: y
-internal: n
-snippet: y
 ---
 
 # textAttr{#textattr}

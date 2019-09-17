@@ -6,9 +6,6 @@ solution: Experience Manager
 title: getPublishContexts
 topic: Scene7 Image Production System API
 uuid: 7eb90f2c-2bfc-4d61-8a24-831964ed9182
-index: y
-internal: n
-snippet: y
 ---
 
 # getPublishContexts{#getpublishcontexts}

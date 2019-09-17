@@ -6,9 +6,6 @@ solution: Experience Manager
 title: SetPropertySetPermissions
 topic: Scene7 Image Production System API
 uuid: b0f1ddb3-2051-4f14-a791-f06efcbfaef2
-index: y
-internal: n
-snippet: y
 ---
 
 # SetPropertySetPermissions{#setpropertysetpermissions}

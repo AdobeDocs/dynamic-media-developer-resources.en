@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Selecting a Color with a Magic Wand Tool
 topic: Scene7 Image Authoring
 uuid: e8728c99-354c-46a7-b5fa-17b201319c1c
-index: y
-internal: n
-snippet: y
 ---
 
 # Selecting a Color with a Magic Wand Tool{#selecting-a-color-with-a-magic-wand-tool}

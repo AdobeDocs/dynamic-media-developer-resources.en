@@ -6,9 +6,6 @@ solution: Experience Manager
 title: External video support
 topic: Dynamic media
 uuid: 24739a5a-3a5d-49b8-9a15-bcf3a95fc192
-index: y
-internal: n
-snippet: y
 ---
 
 # External video support{#external-video-support}

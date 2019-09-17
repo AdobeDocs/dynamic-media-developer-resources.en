@@ -6,9 +6,6 @@ solution: Experience Manager
 title: searchServerUrl
 topic: Dynamic media
 uuid: 2fe19821-923a-4156-9c52-48769467179d
-index: y
-internal: n
-snippet: y
 ---
 
 # searchServerUrl{#searchserverurl}

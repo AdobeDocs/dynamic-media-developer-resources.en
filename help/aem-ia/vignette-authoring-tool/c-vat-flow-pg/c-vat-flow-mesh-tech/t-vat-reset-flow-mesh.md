@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Resetting the Flowline Mesh
 topic: Scene7 Image Authoring
 uuid: 8f4401cb-c30a-418f-8803-3a4c0370c043
-index: y
-internal: n
-snippet: y
 ---
 
 # Resetting the Flowline Mesh{#resetting-the-flowline-mesh}

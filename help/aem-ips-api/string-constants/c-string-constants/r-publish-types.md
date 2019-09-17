@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Publish Types
 topic: Scene7 Image Production System API
 uuid: c931c973-9b2b-4ccd-87ac-e424c61148dc
-index: y
-internal: n
-snippet: y
 ---
 
 # Publish Types{#publish-types}

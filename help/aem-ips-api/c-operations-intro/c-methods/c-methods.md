@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Operation parameters
 topic: Scene7 Image Production System API
 uuid: 2515588d-e2eb-4ea6-ae9c-d6a873c712e8
-index: y
-internal: n
-snippet: y
 ---
 
 # Operation parameters{#operation-parameters}

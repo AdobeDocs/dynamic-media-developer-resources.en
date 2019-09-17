@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ErrorDetail
 topic: Scene7 Image Serving - Image Rendering API
 uuid: aab11640-95d7-427d-b79f-c477b2c9047e
-index: y
-internal: n
-snippet: y
 ---
 
 # ErrorDetail{#errordetail}

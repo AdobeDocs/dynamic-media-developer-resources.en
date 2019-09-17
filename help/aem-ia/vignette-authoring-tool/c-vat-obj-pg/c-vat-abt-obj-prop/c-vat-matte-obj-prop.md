@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Highlight Matte Object Properties
 topic: Scene7 Image Authoring
 uuid: c542844a-9f42-45c8-bc0c-dd40b405e26c
-index: y
-internal: n
-snippet: y
 ---
 
 # Highlight Matte Object Properties{#highlight-matte-object-properties}

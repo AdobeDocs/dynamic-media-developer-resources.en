@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Gloss effects
 topic: Scene7 Image Serving - Image Rendering API
 uuid: e4424b04-2d8c-47e5-8474-b5271c923451
-index: y
-internal: n
-snippet: y
 ---
 
 # Gloss effects{#gloss-effects}

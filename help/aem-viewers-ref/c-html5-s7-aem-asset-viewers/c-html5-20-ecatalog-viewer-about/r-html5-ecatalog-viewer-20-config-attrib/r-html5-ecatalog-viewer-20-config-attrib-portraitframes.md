@@ -6,9 +6,6 @@ solution: Experience Manager
 title: portraitFrames
 topic: Dynamic media
 uuid: dd3777e1-4369-4f7e-a055-970b8eb3b018
-index: y
-internal: n
-snippet: y
 ---
 
 # portraitFrames{#portraitframes}

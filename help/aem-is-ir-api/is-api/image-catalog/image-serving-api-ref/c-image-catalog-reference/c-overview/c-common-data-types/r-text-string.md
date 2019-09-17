@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Text string
 topic: Scene7 Image Serving - Image Rendering API
 uuid: d37ff12d-5c7a-4bb5-af61-44de85a86aa0
-index: y
-internal: n
-snippet: y
 ---
 
 # Text string{#text-string}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Object ID translation
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 8b4c2f44-033a-428a-b505-af389865c70a
-index: y
-internal: n
-snippet: y
 ---
 
 # Object ID translation{#object-id-translation}

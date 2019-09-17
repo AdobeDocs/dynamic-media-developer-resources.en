@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Changing an Object's Type
 topic: Scene7 Image Authoring
 uuid: fca427c6-0264-41f9-b1a9-e81466e004ba
-index: y
-internal: n
-snippet: y
 ---
 
 # Changing an Object's Type{#changing-an-object-s-type}

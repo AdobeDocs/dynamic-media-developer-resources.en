@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Mask
 topic: Scene7 Image Production System API
 uuid: 06ac0f76-13ce-434b-ac60-6a2af9648f92
-index: y
-internal: n
-snippet: y
 ---
 
 # Mask{#mask}

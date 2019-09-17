@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Cabinet Object properties
 topic: Scene7 Image Authoring
 uuid: 71c1de14-5cdc-40bb-83e1-ee0b65a3195c
-index: y
-internal: n
-snippet: y
 ---
 
 # Cabinet Object properties{#cabinet-object-properties}

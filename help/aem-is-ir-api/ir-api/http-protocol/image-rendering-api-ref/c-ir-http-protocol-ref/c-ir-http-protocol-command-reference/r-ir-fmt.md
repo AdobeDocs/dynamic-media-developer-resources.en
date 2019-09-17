@@ -6,9 +6,6 @@ solution: Experience Manager
 title: fmt
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 7c589119-d1b3-460f-acbd-5e8d10d0d976
-index: y
-internal: n
-snippet: y
 ---
 
 # fmt{#fmt}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Response cache validation
 topic: Scene7 Image Serving - Image Rendering API
 uuid: d1aad5ae-f0fa-489b-a48b-b0ac8c8f43bb
-index: y
-internal: n
-snippet: y
 ---
 
 # Response cache validation{#response-cache-validation}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Info panel popup
 topic: Dynamic media
 uuid: 4b44f48b-eabc-4a83-906a-dc7df13b2e74
-index: y
-internal: n
-snippet: y
 ---
 
 # Info panel popup{#info-panel-popup}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Material catalogs *
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 2a2f371e-0982-47c7-b3da-678a5ff6c7a7
-index: y
-internal: n
-snippet: y
 ---
 
 # Material catalogs *{#material-catalogs}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: To Make Brush Softer
 topic: Scene7 Image Authoring
 uuid: c4af4ffd-ade9-4a90-8afb-19c5909f67ac
-index: y
-internal: n
-snippet: y
 ---
 
 # To Make Brush Softer{#to-make-brush-softer}

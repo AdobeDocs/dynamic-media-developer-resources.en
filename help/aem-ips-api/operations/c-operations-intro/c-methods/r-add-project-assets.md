@@ -6,9 +6,6 @@ solution: Experience Manager
 title: addProjectAssets
 topic: Scene7 Image Production System API
 uuid: 48abea17-058e-4469-bb16-0abee8ef5214
-index: y
-internal: n
-snippet: y
 ---
 
 # addProjectAssets{#addprojectassets}

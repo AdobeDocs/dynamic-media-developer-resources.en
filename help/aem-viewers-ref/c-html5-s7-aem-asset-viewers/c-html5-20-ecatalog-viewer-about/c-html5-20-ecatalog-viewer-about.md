@@ -7,9 +7,6 @@ solution: Experience Manager
 title: eCatalog
 topic: Dynamic media
 uuid: 6950306d-637e-4932-ae96-c5366e5477f3
-index: y
-internal: n
-snippet: y
 ---
 
 # eCatalog{#ecatalog}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Managing content
 topic: Scene7 Image Serving - Image Rendering API
 uuid: fa6b3c0a-58bd-4a4e-9518-ca567e57301f
-index: y
-internal: n
-snippet: y
 ---
 
 # Managing content{#managing-content}

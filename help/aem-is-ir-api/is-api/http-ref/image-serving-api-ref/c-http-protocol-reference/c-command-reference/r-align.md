@@ -6,9 +6,6 @@ solution: Experience Manager
 title: align
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 91940bd4-8e2b-4949-a76d-31cd238783bc
-index: y
-internal: n
-snippet: y
 ---
 
 # align{#align}

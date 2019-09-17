@@ -6,9 +6,6 @@ solution: Experience Manager
 title: InteractiveSwatches.enabledragging
 topic: Dynamic media
 uuid: 9a93e6b3-3441-4987-b9e6-a964dbf2247d
-index: y
-internal: n
-snippet: y
 ---
 
 # InteractiveSwatches.enabledragging{#interactiveswatches-enabledragging}

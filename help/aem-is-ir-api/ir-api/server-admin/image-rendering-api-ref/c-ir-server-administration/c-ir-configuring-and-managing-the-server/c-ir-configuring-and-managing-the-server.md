@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Configuring and managing the server
 topic: Scene7 Image Serving - Image Rendering API
 uuid: cd344495-cb41-440e-b3f8-5b5812e81a9c
-index: y
-internal: n
-snippet: y
 ---
 
 # Configuring and managing the server{#configuring-and-managing-the-server}

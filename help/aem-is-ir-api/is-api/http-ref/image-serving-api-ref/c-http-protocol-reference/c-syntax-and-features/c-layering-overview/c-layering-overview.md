@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Layering overview
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 74c0855b-050a-4631-adea-9488bca67fd2
-index: y
-internal: n
-snippet: y
 ---
 
 # Layering overview{#layering-overview}

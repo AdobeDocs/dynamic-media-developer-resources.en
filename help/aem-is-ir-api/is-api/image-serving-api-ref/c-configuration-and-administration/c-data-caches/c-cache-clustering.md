@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Cache clustering
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 347165d6-a9e7-406e-81a8-8a91f745ce27
-index: y
-internal: n
-snippet: y
 ---
 
 # Cache clustering{#cache-clustering}

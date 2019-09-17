@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Flyout Zoom View
 topic: Dynamic media
 uuid: c4c94432-7b6f-40a8-ae5f-9423234f3656
-index: y
-internal: n
-snippet: y
 ---
 
 # Flyout Zoom View{#flyout-zoom-view}

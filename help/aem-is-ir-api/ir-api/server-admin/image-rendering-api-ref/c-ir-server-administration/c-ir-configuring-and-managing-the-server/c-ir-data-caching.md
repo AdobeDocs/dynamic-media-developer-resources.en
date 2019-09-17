@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Data caching
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 630ed3f4-3a0d-4de4-828f-45ffc14e6bb7
-index: y
-internal: n
-snippet: y
 ---
 
 # Data caching{#data-caching}

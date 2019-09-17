@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Adjusting Your View
 topic: Scene7 Image Authoring
 uuid: a3b0f3b7-5388-42ab-892a-22f5ea342b09
-index: y
-internal: n
-snippet: y
 ---
 
 # Adjusting Your View{#adjusting-your-view}

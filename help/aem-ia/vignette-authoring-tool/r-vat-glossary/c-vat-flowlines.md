@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Flowlines
 topic: Scene7 Image Authoring
 uuid: 185d7eab-76c6-45e5-bab9-2294b29a05b1
-index: y
-internal: n
-snippet: y
 ---
 
 # Flowlines{#flowlines}

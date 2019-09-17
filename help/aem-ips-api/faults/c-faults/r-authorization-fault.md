@@ -6,9 +6,6 @@ solution: Experience Manager
 title: authorizationFault
 topic: Scene7 Image Production System API
 uuid: 8b8df22a-aa76-4cbd-9c14-89969c5f9620
-index: y
-internal: n
-snippet: y
 ---
 
 # authorizationFault{#authorizationfault}

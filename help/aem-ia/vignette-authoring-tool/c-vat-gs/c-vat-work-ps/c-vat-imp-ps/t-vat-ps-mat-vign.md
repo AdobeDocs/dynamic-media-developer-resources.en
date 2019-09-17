@@ -6,9 +6,6 @@ solution: Experience Manager
 title: To Use Material from Photoshop in Your Vignette
 topic: Scene7 Image Authoring
 uuid: d51041df-c195-47d5-baf8-189b69aced89
-index: y
-internal: n
-snippet: y
 ---
 
 # To Use Material from Photoshop in Your Vignette{#to-use-material-from-photoshop-in-your-vignette}

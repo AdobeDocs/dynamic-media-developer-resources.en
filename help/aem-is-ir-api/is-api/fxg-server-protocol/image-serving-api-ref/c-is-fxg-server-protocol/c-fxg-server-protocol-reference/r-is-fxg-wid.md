@@ -6,9 +6,6 @@ solution: Experience Manager
 title: wid
 topic: Scene7 Image Serving - Image Rendering API
 uuid: b59b936c-abab-4f9d-95ca-0a09743ba0fb
-index: y
-internal: n
-snippet: y
 ---
 
 # wid{#wid}

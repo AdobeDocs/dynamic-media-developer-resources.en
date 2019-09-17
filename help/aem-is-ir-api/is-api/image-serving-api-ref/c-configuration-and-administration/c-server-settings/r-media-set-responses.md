@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Media set responses
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 9fa6a38a-cd1f-499b-a2b6-e1a9a6c69ed0
-index: y
-internal: n
-snippet: y
 ---
 
 # Media set responses{#media-set-responses}

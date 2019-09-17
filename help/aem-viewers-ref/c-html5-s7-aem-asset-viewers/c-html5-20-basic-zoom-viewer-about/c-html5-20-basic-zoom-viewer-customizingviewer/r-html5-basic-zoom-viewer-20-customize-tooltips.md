@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Tooltips
 topic: Dynamic media
 uuid: fb32c536-800d-44fe-8fd6-8f57524729c3
-index: y
-internal: n
-snippet: y
 ---
 
 # Tooltips{#tooltips}

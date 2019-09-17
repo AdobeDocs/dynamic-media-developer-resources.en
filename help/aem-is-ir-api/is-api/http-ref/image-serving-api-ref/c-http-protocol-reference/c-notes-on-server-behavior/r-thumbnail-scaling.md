@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Thumbnail scaling
 topic: Scene7 Image Serving - Image Rendering API
 uuid: df935d40-84c6-4018-9e41-faef4653ff1f
-index: y
-internal: n
-snippet: y
 ---
 
 # Thumbnail scaling{#thumbnail-scaling}

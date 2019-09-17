@@ -6,9 +6,6 @@ solution: Experience Manager
 title: MetadataField
 topic: Scene7 Image Production System API
 uuid: 6156be6e-efa5-4e90-928d-2ab936668154
-index: y
-internal: n
-snippet: y
 ---
 
 # MetadataField{#metadatafield}

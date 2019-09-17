@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Installing for the first time
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 3b28fbc7-6bc9-4619-8f92-c0ae610b8b30
-index: y
-internal: n
-snippet: y
 ---
 
 # Installing for the first time{#installing-for-the-first-time}

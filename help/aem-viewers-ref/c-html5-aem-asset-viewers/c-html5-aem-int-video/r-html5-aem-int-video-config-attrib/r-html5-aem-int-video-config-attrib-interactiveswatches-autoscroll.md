@@ -6,9 +6,6 @@ solution: Experience Manager
 title: InteractiveSwatches.autoscroll
 topic: Dynamic media
 uuid: 050e932b-089f-448e-a9de-38cc04c55a49
-index: y
-internal: n
-snippet: y
 ---
 
 # InteractiveSwatches.autoscroll{#interactiveswatches-autoscroll}

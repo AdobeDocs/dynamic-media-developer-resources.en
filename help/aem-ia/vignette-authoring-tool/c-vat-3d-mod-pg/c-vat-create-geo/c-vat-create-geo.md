@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Creating Geometry
 topic: Scene7 Image Authoring
 uuid: 990b9a3c-a22a-4535-9253-19b2857dc5d7
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating Geometry{#creating-geometry}

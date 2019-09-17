@@ -6,9 +6,6 @@ solution: Experience Manager
 title: UnsharpMaskOptions
 topic: Scene7 Image Production System API
 uuid: 73073de0-41b6-471c-8887-f6b94ed2af90
-index: y
-internal: n
-snippet: y
 ---
 
 # UnsharpMaskOptions{#unsharpmaskoptions}

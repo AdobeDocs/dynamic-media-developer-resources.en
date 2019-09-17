@@ -6,9 +6,6 @@ solution: Experience Manager
 title: EmbedShare.embedsizes
 topic: Dynamic media
 uuid: ffac9833-a048-4629-902f-832963431ae4
-index: y
-internal: n
-snippet: y
 ---
 
 # EmbedShare.embedsizes{#embedshare-embedsizes}

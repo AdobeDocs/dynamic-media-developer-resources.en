@@ -6,9 +6,6 @@ solution: Experience Manager
 title: deleteMetadataField
 topic: Scene7 Image Production System API
 uuid: 06ec434a-2793-4227-ac93-ae3871c38ab9
-index: y
-internal: n
-snippet: y
 ---
 
 # deleteMetadataField{#deletemetadatafield}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: maskUse
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 2c70da87-f869-495a-be50-226a4516e002
-index: y
-internal: n
-snippet: y
 ---
 
 # maskUse{#maskuse}

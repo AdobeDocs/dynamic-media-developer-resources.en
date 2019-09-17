@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Video attributes
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 7fb5edce-f88a-4eec-b314-070445f263b1
-index: y
-internal: n
-snippet: y
 ---
 
 # Video attributes{#video-attributes}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ThumbnailGridView.maxloadradius
 topic: Dynamic media
 uuid: 13ea3917-346a-47c3-a535-f771910fa1c3
-index: y
-internal: n
-snippet: y
 ---
 
 # ThumbnailGridView.maxloadradius{#thumbnailgridview-maxloadradius}

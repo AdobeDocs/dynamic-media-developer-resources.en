@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Embed share
 topic: Dynamic media
 uuid: 768e8eb5-ec35-4028-be96-268f8220fe07
-index: y
-internal: n
-snippet: y
 ---
 
 # Embed share{#embed-share}

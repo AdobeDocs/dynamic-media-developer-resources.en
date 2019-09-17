@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Creating Curves in Flowlines
 topic: Scene7 Image Authoring
 uuid: cbab516c-7784-452d-a6be-5361bb217f49
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating Curves in Flowlines{#creating-curves-in-flowlines}

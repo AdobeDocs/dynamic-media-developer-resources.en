@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Wall Sub-selection Options
 topic: Scene7 Image Authoring
 uuid: 309243c2-ce3c-48b7-b825-62944b5181e5
-index: y
-internal: n
-snippet: y
 ---
 
 # Wall Sub-selection Options{#wall-sub-selection-options}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: getProjects
 topic: Scene7 Image Production System API
 uuid: 46ec9a5d-4414-4c9c-aaf2-0db654204b61
-index: y
-internal: n
-snippet: y
 ---
 
 # getProjects{#getprojects}

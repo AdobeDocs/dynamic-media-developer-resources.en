@@ -6,9 +6,6 @@ solution: Experience Manager
 title: updateViewerConfigSettings
 topic: Scene7 Image Production System API
 uuid: ad4af874-5ca4-4182-868e-afa48b1cd2b6
-index: y
-internal: n
-snippet: y
 ---
 
 # updateViewerConfigSettings{#updateviewerconfigsettings}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: getPropertySetType
 topic: Scene7 Image Production System API
 uuid: 203fa949-a81e-455a-a83e-576b6f65e3af
-index: y
-internal: n
-snippet: y
 ---
 
 # getPropertySetType{#getpropertysettype}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Serving static (non-image) content
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 4ec483fe-68a4-4ae2-b5ce-730229a9bc15
-index: y
-internal: n
-snippet: y
 ---
 
 # Serving static (non-image) content{#serving-static-non-image-content}

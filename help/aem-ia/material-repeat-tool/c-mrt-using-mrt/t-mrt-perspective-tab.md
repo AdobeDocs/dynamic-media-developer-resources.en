@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Using the Perspective Tab
 topic: Scene7 Image Authoring
 uuid: c0f74035-d4b4-4454-be03-d8e09d30e618
-index: y
-internal: n
-snippet: y
 ---
 
 # Using the Perspective Tab{#using-the-perspective-tab}

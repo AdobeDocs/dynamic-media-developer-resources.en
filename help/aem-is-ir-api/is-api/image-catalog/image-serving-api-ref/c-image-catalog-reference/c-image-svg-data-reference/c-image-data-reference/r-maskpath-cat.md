@@ -6,9 +6,6 @@ solution: Experience Manager
 title: MaskPath
 topic: Scene7 Image Serving - Image Rendering API
 uuid: a2d1f08a-0a26-41a6-9be2-f5cc2afb15c4
-index: y
-internal: n
-snippet: y
 ---
 
 # MaskPath{#maskpath}

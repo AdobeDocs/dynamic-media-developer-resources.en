@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Assigning Objects to Planes
 topic: Scene7 Image Authoring
 uuid: b082160c-f962-4643-b561-65b166729b20
-index: y
-internal: n
-snippet: y
 ---
 
 # Assigning Objects to Planes{#assigning-objects-to-planes}

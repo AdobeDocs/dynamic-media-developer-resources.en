@@ -6,9 +6,6 @@ solution: Experience Manager
 title: About the Sketch Page
 topic: Scene7 Image Authoring
 uuid: 5aec454a-5c07-4bd1-8bce-d765607490f5
-index: y
-internal: n
-snippet: y
 ---
 
 # About the Sketch Page{#about-the-sketch-page}

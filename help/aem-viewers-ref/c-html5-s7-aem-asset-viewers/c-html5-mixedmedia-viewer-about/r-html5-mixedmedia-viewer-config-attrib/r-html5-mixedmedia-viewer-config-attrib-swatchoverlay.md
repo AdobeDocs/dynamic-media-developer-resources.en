@@ -6,9 +6,6 @@ solution: Experience Manager
 title: swatchoverlay
 topic: Dynamic media
 uuid: 2226a368-5db5-42a1-94be-b219560e3891
-index: y
-internal: n
-snippet: y
 ---
 
 # swatchoverlay{#swatchoverlay}

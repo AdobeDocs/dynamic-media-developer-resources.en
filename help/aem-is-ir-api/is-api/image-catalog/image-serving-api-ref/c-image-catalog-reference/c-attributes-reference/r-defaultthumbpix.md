@@ -6,9 +6,6 @@ solution: Experience Manager
 title: DefaultThumbPix
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 7b310aab-6d38-45f3-a3e7-b074a8e7a795
-index: y
-internal: n
-snippet: y
 ---
 
 # DefaultThumbPix{#defaultthumbpix}

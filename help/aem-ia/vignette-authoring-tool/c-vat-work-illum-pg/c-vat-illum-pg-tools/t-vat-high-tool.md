@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Highlight Tool
 topic: Scene7 Image Authoring
 uuid: 0af5694d-1d0f-4b67-983a-173e90dadba0
-index: y
-internal: n
-snippet: y
 ---
 
 # The Highlight Tool{#the-highlight-tool}

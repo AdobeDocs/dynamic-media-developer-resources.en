@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Using Edge Recognition for Masks
 topic: Scene7 Image Authoring
 uuid: fc2eb97a-8d8b-451b-8ff2-975b5d6995be
-index: y
-internal: n
-snippet: y
 ---
 
 # Using Edge Recognition for Masks{#using-edge-recognition-for-masks}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Advanced Render settings
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 18e7f3cf-4d30-445c-813c-546a91987b99
-index: y
-internal: n
-snippet: y
 ---
 
 # Advanced Render settings{#advanced-render-settings}

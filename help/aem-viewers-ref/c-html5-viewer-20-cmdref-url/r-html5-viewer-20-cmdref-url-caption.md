@@ -6,9 +6,6 @@ solution: Experience Manager
 title: caption
 topic: Dynamic media
 uuid: e5a715c4-9b5b-48fc-8228-5e7416e2b71a
-index: y
-internal: n
-snippet: y
 ---
 
 # caption{#caption}

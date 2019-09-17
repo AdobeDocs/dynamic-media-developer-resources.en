@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Javascript API reference for Spin Viewer
 topic: Dynamic media
 uuid: c38d3336-504b-4b14-9a6a-ba8eab9e2f3e
-index: y
-internal: n
-snippet: y
 ---
 
 # Javascript API reference for Spin Viewer{#javascript-api-reference-for-spin-viewer}

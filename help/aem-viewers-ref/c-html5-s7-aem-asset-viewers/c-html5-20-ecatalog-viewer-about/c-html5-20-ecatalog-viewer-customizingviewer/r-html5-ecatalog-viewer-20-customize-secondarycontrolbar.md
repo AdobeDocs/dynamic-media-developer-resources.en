@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Secondary control bar
 topic: Dynamic media
 uuid: 9a91da6b-0d9b-4b4c-9659-86a64e624947
-index: y
-internal: n
-snippet: y
 ---
 
 # Secondary control bar{#secondary-control-bar}

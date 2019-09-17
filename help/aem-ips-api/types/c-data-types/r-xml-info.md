@@ -6,9 +6,6 @@ solution: Experience Manager
 title: XmlInfo
 topic: Scene7 Image Production System API
 uuid: 6871adc5-35cf-488f-abcc-20d766514ebd
-index: y
-internal: n
-snippet: y
 ---
 
 # XmlInfo{#xmlinfo}

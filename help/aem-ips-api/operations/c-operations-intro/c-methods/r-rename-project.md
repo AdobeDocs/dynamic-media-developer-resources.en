@@ -6,9 +6,6 @@ solution: Experience Manager
 title: renameProject
 topic: Scene7 Image Production System API
 uuid: 6303c493-a6fe-4b32-80c3-947aba4190f7
-index: y
-internal: n
-snippet: y
 ---
 
 # renameProject{#renameproject}

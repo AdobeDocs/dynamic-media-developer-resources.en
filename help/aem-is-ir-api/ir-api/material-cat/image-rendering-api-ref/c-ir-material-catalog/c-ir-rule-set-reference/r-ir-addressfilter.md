@@ -6,9 +6,6 @@ solution: Experience Manager
 title: addressfilter
 topic: Scene7 Image Serving - Image Rendering API
 uuid: e5702c6e-a49c-4da6-a29c-26e16bfdcad1
-index: y
-internal: n
-snippet: y
 ---
 
 # addressfilter{#addressfilter}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Panels tab for objects
 topic: Scene7 Image Authoring
 uuid: 9a192b70-ff17-4361-848c-5d0ba579c5b6
-index: y
-internal: n
-snippet: y
 ---
 
 # Panels tab for objects{#panels-tab-for-objects}

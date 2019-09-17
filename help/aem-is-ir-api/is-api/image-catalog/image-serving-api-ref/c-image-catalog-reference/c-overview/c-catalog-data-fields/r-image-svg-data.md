@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Image_SVG data
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 6f9595b3-d448-4aa1-87fe-edddfdd48873
-index: y
-internal: n
-snippet: y
 ---
 
 # Image_SVG data{#image-svg-data}

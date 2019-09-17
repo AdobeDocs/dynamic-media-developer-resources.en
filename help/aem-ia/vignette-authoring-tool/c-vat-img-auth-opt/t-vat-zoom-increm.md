@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Changing the Zoom Increment
 topic: Scene7 Image Authoring
 uuid: 6e702064-961e-4773-b4f0-5bd3f5b047ef
-index: y
-internal: n
-snippet: y
 ---
 
 # Changing the Zoom Increment{#changing-the-zoom-increment}

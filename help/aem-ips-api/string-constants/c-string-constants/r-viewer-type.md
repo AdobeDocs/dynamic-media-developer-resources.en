@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Viewer Type
 topic: Scene7 Image Production System API
 uuid: 95b438db-35a8-45cf-8ec0-4a85e8b869c5
-index: y
-internal: n
-snippet: y
 ---
 
 # Viewer Type{#viewer-type}

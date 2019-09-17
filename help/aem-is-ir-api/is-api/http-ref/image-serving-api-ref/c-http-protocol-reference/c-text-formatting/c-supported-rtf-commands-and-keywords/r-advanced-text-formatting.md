@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Advanced text formatting
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 340166a5-5aef-4081-9114-a715cde68891
-index: y
-internal: n
-snippet: y
 ---
 
 # Advanced text formatting{#advanced-text-formatting}

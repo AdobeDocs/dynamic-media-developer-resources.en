@@ -6,9 +6,6 @@ solution: Experience Manager
 title: PageView.transition
 topic: Dynamic media
 uuid: f84da456-ac02-4037-b1fd-7440823eb1ef
-index: y
-internal: n
-snippet: y
 ---
 
 # PageView.transition{#pageview-transition}

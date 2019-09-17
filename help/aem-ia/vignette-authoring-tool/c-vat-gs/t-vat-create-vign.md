@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Creating a Vignette
 topic: Scene7 Image Authoring
 uuid: c5464b09-d82f-4d14-8392-ca1756761cc8
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating a Vignette{#creating-a-vignette}

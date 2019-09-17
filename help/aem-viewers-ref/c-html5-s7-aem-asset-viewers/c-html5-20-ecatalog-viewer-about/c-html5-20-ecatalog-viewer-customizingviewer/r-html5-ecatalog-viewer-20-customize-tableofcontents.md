@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Table of contents
 topic: Dynamic media
 uuid: e5da89b4-fd3f-41ab-bc55-d43c2999d4b7
-index: y
-internal: n
-snippet: y
 ---
 
 # Table of contents{#table-of-contents}

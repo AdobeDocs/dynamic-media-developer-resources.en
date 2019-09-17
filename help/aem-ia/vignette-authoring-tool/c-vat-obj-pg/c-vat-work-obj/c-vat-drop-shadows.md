@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Working with Drop Shadows
 topic: Scene7 Image Authoring
 uuid: b38cb6e6-2514-4ad0-9922-4d99c60f3bfc
-index: y
-internal: n
-snippet: y
 ---
 
 # Working with Drop Shadows{#working-with-drop-shadows}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: jpegSize
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 832163ca-0554-481d-b87f-bf322f415274
-index: y
-internal: n
-snippet: y
 ---
 
 # jpegSize{#jpegsize}

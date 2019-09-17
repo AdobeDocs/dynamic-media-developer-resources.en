@@ -6,9 +6,6 @@ solution: Experience Manager
 title: FlyoutZoomView.frametransition
 topic: Dynamic media
 uuid: c9cd5df1-fb7b-4acb-afc1-a62b563d8654
-index: y
-internal: n
-snippet: y
 ---
 
 # FlyoutZoomView.frametransition{#flyoutzoomview-frametransition}

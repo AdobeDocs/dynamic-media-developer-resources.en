@@ -6,9 +6,6 @@ solution: Experience Manager
 title: RequestLock
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 09f20e5e-8ef1-48fe-8b3c-719d219159ec
-index: y
-internal: n
-snippet: y
 ---
 
 # RequestLock{#requestlock}

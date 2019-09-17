@@ -6,9 +6,6 @@ solution: Experience Manager
 title: UserType
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 0ce53373-7896-434c-8249-39037089fab9
-index: y
-internal: n
-snippet: y
 ---
 
 # UserType{#usertype}

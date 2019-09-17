@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ThumbnailGridView.textpos
 topic: Dynamic media
 uuid: 1d4f2704-fce1-4d51-b5d1-b5f514ec6877
-index: y
-internal: n
-snippet: y
 ---
 
 # ThumbnailGridView.textpos{#thumbnailgridview-textpos}

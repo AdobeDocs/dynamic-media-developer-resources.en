@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Extrusion tab for objects
 topic: Scene7 Image Authoring
 uuid: cce41cf4-3ffa-4972-bc6c-431285d54292
-index: y
-internal: n
-snippet: y
 ---
 
 # Extrusion tab for objects{#extrusion-tab-for-objects}

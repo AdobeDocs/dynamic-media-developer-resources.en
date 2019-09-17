@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Mutable volume
 topic: Dynamic media
 uuid: 0199c35b-e223-4c5b-8978-9e65554e64e0
-index: y
-internal: n
-snippet: y
 ---
 
 # Mutable volume{#mutable-volume}

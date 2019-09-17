@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Italic
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 4a484a3f-18b9-4fa7-bcbb-2dee947e9c2a
-index: y
-internal: n
-snippet: y
 ---
 
 # Italic{#italic}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: About the Reflection Page
 topic: Scene7 Image Authoring
 uuid: fbd4e5ab-5aa8-4097-8cd0-ba18b672be1f
-index: y
-internal: n
-snippet: y
 ---
 
 # About the Reflection Page{#about-the-reflection-page}

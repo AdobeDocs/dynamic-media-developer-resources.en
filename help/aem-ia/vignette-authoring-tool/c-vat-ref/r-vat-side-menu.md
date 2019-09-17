@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Side Menu Area
 topic: Scene7 Image Authoring
 uuid: f4e6ee2f-05fd-4c87-a858-e1bdbe44e212
-index: y
-internal: n
-snippet: y
 ---
 
 # Side Menu Area{#side-menu-area}

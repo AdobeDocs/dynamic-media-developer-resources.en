@@ -6,9 +6,6 @@ solution: Experience Manager
 title: IccDither
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 4ebd1bf8-eed0-4ff1-b8a0-1295d503fb4e
-index: y
-internal: n
-snippet: y
 ---
 
 # IccDither{#iccdither}

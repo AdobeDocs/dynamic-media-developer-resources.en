@@ -6,9 +6,6 @@ solution: Experience Manager
 title: validate
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 5322c484-2cf5-4022-9863-73fc525beb56
-index: y
-internal: n
-snippet: y
 ---
 
 # validate{#validate}

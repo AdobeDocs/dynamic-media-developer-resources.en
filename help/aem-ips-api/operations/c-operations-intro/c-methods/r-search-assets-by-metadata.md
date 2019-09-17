@@ -6,9 +6,6 @@ solution: Experience Manager
 title: searchAssetsByMetadata
 topic: Scene7 Image Production System API
 uuid: f4119ee9-f6d8-49fb-9d8c-bb200951d983
-index: y
-internal: n
-snippet: y
 ---
 
 # searchAssetsByMetadata{#searchassetsbymetadata}

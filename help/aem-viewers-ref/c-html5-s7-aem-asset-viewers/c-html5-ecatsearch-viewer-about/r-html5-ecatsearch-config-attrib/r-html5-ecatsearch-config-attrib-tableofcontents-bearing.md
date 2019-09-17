@@ -6,9 +6,6 @@ solution: Experience Manager
 title: TableOfContents.bearing
 topic: Dynamic media
 uuid: 832ebacf-d57f-4efa-ab1a-6a454f7c7a32
-index: y
-internal: n
-snippet: y
 ---
 
 # TableOfContents.bearing{#tableofcontents-bearing}

@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Heap space priority alert
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 89956ad3-8a73-40db-92bd-326e3fab37ee
-index: y
-internal: n
-snippet: y
 ---
 
 # Heap space priority alert{#heap-space-priority-alert}

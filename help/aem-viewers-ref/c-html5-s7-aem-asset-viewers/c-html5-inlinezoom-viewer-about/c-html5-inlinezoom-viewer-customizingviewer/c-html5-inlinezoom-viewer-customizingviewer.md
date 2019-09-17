@@ -7,9 +7,6 @@ solution: Experience Manager
 title: Customizing Inline Zoom Viewer
 topic: Dynamic media
 uuid: c9203ea7-47dc-40f6-add8-04e4258da7c9
-index: y
-internal: n
-snippet: y
 ---
 
 # Customizing Inline Zoom Viewer{#customizing-inline-zoom-viewer}

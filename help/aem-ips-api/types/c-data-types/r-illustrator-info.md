@@ -6,9 +6,6 @@ solution: Experience Manager
 title: IllustratorInfo
 topic: Scene7 Image Production System API
 uuid: f9c4db59-c1f4-46e9-828e-2abb2f361e17
-index: y
-internal: n
-snippet: y
 ---
 
 # IllustratorInfo{#illustratorinfo}

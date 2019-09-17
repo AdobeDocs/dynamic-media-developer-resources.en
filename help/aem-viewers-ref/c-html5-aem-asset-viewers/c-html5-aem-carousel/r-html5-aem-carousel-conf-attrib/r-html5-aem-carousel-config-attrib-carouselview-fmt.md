@@ -6,9 +6,6 @@ solution: Experience Manager
 title: CarouselView.fmt
 topic: Dynamic media
 uuid: deba25f3-f074-42db-b1d5-d4bf22e25773
-index: y
-internal: n
-snippet: y
 ---
 
 # CarouselView.fmt{#carouselview-fmt}

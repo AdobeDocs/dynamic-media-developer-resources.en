@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Permission Types
 topic: Scene7 Image Production System API
 uuid: 08c24010-489f-452f-9fc0-c65d33816200
-index: y
-internal: n
-snippet: y
 ---
 
 # Permission Types{#permission-types}

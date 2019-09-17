@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Using the Histogram Tool with the Curves Option
 topic: Scene7 Image Authoring
 uuid: 50924054-f5c9-4bff-8b2b-e389d22de1d0
-index: y
-internal: n
-snippet: y
 ---
 
 # Using the Histogram Tool with the Curves Option{#using-the-histogram-tool-with-the-curves-option}

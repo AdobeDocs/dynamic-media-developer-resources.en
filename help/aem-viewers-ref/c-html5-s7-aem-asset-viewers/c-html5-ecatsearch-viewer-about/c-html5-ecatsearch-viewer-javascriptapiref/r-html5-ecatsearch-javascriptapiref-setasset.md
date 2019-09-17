@@ -6,9 +6,6 @@ solution: Experience Manager
 title: setAsset
 topic: Dynamic media
 uuid: ab078f32-c523-4b6c-a0d6-45dd2af35b36
-index: y
-internal: n
-snippet: y
 ---
 
 # setAsset{#setasset}

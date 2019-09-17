@@ -6,9 +6,6 @@ solution: Experience Manager
 title: The Grab Tool
 topic: Scene7 Image Authoring
 uuid: d92c49aa-62d8-41ae-b818-6c0f51a2b4ff
-index: y
-internal: n
-snippet: y
 ---
 
 # The Grab Tool{#the-grab-tool}

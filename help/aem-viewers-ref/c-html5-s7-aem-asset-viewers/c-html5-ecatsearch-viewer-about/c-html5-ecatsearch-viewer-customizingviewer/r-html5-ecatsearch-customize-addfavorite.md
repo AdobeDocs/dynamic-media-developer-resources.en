@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Add Favorite button
 topic: Dynamic media
 uuid: decde7d1-d7d1-4056-815c-2b6571110d9f
-index: y
-internal: n
-snippet: y
 ---
 
 # Add Favorite button{#add-favorite-button}

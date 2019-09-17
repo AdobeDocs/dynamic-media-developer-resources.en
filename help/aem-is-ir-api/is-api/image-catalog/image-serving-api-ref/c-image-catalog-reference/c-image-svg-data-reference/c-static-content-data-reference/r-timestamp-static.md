@@ -6,9 +6,6 @@ solution: Experience Manager
 title: TimeStamp
 topic: Scene7 Image Serving - Image Rendering API
 uuid: fd60e5db-9219-41a8-947f-0d497b39e727
-index: y
-internal: n
-snippet: y
 containsConref:true
 ---
 

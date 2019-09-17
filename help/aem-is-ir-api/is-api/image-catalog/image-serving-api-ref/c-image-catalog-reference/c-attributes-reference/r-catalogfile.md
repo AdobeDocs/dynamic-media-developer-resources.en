@@ -6,9 +6,6 @@ solution: Experience Manager
 title: CatalogFile
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 3599c8d3-dc4b-434e-8b11-775ea6f155ee
-index: y
-internal: n
-snippet: y
 ---
 
 # CatalogFile{#catalogfile}

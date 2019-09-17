@@ -6,9 +6,6 @@ solution: Experience Manager
 title: ImageMapEffect.rollover
 topic: Dynamic media
 uuid: 92bd8ced-1c41-4147-96fa-5f77bdd6a316
-index: y
-internal: n
-snippet: y
 ---
 
 # ImageMapEffect.rollover{#imagemapeffect-rollover}

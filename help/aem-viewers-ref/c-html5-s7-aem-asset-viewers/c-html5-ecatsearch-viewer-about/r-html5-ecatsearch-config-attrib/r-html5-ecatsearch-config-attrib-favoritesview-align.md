@@ -6,9 +6,6 @@ solution: Experience Manager
 title: FavoritesView.align
 topic: Dynamic media
 uuid: 4ff25cb3-3383-4ef2-90db-660fa774e109
-index: y
-internal: n
-snippet: y
 ---
 
 # FavoritesView.align{#favoritesview-align}

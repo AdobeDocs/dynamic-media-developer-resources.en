@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Troubleshooting
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 39fdaf86-004b-4553-bde0-0367f3ef76b8
-index: y
-internal: n
-snippet: y
 ---
 
 # Troubleshooting{#troubleshooting}

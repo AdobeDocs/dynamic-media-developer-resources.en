@@ -6,9 +6,6 @@ solution: Experience Manager
 title: CompanyMetadataInfoArray
 topic: Scene7 Image Production System API
 uuid: 41b816ce-c19a-49fa-9c12-5773bd3ea634
-index: y
-internal: n
-snippet: y
 ---
 
 # CompanyMetadataInfoArray{#companymetadatainfoarray}

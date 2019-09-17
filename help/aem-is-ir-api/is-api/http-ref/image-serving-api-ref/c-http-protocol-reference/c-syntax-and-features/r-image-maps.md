@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Image maps
 topic: Scene7 Image Serving - Image Rendering API
 uuid: 2b7b620b-712b-4110-ba38-993a354c09d3
-index: y
-internal: n
-snippet: y
 ---
 
 # Image maps{#image-maps}

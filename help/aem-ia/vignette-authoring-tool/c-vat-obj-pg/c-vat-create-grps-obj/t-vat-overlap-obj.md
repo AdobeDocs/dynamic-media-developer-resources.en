@@ -6,9 +6,6 @@ solution: Experience Manager
 title: Creating Overlap Objects
 topic: Scene7 Image Authoring
 uuid: ee8b75e0-2209-4676-baa6-7def5a3c9227
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating Overlap Objects{#creating-overlap-objects}
