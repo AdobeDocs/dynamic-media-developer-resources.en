@@ -2,10 +2,10 @@
 cloud: experience-cloud
 product: adobe
 archtype: end-user
-user-guide: null
+user-guide-title: Dynamic Media Developer Image Production System API
 ---
 
-# Table of Contents {#table-of-contents}
+# Dynamic Media Developer Image Production System API {#image-production-api}
 
 + [About Scene7 Image Production System API](c-overview.md)
 + [Deprecated calls](c-deprecated-calls.md)

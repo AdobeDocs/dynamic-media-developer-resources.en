@@ -10,10 +10,10 @@ archtype: end-user
 user-guide: null
 ---
 
-# Table of contents {#table-of-contents}
+# Dynamic Media Developer Release Notes {#release-notes}
 
 + [Latest release notes](s7rn2017.md)
-+ Archive
++ Archive {#archive-release-notes}
    + [Scene7 Fall 2016 release](s7rnfall2016.md)
    + [Scene7 Publishing System 6.10 release notes (May 2015)](s7rn610.md)
    + [Scene7 Publishing System 6.9 release notes (October 2014)](s7rn69.md)

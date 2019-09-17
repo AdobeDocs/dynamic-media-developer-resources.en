@@ -2,10 +2,10 @@
 cloud: experience-cloud
 product: adobe
 archtype: end-user
-user-guide: null
+user-guide-title: Dynamic Media Developer Library Guide
 ---
 
-# Table of Contents {#table-of-contents}
+# Dynamic Media Developer Library Guide {#library}
 
 + [Viewer library examples](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html)
 + [System requirements](c-system-requirements-and-prerequisites.md)

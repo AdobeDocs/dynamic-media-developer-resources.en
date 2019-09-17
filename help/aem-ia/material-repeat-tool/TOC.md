@@ -2,22 +2,24 @@
 cloud: experience-cloud
 product: adobe
 archtype: end-user
-user-guide: null
+user-guide-title: Dynamic Media Classic Image Authoring Guide
 ---
 
-# Table of Contents {#table-of-contents}
+# Dynamic Media Classic Image Authoring Guide {#image-authoring}
 
-+ [Creating a Texture Image](c-mrt-texture-image/c-mrt-texture-image.md)
++ [Image Authoring Home](home.md)
++ Creating a Texture Image {#texture-image}
    + [Creating a Full-Tile Repeat](c-mrt-texture-image/c-mrt-full-tile-repeat.md)
    + [Identifying the Full Repeat](c-mrt-texture-image/c-mrt-full-repeat.md)
    + [Scanning the Pattern for the Full Repeat](c-mrt-texture-image/c-mrt-pattern-full-repeat.md)
    + [Creating Texture Images with a Digital Camera](c-mrt-texture-image/c-mrt-texture-images-dig-camera.md)
-   + [Fixing Smudges, Tears, Spots, and Holes](c-mrt-texture-image/c-mrt-fixing-smudges/c-mrt-fixing-smudges.md)
+   + Editing tools {#editing-tools}
+      + [Fixing Smudges, Tears, Spots, and Holes](c-mrt-texture-image/c-mrt-fixing-smudges/c-mrt-fixing-smudges.md)
       + [To Adjust the Opacity for the Rubber Stamp Tool](c-mrt-texture-image/c-mrt-fixing-smudges/t-mrt-rubber-stamp-tool.md)
       + [To Make Brush Softer](c-mrt-texture-image/c-mrt-fixing-smudges/t-mrt-make-brush-softer.md)
       + [To Use the Rubber Stamp Tool](c-mrt-texture-image/c-mrt-fixing-smudges/t-mrt-use-rubber-stamp-tool.md)
       + [To Create a Full Repeat from a Half-Drop Repeat](c-mrt-texture-image/c-mrt-fixing-smudges/t-mrt-half-drop-repeat.md)
-+ [Using the Material Repeat Tool](c-mrt-using-mrt/c-mrt-using-mrt.md)
++ Using the Material Repeat Tool {#using-mrt}
    + [About the Material Repeat Tool](c-mrt-using-mrt/c-mrt-about-mrt.md)
    + [Starting the Material Repeat Tool](c-mrt-using-mrt/t-mrt-starting-mrt.md)
    + [Choosing the Pattern Repeat](c-mrt-using-mrt/c-mrt-pattern-repeat.md)
