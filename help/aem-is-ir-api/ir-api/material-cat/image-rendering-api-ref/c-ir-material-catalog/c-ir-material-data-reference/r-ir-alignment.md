@@ -18,7 +18,7 @@ Enum. Set to 0 for default or center-matched alignment, 1 for continuous alignme
 
 ## Default {#section-1aae2c85042846539caa089f3fa8fe2d}
 
-0.
+`0.`
 
 ## See also {#section-3848d074c5a54c9885e7dc074f6eeec1}
 

@@ -52,8 +52,6 @@ This code sample creates a project called `ApiTestProject` in a company specifie
 
 ```
 
-** ** 
-
 ```java
 <createProjectReturn xmlns="http://www.scene7.com/IpsApi/xsd/2008-01-15">
    <projectHandle>p|6|ApiTestProject</projectHandle>

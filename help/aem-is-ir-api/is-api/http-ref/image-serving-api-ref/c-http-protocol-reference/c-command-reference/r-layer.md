@@ -12,8 +12,6 @@ uuid: 882309b3-51d7-477e-bd09-068ce9e55eb5
 
 Select Layer. Selects a layer and starts a new layer definition segment in the command sequence.
 
-##
-
 `layer= *`n`*|comp[, *`name`*]`
 
 `layer= *`name`*`

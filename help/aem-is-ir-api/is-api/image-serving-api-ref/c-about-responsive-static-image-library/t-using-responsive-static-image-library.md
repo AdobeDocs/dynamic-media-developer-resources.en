@@ -46,7 +46,7 @@ To add Responsive Image library to a web page and manage existing images with th
    </script>
    ```
 
-### Example {#example-0509a0dd2a8e4fd58b5d39a0df47bd87}
+## Example {#example-0509a0dd2a8e4fd58b5d39a0df47bd87}
 
 The library supports working with many image instances on the web page simultaneously. Therefore, repeat steps 1 and 2 above for each image that you want the library to manage.
 
@@ -106,4 +106,3 @@ The associated image element dispatches a `s7responsiveViewer` event during runt
            } 
         });
 ```
-

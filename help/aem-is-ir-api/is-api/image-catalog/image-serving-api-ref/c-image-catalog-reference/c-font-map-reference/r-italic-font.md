@@ -20,7 +20,7 @@ Flag. Optional tertiary index key for the font map.
 
 ## Default {#section-0b88057d00ce4160929c23fbf138b309}
 
-0.
+`0.`
 
 ## See also {#section-05057a6689a942b4b539c5de35c9b2a6}
 

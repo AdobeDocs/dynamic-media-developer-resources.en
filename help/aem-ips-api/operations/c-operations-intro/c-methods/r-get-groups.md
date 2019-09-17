@@ -46,8 +46,6 @@ This code returns an array that contains all the groups that belong to a specifi
 </ns1:getGroupsParam>
 ```
 
-** ** 
-
 ```java
 <getGroupsReturn xmlns="http://www.scene7.com/IpsApi/xsd">
    <groupArray>

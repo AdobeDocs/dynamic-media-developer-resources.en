@@ -17,7 +17,7 @@ If Photoshop is installed on the same computer as Image Authoring, you can open 
 |  View image only  | Current mask object only  | Grayscale image representing the current illumination map.  |
 |  | | Any defined masks for the currently selected objects are displayed as separate channels.  |
 
-** **To Edit the Current Image in Photoshop:** ** 
+**To Edit the Current Image in Photoshop:**
 
 1. Go to the desired location in [!DNL Image Authoring].
 
