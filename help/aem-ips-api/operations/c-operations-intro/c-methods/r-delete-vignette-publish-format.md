@@ -12,11 +12,7 @@ uuid: 3c8148d5-dec6-4ffa-8ab8-2cd70811ada6
 
 Deletes a vignette publish format.
 
- Syntax 
-
 ## Authorized User Types {#section-a127680d6b53462daaf2579d6f6fe5a8}
-
-****
 
 * `IpsAdmin` 
 * `IpsCompanyAdmin` 

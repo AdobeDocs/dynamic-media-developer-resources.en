@@ -12,11 +12,7 @@ uuid: 01a9321f-89a9-4263-937b-b0b49fe2fb81
 
 Deletes a zoom target.
 
- Syntax 
-
 ## Authorized User Types {#section-09ca82bc817e49048271c5cba545702e}
-
-****
 
 * `IpsUser` 
 * `IpsAdmin` 
