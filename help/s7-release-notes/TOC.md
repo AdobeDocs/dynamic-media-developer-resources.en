@@ -12,8 +12,11 @@ user-guide: null
 
 # Dynamic Media Developer Release Notes {#release-notes}
 
-+ [Latest release notes](s7rn2017.md)
+<!--CHECK-->
+
++ [Latest release notes](c-rn-07-08-19.md)
 + Archive {#archive-release-notes}
+   + [2017 release](s7rn2017.md)
    + [Scene7 Fall 2016 release](s7rnfall2016.md)
    + [Scene7 Publishing System 6.10 release notes (May 2015)](s7rn610.md)
    + [Scene7 Publishing System 6.9 release notes (October 2014)](s7rn69.md)
