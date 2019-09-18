@@ -51,4 +51,4 @@ Layer transparency is not considered for map processing. A fully transparent lay
 
 ## See also {#see-also}
 
-[map=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-map.md#reference-8f96545f196b4b7caa616e15c2363f06) , [catalog::Map](r_map_cat.md#reference_F1B52F35D07A4B3EA9E9AE1628526EEA), [HTML 4.01 Specification](http://www.w3.org/TR/html401/) 
+[map=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-map.md#reference-8f96545f196b4b7caa616e15c2363f06) , [catalog::Map](r-map-cat.md), [HTML 4.01 Specification](http://www.w3.org/TR/html401/) 

@@ -109,7 +109,7 @@ The following fields are recognized in image and SVG data files.
    <td colname="col2"> <p>Image set data. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p><span class="codeph"> <a href="r_map_cat.md#reference_F1B52F35D07A4B3EA9E9AE1628526EEA" type="reference" format="dita" scope="local"> Map</a></span> </p> </td> 
+   <td colname="col1"> <p><span class="codeph"> <a href="r-map-cat.md" type="reference" format="dita" scope="local"> Map</a></span> </p> </td> 
    <td colname="col2"> <p>Image map data. </p> </td> 
   </tr> 
   <tr> 

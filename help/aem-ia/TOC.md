@@ -454,5 +454,5 @@ user-guide-title: Dynamic Media Classic Image Authoring Guide
       + [Textures](vignette-authoring-tool/r-vat-glossary/c-vat-textures.md)
       + [Vertexes](vignette-authoring-tool/r-vat-glossary/c-vat-vertexes.md)
 + Vignettes Update Tool {#vignettes-update-tool}
-   + [About the Vignette Update Tool](vignette-update-tool/c-vut-about-vut.md)
-   + [Preparing Vignettes for the Image Rendering System](vignette-update-tool/t-vut-preparing-vignettes.md)
+   + [About the Vignette Update Tool](/help/aem-ia/vignette-update-tool/c-vut-about-vut.md)
+<!-- MISSING   + [Preparing Vignettes for the Image Rendering System](vignette-update-tool/t-vut-preparing-vignettes.md)-->
