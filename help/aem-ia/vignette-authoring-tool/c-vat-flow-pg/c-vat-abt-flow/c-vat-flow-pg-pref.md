@@ -36,7 +36,7 @@ Flowlines are a vector overlay on top of your bitmapped image. This setting dete
 
 These settings take effect when you add a line with the [ [!DNL Flowline Mesh] tool](../../c-vat-flow-pg/c-vat-use-flow-tools/c-vat-mesh-tool.md#concept-a3383512cf714c58b2afc41a9ccb261b).
 
-**Line Tension:** Sets default value for the [ [!DNL Tension] slider](c_vat_flow_tension_ex.md#concept_BA517724D8E942C6BAC1AB98AE976577).
+**Line Tension:** Sets default value for the [ [!DNL Tension] slider](/help/aem-ia/vignette-authoring-tool/c-vat-flow-pg/c-vat-create-flow/c-vat-create-flow.md).
 
 ** Line Depth:** Sets default value for the [ [!DNL Depth] slider](../../c-vat-flow-pg/c-vat-flow-mesh-tech/t-vat-depth-text.md#task-18d316e8b07d4f5a859589ae96f97693).
 

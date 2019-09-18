@@ -18,7 +18,7 @@ uuid: 1ecc237f-63fe-4ad6-97eb-a0f98a39155b
 
 [Reshaping Flowlines](../../c-vat-flow-pg/c-vat-flow-mesh-tech/t-vat-reshape-flow.md#task-eae639f26bf34b3982af286764f8efd4)
 
-[Creating Curves in Flowlines](t_vat_curves_flowlines.md#task_A85DBC16ABD447659DE2B0358E7A6A1A)
+[Creating Curves in Flowlines](/help/aem-ia/vignette-authoring-tool/c-vat-work-illum-pg/c-vat-illum-pg-tools/c-vat-histo-curves-opt/t-vat-curves-opt.md)
 
 [Overlapping Flowlines](../../c-vat-flow-pg/c-vat-flow-mesh-tech/t-vat-overlap-flow/t-vat-overlap-flow.md#task-2ce63937caea4c429b5c0f75851e1cdf)
 
