@@ -34,15 +34,15 @@ user-guide-title: Dynamic Media Classic Image Authoring Guide
          + [To Make Brush Softer](material-repeat-tool/c-mrt-texture-image/c-mrt-fixing-smudges/t-mrt-make-brush-softer.md)
          + [To Use the Rubber Stamp Tool](material-repeat-tool/c-mrt-texture-image/c-mrt-fixing-smudges/t-mrt-use-rubber-stamp-tool.md)
          + [To Create a Full Repeat from a Half-Drop Repeat](material-repeat-tool/c-mrt-texture-image/c-mrt-fixing-smudges/t-mrt-half-drop-repeat.md)
-   + Using the Material Repeat Tool {#using-mrt}
-      + [About the Material Repeat Tool](material-repeat-tool/c-mrt-using-mrt/c-mrt-about-mrt.md)
-      + [Starting the Material Repeat Tool](material-repeat-tool/c-mrt-using-mrt/t-mrt-starting-mrt.md)
-      + [Choosing the Pattern Repeat](material-repeat-tool/c-mrt-using-mrt/c-mrt-pattern-repeat.md)
-      + [Using the Perspective Tab](material-repeat-tool/c-mrt-using-mrt/t-mrt-perspective-tab.md)
-      + [Using the Lighting Tab](material-repeat-tool/c-mrt-using-mrt/t-mrt-lighting-tab.md)
-      + [Creating the Final Repeat](material-repeat-tool/c-mrt-using-mrt/t-mrt-final-repeat.md)
-      + [Changing Material Repeat Tool Options](material-repeat-tool/c-mrt-using-mrt/t-mrt-changing-mrt-options.md)
-      + [Generating a Full Repeat from a Half-Drop](material-repeat-tool/c-mrt-using-mrt/t-mrt-gen-full-repeat-half-drop.md)
++ Using the Material Repeat Tool {#using-mrt}
+   + [About the Material Repeat Tool](material-repeat-tool/c-mrt-using-mrt/c-mrt-about-mrt.md)
+   + [Starting the Material Repeat Tool](material-repeat-tool/c-mrt-using-mrt/t-mrt-starting-mrt.md)
+   + [Choosing the Pattern Repeat](material-repeat-tool/c-mrt-using-mrt/c-mrt-pattern-repeat.md)
+   + [Using the Perspective Tab](material-repeat-tool/c-mrt-using-mrt/t-mrt-perspective-tab.md)
+   + [Using the Lighting Tab](material-repeat-tool/c-mrt-using-mrt/t-mrt-lighting-tab.md)
+   + [Creating the Final Repeat](material-repeat-tool/c-mrt-using-mrt/t-mrt-final-repeat.md)
+   + [Changing Material Repeat Tool Options](material-repeat-tool/c-mrt-using-mrt/t-mrt-changing-mrt-options.md)
+   + [Generating a Full Repeat from a Half-Drop](material-repeat-tool/c-mrt-using-mrt/t-mrt-gen-full-repeat-half-drop.md)
 + Vignette Image Authoring {#vignette-authoring}
    + [About Vignette Image Authoring](vignette-authoring-tool/c-vat-abt-img-auth.md)
    + Preparing Your Image {#prep-img}
