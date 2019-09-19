@@ -5,7 +5,7 @@ archtype: end-user
 user-guide-title: Dynamic Media Developer Image Serving and Rendering API
 ---
 
-# Dynamic Media Developer Image Serving and Rendering API {#image-serving-api}
+# Dynamic Media Developer Image Serving and Rendering API {#image-serving-api)
 
 + [Scene7 IS and IR API Home](home.md)
 + [About this release](r-about-this-release.md)
@@ -56,7 +56,7 @@ user-guide-title: Dynamic Media Developer Image Serving and Rendering API
             + [Auxiliary data caches](is-api/image-serving-api-ref/c-configuration-and-administration/c-data-caches/c-auxiliary-data-caches.md)
             + [Cache clustering](is-api/image-serving-api-ref/c-configuration-and-administration/c-data-caches/c-cache-clustering.md)
          + Server settings {#server-settings}
-         + [Server settings](is-api/image-serving-api-ref/c-configuration-and-administration/c-server-settings/c-server-settings.md)
+            + [Server settings](is-api/image-serving-api-ref/c-configuration-and-administration/c-server-settings/c-server-settings.md)
             + [General](is-api/image-serving-api-ref/c-configuration-and-administration/c-server-settings/r-general.md)
             + [Content data folders](is-api/image-serving-api-ref/c-configuration-and-administration/c-server-settings/r-content-data-folders.md)
             + [Server caches](is-api/image-serving-api-ref/c-configuration-and-administration/c-server-settings/r-server-caches.md)
@@ -488,11 +488,11 @@ user-guide-title: Dynamic Media Developer Image Serving and Rendering API
             + [MetricsPath](is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-font-map-reference/r-metricspath-font.md)
             + [Name](is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-font-map-reference/r-name-font.md)
             + [PsName](is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-font-map-reference/r-psname-font.md)
-         + ICC profile map reference (#icc-profile-map-reference)
+         + ICC profile map reference {#icc-profile-map-reference}
             + [ICC profile map reference](is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-icc-profile-map-reference/c-icc-profile-map-reference.md)
             + [Name](is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-icc-profile-map-reference/r-name-icc.md)
             + [ProfilePath](is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-icc-profile-map-reference/r-profilepath-icc.md)
-         + Rule set reference (#rule-set-reference)
+         + Rule set reference {#rule-set-reference}
             + [Rule set reference](is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-rule-set-reference/c-rule-set-reference.md)
             + [addressfilter](is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-rule-set-reference/r-addressfilter-rule.md)
             + [expression](is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-rule-set-reference/r-expression-rule.md)
@@ -502,27 +502,27 @@ user-guide-title: Dynamic Media Developer Image Serving and Rendering API
             + [substitution](is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-rule-set-reference/r-substitution-rule.md)
       + [Image server proxy](is-api/image-serving-api-ref/r-image-server-proxy.md)
       + [Image Server examples](is-api/image-serving-api-ref/r-examples-is.md)
-      + Responsive Static Image Library (#responsive-static-image-library)
+      + Responsive Static Image Library {#responsive-static-image-library}
          + [Responsive Static Image library](is-api/image-serving-api-ref/c-about-responsive-static-image-library/c-about-responsive-static-image-library.md)
          + [Using Responsive Image library](is-api/image-serving-api-ref/c-about-responsive-static-image-library/t-using-responsive-static-image-library.md)
          + [Command reference – Configuration attributes](is-api/image-serving-api-ref/c-about-responsive-static-image-library/r-responsive-static-image-library-config-attrib.md)
 + [Image Rendering API Reference](image-rendering-api-ref/image-rendering-api-ref.md)
-   + Image Rendering API
+   + Image Rendering API {#image-rendering-api}
       + [Image Rendering API](ir-api/image-rendering-api-ref/c-ir-home.md)
-      + Configuration (#configuration)
+      + Configuration {#configuration}
          + [Configuration](ir-api/image-rendering-api-ref/c-ir-installation/c-ir-installation.md)
          + [Licensing](ir-api/image-rendering-api-ref/c-ir-installation/c-ir-licensing.md)
-         + [Setup and configure IR 3.x compatibility   module](ir-api/image-rendering-api-ref/c-ir-installation/t-ir-setup-compatibility-module.md)
+         + [Setup and configure IR 3.x compatibility module](ir-api/image-rendering-api-ref/c-ir-installation/t-ir-setup-compatibility-module.md)
          + [Setup and configure Image Rendering](ir-api/image-rendering-api-ref/c-ir-installation/c-ir-setup-ir.md)
-         + Uninstalling Image Rendering (#uninstalling-image-rendering)
+         + Uninstalling Image Rendering {#uninstalling-image-rendering}
             + [Uninstalling Image Rendering](ir-api/image-rendering-api-ref/c-ir-installation/c-ir-uninstalling/c-ir-uninstalling.md)
             + [Uninstalling on Linux and Solaris](ir-api/image-rendering-api-ref/c-ir-installation/c-ir-uninstalling/t-ir-uninstall-linux-solaris.md)
             + [Uninstalling on Windows](ir-api/image-rendering-api-ref/c-ir-installation/c-ir-uninstalling/t-ir-uninstall-windows.md)
-      + Server administation (#server-administration)
+      + Server administation {#server-administration}
             + [Server administration](ir-api/image-rendering-api-ref/c-ir-server-administration/c-ir-server-administration.md)
             + [Server administration preface](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-preface.md)
             + [Server Administration Overview](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-server-overview.md)
-            + Configuring and managing the server (#configuring-and-managing-the-server)
+            + Configuring and managing the server {#configuring-and-managing-the-server}
                + [Configuring and managing the server overview](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-configuring-and-managing-the-server.md)
                + [Configuration files](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-config-files.md)
                + [Starting and stopping the server](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-starting-and-stopping-the-server.md)
@@ -531,32 +531,32 @@ user-guide-title: Dynamic Media Developer Image Serving and Rendering API
                + [Memory considerations](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-memory-considerations.md)
                + [Dynamic disk space considerations](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-dynamic-disk-space-considerations.md)
                + [Vignette size limitation](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-vignette-size-limitation.md)
-               + Managing content (#managing-content)
+               + Managing content {#managing-content}
                   + [Managing content](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-managing-content/c-ir-managing-content.md)
                   + [Material catalogs](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-managing-content/c-ir-server-material-catalogs.md)
                   + [Source data](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-managing-content/c-ir-source-data.md)
                   + [Deleting or replacing source data files](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-managing-content/c-ir-deleting-or-replacing-source-data-files.md)
-            + Configuration settings reference (#configuration-settings-reference)
+            + Configuration settings reference {#configuration-settings-reference}
                + [Configuration settings reference overview](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuration-settings-reference/c-ir-configuration-settings-reference.md)
                + [Catalog folder (ir.catalogRootPath)](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuration-settings-reference/c-ir-catalog-folder.md)
                + [Catalog cache folder (ir.catalogCacheRoot)](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuration-settings-reference/c-ir-catalog-cache-folder.md)
                + [Resource root folders (ir.resourceRootPaths)](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuration-settings-reference/c-ir-resource-root-folders.md)
-      + HTTP protocol reference
-      + [HTTP protocol reference](ir-api/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-ref.md)
+      + HTTP protocol reference {#http-protocol-reference}
+         + [HTTP protocol reference](ir-api/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-ref.md)
             + [Introduction](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-introduction.md)
             + [HTTP protocol syntax and features](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-http-protocol-syntax-and-features.md)
                + [Image Rendering HTTP protocol basic syntax](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/r-ir-basic-syntax.md)
-               + Image Rendering HTTP protocol command overview (#image-rendering-http-protocol-command-overview)
+               + Image Rendering HTTP protocol command overview {#image-rendering-http-protocol-command-overview}
                   + [Image Rendering HTTP protocol command overview](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-command-overview/c-ir-command-overview.md)
                   + [View attributes](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-command-overview/r-ir-view-attributes.md)
                   + [Selection commands](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-command-overview/r-ir-selection-commands.md)
                   + [Material attributes](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-command-overview/r-ir-material-attributes.md)
                   + [Miscellaneous commands](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-command-overview/r-ir-miscellaneous-commands.md)
-               + Vignettes (#vignettes)
+               + Vignettes {#vignettes}
                   + [Vignettes](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-vignettes/c-ir-vignettes.md)
                   + [Scene coordinates](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-vignettes/c-ir-scene-coordinates.md)
                   + [Material resolution](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-vignettes/c-ir-material-resolution.md)
-               + Materials (#materials)
+               + Materials {#materials}
                   + [Materials overview](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-http-materials/c-ir-http-materials.md)
                   + [Solid colors](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-http-materials/r-ir-solid-colors.md)
                   + [Repeatable textures](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-http-materials/r-ir-repeatable-textures.md)
@@ -564,7 +564,7 @@ user-guide-title: Dynamic Media Developer Image Serving and Rendering API
                   + [Decals](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-http-materials/r-ir-decals.md)
                   + [Cabinets](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-http-materials/r-ir-cabinets.md)
                   + [Window coverings](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-http-materials/r-ir-window-coverings.md)
-               + Advanced Render effects (#advanced-render-effects)
+               + Advanced Render effects {#advanced-render-effects}
                   + [Advanced Render effects](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-advanced-render-effects/c-ir-advanced-render-effects.md)
                   + [Using multiple illumination maps](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-advanced-render-effects/c-ir-use-multiple-illumination-maps.md)
                   + [Colorizing materials](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-advanced-render-effects/c-ir-colorizing-materials.md)
@@ -572,17 +572,17 @@ user-guide-title: Dynamic Media Developer Image Serving and Rendering API
                   + [Reflections](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-advanced-render-effects/r-ir-reflections.md)
                   + [Gloss effects](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-advanced-render-effects/c-ir-gloss-effects.md)
                   + [Advanced Render settings](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-advanced-render-effects/c-ir-advanced-render-settings.md)
-               + Request nesting and embedding (#request-nesting-and-embedding)
+               + Request nesting and embedding {#request-nesting-and-embedding}
                   + [Request nesting and embedding *](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-request-nesting-and-embedding/c-ir-request-nesting-and-embedding.md)
                   + [Embedded Image Server requests](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-request-nesting-and-embedding/c-ir-embedded-image-serving-requests.md)
                   + [Nested Image Rendering requests](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-request-nesting-and-embedding/c-ir-nested-image-rendering-requests.md)
                   + [Foreign image sources](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-request-nesting-and-embedding/c-ir-foreign-image-sources.md)
                   + [Restrictions](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-request-nesting-and-embedding/c-ir-restrictions.md)
-               + Material catalogs (#material-catalogs)
+               + Material catalogs {#material-catalogs}
                   + [Material catalogs *](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-http-material-catalogs/c-ir-http-material-catalogs.md)
                   + [Session catalog](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-http-material-catalogs/r-ir-session-catalog.md)
                + [Request pre-processing *](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-request-pre-processing.md)
-               + Custom variables (#custom-variables)
+               + Custom variables {#custom-variables}
                   + [Custom variables overview](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-custom-variables/c-ir-custom-variables.md)
                   + [Variable processing in nested requests](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-custom-variables/c-ir-variable-processing-in-nested-requests.md)
                   + [Variable processing in embedded foreign requests](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-custom-variables/c-ir-variable-processing-in-embedded-foreign-requests.md)
@@ -592,7 +592,7 @@ user-guide-title: Dynamic Media Developer Image Serving and Rendering API
                + [Image Rendering color management *](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-color-management.md)
                + [Color values](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/r-ir-color-values.md)
                + [Image Rendering HTTP encoding](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-http-encoding.md)
-            + HTTP protocol command reference (#http-protocol-command-reference)
+            + HTTP protocol command reference {#http-protocol-command-reference}
                + [HTTP protocol command reference](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/c-ir-http-protocol-command-reference.md)
                + [align](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-align.md)
                + [anchor](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-http-anchor.md)
@@ -634,26 +634,26 @@ user-guide-title: Dynamic Media Developer Image Serving and Rendering API
                + [type](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-http-type.md)
                + [vignette](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-vignette.md)
                + [wid](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-wid.md)
-            + HTTP protocol response data (#http-protocol-response-data)
+            + HTTP protocol response data {#http-protocol-response-data}
                + [HTTP protocol response data](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-response-data/c-ir-http-protocol-response-data.md)
                + [Images](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-response-data/c-ir-images.md)
                + [Properties](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-response-data/c-ir-properties.md)
                + [Errors](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-response-data/c-ir-errors.md)
-      + Material catalog (#material-catalog)
+      + Material catalog {#material-catalog}
          + [Material catalog](ir-api/image-rendering-api-ref/c-ir-material-catalog/c-ir-material-catalog.md)
             + [Introduction](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-material-cat-ref-intro.md)
-            + Material catalog overview (#material-catalog-overview)
+            + Material catalog overview {#material-catalog-overview}
                + [Material catalog overview *](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-cat-overview/c-ir-cat-overview.md)
                + [Materials](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-cat-overview/c-ir-cat-materials.md)
                + [Catalog attributes](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-cat-overview/r-ir-catalog-attributes.md)
                + [Catalog data fields](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-cat-overview/r-ir-catalog-data-fields.md)
-               + File formats (#file-formats)
+               + File formats {#file-formats}
                   + [File formats](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-cat-overview/c-ir-file-formats/c-ir-file-formats.md)
                   + [Catalog attribute files](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-cat-overview/c-ir-file-formats/c-ir-catalog-attribute-files.md)
                   + [Catalog data files](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-cat-overview/c-ir-file-formats/c-ir-catalog-data-files.md)
                   + [Character encoding](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-cat-overview/c-ir-file-formats/c-ir-character-encoding.md)
                + [Common data types](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-cat-overview/r-ir-common-data-types.md)
-            + Attributes reference (#attributes-reference)
+            + Attributes reference {#attributes-reference}
                + [Attributes reference](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/c-ir-attributes-reference.md)
                + [AllowDirectURLs](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-allowdirecturls.md)
                + [CacheValidationPolicy](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-cachevalidationpolicy.md)
@@ -694,7 +694,7 @@ user-guide-title: Dynamic Media Developer Image Serving and Rendering API
                + [TrustedDomains *](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-trusteddomains.md)
                + [UseLastModified](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-uselastmodified.md)
                + [VignetteMapFile](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-vignettemapfile.md)
-            + Material data reference (#material-data-reference)
+            + Material data reference {#material-data-reference}
                + [Material data reference](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-material-data-reference/c-ir-material-data-reference.md)
                + [Alignment](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-material-data-reference/r-ir-alignment.md)
                + [Anchor](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-material-data-reference/r-ir-cat-anchor.md)
@@ -714,7 +714,7 @@ user-guide-title: Dynamic Media Developer Image Serving and Rendering API
                + [Size](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-material-data-reference/r-ir-cat-size.md)
                + [TimeStamp](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-material-data-reference/r-ir-timestamp-dataref.md)
                + [Type](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-material-data-reference/r-ir-cat-type.md)
-            + Vignette map reference (#vignette-map-reference)
+            + Vignette map reference {#vignette-map-reference}
                + [Vignette map reference](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-vignette-map-reference/c-ir-vignette-map-reference.md)
                + [Expiration](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-vignette-map-reference/r-ir-expiration-vignette.md)
                + [Id](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-vignette-map-reference/r-ir-id-vignette.md)
@@ -722,15 +722,15 @@ user-guide-title: Dynamic Media Developer Image Serving and Rendering API
                + [Path](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-vignette-map-reference/r-ir-path-vignette.md)
                + [TimeStamp](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-vignette-map-reference/r-ir-timestamp-vignette.md)
                + [UserData *](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-vignette-map-reference/r-ir-userdata.md)
-            + Macro definition reference (#macro-definition-reference)
+            + Macro definition reference {#macro-definition-reference}
                + [Macro definition reference](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-macro-definition-reference/c-ir-macro-definition-reference.md)
                + [Name](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-macro-definition-reference/r-ir-name.md)
                + [Definition](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-macro-definition-reference/r-ir-definition.md)
-            + ICC profile map reference (#icc-profile-map-reference)
+            + ICC profile map reference {#icc-profile-map-reference}
                + [ICC profile map reference](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-icc-profile-map-reference/c-ir-icc-profile-map-reference.md)
                + [Name](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-icc-profile-map-reference/r-ir-name-icc.md)
                + [ProfilePath](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-icc-profile-map-reference/r-ir-profilepath.md)
-            + Rule set reference (#rule-set-reference)
+            + Rule set reference {#rule-set-reference}
                + [Rule set reference](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-rule-set-reference/c-ir-rule-set-reference.md)
                + [addressfilter](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-rule-set-reference/r-ir-addressfilter.md)
                + [expression](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-rule-set-reference/r-ir-expression.md)
@@ -739,14 +739,14 @@ user-guide-title: Dynamic Media Developer Image Serving and Rendering API
                + [substitution](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-rule-set-reference/r-ir-substitution.md)
       + [Image Rendering examples](ir-api/image-rendering-api-ref/r-examples-ir.md)
 + [Utilities](utilities/utilities.md)
-   + Image Serving Utilities (#image-serving-utilities)
+   + Image Serving Utilities {#image-serving-utilities}
       + [Image Serving utilities](is-api/is-utils/utilities/c-utils-home.md)
       + [Location of utilities](is-api/is-utils/utilities/c-location-of-utilities.md)
       + [ic](is-api/is-utils/utilities/r-ic.md)
       + [ImageServing](is-api/is-utils/utilities/r-imageserving.md)
       + [validate](is-api/is-utils/utilities/r-is-utils-validate.md)
       + [The 'playlog' utility](is-api/is-utils/utilities/c-playlog.md)
-   + Vignette converter (vntc)(#vignette-converter-vntc)
+   + Vignette converter (vntc){#vignette-converter-vntc}
       + [Vignette converter (vntc)](utilities/c-ir-vignette-converter-vntc/c-ir-vignette-converter-vntc.md)
       + [Vignette Converter](ir-api/vntc/utilities/c-ir-vignette-converter-vntc/c-ir-vignette-converter.md)
       + [Vignette scaling](ir-api/vntc/utilities/c-ir-vignette-converter-vntc/c-ir-vignette-scaling.md)
