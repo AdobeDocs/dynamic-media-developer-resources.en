@@ -24,4 +24,4 @@ None.
 
 ## See also {#section-7ffaec68b992426dad1c9ac0792f326f}
 
-[req=set](r_set.md#reference_2CAC1A03EAF44A7986E18F2898384F98) , [req=mbrSet](r_mbrset.md#reference_603D75BABDE74508A878C27BD4CCED73), [Media Set Requests](r_media_set_requests.md#reference_F2F2AA11208B47609FE17848D3B86A0B) 
+[req=set](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-req/r-set.md) , [req=mbrSet](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-req/r-mbrset.md), [Media Set Requests](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-syntax-and-features/r-media-set-requests.md) 

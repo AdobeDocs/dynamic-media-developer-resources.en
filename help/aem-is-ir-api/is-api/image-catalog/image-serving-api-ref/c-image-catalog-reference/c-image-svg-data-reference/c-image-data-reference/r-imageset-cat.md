@@ -115,7 +115,7 @@ A video set consists of a simple list of video ids where each id references an e
 
 Text string. Comma-separated list of `catalog::Id` values, absolute Image Server file paths, or file paths relative to `attribute::RootPath`. The same image may be referenced more than once in the set. The defining catalog record may appear in the set at any location.
 
-This field participates in text string localization. In addition to *`label`* strings (part of the *`solidColorSpecifier`*) all delimited fields are localized if they include at least one ' `^loc=…^`' localization token. Refer to [Text String Localization](r_text_string_localization.md#reference_CAE5F6CEA4764762852ACAAB3B7B3527) in the *HTTP Protocol Reference* for details.
+This field participates in text string localization. In addition to *`label`* strings (part of the *`solidColorSpecifier`*) all delimited fields are localized if they include at least one ' `^loc=…^`' localization token. Refer to [Text String Localization](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-syntax-and-features/r-text-string-localization.md) in the *HTTP Protocol Reference* for details.
 
 ## Default {#section-c3a60e360393478284f0f2d2da5b963b}
 
@@ -123,4 +123,4 @@ None.
 
 ## See Also {#section-4c99c44f99074aa0a4ed90ba183bbc25}
 
-` [req=imageset](r_req.md#reference_907CDB4A97034DB7AD94695F25552E76)`, ` [attribute::RootPath](r_rootpath.md#reference_17D57E5967BE403B8408FA7214017494)`, [Object Id Translation](r_object_id_translation.md#reference_CF3E34E6CBB346D69DED9982BFDEF414), [Text String Localization](r_text_string_localization.md#reference_CAE5F6CEA4764762852ACAAB3B7B3527), Image Serving Viewers Documentation 
+` [req=imageset](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-req/r-req.md)`, ` [attribute::RootPath](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-rootpath.md)`, [Object Id Translation](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-syntax-and-features/r-object-id-translation.md), [Text String Localization](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-syntax-and-features/r-text-string-localization.md), Image Serving Viewers Documentation 

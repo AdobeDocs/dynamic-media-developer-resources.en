@@ -24,4 +24,4 @@ None.
 
 ## See also {#section-0051fb6bbdb14b47886dc44d61b78cf8}
 
-[font::Name](r_name_font.md#reference_C55889877DC54AABB60734DCDE86EE76) 
+[font::Name](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-font-map-reference/r-name-font.md) 

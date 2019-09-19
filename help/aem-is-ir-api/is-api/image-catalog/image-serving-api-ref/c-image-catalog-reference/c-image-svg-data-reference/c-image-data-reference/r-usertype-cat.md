@@ -22,4 +22,4 @@ None.
 
 ## See also {#section-b8dfd2f3bdb24334bcd759d2b366e3c7}
 
-[type=](r_type.md#reference_89094FD1C50C444EB082CD266769CCCB) , [HTTP Protocol - Serving Static Contents](r_serving_static_non-image_content.md#reference_CBE50E697FDF4C7BBB0084F98B7739DA) 
+[type=](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-type.md) , [HTTP Protocol - Serving Static Contents](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-syntax-and-features/r-serving-static-non-image-content.md) 

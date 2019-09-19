@@ -10,6 +10,8 @@ uuid: 2515588d-e2eb-4ea6-ae9c-d6a873c712e8
 
 # Operation parameters{#operation-parameters}
 
+<!--ALL BROKEN LINKS. NEED TO MOVE FILES FROM aem-ips-api/c-operations-intro to operations/c-operations-intro-->
+
 * [addCompany](r-add-company.md)
 * [addCompanyMembership](r-add-company-membership.md)
 * [addGroupMembers](r-add-group-members.md)

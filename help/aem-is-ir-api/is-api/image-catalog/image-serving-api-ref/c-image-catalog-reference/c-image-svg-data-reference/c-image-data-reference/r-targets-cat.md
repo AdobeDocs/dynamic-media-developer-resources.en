@@ -53,7 +53,7 @@ Up to four properties may be associated with each zoom target:
 
 Target. *`num`*.rect is required for each zoom target and must specify a rectangle fully within the image. All other properties are optional.
 
-*`label`* and *`userData`* participate in text string localization. Refer to [Text String Localization](r_text_string_localization.md#reference_CAE5F6CEA4764762852ACAAB3B7B3527) in the *HTTP Protocol Reference* for details.
+*`label`* and *`userData`* participate in text string localization. Refer to [Text String Localization](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-syntax-and-features/r-text-string-localization.md) in the *HTTP Protocol Reference* for details.
 
 For applications involving the spin and brochure viewer clients, the zoom targets must be defined in the same catalog record that defines the image set. Any zoom target definitions in the catalog records of the members of the image set are ignored by the viewer.
 
@@ -61,7 +61,7 @@ The Scene7 viewers expect zoom targets in the coordinates of the full-resolution
 
 ## Properties {#section-b3f8eba4985f4b00bb935d592fe770f9}
 
-[Property data](r_property_data.md#reference_835FF0D97B9C4C24A6E6E74BAE4EDE59) value.
+[Property data](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-overview/c-common-data-types/r-property-data.md) value.
 
 ## Default {#section-feab29f6575e482391086a57f547543c}
 
@@ -69,4 +69,4 @@ None.
 
 ## See also {#section-83dea73b1dbf4aa1b64b0aae2933e6e1}
 
-[catalog::ImageSet](../../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-imageset-cat.md#reference-4764d347afd64afdaede9a74c7565256) , [catalog::Modifier](../../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-modifier-cat.md#reference-d2c6884b3a2248fab81a112d27969834), [req=](r_req.md#reference_907CDB4A97034DB7AD94695F25552E76), [Text String Localization](r_text_string_localization.md#reference_CAE5F6CEA4764762852ACAAB3B7B3527) 
+[catalog::ImageSet](../../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-imageset-cat.md#reference-4764d347afd64afdaede9a74c7565256) , [catalog::Modifier](../../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-modifier-cat.md#reference-d2c6884b3a2248fab81a112d27969834), [req=](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-req/r-req.md), [Text String Localization](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-syntax-and-features/r-text-string-localization.md) 

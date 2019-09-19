@@ -12,7 +12,7 @@ uuid: 39d39f42-cd1b-46f5-859c-f32b6b5a20b3
 
 Image catalogs provide information about images and supporting data such as fonts and ICC profiles, to the server.
 
-* [Overview](c-overview.md)
-* [Updating image catalogs](*c-updating-image-catalogs.md)
-* [Default catalog](*c-default-catalog.md)
-* [Catalog attributes](*c-catalog-attributes/c-catalog-attributes.md)
+* [Overview](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-overview/c-overview.md)
+* [Updating image catalogs](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-overview/c-updating-image-catalogs.md)
+* [Default catalog](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-overview/c-default-catalog.md)
+* [Catalog attributes](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-overview/c-catalog-attributes/c-catalog-attributes.md)
