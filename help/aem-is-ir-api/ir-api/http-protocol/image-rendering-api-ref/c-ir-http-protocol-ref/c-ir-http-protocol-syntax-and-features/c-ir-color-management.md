@@ -20,7 +20,7 @@ Cabinet style files (.vnc) and window coverings style files ( [!DNL .vnw]) are n
 
 **See also**
 
-[International Color Consortium](http://www.color.org/), [ `icc=`](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-icc.md#reference-86a2fff3cef24982ad2063d977a16e06), [ `iccEmbed=`](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-iccembed.md#reference-47a433138c7c4b29b9b29871b2491a7f), `attribute::IccProfile`&#42;, `attribute::IccProfileSrc*`, `attribute::IccRenderIntent`, `attribute::IccBlackPointCompensation`, `attribute::IccDither`, ICC Profile Maps
+[International Color Consortium](http://www.color.org/index.xalter) , [ `icc=`](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-icc.md#reference-86a2fff3cef24982ad2063d977a16e06) , [ `iccEmbed=`](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-iccembed.md#reference-47a433138c7c4b29b9b29871b2491a7f) , `attribute::IccProfile*` , `attribute::IccProfileSrc*`, `attribute::IccRenderIntent` , `attribute::IccBlackPointCompensation` , `attribute::IccDither` , ICC Profile Maps
 
 ## Default color spaces {#section-8ce27edf42e746febe4654f8f19b9c0c}
 

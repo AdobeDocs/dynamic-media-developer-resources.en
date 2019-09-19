@@ -26,7 +26,7 @@ The `<expression>` element can be empty or contain a simple search string or a r
 
 A match always occurs when `<expression>` is empty or not specified; this is equivalent to specifying `<expression>.*</expression>`.
 
-The implementation is based on the Java package [java.util.regex](http://docs.oracle.com/javase/1.4.2/docs/api/java/util/regex/package-summary.html), which provides regular expression syntax similar to Perl's.
+The implementation is based on the Java package [java.util.regex](https://www2.cs.duke.edu/csed/java/jdk1.4.2/docs/api/), which provides regular expression syntax similar to Perl's.
 
 ## Notes {#section-10b472a902674893b49ca49a7052c366}
 
@@ -38,4 +38,4 @@ All characters between the `<expression>` and `</expression>` tags are passed to
 
 ## See also {#section-ca98548917d945f4b71f18208f0e6840}
 
-[java.util.regex](http://docs.oracle.com/javase/1.4.2/docs/api/java/util/regex/package-summary.html) 
+[java.util.regex](https://www2.cs.duke.edu/csed/java/jdk1.4.2/docs/api/) 

@@ -94,7 +94,7 @@ The default behavior can be modified with the `OnMatch` attribute of the `<rule>
 
 Simple string matching works for very basic applications, but regular expressions are required in most instances. While regular expressions are industry-standard, the specific implementation varies from instance to instance.
 
-[package java.util.regex](http://docs.oracle.com/javase/1.4.2/docs/api/java/util/regex/package-summary.html) describes the specific regular expression implementation used by Image Serving.
+[package java.util.regex](https://www2.cs.duke.edu/csed/java/jdk1.4.2/docs/api/) describes the specific regular expression implementation used by Image Serving.
 
 ## Captured substrings {#section-8057cd65d48949ffb6a50e929bd3688b}
 
@@ -110,4 +110,4 @@ Ruleset examples are provided in the corresponding section of the Image Catalog 
 
 ## See also {#section-cdaacf84f92c4bffbb4b76197b4e531a}
 
-[package java.util.regex](http://docs.oracle.com/javase/1.4.2/docs/api/java/util/regex/package-summary.html) 
+[package java.util.regex](https://www2.cs.duke.edu/csed/java/jdk1.4.2/docs/api/) 

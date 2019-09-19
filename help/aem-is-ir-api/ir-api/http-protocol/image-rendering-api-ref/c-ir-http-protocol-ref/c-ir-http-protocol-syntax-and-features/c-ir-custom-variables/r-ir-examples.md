@@ -22,10 +22,10 @@ All vignettes that will be used are listed in the vignette map of the material c
 
 The client can now make the following request to retrieve the default image (this uses the variables defined at the beginning of the template):
 
-[!DNL http://server/myCat/template]
+[!DNL `https://server/myCat/template`]
 
-The following request specifies specific content to be rendered:
+The following request specifies certain content to render:
 
-[!DNL http://server/myCat/template?$vig=specialCup&$text=Happy%20Birthday!\line%20Pauline&$color=230,20,20]
+[!DNL `https://server/myCat/template?$vig=specialCup&$text=Happy%20Birthday!\line%20Pauline&$color=230,20,20`]
 
 Refer to Image Serving Documentation for details about the Image Serving `text=` command. 

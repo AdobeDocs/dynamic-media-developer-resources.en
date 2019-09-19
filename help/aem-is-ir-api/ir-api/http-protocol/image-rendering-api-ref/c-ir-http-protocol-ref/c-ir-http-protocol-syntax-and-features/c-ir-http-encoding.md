@@ -26,4 +26,4 @@ The above request fragment must be encoded as follows:
 
 ## See also {#section-d31268a02fe345e3abf0a4eb95a1dac5}
 
-[HTTP/1.1 Specification (RFC 2616)](http://www.w3.org/Protocols/rfc2616/rfc2616.html)  
+[HTTP/1.1 Specification (RFC 2616)](https://www.w3.org/Protocols/rfc2616/rfc2616.html)  
