@@ -17,7 +17,7 @@ user-guide-title: Dynamic Media Classic Image Authoring Guide
       + [Defining a Cabinet Component](content-authoring-tool/c-cat-about-cat/c-cat-creating-cabinet-files/t-cat-cabinet-comp.md)
       + [Defining Cabinet Segments](content-authoring-tool/c-cat-about-cat/c-cat-creating-cabinet-files/t-cat-def-cabinet-segments.md)
       + [Saving Your Cabinet Style](content-authoring-tool/c-cat-about-cat/c-cat-creating-cabinet-files/t-cat-saving-cabinet-style.md)
-   + Window Covering Files {#creating-window-covering-files.md}
+   + Window Covering Files {#creating-window-covering-files}
       + [Creating Window Covering Files](content-authoring-tool/c-cat-about-cat/c-cat-creating-window-covering-files/c-cat-creating-window-covering-files.md)
       + [About Window Coverings](content-authoring-tool/c-cat-about-cat/c-cat-creating-window-covering-files/c-cat-window-coverings.md)
       + [Creating a New Window Covering File](content-authoring-tool/c-cat-about-cat/c-cat-creating-window-covering-files/t-cat-new-window-covering-file.md)
@@ -421,7 +421,7 @@ user-guide-title: Dynamic Media Classic Image Authoring Guide
          + [Adjusting Color Balance](vignette-authoring-tool/c-vat-troubleshooting/r-vat-corr-color/t-vat-adj-color-bal.md)
          + [Selecting a Color with a Magic Wand Tool](vignette-authoring-tool/c-vat-troubleshooting/r-vat-corr-color/t-vat-sel-color-magic-wand.md)
       + Overcoming imperfections {#overcoming-imperfections}
-      + [Overcoming Imperfections](vignette-authoring-tool/c-vat-troubleshooting/r-vat-imperfections/r-vat-imperfections.md)
+         + [Overcoming Imperfections](vignette-authoring-tool/c-vat-troubleshooting/r-vat-imperfections/r-vat-imperfections.md)
          + [Fixing Smudges, Tears, Spots, and Holes](vignette-authoring-tool/c-vat-troubleshooting/r-vat-imperfections/c-vat-fix-smudges.md)
          + [Using the Perspective tab](vignette-authoring-tool/c-vat-troubleshooting/r-vat-imperfections/t-vat-use-persp-tab.md)
          + [Using the Lighting tab](vignette-authoring-tool/c-vat-troubleshooting/r-vat-imperfections/t-vat-use-lighting-tab/t-vat-use-lighting-tab.md)
@@ -434,7 +434,8 @@ user-guide-title: Dynamic Media Classic Image Authoring Guide
          + [About the Material Repeat tool](vignette-authoring-tool/c-vat-troubleshooting/r-vat-full-tile-repeat/c-vat-abt-mat-repeat-tool/c-vat-abt-mat-repeat-tool.md)
          + [Changing Material Repeat tool options](vignette-authoring-tool/c-vat-troubleshooting/r-vat-full-tile-repeat/c-vat-abt-mat-repeat-tool/t-vat-chg-mat-repeat-tool-opts.md)
       + [Technical Support](vignette-authoring-tool/c-vat-troubleshooting/r-vat-tech-supp.md)
-   + [Reference](vignette-authoring-tool/c-vat-ref/c-vat-ref.md)
+   + Reference {#reference}
+      + [Reference Overview](vignette-authoring-tool/c-vat-ref/c-vat-ref.md)
       + Menus {#menus}
          + [Menus Overview](vignette-authoring-tool/c-vat-ref/r-vat-menus/r-vat-menus.md)
          + [The File Menu](vignette-authoring-tool/c-vat-ref/r-vat-menus/c-vat-file-menu.md)
