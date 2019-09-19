@@ -18,6 +18,6 @@ The [!DNL Histogram] displays 255 possible brightness values for each object or 
 
 You can set the following options for the [!DNL Histogram] tool:
 
-** Curves:** [Makes the [!DNL Histogram] tool work more like the Curves tool in [!DNL Photoshop]](t_vat_histogram_curves_option.md#task_10B6FA53EC0F4FE98ACC5097E2A67D21).
+**Curves:** [Makes the [!DNL Histogram] tool work more like the Curves tool in [!DNL Photoshop]](/help/aem-ia/vignette-authoring-tool/c-vat-work-illum-pg/c-vat-illum-pg-tools/c-vat-histo-curves-opt/c-vat-histo-curves-opt.md).
 
-** Update on Drag:** When this box is checked, the tool is interactive. To improve performance, clear the check box. You can see the results of your changes each time you release the mouse button. 
+**Update on Drag:** When this box is checked, the tool is interactive. To improve performance, clear the check box. You can see the results of your changes each time you release the mouse button. 

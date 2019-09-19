@@ -17,7 +17,7 @@ The following fields are recognized in image and SVG data files.
 <table id="table_823F89CAD494441690D28F18005F774C"> 
  <tbody> 
   <tr> 
-   <td colname="col1"> <p><span class="codeph"> <a href="r_id_cat.md#reference_C3F3CE9AAAC4451796A846D6722383E5" type="reference" format="dita" scope="local"> Id</a></span> </p> </td> 
+   <td colname="col1"> <p><span class="codeph"> <a href="/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-id-cat.md" type="reference" format="dita" scope="local"> Id</a></span> </p> </td> 
    <td colname="col2"> <p>Catalog record identifier (index key). </p> </td> 
   </tr> 
  </tbody> 
@@ -36,11 +36,11 @@ The following fields are recognized in image and SVG data files.
    <td colname="col2"> <p>Cache expiration (time-to-live) for reply images. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p><span class="codeph"> <a href="r_modifier_cat.md#reference_D2C6884B3A2248FAB81A112D27969834" type="reference" format="dita" scope="local"> Modifier</a> </span> </p> </td> 
+   <td colname="col1"> <p><span class="codeph"> <a href="/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-modifier-cat.md" type="reference" format="dita" scope="local"> Modifier</a> </span> </p> </td> 
    <td colname="col2"> <p>Prefix request modifiers. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p><span class="codeph"> <a href="r_postmodifier_cat.md#reference_4BC3738A812B4E7C8A180E27BFBD770B" type="reference" format="dita" scope="local"> PostModifier</a> </span> </p> </td> 
+   <td colname="col1"> <p><span class="codeph"> <a href="/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-postmodifier-cat.md" type="reference" format="dita" scope="local"> PostModifier</a> </span> </p> </td> 
    <td colname="col2"> <p>Postfix request modifiers. </p> </td> 
   </tr> 
   <tr> 
@@ -55,15 +55,15 @@ The following fields are recognized in image and SVG data files.
 <table id="table_F2A33C2EB17A4EACB00DDEF7FB1BB0D4"> 
  <tbody> 
   <tr> 
-   <td colname="col1"> <p><span class="codeph"> <a href="r_anchor_cat.md#reference_3AE039791E6644549399E8AEB503DDCF" type="reference" format="dita" scope="local"> Anchor</a></span> </p> </td> 
+   <td colname="col1"> <p><span class="codeph"> <a href="/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-anchor-cat.md" type="reference" format="dita" scope="local"> Anchor</a></span> </p> </td> 
    <td colname="col2"> <p>Image anchor point. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p><span class="codeph"> <a href="r_maskpath_cat.md#reference_F82B42535FFF42959E74A7C1E605C931" type="reference" format="dita" scope="local"> MaskPath</a></span> </p> </td> 
+   <td colname="col1"> <p><span class="codeph"> <a href="/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-maskpath-cat.md" type="reference" format="dita" scope="local"> MaskPath</a></span> </p> </td> 
    <td colname="col2"> <p>Mask file path. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p><span class="codeph"> <a href="r_path_cat.md#reference_306AFCAFF172440CA81B85DA8D78213C" type="reference" format="dita" scope="local"> Path</a></span> </p> </td> 
+   <td colname="col1"> <p><span class="codeph"> <a href="/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-path-cat.md" type="reference" format="dita" scope="local"> Path</a></span> </p> </td> 
    <td colname="col2"> <p>Image/SVG file path. </p> </td> 
   </tr> 
   <tr> 
@@ -75,7 +75,7 @@ The following fields are recognized in image and SVG data files.
    <td colname="col2"> <p>Object resolution. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p><span class="codeph"> <a href="r_size_cat.md#reference_5A82CFE33ABE445998C586FFB6820A47" type="reference" format="dita" scope="local"> Size</a></span> </p> </td> 
+   <td colname="col1"> <p><span class="codeph"> <a href="/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-size-cat.md" type="reference" format="dita" scope="local"> Size</a></span> </p> </td> 
    <td colname="col2"> <p>Image size. </p> </td> 
   </tr> 
  </tbody> 
@@ -101,23 +101,23 @@ The following fields are recognized in image and SVG data files.
 <table id="table_B6A9A702F533494E85CEC1AD42EC728A"> 
  <tbody> 
   <tr> 
-   <td colname="col1"> <p><span class="codeph"> <a href="r_assettype_cat.md#reference_6177CCBCBA05496E9017D53FD898BCA3" type="reference" format="dita" scope="local"> AssetType</a></span> </p> </td> 
+   <td colname="col1"> <p><span class="codeph"> <a href="/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-assettype-cat.md" type="reference" format="dita" scope="local"> AssetType</a></span> </p> </td> 
    <td colname="col2"> <p>Asset type. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p><span class="codeph"> <a href="r_imageset_cat.md#reference_4764D347AFD64AFDAEDE9A74C7565256" type="reference" format="dita" scope="local"> ImageSet</a></span> </p> </td> 
+   <td colname="col1"> <p><span class="codeph"> <a href="/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-imageset-cat.md" type="reference" format="dita" scope="local"> ImageSet</a></span> </p> </td> 
    <td colname="col2"> <p>Image set data. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p><span class="codeph"> <a href="r-map-cat.md" type="reference" format="dita" scope="local"> Map</a></span> </p> </td> 
+   <td colname="col1"> <p><span class="codeph"> <a href="/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-map-cat.md" type="reference" format="dita" scope="local"> Map</a></span> </p> </td> 
    <td colname="col2"> <p>Image map data. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p><span class="codeph"> <a href="r_targets_cat.md#reference_4C3865D34A34421786F2A4070955575A" type="reference" format="dita" scope="local"> Targets</a></span> </p> </td> 
+   <td colname="col1"> <p><span class="codeph"> <a href="/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-targets-cat.md" type="reference" format="dita" scope="local"> Targets</a></span> </p> </td> 
    <td colname="col2"> <p>Zoom target data. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p><span class="codeph"> <a href="r_userdata_cat.md#reference_1E552AEAD08E41489E82EC16936BC0DF" type="reference" format="dita" scope="local"> UserData</a></span> </p> </td> 
+   <td colname="col1"> <p><span class="codeph"> <a href="/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-userdata-cat.md" type="reference" format="dita" scope="local"> UserData</a></span> </p> </td> 
    <td colname="col2"> <p>User-defined data. </p> </td> 
   </tr> 
  </tbody> 

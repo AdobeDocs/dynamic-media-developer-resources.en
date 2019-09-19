@@ -14,7 +14,7 @@ The following fields are supported for static (non-image) content catalogs.
 
 <table id="simpletable_D1DEF6268BA744AD804B9BA3D9AEE800"> 
  <tr class="strow"> 
-  <td class="stentry"> <p><span class="codeph"> <a href="r_id_cat.md#reference_C3F3CE9AAAC4451796A846D6722383E5" type="reference" format="dita" scope="local"> Id</a></span> </p></td> 
+  <td class="stentry"> <p><span class="codeph"> <a href="/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-id-cat.md" type="reference" format="dita" scope="local"> Id</a></span> </p></td> 
   <td class="stentry"> <p>Catalog record identifier (index key). </p></td> 
  </tr> 
  <tr class="strow"> 
@@ -26,19 +26,19 @@ The following fields are supported for static (non-image) content catalogs.
   <td class="stentry"> <p>File modification time stamp. </p></td> 
  </tr> 
  <tr class="strow"> 
-  <td class="stentry"> <p><span class="codeph"> <a href="r_usertype_cat.md#reference_F4C74E3B74694F90A1A402BBD8562399" type="reference" format="dita" scope="local"> UserType</a></span> </p></td> 
+  <td class="stentry"> <p><span class="codeph"> <a href="/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-usertype-cat.md" type="reference" format="dita" scope="local"> UserType</a></span> </p></td> 
   <td class="stentry"> <p>User-defined object type. </p></td> 
  </tr> 
  <tr class="strow"> 
-  <td class="stentry"> <p><span class="codeph"> <a href="r_userdata_cat.md#reference_1E552AEAD08E41489E82EC16936BC0DF" type="reference" format="dita" scope="local"> UserData</a></span> </p></td> 
+  <td class="stentry"> <p><span class="codeph"> <a href="/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-userdata-cat.md" type="reference" format="dita" scope="local"> UserData</a></span> </p></td> 
   <td class="stentry"> <p>User-defined properties. </p></td> 
  </tr> 
  <tr class="strow"> 
-  <td class="stentry"> <p><span class="codeph"> <a href="r_videobitrate_cat.md#reference_7BE40A4857814AB28B74CCB93FF03AEC" type="reference" format="dita" scope="local"> VideoBitRate</a></span> </p></td> 
+  <td class="stentry"> <p><span class="codeph"> <a href="/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-videobitrate-cat.md" type="reference" format="dita" scope="local"> VideoBitRate</a></span> </p></td> 
   <td class="stentry"> <p>Video bit rate. </p></td> 
  </tr> 
  <tr class="strow"> 
-  <td class="stentry"> <p><span class="codeph"> <a href="r_videosize_cat.md#reference_049DF153E60A4478B8FF96272C6C1C78" type="reference" format="dita" scope="local"> VideoSize</a></span> </p></td> 
+  <td class="stentry"> <p><span class="codeph"> <a href="/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-videosize-cat.md" type="reference" format="dita" scope="local"> VideoSize</a></span> </p></td> 
   <td class="stentry"> <p>Video size. </p></td> 
  </tr> 
 </table>

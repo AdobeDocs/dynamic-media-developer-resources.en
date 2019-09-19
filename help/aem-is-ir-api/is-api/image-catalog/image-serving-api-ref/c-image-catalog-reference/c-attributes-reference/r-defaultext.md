@@ -24,4 +24,4 @@ Inherited from `default::DefaultExt` if not defined. If defined but empty, no de
 
 ## See also {#section-d7c408b979844643adff8258f500eb7c}
 
-[catalog::Path](r_path_cat.md#reference_306AFCAFF172440CA81B85DA8D78213C) , [catalog::MaskPath](r_maskpath_cat.md#reference_F82B42535FFF42959E74A7C1E605C931) 
+[catalog::Path](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-path-cat.md) , [catalog::MaskPath](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-maskpath-cat.md) 
