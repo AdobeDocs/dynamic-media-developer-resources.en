@@ -440,7 +440,7 @@ user-guide-title: Dynamic Media Developer Image Production System API
    + [authorizationFault](faults/c-faults/r-authorization-fault.md)
    + [ipsApiFault](faults/c-faults/r-ips-api-fault.md)
 + Change log {#change-log}
-   + [Change log](c-change-log/c-change-log.md)
+   + [Change log](change-log/c-change-log.md)
    + Version 6.0 {#version-6-0}
       + [Version 6.0](change-log/c-change-log/c-6/c-6.md)
       + [Operations: New and Modified](change-log/c-change-log/c-6/r-6-operations.md)
