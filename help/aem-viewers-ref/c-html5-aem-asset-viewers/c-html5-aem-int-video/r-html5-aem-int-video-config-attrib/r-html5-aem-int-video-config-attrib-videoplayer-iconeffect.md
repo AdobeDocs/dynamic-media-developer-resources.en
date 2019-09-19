@@ -1,6 +1,6 @@
 ---
-description: Configuration attribute for Video Video Viewer.
-seo-description: Configuration attribute for Video Video Viewer.
+description: Configuration attribute for Interactive Video Viewer.
+seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: VideoPlayer.iconeffect
 solution: Experience Manager
 title: VideoPlayer.iconeffect
@@ -10,7 +10,7 @@ uuid: a403d44d-d5b5-4d09-876e-39146585704f
 
 # VideoPlayer.iconeffect{#videoplayer-iconeffect}
 
-Configuration attribute for Video Video Viewer.
+Configuration attribute for Interactive Video Viewer.
 
  ` [VideoPlayer.|<containerId>_videoPlayer.]iconeffect=0|1[, *`count`*][, *`fade`*][, *`autoHide`*]`
 

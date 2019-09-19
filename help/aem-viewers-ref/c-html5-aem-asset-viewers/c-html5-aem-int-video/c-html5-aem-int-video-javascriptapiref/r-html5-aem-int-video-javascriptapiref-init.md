@@ -1,6 +1,6 @@
 ---
-description: JavaScript API reference for Video Video Viewer.
-seo-description: JavaScript API reference for Video Video Viewer.
+description: JavaScript API reference for Interactive Video Viewer.
+seo-description: JavaScript API reference for Interactive Video Viewer.
 seo-title: init
 solution: Experience Manager
 title: init
@@ -10,11 +10,11 @@ uuid: e6ec0730-1ddc-4026-939c-2c9f8ecee5c7
 
 # init{#init}
 
-JavaScript API reference for Video Video Viewer.
+JavaScript API reference for Interactive Video Viewer.
 
  `init()`
 
-Starts the initialization of the Video Video Viewer. By this time the container DOM element must be created so that the viewer code can find it by its ID.
+Starts the initialization of the Interactive Video Viewer. By this time the container DOM element must be created so that the viewer code can find it by its ID.
 
 If the container element is not a part of the web page layout just yet (for example, it may be hidden using `display:none` style assigned to it), the viewer suspends its initialization process until the moment when the web page brings the container element back to the layout. When this happens, the viewer load automatically resumes.
 

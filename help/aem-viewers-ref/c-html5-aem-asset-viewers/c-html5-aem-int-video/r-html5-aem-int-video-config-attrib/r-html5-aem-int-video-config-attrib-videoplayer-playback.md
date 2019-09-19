@@ -1,6 +1,6 @@
 ---
-description: Configuration attribute for Video Video Viewer.
-seo-description: Configuration attribute for Video Video Viewer.
+description: Configuration attribute for Interactive Video Viewer.
+seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: VideoPlayer.playback
 solution: Experience Manager
 title: VideoPlayer.playback
@@ -10,7 +10,7 @@ uuid: 2576f433-b9c2-4da1-9a51-f66b71d5df99
 
 # VideoPlayer.playback{#videoplayer-playback}
 
-Configuration attribute for Video Video Viewer.
+Configuration attribute for Interactive Video Viewer.
 
  `[VideoPlayer.|<containerId>_videoPlayer.]playback=auto|progressive`
 

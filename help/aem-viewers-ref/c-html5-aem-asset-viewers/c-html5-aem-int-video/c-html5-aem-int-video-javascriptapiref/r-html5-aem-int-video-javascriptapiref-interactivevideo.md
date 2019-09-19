@@ -1,6 +1,6 @@
 ---
-description: JavaScript API reference for Video Video Viewer.
-seo-description: JavaScript API reference for Video Video Viewer.
+description: JavaScript API reference for Interactive Video Viewer.
+seo-description: JavaScript API reference for Interactive Video Viewer.
 seo-title: InteractiveVideoViewer
 solution: Experience Manager
 title: InteractiveVideoViewer
@@ -10,7 +10,7 @@ uuid: 10514580-408f-4cbf-a2e4-be2040aa8a85
 
 # InteractiveVideoViewer{#interactivevideoviewer}
 
-JavaScript API reference for Video Video Viewer.
+JavaScript API reference for Interactive Video Viewer.
 
  `InteractiveVideoViewer([config])`
 

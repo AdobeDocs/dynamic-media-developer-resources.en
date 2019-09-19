@@ -1,6 +1,6 @@
 ---
-description: Configuration attribute for Video Video Viewer.
-seo-description: Configuration attribute for Video Video Viewer.
+description: Configuration attribute for Interactive Video Viewer.
+seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: InteractiveSwatches.enabledragging
 solution: Experience Manager
 title: InteractiveSwatches.enabledragging
@@ -10,7 +10,7 @@ uuid: 9a93e6b3-3441-4987-b9e6-a964dbf2247d
 
 # InteractiveSwatches.enabledragging{#interactiveswatches-enabledragging}
 
-Configuration attribute for Video Video Viewer.
+Configuration attribute for Interactive Video Viewer.
 
  ` [InteractiveSwatches.|<containerId>_interactiveSwatches.]enabledragging=0|1[, *`overdragvalue`*]`
 

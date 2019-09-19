@@ -1,6 +1,6 @@
 ---
-description: Configuration attribute for Video Video Viewer.
-seo-description: Configuration attribute for Video Video Viewer.
+description: Configuration attribute for Interactive Video Viewer.
+seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: CallToAction.textpos
 solution: Experience Manager
 title: CallToAction.textpos
@@ -10,7 +10,7 @@ uuid: 3592daf7-6222-4c42-b6bb-ab3ef5b8ae70
 
 # CallToAction.textpos{#calltoaction-textpos}
 
-Configuration attribute for Video Video Viewer.
+Configuration attribute for Interactive Video Viewer.
 
  `[CallToAction.|<containerId>_callToAction.]textpos=bottom|top|left|right|none|tooltip`
 

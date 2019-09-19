@@ -1,6 +1,6 @@
 ---
-description: JavaScript API reference for Video Video Viewer.
-seo-description: JavaScript API reference for Video Video Viewer.
+description: JavaScript API reference for Interactive Video Viewer.
+seo-description: JavaScript API reference for Interactive Video Viewer.
 seo-title: setContainerId
 solution: Experience Manager
 title: setContainerId
@@ -10,7 +10,7 @@ uuid: 2e453c1f-7940-461b-910f-4247b0fa9120
 
 # setContainerId{#setcontainerid}
 
-JavaScript API reference for Video Video Viewer.
+JavaScript API reference for Interactive Video Viewer.
 
  ` setContainerId( *`containerId`*)`
 

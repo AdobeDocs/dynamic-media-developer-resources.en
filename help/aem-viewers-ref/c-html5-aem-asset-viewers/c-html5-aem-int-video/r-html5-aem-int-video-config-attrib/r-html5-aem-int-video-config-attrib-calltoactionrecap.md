@@ -1,6 +1,6 @@
 ---
-description: Configuration attribute for Video Video Viewer.
-seo-description: Configuration attribute for Video Video Viewer.
+description: Configuration attribute for Interactive Video Viewer.
+seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: callToActionRecap
 solution: Experience Manager
 title: callToActionRecap
@@ -10,7 +10,7 @@ uuid: eda844e5-8ad2-4617-b38a-da0f7e981f68
 
 # callToActionRecap{#calltoactionrecap}
 
-Configuration attribute for Video Video Viewer.
+Configuration attribute for Interactive Video Viewer.
 
  `callToActionRecap=0|1`
 

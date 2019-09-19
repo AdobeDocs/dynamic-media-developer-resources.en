@@ -179,7 +179,7 @@ You add the viewer to a web page by doing the following:
    </script>
    ```
 
-   The following code is a complete example of a trivial web page that embeds the Video Video Viewer with a fixed size:
+   The following code is a complete example of a trivial web page that embeds the Interactive Video Viewer with a fixed size:
 
    ```
    <!DOCTYPE html> 

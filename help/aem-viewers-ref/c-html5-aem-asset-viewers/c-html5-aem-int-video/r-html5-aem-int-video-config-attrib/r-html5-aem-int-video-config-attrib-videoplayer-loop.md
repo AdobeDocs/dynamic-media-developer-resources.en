@@ -1,6 +1,6 @@
 ---
-description: Configuration attribute for Video Video Viewer.
-seo-description: Configuration attribute for Video Video Viewer.
+description: Configuration attribute for Interactive Video Viewer.
+seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: VideoPlayer.loop
 solution: Experience Manager
 title: VideoPlayer.loop
@@ -10,7 +10,7 @@ uuid: 6cc91f08-fff1-4b93-9807-5435335c8df5
 
 # VideoPlayer.loop{#videoplayer-loop}
 
-Configuration attribute for Video Video Viewer.
+Configuration attribute for Interactive Video Viewer.
 
  `[VideoPlayer.|<containerId>_videoPlayer.]loop=0|1`
 

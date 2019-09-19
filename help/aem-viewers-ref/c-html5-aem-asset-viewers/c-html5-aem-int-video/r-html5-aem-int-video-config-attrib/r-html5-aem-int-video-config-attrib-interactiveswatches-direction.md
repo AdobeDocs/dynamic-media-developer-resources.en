@@ -1,6 +1,6 @@
 ---
-description: Configuration attribute for Video Video Viewer.
-seo-description: Configuration attribute for Video Video Viewer.
+description: Configuration attribute for Interactive Video Viewer.
+seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: InteractiveSwatches.direction
 solution: Experience Manager
 title: InteractiveSwatches.direction
@@ -10,7 +10,7 @@ uuid: 08095ab5-f74b-4da6-8f8d-df377995455e
 
 # InteractiveSwatches.direction{#interactiveswatches-direction}
 
-Configuration attribute for Video Video Viewer.
+Configuration attribute for Interactive Video Viewer.
 
  `[InteractiveSwatches.|<containerId>_interactiveSwatches.]direction=auto|left|right`
 
