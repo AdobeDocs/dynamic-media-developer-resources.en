@@ -26,4 +26,4 @@ The center point of the image is used if this field is not present or if it is e
 
 ## See also {#section-f605d29c3f5d48ad8e2a374f11886f19}
 
-[anchor=](r_anchor.md#reference_6661E548AB284B82828D8D94C8DDEB7C) , [origin=](r_origin.md#reference_E11C7AC06E2240CC884C3FEC98F05138) 
+[anchor=](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-anchor.md) , [origin=](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-origin.md) 

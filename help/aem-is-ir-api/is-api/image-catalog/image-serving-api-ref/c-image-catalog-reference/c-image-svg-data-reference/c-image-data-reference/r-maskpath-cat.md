@@ -14,7 +14,7 @@ Mask file path. Relative or absolute path and name for a mask image file associa
 
 Allows attaching separate masks to images.
 
-The server uses the path resolution rules described in [Managing Source Data](c_configuration_and_administration.md#concept_1EC4D9F0E58A430CAE045761F1FF9173) to find the data file.
+The server uses the path resolution rules described in [Managing Source Data](/help/aem-is-ir-api/is-api/image-serving-api-ref/c-configuration-and-administration/c-configuration-and-administration.md) to find the data file.
 
 ## Properties {#section-cdc3b7e2811e41008479cd97887c01b7}
 
@@ -32,4 +32,4 @@ None.
 
 ## See also {#section-68d262f5949c4959b8723ba44611d1dc}
 
-[attribute::RootPath](r_rootpath.md#reference_17D57E5967BE403B8408FA7214017494) , [attribute::DefaultExt](r_defaultext.md#reference_1B96C71A253049DDAEAE09892D3484A0), [catalog::Path](../../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-path-cat.md#reference-306afcaff172440ca81b85da8d78213c), [mask=](r_mask.md#reference_922254E027404FB890B850E2723EE06E), [req=mask](r_req.md#reference_907CDB4A97034DB7AD94695F25552E76) 
+[attribute::RootPath](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-rootpath.md) , [attribute::DefaultExt](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-defaultext.md), [catalog::Path](../../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-path-cat.md#reference-306afcaff172440ca81b85da8d78213c), [mask=](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-mask.md), [req=mask](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-req/r-req.md) 

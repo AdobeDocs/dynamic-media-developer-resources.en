@@ -24,4 +24,4 @@ None.
 
 ## See also {#section-a3a87a03d8e14876b7dbc2d4ad45c5ef}
 
-[attribute::RootPath](r_rootpath.md#reference_17D57E5967BE403B8408FA7214017494) 
+[attribute::RootPath](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-rootpath.md) 
