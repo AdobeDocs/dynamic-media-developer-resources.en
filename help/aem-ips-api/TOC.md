@@ -393,7 +393,7 @@ user-guide-title: Dynamic Media Developer Image Production System API
    + [ZoomTargetArray](types/c-data-types/r-zoom-target-array.md)
    + [ZoomTargetDefinition](types/c-data-types/r-zoom-target-definition.md)
    + [ZoomTargetDefinitionArray](types/c-data-types/r-zoom-target-definition-array.md)
-+ String constants
++ String constants {#sting-constants}
    + [String constants](c-string-constants/c-string-constants.md)
    + [Active Job States](string-constants/c-string-constants/r-active-job-states.md)
    + [Asset Search System Fields](string-constants/c-string-constants/r-asset-search-system-fields.md)
@@ -445,28 +445,28 @@ user-guide-title: Dynamic Media Developer Image Production System API
       + [Version 6.0](change-log/c-change-log/c-6/c-6.md)
       + [Operations: New and Modified](change-log/c-change-log/c-6/r-6-operations.md)
       + [Data Types: New and Modified](change-log/c-change-log/c-6/r-6-types.md)
-   + Version 4.5 (#version-4-5)
+   + Version 4.5 {#version-4-5}
       + [Version 4.5](change-log/c-change-log/c-4-5/c-4-5.md)
       + [Operations: New and Modified](change-log/c-change-log/c-4-5/r-4-5-operations.md)
       + [Data Types: New and Modified](change-log/c-change-log/c-4-5/r-4-5-types.md)
       + [Restricted Use](change-log/c-change-log/c-4-5/r-restricted-use.md)
-   + Version 4.4 (#version-4-4)
+   + Version 4.4 {#version-4-4}
       + [Version 4.4](change-log/c-change-log/c-4-4/c-4-4.md)
       + [Operations: New and Modified](change-log/c-change-log/c-4-4/r-4-4-operations.md)
       + [Data Types: New and Modified](change-log/c-change-log/c-4-4/r-4-4-types.md)
       + [String Constants: New and Modified](change-log/c-change-log/c-4-4/r-4-4-string-constants.md)
-   + Version 4.2 (#version-4-2)
+   + Version 4.2 {#version-4-2}
       + [Version 4.2](change-log/c-change-log/c-4-2/c-4-2.md)
       + [Data Types: New and Modified](change-log/c-change-log/c-4-2/r-4-2-types.md)
-   + Version 4.0 (#version-4-0)
+   + Version 4.0 {#version-4-0}
       + [Version 4.0](change-log/c-change-log/c-4-0/c-4-0.md)
       + [New Additions and Changes](change-log/c-change-log/c-4-0/r-4-0-new.md)
-   + Version 3.8 (#version-3-8)
+   + Version 3.8 {#version-3-8}
       + [Version 3.8](change-log/c-change-log/c-3-8/c-3-8.md)
       + [Operations: New and Modified](change-log/c-change-log/c-3-8/r-3-8-operations.md)
       + [Data Types: New and Modified](change-log/c-change-log/c-3-8/r-3-8-types.md)
       + [String Constants: New and Modified](change-log/c-change-log/c-3-8/r-3-8-string-constants.md)
-   + Version 3.7 (#version-3-7)
+   + Version 3.7 {#version-3-7}
       + [Version 3.7](change-log/c-change-log/c-3-7/c-3-7.md)
       + [Operations: New and Modified](change-log/c-change-log/c-3-7/r-3-7-operations.md)
       + [Data Types: New and Modified](change-log/c-change-log/c-3-7/r-3-7-types.md)
