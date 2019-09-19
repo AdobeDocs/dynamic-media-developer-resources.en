@@ -11,9 +11,9 @@ user-guide-title: Dynamic Media Developer Image Production System API
 + [Deprecated calls](c-deprecated-calls.md)
 + [IPS Web Service WSDL versions](c-wsdl-versions.md)
 + Operation methods {#operation-methods}
-   + [Operations methods](c-operations-intro/c-operations-intro.md)
+   + [Operations methods](operations/c-operations-intro/c-operations-intro.md)
    + Operation parameters {#operation-parameters}
-      + [Operation parameters overview](c-operations-intro/c-methods/c-methods.md)
+      + [Operation parameters overview](operations/c-operations-intro/c-methods/c-methods.md)
       + [addCompany](operations/c-operations-intro/c-methods/r-add-company.md)
       + [addCompanyMembership](operations/c-operations-intro/c-methods/r-add-company-membership.md)
       + [addGroupMembers](operations/c-operations-intro/c-methods/r-add-group-members.md)
