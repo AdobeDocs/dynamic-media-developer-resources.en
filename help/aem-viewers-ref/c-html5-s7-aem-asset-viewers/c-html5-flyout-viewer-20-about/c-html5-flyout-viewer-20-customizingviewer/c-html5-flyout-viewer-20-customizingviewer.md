@@ -173,3 +173,9 @@ background-position: -0px -448px;
 ## Common User Interface Elements {#section-d6330c9be8c444aa9b2a07886e3dbc2a}
 
 The following is user interface elements reference documentation that applies to Flyout Viewer: 
+
+* [Flyout zoom view](r-html5-flyout-viewer-20-customize-flyoutzoomview.md)
+* [Focus highlight](r-html5-flyout-viewer-20-customize-focushighlight.md)
+* [Main viewer area](r-html5-flyout-viewer-20-customize-mainviewerarea.md)
+* [Swatches](r-html5-flyout-viewer-20-customize-swatches.md)
+* [Tooltips](r-html5-flyout-viewer-20-customize-tooltips.md)
