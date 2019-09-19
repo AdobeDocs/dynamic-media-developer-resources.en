@@ -28,4 +28,4 @@ Inherited from `default::FullMatch` if not defined or if empty.
 
 ## See also {#section-42da0ba53e0b4c089c62108785faf5a9}
 
-[attribute::RootId](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-rootid.md#reference-13653312925e4a08b90f99961d53f546) , [catalog::Id](r_id_cat.md#reference_C3F3CE9AAAC4451796A846D6722383E5) 
+[attribute::RootId](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-rootid.md#reference-13653312925e4a08b90f99961d53f546) , [catalog::Id](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-id-cat.md) 

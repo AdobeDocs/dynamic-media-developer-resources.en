@@ -22,4 +22,4 @@ None. Each catalog must have a unique `attribute::RootId` value. [!DNL default.i
 
 ## See also {#section-5297eaaf736b4db5901e0b37e7cb8bbe}
 
-[catalog::Id](r_id_cat.md#reference_C3F3CE9AAAC4451796A846D6722383E5) , [src=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-src.md#reference-f6506637778c4c69bf106a7924a91ab1) 
+[catalog::Id](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-id-cat.md) , [src=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-src.md#reference-f6506637778c4c69bf106a7924a91ab1) 

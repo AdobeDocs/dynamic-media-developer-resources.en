@@ -7,7 +7,7 @@ user-guide-title: Dynamic Media Classic Image Authoring Guide
 
 # Dynamic Media Classic Image Authoring Guide {#image-authoring}
 
-+ [Image Authoring Help Home](c-ia-home.md)
++ [Image Authoring Help Home](aem-ia-home.md)
 + Content Authoring Tool {#content-authoring-tool}
    + [About the Content Authoring Tool](content-authoring-tool/c-cat-about-cat/c-cat-about-cat.md)
    + Creating Cabinet Files {#cabinet-files}

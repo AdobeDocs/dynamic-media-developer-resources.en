@@ -18,7 +18,7 @@ The following fields are recognized in macro definition files.
   <td class="stentry"> <p>Macro name (index key). </p></td> 
  </tr> 
  <tr class="strow"> 
-  <td class="stentry"> <p><span class="codeph"> <a href="r_definition_macro.md#reference_5A1E30EF92DA4C12B95968464281C625" type="reference" format="dita" scope="local"> Definition</a></span> </p></td> 
+  <td class="stentry"> <p><span class="codeph"> <a href="/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-macro-definition-reference/r-definition-macro.md" type="reference" format="dita" scope="local"> Definition</a></span> </p></td> 
   <td class="stentry"> <p>Macro definition. </p></td> 
  </tr> 
 </table>

@@ -24,4 +24,4 @@ Inherited from `default::Watermark` if not defined. If defined but empty, no wat
 
 ## See also {#section-f15dbe31013849828d78588742dde58e}
 
-[catalog::Id](r_id_cat.md#reference_C3F3CE9AAAC4451796A846D6722383E5) 
+[catalog::Id](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-id-cat.md) 
