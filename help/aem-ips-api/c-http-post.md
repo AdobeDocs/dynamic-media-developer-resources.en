@@ -110,7 +110,7 @@ For a successful POST request, the response body will be an XML `uploadPostRetur
 
 The `jobHandle` returned is passed in the `uploadPostParams`/ `jobHandle` parameter for any subsequent POST requests for the same job. You can also use it to poll job status with the `getActiveJobs` operation or to query the job logs with the `getJobLogDetails` operation.
 
-If there is an error processing the POST request, the response body consists of one of the API fault types as described in [Faults](c-faults/c-faults.md#concept-28c5e495f39443ecab05384d8cf8ab6b).
+If there is an error processing the POST request, the response body consists of one of the API fault types as described in [Faults](faults/c-faults/c-faults.md#concept-28c5e495f39443ecab05384d8cf8ab6b).
 
 ## Example POST request {#section-810fe32abdb9426ba0fea488dffadd1e}
 

@@ -7,7 +7,7 @@ user-guide-title: Dynamic Media Developer Image Production System API
 
 # Dynamic Media Developer Image Production System API {#image-production-api}
 
-+ [About Scene7 Image Production System API](c-overview.md)
++ [About Dynamic Media Image Production System API](c-overview.md)
 + [Deprecated calls](c-deprecated-calls.md)
 + [IPS Web Service WSDL versions](c-wsdl-versions.md)
 + Operation methods {#operation-methods}
@@ -171,7 +171,7 @@ user-guide-title: Dynamic Media Developer Image Production System API
       + [updateVignettePublishFormat](operations/c-operations-intro/c-methods/r-update-vignette-publish-format.md)
       + [updateXMPPacket](operations/c-operations-intro/c-methods/r-update-xmp-packet.md)
 + Data types {#data-types}
-   + [Data types](c-data-types/c-data-types.md)
+   + [Data types](types/c-data-types/c-data-types.md)
    + [AcoInfo](types/c-data-types/r-aco-info.md)
    + [ActiveJob](types/c-data-types/r-active-job.md)
    + [ActiveJobArray](types/c-data-types/r-active-job-array.md)
@@ -394,7 +394,7 @@ user-guide-title: Dynamic Media Developer Image Production System API
    + [ZoomTargetDefinition](types/c-data-types/r-zoom-target-definition.md)
    + [ZoomTargetDefinitionArray](types/c-data-types/r-zoom-target-definition-array.md)
 + String constants {#sting-constants}
-   + [String constants](c-string-constants/c-string-constants.md)
+   + [String constants](string-constants/c-string-constants/c-string-constants.md)
    + [Active Job States](string-constants/c-string-constants/r-active-job-states.md)
    + [Asset Search System Fields](string-constants/c-string-constants/r-asset-search-system-fields.md)
    + [Asset Overwrite Modes](string-constants/c-string-constants/r-asset-overwrite-modes.md)
@@ -435,7 +435,7 @@ user-guide-title: Dynamic Media Developer Image Production System API
    + [User Sort Fields](string-constants/c-string-constants/r-user-sort-fields.md)
    + [Viewer Type](string-constants/c-string-constants/r-viewer-type.md)
 + Faults {#faults}
-   + [Faults overview](c-faults/c-faults.md)
+   + [Faults overview](faults/c-faults/c-faults.md)
    + [authenticationFault](faults/c-faults/r-authentication-fault.md)
    + [authorizationFault](faults/c-faults/r-authorization-fault.md)
    + [ipsApiFault](faults/c-faults/r-ips-api-fault.md)

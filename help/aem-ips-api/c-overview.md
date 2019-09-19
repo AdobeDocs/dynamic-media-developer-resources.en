@@ -22,6 +22,6 @@ The IPS API uses standard SOAP and HTTP protocols and is compatible with any cli
 >
 >* [IPS Web Service WSDL Versions](c-wsdl-versions.md#concept-aff3e13f3b59486882260b5f2e962226)
 >* [Operations Methods](operations/c-operations-intro/c-methods/c-methods.md) 
->* [Data Types](c-data-types/c-data-types.md#concept-dcf2ce73ff334e22bc4c634e3a0a50a6)
->* [String Constants](c-string-constants/c-string-constants.md#concept-22a4be26ea5e44d5a033d1bcffd25ec3)
->* [Faults](c-faults/c-faults.md#concept-28c5e495f39443ecab05384d8cf8ab6b)
+>* [Data Types](types/c-data-types/c-data-types.md#concept-dcf2ce73ff334e22bc4c634e3a0a50a6)
+>* [String Constants](string-constants/c-string-constants/c-string-constants.md)
+>* [Faults](faults/c-faults/c-faults.md#concept-28c5e495f39443ecab05384d8cf8ab6b)
