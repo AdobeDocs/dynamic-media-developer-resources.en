@@ -12,7 +12,7 @@ uuid: 713646a7-1108-4f93-bec2-3fbe7e548515
 
 This section describes the common operation parameters handled by the IPS Web Service API.
 
-For a complete description of each operation parameter, see [Operation parameters](../c-operations-intro/c-methods/c-methods.md#concept-8400ba3eb7884ff3ad70d2dd250fab1f).
+For a complete description of each operation parameter, see [Operation parameters](/help/aem-ips-api/operations/c-operations-intro/c-methods/c-methods.md).
 
 ## Handles: About {#section-094ce1afa6244fa5b2c762f44ffdca1c}
 
