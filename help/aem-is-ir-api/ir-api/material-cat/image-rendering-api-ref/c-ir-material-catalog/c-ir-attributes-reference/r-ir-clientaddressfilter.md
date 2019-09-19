@@ -16,7 +16,7 @@ When specified, requests to this image catalog that originate from a client at a
 
 ## Properties {#section-21a2992f108d42fb8660c0d65aa61e13}
 
-Comma-separated list of IP addresses with optional netmasks ([CIDR notation](http://en.wikipedia.org/wiki/CIDR_notation) is used):
+Comma-separated list of IP addresses with optional netmasks ([CIDR notation](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing#CIDR_notation) is used):
 
 ` *[!DNL ipAddress]*[/ *[!DNL netmask]*]&#42;[, *[!DNL ipAddress]*[/ *[!DNL netmask]*]]`
 
