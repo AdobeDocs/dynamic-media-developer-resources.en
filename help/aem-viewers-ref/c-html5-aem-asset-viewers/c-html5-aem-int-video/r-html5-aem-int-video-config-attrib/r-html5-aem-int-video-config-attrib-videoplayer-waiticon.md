@@ -1,6 +1,6 @@
 ---
-description: Configuration attribute for Video Video Viewer.
-seo-description: Configuration attribute for Video Video Viewer.
+description: Configuration attribute for Interactive Video Viewer.
+seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: VideoPlayer.waiticon
 solution: Experience Manager
 title: VideoPlayer.waiticon
@@ -10,7 +10,7 @@ uuid: 6563b9f1-8135-4d4b-bf31-25f599e166d4
 
 # VideoPlayer.waiticon{#videoplayer-waiticon}
 
-Configuration attribute for Video Video Viewer.
+Configuration attribute for Interactive Video Viewer.
 
  `[VideoPlayer.|<containerId>_videoPlayer.]waiticon=0|1`
 

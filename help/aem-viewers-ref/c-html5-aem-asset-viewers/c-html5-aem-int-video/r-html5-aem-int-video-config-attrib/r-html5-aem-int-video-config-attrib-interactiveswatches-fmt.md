@@ -1,6 +1,6 @@
 ---
-description: Configuration attribute for Video Video Viewer.
-seo-description: Configuration attribute for Video Video Viewer.
+description: Configuration attribute for Interactive Video Viewer.
+seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: InteractiveSwatches.fmt
 solution: Experience Manager
 title: InteractiveSwatches.fmt
@@ -10,7 +10,7 @@ uuid: 0a30c913-39d1-4521-b65c-f2b3879f6928
 
 # InteractiveSwatches.fmt{#interactiveswatches-fmt}
 
-Configuration attribute for Video Video Viewer.
+Configuration attribute for Interactive Video Viewer.
 
  `[InteractiveSwatches.|<containerId>_interactiveSwatches.]fmt=jpg|jpeg|png|png-alpha|gif|gif-alpha`
 

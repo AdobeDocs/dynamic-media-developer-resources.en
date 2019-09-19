@@ -1,6 +1,6 @@
 ---
-description: Configuration attribute for Video Video Viewer.
-seo-description: Configuration attribute for Video Video Viewer.
+description: Configuration attribute for Interactive Video Viewer.
+seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: VideoPlayer.ssl
 solution: Experience Manager
 title: VideoPlayer.ssl
@@ -10,7 +10,7 @@ uuid: b4929e14-8712-4923-b9b1-62aa6721fc99
 
 # VideoPlayer.ssl{#videoplayer-ssl}
 
-Configuration attribute for Video Video Viewer.
+Configuration attribute for Interactive Video Viewer.
 
 >[!NOTE]
 >

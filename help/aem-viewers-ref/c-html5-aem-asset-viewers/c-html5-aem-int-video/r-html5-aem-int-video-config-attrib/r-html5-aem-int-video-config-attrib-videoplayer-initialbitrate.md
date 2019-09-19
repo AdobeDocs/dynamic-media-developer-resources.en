@@ -1,6 +1,6 @@
 ---
-description: Configuration attribute for Video Video Viewer.
-seo-description: Configuration attribute for Video Video Viewer.
+description: Configuration attribute for Interactive Video Viewer.
+seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: VideoPlayer.initialbitrate
 solution: Experience Manager
 title: VideoPlayer.initialbitrate
@@ -10,7 +10,7 @@ uuid: 251ab7d2-a0b5-4658-a2b8-6b39dd93dd5b
 
 # VideoPlayer.initialbitrate{#videoplayer-initialbitrate}
 
-Configuration attribute for Video Video Viewer.
+Configuration attribute for Interactive Video Viewer.
 
  ` [VideoPlayer.|<containerId>_videoPlayer.]initialbitrate= *`value`*`
 

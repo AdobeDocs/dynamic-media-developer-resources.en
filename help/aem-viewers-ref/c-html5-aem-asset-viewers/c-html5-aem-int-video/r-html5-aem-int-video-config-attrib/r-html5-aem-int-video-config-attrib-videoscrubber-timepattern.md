@@ -1,6 +1,6 @@
 ---
-description: Configuration attribute for Video Video Viewer.
-seo-description: Configuration attribute for Video Video Viewer.
+description: Configuration attribute for Interactive Video Viewer.
+seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: VideoScrubber.timepattern
 solution: Experience Manager
 title: VideoScrubber.timepattern
@@ -10,7 +10,7 @@ uuid: dc2e7b18-abd7-4b53-a0c4-268ec9cf3cb4
 
 # VideoScrubber.timepattern{#videoscrubber-timepattern}
 
-Configuration attribute for Video Video Viewer.
+Configuration attribute for Interactive Video Viewer.
 
  `[VideoScrubber.|<containerId>_videoScrubber.]timepattern=[h:]m|mm:s|ss`
 

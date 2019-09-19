@@ -1,6 +1,6 @@
 ---
-description: Configuration attribute for Video Video Viewer.
-seo-description: Configuration attribute for Video Video Viewer.
+description: Configuration attribute for Interactive Video Viewer.
+seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: CallToAction.maxloadradius
 solution: Experience Manager
 title: CallToAction.maxloadradius
@@ -10,7 +10,7 @@ uuid: ec5a4b0d-1dae-456f-a9da-91541cfba1a7
 
 # CallToAction.maxloadradius{#calltoaction-maxloadradius}
 
-Configuration attribute for Video Video Viewer.
+Configuration attribute for Interactive Video Viewer.
 
  ` [CallToAction.|<containerId>_callToAction.]maxloadradius=-1|0| *`preloadnbr`*`
 

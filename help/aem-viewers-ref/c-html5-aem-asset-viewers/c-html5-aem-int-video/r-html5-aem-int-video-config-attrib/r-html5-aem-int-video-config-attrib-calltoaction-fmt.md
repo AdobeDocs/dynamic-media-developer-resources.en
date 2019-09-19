@@ -1,6 +1,6 @@
 ---
-description: Configuration attribute for Video Video Viewer.
-seo-description: Configuration attribute for Video Video Viewer.
+description: Configuration attribute for Interactive Video Viewer.
+seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: CallToAction.fmt
 solution: Experience Manager
 title: CallToAction.fmt
@@ -10,7 +10,7 @@ uuid: c85160e2-431f-42af-a468-c754bfe86ecd
 
 # CallToAction.fmt{#calltoaction-fmt}
 
-Configuration attribute for Video Video Viewer.
+Configuration attribute for Interactive Video Viewer.
 
  `[CallToAction.|<containerId>_callToAction.]fmt=jpg|jpeg|png|png-alpha|gif|gif-alpha`
 

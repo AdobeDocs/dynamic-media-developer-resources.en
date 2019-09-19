@@ -1,6 +1,6 @@
 ---
-description: Configuration attribute for Video Video Viewer.
-seo-description: Configuration attribute for Video Video Viewer.
+description: Configuration attribute for Interactive Video Viewer.
+seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: VideoPlayer.singleclick
 solution: Experience Manager
 title: VideoPlayer.singleclick
@@ -10,7 +10,7 @@ uuid: 5b387eb6-1e09-4506-beea-3f1cf337cb9d
 
 # VideoPlayer.singleclick{#videoplayer-singleclick}
 
-Configuration attribute for Video Video Viewer.
+Configuration attribute for Interactive Video Viewer.
 
  `[VideoPlayer.|<containerId>_videoPlayer.]singleclick=none|playPause`
 

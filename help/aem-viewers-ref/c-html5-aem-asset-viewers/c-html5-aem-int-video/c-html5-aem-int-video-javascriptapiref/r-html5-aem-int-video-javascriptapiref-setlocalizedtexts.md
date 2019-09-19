@@ -1,6 +1,6 @@
 ---
-description: JavaScript API reference for Video Video Viewer.
-seo-description: JavaScript API reference for Video Video Viewer.
+description: JavaScript API reference for Interactive Video Viewer.
+seo-description: JavaScript API reference for Interactive Video Viewer.
 seo-title: setLocalizedTexts
 solution: Experience Manager
 title: setLocalizedTexts
@@ -10,7 +10,7 @@ uuid: 11844a71-adb0-42a9-9b58-b69821070fd2
 
 # setLocalizedTexts{#setlocalizedtexts}
 
-JavaScript API reference for Video Video Viewer.
+JavaScript API reference for Interactive Video Viewer.
 
  ` setLocalizedTexts( *`localizationInfo`*)`
 

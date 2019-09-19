@@ -1,6 +1,6 @@
 ---
-description: Configuration attribute for Video Video Viewer.
-seo-description: Configuration attribute for Video Video Viewer.
+description: Configuration attribute for Interactive Video Viewer.
+seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: ControlBar.transition
 solution: Experience Manager
 title: ControlBar.transition
@@ -10,7 +10,7 @@ uuid: cde4a5b9-4512-41a6-84ce-9f4fc2cc0399
 
 # ControlBar.transition{#controlbar-transition}
 
-Configuration attribute for Video Video Viewer.
+Configuration attribute for Interactive Video Viewer.
 
  ` [ControlBar.|<containerId>_controls.]transition=none|fade[, *`delaytohide`*[, *`duration`*]`
 

@@ -1,6 +1,6 @@
 ---
-description: Configuration attribute for Video Video Viewer.
-seo-description: Configuration attribute for Video Video Viewer.
+description: Configuration attribute for Interactive Video Viewer.
+seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: InteractiveSwatches.autoscroll
 solution: Experience Manager
 title: InteractiveSwatches.autoscroll
@@ -10,7 +10,7 @@ uuid: 050e932b-089f-448e-a9de-38cc04c55a49
 
 # InteractiveSwatches.autoscroll{#interactiveswatches-autoscroll}
 
-Configuration attribute for Video Video Viewer.
+Configuration attribute for Interactive Video Viewer.
 
  `[InteractiveSwatches.|<containerId>_interactiveSwatches.]autoscroll=0|1`
 

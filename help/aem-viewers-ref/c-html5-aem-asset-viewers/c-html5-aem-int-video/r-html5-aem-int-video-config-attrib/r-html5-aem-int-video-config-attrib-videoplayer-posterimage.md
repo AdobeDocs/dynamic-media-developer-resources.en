@@ -1,6 +1,6 @@
 ---
-description: Configuration attribute for Video Video Viewer.
-seo-description: Configuration attribute for Video Video Viewer.
+description: Configuration attribute for Interactive Video Viewer.
+seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: VideoPlayer.posterimage
 solution: Experience Manager
 title: VideoPlayer.posterimage
@@ -10,7 +10,7 @@ uuid: 6b21179c-a227-4194-8640-0fcf73ee80e9
 
 # VideoPlayer.posterimage{#videoplayer-posterimage}
 
-Configuration attribute for Video Video Viewer.
+Configuration attribute for Interactive Video Viewer.
 
  ` [VideoPlayer.|<containerId>_videoPlayer.]posterimage=none|[ *`image_id`*][? *`isCommands`*]`
 

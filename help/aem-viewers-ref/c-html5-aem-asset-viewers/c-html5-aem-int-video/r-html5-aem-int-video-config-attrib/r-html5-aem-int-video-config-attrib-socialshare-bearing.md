@@ -1,6 +1,6 @@
 ---
-description: Configuration attribute for Video Video Viewer.
-seo-description: Configuration attribute for Video Video Viewer.
+description: Configuration attribute for Interactive Video Viewer.
+seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: SocialShare.bearing
 solution: Experience Manager
 title: SocialShare.bearing
@@ -10,7 +10,7 @@ uuid: b3978280-7826-44c0-bd25-357e145121f8
 
 # SocialShare.bearing{#socialshare-bearing}
 
-Configuration attribute for Video Video Viewer.
+Configuration attribute for Interactive Video Viewer.
 
  `[SocialShare.|<containerId>_socialShare.]bearing=up|down|left|right|fit-vertical|fit-lateral`
 

@@ -1,6 +1,6 @@
 ---
-description: Configuration attribute for Video Video Viewer.
-seo-description: Configuration attribute for Video Video Viewer.
+description: Configuration attribute for Interactive Video Viewer.
+seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: CallToAction.scrollbar
 solution: Experience Manager
 title: CallToAction.scrollbar
@@ -10,7 +10,7 @@ uuid: 20b14257-da2f-4557-a732-b14421b0eb7e
 
 # CallToAction.scrollbar{#calltoaction-scrollbar}
 
-Configuration attribute for Video Video Viewer.
+Configuration attribute for Interactive Video Viewer.
 
  `[CallToAction.|<containerId>_callToAction.]scrollbar=0|1`
 

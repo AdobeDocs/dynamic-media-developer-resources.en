@@ -1,6 +1,6 @@
 ---
-description: Configuration attribute for Video Video Viewer.
-seo-description: Configuration attribute for Video Video Viewer.
+description: Configuration attribute for Interactive Video Viewer.
+seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: CallToAction.enabledragging
 solution: Experience Manager
 title: CallToAction.enabledragging
@@ -10,7 +10,7 @@ uuid: efb272b5-e30e-44d5-9dec-0529b1074ed2
 
 # CallToAction.enabledragging{#calltoaction-enabledragging}
 
-Configuration attribute for Video Video Viewer.
+Configuration attribute for Interactive Video Viewer.
 
  ` [CallToAction.|<containerId>_callToAction.]enabledragging=0|1[, *`overdragvalue`*]`
 

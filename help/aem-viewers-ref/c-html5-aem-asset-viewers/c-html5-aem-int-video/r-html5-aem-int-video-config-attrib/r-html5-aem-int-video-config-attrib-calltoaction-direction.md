@@ -1,6 +1,6 @@
 ---
-description: Configuration attribute for Video Video Viewer.
-seo-description: Configuration attribute for Video Video Viewer.
+description: Configuration attribute for Interactive Video Viewer.
+seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: CallToAction.direction
 solution: Experience Manager
 title: CallToAction.direction
@@ -10,7 +10,7 @@ uuid: fe182e8f-696d-4515-afdb-49964a374dae
 
 # CallToAction.direction{#calltoaction-direction}
 
-Configuration attribute for Video Video Viewer.
+Configuration attribute for Interactive Video Viewer.
 
  `[CallToAction.|<containerId>_callToAction.]direction=auto|left|right`
 

@@ -1,6 +1,6 @@
 ---
-description: Configuration attribute for Video Video Viewer.
-seo-description: Configuration attribute for Video Video Viewer.
+description: Configuration attribute for Interactive Video Viewer.
+seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: InteractiveSwatches.displaymode
 solution: Experience Manager
 title: InteractiveSwatches.displaymode
@@ -10,7 +10,7 @@ uuid: 279b1632-cf03-454d-b15f-9e785daad692
 
 # InteractiveSwatches.displaymode{#interactiveswatches-displaymode}
 
-Configuration attribute for Video Video Viewer.
+Configuration attribute for Interactive Video Viewer.
 
  `[InteractiveSwatches.|<containerId>_interactiveSwatches.]displaymode=continuous|segment`
 

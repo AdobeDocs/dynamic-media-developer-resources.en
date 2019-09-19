@@ -1,6 +1,6 @@
 ---
-description: The Video Video Viewer supports rendering interactive swatches based on interactive data passed to the viewer as a configuration parameter.
-seo-description: The Video Video Viewer supports rendering interactive swatches based on interactive data passed to the viewer as a configuration parameter.
+description: The Interactive Video Viewer supports rendering interactive swatches based on interactive data passed to the viewer as a configuration parameter.
+seo-description: The Interactive Video Viewer supports rendering interactive swatches based on interactive data passed to the viewer as a configuration parameter.
 seo-title: Interactive data support
 solution: Experience Manager
 title: Interactive data support
@@ -10,7 +10,7 @@ uuid: 70b2ec2e-0ea7-461d-a185-731fb0ef8f3e
 
 # Interactive data support{#interactive-data-support}
 
-The Video Video Viewer supports rendering interactive swatches based on interactive data passed to the viewer as a configuration parameter.
+The Interactive Video Viewer supports rendering interactive swatches based on interactive data passed to the viewer as a configuration parameter.
 
  The currently visible swatch corresponds to the video time region with which it is associated. Clicking or tapping the interactive swatch triggers the action assigned to it at author time.
 

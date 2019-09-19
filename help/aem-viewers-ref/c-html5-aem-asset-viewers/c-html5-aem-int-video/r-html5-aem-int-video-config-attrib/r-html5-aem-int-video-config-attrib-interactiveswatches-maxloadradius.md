@@ -1,6 +1,6 @@
 ---
-description: Configuration attribute for Video Video Viewer.
-seo-description: Configuration attribute for Video Video Viewer.
+description: Configuration attribute for Interactive Video Viewer.
+seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: InteractiveSwatches.maxloadradius
 solution: Experience Manager
 title: InteractiveSwatches.maxloadradius
@@ -10,7 +10,7 @@ uuid: 12391b8b-532f-4e68-ad60-4dbcc86d9e58
 
 # InteractiveSwatches.maxloadradius{#interactiveswatches-maxloadradius}
 
-Configuration attribute for Video Video Viewer.
+Configuration attribute for Interactive Video Viewer.
 
  ` [InteractiveSwatches.|<containerId>_interactiveSwatches.]maxloadradius=-1|0| *`preloadnbr`*`
 

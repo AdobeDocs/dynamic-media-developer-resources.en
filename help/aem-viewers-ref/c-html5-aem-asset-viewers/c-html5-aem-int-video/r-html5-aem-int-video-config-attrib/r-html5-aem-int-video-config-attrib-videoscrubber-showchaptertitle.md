@@ -1,6 +1,6 @@
 ---
-description: Configuration attribute for Video Video Viewer.
-seo-description: Configuration attribute for Video Video Viewer.
+description: Configuration attribute for Interactive Video Viewer.
+seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: VideoScrubber.showchaptertitle
 solution: Experience Manager
 title: VideoScrubber.showchaptertitle
@@ -10,7 +10,7 @@ uuid: abd9624d-b24d-491c-afe2-1aafbdf90ae1
 
 # VideoScrubber.showchaptertitle{#videoscrubber-showchaptertitle}
 
-Configuration attribute for Video Video Viewer.
+Configuration attribute for Interactive Video Viewer.
 
  `[VideoScrubber.|<containerId>_videoScrubber.]showchaptertitle=0|1`
 

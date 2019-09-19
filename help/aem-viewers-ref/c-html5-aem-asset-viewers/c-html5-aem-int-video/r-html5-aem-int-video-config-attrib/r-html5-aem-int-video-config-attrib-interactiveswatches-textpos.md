@@ -1,6 +1,6 @@
 ---
-description: Configuration attribute for Video Video Viewer.
-seo-description: Configuration attribute for Video Video Viewer.
+description: Configuration attribute for Interactive Video Viewer.
+seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: InteractiveSwatches.textpos
 solution: Experience Manager
 title: InteractiveSwatches.textpos
@@ -10,7 +10,7 @@ uuid: 1fd27847-f00f-431f-8f4b-85817c4c3ac6
 
 # InteractiveSwatches.textpos{#interactiveswatches-textpos}
 
-Configuration attribute for Video Video Viewer.
+Configuration attribute for Interactive Video Viewer.
 
  `[InteractiveSwatches.|<containerId>_interactiveSwatches.]textpos=bottom|top|left|right|none|tooltip`
 
