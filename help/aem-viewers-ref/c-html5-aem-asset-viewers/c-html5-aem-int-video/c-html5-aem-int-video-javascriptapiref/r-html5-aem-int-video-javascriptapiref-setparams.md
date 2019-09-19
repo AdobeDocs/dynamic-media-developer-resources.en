@@ -1,6 +1,6 @@
 ---
-description: JavaScript API reference for Video Video Viewer.
-seo-description: JavaScript API reference for Video Video Viewer.
+description: JavaScript API reference for Interactive Video Viewer.
+seo-description: JavaScript API reference for Interactive Video Viewer.
 seo-title: setParams
 solution: Experience Manager
 title: setParams
@@ -10,7 +10,7 @@ uuid: 0a5b9798-0e3f-4310-9b6e-0214a420951b
 
 # setParams{#setparams}
 
-JavaScript API reference for Video Video Viewer.
+JavaScript API reference for Interactive Video Viewer.
 
  ` setParams( *`params`*)`
 
@@ -40,4 +40,3 @@ None.
 ```
 <instance>.setParams("style=customStyle.css&VideoPlayer.playback=progressive")
 ```
-
