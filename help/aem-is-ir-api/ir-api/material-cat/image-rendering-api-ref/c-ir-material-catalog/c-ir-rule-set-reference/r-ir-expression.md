@@ -38,4 +38,4 @@ All characters between the `<expression>` and `</expression>` tags are passed to
 
 ## See also {#section-15a9fea18e644b8e9c498f5fd88e2eaa}
 
-[java.util.regex](http://docs.oracle.com/javase/1.4.2/docs/api/java/util/regex/package-summary.html) 
+[java.util.regex](https://www2.cs.duke.edu/csed/java/jdk1.4.2/docs/api/) 
