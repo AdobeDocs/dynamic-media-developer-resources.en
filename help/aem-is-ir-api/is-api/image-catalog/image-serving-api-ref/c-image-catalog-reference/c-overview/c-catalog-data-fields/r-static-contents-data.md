@@ -34,11 +34,11 @@ The following fields are supported for static (non-image) content catalogs.
   <td class="stentry"> <p>User-defined properties. </p></td> 
  </tr> 
  <tr class="strow"> 
-  <td class="stentry"> <p><span class="codeph"> <a href="r_videobitrate_cat.md#reference_7BE40A4857814AB28B74CCB93FF03AEC" type="reference" format="dita" scope="local"> VideoBitRate</a></span> </p></td> 
+  <td class="stentry"> <p><span class="codeph"> <a href="/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-videobitrate-cat.md" type="reference" format="dita" scope="local"> VideoBitRate</a></span> </p></td> 
   <td class="stentry"> <p>Video bit rate. </p></td> 
  </tr> 
  <tr class="strow"> 
-  <td class="stentry"> <p><span class="codeph"> <a href="r_videosize_cat.md#reference_049DF153E60A4478B8FF96272C6C1C78" type="reference" format="dita" scope="local"> VideoSize</a></span> </p></td> 
+  <td class="stentry"> <p><span class="codeph"> <a href="/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-videosize-cat.md" type="reference" format="dita" scope="local"> VideoSize</a></span> </p></td> 
   <td class="stentry"> <p>Video size. </p></td> 
  </tr> 
 </table>

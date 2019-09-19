@@ -36,11 +36,11 @@ The following fields are recognized in image and SVG data files.
    <td colname="col2"> <p>Cache expiration (time-to-live) for reply images. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p><span class="codeph"> <a href="r_modifier_cat.md#reference_D2C6884B3A2248FAB81A112D27969834" type="reference" format="dita" scope="local"> Modifier</a> </span> </p> </td> 
+   <td colname="col1"> <p><span class="codeph"> <a href="/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-modifier-cat.md" type="reference" format="dita" scope="local"> Modifier</a> </span> </p> </td> 
    <td colname="col2"> <p>Prefix request modifiers. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p><span class="codeph"> <a href="r_postmodifier_cat.md#reference_4BC3738A812B4E7C8A180E27BFBD770B" type="reference" format="dita" scope="local"> PostModifier</a> </span> </p> </td> 
+   <td colname="col1"> <p><span class="codeph"> <a href="/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-postmodifier-cat.md" type="reference" format="dita" scope="local"> PostModifier</a> </span> </p> </td> 
    <td colname="col2"> <p>Postfix request modifiers. </p> </td> 
   </tr> 
   <tr> 
@@ -75,7 +75,7 @@ The following fields are recognized in image and SVG data files.
    <td colname="col2"> <p>Object resolution. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p><span class="codeph"> <a href="r_size_cat.md#reference_5A82CFE33ABE445998C586FFB6820A47" type="reference" format="dita" scope="local"> Size</a></span> </p> </td> 
+   <td colname="col1"> <p><span class="codeph"> <a href="/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-size-cat.md" type="reference" format="dita" scope="local"> Size</a></span> </p> </td> 
    <td colname="col2"> <p>Image size. </p> </td> 
   </tr> 
  </tbody> 
@@ -101,7 +101,7 @@ The following fields are recognized in image and SVG data files.
 <table id="table_B6A9A702F533494E85CEC1AD42EC728A"> 
  <tbody> 
   <tr> 
-   <td colname="col1"> <p><span class="codeph"> <a href="r_assettype_cat.md#reference_6177CCBCBA05496E9017D53FD898BCA3" type="reference" format="dita" scope="local"> AssetType</a></span> </p> </td> 
+   <td colname="col1"> <p><span class="codeph"> <a href="/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-assettype-cat.md" type="reference" format="dita" scope="local"> AssetType</a></span> </p> </td> 
    <td colname="col2"> <p>Asset type. </p> </td> 
   </tr> 
   <tr> 
