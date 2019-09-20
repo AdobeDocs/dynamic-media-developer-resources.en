@@ -25,7 +25,8 @@ user-guide-title: Dynamic Media Developer Library Guide
       + [Scene7 Viewers 5.0.1 Release Notes](c-rn-04-01-19/c-archive/c-rn-04-29-14.md)
       + [Scene7 Viewers 4.9.2 Release Notes](c-rn-04-01-19/c-archive/c-known-issues-and-restrictions.md)
 + [Compatibility notes](c-compatibility-notes.md)
-+ [Viewers for AEM Assets and Dynamic Media Classic](c-html5-s7-aem-asset-viewers/c-html5-s7-aem-asset-viewers.md)
++ Viewers for AEM Assets and Dynamic Media Classic {#viewers-aem-assets-dmc}
+   + [Viewers for AEM Assets and Dynamic Media Classic](c-html5-s7-aem-asset-viewers/c-html5-s7-aem-asset-viewers.md)
    + Basic Zoom {#basic-zoom}
       + [Basic Zoom Viewer](c-html5-s7-aem-asset-viewers/c-html5-20-basic-zoom-viewer-about/c-html5-20-basic-zoom-viewer-about.md)
       + Command reference - Configuration attributes {#command-reference-configuration-attributes-basic-zoom}
