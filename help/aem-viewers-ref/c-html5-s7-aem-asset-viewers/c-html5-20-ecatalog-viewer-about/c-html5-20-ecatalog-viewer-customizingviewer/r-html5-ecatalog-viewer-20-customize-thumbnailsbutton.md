@@ -12,7 +12,7 @@ uuid: a1a7f4b0-672e-4b83-9b21-0b8c6fc3f24a
 
 Clicking or tapping this button resets toggles the viewer between the main view and the thumbnails. This button appears in the main control bar. You can size, skin, and position this button by using CSS.
 
-<a id="section_6C008EE11212461FA744F2540D38C295"></a>
+<!--<a id="section_6C008EE11212461FA744F2540D38C295"></a>-->
 
 **CSS properties of the main viewer area**
 

@@ -12,7 +12,7 @@ uuid: c9113275-eec6-4014-b7ad-3ae9f2cf01d9
 
 In continuous zoom mode, main view consists of the zoomable image when the current asset is a single image..
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties of the main viewer area**
 

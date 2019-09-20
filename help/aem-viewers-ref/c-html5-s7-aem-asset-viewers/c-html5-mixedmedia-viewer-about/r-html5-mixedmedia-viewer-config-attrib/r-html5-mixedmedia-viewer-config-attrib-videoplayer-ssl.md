@@ -41,6 +41,6 @@ Optional.
 ssl=on
 ```
 
-<a id="section_5943AC73316749C68761FF7F74DA7547"></a>
+<!--<a id="section_5943AC73316749C68761FF7F74DA7547"></a>-->
 
 See also [Secure Video Delivery](../../../c-html5-s7-aem-asset-viewers/c-html5-mixedmedia-viewer-about/c-html5-mixedmedia-viewer-securevideodelivery.md#concept-4d155111df9f469aa6c6d7b41e959dcb). 

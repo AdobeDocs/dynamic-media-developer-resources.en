@@ -12,7 +12,7 @@ uuid: 6b954bec-0678-4970-b83a-c2d8fea06a25
 
 Favorites view consists of a column of thumbnail images.
 
-<a id="section_B6EFCCADB5A5495DAE6BBE42F7F405CB"></a>
+<!--<a id="section_B6EFCCADB5A5495DAE6BBE42F7F405CB"></a>-->
 
 The appearance of the Favorites view container is controlled with the following CSS class selector:
 

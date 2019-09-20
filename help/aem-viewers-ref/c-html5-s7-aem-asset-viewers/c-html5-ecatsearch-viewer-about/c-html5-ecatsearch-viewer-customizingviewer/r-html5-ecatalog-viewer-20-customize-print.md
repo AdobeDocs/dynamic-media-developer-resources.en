@@ -12,7 +12,7 @@ uuid: 7be047d8-d1be-4bda-90ca-6b55c749cc64
 
 Print tool consists of a button added to the control bar and the modal dialog box that displays when the tool is activated.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 The appearance of the print button is controlled with the following CSS class selector:
 

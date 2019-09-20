@@ -14,7 +14,7 @@ Creates a new asset derived from an existing master image asset.
 
  Syntax 
 
-<a id="section_FE43FF204ED644C2AC901AF45982E942"></a>
+<!--<a id="section_FE43FF204ED644C2AC901AF45982E942"></a>-->
 
 Derived assets specify Image Server protocol commands that modify the representation of the owner image. The `AdjustedView` derived type helps apply simple modifications to a single image (for example, by specifying a crop rectangle), while the `LayerView` helps create a multilayer view which may include text or additional images.
 

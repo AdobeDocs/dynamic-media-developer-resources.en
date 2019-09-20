@@ -12,7 +12,7 @@ uuid: 80ecbaca-9092-40b6-bb24-4b233356de3f
 
 Link share tool consists of a button added to the Social share panel and the modal dialog box that displays when the tool is activated. The position of the button is fully managed by the Social share tool.
 
-<a id="section_ADDF98E91AF24F618289D1682A5FB13A"></a>
+<!--<a id="section_ADDF98E91AF24F618289D1682A5FB13A"></a>-->
 
 The appearance of the link share button is controlled with the following CSS class selector:
 

@@ -12,7 +12,7 @@ uuid: 9f9df764-3dd0-414e-a0db-4287f0019313
 
 The interactive swatches panel appears next to the video content if interactive data was passed to the viewer in configuration. It consists of a banner at the top that renders text such as "Click to View", a column of one or more interactive swatches and two scroll buttons (available only on desktop systems).
 
-<a id="section_235621A1533A49AAADB64A7C3191F735"></a>
+<!--<a id="section_235621A1533A49AAADB64A7C3191F735"></a>-->
 
 On desktop systems and on touch devices, in landscape orientation, interactive swatches are rendered vertically to the right of the video content. On touch devices in portrait orientation they appear at the bottom of the viewer, as a horizontal row of swatches.
 
@@ -84,7 +84,7 @@ To set up an interactive swatches panel to render horizontally at the bottom of 
 }
 ```
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 The size and position of the banner is managed by the interactive swatches component based on other styling applied with CSS and cannot be set explicitly.
 

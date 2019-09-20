@@ -8,7 +8,7 @@ topic: Scene7 Image Serving - Image Rendering API
 uuid: 08fabcc9-d0b5-4136-81fc-ac896c341e1d
 ---
 
-# ic{#ic}
+# ic {#ic}
 
 Image Conversion utility.
 
@@ -20,11 +20,13 @@ If you are not converting large images you do not have to set the parameters tha
 
 ## Usage {#section-fb5293fa79894442aba831c1e14c5cc9}
 
-` ic -convert [ *`options`*] *`sourceFile`* *`destFile`*`
+`ic -convert` `[`*`options`*`]` *`sourceFile`* *`destFile`*`
 
-` ic -convert [ *`options`*] *`sourceFolder`* *`destFolder`*`
+` ic -convert` `[`*`options`*`]` *`sourceFolder`* *`destFolder`*`
 
-` -c -convert [ *`options`*] *`sourceFile`* *`destFolder`*`
+` -c -convert` `[`*`options`*`]` *`sourceFile`* *`destFolder`*`
+
+<!--RICK - The next table had a nested table, which I removed. Compare to orginial -->
 
 <table id="table_E368E220299D449D8311478AB5042987"> 
  <tbody> 
@@ -188,8 +190,6 @@ If you are not converting large images you do not have to set the parameters tha
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> -loglevel &lt; <span class="varname"> level </span>&gt; </span> </p> </td> 
    <td colname="col2"> <p>Log level. </p> <p> 
-     <table id="table_A72ECEF15629464B9F87A51FFE5390F0">  
-     </table> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> -logappend </span> </p> </td> 

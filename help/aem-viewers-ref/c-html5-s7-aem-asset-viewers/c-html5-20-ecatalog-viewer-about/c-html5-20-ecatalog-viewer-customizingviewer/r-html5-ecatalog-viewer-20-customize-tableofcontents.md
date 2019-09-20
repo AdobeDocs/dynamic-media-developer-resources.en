@@ -12,7 +12,7 @@ uuid: e5da89b4-fd3f-41ab-bc55-d43c2999d4b7
 
 Table of contents is a button located in the main control bar. When activated, a drop-down panel appears with a list of page indexes and labels.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 Based on the configuration, the list can contain all pages that are present in the catalog or only those pages that have explicit labels defined. On desktop systems, if the list is longer than the available screen real estate, a scroll bar is displayed on the right.
 

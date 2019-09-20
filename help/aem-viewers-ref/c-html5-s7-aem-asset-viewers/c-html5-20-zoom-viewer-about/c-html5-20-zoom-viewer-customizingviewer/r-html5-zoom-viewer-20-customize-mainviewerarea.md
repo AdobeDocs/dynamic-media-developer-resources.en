@@ -12,7 +12,7 @@ uuid: 689116cb-bbb9-4e26-9c16-9229330c4034
 
 The main view area is the area occupied by the zoom image and swatches. It usually sets to fit the available device screen when no size is specified.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 When working in embedded mode (when an explicit size is given to the main viewer area), the viewer automatically decreases the height of its main area by the height of Swatches component that is in working with the single image and therefore, swatches are not needed.
 

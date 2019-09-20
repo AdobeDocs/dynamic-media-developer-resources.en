@@ -12,7 +12,7 @@ uuid: 803d3d48-2413-4828-8154-fd704769447c
 
 The full screen button causes the video player to enter or exit full screen mode when a user clicks it.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 You can size, skin, and position the full screen button, relative to the control bar that contains it, by CSS.
 

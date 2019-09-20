@@ -12,7 +12,7 @@ uuid: f585bf57-c66a-4213-a2af-d9625beb5bed
 
 Main view consists of the catalog image. It can be swiped to get to another page or zoomed.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties of the main viewer area**
 

@@ -12,7 +12,7 @@ uuid: 5fbfe299-1fae-427f-8ade-e12cd168b8a7
 
 The viewer displays Favorites icons over the main view in places where it was originally added by the user.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 The appearance of the Favorite icon is controlled with the following CSS class selector:
 

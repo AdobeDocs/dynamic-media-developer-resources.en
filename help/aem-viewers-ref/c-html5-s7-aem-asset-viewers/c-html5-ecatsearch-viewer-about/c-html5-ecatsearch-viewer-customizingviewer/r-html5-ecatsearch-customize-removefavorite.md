@@ -12,7 +12,7 @@ uuid: 9a0ab584-d299-43d2-9850-3dac4f332cd4
 
 The position of the Remove Favorite button is fully managed by the Favorites menu.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 The appearance of the Remove Favorite button is controlled with the following CSS class selector:
 

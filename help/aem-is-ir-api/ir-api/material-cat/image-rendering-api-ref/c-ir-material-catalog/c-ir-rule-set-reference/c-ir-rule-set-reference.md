@@ -12,7 +12,7 @@ uuid: aeec7597-4d23-4cf8-8bdc-3a133152eadb
 
 Image Rendering supports a simple request pre-processing mechanism which is based on regular-expression match and substitution rules.
 
-<a id="section_F44601A65CE1451EAD0A449C66B773CC"></a>
+<!--<a id="section_F44601A65CE1451EAD0A449C66B773CC"></a>-->
 
 Collections of pre-processing rules (*rule sets*) can be attached to material catalogs or the default catalog. Rules in the default catalog apply only if the request does not attach a specific material catalog.
 

@@ -12,7 +12,7 @@ uuid: 3f90a216-654f-44a9-947d-592bd5f342d4
 
 Set indicator is a series of dots rendered at the bottom of the viewer. It shows the current position within the set.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties of the set indicator**
 

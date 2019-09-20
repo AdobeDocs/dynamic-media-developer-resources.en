@@ -12,7 +12,7 @@ uuid: 33445a3d-51dc-47a4-a8d1-87d25ea001e1
 
 The spin indicator is overlaid on the spin view area. It is displayed when the image is in a reset state and it also depends on the iconeffect parameter.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties of the main viewer area**
 

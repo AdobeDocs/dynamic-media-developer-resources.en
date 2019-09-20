@@ -12,7 +12,7 @@ uuid: 342def36-9dfb-487c-bed5-b0f301ce8430
 
 The Play/Pause button lets a user pause or resume carousel autoplay behavior.
 
-<a id="section_6C008EE11212461FA744F2540D38C295"></a>
+<!--<a id="section_6C008EE11212461FA744F2540D38C295"></a>-->
 
 The button is visible only if the `CarouselViewer.autoplay` parameter is set to `1`; otherwise, it is hidden. You can size, skin, and position this button, relative to the control bar that contains it, by using CSS.
 

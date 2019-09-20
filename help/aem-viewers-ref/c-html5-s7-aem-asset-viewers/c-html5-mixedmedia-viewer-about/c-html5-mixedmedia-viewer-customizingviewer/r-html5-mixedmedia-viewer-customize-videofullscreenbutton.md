@@ -12,7 +12,7 @@ uuid: f264154b-eb4d-4dcb-b8c0-e06c383198ae
 
 The full screen button causes the viewer to enter or exit full screen mode when clicked by the user. It is used when the viewer is displaying video and is located in the control bar. This button is not displayed if the viewer works in pop-up mode and the system does not support native full screen.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 You can size, skin, and position the full screen button, relative to the control bar that contains it, by CSS.
 

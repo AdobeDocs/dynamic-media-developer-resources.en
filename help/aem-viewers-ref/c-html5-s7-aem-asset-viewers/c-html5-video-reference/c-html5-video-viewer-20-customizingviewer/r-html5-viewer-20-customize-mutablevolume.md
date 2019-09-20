@@ -12,7 +12,7 @@ uuid: d7eafff8-dd98-42e2-9d45-e291fe372d8c
 
 The mutable volume control initially appears as a button that lets a user mute or unmute the video player sound.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 When a user rolls over the button, a slider appears that allows a user to set the volume. The mutable volume control can be sized, skinned, and positioned, relative to the control bar that contains it, by CSS.
 

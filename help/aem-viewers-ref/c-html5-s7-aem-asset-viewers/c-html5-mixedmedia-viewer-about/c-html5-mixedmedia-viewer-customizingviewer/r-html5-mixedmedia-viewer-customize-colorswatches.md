@@ -45,7 +45,7 @@ Example - to set up swatches with a height of 100 pixels.
 }
 ```
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 The spacing between the swatch thumbnails is controlled with the following CSS class selector:
 

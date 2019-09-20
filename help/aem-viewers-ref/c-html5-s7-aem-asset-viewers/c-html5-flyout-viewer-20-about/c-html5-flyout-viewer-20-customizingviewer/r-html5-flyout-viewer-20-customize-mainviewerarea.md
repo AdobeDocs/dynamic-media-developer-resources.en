@@ -12,7 +12,7 @@ uuid: bc0beeaf-3e7d-4ede-9a7d-04afb1724e44
 
 The main view area is the area occupied by the flyout view and swatches.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties of the main viewer area**
 

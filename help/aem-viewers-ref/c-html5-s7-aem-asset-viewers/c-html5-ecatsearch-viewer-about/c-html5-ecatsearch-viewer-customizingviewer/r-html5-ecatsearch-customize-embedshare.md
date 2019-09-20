@@ -12,7 +12,7 @@ uuid: 73d259fe-0978-4f47-95f6-bbfcd3b7bad1
 
 Embed share tool consists of a button added to the Social share panel and the modal dialog box that displays when the tool is activated. The position of the button is fully managed by the Social share tool.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 The appearance of the embed share button is controlled with the following CSS class selector:
 

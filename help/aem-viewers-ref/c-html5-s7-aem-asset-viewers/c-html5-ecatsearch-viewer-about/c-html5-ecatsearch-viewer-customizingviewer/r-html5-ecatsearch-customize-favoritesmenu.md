@@ -12,7 +12,7 @@ uuid: 46de2a74-690e-4010-8a71-54206dd02fd0
 
 The Favorites menu drop-down list appears in the control bar. It consists of a button and a panel that expands when a user clicks or taps on a button. The panel contains individual Favorites tools.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 The position and size of the Favorites menu in the viewer user interface is controlled with the following CSS class selector:
 

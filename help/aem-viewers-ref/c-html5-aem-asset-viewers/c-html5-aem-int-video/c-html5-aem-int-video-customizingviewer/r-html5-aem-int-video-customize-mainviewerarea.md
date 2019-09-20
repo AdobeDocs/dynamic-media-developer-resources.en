@@ -12,7 +12,7 @@ uuid: 3e04c578-dcb2-4034-8809-dc949be80097
 
 The main view area is the area occupied by the interactive swatches. It is usually set to fit the available device screen when no size is specified.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties of the main viewer area**
 

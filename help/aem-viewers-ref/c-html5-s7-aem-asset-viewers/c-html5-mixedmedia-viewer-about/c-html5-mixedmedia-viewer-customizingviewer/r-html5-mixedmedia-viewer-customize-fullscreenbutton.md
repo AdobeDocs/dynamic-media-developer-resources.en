@@ -12,7 +12,7 @@ uuid: ef3a0c21-88e0-4a10-9b89-da862b579b17
 
 This button causes the viewer to enter or exit full screen mode when clicked by the user. It is used when the viewer is displaying images or spin sets. This button is not displayed if the viewer works in pop-up mode and the system does not support native full screen. You can size, skin, and position this button by using CSS.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties of the main viewer area**
 

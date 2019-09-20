@@ -12,7 +12,7 @@ uuid: 8c080915-4b5b-4d81-b109-61f4e8a2d524
 
 On desktop systems some user interface elements like buttons have tooltips that are displayed on mouse hover.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties of the main viewer area**
 

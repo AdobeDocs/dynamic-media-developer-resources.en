@@ -12,7 +12,7 @@ uuid: 0327631d-9847-409c-bce1-e58ee248d701
 
 Facebook share tool consists of a button added to the Social share panel. When the button is clicked the user is redirected to a sharing dialog box that is provided by a social service. The position of the button is fully managed by the Social share tool.
 
-<a id="section_ADDF98E91AF24F618289D1682A5FB13A"></a>
+<!--<a id="section_ADDF98E91AF24F618289D1682A5FB13A"></a>-->
 
 The appearance of the Facebook share button is controlled with the following CSS class selector:
 

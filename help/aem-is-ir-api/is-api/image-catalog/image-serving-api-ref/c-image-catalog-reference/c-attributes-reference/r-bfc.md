@@ -12,7 +12,7 @@ uuid: ea27f001-6d7d-4df4-b88c-60859a92e096
 
 Browser Format Conversion. Specifies whether browser format conversion functionality is turned on or off.
 
-<a id="section_2768B2BEEE214676AA32F17E2A0E3343"></a>
+<!--<a id="section_2768B2BEEE214676AA32F17E2A0E3343"></a>-->
 
 `Bfc=true|false`
 

@@ -37,7 +37,7 @@ System requirements for HTML5 viewers.
 * Zoom Vertical viewer is supported on iOS 10 or later, Firefox 61, Chrome 66, Safari 11 or later, Internet Explorer 11, Microsoft Edge, Android 4.x or later. 
 * Video viewer does not support HLS (HTTP Live Streaming) playback in Internet Explorer 11 running under Windows 7.
 
-<a id="section_1486A48CD38F42E3956E022A48207727"></a>
+<!--<a id="section_1486A48CD38F42E3956E022A48207727"></a>-->
 
 >[!NOTE]
 >
@@ -59,7 +59,7 @@ System requirements for HTML5 viewers.
 * OpenSSL 0.9.8y 
 * Baidu January 2015
 
-<a id="section_CF857D27B09D4B09999D79DA2628DDEE"></a>
+<!--<a id="section_CF857D27B09D4B09999D79DA2628DDEE"></a>-->
 
 >[!NOTE]
 >

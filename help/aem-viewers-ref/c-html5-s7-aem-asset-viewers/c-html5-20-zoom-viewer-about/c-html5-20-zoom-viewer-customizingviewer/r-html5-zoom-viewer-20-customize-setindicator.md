@@ -12,7 +12,7 @@ uuid: 802916a6-cec5-469b-b54c-dd379925a8c2
 
 Set indicator is a series of dots rendered on top of swatches when a viewer is used on a touch device. The dots help users to navigate through pages of thumbnails when scroll buttons are not available.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties of the set indicator**
 

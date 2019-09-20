@@ -12,7 +12,7 @@ uuid: 6cf7a16c-42bf-4576-bcb1-d504589b2748
 
 Clicking or tapping the Next slide button moves a user to the next slide in the carousel set.
 
-<a id="section_6C008EE11212461FA744F2540D38C295"></a>
+<!--<a id="section_6C008EE11212461FA744F2540D38C295"></a>-->
 
 This button is not displayed on touch devices. You can size, skin, and position this button using CSS.
 

@@ -12,7 +12,7 @@ uuid: 06464e36-8c9c-4d3c-b4e5-5911f002568c
 
 Main view consists of the zoomable image.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties of the main viewer area**
 

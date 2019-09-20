@@ -12,7 +12,7 @@ uuid: 21f9223a-382c-49cc-afdd-2dbf703bc242
 
 Clicking or tapping this button zooms in on an image in the main view. This button appears in the main control bar. This button is not displayed on mobile phones to save screen real estate. You can size, skin, and position this button by using CSS.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties of the main viewer area**
 

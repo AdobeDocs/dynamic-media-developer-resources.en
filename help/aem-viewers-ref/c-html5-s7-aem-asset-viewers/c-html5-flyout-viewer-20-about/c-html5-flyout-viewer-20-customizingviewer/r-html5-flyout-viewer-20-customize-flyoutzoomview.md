@@ -12,7 +12,7 @@ uuid: 35c60228-3044-442b-a8e2-e13d0bd306a5
 
 The main view consists of the static image, the zoomed image shown in the flyout view, the highlight navigation area displayed over the static image and the tip message shown on top of static image.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 If the dimensions of the image being viewed do not match the dimensions of the flyout zoom view, the image content is centered within the flyout zoom view's rectangle display area.
 

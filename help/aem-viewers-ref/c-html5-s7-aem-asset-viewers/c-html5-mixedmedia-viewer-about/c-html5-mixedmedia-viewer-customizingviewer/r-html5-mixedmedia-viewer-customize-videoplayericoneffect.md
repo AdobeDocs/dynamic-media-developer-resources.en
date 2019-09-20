@@ -12,7 +12,7 @@ uuid: 5d59c4b2-a7a1-49e1-84c7-0e127a571c4f
 
 The play icon is overlaid on the video view area. It displays when the video is paused, or when the end of the video is reached, and it also depends on the iconeffect parameter.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 The appearance of the play icon is controlled with the following CSS class selector:
 

@@ -14,7 +14,7 @@ Swatches consist of a row of thumbnail images with optional scroll buttons on th
 
  `.s7zoomviewer .s7swatches`
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties of the main viewer area**
 
