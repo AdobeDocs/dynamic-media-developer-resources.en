@@ -517,29 +517,29 @@ user-guide-title: Dynamic Media Developer Image Serving and Rendering API
          + [Uninstalling Image Rendering](ir-api/image-rendering-api-ref/c-ir-installation/c-ir-uninstalling/c-ir-uninstalling.md)
          + [Uninstalling on Linux and Solaris](ir-api/image-rendering-api-ref/c-ir-installation/c-ir-uninstalling/t-ir-uninstall-linux-solaris.md)
          + [Uninstalling on Windows](ir-api/image-rendering-api-ref/c-ir-installation/c-ir-uninstalling/t-ir-uninstall-windows.md)
-   + Server administation {#server-administration}
-         + [Server administration](ir-api/image-rendering-api-ref/c-ir-server-administration/c-ir-server-administration.md)
-         + [Server administration preface](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-preface.md)
-         + [Server Administration Overview](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-server-overview.md)
-         + Configuring and managing the server {#configuring-and-managing-the-server}
-            + [Configuring and managing the server overview](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-configuring-and-managing-the-server.md)
-            + [Configuration files](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-config-files.md)
-            + [Starting and stopping the server](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-starting-and-stopping-the-server.md)
-            + [Server logging](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-server-logging.md)
-            + [Data caching](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-data-caching.md)
-            + [Memory considerations](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-memory-considerations.md)
-            + [Dynamic disk space considerations](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-dynamic-disk-space-considerations.md)
-            + [Vignette size limitation](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-vignette-size-limitation.md)
-            + Managing content {#managing-content}
-               + [Managing content](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-managing-content/c-ir-managing-content.md)
-               + [Material catalogs](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-managing-content/c-ir-server-material-catalogs.md)
-               + [Source data](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-managing-content/c-ir-source-data.md)
-               + [Deleting or replacing source data files](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-managing-content/c-ir-deleting-or-replacing-source-data-files.md)
-         + Configuration settings reference {#configuration-settings-reference}
-            + [Configuration settings reference overview](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuration-settings-reference/c-ir-configuration-settings-reference.md)
-            + [Catalog folder (ir.catalogRootPath)](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuration-settings-reference/c-ir-catalog-folder.md)
-            + [Catalog cache folder (ir.catalogCacheRoot)](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuration-settings-reference/c-ir-catalog-cache-folder.md)
-            + [Resource root folders (ir.resourceRootPaths)](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuration-settings-reference/c-ir-resource-root-folders.md)
+   + Server administration {#server-administration}
+      + [Server administration](ir-api/image-rendering-api-ref/c-ir-server-administration/c-ir-server-administration.md)
+      + [Server administration preface](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-preface.md)
+      + [Server Administration Overview](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-server-overview.md)
+      + Configuring and managing the server {#configuring-and-managing-the-server}
+         + [Configuring and managing the server overview](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-configuring-and-managing-the-server.md)
+         + [Configuration files](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-config-files.md)
+         + [Starting and stopping the server](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-starting-and-stopping-the-server.md)
+         + [Server logging](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-server-logging.md)
+         + [Data caching](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-data-caching.md)
+         + [Memory considerations](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-memory-considerations.md)
+         + [Dynamic disk space considerations](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-dynamic-disk-space-considerations.md)
+         + [Vignette size limitation](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-vignette-size-limitation.md)
+         + Managing content {#managing-content}
+            + [Managing content](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-managing-content/c-ir-managing-content.md)
+            + [Material catalogs](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-managing-content/c-ir-server-material-catalogs.md)
+            + [Source data](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-managing-content/c-ir-source-data.md)
+            + [Deleting or replacing source data files](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuring-and-managing-the-server/c-ir-managing-content/c-ir-deleting-or-replacing-source-data-files.md)
+      + Configuration settings reference {#configuration-settings-reference}
+         + [Configuration settings reference overview](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuration-settings-reference/c-ir-configuration-settings-reference.md)
+         + [Catalog folder (ir.catalogRootPath)](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuration-settings-reference/c-ir-catalog-folder.md)
+         + [Catalog cache folder (ir.catalogCacheRoot)](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuration-settings-reference/c-ir-catalog-cache-folder.md)
+         + [Resource root folders (ir.resourceRootPaths)](ir-api/server-admin/image-rendering-api-ref/c-ir-server-administration/c-ir-configuration-settings-reference/c-ir-resource-root-folders.md)
    + HTTP protocol reference {#http-protocol-reference}
       + [HTTP protocol reference](ir-api/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-ref.md)
       + [Introduction](ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-introduction.md)
