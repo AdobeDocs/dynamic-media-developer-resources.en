@@ -14,7 +14,7 @@ JavaScript API reference for Interactive Video Viewer.
 
  `InteractiveVideoViewer([config])`
 
-Constructor, creates a new Video Image Viewer instance.
+Constructor, creates a new Interactive Video Viewer instance.
 
 ## Parameters {#section-4fb77a645fdd45b3aaa5079c31e3bb05}
 
