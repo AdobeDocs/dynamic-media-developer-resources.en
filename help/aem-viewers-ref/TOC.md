@@ -23,7 +23,7 @@ user-guide-title: Dynamic Media Developer Library Guide
       + [Scene7 Viewers 5.2.2 Release Notes](c-release-notes/c-archive/c-rn-04-30-15.md)
       + [Scene7 Viewers 5.1.1 Release Notes](c-release-notes/c-archive/c-rn-09-19-14.md)
       + [Scene7 Viewers 5.0.1 Release Notes](c-release-notes/c-archive/c-rn-04-29-14.md)
-      + [Scene7 Viewers 4.9.2 Release Notes](c-release-notes/c-archive/r-restrictions-and-known-issues.md)
+      + [Scene7 Viewers 4.9.2 Release Notes](c-release-notes/c-archive/c-rn-09-18-13.md)
 + [Compatibility notes](c-compatibility-notes.md)
 + Viewers for AEM Assets and Dynamic Media Classic {#viewers-aem-assets-dmc}
    + [Viewers for AEM Assets and Dynamic Media Classic](c-html5-s7-aem-asset-viewers/c-html5-s7-aem-asset-viewers.md)
