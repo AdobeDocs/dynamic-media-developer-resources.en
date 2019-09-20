@@ -18,7 +18,7 @@ Sets the viewer parameter to a specified value. The parameter is either a viewer
 
 This method is optional if the viewer configuration information was passed with `config` JSON object to constructor.
 
-See also [init](../../../c-html5-aem-asset-viewers/c-html5-aem-video360/c-html5-aem-video360-javascriptapiref/r-html5-aem-video360-javascriptapiref-init.md#reference-aee94dd92a28410784f7a1792e28683b).
+See also [init](../../../c-html5-aem-asset-viewers/c-html5-aem-int-video/c-html5-aem-int-video-javascriptapiref/r-html5-aem-int-video-javascriptapiref-init.md#reference-aee94dd92a28410784f7a1792e28683b).
 
 ## Parameters {#section-c68a5a3688d342fd9d6a7fd59867cc7a}
 
