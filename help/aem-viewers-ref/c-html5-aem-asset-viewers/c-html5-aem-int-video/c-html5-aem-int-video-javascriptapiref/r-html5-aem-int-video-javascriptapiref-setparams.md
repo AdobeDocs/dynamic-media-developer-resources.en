@@ -20,6 +20,7 @@ This method is optional if the viewer configuration information was passed with 
 
 See also [init](../../../c-html5-aem-asset-viewers/c-html5-aem-int-video/c-html5-aem-int-video-javascriptapiref/r-html5-aem-int-video-javascriptapiref-init.md#reference-aee94dd92a28410784f7a1792e28683b).
 
+
 ## Parameter {#section-add05f3d7ca0426897bd74bf7ac9b9cd}
 
 <table id="table_896DFF34A68A403DB93A6D597461A573"> 

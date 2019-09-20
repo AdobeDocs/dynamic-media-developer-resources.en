@@ -18,7 +18,7 @@ Sets one or more parameters to a given value. The method argument syntax is iden
 
 This method is optional if the viewer configuration information was passed with `config` JSON object to constructor.
 
-See also [init](../../../c-html5-aem-asset-viewers/c-html5-aem-int-video/c-html5-aem-int-video-javascriptapiref/r-html5-aem-int-video-javascriptapiref-init.md#reference-aee94dd92a28410784f7a1792e28683b).
+See also [init](../../../c-html5-aem-asset-viewers/c-html5-aem-video360/c-html5-aem-video360-javascriptapiref/r-html5-aem-video360-javascriptapiref-init.md#reference-aee94dd92a28410784f7a1792e28683b).
 
 ## Parameter {#section-add05f3d7ca0426897bd74bf7ac9b9cd}
 
