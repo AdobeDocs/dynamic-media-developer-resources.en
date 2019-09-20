@@ -6,12 +6,9 @@ solution: Experience Manager
 title: Expiration
 topic: Scene7 Image Serving - Image Rendering API
 uuid: f51e45fc-fcea-4df6-8c47-e772a1b70a3a
-containsConref:true
 ---
 
 # Expiration{#expiration}
-
-<a id="section_C6598929C9474E8A9F81475A986854C0"></a>
 
 Used to manage client and proxy server caching. The server calculates the expiration time/date of the HTTP response data by adding this value to the time/date of transmission.
 

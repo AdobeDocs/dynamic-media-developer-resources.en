@@ -12,3 +12,7 @@ uuid: 3278c781-968a-4bde-b469-84e8dcfb0e9a
 
 The commands supported by Image Rendering are listed below, grouped by category.
 
+* [View attributes](r-ir-view-attributes.md)
+* [Selection commands](r-ir-selection-commands.md)
+* [Material attributes](r-ir-material-attributes.md)
+* [Miscellaneous commands](r-ir-miscellaneous-commands.md)
