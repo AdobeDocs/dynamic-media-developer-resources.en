@@ -6,12 +6,9 @@ solution: Experience Manager
 title: Path
 topic: Scene7 Image Serving - Image Rendering API
 uuid: d1ed8a98-60eb-4bdb-884e-ea08c018d834
-containsConref:true
 ---
 
 # Path{#path}
-
-<a id="section_0455CBCDA06147C3A6BD1DEEC11AD627"></a>
 
 The server uses the path resolution rules described in [Managing Source Data](../../../../../../is-api/image-serving-api-ref/c-configuration-and-administration/c-configuration-and-administration.md#concept-1ec4d9f0e58a430cae045761f1ff9173) to find the data file.
 

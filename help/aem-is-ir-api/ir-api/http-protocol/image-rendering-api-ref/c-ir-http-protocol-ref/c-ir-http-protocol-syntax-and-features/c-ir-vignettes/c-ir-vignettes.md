@@ -40,3 +40,6 @@ In addition to the basic object types, two special kinds of overlap objects are 
 * **Window covering frame objects** provide placement information for applying window coverings style files, which are authored independently of the vignette and can be shared amongst vignettes.
 
 Objects are collected into *object groups*, similar to a file system. Grouping is normally based on the structure of the physical objects they represent (e.g a 'All Cabinets' group might contain 'Base Cabinets' and 'Wall Cabinets'). Any number of group levels are permitted. Grouping supports the application of materials to multiple like objects. 
+
+* [Scene coordinates](c-ir-scene-coordinates.md)
+* [Material resolution](c-ir-material-resolution.md)

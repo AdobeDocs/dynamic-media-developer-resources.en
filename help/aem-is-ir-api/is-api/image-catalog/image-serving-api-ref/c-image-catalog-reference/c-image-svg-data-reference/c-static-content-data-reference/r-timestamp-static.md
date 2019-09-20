@@ -6,12 +6,9 @@ solution: Experience Manager
 title: TimeStamp
 topic: Scene7 Image Serving - Image Rendering API
 uuid: fd60e5db-9219-41a8-947f-0d497b39e727
-containsConref:true
 ---
 
 # TimeStamp{#timestamp}
-
-<a id="section_502ADF8AC50F4D74BAC5D017D94A730E"></a>
 
 If `attribute::UseLastModified` is set, the `catalog::TimeStamp` value is returned in the HTTP response as a Last-Modified HTTP header. The Last-Modified header is always returned for static contents, even if `attribute::UseLastModified` is not set.
 

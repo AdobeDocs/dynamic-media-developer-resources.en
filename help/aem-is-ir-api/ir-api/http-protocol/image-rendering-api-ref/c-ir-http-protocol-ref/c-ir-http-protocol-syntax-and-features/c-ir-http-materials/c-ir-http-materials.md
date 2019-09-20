@@ -19,3 +19,10 @@ Any attributes which occur within a Material Specification Segment (MSS) but are
 The following tables list the basic material attributes. IR supports additional attributes for controlling [advanced render effects](../../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-advanced-render-effects/c-ir-advanced-render-effects.md#concept-bf8b6d8460244b9cacc7f4a3df4c5281).
 
 Unless otherwise noted, all material attributes are optional, with suitable default values. 
+
+* [Solid colors](r-ir-solid-colors.md)
+* [Repeatable textures](r-ir-repeatable-textures.md)
+* [Wall borders](r-ir-wall-borders.md)
+* [Decals](r-ir-decals.md)
+* [Cabinets](r-ir-cabinets.md)
+* [Window coverings](r-ir-window-coverings.md)
