@@ -59,6 +59,8 @@ If you are not converting large images you do not have to set the parameters tha
 
 ## Options {#section-df311ace43f947b3817b60b667ae04ca}
 
+<!--Rick - deleted another nested table here. compare to original-->
+
 <table id="table_02011C7C076745A8BF4378B22C48C8A3"> 
  <tbody> 
   <tr> 
@@ -99,9 +101,7 @@ If you are not converting large images you do not have to set the parameters tha
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> -autocrop &lt; <span class="varname"> corner </span>&gt; &lt; <span class="varname"> mode </span>&gt; &lt; <span class="varname"> tolerance </span>&gt; &lt; <span class="varname"> infoFile </span>&gt; </span> </p> </td> 
-   <td colname="col2"> <p>Calculate a crop rectangle to minimize a solid color background. No crop info is output if the auto-crop algorithm would result in the entire image being cropped. </p> <p>To calculate the crop rectangle without converting the image, specify <span class="codeph"> -autocrop </span> without <span class="codeph"> -convert </span> and without <span class="codeph"> <span class="varname"> destFile </span> </span>. </p> <p> 
-     <table id="table_172986C593B54E299A2E514BCABCAB8E">  
-     </table> </p> </td> 
+   <td colname="col2"> <p>Calculate a crop rectangle to minimize a solid color background. No crop info is output if the auto-crop algorithm would result in the entire image being cropped. </p> <p>To calculate the crop rectangle without converting the image, specify <span class="codeph"> -autocrop </span> without <span class="codeph"> -convert </span> and without <span class="codeph"> <span class="varname"> destFile </span> </span>. </p> <p>  
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> -embedXmpData </span> </p> </td> 
