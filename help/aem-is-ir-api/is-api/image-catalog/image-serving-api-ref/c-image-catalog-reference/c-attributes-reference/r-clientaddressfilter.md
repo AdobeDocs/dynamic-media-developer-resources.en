@@ -18,7 +18,7 @@ When specified, requests to this image catalog that originate from a client at a
 
 Comma-separated list of IP addresses with optional netmasks (CIDR notation is used):
 
-` *`ipAddress`*[/ *`netmask`*]&#42;[, *`ipAddress`*[/ *`netmask`*]]`
+`*`ipAddress`*` `[`/ *`netmask`*`]` &#42; `[`, *`ipAddress`* `[`/ *`netmask`*`]]`
 
 <table id="simpletable_9F82BB0D42A9434883F2F70A2A92898C"> 
  <tr class="strow"> 
@@ -49,4 +49,4 @@ Grant access to a single IP address: `192.168.2.117` or `192.168.2.117/32`
 
 ## See also {#section-4ea89a7d82e14a4a800487d2d8801465}
 
-[<addressfilter>](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-rule-set-reference/r-addressfilter-rule.md#reference-48c369f56ecd4034b410da5a94a9dfd1) 
+[addressfilter](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-rule-set-reference/r-addressfilter-rule.md#reference-48c369f56ecd4034b410da5a94a9dfd1) 

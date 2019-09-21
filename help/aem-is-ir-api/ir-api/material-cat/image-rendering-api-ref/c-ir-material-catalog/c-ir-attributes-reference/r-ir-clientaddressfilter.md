@@ -40,4 +40,4 @@ Inherited from `default::AddressFilter` if not defined or if empty.
 
 ## See also {#section-6198780c7b3045aabd211eefb38bc565}
 
-[<addressfilter>](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-clientaddressfilter.md#reference-52a541cec0b0424faf263d1fb4946b5f) 
+[addressfilter](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-clientaddressfilter.md#reference-52a541cec0b0424faf263d1fb4946b5f) 

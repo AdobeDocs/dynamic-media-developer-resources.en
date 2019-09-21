@@ -10,13 +10,13 @@ uuid: 89ec0f27-fc12-47c2-b9dd-e0ee768587b5
 
 # header{#header}
 
-HTTP response header element. Optional in <rule> elements.
+HTTP response header element. Optional in `<rule>` elements.
 
 ## Attributes {#section-6e903ab4c64f4b1488b8ae74274f50a6}
 
-** `Name = " *`text`*"` **: Required. Specifies the name of the HTTP header.
+**`Name` = "*text*"** : Required. Specifies the name of the HTTP header.
 
-** `Action = "set" | "add"` **: Optional. Default is `"set"`, which replaces any current header value. Specify `"add"` to append the header value, separated with a comma.
+**`Action` = "set" | `"add"`**: Optional. Default is `"set"`, which replaces any current header value. Specify `"add"` to append the header value, separated with a comma.
 
 ## Data {#section-a387f541396c49d99c29692a38032914}
 

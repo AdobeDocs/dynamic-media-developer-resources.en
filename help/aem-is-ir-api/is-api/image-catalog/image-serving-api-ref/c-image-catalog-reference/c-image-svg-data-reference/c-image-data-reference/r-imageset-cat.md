@@ -27,7 +27,7 @@ Curly braces '{ }' and parentheses '( )' may be used to delimit certain content 
 >* } 
 >* ( 
 >* ) 
->
+
 
 Refer to the Image Serving Viewers documentation for additional details regarding the structure and use of image sets.
 
@@ -51,7 +51,7 @@ Each item in a basic swatch set consists of a reference to an image record and a
 |  ` *`rrggbb`*`  | Packed 6 digit hex RGB color value for solid color swatches  |
 |  ` *`label`*`  | Optional text label for solid color swatches  |
 
-** Hierarchical Swatch Sets**
+**Hierarchical Swatch Sets**
 
 Each item in a hierarchical swatch set can consist of a basic swatch item or a reference to a swatch set record (swatches are required for such items).
 
@@ -64,8 +64,7 @@ Each item in a hierarchical swatch set can consist of a basic swatch item or a r
 
 A basic spin set consists of a simple list of image ids.
 
-|  ` *`basicSpinSet`*`  | ` *`imageId`* &#42;[ ';' *`imageId`* ]`  |
-|---|---|
+<!--empty table was here-->
 
 **Two-Dimensional Spin Sets**
 
@@ -108,8 +107,7 @@ Each item in a media set can consist of an image, basic swatch set, hierarchical
 
 A video set consists of a simple list of video ids where each id references an entry in the static content catalog.
 
-|  ` *`videoSet`*`  | ` *`videoId`* &#42;[ , *`videoId`* ]`  |
-|---|---|
+<!--empty table here-->
 
 ## Properties {#section-17c731e5c46646aa90ac21f39bb693ca}
 

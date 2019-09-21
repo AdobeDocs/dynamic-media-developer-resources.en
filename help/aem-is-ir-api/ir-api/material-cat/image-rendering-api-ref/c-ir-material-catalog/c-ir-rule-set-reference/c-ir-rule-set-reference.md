@@ -57,7 +57,7 @@ The `<rule>` elements are searched in the order specified for a match with the c
 
 If a `<rule>` is matched, the optional *`substitution`* is applied and the modified request string is passed to the server's request parser for normal processing.
 
-If no successful match is made when the end of the <ruleset> is reached, the request is passed to the parser without modification.
+If no successful match is made when the end of the `<ruleset>` is reached, the request is passed to the parser without modification.
 
 ## The OnMatch attribute {#section-7a8ad3597780486985af5e9a3b1c7b56}
 

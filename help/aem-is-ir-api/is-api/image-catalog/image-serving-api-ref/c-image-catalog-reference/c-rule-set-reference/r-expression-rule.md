@@ -10,7 +10,7 @@ uuid: f2036015-a2c7-4392-86f6-4cdf3152839a
 
 # expression{#expression}
 
-Regular expression pattern element. Optional in <rule> elements.
+Regular expression pattern element. Optional in `<rule>` elements.
 
 ## Attributes {#section-2d438c889ae84b6da7e0ed84b5d021a0}
 

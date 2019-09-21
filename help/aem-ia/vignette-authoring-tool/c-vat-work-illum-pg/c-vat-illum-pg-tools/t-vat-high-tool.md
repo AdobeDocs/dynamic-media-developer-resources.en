@@ -17,7 +17,7 @@ You begin by creating a normal illumination map for your vignette. You make a co
 **To Create Areas of Brightness for Vignettes Containing a Highlight Matte Object:** 
 
 1. [Create a normal illumination map](../../c-vat-work-illum-pg/c-vat-work-illum-maps/t-vat-illum-map-img-auth.md#task-0342a45d98cd456aa4e7cbff6a46ca47) for the entire vignette.
-1. With <none> selected in the [ [!DNL Select Object] box](../../c-vat-gs/c-vat-sel-obj/c-vat-sel-object-box.md#concept-d127c6efaabd436a96c02f36a7bce6ac), choose **[!UICONTROL Object Properties]** from the [!DNL Edit] menu.
+1. With `<none>` selected in the [ [!DNL Select Object] box](../../c-vat-gs/c-vat-sel-obj/c-vat-sel-object-box.md#concept-d127c6efaabd436a96c02f36a7bce6ac), choose **[!UICONTROL Object Properties]** from the [!DNL Edit] menu.
 1. Click the **[!UICONTROL Illumination]** tab.
 1. Click the **[!UICONTROL Action]** button for Map B or Map C.
 1. Choose **[!UICONTROL Copy illum map A]**.

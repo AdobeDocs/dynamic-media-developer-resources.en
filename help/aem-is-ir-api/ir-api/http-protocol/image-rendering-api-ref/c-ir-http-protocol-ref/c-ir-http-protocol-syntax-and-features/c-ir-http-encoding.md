@@ -12,7 +12,7 @@ uuid: 37bd0040-7bad-4548-ab39-7f598a217732
 
 Command values must be http-encoded using %xx escape sequences, such that the value strings do not include the reserved characters '=', '&', and '%'.
 
-Otherwise, standard HTTP encoding rules apply. The HTTP specification requires encoding of the unsafe characters such as ' ' (space), '"'(double-quote), '#', '%', '<', and '>', as well as any control characters, such as `<return>` and <tab>.
+Otherwise, standard HTTP encoding rules apply. The HTTP specification requires encoding of the unsafe characters such as ' ' (space), '"'(double-quote), '#', '%', '<', and '>', as well as any control characters, such as `<return>` and `<tab>`.
 
 **Caution:** Curly braces { } used as request nesting delimiters must not be encoded. Certain email clients unfortunately encode curly braces in embedded HTTP request. Should this be an issue, Image Rendering allows use of parentheses ( ) instead of curly braces.
 

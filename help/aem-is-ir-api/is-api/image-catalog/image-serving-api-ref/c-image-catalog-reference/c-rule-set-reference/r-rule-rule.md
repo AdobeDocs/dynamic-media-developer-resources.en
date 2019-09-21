@@ -10,7 +10,7 @@ uuid: 8b8e5b06-a0b7-47e1-942d-0297d08c313b
 
 # rule{#rule}
 
-Request rule element. One or more rules are optional in the <ruleset> element.
+Request rule element. One or more rules are optional in the `<ruleset>` element.
 
 ## Attributes {#section-d4a3b0496c0c4aa5bd7da87203b9379b}
 
@@ -18,7 +18,7 @@ Request rule element. One or more rules are optional in the <ruleset> element.
 
 `Replace = "first" | "all"`: Optional. Default is "first".
 
-` RequestType = " *`types`*"`: Optional. Specifies which input context the rule applies to. *`types`* is a comma-separated list, which may include one or more of the tokens listed in the following table. If `RequestType` is not specified, the rule applies to requests received on all supported contexts. 
+`RequestType` = *"`types`"*: Optional. Specifies which input context the rule applies to. *`types`* is a comma-separated list, which may include one or more of the tokens listed in the following table. If `RequestType` is not specified, the rule applies to requests received on all supported contexts. 
 
 <table id="table_4935E1ED03624DA6AF3F8DC9AAA10237"> 
  <thead> 
@@ -47,7 +47,7 @@ Request rule element. One or more rules are optional in the <ruleset> element.
  </tbody> 
 </table>
 
-** `Name = "text"` **: Optional. Used to identify the `<rule>` element in debug logs and error messages.
+**`Name = "text"`**: Optional. Used to identify the `<rule>` element in debug logs and error messages.
 
 `  *`Attribute`* ="value"`: Optional. `<rule>` elements may define any of the following attributes in any combination. If specified, and the rule is successfully matched, they will override the corresponding catalog attributes for this request. Default is `RequestType="is"`. 
 

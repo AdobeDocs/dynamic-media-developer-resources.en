@@ -10,7 +10,7 @@ uuid: f7071681-e97e-4081-aeb1-093d2b23041c
 
 # rule{#rule}
 
-Request rule element. One or more are optional in the <ruleset> element.
+Request rule element. One or more are optional in the `<ruleset>` element.
 
 ## Attributes {#section-aa23349645434db99d46957a96f2e1e1}
 
@@ -74,7 +74,7 @@ The Expiration attribute only overrides the default attribute value; it is ignor
 
 ## Notes {#section-a27b91f9a03047c0bb7edc0967fb4216}
 
-If both `<expression>` and <substitution> are specified, and captured substrings are not used, the first matched sub-string is replaced with `<substitution>`.
+If both `<expression>` and `<substitution>` are specified, and captured substrings are not used, the first matched sub-string is replaced with `<substitution>`.
 
 If `<expression>` is not specified, any path will match and `<substitution>` is appended to the end of the path.
 

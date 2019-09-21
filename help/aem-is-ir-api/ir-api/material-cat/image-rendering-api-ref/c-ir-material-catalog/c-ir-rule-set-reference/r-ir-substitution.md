@@ -10,7 +10,7 @@ uuid: f72902b1-0b0f-4401-9c3c-46573048cb25
 
 # substitution{#substitution}
 
-Substitution string element. Optional in <rule> elements.
+Substitution string element. Optional in `<rule>` elements.
 
 ## Attributes {#section-d955eefc53eb4274861270669c01f9ca}
 

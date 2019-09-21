@@ -10,7 +10,7 @@ uuid: e5702c6e-a49c-4da6-a29c-26e16bfdcad1
 
 # addressfilter{#addressfilter}
 
-Address filter element. Optional in <rule> elements. Overrides attribute::ClientAddressFilter when the rule is applied.
+Address filter element. Optional in `<rule>` elements. Overrides attribute::ClientAddressFilter when the rule is applied.
 
 ## Attributes {#section-e7a0960f7f0045da91de37824aa4aeaa}
 
@@ -26,7 +26,7 @@ Access to this image catalog can be restricted to one or more specific IP addres
 
 Access is not restricted if `<addressfilter>` is empty or not specified.
 
-If the <expression> in the `<rule>` element is absent or empty, the `<addressfilter>` is applied to all requests.
+If the `<expression>` in the `<rule>` element is absent or empty, the `<addressfilter>` is applied to all requests.
 
 `localhost` is always implicitly part of the `ClientAddressFilter` definition, even if not explicitly specified. Requests originating from `localhost` are never rejected, regardless of the `ClientAddressFilter` specification.
 

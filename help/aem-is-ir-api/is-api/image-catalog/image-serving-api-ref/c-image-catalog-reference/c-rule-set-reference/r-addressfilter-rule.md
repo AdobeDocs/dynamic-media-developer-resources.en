@@ -10,7 +10,7 @@ uuid: 677eb19f-fd1a-4f74-8d55-6045baf01bf5
 
 # addressfilter{#addressfilter}
 
-Address filter element. Optional in <rule> and <pathrule> elements.
+Address filter element. Optional in `<rule>` and `<pathrule>` elements.
 
 Overrides `attribute::ClientAddressFilter` when the rule is applied.
 

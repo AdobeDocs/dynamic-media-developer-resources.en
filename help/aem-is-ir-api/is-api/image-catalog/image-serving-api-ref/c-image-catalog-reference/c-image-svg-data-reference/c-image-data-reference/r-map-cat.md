@@ -10,9 +10,9 @@ uuid: 674a7a74-91bf-41c4-ab74-a5cb4f8abe1d
 
 # Map{#map}
 
-Image map data. None or more complete HTML <AREA> elements, sorted front-to-back.
+Image map data. None or more complete HTML `<AREA>` elements, sorted front-to-back.
 
-The server will interpret and may change the SHAPE and COORDS attributes. (SHAPE=CIRCLE is not supported in this release.) All other attributes of `<AREA>` are passed through without modification. Coordinate values specified with the COORDS attribute must be pixel offsets from the top-left corner of the unmodified source image. (% coordinates are not supported in this release and may not be processed correctly.)
+The server will interpret and may change the SHAPE and COORDS attributes. (SHAPE=CIRCLE is not supported in this release.) All other attributes of `<AREA>` are passed through without modification. Coordinate values specified with the COORDS attribute must be pixel offsets from the top-left corner of the unmodified source image. (`%` coordinates are not supported in this release and may not be processed correctly.)
 
 ## Properties {#section-f52d89fd399b4356ac05277e6c12f956}
 

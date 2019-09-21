@@ -12,7 +12,7 @@ uuid: e7fb368b-060a-439e-95a1-16b94d4796dc
 
 Command values must be http-encoded using %xx escape sequences, such that the value strings do not include the reserved characters '=', '&', and '%'.
 
-Otherwise, standard HTTP encoding rules apply. The HTTP specification requires encoding of the unsafe characters, as well as any control characters, such as <return> and <tab>. URL encoding of a character consists of a "%" symbol, followed by the two-digit hexadecimal representation (case-insensitive) of the ISO-Latin code point for the character. The unsafe characters and code points are:
+Otherwise, standard HTTP encoding rules apply. The HTTP specification requires encoding of the unsafe characters, as well as any control characters, such as `<return>` and `<tab>`. URL encoding of a character consists of a "%" symbol, followed by the two-digit hexadecimal representation (case-insensitive) of the ISO-Latin code point for the character. The unsafe characters and code points are:
 
 <table id="table_D2C01CADB35E477D82D4C27586424625"> 
  <thead> 

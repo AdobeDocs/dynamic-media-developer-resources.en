@@ -74,361 +74,81 @@ Additional profiles may be added to the standard profiles, either to the default
 >
 >The following table applies to *Dynamic Media Hybrid* only (running in `dynamicmedia` run mode).
 
-<table id="table_009E4379848D4B86B7010377A5522319"> 
- <tbody> 
-  <tr> 
-   <td colname="col1"> <p><b> Identifier</b> </p> <p> </p> </td> 
-   <td colname="col2"> <p><b> Common name</b> </p> </td> 
-   <td colspan="2"> <p><b> File name</b> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colspan="4"> <p><b>RGB</b> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> AdobeRGB</span> </p> </td> 
-   <td colname="col2"> <p> Adobe RGB (1998) </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> AdobeRGB1998.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> AppleRGB</span> </p> </td> 
-   <td colname="col2"> <p> Apple RGB </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> AppleRGB.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> CIERGB</span> </p> </td> 
-   <td colname="col2"> <p> CIE RGB </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> CIERGB.icc </span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> ColorMatchRGB </span> </p> </td> 
-   <td colname="col2"> <p> ColorMatch RGB </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> ColorMatchRGB.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> NTSC</span> </p> </td> 
-   <td colname="col2"> <p> NTSC (1953) </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> NTSC1953.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> PAL</span> </p> </td> 
-   <td colname="col2"> <p> PAL/SECAM </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> PAL_SECAM.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> ProPhoto</span> </p> </td> 
-   <td colname="col2"> <p> ProPhoto RGB </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> ProPhoto.icm</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> SMPTE</span> </p> </td> 
-   <td colname="col2"> <p> SMPTE-C </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> SMPTE-C.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> sRGB</span> </p> </td> 
-   <td colname="col2"> <p> sRGB IEC61966-2.1 </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> sRgb Color Space Profile.icm </span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> WideGamutRGB</span> </p> </td> 
-   <td colname="col2"> <p> Wide Gamut RGB </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> WideGamutRGB.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colspan="4"> <p><b>CMYK</b> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> CoatedFogra27</span> </p> </td> 
-   <td colname="col2"> <p> Coated FOGRA27 (ISO 12647-2:2004) </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> CoatedFOGRA27.icc </span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> CoatedFogra39</span> </p> </td> 
-   <td colname="col2"> <p> Coated FOGRA39 (ISO 12647-2:2004) </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> CoatedFOGRA39.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> CoatedGraCol</span> </p> </td> 
-   <td colname="col2"> <p> Coated GRACoL 2006 (ISO 12647-2:2004) </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> CoatedGRACoL2006.icc </span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> EuropeISOCoated</span> </p> </td> 
-   <td colname="col2"> <p> Europe ISO Coated FOGRA27 </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> EuropeISOCoatedFOGRA27.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> EuroscaleCoated</span> </p> </td> 
-   <td colname="col2"> <p> Euroscale Coated </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> EuroscaleCoated.icc </span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> EuroscaleUncoated</span> </p> </td> 
-   <td colname="col2"> <p> Euroscale Uncoated v2 </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> EuroscaleUncoated.icc </span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> JapanColorCoated</span> </p> </td> 
-   <td colname="col2"> <p> Japan Color 2001 Coated </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> JapanColor2001Coated.icc </span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> JapanColorNewspaper</span> </p> </td> 
-   <td colname="col2"> <p> Japan Color 2002 Newspaper </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> JapanColor2002Newspaper.icc </span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> JapanColorUncoated</span> </p> </td> 
-   <td colname="col2"> <p> Japan Color 2001 Uncoated </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> JapanColor2001Uncoated.icc </span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> JapanColorWebCoated</span> </p> </td> 
-   <td colname="col2"> <p> Japan Color 2003 Web Coated </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> JapanColor2003WebCoated.icc </span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> JapanWebCoated</span> </p> </td> 
-   <td colname="col2"> <p> Japan Web Coated (Ad) </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> JapanWebCoated.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>
-     <!--NEW AUGUST 2017--><span class="codeph"> NewsprintSNAP2007</span> </p> </td> 
-   <td colname="col2"> <p>US Newsprint (SNAP 2007) </p> </td> 
-   <td colspan="2"> <p><span class="filepath"> USNewsprintSNAP2007.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> PS4Default</span> </p> </td> 
-   <td colname="col2"> <p> Photoshop 4 Default CMYK </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> Photoshop4DefaultCMYK.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> PS5Default </span> </p> </td> 
-   <td colname="col2"> <p> Photoshop 5 Default CMYK </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> Photoshop5DefaultCMYK.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> SheetfedCoated</span> </p> </td> 
-   <td colname="col2"> <p> U.S. Sheetfed Coated v2 </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> USSheetfedCoated.icc </span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> SheetfedUncoated</span> </p> </td> 
-   <td colname="col2"> <p> U.S. Sheetfed Uncoated v2 </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> USSheetfedUncoated.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> UncoatedFogra29</span> </p> </td> 
-   <td colname="col2"> <p> Uncoated FOGRA29 (ISO 12647-2:2004) </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> UncoatedFOGRA29.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> WebCoated</span> </p> </td> 
-   <td colname="col2"> <p> U.S. Web Coated (SWOP) v2 </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> USWebCoatedSWOP.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> WebCoatedFogra28 </span> </p> </td> 
-   <td colname="col2"> <p> Web Coated FOGRA28 (ISO 12647-2:2004) </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> WebCoatedFOGRA28.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> WebCoatedGrade3</span> </p> </td> 
-   <td colname="col2"> <p> Web Coated SWOP 2006 Grade 3 Paper </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> WebCoatedSWOP2006Grade3.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> WebCoatedGrade5</span> </p> </td> 
-   <td colname="col2"> <p> Web Coated SWOP 2006 Grade 5 Paper </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> WebCoatedSWOP2006Grade5.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> WebUncoated</span> </p> </td> 
-   <td colname="col2"> <p> U.S. Web Uncoated v2 </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> USWebUncoated.icc</span> </p> </td> 
-  </tr> 
- </tbody> 
-</table>
+|Identifier|Common name|File name|
+|-- |-- |-- |
+|**RGB**|||
+|`AdobeRGB`|Adobe RGB (1998)|AdobeRGB1998.icc|
+|`AppleRGB`|Apple RGB|AppleRGB.icc|
+|`CIERGB`|CIE RGB|CIERGB.icc|
+|`ColorMatchRGB`|ColorMatch RGB|ColorMatchRGB.icc|
+|`NTSC`|NTSC (1953)|NTSC1953.icc|
+|`PAL`|PAL/SECAM|PAL_SECAM.icc|
+|`ProPhoto`|ProPhoto RGB|ProPhoto.icm|
+|`SMPTE`|SMPTE-C|SMPTE-C.icc|
+|`sRGB`|sRGB IEC61966-2.1|sRgb Color Space Profile.icm|
+|`WideGamutRGB`|Wide Gamut RGB|WideGamutRGB.icc|
+|**CMYK**|||
+|`CoatedFogra27`|Coated FOGRA27 (ISO 12647-2:2004)|CoatedFOGRA27.icc|
+|`CoatedFogra39`|Coated FOGRA39 (ISO 12647-2:2004)|CoatedFOGRA39.icc|
+|`CoatedGraCol`|Coated GRACoL 2006 (ISO 12647-2:2004)|CoatedGRACoL2006.icc|
+|`EuropeISOCoated`|Europe ISO Coated FOGRA27|EuropeISOCoatedFOGRA27.icc|
+|`EuroscaleCoated`|Euroscale Coated|EuroscaleCoated.icc|
+|`EuroscaleUncoated`|Euroscale Uncoated v2|EuroscaleUncoated.icc|
+|`JapanColorCoated`|Japan Color 2001 Coated|JapanColor2001Coated.icc|
+|`JapanColorNewspaper`|Japan Color 2002 Newspaper|JapanColor2002Newspaper.icc|
+|`JapanColorUncoated`|Japan Color 2001 Uncoated|JapanColor2001Uncoated.icc|
+|`JapanColorWebCoated`|Japan Color 2003 Web Coated|JapanColor2003WebCoated.icc|
+|`JapanWebCoated`|Japan Web Coated (Ad)|JapanWebCoated.icc|
+|`NewsprintSNAP2007`|US Newsprint (SNAP 2007)|USNewsprintSNAP2007.icc|
+|`PS4Default`|Photoshop 4 Default CMYK|Photoshop4DefaultCMYK.icc|
+|`PS5Default`|Photoshop 5 Default CMYK|Photoshop5DefaultCMYK.icc|
+|`SheetfedCoated`|U.S. Sheetfed Coated v2|USSheetfedCoated.icc|
+|`SheetfedUncoated`|U.S. Sheetfed Uncoated v2|USSheetfedUncoated.icc|
+|`UncoatedFogra29`|Uncoated FOGRA29 (ISO 12647-2:2004)|UncoatedFOGRA29.icc|
+|`WebCoated`|U.S. Web Coated (SWOP) v2|USWebCoatedSWOP.icc|
+|`WebCoatedFogra28`|Web Coated FOGRA28 (ISO 12647-2:2004)|WebCoatedFOGRA28.icc|
+|`WebCoatedGrade3`|Web Coated SWOP 2006 Grade 3 Paper|WebCoatedSWOP2006Grade3.icc|
+|`WebCoatedGrade5`|Web Coated SWOP 2006 Grade 5 Paper|WebCoatedSWOP2006Grade5.icc|
+|`WebUncoated`|U.S. Web Uncoated v2|USWebUncoated.icc|
 
 The following table applies to *Dynamic Media Classic (Scene7) Image Serving* and *Dynamic Media* (running in `dynamicmedia_scene7` run mode).
 
-<table id="table_BD8CCF7F0C6642BE8B718B9690E09E11"> 
- <tbody> 
-  <tr> 
-   <td colname="col1"> <p><b> Identifier</b> </p> <p> </p> </td> 
-   <td colname="col2"> <p><b> Common name</b> </p> </td> 
-   <td colspan="2"> <p><b> File name</b> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colspan="4"> <p><b>RGB</b> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> AdobeRGB</span> </p> </td> 
-   <td colname="col2"> <p> Adobe RGB (1998) </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> AdobeRGB1998.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> AppleRGB</span> </p> </td> 
-   <td colname="col2"> <p> Apple RGB </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> AppleRGB.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> CIERGB</span> </p> </td> 
-   <td colname="col2"> <p> CIE RGB </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> CIERGB.icc </span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> ColorMatchRGB </span> </p> </td> 
-   <td colname="col2"> <p> ColorMatch RGB </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> ColorMatchRGB.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> NTSC</span> </p> </td> 
-   <td colname="col2"> <p> NTSC (1953) </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> NTSC1953.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> PAL</span> </p> </td> 
-   <td colname="col2"> <p> PAL/SECAM </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> PAL_SECAM.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> ProPhoto RGB</span> </p> </td> 
-   <td colname="col2"> <p> ProPhoto RGB </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> ProPhoto RGB.icm</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> SMPTE</span> </p> </td> 
-   <td colname="col2"> <p> SMPTE-C </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> SMPTE-C.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> sRGB</span> </p> </td> 
-   <td colname="col2"> <p> sRGB IEC61966-2.1 </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> sRgb Color Space Profile.icm </span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> WideGamutRGB</span> </p> </td> 
-   <td colname="col2"> <p> Wide Gamut RGB </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> WideGamutRGB.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colspan="4"> <p><b>CMYK</b> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> CoatedFogra27</span> </p> </td> 
-   <td colname="col2"> <p> Coated FOGRA27 (ISO 12647-2:2004) </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> CoatedFOGRA27.icc </span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> CoatedFogra39</span> </p> </td> 
-   <td colname="col2"> <p> Coated FOGRA39 (ISO 12647-2:2004) </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> CoatedFOGRA39.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> Coated GRACoL 2006 (ISO 12647-2:2004)</span> </p> </td> 
-   <td colname="col2"> <p> Coated GRACoL 2006 (ISO 12647-2:2004) </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> CoatedGRACoL2006.icc </span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> EuropeISOCoated</span> </p> </td> 
-   <td colname="col2"> <p> Europe ISO Coated FOGRA27 </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> EuropeISOCoatedFOGRA27.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> Euroscale Coated v2</span> </p> </td> 
-   <td colname="col2"> <p> Euroscale Coated v2 </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> EuroscaleCoated.icc </span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> EuroscaleUncoated</span> </p> </td> 
-   <td colname="col2"> <p> Euroscale Uncoated v2 </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> EuroscaleUncoated.icc </span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> JapanColorCoated</span> </p> </td> 
-   <td colname="col2"> <p> Japan Color 2001 Coated </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> JapanColor2001Coated.icc </span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> JapanColorNewspaper</span> </p> </td> 
-   <td colname="col2"> <p> Japan Color 2002 Newspaper </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> JapanColor2002Newspaper.icc </span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> JapanColorUncoated</span> </p> </td> 
-   <td colname="col2"> <p> Japan Color 2001 Uncoated </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> JapanColor2001Uncoated.icc </span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> Japan Color 2003 Web Coated</span> </p> </td> 
-   <td colname="col2"> <p> Japan Color 2003 Web Coated </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> JapanColor2003WebCoated.icc </span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> JapanWebCoated</span> </p> </td> 
-   <td colname="col2"> <p> Japan Web Coated (Ad) </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> JapanWebCoated.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> PS4Default</span> </p> </td> 
-   <td colname="col2"> <p> Photoshop 4 Default CMYK </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> Photoshop4DefaultCMYK.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> PS5Default </span> </p> </td> 
-   <td colname="col2"> <p> Photoshop 5 Default CMYK </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> Photoshop5DefaultCMYK.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> SheetfedCoated</span> </p> </td> 
-   <td colname="col2"> <p> U.S. Sheetfed Coated v2 </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> USSheetfedCoated.icc </span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> SheetfedUncoated</span> </p> </td> 
-   <td colname="col2"> <p> U.S. Sheetfed Uncoated v2 </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> USSheetfedUncoated.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> UncoatedFogra29</span> </p> </td> 
-   <td colname="col2"> <p> Uncoated FOGRA29 (ISO 12647-2:2004) </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> UncoatedFOGRA29.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>
-     <!--NEW AUGUST 2017--><span class="codeph"> US Newsprint (SNAP 2007)</span> </p> </td> 
-   <td colname="col2"> <p>US Newsprint (SNAP 2007) </p> </td> 
-   <td colspan="2"> <p><span class="filepath"> USNewsprintSNAP2007.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> WebCoated</span> </p> </td> 
-   <td colname="col2"> <p> U.S. Web Coated (SWOP) v2 </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> USWebCoatedSWOP.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> WebCoatedFogra28 </span> </p> </td> 
-   <td colname="col2"> <p> Web Coated FOGRA28 (ISO 12647-2:2004) </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> WebCoatedFOGRA28.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> Web Coated SWOP 2006 Grade 3 Paper</span> </p> </td> 
-   <td colname="col2"> <p> Web Coated SWOP 2006 Grade 3 Paper </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> WebCoatedSWOP2006Grade3.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> Web Coated SWOP Grade 5 Paper</span> </p> </td> 
-   <td colname="col2"> <p> Web Coated SWOP 2006 Grade 5 Paper </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> WebCoatedSWOP2006Grade5.icc</span> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> WebUncoated</span> </p> </td> 
-   <td colname="col2"> <p> U.S. Web Uncoated v2 </p> </td> 
-   <td colspan="2"> <p> <span class="filepath"> USWebUncoated.icc</span> </p> </td> 
-  </tr> 
- </tbody> 
-</table>
+|Identifier|Common name|File name|
+|-- |-- |-- |
+|**RGB**|||
+|`AdobeRGB`|Adobe RGB (1998)|AdobeRGB1998.icc|
+|`AppleRGB`|Apple RGB|AppleRGB.icc|
+|`CIERGB|CIE RGB`|CIERGB.icc|
+|`ColorMatchRGB`|ColorMatch RGB|ColorMatchRGB.icc|
+|`NTSC`|NTSC (1953)|NTSC1953.icc|
+|`PAL`|PAL/SECAM|PAL_SECAM.icc|
+|`ProPhoto RGB`|ProPhoto RGB|ProPhoto RGB.icm|
+|`SMPTE`|SMPTE-C|SMPTE-C.icc|
+|`sRGB`|sRGB IEC61966-2.1|sRgb Color Space Profile.icm|
+|`WideGamutRGB`|Wide Gamut RGB|WideGamutRGB.icc|
+|**CMYK**|||
+|`CoatedFogra27`|Coated FOGRA27 (ISO 12647-2:2004)|CoatedFOGRA27.icc|
+|`CoatedFogra39`|Coated FOGRA39 (ISO 12647-2:2004)|CoatedFOGRA39.icc|
+|`Coated GRACoL 2006 (ISO 12647-2:2004)`|Coated GRACoL 2006 (ISO 12647-2:2004)|CoatedGRACoL2006.icc|
+|`EuropeISOCoated`|Europe ISO Coated FOGRA27|EuropeISOCoatedFOGRA27.icc|
+|`Euroscale Coated v2`|Euroscale Coated v2|EuroscaleCoated.icc|
+|`EuroscaleUncoated`|Euroscale Uncoated v2|EuroscaleUncoated.icc|
+|`JapanColorCoated`|Japan Color 2001 Coated|JapanColor2001Coated.icc|
+|`JapanColorNewspaper`|Japan Color 2002 Newspaper|JapanColor2002Newspaper.icc|
+|`JapanColorUncoated`|Japan Color 2001 Uncoated|JapanColor2001Uncoated.icc|
+|`Japan Color 2003 Web Coated`|Japan Color 2003 Web Coated|JapanColor2003WebCoated.icc|
+|`JapanWebCoated`|Japan Web Coated (Ad)|JapanWebCoated.icc|
+|`PS4Default`|Photoshop 4 Default CMYK|Photoshop4DefaultCMYK.icc|
+|`PS5Default`|Photoshop 5 Default CMYK|Photoshop5DefaultCMYK.icc|
+|`SheetfedCoated`|U.S. Sheetfed Coated v2|USSheetfedCoated.icc|
+|`SheetfedUncoated`|U.S. Sheetfed Uncoated v2|USSheetfedUncoated.icc|
+|`UncoatedFogra29`|Uncoated FOGRA29 (ISO 12647-2:2004)|UncoatedFOGRA29.icc|
+|`US Newsprint (SNAP 2007)`|US Newsprint (SNAP 2007)|USNewsprintSNAP2007.icc|
+|`WebCoated`|U.S. Web Coated (SWOP) v2|USWebCoatedSWOP.icc|
+|`WebCoatedFogra28`|Web Coated FOGRA28 (ISO 12647-2:2004)|WebCoatedFOGRA28.icc|
+|`Web Coated SWOP 2006 Grade 3 Paper`|Web Coated SWOP 2006 Grade 3 Paper|WebCoatedSWOP2006Grade3.icc|
+|`Web Coated SWOP Grade 5 Paper`|Web Coated SWOP 2006 Grade 5 Paper|WebCoatedSWOP2006Grade5.icc|
+|`WebUncoated`|U.S. Web Uncoated v2|USWebUncoated.icc|
 
 ## See also {#section-39159397e80b4efca5f631eab8b9aa06}
 
