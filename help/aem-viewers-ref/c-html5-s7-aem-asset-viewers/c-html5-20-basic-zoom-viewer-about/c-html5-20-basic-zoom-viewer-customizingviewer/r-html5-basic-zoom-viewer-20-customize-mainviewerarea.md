@@ -12,7 +12,7 @@ uuid: f37b8d25-4bd6-481e-88e7-98192186b177
 
 The main view area is the area occupied by the zoom image. It usually sets to fit the available device screen when no size is specified.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties of the main viewer area**
 

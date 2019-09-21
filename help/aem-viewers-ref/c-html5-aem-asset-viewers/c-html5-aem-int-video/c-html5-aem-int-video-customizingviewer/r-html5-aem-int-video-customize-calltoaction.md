@@ -12,13 +12,13 @@ uuid: 04a042d8-7329-4f1d-b3b9-312d620b1f29
 
 The Call to action panel appears when the video ends and displays all interactive swatches associated with the particular video.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 The panel consists of a header area showing the video title, a replay button in the upper-right corner, and actual interactive swatches shown as a scrollable grid. You can disable the panel using the [callToActionRecap](../../../c-html5-aem-asset-viewers/c-html5-aem-int-video/r-html5-aem-int-video-config-attrib/r-html5-aem-int-video-config-attrib-calltoactionrecap.md#reference-3720b68800684ddabf523e9d81644ce6) configuration attribute.
 
 The call to action panel always takes the entire available viewer area.
 
-<a id="section_3A619BE925C04AFA87A6B7846C5C7E2B"></a>
+<!--<a id="section_3A619BE925C04AFA87A6B7846C5C7E2B"></a>-->
 
 The following CSS class selector controls the appearance of the background color in the call to action panel:
 
@@ -47,7 +47,7 @@ To set up a call to action panel with dark gray background:
 }
 ```
 
-<a id="section_AD18C770788B49989BEDAA608ECA804C"></a>
+<!--<a id="section_AD18C770788B49989BEDAA608ECA804C"></a>-->
 
 The following CSS class selector controls the appearance of the header in the call to action panel:
 
@@ -86,7 +86,7 @@ To set up a header that is 70 pixels tall, with a dark gray background, and a sl
 }
 ```
 
-<a id="section_B0333FC1A2CC4E089C68D34B839E5156"></a>
+<!--<a id="section_B0333FC1A2CC4E089C68D34B839E5156"></a>-->
 
 The following CSS class selector controls the appearance of the header title in the call to action panel:
 
@@ -142,7 +142,7 @@ To set up a video title with a 70 pixel line height, 25 pixel font size, white c
 }
 ```
 
-<a id="section_D23A6D4BA0614286A060982B359E3C08"></a>
+<!--<a id="section_D23A6D4BA0614286A060982B359E3C08"></a>-->
 
 The following CSS class selector controls the appearance of the close button in the call to action panel:
 
@@ -214,7 +214,7 @@ To set up a replay button that is 28 x 28 pixels; positioned 20 pixels from the 
 }
 ```
 
-<a id="section_3975B58E78DE4E81B469372FB8A3A348"></a>
+<!--<a id="section_3975B58E78DE4E81B469372FB8A3A348"></a>-->
 
 The following CSS class selector controls the appearance of the thumbnail grid view in the call to action panel:
 
@@ -243,7 +243,7 @@ To set up a thumbnails area with a dark gray background:
 }
 ```
 
-<a id="section_D2E5AADFCE0345468DC0D2977E2765D2"></a>
+<!--<a id="section_D2E5AADFCE0345468DC0D2977E2765D2"></a>-->
 
 The following CSS class selector controls the appearance of the thumb cell in the call to action panel:
 
@@ -275,7 +275,7 @@ To set up horizontal spacing of 24 pixels and vertical spacing of 18 pixels:
 }
 ```
 
-<a id="section_D06CF9F709A3447F83DC6E1CE7CA58B5"></a>
+<!--<a id="section_D06CF9F709A3447F83DC6E1CE7CA58B5"></a>-->
 
 The following CSS class selector controls the appearance of the thumbnail in the call to action panel:
 
@@ -317,7 +317,7 @@ To set up thumbnails that are 94 x 100 pixels:
 }
 ```
 
-<a id="section_F1B7E3FA3ABD4D71848586A3B308F9E2"></a>
+<!--<a id="section_F1B7E3FA3ABD4D71848586A3B308F9E2"></a>-->
 
 The following CSS class selector controls the appearance of the thumbnail label in the call to action panel:
 
@@ -361,7 +361,7 @@ To set up labels that use a white color, be center-aligned 15 pixels, and use an
 }
 ```
 
-<a id="section_2C011101EB804513B942EFB4CBD38E62"></a>
+<!--<a id="section_2C011101EB804513B942EFB4CBD38E62"></a>-->
 
 If there are more thumbnails than can fit vertically into view, thumbnails renders a vertical scroll bar on the right side. By default, the call to action panel renders a tiny vertical bar without thumb and scroll buttons. However, it is possible to customize the bar by altering the viewer CSS.
 
@@ -407,7 +407,7 @@ To set up a scroll bar that is 22 pixels wide and does not have any margin from 
 }
 ```
 
-<a id="section_E27B7253441543278E1081D70BA46122"></a>
+<!--<a id="section_E27B7253441543278E1081D70BA46122"></a>-->
 
 The scroll bar track is the area between the top and bottom scroll bar buttons. The component automatically sets the position and height of the track.
 
@@ -443,7 +443,7 @@ To set up a scroll bar track that is 22 pixels wide and has a gray color:
 }
 ```
 
-<a id="section_4A5D8C1A9C9D4E7B8AC0CD5BC6F3772D"></a>
+<!--<a id="section_4A5D8C1A9C9D4E7B8AC0CD5BC6F3772D"></a>-->
 
 The scroll bar thumb moves vertically within the scroll track area. Its vertical position is fully controlled by the component logic; however, the thumb height does not dynamically change depending on the amount of content.
 
@@ -510,7 +510,7 @@ To set up a scroll bar thumb that is 6 x 167 pixels, has three pixel rounded cor
 }
 ```
 
-<a id="section_C393B59763344E70A3BBD0601110F8DD"></a>
+<!--<a id="section_C393B59763344E70A3BBD0601110F8DD"></a>-->
 
 The following CSS class selector controls the appearance of the top and bottom scroll buttons:
 

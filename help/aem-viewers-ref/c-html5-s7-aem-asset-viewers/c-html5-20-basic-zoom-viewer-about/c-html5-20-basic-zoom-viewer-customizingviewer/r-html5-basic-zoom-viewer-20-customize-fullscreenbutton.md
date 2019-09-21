@@ -12,7 +12,7 @@ uuid: 8f0ce51b-1ef6-4631-8a54-7d34cb6e3ef2
 
 Causes the viewer to enter or exit full screen mode when clicked by the user. This button does not display if the viewer works in pop-up mode and the system does not support native full screen. You can size, skin, and position this button by using CSS.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties of the main viewer area**
 

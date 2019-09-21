@@ -12,7 +12,7 @@ uuid: 1fa90f7d-6b26-499d-8e6c-1cd80405aec0
 
 The control bar is the rectangular area that contains and sits behind all the UI controls available for the video viewer, such as the play/pause button, volume controls, and so on.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 The control bar always takes the entire available viewer width. It is possible to change its color, height, and vertical position by CSS, relative to the video viewer container.
 

@@ -12,7 +12,7 @@ uuid: a3895a9a-972a-4259-9418-b78f7c904bd4
 
 This button toggles closed caption display on and off. It is not visible if the caption parameter is not specified.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 You can size, skin, and position this button, relative to the control bar that contains it, by using CSS.
 

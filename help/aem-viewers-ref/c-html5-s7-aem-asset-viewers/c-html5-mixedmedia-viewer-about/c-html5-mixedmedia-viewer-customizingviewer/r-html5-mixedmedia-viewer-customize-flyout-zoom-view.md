@@ -12,7 +12,7 @@ uuid: c4c94432-7b6f-40a8-ae5f-9423234f3656
 
 In inline zoom mode main view consists of the static image, zoomed image shown in the flyout view over the static image and the tip message shown on top of static image.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties of the main viewer area**
 
@@ -45,7 +45,7 @@ Example - to make the main view transparent:
 }
 ```
 
-<a id="section_FD07AB77593748F99DC6C42ED20A61EC"></a>
+<!--<a id="section_FD07AB77593748F99DC6C42ED20A61EC"></a>-->
 
 The appearance of the tip message is controlled with the following CSS class selector:
 

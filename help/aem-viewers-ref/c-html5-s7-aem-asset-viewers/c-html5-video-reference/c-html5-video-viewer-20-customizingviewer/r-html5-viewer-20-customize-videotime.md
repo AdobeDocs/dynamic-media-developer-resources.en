@@ -12,7 +12,7 @@ uuid: a15b069a-18c8-428f-ac6f-ab5aeda65f4d
 
 The video time is the numeric display that shows the current time and duration of the currently playing video.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 The video time font family, font size, and font color are among the properties that CSS can control. It can also be positioned, relative to the control bar that contains it, by CSS.
 

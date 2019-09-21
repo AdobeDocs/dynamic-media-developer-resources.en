@@ -12,7 +12,7 @@ uuid: a918c775-a36a-44e8-9ca4-90cb8f5c3a5e
 
 The main view consists of the static image, the zoomed image shown in the flyout view on top of the static image, and the tip message shown on top of static image.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties of the main view**
 

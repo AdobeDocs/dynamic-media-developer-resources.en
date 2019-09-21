@@ -12,7 +12,7 @@ uuid: ff0f78b1-ff88-47b8-a118-4e0b3e75f341
 
 The video player is the rectangular area where the video content is displayed within the viewer.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 If the dimensions of the video that is being played does not match the dimensions of the video player, the video content is centered within the video player's rectangle display area.
 

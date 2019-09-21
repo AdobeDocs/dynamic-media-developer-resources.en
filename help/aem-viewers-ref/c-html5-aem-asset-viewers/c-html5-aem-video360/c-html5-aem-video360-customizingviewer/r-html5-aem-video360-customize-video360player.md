@@ -12,7 +12,7 @@ uuid: e78a9c22-4217-42cc-ba47-3acb4130a4fd
 
 The video player is the rectangular area where the video content is displayed within the viewer.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 If the dimensions of the video that is being played does not match the dimensions of the video player, the video content is centered within the video player's rectangle display area.
 
@@ -45,7 +45,7 @@ background-color: transparent;
 }
 ```
 
-<a id="section_5B82913FF3C44B7B8187969CB15E9560"></a>
+<!--<a id="section_5B82913FF3C44B7B8187969CB15E9560"></a>-->
 
 The appearance of the buffering animation is controlled with the following CSS class selector:
 

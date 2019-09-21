@@ -12,7 +12,7 @@ uuid: 312325a8-e10d-4c9f-a008-18ab666fbdd2
 
 Clicking or tapping this button closes the containing web page. This button only appears if the closebutton parameter is set to 1. This button is not available on desktop systems. You can size, skin, and position this button by using CSS.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties of the main viewer area**
 

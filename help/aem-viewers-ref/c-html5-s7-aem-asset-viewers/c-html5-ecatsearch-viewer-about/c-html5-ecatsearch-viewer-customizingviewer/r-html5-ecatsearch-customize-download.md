@@ -10,7 +10,7 @@ uuid: 73f012dc-4fd0-4460-87d8-3079bcd7a9de
 
 # Download{#download}
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 The appearance of the Download button is controlled with the following CSS class selector:
 

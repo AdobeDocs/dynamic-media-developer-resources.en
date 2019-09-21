@@ -12,7 +12,7 @@ uuid: f395b22d-55b8-4422-9aa4-9dd4b7a24063
 
 The main view area is occupied by the video. It usually sets to fit the available device screen when no size is specified.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 The following CSS class selector controls the appearance of the viewing area:
 

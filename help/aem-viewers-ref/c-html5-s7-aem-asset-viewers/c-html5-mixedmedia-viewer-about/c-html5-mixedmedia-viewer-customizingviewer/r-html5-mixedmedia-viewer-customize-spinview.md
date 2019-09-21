@@ -12,7 +12,7 @@ uuid: f1edbcc4-966a-4ec6-8ba9-a76f3ae51733
 
 Main view consists of the spin image when the current asset is a spin set.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties of the main viewer area**
 

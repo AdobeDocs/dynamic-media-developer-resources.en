@@ -12,7 +12,7 @@ uuid: 2ad21319-7a0e-44fd-8866-3055e8ff8913
 
 The main view area is the area occupied by the catalog image. It usually sets to fit the available device screen when no size is specified.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties of the main viewer area**
 

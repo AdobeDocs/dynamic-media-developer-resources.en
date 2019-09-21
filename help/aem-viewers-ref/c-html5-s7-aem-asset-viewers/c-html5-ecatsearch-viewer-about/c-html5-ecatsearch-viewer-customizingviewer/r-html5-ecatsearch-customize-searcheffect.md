@@ -12,7 +12,7 @@ uuid: 3a076ff8-2da5-4020-8a77-8f5a256afefe
 
 The viewer displays search result regions over the main view to highlight words or phrases found in the catalog.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties of the main viewer area**
 

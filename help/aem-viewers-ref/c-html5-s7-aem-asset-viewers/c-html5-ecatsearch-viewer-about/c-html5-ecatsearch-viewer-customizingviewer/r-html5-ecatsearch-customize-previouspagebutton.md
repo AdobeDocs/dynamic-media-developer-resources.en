@@ -12,7 +12,7 @@ uuid: 6ba16329-ce24-4a06-970e-cfcd35a8b2f0
 
 Clicking or tapping on this button brings the user to the previous page in the catalog. This button appears in the main control bar. This button is not displayed on mobile phones to save screen real estate. You can size, skin, and position this button by using CSS.
 
-<a id="section_6C008EE11212461FA744F2540D38C295"></a>
+<!--<a id="section_6C008EE11212461FA744F2540D38C295"></a>-->
 
 **CSS properties of the main viewer area**
 

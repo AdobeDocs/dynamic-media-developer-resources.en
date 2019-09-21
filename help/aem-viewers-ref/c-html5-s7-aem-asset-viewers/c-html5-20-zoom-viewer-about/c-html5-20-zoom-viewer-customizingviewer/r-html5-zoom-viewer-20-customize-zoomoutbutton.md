@@ -12,7 +12,7 @@ uuid: 353577c1-df6b-45d9-9dfe-4363f18ed199
 
 Clicking or tapping this button zooms out on an image in the main view. This button does not display on mobile phones in order to save screen real estate. You can size, skin, and position this button by using CSS.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties of the main viewer area**
 

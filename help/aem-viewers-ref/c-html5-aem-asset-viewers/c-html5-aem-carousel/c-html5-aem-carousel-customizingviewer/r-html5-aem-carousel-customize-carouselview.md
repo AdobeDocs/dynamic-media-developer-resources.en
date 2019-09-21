@@ -12,7 +12,7 @@ uuid: bf2065cc-fef2-4d4e-ab2a-a533fa063a80
 
 Main view consists of the banner image.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties of the main viewer area**
 

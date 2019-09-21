@@ -59,6 +59,8 @@ The upload job consists of one or more HTTP POSTs that use a common `jobHandle` 
 >
 >All POST requests for an upload job must originate from the same IP address.
 
+<!--RICK - The next table had a nested table, which I removed. Compare to orginial -->
+
 <table id="table_AB2E0FF2F08940EC8404A140DB4A0E7C"> 
  <thead> 
   <tr> 
@@ -74,8 +76,6 @@ The upload job consists of one or more HTTP POSTs that use a common `jobHandle` 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> uploadParams </span> </p> </td> 
    <td colname="col2"> <p>Required. </p> <p>An XML <span class="codeph"> uploadPostParams </span> document specifying the upload parameters. </p> <p> 
-     <table id="table_1F632119C4584D48A2773F42BD9BE303">  
-     </table> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>file params </p> </td> 

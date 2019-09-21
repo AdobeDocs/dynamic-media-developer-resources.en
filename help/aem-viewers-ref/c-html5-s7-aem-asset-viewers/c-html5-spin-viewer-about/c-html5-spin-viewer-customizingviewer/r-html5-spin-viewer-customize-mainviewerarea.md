@@ -12,7 +12,7 @@ uuid: 8395386b-4039-4a47-8d31-a341813c2647
 
 The main view area is the area occupied by the spin image. It usually sets to fit the available device screen when no size is specified.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties of the main viewer area**
 

@@ -12,7 +12,7 @@ uuid: cfd1055b-c4d6-42e4-ad24-a897e923e8e9
 
 The video scrubber is the horizontal slider control that lets a user dynamically seek to any time position within the currently playing video.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 The scrubber 'knob' also moves as the video plays to indicate the current time position of the video during playback. The video scrubber always takes the whole width of the control bar. It is possible to skin the video scrubber. change its height and vertical position, by CSS.
 

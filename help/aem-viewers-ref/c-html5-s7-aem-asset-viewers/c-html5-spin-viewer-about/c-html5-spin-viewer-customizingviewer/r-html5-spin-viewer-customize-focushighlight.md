@@ -12,7 +12,7 @@ uuid: 81bf9937-6a26-4f69-838e-5ba41608ac09
 
 Input focus highlight displayed around focused viewer UI element is controlled with the CSS class selector.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties**
 

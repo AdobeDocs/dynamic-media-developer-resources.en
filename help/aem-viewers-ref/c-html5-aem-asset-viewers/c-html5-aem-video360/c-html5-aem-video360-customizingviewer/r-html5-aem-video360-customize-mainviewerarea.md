@@ -12,7 +12,7 @@ uuid: ec321901-f077-4f71-a48c-20cae11c41d1
 
 The main view area is the area occupied by the 360 video. It is usually set to fit the available device screen when no size is specified.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties of the main viewer area**
 

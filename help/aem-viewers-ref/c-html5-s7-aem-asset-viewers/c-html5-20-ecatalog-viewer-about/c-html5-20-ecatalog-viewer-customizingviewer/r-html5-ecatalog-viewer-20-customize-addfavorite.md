@@ -12,7 +12,7 @@ uuid: 0e2f7187-d5a9-42a4-b918-e4782d62be6c
 
 The position of the Add Favorite button is fully managed by the Favorites menu.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 The appearance of the Add Favorite button is controlled with the following CSS class selector:
 

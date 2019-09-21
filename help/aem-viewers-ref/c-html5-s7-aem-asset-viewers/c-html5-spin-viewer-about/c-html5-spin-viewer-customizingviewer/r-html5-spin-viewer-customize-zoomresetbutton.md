@@ -12,7 +12,7 @@ uuid: 63331843-1d77-40f4-a87f-6ff73a8f0f32
 
 Clicking or tapping this button resets an image in the main view. You can size, skin, and position this button by using CSS.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties of the main viewer area**
 

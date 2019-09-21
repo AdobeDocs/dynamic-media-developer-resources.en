@@ -8,7 +8,7 @@ topic: Scene7 Image Serving - Image Rendering API
 uuid: 08fabcc9-d0b5-4136-81fc-ac896c341e1d
 ---
 
-# ic{#ic}
+# ic {#ic}
 
 Image Conversion utility.
 
@@ -20,11 +20,13 @@ If you are not converting large images you do not have to set the parameters tha
 
 ## Usage {#section-fb5293fa79894442aba831c1e14c5cc9}
 
-` ic -convert [ *`options`*] *`sourceFile`* *`destFile`*`
+`ic -convert` `[`*`options`*`]` *`sourceFile`* *`destFile`*`
 
-` ic -convert [ *`options`*] *`sourceFolder`* *`destFolder`*`
+` ic -convert` `[`*`options`*`]` *`sourceFolder`* *`destFolder`*`
 
-` -c -convert [ *`options`*] *`sourceFile`* *`destFolder`*`
+` -c -convert` `[`*`options`*`]` *`sourceFile`* *`destFolder`*`
+
+<!--RICK - The next table had a nested table, which I removed. Compare to orginial -->
 
 <table id="table_E368E220299D449D8311478AB5042987"> 
  <tbody> 
@@ -56,6 +58,8 @@ If you are not converting large images you do not have to set the parameters tha
 0 if successful. If an error occurs, a nonzero value is returned and error details are sent to `stderr`.
 
 ## Options {#section-df311ace43f947b3817b60b667ae04ca}
+
+<!--Rick - deleted another nested table here. compare to original-->
 
 <table id="table_02011C7C076745A8BF4378B22C48C8A3"> 
  <tbody> 
@@ -97,9 +101,7 @@ If you are not converting large images you do not have to set the parameters tha
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> -autocrop &lt; <span class="varname"> corner </span>&gt; &lt; <span class="varname"> mode </span>&gt; &lt; <span class="varname"> tolerance </span>&gt; &lt; <span class="varname"> infoFile </span>&gt; </span> </p> </td> 
-   <td colname="col2"> <p>Calculate a crop rectangle to minimize a solid color background. No crop info is output if the auto-crop algorithm would result in the entire image being cropped. </p> <p>To calculate the crop rectangle without converting the image, specify <span class="codeph"> -autocrop </span> without <span class="codeph"> -convert </span> and without <span class="codeph"> <span class="varname"> destFile </span> </span>. </p> <p> 
-     <table id="table_172986C593B54E299A2E514BCABCAB8E">  
-     </table> </p> </td> 
+   <td colname="col2"> <p>Calculate a crop rectangle to minimize a solid color background. No crop info is output if the auto-crop algorithm would result in the entire image being cropped. </p> <p>To calculate the crop rectangle without converting the image, specify <span class="codeph"> -autocrop </span> without <span class="codeph"> -convert </span> and without <span class="codeph"> <span class="varname"> destFile </span> </span>. </p> <p>  
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> -embedXmpData </span> </p> </td> 
@@ -188,8 +190,6 @@ If you are not converting large images you do not have to set the parameters tha
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> -loglevel &lt; <span class="varname"> level </span>&gt; </span> </p> </td> 
    <td colname="col2"> <p>Log level. </p> <p> 
-     <table id="table_A72ECEF15629464B9F87A51FFE5390F0">  
-     </table> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> -logappend </span> </p> </td> 

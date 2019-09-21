@@ -12,7 +12,7 @@ uuid: 4c6abb74-7e13-4fed-bbfb-45e388627578
 
 Email share tool consists of a button added to the Social share panel and the modal dialog box which displays when the tool is activated. The position of the button is fully managed by the Social share tool.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 The appearance of the email share button is controlled with the following CSS class selector:
 

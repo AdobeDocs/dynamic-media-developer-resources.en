@@ -12,7 +12,7 @@ uuid: d8349f8c-134f-4e74-9d0c-ab56981965d7
 
 Main view consists of the static image.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties of the main viewer area**
 

@@ -12,7 +12,7 @@ uuid: b910a837-07ba-4e06-aee8-c22619ed0a92
 
 The play/pause button causes the video player to play or pause the video content when a user clicks it.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 You can size, skin, and position the button, relative to the control bar that contains it, by CSS.
 

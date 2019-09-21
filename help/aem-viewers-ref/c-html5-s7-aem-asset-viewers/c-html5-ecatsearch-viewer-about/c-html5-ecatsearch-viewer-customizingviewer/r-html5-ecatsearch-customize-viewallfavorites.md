@@ -12,7 +12,7 @@ uuid: 8824deb5-3bdc-4681-85ac-7f86a76cf3b5
 
 The position of the button is fully managed by the Favorites menu.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 The appearance of the View All Favorites button is controlled with the following CSS class selector:
 

@@ -10,7 +10,7 @@ uuid: a4d64d61-338e-4963-865e-c1afe1a4876f
 
 # Search button{#search-button}
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties of the main viewer area**
 

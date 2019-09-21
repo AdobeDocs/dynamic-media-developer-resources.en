@@ -12,7 +12,7 @@ uuid: 9e8c0c6f-2c45-4acb-9acb-5b8494bfc69b
 
 The zoom indicator is overlaid on the main view area. It is displayed when the image is in a reset state and it also depends on iconeffect parameter.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 The appearance of the viewing area is controlled with the following CSS class selector:
 

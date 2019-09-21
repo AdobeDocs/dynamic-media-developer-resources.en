@@ -12,7 +12,7 @@ uuid: 43d8e003-79f7-4e41-98d7-b362ab7180ea
 
 The search results panel consists of the search input box at the top and the main area where informational messages or search results are displayed.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties of the main viewer area**
 

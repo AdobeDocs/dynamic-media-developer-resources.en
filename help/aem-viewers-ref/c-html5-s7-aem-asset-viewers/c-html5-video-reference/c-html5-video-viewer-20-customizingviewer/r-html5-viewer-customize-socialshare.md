@@ -12,7 +12,7 @@ uuid: 5c1ce7b4-54bf-486f-8b57-1d6d0cec119e
 
 The social share tool appears in the top right corner by default. It consists of a button and a panel which expands when user clicks or taps on a button and contains individual sharing tools.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 The position and size of the social share tool in the viewer user interface is controlled with the following:
 

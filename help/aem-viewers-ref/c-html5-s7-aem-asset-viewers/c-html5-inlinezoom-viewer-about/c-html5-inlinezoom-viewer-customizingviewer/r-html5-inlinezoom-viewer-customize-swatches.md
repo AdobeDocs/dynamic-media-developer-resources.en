@@ -12,7 +12,7 @@ uuid: 92360088-7199-49c3-80ee-e175d234a78e
 
 Swatches consist of a row of thumbnail images with optional scroll buttons on the left and right hand side.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 Scroll buttons are only visible on the desktop if all thumbnails cannot fit into the width of the container. On mobile devices, or if thumbnails can fit into the container width, scroll buttons are not shown.
 

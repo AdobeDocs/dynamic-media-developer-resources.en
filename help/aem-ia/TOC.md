@@ -205,7 +205,7 @@ user-guide-title: Dynamic Media Classic Image Authoring Guide
          + [Editing an Illumination Map in Photoshop](vignette-authoring-tool/c-vat-work-illum-pg/c-vat-work-illum-maps/t-vat-illum-map-ps.md)
          + [Importing an Illumination Map](vignette-authoring-tool/c-vat-work-illum-pg/c-vat-work-illum-maps/t-vat-imp-illum-map.md)
          + [Previewing the Illumination Map](vignette-authoring-tool/c-vat-work-illum-pg/c-vat-work-illum-maps/t-vat-prev-illum-map.md)
-      + Illumination Page Tools {#illumination-page-tools
+      + Illumination Page Tools {#illumination-page-tools}
          + [Using the Illumination Page Tools](vignette-authoring-tool/c-vat-work-illum-pg/c-vat-illum-pg-tools/c-vat-illum-pg-tools.md)
          + [Choosing a Brush Size and Brush Edge](vignette-authoring-tool/c-vat-work-illum-pg/c-vat-illum-pg-tools/c-vat-brush-size.md)
          + The Histogram Tool {#histogram-tool}

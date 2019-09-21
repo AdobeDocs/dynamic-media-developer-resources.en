@@ -12,7 +12,7 @@ uuid: 3af363bd-3de3-42c7-80cc-4512ffc1f10d
 
 Clicking or tapping this button spins the image to the right in main view. This button is not displayed on mobile phones in order to save screen real estate. Also, the button is hidden when a multi-dimensional spin set is used. You can size, skin, and position the button using CSS.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties of the spin buttons**
 

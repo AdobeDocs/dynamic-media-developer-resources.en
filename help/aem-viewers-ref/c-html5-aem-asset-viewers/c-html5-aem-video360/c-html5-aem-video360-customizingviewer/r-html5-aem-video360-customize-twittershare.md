@@ -12,7 +12,7 @@ uuid: c16ce881-e5d5-4864-bfad-69b4c9b51a21
 
 Twitter share tool consists of a button added to the Social share panel. When the button is clicked the user is redirected to a sharing dialog box that is provided by a social service. The position of the button is fully managed by the Social share tool.
 
-<a id="section_ADDF98E91AF24F618289D1682A5FB13A"></a>
+<!--<a id="section_ADDF98E91AF24F618289D1682A5FB13A"></a>-->
 
 The appearance of the Twitter share button is controlled with the following CSS class selector:
 

@@ -12,7 +12,7 @@ uuid: fd164899-505c-448b-8dba-7581d97d87b6
 
 Clicking or tapping on this button brings the user to the first page in the catalog. This button appears in the main control bar on desktop systems and tablets; on mobile phones it is added to a secondary control bar. You can size, skin, and position this button by using CSS.
 
-<a id="section_6C008EE11212461FA744F2540D38C295"></a>
+<!--<a id="section_6C008EE11212461FA744F2540D38C295"></a>-->
 
 **CSS properties of the main viewer area**
 

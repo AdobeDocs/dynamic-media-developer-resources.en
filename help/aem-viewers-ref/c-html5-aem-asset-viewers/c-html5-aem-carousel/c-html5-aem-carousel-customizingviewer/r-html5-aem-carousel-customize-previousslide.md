@@ -12,7 +12,7 @@ uuid: 733fa270-ce95-4493-9d31-f7f638d8368d
 
 Clicking or tapping on this button returns a user to the previous slide in the carousel set. This button is not displayed on touch devices. You can size, skin, and position this button using CSS.
 
-<a id="section_6C008EE11212461FA744F2540D38C295"></a>
+<!--<a id="section_6C008EE11212461FA744F2540D38C295"></a>-->
 
 **CSS properties of the main viewer area**
 

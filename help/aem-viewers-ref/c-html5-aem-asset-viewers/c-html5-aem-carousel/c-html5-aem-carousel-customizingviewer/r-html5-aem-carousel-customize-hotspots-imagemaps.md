@@ -12,7 +12,7 @@ uuid: de7f4dc7-1a55-49d5-a712-7f178cc49068
 
 The viewer displays hotspot icons over the main view in places where hotspots were originally authored in Dynamic Media of AEM Assets – on-demand.
 
-<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>
+<!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
 **CSS properties of the main viewer area**
 
@@ -62,7 +62,7 @@ Example - set up a 56 x 56 pixels hotspot icon that displays a different image f
 }
 ```
 
-<a id="section_26D0B8444D1F42D493793FF54968C0B9"></a>
+<!--<a id="section_26D0B8444D1F42D493793FF54968C0B9"></a>-->
 
 **CSS properties of the image map region**
 
