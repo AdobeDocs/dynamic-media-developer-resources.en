@@ -145,7 +145,11 @@ These settings are controlled interactively in Image Authoring. It is possible t
    <td colname="col5"> </td> 
   </tr> 
   <tr> 
-   <td colspan="5"><b>Render effects (older shader)</b> </td> 
+   <td colname="col1"><b>Render effects (older shader)</b> </td> 
+   <td colname="col2"> </td> 
+   <td colname="col3"> </td> 
+   <td colname="col4"> </td> 
+   <td colname="col5"> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>I </p> </td> 
@@ -197,7 +201,11 @@ These settings are controlled interactively in Image Authoring. It is possible t
    <td colname="col5"> </td> 
   </tr> 
   <tr> 
-   <td colspan="5"><b>Alternate shader</b> </td> 
+   <td colname="col1"><b>Alternate shader</b> </td> 
+   <td colname="col2"> </td> 
+   <td colname="col3"> </td> 
+   <td colname="col4"> </td> 
+   <td colname="col5"> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Z </p> </td> 
