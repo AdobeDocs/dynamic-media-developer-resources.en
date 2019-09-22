@@ -10,7 +10,7 @@ uuid: 92e691ac-079e-4f84-9142-80e0c603cfc3
 
 # ruleset{#ruleset}
 
-Rules container element. A valid rule set file contains one <ruleset> element.
+Rules container element. A valid rule set file contains one `<ruleset>` element.
 
 ## Attributes {#section-4840a223a0c34c50a1b6f4b7b9beb2c2}
 
