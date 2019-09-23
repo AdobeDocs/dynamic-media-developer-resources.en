@@ -59,7 +59,7 @@ If you are not converting large images you do not have to set the parameters tha
 
 ## Options {#section-df311ace43f947b3817b60b667ae04ca}
 
-<!--Rick - deleted another nested table here. compare to original-->
+<!-- RICK - deleted another nested table here. compare to original-->
 
 <table id="table_02011C7C076745A8BF4378B22C48C8A3"> 
  <tbody> 

@@ -64,7 +64,7 @@ Each item in a hierarchical swatch set can consist of a basic swatch item or a r
 
 A basic spin set consists of a simple list of image ids.
 
-<!--empty table was here-->
+<!--RICK: empty table was here-->
 
 **Two-Dimensional Spin Sets**
 
@@ -107,7 +107,7 @@ Each item in a media set can consist of an image, basic swatch set, hierarchical
 
 A video set consists of a simple list of video ids where each id references an entry in the static content catalog.
 
-<!--empty table here-->
+<!--RICK: empty table here-->
 
 ## Properties {#section-17c731e5c46646aa90ac21f39bb693ca}
 
