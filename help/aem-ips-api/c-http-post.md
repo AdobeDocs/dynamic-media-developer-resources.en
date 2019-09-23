@@ -59,30 +59,22 @@ The upload job consists of one or more HTTP POSTs that use a common `jobHandle` 
 >
 >All POST requests for an upload job must originate from the same IP address.
 
-<!--RICK - The next table had a nested table, which I removed. Compare to orginial -->
+| HTTP POST form part | Description |
+|-|-|
+|`auth` |  Required. An XML authHeader document specifying authentication and client information. See **Request authentication** under [SOAP](/help/aem-ips-api/c-wsdl-versions.md). |
+|`file params` |  Optional. You can include one or more files to upload with each POST request. Each file part can include a filename parameter in the Content-Disposition header that is used as the target filename in IPS if no `uploadPostParams/fileName` parameter is specified. |
 
-<table id="table_AB2E0FF2F08940EC8404A140DB4A0E7C"> 
- <thead> 
-  <tr> 
-   <th colname="col1" class="entry"> <p>HTTP POST form parts </p> </th> 
-   <th colname="col2" class="entry"> <p>Description </p> </th> 
-  </tr> 
- </thead>
- <tbody> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> auth </span> </p> </td> 
-   <td colname="col2"> <p>Required. </p> <p>An XML <span class="codeph"> authHeader </span> document specifying authentication and client information. </p> <p>See <b>Request authentication</b> under <a href="c-wsdl-versions.md#section-51e7ecbd1d7f451b9e4f6bf7e1579cae" format="dita" scope="local"> SOAP </a>. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="codeph"> uploadParams </span> </p> </td> 
-   <td colname="col2"> <p>Required. </p> <p>An XML <span class="codeph"> uploadPostParams </span> document specifying the upload parameters. </p> <p> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>file params </p> </td> 
-   <td colname="col2"> <p>Optional. </p> <p>You can include one or more files to upload with each POST request. Each file part can include a filename parameter in the Content-Disposition header that is used as the target filename in IPS if no <span class="codeph"> uploadPostParams </span>/ <span class="codeph"> fileName </span> parameter is specified. </p> </td> 
-  </tr> 
- </tbody> 
-</table>
+| HTTP POST form part  | uploadPostParams element name  | Type  | Description  |
+|-|-|-|-|
+|`uploadParams` (Required. An AXM `uploadParams` document specifying the upload parameters)  |  `companyHandle` | `xsd:string` | Required. Handle to the company to which the file is being upload. |
+||`jobName` | `xsd:string` | Either `jobName` or `jobHandle` is required. Name of the upload job. |
+||`jobHandle` | `xsd:string` | Either `jobName` or `jobHandle` is required. Handle to an upload job started in a previous request. |
+||`locale` | `xsd:string` | Optional. Language and country code for localization. |
+||`description` | `xsd:string` | Optional. Description of the job. |
+||`destFolder` | `xsd:string` | Optional. Target folder path to prefix to a filename property, particularly for browsers and other clients that may not support full paths in a filename. |
+||`fileName` | `xsd:string` | Optional. Name of the target file. Overrides the filename property. |
+||`endJob` | `xsd:boolean` | Optional. Default is false. |
+||`uploadParams` | `types:UploadPostJob` | Optional if this is a subsequent request for an existing active job. If there is an existing job, `uploadParams` is ignored and the existing job upload parameters are used. See [UploadPostJob](types/c-data-types/r-upload-post-job.md#reference-bca2339b593f4637a687c33937215ef4)
 
 Within the `<uploadPostParams>` block is the `<uploadParams>` block that designates the processing of the included files.
 
