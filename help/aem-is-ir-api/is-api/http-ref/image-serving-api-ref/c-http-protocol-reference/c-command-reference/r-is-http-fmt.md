@@ -14,158 +14,53 @@ Response Image Format.
 
 `fmt=format[,` `[`*`pixelType`*`]`,`[`*`compression`*]]
 
-<!-- RICK: Check this table. It was nested, so I broke it up into multiple tables. Compare to original and reformat. -->
+*`format`* &mdash; jpeg | jpg | pjpeg | png | png8 | png-alpha | png8-alpha | tif | tif-alpha | swf | swf-alpha | swf3 | swf3-alpha | eps | gif | gif-alpha | m3u8 | f4m | web | webp-alpha | jpeg2000 | jpeg2000-alpha | jpegxr | jpegxr-alpha
 
-<table id="table_843E22950FD14AA0A3DF243B04C34A80"> 
-  <tbody> 
-    <tr> 
-    <td colname="col1"> <p> <span class="codeph"> jpeg </span> </p> </td> 
-    <td colname="col2"> <p>Lossy JPEG. </p> </td> 
-    </tr> 
-    <tr> 
-    <td colname="col1"> <p> <span class="codeph"> jpg </span> </p> </td> 
-    <td colname="col2"> <p>Lossy JPG. </p> </td> 
-    </tr> 
-    <tr> 
-    <td colname="col1"> <p> <span class="codeph"> pjpeg </span> </p> </td> 
-    <td colname="col2"> <p>Progressive JPEG. </p> </td> 
-    </tr> 
-    <tr> 
-    <td colname="col1"> <p> <span class="codeph"> png </span> </p> </td> 
-    <td colname="col2"> <p>24-bit lossless PNG. </p> </td> 
-    </tr> 
-    <tr> 
-    <td colname="col1"> <p> <span class="codeph"> png8 </span> </p> </td> 
-    <td colname="col2"> <p>8-bit lossless PNG. </p> </td> 
-    </tr> 
-    <tr> 
-    <td colname="col1"> <p> <span class="codeph"> png-alpha </span> </p> </td> 
-    <td colname="col2"> <p>24-bit lossless PNG with alpha channel. </p> </td> 
-    </tr> 
-    <tr> 
-    <td colname="col1"> <p> <span class="codeph"> png8-alpha </span> </p> </td> 
-    <td colname="col2"> <p>8-bit lossless PNG with alpha channel. </p> </td> 
-    </tr> 
-    <tr> 
-    <td colname="col1"> <p> <span class="codeph"> tif </span> </p> </td> 
-    <td colname="col2"> <p>TIFF. </p> </td> 
-    </tr> 
-    <tr> 
-    <td colname="col1"> <p> <span class="codeph"> tif-alpha </span> </p> </td> 
-    <td colname="col2"> <p>TIFF with alpha channel. </p> </td> 
-    </tr> 
-    <tr> 
-    <td colname="col1"> <p> <span class="codeph"> pdf </span> </p> </td> 
-    <td colname="col2"> <p>Image embedded in PDF. </p> </td> 
-    </tr> 
-    <tr> 
-    <td colname="col1"> <p> <span class="codeph"> eps </span> </p> </td> 
-    <td colname="col2"> <p>Uncompressed binary Encapsulated PostScript. </p> </td> 
-    </tr> 
-    <tr> 
-    <td colname="col1"> <p> <span class="codeph"> gif </span> </p> </td> 
-    <td colname="col2"> <p>GIF with 2 to 256 colors. </p> </td> 
-    </tr> 
-    <tr> 
-    <td colname="col1"> <p> <span class="codeph"> gif-alpha </span> </p> </td> 
-    <td colname="col2"> <p>GIF with 2 to 255 colors plus key-color transparency. </p> </td> 
-    </tr> 
-    <tr> 
-    <td colname="col1"> <p> <span class="codeph"> swf </span> </p> </td> 
-    <td colname="col2"> <p>Lossy JPEG embedded into an Adobe AS2 swf file. </p> </td> 
-    </tr> 
-    <tr> 
-    <td colname="col1"> <p> <span class="codeph"> swf-alpha </span> </p> </td> 
-    <td colname="col2"> <p>Lossy JPEG and a deflate-compressed mask embedded into an Adobe AS2 swf file. </p> </td> 
-    </tr> 
-    <tr> 
-    <td colname="col1"> <p> <span class="codeph"> swf3 </span> </p> </td> 
-    <td colname="col2"> <p>Lossy JPEG embedded into an Adobe AS3 swf file. </p> </td> 
-    </tr> 
-    <tr> 
-    <td colname="col1"> <p> <span class="codeph"> swf3-alpha </span> </p> </td> 
-    <td colname="col2"> <p> Lossy JPEG and a deflate-compressed mask embedded into an Adobe AS3 swf file </p> <p> <p>Note:  swf and swf-alpha formats are best used for ActionScript 2 applications (Flash Player 8 and earlier). swf3 and swf3-alpha is recommended for use for ActionScript3 applications (Flash Player 9 and later). </p> </p> </td> 
-    </tr> 
-    <tr> 
-    <td colname="col1"> <p> <span class="codeph"> m3u8 </span> </p> </td> 
-    <td colname="col2"> <p>Apple Streaming Server manifest format. </p> </td> 
-    </tr> 
-    <tr> 
-    <td colname="col1"> <p> <span class="codeph"> f4m </span> </p> </td> 
-    <td colname="col2"> <p>Flash Streaming Server manifest format. </p> </td> 
-    </tr> 
-    <tr> 
-    <td colname="col1"> <p> <span class="codeph"> webp </span> </p> </td> 
-    <td colname="col2"> <p>Lossy and lossless WebP. </p> </td> 
-    </tr> 
-    <tr> 
-    <td colname="col1"> <p> <span class="codeph"> webp-alpha </span> </p> </td> 
-    <td colname="col2"> <p>Lossy and lossless WebP with alpha channel. </p> </td> 
-    </tr> 
-    <tr> 
-    <td colname="col1"> <p> <span class="codeph"> jpeg2000 </span> </p> </td> 
-    <td colname="col2"> <p>Lossy and lossless JPEG 2000. </p> </td> 
-    </tr> 
-    <tr> 
-    <td colname="col1"> <p> <span class="codeph"> jpeg2000-alpha </span> </p> </td> 
-    <td colname="col2"> <p>Lossy and lossless JPEG 2000 with alpha channel. </p> </td> 
-    </tr> 
-    <tr> 
-    <td colname="col1"> <p> <span class="codeph"> jpegxr </span> </p> </td> 
-    <td colname="col2"> <p>Lossy and lossless JPEG XR. </p> </td> 
-    </tr> 
-    <tr> 
-    <td colname="col1"> <p> <span class="codeph"> jpegxr-alpha </span> </p> </td> 
-    <td colname="col2"> <p>Lossy and lossless JPEG XR with alpha channel. </p> </td> 
-    </tr> 
-  </tbody> 
-</table>
+|*`format`*| Description |
+|---|---| 
+| `jpeg` | Lossy JPEG |
+| `jpg` | Lossy JPG |
+| `pjpeg` | Progressive JPEG |
+| `png` | 24-bit lossless PNG |
+| `png8` | 8-bit lossless PNG |
+| `png-alpha` | 24-bit lossless PNG with alpha channel |
+| `png8-alpha` | 8-bit lossless PNG with alpha channel |
+| `tif` | TIFF |
+| `tif-alpha` | TIFF with alpha channel |
+| `pdf` | Image embedded in PDF |
+| `eps` | Uncompressed binary Encapsulated PostScript |
+| `gif` | GIF with 2 to 256 colors |
+| `gif-alpha` | GIF with 2 to 255 colors plus key-color transparency |
+| `swf`| Lossy JPEG embedded into an Adobe AS2 swf file |
+| `swf-alpha` | Lossy JPEG and a deflate-compressed mask embedded into an Adobe AS2 swf file |
+| `swf3` | Lossy JPEG embedded into an Adobe AS3 swf file |
+| `swf3-alpha` | Lossy JPEG and a deflate-compressed mask embedded into an Adobe AS3 swf file. **Note**: swf and swf-alpha formats are best used for ActionScript 2 applications (Flash Player 8 and earlier). swf3 and swf3-alpha is recommended for use for ActionScript3 applications (Flash Player 9 and later) |
+| `m3u8` | Apple Streaming Server manifest format |
+| `f4m` | Flash Streaming Server manifest format |
+| `webp` | Lossy and lossless WebP |
+| `webp-alpha` | Lossy and lossless WebP with alpha channel |
+| `jpeg2000` | Lossy and lossless JPEG 2000 |
+| `jpeg2000-alpha` | Lossy and lossless JPEG 2000 with alpha channel |
+| `jpegxr` | Lossy and lossless JPEG XR |
+| `jpegxr-alpha` | Lossy and lossless JPEG XR with alpha channel |
 
-<table id="table_58998660F35449E89E278413367DCC72"> 
-    <tbody> 
-     <tr> 
-      <td colname="col1"> <p> <span class="codeph"> rgb </span> </p> </td> 
-      <td colname="col2"> <p>Return RGB image data. </p> </td> 
-     </tr> 
-     <tr> 
-      <td colname="col1"> <p> <span class="codeph"> gray </span> </p> </td> 
-      <td colname="col2"> <p>Return gray-scale image data. </p> </td> 
-     </tr> 
-     <tr> 
-      <td colname="col1"> <p> <span class="codeph"> cmyk </span> </p> </td> 
-      <td colname="col2"> <p>Return CMYK image data. </p> </td> 
-     </tr> 
-    </tbody> 
-</table>
 
-<table id="table_84F75C39D17B43089873A1C9F3C9E4CF"> 
-    <tbody> 
-     <tr> 
-      <td colname="col1"> <p> <span class="codeph"> none </span> </p> </td> 
-      <td colname="col2"> <p>Uncompressed. </p> </td> 
-     </tr> 
-     <tr> 
-      <td colname="col1"> <p> <span class="codeph"> lzw </span> </p> </td> 
-      <td colname="col2"> <p>LZW (Lempel-Ziv-Welch) compression (lossless). </p> </td> 
-     </tr> 
-     <tr> 
-      <td colname="col1"> <p> <span class="codeph"> zip </span> </p> </td> 
-      <td colname="col2"> <p>"Deflate" compression (lossless). </p> </td> 
-     </tr> 
-     <tr> 
-      <td colname="col1"> <p> <span class="codeph"> jpeg </span> </p> </td> 
-      <td colname="col2"> <p>JPEG compression (lossy). </p> </td> 
-     </tr> 
-     <tr> 
-      <td colname="col1"> <p> <span class="codeph"> lossy </span> </p> </td> 
-      <td colname="col2"> <p>WebP, JPEG 2000, and JPEG XR compression (lossy). </p> </td> 
-     </tr> 
-     <tr> 
-      <td colname="col1"> <p> <span class="codeph"> lossless </span> </p> </td> 
-      <td colname="col2"> <p>WebP, JPEG 2000, and JPEG XR compression (lossless). </p> </td> 
-     </tr> 
-    </tbody> 
-</table>
+*`pixelType`* &mdash; rgb | gray | cmyk
+| *`pixelType`* | Description | 
+|---|---|
+| `rgb` | Return RGB image data. |
+| `gray` | Return gray-scale image data. |
+| `cmyk` | Return CMYK image data. |
+
+*`compression`* &mdash; none | lzw | zip | jpeg | lossy | lossless
+| *`compression`* | Description | 
+|---|---|
+| `none` | Uncompressed |
+| `lzw` | LZW (Lempel-Ziv-Welch) compression (lossless) |
+| `zip` | "Deflate" compression (lossless) |
+| `jpeg` | JPEG compression (lossy) |
+| `lossy` | WebP, JPEG 2000, and JPEG XR compression (lossy) |
+| `lossless` | WebP, JPEG 2000, and JPEG XR compression (lossless) |
 
 * *`format`* specifies the image encoding format for image data sent to the client and the corresponding response MIME type for the HTTP response header. 
 * *`pixelType`* can be used to effect output color space conversion when `icc=` is not specified.
