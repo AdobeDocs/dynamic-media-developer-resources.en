@@ -1,6 +1,6 @@
 ---
 cloud: experience-cloud
-solution-title: Dynamic Media Developer Resources
+solution-title: Learn & Support
 solution-hub-url: https://helpx.adobe.com/support/experience-manager.html
 solution-image: 
 getting-started-title: Getting Started
