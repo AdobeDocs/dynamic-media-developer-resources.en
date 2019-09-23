@@ -20,34 +20,34 @@ If you are not converting large images you do not have to set the parameters tha
 
 ## Usage {#section-fb5293fa79894442aba831c1e14c5cc9}
 
-`ic -convert` `[`*`options`*`]` *`sourceFile`* *`destFile`*`
+`ic -convert` `[`*`options`*`]` *`sourceFiledestFile`*
 
-` ic -convert` `[`*`options`*`]` *`sourceFolder`* *`destFolder`*`
+` ic -convert` `[`*`options`*`]` *`sourceFolderdestFolder`*
 
-` -c -convert` `[`*`options`*`]` *`sourceFile`* *`destFolder`*`
+` -c -convert` `[`*`options`*`]` *`sourceFiledestFolder`*
 
-<!--RICK - The next table had a nested table, which I removed. Compare to orginial -->
+<!--RICK - The next table had a nested table, which I removed. Compare to orginial FIXED BELOW-->
 
 <table id="table_E368E220299D449D8311478AB5042987"> 
  <tbody> 
   <tr> 
-   <td colname="col1"> <p> <span class="codeph"> <span class="varname"> options </span> </span> </p> </td> 
+   <td colname="col1"> <p> <span class="codeph"> <span class="varname"><i>options</i> </span> </span> </p> </td> 
    <td colname="col2"> <p>Command options (see below). </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p> <span class="codeph"> <span class="varname"> sourceFile </span> </span> </p> </td> 
+   <td colname="col1"> <p> <span class="codeph"> <span class="varname"> <i>sourceFile</i> </span> </span> </p> </td> 
    <td colname="col2"> <p>Single input image file. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p> <span class="codeph"> <span class="varname"> destFile </span> </span> </p> </td> 
+   <td colname="col1"> <p> <span class="codeph"> <span class="varname"><i>destFile</i></span> </span> </p> </td> 
    <td colname="col2"> <p>Single output PTIFF file (not valid if used with SourceDirectory). </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p> <span class="codeph"> <span class="varname"> sourceFolder </span> </span> </p> </td> 
+   <td colname="col1"> <p> <span class="codeph"> <span class="varname"><i>sourceFolder</i></span> </span> </p> </td> 
    <td colname="col2"> <p>Folder containing input images. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p> <span class="codeph"> <span class="varname"> destFolder </span> </span> </p> </td> 
+   <td colname="col1"> <p> <span class="codeph"> <span class="varname"><i>destFolder</i></span> </span> </p> </td> 
    <td colname="col2"> <p>Folder to which output PTIFF files are written. </p> </td> 
   </tr> 
  </tbody> 
@@ -59,7 +59,7 @@ If you are not converting large images you do not have to set the parameters tha
 
 ## Options {#section-df311ace43f947b3817b60b667ae04ca}
 
-<!-- RICK - deleted another nested table here. compare to original-->
+<!-- RICK - deleted another nested table here. compare to original FIXED BELOW-->
 
 <table id="table_02011C7C076745A8BF4378B22C48C8A3"> 
  <tbody> 
@@ -101,7 +101,17 @@ If you are not converting large images you do not have to set the parameters tha
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> -autocrop &lt; <span class="varname"> corner </span>&gt; &lt; <span class="varname"> mode </span>&gt; &lt; <span class="varname"> tolerance </span>&gt; &lt; <span class="varname"> infoFile </span>&gt; </span> </p> </td> 
-   <td colname="col2"> <p>Calculate a crop rectangle to minimize a solid color background. No crop info is output if the auto-crop algorithm would result in the entire image being cropped. </p> <p>To calculate the crop rectangle without converting the image, specify <span class="codeph"> -autocrop </span> without <span class="codeph"> -convert </span> and without <span class="codeph"> <span class="varname"> destFile </span> </span>. </p> <p>  
+   <td colname="col2"> <p>Calculate a crop rectangle to minimize a solid color background. No crop info is output if the auto-crop algorithm would result in the entire image being cropped. </p> <p>To calculate the crop rectangle without converting the image, specify <span class="codeph"> -autocrop </span> without <span class="codeph"> -convert </span> and without <span class="codeph"> <span class="varname"> destFile.</span> </span></p>
+   
+   <p><i><b>corner</b></i> &ndash; ul | ur | ll | lr </p>
+   <p> Specifies which corner of the image to use a seed point. Ignored if mode is 1.</p>
+   <p><i><b>mode</b></i> &ndash; 0 | 1</p>
+   <p>Set to 0 to crop based on the color of the specified corner pixel; works on premultiplied color data if alpha data is associated with the source image.</p>
+   <p>Set to 1 to crop based on alpha data; corner is ignored and 0 is always the seed value; no crop is applied if no alpha data is associated with the source image.</p> 
+   <p><i><b>tolerance</b></i> &ndash; Match tolerance. Real value 0.0 to 1.0. Specifies the tolerance for matching pixel component values. Set to 0 for exact matches.</p>
+   <p><i><b>infoFile</b></i> &ndash; Path and name of the XML output file to which crop info data will be written.</p>
+   
+   <p>  
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> -embedXmpData </span> </p> </td> 
@@ -189,7 +199,14 @@ If you are not converting large images you do not have to set the parameters tha
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> -loglevel &lt; <span class="varname"> level </span>&gt; </span> </p> </td> 
-   <td colname="col2"> <p>Log level. </p> <p> 
+   <td colname="col2"> <p>Log level. </p> 
+   <p>< 0 &ndash; Logging disabled.</p>
+   <p>0 &ndash; List files to be processed.</p>
+   <p>1 &ndash; Add reporting for unneeded files.</p>
+   <p>2 &ndash; Add progress reporting.</p>
+   <p>3 &ndash; Add reporting on every file encountered.</p>
+   <p>4 &ndash; Add progress reporting at the file level.</p>
+   <p> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> -logappend </span> </p> </td> 
