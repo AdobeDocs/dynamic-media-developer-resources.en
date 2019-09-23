@@ -74,7 +74,7 @@ The upload job consists of one or more HTTP POSTs that use a common `jobHandle` 
 |`uploadParams` (Required. An XML `uploadParams` document specifying the upload parameters)|`destFolder` | `xsd:string` | Optional. Target folder path to prefix to a filename property, particularly for browsers and other clients that may not support full paths in a filename. |
 |`uploadParams` (Required. An XML `uploadParams` document specifying the upload parameters)|`fileName` | `xsd:string` | Optional. Name of the target file. Overrides the filename property. |
 |`uploadParams` (Required. An XML `uploadParams` document specifying the upload parameters)|`endJob` | `xsd:boolean` | Optional. Default is false. |
-|`uploadParams` (Required. An XML `uploadParams` document specifying the upload parameters)|`uploadParams` | `types:UploadPostJob` | Optional if this is a subsequent request for an existing active job. If there is an existing job, `uploadParams` is ignored and the existing job upload parameters are used. See [UploadPostJob](types/c-data-types/r-upload-post-job.md#reference-bca2339b593f4637a687c33937215ef4)
+|`uploadParams` (Required. An XML `uploadParams` document specifying the upload parameters)|`uploadParams` | `types:UploadPostJob` | Optional if this is a subsequent request for an existing active job. If there is an existing job, `uploadParams` is ignored and the existing job upload parameters are used. See [UploadPostJob](types/c-data-types/r-upload-post-job.md#reference-bca2339b593f4637a687c33937215ef4) |
 
 Within the `<uploadPostParams>` block is the `<uploadParams>` block that designates the processing of the included files.
 
