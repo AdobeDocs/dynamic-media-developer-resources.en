@@ -10,7 +10,7 @@ archtype: end-user
 user-guide: null
 ---
 
-# Dynamic Media Developer Release Notes {#release-notes}
+# Dynamic Media Release Notes {#release-notes}
 
 <!--CHECK-->
 
