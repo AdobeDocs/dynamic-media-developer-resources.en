@@ -8,43 +8,8 @@ user-guide-title: Dynamic Media Classic Image Authoring Guide
 # Dynamic Media Classic Image Authoring Guide {#image-authoring}
 
 + [Image Authoring Help Home](aem-ia-home.md)
-+ Content Authoring Tool {#content-authoring-tool}
-   + [About the Content Authoring Tool](content-authoring-tool/c-cat-about-cat/c-cat-about-cat.md)
-   + Creating Cabinet Files {#cabinet-files}
-      + [Cabinet Files Overview](content-authoring-tool/c-cat-about-cat/c-cat-creating-cabinet-files/c-cat-creating-cabinet-files.md)
-      + [Preparing Images for Cabinet Files](content-authoring-tool/c-cat-about-cat/c-cat-creating-cabinet-files/c-cat-prep-images-cab-files.md)
-      + [Creating a New Cabinet Style File](content-authoring-tool/c-cat-about-cat/c-cat-creating-cabinet-files/t-cat-new-cab-style-file.md)
-      + [Defining a Cabinet Component](content-authoring-tool/c-cat-about-cat/c-cat-creating-cabinet-files/t-cat-cabinet-comp.md)
-      + [Defining Cabinet Segments](content-authoring-tool/c-cat-about-cat/c-cat-creating-cabinet-files/t-cat-def-cabinet-segments.md)
-      + [Saving Your Cabinet Style](content-authoring-tool/c-cat-about-cat/c-cat-creating-cabinet-files/t-cat-saving-cabinet-style.md)
-   + Window Covering Files {#creating-window-covering-files}
-      + [Creating Window Covering Files](content-authoring-tool/c-cat-about-cat/c-cat-creating-window-covering-files/c-cat-creating-window-covering-files.md)
-      + [About Window Coverings](content-authoring-tool/c-cat-about-cat/c-cat-creating-window-covering-files/c-cat-window-coverings.md)
-      + [Creating a New Window Covering File](content-authoring-tool/c-cat-about-cat/c-cat-creating-window-covering-files/t-cat-new-window-covering-file.md)
-      + [Adjusting the Window Covering File](content-authoring-tool/c-cat-about-cat/c-cat-creating-window-covering-files/c-cat-adjust-window-covering-file.md)
-   + [Creating Thumbnails for a Set of Images](content-authoring-tool/c-cat-about-cat/c-cat-thumbnails-rgb-values/t-cat-thumbnails-set-of-images.md)
-   + Creating a Texture Image {#texture-image}
-      + [Creating a Full-Tile Repeat](material-repeat-tool/c-mrt-texture-image/c-mrt-full-tile-repeat.md)
-      + [Identifying the Full Repeat](material-repeat-tool/c-mrt-texture-image/c-mrt-full-repeat.md)
-      + [Scanning the Pattern for the Full Repeat](material-repeat-tool/c-mrt-texture-image/c-mrt-pattern-full-repeat.md)
-      + [Creating Texture Images with a Digital Camera](material-repeat-tool/c-mrt-texture-image/c-mrt-texture-images-dig-camera.md)
-      + Editing tools {#editing-tools}
-         + [Fixing Smudges, Tears, Spots, and Holes](material-repeat-tool/c-mrt-texture-image/c-mrt-fixing-smudges/c-mrt-fixing-smudges.md)
-         + [To Adjust the Opacity for the Rubber Stamp Tool](material-repeat-tool/c-mrt-texture-image/c-mrt-fixing-smudges/t-mrt-rubber-stamp-tool.md)
-         + [To Make Brush Softer](material-repeat-tool/c-mrt-texture-image/c-mrt-fixing-smudges/t-mrt-make-brush-softer.md)
-         + [To Use the Rubber Stamp Tool](material-repeat-tool/c-mrt-texture-image/c-mrt-fixing-smudges/t-mrt-use-rubber-stamp-tool.md)
-         + [To Create a Full Repeat from a Half-Drop Repeat](material-repeat-tool/c-mrt-texture-image/c-mrt-fixing-smudges/t-mrt-half-drop-repeat.md)
-+ Using the Material Repeat Tool {#using-mrt}
-   + [About the Material Repeat Tool](material-repeat-tool/c-mrt-using-mrt/c-mrt-about-mrt.md)
-   + [Starting the Material Repeat Tool](material-repeat-tool/c-mrt-using-mrt/t-mrt-starting-mrt.md)
-   + [Choosing the Pattern Repeat](material-repeat-tool/c-mrt-using-mrt/c-mrt-pattern-repeat.md)
-   + [Using the Perspective Tab](material-repeat-tool/c-mrt-using-mrt/t-mrt-perspective-tab.md)
-   + [Using the Lighting Tab](material-repeat-tool/c-mrt-using-mrt/t-mrt-lighting-tab.md)
-   + [Creating the Final Repeat](material-repeat-tool/c-mrt-using-mrt/t-mrt-final-repeat.md)
-   + [Changing Material Repeat Tool Options](material-repeat-tool/c-mrt-using-mrt/t-mrt-changing-mrt-options.md)
-   + [Generating a Full Repeat from a Half-Drop](material-repeat-tool/c-mrt-using-mrt/t-mrt-gen-full-repeat-half-drop.md)
-+ Vignette Image Authoring {#vignette-authoring}
-   + [About Vignette Image Authoring](vignette-authoring-tool/c-vat-abt-img-auth.md)
++ Vignette Authoring Tool {#vignette-authoring}
+   + [About Vignette Authoring Tool](vignette-authoring-tool/c-vat-abt-img-auth.md)
    + Preparing Your Image {#prep-img}
       + [Preparing Your Image](vignette-authoring-tool/c-vat-prep-img/c-vat-prep-img.md)
       + [Creating an Image to Work With](vignette-authoring-tool/c-vat-prep-img/c-vat-create-img.md)
@@ -82,7 +47,7 @@ user-guide-title: Dynamic Media Classic Image Authoring Guide
          + [Creating an image map for dynamic rendering](vignette-authoring-tool/c-vat-gs/c-vat-prep-img-dyn-rend/c-vat-img-map-dyn-rend.md)
          + [Sending Images to the Image Rendering System](vignette-authoring-tool/c-vat-gs/c-vat-prep-img-dyn-rend/c-vat-img-rend-sys/c-vat-img-rend-sys.md)
          + [About the Vignette Update tool](vignette-authoring-tool/c-vat-gs/c-vat-prep-img-dyn-rend/c-vat-img-rend-sys/c-vat-abt-vign-update-tool.md)
-   + 3D Modeling Page {#modeling-page-3d}
+   + Working in the 3D Modeling Page {#modeling-page-3d}
       + [About the 3D Modeling Page](vignette-authoring-tool/c-vat-3d-mod-pg/c-vat-abt-3d-mod-pg/c-vat-abt-3d-mod-pg.md)
       + [Navigating in the 3D Modeling Page](vignette-authoring-tool/c-vat-3d-mod-pg/c-vat-abt-3d-mod-pg/r-vat-nav-3d-mod-pg.md)
       + [3D Modeling Page Preferences](vignette-authoring-tool/c-vat-3d-mod-pg/c-vat-abt-3d-mod-pg/c-vat-3d-mod-pg-pref.md)
@@ -94,7 +59,7 @@ user-guide-title: Dynamic Media Classic Image Authoring Guide
          + [Setting the Block](vignette-authoring-tool/c-vat-3d-mod-pg/c-vat-create-geo/t-vat-set-block.md)
          + [Adding Geometry](vignette-authoring-tool/c-vat-3d-mod-pg/c-vat-create-geo/t-vat-add-geo.md)
          + [Defining Scale for 3D Images](vignette-authoring-tool/c-vat-3d-mod-pg/c-vat-create-geo/t-vat-def-3d-scale.md)
-      + 3D Modeling Page Tools {#modeling-page-tools-3d}
+      + Using the 3D Modeling Page Tools {#modeling-page-tools-3d}
          + [3D Modeling Page Tools Overview](vignette-authoring-tool/c-vat-3d-mod-pg/c-vat-3d-mod-pg-tools/c-vat-3d-mod-pg-tools.md)
          + [The Camera Tool](vignette-authoring-tool/c-vat-3d-mod-pg/c-vat-3d-mod-pg-tools/c-vat-cam-tool.md)
          + [The Add Tool](vignette-authoring-tool/c-vat-3d-mod-pg/c-vat-3d-mod-pg-tools/c-vat-add-tool.md)
@@ -115,7 +80,7 @@ user-guide-title: Dynamic Media Classic Image Authoring Guide
          + [Creating 3D Objects](vignette-authoring-tool/c-vat-obj-pg/c-vat-create-grps-obj/t-vat-create-3d-obj.md)
          + [Creating Overlap Objects](vignette-authoring-tool/c-vat-obj-pg/c-vat-create-grps-obj/t-vat-overlap-obj.md)
          + [Creating a Highlight Matte Object](vignette-authoring-tool/c-vat-obj-pg/c-vat-create-grps-obj/t-vat-create-matte-obj.md)
-      + Working with Object {#working-objects}
+      + Working with Objects {#working-objects}
          + [Working with Objects](vignette-authoring-tool/c-vat-obj-pg/c-vat-work-obj/c-vat-work-obj.md)
          + [Copying an Object](vignette-authoring-tool/c-vat-obj-pg/c-vat-work-obj/t-vat-copy-obj.md)
          + [Moving an Object](vignette-authoring-tool/c-vat-obj-pg/c-vat-work-obj/c-vat-move-obj.md)
@@ -123,12 +88,12 @@ user-guide-title: Dynamic Media Classic Image Authoring Guide
          + [Changing an Object's Type](vignette-authoring-tool/c-vat-obj-pg/c-vat-work-obj/t-vat-chg-obj-type.md)
          + [Matching Up Textures on Adjacent Planes](vignette-authoring-tool/c-vat-obj-pg/c-vat-work-obj/t-vat-text-adj-planes.md)
          + [Working with Drop Shadows](vignette-authoring-tool/c-vat-obj-pg/c-vat-work-obj/c-vat-drop-shadows.md)
-      + Image Maps {#image-maps}
+      + Working with Image Maps {#image-maps}
          + [Image Maps Overview](vignette-authoring-tool/c-vat-obj-pg/c-vat-img-maps/c-vat-img-maps.md)
          + [Creating an Image Map](vignette-authoring-tool/c-vat-obj-pg/c-vat-img-maps/t-vat-create-img-map.md)
          + [Editing an Image Map](vignette-authoring-tool/c-vat-obj-pg/c-vat-img-maps/t-vat-edit-img-map.md)
          + [Exporting an image map](vignette-authoring-tool/c-vat-obj-pg/c-vat-img-maps/t-vat-exp-img-map.md)
-      + Object Properties {#object-properties}
+      + About Object Properties {#object-properties}
          + [About Object Properties](vignette-authoring-tool/c-vat-obj-pg/c-vat-abt-obj-prop/c-vat-abt-obj-prop.md)
          + [View Properties](vignette-authoring-tool/c-vat-obj-pg/c-vat-abt-obj-prop/c-vat-view-prop.md)
          + [Unmasked Properties](vignette-authoring-tool/c-vat-obj-pg/c-vat-abt-obj-prop/c-vat-unmasked-prop.md)
@@ -154,7 +119,7 @@ user-guide-title: Dynamic Media Classic Image Authoring Guide
             + [Map tab for objects](vignette-authoring-tool/c-vat-obj-pg/c-vat-abt-obj-prop/c-vat-3d-obj-prop/c-vat-3d-flow-obj-prop/t-vat-map-tab-obj.md)
             + [Extrusion tab for objects](vignette-authoring-tool/c-vat-obj-pg/c-vat-abt-obj-prop/c-vat-3d-obj-prop/c-vat-3d-flow-obj-prop/c-vat-ext-tab-obj.md)
             + [Texture tab for objects](vignette-authoring-tool/c-vat-obj-pg/c-vat-abt-obj-prop/c-vat-3d-obj-prop/c-vat-3d-flow-obj-prop/c-vat-text-tab-obj.md)
-      + Object Page Tools {#object-page-tools}
+      + Using the Object Page Tools {#object-page-tools}
          + [Using the Object Page Tools](vignette-authoring-tool/c-vat-obj-pg/c-vat-obj-pg-tools/c-vat-obj-pg-tools.md)
          + [The 3D Import Tool](vignette-authoring-tool/c-vat-obj-pg/c-vat-obj-pg-tools/c-vat-3d-imp-tool.md)
          + The Edit Model tool {#edit-model-tool}
@@ -179,25 +144,25 @@ user-guide-title: Dynamic Media Classic Image Authoring Guide
          + [About Mask options](vignette-authoring-tool/c-vat-work-mask-pg/c-vat-abt-mask-pg/c-vat-abt-mask-opt/c-vat-abt-mask-opt.md)
          + [Changing the mask color](vignette-authoring-tool/c-vat-work-mask-pg/c-vat-abt-mask-pg/c-vat-abt-mask-opt/t-vat-chg-mask-color.md)
          + [Choosing a custom color](vignette-authoring-tool/c-vat-work-mask-pg/c-vat-abt-mask-pg/c-vat-abt-mask-opt/t-vat-choose-cust-color.md)
-      + Creating masks {#create-masks}
+      + Creating a Mask {#create-masks}
          + [Adding a mask](vignette-authoring-tool/c-vat-work-mask-pg/c-vat-create-mask/t-vat-add-mask.md)
          + [Using Edge Recognition for Masks](vignette-authoring-tool/c-vat-work-mask-pg/c-vat-create-mask/t-vat-edge-recog-masks.md)
          + [Importing a Mask](vignette-authoring-tool/c-vat-work-mask-pg/c-vat-create-mask/t-vat-imp-mask.md)
          + [Changing Existing Masks](vignette-authoring-tool/c-vat-work-mask-pg/c-vat-create-mask/t-vat-chg-exist-masks.md)
          + [Creating a Mask for a Highlight Matte Object](vignette-authoring-tool/c-vat-work-mask-pg/c-vat-create-mask/t-vat-high-matte-obj.md)
          + [Viewing Masks](vignette-authoring-tool/c-vat-work-mask-pg/c-vat-create-mask/t-vat-view-masks.md)
-      + Mask Page Tool {#mask-page-tools}
+      + Using the Mask Page Tools {#mask-page-tools}
          + [Using the Mask Page Tools](vignette-authoring-tool/c-vat-work-mask-pg/c-vat-mask-pg-tools/c-vat-mask-pg-tools.md)
          + [The Trace Tool](vignette-authoring-tool/c-vat-work-mask-pg/c-vat-mask-pg-tools/c-vat-trace-tool.md)
          + [The Mask Brush](vignette-authoring-tool/c-vat-work-mask-pg/c-vat-mask-pg-tools/c-vat-mask-brush.md)
          + [The Magic Wand Tool](vignette-authoring-tool/c-vat-work-mask-pg/c-vat-mask-pg-tools/t-vat-magic-wand.md)
          + [Options for the Magic Wand Tool](vignette-authoring-tool/c-vat-work-mask-pg/c-vat-mask-pg-tools/c-vat-opt-magic-wand-tool.md)
          + [The Feather Tool](vignette-authoring-tool/c-vat-work-mask-pg/c-vat-mask-pg-tools/c-vat-feather-tool.md)
-   + Illumination Page {#illumination-page}
+   + Working in the Illumination Page {#illumination-page}
       + [About the Illumination Page](vignette-authoring-tool/c-vat-work-illum-pg/c-vat-abt-illum-pg/c-vat-abt-illum-pg.md)
       + [About Illumination Options](vignette-authoring-tool/c-vat-work-illum-pg/c-vat-abt-illum-pg/c-vat-illum-opt.md)
       + [Choosing an Image Display Option](vignette-authoring-tool/c-vat-work-illum-pg/c-vat-abt-illum-pg/c-vat-img-disp-opt.md)
-      + Illumination Maps {#illumination-maps}
+      + Working with Illumination Maps {#illumination-maps}
          + [Illumination Maps overview](vignette-authoring-tool/c-vat-work-illum-pg/c-vat-abt-illum-pg/c-vat-illum-maps.md)
          + [Creating an Illumination Map with Image Authoring](vignette-authoring-tool/c-vat-work-illum-pg/c-vat-work-illum-maps/t-vat-illum-map-img-auth.md)
          + [Resetting the Illumination Map](vignette-authoring-tool/c-vat-work-illum-pg/c-vat-work-illum-maps/t-vat-reset-illum-map.md)
@@ -205,7 +170,7 @@ user-guide-title: Dynamic Media Classic Image Authoring Guide
          + [Editing an Illumination Map in Photoshop](vignette-authoring-tool/c-vat-work-illum-pg/c-vat-work-illum-maps/t-vat-illum-map-ps.md)
          + [Importing an Illumination Map](vignette-authoring-tool/c-vat-work-illum-pg/c-vat-work-illum-maps/t-vat-imp-illum-map.md)
          + [Previewing the Illumination Map](vignette-authoring-tool/c-vat-work-illum-pg/c-vat-work-illum-maps/t-vat-prev-illum-map.md)
-      + Illumination Page Tools {#illumination-page-tools}
+      + Using the Illumination Page Tools {#illumination-page-tools}
          + [Using the Illumination Page Tools](vignette-authoring-tool/c-vat-work-illum-pg/c-vat-illum-pg-tools/c-vat-illum-pg-tools.md)
          + [Choosing a Brush Size and Brush Edge](vignette-authoring-tool/c-vat-work-illum-pg/c-vat-illum-pg-tools/c-vat-brush-size.md)
          + The Histogram Tool {#histogram-tool}
@@ -234,11 +199,11 @@ user-guide-title: Dynamic Media Classic Image Authoring Guide
          + [The Noise Brush](vignette-authoring-tool/c-vat-work-illum-pg/c-vat-illum-pg-tools/t-vat-noise-brush.md)
          + [The Defringe Brush](vignette-authoring-tool/c-vat-work-illum-pg/c-vat-illum-pg-tools/t-vat-defringe-brush.md)
          + [The Texture Eraser Tool](vignette-authoring-tool/c-vat-work-illum-pg/c-vat-illum-pg-tools/t-vat-text-eraser-tool.md)
-   + Reflection Page {#reflection-page}
+   + Working in the Reflection Page {#reflection-page}
       + [About the Reflection Page](vignette-authoring-tool/c-vat-refl-pg/c-vat-abt-refl-pg/c-vat-abt-refl-pg.md)
       + [Reflection Page Options](vignette-authoring-tool/c-vat-refl-pg/c-vat-abt-refl-pg/c-vat-refl-pg-opt.md)
       + [Creating the Reflection Map](vignette-authoring-tool/c-vat-refl-pg/t-vat-create-refl-map.md)
-      + Reflection Tools {#reflection-tools}
+      + Using the Reflection Tools {#reflection-tools}
          + [Using the Reflection Tools](vignette-authoring-tool/c-vat-refl-pg/c-vat-use-refl-tools/c-vat-use-refl-tools.md)
          + [The Reflection Map Tool](vignette-authoring-tool/c-vat-refl-pg/c-vat-use-refl-tools/c-vat-refl-map-tool.md)
          + [The Alpha Tool](vignette-authoring-tool/c-vat-refl-pg/c-vat-use-refl-tools/t-vat-alpha-tool.md)
@@ -250,7 +215,7 @@ user-guide-title: Dynamic Media Classic Image Authoring Guide
             + [The Blur Brush](vignette-authoring-tool/c-vat-refl-pg/c-vat-use-refl-tools/t-vat-blur-brush-refl-pg/t-vat-blur-brush-refl-pg.md)
             + [To Change the Brush Size](vignette-authoring-tool/c-vat-refl-pg/c-vat-use-refl-tools/t-vat-blur-brush-refl-pg/c-vat-chg-brush-size-ref.md)
             + [To Change the Brush Edge](vignette-authoring-tool/c-vat-refl-pg/c-vat-use-refl-tools/t-vat-blur-brush-refl-pg/c-vat-chg-brush-edge-ref.md)
-   + Flowline Page {#flowline-page}
+   + Working in the Flowline Page {#flowline-page}
       + [About the Flowline Page](vignette-authoring-tool/c-vat-flow-pg/c-vat-abt-flow/c-vat-abt-flow.md)
       + [Flowline Page Options](vignette-authoring-tool/c-vat-flow-pg/c-vat-abt-flow/c-vat-flow-pg-opt.md)
       + [Flowline Page Preferences](vignette-authoring-tool/c-vat-flow-pg/c-vat-abt-flow/c-vat-flow-pg-pref.md)
@@ -286,7 +251,7 @@ user-guide-title: Dynamic Media Classic Image Authoring Guide
          + [Adding Perspective](vignette-authoring-tool/c-vat-flow-pg/c-vat-flow-mesh-tech/t-vat-add-persp/t-vat-add-persp.md)
          + [Adding Perspective Example](vignette-authoring-tool/c-vat-flow-pg/c-vat-flow-mesh-tech/t-vat-add-persp/t-vat-add-persp-ex.md)
          + [Changing the Direction of a Texture](vignette-authoring-tool/c-vat-flow-pg/c-vat-flow-mesh-tech/t-vat-change-dir-text.md)
-      + Flowline Tools {#flowline-tools}
+      + Using the Flowline Tools {#flowline-tools}
          + [Using the Flowline Tools](vignette-authoring-tool/c-vat-flow-pg/c-vat-use-flow-tools/c-vat-use-flow-tools.md)
          + [The Mesh Tool](vignette-authoring-tool/c-vat-flow-pg/c-vat-use-flow-tools/c-vat-mesh-tool.md)
          + [The Texture Tool](vignette-authoring-tool/c-vat-flow-pg/c-vat-use-flow-tools/c-vat-text-tool.md)
@@ -297,10 +262,10 @@ user-guide-title: Dynamic Media Classic Image Authoring Guide
          + [Changing the Origin for Flowline Objects](vignette-authoring-tool/c-vat-flow-pg/c-vat-test-flow-work/t-vat-origin-flow-obj.md)
          + [Changing the Texture Size for Flowline Objects](vignette-authoring-tool/c-vat-flow-pg/c-vat-test-flow-work/t-vat-text-size-flow-obj.md)
          + [Matching Up Textures on Adjacent Flowline Objects](vignette-authoring-tool/c-vat-flow-pg/c-vat-test-flow-work/t-vat-match-text.md)
-   + Sketch Page {#sketch-page}
+   + Working in the Sketch Page {#sketch-page}
       + [About the Sketch Page](vignette-authoring-tool/c-vat-work-sketch-pg/c-vat-abt-sketch-pg/c-vat-abt-sketch-pg.md)
       + [Sketch Page Options](vignette-authoring-tool/c-vat-work-sketch-pg/c-vat-abt-sketch-pg/c-vat-sketch-pg-opt.md)
-      + Sketch Features {#sketch-features}
+      + Creating Sketch Features {#sketch-features}
          + [Creating Sketch Features](vignette-authoring-tool/c-vat-work-sketch-pg/r-vat-create-sketch-feat/r-vat-create-sketch-feat.md)
          + [Creating a Feature](vignette-authoring-tool/c-vat-work-sketch-pg/r-vat-create-sketch-feat/t-vat-create-feat.md)
          + [Using the Edge Recognition for Sketch Features](vignette-authoring-tool/c-vat-work-sketch-pg/r-vat-create-sketch-feat/t-vat-edge-recog-sketch.md)
@@ -310,13 +275,13 @@ user-guide-title: Dynamic Media Classic Image Authoring Guide
          + [Adjusting the Preview for a Foreshortened Object](vignette-authoring-tool/c-vat-work-sketch-pg/r-vat-create-sketch-feat/t-vat-foreshorten-obj.md)
          + [An Example of Sketch Features](vignette-authoring-tool/c-vat-work-sketch-pg/r-vat-create-sketch-feat/c-vat-ex-sketch-feat.md)
          + [An Example of an Object Connector Feature](vignette-authoring-tool/c-vat-work-sketch-pg/r-vat-create-sketch-feat/c-vat-ex-obj-conn-feat.md)
-      + Sketch Tools {#sketch-tools}
+      + Using the Sketch Tools {#sketch-tools}
          + [Using the Sketch Tools](vignette-authoring-tool/c-vat-work-sketch-pg/c-vat-use-sketch-tools/c-vat-use-sketch-tools.md)
          + [The Add Feature Tool](vignette-authoring-tool/c-vat-work-sketch-pg/c-vat-use-sketch-tools/c-vat-add-feat-tool.md)
          + [The Edit Feature Tool](vignette-authoring-tool/c-vat-work-sketch-pg/c-vat-use-sketch-tools/c-vat-edit-feat-tool.md)
          + [The Profile Tool](vignette-authoring-tool/c-vat-work-sketch-pg/c-vat-use-sketch-tools/c-vat-prof-tool.md)
          + [The Texture Tool](vignette-authoring-tool/c-vat-work-sketch-pg/c-vat-use-sketch-tools/c-vat-text-tool-sketch.md)
-   + Render Page {#render-page}
+   + Working in the Render Page {#render-page}
       + [About the Render Page](vignette-authoring-tool/c-vat-rend-pg/c-vat-abt-rend-pg/c-vat-abt-rend-pg.md)
       + [Render Page Options](vignette-authoring-tool/c-vat-rend-pg/c-vat-abt-rend-pg/c-vat-rend-pg-opt.md)
       + [Render Page Preferences](vignette-authoring-tool/c-vat-rend-pg/c-vat-abt-rend-pg/c-vat-rend-pg-pref.md)
@@ -344,7 +309,7 @@ user-guide-title: Dynamic Media Classic Image Authoring Guide
             + [Using a Window Covering](vignette-authoring-tool/c-vat-rend-pg/c-vat-rend-obj/c-vat-window-cov/t-vat-use-window-cov.md)
             + [Changing Window Covering Frame Properties](vignette-authoring-tool/c-vat-rend-pg/c-vat-rend-obj/c-vat-window-cov/t-vat-window-cov-prop.md)
             + [Changing Window Covering Material Properties](vignette-authoring-tool/c-vat-rend-pg/c-vat-rend-obj/c-vat-window-cov/t-vat-window-cov-mat-prop.md)
-      + Textures {#textures}
+      + Working with Textures {#textures}
          + [Working with Textures](vignette-authoring-tool/c-vat-rend-pg/c-vat-work-text/c-vat-work-text.md)
          + [Using Material Templates](vignette-authoring-tool/c-vat-rend-pg/c-vat-work-text/t-vat-mat-templ.md)
          + Texture Material Properties {#texture-material-properties}
@@ -360,7 +325,7 @@ user-guide-title: Dynamic Media Classic Image Authoring Guide
          + [Aligning Textures to Objects](vignette-authoring-tool/c-vat-rend-pg/c-vat-work-text/c-vat-text-to-obj.md)
          + [About the Origin](vignette-authoring-tool/c-vat-rend-pg/c-vat-work-text/c-vat-abt-origin.md)
          + [Changing the Texture Anchor Point](vignette-authoring-tool/c-vat-rend-pg/c-vat-work-text/t-vat-text-anchor-pt.md)
-      + Render Tools {#render-tools}
+      + Using the Render Tools {#render-tools}
          + [Using the Render Tools](vignette-authoring-tool/c-vat-rend-pg/c-vat-rend-tools/c-vat-rend-tools.md)
          + [The Apply New Material Tool](vignette-authoring-tool/c-vat-rend-pg/c-vat-rend-tools/c-vat-new-mat-tool.md)
          + [The Material Properties Tool](vignette-authoring-tool/c-vat-rend-pg/c-vat-rend-tools/c-vat-mat-prop-tool.md)
@@ -380,13 +345,13 @@ user-guide-title: Dynamic Media Classic Image Authoring Guide
             + [To Save Materials You Use Often](vignette-authoring-tool/c-vat-rend-pg/c-vat-rend-tools/t-vat-saved-mat-tool/t-vat-mat-use-often.md)
             + [To Apply a Material From the Saved Materials List](vignette-authoring-tool/c-vat-rend-pg/c-vat-rend-tools/t-vat-saved-mat-tool/t-vat-app-mat-saved-mat-list.md)
          + [The Overlap Options Tool](vignette-authoring-tool/c-vat-rend-pg/c-vat-rend-tools/t-vat-overlap-opt-tool.md)
-   + Preparing Vignettes for Image Rendering {#prep-vignettes-rendering}
+   + Saving and Preparing Vignettes for Image Rendering {#prep-vignettes-rendering}
       + [Saving and Preparing Vignettes for Image Rendering](vignette-authoring-tool/c-vat-vign-img-rend/c-vat-vign-img-rend.md)
       + [Saving Your Work](vignette-authoring-tool/c-vat-vign-img-rend/c-vat-save-work-vign.md)
       + [Exporting a Vignette to an Image File](vignette-authoring-tool/c-vat-vign-img-rend/t-vat-exp-vign-img-file.md)
       + [Exporting to IPS](vignette-authoring-tool/c-vat-vign-img-rend/t-vat-exp-ips.md)
       + [Preparing Vignettes for the Image Rendering System](vignette-authoring-tool/c-vat-vign-img-rend/t-vat-vign-img-rend-sys.md)
-   + Changing Image Authoring {#change-image-authoring}
+   + Changing Image Authoring Options {#change-image-authoring}
       + [Changing Image Authoring Options](vignette-authoring-tool/c-vat-img-auth-opt/c-vat-img-auth-opt.md)
       + [Adjusting Your View](vignette-authoring-tool/c-vat-img-auth-opt/r-vat-adj-view.md)
       + [Zooming](vignette-authoring-tool/c-vat-img-auth-opt/c-vat-zoom.md)
@@ -454,6 +419,44 @@ user-guide-title: Dynamic Media Classic Image Authoring Guide
       + [Object Explorer](vignette-authoring-tool/r-vat-glossary/c-vat-obj-explorer.md)
       + [Textures](vignette-authoring-tool/r-vat-glossary/c-vat-textures.md)
       + [Vertexes](vignette-authoring-tool/r-vat-glossary/c-vat-vertexes.md)
-+ Vignettes Update Tool {#vignettes-update-tool}
++ Vignette Update Tool {#vignettes-update-tool}
    + [About the Vignette Update Tool](/help/aem-ia/vignette-update-tool/c-vut-about-vut.md)
    + [Preparing Vignettes for the Image Rendering System](/help/aem-ia/vignette-update-tool/t-vut-preparing-vignettes.md)
++ Material Repeat Tool {#using-mrt}
+   + Creating a Texture Image {#texture-image}
+      + [Creating a Full-Tile Repeat](material-repeat-tool/c-mrt-texture-image/c-mrt-full-tile-repeat.md)
+      + [Identifying the Full Repeat](material-repeat-tool/c-mrt-texture-image/c-mrt-full-repeat.md)
+      + [Scanning the Pattern for the Full Repeat](material-repeat-tool/c-mrt-texture-image/c-mrt-pattern-full-repeat.md)
+      + [Creating Texture Images with a Digital Camera](material-repeat-tool/c-mrt-texture-image/c-mrt-texture-images-dig-camera.md)
+      + Fixing Smudges, Tears, Spots, and Holes {#editing-tools}
+         + [Fixing Smudges, Tears, Spots, and Holes](material-repeat-tool/c-mrt-texture-image/c-mrt-fixing-smudges/c-mrt-fixing-smudges.md)
+         + [To Adjust the Opacity for the Rubber Stamp Tool](material-repeat-tool/c-mrt-texture-image/c-mrt-fixing-smudges/t-mrt-rubber-stamp-tool.md)
+         + [To Make Brush Softer](material-repeat-tool/c-mrt-texture-image/c-mrt-fixing-smudges/t-mrt-make-brush-softer.md)
+         + [To Use the Rubber Stamp Tool](material-repeat-tool/c-mrt-texture-image/c-mrt-fixing-smudges/t-mrt-use-rubber-stamp-tool.md)
+         + [To Create a Full Repeat from a Half-Drop Repeat](material-repeat-tool/c-mrt-texture-image/c-mrt-fixing-smudges/t-mrt-half-drop-repeat.md)
+   + Using the Material Repeat Tool {#about-using-material-repeat-tool|
+      + [About the Material Repeat Tool](material-repeat-tool/c-mrt-using-mrt/c-mrt-about-mrt.md)
+      + [Starting the Material Repeat Tool](material-repeat-tool/c-mrt-using-mrt/t-mrt-starting-mrt.md)
+      + [Choosing the Pattern Repeat](material-repeat-tool/c-mrt-using-mrt/c-mrt-pattern-repeat.md)
+      + [Using the Perspective Tab](material-repeat-tool/c-mrt-using-mrt/t-mrt-perspective-tab.md)
+      + [Using the Lighting Tab](material-repeat-tool/c-mrt-using-mrt/t-mrt-lighting-tab.md)
+      + [Creating the Final Repeat](material-repeat-tool/c-mrt-using-mrt/t-mrt-final-repeat.md)
+      + [Changing Material Repeat Tool Options](material-repeat-tool/c-mrt-using-mrt/t-mrt-changing-mrt-options.md)
+      + [Generating a Full Repeat from a Half-Drop](material-repeat-tool/c-mrt-using-mrt/t-mrt-gen-full-repeat-half-drop.md)
++ Content Authoring Tool {#content-authoring-tool}
+   + [About the Content Authoring Tool](content-authoring-tool/c-cat-about-cat/c-cat-about-cat.md)
+   + Creating Cabinet Files {#cabinet-files}
+      + [Cabinet Files Overview](content-authoring-tool/c-cat-about-cat/c-cat-creating-cabinet-files/c-cat-creating-cabinet-files.md)
+      + [Preparing Images for Cabinet Files](content-authoring-tool/c-cat-about-cat/c-cat-creating-cabinet-files/c-cat-prep-images-cab-files.md)
+      + [Creating a New Cabinet Style File](content-authoring-tool/c-cat-about-cat/c-cat-creating-cabinet-files/t-cat-new-cab-style-file.md)
+      + [Defining a Cabinet Component](content-authoring-tool/c-cat-about-cat/c-cat-creating-cabinet-files/t-cat-cabinet-comp.md)
+      + [Defining Cabinet Segments](content-authoring-tool/c-cat-about-cat/c-cat-creating-cabinet-files/t-cat-def-cabinet-segments.md)
+      + [Saving Your Cabinet Style](content-authoring-tool/c-cat-about-cat/c-cat-creating-cabinet-files/t-cat-saving-cabinet-style.md)
+   + Creating Window Covering Files {#creating-window-covering-files}
+      + [Creating Window Covering Files](content-authoring-tool/c-cat-about-cat/c-cat-creating-window-covering-files/c-cat-creating-window-covering-files.md)
+      + [About Window Coverings](content-authoring-tool/c-cat-about-cat/c-cat-creating-window-covering-files/c-cat-window-coverings.md)
+      + [Creating a New Window Covering File](content-authoring-tool/c-cat-about-cat/c-cat-creating-window-covering-files/t-cat-new-window-covering-file.md)
+      + [Adjusting the Window Covering File](content-authoring-tool/c-cat-about-cat/c-cat-creating-window-covering-files/c-cat-adjust-window-covering-file.md)
+   + Saving Thumbnails and RGB Values {#saving-thumbnails-and-rgb-values}
+      + [Creating Thumbnails for a Set of Images](content-authoring-tool/c-cat-about-cat/c-cat-thumbnails-rgb-values/t-cat-thumbnails-set-of-images.md)
+
