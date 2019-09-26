@@ -434,7 +434,7 @@ user-guide-title: Dynamic Media Classic Image Authoring Guide
          + [To Make Brush Softer](material-repeat-tool/c-mrt-texture-image/c-mrt-fixing-smudges/t-mrt-make-brush-softer.md)
          + [To Use the Rubber Stamp Tool](material-repeat-tool/c-mrt-texture-image/c-mrt-fixing-smudges/t-mrt-use-rubber-stamp-tool.md)
          + [To Create a Full Repeat from a Half-Drop Repeat](material-repeat-tool/c-mrt-texture-image/c-mrt-fixing-smudges/t-mrt-half-drop-repeat.md)
-   + Using the Material Repeat Tool {#about-using-material-repeat-tool|
+   + Using the Material Repeat Tool {#about-using-material-repeat-tool}
       + [About the Material Repeat Tool](material-repeat-tool/c-mrt-using-mrt/c-mrt-about-mrt.md)
       + [Starting the Material Repeat Tool](material-repeat-tool/c-mrt-using-mrt/t-mrt-starting-mrt.md)
       + [Choosing the Pattern Repeat](material-repeat-tool/c-mrt-using-mrt/c-mrt-pattern-repeat.md)
