@@ -12,8 +12,6 @@ user-guide: null
 
 # Dynamic Media Release Notes {#release-notes}
 
-Current and archived release notes for Dynamic Media.
-
 + [Latest release notes](s7rn2017.md)
 + Archive {#archive-release-notes}
    + [Scene7 Fall 2016 release](s7rnfall2016.md)
