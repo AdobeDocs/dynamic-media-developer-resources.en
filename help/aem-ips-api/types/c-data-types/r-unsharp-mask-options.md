@@ -88,4 +88,4 @@ The `unsharpMaskOptions` type is used by:
 
 >[!MORE_LIKE_THIS]
 >
->* [Image Serving API Reference: op_sum](http://beta-microsite.omniture.com/t2/help/en_US/s7/is_ir_api/#opusm)
+>* [Image Serving API Reference: op_usm](https://marketing.adobe.com/resources/help/en_US/s7/is_ir_api/is_api/http_ref/r_op_usm.html)

@@ -166,7 +166,7 @@ Specify a job type value to return the job type. You can return the following jo
   <tr> 
    <td colname="col1"> <span class="codeph"> <span class="varname"> exportJob</span> </span> </td> 
    <td colname="col2"> <span class="codeph"> types:ExportJob</span> </td> 
-   <td colname="col3">Allow authorized export of previously uploaded files. See <a href="http://microsite.omniture.com/t2/help/en_US/s7/ips_api/#ExportJob" format="http" scope="external"> Export Job</a>. </td> 
+   <td colname="col3">Allow authorized export of previously uploaded files. See <a href="https://marketing.adobe.com/resources/help/en_US/s7/ips_api/types/r_exportjob.html" format="http" scope="external"> Export Job</a>. </td> 
   </tr> 
  </tbody> 
 </table>

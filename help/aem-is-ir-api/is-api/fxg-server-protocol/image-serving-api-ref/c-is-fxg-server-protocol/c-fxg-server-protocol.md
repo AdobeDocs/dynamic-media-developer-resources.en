@@ -32,5 +32,4 @@ The default value is none. The `inherit` value passes the `s7:referencePoint` va
 >To use a reference point and not have any displacement in the object after it is manipulated, update the x and y values of the object after you manipulate it.
 
 When a value from `s7:referencePoint` is used with groups (or paths, line elements, or any element that doesn’t have explicit width and height definitions), the value applies to the cumulative bounding box of the group. For example, the top-left point of the bounding box of all the objects in the group serves as the `northWest` reference point for the group; the bottom-right point serves as the `southEast` reference point.
-
-See also [Scene7 FXG 2.0 specification](http://microsite.omniture.com/t2/help/en_US/s7/fxg/c_fxg.html). 
+ 
