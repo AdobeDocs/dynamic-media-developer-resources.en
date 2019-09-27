@@ -77,4 +77,6 @@ You may need to set up certain user-defined fields in IPS. These fields are not 
  </tbody> 
 </table>
 
-`<unknown>  <p>The field names are not case-sensitive, but they must be spelled exactly as shown here. Do not add spaces, underscores, or other characters. </p>  <p>To create user-defined fields in IPS, you must have Company or IPS Administrator rights. Consult the Administrator section of the IPS Help for instructions on creating user-defined fields. </p> </unknown>` 
+The field names are not case-sensitive, but they must be spelled exactly as shown here. Do not add spaces, underscores, or other characters.
+
+To create user-defined fields in IPS, you must have Company or IPS Administrator rights. Consult the Administrator section of the IPS Help for instructions on creating user-defined fields. 
