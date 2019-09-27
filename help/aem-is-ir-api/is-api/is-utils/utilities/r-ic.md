@@ -26,8 +26,6 @@ If you are not converting large images you do not have to set the parameters tha
 
 ` -c -convert` `[`*`options`*`]` *`sourceFiledestFolder`*
 
-<!--RICK - The next table had a nested table, which I removed. Compare to orginial FIXED BELOW-->
-
 <table id="table_E368E220299D449D8311478AB5042987"> 
  <tbody> 
   <tr> 
@@ -58,8 +56,6 @@ If you are not converting large images you do not have to set the parameters tha
 0 if successful. If an error occurs, a nonzero value is returned and error details are sent to `stderr`.
 
 ## Options {#section-df311ace43f947b3817b60b667ae04ca}
-
-<!-- RICK - deleted another nested table here. compare to original FIXED BELOW-->
 
 <table id="table_02011C7C076745A8BF4378B22C48C8A3"> 
  <tbody> 

@@ -12,7 +12,7 @@ user-guide: null
 
 # Dynamic Media Release Notes {#release-notes}
 
-<!--CHECK-->
+Current and archived release notes for Dynamic Media.
 
 + [Latest release notes](s7rn2017.md)
 + Archive {#archive-release-notes}
