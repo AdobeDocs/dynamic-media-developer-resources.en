@@ -49,7 +49,7 @@ ExportJob does not support the following asset types:
   <tr valign="top"> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> is_modifier</span> </span> </p> </td> 
    <td colname="col2"> <p> <span class="codeph"> xsd:string </span> </p> </td> 
-   <td colname="col3"> <p>Specifies the <span class="codeph"> ImageServer</span> rendering URL string, which is appended to the ExportJob <span class="codeph"> convert</span> request. </p> <p>Refer to the <a href="http://microsite.omniture.com/t2/help/en_US/s7/is_ir_api/" scope="external" format="html"> IS documentation</a> for details about sending the IS modifiers. </p> </td> 
+   <td colname="col3"> <p>Specifies the <span class="codeph"> ImageServer</span> rendering URL string, which is appended to the ExportJob <span class="codeph"> convert</span> request. </p> <p>Refer to the <a href="https://marketing.adobe.com/resources/help/en_US/s7/is_ir_api/" scope="external" format="html"> IS documentation</a> for details about sending the IS modifiers. </p> </td> 
   </tr> 
   <tr valign="top"> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> macro</span> </span> </p> </td> 

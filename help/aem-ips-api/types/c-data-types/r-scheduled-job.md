@@ -32,14 +32,14 @@ A job that is scheduled to run.
 |  ` *`triggerState`*`  | `xsd:int`  | Choice of job trigger state.  |
 |  ` *`imageServingPublishJob`*`  | `types:ImageServingPublishJob`  | Job details for an image serving publish job.  |
 |  ` *`imageServingRenderJob`*`  | `types:ImageServingRenderJob`  | Job details for an image rendering job.  |
-|  ` *`videoPublishJob`*`  | `types:VideoPublishJob`  |Job details for a video publish job. See [VideoPublishJob](http://microsite.omniture.com/t2/help/en_US/s7/ips_api/#VideoPublishJob).  |
+|  ` *`videoPublishJob`*`  | `types:VideoPublishJob`  |Job details for a video publish job. See [VideoPublishJob](https://marketing.adobe.com/resources/help/en_US/s7/ips_api/types/r_scheduled_job.html).  |
 |  ` *`serverDirectoryPublishJob`*`  | `types:ServerDirectoryPublishJob`  | Job details for a server directory publish job.  |
 |  ` *`uploadDirectoryJob`*`  | `types:UploadDirectoryJob`  | Job details for an upload directory job.  |
 |  ` *`uploadUrlsJob`*`  | `types:UploadUrlsJob`  | Job details for an upload URLs job.  |
 |  ` *`optimizeImagesJob`*`  | `types:OptimizeImagesJob`  | |
 |  ` *`ripPdfsJob`*`  | `types:RipPdfsJob`  | |
 |  ` *`reprocessAssetsJob`*`  | `types:ReprocessAssetsJob`  | |
-|  ` *`exportJob`*`  | `types:ExportJob`  |Allow authorized export of previously uploaded files. See [Export Job](http://microsite.omniture.com/t2/help/en_US/s7/ips_api/#ScheduledJob).  |
+|  ` *`exportJob`*`  | `types:ExportJob`  |Allow authorized export of previously uploaded files. See [Export Job](https://marketing.adobe.com/resources/help/en_US/s7/ips_api/types/r_scheduled_job.html).  |
 
 ## Notes {#section-34ec157f281f412f9f0f6e861e6ed0cd}
 
