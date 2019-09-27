@@ -10,7 +10,7 @@ uuid: cb8d28ca-832c-42db-adc3-498c0043c86c
 
 # About Dynamic Rendering{#about-dynamic-rendering}
 
-Websites that support dynamic rendering lets end-users interactively decorate vignettes.
+Websites that support dynamic rendering let end-users interactively decorate vignettes.
 
 A simple implementation might let the end-user apply one of a thousand fabrics to a sofa or a shirt. In this case, the fabric is applied to the entire vignette.
 

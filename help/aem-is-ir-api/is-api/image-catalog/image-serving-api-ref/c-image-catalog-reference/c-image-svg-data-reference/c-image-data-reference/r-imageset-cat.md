@@ -66,8 +66,6 @@ A basic spin set consists of a simple list of image IDs.
 
 *`basicSpinSet imageId`*  &#42;`[ ';'`  *`imageId`* `]`
 
-<!--RICK: empty table was here. FIXED ABOVE-->
-
 **Two-Dimensional Spin Sets**
 
 Each item in a two-dimensional spin set can consist of a simple image, a reference to a basic spin set, or an in-line basic spin set delimited by curly braces. Parentheses may be used instead of curly braces.
@@ -110,8 +108,6 @@ Each item in a media set can consist of an image, basic swatch set, hierarchical
 A video set consists of a simple list of video ids where each id references an entry in the static content catalog.
 
 *`videoSet videoId`*  &#42;`[ ,`  *`videoId`* `]`
-
-<!--RICK: empty table here FIXED ABOVE-->
 
 ## Properties {#section-17c731e5c46646aa90ac21f39bb693ca}
 
