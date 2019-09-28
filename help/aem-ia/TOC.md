@@ -40,7 +40,7 @@ user-guide-title: Dynamic Media Classic Image Authoring Guide
             + [Using Material from Photoshop in Your Vignette](vignette-authoring-tool/c-vat-gs/c-vat-work-ps/c-vat-imp-ps/t-vat-ps-mat-vign.md)
          + [Exporting to Photoshop](vignette-authoring-tool/c-vat-gs/c-vat-work-ps/t-vat-exp-ps.md)
          + [Editing a Vignette in Photoshop](vignette-authoring-tool/c-vat-gs/c-vat-work-ps/t-vat-edit-vign-ps.md)
-      + Dynamic Rendering {#dynamic-rendering}
+      + Preparing Images for Dynamic Rendering {#dynamic-rendering}
          + [Preparing Images for Dynamic Rendering](vignette-authoring-tool/c-vat-gs/c-vat-prep-img-dyn-rend/c-vat-prep-img-dyn-rend.md)
          + [About Dynamic Rendering](vignette-authoring-tool/c-vat-gs/c-vat-prep-img-dyn-rend/c-vat-abt-dyn-rend.md)
          + [Designing a Hierarchy for Dynamic Rendering](vignette-authoring-tool/c-vat-gs/c-vat-prep-img-dyn-rend/c-vat-hier-dyn-rend.md)
