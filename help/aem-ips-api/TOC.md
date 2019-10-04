@@ -2,10 +2,10 @@
 cloud: experience-cloud
 product: adobe
 archtype: end-user
-user-guide-title: Dynamic Media Developer Image Production System API
+user-guide-title: Dynamic Media Image Production System API
 ---
 
-# Dynamic Media Developer Image Production System API {#image-production-api}
+# Dynamic Media Image Production System API {#image-production-api}
 
 + [About Dynamic Media Image Production System API](c-overview.md)
 + [Deprecated calls](c-deprecated-calls.md)
