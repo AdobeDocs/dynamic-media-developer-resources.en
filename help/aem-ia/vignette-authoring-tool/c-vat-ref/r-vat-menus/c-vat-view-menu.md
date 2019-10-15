@@ -24,10 +24,10 @@ For commands with more information available, click the command name:
 
 ** [Proof Setup](../../c-vat-gs/c-vat-abt-color-mgmt/c-vat-abt-color-mgmt.md#concept-2a2d355fd8e841ca95a926397aed4cab) **
 
-** Show Temp View Image:** Lets you compare the current image with a different version. Use [!DNL Load Temp View Image] to open the image to compare.
+**Show Temp View Image:** Lets you compare the current image with a different version. Use [!DNL Load Temp View Image] to open the image to compare.
 
-** Load Temp View Image:** Lets you open a different version of the current image, for example, to compare color profile differences. Use [!DNL Show Temp View Image] to switch between the two versions.
+**Load Temp View Image:** Lets you open a different version of the current image, for example, to compare color profile differences. Use [!DNL Show Temp View Image] to switch between the two versions.
 
 **Status Bar:** Shows or hides the informational area at the bottom of the application window.
 
-** Display HSI:** Toggles the display (in the status bar) of the value of the current pixel in RGB or HSI. 
+**Display HSI:** Toggles the display (in the status bar) of the value of the current pixel in RGB or HSI. 

@@ -12,7 +12,7 @@ uuid: 59568d38-6e05-45ca-8054-cec2c5ea8c02
 
 An array of URLS for invalidating CDN cache.
 
- ** Supported Since**
+ **Supported Since**
 
 4.5.0, patch 2011-02
 

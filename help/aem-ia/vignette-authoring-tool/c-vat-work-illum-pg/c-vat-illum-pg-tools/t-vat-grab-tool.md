@@ -14,7 +14,7 @@ The Grab tool changes the overall brightness of an object or group depending on 
 
 Try for a middle value-not too dark and not too bright.
 
-** To Adjust the Brightness of an Object or Group:** 
+**To Adjust the Brightness of an Object or Group:** 
 
 1. In the side menu, click the **[!UICONTROL Grab]** tool ![](assets/grab.png).
 1. Select an object or group in the [ [!DNL Select Object] box](../../c-vat-gs/c-vat-sel-obj/c-vat-sel-object-box.md#concept-d127c6efaabd436a96c02f36a7bce6ac).

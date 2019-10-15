@@ -12,7 +12,7 @@ uuid: 17ea8878-16a2-4cfa-9c60-d0c42f180e57
 
 The Lighting tab lets you view multiple tiles to make sure that the pattern repeats properly.
 
- ** To Create the Final Repeat:** 
+ **To Create the Final Repeat:** 
 
 1. Check the [!DNL Highlight Tile Edges] checkbox to see how the pattern tiles.
 1. Uncheck [!DNL Highlight Tile Edges], then zoom in to check the corners of the repeat.

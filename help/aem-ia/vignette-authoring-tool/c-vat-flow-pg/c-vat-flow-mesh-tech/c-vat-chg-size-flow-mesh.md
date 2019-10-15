@@ -12,7 +12,7 @@ uuid: 6d2a15d1-4299-44db-984c-81ae5f4cf6a5
 
 You can make the Flowline Mesh taller or wider.
 
- ** To Adjust the Size of the Flowline Mesh:**
+ **To Adjust the Size of the Flowline Mesh:**
 
 1. Select the [!DNL Flowline Mesh] tool ![](assets/flowline_button.png). 
 

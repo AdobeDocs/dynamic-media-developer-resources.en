@@ -16,7 +16,7 @@ For example, the chair seat in the following photograph.
 
 ![](assets/persp_ex1.png)
 
-** To Add Perspective to a Foreshortened Image:** 
+**To Add Perspective to a Foreshortened Image:** 
 
 1. Reshape the [!DNL Flowline Mesh] to display perspective when a texture is applied.
 

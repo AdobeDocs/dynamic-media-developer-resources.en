@@ -14,7 +14,7 @@ If your image fits on a scanner bed, follow these recommendations to achieve the
 
 If the image does not fit on a scanner bed, [use a digital camera](../c-mrt-texture-image/c-mrt-texture-images-dig-camera.md#concept-7af56d7a19c34966aa9b61b304306c6d) to capture it.
 
-** General**
+**General**
 
 * Pre-scan the image you want to use for your full repeat. 
 * Make sure that the image is straight on the scanner bed, not wrinkled or folded. 
@@ -23,7 +23,6 @@ If the image does not fit on a scanner bed, [use a digital camera](../c-mrt-text
 * A square repeat is the only way to ensure that the fabric tiles out properly.
 
 **Screen Resolution**
-
 * If the repeat on a fabric or wall covering is smaller than ½ inch, or if the fabric or wallpaper is highly textured, scan it at 68 ppi to help identify the object in the scan. 
 * For objects with a small repeat or a fine texture, use a higher resolution scan for greater clarity. 
 * For all other images, scan at 34 ppi.

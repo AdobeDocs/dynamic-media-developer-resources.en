@@ -12,7 +12,7 @@ uuid: 26cab6b4-1350-44b1-a2e7-156635bfc252
 
 The Lighting tab lets you correct for any gradient that resulted from photographing the texture with uneven lighting.
 
- ** To Compensate for Uneven Lighting:** 
+ **To Compensate for Uneven Lighting:** 
 
 1. With the image open in the [!DNL Material Repeat] tool in [!DNL Photoshop], click the [!DNL Lighting] tab.
 1. Make sure the [!DNL Show Single Tile] option is unchecked.

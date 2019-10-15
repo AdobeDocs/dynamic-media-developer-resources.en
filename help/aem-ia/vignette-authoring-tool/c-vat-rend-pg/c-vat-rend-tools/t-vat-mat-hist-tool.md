@@ -16,7 +16,7 @@ Solid colors are not listed. You can specify [how many items can appear in this 
 
 ![](assets/mat_history.png)
 
-** To Apply a Texture From the Material History List:** 
+**To Apply a Texture From the Material History List:** 
 
 1. Select the object or group to which you want to apply the texture.
 1. Click the **[!UICONTROL Material History]** tool ![](assets/mat_hist.png).

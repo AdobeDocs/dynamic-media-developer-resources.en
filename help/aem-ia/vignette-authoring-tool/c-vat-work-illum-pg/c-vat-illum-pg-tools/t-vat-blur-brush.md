@@ -12,7 +12,7 @@ uuid: 0a65fc74-dfa5-4024-9d22-8c8967455944
 
 The Blur Brush blends pixels together. The effect is similar to that of smearing wet paint on a canvas.
 
- ** To Blend Pixels in an Object or Group:** 
+ **To Blend Pixels in an Object or Group:** 
 
 1. Select an object or group in the [ [!DNL Select Object] box](../../c-vat-gs/c-vat-sel-obj/c-vat-sel-object-box.md#concept-d127c6efaabd436a96c02f36a7bce6ac).
 1. In the side menu, click the [!DNL Blur Brush] ![](assets/blur.png).

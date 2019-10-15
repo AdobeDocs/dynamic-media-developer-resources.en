@@ -20,11 +20,11 @@ Normally, the origin is located within the masked bounds of the object, but if y
 
 You can adjust the origin for any object, as follows:
 
-** For Flat, Planar, and Wall Objects (both 2D and 3D):** Use the [ [!DNL Alignment] tool](../../c-vat-obj-pg/c-vat-obj-pg-tools/c-vat-align-tool.md#concept-2ba104eab0df4b00a52c70bbcd8177a8) on the [!DNL Object] page. Click the point on the object where you want the origin (even if that point is outside the masked area).
+**For Flat, Planar, and Wall Objects (both 2D and 3D):** Use the [ [!DNL Alignment] tool](../../c-vat-obj-pg/c-vat-obj-pg-tools/c-vat-align-tool.md#concept-2ba104eab0df4b00a52c70bbcd8177a8) on the [!DNL Object] page. Click the point on the object where you want the origin (even if that point is outside the masked area).
 
 [To flow textures seamlessly across adjacent flat, planar, or wall objects](../../c-vat-obj-pg/c-vat-work-obj/t-vat-text-adj-planes.md#task-20755dfecbfb49e3aa5ccc3b97b3f4d8), use the [!DNL Match Origin] command on the [!DNL Object] page.
 
-** For Flowline Objects:** Use the [ [!DNL Flowline Texture] tool](../../c-vat-flow-pg/c-vat-test-flow-work/t-vat-origin-flow-obj.md#task-ad68986712984d8098243e0d0373380b) on the [!DNL Flowline] page to position the origin. [To flow the texture seamlessly across flowline objects](../../c-vat-flow-pg/c-vat-test-flow-work/t-vat-match-text.md#task-568d59da3f7e48838669b17fe96fbed0), use the continuous origin and the [!DNL Match Origin] command on the [!DNL Flowline] page.
+**For Flowline Objects:** Use the [ [!DNL Flowline Texture] tool](../../c-vat-flow-pg/c-vat-test-flow-work/t-vat-origin-flow-obj.md#task-ad68986712984d8098243e0d0373380b) on the [!DNL Flowline] page to position the origin. [To flow the texture seamlessly across flowline objects](../../c-vat-flow-pg/c-vat-test-flow-work/t-vat-match-text.md#task-568d59da3f7e48838669b17fe96fbed0), use the continuous origin and the [!DNL Match Origin] command on the [!DNL Flowline] page.
 
 **For Sketch Objects:** Use the [!DNL Texture] tool to position the origin. [To flow the texture seamlessly across flowline objects](../../c-vat-work-sketch-pg/r-vat-create-sketch-feat/t-vat-create-feat.md#task-c4fd7e414a9445a49b4c2a3cf7425481)with sketch features, use an [!DNL Object Connector] feature.
 

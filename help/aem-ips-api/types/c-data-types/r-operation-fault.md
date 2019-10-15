@@ -12,7 +12,7 @@ uuid: 879d025b-3269-4f87-b8bd-b7916509d077
 
 Detail message responding to one the URLs provided in the CDN invalidation request.
 
- ** Supported Since**
+ **Supported Since**
 
 4.5.0, patch 2011-02
 

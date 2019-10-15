@@ -18,7 +18,7 @@ The [!DNL Pick] tool also lets you check the length of any edge based on the cur
 
 Once you select this tool, you remain in [!DNL Pick] mode until you click a non-defined area (or the area outside the image).
 
-**To Define Scale:** 
+**To Define Scale:**
 
 1. Click the **[!UICONTROL Pick]** tool ![](assets/pick.png).
 1. Click a line segment within a defined plane to select it.

@@ -12,7 +12,7 @@ uuid: 6e45a1c0-bfa6-47fd-8ffd-38456637aed7
 
 Use this tool to fill in the gaps between reflection areas in the Reflection Map.
 
- ** To Correct the Alpha Map for Reflections:** 
+ **To Correct the Alpha Map for Reflections:** 
 
 1. [Generate the [!DNL Reflection Map]](../../c-vat-refl-pg/c-vat-use-refl-tools/c-vat-refl-map-tool.md#concept-fc4781136f994df6b11654c993a7a506) for the entire image.
 1. Select the **[!UICONTROL Alpha]** tool ![](assets/alpha.png).

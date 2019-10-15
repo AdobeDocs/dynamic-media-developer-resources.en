@@ -135,11 +135,11 @@ The IPS API SOAP binding supports HTTP transport only. Make all SOAP requests us
 
 To process a request, set the SOAPAction HTTP header to the name of the requested operation. The operation name attribute in the WSDL binding section specifies the name.
 
-** Message format**
+**Message format**
 
 The document/literal style is used for all input and output messages with types based on the XML Schema definition language ( [http://www.w3.org/TR/xmlschema-0/](http://www.w3.org/TR/xmlschema-0/)) and specified in the WSDL file. All types require qualified names using the target namespace value specified in the WSDL file.
 
-** Request authentication**
+**Request authentication**
 
 The preferred method for passing authentication credentials in API requests is to use the `authHeader` element as defined in the IPS API WSDL.
 
@@ -159,7 +159,7 @@ The preferred method for passing authentication credentials in API requests is t
  </element>
 ```
 
-** Fields**
+**Fields**
 
 <table id="table_B295FEB0EA584C2BA4122FC084AEF18D"> 
  <thead> 
@@ -215,7 +215,7 @@ The following is an example of using the `authHeader` element in a request SOAP 
  </soap:Header>
 ```
 
-** Other request authentication methods**
+**Other request authentication methods**
 
 If for some reason it is not possible for your client application to pass the `authHeader` SOAP header, API requests can also specify credentials using HTTP Basic authentication (as specified in RFC 2617).
 
@@ -238,11 +238,11 @@ Before IPS 3.8, authentication via SOAP header was implemented using the `AuthUs
 
 This style is still supported for backwards compatibility but has been deprecated in favor of the `authHeader` element.
 
-** Request authorization**
+**Request authorization**
 
 After the caller's credentials are authenticated, the request is checked to ensure that the caller is authorized to perform the requested operation. Authorization is based on the user role of the caller and may also require checking the target company, target user, and other operation parameters. In addition, Image Portal users must belong to a Group with the required permissions to perform certain folder and asset operations. The Operations reference section details the authorization requirements for each operation.
 
-** Sample SOAP request and response**
+**Sample SOAP request and response**
 
 The following example shows a complete `addCompany` operation, including HTTP headers:
 
@@ -296,7 +296,7 @@ xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
 </soapenv:Envelope>
 ```
 
-** SOAP faults**
+**SOAP faults**
 
 When an operation encounters an exception condition, a SOAP fault is returned as the body of the SOAP message in place of the normal response. For example, if a non-admin user attempts to send the previous `addCompany` request, the following response is returned:
 

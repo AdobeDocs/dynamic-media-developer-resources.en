@@ -28,7 +28,7 @@ If the image does not fit on a scanner bed, [use a digital camera](../../c-vat-t
 * For objects with a small repeat or a fine texture, use a higher resolution scan for greater clarity. 
 * For all other images, scan at 34 ppi.
 
-** Canvas Size**
+**Canvas Size**
 
 * The final full-tile repeat should be one full repeat horizontally and vertically. 
 * If your pattern is very small, however, you must capture multiple repeats. As a rule of thumb, make your full-tile repeat approximately one foot square.

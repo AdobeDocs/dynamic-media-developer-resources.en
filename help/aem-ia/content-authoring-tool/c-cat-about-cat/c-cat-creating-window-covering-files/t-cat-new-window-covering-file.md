@@ -12,7 +12,7 @@ uuid: 68c510fa-2639-4888-9db0-077d5d743a3e
 
 When you create a window covering file, you create an image that you can add to any Image Authoring vignette.
 
- **To Create a New Window Covering File: ** 
+ **To Create a New Window Covering File:** 
 
 1. From the [!DNL Start] menu on your computer desktop, choose **[!UICONTROL Programs]** > **[!UICONTROL Scene7]** > **[!UICONTROL Image Authoring]** > **[!UICONTROL Content Authoring Tool]**.
 1. In the [!DNL Content Authoring] tool, choose **[!UICONTROL File]** > **[!UICONTROL Open]**.

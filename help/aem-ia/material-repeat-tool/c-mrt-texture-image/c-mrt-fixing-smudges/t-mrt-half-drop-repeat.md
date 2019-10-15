@@ -8,7 +8,7 @@ topic: Scene7 Image Authoring
 uuid: d3ae3093-a7b2-42d7-b08b-0a40736f436d
 ---
 
-# To Create a Full Repeat from a Half-Drop Repeat{#to-create-a-full-repeat-from-a-half-drop-repeat}
+# To create a full repeat from a half-drop repeat{#to-create-a-full-repeat-from-a-half-drop-repeat}
 
 1. Select the [!DNL Rubber Stamp] tool from the toolbar.
 1. Go to **[!UICONTROL Window]** > **[!UICONTROL Show Options]**.

@@ -12,7 +12,7 @@ uuid: e47399fb-d17a-442b-914c-13afbc3bd7ca
 
 You can change the appearance and behavior of some items in the Material Repeat tool.
 
- ** To change Material Repeat tool options** 
+ **To change Material Repeat tool options** 
 
 1. Click **[!UICONTROL Options]** at the bottom of the [!DNL Material Repeat] tool.
 1. Change any of the following options:

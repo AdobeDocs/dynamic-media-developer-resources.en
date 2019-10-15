@@ -66,7 +66,7 @@ The following properties are returned for /is/image requests:
   <tr valign="top"> 
    <td> <p> <span class="codeph"> image.mask </span> </p> </td> 
    <td> <p> enum </p> </td> 
-   <td> <p> 1 if the the reply image includes an alpha channel, 0 otherwise. </p> </td> 
+   <td> <p> 1 if the reply image includes an alpha channel, 0 otherwise. </p> </td> 
   </tr> 
   <tr valign="top"> 
    <td> <p> <span class="codeph"> image.pixTyp </span> </p> </td> 

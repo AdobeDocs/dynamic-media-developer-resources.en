@@ -21,7 +21,8 @@ You can also return to the [!DNL Illumination Map] that was in effect for a part
 1. Next to Map A, click the **[!UICONTROL Action]** button and select **[!UICONTROL Delete]**.
 1. Click **[!UICONTROL OK]**.
 1. Use the [tools](../../c-vat-work-illum-pg/c-vat-abt-illum-pg/c-vat-abt-illum-pg.md#concept-1be06b3c0416437088e7cbbba48b3e5f) on the [!DNL Illumination] page ![](assets/illum_button.png) to create a new [!DNL Illumination Map].
-** To Revert to the Last Saved Illumination Map:**
+
+**To Revert to the Last Saved Illumination Map:**
 
 1. Go to the [!DNL Illumination] page by clicking its button ![](assets/illum_button.png). 
 

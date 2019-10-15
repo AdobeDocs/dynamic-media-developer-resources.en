@@ -18,7 +18,7 @@ The options at the bottom of the side window are always available.
 
 ** [Image](../../c-vat-work-illum-pg/c-vat-abt-illum-pg/c-vat-img-disp-opt.md#concept-636f69f529af40388b1c63d38a22ac8c):** Lets you switch between viewing the grayscale [!DNL Illumination Map], the original photo, or a view of the image rendered with a texture or color.
 
-** Preview:** Lets you preview the selected object or group with a [solid color](../../c-vat-rend-pg/c-vat-rend-obj/t-vat-rend-solid-color.md#task-e051bda9851e4c6fb7e33a38b6e47f0d) when Image is set to either [!DNL View] or [!DNL Render]. 
+**Preview:** Lets you preview the selected object or group with a [solid color](../../c-vat-rend-pg/c-vat-rend-obj/t-vat-rend-solid-color.md#task-e051bda9851e4c6fb7e33a38b6e47f0d) when Image is set to either [!DNL View] or [!DNL Render]. 
 
 >[!MORE_LIKE_THIS]
 >

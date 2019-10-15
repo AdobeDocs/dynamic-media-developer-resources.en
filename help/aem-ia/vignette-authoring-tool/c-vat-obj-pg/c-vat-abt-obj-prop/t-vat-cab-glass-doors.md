@@ -12,7 +12,7 @@ uuid: 63eff657-ad10-4757-92a8-9765f3211b25
 
 Image Authoring can render cabinets with glass doors if you prepare the cabinets properly.
 
- ** To Create, Prepare, and Render Cabinets with Glass Doors:** 
+ **To Create, Prepare, and Render Cabinets with Glass Doors:** 
 
 1. On the [!DNL Object] page, create a Cabinet group and each cabinet object.
 1. On the [!DNL Mask] page, mask the cabinets.

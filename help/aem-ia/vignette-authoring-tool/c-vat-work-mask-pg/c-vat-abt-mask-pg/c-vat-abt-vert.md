@@ -20,7 +20,7 @@ There are several types of vertexes:
 
 **Straight Vertex:** A vertex with Bezier handles. The control points at the end of each Bezier handle are always 180 degrees from each other and may have differing distances from the vertex.
 
-** Corner Vertex:** A vertex with Bezier handles. The control points at the end of each Bezier handle are freeform.
+**Corner Vertex:** A vertex with Bezier handles. The control points at the end of each Bezier handle are freeform.
 
 **Sharp Vertex:** A vertex with no Bezier handles. This is the traditional vertex used in previous versions of [!DNL Image Authoring]. If a sharp vertex is surrounded by Bezier curves, there are no straight lines on either side of that vertex.
 

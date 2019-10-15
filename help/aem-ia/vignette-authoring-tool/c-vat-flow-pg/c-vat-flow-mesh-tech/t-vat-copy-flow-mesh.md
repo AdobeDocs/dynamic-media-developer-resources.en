@@ -12,7 +12,7 @@ uuid: 8dd2b8b2-a280-4695-8c9e-1fd442578f02
 
 If one object in your image uses a Flowline Mesh that you can use for another part of the image, you can copy the Flowline Mesh, drag it to the other object, then modify it.
 
- ** To Copy and Paste a Flowline Mesh:** 
+ **To Copy and Paste a Flowline Mesh:** 
 
 1. Make sure the [!DNL Mesh] tool is active ![](assets/mesh_tool.png).
 1. Right-click the object whose [!DNL Flowline Mesh] you want to copy and choose **[!UICONTROL Select as Source Object]**.

@@ -12,7 +12,7 @@ uuid: 7b78ba89-94f7-4ac7-a913-876ae0a583a4
 
 If your image contains a flowline that you can use in another part of the image, you can copy the flowline to another part of the image without losing the changes to that flowline.
 
- ** To Copy and Paste a Flowline:** 
+**To Copy and Paste a Flowline:**
 
 1. Make sure the [!DNL Mesh] tool is active ![](assets/mesh_tool.png).
 1. Hold down the Shift key and click the flowline to copy.

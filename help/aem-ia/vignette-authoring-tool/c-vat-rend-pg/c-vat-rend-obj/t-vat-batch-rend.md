@@ -12,7 +12,7 @@ uuid: 55a4ad98-0a1c-4e3c-be5f-b833d239de49
 
 If you have saved materials for the current vignette, you can render and save one vignette image file for each object or group/material combination in the palette.
 
- ** To Batch Render the Vignette:** 
+ **To Batch Render the Vignette:** 
 
 1. [Save](../../c-vat-rend-pg/c-vat-rend-tools/t-vat-saved-mat-tool/t-vat-saved-mat-tool.md#task-2f7dd900c44e42f4a8e7f41a3003e2fa) each object or group/material combination you want to render.
 1. Click the **[!UICONTROL Saved Materials]** tool ![](assets/saved_mat.png).

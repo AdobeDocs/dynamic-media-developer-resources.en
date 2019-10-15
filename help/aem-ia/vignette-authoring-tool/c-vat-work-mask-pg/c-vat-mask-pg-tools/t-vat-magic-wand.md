@@ -16,7 +16,7 @@ You can often mask the whole object with one click. For example, use the [!DNL M
 
 ![](assets/magic_wand_chair.png)
 
-** To Create a Mask with the Magic Wand Tool:** 
+**To Create a Mask with the Magic Wand Tool:** 
 
 1. In the side menu toolbar, click the **[!UICONTROL Magic Wand]** tool ![](assets/magic_wand.png).
 1. In the [ [!DNL Select Object] box](../../c-vat-gs/c-vat-sel-obj/c-vat-sel-object-box.md#concept-d127c6efaabd436a96c02f36a7bce6ac) in the toolbar, select the object you want to mask.

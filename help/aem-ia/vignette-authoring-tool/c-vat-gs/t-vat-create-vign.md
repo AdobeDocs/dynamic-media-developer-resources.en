@@ -12,7 +12,7 @@ uuid: c5464b09-d82f-4d14-8392-ca1756761cc8
 
 Once you have prepared your image, bring it into Image Authoring by creating a vignette and importing the view image.
 
- ** To Create a Vignette:** 
+ **To Create a Vignette:** 
 
 1. On the [!DNL File] menu, click **[!UICONTROL New]**.
 1. In the [!DNL Vignette Properties] dialog box, type a name for the vignette.
