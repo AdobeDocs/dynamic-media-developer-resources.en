@@ -24,7 +24,7 @@ If you plan to render some objects with simple, smooth textures only, such as he
     * **New Non-Texturable Object:** For objects that accept color, but no texture. Use this option if you use this vignette on your [!DNL Image Rendering] server but will not apply textures to it, as these object types render faster. [!DNL Non-Texturable Objects] do not render decals. 
     
     * **New Flat Object:** For objects that do not fold or crease (unlike fabrics) and that accept color or texture. 
-    * ** New Flowline Object:** For fabric objects that use a patterned material. You can create flowlines for a [!DNL Flowline] object. 
+    * **New Flowline Object:** For fabric objects that use a patterned material. You can create flowlines for a [!DNL Flowline] object. 
     
     * **New Sketch Object:** For fabric objects that use a patterned material. You can create sketch features for a [!DNL Sketch] object.
 

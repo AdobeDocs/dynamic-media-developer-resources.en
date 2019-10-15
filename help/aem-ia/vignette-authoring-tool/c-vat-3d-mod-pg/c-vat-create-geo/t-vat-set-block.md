@@ -18,7 +18,7 @@ The geometry block consists of 12 lines and 4 circular points. The colored point
 
 ![](assets/geo_block.png)
 
-**To Set the Geometry Block:** 
+**To Set the Geometry Block:**
 
 1. Turn on the display of the block by checking [!DNL Block in the Display] settings in the side menu. Leave [!DNL Scene Directions] checked as well.
 
@@ -36,7 +36,7 @@ The geometry block consists of 12 lines and 4 circular points. The colored point
 
        If you set the green side to zero, wrap the flattened block around a rectangle on the floor or on a countertop.
 
-       ** To Move the Block Around in the Scene:**
+       **To Move the Block Around in the Scene:**
 
     * Drag the pink, arrowed, corner handle.
 

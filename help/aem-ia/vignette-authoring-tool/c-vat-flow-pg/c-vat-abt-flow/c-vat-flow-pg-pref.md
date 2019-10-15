@@ -38,7 +38,7 @@ These settings take effect when you add a line with the [ [!DNL Flowline Mesh] t
 
 **Line Tension:** Sets default value for the [ [!DNL Tension] slider](/help/aem-ia/vignette-authoring-tool/c-vat-flow-pg/c-vat-create-flow/c-vat-create-flow.md).
 
-** Line Depth:** Sets default value for the [ [!DNL Depth] slider](../../c-vat-flow-pg/c-vat-flow-mesh-tech/t-vat-depth-text.md#task-18d316e8b07d4f5a859589ae96f97693).
+**Line Depth:** Sets default value for the [ [!DNL Depth] slider](../../c-vat-flow-pg/c-vat-flow-mesh-tech/t-vat-depth-text.md#task-18d316e8b07d4f5a859589ae96f97693).
 
 **Texture Tension:** Affects how textures bend to adapt to the [flowline bends](../../c-vat-flow-pg/c-vat-create-flow/t-vat-contour-flow-mesh.md#task-1d891b7540014e5c823278c5e4d69dbb). Higher numbers make the texture smoother at deep bends.
 

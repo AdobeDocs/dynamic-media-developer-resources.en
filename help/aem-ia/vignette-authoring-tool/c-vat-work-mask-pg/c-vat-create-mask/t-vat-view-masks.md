@@ -21,7 +21,7 @@ Unmasked objects are not rendered. You can also quickly switch back and forth be
 
    [If you renamed the unmasked object](../../c-vat-obj-pg/c-vat-abt-obj-pg/c-vat-abt-obj-pg.md#concept-0c58b45999ce4d74aecd09ea0d5c5263) for your vignette, this command uses the new name, rather than [!DNL Unmasked]. 
 
-** To See the Previously-selected Masked Object:**
+**To See the Previously-selected Masked Object:**
 
 1. On the [!DNL Mask] page, right-click any masked object. 
 1. Choose **[!UICONTROL Select Previous]**.

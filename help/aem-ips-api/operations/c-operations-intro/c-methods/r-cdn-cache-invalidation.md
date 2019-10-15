@@ -24,7 +24,7 @@ The rules governing the frequency of the use of this feature are controlled by S
 
 Confirmation emails from the Scene7 CDN partner can be sent to the list's creator or up to 5 other email addresses. The API sends the confirmation when the entire CDN network has been notified that the URLs referenced in the email have been cleared. A single call to `cdnCacheInvalidation` can send multiple emails if the number of URLs supplied exceed the number that Scene7 can deliver to the CDN partner on a single notification. Currently, that would be if the request exceeds 100 URLs, but is subject to change based at the request of the CDN partner.
 
-** Supported Since**
+**Supported Since**
 
 6.0
 
@@ -35,7 +35,7 @@ Confirmation emails from the Scene7 CDN partner can be sent to the list's creato
 
 ## Parameters {#section-bd1ed2b7419945d19a2ebd5668499f72}
 
-** Input** ( `cdnCacheInvalidationParam`)
+**Input** ( `cdnCacheInvalidationParam`)
 
 <table id="table_EDD1875264C846BE951869D528A90D73"> 
  <thead> 
@@ -62,7 +62,7 @@ Confirmation emails from the Scene7 CDN partner can be sent to the list's creato
  </tbody> 
 </table>
 
-** Output**( `cdnCacheInvalidationReturn`)
+**Output**( `cdnCacheInvalidationReturn`)
 
 <table id="table_1D947C1BF8864820AD7BA0CDC0F076F9"> 
  <thead> 
@@ -98,7 +98,7 @@ This example requests four URLs to be invalidated in the CDN cache. The response
 
 `getCdnCacheInvalidationStatus` operation.
 
-** Request**
+**Request**
 
 ```java
 <cdnCacheInvalidationParam xmlns="http://www.scene7.com/IpsApi/xsd/2012-02-14">
@@ -112,7 +112,7 @@ This example requests four URLs to be invalidated in the CDN cache. The response
 </cdnCacheInvalidationParam>
 ```
 
-** Response**
+**Response**
 
 ```java
 <cdnCacheInvalidationReturn xmlns="http://www.scene7.com/IpsApi/xsd/2012-02-14">

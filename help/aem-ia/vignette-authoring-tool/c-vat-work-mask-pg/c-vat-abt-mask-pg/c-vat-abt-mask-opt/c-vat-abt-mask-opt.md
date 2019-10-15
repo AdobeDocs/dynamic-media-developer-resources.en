@@ -12,13 +12,13 @@ uuid: 7accba94-f7c1-44f8-9fff-902713804192
 
 The options at the bottom of the side window are always available.
 
- ** Protect Other Masks:** The mask for an object must be distinct and separate from masks for surrounding objects. While you are masking an object, you can't see the masks for other objects, but you can protect them from being overwritten by selecting this option. It is like having a protective plastic layer over all objects except the one you're working on. If you overlap an existing map, the program ignores the overlapped area and preserves the pre-existing mask when you apply the new mask. This option is selected by default.
+ **Protect Other Masks:** The mask for an object must be distinct and separate from masks for surrounding objects. While you are masking an object, you can't see the masks for other objects, but you can protect them from being overwritten by selecting this option. It is like having a protective plastic layer over all objects except the one you're working on. If you overlap an existing map, the program ignores the overlapped area and preserves the pre-existing mask when you apply the new mask. This option is selected by default.
 
-** Resync:** After you copy or delete a mask, select **[!UICONTROL Resync]** to adjust mask values and ensure proper rendering of your vignette.
+**Resync:** After you copy or delete a mask, select **[!UICONTROL Resync]** to adjust mask values and ensure proper rendering of your vignette.
 
-** Add & Subtract:** When you first create a mask, you are adding it to the photo. After the mask is created, you can [change it](../../../c-vat-work-mask-pg/c-vat-create-mask/t-vat-chg-exist-masks.md#task-4ac1ad631df546ea922b0329c7886266): enlarge the mask by adding to it, or make it smaller by subtracting from it.
+**Add & Subtract:** When you first create a mask, you are adding it to the photo. After the mask is created, you can [change it](../../../c-vat-work-mask-pg/c-vat-create-mask/t-vat-chg-exist-masks.md#task-4ac1ad631df546ea922b0329c7886266): enlarge the mask by adding to it, or make it smaller by subtracting from it.
 
-** Mask Color:** This option lets you change the color for any mask you add. By default, masks are blue. 
+**Mask Color:** This option lets you change the color for any mask you add. By default, masks are blue. 
 
 >[!MORE_LIKE_THIS]
 >

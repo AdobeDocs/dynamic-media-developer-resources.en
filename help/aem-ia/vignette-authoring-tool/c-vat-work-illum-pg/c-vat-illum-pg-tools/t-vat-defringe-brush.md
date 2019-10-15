@@ -27,7 +27,7 @@ If a particular object's illumination map should have more contrast at its edges
 1. In the image, drag the brush over the edge you want to clean up.
 You can set the following options for the [!DNL Defringe Brush]:
 
-* ** Contrast Threshold:** Limits the effect to the edge pixels that have more than the specified contrast level and preserves the edges with less than this level of contrast. The default contrast value of zero reduces the contrast of all edge pixels to zero. 
-* ** Edge Width:** Limits the effect to the pixels that are within this number of pixels of the edge. 
-* ** Apply to Whole Object:** Applies your changes to the entire object or group that is currently selected.
+* **Contrast Threshold:** Limits the effect to the edge pixels that have more than the specified contrast level and preserves the edges with less than this level of contrast. The default contrast value of zero reduces the contrast of all edge pixels to zero. 
+* **Edge Width:** Limits the effect to the pixels that are within this number of pixels of the edge. 
+* **Apply to Whole Object:** Applies your changes to the entire object or group that is currently selected.
 

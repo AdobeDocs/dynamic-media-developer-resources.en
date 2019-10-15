@@ -19,7 +19,7 @@ In the long run, a digital camera is more effective and efficient. This procedur
 
 To successfully capture a render image with a digital camera, follow these recommendations.
 
-** Lighting**
+**Lighting**
 
 A manually lit studio does not have a perfect flow of light throughout the image and can introduce some gradient. Compensate as much as possible to light the subject evenly.
 

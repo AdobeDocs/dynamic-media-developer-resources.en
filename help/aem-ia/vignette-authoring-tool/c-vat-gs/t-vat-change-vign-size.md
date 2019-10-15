@@ -12,7 +12,7 @@ uuid: e24382d6-ad4d-4f51-8cf8-67edabfb2e72
 
 You can resize a vignette more than once, but resizing multiple times reduces the quality of the photo.
 
- ** To Resize the Vignette:** 
+ **To Resize the Vignette:** 
 
 1. On the [!DNL File] menu, select **[!UICONTROL Resize Vignette]**.
 1. In the first box next to [!DNL New Size], enter the width you want.

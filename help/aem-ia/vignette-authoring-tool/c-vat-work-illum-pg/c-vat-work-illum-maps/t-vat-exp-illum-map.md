@@ -24,7 +24,8 @@ When you have finished fine-tuning the information, you can [import](../../c-vat
 1. From the [!DNL File] menu, choose **[!UICONTROL Export Image]**.
 1. Choose any file format.
 1. Click **[!UICONTROL Save]**.
-** To Export the Illumination Map *and* the Mask Information:**
+
+**To Export the Illumination Map *and* the Mask Information:**
 
 1. On the [!DNL Object] page, right-click on the vignette name. 
 1. Choose the **[!UICONTROL Export .PSD File]**. 

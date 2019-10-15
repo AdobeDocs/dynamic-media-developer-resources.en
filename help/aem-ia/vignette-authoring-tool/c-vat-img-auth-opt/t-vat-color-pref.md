@@ -27,9 +27,9 @@ You can check various color spaces on your monitor before choosing these setting
 
     * **Working (RGB):** Choose a working color space. Newly created vignettes default to this color profile. All RGB color spaces found in your [!DNL system32\spool\drivers\color] directory appear in this list. 
     
-    * ** Import (RGB):** Choose a default color space for RGB images that you open in [!DNL Image Authoring]. All RGB color spaces found in your [!DNL system32\spool\drivers\color] directory appear in this list. 
+    * **Import (RGB):** Choose a default color space for RGB images that you open in [!DNL Image Authoring]. All RGB color spaces found in your [!DNL system32\spool\drivers\color] directory appear in this list. 
     
-    * **Import (CMYK): **Choose a default color space for CMYK images that you open in [!DNL Image Authoring]. All CMYK color spaces found in your [!DNL system32\spool\drivers\color] directory appear in this list. 
+    * **Import (CMYK):** Choose a default color space for CMYK images that you open in [!DNL Image Authoring]. All CMYK color spaces found in your [!DNL system32\spool\drivers\color] directory appear in this list. 
     
     * **Import (Gray):** Choose a default color space for grayscale images that you open in [!DNL Image Authoring]. All grayscale color spaces found in your [!DNL system32\spool\drivers\color] directory appear in this list. 
     

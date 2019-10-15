@@ -16,7 +16,7 @@ The model is called the geometry of the scene. The geometry must include the maj
 
 The first step in creating the geometry is to estimate the relative position, orientation, and field of view of the camera used to photograph the scene (the camera model). Start by setting the guidelines.
 
-** To Define the View Angle and Camera Position for the Image:** 
+**To Define the View Angle and Camera Position for the Image:** 
 
 1. Click the **[!UICONTROL 3D Modeling Page]** button ![](assets/camera.png).
 

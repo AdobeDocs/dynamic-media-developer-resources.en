@@ -23,7 +23,7 @@ When you upload a render set, [!DNL Image Authoring] creates a separate swatch f
 1. Click **[!UICONTROL Batch Render]**.
 1. In the [!DNL Batch Render Setup] dialog box, choose **[!UICONTROL Index File]** or **[!UICONTROL Long File Names]**.
 
-   ** Index File:** At the end of the process, the rendered images have file names that consist of the base file name followed by an underscore and a sequential number. Each file name uses the appropriate file extension for the file type you choose.
+   **Index File:** At the end of the process, the rendered images have file names that consist of the base file name followed by an underscore and a sequential number. Each file name uses the appropriate file extension for the file type you choose.
 
    For example, if you specify the file type [!DNL .JPG] and the base file name "bedroom," the resulting files would have the names [!DNL bedroom_0.jpg], [!DNL bedroom_1.jpg], and so on.
 

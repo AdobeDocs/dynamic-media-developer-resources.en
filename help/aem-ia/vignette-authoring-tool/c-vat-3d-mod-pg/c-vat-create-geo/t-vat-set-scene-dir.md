@@ -16,7 +16,7 @@ There are two guidelines for each direction. Use the green lines to represent th
 
 In some scenes the choice of left-right versus in-out may be somewhat arbitrary.
 
-** To Set Scene Directions:** 
+**To Set Scene Directions:** 
 
 1. Drag the green lines to align with the vertical directions of the scene.
 

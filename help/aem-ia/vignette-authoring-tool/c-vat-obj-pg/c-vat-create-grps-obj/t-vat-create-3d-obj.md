@@ -12,7 +12,7 @@ uuid: c0e9e514-22ea-4493-9d2e-d46a59b0595c
 
 If you created and imported geometry to create a 3D vignette, you can add 3D objects.
 
- ** To Create a 3D Object:** 
+ **To Create a 3D Object:** 
 
 1. In the [ [!DNL Object Explorer]](../../r-vat-glossary/c-vat-obj-explorer.md#concept-da56038ea82c40a1a10576f99f2f6836), right-click the name of the group that contains the object.
 1. Select the object type for the new object. The 3D object types are:

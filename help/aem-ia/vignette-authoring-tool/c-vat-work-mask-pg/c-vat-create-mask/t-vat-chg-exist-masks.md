@@ -19,7 +19,7 @@ After the mask is created, you can change it: enlarge the mask by adding to it, 
 1. In the side menu, select **[!UICONTROL Add]**.
 1. Draw a mask outline around the area you want to add.
 1. In the side menu, click **[!UICONTROL Apply]**.
-** To Remove an Area from the Mask:**
+**To Remove an Area from the Mask:**
 
 1. In the side menu, select **[!UICONTROL Subtract]**. 
 1. Draw a mask outline around the area you want to remove. 

@@ -20,7 +20,7 @@ You can change information about the window covering frame.
 
 1. In the [!DNL Object Properties] dialog box, click the **[!UICONTROL General]** tab to change information about the window covering frame.
 
-   ** Name:** The name you provided for the object when you created it. You can change this at any time.
+   **Name:** The name you provided for the object when you created it. You can change this at any time.
 
    **Z-Order:** Specifies whether this object renders above or below other items, for example, window hardware. Window coverings should always have a z-order value higher than 1. 
 

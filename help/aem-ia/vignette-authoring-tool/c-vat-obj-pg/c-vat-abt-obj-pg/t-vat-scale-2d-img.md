@@ -22,7 +22,7 @@ If you want to set the default view resolution for all vignettes, change the [!D
 
 Once you set this value for the vignette, [!DNL Image Authoring] can set a reasonable size for new objects you create. If you apply only [simple, smooth textures, such as heather fabrics](../../c-vat-rend-pg/c-vat-rend-obj/t-vat-heather-text-eff.md#task-00de2da0ac644349868db8249dd2ab2c), the resolution setting may eliminate the need to create flowlines for the vignette. It does not work for heavy patterns or textures.
 
-** To Set the View Resolution Relative to the Physical Size of Objects:** 
+**To Set the View Resolution Relative to the Physical Size of Objects:** 
 
 1. From the [!DNL Edit] menu, choose [!DNL Preferences], then click the **[!UICONTROL General]** tab.
 1. Change the [!DNL Default Object Resolution] setting to the number of pixels in one inch of a real object in the image.

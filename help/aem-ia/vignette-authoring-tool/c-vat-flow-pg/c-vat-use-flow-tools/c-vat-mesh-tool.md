@@ -14,13 +14,17 @@ Use the Mesh tool to create flowlines that display your real patterns and textur
 
 The [!DNL Mesh] tool has the following options:
 
-* **Tension:** Determines the [amount of curve in the fold](/help/aem-ia/vignette-authoring-tool/c-vat-flow-pg/c-vat-create-flow/c-vat-create-flow.md). 
+* **Tension**
+Determines the [amount of curve in the fold](/help/aem-ia/vignette-authoring-tool/c-vat-flow-pg/c-vat-create-flow/c-vat-create-flow.md). 
 
-* **Depth and Show Depth Markers:** Let you [pull or push textures](../../c-vat-flow-pg/c-vat-flow-mesh-tech/t-vat-depth-text.md#task-18d316e8b07d4f5a859589ae96f97693) away from the viewer. 
+* **Depth and Show Depth Markers**
+Let you [pull or push textures](../../c-vat-flow-pg/c-vat-flow-mesh-tech/t-vat-depth-text.md#task-18d316e8b07d4f5a859589ae96f97693) away from the viewer. 
 
-* **Reset All Depths:** Returns the [!DNL Flowline Depth] to its original setting for all flowlines. 
+* **Reset All Depths**
+Returns the [!DNL Flowline Depth] to its original setting for all flowlines. 
 
-* **New Mesh:** [Undoes your flowline work](../../c-vat-flow-pg/c-vat-flow-mesh-tech/t-vat-reset-flow-mesh.md#task-aa61cad8897341ad82b7177122866b87) so far and creates a default mesh. By default, the new mesh is a bounding box with however many vertical and horizontal flowlines are indicated in the two fields. To include more, type a number for the vertical flowlines into the first box and a number for the horizontal flowlines into the second box. The flowlines will be equally spaced. Your new setting remains in effect until you exit [!DNL Image Authoring]. To change the setting permanently, change the [ [!DNL Default Flowline Spacing]](../../c-vat-flow-pg/c-vat-abt-flow/c-vat-flow-pg-pref.md#concept-304fb083a8a0415991216916b427246e) in the [!DNL Preferences] dialog box.
+* **New Mesh**
+[Undoes your flowline work](../../c-vat-flow-pg/c-vat-flow-mesh-tech/t-vat-reset-flow-mesh.md#task-aa61cad8897341ad82b7177122866b87) so far and creates a default mesh. By default, the new mesh is a bounding box with however many vertical and horizontal flowlines are indicated in the two fields. To include more, type a number for the vertical flowlines into the first box and a number for the horizontal flowlines into the second box. The flowlines will be equally spaced. Your new setting remains in effect until you exit [!DNL Image Authoring]. To change the setting permanently, change the [ [!DNL Default Flowline Spacing]](../../c-vat-flow-pg/c-vat-abt-flow/c-vat-flow-pg-pref.md#concept-304fb083a8a0415991216916b427246e) in the [!DNL Preferences] dialog box.
 
 The right-click menu contains commands that let you choose different vertex types. [ [!DNL Make Selected Vertices Sharp] and [!DNL Make Selected Vertices Curved]](/help/aem-ia/vignette-authoring-tool/c-vat-work-illum-pg/c-vat-illum-pg-tools/c-vat-histo-curves-opt/t-vat-curves-opt.md) adjusts the tension of flowline vertexes. 
 

@@ -19,6 +19,6 @@ The Brightness Brush darkens or brightens the area you paint.
 1. In the image, drag the brush over the area to lighten or darken.
 You can set the following options for the [!DNL Brightness Brush]:
 
-* ** Darken/Brighten slider:** Drag the slider to adjust between darkness and brightness. 
+* **Darken/Brighten slider:** Drag the slider to adjust between darkness and brightness. 
 * **Apply to Whole Object:** Applies your changes to the entire object or group that is currently selected.
 

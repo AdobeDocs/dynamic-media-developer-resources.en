@@ -12,7 +12,7 @@ uuid: 87705604-1ba9-46c5-9c36-8fba53ba53d0
 
 You must start Photoshop and open your image before you can start the Material Repeat tool.
 
- ** To Start the Material Repeat Tool:** 
+ **To Start the Material Repeat Tool:** 
 
 1. Start [!DNL Photoshop].
 1. Open the material image you want to edit and make its window the active window.

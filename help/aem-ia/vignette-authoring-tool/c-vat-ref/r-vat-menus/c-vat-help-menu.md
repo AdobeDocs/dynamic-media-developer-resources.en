@@ -14,4 +14,4 @@ The [!DNL Help] menu contains the following commands:
 
 **Help:** ![](assets/help.png) Displays this [!DNL Help] file.
 
-** About:** Displays information about your copy of [!DNL Image Authoring], including version number, build date, vignette file version, and license information. You may need to check the vignette file version when you use the [ [!DNL Vignette Update] tool](../../c-vat-gs/c-vat-prep-img-dyn-rend/c-vat-img-rend-sys/c-vat-abt-vign-update-tool.md#concept-61c09096c9384766b30097c814780780). 
+**About:** Displays information about your copy of [!DNL Image Authoring], including version number, build date, vignette file version, and license information. You may need to check the vignette file version when you use the [ [!DNL Vignette Update] tool](../../c-vat-gs/c-vat-prep-img-dyn-rend/c-vat-img-rend-sys/c-vat-abt-vign-update-tool.md#concept-61c09096c9384766b30097c814780780). 

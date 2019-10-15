@@ -14,7 +14,7 @@ Use the Color Balance dialog box to adjust individual colors.
 
 All instructions are for [!DNL Photoshop].
 
-** To Adjust Color Balance:** 
+**To Adjust Color Balance:** 
 
 1. From the [!DNL Select] menu, choose **[!UICONTROL All]**.
 1. From the [!DNL Image] menu, choose **[!UICONTROL Adjust]** > **[!UICONTROL Color Balance]**.

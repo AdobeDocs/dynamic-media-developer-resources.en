@@ -22,8 +22,8 @@ The [!DNL Object Properties] dialog box for the unmasked area has these tabs:
 
 ## Mask {#section-3ee4a9dcdf2840049b358f921e27baa5}
 
-** Offset:** The x,y values for the top left corner of the bounding rectangle of the unmasked area relative to the top left corner of the image. If you haven't defined a mask for this area, the values for the mask offset are the full width of the vignette.
+**Offset:** The x,y values for the top left corner of the bounding rectangle of the unmasked area relative to the top left corner of the image. If you haven't defined a mask for this area, the values for the mask offset are the full width of the vignette.
 
 **Show:** Creates a view of the mask for this object in a separate window. You can save this view at its actual size using the [!DNL Save As] command. This is a read-only view, so you can't edit it.
 
-** Export:** Saves the mask image at the same size as the full image, filling in the area around the mask with black. You can export in [!DNL .PNG] format only. 
+**Export:** Saves the mask image at the same size as the full image, filling in the area around the mask with black. You can export in [!DNL .PNG] format only. 

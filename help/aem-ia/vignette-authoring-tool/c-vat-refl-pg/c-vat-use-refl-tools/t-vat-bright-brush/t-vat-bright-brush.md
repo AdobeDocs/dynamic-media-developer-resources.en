@@ -12,7 +12,7 @@ uuid: 2bf49ac3-ee3a-4bbc-9612-c091e2836b74
 
 After you have generated the Reflection Map and corrected the Alpha for your reflections, use this tool to increase or decrease the reflection effect in a particular area of the image.
 
- ** To Increase or Decrease the Alpha Intensity for an Object or Group:** 
+ **To Increase or Decrease the Alpha Intensity for an Object or Group:** 
 
 1. Select an object or a group.
 
@@ -26,5 +26,5 @@ You can set the following options for the [!DNL Brightness Brush]:
 * **Darken/Brighten Slider:** Drag the slider to adjust between darkness and brightness. 
 * **Apply to Whole Object:** Applies your changes to the entire object or group that is currently selected. 
 * **Brush Size:** Determines the size for the brush. 
-* ** Brush Edge:** Determines the sharpness for the brush.
+* **Brush Edge:** Determines the sharpness for the brush.
 

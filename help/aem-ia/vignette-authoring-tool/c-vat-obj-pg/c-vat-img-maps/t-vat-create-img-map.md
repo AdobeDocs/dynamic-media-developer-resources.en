@@ -18,7 +18,7 @@ If you plan to implement image maps, you can [generate one automatically](../../
 
 Do not completely enclose any area on the image map if that area contains another object. Doing so prevents the interior object from being rendered. For example, if you draw a complete rectangle around a tabletop in your image map, any objects that are fully within that rectangle won't render.
 
-** To Create an Image Map:** 
+**To Create an Image Map:** 
 
 1. Create your [groups](../../c-vat-obj-pg/c-vat-create-grps-obj/t-vat-create-grps.md#task-1c2ae5cfaf3a4c51b153eea44dc3d099), sub-groups, and [objects](../../c-vat-obj-pg/c-vat-create-grps-obj/t-vat-create-2d-obj.md#task-b0c168d6f127408c882e8f1de36c8bc7).
 1. [Add masks](../../c-vat-work-mask-pg/c-vat-create-mask/t-vat-add-mask.md#task-f8d4ae100d834ace9f90f7f260bf15aa) for the objects.

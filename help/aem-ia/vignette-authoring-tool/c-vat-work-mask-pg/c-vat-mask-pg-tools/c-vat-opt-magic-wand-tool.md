@@ -31,7 +31,7 @@ You can use Hue and Lightness Tolerance instead of RGB and Tolerance. Hue and Li
 ![](assets/hue_mode.png)
 
 * **Edge Feather:** Drag the slider to the left to make the edge of the mask sharper. Drag the slider to the right to make the edge more diffuse. 
-* ** Despeckle:** If an object contains a wide range of brightness values, move this slider to the right for a more consistent mask. For example, use this setting to smooth a rough surface. 
+* **Despeckle:** If an object contains a wide range of brightness values, move this slider to the right for a more consistent mask. For example, use this setting to smooth a rough surface. 
 * **Delete Stroke:** Removes the mask you just applied. You cannot use this to remove a mask after it has been applied.
 
 >[!MORE_LIKE_THIS]
