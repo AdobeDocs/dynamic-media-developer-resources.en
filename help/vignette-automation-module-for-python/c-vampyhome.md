@@ -10,7 +10,7 @@ uuid: adb07726-7daf-460d-b775-ffcf524d165a
 
 The Vignette Automation Module (s7vampy) extends Python 2.7.3 with the ability to write scripts to automate the creation, modification, and inspection of vignettes.
 
- s7vampy automates the creation of vignettes using available masks, uv texture data, and illumination.
+s7vampy automates the creation of vignettes using available masks, uv texture data, and illumination.
 
 s7vampy allows scripts to create new vignettes, add or modify global and local illumination maps, and build an object hierarchy with static objects, non-texturable objects, surface objects, flat objects, and overlapping objects.
 
