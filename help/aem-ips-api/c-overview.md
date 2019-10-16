@@ -1,16 +1,16 @@
 ---
-description: The Scene7 IPS (Image Production System) Web Service API enables external applications and third-party developers to programmatically access IPS assets and functionality.
-seo-description: The Scene7 IPS (Image Production System) Web Service API enables external applications and third-party developers to programmatically access IPS assets and functionality.
-seo-title: About Scene7 Image Production System API
+description: The IPS (Image Production System) Web Service API enables external applications and third-party developers to programmatically access IPS assets and functionality.
+seo-description: The IPS (Image Production System) Web Service API enables external applications and third-party developers to programmatically access IPS assets and functionality.
+seo-title: About Image Production System API
 solution: Experience Manager
-title: About Scene7 Image Production System API
-topic: Scene7 Image Production System API
+title: About Image Production System API
+topic: Image Production System API
 uuid: 22f5a601-165a-4dc2-b545-2aa1d6f5a370
 ---
 
-# About Scene7 Image Production System API{#about-scene-image-production-system-api}
+# About Image Production System API{#about-scene-image-production-system-api}
 
-The Scene7 IPS (Image Production System) Web Service API enables external applications and third-party developers to programmatically access IPS assets and functionality.
+The IPS (Image Production System) Web Service API enables external applications and third-party developers to programmatically access IPS assets and functionality.
 
  This reference guide contains and defines all the services, methods, and data types used by the IPS Web Service API. It has been specifically tested for compatibility with Java (using the Apache Axis2 library), Adobe Flex, and Microsoft .NET.
 
