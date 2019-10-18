@@ -15,3 +15,5 @@ seo-description: Adobe Dynamic Media developer resource guides for viewers, imag
     Vignette Automation Module for Python{#vignette}
     + [Vignette Automation Module for Python](/help/vignette-automation-module-for-python/c-vampyhome.md)
 + [Dynamic Media Classic Release Notes](/help/s7-release-notes/home.md)
+
+<!--This TOC may not be necessary. Not sure, so leaving it in.>
