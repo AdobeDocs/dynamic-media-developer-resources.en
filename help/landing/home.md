@@ -15,7 +15,7 @@ Documentation about IS (Image Serving) and IR (Image Rendering) APIs, and relate
 The IPS (Image Production System) Web Service API enables external applications and third-party developers to programmatically access IPS assets and functionality.
 * [Dynamic Media Classic Release Notes](/help/s7-release-notes/home.md)
 The latest release notes for [!DNL Adobe Dynamic Media Classic]-part of the [!DNL Adobe Experience Manager] solution in the [!DNL Adobe Experience Cloud].
-* [Image Authoring Home](/help/aem-ia/aem-ia-home.md)
+* [Image Authoring Guides](/help/aem-ia/aem-ia-home.md)
 Includes resources for using the Vignette Authoring Tool, the Vignette Update Tool, the Material Repeat Tool, the Content Authoring Tool, and the Vignette Automation Module for Python.
 * [Vignette Automation Module for Python](/help/vignette-automation-module-for-python/c-vampyhome.md)
 The Vignette Automation Module (s7vampy) extends Python 2.7.3 with the ability to write scripts to automate the creation, modification, and inspection of vignettes.
