@@ -22,7 +22,7 @@ Copying an object also duplicates its mask. Since two objects cannot exist at th
 1. Click the **[!UICONTROL Mask Page]** button ![](assets/mask.png) and [mask the new object](../../c-vat-work-mask-pg/c-vat-create-mask/t-vat-chg-exist-masks.md#task-4ac1ad631df546ea922b0329c7886266), making sure it does not conflict with existing masks.
 1. In the side menu on the [!DNL Mask] page, click the **[!UICONTROL Resync]** button.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Changing an Object's Type](../../c-vat-obj-pg/c-vat-work-obj/t-vat-chg-obj-type.md#task-ce743f3c8ab74682abd1841e340a9e66)
 >* [Creating and Editing Groups](../../c-vat-obj-pg/c-vat-create-grps-obj/t-vat-create-grps.md#task-1c2ae5cfaf3a4c51b153eea44dc3d099)

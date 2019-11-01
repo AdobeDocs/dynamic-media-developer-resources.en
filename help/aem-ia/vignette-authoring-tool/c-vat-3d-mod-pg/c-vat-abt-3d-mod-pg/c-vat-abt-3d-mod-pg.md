@@ -34,7 +34,7 @@ The right side of your screen displays the [!DNL 3D Modeling] tool buttons.
 
 The window at the bottom of the screen is a miniature view of the entire vignette, which you can zoom and pan independent of the main view. Right-click this window to see a menu of options. 
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [About the 3D Modeling Page](../../c-vat-3d-mod-pg/c-vat-abt-3d-mod-pg/c-vat-abt-3d-mod-pg.md#concept-93553c563c534d839a5cf0f2aafa70ee)
 >* [Navigating in the 3D Modeling Page](../../c-vat-3d-mod-pg/c-vat-abt-3d-mod-pg/r-vat-nav-3d-mod-pg.md#reference-897e38ea1865404e849c216391306c36)

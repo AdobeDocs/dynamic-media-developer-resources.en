@@ -22,7 +22,7 @@ To see examples of how to use this tool, see the following:
 * [Setting perspective for a wall](../../../c-vat-obj-pg/c-vat-obj-pg-tools/c-vat-edit-mod-tool/r-vat-persp-wall-mod-tool.md#reference-0677e5457d4648149d5238eac7dc8f67) 
 * [Sizing wallpaper](../../../c-vat-obj-pg/c-vat-obj-pg-tools/c-vat-edit-mod-tool/r-vat-size-wallpaper.md#reference-a5398026ccd4446f91a8e2e3976a8d3b)
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Changing Texture Material Properties](../../../c-vat-rend-pg/c-vat-work-text/c-vat-text-mat-prop/c-vat-text-mat-prop.md#concept-56e919cfd48748169dc2f011aa95c5fd)
 >* [Changing the Texture Size for Flowline Objects](../../../c-vat-flow-pg/c-vat-test-flow-work/t-vat-text-size-flow-obj.md#task-3a9936d1b9c84c238b4e120d1d92a6d9)

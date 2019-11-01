@@ -18,7 +18,7 @@ You can use the [!DNL Layout] tool to do any of the following:
 * [Define individual parts of flat objects, walls, cabinets, or doors.](../../../c-vat-obj-pg/c-vat-obj-pg-tools/c-vat-layout-tool/t-vat-def-cab-door.md#task-ec5f1cd1c65c4c2dbb65add62516b8ad) 
 * [Change the anchor point for a decal.](../../../c-vat-obj-pg/c-vat-obj-pg-tools/c-vat-layout-tool/t-vat-chg-anchor-pt.md#task-cb8a0e9f062f4bfbb4fb730d08f86ddb)
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Applying a Decal](../../../c-vat-rend-pg/c-vat-rend-obj/c-vat-decals/t-vat-app-decal.md#task-16ff67be05f84b06b4c0caf73ff01f83)
 >* [Cabinet Object Properties](../../../c-vat-obj-pg/c-vat-abt-obj-prop/c-vat-cab-obj-prop.md#concept-796fd9e592424764b7e5526c37f57cf4)

@@ -18,7 +18,7 @@ The IPS (Image Production System) Web Service API enables external applications 
 
 The IPS API uses standard SOAP and HTTP protocols and is compatible with any client that conforms to these standards. Additional testing helps ensure the API is compatible with Java (using the Apache Axis2 library), Adobe Flex, and Microsoft .NET. 
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [IPS Web Service WSDL Versions](c-wsdl-versions.md#concept-aff3e13f3b59486882260b5f2e962226)
 >* [Operations Methods](operations/c-operations-intro/c-methods/c-methods.md) 

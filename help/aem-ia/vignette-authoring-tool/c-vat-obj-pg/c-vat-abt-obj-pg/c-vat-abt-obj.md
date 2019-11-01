@@ -26,7 +26,7 @@ You can convert an object to an [overlap object type](../../c-vat-obj-pg/c-vat-c
 
 You can create a special type of overlap object called a [highlight matte object](../../c-vat-work-mask-pg/c-vat-create-mask/t-vat-high-matte-obj.md#task-a999ee1887384d16ba39dc763ed0c774). This object lets you create an illumination map for glossy materials, such as metallic finishes or patent leather. It is intended for use in vignettes that show individual product shots, and not room scenes. Once you have a highlight matte object, you use tools on the [!DNL Mask] page and the [!DNL Illumination] page to create the highlights. 
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Changing an Object's Type](../../c-vat-obj-pg/c-vat-work-obj/t-vat-chg-obj-type.md#task-ce743f3c8ab74682abd1841e340a9e66)
 >* [Copying an Object](../../c-vat-obj-pg/c-vat-work-obj/t-vat-copy-obj.md#task-0b0582d7480a4d6991278ecb688c7823)

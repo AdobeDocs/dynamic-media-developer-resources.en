@@ -86,6 +86,6 @@ The `unsharpMaskOptions` type is used by:
 * [UploadPostJob](../../types/c-data-types/r-upload-post-job.md#reference-bca2339b593f4637a687c33937215ef4)
 * [UploadUrlsJob](../../types/c-data-types/r-upload-urls-job.md#reference-8e9bc895268c4321b233dbeadc990398)
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Image Serving API Reference: op_usm](https://marketing.adobe.com/resources/help/en_US/s7/is_ir_api/is_api/http_ref/r_op_usm.html)

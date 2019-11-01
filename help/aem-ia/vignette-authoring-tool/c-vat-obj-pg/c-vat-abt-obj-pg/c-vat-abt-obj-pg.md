@@ -41,7 +41,7 @@ Objects in the [!DNL Object Explorer] are color-coded:
 
 You'll use the [!DNL Object] page to create an [!DNL Object Explorer] entry for each object in your vignette. You start by [creating the groups](../../c-vat-obj-pg/c-vat-create-grps-obj/t-vat-create-grps.md#task-1c2ae5cfaf3a4c51b153eea44dc3d099) into which your objects are organized. 
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [About Objects](../../c-vat-obj-pg/c-vat-abt-obj-pg/c-vat-abt-obj.md#concept-e4110bef9eae44b28c609b4444802753)
 >* [Changing an Object's Type](../../c-vat-obj-pg/c-vat-work-obj/t-vat-chg-obj-type.md#task-ce743f3c8ab74682abd1841e340a9e66)

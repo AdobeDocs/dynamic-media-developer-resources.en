@@ -34,7 +34,7 @@ A decal is any single-repeat, flat object that appears on top of another object.
 
    The decal is centered on the texture origin.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Changing a Decal's Properties](../../../c-vat-rend-pg/c-vat-rend-obj/c-vat-decals/t-vat-decal-prop.md#task-287527f44dbe405285fb2f55af65107b)
 >* [The Decal Tool](../../../c-vat-rend-pg/c-vat-rend-tools/c-vat-decal-tool.md#concept-359ac0b7c4ee42ddb104f9d12c01d596)

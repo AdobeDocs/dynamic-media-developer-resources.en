@@ -23,7 +23,7 @@ After you delete an object, you must Resync the vignette to adjust mask values a
 1. Click the **[!UICONTROL Mask Page]** button ![](assets/mask.png).
 1. In the side menu on the [!DNL Mask] page, click the **[!UICONTROL Resync]** button.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [About Objects](../../c-vat-obj-pg/c-vat-abt-obj-pg/c-vat-abt-obj.md#concept-e4110bef9eae44b28c609b4444802753)
 >* [Changing an Object's Type](../../c-vat-obj-pg/c-vat-work-obj/t-vat-chg-obj-type.md#task-ce743f3c8ab74682abd1841e340a9e66)

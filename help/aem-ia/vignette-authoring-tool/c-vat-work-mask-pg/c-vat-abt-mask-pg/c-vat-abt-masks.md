@@ -24,7 +24,7 @@ Here is the whole chair with a mask applied:
 
 ![](assets/chair_whole.png)
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [About the Mask Page](../../c-vat-work-mask-pg/c-vat-abt-mask-pg/c-vat-abt-mask-pg.md#concept-1056cf790a8c41a1b1f8d586b2e85c6b)
 >* [About Vertexes](../../c-vat-work-mask-pg/c-vat-abt-mask-pg/c-vat-abt-vert.md#concept-3e9b8012386b42be8e00c1a93f9a1af6)

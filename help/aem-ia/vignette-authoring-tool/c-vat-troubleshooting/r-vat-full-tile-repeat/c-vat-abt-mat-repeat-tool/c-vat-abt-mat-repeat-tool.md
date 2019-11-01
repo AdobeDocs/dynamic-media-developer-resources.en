@@ -20,7 +20,7 @@ If you have [!DNL Photoshop], the [!DNL Material Repeat] tool is installed when 
 
 The [!DNL Material Repeat] tool has its own [!DNL Zoom In] and [!DNL Zoom Out] buttons to control its display. You can [change some aspects](../../../c-vat-troubleshooting/r-vat-full-tile-repeat/c-vat-abt-mat-repeat-tool/t-vat-chg-mat-repeat-tool-opts.md#task-dce9301fd1284562a754c5a5c8aeaf53) of the appearance and behavior of the tool. 
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Changing Material Repeat Tool Options](../../../c-vat-troubleshooting/r-vat-full-tile-repeat/c-vat-abt-mat-repeat-tool/t-vat-chg-mat-repeat-tool-opts.md#task-dce9301fd1284562a754c5a5c8aeaf53)
 >* [Identifying the Full Repeat](../../../c-vat-troubleshooting/r-vat-full-tile-repeat/c-vat-id-full-repeat.md#concept-13b763f20ca04bc8a289e4e379ecdeb2)

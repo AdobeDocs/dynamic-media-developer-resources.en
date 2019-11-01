@@ -32,7 +32,7 @@ A manually lit studio does not have a perfect flow of light throughout the image
 
 After you create the image and [identify](../../c-vat-troubleshooting/r-vat-full-tile-repeat/c-vat-id-full-repeat.md#concept-13b763f20ca04bc8a289e4e379ecdeb2) the repeat, you can retouch the image using the [ [!DNL Material Repeat] tool](../../c-vat-troubleshooting/r-vat-full-tile-repeat/c-vat-abt-mat-repeat-tool/c-vat-abt-mat-repeat-tool.md#concept-373c7b1f8aba4fd797271bfc3a76a0dc). 
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Identifying the Full Repeat](../../c-vat-troubleshooting/r-vat-full-tile-repeat/c-vat-id-full-repeat.md#concept-13b763f20ca04bc8a289e4e379ecdeb2)
 >* [Scanning the Pattern for the Full Repeat](../../c-vat-troubleshooting/r-vat-full-tile-repeat/c-vat-full-repeat-patt.md#concept-e060f8a792a84e65996fafca989ee147)

@@ -29,7 +29,7 @@ Do not completely enclose any area on the image map if that area contains anothe
 
    You must select a *group* and not an *object*.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Editing an Image Map](../../c-vat-obj-pg/c-vat-img-maps/t-vat-edit-img-map.md#task-c36b75f043b3402da9caf6062f8231ba)
 >* [Exporting an Image Map](../../c-vat-obj-pg/c-vat-img-maps/t-vat-exp-img-map.md#task-15fc6689062e49b098a698d6621a793b)

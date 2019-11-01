@@ -46,7 +46,7 @@ The outline disappears and the mask is saved. If you accidentally mask an area o
 
 If you are creating a [3D vignette](../../c-vat-3d-mod-pg/c-vat-3d-mod-pg.md#concept-3d6fa9b887b84a0c9bfa8354eaa72d81), and there are no [flowline objects](../../r-vat-glossary/c-vat-flowlines.md#concept-d867eba5b7174357a0882dbec8183d9d) in it, [create a [!DNL Reflection Map]](../../c-vat-refl-pg/t-vat-create-refl-map.md#task-d9fd1e5c60df440098920cc955b279c6) before rendering the vignette. 
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [About Vertexes](../../c-vat-work-mask-pg/c-vat-abt-mask-pg/c-vat-abt-vert.md#concept-3e9b8012386b42be8e00c1a93f9a1af6)
 >* [Questions About the Mask Page](../../c-vat-troubleshooting/r-vat-quest-mask-pg.md#reference-80a4f3d54a6540ed94a939ef2ab7451e)

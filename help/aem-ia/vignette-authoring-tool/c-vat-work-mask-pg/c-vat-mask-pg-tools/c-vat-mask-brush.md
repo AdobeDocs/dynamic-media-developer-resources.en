@@ -38,7 +38,7 @@ When you move the opacity slider below 100%, you cannot use the Add and Subtract
 
 * Drag the [!DNL Brush Edge] slider to the right for a sharper edge or to the left for a fuzzier edge.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [About Mask Options](../../c-vat-work-mask-pg/c-vat-abt-mask-pg/c-vat-abt-mask-opt/c-vat-abt-mask-opt.md#concept-1fe40cc1ab864090b95434d610ee5e70)
 >* [About the Mask Page](../../c-vat-work-mask-pg/c-vat-abt-mask-pg/c-vat-abt-mask-pg.md#concept-1056cf790a8c41a1b1f8d586b2e85c6b)

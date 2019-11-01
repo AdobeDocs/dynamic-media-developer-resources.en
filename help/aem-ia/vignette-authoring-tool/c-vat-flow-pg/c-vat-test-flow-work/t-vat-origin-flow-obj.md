@@ -28,7 +28,7 @@ For upholstery with a strong pattern, you can use the continuous origin or other
 
    You can also set any of the origins by typing values into the [!DNL Origin] boxes in the side menu. The location of the origin changes when you [match textures on adjacent objects](../../c-vat-flow-pg/c-vat-test-flow-work/t-vat-match-text.md#task-568d59da3f7e48838669b17fe96fbed0).
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [About the Origin](../../c-vat-rend-pg/c-vat-work-text/c-vat-abt-origin.md#concept-643d030b62fd42a5bf3ce4e4ab9a3a47)
 >* [Matching Up Textures on Adjacent Flowline Objects](../../c-vat-flow-pg/c-vat-test-flow-work/t-vat-match-text.md#task-568d59da3f7e48838669b17fe96fbed0)

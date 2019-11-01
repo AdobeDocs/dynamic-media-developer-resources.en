@@ -29,7 +29,7 @@ You can resize a vignette more than once, but resizing multiple times reduces th
 
    You may also want to [change your view](../c-vat-img-auth-opt/r-vat-adj-view.md#reference-f6eb81272bdc4a78b414004acc293a2f) as you work on your vignette.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Changing the Color of the Image Workspace](../c-vat-img-auth-opt/t-vat-chg-color-img-worksp.md#task-41ef4be3658349028871075e77b22457)
 >* [Changing the Zoom Increment](../c-vat-img-auth-opt/t-vat-zoom-increm.md#task-6f84cdfe4629446596ce54d4c6f8f3ef)

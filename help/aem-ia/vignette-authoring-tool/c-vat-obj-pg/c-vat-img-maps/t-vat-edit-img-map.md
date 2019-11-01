@@ -34,7 +34,7 @@ Do not completely enclose any area on the image map if that area contains anothe
     * To delete a polygon in the group, right-click the selected polygon and choose **[!UICONTROL Delete Selected Polygon]**. If the group contains many small polygons, you may want to delete all but one, then stretch that one to cover the entire group area. 
     * Right-click a vertex on the polygon and choose **[!UICONTROL Delete Vertex]** or **[!UICONTROL Delete Vertex in Opposite Direction]**. The vertex to the left or right of the one you clicked is deleted.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Creating an Image Map](../../c-vat-obj-pg/c-vat-img-maps/t-vat-create-img-map.md#task-a6fa69cb34ce4244ab31940c4de08f59)
 >* [Exporting an Image Map](../../c-vat-obj-pg/c-vat-img-maps/t-vat-exp-img-map.md#task-15fc6689062e49b098a698d6621a793b)

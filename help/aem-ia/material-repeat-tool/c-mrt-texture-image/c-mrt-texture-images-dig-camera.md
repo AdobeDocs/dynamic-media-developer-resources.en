@@ -33,7 +33,7 @@ Retouch in image production.
 
 After you create the image and [identify](../c-mrt-texture-image/c-mrt-full-repeat.md#concept-bb0ff94732be439db3af682ca876a1f8) the repeat, you can retouch the image using the [ [!DNL Material Repeat] tool](../c-mrt-using-mrt/c-mrt-about-mrt.md#concept-0ab31373d62047b89a37ab197964bcc6). 
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Identifying the Full Repeat](../c-mrt-texture-image/c-mrt-full-repeat.md#concept-bb0ff94732be439db3af682ca876a1f8)
 >* [Scanning the Pattern for the Full Repeat](../c-mrt-texture-image/c-mrt-pattern-full-repeat.md#concept-f7a4e82c3378466cba9d2760047ab3a8)

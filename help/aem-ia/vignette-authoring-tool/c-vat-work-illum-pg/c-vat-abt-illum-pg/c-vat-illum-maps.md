@@ -20,7 +20,7 @@ If you have created an illumination profile using the [!DNL Curves] tool in [!DN
 
 If certain materials require different illumination than others, you can use [ [!DNL Render] settings](../../c-vat-rend-pg/c-vat-work-text/c-vat-text-mat-prop/c-vat-render.md#concept-c2c8c5e35662417c9508f85b52b24960) to change illumination options for rendering only, without affecting the [!DNL Illumination Map]. 
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Editing an Illumination Map in Photoshop](../../c-vat-work-illum-pg/c-vat-work-illum-maps/t-vat-illum-map-ps.md#task-6cc4c3a18c544a6f815dd63932fd9172)
 >* [Creating an Illumination Map with Image Authoring](../../c-vat-work-illum-pg/c-vat-work-illum-maps/t-vat-illum-map-img-auth.md#task-0342a45d98cd456aa4e7cbff6a46ca47)

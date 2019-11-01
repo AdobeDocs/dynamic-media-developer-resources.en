@@ -50,7 +50,7 @@ To create geometry successfully, complete the following steps, in order:
 * [Defining Scale for 3D Images](../../c-vat-3d-mod-pg/c-vat-create-geo/t-vat-def-3d-scale.md#task-7938e8b9590543a78d48b678d2d26ba9) 
 * [Importing Geometry](../../c-vat-obj-pg/c-vat-abt-obj-pg/t-vat-imp-geo.md#task-a6681c3260ee4a57a177366095981ddc)
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [About Geometry](../../c-vat-3d-mod-pg/c-vat-create-geo/c-vat-abt-geo.md#concept-5d07c29f27834afe8e46852c7c71db9c)
 >* [About Perspective, Scene Directions, and Vanishing Points](../../c-vat-3d-mod-pg/c-vat-create-geo/c-vat-persp-van-pts.md#concept-b8d51c1a3fb647eaa61f7a3e0db5085e)

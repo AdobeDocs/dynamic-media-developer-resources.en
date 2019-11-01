@@ -41,7 +41,7 @@ Complete your [!DNL Flowline Mesh] work before you flow textures across objects.
 
    If you need to make major adjustments to the [!DNL Flowline Mesh] for these objects, you need to go through these procedures again. Minor adjustments should not cause problems.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [About the Origin](../../c-vat-rend-pg/c-vat-work-text/c-vat-abt-origin.md#concept-643d030b62fd42a5bf3ce4e4ab9a3a47)
 >* [Changing the Origin for Flowline Objects](../../c-vat-flow-pg/c-vat-test-flow-work/t-vat-origin-flow-obj.md#task-ad68986712984d8098243e0d0373380b)

@@ -20,7 +20,7 @@ The [!DNL Illumination] page has three image display options:
 
 **Render:** Displays the results of applying different materials. 
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [About Illumination Options](../../c-vat-work-illum-pg/c-vat-abt-illum-pg/c-vat-illum-opt.md#concept-02c61032870a42869f783f4559e287e5)
 >* [About the Illumination Page](../../c-vat-work-illum-pg/c-vat-abt-illum-pg/c-vat-abt-illum-pg.md#concept-1be06b3c0416437088e7cbbba48b3e5f)

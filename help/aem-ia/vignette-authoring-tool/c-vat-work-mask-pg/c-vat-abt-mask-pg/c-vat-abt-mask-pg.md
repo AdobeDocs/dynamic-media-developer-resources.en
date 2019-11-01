@@ -39,7 +39,7 @@ The options are available for all three tools.
 * **Mask Color:** The box that initially displays a blue color is the color for any mask you add. You can change the mask color to another color. 
 * **Slider:** The mask color is translucent by default. The color is noticeable, but you can still see the detail of the object. You can change the translucence by dragging the slider.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [About Masks](../../c-vat-work-mask-pg/c-vat-abt-mask-pg/c-vat-abt-masks.md#concept-a6a98ac87e014364bd4a7347de69b033)
 >* [Adding a Mask](../../c-vat-work-mask-pg/c-vat-create-mask/t-vat-add-mask.md#task-f8d4ae100d834ace9f90f7f260bf15aa)

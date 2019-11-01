@@ -20,7 +20,7 @@ After you create an object, you can change its type if it needs properties that 
 
    If you convert an object to an [overlap object type](../../c-vat-obj-pg/c-vat-abt-obj-pg/c-vat-abt-obj.md#concept-e4110bef9eae44b28c609b4444802753), specify a z-order value for it.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [About Objects](../../c-vat-obj-pg/c-vat-abt-obj-pg/c-vat-abt-obj.md#concept-e4110bef9eae44b28c609b4444802753)
 >* [Copying an Object](../../c-vat-obj-pg/c-vat-work-obj/t-vat-copy-obj.md#task-0b0582d7480a4d6991278ecb688c7823)

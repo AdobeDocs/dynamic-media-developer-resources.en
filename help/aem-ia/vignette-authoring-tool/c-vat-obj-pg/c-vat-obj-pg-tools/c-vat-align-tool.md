@@ -48,7 +48,7 @@ The origin choices on the context menu for the [!DNL Alignment] tool are determi
 1. Ctrl-click the object.
 
 You can also right-click the object and choose a **[!UICONTROL Rotate]** command.  
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [About the Origin](../../c-vat-rend-pg/c-vat-work-text/c-vat-abt-origin.md#concept-643d030b62fd42a5bf3ce4e4ab9a3a47)
 >* [Changing the Texture Anchor Point](../../c-vat-rend-pg/c-vat-work-text/t-vat-text-anchor-pt.md#task-b74408a9bc9641a090d89e8966e4587b)

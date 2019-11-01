@@ -31,7 +31,7 @@ Use the [!DNL Edge] tab to [define the edges of a feature](../../c-vat-work-sket
 * **Display:** Adjusts the appearance of edges from opaque to transparent. 
 * **Recalc:** Displays the [!DNL Extract Edges from Image] dialog box, where you can set options for [defining default edges](../../c-vat-work-sketch-pg/r-vat-create-sketch-feat/t-vat-edge-recog-sketch.md#task-ba7dbbb14c084f7dbfe416f5aa5aff2b).
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [About the Sketch Page](../../c-vat-work-sketch-pg/c-vat-abt-sketch-pg/c-vat-abt-sketch-pg.md#concept-7e6bb452319c45ea9663920dd2f06d85)
 >* [Creating a Feature](../../c-vat-work-sketch-pg/r-vat-create-sketch-feat/t-vat-create-feat.md#task-c4fd7e414a9445a49b4c2a3cf7425481)
