@@ -20,7 +20,7 @@ If you have [!DNL Photoshop], the [!DNL Material Repeat] tool is installed when 
 
 The [!DNL Material Repeat] tool has its own **[!UICONTROL Zoom In]** and **[!UICONTROL Zoom Out]** buttons to control its display. You can [change some aspects](../c-mrt-using-mrt/t-mrt-changing-mrt-options.md#task-5902897eb7d04660822df27d2e24c0d8) of the appearance and behavior of the tool. 
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Changing Material Repeat Tool Options](../c-mrt-using-mrt/t-mrt-changing-mrt-options.md#task-5902897eb7d04660822df27d2e24c0d8)
 >* [Identifying the Full Repeat](../c-mrt-texture-image/c-mrt-full-repeat.md#concept-bb0ff94732be439db3af682ca876a1f8)

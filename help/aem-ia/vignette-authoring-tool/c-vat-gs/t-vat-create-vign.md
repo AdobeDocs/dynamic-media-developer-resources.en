@@ -49,7 +49,7 @@ Once you have prepared your image, bring it into Image Authoring by creating a v
 1. Name your view image and set any [default resolution and render settings](../c-vat-obj-pg/c-vat-abt-obj-prop/c-vat-view-prop.md#concept-8a396f7b144c46c4806c8ed26619eed1).
 1. Click **[!UICONTROL OK]**.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Changing the Size of a Vignette](../c-vat-gs/t-vat-change-vign-size.md#task-b15e609cb728471da84df99c9878f80b)
 >* [Saving Your Work](../c-vat-gs/c-vat-save-work.md#concept-53c6bb778cb949b082477c42839a60f2)

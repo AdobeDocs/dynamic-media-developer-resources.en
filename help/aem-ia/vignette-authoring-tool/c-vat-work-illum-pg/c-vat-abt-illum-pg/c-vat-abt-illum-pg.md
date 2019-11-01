@@ -23,7 +23,7 @@ The right side of your screen displays the [!DNL Illumination] tool buttons. Cli
 
 ![](assets/illumination_tool.png)
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [About Illumination Maps](../../c-vat-work-illum-pg/c-vat-abt-illum-pg/c-vat-illum-maps.md#concept-3243a49c92dd4491947481d339d12f3f)
 >* [Editing an Illumination Map in Photoshop](../../c-vat-work-illum-pg/c-vat-work-illum-maps/t-vat-illum-map-ps.md#task-6cc4c3a18c544a6f815dd63932fd9172)

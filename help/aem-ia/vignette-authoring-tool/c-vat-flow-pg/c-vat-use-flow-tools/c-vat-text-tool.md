@@ -35,7 +35,7 @@ Shows or hides a green dashed line crossed with a purple dashed line. You can se
 * **Redistribute**
 Evenly distributes the texture across the entire [!DNL Flowline Mesh]. If changes to the [!DNL Flowline Mesh] cause the texture to render oddly, use this button to clean up the display.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [About the Origin](../../c-vat-rend-pg/c-vat-work-text/c-vat-abt-origin.md#concept-643d030b62fd42a5bf3ce4e4ab9a3a47)
 >* [Flowline Page Preferences](../../c-vat-flow-pg/c-vat-abt-flow/c-vat-flow-pg-pref.md#concept-304fb083a8a0415991216916b427246e)

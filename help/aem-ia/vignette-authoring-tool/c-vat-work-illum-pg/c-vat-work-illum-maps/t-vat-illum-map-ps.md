@@ -38,7 +38,7 @@ An Illumination Map is created automatically by Image Authoring when you create 
 1. Choose the illumination file you saved in [!DNL Photoshop], then click **[!UICONTROL OK]**.
 You can also try using the [ [!DNL Edit Image in Photoshop]](../../c-vat-gs/c-vat-work-ps/t-vat-edit-vign-ps.md#task-cce73c014f5c4e81bdb5878d3067c809) button on the toolbar. 
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [About Illumination Maps](../../c-vat-work-illum-pg/c-vat-abt-illum-pg/c-vat-illum-maps.md#concept-3243a49c92dd4491947481d339d12f3f)
 >* [Editing a Vignette in Photoshop](../../c-vat-gs/c-vat-work-ps/t-vat-edit-vign-ps.md#task-cce73c014f5c4e81bdb5878d3067c809)

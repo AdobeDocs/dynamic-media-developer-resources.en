@@ -51,6 +51,6 @@ Assets maintain a separate marker for each publish state and context. Set the pu
  </tbody>
 </table>
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Publish Context](../../string-constants/c-string-constants/r-publish-context.md#reference-3ade116df0df40deb86154eb0ac7c12a)

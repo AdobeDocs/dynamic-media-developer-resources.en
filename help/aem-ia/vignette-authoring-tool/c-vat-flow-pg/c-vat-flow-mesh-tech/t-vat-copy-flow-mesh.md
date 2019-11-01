@@ -21,7 +21,7 @@ If one object in your image uses a Flowline Mesh that you can use for another pa
 1. If you need to, move the [!DNL Flowline Mesh] by placing the pointer inside it, holding down the Shift key, and dragging.
 1. Adjust the [!DNL Flowline Mesh] to match the new object.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Adding a Flowline to the Flowline Mesh](../../c-vat-flow-pg/c-vat-flow-mesh-tech/t-vat-add-flow-mesh.md#task-091c0660b0d54d1d90dce853541e3117)
 >* [Copying a Flowline](../../c-vat-flow-pg/c-vat-flow-mesh-tech/t-vat-copy-flow.md#task-613cdde502c94601a6395aa3f780b9db)

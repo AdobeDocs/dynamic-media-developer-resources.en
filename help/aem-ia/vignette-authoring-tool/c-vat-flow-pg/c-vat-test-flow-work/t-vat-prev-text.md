@@ -31,7 +31,7 @@ Before you apply a preview material, [set the texture anchor point](../../c-vat-
 
    You can change certain characteristics of the texture using the [ [!DNL Texture Material Properties] dialog box](../../c-vat-rend-pg/c-vat-work-text/c-vat-text-mat-prop/c-vat-text-mat-prop.md#concept-56e919cfd48748169dc2f011aa95c5fd).
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Changing Texture Material Properties](../../c-vat-rend-pg/c-vat-work-text/c-vat-text-mat-prop/c-vat-text-mat-prop.md#concept-56e919cfd48748169dc2f011aa95c5fd)
 >* [Correcting Color](../../c-vat-troubleshooting/r-vat-corr-color/r-vat-corr-color.md#reference-845cf6537e474053b516422f7666c78f)

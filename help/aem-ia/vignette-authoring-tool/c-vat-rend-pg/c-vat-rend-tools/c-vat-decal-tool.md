@@ -18,7 +18,7 @@ When you click the **[!UICONTROL Decal]** tool, the following options are availa
 
 * **Position:** Lets you [precisely position the decal relative to its object](../../c-vat-rend-pg/c-vat-rend-obj/c-vat-decals/t-vat-pos-decal.md#task-40af779cdb0b4643a06c135dc6aca2da).
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Applying a Decal](../../c-vat-rend-pg/c-vat-rend-obj/c-vat-decals/t-vat-app-decal.md#task-16ff67be05f84b06b4c0caf73ff01f83)
 >* [Changing a Decal's Properties](../../c-vat-rend-pg/c-vat-rend-obj/c-vat-decals/t-vat-decal-prop.md#task-287527f44dbe405285fb2f55af65107b)

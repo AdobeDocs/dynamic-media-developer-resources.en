@@ -34,7 +34,7 @@ If you plan to render some objects with simple, smooth textures only, such as he
 1. Click **[!UICONTROL OK]**.
 1. If you ever need to change the group properties you just set, right click the group in the [ [!DNL Object Explorer]](../../r-vat-glossary/c-vat-obj-explorer.md#concept-da56038ea82c40a1a10576f99f2f6836) and choose **[!UICONTROL Properties]**.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [About Sub-Groups](../../c-vat-obj-pg/c-vat-create-grps-obj/c-vat-abt-sub-grps.md#concept-bb725e89c8104e6ca2501ffadde6bfb2)
 >* [Creating 3D Objects](../../c-vat-obj-pg/c-vat-create-grps-obj/t-vat-create-3d-obj.md#task-adac1e1e26024993aa97ed6c7e87c084)

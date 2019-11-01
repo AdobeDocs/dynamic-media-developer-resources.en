@@ -46,7 +46,7 @@ If you need to change the object properties you just set, right-click the object
 
 Once you have created your hierarchy of groups and objects, use the [!DNL Mask] page to [define the object surfaces](../../c-vat-work-mask-pg/c-vat-create-mask/t-vat-add-mask.md#task-f8d4ae100d834ace9f90f7f260bf15aa). 
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [About Objects](../../c-vat-obj-pg/c-vat-abt-obj-pg/c-vat-abt-obj.md#concept-e4110bef9eae44b28c609b4444802753)
 >* [Changing an Object's Type](../../c-vat-obj-pg/c-vat-work-obj/t-vat-chg-obj-type.md#task-ce743f3c8ab74682abd1841e340a9e66)

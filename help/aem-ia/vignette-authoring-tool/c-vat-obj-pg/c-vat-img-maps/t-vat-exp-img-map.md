@@ -23,7 +23,7 @@ If you want to use the image map for another purpose, you can export the image m
 1. Right-click anywhere in the image and choose **[!UICONTROL Export Image Map]**.
 1. Specify a location and filename for the exported file, then click **[!UICONTROL Save]**.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Creating an Image Map](../../c-vat-obj-pg/c-vat-img-maps/t-vat-create-img-map.md#task-a6fa69cb34ce4244ab31940c4de08f59)
 >* [Editing an Image Map](../../c-vat-obj-pg/c-vat-img-maps/t-vat-edit-img-map.md#task-c36b75f043b3402da9caf6062f8231ba)

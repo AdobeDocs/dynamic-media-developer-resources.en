@@ -24,7 +24,7 @@ The Save command saves vignettes in the [!DNL .VNT] format. To save in a differe
 
 When you have saved the final versions of your vignettes, you can [prepare them for the image rendering system](../c-vat-gs/c-vat-prep-img-dyn-rend/c-vat-img-rend-sys/c-vat-abt-vign-update-tool.md#concept-61c09096c9384766b30097c814780780). 
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Exporting a Vignette to an Image File](../c-vat-vign-img-rend/t-vat-exp-vign-img-file.md#task-18c83bf6c1ff4c879fc87939835c3e44)
 >* [Exporting to IPS](../c-vat-vign-img-rend/t-vat-exp-ips.md#task-a3367d2830a544e99bca84633b7fee7d)

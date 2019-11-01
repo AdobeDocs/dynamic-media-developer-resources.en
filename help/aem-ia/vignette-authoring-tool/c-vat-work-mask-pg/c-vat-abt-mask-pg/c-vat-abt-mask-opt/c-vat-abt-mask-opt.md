@@ -20,7 +20,7 @@ The options at the bottom of the side window are always available.
 
 **Mask Color:** This option lets you change the color for any mask you add. By default, masks are blue. 
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [About the Mask Page](../../../c-vat-work-mask-pg/c-vat-abt-mask-pg/c-vat-abt-mask-pg.md#concept-1056cf790a8c41a1b1f8d586b2e85c6b)
 >* [Questions About the Mask Page](../../../c-vat-troubleshooting/r-vat-quest-mask-pg.md#reference-80a4f3d54a6540ed94a939ef2ab7451e)

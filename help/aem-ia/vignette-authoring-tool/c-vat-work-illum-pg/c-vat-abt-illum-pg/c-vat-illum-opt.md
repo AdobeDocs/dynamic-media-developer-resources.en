@@ -20,7 +20,7 @@ The options at the bottom of the side window are always available.
 
 **Preview:** Lets you preview the selected object or group with a [solid color](../../c-vat-rend-pg/c-vat-rend-obj/t-vat-rend-solid-color.md#task-e051bda9851e4c6fb7e33a38b6e47f0d) when Image is set to either [!DNL View] or [!DNL Render]. 
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [About Illumination Maps](../../c-vat-work-illum-pg/c-vat-abt-illum-pg/c-vat-illum-maps.md#concept-3243a49c92dd4491947481d339d12f3f)
 >* [Creating an Illumination Map with Image Authoring](../../c-vat-work-illum-pg/c-vat-work-illum-maps/t-vat-illum-map-img-auth.md#task-0342a45d98cd456aa4e7cbff6a46ca47)

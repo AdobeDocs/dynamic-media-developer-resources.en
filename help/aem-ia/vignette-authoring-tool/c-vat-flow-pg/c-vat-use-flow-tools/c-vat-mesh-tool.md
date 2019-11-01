@@ -28,7 +28,7 @@ Returns the [!DNL Flowline Depth] to its original setting for all flowlines.
 
 The right-click menu contains commands that let you choose different vertex types. [ [!DNL Make Selected Vertices Sharp] and [!DNL Make Selected Vertices Curved]](/help/aem-ia/vignette-authoring-tool/c-vat-work-illum-pg/c-vat-illum-pg-tools/c-vat-histo-curves-opt/t-vat-curves-opt.md) adjusts the tension of flowline vertexes. 
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Copying a Flowline Mesh](../../c-vat-flow-pg/c-vat-flow-mesh-tech/t-vat-copy-flow-mesh.md#task-c63e4b41b596469dab4b4ee17a3ae6a5)
 >* [Flowline Page Preferences](../../c-vat-flow-pg/c-vat-abt-flow/c-vat-flow-pg-pref.md#concept-304fb083a8a0415991216916b427246e)

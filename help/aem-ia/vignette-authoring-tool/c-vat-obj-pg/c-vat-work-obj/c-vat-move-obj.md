@@ -16,7 +16,7 @@ If you decide to make an object part of a different group, you can move it from 
 
 * In the [ [!DNL Object Explorer]](../../r-vat-glossary/c-vat-obj-explorer.md#concept-da56038ea82c40a1a10576f99f2f6836), drag the object name to the new location.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Changing an Object's Type](../../c-vat-obj-pg/c-vat-work-obj/t-vat-chg-obj-type.md#task-ce743f3c8ab74682abd1841e340a9e66)
 >* [Copying an Object](../../c-vat-obj-pg/c-vat-work-obj/t-vat-copy-obj.md#task-0b0582d7480a4d6991278ecb688c7823)

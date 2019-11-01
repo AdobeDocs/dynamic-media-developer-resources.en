@@ -23,7 +23,7 @@ Depending on complexity and expected use, typical image sizes might range from 8
 * Save your view image as 24-bit RGB in BMP, JPG, PNG, TGA, or TIF format. 
 * When creating texture images, make sure you create a [full-tile repeat](../c-vat-troubleshooting/r-vat-full-tile-repeat/r-vat-full-tile-repeat.md#reference-7dc916534a864b2d9a5d21ca31056b54).
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Correcting Color](../c-vat-troubleshooting/r-vat-corr-color/r-vat-corr-color.md#reference-845cf6537e474053b516422f7666c78f)
 >* [Overcoming Imperfections](../c-vat-troubleshooting/r-vat-imperfections/r-vat-imperfections.md#reference-b032b555641040a7a92cb4873c062459)

@@ -28,7 +28,7 @@ In the illustration below, the group Cabinets contains four sub-groups: wall cab
 
 ![](assets/cabinet_group.png)
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [About Objects](../../c-vat-obj-pg/c-vat-abt-obj-pg/c-vat-abt-obj.md#concept-e4110bef9eae44b28c609b4444802753)
 >* [Creating and Editing Groups](../../c-vat-obj-pg/c-vat-create-grps-obj/t-vat-create-grps.md#task-1c2ae5cfaf3a4c51b153eea44dc3d099)

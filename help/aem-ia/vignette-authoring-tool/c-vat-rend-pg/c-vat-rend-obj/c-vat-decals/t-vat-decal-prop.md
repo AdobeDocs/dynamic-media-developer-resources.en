@@ -55,7 +55,7 @@ If you have created a gloss map file, you can apply gloss to the alpha channel s
 1. Click the **[!UICONTROL Apply]** tab to change the angle or position of the decal. This is the same as [using the [!DNL Decal] tool](../../../c-vat-rend-pg/c-vat-rend-tools/c-vat-decal-tool.md#concept-359ac0b7c4ee42ddb104f9d12c01d596).
 1. Click the **[!UICONTROL Render]** tab to [change [!DNL Sharpen] and [!DNL Illumination] settings](../../../c-vat-rend-pg/c-vat-work-text/c-vat-text-mat-prop/c-vat-text-mat-prop.md#concept-56e919cfd48748169dc2f011aa95c5fd) for the decal.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Applying a Decal](../../../c-vat-rend-pg/c-vat-rend-obj/c-vat-decals/t-vat-app-decal.md#task-16ff67be05f84b06b4c0caf73ff01f83)
 >* [The Decal Tool](../../../c-vat-rend-pg/c-vat-rend-tools/c-vat-decal-tool.md#concept-359ac0b7c4ee42ddb104f9d12c01d596)
