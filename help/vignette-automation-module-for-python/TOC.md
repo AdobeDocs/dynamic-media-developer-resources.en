@@ -7,8 +7,8 @@ user-guide-title: Dynamic Media Vignette Automation Module for Python
 
 # Dynamic Media Vignette Automation Module for Python {#vignette-automation}
 
++ [Dynamic Media Developer Resources Home](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/landing/home.html)
 + [Dynamic Media Vignette Automation Module for Python](c-vampyhome.md)
-+ [Dynamic Media Developer Resources Home](/help/landing/home.md)
 + [Example Script](c-example-script.md)
 + Typical Script Workflow {#typical-script-workflow}
    + [Typical Script Workflow Overview](c-typical-script-workflow/c-typical-script-workflow.md)
