@@ -7,8 +7,8 @@ user-guide-title: Dynamic Media Classic Image Authoring Guide
 
 # Dynamic Media Classic Image Authoring Guide {#image-authoring}
 
++ [Dynamic Media Developer Resources Home](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/landing/home.html)
 + [Image Authoring Help Home](aem-ia-home.md)
-+ [Dynamic Media Developer Resources Home](/help/landing/home.md)
 + Vignette Authoring Tool {#vignette-authoring}
    + [About Vignette Authoring Tool](vignette-authoring-tool/c-vat-abt-img-auth.md)
    + Preparing Your Image {#prep-img}
