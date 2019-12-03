@@ -13,5 +13,5 @@ Customize Dynamic Media viewers for use on desktop and touchscreen devices. Some
 Documentation about IS (Image Serving) and IR (Image Rendering) APIs, and related technologies. If you work on Dynamic Media Classic integration with AEM, you should refer to the IS portion of the API.
 * [Image Production System API](/help/aem-ips-api/c-overview.md)
 The IPS (Image Production System) Web Service API enables external applications and third-party developers to programmatically access IPS assets and functionality.
-* [Dynamic Media Classic Release Notes](/help/s7-release-notes/home.md)
+* [Dynamic Media Classic Release Notes](/help/s7-release-notes/s7rn2017.md)
 The latest release notes for [!DNL Adobe Dynamic Media Classic]-part of the [!DNL Adobe Experience Manager] solution in the [!DNL Adobe Experience Cloud].
