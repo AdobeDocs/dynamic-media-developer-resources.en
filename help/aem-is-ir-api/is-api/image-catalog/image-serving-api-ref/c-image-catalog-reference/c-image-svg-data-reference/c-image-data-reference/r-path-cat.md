@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Path
+description: Image file path.
 solution: Experience Manager
 title: Path
 topic: Scene7 Image Serving - Image Rendering API
@@ -10,13 +8,26 @@ uuid: 0fca88bb-de00-4eff-83ad-c0f5e3b8ece0
 
 # Path{#path}
 
-## Section Title
+Image file path.
 
-## Section Title
+Relative or absolute path and name of the source image file associated with this catalog record. The server uses the path resolution rules described in Managing Source Data to find the data file.
 
-## Section Title
+## Properties {#path-properties}
 
-## Section Title
+Text string. Required for image records, may be empty for template records. If specified, it must be a valid relative or absolute Image Server file path. attribute::DefaultExt is appended if no file suffix is present.
 
-## Section Title
+## Supported Image File Formats {#path-supported-image-file-formats}
 
+Refer to the description of the Image Converter (IC) utility for a complete list of supported file formats.
+
+Applications that require image ata in multiple different resolutions will perform best when using the Dynamic Media pyramid TIFF (PTIFF) multi-resolution format. The IC utility is used to create PTIFF images from any supported image format.
+
+## Default {#path-default}
+
+None.
+
+## See also {#path-seealso}
+
+[IC Utility]() , [attribute::RootPath](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-rootpath.md) , [attribute;;DefaultExt](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-defaultext.md) , [src=](help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-src.md)
+
+<!-- [attribute::LowerCasePaths]() -->
