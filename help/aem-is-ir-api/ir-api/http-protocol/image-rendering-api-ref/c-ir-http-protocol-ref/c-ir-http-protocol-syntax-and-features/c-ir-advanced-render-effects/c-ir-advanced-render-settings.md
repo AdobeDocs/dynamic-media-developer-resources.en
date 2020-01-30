@@ -307,7 +307,8 @@ These settings are controlled interactively in Image Authoring. It is possible t
   <tr> 
    <td colname="col1"> <p>H60I30J10K200L400U1V10W100X0 </p> </td> 
    <td colname="col2"> <p>Default values in Image Authoring. 
-     <ul id="ul_AA7CF1A3E6984B318265BBE8FFFBB4EE"> 
+     <ul id="ul_AA7CF1A3E6984B318265BBE8FFFBB4EE">
+      <li> USM1
       <li id="li_8EC075956E2E4D5A91355122DC9BC938">H60 = Shadows for bright materials (50-100). </li> 
       <li id="li_F760B65E057146A7B56673D6B1A9A304">I30 = Highlights (0-100). </li> 
       <li id="li_376C275FDB3548958C09BD266C77318F">J10 = Highlights saturation (0-50). </li> 
@@ -375,6 +376,8 @@ These settings are controlled interactively in Image Authoring. It is possible t
  </tbody> 
 </table>
 
-provides a more precise Advanced Shader diffuse rendering pipeline.
+<!-- RB: I don't know why this is in here; it was added by someone else: 
+Alternate Shader Rendering (default on) checkbox provides a more precise Advanced Shader diffuse rendering pipeline. For a number of effects it also provides an alternate Advanced Shader rendering pipeline. Note that the underlying OpenGL hardware must provide support for the Advanced (Per-Pixel) GLSL Shaders for this option to be vailable; else this checkbox is automatically disabled. -->
 
-It should probably also go into the different renders - Render Effects and Alternate Shader - or link to descriptions of each. 
+<!-- RB: I don't know why this is in here; it was added by someone else:
+It should probably also go into the different renders - Render Effects and Alternate Shader - or link to descriptions of each. -->
