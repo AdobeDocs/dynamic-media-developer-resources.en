@@ -26,7 +26,7 @@ This section describes the HTTP protocol commands.
 
 <!-- Adobe IS command examples website  http://sj1010010254235.corp.adobe.com/iscommands/ -->
 
-See also the Dynamic Media [Image Preset Options](https://docs.adobe.com/content/docs/en/aem/6-2/administer/content/dynamic-media/image-presets.html#Image%20Preset%20Options) in the AEM 6.2 documentation. 
+See also the Dynamic Media [Image Preset Options](https://docs.adobe.com/content/help/en/experience-manager-65/assets/dynamic/managing-image-presets.html#image-preset-options) in the AEM 6.5 documentation. 
 
 * [align](r-align.md)
 * [anchor](r-anchor.md)
