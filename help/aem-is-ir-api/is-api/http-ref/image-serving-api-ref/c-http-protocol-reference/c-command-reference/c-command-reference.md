@@ -24,6 +24,8 @@ This section describes the HTTP protocol commands.
 * `template=` 
 * Non-core Dynamic Media services: SVG, Image Rendering, and Web-to-Print.
 
+<!-- Adobe IS command examples website  http://sj1010010254235.corp.adobe.com/iscommands/ -->
+
 See also the Dynamic Media [Image Preset Options](https://docs.adobe.com/content/docs/en/aem/6-2/administer/content/dynamic-media/image-presets.html#Image%20Preset%20Options) in the AEM 6.2 documentation. 
 
 * [align](r-align.md)
