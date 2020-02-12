@@ -1,8 +1,6 @@
 ---
 title: Adobe Dynamic Media Viewers Reference Guide
-seo-title: Adobe Dynamic Media Viewers Reference Guide
-description: Adobe Dynamic Media Viewers Reference Guide for carousel,
-seo-description: Adobe Dynamic Media Viewers Reference Guide for basic zoom, ecatalog, zoom, ecatalog search, flyout, inline zoom, mixed media, spin, video, carousel, interactive video, interactive image, and video 360 viewers.
+description: Adobe Dynamic Media Viewers Reference Guide for basic zoom, ecatalog, zoom, ecatalog search, flyout, inline zoom, mixed media, spin, video, carousel, interactive video, interactive image, and video 360 viewers.
 ---
 
 # Dynamic Media Viewers Reference Guide {#dynamic-media-viewers-reference-guide}
