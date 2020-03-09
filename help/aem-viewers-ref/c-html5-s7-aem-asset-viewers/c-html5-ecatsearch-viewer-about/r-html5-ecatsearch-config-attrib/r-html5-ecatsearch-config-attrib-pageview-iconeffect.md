@@ -10,7 +10,7 @@ uuid: c8d63ad9-6867-4b90-a113-6a75e394f706
 
 # PageView.iconEffect{#pageview-iconeffect}
 
- ` [PageView.|<containerId>_pageView.]iconeffect=0|1[, *`count`*][, *`fade`*][, *`autoHide`*]`
+ [!DNL `[PageView.|<containerId>_pageView.]iconeffect=0|1[, *`count`*][, *`fade`*][, *`autoHide`*]`]
 
 <table id="table_DD66FFC263A34220876DD204BFE62D49"> 
  <tbody> 
@@ -39,8 +39,8 @@ Optional.
 
 ## Default {#section-7d0fc8fa09b34c288ed32ef7faa84604}
 
-`1,1,0.3,3`
+[!DNL `1,1,0.3,3`]
 
 ## Example {#section-95db1bfcccf241089654363203b19977}
 
-`iconeffect=0` 
+[!DNL `iconeffect=0`] 

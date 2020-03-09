@@ -16,10 +16,10 @@ Used by SystemFieldCondition/op and MetadataCondition/op.
 
 ## Values {#section-d283230c0e3d472682d4b2b96f4e5427}
 
-* `Equals` 
-* `NotEquals` 
-* `Contains` 
-* `NotContains` 
-* `StartsWith` 
-* `EndsWith`
+* [!DNL `Equals`] 
+* [!DNL `NotEquals`] 
+* [!DNL `Contains`] 
+* [!DNL `NotContains`] 
+* [!DNL `StartsWith`] 
+* [!DNL `EndsWith`]
 

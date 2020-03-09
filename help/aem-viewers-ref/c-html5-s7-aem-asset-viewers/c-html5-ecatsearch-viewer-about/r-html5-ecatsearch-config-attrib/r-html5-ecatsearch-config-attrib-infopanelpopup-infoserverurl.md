@@ -10,7 +10,7 @@ uuid: 7af5e3d3-40c2-4f02-94e2-0314b698905d
 
 # InfoPanelPopup.infoServerUrl{#infopanelpopup-infoserverurl}
 
- `[InfoPanelPopup.|<containerId>_infoPanelPopup.]infoServerUrl= *`infoserverurl`*`
+ [!DNL `[InfoPanelPopup.|<containerId>_infoPanelPopup.]infoServerUrl= *`infoserverurl`*`]
 
 <table id="table_9A6258D9B0DA4A29AA8A6C9BBCFE3662"> 
  <tbody> 
@@ -35,4 +35,4 @@ None.
 
 ## Example {#section-4f70fa4705c54452893c72c9da7e998a}
 
-`infoServerUrl= http://s7info1.scene7.com/s7info/s7/$3$/$4$/$1$` 
+[!DNL `infoServerUrl= http://s7info1.scene7.com/s7info/s7/$3$/$4$/$1$`] 

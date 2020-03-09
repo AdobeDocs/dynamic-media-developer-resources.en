@@ -16,7 +16,7 @@ Used by ColorManagementOptions/colorManagement.
 
 ## Values {#section-8ac57ec9435c4ce7a0d3483f9c32bc34}
 
-* `Default` 
-* `MaintainOriginal` 
-* `Convert`
+* [!DNL `Default`] 
+* [!DNL `MaintainOriginal`] 
+* [!DNL `Convert`]
 

@@ -10,7 +10,7 @@ uuid: 34c0e59f-4ed0-4b62-b661-aff20ff64ec4
 
 # PageView.enableHD{#pageview-enablehd}
 
- ` [PageView.|<containerId>_pageView.]enableHD=always|never|limit[, *`number`*]`
+ [!DNL `[PageView.|<containerId>_pageView.]enableHD=always|never|limit[, *`number`*]`]
 
 <table id="table_0BEA0B5FFDF64E5594B534B2A87A6D88"> 
  <tbody> 
@@ -31,7 +31,7 @@ Optional.
 
 ## Default {#section-50b22de303c1432094530e6583132c02}
 
-`limit,1500`
+[!DNL `limit,1500`
 
 ## Example {#section-09433488774245d985acef6c0341ece0}
 

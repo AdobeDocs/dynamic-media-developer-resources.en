@@ -14,7 +14,7 @@ uuid: ad9404e4-a546-4db7-bb2d-d81a304dcb36
 >
 >This attribute applies to the Zoom Viewer, Video Viewer, Spin Viewer, Interactive Image Viewer, Interactive Video Viewer, and Carousel Viewer.
 
-` stageSize= *`width`*, *`height`*`
+`stageSize= *`width`*, *`height`*`
 
 <table id="table_0070E5402099428DBEA2A900CADB2BAA"> 
  <tbody> 

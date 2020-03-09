@@ -10,7 +10,7 @@ uuid: 0a30f3b0-64c8-4799-b4f5-fc8996a8b5a4
 
 # direction{#direction}
 
- `direction=auto|left|right`
+ [!DNL `direction=auto|left|right`]
 
 <table id="table_1D425B7685D448459CD3FE8D683C813C"> 
  <tbody> 
@@ -27,8 +27,8 @@ Optional.
 
 ## Default {#section-2879062cee1d4030b43ba3b19693f4f8}
 
-`auto`
+[!DNL `auto`]
 
 ## Example {#section-798e4fc8dd9b4b059171b41a608a96ce}
 
-`direction=right` 
+[!DNL `direction=right`] 

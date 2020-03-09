@@ -16,38 +16,38 @@ Used by JobLogDetial/assetType.
 
 ## Values {#section-6abb6143e2cb4319b5f0eff37129fa9d}
 
-* `NoType` 
-* `PublishCatalog` 
-* `OptimizedImage` 
-* `MasterImage` 
-* `SealedImage` 
-* `Mask` 
-* `Vignette` 
-* `Thumbnail` 
-* `ImageMap` 
-* `IccProfile` 
-* `Font` 
-* `Xsl` 
-* `Cabinet` 
-* `WindowCovering` 
-* `Video` 
-* `ViewerSwf` 
-* `Icon` 
-* `Video` 
-* `ViewerSwf` 
-* `Icon` 
-* `VideoEncodingXml` 
-* `ViewerConfigXml` 
-* `Template` 
-* `Catalog` 
-* `Xml` 
-* `ImageSet` 
-* `RenderSet` 
-* `SpinSet` 
-* `Svg` 
-* `Watermark` 
-* `Pdf` 
-* `Aco` 
-* `PsdTemplate` 
-* `Zip`
+* [!DNL `NoType`] 
+* [!DNL `PublishCatalog`] 
+* [!DNL `OptimizedImage`] 
+* [!DNL `MasterImage`]] 
+* [!DNL `SealedImage`] 
+* [!DNL `Mask`] 
+* [!DNL `Vignette`] 
+* [!DNL `Thumbnail`] 
+* [!DNL `ImageMap`] 
+* [!DNL `IccProfile`] 
+* [!DNL `Font`] 
+* [!DNL `Xsl`] 
+* [!DNL `Cabinet`] 
+* [!DNL `WindowCovering`] 
+* [!DNL `Video`] 
+* [!DNL `ViewerSwf`] 
+* [!DNL `Icon`] 
+* [!DNL `Video`] 
+* [!DNL `ViewerSwf`] 
+* [!DNL `Icon`] 
+* [!DNL `VideoEncodingXml`] 
+* [!DNL `ViewerConfigXml`] 
+* [!DNL `Template`] 
+* [!DNL `Catalog`] 
+* [!DNL `Xml`] 
+* [!DNL `ImageSet`] 
+* [!DNL `RenderSet`] 
+* [!DNL `SpinSet`] 
+* [!DNL `Svg`] 
+* [!DNL `Watermark`] 
+* [!DNL `Pdf`] 
+* [!DNL `Aco`] 
+* [!DNL `PsdTemplate`] 
+* [!DNL `Zip`]
 

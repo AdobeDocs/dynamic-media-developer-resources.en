@@ -10,7 +10,7 @@ uuid: c85ad85f-a802-4f5d-9046-00171ad2d9ca
 
 # PageView.transition{#pageview-transition}
 
- ` [PageView.|<containerId>_pageView.]transition= *`time`*[, *`easing`*]`
+ [!DNL `[PageView.|<containerId>_pageView.]transition= *`time`*[, *`easing`*]`]
 
 <table id="table_E314540D347D47699C04EB80D20C0721"> 
  <tbody> 
@@ -39,8 +39,8 @@ Optional.
 
 ## Default {#section-9f91ce6567384ab691e4d4f8a7015455}
 
-`0.5,0`
+[!DNL `0.5,0`]
 
 ## Example {#section-cb6b8793ee9946b8bf1cfddab8612db5}
 
-`transition=2,2` 
+[!DNL `transition=2,2`] 

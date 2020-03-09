@@ -16,7 +16,7 @@ Used by ImageServingPublishJob/publishType.
 
 ## Values {#section-46a98f55ad894e3bbeca2d7a54d22500}
 
-* `Full` 
-* `FullWithSearch` 
-* `Incremental`
+* [!DNL `Full`] 
+* [!DNL `FullWithSearch`] 
+* [!DNL `Incremental`]
 

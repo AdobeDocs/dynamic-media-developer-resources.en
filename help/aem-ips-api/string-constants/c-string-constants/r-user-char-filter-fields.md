@@ -16,10 +16,10 @@ Used by getUsersParam and getUserCharsParam/charField.
 
 ## Values {#section-4d8f27b5b5ed4a8cad1e4c64826809b9}
 
-* `None` 
-* `FirstName` 
-* `LastName` 
-* `Email` 
-* `StartsWith` 
-* `EndsWith`
+* [!DNL `None`] 
+* [!DNL `FirstName`] 
+* [!DNL `LastName`] 
+* [!DNL `Email`] 
+* [!DNL `StartsWith`] 
+* [!DNL `EndsWith`]
 

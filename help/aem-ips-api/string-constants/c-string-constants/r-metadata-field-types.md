@@ -16,20 +16,20 @@ Used by MetadataField/type, saveMetadataFieldParam/fieldType, and createMetadata
 
 ## Values {#section-1d8f05dbeff74bfdbd5960ccc7347557}
 
-* `Untyped` 
-* `Boolean` 
-* `BooleanTag`: A special case of `SingleFixedTag` with a non-modifiable dictionary initialized to the values `True` and `False`. 
+* [!DNL `Untyped`] 
+* [!DNL `Boolean`] 
+* [!DNL `BooleanTag`]: A special case of [!DNL `SingleFixedTag`] with a non-modifiable dictionary initialized to the values [!DNL `True`] and [!DNL `False`]. 
 
-* `Color` 
-* `Date` 
-* `Dimension` 
-* `FileName` 
-* `Float` 
-* `Int` 
-* `MultiFixedTag`: Zero or more string values from a closed dictionary. Only admin users can modify the dictionary. 
-* `MultiTag`: Zero or more string values. 
-* `SingleFixedTag`: A single string value from a closed dictionary. If `setAssetMetadata` or `batchSetAssetMetadata` are called with a value not in the dictionary, a fault will be returned. Only admin users can modify the dictionary. 
+* [!DNL `Color`] 
+* [!DNL `Date`] 
+* [!DNL `Dimension`] 
+* [!DNL `FileName`] 
+* [!DNL `Float`] 
+* [!DNL `Int`] 
+* [!DNL `MultiFixedTag`]: Zero or more string values from a closed dictionary. Only admin users can modify the dictionary. 
+* [!DNL `MultiTag`]: Zero or more string values. 
+* [!DNL `SingleFixedTag`]: A single string value from a closed dictionary. If `setAssetMetadata` or `batchSetAssetMetadata` are called with a value not in the dictionary, a fault will be returned. Only admin users can modify the dictionary. 
 
-* `SingleTag`: Any single string value. 
-* `String`
+* [!DNL `SingleTag`]: Any single string value. 
+* [!DNL `String`]
 

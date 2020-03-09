@@ -16,6 +16,6 @@ Used by ImageMap/shapeType and saveImageMapParam/shapType.
 
 ## Values {#section-ec6b64ece8b743189e169c14c4515559}
 
-* `Rectangle` 
-* `Polygon`
+* [!DNL `Rectangle`] 
+* [!DNL `Polygon`]
 

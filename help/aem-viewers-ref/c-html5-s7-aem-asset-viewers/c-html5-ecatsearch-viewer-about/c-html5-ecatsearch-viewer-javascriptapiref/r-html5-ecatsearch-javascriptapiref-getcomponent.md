@@ -12,7 +12,7 @@ uuid: 4e5b79b5-4a2b-427a-b527-81247a6b740d
 
 JavaScript API reference for eCatalog Viewer
 
- `getComponent(componentId)`
+ [!DNL `getComponent(componentId)`]
 
 Returns a reference to the Viewer SDK component that is used by the viewer. The web page can use this method to extend or customize the behavior of the out-of-box viewer. Call this method only after the `initComplete` viewer callback has run, otherwise the component may not be created yet by the viewer logic.
 

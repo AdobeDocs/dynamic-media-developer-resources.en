@@ -16,9 +16,9 @@ Used by searchAssetsParam/sortBy.
 
 ## Values {#section-27e5137c7779425385082dcc1db8f1a3}
 
-* `Created` 
-* `Modified` 
-* `Name` 
-* `AssetType` 
-* `FileSize`
+* [!DNL `Created`] 
+* [!DNL `Modified`]
+* [!DNL `Name`] 
+* [!DNL `AssetType`] 
+* [!DNL `FileSize`]
 

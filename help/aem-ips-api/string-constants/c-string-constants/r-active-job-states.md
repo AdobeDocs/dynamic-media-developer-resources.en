@@ -16,11 +16,11 @@ Used by ActiveJobs/state.
 
 ## Values {#section-02fb36bc14bb4286abff5480753200de}
 
-* `Unknown` 
-* `New` 
-* `WaitingClient` 
-* `WaitingCoordinator` 
-* `Running` 
-* `Stopping` 
-* `Done`
+* [!DNL `Unknown`] 
+* [!DNL `New`] 
+* [!DNL `WaitingClient`] 
+* [!DNL `WaitingCoordinator`] 
+* [!DNL `Running`]
+* [!DNL `Stopping`] 
+* [!DNL `Done`]
 

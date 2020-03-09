@@ -12,7 +12,7 @@ uuid: 8c9e0d6d-d7b0-494f-b7b7-6542fb51466a
 
 JavaScript API reference for Video Viewer.
 
- ` setLocalizedTexts( *`localizationInfo`*)`
+ [!DNL ` setLocalizedTexts( *`localizationInfo`*)`]
 
 <table id="table_896DFF34A68A403DB93A6D597461A573"> 
  <tbody> 
@@ -23,7 +23,7 @@ JavaScript API reference for Video Viewer.
  </tbody> 
 </table>
 
-Sets localization SYMBOL values for one or more locales. This parameter must be called before `init()`.
+Sets localization SYMBOL values for one or more locales. This parameter must be called before [!DNL `init()`].
 
 See also [init](../../../c-html5-s7-aem-asset-viewers/c-html5-20-ecatalog-viewer-about/c-html5-20-ecatalog-viewer-javascriptapiref/r-html5-ecatalog-viewer-20-javascriptapiref-init.md#reference-aee94dd92a28410784f7a1792e28683b).
 

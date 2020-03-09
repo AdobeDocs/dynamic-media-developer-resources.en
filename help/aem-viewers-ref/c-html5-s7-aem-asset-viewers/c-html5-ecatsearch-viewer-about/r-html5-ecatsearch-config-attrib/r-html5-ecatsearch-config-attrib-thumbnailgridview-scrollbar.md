@@ -10,7 +10,7 @@ uuid: 2a6383ee-20f5-422e-81eb-0b06b0297b5d
 
 # ThumbnailGridView.scrollbar{#thumbnailgridview-scrollbar}
 
-`[ThumbnailGridView.|<containerId>_gridView.]scrollbar=0|1`
+[!DNL `[ThumbnailGridView.|<containerId>_gridView.]scrollbar=0|1`]
 
 <table id="table_70E6FDB62C2C4DBBB26BEBAD37A181AD"> 
  <tbody> 
@@ -27,8 +27,8 @@ Optional.
 
 ## Default {#section-8582423c1d974c628be93247de6c1d79}
 
-`1`
+[!DNL `1`]
 
 ## Example {#section-f74d8ab01f9a487d88ecd69b7c287ddc}
 
-`scrollbar=0` 
+[!DNL `scrollbar=0`] 

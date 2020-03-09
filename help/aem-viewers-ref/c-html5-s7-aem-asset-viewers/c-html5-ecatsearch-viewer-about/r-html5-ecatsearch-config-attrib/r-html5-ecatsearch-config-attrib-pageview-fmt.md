@@ -10,7 +10,7 @@ uuid: bbae406c-9169-4944-8e91-f2d7c8011520
 
 # PageView.fmt{#pageview-fmt}
 
- `[PageView.|<containerId>_pageView.]fmt=jpg|jpeg|png|png-alpha|gif|gif-alpha`
+ [!DNL `[PageView.|<containerId>_pageView.]fmt=jpg|jpeg|png|png-alpha|gif|gif-alpha`]
 
 <table id="table_8629FDB399124A57B8026E46687D0BC2"> 
  <tbody> 
@@ -27,8 +27,8 @@ Optional.
 
 ## Default {#section-4b6a350501124ffa9a6b1b71b32eff5d}
 
-`jpeg`
+[!DNL `jpeg`]
 
 ## Example {#section-7de29e43bb3640e4aa1f8984b4afddad}
 
-`fmt=png-alpha` 
+[!DNL `fmt=png-alpha`] 

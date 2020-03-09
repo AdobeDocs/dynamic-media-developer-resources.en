@@ -10,7 +10,7 @@ uuid: 12595a89-bad5-4224-aeff-52ce6bb615ee
 
 # PageView.frametransition{#pageview-frametransition}
 
- ` [PageView.|<containerId>_pageView.]frametransition=slide|turn|auto[, *`duration`*]`
+ [!DNL ` [PageView.|<containerId>_pageView.]frametransition=slide|turn|auto[, *`duration`*]`]
 
 <table id="table_625D0EEDA21B46FEA3F5CF7DDF769B50"> 
  <tbody> 
@@ -36,8 +36,8 @@ Optional.
 
 ## Default {#section-d677f04f1c894966884ce9d77a5ea1c1}
 
-`slide,0.3`
+[!DNL `slide,0.3`]
 
 ## Example {#section-b877011e5f6240718e9451be8f622c02}
 
-`frametransition=auto,1` 
+[!DNL `frametransition=auto,1`] 

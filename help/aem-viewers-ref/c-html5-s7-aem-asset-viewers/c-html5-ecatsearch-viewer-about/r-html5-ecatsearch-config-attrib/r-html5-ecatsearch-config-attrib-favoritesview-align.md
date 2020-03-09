@@ -10,7 +10,7 @@ uuid: 4ff25cb3-3383-4ef2-90db-660fa774e109
 
 # FavoritesView.align{#favoritesview-align}
 
-`[FavoritesView.|<containerId>_favoritesView.]align=left|center|right,top|center|bottom`
+[!DNL `[FavoritesView.|<containerId>_favoritesView.]align=left|center|right,top|center|bottom`]
 
 <table id="table_2B109D2F91E64B5382B31921C3780FA5"> 
  <tbody> 
@@ -27,8 +27,8 @@ Optional.
 
 ## Default {#section-d016470e92a74f98a18c4ab3489410a5}
 
-`center,center`
+[!DNL `center,center`]
 
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
-`align=left,top` 
+[!DNL `align=left,top`] 

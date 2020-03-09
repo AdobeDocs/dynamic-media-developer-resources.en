@@ -16,14 +16,14 @@ Used by ActiveJob/type and ScheduledJob/type.
 
 ## Values {#section-5a623c905fb24fcd8d2dd655968aa666}
 
-* `ImageServingPublish` 
-* `ImageRenderingPublish` 
-* `ServerDirectoryPublish` 
-* `ServerDirectoryPublishWithTemplate` 
-* `VideoPublish` 
-* `UploadFromServerDirectory` 
-* `UrlUpload` 
-* `MetadataUpload` 
-* `ImageOptimization` 
-* `Cleanup`
+* [!DNL `ImageServingPublish`] 
+* [!DNL `ImageRenderingPublish`] 
+* [!DNL `ServerDirectoryPublish` 
+* [!DNL `ServerDirectoryPublishWithTemplate`] 
+* [!DNL `VideoPublish`] 
+* [!DNL `UploadFromServerDirectory`] 
+* [!DNL `UrlUpload`] 
+* [!DNL `MetadataUpload`] 
+* [!DNL `ImageOptimization`] 
+* [!DNL `Cleanup`]
 

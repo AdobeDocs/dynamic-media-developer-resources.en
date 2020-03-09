@@ -16,11 +16,11 @@ Used by FontFieldUpdate/type.
 
 ## Values {#section-346f958882174de5814a0757e7208155}
 
-* `TTF` 
-* `OTF` 
-* `AFM` 
-* `PFM` 
-* `PFB` 
-* `TTC` 
-* `KERN`
+* [!DNL `TTF`] 
+* [!DNL `OTF`] 
+* [!DNL `AFM`] 
+* [!DNL `PFM`] 
+* [!DNL `PFB`] 
+* [!DNL `TTC`] 
+* [!DNL `KERN`]
 

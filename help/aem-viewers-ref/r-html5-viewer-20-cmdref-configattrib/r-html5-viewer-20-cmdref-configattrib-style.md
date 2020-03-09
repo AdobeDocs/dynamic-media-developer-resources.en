@@ -12,7 +12,7 @@ uuid: 6320c8dd-4827-41dc-a621-6fdf22e55003
 
 You can apply the following command both from the URL query string and config. The command applied in the URL query string always takes precedence over the same command present in config.
 
-` style= *`cssPath`*`
+`style= *`cssPath`*`
 
 <table id="table_F800F787CF0342749B934DAEB600C0EB"> 
  <tbody> 

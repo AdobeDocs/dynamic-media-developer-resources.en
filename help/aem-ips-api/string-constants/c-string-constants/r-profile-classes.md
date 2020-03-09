@@ -16,11 +16,11 @@ Used by IccProfileFieldUpdate/class.
 
 ## Values {#section-9c6ffefc9f40467da980a0b75986acbc}
 
-* `Input` 
-* `Display` 
-* `Output` 
-* `DeviceLink` 
-* `ColorSpaceConversion` 
-* `Abstract` 
-* `NamedColor`
+* [!DNL `Input`] 
+* [!DNL `Display`] 
+* [!DNL `Output`] 
+* [!DNL `DeviceLink`] 
+* [!DNL `ColorSpaceConversion`] 
+* [!DNL `Abstract`] 
+* [!DNL `NamedColor`]
 

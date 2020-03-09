@@ -16,8 +16,8 @@ Used by PostScriptOptions/colorspace.
 
 ## Values {#section-83034a8f1be24520884d476456f81b04}
 
-* `Auto` 
-* `Rgb` 
-* `Cmyk` 
-* `Gray`
+* [!DNL `Auto`] 
+* [!DNL `Rgb`] 
+* [!DNL `Cmyk`] 
+* [!DNL `Gray`]
 

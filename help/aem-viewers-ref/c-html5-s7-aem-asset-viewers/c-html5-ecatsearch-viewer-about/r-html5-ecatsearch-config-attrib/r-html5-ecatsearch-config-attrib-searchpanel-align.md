@@ -10,7 +10,7 @@ uuid: 769ae5e4-23ee-435a-9a56-d84a32004b00
 
 # SearchPanel.align{#searchpanel-align}
 
-`[SearchPanel.|<containerId>_searchPanel.]align=left|center|right,top|center|bottom`
+ [!DNL `[SearchPanel.|<containerId>_searchPanel.]align=left|center|right,top|center|bottom`]
 
 <table id="table_2B109D2F91E64B5382B31921C3780FA5"> 
  <tbody> 
@@ -27,8 +27,8 @@ Optional.
 
 ## Default {#section-d016470e92a74f98a18c4ab3489410a5}
 
-`center,top`
+[!DNL `center,top`]
 
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
-`align=left,top` 
+[!DNL `align=left,top`] 

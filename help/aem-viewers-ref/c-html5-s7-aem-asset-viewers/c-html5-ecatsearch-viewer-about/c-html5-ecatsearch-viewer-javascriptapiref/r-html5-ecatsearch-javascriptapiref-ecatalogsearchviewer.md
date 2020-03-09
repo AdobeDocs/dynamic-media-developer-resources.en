@@ -12,7 +12,7 @@ uuid: 304724aa-3f50-46de-97d0-48e8c81401ed
 
 JavaScript API reference for eCatalog SearchViewer.
 
- `eCatalogSearchViewer([config])`
+ [!DNL `eCatalogSearchViewer([config])`]
 
 Constructor, creates a new eCatalog Search Viewer instance.
 

@@ -10,7 +10,7 @@ uuid: ddd78693-e8f3-473c-91b3-8038e99c8ff1
 
 # InfoPanelPopup.showhidetransition{#infopanelpopup-showhidetransition}
 
-` [InfoPanelPopup.|<containerId>_infoPanelPopup.]showhidetranstion=fade|none[, *`time`*]`
+[!DNL `[InfoPanelPopup.|<containerId>_infoPanelPopup.]showhidetranstion=fade|none[, *`time`*]`]
 
 <table id="table_863763B730A949AA8C0E11E6F8461E3A"> 
  <tbody> 
@@ -31,8 +31,8 @@ Optional.
 
 ## Default {#section-75088acf417b47f88c7d6d4da446c2e9}
 
-`fade,0.3`
+[!DNL `fade,0.3`]
 
 ## Example {#section-b831b1b6e18a4526aad3d8e4eaa97564}
 
-`showhidetranstion=none` 
+[!DNL `showhidetranstion=none`] 

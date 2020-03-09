@@ -10,7 +10,7 @@ uuid: 5ed92338-d6d4-4f59-b2b9-5c0caceef6a4
 
 # Print.printquality{#print-printquality}
 
-` [Print.|<containerId>_print.]printquality= *`size`*`
+[!DNL `[Print.|<containerId>_print.]printquality= *`size`*`]
 
 <table id="table_2B109D2F91E64B5382B31921C3780FA5"> 
  <tbody> 
@@ -27,8 +27,8 @@ Optional.
 
 ## Default {#section-d016470e92a74f98a18c4ab3489410a5}
 
-`1000`
+[!DNL `1000`]
 
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
-`printquality=800` 
+[!DNL `printquality=800`] 

@@ -10,7 +10,7 @@ uuid: e72ae5d6-574e-4f30-827c-021ce5dafcee
 
 # ThumbnailGridView.maxloadradius{#thumbnailgridview-maxloadradius}
 
-` [ThumbnailGridView.|<containerId>_pageView.]maxloadradius=-1|0| *`preloadnbr`*`
+[!DNL `[ThumbnailGridView.|<containerId>_pageView.]maxloadradius=-1|0| *`preloadnbr`*`]
 
 <table id="table_D29F1F6A8EC74F42A254C823435F9493"> 
  <tbody> 
@@ -27,8 +27,8 @@ Optional.
 
 ## Default {#section-c60e81667965460cbf03378a1ab9b187}
 
-`1`
+[!DNL `1`]
 
 ## Example {#section-472614b59e04430490a7f16c932bce89}
 
-`maxloadradius=0` 
+[!DNL `maxloadradius=0`] 

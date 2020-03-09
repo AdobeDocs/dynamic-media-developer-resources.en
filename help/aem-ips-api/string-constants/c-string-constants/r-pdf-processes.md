@@ -16,7 +16,7 @@ Used by PDFOptions/type.
 
 ## Values {#section-f1409301e39142f2b97687e29c238f1b}
 
-* `None` 
-* `Rasterize` 
-* `Thumbnail`
+* [!DNL `None`] 
+* [!DNL `Rasterize`] 
+* [!DNL `Thumbnail`]
 

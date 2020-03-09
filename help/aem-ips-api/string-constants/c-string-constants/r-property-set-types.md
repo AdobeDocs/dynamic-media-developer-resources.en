@@ -16,7 +16,7 @@ Used by PropertySetType
 
 ## Values {#section-571a0f9cd6354a2dbb9ca1b0935dace6}
 
-* `UserProperty` 
-* `CompanyProperty` 
-* `UserCompanyProperty`
+* [!DNL `UserProperty`] 
+* [!DNL `CompanyProperty`] 
+* [!DNL `UserCompanyProperty`]
 

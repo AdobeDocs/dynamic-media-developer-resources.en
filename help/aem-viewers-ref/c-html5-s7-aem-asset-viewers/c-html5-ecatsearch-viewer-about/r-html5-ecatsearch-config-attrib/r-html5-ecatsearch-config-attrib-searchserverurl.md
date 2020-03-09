@@ -10,7 +10,7 @@ uuid: 2fe19821-923a-4156-9c52-48769467179d
 
 # searchServerUrl{#searchserverurl}
 
- `searchServerUrl= *`searchServerUrl`*`
+ [!DNL `searchServerUrl= *`searchServerUrl`*`]
 
 <table id="table_9B98C97485DD4DEB8A6ECBCE8DF6B886"> 
  <tbody> 
@@ -27,11 +27,10 @@ Optional.
 
 ## Default {#section-d016470e92a74f98a18c4ab3489410a5}
 
-`/s7search/`
+[!DNL `/s7search/`]
 
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
 ```
 searchServerUrl=https://s7search1.scene7.com/s7search/
 ```
-

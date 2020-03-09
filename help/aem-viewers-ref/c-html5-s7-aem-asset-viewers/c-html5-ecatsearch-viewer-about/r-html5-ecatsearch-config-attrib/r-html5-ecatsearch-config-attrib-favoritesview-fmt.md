@@ -10,7 +10,7 @@ uuid: 777411ee-c73f-4921-8ee1-7eb002ac3e95
 
 # FavoritesView.fmt{#favoritesview-fmt}
 
-`[FavoritesView.|<containerId>_favoritesView.]fmt=jpg|jpeg|png|png-alpha|gif|gif-alpha`
+[!DNL `[FavoritesView.|<containerId>_favoritesView.]fmt=jpg|jpeg|png|png-alpha|gif|gif-alpha`]
 
 <table id="table_2B109D2F91E64B5382B31921C3780FA5"> 
  <tbody> 
@@ -27,8 +27,8 @@ Optional.
 
 ## Default {#section-d016470e92a74f98a18c4ab3489410a5}
 
-`jpeg`
+[!DNL `jpeg`
 
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
-`fmt=png-alpha` 
+[!DNL `fmt=png-alpha`] 

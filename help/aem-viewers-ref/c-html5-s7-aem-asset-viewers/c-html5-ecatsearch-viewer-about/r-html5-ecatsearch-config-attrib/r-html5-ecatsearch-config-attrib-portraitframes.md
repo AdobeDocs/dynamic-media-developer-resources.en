@@ -10,7 +10,7 @@ uuid: b915df14-62cf-4ff2-8336-dac4b3dd605f
 
 # portraitFrames{#portraitframes}
 
- `portraitFrames=split|solid`
+ [!DNL `portraitFrames=split|solid`]
 
 <table id="table_1D425B7685D448459CD3FE8D683C813C"> 
  <tbody> 
@@ -27,8 +27,8 @@ Optional.
 
 ## Default {#section-2879062cee1d4030b43ba3b19693f4f8}
 
-`split`
+[!DNL `split`]
 
 ## Example {#section-798e4fc8dd9b4b059171b41a608a96ce}
 
-`portraitFrames=solid` 
+[!DNL `portraitFrames=solid`] 

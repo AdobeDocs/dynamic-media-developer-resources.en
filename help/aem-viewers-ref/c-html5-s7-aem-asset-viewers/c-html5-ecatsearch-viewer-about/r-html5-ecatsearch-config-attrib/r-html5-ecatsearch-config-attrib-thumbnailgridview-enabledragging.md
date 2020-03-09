@@ -10,7 +10,7 @@ uuid: 31575fa3-8cc4-468e-b590-77edc3b148d4
 
 # ThumbnailGridView.enabledragging{#thumbnailgridview-enabledragging}
 
- ` [ThumbnailGridView.|<containerId>_gridView.]enabledragging=0|1[, *`overdragvalue`*]`
+ [!DNL `[ThumbnailGridView.|<containerId>_gridView.]enabledragging=0|1[, *`overdragvalue`*]`]
 
 <table id="table_B1363BFD20204093AAB326A1AB503B93"> 
  <tbody> 
@@ -31,8 +31,8 @@ Optional.
 
 ## Default {#section-464be2db89f34516ad93f32f7783d2b0}
 
-`1,0.5`
+[!DNL `1,0.5`]
 
 ## Example {#section-e67c8807762e471bb03d6a8fb20e19d4}
 
-`enabledragging=0` 
+[!DNL `enabledragging=0`] 

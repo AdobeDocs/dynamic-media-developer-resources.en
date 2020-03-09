@@ -16,6 +16,6 @@ Used by searchAssetsParam/conditionMatchMode, searchAssetsParam/systemFieldMatch
 
 ## Values {#section-f6b12b626db5425796a9dc7de481741a}
 
-* `MatchAll` 
-* `MatchAny`
+* [!DNL `MatchAll`] 
+* [!DNL `MatchAny`]
 

@@ -10,7 +10,7 @@ uuid: 823a70b8-0f05-4b8a-8011-39f17c047018
 
 # TableOfContents.maxitems{#tableofcontents-maxitems}
 
-` [TableOfContents.|<containerId>_tableOfContents.]maxitems= *`maxitems`*`
+ [!DNL `[TableOfContents.|<containerId>_tableOfContents.]maxitems= *`maxitems`*`]
 
 <table id="table_F9BC656721B04870AC628ACBC47E7200"> 
  <tbody> 
@@ -27,8 +27,8 @@ Optional.
 
 ## Default {#section-fb1423f100624658a90fc8ba5e0cee7e}
 
-`0`
+[!DNL `0`]
 
 ## Example {#section-3a1a91fac1614b6db464626f7b32771a}
 
-`maxitems=10` 
+[!DNL `maxitems=10`] 

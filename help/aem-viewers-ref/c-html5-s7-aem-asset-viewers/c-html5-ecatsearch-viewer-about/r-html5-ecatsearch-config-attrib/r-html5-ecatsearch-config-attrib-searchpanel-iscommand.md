@@ -10,7 +10,7 @@ uuid: 7496fea1-8a69-4749-ab4b-ae6d375441b8
 
 # SearchPanel.iscommand{#searchpanel-iscommand}
 
- ` [SearchPanel.|<containerId>_searchPanel.]iscommand= *`isCommand`*`
+ [!DNL `[SearchPanel.|<containerId>_searchPanel.]iscommand= *`isCommand`*`]
 
 <table id="table_9E7BB12BF371419F88DD4D24EF04632C"> 
  <tbody> 
@@ -33,8 +33,8 @@ None.
 
 When specified in the viewer URL.
 
-`iscommand=op_sharpen%3d1%26op_colorize%3d0xff0000`
+[!DNL `iscommand=op_sharpen%3d1%26op_colorize%3d0xff0000`]
 
 When specified in the config data.
 
-`iscommand=op_sharpen=1&op_colorize=0xff0000` 
+[!DNL `iscommand=op_sharpen=1&op_colorize=0xff0000`] 

@@ -16,7 +16,7 @@ Used by FontFieldUpdate/style.
 
 ## Values {#section-3980f2568bfb4502912e3be387142cae}
 
-* `Bold` 
-* `Italic` 
-* `BoldItalic`
+* [!DNL `Bold`] 
+* [!DNL `Italic`] 
+* [!DNL `BoldItalic`]
 

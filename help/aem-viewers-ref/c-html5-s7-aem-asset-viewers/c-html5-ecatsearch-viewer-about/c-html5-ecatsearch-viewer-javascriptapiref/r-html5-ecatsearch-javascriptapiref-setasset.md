@@ -12,7 +12,7 @@ uuid: ab078f32-c523-4b6c-a0d6-45dd2af35b36
 
 JavaScript API reference for Video Viewer.
 
- ` setAsset( *`asset`*)`
+ [!DNL ` setAsset( *`asset`*)`]
 
 <table id="table_896DFF34A68A403DB93A6D597461A573"> 
  <tbody> 
@@ -23,7 +23,7 @@ JavaScript API reference for Video Viewer.
  </tbody> 
 </table>
 
-Sets a new asset. You can call this parameter at any time, either before or after `init()`. If it is called after `init()`, the viewer swaps the asset at runtime.
+Sets a new asset. You can call this parameter at any time, either before or after [!DNL `init()`]. If it is called after [!DNL `init()`], the viewer swaps the asset at runtime.
 
 See also [init](../../../c-html5-s7-aem-asset-viewers/c-html5-20-ecatalog-viewer-about/c-html5-20-ecatalog-viewer-javascriptapiref/r-html5-ecatalog-viewer-20-javascriptapiref-init.md#reference-aee94dd92a28410784f7a1792e28683b).
 

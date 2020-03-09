@@ -10,7 +10,7 @@ uuid: 62ec1b74-2a2b-4195-b2aa-ea27cd50fae6
 
 # ThumbnailGridView.fmt{#thumbnailgridview-fmt}
 
- `[ThumbnailGridView.|<containerId>_gridView.]fmt=jpg|jpeg|png|png-alpha|gif|gif-alpha`
+ [!DNL `[ThumbnailGridView.|<containerId>_gridView.]fmt=jpg|jpeg|png|png-alpha|gif|gif-alpha`]
 
 <table id="table_4620F51BD77149FDB68F1FBECC443801"> 
  <tbody> 
@@ -27,8 +27,8 @@ Optional.
 
 ## Default {#section-502c098dbae1452180c7f575a1d9dc8b}
 
-`jpeg`
+[!DNL `jpeg`]
 
 ## Example {#section-5cde7b856ba646c293cfd3d79e47c507}
 
-`fmt-png-alpha` 
+[!DNL `fmt-png-alpha`] 

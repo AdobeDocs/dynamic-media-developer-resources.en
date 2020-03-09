@@ -12,7 +12,7 @@ uuid: be3d49d1-d5d2-4ecd-bc8f-fe5f80204c76
 
 The Image Serving command string that is applied to all thumbnails.
 
-` [FavoritesView.|<containerId>_favoritesView.]iscommand= *`isCommand`*`
+[!DNL `[FavoritesView.|<containerId>_favoritesView.]iscommand= *`isCommand`*`]
 
 <table id="table_2B109D2F91E64B5382B31921C3780FA5"> 
  <tbody> 
@@ -35,8 +35,8 @@ None.
 
 When specified in the viewer URL.
 
-`iscommand=op_sharpen%3d1%26op_colorize%3d0xff0000`
+[!DNL `iscommand=op_sharpen%3d1%26op_colorize%3d0xff0000`]
 
 When specified in the config data.
 
-`iscommand=op_sharpen=1&op_colorize=0xff0000` 
+[!DNL `iscommand=op_sharpen=1&op_colorize=0xff0000`] 

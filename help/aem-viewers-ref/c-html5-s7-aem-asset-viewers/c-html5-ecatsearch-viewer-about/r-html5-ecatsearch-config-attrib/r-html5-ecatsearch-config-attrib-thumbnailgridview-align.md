@@ -10,7 +10,7 @@ uuid: b0cdc9ee-4399-4783-99ec-cd9d03f262b1
 
 # ThumbnailGridView.align{#thumbnailgridview-align}
 
-`[ThumbnailGridView.|<containerId>_gridView.]align=left|center|right`
+[!DNL `[ThumbnailGridView.|<containerId>_gridView.]align=left|center|right`]
 
 <table id="table_95890560230C48BBB03A8082F56382CA"> 
  <tbody> 
@@ -27,8 +27,8 @@ Optional.
 
 ## Default {#section-897b339308824596810cc1c5fbda4bd0}
 
-`left`
+[!DNL `left`]
 
 ## Example {#section-6867c2975b7747cd8aa023c2a20c794f}
 
-`align=center` 
+[!DNL `align=center`] 
