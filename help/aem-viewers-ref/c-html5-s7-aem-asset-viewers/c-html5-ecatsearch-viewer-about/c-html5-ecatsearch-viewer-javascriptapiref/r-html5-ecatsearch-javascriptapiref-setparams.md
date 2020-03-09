@@ -12,11 +12,11 @@ uuid: 4929884e-b072-4177-83c3-1f9b4e5df569
 
 JavaScript API reference for eCatalog Viewer.
 
- ` setParams( *`params`*)`
+ [!DNL ` setParams( *`params`*)`]
 
-Sets one or more parameters to a given value. The method argument syntax is identical to a URL query string. That is, it represents name=value pairs separated with `&`. Just as in a query string, the names and values are percent-encoded using UTF8. Before you call `init()`, this parameter must be called.
+Sets one or more parameters to a given value. The method argument syntax is identical to a URL query string. That is, it represents name=value pairs separated with [!DNL `&`]. Just as in a query string, the names and values are percent-encoded using UTF8. Before you call [!DNL `init()`], this parameter must be called.
 
-This method is optional if the viewer configuration information is passed with `config` JSON object to the constructor.
+This method is optional if the viewer configuration information is passed with [!DNL `config`] JSON object to the constructor.
 
 See also [init](../../../c-html5-s7-aem-asset-viewers/c-html5-20-ecatalog-viewer-about/c-html5-20-ecatalog-viewer-javascriptapiref/r-html5-ecatalog-viewer-20-javascriptapiref-init.md#reference-aee94dd92a28410784f7a1792e28683b).
 

@@ -16,8 +16,8 @@ Used by AutoCropColorOptions/corner.
 
 ## Values {#section-28842871aa65401ca30e27373e2ecb8c}
 
-* `BottomLeft` 
-* `BottomRight` 
-* `UpperLeft` 
-* `UpperRight`
+* [!DNL `BottomLeft`] 
+* [!DNL `BottomRight`] 
+* [!DNL `UpperLeft`] 
+* [!DNL `UpperRight`]
 

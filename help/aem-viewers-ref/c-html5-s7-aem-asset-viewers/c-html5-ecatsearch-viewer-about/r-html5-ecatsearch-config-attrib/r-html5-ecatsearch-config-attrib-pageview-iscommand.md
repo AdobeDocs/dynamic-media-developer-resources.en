@@ -10,7 +10,7 @@ uuid: 32bfd041-e44c-4a78-a923-896a85d8f75f
 
 # PageView.iscommand{#pageview-iscommand}
 
- ` [PageView.|<containerId>_pageView.]iscommand= *`isCommand`*`
+ [!DNL `[PageView.|<containerId>_pageView.]iscommand= *`isCommand`*`]
 
 <table id="table_9E7BB12BF371419F88DD4D24EF04632C"> 
  <tbody> 
@@ -33,8 +33,8 @@ None.
 
 When specified in the viewer URL.
 
-`iscommand=op_sharpen%3d1%26op_colorize%3d0xff0000`
+[!DNL `iscommand=op_sharpen%3d1%26op_colorize%3d0xff0000`]
 
 When specified in the config data.
 
-`iscommand=op_sharpen=1&op_colorize=0xff0000` 
+[!DNL `iscommand=op_sharpen=1&op_colorize=0xff0000`] 

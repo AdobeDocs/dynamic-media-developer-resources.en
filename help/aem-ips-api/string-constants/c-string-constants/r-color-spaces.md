@@ -16,28 +16,28 @@ Used by IccProfileFieldUpdate/colorSpace and IccProfileFieldUpdate/pcsType.
 
 ## Values {#section-e1221f5b9cfb49349143a74cae91889a}
 
-* `XYZ` 
-* `Lab` 
-* `Luv` 
-* `YCbCr` 
-* `Yxy` 
-* `RGB` 
-* `GRAY` 
-* `HSV` 
-* `HLS` 
-* `CMYK` 
-* `2CLR` 
-* `3CLR` 
-* `4CLR` 
-* `5CLR` 
-* `6CLR` 
-* `7CLR` 
-* `8CLR` 
-* `9CLR` 
-* `ACLR` 
-* `BCLR` 
-* `CCLR` 
-* `DCLR` 
-* `ECLR` 
-* `FCLR`
+* [!DNL `XYZ`] 
+* [!DNL `Lab`] 
+* [!DNL `Luv`] 
+* [!DNL `YCbCr`] 
+* [!DNL `Yxy`] 
+* [!DNL `RGB`] 
+* [!DNL `GRAY`] 
+* [!DNL `HSV`] 
+* [!DNL `HLS`] 
+* [!DNL `CMYK`] 
+* [!DNL `2CLR`] 
+* [!DNL `3CLR` 
+* [!DNL `4CLR`] 
+* [!DNL `5CLR`] 
+* [!DNL `6CLR`] 
+* [!DNL `7CLR`] 
+* [!DNL `8CLR`] 
+* [!DNL `9CLR`] 
+* [!DNL `ACLR`] 
+* [!DNL `BCLR`] 
+* [!DNL `CCLR`] 
+* [!DNL `DCLR`] 
+* [!DNL `ECLR`] 
+* [!DNL `FCLR`]
 

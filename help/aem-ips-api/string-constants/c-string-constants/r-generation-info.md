@@ -16,9 +16,9 @@ Used by getGenerationInfo/engine.
 
 ## Values {#section-fffd1faf338549a49e80a6fe7ae44fbf}
 
-* `PhotoshopLayers` 
-* `PostScriptRip` 
-* `ImageConvert` 
-* `SceneAuthoring` 
-* `Aco`
+* [!DNL `PhotoshopLayers`] 
+* [!DNL `PostScriptRip`] 
+* [!DNL `ImageConvert`] 
+* [!DNL `SceneAuthoring`] 
+* [!DNL `Aco`]
 

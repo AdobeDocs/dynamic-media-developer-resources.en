@@ -16,6 +16,6 @@ Used by searchAssetsParam/sortDirection and getJobLogsParam/sortDirection.
 
 ## Values {#section-4b14bf4b990e4f5897bff806ed3e137b}
 
-* `Ascending` 
-* `Descending`
+* [!DNL `Ascending`]
+* [!DNL `Descending`]
 

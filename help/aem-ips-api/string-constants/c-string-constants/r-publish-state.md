@@ -16,6 +16,6 @@ Used by searchAssetsParam/publishState, setAssetPublishStateParam/publishState a
 
 ## Values {#section-3520f173a35443bbb4a2b03047acd4c6}
 
-* `MarkedForPublish` 
-* `NotMarkedForPublish`
+* [!DNL `MarkedForPublish`] 
+* [!DNL `NotMarkedForPublish`]
 

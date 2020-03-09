@@ -12,7 +12,7 @@ uuid: 602fbf82-429b-443c-9163-f4d2e2b922dd
 
 JavaScript API reference for eCatalog Viewer.
 
- `setHandlers(handlers)`
+ [!DNL `setHandlers(handlers)`]
 
 Specifies zero or more callback handlers. A call to this method fully overwrites event handlers that were previously assigned for that viewer instance. Must be called before `init()`.
 

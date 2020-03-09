@@ -24,14 +24,14 @@ Describes values used by various parameters. See the list in this article for de
 
 ## Values {#section-bbe2e596e56b4242b20fd08d578c472e}
 
-* `IpsAdmin` 
-* `IpsCompanyAdmin` 
-* `IpsUser` 
-* `WebServiceUser` 
-* `TrialSiteAdmin` 
-* `TrialSiteUser` 
-* `ImagePortalAdmin` 
-* `ImagePortalUser` 
-* `ImagePortalContrib` 
-* `ImagePortalContribUser`
+* [!DNL `IpsAdmin`] 
+* [!DNL `IpsCompanyAdmin`] 
+* [!DNL `IpsUser`] 
+* [!DNL `WebServiceUser`] 
+* [!DNL `TrialSiteAdmin`] 
+* [!DNL `TrialSiteUser`] 
+* [!DNL `ImagePortalAdmin`] 
+* [!DNL `ImagePortalUser`] 
+* [!DNL `ImagePortalContrib`] 
+* [!DNL `ImagePortalContribUser`]
 

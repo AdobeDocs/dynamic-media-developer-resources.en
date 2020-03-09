@@ -16,13 +16,13 @@ used by PhotoshopOptions/anchor.
 
 ## Values {#section-c707aedf41be4bb9964e67e2bcdff57b}
 
-* `Center` 
-* `North` 
-* `Northwest` 
-* `West` 
-* `Southwest` 
-* `South` 
-* `Southeast` 
-* `East` 
-* `Northeast`
+* [!DNL `Center`] 
+* [!DNL `North`] 
+* [!DNL `Northwest`] 
+* [!DNL `West`] 
+* [!DNL `Southwest`] 
+* [!DNL `South`] 
+* [!DNL `Southeast`] 
+* [!DNL `East`] 
+* [!DNL `Northeast`]
 

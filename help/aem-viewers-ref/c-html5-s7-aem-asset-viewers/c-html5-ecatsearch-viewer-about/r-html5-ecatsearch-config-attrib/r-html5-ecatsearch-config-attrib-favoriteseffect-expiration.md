@@ -10,7 +10,7 @@ uuid: 3b852317-af42-423e-a065-92192f0065db
 
 # FavoritesEffect.expiration{#favoriteseffect-expiration}
 
-` [FavoritesEffect.|<containerId>_favoritesEffect.]expiration= *`days`*`
+[!DNL ` [FavoritesEffect.|<containerId>_favoritesEffect.]expiration= *`days`*`]
 
 <table id="table_2B109D2F91E64B5382B31921C3780FA5"> 
  <tbody> 
@@ -27,8 +27,8 @@ Optional.
 
 ## Default {#section-d016470e92a74f98a18c4ab3489410a5}
 
-`30`
+[!DNL `30`]
 
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
-`expiration=7` 
+[!DNL `expiration=7`] 

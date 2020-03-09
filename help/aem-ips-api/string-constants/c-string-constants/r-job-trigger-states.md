@@ -16,14 +16,14 @@ Used by ScheduledJob/triggerState.
 
 ## Values {#section-5d017b2996014fc79c27dd0c6b35d056}
 
-* `Blocked` 
-* `Complete` 
-* `Error` 
-* `None` 
-* `Normal` 
-* `Paused` 
-* `UrlUpload` 
-* `MetadataUpload` 
-* `ImageOptimization` 
-* `Cleanup`
+* [!DNL `Blocked`] 
+* [!DNL `Complete`] 
+* [!DNL `Error`] 
+* [!DNL `None`] 
+* [!DNL `Normal`] 
+* [!DNL `Paused`] 
+* [!DNL `UrlUpload`] 
+* [!DNL `MetadataUpload`] 
+* [!DNL `ImageOptimization`] 
+* [!DNL `Cleanup`]
 

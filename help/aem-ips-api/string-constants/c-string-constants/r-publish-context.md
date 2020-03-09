@@ -16,8 +16,8 @@ Used by getActivePublishContextsReturn/publishContext.
 
 ## Values {#section-704faf94b5214a368d659dae178dc7c0}
 
-* `ImageServing` 
-* `ImageRendering` 
-* `Video` 
-* `ServerDirectory`
+* [!DNL `ImageServing`] 
+* [!DNL `ImageRendering`] 
+* [!DNL `Video`] 
+* [!DNL `ServerDirectory`]
 

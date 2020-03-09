@@ -10,7 +10,7 @@ uuid: 30f133bd-09c7-4d70-bcc4-d961bb028e55
 
 # ControlBar.transition{#controlbar-transition}
 
- ` [ControlBar.|<containerId>_controls.]transition=none|fade[, *`delaytohide`*[, *`duration`*]`
+ [!DNL ` [ControlBar.|<containerId>_controls.]transition=none|fade[, *`delaytohide`*[, *`duration`*]`]
 
 <table id="table_F71AA834FE494949A2D4B569EA5E721F"> 
  <tbody> 
@@ -35,8 +35,8 @@ Optional. This command is ignored on touch devices, where the control bar auto-h
 
 ## Default {#section-d016470e92a74f98a18c4ab3489410a5}
 
-`fade,2,0.5`
+[!DNL `fade,2,0.5`]
 
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
-`transition=none` 
+[!DNL `transition=none`] 

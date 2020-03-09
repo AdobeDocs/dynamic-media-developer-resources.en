@@ -10,7 +10,7 @@ uuid: af2f11a8-a452-49d6-9e8f-d4a5f05b73d2
 
 # ImageMapEffect.mode{#imagemapeffect-mode}
 
- `[ImageMapEffect.|<containerId>_imageMapEffect.]mode=icon|region|auto|none`
+ [!DNL `[ImageMapEffect.|<containerId>_imageMapEffect.]mode=icon|region|auto|none`]
 
 <table id="table_4A3D7D66D76A403199303155318D0DE1"> 
  <tbody> 
@@ -33,8 +33,8 @@ Optional.
 
 ## Default {#section-64fdf33e0f874edaad5a9bcf7ab58dc7}
 
-`icon`
+[!DNL `icon`]
 
 ## Example {#section-319450f834e5406fb1bca77372e03b4b}
 
-`mode=auto` 
+[!DNL `mode=auto`] 

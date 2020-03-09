@@ -10,7 +10,7 @@ uuid: 276122d8-2109-42eb-be13-bead35cd3fe2
 
 # ImageMapEffect.rollover{#imagemapeffect-rollover}
 
-`[ImageMapEffect.|<containerId>_imageMapEffect.]rollover=0|1`
+[!DNL `[ImageMapEffect.|<containerId>_imageMapEffect.]rollover=0|1`]
 
 <table id="table_2671D63442B54F659C32C4A3CC61DD7C"> 
  <tbody> 
@@ -27,8 +27,8 @@ Optional.
 
 ## Default {#section-79eb39c444814c9398df1f5f3730d289}
 
-`0`
+[!DNL `0`]
 
 ## Example {#section-b548ed09b52b4b65888ac891af08d725}
 
-`rollover=1` 
+[!DNL `rollover=1`] 

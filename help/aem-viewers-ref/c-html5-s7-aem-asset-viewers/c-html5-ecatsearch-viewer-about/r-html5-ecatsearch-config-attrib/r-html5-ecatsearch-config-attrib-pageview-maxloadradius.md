@@ -10,7 +10,7 @@ uuid: e60603a5-06dc-43e3-a380-b4d97fc539f1
 
 # PageView.maxloadradius{#pageview-maxloadradius}
 
-` [PageView.|<containerId>_pageView.]maxloadradius=-1|0| *`preloadnbr`*`
+ [!DNL `[PageView.|<containerId>_pageView.]maxloadradius=-1|0| *`preloadnbr`*`]
 
 <table id="table_985ADD6C9BD04C629A84C9C625CCCFEB"> 
  <tbody> 
@@ -27,8 +27,8 @@ Optional.
 
 ## Default {#section-f0d5211aa2494f27a5a85e4a54b24ea2}
 
-`1`
+[!DNL `1`]
 
 ## Example {#section-4e27dfc1e2ce4dd7a4996dc575ab7a93}
 
-`maxloadradius=0` 
+[!DNL `maxloadradius=0`] 

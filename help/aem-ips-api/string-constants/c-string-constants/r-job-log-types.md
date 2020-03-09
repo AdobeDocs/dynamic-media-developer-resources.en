@@ -16,105 +16,105 @@ Used by JobLogDetail/logType and JobLog/logType.
 
 ## Values {#section-0d0b5e32fbad41538b51fbb9a7319cbd}
 
-* `BeginImageServingPublish` 
-* `EndImageServingPublish` 
-* `ImageServingPublishSuccess` 
-* `ImageServingPublishError` 
-* `ImageServingPublishWarning` 
-* `BeginUpload` 
-* `EndUpload` 
-* `UploadError` 
-* `UploadSuccess` 
-* `UploadWarning` 
-* `BeginAssetMigration` 
-* `EndAssetMigration` 
-* `EndAssetMigration` 
-* `AssetMigrationFailure` 
-* `AssetMigrationSuccess` 
-* `BeginDelete` 
-* `EndDelete` 
-* `BeginEmptyTrash` 
-* `EndEmptyTrash` 
-* `EmptyTrashSuccess` 
-* `BeginGet` 
-* `EndGet` 
-* `GetFailure` 
-* `ReturnSuccess` 
-* `BeginImageRenderingPublish` 
-* `EndImageRenderingPublish` 
-* `ImageRenderingPublishError` 
-* `ImageRenderingPublishSuccess` 
-* `BeginImageRenderingPublishCleanup` 
-* `EndImageRenderingPublishCleanupFailure` 
-* `ImageRenderingPublishCleanupsuccess` 
-* `BeginMarkForPublish` 
-* `EndMarkForPublish` 
-* `MarkForPublishFailure` 
-* `MarkForPublishSuccess` 
-* `BeginMetadata` 
-* `EndMetadata` 
-* `MetadataFailure` 
-* `MetadataSuccess` 
-* `BeginPdfRip` 
-* `PdfRipError` 
-* `BeginImageServingPublishCleanup` 
-* `EndImageServingPublishCleanup` 
-* `ImageServingPublishCleanupFailure` 
-* `ImageServingPublishCleanupSuccess` 
-* `BeginPublishToCm` 
-* `EndPublishToCm` 
-* `PublishToCmError` 
-* `PublishToCmSuccess` 
-* `BeginServerDirectoryPublish` 
-* `EndServerDirectoryPublish` 
-* `ServerDirectoryPublishError` 
-* `ServerDirectoryPublishSuccess` 
-* `ServerDirectoryPublishWarning` 
-* `BeginPublishToWc` 
-* `PublishToWcSuccess` 
-* `BeginReoptimize` 
-* `endReoptimize` 
-* `ReoptimizeSuccess` 
-* `ReoptimizeFailure` 
-* `BeginRestoreTrash` 
-* `EndRestoreTrash` 
-* `RestoreTrashSuccess` 
-* `BeginTemplateMerge` 
-* `EndTemplateMerge` 
-* `TemplateMergeError` 
-* `TemplateMergeSuccess` 
-* `BeginTrash` 
-* `EndTrash` 
-* `TrashFailure` 
-* `TrashSuccess` 
-* `TrashWarning` 
-* `BeginUnmarkForPublish` 
-* `EndUnmarkForPublish` 
-* `UnmarkForPublishSuccess` 
-* `BeginUploadUrls` 
-* `EndUploadUrls` 
-* `BeginVideoPublish` 
-* `EndVideoPublish` 
-* `VideoPublishError` 
-* `VideoPubilshSuccess` 
-* `VideoPublishWarning` 
-* `BeginVideoPublishCleanup` 
-* `EndVideoPublishCleanup` 
-* `VideoPublishCleanupFailure` 
-* `VideoPublishCleanupSuccess` 
-* `DeleteFailure` 
-* `DeleteSuccess` 
-* `DuplicateSkipped` 
-* `FatalError` 
-* `FileBegin` 
-* `FileCancel` 
-* `FleEnd` 
-* `FileProgress` 
-* `FileUpdated` 
-* `InitiatingJobName` 
-* `JobClient` 
-* `JobType` 
-* `OriginalJobName` 
-* `TotalFileCount` 
-* `RecoverTrashSuccess`
+* [!DNL `BeginImageServingPublish`] 
+* [!DNL `EndImageServingPublish`] 
+* [!DNL `ImageServingPublishSuccess`] 
+* [!DNL `ImageServingPublishError`] 
+* [!DNL `ImageServingPublishWarning`] 
+* [!DNL `BeginUpload` 
+* [!DNL `EndUpload`] 
+* [!DNL `UploadError`] 
+* [!DNL `UploadSuccess`] 
+* [!DNL `UploadWarning`] 
+* [!DNL `BeginAssetMigration`] 
+* [!DNL `EndAssetMigration`] 
+* [!DNL `EndAssetMigration`] 
+* [!DNL `AssetMigrationFailure`] 
+* [!DNL `AssetMigrationSuccess`] 
+* [!DNL `BeginDelete`] 
+* [!DNL `EndDelete`] 
+* [!DNL `BeginEmptyTrash`] 
+* [!DNL `EndEmptyTrash`] 
+* [!DNL `EmptyTrashSuccess`] 
+* [!DNL `BeginGet`] 
+* [!DNL `EndGet`] 
+* [!DNL `GetFailure`] 
+* [!DNL `ReturnSuccess`] 
+* [!DNL `BeginImageRenderingPublish` 
+* [!DNL `EndImageRenderingPublish`] 
+* [!DNL `ImageRenderingPublishError`] 
+* [!DNL `ImageRenderingPublishSuccess`] 
+* [!DNL `BeginImageRenderingPublishCleanup`] 
+* [!DNL `EndImageRenderingPublishCleanupFailure`] 
+* [!DNL `ImageRenderingPublishCleanupsuccess`] 
+* [!DNL `BeginMarkForPublish`] 
+* [!DNL `EndMarkForPublish`] 
+* [!DNL `MarkForPublishFailure`] 
+* [!DNL `MarkForPublishSuccess`] 
+* [!DNL `BeginMetadata`] 
+* [!DNL `EndMetadata`] 
+* [!DNL `MetadataFailure`] 
+* [!DNL `MetadataSuccess`] 
+* [!DNL `BeginPdfRip`] 
+* [!DNL `PdfRipError`] 
+* [!DNL `BeginImageServingPublishCleanup`] 
+* [!DNL `EndImageServingPublishCleanup`] 
+* [!DNL `ImageServingPublishCleanupFailure`] 
+* [!DNL `ImageServingPublishCleanupSuccess`] 
+* [!DNL `BeginPublishToCm`] 
+* [!DNL `EndPublishToCm`] 
+* [!DNL `PublishToCmError`] 
+* [!DNL `PublishToCmSuccess`] 
+* [!DNL `BeginServerDirectoryPublish`] 
+* [!DNL `EndServerDirectoryPublish`] 
+* [!DNL `ServerDirectoryPublishError`] 
+* [!DNL `ServerDirectoryPublishSuccess`] 
+* [!DNL `ServerDirectoryPublishWarning`] 
+* [!DNL `BeginPublishToWc`] 
+* [!DNL `PublishToWcSuccess`] 
+* [!DNL `BeginReoptimize`] 
+* [!DNL `endReoptimize`] 
+* [!DNL `ReoptimizeSuccess`] 
+* [!DNL `ReoptimizeFailure`] 
+* [!DNL `BeginRestoreTrash`] 
+* [!DNL `EndRestoreTrash`] 
+* [!DNL `RestoreTrashSuccess`] 
+* [!DNL `BeginTemplateMerge`] 
+* [!DNL `EndTemplateMerge`] 
+* [!DNL `TemplateMergeError`] 
+* [!DNL `TemplateMergeSuccess` 
+* [!DNL `BeginTrash`] 
+* [!DNL `EndTrash`] 
+* [!DNL `TrashFailure`] 
+* [!DNL `TrashSuccess]` 
+* [!DNL `TrashWarning`] 
+* [!DNL `BeginUnmarkForPublish`] 
+* [!DNL `EndUnmarkForPublish`] 
+* [!DNL `UnmarkForPublishSuccess`] 
+* [!DNL `BeginUploadUrls`] 
+* [!DNL `EndUploadUrls` 
+* [!DNL `BeginVideoPubl]ish`] 
+* [!DNL `EndVideoPublish`] 
+* [!DNL `VideoPublishError`] 
+* [!DNL `VideoPubilshSuccess`] 
+* [!DNL `VideoPublishWarning`] 
+* [!DNL `BeginVideoPublishCleanup`] 
+* [!DNL `EndVideoPublishCleanup`] 
+* [!DNL `VideoPublishCleanupFailure`] 
+* [!DNL `VideoPublishCleanupSuccess`] 
+* [!DNL `DeleteFailure`] 
+* [!DNL `DeleteSuccess`] 
+* [!DNL `DuplicateSkipped`] 
+* [!DNL `FatalError`] 
+* [!DNL `FileBegin`] 
+* [!DNL `FileCancel`] 
+* [!DNL `FleEnd`] 
+* [!DNL `FileProgress`] 
+* [!DNL `FileUpdated`] 
+* [!DNL `InitiatingJobName`] 
+* [!DNL `JobClient`] 
+* [!DNL `JobType`] 
+* [!DNL `OriginalJobName`] 
+* [!DNL `TotalFileCount`] 
+* [!DNL `RecoverTrashSuccess`]
 

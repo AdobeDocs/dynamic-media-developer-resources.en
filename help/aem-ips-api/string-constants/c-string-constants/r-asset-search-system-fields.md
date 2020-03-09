@@ -16,16 +16,16 @@ Used by SystemFieldCondition/field.
 
 ## Values {#section-7ed87b7f87ed4a369094deff938823d0}
 
-* `Name` 
-* `Keywords` 
-* `Description` 
-* `Comments` 
-* `UserData` 
-* `Sku` 
-* `FileSize` 
-* `CreatedWith` 
-* `Created` 
-* `CreateUser` 
-* `LastModifyUser` 
-* `FileName`
+* [!DNL `Name`] 
+* [!DNL `Keywords`] 
+* [!DNL `Description`] 
+* [!DNL `Comments`] 
+* [!DNL `UserData`] 
+* [!DNL `Sku`] 
+* [!DNL `FileSize`] 
+* [!DNL `CreatedWith`] 
+* [!DNL `Created`] 
+* [!DNL `CreateUser`] 
+* [!DNL `LastModifyUser`] 
+* [!DNL `FileName`]
 

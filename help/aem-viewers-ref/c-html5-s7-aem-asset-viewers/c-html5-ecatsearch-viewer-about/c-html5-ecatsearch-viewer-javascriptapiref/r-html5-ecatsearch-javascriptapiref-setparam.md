@@ -12,11 +12,11 @@ uuid: a732461f-1b34-4ebe-9dfd-69175762e574
 
 JavaScript API reference for eCatalog Viewer.
 
- ` setParam( *`name, value`*)`
+ [!DNL ` setParam( *`name, value`*)`]
 
-Sets the viewer parameter to a specified value. The parameter is either a viewer-specific configuration option or a software development kit modifier. This parameter is called before `init()`.
+Sets the viewer parameter to a specified value. The parameter is either a viewer-specific configuration option or a software development kit modifier. This parameter is called before [!DNL `init()`].
 
-This method is optional if the viewer configuration information is passed with `config` JSON object to the constructor.
+This method is optional if the viewer configuration information is passed with [!DNL `config`] JSON object to the constructor.
 
 See also [init](../../../c-html5-s7-aem-asset-viewers/c-html5-20-ecatalog-viewer-about/c-html5-20-ecatalog-viewer-javascriptapiref/r-html5-ecatalog-viewer-20-javascriptapiref-init.md#reference-aee94dd92a28410784f7a1792e28683b).
 
@@ -40,6 +40,6 @@ None.
 ## Example {#section-9e9332aa86b74a5fb321375c03fdc5b3}
 
 ```
-<instance>.setParam("style", "customStyle.css")
+[!DNL <instance>.setParam("style", "customStyle.css")]
 ```
 

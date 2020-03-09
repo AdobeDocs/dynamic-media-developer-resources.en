@@ -25,9 +25,9 @@ Describes values used by various input parameters. See the list in this article 
 
 ## Values {#section-58dadbd1338446d2a5e5b3e3ab0e5e92}
 
-* `All` 
-* `Error` 
-* `ErrorAndWarning` 
-* `JobCompletion` 
-* `None`
+* [!DNL `All`] 
+* [!DNL `Error`] 
+* [!DNL `ErrorAndWarning`] 
+* [!DNL `JobCompletion`] 
+* [!DNL `None`]
 

@@ -10,7 +10,7 @@ uuid: 851e3631-0fd9-4ed5-bef9-af5dca6e7646
 
 # FavoritesView.textpos{#favoritesview-textpos}
 
-`[FavoritesView.|<containerId>_favoritesView.]textpos=bottom|top|left|right|none|tooltip`
+[!DNL `[FavoritesView.|<containerId>_favoritesView.]textpos=bottom|top|left|right|none|tooltip`]
 
 <table id="table_2B109D2F91E64B5382B31921C3780FA5"> 
  <tbody> 
@@ -27,8 +27,8 @@ Optional.
 
 ## Default {#section-d016470e92a74f98a18c4ab3489410a5}
 
-`bottom`
+[!DNL `bottom`]
 
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
-`textpos=top` 
+[!DNL `textpos=top`] 

@@ -10,7 +10,7 @@ uuid: 7c64551a-71e2-4725-bf35-cbaeaaa45a40
 
 # SocialShare.bearing{#socialshare-bearing}
 
- `[SocialShare.|<containerId>_socialShare.]bearing= up|down|left|right|fit-vertical|fit-lateral`
+ [!DNL `[SocialShare.|<containerId>_socialShare.]bearing= up|down|left|right|fit-vertical|fit-lateral`]
 
 <table id="table_0002BE81371D4E16A56FBEDD13FDF3C2"> 
  <tbody> 
@@ -27,8 +27,8 @@ Optional.
 
 ## Default {#section-da4f728f90694e3f9b4842b32c2e9952}
 
-`fit-vertical`
+[!DNL `fit-vertical`]
 
 ## Example {#section-b48f9881aca44bb5a30866d905d98035}
 
-`bearing=left` 
+[!DNL `bearing=left`] 

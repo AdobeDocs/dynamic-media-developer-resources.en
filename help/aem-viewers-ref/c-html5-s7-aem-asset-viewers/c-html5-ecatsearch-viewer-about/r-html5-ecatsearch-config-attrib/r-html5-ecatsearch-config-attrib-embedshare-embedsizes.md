@@ -10,7 +10,7 @@ uuid: ffac9833-a048-4629-902f-832963431ae4
 
 # EmbedShare.embedsizes{#embedshare-embedsizes}
 
- ` [EmbedShare.|<containerId>_embedShare.]embedsizes= *`width`*, *`height`*[,0|1][; *`width`*, *`height`*[,0|1]]`
+ [!DNL ` [EmbedShare.|<containerId>_embedShare.]embedsizes= *`width`*, *`height`*[,0|1][; *`width`*, *`height`*[,0|1]]`]
 
 <table id="table_2B109D2F91E64B5382B31921C3780FA5"> 
  <tbody> 
@@ -35,8 +35,8 @@ Optional.
 
 ## Default {#section-d016470e92a74f98a18c4ab3489410a5}
 
-`1280,960;640,480;320,240`
+[!DNL `1280,960;640,480;320,240`]
 
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
-`embedsizes=800,600;640,480,1` 
+[!DNL `embedsizes=800,600;640,480,1`] 

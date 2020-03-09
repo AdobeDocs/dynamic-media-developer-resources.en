@@ -10,7 +10,7 @@ uuid: b08b605e-5ffc-42cc-931d-d67750a8dca8
 
 # PageView.singleclick{#pageview-singleclick}
 
- `[PageView.|<containerId>_pageView.]singleclick=none|zoom|reset|zoomReset`
+ [!DNL `[PageView.|<containerId>_pageView.]singleclick=none|zoom|reset|zoomReset`]
 
 <table id="table_5654736F216D4ABC9FC783F83E0BBA03"> 
  <tbody> 
@@ -27,8 +27,8 @@ Optional.
 
 ## Default {#section-58cbfe8a90214c49bbbfb7e83c569d75}
 
-`zoomReset` on desktop computers; `none` on touch devices.
+[!DNL `zoomReset`] on desktop computers; [!DNL `none`] on touch devices.
 
 ## Example {#section-5f63781afec94e0189e135995f686c20}
 
-`singleclick=zoom` 
+[!DNL `singleclick=zoom`]

@@ -10,7 +10,7 @@ uuid: 3f805ef8-f5c4-42a1-952e-a21a0854446e
 
 # InitialFrame{#initialframe}
 
- ` initialFrame= *`frame`*`
+ [!DNL ` initialFrame= *`frame`*`]
 
 <table id="table_06B5F795889E402FB6BCEA4D882E1422"> 
  <tbody> 
@@ -27,13 +27,13 @@ Optional.
 
 ## Default {#section-bbc6ebad3af54fd79837515c270e6ddf}
 
-`0`
+[!DNL `0`]
 
 ## Example {#section-cbc6684eb22e4d0883edc4b3d5742336}
 
 When specified in the viewer URL. 
 
 ```
-initialFrame=2
+[!DNL initialFrame=2
 ```
 

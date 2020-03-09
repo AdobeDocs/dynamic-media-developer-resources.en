@@ -10,9 +10,9 @@ uuid: 748adb73-bfb6-4fce-aa6a-4216184edabb
 
 # PageView.pageturnstyle{#pageview-pageturnstyle}
 
-` [PageView.|<containerId>_pageView.]pageturnstyle= *`dividerWidth`*, *`dividerColor`*, *`dividerOpacity`*, *`borderOnOff`*, *`borderColor`*, *`fillColor`*`
+ [!DNL `[PageView.|<containerId>_pageView.]pageturnstyle= *`dividerWidth`*, *`dividerColor`*, *`dividerOpacity`*, *`borderOnOff`*, *`borderColor`*, *`fillColor`*`]
 
-Controls the component appearance when a `PageView.frametransition` is set to `turn` or to `auto` on desktop systems.
+Controls the component appearance when a [!DNL `PageView.frametransition`] is set to [!DNL `turn`] or to [!DNL `auto`] on desktop systems.
 
 <table id="table_A8CDA1AE2680402A99BCD5DD371B225F"> 
  <tbody> 
@@ -49,8 +49,8 @@ Optional.
 
 ## Default {#section-43fd13f639c2480c82658fafeeaf0846}
 
-`40,909090,1,1,909090,FFFFFF`
+[!DNL `40,909090,1,1,909090,FFFFFF`]
 
 ## Examples {#section-bb97b2aac37a43eba11d263ce7049363}
 
-`pageturnstyle=20,FF0000,1,1,00FF00,0000FF` 
+[!DNL `pageturnstyle=20,FF0000,1,1,00FF00,0000FF`] 

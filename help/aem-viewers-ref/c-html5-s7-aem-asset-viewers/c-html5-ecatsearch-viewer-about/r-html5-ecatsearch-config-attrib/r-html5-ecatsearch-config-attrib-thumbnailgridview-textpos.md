@@ -10,7 +10,7 @@ uuid: d38c614b-01ed-4fad-a510-30386ac9a63d
 
 # ThumbnailGridView.textpos{#thumbnailgridview-textpos}
 
- `[ThumbnailGridView.|<containerId>_gridView.]textpos=bottom|top|left|right|none|tooltip`
+ [!DNL `[ThumbnailGridView.|<containerId>_gridView.]textpos=bottom|top|left|right|none|tooltip`]
 
 <table id="table_1BEBE260769B4A0C9E9F5016D2FA68A0"> 
  <tbody> 
@@ -27,8 +27,8 @@ Optional.
 
 ## Default {#section-7dde91b778d54fa483bd6bb2b1a403f5}
 
-`bottom`
+[!DNL `bottom`]
 
 ## Example {#section-4996ba7ba96347f78817c2295b71116a}
 
-`textpos=top` 
+[!DNL `textpos=top`] 

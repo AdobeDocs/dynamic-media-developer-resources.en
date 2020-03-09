@@ -10,7 +10,7 @@ uuid: ed68aaa1-121c-458e-a724-3832915dca24
 
 # SearchPanel.textpos{#searchpanel-textpos}
 
-`[SearchPanel.|<containerId>_searchPanel.]textpos=bottom|top|left|right|none|tooltip`
+ [!DNL `[SearchPanel.|<containerId>_searchPanel.]textpos=bottom|top|left|right|none|tooltip`]
 
 <table id="table_2B109D2F91E64B5382B31921C3780FA5"> 
  <tbody> 
@@ -27,8 +27,8 @@ Optional.
 
 ## Default {#section-d016470e92a74f98a18c4ab3489410a5}
 
-`top`
+[!DNL `top`]
 
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
-`textpos=bottom` 
+[!DNL `textpos=bottom`] 

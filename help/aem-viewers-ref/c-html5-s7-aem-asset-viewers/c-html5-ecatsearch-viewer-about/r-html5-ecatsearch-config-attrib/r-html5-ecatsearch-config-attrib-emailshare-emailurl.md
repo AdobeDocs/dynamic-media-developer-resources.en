@@ -10,7 +10,7 @@ uuid: 27e3b0fb-0503-4993-a858-3f29d8d3bfb0
 
 # EmailShare.emailurl{#emailshare-emailurl}
 
-` [EmailShare.|<containerId>_emailShare.]emailurl= *`emailurl`*`
+[!DNL ` [EmailShare.|<containerId>_emailShare.]emailurl= *`emailurl`*`]
 
 <table id="table_5321841E90C941678F32AAF995CDC257"> 
  <tbody> 
@@ -27,8 +27,8 @@ Optional.
 
 ## Default {#section-d016470e92a74f98a18c4ab3489410a5}
 
-`/s7/emailFriend`
+[!DNL `/s7/emailFriend`]
 
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
-`emailurl=http://s7d1.scene7.com/s7/emailFriend` 
+[!DNL `emailurl=http://s7d1.scene7.com/s7/emailFriend`] 

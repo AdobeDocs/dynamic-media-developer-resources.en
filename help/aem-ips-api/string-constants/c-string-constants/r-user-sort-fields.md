@@ -16,11 +16,11 @@ Used by getUsersParam/sortBy.
 
 ## Values {#section-cb8e5bad0b6849d3bc093682132b8b6d}
 
-* `None` 
-* `FirstName` 
-* `LastName` 
-* `Email` 
-* `Role` 
-* `Valid` 
-* `PasswordExpiration`
+* [!DNL `None`] 
+* [!DNL `FirstName`] 
+* [!DNL `LastName`] 
+* [!DNL `Email`] 
+* [!DNL `Role`] 
+* [!DNL `Valid`] 
+* [!DNL `PasswordExpiration`]
 

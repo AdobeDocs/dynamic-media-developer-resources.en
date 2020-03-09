@@ -16,8 +16,8 @@ Used by PhotoshopOptions/layerNaming.
 
 ## Values {#section-44fa73bf626a48999e7d7b170ceb1522}
 
-* `LayerName` 
-* `AppendNumber` 
-* `AppendName` 
-* `Folders`
+* [!DNL `LayerName`] 
+* [!DNL `AppendNumber`] 
+* [!DNL `AppendName`] 
+* [!DNL `Folders`]
 

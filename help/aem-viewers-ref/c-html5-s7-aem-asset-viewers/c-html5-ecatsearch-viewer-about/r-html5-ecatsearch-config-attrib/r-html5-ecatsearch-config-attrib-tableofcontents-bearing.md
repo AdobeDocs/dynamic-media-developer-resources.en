@@ -10,7 +10,7 @@ uuid: 832ebacf-d57f-4efa-ab1a-6a454f7c7a32
 
 # TableOfContents.bearing{#tableofcontents-bearing}
 
-` [TableOfContents.|<containerId>_tableOfContents.]bearing=[fit-lateral|fit-vertical][, *`autoHideDelay`*]`
+ [!DNL `[TableOfContents.|<containerId>_tableOfContents.]bearing=[fit-lateral|fit-vertical][, *`autoHideDelay`*]`]
 
 <table id="table_5151E6EA076C4AAD8D952A09E1F17C44"> 
  <tbody> 
@@ -31,8 +31,8 @@ Optional.
 
 ## Default {#section-049d3f94c9794510906c6f81d6cc5485}
 
-`fit-vertical,2`
+[!DNL `fit-vertical,2`]
 
 ## Example {#section-68ff51c4e2b740c995fc5109cc0063bd}
 
-`bearing=fit-vertical,0.5` 
+[!DNL `bearing=fit-vertical,0.5`] 

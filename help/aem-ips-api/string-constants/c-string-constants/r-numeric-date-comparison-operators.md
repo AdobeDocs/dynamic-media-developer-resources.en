@@ -16,10 +16,10 @@ Used by SystemFieldCondition/op.
 
 ## Values {#section-a12a6cc2a71f4808ac0ed4c112781bb3}
 
-* `Equals` 
-* `NotEquals` 
-* `LessThan` 
-* `LessThanEquals` 
-* `GreaterThan` 
-* `GreaterThanEquals`
+* [!DNL `Equals`] 
+* [!DNL `NotEquals`] 
+* [!DNL `LessThan`] 
+* [!DNL `LessThanEquals`] 
+* [!DNL `GreaterThan`] 
+* [!DNL `GreaterThanEquals`]
 

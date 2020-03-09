@@ -10,7 +10,7 @@ uuid: 8ed79fd8-e265-4cfb-b235-f4c0d657a3f5
 
 # ImageMapEffect.mapTips{#imagemapeffect-maptips}
 
-`[ImageMapEffect.|<containerId>_imageMapEffect.]mapTips=0|1`
+[!DNL `[ImageMapEffect.|<containerId>_imageMapEffect.]mapTips=0|1`]
 
 <table id="table_3DBC5A70C9264CECA1CB3D1D08CEDF31"> 
  <tbody> 
@@ -27,8 +27,8 @@ Optional.
 
 ## Default {#section-d016470e92a74f98a18c4ab3489410a5}
 
-`0`
+[!DNL `0`]
 
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
-`mapTips=1` 
+[!DNL `mapTips=1`] 

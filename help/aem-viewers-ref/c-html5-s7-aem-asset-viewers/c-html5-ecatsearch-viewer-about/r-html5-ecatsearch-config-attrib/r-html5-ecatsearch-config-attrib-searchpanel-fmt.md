@@ -10,7 +10,7 @@ uuid: 58b88cc9-e07a-47aa-a0d2-c81428ca4d1e
 
 # SearchPanel.fmt{#searchpanel-fmt}
 
- `[SearchPanel.|<containerId>_searchPanel.]fmt=jpg|jpeg|png|png-alpha|gif|gif-alpha`
+ [!DNL `[SearchPanel.|<containerId>_searchPanel.]fmt=jpg|jpeg|png|png-alpha|gif|gif-alpha`]
 
 <table id="table_8629FDB399124A57B8026E46687D0BC2"> 
  <tbody> 
@@ -27,8 +27,8 @@ Optional.
 
 ## Default {#section-4b6a350501124ffa9a6b1b71b32eff5d}
 
-`jpeg`
+[!DNL `jpeg`]
 
 ## Example {#section-7de29e43bb3640e4aa1f8984b4afddad}
 
-`fmt=png-alpha` 
+[!DNL `fmt=png-alpha`] 

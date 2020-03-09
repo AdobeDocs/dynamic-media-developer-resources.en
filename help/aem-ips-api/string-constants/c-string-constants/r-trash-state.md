@@ -16,7 +16,7 @@ Used by searchAssetReturn/trashState.
 
 ## Values {#section-00b5ffd60f3d43219bac8beb91d4f909}
 
-* `NotInTrash` 
-* `InTrash` 
-* `InEmptiedTrash`
+* [!DNL `NotInTrash`] 
+* [!DNL `InTrash`] 
+* [!DNL `InEmptiedTrash`]
 

@@ -16,13 +16,13 @@ Used by getJobLogsParam/sortBy
 
 ## Values {#section-e59e2c76cec94599946bd3714d3d6dd3}
 
-* `JobName` 
-* `LogType` 
-* `StartDate` 
-* `CompanyName` 
-* `UserId` 
-* `Email` 
-* `FileErrorCount` 
-* `FileWarningCount` 
-* `FileSuccessCount`
+* [!DNL `JobName`] 
+* [!DNL `LogType`] 
+* [!DNL `StartDate`] 
+* [!DNL `CompanyName`] 
+* [!DNL `UserId`] 
+* [!DNL `Email`] 
+* [!DNL `FileErrorCount`] 
+* [!DNL `FileWarningCount`] 
+* [!DNL `FileSuccessCount`]
 

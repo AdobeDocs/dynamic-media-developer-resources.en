@@ -16,7 +16,7 @@ Used by PermissionsUpdate/permissionType, Permission/permissionType.
 
 ## Values {#section-fcef5f20cd9f473b8fa7efa43395f3f3}
 
-* `Read` 
-* `Write` 
-* `Delete`
+* [!DNL `Read`] 
+* [!DNL `Write`] 
+* [!DNL `Delete`]
 

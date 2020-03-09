@@ -10,7 +10,7 @@ uuid: 27eb2a48-008b-455e-9a03-41bb4030271b
 
 # PageView.zoomstep{#pageview-zoomstep}
 
- ` [PageView.|<containerId>_pageView.]zoomstep= *`step`*[, *`limit`*]`
+  [!DNL `[PageView.|<containerId>_pageView.]zoomstep= *`step`*[, *`limit`*]`]
 
 <table id="table_82C9252157DB41B5B98505855975D2F5"> 
  <tbody> 
@@ -31,8 +31,8 @@ Optional.
 
 ## Default {#section-ad8a5fe2383e4c228bf177a41b53d921}
 
-`1,1`
+[!DNL `1,1`]
 
 ## Example {#section-1e20672d42c845bd84f02f88cbc53efc}
 
-`zoomstep=2,3` 
+[!DNL `zoomstep=2,3`] 

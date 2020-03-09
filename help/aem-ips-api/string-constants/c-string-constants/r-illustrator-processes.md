@@ -16,6 +16,6 @@ Used by Illustrator/processes.
 
 ## Values {#section-92a45a4a33d64681b16b7b295c109cc3}
 
-* `None` 
-* `Rasterize`
+* [!DNL `None`] 
+* [!DNL `Rasterize`]
 

@@ -10,7 +10,7 @@ uuid: c62302b0-d034-49d4-b5a8-1a77a46fe889
 
 # PageView.doubleclick{#pageview-doubleclick}
 
- `[PageView.|<containerId>_pageView.]doubleclick=none|zoom|reset|zoomReset`
+ [!DNL `[PageView.|<containerId>_pageView.]doubleclick=none|zoom|reset|zoomReset`]
 
 <table id="table_942C8BDBDE1B441596987E9E971202E7"> 
  <tbody> 
@@ -27,8 +27,8 @@ Optional.
 
 ## Default {#section-814d6bc6a0834005a0a72c7040e45693}
 
-`reset` on desktop computers; `zoomReset` on touch devices.
+[!DNL `reset`] on desktop computers; [!DNL `zoomReset`] on touch devices.
 
 ## Example {#section-986e7672f3694b7aa7572fb4428172ca}
 
-`doubleclick=zoom` 
+[!DNL `doubleclick=zoom`] 

@@ -10,7 +10,7 @@ uuid: a95d4051-7bc1-4b3f-8478-c5b7ab28fa61
 
 # FavoritesView.favoritesThumbView{#favoritesview-favoritesthumbview}
 
-` [FavoritesView.|<containerId>_favoritesView.]favoritesThumbArea= *`area`*`
+[!DNL ` [FavoritesView.|<containerId>_favoritesView.]favoritesThumbArea= *`area`*`]
 
 <table id="table_2B109D2F91E64B5382B31921C3780FA5"> 
  <tbody> 
@@ -27,8 +27,8 @@ Optional.
 
 ## Default {#section-d016470e92a74f98a18c4ab3489410a5}
 
-`0.1`
+[!DNL `0.1`]
 
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
-`favoritesThumbArea=0.5` 
+[!DNL `favoritesThumbArea=0.5`] 

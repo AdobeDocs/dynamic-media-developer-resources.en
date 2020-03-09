@@ -10,7 +10,7 @@ uuid: a7b49f82-9a8b-45f8-b933-9880659770de
 
 # InfoPanelPopup.template{#infopanelpopup-template}
 
-` [InfoPanelPopup.|<containerId>_infoPanelPopup.]template= *`template`*`
+[!DNL `[InfoPanelPopup.|<containerId>_infoPanelPopup.]template= *`template`*`]
 
 <table id="table_A6B1B446A7AE4A4A8B552C07EC88E518"> 
  <tbody> 
@@ -44,6 +44,6 @@ None.
 
 ## Example {#section-16d184665c484964af9a22f79ff3f840}
 
-Assuming that the info server response returns the product name as variable `$1$` and product image URL is returned as variable `$2$`.
+Assuming that the info server response returns the product name as variable [!DNL `$1$` and product image URL is returned as variable [!DNL `$2$`.
 
-`template=<info><![CDATA[Product description:$1$<br>Product image:<img src="$2$">]]></info>` 
+[!DNL `template=<info><![CDATA[Product description:$1$<br>Product image:<img src="$2$">]]></info>`] 
