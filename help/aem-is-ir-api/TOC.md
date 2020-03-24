@@ -738,7 +738,6 @@ user-guide-title: Dynamic Media Image Serving and Rendering API
          + [rule](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-rule-set-reference/r-ir-rule.md)
          + [ruleset](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-rule-set-reference/r-ir-ruleset.md)
          + [substitution](ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-rule-set-reference/r-ir-substitution.md)
-   + [Image Rendering examples](ir-api/image-rendering-api-ref/r-examples-ir.md)
 + Utilities {#utilites}
    + [Utilities overview](utilities/utilities.md)
    + Image Serving Utilities {#image-serving-utilities}
