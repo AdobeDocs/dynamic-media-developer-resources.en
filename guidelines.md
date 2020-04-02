@@ -1,6 +1,6 @@
 # Guidelines for Contributing to Adobe Dynamic Media Developer Resources Documentation
 
-## Adobe Dynamic Media Developer Resources Documentation Philosophy
+## Documentation Philosophy
 
 We know that Adobe Dynamic Media users are working in highly competitive environments, striving to create digital experiences that will set them apart from their competitors. Therefore it is vital that when Adobe delivers advanced new tools, that these tools are complemented with accurate and clear documentation to allow the customer to immediately leverage their Dynamic Media investment and maximize ROI.
 
@@ -30,13 +30,13 @@ Exceptions to this rule apply to the release notes where known issues can be lis
 
 Any ideas you may have to improve the documentation are welcome as contributions. However comments, issues, and pull requests are intended for *contributions* only. They are not intended to be used to answer your questions about how to use Dynamic Media, implement your project, or solve technical problems.
 
-Any questions about the usage of Dynamic Media or technical errors you may have should be reported through the normal support process.
+Any questions about the usage of Dynamic Media or technical errors you may have should be reported through the [Experience Cloud Enterprise Support portal](https://helpx.adobe.com/contact/enterprise-support.ec.html) or discussed in the [Experience Manager community.](https://forums.adobe.com/community/experience-cloud/marketing-cloud/experience-manager)
 
-***Documentation contributions are not a replacement for Adobe support*** and any such contributions seeking answers to support-related questions will be rejected.
+***Documentation contributions are not a replacement for Adobe Customer Care*** and any such contributions seeking answers to support-related questions will be rejected.
 
 ### Contributions must clearly reference affected documentation pages.
 
-If you create an issue to suggest improvements to the documentation, you must include include links to the pages affected. If you create an issue by using the **Edit this page** link on a documentation page, the issue will be created with a link to the page automatically.
+If you create an issue to suggest improvements to the documentation, you must include links to the pages affected. If you create an issue by using the **Edit this page** link on a documentation page, the issue will be created with a link to the page automatically.
 
 This does not apply to pull requests since pull requests by their nature reference the affected page(s).
 
