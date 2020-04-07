@@ -17,7 +17,7 @@ This procedure shows how to install Image Serving for the first time on Linux.
 
    If the Image Serving and/or Image Rendering license key file (with [!DNL .sc8] file suffix) is available, copy it to this folder. Otherwise, proceed with the installation and install the license key later. 
 1. Uncompress and untar the Image Serving distribution tar file.
-1. 4. Run [!DNL ./install-is], located in the [!DNL Setup] folder, to launch the installation wizard.
+1. Run [!DNL ./install-is], located in the [!DNL Setup] folder, to launch the installation wizard.
 
    If no license key is found, instructions are displayed describing how to obtain a license file. Do so at this point or proceed with the Image Serving installation and install the license key later. 
 1. When the End User License Agreement (EULA) displays, read the license agreement and then enter `y` to proceed.
