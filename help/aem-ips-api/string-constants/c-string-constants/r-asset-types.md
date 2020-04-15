@@ -16,14 +16,14 @@ Describes values used by various input parameters. See the list in this article 
 
 ## Used By {#section-2d471a1b240b4f5794454f0e5fcc5206}
 
-* `Input(searchAssetsParam)/assetTypeArray` 
-* `Asset/type` 
-* `Input(createImageSetParam)` 
-* `Input(getFoldersParam)/assetTypeArray` 
-* `getFolderTreeParam/assetTypeArray` 
-* `Input(getMetadataFieldsParam)` 
-* `Input(saveMetadataFieldParam)/assetType` 
-* `Input(createImageSetParam)/type`
+* [!DNL `Input(searchAssetsParam)/assetTypeArray`] 
+* [!DNL `Asset/type`] 
+* [!DNL `Input(createImageSetParam)`] 
+* [!DNL `Input(getFoldersParam)/assetTypeArray`] 
+* [!DNL `getFolderTreeParam/assetTypeArray`] 
+* [!DNL `Input(getMetadataFieldsParam)`] 
+* [!DNL `Input(saveMetadataFieldParam)/assetType`] 
+* [!DNL `Input(createImageSetParam)/type`]
 
 ## Values {#section-9fcf098cfbd84950868d75e89507ee63}
 

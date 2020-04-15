@@ -16,11 +16,11 @@ Describes values used by various parameters. See the list in this article for de
 
 ## Used By {#section-b76ffce62661481abe2bb02adfd3f36f}
 
-* `User/role` 
-* `addUserParam/role` 
-* `setUserInfoParam/role` 
-* `getUsersParam/userRoleArray` 
-* `getUsersCharParam/userRoleArray`
+* [!DNL `User/role`] 
+* [!DNL `addUserParam/role`] 
+* [!DNL `setUserInfoParam/role`] 
+* [!DNL `getUsersParam/userRoleArray`] 
+* [!DNL `getUsersCharParam/userRoleArray`]
 
 ## Values {#section-bbe2e596e56b4242b20fd08d578c472e}
 
