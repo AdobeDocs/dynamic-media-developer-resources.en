@@ -19,7 +19,7 @@ Used by JobLogDetial/assetType.
 * [!DNL `NoType`] 
 * [!DNL `PublishCatalog`] 
 * [!DNL `OptimizedImage`] 
-* [!DNL `MasterImage`]] 
+* [!DNL `MasterImage`] 
 * [!DNL `SealedImage`] 
 * [!DNL `Mask`] 
 * [!DNL `Vignette`] 

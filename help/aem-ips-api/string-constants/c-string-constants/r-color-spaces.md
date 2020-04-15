@@ -27,7 +27,7 @@ Used by IccProfileFieldUpdate/colorSpace and IccProfileFieldUpdate/pcsType.
 * [!DNL `HLS`] 
 * [!DNL `CMYK`] 
 * [!DNL `2CLR`] 
-* [!DNL `3CLR` 
+* [!DNL `3CLR`] 
 * [!DNL `4CLR`] 
 * [!DNL `5CLR`] 
 * [!DNL `6CLR`] 
