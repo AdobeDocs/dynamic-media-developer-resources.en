@@ -10,7 +10,7 @@ uuid: 6c51d204-27ca-4fbd-a297-bf1d04b63a3f
 
 # Color handling{#color-handling}
 
-The RTF specification permits RGB color values specified with \colortbl. Each component is provided separately with the \red, \green, and \blue commands.
+The RTF specification permits RGB color values specified with `\colortbl`. Each component is provided separately with the `\red`, `\green`, and `\blue` commands.
 
 The proprietary RTF extension command `\cmykcolortbl` allows specifying CMYK colors, with each color component provided with the `\cyan`, `\magenta`, `\yellow`, and `\black` commands.
 
