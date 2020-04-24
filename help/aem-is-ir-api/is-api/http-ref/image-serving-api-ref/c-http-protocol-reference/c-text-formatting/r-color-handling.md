@@ -1,7 +1,5 @@
 ---
-description: The RTF specification permits RGB color values specified with \colortbl. Each component is provided separately with the \red, \green, and \blue commands.
-seo-description: The RTF specification permits RGB color values specified with \colortbl. Each component is provided separately with the \red, \green, and \blue commands.
-seo-title: Color handling
+description: The RTF specification permits RGB color values specified with &bsol;colortbl. Each component is provided separately with the &bsol;red, &bsol;green, and &bsol;blue commands.
 solution: Experience Manager
 title: Color handling
 topic: Scene7 Image Serving - Image Rendering API
