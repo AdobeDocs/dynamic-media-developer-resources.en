@@ -54,19 +54,19 @@ The following table lists the key features available for each text command:
    <td> <p>Copy-fitting </p> </td> 
    <td> <p>no </p> </td> 
    <td> <p>yes </p> </td> 
-   <td> Copy-Fitting <p>, \copyfit, \copyfitlines, \copyfitmaxlines </p> </td> 
+   <td> Copy-Fitting <p>, <pre>\copyfit</pre>, <pre>\copyfitlines</pre>, <pre>\copyfitmaxlines</pre> </p> </td> 
   </tr> 
   <tr> 
    <td> <p>Text box margins </p> </td> 
    <td> <p>no </p> </td> 
    <td> <p>yes </p> </td> 
-   <td> <p>\margl, \margr, \margt, \margb </p> </td> 
+   <td> <p><pre>\margl</pre>, <pre>\margr</pre>, <pre>\margt</pre>, <pre>\margb</pre> </p> </td> 
   </tr> 
   <tr> 
    <td> <p>Full paragraph justification </p> </td> 
    <td> <p>no </p> </td> 
    <td> <p>yes </p> </td> 
-   <td> <p>\qj </p> </td> 
+   <td> <p><pre>\qj</pre> </p> </td> 
   </tr> 
   <tr> 
    <td> <p>last line justification </p> </td> 

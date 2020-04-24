@@ -24,7 +24,7 @@ The reply data is formatted to be readable as Java properties. A typical text pr
 
 ` *[!DNL propertyValue]*` can be empty. White space is optional at the beginning and end of each line and before and after the '=' separator. Single or double quotes may be used to enclose string values, but are not required.
 
-String values may contain JAVA-style escape characters, such as \n, \t, \:. or \\.
+String values may contain JAVA-style escape characters, such as `\n`, `\t`, `\:`. or `\\`.
 
 **See also**
 

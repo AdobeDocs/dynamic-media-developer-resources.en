@@ -76,7 +76,7 @@ The Digimarc library refuses to apply a Digimarc watermark to an image if one is
 
 * Non-Pyramided Tiff or vignette requests produce a similar error message to
 
-  *"Image C:\Program Files\Scene7\ImageRendering\resources\MyVignette.vnt has no valid DSF, and area of 2.25MPixel exceeds max of 2MPixel"* .
+  *"Image `C:\Program Files\Scene7\ImageRendering\resources\MyVignette.vnt` has no valid DSF, and area of 2.25MPixel exceeds max of 2MPixel"* .
 
   Best practice is to use pyramided Tiffs and vignettes. If you have a need to use non-pyramided tiffs or vignettes, follow the instructions below to increase the size limit.
 
