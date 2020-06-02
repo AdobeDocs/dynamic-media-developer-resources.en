@@ -1,6 +1,6 @@
 ---
-description: Instructions for installing the Scene7 Viewers API.
-seo-description: Instructions for installing the Scene7 Viewers API.
+description: Instructions for installing the Dynamic Media Viewers API.
+seo-description: Instructions for installing the Dynamic Media Viewers API.
 seo-title: Installing multiple viewers on the same server
 solution: Experience Manager
 title: Installing multiple viewers on the same server
@@ -10,7 +10,9 @@ uuid: 91ae8eb5-1d23-4fa3-a0d6-a4a0ed0eb104
 
 # Installing multiple viewers on the same server{#installing-multiple-viewers-on-the-same-server}
 
-Instructions for installing the Scene7 Viewers API.
+<!-- Updated June 1, 2020 from https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=scene7qa&title=s7Viewers%2C+S7SDK%2C+S7OnDemand+Release+Notes - Contact is Sasha -->
+
+Instructions for installing the Dynamic Media viewers API.
 
 Install and test Image Serving before you install the Image Serving viewers.
 
@@ -18,7 +20,7 @@ Copy the IS Viewers files to your hard drive and then deploy the `s7viewers.war`
 
 >[!NOTE]
 >
->There is no upgrade install for the Image Serving viewers. Adobe recommends that you back up any existing Scene7 viewers directory before you continue with the install.
+>There is no upgrade install for the Image Serving viewers. Adobe recommends that you back up any existing Dynamic Media viewers directory before you continue with the install.
 
 **To install the viewers on the same server** 
 

@@ -10,6 +10,8 @@ uuid: cf732a03-bfaa-4838-862f-73343cefbd67
 
 # Compatibility notes{#compatibility-notes}
 
+<!-- Updated June 1, 2020 from https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=scene7qa&title=s7Viewers%2C+S7SDK%2C+S7OnDemand+Release+Notes - Contact is Sasha -->
+
 Compatibility notes for operating systems, browsers, and mobile devices.
 
 ## Blackberry {#section-0c465ac3775d47fd838e2695a00abc45}
