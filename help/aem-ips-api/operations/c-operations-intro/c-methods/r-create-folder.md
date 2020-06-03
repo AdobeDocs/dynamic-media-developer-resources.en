@@ -8,7 +8,7 @@ topic: Scene7 Image Production System API
 uuid: e3a4eed3-966d-4435-bfeb-3ead4bf523cd
 ---
 
-# createFolder{#createfolder}
+# [!DNL createFolder]{#createfolder}
 
 Creates a folder.
 
