@@ -1,6 +1,6 @@
 ---
-description: All features exposed in the Basic Zoom, eCatalog, eCatalog Search, Flyout, Inline Zoom, Mixed Media, Spin, Video, Zoom, Carousel, Interactive Image, Interactive Video, and Video360 viewer interface are keyboard accessible.
-seo-description: All features exposed in the Basic Zoom, eCatalog, eCatalog Search, Flyout, Inline Zoom, Mixed Media, Spin, Video, Zoom, Carousel, Interactive Image, Interactive Video, and Video360 viewer interface are keyboard accessible.
+description: All features exposed in the Basic Zoom, eCatalog, eCatalog Search, Flyout, Inline Zoom, Mixed Media, Spin, Video, Zoom, Dimensional (3D), Carousel, Interactive Image, Interactive Video, and Video360 viewer interface are keyboard accessible.
+seo-description: All features exposed in the Basic Zoom, eCatalog, eCatalog Search, Flyout, Inline Zoom, Mixed Media, Spin, Video, Zoom, Dimensional (3D), Carousel, Interactive Image, Interactive Video, and Video360 viewer interface are keyboard accessible.
 seo-title: Keyboard accessibility and navigation
 solution: Experience Manager
 title: Keyboard accessibility and navigation
@@ -10,11 +10,13 @@ uuid: 9d7df3b0-2d77-4a2f-9ef1-210ccbd7a1a6
 
 # Keyboard accessibility and navigation{#keyboard-accessibility-and-navigation}
 
-All features exposed in the Basic Zoom, eCatalog, eCatalog Search, Flyout, Inline Zoom, Mixed Media, Spin, Video, Zoom, Carousel, Interactive Image, Interactive Video, and Video360 viewer interface are keyboard accessible.
+All features exposed in the Basic Zoom, eCatalog, eCatalog Search, Flyout, Inline Zoom, Mixed Media, Spin, Video, Zoom, Carousel, Dimensional (3D), Interactive Image, Interactive Video, and Video360 viewer interface are keyboard accessible.
+
+<!-- Updated June 1, 2020 from https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=scene7qa&title=s7Viewers%2C+S7SDK%2C+S7OnDemand+Release+Notes - Contact is Sasha -->
 
 ## Keyboard accessibility and navigation {#topic-f5650e9493404e55a3627c8d1366b861}
 
-All features exposed in the Basic Zoom, eCatalog, eCatalog Search, Flyout, Inline Zoom, Mixed Media, Spin, Video, Zoom, Carousel, Interactive Image, Interactive Video, and Video360 viewer interface are keyboard accessible. 
+All features exposed in the Basic Zoom, eCatalog, eCatalog Search, Flyout, Inline Zoom, Mixed Media, Spin, Video, Zoom, Carousel, Dimensional (3D), Interactive Image, Interactive Video, and Video360 viewer interface are keyboard accessible. 
 
 An end user can navigate between viewer user interface elements using **[!UICONTROL Tab]** and **[!UICONTROL Shift+Tab]** keystrokes. Using **[!UICONTROL Tab]** advances input focus to the next user interface element in the tabbing order; using **[!UICONTROL Shift+Tab]** brings input focus back to the previous user interface element. The focus traversal follows the natural user interface element location on the screen and moves in a left-to-right, then top-to-bottom order.
 
