@@ -23,4 +23,4 @@ The metadata.md file includes repo-level metadata that passes through to user gu
 | getting-started-url | Link to helpx getting started page |
 | tutorials-url | Link to video tutorials--either helpx tutorials or KT tutorials |
 | mini-toc-levels | Determines the number of heading levels that appear in right rail. default is 2 |
-| git-repo | Specifies the location of the master repo for internal use |
+| git-repo | Specifies the location of the primary source repo for internal use |

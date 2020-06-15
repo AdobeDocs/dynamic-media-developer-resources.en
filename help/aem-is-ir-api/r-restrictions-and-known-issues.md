@@ -49,7 +49,7 @@ There are some restrictions and known issues that should be considered when usin
 
 ## Restrictions applicable to third-party libraries {#section-79768b96bf634e44ab672c5b893f343d}
 
-The Digimarc library refuses to apply a Digimarc watermark to an image if one is already detected. If enough editing is done to a master image, the Digimarc library may still be able to recognize that the watermark was applied. However, it may not be able to read that information. This results in a new image where the original Digimarc information that was applied to the original image cannot be obtained. Image Serving can now apply the Digimarc watermark defined in the company catalog.
+The Digimarc library refuses to apply a Digimarc watermark to an image if one is already detected. If enough editing is done to a primary image, the Digimarc library may still be able to recognize that the watermark was applied. However, it may not be able to read that information. This results in a new image where the original Digimarc information that was applied to the original image cannot be obtained. Image Serving can now apply the Digimarc watermark defined in the company catalog.
 
 ## Restrictions applicable to both Image Serving and Image Rendering {#section-f836cb40ae2d4f32a9cf7ebda4d91bae}
 

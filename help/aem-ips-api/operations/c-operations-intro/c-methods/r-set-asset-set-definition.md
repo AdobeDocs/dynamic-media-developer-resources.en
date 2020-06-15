@@ -57,7 +57,7 @@ Specify `setDefinition` substitution functions in-line. These are resolved durin
  <tbody> 
   <tr> 
    <td colname="col1"> <span class="codeph"> getFilePath([ <span class="varname"> asset_handle </span>]) </span> </td> 
-   <td colname="col2"> Master file path. </td> 
+   <td colname="col2"> Primary file path. </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <span class="codeph"> getCatalogd([ <span class="varname"> asset_handle </span>]) </span> </td> 

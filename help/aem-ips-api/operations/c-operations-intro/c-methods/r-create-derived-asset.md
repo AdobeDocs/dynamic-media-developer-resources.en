@@ -1,6 +1,6 @@
 ---
-description: Creates a new asset derived from an existing master image asset.
-seo-description: Creates a new asset derived from an existing master image asset.
+description: Creates a new asset derived from an existing primary source image asset.
+seo-description: Creates a new asset derived from an existing primary source image asset.
 seo-title: createDerivedAsset
 solution: Experience Manager
 title: createDerivedAsset
@@ -10,7 +10,7 @@ uuid: e1f9b690-af34-4da5-a534-c3a8c6b0a8fc
 
 # createDerivedAsset{#createderivedasset}
 
-Creates a new asset derived from an existing master image asset.
+Creates a new asset derived from an existing primary source image asset.
 
  Syntax 
 
@@ -36,7 +36,7 @@ Unlike an image copy (see [copyImage](../../../operations/c-operations-intro/c-m
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
 |  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that contains the asset from which you will derive the new asset.  |
-|  ` *`ownerHandle`*`  | `xsd:string`  | Yes  | The handle to the master Image asset from which the new image will be derived.  |
+|  ` *`ownerHandle`*`  | `xsd:string`  | Yes  | The handle to the primary Image asset from which the new image will be derived.  |
 |  ` *`folderHandle`*`  | `xsd:string`  | Yes  | The handle to the folder in which the new derived asset will be created.  |
 |  ` *`name`*`  | `xsd:string`  | Yes  | The name of the derived asset.  |
 |  ` *`type`*`  | `xsd:string`  | Yes  |The asset type of the new derived asset: `AdjustedView` or `LayerView`.  |

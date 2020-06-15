@@ -176,7 +176,7 @@ Limit the size of your data set with the `responseFieldArray` or `excludFieldArr
    <td colname="col1"> <span class="codeph"> <span class="varname"> excludeByproducts</span> </span> </td> 
    <td colname="col2"> <span class="codeph"> xsd:boolean</span> </td> 
    <td colname="col3"> No </td> 
-   <td colname="col4"> If true, byproduct assets generated during ingestion of a master asset, such as ripped PDF page images, are excluded from search results. Default is false. </td> 
+   <td colname="col4"> If true, byproduct assets generated during ingestion of a primary asset, such as ripped PDF page images, are excluded from search results. Default is false. </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <span class="codeph"> <span class="varname"> excludByproductArray</span> </span> </td> 

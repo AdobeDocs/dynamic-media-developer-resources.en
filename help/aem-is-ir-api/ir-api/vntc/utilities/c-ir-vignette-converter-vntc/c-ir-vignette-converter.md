@@ -14,7 +14,7 @@ The Vignette Converter (vntc) is a command line utility used to prepare content 
 
  [!DNL vntc] is located in [!DNL *[!DNL install_root]*\ImageServing\bin]. It has the following capabilities:
 
-* Converts master vignettes to single resolution, multi-resolution, or pyramid production vignettes (see [Vignette Scaling](../../../../ir-api/vntc/utilities/c-ir-vignette-converter-vntc/c-ir-vignette-scaling.md#concept-e373a29c2f954df98d704c7723804585)). 
+* Converts primary vignettes to single resolution, multi-resolution, or pyramid production vignettes (see [Vignette Scaling](../../../../ir-api/vntc/utilities/c-ir-vignette-converter-vntc/c-ir-vignette-scaling.md#concept-e373a29c2f954df98d704c7723804585)). 
 * Produces production cabinet and window covering style files (see `-resolution` and `-jpegquality`). 
 
 * Can produce different file versions of vignettes, cabinets, and window coverings style files for use with older versions of Image Rendering. 

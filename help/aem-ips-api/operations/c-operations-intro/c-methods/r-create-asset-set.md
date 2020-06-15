@@ -86,7 +86,7 @@ You can specify substitution functions in line which are resolved during catalog
 
 |  **Substitution Function** | **Returns** |
 |---|---|
-|  `getFilePath([asset_handle>])`  | The asset's master file path.  |
+|  `getFilePath([asset_handle>])`  | The asset's primary source file path.  |
 |  `getCatalogId([<asset_handle>])`  | The asset's catalog ID.  |
 |  `getMetaData([<asset_handle>], [<metadata_field_handle>])`  | Metadata values for the asset.  |
 |  `getThumbCatalogId([<asset_handle>])`  | The asset's catalog ID (for image-based assets only).The associated thumb asset's catalog ID (for other assets). If an associated thumb asset is not available, the function returns an empty string.  |

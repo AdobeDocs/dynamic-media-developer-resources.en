@@ -1,6 +1,6 @@
 ---
-description: Excludes the master video from the adaptive video set.
-seo-description: Excludes the master video from the adaptive video set.
+description: Excludes the primary video from the adaptive video set.
+seo-description: Excludes the primary video from the adaptive video set.
 seo-title: ExcludeMasterVideoFromAVS
 title: ExcludeMasterVideoFromAVS
 uuid: 883c6ab0-314d-4257-82bc-0447031e68a4
@@ -8,7 +8,7 @@ uuid: 883c6ab0-314d-4257-82bc-0447031e68a4
 
 # ExcludeMasterVideoFromAVS{#excludemastervideofromavs}
 
-Excludes the master video from the adaptive video set.
+Excludes the primary video from the adaptive video set.
 
  Syntax 
 

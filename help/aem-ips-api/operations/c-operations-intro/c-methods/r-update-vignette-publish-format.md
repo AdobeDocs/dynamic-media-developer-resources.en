@@ -28,8 +28,8 @@ Updates the vignette publish format settings.
 |  ` *`companyHandle`*`  | `xsd:string`  | Yes  | Company handle.  |
 |  ` *`vignetteFormatHandle`*`  | `xsd:string`  | Yes  | Publish format handle.  |
 |  ` *`name`*`  | `xsd:string`  | No  | Publish format name.  |
-|  ` *`targetWidth`*`  | `xsd:int`  | Yes  | Specifies the target width of the resulting vignette view in pixels. Use zero so the output vignette has the same size as the master vignette.  |
-|  ` *`targetHeight`*`  | `xsd:int`  | Yes  | Specifies the target height of the resulting vignette view in pixels. Use zero so the output vignette has the same size as the master vignette.  |
+|  ` *`targetWidth`*`  | `xsd:int`  | Yes  | Specifies the target width of the resulting vignette view in pixels. Use zero so the output vignette has the same size as the primary vignette.  |
+|  ` *`targetHeight`*`  | `xsd:int`  | Yes  | Specifies the target height of the resulting vignette view in pixels. Use zero so the output vignette has the same size as the primary vignette.  |
 |  ` *`createPyramid`*`  | `xsd:boolean`  | Yes  | Creates a pyramid vignette optimized for zooming on the Image Rendering server. Starting at the maximum size, set by the Target Vignette Size fields, this creates multiple size views in a single vignette output file. Each subsequent view size is halved until the width and height are within 128x128 pixels.  |
 |  ` *`thumbWidth`*`  | `xsd:int`  | Yes  | Specifies the width of each resulting thumbnail in pixels. This setting is optional. Leave as zero for no thumbnail file.  |
 |  ` *`saveAsVersion`*`  | `xsd:int`  | Yes  | Specifies the file format for the published vignettes. Given a new version of Image Authoring and an older version of the Image Rendering Server, you must specify a vignette version that your ImageRendering Server can read. If you specify a higher version, the Image Rendering server cannot read the published vignettes. Set to zero to publish vignettes at the latest version.  |

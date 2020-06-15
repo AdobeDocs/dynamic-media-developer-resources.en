@@ -19,7 +19,7 @@ PostScript file properties.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  ` *`engine`*`  | `xsd:string`  | Generation engine used (see "Generation Info" for values).  |
-|  ` *`originator`*`  | `types:Asset`  | Asset record of master asset used in generation.  |
-|  ` *`generated`*`  | `types:Asset`  | Asset record of generated asset.  |
-|  ` *`attributeArray`*`  | `types:GenerationAttributeArray`  | Array of attributes associated with generation process.  |
+|  ` *`originator`*`  | `types:Asset`  | Asset record of the primary asset used in the generation.  |
+|  ` *`generated`*`  | `types:Asset`  | Asset record of the generated asset.  |
+|  ` *`attributeArray`*`  | `types:GenerationAttributeArray`  | Array of attributes associated with the generation process.  |
 

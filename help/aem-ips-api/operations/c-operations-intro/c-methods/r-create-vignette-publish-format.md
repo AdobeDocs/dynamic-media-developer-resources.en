@@ -12,7 +12,7 @@ uuid: 834ebe6a-e105-4075-8004-172237980933
 
 Creates a new publish format for a vignette.
 
-Vignette formats specify the size of published vignettes and their thumbnails, as well as zoom levels, sharpening parameters, and the file format version for vignettes produced from master vignettes published to an Image Rendering server from IPS.
+Vignette formats specify the size of published vignettes and their thumbnails, as well as zoom levels, sharpening parameters, and the file format version for vignettes produced from primary vignettes published to an Image Rendering server from IPS.
 
 Newer Image Rendering server versions can support pyramid vignettes, which eliminates the need to define specific vignette format sizes for publishing.
 
@@ -53,7 +53,7 @@ Newer Image Rendering server versions can support pyramid vignettes, which elimi
    <td colname="col1"> <span class="codeph"> <span class="varname"> targetWidth</span> </span> </td> 
    <td colname="col2"> <span class="codeph"> Code Phrase </span> </td> 
    <td colname="col3"> Yes </td> 
-   <td colname="col4"> <p>Specifies the target width of the resulting vignette view in pixels. </p> <p>Use zero so the output vignette has the same size as the master vignette. </p> </td> 
+   <td colname="col4"> <p>Specifies the target width of the resulting vignette view in pixels. </p> <p>Use zero so the output vignette has the same size as the primary vignette. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <span class="codeph"> <span class="varname"> targetHeight</span> </span> </td> 
