@@ -111,7 +111,7 @@ Viewer skins support two parameters: `skinFg` and `skinBg`. Backend code will do
 
 Implemented `getAssociatedAssets` operation.
 
-Added `ReprocessAssets` job type to allow reprocessing of previously uploaded master files, including reripping PDFs and reoptimizing images.
+Added `ReprocessAssets` job type to allow reprocessing of previously uploaded primary source files, including reripping PDFs and reoptimizing images.
 
 Renamed `PropertySetType` field type to `propertyType`. This affects the `createPropertySetType` parameter and `getPropertySetType/getPropertySetTypes` response.
 

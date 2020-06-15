@@ -1,6 +1,6 @@
 ---
-description: File information for master video assets.
-seo-description: File information for master video assets.
+description: File information for primary video assets.
+seo-description: File information for primary video assets.
 seo-title: MasterVideoInfo
 solution: Experience Manager
 title: MasterVideoInfo
@@ -10,7 +10,7 @@ uuid: 19f814c9-dddb-41ff-aef2-fb7ea91c130b
 
 # MasterVideoInfo{#mastervideoinfo}
 
-File information for master video assets.
+File information for primary video assets.
 
  Syntax 
 

@@ -1,6 +1,6 @@
 ---
-description: Job type to allow reprocessing of previously uploaded master files, including reripping PDFs and reoptimizing images.
-seo-description: Job type to allow reprocessing of previously uploaded master files, including reripping PDFs and reoptimizing images.
+description: Job type to allow reprocessing of previously uploaded primary files, including reripping PDFs and reoptimizing images.
+seo-description: Job type to allow reprocessing of previously uploaded primary files, including reripping PDFs and reoptimizing images.
 seo-title: ReprocessAssetsJob
 solution: Experience Manager
 title: ReprocessAssetsJob
@@ -10,7 +10,7 @@ uuid: 5b4aa838-0fb4-4ae8-be5a-8ce1e1487127
 
 # ReprocessAssetsJob{#reprocessassetsjob}
 
-Job type to allow reprocessing of previously uploaded master files, including reripping PDFs and reoptimizing images.
+Job type to allow reprocessing of previously uploaded primary files, including reripping PDFs and reoptimizing images.
 
  Syntax 
 

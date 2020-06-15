@@ -1,6 +1,6 @@
 ---
-description: Upload setting to process ZIP and TAR files as master assets (None) or to extract and upload their contents (UnCompress).
-seo-description: Upload setting to process ZIP and TAR files as master assets (None) or to extract and upload their contents (UnCompress).
+description: Upload setting to process ZIP and TAR files as primary assets (None) or to extract and upload their contents (UnCompress).
+seo-description: Upload setting to process ZIP and TAR files as primary assets (None) or to extract and upload their contents (UnCompress).
 seo-title: UnCompressOptions
 solution: Experience Manager
 title: UnCompressOptions
@@ -10,7 +10,7 @@ uuid: 1e6827db-8c5e-47db-b7ff-4e681e107e57
 
 # UnCompressOptions{#uncompressoptions}
 
-Upload setting to process ZIP and TAR files as master assets (None) or to extract and upload their contents (UnCompress).
+Upload setting to process ZIP and TAR files as primary assets (None) or to extract and upload their contents (UnCompress).
 
 >[!NOTE]
 >
@@ -32,7 +32,7 @@ Upload setting to process ZIP and TAR files as master assets (None) or to extrac
    <td colname="col2"> <span class="codeph"> xsd:string</span> </td> 
    <td colname="col3"> <p>Controls ZIP and TAR archive file processing. Provides 2 options: 
      <ul id="ul_F34E2F3B9B74450CA7E76BD9FD7137C2">
-      <li id="li_E982468ED814446593B0C0A3F3D729FB"><span class="codeph"> None:</span> Process as master assets. </li>
+      <li id="li_E982468ED814446593B0C0A3F3D729FB"><span class="codeph"> None:</span> Process as primary assets. </li>
       <li id="li_4A45DA99592B4EF7A1FE0A946A835104"><span class="codeph"> UnCompress:</span> Extract and process contents. </li>
      </ul><p>Note: String constants are case sensitive. Use <span class="codeph"> UnCompress</span>, not <span class="codeph"> uncompress</span> or <span class="codeph"> unCompress</span>. </p></p> </td> 
   </tr> 
