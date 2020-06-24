@@ -173,7 +173,7 @@ Uploads files from specified server directories on a recurring basis.
   <tr> 
    <td colname="col1"> <span class="codeph"> <span class="varname"> unsharpMaskOptions</span> </span> </td> 
    <td colname="col2"> <span class="codeph"> types:UnsharpMaskOptions</span> </td> 
-   <td colname="col3"> <p>Options that let you control unsharp mask settings when creating an optimized pyramid TIF file. Use these settings to help improve image sharpness. </p> <p>See <a href="https://marketing.adobe.com/resources/help/en_US/s7/ips_api/types/r_unsharp_mask_options.html"> UnsharpMaskOptions</a>. </p> </td> 
+   <td colname="col3"> <p>Options that let you control unsharp mask settings when creating an optimized pyramid TIF file. Use these settings to help improve image sharpness. </p> <p>See <a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/image-production-api/data-types/r-unsharp-mask-options.html"> UnsharpMaskOptions</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> xmpKeywords</span> </span> </p> </td> 

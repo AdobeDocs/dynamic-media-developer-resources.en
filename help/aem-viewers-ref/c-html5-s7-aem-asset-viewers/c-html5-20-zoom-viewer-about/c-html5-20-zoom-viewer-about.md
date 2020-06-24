@@ -314,7 +314,7 @@ var zoomViewer = new s7viewers.ZoomViewer({
 
 The following examples page illustrates more real-life uses of responsive design embedding with unrestricted height:
 
-[https://marketing.adobe.com/resources/help/en_US/s7/vlist/vlist.html](https://marketing.adobe.com/resources/help/en_US/s7/vlist/vlist.html)
+[Live Demos](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html)
 
 ## Flexible-size embedding with width and height defined {#section-3674e6c032594441a6576b7fb1de6e64}
 

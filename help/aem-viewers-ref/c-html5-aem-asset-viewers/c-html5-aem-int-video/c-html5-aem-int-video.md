@@ -274,7 +274,9 @@ var interactiveVideoViewer = new s7viewers.InteractiveVideoViewer({
 
 The following examples page illustrates more real-life uses of responsive design embedding with unrestricted height:
 
-[https://marketing.adobe.com/resources/help/en_US/s7/vlist/vlist.html](https://marketing.adobe.com/resources/help/en_US/s7/vlist/vlist.html)
+[Live Demos](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html)
+
+<!-- OLD DEMO LOCATION-KEEP (https://marketing.adobe.com/resources/help/en_US/s7/vlist/vlist.html) -->
 
 **Responsive Embedding with Width and Height Defined**
 
