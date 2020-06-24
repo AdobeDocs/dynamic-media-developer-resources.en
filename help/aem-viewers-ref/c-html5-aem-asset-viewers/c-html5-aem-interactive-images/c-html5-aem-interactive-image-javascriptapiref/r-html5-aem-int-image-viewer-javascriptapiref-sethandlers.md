@@ -1,6 +1,6 @@
 ---
-description: JavaScript API reference for Video Image Viewer
-seo-description: JavaScript API reference for Video Image Viewer
+description: JavaScript API reference for Interactive Image Viewer
+seo-description: JavaScript API reference for Interactive Image Viewer
 seo-title: setHandlers
 solution: Experience Manager
 title: setHandlers
@@ -10,7 +10,7 @@ uuid: 93db9c88-890e-4be8-b82f-d15978a0cfac
 
 # setHandlers{#sethandlers}
 
-JavaScript API reference for Video Image Viewer
+JavaScript API reference for Interactive Image Viewer
 
  `setHandlers(handlers)`
 
