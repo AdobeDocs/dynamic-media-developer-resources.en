@@ -16,11 +16,11 @@ Use these server settings to configure your server.
 
 Both a 32- and a 64-bit version of the Image Server are available for Linux. Specify ImageServer64 when installed on 64-bit Linux servers, or ImageServer32 (default) when installed on 32-bit servers.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >The 64-bit version of the Image Server does not support FlashPix source files.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >64-bit mode is not supported on Windows. Only `ImageServer32` may be specified. Otherwise Image Serving will not start.
 
@@ -32,7 +32,7 @@ The Java heap size for the Platform Server. Defaults to " `512m`" (512 Mbytes).
 
 Specifies the port used for communication between the Platform Server and the Image Server. Make sure to specify a port number which is not used otherwise on the host system.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >For Image Serving to function correctly, the same value must be set for `IS::TcpPort` and `PS::isConnection.port`.
 

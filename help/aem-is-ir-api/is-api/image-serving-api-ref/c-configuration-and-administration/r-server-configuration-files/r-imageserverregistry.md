@@ -16,7 +16,7 @@ When modifying this XML file, care must be taken to maintain valid XML syntax, o
 
 For changes to take effect, restart the Image Server after editing this file. Only the element values listed below are supported for modification. Edit any other contents of this file only when advised by Scene7 Technical Support.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >Do not change the structure of `<imageserverregistry>`, including the order of elements. Use caution when editing this file, otherwise the Image Server may fail to start.
 

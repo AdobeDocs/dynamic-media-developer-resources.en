@@ -20,7 +20,7 @@ The query portion of requests and vignette::Modifier strings may include user-de
 
 Variables are defined similar to other server commands, using the above syntax. Variables must be defined before they can be referenced. Variables which are defined in `vignette::Modifier` can be referenced in the URL request, and vice versa.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >*[!DNL value]* must be single-pass URL-encoded for safe HTTP transmission. Double-encoding is required if *[!DNL value]* is retransmitted via HTTP. This is the case when *[!DNL value]* is substituted into a nested foreign request.
 

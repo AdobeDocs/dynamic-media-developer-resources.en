@@ -12,7 +12,7 @@ uuid: 7b446144-48f6-4b50-93ec-0287425d932a
 
 While adding new data files is simple and straight-forward, special care must be taken when replacing existing data files which are actively used by the server. Instead of simply replacing such files, it is recommended to give the replacement file a new name (e.g. append a version suffix to the file name). After the new file has been taken live, the old version can be deleted.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >Data files should never be replaced or deleted while in active use by Image Serving. Errors or even a server crash may occur otherwise.
 

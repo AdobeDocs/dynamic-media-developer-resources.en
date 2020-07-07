@@ -20,7 +20,7 @@ The Image Server is installed as a Linux daemon.
 
    `> /sbin/service ImageServing status`
 
-   >[!NOTE] {class="- topic/note "}
+   >[!NOTE]
    >
    >You must have root permissions to run these scripts.
 

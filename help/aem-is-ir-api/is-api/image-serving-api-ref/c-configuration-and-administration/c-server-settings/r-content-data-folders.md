@@ -24,7 +24,7 @@ Multiple values can be specified-separated by semi-colons-to distribute static c
 
 The Platform Server tries the root paths in the order specified until the requested file is found.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >By default, this field is intentionally set to a non-existing location ( [!DNL *[!DNL install_folder]*/static]), effectively disabling the static content service.
 

@@ -20,7 +20,7 @@ For applications that have high cache hit rates, you can increase the server per
 
 In addition to `PS::cache.maxSize`, the response cache is also managed by limiting the maximum number of cache entries with `PS::cache.maxEntries`. On Linux, this setting must specify a value no larger than the number of available inodes on the cache partition.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >The Platform Server maintains an in-memory cache index. The size of this index is 32 bytes times the value of `PS::cache.maxEntries`. You may need to increase the Platform Server heap size to accommodate larger caches.
 

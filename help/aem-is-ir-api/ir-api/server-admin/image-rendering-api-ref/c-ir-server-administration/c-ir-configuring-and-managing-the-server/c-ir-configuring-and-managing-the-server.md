@@ -12,7 +12,7 @@ uuid: cd344495-cb41-440e-b3f8-5b5812e81a9c
 
 This section contains information to help you set up and manage the Image Rendering Server.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >Image Serving must be properly configured and functional for correct functioning of Image Rendering.
 

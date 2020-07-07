@@ -12,7 +12,7 @@ uuid: 9ccef969-7c54-49ce-b6ff-ae4eabfcf99b
 
 textPs= supports a number of different usage models described in this section.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >This section does not apply to `text=`.
 

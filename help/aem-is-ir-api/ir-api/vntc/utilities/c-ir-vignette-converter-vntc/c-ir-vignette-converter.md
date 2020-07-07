@@ -27,7 +27,7 @@ When generating production vignettes, the pixel width of the output vignette (or
 
 [!DNL vntc] limits itself by default to at most 3GB of memory. When Vntc hits this limit it will stop processing and will produce an error. This limit can be changed using `-maxmem`.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >The Vignette Update Tool in Image Authoring can also be used to prepare vignettes for Image Rendering use. Similarly, the Content Authoring Tool is capable of generating cabinet style files for use with Image Rendering. Use [!DNL vntc] if processing is to be automated. The tools in Image Authoring include a graphical user interface, thus are typically easier to use interactively.
 

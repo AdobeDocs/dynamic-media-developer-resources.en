@@ -16,7 +16,7 @@ Before using Scene7 Image Serving, make sure your system meets the system requir
 
 Your server should meet the following hardware requirements.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >Systems with processors featuring AMD64 and Intel® EM64T are typically configured as NUMA (Non-Uniform Memory Architecture) platforms. This means that the kernel constructs multiple memory nodes at boot-time rather than constructing a single memory node. The multiple node construct can result in memory exhaustion on one or more of the nodes before other nodes become exhausted. When memory exhaustion happens the kernel can decide to kill processes (for example, the Image Server or Platform Server) even though there is available memory. Therefore, Adobe Systems recommends that if you are running such a system you turn off NUMA. Use the `numa=off` start option to avoid the kernel stopping these processes.
 

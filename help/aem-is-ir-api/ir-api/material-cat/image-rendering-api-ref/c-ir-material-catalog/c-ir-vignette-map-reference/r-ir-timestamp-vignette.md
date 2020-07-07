@@ -14,7 +14,7 @@ Modification time stamp. Specifies the date/time this vignette was last modified
 
 If `attribute::UseLastModified` is set, the most recent `vignette::TimeStamp` and `catalog::TimeStamp`value of the vignette and all materials involved in the request is returned in the HTTP response as a last-modified header.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >The actual file time of the vignette file is never used for this purpose.
 

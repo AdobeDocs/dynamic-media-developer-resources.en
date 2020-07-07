@@ -14,7 +14,7 @@ File modification time stamp. Specifies the date/time the image and/or data file
 
 If `attribute::UseLastModified` is set, the most recent of the `catalog::TimeStamp` and `vignette::TimeStamp` values of all materials and the vignette involved in the request is returned in the HTTP response as a last-modified header.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >The actual file times of the image or data files attached to this catalog record are never used for this purpose.
 
