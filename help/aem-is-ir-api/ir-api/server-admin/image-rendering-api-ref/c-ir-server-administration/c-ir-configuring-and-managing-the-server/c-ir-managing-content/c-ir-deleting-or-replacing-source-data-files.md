@@ -12,7 +12,7 @@ uuid: 13dc0489-7ab0-481e-b213-214affe9819e
 
 Vignette files can be replaced or deleted while the server is live by using the req=release command just before the file is overwritten.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >A data file must not be replaced or deleted while the Render Server is accessing it.
 

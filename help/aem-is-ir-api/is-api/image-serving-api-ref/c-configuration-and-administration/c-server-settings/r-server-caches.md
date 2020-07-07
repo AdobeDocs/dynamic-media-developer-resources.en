@@ -24,7 +24,7 @@ The maximum size of the HTTP response cache in bytes. This setting limits the am
 
 The number of entries allocated for the in-memory HTTP response cache index.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >On Linux, make sure that sufficient i-nodes are allocated for the cache partition to avoid running out of i-nodes.
 
@@ -32,7 +32,7 @@ The number of entries allocated for the in-memory HTTP response cache index.
 
 The Image Server occasionally needs to save intermediate data to disk. The path can be absolute or relative to *[!DNL install_folder]*.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >The new folder must be created before changing this setting. Make sure the access permissions are set so that the Image Server has full control of the folder.
 
@@ -40,7 +40,7 @@ The Image Server occasionally needs to save intermediate data to disk. The path 
 
 The Server Supervisor occasionally needs to save intermediate data to disk. The path can be absolute or relative to *[!DNL install_folder]*. Defaults to [!DNL  *[!DNL install_folder]*/temp].
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >The new folder must be created before changing this setting. Make sure the access permissions are set so that the Server Supervisor has full control of the folder.
 

@@ -14,7 +14,7 @@ This is the primary log which keeps track of all HTTP requests made to the Platf
 
 The access log is configured in server.xml.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >In addition to client traffic for Image Serving ( [!DNL /is/image/*]) and Image Rendering ( [!DNL /ir/render/*]), the access log may include certain internal traffic: access to the Platform Server catalog system ( [!DNL /is-catalog/*]), cache sharing and error redirect requests ( [!DNL /is/cache/*]), access to other packages deployed to the Platform Server, such as the Scene7 Viewers ( [!DNL /is-viewers/*]), static traffic and static contents requests serviced by the Platform Server (e.g. [!DNL /is-docs/*]).
 

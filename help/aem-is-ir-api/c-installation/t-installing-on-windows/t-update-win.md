@@ -14,7 +14,7 @@ Use this procedure when upgrading Scene7 Image Serving.
 
  If you are upgrading from an older version of Image Serving, please contact support for the correct process.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >The [!DNL webapps] folder may be deleted on upgrade. Back up the [!DNL webapps] folder before upgrade.
 
@@ -26,7 +26,7 @@ Use this procedure when upgrading Scene7 Image Serving.
    The next page displays the previous configuration settings. 
 1. Click **[!UICONTROL Next]** to start the update installation.
 
-   >[!NOTE] {class="- topic/note "}
+   >[!NOTE]
    >
    >The installer backs up the old server configuration files to the [!DNL BACKUP/] folder.
 

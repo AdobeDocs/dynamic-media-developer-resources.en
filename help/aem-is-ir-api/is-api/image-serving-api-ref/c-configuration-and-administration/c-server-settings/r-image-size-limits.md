@@ -28,7 +28,7 @@ Limits the size of images the Image Server will write to files with the `req=sav
 
 The maximum size (in Mpixels) of images which are not PTIFFs that the Image Server is allowed to open. Image Serving will return an error when an attempt is made to access a non-PTIFF image which is larger than this limit.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >Setting this value too high may cause the Image Server to be starved of memory and result in failures, including crashes.
 

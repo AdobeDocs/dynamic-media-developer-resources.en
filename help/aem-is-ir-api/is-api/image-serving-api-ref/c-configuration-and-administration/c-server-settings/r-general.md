@@ -32,7 +32,7 @@ The time the Image Server will wait for a remote server to deliver the requested
 
 Set to false to disallow requests which do not include a valid catalog id in the path. Default is `true`. When set to `false`, an error is returned for requests without a catalog id.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >`req=catalogprops` is not subject to this setting.
 

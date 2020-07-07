@@ -20,7 +20,7 @@ For typical applications that involve mostly images registered in image catalogs
 
 Cache entries become invalid and are subject to re-generation when a catalog entry involved in the request changes in a way that would likely cause a change of the reply image. For example, the contents of `catalog::Modifier` changes.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >Scene7 pyramid TIFF (PTIFF) images maintain the file date internally in the file header for validation purposes. The file modification time maintained by the file system is used to check if a non-PTIFF file has changed.
 

@@ -16,7 +16,7 @@ Source image maps are provided to IS either via `catalog::Map` or with the `map=
 
 An image map consists of one or more HTML AREA elements, properly delimited with '<' and '>'. If provided via catalog::Map, all pixel coordinates values are assumed to be in the original image resolution and relative to the top left corner of the (unmodified) source image. When provided via a `map=` command, the coordinate values are assumed to be layer coordinates, relative to the top-left corner of the layer (after `rotate=` and `extend=`).
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >% coordinates are not permitted at this time and may be processed incorrectly.
 

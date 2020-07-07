@@ -16,7 +16,7 @@ Use these server settings to configure alert thresholds.
 
 A response time alert is emitted when the average time to process a request during the sampling interval exceeds the threshold set here. Expressed in msec; integer 0 or larger. Typical values are between 100 and 1000 msec, depending on the complexity of operations.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >Requests which result in 4xx or 5xx response status are not considered for this alert.
 

@@ -32,11 +32,11 @@ Images may be inserted into SVG using the `<image>` element. Images referenced b
 
 Specify either a complete Image Serving request, starting with `http://`, or a relative url, starting with `/is/image`. If a full HTTP path is specified, the domain name will be removed from the path to convert to the relative format. Using a full HTTP path may be of advantage, as it allows the file to be previewed with a third-party SVG renderer.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >Support for rendering images in this release of Image Serving is limited. Referencing images from within SVG should be used only in situations where traditional Image Serving layering and templating mechanisms are insufficient to achieve the desired result. Under no circumstances should SVG be used to generate multi-image composites.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >Images embedded in SVG are not resized automatically at this time. Make sure that all image hrefs include the necessary Image Serving commands to set the desired image size (e.g. `wid=`). If the image size is not set explicitly, `attribute::DefaultPix` will be applied.
 

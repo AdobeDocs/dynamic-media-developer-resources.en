@@ -29,7 +29,7 @@ When enabled and when such an error occurs during the processing of the request,
 
 Error redirect is enabled by setting `PS::errorRedirect.rootUrl` to the HTTP domain name and port number of the secondary server. In addition, the connection timeout is configured with `PS::errorRedirect.connectTimeout` and the maximum time the primary server will wait for a response from the secondary server before returning an error to the client is configured with `PS::errorRedirect.socketTimeout`.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >If the secondary server cannot be contacted, a text error response will be returned to the client, even if a default image or error image is configured.
 

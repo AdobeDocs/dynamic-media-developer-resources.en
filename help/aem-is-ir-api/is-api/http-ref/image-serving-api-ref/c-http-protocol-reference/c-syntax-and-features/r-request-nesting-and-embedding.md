@@ -12,7 +12,7 @@ uuid: 59031329-e65f-4631-bc7d-83f2540cc836
 
 Image Serving supports unlimited nesting of Image Serving requests, embedding of Image Rendering requests, as well as embedding images retrieved from foreign servers. Only layer images and layer masks support these mechanisms.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >Certain email clients and proxy servers may encode the curly braces used for the nesting and embedding syntax. Applications for which this is an issue should use parentheses instead of curly braces.
 
@@ -26,7 +26,7 @@ The `is` token is case-sensitive.
 
 The nested request must not include the server root path (typically ` http:// *[!DNL server]*/is/image/'`).
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >The nested request delimiter characters ( `'(',')'`) and the command delimiter characters ( `'?'`, `'&'`, `'='`) within nested requests must not be HTTP-encoded. Effectively, nested requests must be encoded the same as the outer (nesting) request.
 
@@ -58,7 +58,7 @@ The `ir` token is case-sensitive.
 
 *[!DNL renderRequest]* is the usual Image Rendering request, excluding the HTTP root path ` http:// *[!DNL server]*/ir/render/`.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >The nested request delimiter characters ( `'(',')'`) and the command delimiter characters ( `'?'`, `'&'`, `'='`) within nested requests must not be HTTP-encoded. Effectively, embedded requests must be encoded the same as the outer (embedding) request.
 
@@ -83,13 +83,13 @@ When the FXG graphics renderer (aka [!DNL AGMServer]) is installed and enabled w
 
 The `fxg` token is case-sensitive.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >FXG graphics rendering is available only in the Scene7 hosted environment and may require additional licensing. Contact Scene7 Support for more information.
 
 *[!DNL renderRequest]* is the usual FXG render request, excluding the HTTP root path ` http:// *[!DNL server]*/agm/render/`.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >The delimiter characters ( `'(',')'`) and the command delimiter characters ( `'?'`, `'&'`, `'='`) within nested requests must not be HTTP-encoded. Effectively, embedded requests must be encoded the same as the outer (embedding) request.
 
@@ -123,7 +123,7 @@ Foreign images are cached by the server according to the caching headers include
 
 This mechanism supports the same image file formats which are supported by the Image Convert (IC) utility, with the exception of source images with 16 bits per component.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >Image Serving will automatically run the validate utility when a foreign image is first used, to ensure that the image is valid and has not been corrupted during transmission. This may cause a slight delay on first access. For best performance, it is recommended to limit the size of such images and/or use an image file format that compresses well.
 

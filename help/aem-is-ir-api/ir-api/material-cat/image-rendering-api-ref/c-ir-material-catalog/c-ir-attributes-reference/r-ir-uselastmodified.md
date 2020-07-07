@@ -16,7 +16,7 @@ The server uses the most recent `vignette::TimeStamp` and `catalog::TimeStamp` v
 
 Should be enabled only if a distributed caching network, such as Akamai, is used which does not support etag headers.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >Care must be taken when using Last-Modified headers in a load-balanced environment involving multiple Image Serving/Rendering hosts. Client caching may be defeated and server load increase if for some reason the servers have different time stamps for the same catalog entries. Such a situation can occur as follows:
 

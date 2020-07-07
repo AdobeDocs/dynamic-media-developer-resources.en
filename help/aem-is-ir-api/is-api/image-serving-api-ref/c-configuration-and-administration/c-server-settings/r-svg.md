@@ -42,7 +42,7 @@ Specifies where the SvgRender will find the font files needed for rendering SVG 
 
 Configures the port on which the Image Server and the SVGRender component communicate.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >For correct functioning of the SVGRender component, the same port number must be specified for `SVG::SVGRender.port` and `IS::SVGTcpPort`.
 
