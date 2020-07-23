@@ -48,7 +48,7 @@ Job type to allow reprocessing of previously uploaded primary files, including r
   <tr> 
    <td colname="col1"> <p><span class="codeph"> <span class="varname"> preserveCrop</span> </span> </p> </td> 
    <td colname="col2"> <p><span class="codeph"> xsd:boolean</span> </p> </td> 
-   <td colname="col3">Controls preservation of any existing crop definition. Defaults to <span class="codeph"> true</span>. </td> 
+   <td colname="col3"> <p>Controls preservation of any existing crop definition. Default is true.</p> <p>If you provide the manualCropOptions parameter and corresponding values, then the new values (excluding 0,0,0,0) are applied to the asset regardless of the preserveCrop value.</p><p>If you do <i>not</i> provide the manualCropOptions parameter, the value of preserveCrop is maintained. And, in case of true, the existing preserveCrop values are retained; in case of false, the preserveCrop values are removed.</p><p>Example:</p><p><p>&lt;preserveCrop&gt;false&lt;/preserveCrop&gt;<br />&lt;manualCropOptions&gt;<br />&nbsp;&nbsp; &lt;left&gt;190&lt;/left&gt;<br />&nbsp;&nbsp; &lt;right&gt;310&lt;/right&gt;<br />&nbsp;&nbsp; &lt;top&gt;160&lt;/top&gt;<br />&nbsp;&nbsp; &lt;bottom&gt;120&lt;/bottom&gt;<br />&lt;/manualCropOptions&gt;</p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p><span class="codeph"> <span class="varname"> manualCropOptions</span> </span> </p> </td> 
