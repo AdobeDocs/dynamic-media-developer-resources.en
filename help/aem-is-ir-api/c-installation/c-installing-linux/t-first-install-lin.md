@@ -57,7 +57,9 @@ This procedure shows how to install Image Serving for the first time on Linux.
 
    Make sure all port numbers specified are unique and not used otherwise on this host.
 
-   >[!IMPORTANT] If an account other than root is specified, you must make sure that access permissions for all files and folders the Image Server needs to read and/or write are correctly set up when these folders are reconfigured in the configuration files.
+   >[!IMPORTANT]
+   >
+   >If an account other than root is specified, you must make sure that access permissions for all files and folders the Image Server needs to read and/or write are correctly set up when these folders are reconfigured in the configuration files.
    >
    >Image Serving is now installed to [!DNL /usr/local/Scene7/ImageServing]. Certain Image Rendering contents are installed to [!DNL /usr/local/Scene7/ImageRendering].
    >
