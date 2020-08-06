@@ -28,7 +28,7 @@ The [!DNL webapps] folder may be deleted on upgrade. Please backup the [!DNL web
    When the installation is complete the following message is shown:
 
    `Image Server was started successfully` 
->During an update, the [!DNL ImageServing/conf/server.xml] file is updated to the latest settings. If you have changed or added any values you should save your existing [!DNL server.xml] and reimplement your changes after the upgrade. 
->
->After an update install, consider warming up the HTTP response cache prior to taking the server live. Refer to the description of the [!DNL playlog] utility for details. 
 
+During an update, the [!DNL ImageServing/conf/server.xml] file is updated to the latest settings. If you have changed or added any values you should save your existing [!DNL server.xml] and reimplement your changes after the upgrade. 
+
+After an update install, consider warming up the HTTP response cache prior to taking the server live. Refer to the description of the [!DNL playlog] utility for details. 

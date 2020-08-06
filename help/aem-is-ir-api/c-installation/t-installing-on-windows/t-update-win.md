@@ -33,7 +33,7 @@ Use this procedure when upgrading Scene7 Image Serving.
 1. Once the installation is complete, click "Finish" to exit the installation wizard.
 
    In some cases the installation wizard may ask to reboot the system. 
->During an update, the [!DNL ImageServing/conf/server.xml] file is updated to the latest settings. If you have changed or added any values you should save your existing [!DNL server.xml] and reimplement your changes after the upgrade. 
->
->After an update install, consider warming up the HTTP response cache prior to taking the server live. Refer to the description of the `playlog` utility for details. 
 
+During an update, the [!DNL ImageServing/conf/server.xml] file is updated to the latest settings. If you have changed or added any values you should save your existing [!DNL server.xml] and reimplement your changes after the upgrade. 
+
+After an update install, consider warming up the HTTP response cache prior to taking the server live. Refer to the description of the `playlog` utility for details. 
