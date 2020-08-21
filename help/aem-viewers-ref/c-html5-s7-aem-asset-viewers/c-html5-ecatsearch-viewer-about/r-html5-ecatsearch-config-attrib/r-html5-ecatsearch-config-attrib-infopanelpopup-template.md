@@ -44,6 +44,6 @@ None.
 
 ## Example {#section-16d184665c484964af9a22f79ff3f840}
 
-Assuming that the info server response returns the product name as variable [!DNL `$1$` and product image URL is returned as variable [!DNL `$2$`.
+Assuming that the info server response returns the product name as variable `$1$` and product image URL is returned as variable `$2$`.
 
-[!DNL `template=<info><![CDATA[Product description:$1$<br>Product image:<img src="$2$">]]></info>`] 
+`template=<info><![CDATA[Product description:$1$<br>Product image:<img src="$2$">]]></info>`
