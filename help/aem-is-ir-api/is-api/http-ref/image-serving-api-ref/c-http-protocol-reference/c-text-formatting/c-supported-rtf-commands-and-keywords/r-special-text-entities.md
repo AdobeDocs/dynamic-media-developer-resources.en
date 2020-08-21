@@ -37,12 +37,12 @@ Use the following special entities when formatting text.
    <td> <p> </p> </td> 
   </tr> 
   <tr> 
-   <td> <span class="codeph"> \{ </span> </td> 
+   <td> <span class="codeph"> &lbrace; </span> </td> 
    <td> <p>Curly open brace. </p> </td> 
    <td> <p>The brace must be HTTP-encoded. </p> </td> 
   </tr> 
   <tr> 
-   <td> <span class="codeph"> \} </span> </td> 
+   <td> <span class="codeph"> &rbrace; </span> </td> 
    <td> <p>Curly close brace. </p> </td> 
    <td> <p>The brace must be HTTP-encoded. </p> </td> 
   </tr> 

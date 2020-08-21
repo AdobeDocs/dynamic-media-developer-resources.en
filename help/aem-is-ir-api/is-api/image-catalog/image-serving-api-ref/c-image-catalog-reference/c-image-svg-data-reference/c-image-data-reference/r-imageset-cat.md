@@ -14,19 +14,19 @@ Image set data. Provides a mechanism to define sorted sets of images and control
 
 An image set consists of a sorted, comma-separated list of items, with each item consisting of one or more sub-items (image ids, swatch ids, media file paths, labels, etc), separated by semi-colons and/or colons.
 
-Curly braces '{ }' and parentheses '( )' may be used to delimit certain content (such as color values) or indicate nested sets. Braces or parentheses used this way must not be encoded and must always appear as matched pairs, otherwise a catalog parsing error will occur.
+Curly braces `{ }` and parentheses `( )` may be used to delimit certain content (such as color values) or indicate nested sets. Braces or parentheses used this way must not be encoded and must always appear as matched pairs, otherwise a catalog parsing error will occur.
 
 >[!NOTE]
 >
 >The following characters are used as set delimiters and must be HTTP-encoded when they appear in the set as part of id or string values: 
 >
->* , 
->* ; 
->* : 
->* { 
->* } 
->* ( 
->* ) 
+>* `,` 
+>* `;` 
+>* `:` 
+>* `{` 
+>* `}` 
+>* `(` 
+>* `)` 
 
 
 Refer to the Image Serving Viewers documentation for additional details regarding the structure and use of image sets.

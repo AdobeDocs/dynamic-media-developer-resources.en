@@ -12,7 +12,7 @@ uuid: 7c589119-d1b3-460f-acbd-5e8d10d0d976
 
 Reply image format. Specifies the image encoding format for image data sent to the client and the corresponding response MIME type for the HTTP response header.
 
- ` fmt= *`format`*[,[ *`pixelType`*][, *`tiffCompression`*`]]
+ ` fmt= *`format`*[,[ *`pixelType`*][, *`tiffCompression`*]]`
 
 <table id="simpletable_200779AA8D8D49A089A295AED5C98C8F"> 
  <tr class="strow"> 
