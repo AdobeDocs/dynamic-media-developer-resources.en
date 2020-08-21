@@ -54,12 +54,12 @@ Otherwise, standard HTTP encoding rules apply. The HTTP specification requires e
    <td colname="col3"> <p>37 </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>{ </p> </td> 
+   <td colname="col1"> <p>&lbrace; </p> </td> 
    <td colname="col2"> <p>7B </p> </td> 
    <td colname="col3"> <p>123 </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>} </p> </td> 
+   <td colname="col1"> <p>&rbrace; </p> </td> 
    <td colname="col2"> <p>7D </p> </td> 
    <td colname="col3"> <p>125 </p> </td> 
   </tr> 
@@ -84,12 +84,12 @@ Otherwise, standard HTTP encoding rules apply. The HTTP specification requires e
    <td colname="col3"> <p>126 </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>[ </p> </td> 
+   <td colname="col1"> <p>&lbrack; </p> </td> 
    <td colname="col2"> <p>5B </p> </td> 
    <td colname="col3"> <p>91 </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>] </p> </td> 
+   <td colname="col1"> <p>&rbrack; </p> </td> 
    <td colname="col2"> <p>5D </p> </td> 
    <td colname="col3"> <p>93 </p> </td> 
   </tr> 

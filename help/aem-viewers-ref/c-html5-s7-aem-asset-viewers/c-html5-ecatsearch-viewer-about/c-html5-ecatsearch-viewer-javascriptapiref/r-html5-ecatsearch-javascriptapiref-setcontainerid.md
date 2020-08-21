@@ -14,9 +14,9 @@ JavaScript API reference for eCatalog Viewer.
 
  [!DNL ` setContainerId( *`containerId`*)`]
 
-Sets the ID of the [!DNL `DOM` container (normally a [!DNL `DIV`]) into which the viewer is inserted. It is not necessary to have the container element created by the time this method is called. However, the container must exist when [!DNL `init()`] is run. It must be called before [!DNL `init()`].
+Sets the ID of the `DOM` container (normally a `DIV`) into which the viewer is inserted. It is not necessary to have the container element created by the time this method is called. However, the container must exist when `init()` is run. It must be called before `init()`.
 
-This method is optional if the viewer configuration information is passed with [!DNL `config`] JSON object to the constructor.
+This method is optional if the viewer configuration information is passed with `config` JSON object to the constructor.
 
 <table id="table_896DFF34A68A403DB93A6D597461A573"> 
  <tbody> 

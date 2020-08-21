@@ -31,7 +31,7 @@ Optional.
 
 ## Default {#section-50b22de303c1432094530e6583132c02}
 
-[!DNL `limit,1500`
+`limit,1500`
 
 ## Example {#section-09433488774245d985acef6c0341ece0}
 
