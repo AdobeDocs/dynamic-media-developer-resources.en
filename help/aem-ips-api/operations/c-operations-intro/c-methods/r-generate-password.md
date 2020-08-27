@@ -18,7 +18,8 @@ Generates a new password.
 
 * `IpsUser` 
 * `IpsAdmin` 
-* `IpsCompanyAdmin` 
+* `IpsCompanyAdmin`
+* `TrialSiteAdmin` 
 * `TrialSiteUser` 
 * `ImagePortalAdmin` 
 * `ImagePortalUser` 
