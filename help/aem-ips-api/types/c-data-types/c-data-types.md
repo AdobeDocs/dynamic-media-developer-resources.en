@@ -187,7 +187,6 @@ uuid: 49e99f49-5bab-460f-a5f4-c966027b77fe
 + [SystemFieldConditionArray](r-system-field-condition-array.md)
 + [TagCondition](r-tag-condition.md)
 + [TagConditionArray](r-tag-condition-array.md)
-+ [TagConditionArray](r-tag-condition-array.md)
 + [TagFieldValues](r-tag-field-values.md)
 + [TagFieldValuesArray](r-tag-field-values-array.md)
 + [TagValueUpdate](r-tag-value-update.md)
