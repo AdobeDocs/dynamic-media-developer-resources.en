@@ -82,9 +82,9 @@ The Digimarc library refuses to apply a Digimarc watermark to an image if one is
 
   *Work around*:
 
-  For Image Rendering non-pyramided vignettes, increase the property value for IrMaxNonPyrVignetteSize in the [!DNL  *[!DNL install_root]*/ImageServing/bin/ ImageServerRegistry.xml] configuration file.
+  For Image Rendering non-pyramided vignettes, increase the property value for IrMaxNonPyrVignetteSize in the [!DNL install_root/ImageServing/bin/ImageServerRegistry.xml] configuration file.
 
-  For Image Serving non-pyramided TIFFs, increase the property value for `MaxNonDsfSize` in the [!DNL  *[!DNL install_root]* /ImageServing/bin/ ImageServerRegistry.xml] configuration file. 
+  For Image Serving non-pyramided TIFFs, increase the property value for `MaxNonDsfSize` in the [!DNL install_root/ImageServing/bin/ImageServerRegistry.xml] configuration file. 
 
 * Adobe Photoshop CS3 does not save layered PSD files by default a composite image.
 
@@ -128,7 +128,7 @@ The Digimarc library refuses to apply a Digimarc watermark to an image if one is
 
   *Workaround*
 
-  Set the property `svgProvider.fontRoot=` in [!DNL  *[!DNL install_root]* /ImageServing/conf/PlatformServer.conf] . 
+  Set the property `svgProvider.fontRoot=` in [!DNL install_root/ImageServing/conf/PlatformServer.conf] . 
 
 * Crop is currently using `bgColor=` instead of `color=` to fill any newly extended area. 
 
@@ -138,7 +138,7 @@ The Digimarc library refuses to apply a Digimarc watermark to an image if one is
 ## Restrictions applicable only to Image Rendering {#section-4c6949e797174607a3d1ab4d3d4a725a}
 
 * Decals and wall materials are not removable. 
-* The size of textures is limited relative to the size of the vignette view. In rare circumstances, the default limit of 425% of the view size may interfere with an application using very large non-repeatable textures. If it is not possible to change the application or contents to work within the pre-defined limitations, the percentage can be increased as follows. Using a text editor, open [!DNL  *[!DNL install_root]*/ImageServing/conf/ImageServerRegistry.xml], locate `IrMaxTextureSizeFactor` and enter a new percentage value. The change takes effect immediately without restarting the Image Server. 
+* The size of textures is limited relative to the size of the vignette view. In rare circumstances, the default limit of 425% of the view size may interfere with an application using very large non-repeatable textures. If it is not possible to change the application or contents to work within the pre-defined limitations, the percentage can be increased as follows. Using a text editor, open [!DNL install_root/ImageServing/conf/ImageServerRegistry.xml], locate `IrMaxTextureSizeFactor` and enter a new percentage value. The change takes effect immediately without restarting the Image Server. 
 
 * The JavaScript engines in Netscape and Opera cache response data even if the nocache header is set. This interferes with proper functioning of stateful requests.
 
