@@ -32,4 +32,4 @@ Returns:
 
 ## Example {#section-3886e8352e26419c97b24df21ca7f6fd}
 
-[!DNL http://scene7.adobe.com:8080/is/agm/AcmeCorp?req=batchjobsubmit&jobdata=<URLEncodedXMLFileContents>] 
+`http://scene7.adobe.com:8080/is/agm/AcmeCorp?req=batchjobsubmit&jobdata=<URLEncodedXMLFileContents>`
