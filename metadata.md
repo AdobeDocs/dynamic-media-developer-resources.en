@@ -1,5 +1,7 @@
 ---
 cloud: experience-cloud
+solution: Dynamic Media Classic
+type: Documentation
 solution-title: Learn & Support
 solution-hub-url: https://helpx.adobe.com/support/experience-manager.html
 solution-image: 
