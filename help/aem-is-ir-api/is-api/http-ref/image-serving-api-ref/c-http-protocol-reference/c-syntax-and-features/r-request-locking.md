@@ -14,6 +14,11 @@ To reduce opportunity for tampering with requests, a simple locking facility is 
 
  If attribute::RequestLock is set, a lock value must be appended to the request, in form of `&xxxx`, with xxxx being a four digit hex value. This hex value is generated using a simple hashing algorithm applied to the *modifiers* portion of the request (after the '?' which separates the URL path from the *modifiers*). This must be done after the request is fully http-encoded, but before it is (optionally) obfuscated. After de-obfuscating the request, the server will use the same hashing algorithm on the modifier string (excluding the last 5 characters, which contain the lock value). If the generated key does not match the lock, the request is rejected.
 
+ If you enable this feature be aware that there are certain limitations to its use that include the following:
+
+* The Dynamic Media user interface may not show the correct details for the [!UICONTROL Last Published] field. However, this affect does not impact publishing.
+* Currently, HLS video streaming does not work when [!UICONTROL Request Obfuscation] and [!UICONTROL Request Locking] are enabled.
+
 C++ sample code to generate the request lock value:
 
 ```
