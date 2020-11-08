@@ -14,10 +14,9 @@ The contents of the entire modifiers part of request string, including the optio
 
  The server attempts to decode if `attribute::RequestObfuscation` is set. If decoding fails, the request is rejected. If both request locking and request obfuscation are applied, the lock suffix must be generated and appended before base64 encoding.
 
-If you enable this feature be aware that there are certain limitations to its use that include the following:
-
-* The Dynamic Media user interface may not show the correct details for the [!UICONTROL Last Published] field. However, this affect does not impact publishing.
-* Currently, HLS video streaming does not work when [!UICONTROL Request obfuscation] and [!UICONTROL Request locking] are enabled.
+>[!IMPORTANT]
+>
+>If you enable this feature be aware that there are certain limitations to its use that include the following:<br>- The Dynamic Media user interface may not show the correct details for the **[!UICONTROL Last Published]** field. However, this affect does not impact publishing.<br>- Currently, HLS video streaming does not work when **[!UICONTROL Request obfuscation]** and **[!UICONTROL Request locking]** are enabled.
 
 ## Example {#section-dd4bfab19aa040f8ba3f6e397c6b0941}
 
