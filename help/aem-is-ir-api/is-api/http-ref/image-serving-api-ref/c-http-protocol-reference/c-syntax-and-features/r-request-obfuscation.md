@@ -16,7 +16,7 @@ The contents of the entire modifiers part of request string, including the optio
 
 >[!IMPORTANT]
 >
->If you enable this feature be aware that there are certain limitations to its use that include the following:<br>- The Dynamic Media user interface may not show the correct details for the **[!UICONTROL Last Published]** field. However, this affect does not impact publishing.<br>- Currently, HLS video streaming does not work when **[!UICONTROL Request obfuscation]** and **[!UICONTROL Request locking]** are enabled.
+>If you enable this feature, be aware that there are certain limitations to its use that include the following:<br>- The Dynamic Media user interface may not show the correct details for the **[!UICONTROL Last Published]** field. However, this affect does not impact publishing.<br>- Currently, HLS video streaming does not work when **[!UICONTROL Request obfuscation]** and **[!UICONTROL Request locking]** are enabled.
 
 ## Example {#section-dd4bfab19aa040f8ba3f6e397c6b0941}
 
