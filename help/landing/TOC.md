@@ -1,8 +1,12 @@
 ---
 title: Adobe Dynamic Media developer resources
-seo-title: Adobe Dynamic Media developer resource guides for viewers, image serving, image rendering, and image production
-description: Adobe Dynamic Media developer resources
-seo-description: Adobe Dynamic Media developer resource guides for viewers, image serving, image rendering, and image production
+cloud: experience-cloud
+product: Adobe Dynamic Media Developer Resources
+audience: end-user
+user-guide-title: Adobe Dynamic Media Developer Resources
+breadcrumb-title: Dynamic Media Developer Resources
+user-guide-description: Access Dynamic Media developer resources such as the Viewers Reference Guide, Image Production System API, Image Serving and Rendering API, and archived Scene7 release notes.
+index: y
 ---
 
 # Dynamic Media Developer Resources{#landing}

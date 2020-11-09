@@ -3,6 +3,7 @@ cloud: experience-cloud
 product: adobe
 archtype: end-user
 user-guide-title: Dynamic Media Image Serving and Rendering API
+breadcrumb-title: Dynamic Media Image Serving and Rendering API
 ---
 
 # Dynamic Media Image Serving and Rendering API {#image-serving-api}
