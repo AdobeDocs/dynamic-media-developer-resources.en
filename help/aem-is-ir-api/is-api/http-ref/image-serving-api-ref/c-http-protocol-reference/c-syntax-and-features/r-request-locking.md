@@ -16,7 +16,7 @@ To reduce opportunity for tampering with requests, a simple locking facility is 
 
 >[!IMPORTANT]
 >
->If you enable this feature, be aware that there are certain limitations to its use that include the following:<br>- The Dynamic Media user interface may not show the correct details for the **[!UICONTROL Last Published]** field. However, this affect does not impact publishing.<br>- Currently, HLS video streaming does not work when **[!UICONTROL Request Obfuscation]** and **[!UICONTROL Request Locking]** are enabled.
+>If you enable this feature, be aware that there are certain limitations to its use that include the following:<br>- The Dynamic Media user interface may not show the correct details for the **[!UICONTROL Last Published]** field. However, this affect does not impact publishing.<br>- Currently, HLS video streaming does not work when **[!UICONTROL Request obfuscation]** and **[!UICONTROL Request locking]** are enabled.<br>- Currently, some Dynamic Media Viewers do not work when **[!UICONTROL Request obfuscation]** and **[!UICONTROL Request locking]** are enabled.
 
 C++ sample code to generate the request lock value:
 
