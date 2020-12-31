@@ -60,12 +60,12 @@ The upload job consists of one or more HTTP POSTs that use a common `jobHandle` 
 >All POST requests for an upload job must originate from the same IP address.
 
 | HTTP POST form part | Description |
-|-|-|
+|---|---|
 |`auth` |  Required. An XML authHeader document specifying authentication and client information. See **Request authentication** under [SOAP](/help/aem-ips-api/c-wsdl-versions.md). |
 |`file params` |  Optional. You can include one or more files to upload with each POST request. Each file part can include a filename parameter in the Content-Disposition header that is used as the target filename in IPS if no `uploadPostParams/fileName` parameter is specified. |
 
 | HTTP POST form part  | uploadPostParams element name  | Type  | Description  |
-|-|-|-|-|
+|---|---|---|---|
 |`uploadParams` (Required. An XML `uploadParams` document specifying the upload parameters)  |  `companyHandle` | `xsd:string` | Required. Handle to the company to which the file is being upload. |
 |`uploadParams` (Required. An XML `uploadParams` document specifying the upload parameters)|`jobName` | `xsd:string` | Either `jobName` or `jobHandle` is required. Name of the upload job. |
 |`uploadParams` (Required. An XML `uploadParams` document specifying the upload parameters)|`jobHandle` | `xsd:string` | Either `jobName` or `jobHandle` is required. Handle to an upload job started in a previous request. |
