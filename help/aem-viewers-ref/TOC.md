@@ -29,6 +29,8 @@ user-guide-title: Dynamic Media Viewers Reference Guide
       + [Scene7 Viewers 5.0.1 Release Notes](c-release-notes/c-archive/c-rn-04-29-14.md)
       + [Scene7 Viewers 4.9.2 Release Notes](c-release-notes/c-archive/c-rn-09-18-13.md)
 + [Compatibility notes](c-compatibility-notes.md)
++ [Keyboard accessibility and navigation](c-keyboard-accessibility.md)
++ [Viewer SDK Tutorial](c-tutorial.md)
 + Viewers for AEM Assets and Dynamic Media Classic {#viewers-aem-assets-dmc}
    + [Viewers for AEM Assets and Dynamic Media Classic](c-html5-s7-aem-asset-viewers/c-html5-s7-aem-asset-viewers.md)
    + Basic Zoom {#basic-zoom}
@@ -933,5 +935,4 @@ user-guide-title: Dynamic Media Viewers Reference Guide
    + [initialFrame](c-html5-viewer-20-cmdref-url/r-html5-viewer-20-cmdref-url-initialframe.md)
    + [serverUrl](c-html5-viewer-20-cmdref-url/r-html5-viewer-20-cmdref-url-serverurl.md)
    + [videoServerUrl](c-html5-viewer-20-cmdref-url/r-html5-viewer-cmdref-url-videoserverurl.md)
-+ [Keyboard accessibility and navigation](c-keyboard-accessibility.md)
-+ [Viewer SDK Tutorial](c-tutorial.md)
+
