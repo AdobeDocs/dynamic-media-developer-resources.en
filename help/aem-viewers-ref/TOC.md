@@ -13,9 +13,10 @@ user-guide-title: Dynamic Media Viewers Reference Guide
 + [System requirements](c-system-requirements-and-prerequisites.md)
 + [Installing multiple viewers on the same server](t-installing-the-viewers.md)
 + Viewers release notes {#viewers-release-notes}
-   + [Viewers release notes (5.14.1)](c-release-notes/c-rn-06-03-20.md)
+   + [Viewers release notes (5.15.3)](c-release-notes/c-rn-01-13-21.md)
    + Archive {#archive}
       + [Release notes archive](c-release-notes/c-archive/c-archive.md)
+      + [Viewers release notes (5.14.1)](c-release-notes/c-archive/c-rn-06-03-20.md)
       + [Viewers release notes (5.13.1)](c-release-notes/c-archive/c-rn-07-08-19.md)
       + [Viewers release notes (5.12.1)](c-release-notes/c-archive/c-rn-04-01-19.md)
       + [Viewers release notes (5.10.1)](c-release-notes/c-archive/c-rn-07-17-18.md)
