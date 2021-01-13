@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Hotspot and Image maps support
+description: Hotspot and Image maps support
 solution: Experience Manager
 title: Hotspot and Image maps support
 topic: Dynamic media

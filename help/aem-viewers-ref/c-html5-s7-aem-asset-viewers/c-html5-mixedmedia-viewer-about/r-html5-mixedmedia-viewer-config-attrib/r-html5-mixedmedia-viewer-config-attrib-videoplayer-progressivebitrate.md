@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: VideoPlayer.progressivebitrate
+description: VideoPlayer.progressivebitrate
 solution: Experience Manager
 title: VideoPlayer.progressivebitrate
 topic: Dynamic media

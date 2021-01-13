@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: ZoomView.iconeffect
+description: ZoomView.iconeffect
 solution: Experience Manager
 title: ZoomView.iconeffect
 topic: Dynamic media

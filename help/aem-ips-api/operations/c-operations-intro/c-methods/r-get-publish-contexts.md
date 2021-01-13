@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: getPublishContexts
+description: getPublishContexts
 solution: Experience Manager
 title: getPublishContexts
 topic: Scene7 Image Production System API

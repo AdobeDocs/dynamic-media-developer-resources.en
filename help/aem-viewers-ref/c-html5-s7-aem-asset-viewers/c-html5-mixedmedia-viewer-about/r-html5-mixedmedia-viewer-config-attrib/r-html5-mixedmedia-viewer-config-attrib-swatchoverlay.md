@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: swatchoverlay
+description: swatchoverlay
 solution: Experience Manager
 title: swatchoverlay
 topic: Dynamic media

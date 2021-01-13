@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: View transform for images
+description: View transform for images
 solution: Experience Manager
 title: View transform for images
 topic: Scene7 Image Serving - Image Rendering API

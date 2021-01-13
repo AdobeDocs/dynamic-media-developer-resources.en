@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Viewer SDK namespace
+description: Viewer SDK namespace
 solution: Experience Manager
 title: Viewer SDK namespace
 topic: Dynamic media

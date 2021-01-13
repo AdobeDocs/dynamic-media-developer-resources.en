@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: ThumbnailGridView.enabledragging
+description: ThumbnailGridView.enabledragging
 solution: Experience Manager
 title: ThumbnailGridView.enabledragging
 topic: Dynamic media

@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: PermissonSet
+description: PermissonSet
 solution: Experience Manager
 title: PermissonSet
 topic: Scene7 Image Production System API

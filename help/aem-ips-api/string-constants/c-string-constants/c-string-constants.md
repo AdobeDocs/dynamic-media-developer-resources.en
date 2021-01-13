@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: String constants
+description: String constants
 solution: Experience Manager
 title: String constants
 topic: Scene7 Image Production System API

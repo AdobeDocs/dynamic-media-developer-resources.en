@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Print.printquality
+description: Print.printquality
 solution: Experience Manager
 title: Print.printquality
 topic: Dynamic media

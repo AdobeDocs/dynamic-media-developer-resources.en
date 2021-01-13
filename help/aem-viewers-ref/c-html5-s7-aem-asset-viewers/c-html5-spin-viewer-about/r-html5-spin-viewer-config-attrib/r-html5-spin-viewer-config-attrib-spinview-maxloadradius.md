@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: SpinView.maxloadradius
+description: SpinView.maxloadradius
 solution: Experience Manager
 title: SpinView.maxloadradius
 topic: Dynamic media

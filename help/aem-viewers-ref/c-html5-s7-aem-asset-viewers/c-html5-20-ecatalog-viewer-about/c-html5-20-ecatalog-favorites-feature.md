@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Favorites feature
+description: Favorites feature
 solution: Experience Manager
 title: Favorites feature
 topic: Dynamic media

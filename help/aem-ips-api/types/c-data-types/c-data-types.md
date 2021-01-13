@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Data types
+description: Data types
 solution: Experience Manager
 title: Data types
 topic: Scene7 Image Production System API

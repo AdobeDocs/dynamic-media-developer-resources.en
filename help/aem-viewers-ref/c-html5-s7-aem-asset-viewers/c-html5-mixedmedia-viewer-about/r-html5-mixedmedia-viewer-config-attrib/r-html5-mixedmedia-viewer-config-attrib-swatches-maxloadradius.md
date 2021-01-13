@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Swatches.maxloadradius
+description: Swatches.maxloadradius
 solution: Experience Manager
 title: Swatches.maxloadradius
 topic: Dynamic media

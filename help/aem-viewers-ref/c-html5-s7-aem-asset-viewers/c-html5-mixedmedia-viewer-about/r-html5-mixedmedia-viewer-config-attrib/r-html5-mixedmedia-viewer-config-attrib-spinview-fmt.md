@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: SpinView.fmt
+description: SpinView.fmt
 solution: Experience Manager
 title: SpinView.fmt
 topic: Dynamic media

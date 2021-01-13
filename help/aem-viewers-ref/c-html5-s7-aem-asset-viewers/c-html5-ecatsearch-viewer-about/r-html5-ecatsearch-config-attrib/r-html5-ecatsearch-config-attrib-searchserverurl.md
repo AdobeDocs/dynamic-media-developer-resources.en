@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: searchServerUrl
+description: searchServerUrl
 solution: Experience Manager
 title: searchServerUrl
 topic: Dynamic media

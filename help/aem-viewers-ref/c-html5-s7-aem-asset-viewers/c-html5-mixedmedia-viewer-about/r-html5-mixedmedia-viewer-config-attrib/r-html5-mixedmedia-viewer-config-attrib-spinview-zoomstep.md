@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: SpinView.zoomstep
+description: SpinView.zoomstep
 solution: Experience Manager
 title: SpinView.zoomstep
 topic: Dynamic media

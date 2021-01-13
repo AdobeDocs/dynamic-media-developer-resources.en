@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: ZoomView.zoomstep
+description: ZoomView.zoomstep
 solution: Experience Manager
 title: ZoomView.zoomstep
 topic: Dynamic media

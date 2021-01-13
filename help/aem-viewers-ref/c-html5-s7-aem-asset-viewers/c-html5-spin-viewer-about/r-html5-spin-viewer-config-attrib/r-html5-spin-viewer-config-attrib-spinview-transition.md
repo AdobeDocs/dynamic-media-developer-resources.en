@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: SpinView.transition
+description: SpinView.transition
 solution: Experience Manager
 title: SpinView.transition
 topic: Dynamic media

@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: InitialFrame
+description: InitialFrame
 solution: Experience Manager
 title: InitialFrame
 topic: Dynamic media

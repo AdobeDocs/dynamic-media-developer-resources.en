@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: PermissionSetArray
+description: PermissionSetArray
 solution: Experience Manager
 title: PermissionSetArray
 topic: Scene7 Image Production System API

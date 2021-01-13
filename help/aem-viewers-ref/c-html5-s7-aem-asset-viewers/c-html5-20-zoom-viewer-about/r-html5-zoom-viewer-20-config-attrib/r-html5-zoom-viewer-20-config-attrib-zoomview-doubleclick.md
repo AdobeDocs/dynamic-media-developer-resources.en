@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: ZoomView.doubleclick
+description: ZoomView.doubleclick
 solution: Experience Manager
 title: ZoomView.doubleclick
 topic: Dynamic media

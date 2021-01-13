@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Swatches.enabledragging
+description: Swatches.enabledragging
 solution: Experience Manager
 title: Swatches.enabledragging
 topic: Dynamic media

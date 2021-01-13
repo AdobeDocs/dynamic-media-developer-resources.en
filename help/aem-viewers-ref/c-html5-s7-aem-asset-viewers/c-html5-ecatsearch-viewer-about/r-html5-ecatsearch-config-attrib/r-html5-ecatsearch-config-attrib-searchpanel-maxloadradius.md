@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: SearchPanel.maxloadradius
+description: SearchPanel.maxloadradius
 solution: Experience Manager
 title: SearchPanel.maxloadradius
 topic: Dynamic media

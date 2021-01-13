@@ -1,8 +1,6 @@
 ---
-description: null
+description: Customizing Inline Zoom Viewer
 keywords: responsive
-seo-description: null
-seo-title: Customizing Inline Zoom Viewer
 solution: Experience Manager
 title: Customizing Inline Zoom Viewer
 topic: Dynamic media

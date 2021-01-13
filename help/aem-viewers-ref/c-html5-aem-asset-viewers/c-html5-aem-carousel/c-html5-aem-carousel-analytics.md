@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Support for Adobe Analytics tracking
+description: Support for Adobe Analytics tracking
 solution: Experience Manager
 title: Support for Adobe Analytics tracking
 topic: Dynamic media

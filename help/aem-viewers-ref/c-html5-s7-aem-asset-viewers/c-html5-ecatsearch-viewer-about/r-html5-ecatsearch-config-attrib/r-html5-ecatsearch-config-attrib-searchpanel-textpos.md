@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: SearchPanel.textpos
+description: SearchPanel.textpos
 solution: Experience Manager
 title: SearchPanel.textpos
 topic: Dynamic media

@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: CarouselView.iscommand
+description: CarouselView.iscommand
 solution: Experience Manager
 title: CarouselView.iscommand
 topic: Dynamic media

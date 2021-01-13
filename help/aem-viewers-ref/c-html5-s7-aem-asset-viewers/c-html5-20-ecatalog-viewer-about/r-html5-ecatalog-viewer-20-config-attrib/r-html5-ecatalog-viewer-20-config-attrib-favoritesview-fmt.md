@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: FavoritesView.fmt
+description: FavoritesView.fmt
 solution: Experience Manager
 title: FavoritesView.fmt
 topic: Dynamic media

@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: FlyoutZoomView.overlay
+description: FlyoutZoomView.overlay
 solution: Experience Manager
 title: FlyoutZoomView.overlay
 topic: Dynamic media

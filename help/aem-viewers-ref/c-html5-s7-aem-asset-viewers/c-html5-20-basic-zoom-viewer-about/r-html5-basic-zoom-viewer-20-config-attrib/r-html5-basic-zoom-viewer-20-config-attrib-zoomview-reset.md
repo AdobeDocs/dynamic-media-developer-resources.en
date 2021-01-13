@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: ZoomView.reset
+description: ZoomView.reset
 solution: Experience Manager
 title: ZoomView.reset
 topic: Dynamic media

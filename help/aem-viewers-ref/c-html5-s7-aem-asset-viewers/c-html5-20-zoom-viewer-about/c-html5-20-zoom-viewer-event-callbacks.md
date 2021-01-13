@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Event callbacks
+description: Event callbacks
 solution: Experience Manager
 title: Event callbacks
 topic: Dynamic media

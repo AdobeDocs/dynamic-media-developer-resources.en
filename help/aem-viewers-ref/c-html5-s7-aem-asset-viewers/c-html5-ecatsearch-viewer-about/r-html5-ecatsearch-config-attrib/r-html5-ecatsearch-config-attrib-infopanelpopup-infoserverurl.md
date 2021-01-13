@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: InfoPanelPopup.infoServerUrl
+description: InfoPanelPopup.infoServerUrl
 solution: Experience Manager
 title: InfoPanelPopup.infoServerUrl
 topic: Dynamic media

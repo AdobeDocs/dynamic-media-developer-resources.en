@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: SocialShare.bearing
+description: SocialShare.bearing
 solution: Experience Manager
 title: SocialShare.bearing
 topic: Dynamic media

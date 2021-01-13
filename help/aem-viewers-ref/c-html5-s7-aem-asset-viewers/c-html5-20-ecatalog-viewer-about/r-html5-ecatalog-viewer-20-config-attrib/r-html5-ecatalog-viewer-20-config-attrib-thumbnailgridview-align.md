@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: ThumbnailGridView.align
+description: ThumbnailGridView.align
 solution: Experience Manager
 title: ThumbnailGridView.align
 topic: Dynamic media

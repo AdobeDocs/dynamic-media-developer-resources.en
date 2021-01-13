@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: FlyoutZoomView.fmt
+description: FlyoutZoomView.fmt
 solution: Experience Manager
 title: FlyoutZoomView.fmt
 topic: Dynamic media

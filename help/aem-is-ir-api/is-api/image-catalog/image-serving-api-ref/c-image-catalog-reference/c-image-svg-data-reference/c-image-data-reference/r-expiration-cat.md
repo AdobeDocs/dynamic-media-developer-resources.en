@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Expiration
+description: Expiration
 solution: Experience Manager
 title: Expiration
 topic: Scene7 Image Serving - Image Rendering API

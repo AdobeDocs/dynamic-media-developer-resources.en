@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Vignette converter (vntc)
+description: Vignette converter (vntc)
 solution: Experience Manager
 title: Vignette converter (vntc)
 topic: Scene7 Image Serving - Image Rendering API

@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: SetIndicator.autohide
+description: SetIndicator.autohide
 solution: Experience Manager
 title: SetIndicator.autohide
 topic: Dynamic media

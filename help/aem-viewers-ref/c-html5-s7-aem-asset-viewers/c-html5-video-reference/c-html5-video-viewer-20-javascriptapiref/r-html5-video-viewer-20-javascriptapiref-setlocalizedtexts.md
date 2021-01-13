@@ -1,5 +1,5 @@
 ---
-seo-title: setLocalizedTexts
+description: setLocalizedTexts
 solution: Experience Manager
 title: setLocalizedTexts
 topic: Dynamic media

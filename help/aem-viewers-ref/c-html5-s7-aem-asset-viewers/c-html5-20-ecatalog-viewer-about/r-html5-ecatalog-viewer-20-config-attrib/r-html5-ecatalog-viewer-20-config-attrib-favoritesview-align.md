@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: FavoritesView.align
+description: FavoritesView.align
 solution: Experience Manager
 title: FavoritesView.align
 topic: Dynamic media

@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: EmbedShare.embedsizes
+description: EmbedShare.embedsizes
 solution: Experience Manager
 title: EmbedShare.embedsizes
 topic: Dynamic media

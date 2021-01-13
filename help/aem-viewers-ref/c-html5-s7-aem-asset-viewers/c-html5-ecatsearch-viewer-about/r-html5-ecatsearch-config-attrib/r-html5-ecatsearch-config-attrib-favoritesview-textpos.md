@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: FavoritesView.textpos
+description: FavoritesView.textpos
 solution: Experience Manager
 title: FavoritesView.textpos
 topic: Dynamic media

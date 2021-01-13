@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Swatches.pagemode
+description: Swatches.pagemode
 solution: Experience Manager
 title: Swatches.pagemode
 topic: Dynamic media

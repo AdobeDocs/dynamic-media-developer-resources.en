@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: ImageMapEffect.rollover
+description: ImageMapEffect.rollover
 solution: Experience Manager
 title: ImageMapEffect.rollover
 topic: Dynamic media

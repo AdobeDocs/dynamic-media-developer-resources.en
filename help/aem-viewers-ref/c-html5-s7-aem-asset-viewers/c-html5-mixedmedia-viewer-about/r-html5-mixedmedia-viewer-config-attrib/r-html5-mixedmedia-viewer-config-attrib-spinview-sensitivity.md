@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: SpinView.sensitivity
+description: SpinView.sensitivity
 solution: Experience Manager
 title: SpinView.sensitivity
 topic: Dynamic media

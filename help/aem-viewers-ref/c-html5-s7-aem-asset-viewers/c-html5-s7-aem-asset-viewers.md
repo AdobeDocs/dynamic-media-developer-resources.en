@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Viewers for AEM Assets and Dynamic Media Classic
+description: Viewers for AEM Assets and Dynamic Media Classic
 solution: Experience Manager
 title: Viewers for AEM Assets and Dynamic Media Classic
 topic: Dynamic media

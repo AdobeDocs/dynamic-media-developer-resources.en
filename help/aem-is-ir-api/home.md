@@ -1,5 +1,5 @@
 ---
-seo-title: Adobe Dynamic Media Image Serving and Image Rendering API Home
+description: Adobe Dynamic Media Image Serving and Image Rendering API Home
 solution: Experience Manager
 title: Adobe Dynamic Media Image Serving and Image Rendering API Home
 topic: Dynamic Media Image Serving - Image Rendering API

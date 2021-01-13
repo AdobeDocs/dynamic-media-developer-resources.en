@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: VideoPlayer.iconeffect
+description: VideoPlayer.iconeffect
 solution: Experience Manager
 title: VideoPlayer.iconeffect
 topic: Dynamic media

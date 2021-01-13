@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: CarouselView.fmt
+description: CarouselView.fmt
 solution: Experience Manager
 title: CarouselView.fmt
 topic: Dynamic media

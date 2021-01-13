@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: VideoPlayer.autoplay
+description: VideoPlayer.autoplay
 solution: Experience Manager
 title: VideoPlayer.autoplay
 topic: Dynamic media

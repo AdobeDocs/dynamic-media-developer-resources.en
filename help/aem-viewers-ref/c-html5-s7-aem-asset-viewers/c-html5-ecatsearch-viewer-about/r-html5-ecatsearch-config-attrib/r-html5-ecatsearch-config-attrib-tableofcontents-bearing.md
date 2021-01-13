@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: TableOfContents.bearing
+description: TableOfContents.bearing
 solution: Experience Manager
 title: TableOfContents.bearing
 topic: Dynamic media

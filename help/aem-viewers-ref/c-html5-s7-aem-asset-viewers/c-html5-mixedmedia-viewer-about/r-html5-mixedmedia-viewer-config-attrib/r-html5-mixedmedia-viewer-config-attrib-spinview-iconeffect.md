@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: SpinView.iconeffect
+description: SpinView.iconeffect
 solution: Experience Manager
 title: SpinView.iconeffect
 topic: Dynamic media

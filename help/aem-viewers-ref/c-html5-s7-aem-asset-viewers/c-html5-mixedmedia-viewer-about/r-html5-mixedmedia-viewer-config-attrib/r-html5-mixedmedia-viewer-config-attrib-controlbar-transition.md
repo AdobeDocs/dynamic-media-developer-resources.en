@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: ControlBar.transition
+description: ControlBar.transition
 solution: Experience Manager
 title: ControlBar.transition
 topic: Dynamic media

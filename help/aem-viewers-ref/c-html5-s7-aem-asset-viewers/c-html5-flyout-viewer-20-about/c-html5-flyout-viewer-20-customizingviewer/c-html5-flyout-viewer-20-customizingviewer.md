@@ -1,8 +1,6 @@
 ---
-description: null
+description: Customizing Flyout Viewer
 keywords: responsive
-seo-description: null
-seo-title: Customizing Flyout Viewer
 solution: Experience Manager
 title: Customizing Flyout Viewer
 topic: Dynamic media

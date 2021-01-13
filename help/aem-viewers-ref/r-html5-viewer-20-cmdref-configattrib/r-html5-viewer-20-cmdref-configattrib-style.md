@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: style
+description: style
 solution: Experience Manager
 title: style
 topic: Dynamic media

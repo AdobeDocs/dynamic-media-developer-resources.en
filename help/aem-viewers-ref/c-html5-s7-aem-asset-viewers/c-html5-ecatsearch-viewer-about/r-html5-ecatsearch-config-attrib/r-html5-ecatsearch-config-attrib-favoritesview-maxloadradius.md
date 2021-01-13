@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: FavoritesView.maxloadradius
+description: FavoritesView.maxloadradius
 solution: Experience Manager
 title: FavoritesView.maxloadradius
 topic: Dynamic media

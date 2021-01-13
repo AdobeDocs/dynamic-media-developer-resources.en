@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: SearchPanel.align
+description: SearchPanel.align
 solution: Experience Manager
 title: SearchPanel.align
 topic: Dynamic media

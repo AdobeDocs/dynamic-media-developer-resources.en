@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Keywords
+description: Keywords
 solution: Experience Manager
 title: Keywords
 topic: Scene7 Image Production System API

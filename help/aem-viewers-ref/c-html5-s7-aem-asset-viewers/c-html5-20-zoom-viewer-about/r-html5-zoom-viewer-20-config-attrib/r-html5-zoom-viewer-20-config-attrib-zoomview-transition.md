@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: ZoomView.transition
+description: ZoomView.transition
 solution: Experience Manager
 title: ZoomView.transition
 topic: Dynamic media

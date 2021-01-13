@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: ThumbnailGridView.textpos
+description: ThumbnailGridView.textpos
 solution: Experience Manager
 title: ThumbnailGridView.textpos
 topic: Dynamic media

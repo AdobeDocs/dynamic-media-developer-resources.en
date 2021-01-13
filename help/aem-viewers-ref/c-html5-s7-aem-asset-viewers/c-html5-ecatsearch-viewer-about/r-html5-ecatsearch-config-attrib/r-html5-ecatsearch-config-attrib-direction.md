@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: direction
+description: direction
 solution: Experience Manager
 title: direction
 topic: Dynamic media

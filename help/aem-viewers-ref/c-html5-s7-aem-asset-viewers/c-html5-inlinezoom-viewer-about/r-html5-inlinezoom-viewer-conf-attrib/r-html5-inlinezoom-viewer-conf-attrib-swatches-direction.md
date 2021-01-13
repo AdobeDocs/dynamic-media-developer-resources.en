@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Swatches.direction
+description: Swatches.direction
 solution: Experience Manager
 title: Swatches.direction
 topic: Dynamic media

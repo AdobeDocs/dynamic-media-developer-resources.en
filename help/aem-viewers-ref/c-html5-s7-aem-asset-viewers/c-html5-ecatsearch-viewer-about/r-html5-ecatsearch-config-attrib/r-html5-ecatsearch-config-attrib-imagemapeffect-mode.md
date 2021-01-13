@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: ImageMapEffect.mode
+description: ImageMapEffect.mode
 solution: Experience Manager
 title: ImageMapEffect.mode
 topic: Dynamic media

@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Swatches.fmt
+description: Swatches.fmt
 solution: Experience Manager
 title: Swatches.fmt
 topic: Dynamic media

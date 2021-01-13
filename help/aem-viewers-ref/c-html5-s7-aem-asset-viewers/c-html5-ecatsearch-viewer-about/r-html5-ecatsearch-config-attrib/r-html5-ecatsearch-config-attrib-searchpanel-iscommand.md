@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: SearchPanel.iscommand
+description: SearchPanel.iscommand
 solution: Experience Manager
 title: SearchPanel.iscommand
 topic: Dynamic media

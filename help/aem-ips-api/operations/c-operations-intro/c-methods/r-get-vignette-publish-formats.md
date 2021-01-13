@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: getVignettePublishFormats
+description: getVignettePublishFormats
 solution: Experience Manager
 title: getVignettePublishFormats
 topic: Scene7 Image Production System API

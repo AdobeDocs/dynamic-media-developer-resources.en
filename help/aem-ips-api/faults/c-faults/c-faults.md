@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Faults
+description: Faults
 solution: Experience Manager
 title: Faults
 topic: Scene7 Image Production System API

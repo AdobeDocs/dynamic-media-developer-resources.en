@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: stageSize
+description: stageSize
 solution: Experience Manager
 title: stageSize
 topic: Dynamic media
