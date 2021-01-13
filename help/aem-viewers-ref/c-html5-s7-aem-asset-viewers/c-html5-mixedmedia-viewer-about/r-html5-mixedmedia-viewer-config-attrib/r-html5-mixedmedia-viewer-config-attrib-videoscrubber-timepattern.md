@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: VideoScrubber.timepattern
+description: VideoScrubber.timepattern
 solution: Experience Manager
 title: VideoScrubber.timepattern
 topic: Dynamic media

@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Swatches.partialswatches
+description: Swatches.partialswatches
 solution: Experience Manager
 title: Swatches.partialswatches
 topic: Dynamic media

@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: SpinView.lockdirection
+description: SpinView.lockdirection
 solution: Experience Manager
 title: SpinView.lockdirection
 topic: Dynamic media

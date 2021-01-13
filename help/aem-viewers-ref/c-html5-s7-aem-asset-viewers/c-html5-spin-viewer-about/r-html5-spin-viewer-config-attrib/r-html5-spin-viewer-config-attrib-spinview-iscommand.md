@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: SpinView.iscommand
+description: SpinView.iscommand
 solution: Experience Manager
 title: SpinView.iscommand
 topic: Dynamic media

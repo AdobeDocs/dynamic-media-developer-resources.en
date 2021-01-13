@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: SpinView.enableHD
+description: SpinView.enableHD
 solution: Experience Manager
 title: SpinView.enableHD
 topic: Dynamic media

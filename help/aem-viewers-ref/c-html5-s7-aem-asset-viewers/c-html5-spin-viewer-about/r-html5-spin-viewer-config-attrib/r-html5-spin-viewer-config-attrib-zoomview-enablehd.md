@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: ZoomView.enableHD
+description: ZoomView.enableHD
 solution: Experience Manager
 title: ZoomView.enableHD
 topic: Dynamic media

@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: SpinView.doubleclick
+description: SpinView.doubleclick
 solution: Experience Manager
 title: SpinView.doubleclick
 topic: Dynamic media

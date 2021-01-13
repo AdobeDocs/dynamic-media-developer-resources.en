@@ -1,8 +1,6 @@
 ---
-description: null
+description: Customizing Video Viewer
 keywords: responsive
-seo-description: null
-seo-title: Customizing Video Viewer
 solution: Experience Manager
 title: Customizing Video Viewer
 topic: Dynamic media

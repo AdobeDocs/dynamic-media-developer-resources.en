@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Swatches.textpos
+description: Swatches.textpos
 solution: Experience Manager
 title: Swatches.textpos
 topic: Dynamic media

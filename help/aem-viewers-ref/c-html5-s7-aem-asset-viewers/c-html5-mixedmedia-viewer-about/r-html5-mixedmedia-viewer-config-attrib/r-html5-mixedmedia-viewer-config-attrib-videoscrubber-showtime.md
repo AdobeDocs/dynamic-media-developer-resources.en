@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: VideoScrubber.showtime
+description: VideoScrubber.showtime
 solution: Experience Manager
 title: VideoScrubber.showtime
 topic: Dynamic media

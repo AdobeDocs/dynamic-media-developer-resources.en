@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: SpinView.autospin
+description: SpinView.autospin
 solution: Experience Manager
 title: SpinView.autospin
 topic: Dynamic media

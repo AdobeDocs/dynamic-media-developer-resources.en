@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Swatches.scrollstep
+description: Swatches.scrollstep
 solution: Experience Manager
 title: Swatches.scrollstep
 topic: Dynamic media

@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: VideoTime.timepattern
+description: VideoTime.timepattern
 solution: Experience Manager
 title: VideoTime.timepattern
 topic: Dynamic media

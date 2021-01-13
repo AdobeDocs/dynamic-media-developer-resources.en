@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: VideoPlayer.singleclick
+description: VideoPlayer.singleclick
 solution: Experience Manager
 title: VideoPlayer.singleclick
 topic: Dynamic media

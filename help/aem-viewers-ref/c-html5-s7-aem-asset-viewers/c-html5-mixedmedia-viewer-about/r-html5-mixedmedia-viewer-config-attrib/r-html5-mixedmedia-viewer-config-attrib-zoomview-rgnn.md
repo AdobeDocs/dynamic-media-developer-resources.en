@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: ZoomView.rgnN
+description: ZoomView.rgnN
 solution: Experience Manager
 title: ZoomView.rgnN
 topic: Dynamic media

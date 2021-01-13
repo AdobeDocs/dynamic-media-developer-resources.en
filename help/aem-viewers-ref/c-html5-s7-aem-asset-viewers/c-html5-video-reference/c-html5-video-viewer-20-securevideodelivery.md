@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: HTTP video delivery
+description: HTTP video delivery
 solution: Experience Manager
 title: HTTP video delivery
 topic: Dynamic media

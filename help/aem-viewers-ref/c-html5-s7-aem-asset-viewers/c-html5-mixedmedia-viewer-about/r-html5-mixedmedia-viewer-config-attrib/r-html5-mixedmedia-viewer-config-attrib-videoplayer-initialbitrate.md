@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: VideoPlayer.initialbitrate
+description: VideoPlayer.initialbitrate
 solution: Experience Manager
 title: VideoPlayer.initialbitrate
 topic: Dynamic media

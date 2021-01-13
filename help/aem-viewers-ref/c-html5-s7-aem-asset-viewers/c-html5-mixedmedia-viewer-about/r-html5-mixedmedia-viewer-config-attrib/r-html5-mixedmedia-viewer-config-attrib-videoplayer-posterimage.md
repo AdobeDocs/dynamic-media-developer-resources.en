@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: VideoPlayer.posterimage
+description: VideoPlayer.posterimage
 solution: Experience Manager
 title: VideoPlayer.posterimage
 topic: Dynamic media
