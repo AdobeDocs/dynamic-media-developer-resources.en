@@ -1,5 +1,6 @@
 ---
 cloud: experience-cloud
+description: Dynamic Media Classic
 solution: Dynamic Media Classic
 type: Documentation
 solution-title: Learn & Support
