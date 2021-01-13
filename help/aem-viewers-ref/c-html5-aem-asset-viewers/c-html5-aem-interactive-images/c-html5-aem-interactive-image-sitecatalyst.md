@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Support for analytics tracking
+description: Support for analytics tracking
 solution: Experience Manager
 title: Support for analytics tracking
 topic: Dynamic media

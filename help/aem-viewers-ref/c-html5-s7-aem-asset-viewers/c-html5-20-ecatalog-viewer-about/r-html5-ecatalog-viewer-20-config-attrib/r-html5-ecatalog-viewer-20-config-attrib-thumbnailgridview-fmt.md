@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: ThumbnailGridView.fmt
+description: ThumbnailGridView.fmt
 solution: Experience Manager
 title: ThumbnailGridView.fmt
 topic: Dynamic media

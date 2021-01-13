@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Search button
+description: Search button
 solution: Experience Manager
 title: Search button
 topic: Dynamic media

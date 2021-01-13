@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: PostScriptInfo
+description: PostScriptInfo
 solution: Experience Manager
 title: PostScriptInfo
 topic: Scene7 Image Production System API

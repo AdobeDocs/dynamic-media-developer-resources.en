@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: ImageMapEffect.mapTips
+description: ImageMapEffect.mapTips
 solution: Experience Manager
 title: ImageMapEffect.mapTips
 topic: Dynamic media

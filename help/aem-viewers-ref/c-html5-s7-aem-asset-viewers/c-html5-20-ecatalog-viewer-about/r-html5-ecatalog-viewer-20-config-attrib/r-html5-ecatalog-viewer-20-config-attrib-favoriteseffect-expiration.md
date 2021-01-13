@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: FavoritesEffect.expiration
+description: FavoritesEffect.expiration
 solution: Experience Manager
 title: FavoritesEffect.expiration
 topic: Dynamic media

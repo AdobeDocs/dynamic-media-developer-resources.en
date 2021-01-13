@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Id
+description: Id
 solution: Experience Manager
 title: Id
 topic: Scene7 Image Serving - Image Rendering API

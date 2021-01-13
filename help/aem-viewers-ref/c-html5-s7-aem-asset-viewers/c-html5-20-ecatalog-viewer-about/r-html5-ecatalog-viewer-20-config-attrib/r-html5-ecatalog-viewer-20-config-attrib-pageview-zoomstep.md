@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: PageView.zoomstep
+description: PageView.zoomstep
 solution: Experience Manager
 title: PageView.zoomstep
 topic: Dynamic media

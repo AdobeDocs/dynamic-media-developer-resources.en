@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Swatches.iscommand
+description: Swatches.iscommand
 solution: Experience Manager
 title: Swatches.iscommand
 topic: Dynamic media

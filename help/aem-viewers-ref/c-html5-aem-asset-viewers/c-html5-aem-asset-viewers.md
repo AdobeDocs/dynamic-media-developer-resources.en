@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Viewers for AEM Assets only
+description: Viewers for AEM Assets only
 solution: Experience Manager
 title: Viewers for AEM Assets only
 topic: Dynamic media

@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: SetPropertySetPermissions
+description: SetPropertySetPermissions
 solution: Experience Manager
 title: SetPropertySetPermissions
 topic: Scene7 Image Production System API

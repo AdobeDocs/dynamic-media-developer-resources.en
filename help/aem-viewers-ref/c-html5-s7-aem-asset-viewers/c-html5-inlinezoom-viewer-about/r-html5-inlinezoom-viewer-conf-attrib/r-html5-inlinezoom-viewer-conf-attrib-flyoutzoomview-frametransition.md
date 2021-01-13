@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: FlyoutZoomView.frametransition
+description: FlyoutZoomView.frametransition
 solution: Experience Manager
 title: FlyoutZoomView.frametransition
 topic: Dynamic media

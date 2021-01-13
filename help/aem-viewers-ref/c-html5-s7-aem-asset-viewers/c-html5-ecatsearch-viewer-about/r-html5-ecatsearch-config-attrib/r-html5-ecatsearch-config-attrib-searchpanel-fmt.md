@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: SearchPanel.fmt
+description: SearchPanel.fmt
 solution: Experience Manager
 title: SearchPanel.fmt
 topic: Dynamic media

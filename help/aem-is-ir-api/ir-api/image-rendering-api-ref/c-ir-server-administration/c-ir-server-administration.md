@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Server administration
+description: Server administration
 solution: Experience Manager
 title: Server administration
 topic: Scene7 Image Serving - Image Rendering API

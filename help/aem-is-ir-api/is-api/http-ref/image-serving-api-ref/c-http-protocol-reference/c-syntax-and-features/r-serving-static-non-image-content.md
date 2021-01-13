@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Serving static (non-image) content
+description: Serving static (non-image) content
 solution: Experience Manager
 title: Serving static (non-image) content
 topic: Scene7 Image Serving - Image Rendering API

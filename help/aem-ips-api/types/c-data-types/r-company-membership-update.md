@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: CompanyMembershipUpdate
+description: CompanyMembershipUpdate
 solution: Experience Manager
 title: CompanyMembershipUpdate
 topic: Scene7 Image Production System API

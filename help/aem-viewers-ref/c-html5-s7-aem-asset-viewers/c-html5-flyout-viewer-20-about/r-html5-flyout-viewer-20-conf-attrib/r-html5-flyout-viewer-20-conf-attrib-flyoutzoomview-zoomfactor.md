@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: FlyoutZoomView.zoomfactor
+description: FlyoutZoomView.zoomfactor
 solution: Experience Manager
 title: FlyoutZoomView.zoomfactor
 topic: Dynamic media

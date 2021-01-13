@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: FlyoutZoomView.highlightmode
+description: FlyoutZoomView.highlightmode
 solution: Experience Manager
 title: FlyoutZoomView.highlightmode
 topic: Dynamic media

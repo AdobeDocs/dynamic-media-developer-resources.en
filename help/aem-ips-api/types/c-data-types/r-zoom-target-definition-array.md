@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: ZoomTargetDefinitionArray
+description: ZoomTargetDefinitionArray
 solution: Experience Manager
 title: ZoomTargetDefinitionArray
 topic: Scene7 Image Production System API

@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: PageView.singleclick
+description: PageView.singleclick
 solution: Experience Manager
 title: PageView.singleclick
 topic: Dynamic media

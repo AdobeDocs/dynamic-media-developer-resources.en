@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Managing page labels
+description: Managing page labels
 solution: Experience Manager
 title: Managing page labels
 topic: Dynamic media

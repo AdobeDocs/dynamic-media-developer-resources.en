@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Operation parameters
+description: Operation parameters
 solution: Experience Manager
 title: Operation parameters
 topic: Scene7 Image Production System API

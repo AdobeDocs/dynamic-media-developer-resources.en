@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: SetIndicator.mode
+description: SetIndicator.mode
 solution: Experience Manager
 title: SetIndicator.mode
 topic: Dynamic media

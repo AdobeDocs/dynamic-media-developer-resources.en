@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: FlyoutZoomView.tip
+description: FlyoutZoomView.tip
 solution: Experience Manager
 title: FlyoutZoomView.tip
 topic: Dynamic media

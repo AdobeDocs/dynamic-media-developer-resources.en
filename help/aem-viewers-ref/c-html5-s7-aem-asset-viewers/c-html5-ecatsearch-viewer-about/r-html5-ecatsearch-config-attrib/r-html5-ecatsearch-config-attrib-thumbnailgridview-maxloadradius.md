@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: ThumbnailGridView.maxloadradius
+description: ThumbnailGridView.maxloadradius
 solution: Experience Manager
 title: ThumbnailGridView.maxloadradius
 topic: Dynamic media

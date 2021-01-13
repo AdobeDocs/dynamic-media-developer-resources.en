@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: PageView.iconEffect
+description: PageView.iconEffect
 solution: Experience Manager
 title: PageView.iconEffect
 topic: Dynamic media

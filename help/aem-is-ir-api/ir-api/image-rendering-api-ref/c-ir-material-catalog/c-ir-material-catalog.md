@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Material catalog
+description: Material catalog
 solution: Experience Manager
 title: Material catalog
 topic: Scene7 Image Serving - Image Rendering API

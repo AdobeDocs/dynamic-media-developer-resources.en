@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: ipsApiFault
+description: ipsApiFault
 solution: Experience Manager
 title: ipsApiFault
 topic: Scene7 Image Production System API

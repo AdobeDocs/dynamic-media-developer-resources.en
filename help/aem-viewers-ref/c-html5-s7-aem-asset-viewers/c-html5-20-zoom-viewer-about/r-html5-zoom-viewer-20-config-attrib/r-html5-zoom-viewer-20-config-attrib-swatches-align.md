@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Swatches.align
+description: Swatches.align
 solution: Experience Manager
 title: Swatches.align
 topic: Dynamic media

@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: CarouselView.frametransition
+description: CarouselView.frametransition
 solution: Experience Manager
 title: CarouselView.frametransition
 topic: Dynamic media

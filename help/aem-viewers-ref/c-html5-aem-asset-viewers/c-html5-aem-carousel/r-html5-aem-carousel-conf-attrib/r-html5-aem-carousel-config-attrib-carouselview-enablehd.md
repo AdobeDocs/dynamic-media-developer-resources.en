@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: CarouselView.enableHD
+description: CarouselView.enableHD
 solution: Experience Manager
 title: CarouselView.enableHD
 topic: Dynamic media

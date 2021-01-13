@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: TableOfContents.maxitems
+description: TableOfContents.maxitems
 solution: Experience Manager
 title: TableOfContents.maxitems
 topic: Dynamic media

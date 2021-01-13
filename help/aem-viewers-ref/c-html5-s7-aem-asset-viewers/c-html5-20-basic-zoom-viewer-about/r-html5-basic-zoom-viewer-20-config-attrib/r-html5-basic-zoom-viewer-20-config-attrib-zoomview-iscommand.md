@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: ZoomView.iscommand
+description: ZoomView.iscommand
 solution: Experience Manager
 title: ZoomView.iscommand
 topic: Dynamic media

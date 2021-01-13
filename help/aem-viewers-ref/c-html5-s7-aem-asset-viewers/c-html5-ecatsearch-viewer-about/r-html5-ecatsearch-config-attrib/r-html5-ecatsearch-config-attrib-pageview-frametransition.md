@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: PageView.frametransition
+description: PageView.frametransition
 solution: Experience Manager
 title: PageView.frametransition
 topic: Dynamic media

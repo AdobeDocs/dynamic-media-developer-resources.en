@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: ZoomView.fmt
+description: ZoomView.fmt
 solution: Experience Manager
 title: ZoomView.fmt
 topic: Dynamic media

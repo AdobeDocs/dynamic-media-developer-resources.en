@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: InfoPanelPopup.showhidetransition
+description: InfoPanelPopup.showhidetransition
 solution: Experience Manager
 title: InfoPanelPopup.showhidetransition
 topic: Dynamic media

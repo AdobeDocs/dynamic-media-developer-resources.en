@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: TableOfContents.showdefault
+description: TableOfContents.showdefault
 solution: Experience Manager
 title: TableOfContents.showdefault
 topic: Dynamic media

@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: CarouselView.maxloadradius
+description: CarouselView.maxloadradius
 solution: Experience Manager
 title: CarouselView.maxloadradius
 topic: Dynamic media

@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: PageView.fmt
+description: PageView.fmt
 solution: Experience Manager
 title: PageView.fmt
 topic: Dynamic media

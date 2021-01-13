@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: EmailShare.emailurl
+description: EmailShare.emailurl
 solution: Experience Manager
 title: EmailShare.emailurl
 topic: Dynamic media

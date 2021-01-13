@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: HTTPS video delivery
+description: HTTPS video delivery
 solution: Experience Manager
 title: HTTPS video delivery
 topic: Dynamic media

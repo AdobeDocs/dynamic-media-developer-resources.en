@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Download
+description: Download
 solution: Experience Manager
 title: Download
 topic: Dynamic media

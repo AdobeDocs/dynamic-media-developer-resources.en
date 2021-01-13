@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Closebutton
+description: Closebutton
 solution: Experience Manager
 title: Closebutton
 topic: Dynamic media

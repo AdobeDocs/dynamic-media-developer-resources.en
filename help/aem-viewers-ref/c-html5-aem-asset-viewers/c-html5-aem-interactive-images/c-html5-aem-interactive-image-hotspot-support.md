@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Hotspot support
+description: Hotspot support
 solution: Experience Manager
 title: Hotspot support
 topic: Dynamic media

@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: PageView.iscommand
+description: PageView.iscommand
 solution: Experience Manager
 title: PageView.iscommand
 topic: Dynamic media

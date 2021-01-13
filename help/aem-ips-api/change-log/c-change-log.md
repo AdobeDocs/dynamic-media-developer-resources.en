@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Change log
+description: Change log
 solution: Experience Manager
 title: Change log
 topic: Scene7 Image Production System API

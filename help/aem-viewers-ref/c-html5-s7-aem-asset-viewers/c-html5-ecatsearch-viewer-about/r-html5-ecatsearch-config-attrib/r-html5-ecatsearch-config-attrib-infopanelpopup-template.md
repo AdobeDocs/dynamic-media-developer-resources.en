@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: InfoPanelPopup.template
+description: InfoPanelPopup.template
 solution: Experience Manager
 title: InfoPanelPopup.template
 topic: Dynamic media

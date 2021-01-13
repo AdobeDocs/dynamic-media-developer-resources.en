@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Path
+description: Path
 solution: Experience Manager
 title: Path
 topic: Scene7 Image Serving - Image Rendering API

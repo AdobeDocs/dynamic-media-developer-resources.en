@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: PageView.pageturnstyle
+description: PageView.pageturnstyle
 solution: Experience Manager
 title: PageView.pageturnstyle
 topic: Dynamic media

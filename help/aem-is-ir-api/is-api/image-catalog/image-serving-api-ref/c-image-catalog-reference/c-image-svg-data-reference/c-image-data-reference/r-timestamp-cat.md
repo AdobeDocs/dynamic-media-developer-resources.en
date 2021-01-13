@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: TimeStamp
+description: TimeStamp
 solution: Experience Manager
 title: TimeStamp
 topic: Scene7 Image Serving - Image Rendering API

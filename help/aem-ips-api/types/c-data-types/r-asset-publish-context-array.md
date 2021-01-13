@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: AssetPublishContextArray
+description: AssetPublishContextArray
 solution: Experience Manager
 title: AssetPublishContextArray
 topic: Scene7 Image Production System API

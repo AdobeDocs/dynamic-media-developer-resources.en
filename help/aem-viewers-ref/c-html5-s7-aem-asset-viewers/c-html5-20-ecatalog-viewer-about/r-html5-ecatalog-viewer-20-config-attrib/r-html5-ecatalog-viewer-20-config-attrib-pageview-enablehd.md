@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: PageView.enableHD
+description: PageView.enableHD
 solution: Experience Manager
 title: PageView.enableHD
 topic: Dynamic media

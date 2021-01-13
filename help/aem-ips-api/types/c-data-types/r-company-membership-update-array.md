@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: CompanyMembershipUpdateArray
+description: CompanyMembershipUpdateArray
 solution: Experience Manager
 title: CompanyMembershipUpdateArray
 topic: Scene7 Image Production System API

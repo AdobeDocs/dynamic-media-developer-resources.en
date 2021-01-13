@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: Swatches.buttonsnapmode
+description: Swatches.buttonsnapmode
 solution: Experience Manager
 title: Swatches.buttonsnapmode
 topic: Dynamic media

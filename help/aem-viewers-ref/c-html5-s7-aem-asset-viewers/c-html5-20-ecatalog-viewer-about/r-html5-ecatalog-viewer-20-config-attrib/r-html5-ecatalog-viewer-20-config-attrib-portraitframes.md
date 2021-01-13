@@ -1,7 +1,5 @@
 ---
-description: null
-seo-description: null
-seo-title: portraitFrames
+description: portraitFrames
 solution: Experience Manager
 title: portraitFrames
 topic: Dynamic media
