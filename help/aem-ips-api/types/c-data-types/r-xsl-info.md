@@ -4,7 +4,7 @@ seo-description: Properties of an XML transformation file asset.
 seo-title: XslInfo
 solution: Experience Manager
 title: XslInfo
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: de0f2449-fdf7-49f7-b199-dcc0bc3decf7
 ---
 
@@ -18,7 +18,7 @@ Properties of an XML transformation file asset.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`originalPath`*`  | `xsd:string`  | File path.  |
-|  ` *`originalFile`*`  | `xsd:string`  | File name.  |
-|  ` *`fileSize`*`  | `xsd:int`  | File size.  |
+|  `*`originalPath`*`  | `xsd:string`  | File path.  |
+|  `*`originalFile`*`  | `xsd:string`  | File name.  |
+|  `*`fileSize`*`  | `xsd:int`  | File size.  |
 

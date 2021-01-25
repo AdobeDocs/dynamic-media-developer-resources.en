@@ -4,7 +4,7 @@ seo-description: Cache clustering allows multiple load-balanced servers to excha
 seo-title: Cache clustering
 solution: Experience Manager
 title: Cache clustering
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 347165d6-a9e7-406e-81a8-8a91f745ce27
 ---
 

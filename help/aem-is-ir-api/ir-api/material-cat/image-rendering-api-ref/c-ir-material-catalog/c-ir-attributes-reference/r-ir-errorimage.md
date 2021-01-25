@@ -4,7 +4,7 @@ seo-description: Error response image. Image Rendering normally returns an error
 seo-title: ErrorImage *
 solution: Experience Manager
 title: ErrorImage *
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 6c8801d0-8cd0-4477-9a60-ccbb343a0747
 ---
 

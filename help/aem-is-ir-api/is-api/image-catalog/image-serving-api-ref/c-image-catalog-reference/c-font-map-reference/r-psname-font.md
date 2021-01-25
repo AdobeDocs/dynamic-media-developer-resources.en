@@ -4,7 +4,7 @@ seo-description: Postscript font face name. The Postscript font face name.
 seo-title: PsName
 solution: Experience Manager
 title: PsName
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 8c7624c5-7f34-4128-abb7-94c007669b80
 ---
 

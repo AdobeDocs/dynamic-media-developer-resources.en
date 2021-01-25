@@ -4,7 +4,7 @@ seo-description: Move a folder to a new location.
 seo-title: moveFolder
 solution: Experience Manager
 title: moveFolder
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 424858c3-5796-4ae9-b5ad-fd50ddbee702
 ---
 
@@ -29,15 +29,15 @@ Move a folder to a new location.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company.  |
-|  ` *`folderHandle`*`  | `xsd:string`  | Yes  | Folder handle.  |
-|  ` *`destFolderHandle`*`  | `xsd:string`  | Yes  | Handle to the destination folder.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company.  |
+|  `*`folderHandle`*`  | `xsd:string`  | Yes  | Folder handle.  |
+|  `*`destFolderHandle`*`  | `xsd:string`  | Yes  | Handle to the destination folder.  |
 
 **Output (moveFolderReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`folderHandle`*`  | `xsd:string`  | Yes  | Handle to the moved folder.  |
+|  `*`folderHandle`*`  | `xsd:string`  | Yes  | Handle to the moved folder.  |
 
 ## Examples {#section-6571c6ab89ce4cb9a139abdb29c6b279}
 

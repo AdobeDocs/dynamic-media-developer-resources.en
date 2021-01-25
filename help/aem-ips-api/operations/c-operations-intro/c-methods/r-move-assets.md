@@ -4,7 +4,7 @@ seo-description: Moves multiple assets independently of each other. It accomplis
 seo-title: moveAssets
 solution: Experience Manager
 title: moveAssets
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 178f9979-fff5-45ce-a001-1263d1770ea8
 ---
 
@@ -29,8 +29,8 @@ Moves multiple assets independently of each other. It accomplishes this using th
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company with assets to be moved.  |
-|  ` *`assetMoveArray`*`  | `types:AssetMoveArray`  | Yes  | An asset move array. It contains an asset and an asset destination folder.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company with assets to be moved.  |
+|  `*`assetMoveArray`*`  | `types:AssetMoveArray`  | Yes  | An asset move array. It contains an asset and an asset destination folder.  |
 
 **Output (moveAssetsReturn)** 
 

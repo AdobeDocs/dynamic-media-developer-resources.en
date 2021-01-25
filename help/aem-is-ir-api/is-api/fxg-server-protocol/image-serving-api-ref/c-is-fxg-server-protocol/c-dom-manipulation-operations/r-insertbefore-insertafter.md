@@ -4,7 +4,7 @@ seo-description: Set XML before or after a node.
 seo-title: insertBefore,insertAfter
 solution: Experience Manager
 title: insertBefore,insertAfter
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 5ac0f675-333b-4f85-abe0-642cf96de425
 ---
 

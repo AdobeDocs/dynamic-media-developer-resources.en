@@ -4,7 +4,7 @@ seo-description: Restarts a paused job.
 seo-title: resumeJob
 solution: Experience Manager
 title: resumeJob
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 0ca5db75-cce0-4afc-9a58-c47c6229931e
 ---
 
@@ -31,8 +31,8 @@ Restarts a paused job.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company with the job you want to restart.  |
-|  ` *`jobHandle`*`  | `xsd:string`  | Yes  | The handle to the paused job.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company with the job you want to restart.  |
+|  `*`jobHandle`*`  | `xsd:string`  | Yes  | The handle to the paused job.  |
 
 **Output (resumeJobReturn)**
 

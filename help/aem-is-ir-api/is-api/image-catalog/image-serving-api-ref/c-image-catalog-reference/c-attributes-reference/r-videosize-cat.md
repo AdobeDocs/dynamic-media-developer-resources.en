@@ -4,7 +4,7 @@ seo-description: Video size. Allows specification of a size associated with each
 seo-title: VideoSize
 solution: Experience Manager
 title: VideoSize
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 078508a7-8b06-4c40-9497-82b365b96fe2
 ---
 

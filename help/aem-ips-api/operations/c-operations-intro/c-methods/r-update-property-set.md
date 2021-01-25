@@ -4,7 +4,7 @@ seo-description: Uses a property array to update a property set.
 seo-title: updatePropertySet
 solution: Experience Manager
 title: updatePropertySet
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 21a59c5a-7799-4af6-ab9f-b0311f5f7254
 ---
 
@@ -32,9 +32,9 @@ Uses a property array to update a property set.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`setHandle`*`  | `xsd:string`  | Yes  | Handle to the property set.  |
-|  ` *`replaceProperties`*`  | `xsd:string`  | No  |Set to `true` to replace properties.  |
-|  ` *`propertyArray`*`  | `types:PropertyArray`  | Yes  | Array of updated properties for the property set.  |
+|  `*`setHandle`*`  | `xsd:string`  | Yes  | Handle to the property set.  |
+|  `*`replaceProperties`*`  | `xsd:string`  | No  |Set to `true` to replace properties.  |
+|  `*`propertyArray`*`  | `types:PropertyArray`  | Yes  | Array of updated properties for the property set.  |
 
 **Output (updatePropertySetReturn)**
 

@@ -4,7 +4,7 @@ seo-description: Default background color. RGB value used to fill in any area of
 seo-title: BkgColor
 solution: Experience Manager
 title: BkgColor
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 48f0c7d2-3a6c-4076-81f1-ad94f701c576
 ---
 

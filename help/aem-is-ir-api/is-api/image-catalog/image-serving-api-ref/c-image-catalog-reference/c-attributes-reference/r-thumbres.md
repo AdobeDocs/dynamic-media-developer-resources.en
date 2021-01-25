@@ -4,7 +4,7 @@ seo-description: Default thumbnail resolution. Provides a default for the thumbn
 seo-title: ThumbRes
 solution: Experience Manager
 title: ThumbRes
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 4a77d673-9d2e-4e62-a014-c99fa3df294a
 ---
 

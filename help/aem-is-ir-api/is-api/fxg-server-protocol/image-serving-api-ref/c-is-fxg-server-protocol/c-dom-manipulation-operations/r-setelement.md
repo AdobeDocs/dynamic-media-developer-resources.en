@@ -4,7 +4,7 @@ seo-description: Set XML to a s7 elementID.
 seo-title: setElement
 solution: Experience Manager
 title: setElement
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 717c9c3c-a2e0-4179-8158-9913f4e09a96
 ---
 

@@ -4,7 +4,7 @@ seo-description: Delete the output of a job.
 seo-title: batchjobdelete
 solution: Experience Manager
 title: batchjobdelete
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: d19ed1c8-e13b-4da4-90e3-6bb0dcce2a12
 ---
 

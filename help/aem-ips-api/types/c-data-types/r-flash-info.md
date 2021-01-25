@@ -4,7 +4,7 @@ seo-description: Properties of a Flash file.
 seo-title: FlashInfo
 solution: Experience Manager
 title: FlashInfo
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: ac36a7db-7ffd-40ab-bb21-9cbc0c31070b
 ---
 
@@ -18,7 +18,7 @@ Properties of a Flash file.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`originalPath`*`  | `xsd:string`  | File path.  |
-|  ` *`originalFile`*`  | `xsd:string`  | File name.  |
-|  ` *`fileSize`*`  | `xsd:int`  | File size.  |
+|  `*`originalPath`*`  | `xsd:string`  | File path.  |
+|  `*`originalFile`*`  | `xsd:string`  | File name.  |
+|  `*`fileSize`*`  | `xsd:int`  | File size.  |
 

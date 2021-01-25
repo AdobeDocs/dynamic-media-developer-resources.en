@@ -4,7 +4,7 @@ seo-description: Image Serving provides a simple request preprocessor based on r
 seo-title: Request preprocessing
 solution: Experience Manager
 title: Request preprocessing
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 375bbca2-7a4a-49a9-9577-86e6b2f19990
 ---
 

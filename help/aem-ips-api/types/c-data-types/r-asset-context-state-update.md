@@ -4,7 +4,7 @@ seo-description: Set a new set of publish state flags for the publish context as
 seo-title: AssetContextStateUpdate
 solution: Experience Manager
 title: AssetContextStateUpdate
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 74bc693f-1ce9-4dcf-92f5-1177668ea3ef
 ---
 
@@ -16,6 +16,6 @@ Set a new set of publish state flags for the publish context associated with an 
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`assetHandle`*`  | `xsd:string`  | Handle to the asset you want to update.  |
-|  ` *`contextStateUpdateArray`*`  | `types:ContextStateUpdateArray`  | An array of publish contact states for the asset you want to update.  |
+|  `*`assetHandle`*`  | `xsd:string`  | Handle to the asset you want to update.  |
+|  `*`contextStateUpdateArray`*`  | `types:ContextStateUpdateArray`  | An array of publish contact states for the asset you want to update.  |
 

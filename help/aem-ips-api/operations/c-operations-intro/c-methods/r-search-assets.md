@@ -4,7 +4,7 @@ seo-description: Search for assets based on your specified criteria.
 seo-title: searchAssets
 solution: Experience Manager
 title: searchAssets
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 125e9e0d-1856-4e80-9778-ca93cd04b766
 ---
 
@@ -233,8 +233,8 @@ Limit the size of your data set with the `responseFieldArray` or `excludFieldArr
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`totalRows`*`  | `xsd:int`  | No  | Number of rows a search returns when records per page are not limited.  |
-|  ` *`assetArray`*`  | `types:AssetArray`  | No  | Assets that the search returns.  |
+|  `*`totalRows`*`  | `xsd:int`  | No  | Number of rows a search returns when records per page are not limited.  |
+|  `*`assetArray`*`  | `types:AssetArray`  | No  | Assets that the search returns.  |
 
 ## Examples {#section-725484cc09b54772a838ad2cc930b94b}
 

@@ -4,7 +4,7 @@ seo-description: After you install Image Serving on Linux, verify the installati
 seo-title: Verifying the installation
 solution: Experience Manager
 title: Verifying the installation
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 4fdf61c7-3c9f-4f3e-9696-60eb7e3f2209
 ---
 

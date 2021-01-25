@@ -4,7 +4,7 @@ seo-description: Decal position. Defines the offset in inches from the anchor= p
 seo-title: pos
 solution: Experience Manager
 title: pos
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: f44c258d-84e9-465b-8495-ae9b96a106c3
 ---
 

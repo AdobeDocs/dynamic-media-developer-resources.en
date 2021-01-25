@@ -1,24 +1,21 @@
 ---
-description: This document describes the HTTP protocol for Scene7 Image Rendering.
-seo-description: This document describes the HTTP protocol for Scene7 Image Rendering.
-seo-title: Introduction
+description: This document describes the HTTP protocol for Dynamic Media Image Rendering.
 solution: Experience Manager
 title: Introduction
-topic: Scene7 Image Serving - Image Rendering API
-uuid: d709f1d2-e7cc-4e9f-b039-aa333e517cbb
+topic: Dynamic Media Image Serving - Image Rendering API
 ---
 
 # Introduction{#introduction}
 
-This document describes the HTTP protocol for Scene7 Image Rendering.
+This document describes the HTTP protocol for Dynamic Media Image Rendering.
 
-Only the publicly available aspects of the protocol are described. The server may support additional commands which are reserved for use by Scene7 client software.
+Only the publicly available aspects of the protocol are described. The server may support additional commands which are reserved for use by Dynamic Media client software.
 
 **Intended audience**
 
-This documented is intended for experienced programmers and website developers who want to leverage Scene7 Image Rendering for a website or a custom application.
+This documented is intended for experienced programmers and website developers who want to leverage Dynamic Media Image Rendering for a website or a custom application.
 
-It is assumed that the reader is familiar with Scene7 Image Authoring and Image Rendering, general HTTP protocol standards and conventions, and basic imaging terminology.
+It is assumed that the reader is familiar with Dynamic Media Image Authoring and Image Rendering, general HTTP protocol standards and conventions, and basic imaging terminology.
 
 **Document conventions**
 
@@ -93,4 +90,4 @@ It is assumed that the reader is familiar with Scene7 Image Authoring and Image 
 
 ** *`MSS`* ** Material Specification Segment: a set of material attributes between two selection commands in the request.
 
-** *`vignette`* ** An image prepared in Scene7 Image Authoring for use with Image Rendering. 
+** *`vignette`* ** An image prepared in Dynamic Media Image Authoring for use with Image Rendering. 

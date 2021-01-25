@@ -4,7 +4,7 @@ seo-description: Configuration attributes are defined as attributes directly on 
 seo-title: Command reference – Configuration attributes
 solution: Experience Manager
 title: Command reference – Configuration attributes
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: a3d52680-2a28-40c8-9b5f-b1c252c88e4d
 ---
 
@@ -68,7 +68,7 @@ Multiple Image Serving commands or Image Preset names are separated with " `&`" 
 
 ## data-mode {#section-97caf43cf5ab4ca8b1b866d8f394a9a4}
 
-The following two Smart Crop modes are available in AEM 6.4 and higher and Scene7 Viewers 5.9 and higher:
+The following two Smart Crop modes are available in AEM 6.4 and higher and Dynamic Media Viewers 5.9 and higher:
 
 * **Manual** - user-defined breakpoints and corresponding Image Service commands are defined within an attribute in the image element. 
 * **Smart Crop** - computed smart crop renditions are automatically retrieved from the delivery server. The best rendition is selected using the runtime size of the image element.

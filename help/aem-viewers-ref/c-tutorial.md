@@ -1,18 +1,15 @@
 ---
-description: The Viewer SDK provides a set of JavaScript-based components for custom viewer development. The viewers are web-based applications that allow for rich media content served by Adobe Scene7 to be embedded in web pages.
-seo-description: The Viewer SDK provides a set of JavaScript-based components for custom viewer development. The viewers are web-based applications that allow for rich media content served by Adobe Scene7 to be embedded in web pages.
-seo-title: Viewer SDK Tutorial
+description: The Viewer SDK provides a set of JavaScript-based components for custom viewer development. The viewers are web-based applications that allow for rich media content served by Adobe Dynamic Media to be embedded in web pages.
 solution: Experience Manager
 title: Viewer SDK Tutorial
 topic: Dynamic media
-uuid: ea331f05-0c58-4e6b-b5a1-d9b8372d8e94
 ---
 
 # Viewer SDK Tutorial{#viewer-sdk-tutorial}
 
-The Viewer SDK provides a set of JavaScript-based components for custom viewer development. The viewers are web-based applications that allow for rich media content served by Adobe Scene7 to be embedded in web pages.
+The Viewer SDK provides a set of JavaScript-based components for custom viewer development. The viewers are web-based applications that allow for rich media content served by Adobe Dynamic Media to be embedded in web pages.
 
-For example, the SDK provides interactive zooming and panning. It also provides 360° view and video playback of assets that were uploaded to Adobe Scene7 through the backend application called SPS (Scene7 Publishing System).
+For example, the SDK provides interactive zooming and panning. It also provides 360° view and video playback of assets that were uploaded to Adobe Dynamic Media through the backend application called SPS (Scene7 Publishing System).
 
 Even though the components rely on HTML5 functionality, they are designed to work on Android and Apple iOS devices, and desktops, including Internet Explorer and later. This kind of experience means that you are able to provide a single workflow for all supported platforms.
 
@@ -60,8 +57,8 @@ This tutorial includes the following order of tasks to help you create a basic z
                Include Utils.js before you use any of the SDK components. This file  
                contains SDK utilities and global functions that are used to initialize the viewer and load viewer  
                components. The path to the Utils.js determines which version of the SDK that the viewer uses. You  
-               can use a relative path if the viewer is deployed on one of the Adobe Scene7 servers and it is served  
-               from the same domain. Otherwise, specify a full path to one of Adobe Scene7 servers that have the SDK  
+               can use a relative path if the viewer is deployed on one of the Adobe Dynamic Media servers and it is served  
+               from the same domain. Otherwise, specify a full path to one of Adobe Dynamic Media servers that have the SDK  
                installed.  
            --> 
            <script language="javascript" type="text/javascript"      
@@ -385,5 +382,5 @@ You will now add zoom in, zoom out, and zoom reset buttons to your viewer.
 
    Your basic zoom viewer is now complete.
 
-   This viewer tutorial touches on the fundamentals of what the Scene7 Viewer SDK provides. As you work with the SDK you can use the various standard components to easily build and style rich viewing experiences for your target audiences.
+   This viewer tutorial touches on the fundamentals of what the Dynamic Media Viewer SDK provides. As you work with the SDK you can use the various standard components to easily build and style rich viewing experiences for your target audiences.
 

@@ -4,7 +4,7 @@ seo-description: Thumbnail image update.
 seo-title: ThumbAssetUpdate
 solution: Experience Manager
 title: ThumbAssetUpdate
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 08330bf7-4d92-4301-afe9-69925747e36a
 ---
 
@@ -18,6 +18,6 @@ Thumbnail image update.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`assetHandle`*`  | `xsd:string`  | Asset handle.  |
-|  ` *`thumbAssetHandle`*`  | `xsd:string`  | Thumb asset handle.  |
+|  `*`assetHandle`*`  | `xsd:string`  | Asset handle.  |
+|  `*`thumbAssetHandle`*`  | `xsd:string`  | Thumb asset handle.  |
 

@@ -4,7 +4,7 @@ seo-description: The amount of memory used by Image Rendering can vary widely an
 seo-title: Memory considerations
 solution: Experience Manager
 title: Memory considerations
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 21247081-ff27-4237-93da-5fc996417dfd
 ---
 

@@ -4,7 +4,7 @@ seo-description: Command macros provide named shortcuts for sets of commands. Ma
 seo-title: Command macros
 solution: Experience Manager
 title: Command macros
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: a6ff5642-6716-484f-b37e-066994362a9b
 ---
 
@@ -21,7 +21,7 @@ Command macros provide named shortcuts for sets of commands. Macros are defined 
  </tr> 
 </table>
 
-` *`name`*` is not case-sensitive and may consist of any combination of ASCII letters, numbers , '-', '_', and '.' characters.
+`*`name`*` is not case-sensitive and may consist of any combination of ASCII letters, numbers , '-', '_', and '.' characters.
 
 Macros may be invoked anywhere in a request after the '?', as well as anywhere within a `catalog::Modifier` or `catalog::PostModifier` field. Macros can only represent one or more complete Image Serving commands and must be separated from other commands with '&' separators.
 

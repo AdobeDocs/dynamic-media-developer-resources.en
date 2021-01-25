@@ -4,7 +4,7 @@ seo-description: Advanced render settings. Specifies an advanced render settings
 seo-title: rs
 solution: Experience Manager
 title: rs
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 4ff7fcb4-a10a-4e82-80a1-edf79ae1f717
 ---
 
@@ -21,7 +21,7 @@ Advanced render settings. Specifies an advanced render settings, to be applied w
  </tr> 
 </table>
 
-Used for fine-tuning render appearance. Use the render feature of the Vignette Authoring Tool (part of the Scene7 Image Authoring package) to create render settings strings.
+Used for fine-tuning render appearance. Use the render feature of the Vignette Authoring Tool (part of the Dynamic Media Image Authoring package) to create render settings strings.
 
 ## Properties {#section-9a2b2228789046658cb80eddf343af75}
 

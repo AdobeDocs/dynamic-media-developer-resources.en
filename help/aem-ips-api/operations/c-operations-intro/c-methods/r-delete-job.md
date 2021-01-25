@@ -4,7 +4,7 @@ seo-description: Deletes a current or scheduled job.
 seo-title: deleteJob
 solution: Experience Manager
 title: deleteJob
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: c1109cae-a3ca-40db-b641-9a6fc116c964
 ---
 
@@ -31,8 +31,8 @@ Deletes a current or scheduled job.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company to which the job belongs.  |
-|  ` *`jobHandle`*`  | `xsd:string`  | Yes  | The handle to the job to delete.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company to which the job belongs.  |
+|  `*`jobHandle`*`  | `xsd:string`  | Yes  | The handle to the job to delete.  |
 
 **Output**
 

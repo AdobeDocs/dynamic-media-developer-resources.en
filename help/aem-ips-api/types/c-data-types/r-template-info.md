@@ -4,7 +4,7 @@ seo-description: The properties of a template asset.
 seo-title: TemplateInfo
 solution: Experience Manager
 title: TemplateInfo
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: ab405069-c231-435e-999e-95c64bd740be
 ---
 
@@ -18,7 +18,7 @@ The properties of a template asset.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`url`*`  | `xsd:string`  | Image server URL that represents the template.  |
-|  ` *`urlModifier`*`  | `xsd:string`  | |
-|  ` *`urlPostApplyModifier`*`  | `xsd:string`  | |
+|  `*`url`*`  | `xsd:string`  | Image server URL that represents the template.  |
+|  `*`urlModifier`*`  | `xsd:string`  | |
+|  `*`urlPostApplyModifier`*`  | `xsd:string`  | |
 

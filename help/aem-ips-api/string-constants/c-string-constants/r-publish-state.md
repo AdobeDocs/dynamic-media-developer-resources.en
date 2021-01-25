@@ -4,7 +4,7 @@ seo-description: Used by searchAssetsParam/publishState, setAssetPublishStatePar
 seo-title: Publish State
 solution: Experience Manager
 title: Publish State
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: cebc16ed-ffee-47a5-a9c7-6d61da07e03f
 ---
 

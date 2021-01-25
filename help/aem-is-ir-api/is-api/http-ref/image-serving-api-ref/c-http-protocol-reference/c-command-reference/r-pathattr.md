@@ -4,7 +4,7 @@ seo-description: Text-on-path attributes.
 seo-title: pathAttr
 solution: Experience Manager
 title: pathAttr
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: b0ca5821-ee08-4c18-919d-775b75f19acd
 ---
 

@@ -4,7 +4,7 @@ seo-description: Create or edit a zoom target.
 seo-title: saveZoomTarget
 solution: Experience Manager
 title: saveZoomTarget
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 197f7a2a-39ea-41cc-8e3a-76f9fe1b37d0
 ---
 
@@ -29,21 +29,21 @@ Create or edit a zoom target.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company with the zoom target you want to save.  |
-|  ` *`assetHandle`*`  | `xsd:string`  | Yes  | The handle to the zoom target.  |
-|  ` *`zoomTargetHandle`*`  | `xsd:string`  | No  | Edits or creates a zoom target.  |
-|  ` *`name`*`  | `xsd:string`  | Yes  | Zoom target name.  |
-|  ` *`xPosition`*`  | `xsd:int`  | Yes  | Left pixel location.  |
-|  ` *`yPosition`*`  | `xsd:int`  | Yes  | Top pixel location.  |
-|  ` *`width`*`  | `xsd:int`  | Yes  | Zoom target width.  |
-|  ` *`height`*`  | `xsd:int`  | Yes  | Zoom target height.  |
-|  ` *`userData`*`  | `xsd:string`  | Yes  | For customer-specific information. Can contain any type of data.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company with the zoom target you want to save.  |
+|  `*`assetHandle`*`  | `xsd:string`  | Yes  | The handle to the zoom target.  |
+|  `*`zoomTargetHandle`*`  | `xsd:string`  | No  | Edits or creates a zoom target.  |
+|  `*`name`*`  | `xsd:string`  | Yes  | Zoom target name.  |
+|  `*`xPosition`*`  | `xsd:int`  | Yes  | Left pixel location.  |
+|  `*`yPosition`*`  | `xsd:int`  | Yes  | Top pixel location.  |
+|  `*`width`*`  | `xsd:int`  | Yes  | Zoom target width.  |
+|  `*`height`*`  | `xsd:int`  | Yes  | Zoom target height.  |
+|  `*`userData`*`  | `xsd:string`  | Yes  | For customer-specific information. Can contain any type of data.  |
 
 **Output (saveZoomTargetReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`zoomTargetHandle`*`  | `xsd:string`  | Yes  | Handle to the newly created zoom target.  |
+|  `*`zoomTargetHandle`*`  | `xsd:string`  | Yes  | Handle to the newly created zoom target.  |
 
 ## Examples {#section-509c472c316549cdb228d7e1cfa8400a}
 

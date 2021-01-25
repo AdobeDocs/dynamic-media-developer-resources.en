@@ -4,7 +4,7 @@ seo-description: Deletes a folder.
 seo-title: deleteFolder
 solution: Experience Manager
 title: deleteFolder
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 76af65fb-86ef-43e2-bfec-3682acf0afe6
 ---
 
@@ -33,8 +33,8 @@ Deletes a folder.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company to which the folder belongs.  |
-|  ` *`folderHandle`*`  | `xsd:string`  | Yes  | The handle to the folder to delete.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company to which the folder belongs.  |
+|  `*`folderHandle`*`  | `xsd:string`  | Yes  | The handle to the folder to delete.  |
 
 **Output (deleteFolderParam)**
 

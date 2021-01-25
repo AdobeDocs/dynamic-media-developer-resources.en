@@ -4,7 +4,7 @@ seo-description: Grayscale default color space. Specifies the name of the ICC co
 seo-title: IccProfileGray
 solution: Experience Manager
 title: IccProfileGray
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 064be242-d964-4fb8-99ea-78bb5599e70f
 ---
 

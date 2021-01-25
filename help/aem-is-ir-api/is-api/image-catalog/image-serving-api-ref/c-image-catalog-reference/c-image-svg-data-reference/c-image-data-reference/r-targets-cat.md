@@ -4,7 +4,7 @@ seo-description: Zoom target data. None or more zoom target properties, which ma
 seo-title: Targets
 solution: Experience Manager
 title: Targets
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: ca02483a-9aa0-4b54-b6f0-4fd10d8b2b4c
 ---
 
@@ -57,7 +57,7 @@ Target. *`num`*.rect is required for each zoom target and must specify a rectang
 
 For applications involving the spin and brochure viewer clients, the zoom targets must be defined in the same catalog record that defines the image set. Any zoom target definitions in the catalog records of the members of the image set are ignored by the viewer.
 
-The Scene7 viewers expect zoom targets in the coordinates of the full-resolution image already adjusted by the commands from `catalog::Modifier`.
+The Dynamic Media viewers expect zoom targets in the coordinates of the full-resolution image already adjusted by the commands from `catalog::Modifier`.
 
 ## Properties {#section-b3f8eba4985f4b00bb935d592fe770f9}
 

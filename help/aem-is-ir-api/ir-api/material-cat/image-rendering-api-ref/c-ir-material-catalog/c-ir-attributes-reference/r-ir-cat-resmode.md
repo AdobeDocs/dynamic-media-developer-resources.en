@@ -4,7 +4,7 @@ seo-description: Resampling mode. Default for resMode=. Specifies the resampling
 seo-title: ResMode
 solution: Experience Manager
 title: ResMode
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 91d83274-b3e1-4233-bd01-21936726e1db
 ---
 

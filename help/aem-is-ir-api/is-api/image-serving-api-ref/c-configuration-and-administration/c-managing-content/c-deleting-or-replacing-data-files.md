@@ -4,7 +4,7 @@ seo-description: While adding new data files is simple and straight-forward, spe
 seo-title: Deleting or replacing data files
 solution: Experience Manager
 title: Deleting or replacing data files
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 7b446144-48f6-4b50-93ec-0287425d932a
 ---
 

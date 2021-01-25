@@ -4,7 +4,7 @@ seo-description: An array of ICC profile field update items.
 seo-title: IccProfileFieldUpdateArray
 solution: Experience Manager
 title: IccProfileFieldUpdateArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 15cb164d-6c56-45fd-9275-dd091e205c80
 ---
 
@@ -18,5 +18,5 @@ An array of ICC profile field update items.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:IccProfileUpdate`  | `IccProfileFieldUpdate` array item.  |
+|  `*`items`*`  | `types:IccProfileUpdate`  | `IccProfileFieldUpdate` array item.  |
 

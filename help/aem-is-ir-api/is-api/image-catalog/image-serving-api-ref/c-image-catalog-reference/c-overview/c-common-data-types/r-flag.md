@@ -4,7 +4,7 @@ seo-description: Flag data type.
 seo-title: Flag
 solution: Experience Manager
 title: Flag
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 85c60ef4-4509-41e0-b846-3cfc54689272
 ---
 

@@ -4,7 +4,7 @@ seo-description: Sets the resolution of embedded bitmaps in a Web To Print reque
 seo-title: imageRes
 solution: Experience Manager
 title: imageRes
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 9fd252b8-2956-4618-85dd-a47fc836639c
 ---
 

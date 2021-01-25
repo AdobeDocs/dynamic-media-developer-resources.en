@@ -4,7 +4,7 @@ seo-description: Catalog matching option.
 seo-title: FullMatch
 solution: Experience Manager
 title: FullMatch
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 0c69ba92-1411-4cb7-ac28-d26fe035222f
 ---
 
@@ -12,11 +12,11 @@ uuid: 0c69ba92-1411-4cb7-ac28-d26fe035222f
 
 Catalog matching option.
 
-A catalog entry is specified as a ` *`rootId`*/ *`imageId`*` pair in HTTP requests. When parsing, a catalog is selected if ` *`rootId`*` matches the `attribute::RootId` value of the catalog, and the catalog record is identified by matching ` *`imageId`*` with a `catalog::Id` value. If a catalog is found, but there is no catalog entry matching ` *`imageId`*`, the server can do one of two things:
+A catalog entry is specified as a `*`rootId`*/ *`imageId`*` pair in HTTP requests. When parsing, a catalog is selected if `*`rootId`*` matches the `attribute::RootId` value of the catalog, and the catalog record is identified by matching `*`imageId`*` with a `catalog::Id` value. If a catalog is found, but there is no catalog entry matching `*`imageId`*`, the server can do one of two things:
 
-If `attribute::FullMatch` is not set, the server uses the attributes of the matched catalog. In this case, ` *`rootId`*` is replaced by `attribute::RootPath` (or `default::RootPath`, if not specified in this catalog).
+If `attribute::FullMatch` is not set, the server uses the attributes of the matched catalog. In this case, `*`rootId`*` is replaced by `attribute::RootPath` (or `default::RootPath`, if not specified in this catalog).
 
-If `attribute::FullMatch` is set, the server completely ignores the catalog, as if no catalog had been matched, and proceed using default catalog attributes. In this case, ` *`rootId`*` remains part of the path (which is prepended by `default::RootPath`).
+If `attribute::FullMatch` is set, the server completely ignores the catalog, as if no catalog had been matched, and proceed using default catalog attributes. In this case, `*`rootId`*` remains part of the path (which is prepended by `default::RootPath`).
 
 ## Properties {#section-25e021dbe6574d00aadd08a7fa0b6e81}
 

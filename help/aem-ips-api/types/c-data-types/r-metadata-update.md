@@ -4,7 +4,7 @@ seo-description: Sets metadata values for a specific asset used with setAssetMet
 seo-title: MetadataUpdate
 solution: Experience Manager
 title: MetadataUpdate
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 09d3940b-117d-4d83-8b12-e86520c9da34
 ---
 

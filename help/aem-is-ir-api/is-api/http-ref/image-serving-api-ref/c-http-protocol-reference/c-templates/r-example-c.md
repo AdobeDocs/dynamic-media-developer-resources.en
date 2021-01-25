@@ -4,7 +4,7 @@ seo-description: Create a "paper doll" layering application.
 seo-title: Example C
 solution: Experience Manager
 title: Example C
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 25f228c2-dc03-461a-aee8-40fdb3d4cf5e
 ---
 

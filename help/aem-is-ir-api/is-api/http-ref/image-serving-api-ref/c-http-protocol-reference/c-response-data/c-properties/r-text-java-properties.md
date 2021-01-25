@@ -4,7 +4,7 @@ seo-description: If text is specified as the response format, the reply data is 
 seo-title: Text (Java) properties
 solution: Experience Manager
 title: Text (Java) properties
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 5dba4cf7-9172-4195-968e-9ef76c25e90c
 ---
 

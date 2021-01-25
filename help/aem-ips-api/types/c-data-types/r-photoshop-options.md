@@ -4,7 +4,7 @@ seo-description: Options for Photoshop images.
 seo-title: PhotoshopOptions
 solution: Experience Manager
 title: PhotoshopOptions
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: ed97d20a-358d-4a00-93c7-4498bb2e9d35
 ---
 

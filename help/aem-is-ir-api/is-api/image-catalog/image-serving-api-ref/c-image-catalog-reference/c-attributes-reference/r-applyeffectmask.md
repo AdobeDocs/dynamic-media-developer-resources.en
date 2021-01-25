@@ -4,7 +4,7 @@ seo-description: Optionally applies the final mask on effect layers to mask out 
 seo-title: ApplyEffectMask
 solution: Experience Manager
 title: ApplyEffectMask
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: a217bf76-58da-4609-b394-e5591873ad20
 ---
 

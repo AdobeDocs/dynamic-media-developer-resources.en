@@ -4,7 +4,7 @@ seo-description: Color conversion rendering intent. Provides the default renderi
 seo-title: IccRenderIntent
 solution: Experience Manager
 title: IccRenderIntent
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: a9648405-32c3-4762-bbb2-11e97d4f8374
 ---
 

@@ -4,7 +4,7 @@ seo-description: Image/Metadata Version. When working with content that changes 
 seo-title: id
 solution: Experience Manager
 title: id
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 3d526326-c8fa-4aef-95a9-93ccacf08f73
 ---
 

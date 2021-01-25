@@ -4,7 +4,7 @@ seo-description: Image Rendering is embedded into Image Serving's Image Server a
 seo-title: Starting and stopping the server
 solution: Experience Manager
 title: Starting and stopping the server
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: edd588ce-fbc0-4003-b007-a5dc9a84ad8a
 ---
 

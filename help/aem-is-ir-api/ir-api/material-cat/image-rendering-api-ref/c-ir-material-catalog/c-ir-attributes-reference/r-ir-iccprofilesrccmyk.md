@@ -4,7 +4,7 @@ seo-description: CMYK default input color profile. Specifies the name of the ICC
 seo-title: IccProfileSrcCmyk
 solution: Experience Manager
 title: IccProfileSrcCmyk
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 95147b28-c87b-4337-a0eb-a962ca1e8786
 ---
 

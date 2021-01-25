@@ -1,16 +1,16 @@
 ---
-description: The Vignette Authoring Tool (part of the Scene7 Image Authoring package) provides mechanisms to control low-level aspects of the vignette render engine.
-seo-description: The Vignette Authoring Tool (part of the Scene7 Image Authoring package) provides mechanisms to control low-level aspects of the vignette render engine.
+description: The Vignette Authoring Tool (part of the Dynamic Media Image Authoring package) provides mechanisms to control low-level aspects of the vignette render engine.
+seo-description: The Vignette Authoring Tool (part of the Dynamic Media Image Authoring package) provides mechanisms to control low-level aspects of the vignette render engine.
 seo-title: Advanced Render settings
 solution: Experience Manager
 title: Advanced Render settings
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 18e7f3cf-4d30-445c-813c-546a91987b99
 ---
 
 # Advanced Render settings{#advanced-render-settings}
 
-The Vignette Authoring Tool (part of the Scene7 Image Authoring package) provides mechanisms to control low-level aspects of the vignette render engine.
+The Vignette Authoring Tool (part of the Dynamic Media Image Authoring package) provides mechanisms to control low-level aspects of the vignette render engine.
 
 >[!NOTE]
 >

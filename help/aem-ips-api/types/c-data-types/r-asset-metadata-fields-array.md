@@ -4,7 +4,7 @@ seo-description: An array of AssetMetadataFields. Used by getAssetMetadataFields
 seo-title: AssetMetadataFieldsArray
 solution: Experience Manager
 title: AssetMetadataFieldsArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: a131b234-83f3-4e3c-afa9-14314e78367f
 ---
 
@@ -18,5 +18,5 @@ An array of AssetMetadataFields. Used by getAssetMetadataFields to return all as
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:AssetMetadataFields`  |An `AssetMetadataFields` array item.  |
+|  `*`items`*`  | `types:AssetMetadataFields`  |An `AssetMetadataFields` array item.  |
 

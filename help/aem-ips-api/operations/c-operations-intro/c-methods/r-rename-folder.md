@@ -4,7 +4,7 @@ seo-description: Renames a folder.
 seo-title: renameFolder
 solution: Experience Manager
 title: renameFolder
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 7d190a57-1d81-4f41-9205-b8ffdf7330ec
 ---
 
@@ -33,15 +33,15 @@ Renames a folder.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company with folders you want to rename.  |
-|  ` *`folderHandle`*`  | `xsd:string`  | Yes  | Handle to the folder.  |
-|  ` *`folderName`*`  | `xsd:string`  | Yes  | New folder name.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company with folders you want to rename.  |
+|  `*`folderHandle`*`  | `xsd:string`  | Yes  | Handle to the folder.  |
+|  `*`folderName`*`  | `xsd:string`  | Yes  | New folder name.  |
 
 **Output (renameFolderReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`folderHandle`*`  | `xsd:string`  | Yes  | Handle to the renamed folder.  |
+|  `*`folderHandle`*`  | `xsd:string`  | Yes  | Handle to the renamed folder.  |
 
 ## Examples {#section-98bdd2f88d164f488676e90aba1dc864}
 

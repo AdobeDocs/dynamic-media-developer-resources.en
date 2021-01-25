@@ -4,7 +4,7 @@ seo-description: Color conversion dithering. Specifies whether dithering should 
 seo-title: IccDither
 solution: Experience Manager
 title: IccDither
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 93260809-8eab-40df-aff3-466ee391d654
 ---
 

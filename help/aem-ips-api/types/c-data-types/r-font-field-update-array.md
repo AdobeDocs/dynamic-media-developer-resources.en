@@ -4,7 +4,7 @@ seo-description: An array of font field updates.
 seo-title: FontFieldUpdateArray
 solution: Experience Manager
 title: FontFieldUpdateArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: d2fbf891-ec1c-4465-a14e-c5ac1f5bef5a
 ---
 
@@ -18,5 +18,5 @@ An array of font field updates.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:FontFieldUpdate`  | An item in the font field update array.  |
+|  `*`items`*`  | `types:FontFieldUpdate`  | An item in the font field update array.  |
 

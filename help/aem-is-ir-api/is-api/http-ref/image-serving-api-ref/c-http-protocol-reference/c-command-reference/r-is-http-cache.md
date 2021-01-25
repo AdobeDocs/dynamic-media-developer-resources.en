@@ -4,7 +4,7 @@ seo-description: Cache Control. Allows selectively disabling client-side caching
 seo-title: cache
 solution: Experience Manager
 title: cache
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 08f4e4d0-0f7d-48fe-956c-284af97c902e
 ---
 
@@ -31,7 +31,7 @@ Cache Control. Allows selectively disabling client-side caching (browser, proxy 
  </tr> 
 </table>
 
-If only one ` *`cacheControl`*` value is specified, it is applied to both client and server caches.
+If only one `*`cacheControl`*` value is specified, it is applied to both client and server caches.
 
 The `validate` keyword allows updating cache entries after image files have changed, without having to wait for the cache entry to expire automatically. Client caching is not affected by this command.
 

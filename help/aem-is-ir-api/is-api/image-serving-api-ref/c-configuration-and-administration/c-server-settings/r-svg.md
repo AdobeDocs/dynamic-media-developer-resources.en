@@ -4,7 +4,7 @@ seo-description: The settings in this section need to be considered only if SVG 
 seo-title: SVG
 solution: Experience Manager
 title: SVG
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 9e69b150-46ac-480f-96db-afadccc40fe4
 ---
 

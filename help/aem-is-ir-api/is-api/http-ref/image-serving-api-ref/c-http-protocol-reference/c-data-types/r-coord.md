@@ -4,7 +4,7 @@ seo-description: Pixel Coordinates. Used to specify image coordinates, such as i
 seo-title: coord
 solution: Experience Manager
 title: coord
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: dd49f12b-5a87-4157-9e44-4beb66f83770
 ---
 

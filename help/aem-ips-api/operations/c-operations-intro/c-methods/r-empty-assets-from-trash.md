@@ -4,7 +4,7 @@ seo-description: Empties assets from the IPS trash.
 seo-title: emptyAssetsFromTrash
 solution: Experience Manager
 title: emptyAssetsFromTrash
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: de11a7b0-cd4b-4717-8596-d39afbcf7e9c
 ---
 
@@ -30,18 +30,18 @@ Assets live in the trash until they are manually emptied or until they time out 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that owns the assets.  |
-|  ` *`assetHandleArray`*`  | `types:HandleArray`  | Yes  | The array of handles that represent the items to be emptied from the trash.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that owns the assets.  |
+|  `*`assetHandleArray`*`  | `types:HandleArray`  | Yes  | The array of handles that represent the items to be emptied from the trash.  |
 
 **Output (emptyAssetsFromTrashParam)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`successCount`*`  | `xsd:Int`  | Yes  | The number of assets successfully emptied from the trash.  |
-|  ` *`warningCount`*`  | `xsd:Int`  | Yes  | The number of warnings generated when the operation attempted to empty assets from the trash.  |
-|  ` *`errorCount`*`  | `xsd:Int`  | Yes  | The number of errors generated when the operation attempted to empty assets from the trash.  |
-|  ` *`warningDetailArray`*`  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets that generated warnings when the operation attempted to empty them from the trash.  |
-|  ` *`errorDetailArray`*`  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets that generated errors when the operation attempted to empty them from the trash.  |
+|  `*`successCount`*`  | `xsd:Int`  | Yes  | The number of assets successfully emptied from the trash.  |
+|  `*`warningCount`*`  | `xsd:Int`  | Yes  | The number of warnings generated when the operation attempted to empty assets from the trash.  |
+|  `*`errorCount`*`  | `xsd:Int`  | Yes  | The number of errors generated when the operation attempted to empty assets from the trash.  |
+|  `*`warningDetailArray`*`  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets that generated warnings when the operation attempted to empty them from the trash.  |
+|  `*`errorDetailArray`*`  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets that generated errors when the operation attempted to empty them from the trash.  |
 
 ## Examples {#section-6154a873b6c342bf92e2036280cafdcf}
 

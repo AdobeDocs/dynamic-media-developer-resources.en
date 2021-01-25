@@ -4,7 +4,7 @@ seo-description: Used by AutoCropColorOptions/corner.
 seo-title: AutoCrop Corner
 solution: Experience Manager
 title: AutoCrop Corner
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 684b4651-2978-4a11-b034-9423fe199b5e
 ---
 

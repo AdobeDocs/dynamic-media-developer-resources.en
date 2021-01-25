@@ -4,7 +4,7 @@ seo-description: Allow direct access to path-based assets.
 seo-title: AllowDirectAccess
 solution: Experience Manager
 title: AllowDirectAccess
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 6d413fac-6930-4f6d-90ad-62abb419efef
 ---
 

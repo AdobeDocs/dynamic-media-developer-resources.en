@@ -4,7 +4,7 @@ seo-description: In the URL or catalog Modifier command sequence, a layer defini
 seo-title: Specifying layers
 solution: Experience Manager
 title: Specifying layers
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 86ece2a6-5b91-4a24-baaa-542d9ae1e544
 ---
 

@@ -4,7 +4,7 @@ seo-description: An array of tag conditions.
 seo-title: TagConditionArray
 solution: Experience Manager
 title: TagConditionArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 9ee3b2c5-ba56-4df0-ae80-684d04455437
 ---
 
@@ -18,5 +18,5 @@ An array of tag conditions.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:TagCondition`  | An array of tag conditions.  |
+|  `*`items`*`  | `types:TagCondition`  | An array of tag conditions.  |
 

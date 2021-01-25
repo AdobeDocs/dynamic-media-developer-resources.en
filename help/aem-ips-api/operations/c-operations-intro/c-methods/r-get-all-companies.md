@@ -4,7 +4,7 @@ seo-description: Returns an array of all companies.
 seo-title: getAllCompanies
 solution: Experience Manager
 title: getAllCompanies
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: bc2d82b1-e020-4dfe-9704-601ef5aa2111
 ---
 
@@ -24,13 +24,13 @@ Returns an array of all companies.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`includeExpired`*`  | `xsd:boolean`  | Yes  | Set to true to return expired and non-expired companies.  |
+|  `*`includeExpired`*`  | `xsd:boolean`  | Yes  | Set to true to return expired and non-expired companies.  |
 
 **Output (getAllCompaniesReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyArray`*`  | `types:CompanyArray`  | Yes  | The array of companies.  |
+|  `*`companyArray`*`  | `types:CompanyArray`  | Yes  | The array of companies.  |
 
 ## Examples {#section-3eecf4e6900b41fb92a0e3214791c6b9}
 

@@ -4,7 +4,7 @@ seo-description: Background color. Specifies the subtractive color for colorizab
 seo-title: bgc
 solution: Experience Manager
 title: bgc
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 551a0da8-dd1f-484a-bf7e-f4896370340a
 ---
 
@@ -23,7 +23,7 @@ Background color. Specifies the subtractive color for colorizable textures and d
 
 Image Rendering's texture colorization algorithm is quite simple - the component values of `bgc=` are subtracted from those of the texture pixels, `color=` is added, and finally the result is clipped to `0,0,0` and `255,255,255`.
 
-For typical uses of texture colorization, the value for `bgc=` might be the most important or dominant color in the texture image. Scene7 Image Authoring provides semi-automatic tools which extract reasonable `bgc=` color values from textures images.
+For typical uses of texture colorization, the value for `bgc=` might be the most important or dominant color in the texture image. Dynamic Media Image Authoring provides semi-automatic tools which extract reasonable `bgc=` color values from textures images.
 
 When a texture material is applied to a non-texturable vignette object, `bgc=` is applied as the foreground color if `color=` is not specified.
 

@@ -4,7 +4,7 @@ seo-description: Image mask. Specifies a separate mask image to be used as an un
 seo-title: mask
 solution: Experience Manager
 title: mask
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 2dc14d20-f02a-4a77-9b73-0c01e10d448d
 ---
 

@@ -4,7 +4,7 @@ seo-description: Static content user type. Allows assigning a user-specified typ
 seo-title: UserType
 solution: Experience Manager
 title: UserType
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 0ce53373-7896-434c-8249-39037089fab9
 ---
 

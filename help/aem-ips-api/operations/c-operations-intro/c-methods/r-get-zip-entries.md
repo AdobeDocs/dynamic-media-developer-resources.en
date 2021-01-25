@@ -4,7 +4,7 @@ seo-description: Returns Zip file data.
 seo-title: getZipEntries
 solution: Experience Manager
 title: getZipEntries
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: cfc45f83-1cf9-4c50-9aac-5a731e62a839
 ---
 
@@ -32,14 +32,14 @@ Returns Zip file data.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that contains the Zip file.  |
-|  ` *`assetHandle`*`  | `xsd:string`  | Yes  | Handle to the Zip file.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that contains the Zip file.  |
+|  `*`assetHandle`*`  | `xsd:string`  | Yes  | Handle to the Zip file.  |
 
 **Output (getZipEntriesReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`zipArray`*`  | `types:ZipEntryArray`  | Yes  | Array of entries in a Zip file.  |
+|  `*`zipArray`*`  | `types:ZipEntryArray`  | Yes  | Array of entries in a Zip file.  |
 
 ## Examples {#section-1fc0ad8fa448492cb5a135d3e3d161ac}
 

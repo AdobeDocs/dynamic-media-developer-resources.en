@@ -1,11 +1,8 @@
 ---
 description: Describes new and changed operations methods for the IPS API version 4.5.
-seo-description: Describes new and changed operations methods for the IPS API version 4.5.
-seo-title: Operations  New and Modified
 solution: Experience Manager
 title: Operations  New and Modified
-topic: Scene7 Image Production System API
-uuid: c4002670-c830-474e-bb84-343f76b6fb80
+topic: Dynamic Media Image Production System API
 ---
 
 # Operations: New and Modified{#operations-new-and-modified}

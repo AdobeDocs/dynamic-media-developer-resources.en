@@ -4,7 +4,7 @@ seo-description: Reply image size limit. Maximum reply image width and height th
 seo-title: MaxPix
 solution: Experience Manager
 title: MaxPix
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 22c5fac8-1e64-4917-8bb8-69a95ab549cb
 ---
 

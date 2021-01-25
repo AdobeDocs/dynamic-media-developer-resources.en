@@ -4,7 +4,7 @@ seo-description: The query portion of requests and vignette Modifier strings may
 seo-title: Custom variables
 solution: Experience Manager
 title: Custom variables
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 933fba00-759c-4bd3-bada-eec751426d9e
 ---
 

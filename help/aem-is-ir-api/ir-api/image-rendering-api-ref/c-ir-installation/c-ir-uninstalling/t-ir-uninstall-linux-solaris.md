@@ -4,7 +4,7 @@ seo-description: Follow these instructions to uninstall Image Rendering on a Lin
 seo-title: Uninstalling on Linux and Solaris
 solution: Experience Manager
 title: Uninstalling on Linux and Solaris
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 80c0d6ec-985b-4596-bd67-22e5029f7b37
 ---
 

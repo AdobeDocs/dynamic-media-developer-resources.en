@@ -4,7 +4,7 @@ seo-description: This material category includes paints for walls, woodwork and 
 seo-title: Solid colors
 solution: Experience Manager
 title: Solid colors
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 75b60e44-1727-4f3e-a186-df66fabeec0d
 ---
 

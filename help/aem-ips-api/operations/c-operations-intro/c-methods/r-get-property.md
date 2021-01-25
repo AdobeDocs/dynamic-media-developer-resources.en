@@ -4,7 +4,7 @@ seo-description: Gets string values of system properties related to Image Portal
 seo-title: getProperty
 solution: Experience Manager
 title: getProperty
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 38ea08a6-c948-4a01-bc9a-d1609197224e
 ---
 
@@ -41,13 +41,13 @@ Gets string values of system properties related to Image Portal.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`name`*`  | `xsd:string`  | Yes  | The name of the property to get.  |
+|  `*`name`*`  | `xsd:string`  | Yes  | The name of the property to get.  |
 
 **Output (getPropertyReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`value`*`  | `xsd:string`  | Yes  | The property value.  |
+|  `*`value`*`  | `xsd:string`  | Yes  | The property value.  |
 
 ## Examples {#section-3f80a78dd60c404181b34d3a912d7a36}
 

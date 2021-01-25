@@ -4,7 +4,7 @@ seo-description: Image Rendering enforces a two Megapixel size limitation for no
 seo-title: Vignette size limitation
 solution: Experience Manager
 title: Vignette size limitation
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 218e8c7e-f313-47cb-af42-30c585d4ec12
 ---
 

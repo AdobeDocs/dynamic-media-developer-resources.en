@@ -4,7 +4,7 @@ seo-description: An array of image field updates.
 seo-title: ImageFieldUpdateArray
 solution: Experience Manager
 title: ImageFieldUpdateArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: ac0f0e46-2ead-4ca3-9c7e-894e7b502949
 ---
 
@@ -18,5 +18,5 @@ An array of image field updates.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:ImageFieldUpdate`  | Array of image field updates.  |
+|  `*`items`*`  | `types:ImageFieldUpdate`  | Array of image field updates.  |
 

@@ -2,7 +2,7 @@
 description: PermissonSet
 solution: Experience Manager
 title: PermissonSet
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: d77d8fbd-ff41-4312-8c0d-f2d846149e3f
 ---
 
@@ -14,6 +14,6 @@ uuid: d77d8fbd-ff41-4312-8c0d-f2d846149e3f
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`PermissionSetHandle`*`  | `xsd:string`  | Handle to a permissions set.  |
-|  ` *`permissionArray`*`  | `types:PermissionArray`  | An array of permissions.  |
+|  `*`PermissionSetHandle`*`  | `xsd:string`  | Handle to a permissions set.  |
+|  `*`permissionArray`*`  | `types:PermissionArray`  | An array of permissions.  |
 

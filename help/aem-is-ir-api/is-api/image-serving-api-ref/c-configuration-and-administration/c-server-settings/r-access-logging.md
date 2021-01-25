@@ -4,7 +4,7 @@ seo-description: Use these server settings for logging access.
 seo-title: Access logging
 solution: Experience Manager
 title: Access logging
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: ea7d5d39-3f0a-45f0-bc28-6828a9c9da50
 ---
 

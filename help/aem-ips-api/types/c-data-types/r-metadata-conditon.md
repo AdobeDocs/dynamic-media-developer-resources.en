@@ -4,7 +4,7 @@ seo-description: Adds a search term for use with searchAssets.
 seo-title: MetadataCondition
 solution: Experience Manager
 title: MetadataCondition
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 9d65b8ce-86a5-4730-af84-a87134fd7db6
 ---
 

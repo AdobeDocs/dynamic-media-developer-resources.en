@@ -4,7 +4,7 @@ seo-description: Restores assets from trash.
 seo-title: restoreAssetsFromTrash
 solution: Experience Manager
 title: restoreAssetsFromTrash
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: f7424d4c-7807-4de9-ad0c-f96364bf7b82
 ---
 
@@ -29,18 +29,18 @@ Restores assets from trash.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to a company with the assets you want to restore.  |
-|  ` *`assetHandleArray`*`  | `types:HandleArray`  | Yes  | Array of handles for the assets you want to restore.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to a company with the assets you want to restore.  |
+|  `*`assetHandleArray`*`  | `types:HandleArray`  | Yes  | Array of handles for the assets you want to restore.  |
 
 **Output (restoreAssetsFromTrashReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`successCount`*`  | `xsd:int`  | Yes  | Number of assets successfully removed from the trash.  |
-|  ` *`warningCount`*`  | `xsd:int`  | Yes  | Number of warnings generated when the operation attempted to restore assets from the trash.  |
-|  ` *`errorCount`*`  | `xsd:int`  | Yes  | Number of errors generated when attempting to restore assets from the trash.  |
-|  ` *`warningDetailArray`*`  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets that generated warnings when the operation attempted to restore assets from the trash.  |
-|  ` *`errorDetailArray`*`  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets that generated errors when the operation attempted to restore assets from the trash.  |
+|  `*`successCount`*`  | `xsd:int`  | Yes  | Number of assets successfully removed from the trash.  |
+|  `*`warningCount`*`  | `xsd:int`  | Yes  | Number of warnings generated when the operation attempted to restore assets from the trash.  |
+|  `*`errorCount`*`  | `xsd:int`  | Yes  | Number of errors generated when attempting to restore assets from the trash.  |
+|  `*`warningDetailArray`*`  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets that generated warnings when the operation attempted to restore assets from the trash.  |
+|  `*`errorDetailArray`*`  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets that generated errors when the operation attempted to restore assets from the trash.  |
 
 ## Examples {#section-98fe0394b0634ca397c395f14f8a9358}
 

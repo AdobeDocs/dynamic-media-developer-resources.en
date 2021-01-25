@@ -4,7 +4,7 @@ seo-description: Default thumbnail size. Used instead of attribute DefaultPix fo
 seo-title: DefaultThumbPix
 solution: Experience Manager
 title: DefaultThumbPix
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 7b310aab-6d38-45f3-a3e7-b074a8e7a795
 ---
 

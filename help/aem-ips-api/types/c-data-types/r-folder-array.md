@@ -4,7 +4,7 @@ seo-description: An array of folders.
 seo-title: FolderArray
 solution: Experience Manager
 title: FolderArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 4dd51d7c-6198-4c69-a2ae-c533fd8baae9
 ---
 
@@ -18,5 +18,5 @@ An array of folders.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:Folder`  | Array of folders.  |
+|  `*`items`*`  | `types:Folder`  | Array of folders.  |
 

@@ -4,7 +4,7 @@ seo-description: Defines old and new tag field values.
 seo-title: TagValueUpdate
 solution: Experience Manager
 title: TagValueUpdate
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: bcca6664-0406-4238-96cd-726a192c2d21
 ---
 
@@ -18,6 +18,6 @@ Defines old and new tag field values.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`oldValue`*`  | `xsd:string`  | Original tag field value.  |
-|  ` *`newValue`*`  | `xsd:string`  | New tag field value.  |
+|  `*`oldValue`*`  | `xsd:string`  | Original tag field value.  |
+|  `*`newValue`*`  | `xsd:string`  | New tag field value.  |
 

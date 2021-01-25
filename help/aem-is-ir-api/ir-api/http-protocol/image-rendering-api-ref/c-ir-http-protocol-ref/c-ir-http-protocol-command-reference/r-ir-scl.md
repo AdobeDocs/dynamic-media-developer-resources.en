@@ -4,7 +4,7 @@ seo-description: Scale view. Scales the rendered image by the specified scale fa
 seo-title: scl
 solution: Experience Manager
 title: scl
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 04839c44-01b6-4fa2-9eda-bbb0f2822db4
 ---
 

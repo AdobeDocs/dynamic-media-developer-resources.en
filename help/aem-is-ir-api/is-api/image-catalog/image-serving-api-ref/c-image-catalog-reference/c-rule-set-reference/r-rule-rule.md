@@ -4,7 +4,7 @@ seo-description: Request rule element. One or more rules are optional in the <ru
 seo-title: rule
 solution: Experience Manager
 title: rule
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 8b8e5b06-a0b7-47e1-942d-0297d08c313b
 ---
 

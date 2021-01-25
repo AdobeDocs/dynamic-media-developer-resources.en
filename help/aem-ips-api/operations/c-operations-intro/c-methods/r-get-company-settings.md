@@ -4,7 +4,7 @@ seo-description: Returns IPS settings for a specific company.
 seo-title: getCompanySettings
 solution: Experience Manager
 title: getCompanySettings
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 28ee706d-aaef-45a1-9655-3805f158cdc3
 ---
 
@@ -27,13 +27,13 @@ Returns IPS settings for a specific company.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company whose settings you wish to retrieve.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company whose settings you wish to retrieve.  |
 
 **Output (getCompanySettingsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`settings`*`  | `types:CompanySettings`  | Yes  | Company settings.  |
+|  `*`settings`*`  | `types:CompanySettings`  | Yes  | Company settings.  |
 
 ## Examples {#section-191f78995ecf473a95eadf7296204fd7}
 

@@ -4,7 +4,7 @@ seo-description: Returns all metadata fields, grouped by asset type.
 seo-title: getAssetMetadataFields
 solution: Experience Manager
 title: getAssetMetadataFields
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 01d5076f-f187-4069-b2f2-806fb1d8be84
 ---
 
@@ -30,13 +30,13 @@ Returns all metadata fields, grouped by asset type.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company whose metadata you want to retrieve.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company whose metadata you want to retrieve.  |
 
 **Output (getAssetMetadataFieldsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`assetFieldArray`*`  | `types:AssetMetadataFieldsArray`  | Yes  | Array of metadata fields, by asset type.  |
+|  `*`assetFieldArray`*`  | `types:AssetMetadataFieldsArray`  | Yes  | Array of metadata fields, by asset type.  |
 
 ## Examples {#section-d79ab85f29144635b0b61416e52f4f3f}
 

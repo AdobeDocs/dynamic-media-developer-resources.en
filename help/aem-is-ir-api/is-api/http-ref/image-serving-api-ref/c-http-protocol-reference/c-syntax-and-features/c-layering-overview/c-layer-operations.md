@@ -4,7 +4,7 @@ seo-description: In addition to sizing (size=) and positioning (pos=) layers rel
 seo-title: Layer operations
 solution: Experience Manager
 title: Layer operations
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: a9ef4199-cfa2-480e-a4de-8a0b9064a649
 ---
 

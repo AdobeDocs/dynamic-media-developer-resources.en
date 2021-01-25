@@ -4,7 +4,7 @@ seo-description: Dominant image color. Subtractive color, used for texture color
 seo-title: BaseColor
 solution: Experience Manager
 title: BaseColor
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 572ad63b-e3b1-478a-b3b3-2cba0b3413d6
 ---
 

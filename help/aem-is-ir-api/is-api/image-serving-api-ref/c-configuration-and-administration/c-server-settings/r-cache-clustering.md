@@ -4,7 +4,7 @@ seo-description: Use these server settings for cache clustering.
 seo-title: Cache clustering
 solution: Experience Manager
 title: Cache clustering
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: ed6335d7-26c9-45d8-95f6-6c05e788e449
 ---
 

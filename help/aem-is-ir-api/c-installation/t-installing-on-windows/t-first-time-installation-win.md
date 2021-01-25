@@ -4,7 +4,7 @@ seo-description: Use these steps to install Image Serving for the first time on 
 seo-title: Installing for the first time
 solution: Experience Manager
 title: Installing for the first time
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 3b28fbc7-6bc9-4619-8f92-c0ae610b8b30
 ---
 

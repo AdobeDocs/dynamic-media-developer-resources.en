@@ -4,7 +4,7 @@ seo-description: Image catalogs provide many server configuration settings, as w
 seo-title: Image catalogs
 solution: Experience Manager
 title: Image catalogs
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 7d7285e2-ee9c-4e88-b270-b686d1984d82
 ---
 

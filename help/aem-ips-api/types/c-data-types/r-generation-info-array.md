@@ -4,7 +4,7 @@ seo-description: An array of generation properties.
 seo-title: GenerationInfoArray
 solution: Experience Manager
 title: GenerationInfoArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 34124928-4177-415f-898a-e4b8bed9f95f
 ---
 
@@ -18,5 +18,5 @@ An array of generation properties.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:GenerationInfo`  | An array of generation properties.  |
+|  `*`items`*`  | `types:GenerationInfo`  | An array of generation properties.  |
 

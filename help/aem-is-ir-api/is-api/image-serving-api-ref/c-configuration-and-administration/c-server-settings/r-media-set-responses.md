@@ -4,7 +4,7 @@ seo-description: The settings in this section apply to the media set responses o
 seo-title: Media set responses
 solution: Experience Manager
 title: Media set responses
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 9fa6a38a-cd1f-499b-a2b6-e1a9a6c69ed0
 ---
 

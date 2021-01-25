@@ -4,7 +4,7 @@ seo-description: Deletes a project from a company. The links between the assets 
 seo-title: deleteProject
 solution: Experience Manager
 title: deleteProject
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 0915066f-2106-4cbc-a68a-f149810c24f8
 ---
 
@@ -29,8 +29,8 @@ Deletes a project from a company. The links between the assets and the project a
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyName`*`  | `xsd:string`  | Yes  | The name of the company associated with the project.  |
-|  ` *`projectHandle`*`  | `xsd:string`  | Yes  | The handle to the project to be deleted.  |
+|  `*`companyName`*`  | `xsd:string`  | Yes  | The name of the company associated with the project.  |
+|  `*`projectHandle`*`  | `xsd:string`  | Yes  | The handle to the project to be deleted.  |
 
 **Output (deleteProjectReturn)**
 

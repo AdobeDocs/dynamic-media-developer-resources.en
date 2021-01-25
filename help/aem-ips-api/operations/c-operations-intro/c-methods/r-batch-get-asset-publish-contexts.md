@@ -1,11 +1,8 @@
 ---
 description: Returns the publish contexts for assets marked for publication.
-seo-description: Returns the publish contexts for assets marked for publication.
-seo-title: batchGetAssetPublishContexts
 solution: Experience Manager
 title: batchGetAssetPublishContexts
-topic: Scene7 Image Production System API
-uuid: 7f442019-37a9-4473-be92-a952a7a67664
+topic: Dynamic Media Image Production System API
 ---
 
 # batchGetAssetPublishContexts{#batchgetassetpublishcontexts}
@@ -38,14 +35,14 @@ Returns the publish contexts for assets marked for publication.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company.  |
-|  ` *`assetHandleArray`*`  | ` `types:HandleArray``  | Yes  | A list of assets you want to query for active (marked for publish) contexts.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company.  |
+|  `*`assetHandleArray`*`  | ` `types:HandleArray``  | Yes  | A list of assets you want to query for active (marked for publish) contexts.  |
 
 **Output (batchGetAssetPublishContextsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`assetPublishContextsArray`*`  | `types:assetPublishContextsArray`  | Yes  | An array of publish contexts in which each asset is marked for publish.  |
+|  `*`assetPublishContextsArray`*`  | `types:assetPublishContextsArray`  | Yes  | An array of publish contexts in which each asset is marked for publish.  |
 
 ## Examples {#section-457f6809ccfa425b9a0976313d613f4e}
 

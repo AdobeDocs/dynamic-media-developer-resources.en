@@ -4,7 +4,7 @@ seo-description: Boldface flag. Specifies whether the font file referenced by th
 seo-title: Bold
 solution: Experience Manager
 title: Bold
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: c9bc05d6-07ff-4ad9-a5b2-3ddc81a746af
 ---
 

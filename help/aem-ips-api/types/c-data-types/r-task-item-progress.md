@@ -4,7 +4,7 @@ seo-description: Task item progress information.
 seo-title: TaskItemProgress
 solution: Experience Manager
 title: TaskItemProgress
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 7cca2ad9-c8f9-4dff-a055-d03fa2c50cec
 ---
 
@@ -18,8 +18,8 @@ Task item progress information.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`itemName`*`  | `xsd:string`  | Name of the item being processed.  |
-|  ` *`progress`*`  | `xsd:double`  | Progress complete %.  |
-|  ` *`progressMessage`*`  | `xsd:string`  | Process message.  |
-|  ` *`lastProgressUpdate`*`  | `xsd:dateTime`  | Time of last update.  |
+|  `*`itemName`*`  | `xsd:string`  | Name of the item being processed.  |
+|  `*`progress`*`  | `xsd:double`  | Progress complete %.  |
+|  `*`progressMessage`*`  | `xsd:string`  | Process message.  |
+|  `*`lastProgressUpdate`*`  | `xsd:dateTime`  | Time of last update.  |
 

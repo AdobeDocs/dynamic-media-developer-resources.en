@@ -4,7 +4,7 @@ seo-description: Image Rendering supports material catalogs with ISO‑8859‑1 
 seo-title: Character encoding
 solution: Experience Manager
 title: Character encoding
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: efc3971b-dca1-4b47-a197-c10270ce17c9
 ---
 

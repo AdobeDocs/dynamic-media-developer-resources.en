@@ -4,7 +4,7 @@ seo-description: An array of values for a tag field.
 seo-title: TagFieldValues
 solution: Experience Manager
 title: TagFieldValues
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 922f1962-7509-4210-989a-2f7a87112373
 ---
 
@@ -18,6 +18,6 @@ An array of values for a tag field.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`fieldHandle`*`  | `xsd:string`  | Tag field handle.  |
-|  ` *`valueArray`*`  | `xsd:StringArray`  | An array of values for a tag field.  |
+|  `*`fieldHandle`*`  | `xsd:string`  | Tag field handle.  |
+|  `*`valueArray`*`  | `xsd:StringArray`  | An array of values for a tag field.  |
 

@@ -4,7 +4,7 @@ seo-description: Macro name. Macro names may consist of any combination of alpha
 seo-title: Name
 solution: Experience Manager
 title: Name
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 5b81b450-5c3d-4a9e-95dd-6f12b6a9a5ae
 ---
 

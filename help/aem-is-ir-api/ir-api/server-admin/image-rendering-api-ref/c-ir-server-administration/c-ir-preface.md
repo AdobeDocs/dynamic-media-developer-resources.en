@@ -1,20 +1,20 @@
 ---
-description: This documentation discusses server administration issues and describes configuration settings for Scene7 Image Rendering.
-seo-description: This documentation discusses server administration issues and describes configuration settings for Scene7 Image Rendering.
+description: This documentation discusses server administration issues and describes configuration settings for Dynamic Media Image Rendering.
+seo-description: This documentation discusses server administration issues and describes configuration settings for Dynamic Media Image Rendering.
 seo-title: Server administration preface
 solution: Experience Manager
 title: Server administration preface
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 182782f1-44a8-421d-bacc-f08dcf95f58b
 ---
 
 # Server administration preface{#server-administration-preface}
 
-This documentation discusses server administration issues and describes configuration settings for Scene7 Image Rendering.
+This documentation discusses server administration issues and describes configuration settings for Dynamic Media Image Rendering.
 
  **Intended audience**
 
-This documentation is intended for system administrators and web masters who need to install, configure, and administer Scene7 Image Rendering.
+This documentation is intended for system administrators and web masters who need to install, configure, and administer Dynamic Media Image Rendering.
 
 **Document conventions**
 

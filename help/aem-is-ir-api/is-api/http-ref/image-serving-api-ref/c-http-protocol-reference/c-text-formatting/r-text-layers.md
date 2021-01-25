@@ -4,7 +4,7 @@ seo-description: textPs= supports a number of different usage models described i
 seo-title: Text layers
 solution: Experience Manager
 title: Text layers
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 9ccef969-7c54-49ce-b6ff-ae4eabfcf99b
 ---
 

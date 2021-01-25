@@ -4,7 +4,7 @@ seo-description: Allow absolute URLs as image sources.
 seo-title: AllowDirectUrls
 solution: Experience Manager
 title: AllowDirectUrls
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 91d46cc5-8ada-4bd4-b7ff-3d021f4f32ea
 ---
 

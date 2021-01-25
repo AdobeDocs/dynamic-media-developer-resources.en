@@ -4,7 +4,7 @@ seo-description: Gets the original file paths of a company’s assets.
 seo-title: getOriginalFilePaths
 solution: Experience Manager
 title: getOriginalFilePaths
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: c4acf288-1a57-4295-806b-348f15a089cc
 ---
 
@@ -34,14 +34,14 @@ Gets the original file paths of a company’s assets.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company.  |
-|  ` *`assetHandleArray`*`  | `types:HandleArray`  | Yes  | Array of handles to assets whose original file path you want to obtain.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company.  |
+|  `*`assetHandleArray`*`  | `types:HandleArray`  | Yes  | Array of handles to assets whose original file path you want to obtain.  |
 
 **Output (getOriginalFilePathsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`originalFileArray`*`  | `types:StringArray`  | Yes  | The array of strings that represent the original file paths.  |
+|  `*`originalFileArray`*`  | `types:StringArray`  | Yes  | The array of strings that represent the original file paths.  |
 
 ## Examples {#section-a966e783a2ba49f5b6b0f961329ab2f8}
 

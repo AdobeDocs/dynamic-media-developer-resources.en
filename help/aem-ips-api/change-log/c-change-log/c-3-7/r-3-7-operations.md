@@ -1,11 +1,8 @@
 ---
 description: Describes new and changed operations methods for the IPS API version 3.7.
-seo-description: Describes new and changed operations methods for the IPS API version 3.7.
-seo-title: Operations  New and Modified
 solution: Experience Manager
 title: Operations  New and Modified
-topic: Scene7 Image Production System API
-uuid: 3c163157-cd0d-4887-a1f0-7941d96c36f9
+topic: Dynamic Media Image Production System API
 ---
 
 # Operations: New and Modified{#operations-new-and-modified}

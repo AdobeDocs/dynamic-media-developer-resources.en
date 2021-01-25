@@ -4,7 +4,7 @@ seo-description: Sets various company-specific configuration values.
 seo-title: setCompanySettings
 solution: Experience Manager
 title: setCompanySettings
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 5908082f-6743-4444-ba73-757ad4664890
 ---
 
@@ -27,15 +27,15 @@ Sets various company-specific configuration values.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | Company handle.  |
-|  ` *`overwriteMode`*`  | `xsd:string`  | No  | Asset overwrite mode.  |
-|  ` *`retainPublishState`*`  | `xsd:boolean`  | No  |Set to `true` to preserve the publish state when an asset is re-uploaded.  |
-|  ` *`defaultSourceProfileHandle`*`  | `xsd:string`  | No  | IccProfile asset to use as default source color profile.  |
-|  ` *`defaultDisplayProfileHandle`*`  | `xsd:string`  | No  | IccProfile asset to use as default display color profile.  |
-|  ` *`iptcExifMappingXsltHandle`*`  | `xsd:string`  | No  | XSL asset used for mapping IPTC and EXIF metadata to IPS metadata fields.  |
-|  ` *`xmpMappingXsltHandle`*`  | `xsd:string`  | No  | XSL asset used to map XMP metadata to IPS metadata fields.  |
-|  ` *`diskSpaceWarningMin`*`  | `xsd:int`  | No  | Minimum free disk space (in KB) available before a warning message is sent.  |
-|  ` *`emailTrashCleanupWarning`*`  | `xsd:boolean`  | No  |Set to `true` to send company administrators a notification whenever assets are emptied from trash.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Company handle.  |
+|  `*`overwriteMode`*`  | `xsd:string`  | No  | Asset overwrite mode.  |
+|  `*`retainPublishState`*`  | `xsd:boolean`  | No  |Set to `true` to preserve the publish state when an asset is re-uploaded.  |
+|  `*`defaultSourceProfileHandle`*`  | `xsd:string`  | No  | IccProfile asset to use as default source color profile.  |
+|  `*`defaultDisplayProfileHandle`*`  | `xsd:string`  | No  | IccProfile asset to use as default display color profile.  |
+|  `*`iptcExifMappingXsltHandle`*`  | `xsd:string`  | No  | XSL asset used for mapping IPTC and EXIF metadata to IPS metadata fields.  |
+|  `*`xmpMappingXsltHandle`*`  | `xsd:string`  | No  | XSL asset used to map XMP metadata to IPS metadata fields.  |
+|  `*`diskSpaceWarningMin`*`  | `xsd:int`  | No  | Minimum free disk space (in KB) available before a warning message is sent.  |
+|  `*`emailTrashCleanupWarning`*`  | `xsd:boolean`  | No  |Set to `true` to send company administrators a notification whenever assets are emptied from trash.  |
 
 **Output (setCompanySettingsReturn)**
 

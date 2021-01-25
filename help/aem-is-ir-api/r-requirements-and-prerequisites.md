@@ -1,16 +1,16 @@
 ---
-description: Before using Scene7 Image Serving, make sure your system meets the system requirements.
-seo-description: Before using Scene7 Image Serving, make sure your system meets the system requirements.
+description: Before using Dynamic Media Image Serving, make sure your system meets the system requirements.
+seo-description: Before using Dynamic Media Image Serving, make sure your system meets the system requirements.
 seo-title: System requirements and prerequisites
 solution: Experience Manager
 title: System requirements and prerequisites
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 80196574-f5a2-4298-880a-cc36f90b6e21
 ---
 
 # System requirements and prerequisites{#system-requirements-and-prerequisites}
 
-Before using Scene7 Image Serving, make sure your system meets the system requirements.
+Before using Dynamic Media Image Serving, make sure your system meets the system requirements.
 
 ## Server hardware {#section-f3c14a7bc1b745118602659628df779f}
 
@@ -50,7 +50,7 @@ to
 
 ## Server software {#section-5c9aad2e6b8a4bca989e17a2c8476fc4}
 
-Scene7 Image Serving requires the following server software.
+Dynamic Media Image Serving requires the following server software.
 
 **Windows**
 

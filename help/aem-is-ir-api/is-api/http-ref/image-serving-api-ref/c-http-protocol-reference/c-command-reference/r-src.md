@@ -4,7 +4,7 @@ seo-description: Layer image.
 seo-title: src
 solution: Experience Manager
 title: src
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: b4396848-b992-4371-a8ae-4ff1781ae1be
 ---
 
@@ -36,10 +36,6 @@ See [object](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protoco
 Nested or embedded requests are enclosed by curly braces. Prefix an embedded Image Serving request with `is`, an embedded Image Rendering request with `ir`, and an FXG graphics render request with `fxg`. A request to a foreign server is assumed if no prefix is specified.
 
 See [Request Nesting and Embedding](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-syntax-and-features/r-request-nesting-and-embedding.md#reference-38ec66d4062046589e16c39bf1c6049b).
-
->[!NOTE]
->
->FXG graphics rendering is available only in the Scene7 hosted environment and may require additional licensing. Contact Scene7 Support for more information.
 
 ## Properties {#section-2c22bb89a35d470f833df8ba898efd93}
 

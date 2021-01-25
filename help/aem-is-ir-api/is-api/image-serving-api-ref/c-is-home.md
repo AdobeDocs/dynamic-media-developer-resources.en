@@ -4,7 +4,7 @@ seo-description: The Image Serving API Guide contains information about setting 
 seo-title: Image Serving API
 solution: Experience Manager
 title: Image Serving API
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: a90088a8-94f4-4e36-aaa2-03c07e8522b0
 ---
 

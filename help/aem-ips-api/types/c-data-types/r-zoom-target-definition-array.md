@@ -2,7 +2,7 @@
 description: ZoomTargetDefinitionArray
 solution: Experience Manager
 title: ZoomTargetDefinitionArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 681b323e-fe00-4d9e-9201-7fb46080d041
 ---
 
@@ -14,5 +14,5 @@ uuid: 681b323e-fe00-4d9e-9201-7fb46080d041
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:ZoomTargetDefinition`  | An array of Zoom target definitions.  |
+|  `*`items`*`  | `types:ZoomTargetDefinition`  | An array of Zoom target definitions.  |
 

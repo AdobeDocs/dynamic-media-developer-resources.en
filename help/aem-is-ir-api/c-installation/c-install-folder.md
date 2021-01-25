@@ -4,7 +4,7 @@ seo-description: The Image Serving install folder (install_folder) is install_ro
 seo-title: Install folder
 solution: Experience Manager
 title: Install folder
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 3e3a5077-f165-42e0-806b-c2cc97aa4f9a
 ---
 

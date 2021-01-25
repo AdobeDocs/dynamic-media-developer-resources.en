@@ -4,7 +4,7 @@ seo-description: This section contains solutions to problems that have occasiona
 seo-title: Troubleshooting
 solution: Experience Manager
 title: Troubleshooting
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 39fdaf86-004b-4553-bde0-0367f3ef76b8
 ---
 

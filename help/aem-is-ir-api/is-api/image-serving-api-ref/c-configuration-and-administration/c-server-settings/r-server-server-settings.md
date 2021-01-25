@@ -4,7 +4,7 @@ seo-description: Use these server settings to configure your server.
 seo-title: Server
 solution: Experience Manager
 title: Server
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 50db98cc-8354-4884-9416-00808828061b
 ---
 

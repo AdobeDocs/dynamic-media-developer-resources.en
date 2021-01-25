@@ -4,7 +4,7 @@ seo-description: Blur image. Applies a blur filter to the image data.
 seo-title: op_blur
 solution: Experience Manager
 title: op_blur
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 8405bbb5-fe09-412e-9b52-0af2c01f48b9
 ---
 

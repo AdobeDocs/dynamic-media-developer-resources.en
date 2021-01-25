@@ -4,7 +4,7 @@ seo-description: Foreground color. Specifies the color of solid color materials 
 seo-title: color
 solution: Experience Manager
 title: color
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 546cf34b-ab2d-497c-abc2-89024dc541db
 ---
 

@@ -4,7 +4,7 @@ seo-description: Publishes files to the image rendering servers.
 seo-title: ImageRenderingPublishJob
 solution: Experience Manager
 title: ImageRenderingPublishJob
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 46dd5df4-2d20-444a-b5c3-200a74509798
 ---
 
@@ -18,7 +18,7 @@ Publishes files to the image rendering servers.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`emailSetting`*`  | `xsd:string`  | Choice of email settings.  |
-|  ` *`httpCompletionUrl`*`  | `xsd:string`  | URL to send a completion notice.  |
-|  ` *`contextHandle`*`  | `xsd:string`  | Handle to the publish context.  |
+|  `*`emailSetting`*`  | `xsd:string`  | Choice of email settings.  |
+|  `*`httpCompletionUrl`*`  | `xsd:string`  | URL to send a completion notice.  |
+|  `*`contextHandle`*`  | `xsd:string`  | Handle to the publish context.  |
 

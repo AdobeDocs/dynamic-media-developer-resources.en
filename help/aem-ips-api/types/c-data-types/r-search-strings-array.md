@@ -4,7 +4,7 @@ seo-description: An array of search strings.
 seo-title: SearchStringsArray
 solution: Experience Manager
 title: SearchStringsArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 69103ece-83ad-491f-9910-2929a3c36008
 ---
 
@@ -18,5 +18,5 @@ An array of search strings.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:SearchStrings`  | An array of search strings.  |
+|  `*`items`*`  | `types:SearchStrings`  | An array of search strings.  |
 

@@ -1,11 +1,8 @@
 ---
 description: Contains server supervisor configuration settings.
-seo-description: Contains server supervisor configuration settings.
-seo-title: SupervisorRegistry.xml
 solution: Experience Manager
 title: SupervisorRegistry.xml
-topic: Scene7 Image Serving - Image Rendering API
-uuid: 8442a3d6-5f45-48d1-8e6e-71f0ed384227
+topic: Dynamic Media Image Serving - Image Rendering API
 ---
 
 # SupervisorRegistry.xml{#supervisorregistry-xml}
@@ -14,7 +11,7 @@ Contains server supervisor configuration settings.
 
 When editing this XML file, be sure you maintain valid XML syntax, otherwise the Image Server may fail to start.
 
-Restart Image Serving after editing this file to ensure that your changes take effect. Only the element/attribute values highlighted below are supported for modification. Edit all other contents of this file only when advised by Scene7 Technical Support.
+Restart Image Serving after editing this file to ensure that your changes take effect. Only the element/attribute values highlighted below are supported for modification. Edit all other contents of this file only when advised by Dynamic Media technical support.
 
 ```
 <supervisor>
@@ -27,14 +24,14 @@ Restart Image Serving after editing this file to ensure that your changes take e
     </config>
     <servers>
         <server id="is">
-            <description>Scene7 Image Server</description>
+            <description>Dynamic Media Image Server</description>
             <profile ref="SV::ImageServerMode"/>
             <startPriority>1</startPriority>
             <startDelay>5</startDelay>
             <stopTimeout>60</stopTimeout>
         </server>
         <server id="svg">
-            <description>Scene7 SVG server</description>
+            <description>Dynamic Media SVG server</description>
             <profile ref="Java32"/>
             <profile ref="SVG"/>
             <arguments>
@@ -47,7 +44,7 @@ Restart Image Serving after editing this file to ensure that your changes take e
             <stopTimeout>60</stopTimeout>
         </server>
         <server id="ps">
-            <description>Scene7 Platform Server</description>
+            <description>Dynamic Media Platform Server</description>
             <profile ref="Java32"/>
             <profile ref="PlatformServer"/>
             <profile ref="Tomcat"/>

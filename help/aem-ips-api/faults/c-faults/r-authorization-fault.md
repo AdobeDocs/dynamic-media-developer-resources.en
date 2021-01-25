@@ -1,11 +1,8 @@
 ---
 description: Thrown when an authenticated user has insufficient permissions to accomplish a task.
-seo-description: Thrown when an authenticated user has insufficient permissions to accomplish a task.
-seo-title: authorizationFault
 solution: Experience Manager
 title: authorizationFault
-topic: Scene7 Image Production System API
-uuid: 8b8df22a-aa76-4cbd-9c14-89969c5f9620
+topic: Dynamic Media Image Production System API
 ---
 
 # authorizationFault{#authorizationfault}

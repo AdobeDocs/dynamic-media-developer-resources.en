@@ -4,7 +4,7 @@ seo-description: Creates an image format.
 seo-title: saveImageFormat
 solution: Experience Manager
 title: saveImageFormat
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: b11ea668-7a82-439c-b16b-909dc86c00a2
 ---
 
@@ -29,16 +29,16 @@ Creates an image format.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company with the image format you want to work with.  |
-|  ` *`imageFormatHandle`*`  | `xsd:string`  | No  | Image format handle you want to save.  |
-|  ` *`name`*`  | `xsd:string`  | Yes  | Image format name.  |
-|  ` *`urlModifier`*`  | `xsd:string`  | Yes  | This can be any IPS protocol query string. The easiest way to generate a URL modifier is to create one with the IPS user interface and then cut and paste the query string.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company with the image format you want to work with.  |
+|  `*`imageFormatHandle`*`  | `xsd:string`  | No  | Image format handle you want to save.  |
+|  `*`name`*`  | `xsd:string`  | Yes  | Image format name.  |
+|  `*`urlModifier`*`  | `xsd:string`  | Yes  | This can be any IPS protocol query string. The easiest way to generate a URL modifier is to create one with the IPS user interface and then cut and paste the query string.  |
 
 **Output (saveImageFormatReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`imageFormatHandle`*`  | `xsd:string`  | Yes  | Handle to the image format.  |
+|  `*`imageFormatHandle`*`  | `xsd:string`  | Yes  | Handle to the image format.  |
 
 ## Examples {#section-c7bd733212ef494297a97093f3af193f}
 

@@ -1,16 +1,16 @@
 ---
-description: Use this procedure when upgrading Scene7 Image Serving on Linux.
-seo-description: Use this procedure when upgrading Scene7 Image Serving on Linux.
+description: Use this procedure when upgrading Dynamic Media Image Serving on Linux.
+seo-description: Use this procedure when upgrading Dynamic Media Image Serving on Linux.
 seo-title: Updating from IS 4.7.4 or later
 solution: Experience Manager
 title: Updating from IS 4.7.4 or later
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 70beb1a3-71b9-4bd0-b048-13d88446a9d3
 ---
 
 # Updating from IS 4.7.4 or later{#updating-from-is-or-later}
 
-Use this procedure when upgrading Scene7 Image Serving on Linux.
+Use this procedure when upgrading Dynamic Media Image Serving on Linux.
 
 If you are upgrading from an older version of Image Serving, please contact support for the correct process.
 

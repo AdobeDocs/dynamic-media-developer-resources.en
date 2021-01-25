@@ -4,7 +4,7 @@ seo-description: Gets a property set type using a handle to a company and the na
 seo-title: getPropertySetType
 solution: Experience Manager
 title: getPropertySetType
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 203fa949-a81e-455a-a83e-576b6f65e3af
 ---
 
@@ -32,8 +32,8 @@ Gets a property set type using a handle to a company and the name of the propert
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | No  | The handle to the company. Optional because a property set type can belong to multiple companies.  |
-|  ` *`name`*`  | `xsd:string`  | Yes  | Property set type name.  |
+|  `*`companyHandle`*`  | `xsd:string`  | No  | The handle to the company. Optional because a property set type can belong to multiple companies.  |
+|  `*`name`*`  | `xsd:string`  | Yes  | Property set type name.  |
 
 **Output (getPropertySetTypeReturn)** 
 

@@ -1,16 +1,16 @@
 ---
-description: This section describes the basic syntax of the Scene7 Image Rendering HTTP protocol.
-seo-description: This section describes the basic syntax of the Scene7 Image Rendering HTTP protocol.
+description: This section describes the basic syntax of the Dynamic Media Image Rendering HTTP protocol.
+seo-description: This section describes the basic syntax of the Dynamic Media Image Rendering HTTP protocol.
 seo-title: Image Rendering HTTP protocol basic syntax
 solution: Experience Manager
 title: Image Rendering HTTP protocol basic syntax
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: e01314f0-6aaa-41ca-8c05-d5db3148a071
 ---
 
 # Image Rendering HTTP protocol basic syntax{#image-rendering-http-protocol-basic-syntax}
 
-This section describes the basic syntax of the Scene7 Image Rendering HTTP protocol.
+This section describes the basic syntax of the Dynamic Media Image Rendering HTTP protocol.
 
 <table id="table_0A7D7207EE6D4B08B62BE8620EBE0B25"> 
  <thead> 

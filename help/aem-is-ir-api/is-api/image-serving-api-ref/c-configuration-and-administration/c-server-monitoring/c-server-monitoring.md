@@ -4,7 +4,7 @@ seo-description: The server can be configured to send email alerts when certain 
 seo-title: Server monitoring
 solution: Experience Manager
 title: Server monitoring
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: c4042ed9-e186-4f0f-a48b-1af3b67a2f04
 ---
 

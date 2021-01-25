@@ -4,7 +4,7 @@ seo-description: Material surface type. Specifies the surface type of the materi
 seo-title: type
 solution: Experience Manager
 title: type
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 0f107d50-b363-4670-bb02-873677e7bbea
 ---
 

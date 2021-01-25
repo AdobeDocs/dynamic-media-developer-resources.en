@@ -4,7 +4,7 @@ seo-description: Returns assets based on an array of asset names.
 seo-title: getAssetsByName
 solution: Experience Manager
 title: getAssetsByName
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: e86b3b16-ad93-4f70-9f59-b72395513c4c
 ---
 
@@ -110,7 +110,7 @@ Returns assets based on an array of asset names.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`assetArray`*`  | `types:AssetArray`  | No  | Array of assets that match the filter criteria.  |
+|  `*`assetArray`*`  | `types:AssetArray`  | No  | Array of assets that match the filter criteria.  |
 
 ## Examples {#section-3b7447398e574c88aeaf8ca159cc78dd}
 

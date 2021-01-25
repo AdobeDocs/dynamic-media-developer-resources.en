@@ -4,7 +4,7 @@ seo-description: Properties of an RTF file asset.
 seo-title: RTFInfo
 solution: Experience Manager
 title: RTFInfo
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: cd7744bd-d033-4095-82c7-2a7b7db7e97f
 ---
 
@@ -18,7 +18,7 @@ Properties of an RTF file asset.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`originalPath`*`  | `xsd:string`  | File path.  |
-|  ` *`originalFile`*`  | `xsd:string`  | File name.  |
-|  ` *`fileSize`*`  | `xsd:int`  | File size.  |
+|  `*`originalPath`*`  | `xsd:string`  | File path.  |
+|  `*`originalFile`*`  | `xsd:string`  | File name.  |
+|  `*`fileSize`*`  | `xsd:int`  | File size.  |
 

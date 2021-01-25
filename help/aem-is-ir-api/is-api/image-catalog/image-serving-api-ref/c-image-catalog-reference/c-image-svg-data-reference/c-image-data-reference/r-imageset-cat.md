@@ -1,16 +1,13 @@
 ---
-description: Image set data. Provides a mechanism to define sorted sets of images and control attributes used by the Scene7 viewers.
-seo-description: Image set data. Provides a mechanism to define sorted sets of images and control attributes used by the Scene7 viewers.
-seo-title: ImageSet
+description: Image set data. Provides a mechanism to define sorted sets of images and control attributes used by the Dynamic Media viewers.
 solution: Experience Manager
 title: ImageSet
-topic: Scene7 Image Serving - Image Rendering API
-uuid: 1a34aaef-4053-4474-abb8-794331898d88
+topic: Dynamic Media Image Serving - Image Rendering API
 ---
 
 # ImageSet{#imageset}
 
-Image set data. Provides a mechanism to define sorted sets of images and control attributes used by the Scene7 viewers.
+Image set data. Provides a mechanism to define sorted sets of images and control attributes used by the Dynamic Media viewers.
 
 An image set consists of a sorted, comma-separated list of items, with each item consisting of one or more sub-items (image ids, swatch ids, media file paths, labels, etc), separated by semi-colons and/or colons.
 
@@ -41,24 +38,24 @@ The following set definitions are natively supported by Image Serving, and acces
 
 Each item in a basic swatch set consists of a reference to an image record and an optional separate reference to an image record used as a swatch. 
 
-|  ` *`basicSwatchSet`*`  | ` *`swatchItem`*&#42;[',' *`swatchItem`*]`  |
+|  `*`basicSwatchSet`*`  | `*`swatchItem`*&#42;[',' *`swatchItem`*]`  |
 |---|---|
-|  ` *`swatchItem`*`  | ` *`imageId`*[';' *`swatch`*]`  |
-|  ` *`swatch`*`  | ` *`swatchId`*|solidColorSpecifier`  |
-|  ` *`imageId`*`  | IS image reference (catalog/id)  |
-|  ` *`swatchId`*`  | IS image reference (catalog/id)  |
-|  ` *`solidColorSpecifier`*`  | ` '{0x' *`rrggbb`* [ *`label`*]'}'`  |
-|  ` *`rrggbb`*`  | Packed 6 digit hex RGB color value for solid color swatches  |
-|  ` *`label`*`  | Optional text label for solid color swatches  |
+|  `*`swatchItem`*`  | `*`imageId`*[';' *`swatch`*]`  |
+|  `*`swatch`*`  | `*`swatchId`*|solidColorSpecifier`  |
+|  `*`imageId`*`  | IS image reference (catalog/id)  |
+|  `*`swatchId`*`  | IS image reference (catalog/id)  |
+|  `*`solidColorSpecifier`*`  | ` '{0x' *`rrggbb`* [ *`label`*]'}'`  |
+|  `*`rrggbb`*`  | Packed 6 digit hex RGB color value for solid color swatches  |
+|  `*`label`*`  | Optional text label for solid color swatches  |
 
 **Hierarchical Swatch Sets**
 
 Each item in a hierarchical swatch set can consist of a basic swatch item or a reference to a swatch set record (swatches are required for such items).
 
-|  ` *`hierarchicalSwatchSet`*`  | ` *`hierarchicalSwatchItem`* &#42;[ ',' *`hierarchicalSwatchItem`* ]`  |
+|  `*`hierarchicalSwatchSet`*`  | `*`hierarchicalSwatchItem`* &#42;[ ',' *`hierarchicalSwatchItem`* ]`  |
 |---|---|
-|  ` *`hierarchicalSwatchItem`*`  | ` *`swatchItem`* | { *`basicSwatchSetId`* ';' *`swatch`* }`  |
-|  ` *`basicSwatchSetId`*`  | IS reference (catalog/id) to a catalog record defining a basic swatch set  |
+|  `*`hierarchicalSwatchItem`*`  | `*`swatchItem`* | { *`basicSwatchSetId`* ';' *`swatch`* }`  |
+|  `*`basicSwatchSetId`*`  | IS reference (catalog/id) to a catalog record defining a basic swatch set  |
 
 **Basic Spin Sets**
 
@@ -70,38 +67,38 @@ A basic spin set consists of a simple list of image IDs.
 
 Each item in a two-dimensional spin set can consist of a simple image, a reference to a basic spin set, or an in-line basic spin set delimited by curly braces. Parentheses may be used instead of curly braces.
 
-|  ` *`2dSpinItem`*`  | ` *`2dSpinSet`* *`2dSpinItem`* &#42;[ ',' *`2dSpinItem`* ]`  |
+|  `*`2dSpinItem`*`  | `*`2dSpinSet`* *`2dSpinItem`* &#42;[ ',' *`2dSpinItem`* ]`  |
 |---|---|
-|  ` *`2dSpinItem`*`  | ` *`imageId`* | { '{' *`basicSpinSet`* '}' } | *`basicSpinSetId`*`  |
-|  ` *`basicSpinSetId`*`  | IS reference (catalog/id) to a catalog record defining a basic spin set  |
+|  `*`2dSpinItem`*`  | `*`imageId`* | { '{' *`basicSpinSet`* '}' } | *`basicSpinSetId`*`  |
+|  `*`basicSpinSetId`*`  | IS reference (catalog/id) to a catalog record defining a basic spin set  |
 
 **Page Sets**
 
 Each item in a page set can consist of up to three page images separated with colons.
 
-|  ` *`pageSet`*`  | ` *`pageItem`* &#42;[ , *`pageItem`* ]`  |
+|  `*`pageSet`*`  | `*`pageItem`* &#42;[ , *`pageItem`* ]`  |
 |---|---|
-|  ` *`pageItem`*`  | ` *`imageId`* [ : *`imageId`* [ : *`imageId`* ] ]`  |
+|  `*`pageItem`*`  | `*`imageId`* [ : *`imageId`* [ : *`imageId`* ] ]`  |
 
 **Media Sets**
 
 Each item in a media set can consist of an image, basic swatch set, hierarchical swatch set, basic spin set, two-dimensional spin set, page set, or video asset. Each media set item can also contain an optional swatch and type identifier.
 
-|  ` *`mediaSet`*`  | ` *`item`* &#42;[ , *`item`* ]`  |
+|  `*`mediaSet`*`  | `*`item`* &#42;[ , *`item`* ]`  |
 |---|---|
-|  ` *`item`*`  | ` { *`videoItem`* | *`recutItem`* | *`imageItem`*}} | *`setItem`* } [ ; [ *`ID`* ] [ ; [ *`reserved`* ] ] ]`  |
-|  ` *`videoItem`*`  | ` *`video`* ; *`swatchId`*`  |
-|  ` *`recutItem`*`  | ` *`recut`* ; *`swatchId`*`  |
-|  ` *`imageItem`*`  | ` *`imageId`* ; [ *`swatchId`* ]`  |
-|  ` *`setItem`*`  | ` { *`setId`* | { '{' *`inlineSet`* '}' } } ; *`swatchId`*`  |
-|  ` *`ID`*`  | `media type identifier [ img | basic | advanced_image | img | img_set | advanced_imageset | advanced_swatchset | spin | video ]`  |
-|  ` *`swatchId`*`  | IS image id  |
-|  ` *`video`*`  | Video/animation file path or static catalog id  |
-|  ` *`recut`*`  | Recut definition XML file path or static catalog id  |
-|  ` *`imageId`*`  | IS image id  |
-|  ` *`setId`*`  | IS reference to image, spin, or ecatalog set  |
-|  ` *`inlineSet`*`  | Inlined image, spin, or ecatalog set  |
-|  ` *`reserved`*`  | Reserved for future use  |
+|  `*`item`*`  | ` { *`videoItem`* | *`recutItem`* | *`imageItem`*}} | *`setItem`* } [ ; [ *`ID`* ] [ ; [ *`reserved`* ] ] ]`  |
+|  `*`videoItem`*`  | `*`video`* ; *`swatchId`*`  |
+|  `*`recutItem`*`  | `*`recut`* ; *`swatchId`*`  |
+|  `*`imageItem`*`  | `*`imageId`* ; [ *`swatchId`* ]`  |
+|  `*`setItem`*`  | ` { *`setId`* | { '{' *`inlineSet`* '}' } } ; *`swatchId`*`  |
+|  `*`ID`*`  | `media type identifier [ img | basic | advanced_image | img | img_set | advanced_imageset | advanced_swatchset | spin | video ]`  |
+|  `*`swatchId`*`  | IS image id  |
+|  `*`video`*`  | Video/animation file path or static catalog id  |
+|  `*`recut`*`  | Recut definition XML file path or static catalog id  |
+|  `*`imageId`*`  | IS image id  |
+|  `*`setId`*`  | IS reference to image, spin, or ecatalog set  |
+|  `*`inlineSet`*`  | Inlined image, spin, or ecatalog set  |
+|  `*`reserved`*`  | Reserved for future use  |
 
 **Video Sets**
 

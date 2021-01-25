@@ -4,7 +4,7 @@ seo-description: An array of assets.
 seo-title: AssetArray
 solution: Experience Manager
 title: AssetArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: ab432380-1266-473a-9214-32e9244e1997
 ---
 
@@ -18,5 +18,5 @@ An array of assets.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:Asset`  | Asset array.  |
+|  `*`items`*`  | `types:Asset`  | Asset array.  |
 

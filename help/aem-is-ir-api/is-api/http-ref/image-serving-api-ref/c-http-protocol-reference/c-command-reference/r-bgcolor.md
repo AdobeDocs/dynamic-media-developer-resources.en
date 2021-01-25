@@ -4,7 +4,7 @@ seo-description: Layer Background Color. Specifies the background color and opac
 seo-title: bgColor
 solution: Experience Manager
 title: bgColor
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: bcbd368f-d200-4b1f-8e9f-bf4d88f14b72
 ---
 

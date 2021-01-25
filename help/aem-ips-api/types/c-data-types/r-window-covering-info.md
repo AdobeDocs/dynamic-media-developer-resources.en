@@ -4,7 +4,7 @@ seo-description: Properties of a window covering file.
 seo-title: WindowCoveringInfo
 solution: Experience Manager
 title: WindowCoveringInfo
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 6ca5c5b2-9fb1-4ba2-b981-f1912231512c
 ---
 
@@ -18,11 +18,11 @@ Properties of a window covering file.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`originalPath`*`  | `xsd:string`  | File path.  |
-|  ` *`originalFile`*`  | `xsd:string`  | File name.  |
-|  ` *`fileSize`*`  | `xsd:int`  | File size.  |
-|  ` *`imagePath`*`  | `xsd:string`  | Relative path to the image.  |
-|  ` *`imageFile`*`  | `xsd:string`  | File name of the window covering image.  |
-|  ` *`optimizedPath`*`  | `xsd:string`  | Optimized path to the file.  |
-|  ` *`optimizedFile`*`  | `xsd:string`  | Optimized file name.  |
+|  `*`originalPath`*`  | `xsd:string`  | File path.  |
+|  `*`originalFile`*`  | `xsd:string`  | File name.  |
+|  `*`fileSize`*`  | `xsd:int`  | File size.  |
+|  `*`imagePath`*`  | `xsd:string`  | Relative path to the image.  |
+|  `*`imageFile`*`  | `xsd:string`  | File name of the window covering image.  |
+|  `*`optimizedPath`*`  | `xsd:string`  | Optimized path to the file.  |
+|  `*`optimizedFile`*`  | `xsd:string`  | Optimized file name.  |
 

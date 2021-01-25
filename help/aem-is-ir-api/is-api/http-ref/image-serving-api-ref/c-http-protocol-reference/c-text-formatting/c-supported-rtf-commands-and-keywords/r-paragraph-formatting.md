@@ -4,7 +4,7 @@ seo-description: The following paragraph formatting commands are supported.
 seo-title: Paragraph formatting
 solution: Experience Manager
 title: Paragraph formatting
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 4f9255b2-3a74-4c9a-80c5-d85b4627027e
 ---
 

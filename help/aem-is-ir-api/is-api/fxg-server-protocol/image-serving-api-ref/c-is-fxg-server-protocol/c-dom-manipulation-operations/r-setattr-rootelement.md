@@ -4,7 +4,7 @@ seo-description: Set attributes to FXG Root element.
 seo-title: setAttr.rootElement
 solution: Experience Manager
 title: setAttr.rootElement
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: dda16612-57c7-4abe-8aa4-00e599a8ea69
 ---
 

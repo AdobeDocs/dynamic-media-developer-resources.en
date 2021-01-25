@@ -4,7 +4,7 @@ seo-description: The features and syntax of image catalogs are described in this
 seo-title: Image catalogs
 solution: Experience Manager
 title: Image catalogs
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: d329807a-22b0-42a3-9297-8dad7a1dce43
 ---
 
@@ -16,13 +16,13 @@ Image catalogs offer the following features:
 
 * Allow persistent association of images with certain metadata and modifier commands.
 
-  Entries in image catalogs are referenced using a shortcut notation ` *`rootId/objId`*`, where ` *`rootId`*` identifies the image catalog and ` *`objId`*` identifies a data record in the catalog. 
+  Entries in image catalogs are referenced using a shortcut notation `*`rootId/objId`*`, where `*`rootId`*` identifies the image catalog and `*`objId`*` identifies a data record in the catalog. 
 * Provide defaults for certain request attributes, such as the JPEG quality or whether a watermark is to be applied. 
 * Manage fonts, ICC profiles, macro definitions, and request templates
 
 Even if no specific image catalogs are defined, all features of image catalogs are available via the default catalog ( [!DNL default.ini]).
 
-If ` *`rootId`*` in the request's URL path matches `attribute::RootId` of a specific image catalog, that catalog will become the main catalog for this request. The main catalog provides the default attributes and settings for the entire request. If no match is found, the default catalog is used instead.
+If `*`rootId`*` in the request's URL path matches `attribute::RootId` of a specific image catalog, that catalog will become the main catalog for this request. The main catalog provides the default attributes and settings for the entire request. If no match is found, the default catalog is used instead.
 
 A catalog identified in a `src=` or `mask=` command provides the following catalog attributes and data to the current layer: 
 
@@ -97,7 +97,7 @@ Within the same layer, `src=` and `mask=` must reference the same image catalog 
 
 A catalog identified in an `icc=` command is used only to look up an entry from the catalog's ICC profile table. No other catalog attributes or data are involved.
 
-If, ` *`rootId`*` resolves to a catalog, and ` *`objId`*` is matched with a `catalog::Id` in this catalog, then ` *`rootId/objId`*` is effectively replaced by the catalog entry somewhat like this:
+If, `*`rootId`*` resolves to a catalog, and `*`objId`*` is matched with a `catalog::Id` in this catalog, then `*`rootId/objId`*` is effectively replaced by the catalog entry somewhat like this:
 
 `src=attribute::RootPath/catalog::Path& mask=attribute::RootPath/catalog::MaskPath& anchor=catalog::Anchor& catalog::Modifier& catalog::PostModifier`
 

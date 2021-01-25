@@ -4,7 +4,7 @@ seo-description: Text render direction. Specifies the angle at which text specif
 seo-title: textAngle
 solution: Experience Manager
 title: textAngle
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: ac54c186-1fc5-479a-89f2-ff2da5e7999a
 ---
 

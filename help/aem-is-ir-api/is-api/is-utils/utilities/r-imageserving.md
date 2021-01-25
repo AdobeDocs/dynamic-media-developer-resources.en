@@ -4,7 +4,7 @@ seo-description: Image Serving control script. This script is used to start, sto
 seo-title: ImageServing
 solution: Experience Manager
 title: ImageServing
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 2975b957-e06f-42c6-8c0a-0d2757a0025a
 ---
 

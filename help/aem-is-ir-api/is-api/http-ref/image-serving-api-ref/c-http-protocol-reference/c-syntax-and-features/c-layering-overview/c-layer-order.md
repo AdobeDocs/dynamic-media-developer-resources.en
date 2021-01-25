@@ -4,7 +4,7 @@ seo-description: The layer number also determines the z-order.
 seo-title: Layer order
 solution: Experience Manager
 title: Layer order
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 090f3873-8355-4b11-b05f-f34c74f02a5b
 ---
 

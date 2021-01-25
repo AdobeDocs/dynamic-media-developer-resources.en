@@ -4,7 +4,7 @@ seo-description: Array of image formats.
 seo-title: ImageFormatArray
 solution: Experience Manager
 title: ImageFormatArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 978cf9ce-8598-424c-af09-cef91d149944
 ---
 
@@ -18,5 +18,5 @@ Array of image formats.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:ImageFormat`  | Array of image formats.  |
+|  `*`items`*`  | `types:ImageFormat`  | Array of image formats.  |
 

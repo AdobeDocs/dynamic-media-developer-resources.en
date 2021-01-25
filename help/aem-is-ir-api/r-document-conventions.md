@@ -4,7 +4,7 @@ seo-description: This document uses the following conventions.
 seo-title: Document conventions
 solution: Experience Manager
 title: Document conventions
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 049c4d1b-b363-43bd-9597-168c97884ab7
 ---
 

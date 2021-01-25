@@ -4,7 +4,7 @@ seo-description: Resampling mode. Selects the resampling and/or interpolation al
 seo-title: resMode
 solution: Experience Manager
 title: resMode
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 106da74a-d7da-4998-a719-c4c69ae36f6b
 ---
 

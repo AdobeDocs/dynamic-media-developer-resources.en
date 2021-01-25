@@ -4,7 +4,7 @@ seo-description: Use these server settings for the Image catalog service.
 seo-title: Image catalog service
 solution: Experience Manager
 title: Image catalog service
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 601b1c30-7d51-448b-97b5-5ad9cb383975
 ---
 

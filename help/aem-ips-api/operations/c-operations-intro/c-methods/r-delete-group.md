@@ -4,7 +4,7 @@ seo-description: Deletes a group.
 seo-title: deleteGroup
 solution: Experience Manager
 title: deleteGroup
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 04934b16-b7ef-4657-9f63-c91fcc741ca4
 ---
 
@@ -26,8 +26,8 @@ Deletes a group.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that belongs to the group that you want to delete.  |
-|  ` *`groupHandle`*`  | `xsd:string`  | Yes  | The handle to the group that you want to delete.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that belongs to the group that you want to delete.  |
+|  `*`groupHandle`*`  | `xsd:string`  | Yes  | The handle to the group that you want to delete.  |
 
 **Output (deleteGroupParam)**
 

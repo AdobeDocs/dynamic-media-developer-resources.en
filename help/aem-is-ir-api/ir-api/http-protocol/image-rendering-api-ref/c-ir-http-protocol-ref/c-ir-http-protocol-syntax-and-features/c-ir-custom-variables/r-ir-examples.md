@@ -4,7 +4,7 @@ seo-description: This example uses Image Serving to colorize an object and apply
 seo-title: Examples
 solution: Experience Manager
 title: Examples
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 9f8e4346-6efe-4f21-982d-613328bd708d
 ---
 

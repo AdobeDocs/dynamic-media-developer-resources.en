@@ -4,7 +4,7 @@ seo-description: Image Rendering supports color space conversions based on color
 seo-title: Image Rendering color management *
 solution: Experience Manager
 title: Image Rendering color management *
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 9c47f584-645f-4eb7-bdc0-fdef459da3b2
 ---
 

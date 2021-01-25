@@ -2,7 +2,7 @@
 description: PermissionSetArray
 solution: Experience Manager
 title: PermissionSetArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: aec7f307-7d1d-4d56-a1e5-55f82983c8c8
 ---
 
@@ -14,5 +14,5 @@ uuid: aec7f307-7d1d-4d56-a1e5-55f82983c8c8
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:PermissionSet`  | Array of permission sets.  |
+|  `*`items`*`  | `types:PermissionSet`  | Array of permission sets.  |
 

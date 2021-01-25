@@ -2,7 +2,7 @@
 description: The RTF specification permits RGB color values specified with &bsol;colortbl. Each component is provided separately with the &bsol;red, &bsol;green, and &bsol;blue commands.
 solution: Experience Manager
 title: Color handling
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 6c51d204-27ca-4fbd-a297-bf1d04b63a3f
 ---
 

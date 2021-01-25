@@ -4,7 +4,7 @@ seo-description: Assets that belong to an image set.
 seo-title: ImageSetMember
 solution: Experience Manager
 title: ImageSetMember
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: bd013609-aed7-4c85-80f9-16be7fce99a3
 ---
 
@@ -18,6 +18,6 @@ Assets that belong to an image set.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`asset`*`  | `type:Asset`  | Assets in the image set array.  |
-|  ` *`pageReset`*`  | `xsd:boolean`  |Starts a new page. Setting is ignored and value is forced to `true` for `eCatalog` and `RenderSet` sets.  |
+|  `*`asset`*`  | `type:Asset`  | Assets in the image set array.  |
+|  `*`pageReset`*`  | `xsd:boolean`  |Starts a new page. Setting is ignored and value is forced to `true` for `eCatalog` and `RenderSet` sets.  |
 

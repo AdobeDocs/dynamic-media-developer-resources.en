@@ -4,7 +4,7 @@ seo-description: Source Object Specifier. Image, SVG, and ICC profile objects ma
 seo-title: object
 solution: Experience Manager
 title: object
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 8d25b47d-0f23-4d9a-a7e6-6e865ae4114e
 ---
 
@@ -12,7 +12,7 @@ uuid: 8d25b47d-0f23-4d9a-a7e6-6e865ae4114e
 
 Source Object Specifier. Image, SVG, and ICC profile objects may be specified as image catalog entries or relative file paths
 
- ` *`object`*[/]{[ *`rootId`*/] *`objId`*}| *`path`*`
+ `*`object`*[/]{[ *`rootId`*/] *`objId`*}| *`path`*`
 
 <table id="simpletable_A8B9B4D508B94BE5B7F6112F0A5F8270"> 
  <tr class="strow"> 
@@ -55,7 +55,7 @@ Refer to *Managing Content* in the *Server Configuration Guide* for details on h
 
 Refer to the description of the IC (Image Converter) utility for a complete list of supported file formats.
 
-Applications which require image data in multiple different resolutions will perform best when using the Scene7 pyramid TIFF (PTIF) multi-resolution format. The IC utility is used to create PTIF images from any supported image format.
+Applications which require image data in multiple different resolutions will perform best when using the Dynamic Media pyramid TIFF (PTIF) multi-resolution format. The IC utility is used to create PTIF images from any supported image format.
 
 ## Examples {#section-728ca9b566b54ea1afdf8f5f0a031a57}
 

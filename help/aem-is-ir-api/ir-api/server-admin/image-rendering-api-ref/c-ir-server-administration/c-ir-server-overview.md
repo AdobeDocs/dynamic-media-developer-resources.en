@@ -1,16 +1,16 @@
 ---
-description: This documentation explains how to administer the Scene7 Image Rendering server.
-seo-description: This documentation explains how to administer the Scene7 Image Rendering server.
+description: This documentation explains how to administer the Dynamic Media Image Rendering server.
+seo-description: This documentation explains how to administer the Dynamic Media Image Rendering server.
 seo-title: Server administration overview
 solution: Experience Manager
 title: Server administration overview
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 83aa83b7-bb7a-4bbd-923c-dd69763fe9c9
 ---
 
 # Server administration overview{#server-administration-overview}
 
-This documentation explains how to administer the Scene7 Image Rendering server.
+This documentation explains how to administer the Dynamic Media Image Rendering server.
 
 Image Rendering consists of two major components:
 

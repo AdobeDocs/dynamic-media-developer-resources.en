@@ -2,7 +2,7 @@
 description: AssetPublishContextArray
 solution: Experience Manager
 title: AssetPublishContextArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: b16ba13e-24e4-4dcb-b96c-3d3b1a8a5652
 ---
 
@@ -14,5 +14,5 @@ uuid: b16ba13e-24e4-4dcb-b96c-3d3b1a8a5652
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`AssetPublishContextArray`*`  | `types:AssetPublishContext`  | An array of asset publish contexts.  |
+|  `*`AssetPublishContextArray`*`  | `types:AssetPublishContext`  | An array of asset publish contexts.  |
 

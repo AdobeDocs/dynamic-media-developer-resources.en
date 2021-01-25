@@ -4,7 +4,7 @@ seo-description: You can use Image Serving to manage non-image content in catalo
 seo-title: Serving static (non-image) contents
 solution: Experience Manager
 title: Serving static (non-image) contents
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: bdb1383a-e02d-499f-be79-4a6dc501705c
 ---
 

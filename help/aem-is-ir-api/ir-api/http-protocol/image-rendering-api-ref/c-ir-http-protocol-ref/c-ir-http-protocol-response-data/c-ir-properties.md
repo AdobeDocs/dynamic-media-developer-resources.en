@@ -4,7 +4,7 @@ seo-description: Property data is returned in response to the following req= typ
 seo-title: Properties
 solution: Experience Manager
 title: Properties
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: b4e1de52-db0a-43dc-aefe-26e8f5020e79
 ---
 

@@ -4,7 +4,7 @@ seo-description: These commands apply to solid color layers, in addition to the 
 seo-title: Solid color layer commands
 solution: Experience Manager
 title: Solid color layer commands
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 51d82a95-d940-4c62-8ea8-b8805ba16fd3
 ---
 

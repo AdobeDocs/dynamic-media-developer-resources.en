@@ -2,7 +2,7 @@
 description: Expiration
 solution: Experience Manager
 title: Expiration
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: f51e45fc-fcea-4df6-8c47-e772a1b70a3a
 ---
 

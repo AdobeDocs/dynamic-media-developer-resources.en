@@ -4,7 +4,7 @@ seo-description: PDF file properties.
 seo-title: PdfInfo
 solution: Experience Manager
 title: PdfInfo
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 6143e7bd-f0d1-4388-a5ae-f8d40ad34175
 ---
 
@@ -18,7 +18,7 @@ PDF file properties.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`originalPath`*`  | `xsd:string`  | File path.  |
-|  ` *`originalFile`*`  | `xsd:int`  | File name.  |
-|  ` *`fileSize`*`  | `xsd:int`  | File size.  |
+|  `*`originalPath`*`  | `xsd:string`  | File path.  |
+|  `*`originalFile`*`  | `xsd:int`  | File name.  |
+|  `*`fileSize`*`  | `xsd:int`  | File size.  |
 

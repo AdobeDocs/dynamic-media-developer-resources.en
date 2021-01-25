@@ -4,7 +4,7 @@ seo-description: Image Serving provides a mechanism for fetching a hierarchial t
 seo-title: Media set requests
 solution: Experience Manager
 title: Media set requests
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: af9fabcd-531d-43fb-bd97-269923bea5e8
 ---
 

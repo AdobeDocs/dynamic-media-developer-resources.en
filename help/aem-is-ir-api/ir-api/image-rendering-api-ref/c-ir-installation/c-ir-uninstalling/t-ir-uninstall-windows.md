@@ -4,7 +4,7 @@ seo-description: Follow these instructions to uninstall Image Rendering on a Win
 seo-title: Uninstalling on Windows
 solution: Experience Manager
 title: Uninstalling on Windows
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 7b20bf37-4147-4169-ac5e-42e7b330ca51
 ---
 

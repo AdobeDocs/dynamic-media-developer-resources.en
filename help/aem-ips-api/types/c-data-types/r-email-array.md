@@ -4,7 +4,7 @@ seo-description: An array used to designate the originator or a list of up to 5 
 seo-title: EmailArray
 solution: Experience Manager
 title: EmailArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: fb5f14c6-d950-49e7-8a08-ac01ca90b2df
 ---
 
@@ -18,5 +18,5 @@ An array used to designate the originator or a list of up to 5 email addresses t
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `xsd:string`  | email addresses.  |
+|  `*`items`*`  | `xsd:string`  | email addresses.  |
 

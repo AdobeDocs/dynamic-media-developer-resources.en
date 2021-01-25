@@ -4,7 +4,7 @@ seo-description: An array of tag value updates.
 seo-title: TagValueUpdateArray
 solution: Experience Manager
 title: TagValueUpdateArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: a151f6b6-1551-4751-a0e7-0da597526eca
 ---
 
@@ -18,5 +18,5 @@ An array of tag value updates.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:TagValueUpdate`  | An array of tag value updates.  |
+|  `*`items`*`  | `types:TagValueUpdate`  | An array of tag value updates.  |
 

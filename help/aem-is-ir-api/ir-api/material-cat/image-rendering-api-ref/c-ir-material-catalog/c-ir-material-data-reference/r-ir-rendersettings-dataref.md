@@ -1,11 +1,8 @@
 ---
 description: Advanced render settings. Advanced render settings are used to control low-level aspects of the render engine, such as the material sharpening type and parameters or certain parameters of the illumination algorithms.
-seo-description: Advanced render settings. Advanced render settings are used to control low-level aspects of the render engine, such as the material sharpening type and parameters or certain parameters of the illumination algorithms.
-seo-title: RenderSettings
 solution: Experience Manager
 title: RenderSettings
-topic: Scene7 Image Serving - Image Rendering API
-uuid: 19823ca5-51a1-4885-b578-d7c9852acab6
+topic: Dynamic Media Image Serving - Image Rendering API
 ---
 
 # RenderSettings{#rendersettings}
@@ -14,7 +11,7 @@ Advanced render settings. Advanced render settings are used to control low-level
 
 ## Properties {#section-b4c8fe595efc4838ac598659bc820607}
 
-Text string. Optional for all materials. If specified, it must be a valid render settings string, as defined with the Vignette Authoring Tool (part of the Scene7 Image Authoring package).
+Text string. Optional for all materials. If specified, it must be a valid render settings string, as defined with the Vignette Authoring Tool (part of the Dynamic Media Image Authoring package).
 
 ## Default {#section-6a4d2013c1d34284b4ff21bb07485d28}
 

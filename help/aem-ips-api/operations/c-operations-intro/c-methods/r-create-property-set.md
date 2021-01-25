@@ -4,7 +4,7 @@ seo-description: Property sets are application-specific sets of name-value pairs
 seo-title: createPropertySet
 solution: Experience Manager
 title: createPropertySet
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: f0b5b951-143f-4a31-bb6b-cdeabdebbcbb
 ---
 
@@ -27,17 +27,17 @@ Property sets are application-specific sets of name-value pairs that can be atta
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`typeHandle`*`  | `xsd:string`  | Yes  | The handle to the property set type.  |
-|  ` *`primaryOwnerHandle`*`  | `xsd:string`  | Yes  | The handle to the primary owner of the property set.  |
-|  ` *`secondaryOwnerHandle`*`  | `xsd:string`  | No  | The handle to the secondary owner of the property set.  |
-|  ` *`propertyArray`*`  | `types:PropertyArray`  | Yes  | The array of properties.  |
-|  ` *`permissionArray`*`  | `types:PermissionUpdateArray`  |  |  |
+|  `*`typeHandle`*`  | `xsd:string`  | Yes  | The handle to the property set type.  |
+|  `*`primaryOwnerHandle`*`  | `xsd:string`  | Yes  | The handle to the primary owner of the property set.  |
+|  `*`secondaryOwnerHandle`*`  | `xsd:string`  | No  | The handle to the secondary owner of the property set.  |
+|  `*`propertyArray`*`  | `types:PropertyArray`  | Yes  | The array of properties.  |
+|  `*`permissionArray`*`  | `types:PermissionUpdateArray`  |  |  |
 
 **Output (createPropertySetParam)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`setHandle`*`  | `xsd:string`  | Yes  | The handle to the new property set.  |
+|  `*`setHandle`*`  | `xsd:string`  | Yes  | The handle to the new property set.  |
 
 ## Examples {#section-4e1f5b2883664bc88f590fcd253df22b}
 

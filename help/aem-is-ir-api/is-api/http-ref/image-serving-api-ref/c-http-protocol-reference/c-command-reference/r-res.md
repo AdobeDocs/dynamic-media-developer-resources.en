@@ -4,7 +4,7 @@ seo-description: Resolution-based image scaling. Scales the image to the request
 seo-title: res
 solution: Experience Manager
 title: res
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: ab0c8329-5d40-4233-a122-8cb8ca01b500
 ---
 

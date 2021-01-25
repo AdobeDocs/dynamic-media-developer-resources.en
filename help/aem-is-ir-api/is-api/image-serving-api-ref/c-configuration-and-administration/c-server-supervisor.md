@@ -1,16 +1,16 @@
 ---
-description: Image Serving components are managed by the Server Supervisor, which is a Linux daemon or Windows Service (S7Supervisor.exe, listed as 'Scene7 Image Serving' in the Services Control Panel).
-seo-description: Image Serving components are managed by the Server Supervisor, which is a Linux daemon or Windows Service (S7Supervisor.exe, listed as 'Scene7 Image Serving' in the Services Control Panel).
+description: Image Serving components are managed by the Server Supervisor, which is a Linux daemon or Windows Service (S7Supervisor.exe, listed as 'Dynamic Media Image Serving' in the Services Control Panel).
+seo-description: Image Serving components are managed by the Server Supervisor, which is a Linux daemon or Windows Service (S7Supervisor.exe, listed as 'Dynamic Media Image Serving' in the Services Control Panel).
 seo-title: Server supervisor
 solution: Experience Manager
 title: Server supervisor
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 6ac38d90-00ed-4d49-84f0-2e77e7a86d47
 ---
 
 # Server supervisor{#server-supervisor}
 
-Image Serving components are managed by the Server Supervisor, which is a Linux daemon or Windows Service (S7Supervisor.exe, listed as 'Scene7 Image Serving' in the Services Control Panel).
+Image Serving components are managed by the Server Supervisor, which is a Linux daemon or Windows Service (S7Supervisor.exe, listed as 'Dynamic Media Image Serving' in the Services Control Panel).
 
 In addition to starting and stopping other Image Serving components, the Server Supervisor is responsible for ensuring the health of these other components. Should a component crash, it is automatically restarted to minimize any service interruptions.
 

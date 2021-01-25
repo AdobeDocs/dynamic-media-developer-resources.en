@@ -4,7 +4,7 @@ seo-description: All Render Server Settings are located in install_root/ImageSer
 seo-title: Configuration settings reference
 solution: Experience Manager
 title: Configuration settings reference
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: fd9629d6-901d-4015-a49e-d3a36e18a7a3
 ---
 

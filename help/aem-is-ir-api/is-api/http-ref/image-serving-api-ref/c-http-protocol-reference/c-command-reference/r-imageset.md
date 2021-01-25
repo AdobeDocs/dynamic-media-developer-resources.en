@@ -4,7 +4,7 @@ seo-description: Image Set. Specifies an image set value for use when generating
 seo-title: imageSet
 solution: Experience Manager
 title: imageSet
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: ecfb3905-e3ef-4ab8-a2c4-2c3f200e0f0f
 ---
 

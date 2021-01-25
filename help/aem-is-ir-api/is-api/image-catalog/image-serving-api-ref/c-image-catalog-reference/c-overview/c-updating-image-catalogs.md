@@ -4,7 +4,7 @@ seo-description: The server continuously monitors the catalog folder and automat
 seo-title: Updating image catalogs
 solution: Experience Manager
 title: Updating image catalogs
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 7e2557c4-1155-429b-a630-a2aff6725a3b
 ---
 

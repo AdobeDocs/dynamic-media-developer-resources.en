@@ -4,7 +4,7 @@ seo-description: Decal materials include apparel constructs such as appliqués, 
 seo-title: Decals
 solution: Experience Manager
 title: Decals
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 6e64f382-f15f-4018-b00c-4fd21a4ebc8c
 ---
 

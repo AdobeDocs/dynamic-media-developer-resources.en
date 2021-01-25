@@ -4,7 +4,7 @@ seo-description: Determines if an asset is ready to be published.
 seo-title: setAssetPublishState
 solution: Experience Manager
 title: setAssetPublishState
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: b7d49d77-573c-4e2a-81d3-196c09d62853
 ---
 

@@ -4,7 +4,7 @@ seo-description: Cache control. Allows selectively disabling client-side caching
 seo-title: cache
 solution: Experience Manager
 title: cache
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 8af89b67-39d5-43e5-a58d-2cd509a1e373
 ---
 

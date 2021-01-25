@@ -1,22 +1,22 @@
 ---
-description: This document describes the material catalog for Scene7 Image Rendering.
-seo-description: This document describes the material catalog for Scene7 Image Rendering.
+description: This document describes the material catalog for Dynamic Media Image Rendering.
+seo-description: This document describes the material catalog for Dynamic Media Image Rendering.
 seo-title: Introduction
 solution: Experience Manager
 title: Introduction
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 38da0561-7730-4170-bf29-02de325b3ad9
 ---
 
 # Introduction{#introduction}
 
-This document describes the material catalog for Scene7 Image Rendering.
+This document describes the material catalog for Dynamic Media Image Rendering.
 
  **Intended audience**
 
-This documented is intended for experienced programmers and website developers who want to leverage Scene7 Image Rendering for a website or a custom application.
+This documented is intended for experienced programmers and website developers who want to leverage Dynamic Media Image Rendering for a website or a custom application.
 
-It is assumed that the reader is familiar with Scene7 Image Authoring and Image Rendering, general HTTP protocol standards and conventions, and basic imaging terminology.
+It is assumed that the reader is familiar with Dynamic Media Image Authoring and Image Rendering, general HTTP protocol standards and conventions, and basic imaging terminology.
 
 **Document conventions**
 

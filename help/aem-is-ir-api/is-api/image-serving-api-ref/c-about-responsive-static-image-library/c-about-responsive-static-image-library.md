@@ -1,20 +1,17 @@
 ---
-description: Responsive Image Library is a JavaScript module that dynamically adjusts the quality of images served from Scene7 and embedded into responsive web pages. In addition, it provides improved image quality on devices with high-density screens. The library can also responsively render results from Smart Crop and Smart Swatch.
-seo-description: Responsive Image Library is a JavaScript module that dynamically adjusts the quality of images served from Scene7 and embedded into responsive web pages. In addition, it provides improved image quality on devices with high-density screens. The library can also responsively render results from Smart Crop and Smart Swatch.
-seo-title: About Responsive Image library
+description: Responsive Image Library is a JavaScript module that dynamically adjusts the quality of images served from Dynamic Media and embedded into responsive web pages. In addition, it provides improved image quality on devices with high-density screens. The library can also responsively render results from Smart Crop and Smart Swatch.
 solution: Experience Manager
 title: About Responsive Image library
-topic: Scene7 Image Serving - Image Rendering API
-uuid: 0906a940-59ff-45b0-b509-57bd02f2da57
+topic: Dynamic Media Image Serving - Image Rendering API
 ---
 
 # About Responsive Image library{#about-responsive-image-library}
 
-Responsive Image Library is a JavaScript module that dynamically adjusts the quality of images served from Scene7 and embedded into responsive web pages. In addition, it provides improved image quality on devices with high-density screens. The library can also responsively render results from Smart Crop and Smart Swatch.
+Responsive Image Library is a JavaScript module that dynamically adjusts the quality of images served from Dynamic Media and embedded into responsive web pages. In addition, it provides improved image quality on devices with high-density screens. The library can also responsively render results from Smart Crop and Smart Swatch.
 
 ## Demo URLs {#section-4f72c1dc38bf4e03acfa5205733a05a5}
 
-The simplest use case of the Responsive Image Library is to define a list of breakpoint values for image width. This list ensures that the appropriate rendition is loaded and displayed when an image is resized because of web page layout changes from a user resizing the browser window or changing the orientation of the device. The library continuously monitors onscreen image size and every time a new breakpoint width is reached it fetches a new image rendition from Scene7.
+The simplest use case of the Responsive Image Library is to define a list of breakpoint values for image width. This list ensures that the appropriate rendition is loaded and displayed when an image is resized because of web page layout changes from a user resizing the browser window or changing the orientation of the device. The library continuously monitors onscreen image size and every time a new breakpoint width is reached it fetches a new image rendition from Dynamic Media.
 
 <table id="table_3D3D3991B802461A888E1093C1217D26"> 
  <thead> 
@@ -35,7 +32,7 @@ The simplest use case of the Responsive Image Library is to define a list of bre
    <td colname="col01"> <p>2 </p> </td> 
    <td colname="col1"> <p> <a href="https://marketing.adobe.com/resources/help/en_US/s7/is_ir_api/is_api/samples/responsive-static-image-bootstrap.html" format="https" scope="external"> https://marketing.adobe.com/resources/help/en_US/s7/is_ir_api/is_api/samples/responsive-static-image-bootstrap.html </a> </p> <p> 
      <!-- http://sasha.s7qa.com/jira-bugs/S7-7729/responsive-static-image-bootstrap.htm--> </p> </td> 
-   <td colname="col2"> <p>The following Bootstrap example illustrates the same use case in a web page. According to Bootstrap CSS, the layout cell to which the responsive image is added can take one of the following widths: 360, 720 and 940 pixels. These are the exact values that are passed as breakpoints to the Responsive Image Library. As such, Scene7 ensures that the client's network bandwidth is used effectively. And, it also ensures that the image is displayed in the exact size needed-given the current web page layout-without any visual artifacts from scaling the client-side browser. </p> <p>Click the URL to open the web page, resize the browser window to hit different layout breakpoints, and monitor network traffic. </p> <p>More advanced use cases include associating different Image Presets, or Image Serving commands, or both, with different breakpoint values. </p> </td> 
+   <td colname="col2"> <p>The following Bootstrap example illustrates the same use case in a web page. According to Bootstrap CSS, the layout cell to which the responsive image is added can take one of the following widths: 360, 720 and 940 pixels. These are the exact values that are passed as breakpoints to the Responsive Image Library. As such, Dynamic Media ensures that the client's network bandwidth is used effectively. And, it also ensures that the image is displayed in the exact size needed-given the current web page layout-without any visual artifacts from scaling the client-side browser. </p> <p>Click the URL to open the web page, resize the browser window to hit different layout breakpoints, and monitor network traffic. </p> <p>More advanced use cases include associating different Image Presets, or Image Serving commands, or both, with different breakpoint values. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col01"> <p>3 </p> </td> 
@@ -62,7 +59,7 @@ The simplest use case of the Responsive Image Library is to define a list of bre
 
 **Server hardware and software**
 
-* Scene7 Image Serving 6.0.1 or later.
+* Dynamic Media Image Serving 6.0.1 or later.
 
 **Client browser minimum requirements**
 

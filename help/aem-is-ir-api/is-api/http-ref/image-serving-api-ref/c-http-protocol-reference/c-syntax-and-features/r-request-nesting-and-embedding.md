@@ -4,7 +4,7 @@ seo-description: Image Serving supports unlimited nesting of Image Serving reque
 seo-title: Request nesting and embedding
 solution: Experience Manager
 title: Request nesting and embedding
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 59031329-e65f-4631-bc7d-83f2540cc836
 ---
 
@@ -50,7 +50,7 @@ The image result of a nested IS request can be cached optionally by including `c
 
 ## Embedded Image Render requests {#section-69c5548db930412b9b90d9b2951a6969}
 
-When Scene7 Image Rendering is enabled on the server, render requests can be used as layer sources by specifying them in src= (or mask=) command. Use the following syntax:
+When Dynamic Media Image Rendering is enabled on the server, render requests can be used as layer sources by specifying them in src= (or mask=) command. Use the following syntax:
 
 ` …&src=ir( *[!DNL renderRequest]*)&…`
 
@@ -85,7 +85,7 @@ The `fxg` token is case-sensitive.
 
 >[!NOTE]
 >
->FXG graphics rendering is available only in the Scene7 hosted environment and may require additional licensing. Contact Scene7 Support for more information.
+>FXG graphics rendering is available only in the Dynamic Media hosted environment and may require additional licensing. Contact Dynamic Media technical support for more information.
 
 *[!DNL renderRequest]* is the usual FXG render request, excluding the HTTP root path ` http:// *[!DNL server]*/agm/render/`.
 
@@ -145,9 +145,9 @@ With slight modifications, we can pre-scale the layer 0 image and cache it persi
 
 `layer=0&src=is(?src=$img$&size=300,300&cache=on)&layer=1&text=$txt$`
 
-**Embedding requests for Scene7 Image Rendering**
+**Embedding requests for Dynamic Media Image Rendering**
 
-Using a template stored in [!DNL myCatalog/myTemplate]; generate the image for layer2 of the template using Scene7 Image Rendering:
+Using a template stored in [!DNL myCatalog/myTemplate]; generate the image for layer2 of the template using Dynamic Media Image Rendering:
 
 `http://server/is/image/myCatalog/myTemplate?layer=2&src=ir(myRenderCatalog/myRenderObject?id=myIdValue&sel=group&src=is(myCatalog/myTexture1?res=30)&res=30)&wid=300`
 

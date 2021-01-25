@@ -1,11 +1,8 @@
 ---
 description: Describes new and changed data types for the IPS API version 4.4.
-seo-description: Describes new and changed data types for the IPS API version 4.4.
-seo-title: Data Types  New and Modified
 solution: Experience Manager
 title: Data Types  New and Modified
-topic: Scene7 Image Production System API
-uuid: 6f5100ad-5b8e-434c-b2dd-f2e01f304b2f
+topic: Dynamic Media Image Production System API
 ---
 
 # Data Types: New and Modified{#data-types-new-and-modified}

@@ -4,7 +4,7 @@ seo-description: Font map file path. Specifies the file which contains the font 
 seo-title: FontMapFile
 solution: Experience Manager
 title: FontMapFile
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 84774ae3-c038-444b-ba00-d8528e6d0de8
 ---
 

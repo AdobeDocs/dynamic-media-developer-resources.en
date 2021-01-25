@@ -4,7 +4,7 @@ seo-description: Digimarc image info. Enables Digimarc embedding and specifies t
 seo-title: DigimarcInfo
 solution: Experience Manager
 title: DigimarcInfo
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 8371880e-47df-4333-b8a6-91feaf16c409
 ---
 
@@ -16,9 +16,9 @@ Digimarc image info. Enables Digimarc embedding and specifies the type of waterm
 
 Four integer values, separated by commas.
 
-` *`type`*, *`flags`*, *`val1`*, *`val2`*`
+`*`type`*, *`flags`*, *`val1`*, *`val2`*`
 
-` *`type`*` enables Digimarc embedding and specifies the watermark type: 
+`*`type`*` enables Digimarc embedding and specifies the watermark type: 
 
 <table id="table_3648951F14D94C5BAD097CFB783F1EE7"> 
  <thead> 
@@ -51,7 +51,7 @@ Four integer values, separated by commas.
  </tbody> 
 </table>
 
-` *`flags`*` is a bit field with three values. Set bit 0 to indicate copy-protected content, bit 1 to indicate restricted content, and bit 2 to indicate adult content: 
+`*`flags`*` is a bit field with three values. Set bit 0 to indicate copy-protected content, bit 1 to indicate restricted content, and bit 2 to indicate adult content: 
 
 <table id="table_00F218515FBE484F9D05CBAF14F9D045"> 
  <thead> 
@@ -96,7 +96,7 @@ Four integer values, separated by commas.
  </tbody> 
 </table>
 
-The interpretation of ` *`val1`*` and ` *`val2`*` depend on ` *`type`*`: 
+The interpretation of `*`val1`*` and `*`val2`*` depend on `*`type`*`: 
 
 <table id="table_6B29F76BC1974C12AB7124BF84B29EC2"> 
  <thead> 

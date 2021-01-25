@@ -4,7 +4,7 @@ seo-description: Dilate/erode image. Applies a morphological dilate (radius > 0)
 seo-title: op_grow
 solution: Experience Manager
 title: op_grow
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: bc9bf889-f7e1-4a65-b6d6-7e1257ef8c11
 ---
 
@@ -21,7 +21,7 @@ Dilate/erode image. Applies a morphological dilate (radius > 0) or erode (radius
  </tr> 
 </table>
 
-` *`radius`*` is in pixels relative to the composite image. If the image is color, each component is processed independently.
+`*`radius`*` is in pixels relative to the composite image. If the image is color, each component is processed independently.
 
 Primarily used to modify the size of layer effects. Also useful to achieve special effects on text layers or solid color layers with masks.
 

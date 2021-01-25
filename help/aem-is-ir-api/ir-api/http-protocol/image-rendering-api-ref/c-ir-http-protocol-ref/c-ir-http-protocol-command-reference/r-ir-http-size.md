@@ -4,7 +4,7 @@ seo-description: Decal size. Specifies the size of a decal material.
 seo-title: size
 solution: Experience Manager
 title: size
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: b82f3429-3d84-4707-8126-d390239df9a2
 ---
 

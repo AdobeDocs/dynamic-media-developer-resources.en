@@ -4,7 +4,7 @@ seo-description: Describes values used by various input parameters. See the list
 seo-title: Email Settings
 solution: Experience Manager
 title: Email Settings
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 2dcffedf-fd26-4878-9c44-fe14a7388ef2
 ---
 

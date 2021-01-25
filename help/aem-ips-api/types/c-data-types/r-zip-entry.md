@@ -4,7 +4,7 @@ seo-description: An entry in a ZIP file.
 seo-title: ZipEntry
 solution: Experience Manager
 title: ZipEntry
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 05aac11b-249c-4c44-943d-fa6bf35d3637
 ---
 
@@ -18,9 +18,9 @@ An entry in a ZIP file.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`name`*`  | `xsd:string`  | Entry name.  |
-|  ` *`isDirectory`*`  | `xsd:boolean`  | Determines if the entry is a directory.  |
-|  ` *`lastModified`*`  | `xsd:dateTime`  | Date and time of last modification.  |
-|  ` *`compressedSize`*`  | `xsd:long`  | Compressed size.  |
-|  ` *`uncompressedSize`*`  | `xsd:long`  | Uncompressed size.  |
+|  `*`name`*`  | `xsd:string`  | Entry name.  |
+|  `*`isDirectory`*`  | `xsd:boolean`  | Determines if the entry is a directory.  |
+|  `*`lastModified`*`  | `xsd:dateTime`  | Date and time of last modification.  |
+|  `*`compressedSize`*`  | `xsd:long`  | Compressed size.  |
+|  `*`uncompressedSize`*`  | `xsd:long`  | Uncompressed size.  |
 

@@ -4,7 +4,7 @@ seo-description: Submits a job to the system.
 seo-title: submitJob
 solution: Experience Manager
 title: submitJob
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: d3a83b59-bcd7-4ae9-b1ee-e515fc3c9261
 ---
 
@@ -153,7 +153,7 @@ Submits a job to the system.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`jobHandle`*`  | `xsd:string`  | Yes  | Job handle.  |
+|  `*`jobHandle`*`  | `xsd:string`  | Yes  | Job handle.  |
 
 ## Examples {#section-40ac77d14adf4588ba2575be6879b2d2}
 

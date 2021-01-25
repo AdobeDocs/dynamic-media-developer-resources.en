@@ -4,7 +4,7 @@ seo-description: Determines which generation engine and generated asset type to 
 seo-title: ExcludeByproductCondition
 solution: Experience Manager
 title: ExcludeByproductCondition
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 70581512-7b26-4319-b12b-27fbb205d871
 ---
 
@@ -18,6 +18,6 @@ Determines which generation engine and generated asset type to exclude from sear
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`engine`*`  | `xsd:string`  | The generation engine that created assets you want to exclude. See Generation Info for values.  |
-|  ` *`generatedAssetType`*`  | `xsd:string`  | Excluded asset type. See Asset Types for values.  |
+|  `*`engine`*`  | `xsd:string`  | The generation engine that created assets you want to exclude. See Generation Info for values.  |
+|  `*`generatedAssetType`*`  | `xsd:string`  | Excluded asset type. See Asset Types for values.  |
 

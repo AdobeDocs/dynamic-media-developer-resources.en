@@ -4,7 +4,7 @@ seo-description: Deletes an image format. Get the image format handle from saveI
 seo-title: deleteImageFormat
 solution: Experience Manager
 title: deleteImageFormat
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 70dddde9-830b-4267-8ef5-df5241f549e3
 ---
 
@@ -27,8 +27,8 @@ Deletes an image format. Get the image format handle from saveImageFormat.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that contains the image format that you want to delete.  |
-|  ` *`imageFormatHandle`*`  | `xsd:string`  | Yes  | The handle to the image format you want to delete.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that contains the image format that you want to delete.  |
+|  `*`imageFormatHandle`*`  | `xsd:string`  | Yes  | The handle to the image format you want to delete.  |
 
 **Output (deleteImageFormatParam)**
 

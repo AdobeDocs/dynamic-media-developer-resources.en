@@ -4,7 +4,7 @@ seo-description: An array of metadata faults.
 seo-title: SetMetadataFaultArray
 solution: Experience Manager
 title: SetMetadataFaultArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 9a56312d-51a3-476c-b0a7-b5117f47b52c
 ---
 
@@ -18,5 +18,5 @@ An array of metadata faults.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:SetMetadataFault`  | An array of metadata faults.  |
+|  `*`items`*`  | `types:SetMetadataFault`  | An array of metadata faults.  |
 

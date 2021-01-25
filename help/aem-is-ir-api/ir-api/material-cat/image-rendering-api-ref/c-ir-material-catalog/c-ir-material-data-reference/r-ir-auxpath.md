@@ -4,7 +4,7 @@ seo-description: Data file path. Relative path and name for non-image data files
 seo-title: AuxPath
 solution: Experience Manager
 title: AuxPath
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 95d28f8d-27ec-480a-a62a-7e5e8fbfb3fb
 ---
 

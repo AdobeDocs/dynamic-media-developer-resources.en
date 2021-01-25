@@ -4,7 +4,7 @@ seo-description: Substitution variable are used to transfer values from the requ
 seo-title: Substitution Variables
 solution: Experience Manager
 title: Substitution Variables
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 87cd9594-ba3b-429d-aa57-399902ef3abe
 ---
 
@@ -27,6 +27,6 @@ Substitution variable are used to transfer values from the request URL to FXG te
 
 * Variable definitions and references may occur in the query portion of the request URL. 
 * Variables are defined as above, similar to other IS commands; the leading '$' identifies the command as a variable definition. 
-* The variable name ` *`var`*` is case-sensitive and may consist of any combination of letters, numbers, '-', and '_'. 
+* The variable name `*`var`*` is case-sensitive and may consist of any combination of letters, numbers, '-', and '_'. 
 * Important value must be single-pass URL-encoded for safe HTTP transmission.
 

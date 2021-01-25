@@ -4,7 +4,7 @@ seo-description: Italics flag.
 seo-title: Italic
 solution: Experience Manager
 title: Italic
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 4a484a3f-18b9-4fa7-bcbb-2dee947e9c2a
 ---
 

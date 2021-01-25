@@ -4,7 +4,7 @@ seo-description: Catalog attributes and fields may contain data of one of the fo
 seo-title: Common data types
 solution: Experience Manager
 title: Common data types
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: b36cf09d-dee2-4e8b-9500-e8fa4c5c112f
 ---
 

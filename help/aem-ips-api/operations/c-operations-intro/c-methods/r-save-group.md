@@ -4,7 +4,7 @@ seo-description: Create or edit a group.
 seo-title: saveGroup
 solution: Experience Manager
 title: saveGroup
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: d1631a55-7f1d-48b4-8b35-fd5a05277219
 ---
 
@@ -26,16 +26,16 @@ Create or edit a group.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company with the group you want to save.  |
-|  ` *`groupHandle`*`  | `xsd:string`  | No  | The handle to the group.  |
-|  ` *`name`*`  | `xsd:string`  | Yes  | Group name.  |
-|  ` *`isSystemDefined`*`  | `xsd:boolean`  | Yes  | `false` is default.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company with the group you want to save.  |
+|  `*`groupHandle`*`  | `xsd:string`  | No  | The handle to the group.  |
+|  `*`name`*`  | `xsd:string`  | Yes  | Group name.  |
+|  `*`isSystemDefined`*`  | `xsd:boolean`  | Yes  | `false` is default.  |
 
 **Output (saveGroupReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`groupHandle`*`  | `xsd:string`  | Yes  | Group handle.  |
+|  `*`groupHandle`*`  | `xsd:string`  | Yes  | Group handle.  |
 
 ## Examples {#section-26eee227ff1f4edabb7fa1240b4d9999}
 

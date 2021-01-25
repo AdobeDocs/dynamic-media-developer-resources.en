@@ -4,7 +4,7 @@ seo-description: Represents a company.
 seo-title: Company
 solution: Experience Manager
 title: Company
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 8160af47-d639-4ef2-9d26-952de006ca9e
 ---
 
@@ -18,8 +18,8 @@ Represents a company.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Company handle.  |
-|  ` *`name`*`  | `xsd:string`  | Company name.  |
-|  ` *`rootPath`*`  | `xsd:string`  | Root path of the company.  |
-|  ` *`expires`*`  | `xsd:dateTime`  | Date and time the company expires.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Company handle.  |
+|  `*`name`*`  | `xsd:string`  | Company name.  |
+|  `*`rootPath`*`  | `xsd:string`  | Root path of the company.  |
+|  `*`expires`*`  | `xsd:dateTime`  | Date and time the company expires.  |
 

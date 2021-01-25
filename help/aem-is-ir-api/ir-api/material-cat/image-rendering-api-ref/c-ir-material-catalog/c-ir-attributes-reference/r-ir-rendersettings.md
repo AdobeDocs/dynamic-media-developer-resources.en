@@ -4,7 +4,7 @@ seo-description: Default advanced render settings. Default for catalog RenderSet
 seo-title: RenderSettings
 solution: Experience Manager
 title: RenderSettings
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: ad8884e7-4a4c-489f-881d-1d55eedef034
 ---
 
@@ -14,7 +14,7 @@ Default advanced render settings. Default for catalog::RenderSettings.
 
 ## Properties {#section-fa89db09aeeb420292cf783f07b8547a}
 
-Text string. If specified, it must be a valid render settings string, as defined with the Vignette Authoring Tool (part of the Scene7 Image Authoring package).
+Text string. If specified, it must be a valid render settings string, as defined with the Vignette Authoring Tool (part of the Dynamic Media Image Authoring package).
 
 ## Default {#section-4e76784aeecd4f09a33124aded7406cb}
 

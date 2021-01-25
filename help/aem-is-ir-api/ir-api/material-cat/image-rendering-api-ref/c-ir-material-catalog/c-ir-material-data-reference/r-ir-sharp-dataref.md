@@ -4,7 +4,7 @@ seo-description: Sharpening. Sharpening attribute, determines when the material 
 seo-title: Sharp
 solution: Experience Manager
 title: Sharp
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: f153f496-f2c5-43d0-a7f0-00045fd96af8
 ---
 

@@ -4,7 +4,7 @@ seo-description: Layers are positioned by aligning the layer origin (origin=) wi
 seo-title: Layer placement
 solution: Experience Manager
 title: Layer placement
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: d9d778f2-13dd-4ea1-a703-52eac70bb3d8
 ---
 

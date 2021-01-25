@@ -4,7 +4,7 @@ seo-description: The following fields are recognized in font map files.
 seo-title: Font maps
 solution: Experience Manager
 title: Font maps
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 836131e6-d899-4e36-a837-df46bf27a6b2
 ---
 

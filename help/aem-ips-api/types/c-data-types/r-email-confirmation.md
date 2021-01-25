@@ -1,11 +1,8 @@
 ---
 description: Sends an email to a designated recipient in response to a cdnCacheInvalidation operation.
-seo-description: Sends an email to a designated recipient in response to a cdnCacheInvalidation operation.
-seo-title: EmailConfirmation
 solution: Experience Manager
 title: EmailConfirmation
-topic: Scene7 Image Production System API
-uuid: c3b7aada-a03a-418d-80b2-31a86a1af786
+topic: Dynamic Media Image Production System API
 ---
 
 # EmailConfirmation{#emailconfirmation}
@@ -18,6 +15,6 @@ Sends an email to a designated recipient in response to a cdnCacheInvalidation o
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`ccOriginator`*`  | `xsd:boolean`  | If true, includes the user's web service user account, which is a list of emails designated to receive an email confirmation from the Scene7 CDN.  |
-|  ` *`ccOthersArray`*`  | `types:EmailArray`  | An array of email addresses (5 maximum) designated to receive the confirmation notification from the Scene7 CDN.  |
+|  `*`ccOriginator`*`  | `xsd:boolean`  | If true, includes the user's web service user account, which is a list of emails designated to receive an email confirmation from the Dynamic Media CDN.  |
+|  `*`ccOthersArray`*`  | `types:EmailArray`  | An array of email addresses (5 maximum) designated to receive the confirmation notification from the Dynamic Media CDN.  |
 

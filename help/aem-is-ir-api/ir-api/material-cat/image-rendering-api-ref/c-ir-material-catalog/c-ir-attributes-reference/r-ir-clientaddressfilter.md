@@ -4,7 +4,7 @@ seo-description: Client IP address filter. Allows specification of one or more I
 seo-title: ClientAddressFilter
 solution: Experience Manager
 title: ClientAddressFilter
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: b68f527b-7fa7-43e3-9517-57a6c3700b06
 ---
 

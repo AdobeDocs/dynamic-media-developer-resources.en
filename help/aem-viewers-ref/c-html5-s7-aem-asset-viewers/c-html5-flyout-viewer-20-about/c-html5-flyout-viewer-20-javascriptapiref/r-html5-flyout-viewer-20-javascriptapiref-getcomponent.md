@@ -18,7 +18,7 @@ Returns a reference to the Viewer SDK component that is used by the viewer. The 
 
 ## Parameters {#section-4fb77a645fdd45b3aaa5079c31e3bb05}
 
-` *`componentID`*` - `{String}` an ID of the Viewer SDK component used by the viewer. This viewer supports the following component IDs:
+`*`componentID`*` - `{String}` an ID of the Viewer SDK component used by the viewer. This viewer supports the following component IDs:
 
 <table id="table_7B5DD9303EF44ADD847B13FFEAD135D9"> 
  <thead> 

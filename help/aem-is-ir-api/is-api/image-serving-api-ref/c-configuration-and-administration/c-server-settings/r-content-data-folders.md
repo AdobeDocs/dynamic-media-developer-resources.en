@@ -4,7 +4,7 @@ seo-description: Use these server settings for content data folders.
 seo-title: Content data folders
 solution: Experience Manager
 title: Content data folders
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 7c4d60ca-8a8b-453c-887d-a6a16eacc883
 ---
 

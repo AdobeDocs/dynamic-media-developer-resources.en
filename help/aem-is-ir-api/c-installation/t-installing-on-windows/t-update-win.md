@@ -1,16 +1,16 @@
 ---
-description: Use this procedure when upgrading Scene7 Image Serving.
-seo-description: Use this procedure when upgrading Scene7 Image Serving.
+description: Use this procedure when upgrading Dynamic Media Image Serving.
+seo-description: Use this procedure when upgrading Dynamic Media Image Serving.
 seo-title: Updating from IS 4.7.4 or later
 solution: Experience Manager
 title: Updating from IS 4.7.4 or later
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 3d23f13a-a9be-45ff-9765-c71bdeb77c5f
 ---
 
 # Updating from IS 4.7.4 or later{#updating-from-is-or-later}
 
-Use this procedure when upgrading Scene7 Image Serving.
+Use this procedure when upgrading Dynamic Media Image Serving.
 
  If you are upgrading from an older version of Image Serving, please contact support for the correct process.
 

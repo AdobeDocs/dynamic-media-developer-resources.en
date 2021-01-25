@@ -4,7 +4,7 @@ seo-description: Job log information.
 seo-title: JobLogDetail
 solution: Experience Manager
 title: JobLogDetail
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: cb1879d7-a554-4ff0-bba0-0758c43f2a99
 ---
 
@@ -18,10 +18,10 @@ Job log information.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`logMessage`*`  | `xsd:string`  | Messages in the job log.  |
-|  ` *`logType`*`  | `xsd:string`  | Job log file type.  |
-|  ` *`assetName`*`  | `xsd:string`  | Name of asset in the job log (optional).  |
-|  ` *`assetType`*`  | `xsd:string`  | Choice of asset type.  |
-|  ` *`assetHandle`*`  | `xsd:string`  | Asset handle referenced in the job log.  |
-|  ` *`auxArray`*`  | `types:JobLogDetailAuxArray`  | Provides additional detailed job log information beyond the five job log types described above.  |
+|  `*`logMessage`*`  | `xsd:string`  | Messages in the job log.  |
+|  `*`logType`*`  | `xsd:string`  | Job log file type.  |
+|  `*`assetName`*`  | `xsd:string`  | Name of asset in the job log (optional).  |
+|  `*`assetType`*`  | `xsd:string`  | Choice of asset type.  |
+|  `*`assetHandle`*`  | `xsd:string`  | Asset handle referenced in the job log.  |
+|  `*`auxArray`*`  | `types:JobLogDetailAuxArray`  | Provides additional detailed job log information beyond the five job log types described above.  |
 

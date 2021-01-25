@@ -4,7 +4,7 @@ seo-description: Unstructured named set of image output settings.
 seo-title: ImageFormat
 solution: Experience Manager
 title: ImageFormat
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: d3ad7058-781e-4b5b-84b5-7da6bcc77cd8
 ---
 
@@ -18,7 +18,7 @@ Unstructured named set of image output settings.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`imageFormatHandle`*`  | `xsd:string`  | Image format handle.  |
-|  ` *`name`*`  | `xsd:string`  | Image format name.  |
-|  ` *`urlModifier`*`  | `xsd:string`  | Image server URL that represents the image format.  |
+|  `*`imageFormatHandle`*`  | `xsd:string`  | Image format handle.  |
+|  `*`name`*`  | `xsd:string`  | Image format name.  |
+|  `*`urlModifier`*`  | `xsd:string`  | Image server URL that represents the image format.  |
 

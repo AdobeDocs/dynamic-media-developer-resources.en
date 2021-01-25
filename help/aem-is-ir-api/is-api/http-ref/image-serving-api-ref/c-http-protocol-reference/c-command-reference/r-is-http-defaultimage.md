@@ -4,7 +4,7 @@ seo-description: Default Reply Image. Specifies the image or catalog entry to be
 seo-title: defaultImage
 solution: Experience Manager
 title: defaultImage
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 7478325c-9ac5-4b85-a4c5-5c495f924eb5
 ---
 

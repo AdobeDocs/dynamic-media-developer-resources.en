@@ -4,7 +4,7 @@ seo-description: An array of tag value update faults.
 seo-title: TagValueUpdateFaultArray
 solution: Experience Manager
 title: TagValueUpdateFaultArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: c0dae056-3c26-4b8e-9069-c63a8a1b719f
 ---
 
@@ -18,5 +18,5 @@ An array of tag value update faults.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:TagValueUpdateFault`  | An array of tag value update faults (error messages).  |
+|  `*`items`*`  | `types:TagValueUpdateFault`  | An array of tag value update faults (error messages).  |
 

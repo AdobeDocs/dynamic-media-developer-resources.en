@@ -4,7 +4,7 @@ seo-description: Show overlap objects. Specifies whether overlap objects should 
 seo-title: ShowOverlapObjs
 solution: Experience Manager
 title: ShowOverlapObjs
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 965dcff5-30e1-4237-aa71-ee7533a674d8
 ---
 

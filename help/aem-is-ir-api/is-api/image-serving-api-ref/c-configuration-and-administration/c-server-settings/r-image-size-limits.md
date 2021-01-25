@@ -4,7 +4,7 @@ seo-description: Use these server settings to set image size limits.
 seo-title: Image size limits
 solution: Experience Manager
 title: Image size limits
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 6736e652-c495-45a2-bdd2-9975f99af0a2
 ---
 

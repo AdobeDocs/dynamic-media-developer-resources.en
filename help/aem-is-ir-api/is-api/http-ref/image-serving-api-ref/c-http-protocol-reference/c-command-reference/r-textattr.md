@@ -4,7 +4,7 @@ seo-description: Text layer attributes. Specifies additional attributes for text
 seo-title: textAttr
 solution: Experience Manager
 title: textAttr
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 07b3d263-2ed6-4363-83e1-3b841e9967c5
 ---
 

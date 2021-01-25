@@ -4,7 +4,7 @@ seo-description: An array of URLS for invalidating CDN cache.
 seo-title: UrlArray
 solution: Experience Manager
 title: UrlArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 59568d38-6e05-45ca-8054-cec2c5ea8c02
 ---
 

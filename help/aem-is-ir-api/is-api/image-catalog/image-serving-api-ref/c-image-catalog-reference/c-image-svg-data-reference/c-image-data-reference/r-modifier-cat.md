@@ -4,7 +4,7 @@ seo-description: Prefix request modifier string. None or more Image Serving comm
 seo-title: Modifier
 solution: Experience Manager
 title: Modifier
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: eb17d115-22ec-4b1b-9039-9bd2bc256f48
 ---
 

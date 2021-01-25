@@ -4,7 +4,7 @@ seo-description: Retrieve the output of a submitted job.
 seo-title: batchjobgetoutput
 solution: Experience Manager
 title: batchjobgetoutput
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: c2d49cc2-3223-4f0f-8ba7-4f74a5f76789
 ---
 

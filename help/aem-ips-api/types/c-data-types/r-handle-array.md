@@ -4,7 +4,7 @@ seo-description: An array of handles.
 seo-title: HandleArray
 solution: Experience Manager
 title: HandleArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: e6d24c00-80c4-441d-ae2b-bbd2725dd073
 ---
 
@@ -20,5 +20,5 @@ An array of handles.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `xsd:string`  | An array of handles.  |
+|  `*`items`*`  | `xsd:string`  | An array of handles.  |
 

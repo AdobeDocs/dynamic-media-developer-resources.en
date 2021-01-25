@@ -4,7 +4,7 @@ seo-description: Maps an asset to the PublishContexts in which an asset is marke
 seo-title: AssetPublishContexts
 solution: Experience Manager
 title: AssetPublishContexts
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 85914db3-d2ea-4e73-8f8d-6e18d2d44f55
 ---
 
@@ -18,6 +18,6 @@ Maps an asset to the PublishContexts in which an asset is marked for publication
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`assetHandle`*`  | `xsd:string`  | Handle to the asset.  |
-|  ` *`publishContextArray`*`  | `types:PublishContextArray`  | An array of publish contexts in which the asset is marked for publication.  |
+|  `*`assetHandle`*`  | `xsd:string`  | Handle to the asset.  |
+|  `*`publishContextArray`*`  | `types:PublishContextArray`  | An array of publish contexts in which the asset is marked for publication.  |
 

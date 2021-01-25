@@ -4,7 +4,7 @@ seo-description: Deletes a vignette publish format.
 seo-title: deleteVignettePublishFormat
 solution: Experience Manager
 title: deleteVignettePublishFormat
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 3c8148d5-dec6-4ffa-8ab8-2cd70811ada6
 ---
 
@@ -25,8 +25,8 @@ Deletes a vignette publish format.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company to which the vignette belongs.  |
-|  ` *`vignetteFormatHandle`*`  | `xsd:string`  | Yes  | The handle to the vignette publish format to be deleted.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company to which the vignette belongs.  |
+|  `*`vignetteFormatHandle`*`  | `xsd:string`  | Yes  | The handle to the vignette publish format to be deleted.  |
 
 **Output (deleteVignettePublishFormatParam)**
 

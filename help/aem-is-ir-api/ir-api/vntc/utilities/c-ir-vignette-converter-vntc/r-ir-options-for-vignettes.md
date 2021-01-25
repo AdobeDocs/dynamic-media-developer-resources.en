@@ -4,7 +4,7 @@ seo-description: The following options control the processing of vignette files.
 seo-title: Options for vignettes
 solution: Experience Manager
 title: Options for vignettes
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 0cb40314-07ce-496b-a27b-560d7bb4fa8e
 ---
 
@@ -43,7 +43,7 @@ The following options control the processing of vignette files. They are ignored
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p><span class="codeph"> -pyramid</span> </p></td> 
-  <td class="stentry"> <p>Creates a pyramid vignette. Required when rendered images are to be displayed with Scene7 zoom viewers. See <a href="../../../../ir-api/vntc/utilities/c-ir-vignette-converter-vntc/c-ir-vignette-scaling.md#concept-e373a29c2f954df98d704c7723804585" type="concept" format="dita" scope="local"> Vignette Scaling</a> for additional information. </p></td> 
+  <td class="stentry"> <p>Creates a pyramid vignette. Required when rendered images are to be displayed with Dynamic Media zoom viewers. See <a href="../../../../ir-api/vntc/utilities/c-ir-vignette-converter-vntc/c-ir-vignette-scaling.md#concept-e373a29c2f954df98d704c7723804585" type="concept" format="dita" scope="local"> Vignette Scaling</a> for additional information. </p></td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p><span class="codeph">-thumbwidth <span class="varname"> ival</span></span> </p></td> 

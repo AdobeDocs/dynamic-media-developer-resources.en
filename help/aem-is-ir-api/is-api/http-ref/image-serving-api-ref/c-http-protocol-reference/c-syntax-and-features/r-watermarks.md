@@ -1,11 +1,8 @@
 ---
 description: Image Serving implements a simple visual watermarking facility.
-seo-description: Image Serving implements a simple visual watermarking facility.
-seo-title: Watermarks
 solution: Experience Manager
 title: Watermarks
-topic: Scene7 Image Serving - Image Rendering API
-uuid: b2bbaa59-dad9-4be3-bb92-142ed44f6d65
+topic: Dynamic Media Image Serving - Image Rendering API
 ---
 
 # Watermarks{#watermarks}
@@ -16,7 +13,7 @@ A watermark typically is a semi-transparent image, but it may be text, or a more
 
 Watermarking is enabled by setting `attribute::Watermark` to a valid catalog entry which would contain the watermark image or template. If `attribute::Watermark` is set in a named catalog, the server will add the watermark to all image requests which reference the catalog id in the request URL. If `default::Watermark` is set (in the default catalog, [!DNL default.ini]), the watermark will be applied to all image requests regardless of whether they reference a catalog or not.
 
-Watermarks are not applied to images returned in response to thumbnail requests ( `req=tmb`) and certain requests from Scene7 viewers.
+Watermarks are not applied to images returned in response to thumbnail requests ( `req=tmb`) and certain requests from Dynamic Media viewers.
 
 ## Scaling and alignment {#section-89ef9e5926ae438abbd8e70332749b76}
 

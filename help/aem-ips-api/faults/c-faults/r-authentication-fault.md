@@ -1,18 +1,15 @@
 ---
 description: Thrown when a user cannot be authenticated.
-seo-description: Thrown when a user cannot be authenticated.
-seo-title: authenticationFault
 solution: Experience Manager
 title: authenticationFault
-topic: Scene7 Image Production System API
-uuid: 89cc6f09-def6-4db1-a8b5-410909693dce
+topic: Dynamic Media Image Production System API
 ---
 
 # authenticationFault{#authenticationfault}
 
 Thrown when a user cannot be authenticated.
 
- Syntax 
+ Syntax
 
 ## Fault Types {#section-8ac4519c1dbb4c8b9c46ac9d1f44a054}
 
@@ -28,4 +25,3 @@ Thrown when a user cannot be authenticated.
 |---|---|---|
 |  `code`  | `xsd:int`  | Fault ID  |
 |  `reason`  | `xsd:string`  | An informative message describing the fault.  |
-

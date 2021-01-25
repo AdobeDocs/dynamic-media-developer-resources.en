@@ -4,7 +4,7 @@ seo-description: Default modification time stamp. Provides a default value for c
 seo-title: TimeStamp
 solution: Experience Manager
 title: TimeStamp
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 10ceb600-1ed9-46a1-ae07-889d601ac0f4
 ---
 

@@ -4,7 +4,7 @@ seo-description: The following fields are supported for static (non-image) conte
 seo-title: Static contents data
 solution: Experience Manager
 title: Static contents data
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: a890ffef-55b2-4880-afa5-ced8598642d1
 ---
 

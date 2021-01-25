@@ -4,7 +4,7 @@ seo-description: An array of projects.
 seo-title: ProjectArray
 solution: Experience Manager
 title: ProjectArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 5828eac9-653b-4241-bfdc-6ec5b5c0b25e
 ---
 
@@ -18,5 +18,5 @@ An array of projects.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:Project`  | The project array.  |
+|  `*`items`*`  | `types:Project`  | The project array.  |
 

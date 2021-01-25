@@ -4,7 +4,7 @@ seo-description: Adjust saturation. Changes the saturation of each visible pixel
 seo-title: op_saturation
 solution: Experience Manager
 title: op_saturation
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 5e987841-0c3b-4f68-96b1-fad8757f3402
 ---
 

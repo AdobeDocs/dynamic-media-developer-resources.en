@@ -1,11 +1,8 @@
 ---
 description: Describes new and changed types for the IPS API version 6.
-seo-description: Describes new and changed types for the IPS API version 6.
-seo-title: Data Types  New and Modified
 solution: Experience Manager
 title: Data Types  New and Modified
-topic: Scene7 Image Production System API
-uuid: ef7c43ee-467f-46b9-bd82-05e8359bd829
+topic: Dynamic Media Image Production System API
 ---
 
 # Data Types: New and Modified{#data-types-new-and-modified}
@@ -50,15 +47,15 @@ Describes new and changed types for the IPS API version 6.
 
 * Added `contextHandle` to:
 
-    * `ImageRenderingPublishJob`
-    * `VideoPublishJob`
+  * `ImageRenderingPublishJob`
+  * `VideoPublishJob`
 
 * Added the following parameters to `Asset`:
 
-    * `animatedGifInfo`
-    * `swcInfo`
-    * `cssInfo`
-    * `javascriptInfo`
+  * `animatedGifInfo`
+  * `swcInfo`
+  * `cssInfo`
+  * `javascriptInfo`
 
 **Changed**
 

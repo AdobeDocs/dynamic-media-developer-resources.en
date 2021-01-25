@@ -1,11 +1,8 @@
 ---
 description: Describes new and changed data types for the IPS API version 4.4.
-seo-description: Describes new and changed data types for the IPS API version 4.4.
-seo-title: String Constants  New and Modified
 solution: Experience Manager
 title: String Constants  New and Modified
-topic: Scene7 Image Production System API
-uuid: f27779d8-6774-4c6f-978b-0ec4490c1f36
+topic: Dynamic Media Image Production System API
 ---
 
 # String Constants: New and Modified{#string-constants-new-and-modified}

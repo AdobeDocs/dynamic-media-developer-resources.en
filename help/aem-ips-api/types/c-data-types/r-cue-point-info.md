@@ -4,7 +4,7 @@ seo-description: Properties of a CuePoint file asset.
 seo-title: CuePointInfo
 solution: Experience Manager
 title: CuePointInfo
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 0a1f7235-cbb9-4643-88de-31ada3cef2e5
 ---
 
@@ -18,7 +18,7 @@ Properties of a CuePoint file asset.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`originalPath`*`  | `xsd:string`  | CuePoint file path.  |
-|  ` *`originalFile`*`  | `xsd:string`  | CuePoint file name.  |
-|  ` *`fileSize`*`  | `xsd:int`  | CuePoint file size.  |
+|  `*`originalPath`*`  | `xsd:string`  | CuePoint file path.  |
+|  `*`originalFile`*`  | `xsd:string`  | CuePoint file name.  |
+|  `*`fileSize`*`  | `xsd:int`  | CuePoint file size.  |
 

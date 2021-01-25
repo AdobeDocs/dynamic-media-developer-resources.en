@@ -4,7 +4,7 @@ seo-description: Vertical alignment for thumbnails. Specifies the vertical align
 seo-title: ThumbVertAlign
 solution: Experience Manager
 title: ThumbVertAlign
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: a90281eb-9681-4b4a-a94b-663f007fb32f
 ---
 

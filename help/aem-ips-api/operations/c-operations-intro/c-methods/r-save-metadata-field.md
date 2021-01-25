@@ -4,7 +4,7 @@ seo-description: Create or edit a metadata field. Omit the optional field handle
 seo-title: saveMetadataField
 solution: Experience Manager
 title: saveMetadataField
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: ccd84366-732a-4caf-914d-3bc5fe499e7a
 ---
 
@@ -92,7 +92,7 @@ Create or edit a metadata field. Omit the optional field handle to create a new 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`fieldHandle`*`  | `xsd:string`  | Yes  | Handle of the new metadata field.  |
+|  `*`fieldHandle`*`  | `xsd:string`  | Yes  | Handle of the new metadata field.  |
 
 ## Examples {#section-4441c26d1f41466ba972b43dd5189e89}
 

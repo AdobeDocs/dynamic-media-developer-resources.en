@@ -4,7 +4,7 @@ seo-description: Uploads URLs from the location where you want to get files.
 seo-title: UploadUrlsJob
 solution: Experience Manager
 title: UploadUrlsJob
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 6140e969-bf61-4b62-9a60-29609626b0b4
 ---
 

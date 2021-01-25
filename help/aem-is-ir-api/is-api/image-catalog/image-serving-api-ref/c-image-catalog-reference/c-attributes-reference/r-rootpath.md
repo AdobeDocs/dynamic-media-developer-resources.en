@@ -4,7 +4,7 @@ seo-description: Source data root path. Absolute or relative path for the root f
 seo-title: RootPath
 solution: Experience Manager
 title: RootPath
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 859bebf2-5ee7-4daa-8970-a18bddcee684
 ---
 

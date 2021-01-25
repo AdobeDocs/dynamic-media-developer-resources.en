@@ -4,7 +4,7 @@ seo-description: Select object by pixel location.
 seo-title: sel
 solution: Experience Manager
 title: sel
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 2a679284-9da4-44b6-b495-8e1a47296e7c
 ---
 

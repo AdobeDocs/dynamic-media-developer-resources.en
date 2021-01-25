@@ -4,7 +4,7 @@ seo-description: Default locale ID. Locale ID to be used for localization/transl
 seo-title: DefaultLocale
 solution: Experience Manager
 title: DefaultLocale
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: abee352a-5843-4e25-8fca-05b7dceca5b2
 ---
 

@@ -4,7 +4,7 @@ seo-description: Enable last-modified response headers. Enables or disables incl
 seo-title: UseLastModified
 solution: Experience Manager
 title: UseLastModified
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: f2ce2e04-4133-40af-ac82-cae57b253fe9
 ---
 

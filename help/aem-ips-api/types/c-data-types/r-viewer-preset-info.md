@@ -4,7 +4,7 @@ seo-description: Properties of a viewer preset asset.
 seo-title: ViewerPresetInfo
 solution: Experience Manager
 title: ViewerPresetInfo
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 0117488d-b89d-48d4-b081-af177a22f71f
 ---
 
@@ -18,6 +18,6 @@ Properties of a viewer preset asset.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`type`*`  | `xsd:string`  | Choice of viewer type.  |
-|  ` *`configSettingArray`*`  | `types:ConfigSettingArray`  | Viewer configuration settings array.  |
+|  `*`type`*`  | `xsd:string`  | Choice of viewer type.  |
+|  `*`configSettingArray`*`  | `types:ConfigSettingArray`  | Viewer configuration settings array.  |
 

@@ -4,7 +4,7 @@ seo-description: Sub selection. Permits applying different materials to differen
 seo-title: sub
 solution: Experience Manager
 title: sub
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: cb9f4dc5-9d89-483a-ae72-b9076b27c57e
 ---
 

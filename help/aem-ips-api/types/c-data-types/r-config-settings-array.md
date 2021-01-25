@@ -4,7 +4,7 @@ seo-description: An array of configuration settings.
 seo-title: ConfigSettingArray
 solution: Experience Manager
 title: ConfigSettingArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: c6c5636c-a2df-4eed-8bb4-7b16a610ae4a
 ---
 
@@ -18,5 +18,5 @@ An array of configuration settings.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:ConfigSetting`  | An array of configuration settings.  |
+|  `*`items`*`  | `types:ConfigSetting`  | An array of configuration settings.  |
 

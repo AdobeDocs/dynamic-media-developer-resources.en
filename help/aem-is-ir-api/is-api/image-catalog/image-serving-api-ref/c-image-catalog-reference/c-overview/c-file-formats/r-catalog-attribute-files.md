@@ -4,7 +4,7 @@ seo-description: Catalog attribute files can have any name, but must have an .in
 seo-title: Catalog attribute files
 solution: Experience Manager
 title: Catalog attribute files
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 63985780-f032-4542-8d84-b8b608ceea4b
 ---
 
@@ -14,7 +14,7 @@ Catalog attribute files can have any name, but must have an .ini file suffix. Th
 
 Catalog attribute files consist of a set of text records, separated by a single `<CR>` (ASCII code `0xD`), a single `<LF>` (ASCII code `0xA`), or a `<CR><LF>` pair. Each record consists of an attribute name and one or more comma-separated attribute values:
 
-` *`name`*= *`values`*{<CR>|<LF>|<CR><LF }`
+`*`name`*= *`values`*{<CR>|<LF>|<CR><LF }`
 
 <table id="simpletable_0F879121670046AE9414298725961303"> 
  <tr class="strow"> 

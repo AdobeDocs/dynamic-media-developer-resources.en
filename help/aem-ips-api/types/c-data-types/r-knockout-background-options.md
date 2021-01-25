@@ -4,7 +4,7 @@ seo-description: Mask (knock-out) the background for selected images. This lets 
 seo-title: KnockoutBackgroundOptions
 solution: Experience Manager
 title: KnockoutBackgroundOptions
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 1486d646-f42a-4ed4-9450-313950969c39
 ---
 

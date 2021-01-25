@@ -4,7 +4,7 @@ seo-description: Used by searchAssetReturn/trashState.
 seo-title: Trash State
 solution: Experience Manager
 title: Trash State
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 1fd56800-bf3e-4ecb-8329-5674c2b53a86
 ---
 

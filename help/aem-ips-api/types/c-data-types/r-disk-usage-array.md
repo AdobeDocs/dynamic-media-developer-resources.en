@@ -4,7 +4,7 @@ seo-description: An array of disk usage.
 seo-title: DiskUsageArray
 solution: Experience Manager
 title: DiskUsageArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 1745fa78-4ab1-491f-8213-fa3cce632e37
 ---
 
@@ -18,5 +18,5 @@ An array of disk usage.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:DiskUsage`  | Array of disk usage.  |
+|  `*`items`*`  | `types:DiskUsage`  | Array of disk usage.  |
 

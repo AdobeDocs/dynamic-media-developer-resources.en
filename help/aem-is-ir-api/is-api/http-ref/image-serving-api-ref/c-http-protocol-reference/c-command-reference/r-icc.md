@@ -4,7 +4,7 @@ seo-description: Output Color Profile.
 seo-title: icc
 solution: Experience Manager
 title: icc
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: cfbd18aa-cbba-4085-920d-1f54645d0f89
 ---
 

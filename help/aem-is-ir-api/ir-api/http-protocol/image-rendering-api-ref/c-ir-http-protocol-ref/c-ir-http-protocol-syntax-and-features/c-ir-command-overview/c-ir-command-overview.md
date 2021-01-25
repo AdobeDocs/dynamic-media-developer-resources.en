@@ -4,7 +4,7 @@ seo-description: The commands supported by Image Rendering are listed below, gro
 seo-title: Image Rendering HTTP protocol command overview
 solution: Experience Manager
 title: Image Rendering HTTP protocol command overview
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 3278c781-968a-4bde-b469-84e8dcfb0e9a
 ---
 

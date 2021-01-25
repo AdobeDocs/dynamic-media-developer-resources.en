@@ -4,7 +4,7 @@ seo-description: An array of permission updates.
 seo-title: PermissionUpdateArray
 solution: Experience Manager
 title: PermissionUpdateArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: e5dd40a6-d9c0-4be0-930b-f85ca0067319
 ---
 
@@ -18,5 +18,5 @@ An array of permission updates.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:PermissionUpdateArray`  | The permissions update array.  |
+|  `*`items`*`  | `types:PermissionUpdateArray`  | The permissions update array.  |
 

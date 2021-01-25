@@ -2,7 +2,7 @@
 description: Keywords
 solution: Experience Manager
 title: Keywords
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 147b7dcd-dd6d-4530-b046-18925e851eb1
 ---
 
@@ -14,10 +14,10 @@ uuid: 147b7dcd-dd6d-4530-b046-18925e851eb1
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`keyword`*`  | `xsd:string`  | Keyword.  |
-|  ` *`status`*`  | `xsd:boolean`  | Keyword validity.  |
-|  ` *`x`*`  | `xsd:int`  | Keyword position on the x axis (in pixels).  |
-|  ` *`y`*`  | `xsd:int`  | Keyword position on the y axis (in pixels).  |
-|  ` *`width`*`  | `xsd:int`  | Keyword width in pixels.  |
-|  ` *`height`*`  | `xsd:int`  | Keyword height in pixels.  |
+|  `*`keyword`*`  | `xsd:string`  | Keyword.  |
+|  `*`status`*`  | `xsd:boolean`  | Keyword validity.  |
+|  `*`x`*`  | `xsd:int`  | Keyword position on the x axis (in pixels).  |
+|  `*`y`*`  | `xsd:int`  | Keyword position on the y axis (in pixels).  |
+|  `*`width`*`  | `xsd:int`  | Keyword width in pixels.  |
+|  `*`height`*`  | `xsd:int`  | Keyword height in pixels.  |
 

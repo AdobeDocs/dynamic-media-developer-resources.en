@@ -4,7 +4,7 @@ seo-description: Use these server settings to redirect errors.
 seo-title: Error redirection
 solution: Experience Manager
 title: Error redirection
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: b2c2f725-98c3-44a4-8f50-2ca4da7f2156
 ---
 

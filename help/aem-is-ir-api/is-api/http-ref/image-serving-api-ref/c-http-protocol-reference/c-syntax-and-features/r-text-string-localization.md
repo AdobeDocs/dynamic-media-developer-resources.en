@@ -4,7 +4,7 @@ seo-description: Text string localization allows image catalogs to contain multi
 seo-title: Text string localization
 solution: Experience Manager
 title: Text string localization
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: bdff2403-e3bb-4b3f-a8d7-bb108c1fbee8
 ---
 
@@ -117,7 +117,7 @@ The example translation map specifies that in such a case the *`defaultString`* 
 
 Multiple *`locId`* values may be associated with each *`locale`* in the translation map. This allows supporting country-specific or region-specific variations (e.g US English vs UK English) for select *`stringElements`* while handling most contents with common base locales (e.g. International English).
 
-For our example, we want to add support for US-specific English ( ` *`locId`* EUS`) and UK-specific English ( ` *`locId`* EUK`), to support the occasional alternative spelling. If EUK or EUS do not exist, we would fall back to E. Similarly, Austrian-specific German variants ( `DAT`) could be made available where needed while returning common German *`localizedStrings`* (marked with `D`) most of the time.
+For our example, we want to add support for US-specific English ( `*`locId`* EUS`) and UK-specific English ( `*`locId`* EUK`), to support the occasional alternative spelling. If EUK or EUS do not exist, we would fall back to E. Similarly, Austrian-specific German variants ( `DAT`) could be made available where needed while returning common German *`localizedStrings`* (marked with `D`) most of the time.
 
 `attribute::LocaleStrMap` would look like this:
 

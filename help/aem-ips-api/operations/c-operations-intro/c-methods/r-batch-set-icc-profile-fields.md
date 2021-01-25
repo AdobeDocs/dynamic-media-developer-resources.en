@@ -4,7 +4,7 @@ seo-description: Sets ICC profile metadata fields.
 seo-title: batchSetIccProfileFields
 solution: Experience Manager
 title: batchSetIccProfileFields
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 163b9b36-85b6-4880-8029-8421b04f4a08
 ---
 
@@ -29,18 +29,18 @@ Sets ICC profile metadata fields.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company that contains the ICC profiles.  |
-|  ` *`update array`*`  | `xsd:string`  | Yes  | Array of ICC profile updates.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company that contains the ICC profiles.  |
+|  `*`update array`*`  | `xsd:string`  | Yes  | Array of ICC profile updates.  |
 
 **Output (batchSetIccProfileFields)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`successCount`*`  | `xsd:int`  | Yes  | The number of successfully set ICC profile fields.  |
-|  ` *`warningCount`*`  | `xsd:int`  | Yes  | The number of warnings generated when the operation attempted to set the ICC profile fields.  |
-|  ` *`errorCount`*`  | `xsd:int`  | Yes  | The number of errors generated when the operation attempted to set the ICC profile fields.  |
-|  ` *`warningDetailArray`*`  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets that generated warnings when the operation attempted to apply the updates.  |
-|  ` *`errorDetailArray`*`  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets that generated errors when the operation attempted to apply the updates.  |
+|  `*`successCount`*`  | `xsd:int`  | Yes  | The number of successfully set ICC profile fields.  |
+|  `*`warningCount`*`  | `xsd:int`  | Yes  | The number of warnings generated when the operation attempted to set the ICC profile fields.  |
+|  `*`errorCount`*`  | `xsd:int`  | Yes  | The number of errors generated when the operation attempted to set the ICC profile fields.  |
+|  `*`warningDetailArray`*`  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets that generated warnings when the operation attempted to apply the updates.  |
+|  `*`errorDetailArray`*`  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets that generated errors when the operation attempted to apply the updates.  |
 
 ## Examples {#section-5dc90cfbd9b1411485b44859032f7cb9}
 

@@ -4,7 +4,7 @@ seo-description: Photoshop-style layer shadow and glow effects are implemented u
 seo-title: Layer effects
 solution: Experience Manager
 title: Layer effects
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 076e98de-cbbb-457b-984a-367a935b4356
 ---
 

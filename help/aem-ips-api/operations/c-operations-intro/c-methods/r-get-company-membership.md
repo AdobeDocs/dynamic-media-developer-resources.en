@@ -4,7 +4,7 @@ seo-description: Gets a user’s memberships in a company array.
 seo-title: getCompanyMembership
 solution: Experience Manager
 title: getCompanyMembership
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: fb3dfe29-4292-4ab2-8015-36c4930a9c05
 ---
 
@@ -33,13 +33,13 @@ Gets a user’s memberships in a company array.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`userHandle`*`  | `xsd:string`  | No  | The handle to the user whose memberships you want to obtain.  |
+|  `*`userHandle`*`  | `xsd:string`  | No  | The handle to the user whose memberships you want to obtain.  |
 
 **Output (getCompanyMembershipReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`membershipArray`*`  | `types:CompanyMembershipArray`  | Yes  | Array of company memberships.  |
+|  `*`membershipArray`*`  | `types:CompanyMembershipArray`  | Yes  | Array of company memberships.  |
 
 ## Examples {#section-e4958d104ea344a4a79f57d07b46eba7}
 

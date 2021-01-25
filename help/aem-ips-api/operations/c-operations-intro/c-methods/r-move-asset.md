@@ -4,7 +4,7 @@ seo-description: Moves an asset to a specific folder.
 seo-title: moveAsset
 solution: Experience Manager
 title: moveAsset
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: cabeb7b7-ab0b-44d0-ad90-623f76e4323d
 ---
 
@@ -29,9 +29,9 @@ Moves an asset to a specific folder.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company.  |
-|  ` *`assetHandle`*`  | `xsd:string`  | Yes  | Handle to the asset you want to move.  |
-|  ` *`folderHandle`*`  | `xsd:string`  | Yes  | Handle to the destination folder.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company.  |
+|  `*`assetHandle`*`  | `xsd:string`  | Yes  | Handle to the asset you want to move.  |
+|  `*`folderHandle`*`  | `xsd:string`  | Yes  | Handle to the destination folder.  |
 
 **Output (moveAssetReturn)**
 

@@ -1,11 +1,8 @@
 ---
 description: Error message detail. Specifies the level of detail for error messages returned via HTTP as the error.message value.
-seo-description: Error message detail. Specifies the level of detail for error messages returned via HTTP as the error.message value.
-seo-title: ErrorDetail
 solution: Experience Manager
 title: ErrorDetail
-topic: Scene7 Image Serving - Image Rendering API
-uuid: 46ebb8c7-930e-4844-8664-ec6a63691523
+topic: Dynamic Media Image Serving - Image Rendering API
 ---
 
 # ErrorDetail{#errordetail}
@@ -29,7 +26,7 @@ Error message detail. Specifies the level of detail for error messages returned 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p>3 </p></td> 
-  <td class="stentry"> <p>Full debug info. Adds Java stack traces when applicable. Error images never include stack traces and instead return level 2 information in <span class="codeph"> $error.message</span>. This information can be useful when reporting problems to Scene7 Tech Support. </p></td> 
+  <td class="stentry"> <p>Full debug info. Adds Java stack traces when applicable. Error images never include stack traces and instead return level 2 information in <span class="codeph"> $error.message</span>. This information can be useful when reporting problems to Dynamic Media technical support. </p></td> 
  </tr> 
 </table>
 

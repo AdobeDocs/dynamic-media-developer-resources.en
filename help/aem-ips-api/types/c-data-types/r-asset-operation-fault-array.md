@@ -4,7 +4,7 @@ seo-description: An array of asset operation faults.
 seo-title: AssetOperationFaultArray
 solution: Experience Manager
 title: AssetOperationFaultArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 78a77da2-2d0e-40d2-916f-28db0dd68154
 ---
 
@@ -18,5 +18,5 @@ An array of asset operation faults.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:AssetOperationFault`  | An array of asset operation fault items.  |
+|  `*`items`*`  | `types:AssetOperationFault`  | An array of asset operation fault items.  |
 

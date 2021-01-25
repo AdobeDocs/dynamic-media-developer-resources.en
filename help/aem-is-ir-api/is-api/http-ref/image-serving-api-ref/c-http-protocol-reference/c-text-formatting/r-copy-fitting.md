@@ -4,7 +4,7 @@ seo-description: textPs= implements a proprietary copy-fitting algorithm which w
 seo-title: Copy-fitting
 solution: Experience Manager
 title: Copy-fitting
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: c3ddbf1f-c724-4436-96ff-2c616dfd355d
 ---
 

@@ -1,11 +1,8 @@
 ---
 description: Adds a company to the system.
-seo-description: Adds a company to the system.
-seo-title: addCompany
 solution: Experience Manager
 title: addCompany
-topic: Scene7 Image Production System API
-uuid: 2f00a06d-40d1-4ba3-a317-6ea91e25beb3
+topic: Dynamic Media Image Production System API
 ---
 
 # addCompany{#addcompany}
@@ -14,7 +11,7 @@ Adds a company to the system.
 
 Sends the name of the company to be added to the system and optionally sends whether the company expires.
 
-When this operation is invoked, the system gets a ` *`companyInfo`*` type that contains a company handle and descriptive fields. If the company name requested already exists in the system, it throws an `ipsApiFault`.
+When this operation is invoked, the system gets a `*`companyInfo`*` type that contains a company handle and descriptive fields. If the company name requested already exists in the system, it throws an `ipsApiFault`.
 
 ## Authorized User Types {#section-ae926c7672984be79f6102748accab72}
 

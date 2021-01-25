@@ -4,7 +4,7 @@ seo-description: Used by SystemFieldCondition/field.
 seo-title: Asset Search System Fields
 solution: Experience Manager
 title: Asset Search System Fields
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 2af88d8a-4f04-4a90-8f60-ff0c32197023
 ---
 

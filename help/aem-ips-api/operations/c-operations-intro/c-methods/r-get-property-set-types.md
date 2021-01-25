@@ -4,7 +4,7 @@ seo-description: Gets the property set types associated with the specified compa
 seo-title: getPropertySetTypes
 solution: Experience Manager
 title: getPropertySetTypes
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: b707344d-5571-45eb-9e37-cf0894ee81a0
 ---
 
@@ -53,7 +53,7 @@ Gets the property set types associated with the specified company, or global pro
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`typeArray`*`  | `types:PropertySetTypeArray`  | Yes  | An array of property set types associated with the specified company, or the global property set types if no company was specified.  |
+|  `*`typeArray`*`  | `types:PropertySetTypeArray`  | Yes  | An array of property set types associated with the specified company, or the global property set types if no company was specified.  |
 
 ## Examples {#section-280c406a90864409856aee44d4069a52}
 

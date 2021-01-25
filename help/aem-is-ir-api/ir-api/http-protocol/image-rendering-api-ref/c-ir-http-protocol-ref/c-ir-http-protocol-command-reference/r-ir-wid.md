@@ -4,7 +4,7 @@ seo-description: Reply image width. Specifies scaling of the rendered image so t
 seo-title: wid
 solution: Experience Manager
 title: wid
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 9a58a5d2-43ac-44db-9959-ba166006b7df
 ---
 

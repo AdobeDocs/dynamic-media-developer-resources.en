@@ -4,7 +4,7 @@ seo-description: The resolution value of a repeatable texture or other material 
 seo-title: Material resolution
 solution: Experience Manager
 title: Material resolution
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 2c37d217-8d49-478e-88d1-7121d0f0419b
 ---
 

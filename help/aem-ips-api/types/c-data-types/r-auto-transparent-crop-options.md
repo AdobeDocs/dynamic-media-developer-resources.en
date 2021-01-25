@@ -4,7 +4,7 @@ seo-description: Options used when automatically cropping images based on transp
 seo-title: AutoTransparentCropOptions
 solution: Experience Manager
 title: AutoTransparentCropOptions
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 4c3d365d-e011-4f38-bea7-68cf0cba7893
 ---
 

@@ -4,7 +4,7 @@ seo-description: The HTTP protocol basic syntax is as follows.
 seo-title: Image Serving HTTP protocol basic syntax
 solution: Experience Manager
 title: Image Serving HTTP protocol basic syntax
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 3269c2f2-df0f-4b62-ae9c-a267acae8071
 ---
 

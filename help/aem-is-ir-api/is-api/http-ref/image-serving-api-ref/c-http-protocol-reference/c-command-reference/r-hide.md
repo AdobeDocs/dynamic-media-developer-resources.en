@@ -4,7 +4,7 @@ seo-description: Hide Layer. Allows hiding a layer without removing it from the 
 seo-title: hide
 solution: Experience Manager
 title: hide
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: fb50f2c4-fbac-4f0e-aa78-9cb1e47cc591
 ---
 

@@ -4,7 +4,7 @@ seo-description: Property data consists of a text string representing one or mor
 seo-title: Property data
 solution: Experience Manager
 title: Property data
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 7fa6ae70-8d70-41d6-9e47-7df3d616874c
 ---
 

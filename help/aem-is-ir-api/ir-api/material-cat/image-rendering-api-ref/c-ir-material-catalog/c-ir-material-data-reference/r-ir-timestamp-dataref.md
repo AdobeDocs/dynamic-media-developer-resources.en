@@ -4,7 +4,7 @@ seo-description: File modification time stamp. Specifies the date/time the image
 seo-title: TimeStamp
 solution: Experience Manager
 title: TimeStamp
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 77ce8bee-7b55-4ff8-8dfb-ebd3ce9c7a8a
 ---
 

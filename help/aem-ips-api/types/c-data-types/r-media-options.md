@@ -4,7 +4,7 @@ seo-description: Generates thumbnail image for your video.
 seo-title: MediaOptions
 solution: Experience Manager
 title: MediaOptions
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 4de59678-1bef-484c-9a43-ded531537aeb
 ---
 

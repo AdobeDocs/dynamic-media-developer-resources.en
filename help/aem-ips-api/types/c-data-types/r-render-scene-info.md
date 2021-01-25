@@ -4,7 +4,7 @@ seo-description: Render scene asset properties.
 seo-title: RenderSceneInfo
 solution: Experience Manager
 title: RenderSceneInfo
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 1b93713e-9da0-441b-9ee0-434a405284c2
 ---
 
@@ -18,5 +18,5 @@ Render scene asset properties.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`url`*`  | `xsd:string`  | Image server URL that represents the render scene.  |
+|  `*`url`*`  | `xsd:string`  | Image server URL that represents the render scene.  |
 

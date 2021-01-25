@@ -21,8 +21,8 @@ The latest release notes for [!DNL Adobe Scene7] Fall 2016 release-part of the [
 * [Viewers (Image Serving 5.5.3)](s7rnfall2016.md#section-1d59bcd5825d487b80b59a6d1a08ed30) 
 * [Viewers (Image Serving 5.5.2)](s7rnfall2016.md#section-9932c988cfee45749594af481dfc6476) 
 * [Viewers (Image Serving 5.5.1)](s7rnfall2016.md#section-833ab92c91c941d2bfdc27f233f582ad) 
-* [Scene7 HTML5 Viewer SDK 3.0.1](s7rnfall2016.md#section-30e2392859c442d1aab2766d0f1d1580) 
-* [Scene7 Image Serving 6.3.2 and Image Rendering 6.3.2](s7rnfall2016.md#section-19a3e96f52c74757bcdea0f8a11001f2)
+* [HTML5 Viewer SDK 3.0.1](s7rnfall2016.md#section-30e2392859c442d1aab2766d0f1d1580) 
+* [Dynamic Media Image Serving 6.3.2 and Image Rendering 6.3.2](s7rnfall2016.md#section-19a3e96f52c74757bcdea0f8a11001f2)
 
 ## General {#section-52afeb72ecb34c1585ea67a5051825a2}
 
@@ -89,61 +89,61 @@ For complete documentation, see [Viewers Reference Guide](https://docs.adobe.com
 
 * Blackberry
 
-    * Incompatibility with older AVS sets. Clients may need to re-upload AVS sets to allow playback.
+  * Incompatibility with older AVS sets. Clients may need to re-upload AVS sets to allow playback.
 
 * General
 
-    * Browser side scaling may cause UI and images to become blurry as user zooms into page. UI formatting may also display incorrectly depending upon zoom. This will carry over to full screen. 
-    * Due to size limitation on mobile devices the Mixed Media Viewer uses slide gesture to swap frames in embedded image sets instead of tapping the embedded swatches component. The component is there as a visual indicator. 
-    * In Internet Explorer browsers and some touch devices, full screen mode does not occupy entire device screen. Instead, it resizes application to the size of the browser window. 
-    * The Close button does not work iOS 8.0 and 8.1 but no longer occurs in iOS 8.2
+  * Browser side scaling may cause UI and images to become blurry as user zooms into page. UI formatting may also display incorrectly depending upon zoom. This will carry over to full screen. 
+  * Due to size limitation on mobile devices the Mixed Media Viewer uses slide gesture to swap frames in embedded image sets instead of tapping the embedded swatches component. The component is there as a visual indicator. 
+  * In Internet Explorer browsers and some touch devices, full screen mode does not occupy entire device screen. Instead, it resizes application to the size of the browser window. 
+  * The Close button does not work iOS 8.0 and 8.1 but no longer occurs in iOS 8.2
 
 * Galaxy SIII
 
-    * Memory leak seen with Zoom and eCatalog HTML5 viewers. Repeated navigation through frames may cause browser to crash. 
-    * Double tap on viewer may cause whole page to zoom instead of just viewer with browser side scaling enabled.
+  * Memory leak seen with Zoom and eCatalog HTML5 viewers. Repeated navigation through frames may cause browser to crash. 
+  * Double tap on viewer may cause whole page to zoom instead of just viewer with browser side scaling enabled.
 
 * Galaxy S4
 
-    * Device detected as tablet in portrait mode with Full Screen checked in browser settings.
+  * Device detected as tablet in portrait mode with Full Screen checked in browser settings.
 
 * Galaxy Nexus
 
-    * Double tap on viewer may cause whole page to zoom instead of just viewer with browser side scaling enabled.
+  * Double tap on viewer may cause whole page to zoom instead of just viewer with browser side scaling enabled.
 
 * Galaxy Nexus 10 and Galaxy Tablet
 
-    * eCatalog showing incorrect page spread with portrait and landscape orientations.
+  * eCatalog showing incorrect page spread with portrait and landscape orientations.
 
 * HTC Mobile Devices
 
-    * HTC mobile devices our findings show that inability to disable native pinch-zoom is a "feature" of HTC UI wrapper (HTC Sense). This may cause whole page to zoom when using "pinch to zoom" gesture on viewer. Suggest using double-tap instead. 
-    * Image map icons may overlap if image maps are small and close together.
+  * HTC mobile devices our findings show that inability to disable native pinch-zoom is a "feature" of HTC UI wrapper (HTC Sense). This may cause whole page to zoom when using "pinch to zoom" gesture on viewer. Suggest using double-tap instead. 
+  * Image map icons may overlap if image maps are small and close together.
 
 * HTML5 Video
 
-    * Internet Explorer 9: custom poster images do not display. 
-    * `IntialBitRate` modifier is only supported with software HLS and Flash HDS playback. It does not work when playback is using the native player. 
-    * OGG and WebM progressive playback not supported at this time. 
-    * Browser scaling can cause the video player to display at an incorrect size (include Windows OS control panel Display settings) 
-    * Video seek using HLS streaming on Safari may be inconsistent.
+  * Internet Explorer 9: custom poster images do not display. 
+  * `IntialBitRate` modifier is only supported with software HLS and Flash HDS playback. It does not work when playback is using the native player. 
+  * OGG and WebM progressive playback not supported at this time. 
+  * Browser scaling can cause the video player to display at an incorrect size (include Windows OS control panel Display settings) 
+  * Video seek using HLS streaming on Safari may be inconsistent.
 
 * Internet Explorer
 
-    * Quirks mode is not supported at this time. 
-    * Compatibility mode is not supported at this time. 
-    * Internet Explorer on mobile is not supported at this time.
+  * Quirks mode is not supported at this time. 
+  * Compatibility mode is not supported at this time. 
+  * Internet Explorer on mobile is not supported at this time.
 
 * iOS
 
-    * Large eCatalogs may cause browser crash on iPad 2. 
-    * iPhone 6+ phones are detected as tablets by the viewers.
+  * Large eCatalogs may cause browser crash on iPad 2. 
+  * iPhone 6+ phones are detected as tablets by the viewers.
 
 * Safari
 
-    * Safari 6.1 or later: Internet Plug-ins settings may prevent Flash video playback. 
-    * Video "seek" using HLS streaming on Safari may be inconsistent. 
-    * Unable to seek to end of video on Safari 6 using HLS streaming.
+  * Safari 6.1 or later: Internet Plug-ins settings may prevent Flash video playback. 
+  * Video "seek" using HLS streaming on Safari may be inconsistent. 
+  * Unable to seek to end of video on Safari 6 using HLS streaming.
 
 **Known issues and restrictions**
 
@@ -156,44 +156,44 @@ For complete documentation, see [Viewers Reference Guide](https://docs.adobe.com
 * iPad 2: Big eCatalog asset will crash Safari on iOS. 
 * All Viewers
 
-    * Watermarks, obfuscation, and locking are not supported. 
-    * Image presets are not supported. 
-    * Adding or removing viewer from the DOM using `display:none` CSS or by dynamically detaching it from the parent node is not supported at this time.
+  * Watermarks, obfuscation, and locking are not supported. 
+  * Image presets are not supported. 
+  * Adding or removing viewer from the DOM using `display:none` CSS or by dynamically detaching it from the parent node is not supported at this time.
 
 * HTML5 All Viewers
 
-    * Embedding viewer in table may result in incorrect sizing or placement of viewer in non-native fullscreen mode. Suggest using DIVs instead. 
-    * Parameters with explicit instance names in the code require instance names in the URL as well to be overwritten (for example, `zoomView.iconfeffect=0`). 
-    * Image Serving command crop is not supported at this time. 
-    * The Close button works only if the viewer is open in the child window. 
-    * The `iscommands` modifier does not support Image Serving modifiers that affect image size.
+  * Embedding viewer in table may result in incorrect sizing or placement of viewer in non-native fullscreen mode. Suggest using DIVs instead. 
+  * Parameters with explicit instance names in the code require instance names in the URL as well to be overwritten (for example, `zoomView.iconfeffect=0`). 
+  * Image Serving command crop is not supported at this time. 
+  * The Close button works only if the viewer is open in the child window. 
+  * The `iscommands` modifier does not support Image Serving modifiers that affect image size.
 
 * HTML5 eCatalog
 
-    * Navigating to other HTML page and returning occasionally causes viewer to reset back to first page. 
-    * Page layout occasionally displays incorrectly after rotating iOS device. Zooming into page corrects layout. 
-    * Internal links only to leftmost page in multi-page spreads. Affects mobile devices in portrait mode. 
-    * InitalFrame links only to leftmost page in multi-page spreads. Affects mobile devices in portrait mode. 
-    * Due to browser limitations, print feature is not available in IE9.
+  * Navigating to other HTML page and returning occasionally causes viewer to reset back to first page. 
+  * Page layout occasionally displays incorrectly after rotating iOS device. Zooming into page corrects layout. 
+  * Internal links only to leftmost page in multi-page spreads. Affects mobile devices in portrait mode. 
+  * InitalFrame links only to leftmost page in multi-page spreads. Affects mobile devices in portrait mode. 
+  * Due to browser limitations, print feature is not available in IE9.
 
 * HTML5 MixedMedia
 
-    * Soundtrack play is currently not supported.
+  * Soundtrack play is currently not supported.
 
 * HTML5 Social
 
-    * To render thumbnails properly in outgoing email the `serverurl` modifier must have an absolute URL.
+  * To render thumbnails properly in outgoing email the `serverurl` modifier must have an absolute URL.
 
 * HTML5 Video
 
-    * The poster image may encounter "max size" error. Company may need to increase limit setting for Image Serving Publish. 
-    * Video captions require a company ruleset if hosting the HTML page is served from an external server (not a Scene7 server). Contact Adobe Support for assistance. 
-    * Analytics tracking may report incorrect play percentage due to buffering 
-    * Black frame instead of poster image may show on iPad or Android devices. 
-    * Black frame may flash on screen during viewer load on iPad or Android devices. 
-    * Black borders are shown on side of VideoPlayer component when background is set to white/transparent on iPad devices. 
-    * Last frame of video may be distorted on iPad using iOS 7. 
-    * Occasional macroblocking may occur during video seek in HLS streaming mode in Chrome, Firefox and Internet Explorer browsers. 
+  * The poster image may encounter "max size" error. Company may need to increase limit setting for Image Serving Publish. 
+  * Video captions require a company ruleset if hosting the HTML page is served from an external server (not a Scene7 server). Contact Adobe Support for assistance. 
+  * Analytics tracking may report incorrect play percentage due to buffering 
+  * Black frame instead of poster image may show on iPad or Android devices. 
+  * Black frame may flash on screen during viewer load on iPad or Android devices. 
+  * Black borders are shown on side of VideoPlayer component when background is set to white/transparent on iPad devices. 
+  * Last frame of video may be distorted on iPad using iOS 7. 
+  * Occasional macroblocking may occur during video seek in HLS streaming mode in Chrome, Firefox and Internet Explorer browsers. 
     * Poster image may not show in Microsoft Edge browser for the first time visitor. 
     * Poster image may hide after video load in Internet Explorer 9 when progressive playback is used.
 
@@ -210,138 +210,138 @@ The User Guide is located in the Adobe HTML5 Viewer SDK folder of the client ins
 
 * General
 
-    * Added HLS streaming video playback as a default video delivery method for majority of desktop systems. Flash-based HDS video streaming is still available as an alternative playback option. 
-    * Added SearchManager, SearchPanel, SearchEffect, and SearchButton components to support new Search feature in eCatalog viewers. 
-    * Added support for devices with both mouse and touch input running on Chrome browser. 
-    * Refactored Android version detection to support future versions of the OS 
-    * Add support for right-to-left orientation in eCatalog-specific SDK components.
+  * Added HLS streaming video playback as a default video delivery method for majority of desktop systems. Flash-based HDS video streaming is still available as an alternative playback option. 
+  * Added SearchManager, SearchPanel, SearchEffect, and SearchButton components to support new Search feature in eCatalog viewers. 
+  * Added support for devices with both mouse and touch input running on Chrome browser. 
+  * Refactored Android version detection to support future versions of the OS 
+  * Add support for right-to-left orientation in eCatalog-specific SDK components.
 
 * ControlBar
 
-    * Added optional scrolling for ControlBar content in case it does not fit into the available width.
+  * Added optional scrolling for ControlBar content in case it does not fit into the available width.
 
 * FlyoutzoomView
 
-    * Fixed case where `tip=0,-1,0` caused an out-of-range error.
+  * Fixed case where `tip=0,-1,0` caused an out-of-range error.
 
 **Compatibility notes**
 
 * Android 4.x
 
-    * To disable the default, blue highlight the following CSS rule needs to be added for component:
+  * To disable the default, blue highlight the following CSS rule needs to be added for component:
 
       `-webkit-tap-highlight-color: rgba(0,0,0,0);`
 
 * Blackberry
 
-    * Video play may cease when changing bit rate streams in AVS sets.
+  * Video play may cease when changing bit rate streams in AVS sets.
 
 * Chrome
 
-    * Any API calls which forces component rebuild may be ignored due to Chrome's internal caching.
+  * Any API calls which forces component rebuild may be ignored due to Chrome's internal caching.
 
 * Galaxy SIII
 
-    * Viewer sometimes fails to load into full screen. 
-    * Pageview suffers from a memory leak on device at this time. 
-    * Double tap gesture zooms viewer and page when browser side scaling is active.
+  * Viewer sometimes fails to load into full screen. 
+  * Pageview suffers from a memory leak on device at this time. 
+  * Double tap gesture zooms viewer and page when browser side scaling is active.
 
 * Galaxy Nexus
 
-    * Artifacts displaying over some view components. 
-    * Double tap gesture zooms viewer and page when browser side scaling is active.
+  * Artifacts displaying over some view components. 
+  * Double tap gesture zooms viewer and page when browser side scaling is active.
 
 * iPad 3
 
-    * The iPad 3 has a native resolution of 2048x1536. This can cause display problems if the company's IS publish, image size limit set lower than that.
+  * The iPad 3 has a native resolution of 2048x1536. This can cause display problems if the company's IS publish, image size limit set lower than that.
 
 * iPhone4
 
-    * Iconeffect replay icon replaced with play icon after scrolling page.
+  * Iconeffect replay icon replaced with play icon after scrolling page.
 
 * Internet Explorer
 
-    * On IE 10 and older full screen mode does not occupy entire screen, instead it just resizes application to the size of the browser window. 
-    * Quirks render mode is not supported. 
-    * Internet Explorer on mobile is not supported at this time. 
-    * Util.js may fail to load if included asynchronously. 
-    * IconEffect icon blocks click events on SpinView and ZoomView components.
+  * On IE 10 and older full screen mode does not occupy entire screen, instead it just resizes application to the size of the browser window. 
+  * Quirks render mode is not supported. 
+  * Internet Explorer on mobile is not supported at this time. 
+  * Util.js may fail to load if included asynchronously. 
+  * IconEffect icon blocks click events on SpinView and ZoomView components.
 
 * Native device video players
 
-    * Layering UI components over VideoPlayer are not supported when VideoPlayer is used to call the device's native player. 
-    * Video playback in native mode is inconsistent on Safari 6. 
-    * Native playback replaces replay icon with play icon after scrolling page.
+  * Layering UI components over VideoPlayer are not supported when VideoPlayer is used to call the device's native player. 
+  * Video playback in native mode is inconsistent on Safari 6. 
+  * Native playback replaces replay icon with play icon after scrolling page.
 
 * Touch devices
 
-    * Full screen mode does not occupy entire device screen, instead it just resizes application to the size of the browser window. 
-    * Custom cursors do not work on touch devices. 
-    * Page scaling on touch devices is not supported at this time. Embedding HTML5 viewers require viewport meta tag with appropriate settings.
+  * Full screen mode does not occupy entire device screen, instead it just resizes application to the size of the browser window. 
+  * Custom cursors do not work on touch devices. 
+  * Page scaling on touch devices is not supported at this time. Embedding HTML5 viewers require viewport meta tag with appropriate settings.
 
 * Xoom
 
-    * Double tap gesture zooms viewer and page when browser side scaling is active.
+  * Double tap gesture zooms viewer and page when browser side scaling is active.
 
 **Known issues and restrictions**
 
 * All components
 
-    * In versions 2.7.2 and earlier some components were added to the DOM using `insertBefore()` API. As a result, such components would put themselves in the bottom of the stacking order, no matter when component instance is created relative to other components. With the 2.8.1 release all components are using `appendChild()` API now, which means that the component stacking order would match the order of instance creation. 
-    
-    * Using `iscommand` modifier to set image alpha channel format is not supported. Use component `FMT` parameter instead. 
-    * CSS transform property is not supported at this time.
+  * In versions 2.7.2 and earlier some components were added to the DOM using `insertBefore()` API. As a result, such components would put themselves in the bottom of the stacking order, no matter when component instance is created relative to other components. With the 2.8.1 release all components are using `appendChild()` API now, which means that the component stacking order would match the order of instance creation. 
+
+  * Using `iscommand` modifier to set image alpha channel format is not supported. Use component `FMT` parameter instead. 
+  * CSS transform property is not supported at this time.
 
 * Touch devices
 
-    * Pinch gesture on touch devices does not generate a zoom event
+  * Pinch gesture on touch devices does not generate a zoom event
 
 * Container
 
-    * Border, padding and margins on the container is not supported. Adobe suggests adding style elements to parent DIV. 
-    * Need to explicitly set the container size or the components may be sized correctly.
+  * Border, padding and margins on the container is not supported. Adobe suggests adding style elements to parent DIV. 
+  * Need to explicitly set the container size or the components may be sized correctly.
 
 * Print component
 
-    * Due to browser limitations, in Internet Explorer 9, the print component may not scale the content properly on the paper.
+  * Due to browser limitations, in Internet Explorer 9, the print component may not scale the content properly on the paper.
 
 * IconEffect component
 
-    * IconEffect generates a script error on Internet Explorer if `autohide` is disabled (set to `0`).
+  * IconEffect generates a script error on Internet Explorer if `autohide` is disabled (set to `0`).
 
 * ImageMapEffect component
 
-    * Delay with repositioning icon when panning image on view component.
+  * Delay with repositioning icon when panning image on view component.
 
 * MediaSet component
 
-    * Inline assets request same encoding as on the URL.
+  * Inline assets request same encoding as on the URL.
 
 * NavigationView component
 
-    * Currently the component does not support resize.
+  * Currently the component does not support resize.
 
 * PageScrubber component
 
-    * On iPhone 5, when the PageScrubber bubble is set to text, it is displaying artifacts when sliding the button along the track. Using `-webkit-background-clip: content;` in the style works around the issue.
+  * On iPhone 5, when the PageScrubber bubble is set to text, it is displaying artifacts when sliding the button along the track. Using `-webkit-background-clip: content;` in the style works around the issue.
 
 * SpinView component
 
-    * SpinView sometimes appears to freeze after swipe gesture and rotating the device while image is spinning.
+  * SpinView sometimes appears to freeze after swipe gesture and rotating the device while image is spinning.
 
 * Swatches component
 
-    * When selecting an out of bounds swatch, 2 highlights are shown. 
-    * Auto scrolling with `selectSwatch()` method working incorrectly.
+  * When selecting an out of bounds swatch, 2 highlights are shown. 
+  * Auto scrolling with `selectSwatch()` method working incorrectly.
 
 * VideoPlayer
 
-    * Video frame not updated if seek is set to 100 percent with the fallback set to auto. 
-    * Occasional macro blocking may occur during video seek in HLS streaming mode in Chrome, Firefox and Internet Explorer browsers. 
-    * Poster image may not show in Microsoft Edge browser for the first time visitor. 
-    * Poster image may hide after video load in Internet Explorer 9 when progressive playback is used.
+  * Video frame not updated if seek is set to 100 percent with the fallback set to auto. 
+  * Occasional macro blocking may occur during video seek in HLS streaming mode in Chrome, Firefox and Internet Explorer browsers. 
+  * Poster image may not show in Microsoft Edge browser for the first time visitor. 
+  * Poster image may hide after video load in Internet Explorer 9 when progressive playback is used.
 
-## Scene7 Image Serving 6.3.2 and Image Rendering 6.3.2 {#section-19a3e96f52c74757bcdea0f8a11001f2}
+## Dynamic Media Image Serving 6.3.2 and Image Rendering 6.3.2 {#section-19a3e96f52c74757bcdea0f8a11001f2}
 
 * IC utility - `downsample2x2` flag is no longer supported. This flag was a poor quality 2x2 downsampler that is no longer used by IPS. 
 * CORS header - Currently, the CORS header is configured for `/is/content/` requests.

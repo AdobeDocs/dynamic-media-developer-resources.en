@@ -4,7 +4,7 @@ seo-description: Searches the metadata index repository for the given search ter
 seo-title: searchAssetsByMetadata
 solution: Experience Manager
 title: searchAssetsByMetadata
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: f4119ee9-f6d8-49fb-9d8c-bb200951d983
 ---
 
@@ -120,8 +120,8 @@ To work around this issue, you can use the `fieldHandles` of the assets that are
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`totalRows`*`  | `xsd:int`  | No  | Number of matches.  |
-|  ` *`assetArray`*`  | `types:AssetArray`  | No  | Array of assets returned by the search.  |
+|  `*`totalRows`*`  | `xsd:int`  | No  | Number of matches.  |
+|  `*`assetArray`*`  | `types:AssetArray`  | No  | Array of assets returned by the search.  |
 
 ## metadataConditionArray Details {#section-1af4a4a22f82451eabdf6dfe13d9f27d}
 

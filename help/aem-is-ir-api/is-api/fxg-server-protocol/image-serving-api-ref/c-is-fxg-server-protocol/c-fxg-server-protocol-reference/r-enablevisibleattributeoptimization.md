@@ -4,7 +4,7 @@ seo-description: Enables the optimization of FXG.
 seo-title: enableVisibleAttributeOptimization
 solution: Experience Manager
 title: enableVisibleAttributeOptimization
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 7f79aa12-6364-4b34-b547-88d4a778c015
 ---
 

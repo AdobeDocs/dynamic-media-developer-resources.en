@@ -4,7 +4,7 @@ seo-description: An array of image set members.
 seo-title: ImageSetMemberArray
 solution: Experience Manager
 title: ImageSetMemberArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 49dec4a7-cffb-4d15-bdac-bb3a60fca0ee
 ---
 
@@ -18,5 +18,5 @@ An array of image set members.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:ImageSetMember`  | The array of image set members.  |
+|  `*`items`*`  | `types:ImageSetMember`  | The array of image set members.  |
 

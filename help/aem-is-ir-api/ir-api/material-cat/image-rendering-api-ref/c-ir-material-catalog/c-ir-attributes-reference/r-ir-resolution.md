@@ -4,7 +4,7 @@ seo-description: Default resolution. Provides a default resolution in case a par
 seo-title: Resolution
 solution: Experience Manager
 title: Resolution
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: b04b3746-90e6-4545-9c57-7ee3b61d99bf
 ---
 

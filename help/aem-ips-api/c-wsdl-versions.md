@@ -4,7 +4,7 @@ seo-description: The IPS Web Service is supported by a set of WSDL (Web Services
 seo-title: IPS Web Service WSDL versions
 solution: Experience Manager
 title: IPS Web Service WSDL versions
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 3443bb91-1663-4686-b20a-94c372f0026e
 ---
 
@@ -34,7 +34,7 @@ services/IpsApiService
 
 ```
 
-**Access URLs for Scene7 regions**
+**Access URLs for Dynamic Media regions**
 
 <table id="table_45BB314ABCDA49F38DF7BECF95CC984A"> 
  <thead> 

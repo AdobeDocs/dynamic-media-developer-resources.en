@@ -4,7 +4,7 @@ seo-description: Opacity. Specifies material opacity.
 seo-title: opac
 solution: Experience Manager
 title: opac
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 0f5b11f0-af65-4abd-947e-7a28cb8de263
 ---
 

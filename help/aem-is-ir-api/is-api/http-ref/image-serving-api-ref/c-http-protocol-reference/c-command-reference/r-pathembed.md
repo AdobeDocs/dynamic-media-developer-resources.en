@@ -4,7 +4,7 @@ seo-description: Embed paths data. Specifies whether Photoshop paths from the la
 seo-title: pathEmbed
 solution: Experience Manager
 title: pathEmbed
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 93e63c7c-c091-4bb1-baff-45706fd611ea
 ---
 

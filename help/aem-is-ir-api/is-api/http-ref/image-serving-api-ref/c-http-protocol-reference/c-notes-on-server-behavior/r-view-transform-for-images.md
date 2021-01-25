@@ -2,7 +2,7 @@
 description: View transform for images
 solution: Experience Manager
 title: View transform for images
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 8594f746-0e58-4a59-933c-a44dc0b06c25
 ---
 

@@ -4,7 +4,7 @@ seo-description: Gets all viewer configuration settings associated with the spec
 seo-title: getViewerConfigSettings
 solution: Experience Manager
 title: getViewerConfigSettings
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 61fe16de-ac72-472b-8945-f1ebe8b4d11c
 ---
 
@@ -27,13 +27,13 @@ Gets all viewer configuration settings associated with the specified asset.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company.  |
-|  ` *`assetHandle`*`  | `xsd:string`  | Yes  | Handle to the asset.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company.  |
+|  `*`assetHandle`*`  | `xsd:string`  | Yes  | Handle to the asset.  |
 
 **Output (getViewerCoinfigSettingsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`type`*`  | `xsd:string`  | Yes  | Viewer type to which the configuration settings apply.  |
-|  ` *`configSettingsArray`*`  | `types:ConfigSettingsArray`  | Yes  | Array of viewer configuration settings.  |
+|  `*`type`*`  | `xsd:string`  | Yes  | Viewer type to which the configuration settings apply.  |
+|  `*`configSettingsArray`*`  | `types:ConfigSettingsArray`  | Yes  | Array of viewer configuration settings.  |
 

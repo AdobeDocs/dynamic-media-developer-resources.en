@@ -4,7 +4,7 @@ seo-description: An array of Zoom targets.
 seo-title: ZoomTargetArray
 solution: Experience Manager
 title: ZoomTargetArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 6dc21229-33b0-4e10-bcf2-1319016ffded
 ---
 
@@ -18,5 +18,5 @@ An array of Zoom targets.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:ZoomTarget`  | Array of Zoom targets.  |
+|  `*`items`*`  | `types:ZoomTarget`  | Array of Zoom targets.  |
 

@@ -4,7 +4,7 @@ seo-description: If a request cannot be completed successfully, the server will 
 seo-title: Errors
 solution: Experience Manager
 title: Errors
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 5984fa9e-63c8-426b-be5f-48f66fc918c3
 ---
 

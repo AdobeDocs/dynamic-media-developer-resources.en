@@ -4,7 +4,7 @@ seo-description: Request locking mode. Specifies the type of request lock which 
 seo-title: RequestLock
 solution: Experience Manager
 title: RequestLock
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 09f20e5e-8ef1-48fe-8b3c-719d219159ec
 ---
 

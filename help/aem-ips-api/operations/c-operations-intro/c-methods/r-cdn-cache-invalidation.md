@@ -1,28 +1,25 @@
 ---
-description: Forwards the supplied list of URLs to the Scene7 CDN (Content Distribution Network) provider to invalidate their existing cache of HTTP responses.
-seo-description: Forwards the supplied list of URLs to the Scene7 CDN (Content Distribution Network) provider to invalidate their existing cache of HTTP responses.
-seo-title: cdnCacheInvalidation
+description: Forwards the supplied list of URLs to the Dynamic Media CDN (Content Distribution Network) provider to invalidate their existing cache of HTTP responses.
 solution: Experience Manager
 title: cdnCacheInvalidation
-topic: Scene7 Image Production System API
-uuid: 16cf53d4-4101-405c-b008-009b6ac62169
+topic: Dynamic Media Image Production System API
 ---
 
 # cdnCacheInvalidation{#cdncacheinvalidation}
 
-Forwards the supplied list of URLs to the Scene7 CDN (Content Distribution Network) provider to invalidate their existing cache of HTTP responses.
+Forwards the supplied list of URLs to the Dynamic Media CDN (Content Distribution Network) provider to invalidate their existing cache of HTTP responses.
 
 ## cdnCacheInvalidation: About {#section-4f70d2bc79d64288b961836ab17e9690}
 
-CDN cache invalidation forces all HTTP requests for these URLs to be revalidated against the current published data on the Scene7 network once this invalidation request is processed through the CDN network. Any URLs that are not connected to the Scene7 service URL structure and directly matching the Scene7 company root ID assigned when the company is created will result in an API fault for the entire request. Any invalid URLs that the CDN does not support that it considers invalid will also result in an API fault for the entire request.
+CDN cache invalidation forces all HTTP requests for these URLs to be revalidated against the current published data on the Dynamic Media network after this invalidation request is processed through the CDN network. Any URLs that are not connected to the Dynamic Media service URL structure and directly matching the Dynamic Media company root ID assigned when the company is created will result in an API fault for the entire request. Any invalid URLs that the CDN does not support that it considers invalid will also result in an API fault for the entire request.
 
 **Frequency of Use: Rules**
 
-The rules governing the frequency of the use of this feature are controlled by Scene7's CDN partners. The CDN retains the discretion to degrade the responsiveness of these invalidations to maintain optimum performance of its service to its users. Should Scene7 be notified of overuse of this feature we will need to resort to disabling the feature on either a per company basis or entirely across the service.
+The rules governing the frequency of the use of this feature are controlled by Dynamic Media's CDN partners. The CDN retains the discretion to degrade the responsiveness of these invalidations to maintain optimum performance of its service to its users. Should Dynamic Media be notified of overuse of this feature we will need to resort to disabling the feature on either a per company basis or entirely across the service.
 
 **Confirmation Emails**
 
-Confirmation emails from the Scene7 CDN partner can be sent to the list's creator or up to 5 other email addresses. The API sends the confirmation when the entire CDN network has been notified that the URLs referenced in the email have been cleared. A single call to `cdnCacheInvalidation` can send multiple emails if the number of URLs supplied exceed the number that Scene7 can deliver to the CDN partner on a single notification. Currently, that would be if the request exceeds 100 URLs, but is subject to change based at the request of the CDN partner.
+Confirmation emails from the Dynamic Media CDN partner can be sent to the list's creator or up to 5 other email addresses. The API sends the confirmation when the entire CDN network has been notified that the URLs referenced in the email have been cleared. A single call to `cdnCacheInvalidation` can send multiple emails if the number of URLs supplied exceed the number that Dynamic Media can deliver to the CDN partner on a single notification. Currently, that would be if the request exceeds 100 URLs, but is subject to change based at the request of the CDN partner.
 
 **Supported Since**
 
@@ -57,7 +54,7 @@ Confirmation emails from the Scene7 CDN partner can be sent to the list's creato
    <td> <p> <span class="codeph"> <span class="varname"> urlArray</span> </span> </p> </td> 
    <td> <p> <span class="codeph"> types:UrlArray</span> </p> </td> 
    <td> <p> Yes </p> </td> 
-   <td> <p> List of up to 1000 URLs to invalidate from the CDN cache. All URLS must contain the Scene7 company root ID to be invalidated. </p> </td> 
+   <td> <p> List of up to 1000 URLs to invalidate from the CDN cache. All URLS must contain the Dynamic Media company root ID to be invalidated. </p> </td> 
   </tr> 
  </tbody> 
 </table>

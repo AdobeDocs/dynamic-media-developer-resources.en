@@ -4,7 +4,7 @@ seo-description: Gets all users in an array.
 seo-title: getAllUsers
 solution: Experience Manager
 title: getAllUsers
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 7fe6ee2a-986d-464d-bc15-1e6444bcf13b
 ---
 
@@ -52,8 +52,8 @@ Gets all users in an array.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`userArray`*`  | `types:UserArray`  | Yes  | Array of all users.  |
-|  ` *`Code Phrase`*`  | `Code Phrase`  |  |  |
+|  `*`userArray`*`  | `types:UserArray`  | Yes  | Array of all users.  |
+|  `*`Code Phrase`*`  | `Code Phrase`  |  |  |
 
 ## Examples {#section-9c9a2d335513478da20652c1b1443731}
 

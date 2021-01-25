@@ -4,7 +4,7 @@ seo-description: The following options control the processing of cabinet style f
 seo-title: Options for cabinet style files
 solution: Experience Manager
 title: Options for cabinet style files
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: bca84724-d710-45da-86e9-7385f689fd4b
 ---
 

@@ -4,7 +4,7 @@ seo-description: These commands apply to source images used either in simple req
 seo-title: Source image operations
 solution: Experience Manager
 title: Source image operations
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: ad6dbcd8-f4a4-4439-b51a-2aca30d198e0
 ---
 

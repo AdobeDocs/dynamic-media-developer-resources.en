@@ -4,7 +4,7 @@ seo-description: A property set type specifies various settings used to help man
 seo-title: createPropertySetType
 solution: Experience Manager
 title: createPropertySetType
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: ecbaad48-d725-4f7a-a37d-5e4cde3295cb
 ---
 
@@ -27,16 +27,16 @@ A property set type specifies various settings used to help manage property sets
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | No  |The handle to the company that owns the property set type. If `companyHandle` is not passed and the caller is an `IpsAdmin`, a global property set type will be created.  |
-|  ` *`name`*`  | `xsd:string`  | Yes  | The name of the property set type.  |
-|  ` *`propertyType`*`  | `xsd:string`  | Yes  | Choice of property set types.  |
-|  ` *`allowMultiple`*`  | `xsd:boolean`  | Yes  | Determines if your program can have multiple property sets.  |
+|  `*`companyHandle`*`  | `xsd:string`  | No  |The handle to the company that owns the property set type. If `companyHandle` is not passed and the caller is an `IpsAdmin`, a global property set type will be created.  |
+|  `*`name`*`  | `xsd:string`  | Yes  | The name of the property set type.  |
+|  `*`propertyType`*`  | `xsd:string`  | Yes  | Choice of property set types.  |
+|  `*`allowMultiple`*`  | `xsd:boolean`  | Yes  | Determines if your program can have multiple property sets.  |
 
 **Output (createPropertySetTypeReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`typeHandle`*`  | `xsd:string`  | Yes  | A handle to the type.  |
+|  `*`typeHandle`*`  | `xsd:string`  | Yes  | A handle to the type.  |
 
 ## Examples {#section-13396c9639a6475190e622eae3cdb534}
 

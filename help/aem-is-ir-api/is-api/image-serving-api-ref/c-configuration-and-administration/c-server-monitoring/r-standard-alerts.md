@@ -4,7 +4,7 @@ seo-description: Standard alerts are sent with a consolidated email message at t
 seo-title: Standard alerts
 solution: Experience Manager
 title: Standard alerts
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: d3294434-a44b-4742-9d77-a6945760d33c
 ---
 

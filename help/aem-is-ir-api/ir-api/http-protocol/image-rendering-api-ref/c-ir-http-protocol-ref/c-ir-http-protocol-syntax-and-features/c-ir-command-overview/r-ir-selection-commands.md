@@ -4,7 +4,7 @@ seo-description: These commands are used to select vignette groups, objects, sub
 seo-title: Selection commands
 solution: Experience Manager
 title: Selection commands
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: fac4080b-3b7e-46ac-a564-3a7eff80c9eb
 ---
 

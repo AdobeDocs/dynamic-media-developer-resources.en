@@ -4,7 +4,7 @@ seo-description: Cabinets materials specify a cabinet style file (.vnc file exte
 seo-title: Cabinets
 solution: Experience Manager
 title: Cabinets
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: d515c613-07c5-49ef-ad6e-568a1f6c1335
 ---
 

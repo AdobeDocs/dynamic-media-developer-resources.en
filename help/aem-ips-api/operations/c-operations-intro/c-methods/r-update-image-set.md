@@ -4,7 +4,7 @@ seo-description: Updates an image set.
 seo-title: updateImageSet
 solution: Experience Manager
 title: updateImageSet
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: df118ba3-d86f-4005-928e-76a5a9f899fc
 ---
 
@@ -20,16 +20,16 @@ Updates an image set.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that contains the image set you want to modify.  |
-|  ` *`assetHandle`*`  | `xsd:string`  | Ys  | The handle to the image set you want to modify.  |
-|  ` *`memberArray`*`  | `types:ImageSetMemberUpdateArray`  | No  | Resets image set members.  |
-|  ` *`thumbAssetHandle`*`  | `xsd:string`  | No  | The handle of the asset that acts as the thumbnail for the image set.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that contains the image set you want to modify.  |
+|  `*`assetHandle`*`  | `xsd:string`  | Ys  | The handle to the image set you want to modify.  |
+|  `*`memberArray`*`  | `types:ImageSetMemberUpdateArray`  | No  | Resets image set members.  |
+|  `*`thumbAssetHandle`*`  | `xsd:string`  | No  | The handle of the asset that acts as the thumbnail for the image set.  |
 
 **Output (updateImageSetReturn)**
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`sequence`*`  |  |  |  |
+|  `*`sequence`*`  |  |  |  |
 
 ## Examples {#section-ce47a4b6e062423fa55ed3a0fd26d7ff}
 

@@ -4,7 +4,7 @@ seo-description: Text flow area. Specifies one or more regions into which text s
 seo-title: textFlowPath
 solution: Experience Manager
 title: textFlowPath
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 5449d78f-e56b-4afb-a05a-7cf8f1f37278
 ---
 

@@ -1,11 +1,8 @@
 ---
 description: Image Serving supports color space conversions based on color space profiles conforming to the ICC (International Color Consortium) specification.
-seo-description: Image Serving supports color space conversions based on color space profiles conforming to the ICC (International Color Consortium) specification.
-seo-title: Image Serving color management
 solution: Experience Manager
 title: Image Serving color management
-topic: Scene7 Image Serving - Image Rendering API
-uuid: 6291372e-ec4c-4fbd-bffc-b55b1bf2f8cf
+topic: Dynamic Media Image Serving - Image Rendering API
 ---
 
 # Image Serving color management{#image-serving-color-management}

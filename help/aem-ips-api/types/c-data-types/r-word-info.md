@@ -4,7 +4,7 @@ seo-description: Properties of a Word file.
 seo-title: WordInfo
 solution: Experience Manager
 title: WordInfo
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 616c7006-a7fe-4dbe-9532-1b296e774107
 ---
 
@@ -18,7 +18,7 @@ Properties of a Word file.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`originalPath`*`  | `xsd:string`  | File path.  |
-|  ` *`originalFile`*`  | `xsd:string`  | File name.  |
-|  ` *`fileSize`*`  | `xsd:int`  | File size.  |
+|  `*`originalPath`*`  | `xsd:string`  | File path.  |
+|  `*`originalFile`*`  | `xsd:string`  | File name.  |
+|  `*`fileSize`*`  | `xsd:int`  | File size.  |
 

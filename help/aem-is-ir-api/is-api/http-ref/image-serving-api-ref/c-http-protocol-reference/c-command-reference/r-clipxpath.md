@@ -4,7 +4,7 @@ seo-description: Inverted Layer Clip Path. Specifies an exclusion clip path for 
 seo-title: clipXPath
 solution: Experience Manager
 title: clipXPath
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: a4062f3f-5dba-4514-acde-e1b7d608a2e9
 ---
 
@@ -27,7 +27,7 @@ Inverted Layer Clip Path. Specifies an exclusion clip path for the current layer
  </tr> 
 </table>
 
-See [clipPath=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-clippath.md#reference-8139b1b52dc54749b51b109521ddf83d) for additional information, including a description of ` *`pathName`*` and ` *`pathDefinition`*`.
+See [clipPath=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-clippath.md#reference-8139b1b52dc54749b51b109521ddf83d) for additional information, including a description of `*`pathName`*` and `*`pathDefinition`*`.
 
 ## Properties {#section-acf7272ba93a4bbba818b8e6aa4dcea5}
 

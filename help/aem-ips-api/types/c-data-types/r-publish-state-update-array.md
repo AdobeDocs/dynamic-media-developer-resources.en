@@ -4,7 +4,7 @@ seo-description: An array of publish state updates.
 seo-title: PublishStateUpdateArray
 solution: Experience Manager
 title: PublishStateUpdateArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 5dc4102b-a89b-46c9-a057-51172752c5e4
 ---
 
@@ -18,5 +18,5 @@ An array of publish state updates.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:PublishStateUpdate`  | The array of publish state updates.  |
+|  `*`items`*`  | `types:PublishStateUpdate`  | The array of publish state updates.  |
 

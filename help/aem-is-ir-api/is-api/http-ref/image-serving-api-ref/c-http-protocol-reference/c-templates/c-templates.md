@@ -4,7 +4,7 @@ seo-description: Templates may be used to reduce the length and complexity of re
 seo-title: Templates
 solution: Experience Manager
 title: Templates
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 54830d1f-40ad-4bf2-8e3d-d3e4d4ab57b9
 ---
 

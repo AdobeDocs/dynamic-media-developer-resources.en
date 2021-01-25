@@ -4,7 +4,7 @@ seo-description: Default JPEG encoding quaility. Specifies the default quality s
 seo-title: JpegQuality
 solution: Experience Manager
 title: JpegQuality
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 82dabdae-a1f3-484a-a520-ae765914d0f7
 ---
 

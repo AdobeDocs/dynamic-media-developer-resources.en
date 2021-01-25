@@ -2,7 +2,7 @@
 description: PostScriptInfo
 solution: Experience Manager
 title: PostScriptInfo
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 2f41a26c-ba97-4b4f-b2fa-f0e0cbc0b4ab
 ---
 
@@ -14,7 +14,7 @@ uuid: 2f41a26c-ba97-4b4f-b2fa-f0e0cbc0b4ab
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`originalPath`*`  | `xsd:string`  | File path.  |
-|  ` *`originalFile`*`  | `xsd:string`  | File name.  |
-|  ` *`fileSize`*`  | `xsd:int`  | File size.  |
+|  `*`originalPath`*`  | `xsd:string`  | File path.  |
+|  `*`originalFile`*`  | `xsd:string`  | File name.  |
+|  `*`fileSize`*`  | `xsd:int`  | File size.  |
 

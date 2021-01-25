@@ -4,7 +4,7 @@ seo-description: An array of ZIP entries.
 seo-title: ZipEntryArray
 solution: Experience Manager
 title: ZipEntryArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 530ad406-b23c-4cee-a23e-141cf78818c0
 ---
 
@@ -18,5 +18,5 @@ An array of ZIP entries.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:ZipEntry`  | An array of ZIP entries.  |
+|  `*`items`*`  | `types:ZipEntry`  | An array of ZIP entries.  |
 

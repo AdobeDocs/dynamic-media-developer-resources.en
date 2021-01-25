@@ -4,7 +4,7 @@ seo-description: Four types of layers are supported.
 seo-title: Layer types
 solution: Experience Manager
 title: Layer types
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: d88b2163-7c9f-4885-9722-be3339e7127a
 ---
 

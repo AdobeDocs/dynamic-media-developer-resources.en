@@ -4,7 +4,7 @@ seo-description: Default font face name. Specifies which font should be used if 
 seo-title: DefaultFont
 solution: Experience Manager
 title: DefaultFont
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 0d1ada8d-2ffe-4799-b771-8f9113e04661
 ---
 

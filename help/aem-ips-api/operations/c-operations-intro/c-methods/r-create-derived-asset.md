@@ -4,7 +4,7 @@ seo-description: Creates a new asset derived from an existing primary source ima
 seo-title: createDerivedAsset
 solution: Experience Manager
 title: createDerivedAsset
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: e1f9b690-af34-4da5-a534-c3a8c6b0a8fc
 ---
 
@@ -35,19 +35,19 @@ Unlike an image copy (see [copyImage](../../../operations/c-operations-intro/c-m
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that contains the asset from which you will derive the new asset.  |
-|  ` *`ownerHandle`*`  | `xsd:string`  | Yes  | The handle to the primary Image asset from which the new image will be derived.  |
-|  ` *`folderHandle`*`  | `xsd:string`  | Yes  | The handle to the folder in which the new derived asset will be created.  |
-|  ` *`name`*`  | `xsd:string`  | Yes  | The name of the derived asset.  |
-|  ` *`type`*`  | `xsd:string`  | Yes  |The asset type of the new derived asset: `AdjustedView` or `LayerView`.  |
-|  ` *`urlModifier`*`  | `xsd:string`  | No  |Image serving or image rendering protocol commands applied *before* the request or `urlPostApplyModifier` commands.  |
-|  ` *`urlPostApplyModifier`*`  | `xsd:string`  | No  |Image serving or image rendering protocol commands applied *after* to the request or `urlPostApplyModifier` commands.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that contains the asset from which you will derive the new asset.  |
+|  `*`ownerHandle`*`  | `xsd:string`  | Yes  | The handle to the primary Image asset from which the new image will be derived.  |
+|  `*`folderHandle`*`  | `xsd:string`  | Yes  | The handle to the folder in which the new derived asset will be created.  |
+|  `*`name`*`  | `xsd:string`  | Yes  | The name of the derived asset.  |
+|  `*`type`*`  | `xsd:string`  | Yes  |The asset type of the new derived asset: `AdjustedView` or `LayerView`.  |
+|  `*`urlModifier`*`  | `xsd:string`  | No  |Image serving or image rendering protocol commands applied *before* the request or `urlPostApplyModifier` commands.  |
+|  `*`urlPostApplyModifier`*`  | `xsd:string`  | No  |Image serving or image rendering protocol commands applied *after* to the request or `urlPostApplyModifier` commands.  |
 
 **Output (createDerivedAssetParam)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`assetHandle`*`  | `xsd:string`  | Yes  | The handle to the derived asset.  |
+|  `*`assetHandle`*`  | `xsd:string`  | Yes  | The handle to the derived asset.  |
 
 ## Examples {#section-5d5ea893a1ef4edc8b3a396f1936e8c9}
 

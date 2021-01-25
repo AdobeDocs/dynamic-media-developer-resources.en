@@ -4,7 +4,7 @@ seo-description: Reply image height. Specifies scaling of the rendered image so 
 seo-title: hei
 solution: Experience Manager
 title: hei
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 616d3306-ccbd-4400-8a94-1ff6f47b802e
 ---
 

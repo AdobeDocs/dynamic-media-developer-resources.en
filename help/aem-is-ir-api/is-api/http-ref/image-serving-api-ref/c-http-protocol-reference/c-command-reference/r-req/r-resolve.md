@@ -4,7 +4,7 @@ seo-description: Debug request. This debug command parses and preprocesses the r
 seo-title: resolve
 solution: Experience Manager
 title: resolve
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: bd1576a7-4802-4a87-b1c0-406f51382561
 ---
 
