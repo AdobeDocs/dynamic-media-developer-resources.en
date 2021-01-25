@@ -4,7 +4,7 @@ seo-description: Delete any attribute for a given s7 elementID.
 seo-title: deleteAttr
 solution: Experience Manager
 title: deleteAttr
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: b1176c1a-9ec3-4a95-9f91-97f9f168c252
 ---
 

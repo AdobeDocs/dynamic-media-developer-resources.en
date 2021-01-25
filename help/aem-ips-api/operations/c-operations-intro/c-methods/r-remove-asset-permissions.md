@@ -4,7 +4,7 @@ seo-description: Removes permissions from selected assets.
 seo-title: removeAssetPermissions
 solution: Experience Manager
 title: removeAssetPermissions
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 5a351862-f412-4d89-90b7-9e70a26eacbc
 ---
 
@@ -26,8 +26,8 @@ Removes permissions from selected assets.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company.  |
-|  ` *`assetHandle`*`  | `xsd:string`  | Yes  | The handle to the asset with permissions you want to remove.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company.  |
+|  `*`assetHandle`*`  | `xsd:string`  | Yes  | The handle to the asset with permissions you want to remove.  |
 
 **Output (removeAssetPermissionsReturn)**
 

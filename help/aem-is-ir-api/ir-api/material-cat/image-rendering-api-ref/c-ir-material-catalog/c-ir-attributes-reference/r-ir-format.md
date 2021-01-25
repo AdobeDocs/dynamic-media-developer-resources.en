@@ -4,7 +4,7 @@ seo-description: Default reply image format. Specifies the default format for re
 seo-title: Format
 solution: Experience Manager
 title: Format
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: d09b0a45-ea89-4c00-a6ac-065ffad51611
 ---
 

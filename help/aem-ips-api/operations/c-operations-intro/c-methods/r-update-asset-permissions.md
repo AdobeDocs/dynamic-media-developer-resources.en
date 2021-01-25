@@ -4,7 +4,7 @@ seo-description: Updates asset permissions.
 seo-title: updateAssetPermissons
 solution: Experience Manager
 title: updateAssetPermissons
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: feb2faf3-81de-436e-82de-1e41df03508f
 ---
 
@@ -26,9 +26,9 @@ Updates asset permissions.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | Company handle.  |
-|  ` *`assetHandle`*`  | `xsd:string`  | Yes  | Asset handle.  |
-|  ` *`updateArray`*`  | `types:PermissionUpdateArray`  | Yes  | Permissions you want to apply to the asset.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Company handle.  |
+|  `*`assetHandle`*`  | `xsd:string`  | Yes  | Asset handle.  |
+|  `*`updateArray`*`  | `types:PermissionUpdateArray`  | Yes  | Permissions you want to apply to the asset.  |
 
 **Output (updateAssetPermissionsReturn)**
 

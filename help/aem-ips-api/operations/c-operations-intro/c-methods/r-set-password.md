@@ -4,7 +4,7 @@ seo-description: Sets the password of a specific user or the default user to a s
 seo-title: setPassword
 solution: Experience Manager
 title: setPassword
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 78067f8d-4191-4580-a5a8-adb6edfcfab8
 ---
 

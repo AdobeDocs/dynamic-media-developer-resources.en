@@ -4,7 +4,7 @@ seo-description: Sets the image map for an asset.
 seo-title: setImageMaps
 solution: Experience Manager
 title: setImageMaps
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 1dd7e032-34b4-464d-8ec6-7ad282d12891
 ---
 
@@ -29,15 +29,15 @@ Sets the image map for an asset.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | Company handle.  |
-|  ` *`assetHandle`*`  | `xsd:string`  | Yes  | Asset handle.  |
-|  ` *`imageMapArray`*`  | `types:ImageMapDefinitionArray`  | Yes  | Array of predefined image maps.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Company handle.  |
+|  `*`assetHandle`*`  | `xsd:string`  | Yes  | Asset handle.  |
+|  `*`imageMapArray`*`  | `types:ImageMapDefinitionArray`  | Yes  | Array of predefined image maps.  |
 
 **Output (setImageMapsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`imageMapHandleArray`*`  | `types:HandleArray`  | Yes  | An array with image map handles applied to the asset.  |
+|  `*`imageMapHandleArray`*`  | `types:HandleArray`  | Yes  | An array with image map handles applied to the asset.  |
 
 ## Examples {#section-fe2e35662a6a4ee29cf250c9fd180371}
 

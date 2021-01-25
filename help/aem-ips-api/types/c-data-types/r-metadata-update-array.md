@@ -4,7 +4,7 @@ seo-description: An array of metadata updates.
 seo-title: MetadataUpdateArray
 solution: Experience Manager
 title: MetadataUpdateArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 2d79e7a0-b8bd-4746-a5d7-b742913ebc20
 ---
 
@@ -18,5 +18,5 @@ An array of metadata updates.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:MetadataUpdate`  | Array of metadata updates.  |
+|  `*`items`*`  | `types:MetadataUpdate`  | Array of metadata updates.  |
 

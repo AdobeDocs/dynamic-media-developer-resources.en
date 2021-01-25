@@ -4,7 +4,7 @@ seo-description: Static content source data files are accessed only by the Platf
 seo-title: Static content source data
 solution: Experience Manager
 title: Static content source data
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: a3280ce7-20d7-4f4b-bf3e-e77cc7aca35f
 ---
 

@@ -4,7 +4,7 @@ seo-description: Pixel Size. Used to specify image sizes or rectangle sizes in p
 seo-title: size
 solution: Experience Manager
 title: size
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 765700ae-aeb2-435c-89ab-61d7007a1b8a
 ---
 

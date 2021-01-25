@@ -4,7 +4,7 @@ seo-description: An array of properties.
 seo-title: PropertyArray
 solution: Experience Manager
 title: PropertyArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: a28dd70f-953c-472a-9c23-020db134e1af
 ---
 
@@ -18,5 +18,5 @@ An array of properties.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:Property`  | The property array.  |
+|  `*`items`*`  | `types:Property`  | The property array.  |
 

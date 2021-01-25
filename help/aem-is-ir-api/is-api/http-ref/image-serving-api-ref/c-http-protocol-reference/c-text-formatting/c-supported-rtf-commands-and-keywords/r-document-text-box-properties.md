@@ -4,7 +4,7 @@ seo-description: The following document properties are supported in text boxes.
 seo-title: Document (text box) properties
 solution: Experience Manager
 title: Document (text box) properties
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 743a773a-83b0-4667-9c67-4cefbfe77bbd
 ---
 
@@ -39,12 +39,12 @@ The following document properties are supported in text boxes.
   <tr> 
    <td> <span class="codeph"> \cmykcolortbl </span> </td> 
    <td> <p>CMYK color table. </p> </td> 
-   <td> <p>Scene7 extension. </p> </td> 
+   <td> <p>Dynamic Media extension. </p> </td> 
   </tr> 
   <tr> 
    <td> <span class="codeph"> \*\iscolortbl </span> </td> 
    <td> <p>Color table for Image Serving colors. </p> </td> 
-   <td> <p>Scene7 extension; <span class="codeph"> textPs= </span> only </p> </td> 
+   <td> <p>Dynamic Media extension; <span class="codeph"> textPs= </span> only </p> </td> 
   </tr> 
   <tr> 
    <td> <span class="codeph"> \red <span class="varname"> N </span> </span> </td> 
@@ -64,22 +64,22 @@ The following document properties are supported in text boxes.
   <tr> 
    <td> <span class="codeph"> \cyan <span class="varname"> N </span> </span> </td> 
    <td> <p>Cyan color component. </p> </td> 
-   <td> <p>Scene7 extension; may only appear in <span class="codeph"> \cmykcolortbl </span>; 0…100 </p> </td> 
+   <td> <p>Dynamic Media extension; may only appear in <span class="codeph"> \cmykcolortbl </span>; 0…100 </p> </td> 
   </tr> 
   <tr> 
    <td> <span class="codeph"> \magenta <span class="varname"> N </span> </span> </td> 
    <td> <p>Magenta color component. </p> </td> 
-   <td> <p>Scene7 extension; may only appear in <span class="codeph"> \cmykcolortbl </span>; 0…100 </p> </td> 
+   <td> <p>Dynamic Media extension; may only appear in <span class="codeph"> \cmykcolortbl </span>; 0…100 </p> </td> 
   </tr> 
   <tr> 
    <td> <span class="codeph"> \yellow <span class="varname"> N </span> </span> </td> 
    <td> <p>Yellow color component. </p> </td> 
-   <td> <p>Scene7 extension; may only appear in <span class="codeph"> \cmykcolortbl </span>; 0…100 </p> </td> 
+   <td> <p>Dynamic Media extension; may only appear in <span class="codeph"> \cmykcolortbl </span>; 0…100 </p> </td> 
   </tr> 
   <tr> 
    <td> <span class="codeph"> \black <span class="varname"> N </span> </span> </td> 
    <td> <p>Black color component. </p> </td> 
-   <td> <p>Scene7 extension; may only appear in <span class="codeph"> \cmykcolortbl </span>; 0…100 </p> </td> 
+   <td> <p>Dynamic Media extension; may only appear in <span class="codeph"> \cmykcolortbl </span>; 0…100 </p> </td> 
   </tr> 
   <tr> 
    <td> <span class="codeph"> \margl <span class="varname"> N </span> </span> </td> 

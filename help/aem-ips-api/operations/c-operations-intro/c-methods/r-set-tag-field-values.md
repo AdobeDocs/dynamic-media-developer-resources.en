@@ -4,7 +4,7 @@ seo-description: Sets tag dictionary values for an existing tag field.
 seo-title: setTagFieldValues
 solution: Experience Manager
 title: setTagFieldValues
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 56666c00-3694-4a43-a0ff-97af45c8df9f
 ---
 
@@ -26,9 +26,9 @@ Sets tag dictionary values for an existing tag field.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | Company handle.  |
-|  ` *`fieldHandle`*`  | `xsd:string`  | Yes  | Tag field handle.  |
-|  ` *`valueArray`*`  | `types:StringArray`  | Yes  | An array of tag values that replace the field's existing dictionary. Asset associations are maintained when a new value matches an existing value.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Company handle.  |
+|  `*`fieldHandle`*`  | `xsd:string`  | Yes  | Tag field handle.  |
+|  `*`valueArray`*`  | `types:StringArray`  | Yes  | An array of tag values that replace the field's existing dictionary. Asset associations are maintained when a new value matches an existing value.  |
 
 **Output (setTagFieldValuesReturn)**
 

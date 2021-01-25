@@ -4,7 +4,7 @@ seo-description: Mask file path. Relative or absolute path and name for a mask i
 seo-title: MaskPath
 solution: Experience Manager
 title: MaskPath
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: a2d1f08a-0a26-41a6-9be2-f5cc2afb15c4
 ---
 

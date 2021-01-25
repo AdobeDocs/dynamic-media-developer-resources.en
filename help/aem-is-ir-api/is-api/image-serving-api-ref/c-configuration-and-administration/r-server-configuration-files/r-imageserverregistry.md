@@ -4,7 +4,7 @@ seo-description: Contains Image Server configuration settings.
 seo-title: ImageServerRegistry.xml
 solution: Experience Manager
 title: ImageServerRegistry.xml
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: cc401f75-1eb1-40fe-8308-eaaf9e14f906
 ---
 
@@ -14,7 +14,7 @@ Contains Image Server configuration settings.
 
 When modifying this XML file, care must be taken to maintain valid XML syntax, otherwise the Image Server may fail to start.
 
-For changes to take effect, restart the Image Server after editing this file. Only the element values listed below are supported for modification. Edit any other contents of this file only when advised by Scene7 Technical Support.
+For changes to take effect, restart the Image Server after editing this file. Only the element values listed below are supported for modification. Edit any other contents of this file only when advised by Dynamic Media technical support.
 
 >[!NOTE]
 >

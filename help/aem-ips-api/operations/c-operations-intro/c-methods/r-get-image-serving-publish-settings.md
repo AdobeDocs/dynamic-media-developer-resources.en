@@ -4,7 +4,7 @@ seo-description: For internal use only. Users should refer to the Image Serving 
 seo-title: getImageServingPublishSettings
 solution: Experience Manager
 title: getImageServingPublishSettings
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 2f00198d-0262-430b-8ac5-80f52adcff67
 ---
 
@@ -27,12 +27,12 @@ For internal use only. Users should refer to the Image Serving Image Catalog Ref
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company with the image serving publish settings.  |
-|  ` *`contextHandle`*`  | `xsd:string`  | Yes  | Handle to the publish context.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company with the image serving publish settings.  |
+|  `*`contextHandle`*`  | `xsd:string`  | Yes  | Handle to the publish context.  |
 
 **Output** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`publishSettingArray`*`  | `xsd:string`  | Yes  | Array of image server publish settings.  |
+|  `*`publishSettingArray`*`  | `xsd:string`  | Yes  | Array of image server publish settings.  |
 

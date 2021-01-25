@@ -4,7 +4,7 @@ seo-description: Update field metadata.
 seo-title: updateMetadataField
 solution: Experience Manager
 title: updateMetadataField
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 8712b09b-b02a-4fb3-a0ed-084dc48a717a
 ---
 
@@ -83,7 +83,7 @@ Update field metadata.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`fieldHandle`*`  | `xsd:string`  | Yes  | Metadata field handle.  |
+|  `*`fieldHandle`*`  | `xsd:string`  | Yes  | Metadata field handle.  |
 
 ## Examples {#section-bb7d93ab6d914ddfa294e08983e589ee}
 

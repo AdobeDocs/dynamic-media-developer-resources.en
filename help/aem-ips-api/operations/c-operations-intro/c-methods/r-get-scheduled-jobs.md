@@ -4,7 +4,7 @@ seo-description: Gets jobs scheduled to run.
 seo-title: getScheduledJobs
 solution: Experience Manager
 title: getScheduledJobs
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 56b0623b-46d7-4d11-8eea-6543ed364b53
 ---
 
@@ -31,15 +31,15 @@ Gets jobs scheduled to run.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company.  |
-|  ` *`jobHandle`*`  | `xsd:string`  | No  | Job handle.  |
-|  ` *`originalName`*`  | `xsd:string`  | No  |The name specified by `submitJob`.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company.  |
+|  `*`jobHandle`*`  | `xsd:string`  | No  | Job handle.  |
+|  `*`originalName`*`  | `xsd:string`  | No  |The name specified by `submitJob`.  |
 
 **Output (getScheduledJobsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`jobArray`*`  | `types:ScheduledJobArray`  | Yes  | Array of scheduled jobs.  |
+|  `*`jobArray`*`  | `types:ScheduledJobArray`  | Yes  | Array of scheduled jobs.  |
 
 ## Examples {#section-e79e7da86ba848fd9996aa36de462e6c}
 

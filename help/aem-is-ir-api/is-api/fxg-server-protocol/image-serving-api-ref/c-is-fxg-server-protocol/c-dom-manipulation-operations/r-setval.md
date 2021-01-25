@@ -4,7 +4,7 @@ seo-description: Set text node value for s7 elementID.
 seo-title: setVal
 solution: Experience Manager
 title: setVal
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 27ced070-6434-477d-aacf-053d53ee58ff
 ---
 

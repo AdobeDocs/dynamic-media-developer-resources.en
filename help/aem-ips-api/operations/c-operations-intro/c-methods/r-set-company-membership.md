@@ -4,7 +4,7 @@ seo-description: Sets a user’s membership in one or more companies.
 seo-title: setCompanyMembership
 solution: Experience Manager
 title: setCompanyMembership
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 34c9d457-bc2e-4186-8a8f-50388410640a
 ---
 
@@ -27,8 +27,8 @@ Sets a user’s membership in one or more companies.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`userHandle`*`  | `xsd:sting`  | No  | User handle.  |
-|  ` *`membershipArray`*`  | `types:CompanyMembershipUpdateArray`  | Yes  | Array of companies.  |
+|  `*`userHandle`*`  | `xsd:sting`  | No  | User handle.  |
+|  `*`membershipArray`*`  | `types:CompanyMembershipUpdateArray`  | Yes  | Array of companies.  |
 
 **Output (setCompanyMembershipParam)**
 

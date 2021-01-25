@@ -4,7 +4,7 @@ seo-description: An array of masks.
 seo-title: MaskArray
 solution: Experience Manager
 title: MaskArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: c57fcdae-2cad-48ca-8ade-bb81efee142c
 ---
 
@@ -18,5 +18,5 @@ An array of masks.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:Mask`  | Array of masks.  |
+|  `*`items`*`  | `types:Mask`  | Array of masks.  |
 

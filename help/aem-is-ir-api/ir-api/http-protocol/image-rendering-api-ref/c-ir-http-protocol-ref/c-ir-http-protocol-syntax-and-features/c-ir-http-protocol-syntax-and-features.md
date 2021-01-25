@@ -1,16 +1,16 @@
 ---
-description: This section describes the HTTP protocol syntax and featuring for Scene7 Image Rendering.
-seo-description: This section describes the HTTP protocol syntax and featuring for Scene7 Image Rendering.
+description: This section describes the HTTP protocol syntax and featuring for Dynamic Media Image Rendering.
+seo-description: This section describes the HTTP protocol syntax and featuring for Dynamic Media Image Rendering.
 seo-title: HTTP protocol syntax and features
 solution: Experience Manager
 title: HTTP protocol syntax and features
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 5badae8e-0874-43b1-b019-bd7445e6c2ce
 ---
 
 # HTTP protocol syntax and features{#http-protocol-syntax-and-features}
 
-This section describes the HTTP protocol syntax and featuring for Scene7 Image Rendering.
+This section describes the HTTP protocol syntax and featuring for Dynamic Media Image Rendering.
 
 * [Image Rendering HTTP protocol basic syntax](r-ir-basic-syntax.md)
 * [Image Rendering HTTP protocol command overview](c-ir-command-overview/c-ir-command-overview.md)

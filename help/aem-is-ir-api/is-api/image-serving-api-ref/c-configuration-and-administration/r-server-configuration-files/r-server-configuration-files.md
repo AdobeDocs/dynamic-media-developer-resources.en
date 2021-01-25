@@ -1,11 +1,8 @@
 ---
 description: All configuration files are located in install_folder/conf and are editable with most text editors. The server may need to be restarted for changes to take effect.
-seo-description: All configuration files are located in install_folder/conf and are editable with most text editors. The server may need to be restarted for changes to take effect.
-seo-title: Server configuration files
 solution: Experience Manager
 title: Server configuration files
-topic: Scene7 Image Serving - Image Rendering API
-uuid: 02905b23-bbf3-4ae7-828d-915b22d8f167
+topic: Dynamic Media Image Serving - Image Rendering API
 ---
 
 # Server configuration files{#server-configuration-files}
@@ -14,7 +11,7 @@ All configuration files are located in install_folder/conf and are editable with
 
 >[!NOTE]
 >
->Most server configuration files contain additional properties and values which are not described in this document. Such properties are for internal server use and must not be modified unless specifically instructed by Scene7 Tech Support.
+>Most server configuration files contain additional properties and values which are not described in this document. Such properties are for internal server use and must not be modified unless specifically instructed by Dynamic Media technical support.
 
 This document discusses settings for the following configuration files: 
 

@@ -4,7 +4,7 @@ seo-description: Properties of a ZIP archive asset.
 seo-title: ZipInfo
 solution: Experience Manager
 title: ZipInfo
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: e0072a4a-195d-492e-a788-5c0318ccbe99
 ---
 
@@ -18,7 +18,7 @@ Properties of a ZIP archive asset.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`originalPath`*`  | `xsd:string`  | File path.  |
-|  ` *`originalFile`*`  | `xsd:string`  | File name.  |
-|  ` *`fileSize`*`  | `xsd:int`  | File size.  |
+|  `*`originalPath`*`  | `xsd:string`  | File path.  |
+|  `*`originalFile`*`  | `xsd:string`  | File name.  |
+|  `*`fileSize`*`  | `xsd:int`  | File size.  |
 

@@ -4,7 +4,7 @@ seo-description: Client cache TTL for non-image responses. Provides the expirati
 seo-title: NonImgExpiration
 solution: Experience Manager
 title: NonImgExpiration
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 19b37bd4-f7cf-4b5f-be1a-b2d9fda5b4b1
 ---
 

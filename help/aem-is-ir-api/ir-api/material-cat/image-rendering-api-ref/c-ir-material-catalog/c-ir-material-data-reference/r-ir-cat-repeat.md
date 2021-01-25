@@ -4,7 +4,7 @@ seo-description: Texture repeat mode. Specifies how texture images are tiled to 
 seo-title: Repeat
 solution: Experience Manager
 title: Repeat
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: bd15a573-9902-4672-992d-90d171160a46
 ---
 

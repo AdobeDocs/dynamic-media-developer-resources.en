@@ -4,7 +4,7 @@ seo-description: Sharpen texture. Specifies the sharpening to be applied when re
 seo-title: sharp
 solution: Experience Manager
 title: sharp
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 8265eebf-9cec-4ad3-8b22-0f46f33a89f1
 ---
 

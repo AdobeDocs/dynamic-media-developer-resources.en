@@ -4,7 +4,7 @@ seo-description: These topics contain information about managing content.
 seo-title: Managing content
 solution: Experience Manager
 title: Managing content
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 759697c9-0391-4b93-baac-6d153aed04f8
 ---
 

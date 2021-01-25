@@ -4,7 +4,7 @@ seo-description: Image Rendering is configured with the fileinstall_folder/conf/
 seo-title: Setup and configure Image Rendering
 solution: Experience Manager
 title: Setup and configure Image Rendering
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: ce76282d-d942-4378-b083-41c95ba97980
 ---
 

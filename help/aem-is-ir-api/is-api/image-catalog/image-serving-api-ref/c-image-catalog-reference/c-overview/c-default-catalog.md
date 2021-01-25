@@ -4,7 +4,7 @@ seo-description: The default catalog provides default values for all catalog att
 seo-title: Default catalog
 solution: Experience Manager
 title: Default catalog
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 9f0c967e-a2fa-4ef0-bacb-3dcfb06a8027
 ---
 

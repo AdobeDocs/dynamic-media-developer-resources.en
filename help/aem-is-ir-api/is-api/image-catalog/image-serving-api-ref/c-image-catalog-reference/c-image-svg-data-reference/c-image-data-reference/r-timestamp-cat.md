@@ -2,7 +2,7 @@
 description: TimeStamp
 solution: Experience Manager
 title: TimeStamp
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 3148cc25-3b9a-499a-b0da-1ebe9ae99f69
 ---
 
@@ -26,7 +26,7 @@ Date/time value in Java format. Can be either the integer number of milliseconds
 
 *`offset`* is a time zone offset in hours or `hours:minutes`, relative to GMT. For example, 'PDT' is equivalent to 'GMT -7'.
 
-All elements of string formatted date/time values must be present. If the date/time value is not formatted correctly it is ignored and the modification time of the ` *`catalog`*.ini` file is used instead.
+All elements of string formatted date/time values must be present. If the date/time value is not formatted correctly it is ignored and the modification time of the `*`catalog`*.ini` file is used instead.
 
 ## Default {#section-0cbf801401ff4857bdda168fd12358af}
 

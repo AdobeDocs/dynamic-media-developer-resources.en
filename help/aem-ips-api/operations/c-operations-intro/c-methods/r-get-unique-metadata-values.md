@@ -4,7 +4,7 @@ seo-description: Gets unique metadata field values.
 seo-title: getUniqueMetadataValues
 solution: Experience Manager
 title: getUniqueMetadataValues
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 5b2f95a7-cc0b-4938-99b9-2aefa0ffe693
 ---
 
@@ -30,14 +30,14 @@ Gets unique metadata field values.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company.  |
-|  ` *`fieldHandle`*`  | `xsd:string`  | No  | Handle to metadata field.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company.  |
+|  `*`fieldHandle`*`  | `xsd:string`  | No  | Handle to metadata field.  |
 
 **Output (getUniqueMetadataValuesReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`values`*`  | `type:StringArray`  |  |  |
+|  `*`values`*`  | `type:StringArray`  |  |  |
 
 ## Examples {#section-440f3bc3e5be436cb6ec26117d05f476}
 

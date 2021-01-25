@@ -4,7 +4,7 @@ seo-description: Command values must be http-encoded using %xx escape sequences,
 seo-title: Image Serving HTTP encoding
 solution: Experience Manager
 title: Image Serving HTTP encoding
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: e7fb368b-060a-439e-95a1-16b94d4796dc
 ---
 

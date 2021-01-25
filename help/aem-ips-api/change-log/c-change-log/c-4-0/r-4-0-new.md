@@ -4,7 +4,7 @@ seo-description: Describes new and implemented changes for the IPS API v4.0.
 seo-title: New Additions and Changes
 solution: Experience Manager
 title: New Additions and Changes
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: ca4bbe36-c1b7-471f-90a8-6b695d56ac7a
 ---
 

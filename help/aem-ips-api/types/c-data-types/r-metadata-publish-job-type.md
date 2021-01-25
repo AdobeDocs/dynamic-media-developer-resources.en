@@ -4,7 +4,7 @@ seo-description: Publishes metadata to the metadata server.
 seo-title: MetadataPublishJobType
 solution: Experience Manager
 title: MetadataPublishJobType
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 14cbb67e-56dc-4a25-b871-740be7ea7858
 ---
 

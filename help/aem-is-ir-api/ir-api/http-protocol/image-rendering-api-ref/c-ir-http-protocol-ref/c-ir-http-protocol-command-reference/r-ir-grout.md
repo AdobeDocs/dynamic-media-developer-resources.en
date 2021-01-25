@@ -4,7 +4,7 @@ seo-description: Tile grout color and thickness. Simulates grout for ceramic and
 seo-title: grout
 solution: Experience Manager
 title: grout
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 00069004-40f2-4ab6-85d8-ca197b7bef69
 ---
 
@@ -34,13 +34,13 @@ For maximum control of the grout appearance the following requirements apply:
 
 ## Properties {#section-de78b678245b4ffda48097c345949e77}
 
-Material attribute. ` *`color`*` must be an RGB color value. ` *`width`*` must be a real value 0 or larger.
+Material attribute. `*`color`*` must be an RGB color value. `*`width`*` must be a real value 0 or larger.
 
 Ignored if repeat = 4, 5, 7, 8, 9, 14, or higher, or when specified for materials other than repeatable textures.
 
 ## Default {#section-bfab3621f70b4489a21994ab11b20cc6}
 
-If `grout=` is not specified, the grout in the image is not modified. If ` grout= *`color`*` is specified, ` *`width`*` defaults to `catalog::GroutWidth`.
+If `grout=` is not specified, the grout in the image is not modified. If ` grout= *`color`*` is specified, `*`width`*` defaults to `catalog::GroutWidth`.
 
 ## See also {#section-8d472906a44943f5a8557e98f2fbc71f}
 

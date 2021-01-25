@@ -4,7 +4,7 @@ seo-description: Adjust brightness. Decreases or increases the image brightness.
 seo-title: op_brightness
 solution: Experience Manager
 title: op_brightness
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 751ec9e5-4a70-438d-950c-deff4db034b1
 ---
 

@@ -1,11 +1,8 @@
 ---
 description: Adds a user to an array of groups.
-seo-description: Adds a user to an array of groups.
-seo-title: addGroupMembership
 solution: Experience Manager
 title: addGroupMembership
-topic: Scene7 Image Production System API
-uuid: a8e25f27-c300-424d-83ac-e41bb4cb7964
+topic: Dynamic Media Image Production System API
 ---
 
 # addGroupMembership{#addgroupmembership}
@@ -55,7 +52,7 @@ The IPS API does not return a response for this operation.
 
 ## Examples {#section-f7a1f40c3d7a40ea964b29056c734d81}
 
-This example adds a group to a company with ` *`groupHandleArray`*`. This example uses one group only.
+This example adds a group to a company with `*`groupHandleArray`*`. This example uses one group only.
 
 **Request** 
 

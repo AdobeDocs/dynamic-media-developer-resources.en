@@ -4,7 +4,7 @@ seo-description: Used by getJobLogsParam/sortBy
 seo-title: Job Log Sort Fields
 solution: Experience Manager
 title: Job Log Sort Fields
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 20f870da-421b-4cb0-8287-0220ad9b9cb5
 ---
 

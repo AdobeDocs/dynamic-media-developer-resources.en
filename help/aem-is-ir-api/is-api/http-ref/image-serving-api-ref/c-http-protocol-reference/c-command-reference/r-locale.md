@@ -4,7 +4,7 @@ seo-description: Translation Locale Id. Specifies the locale id for the request.
 seo-title: locale
 solution: Experience Manager
 title: locale
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 82acc0bb-fd94-44c9-8ff9-3b9cefab4627
 ---
 

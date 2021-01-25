@@ -4,7 +4,7 @@ seo-description: Watermark selector. Specifies the catalog Id of the catalog rec
 seo-title: Watermark
 solution: Experience Manager
 title: Watermark
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 18add7ab-0797-4ab3-a7e8-05c745abe605
 ---
 

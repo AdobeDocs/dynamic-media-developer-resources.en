@@ -4,7 +4,7 @@ seo-description: An object or container in the folder hierarchy.
 seo-title: Asset
 solution: Experience Manager
 title: Asset
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 758ac593-98d8-4366-a723-a06435c7fd3c
 ---
 

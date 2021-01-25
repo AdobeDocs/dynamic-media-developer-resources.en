@@ -4,7 +4,7 @@ seo-description: Perspective transform. Apply a perspective transform to the lay
 seo-title: perspective
 solution: Experience Manager
 title: perspective
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: b22d7b49-db08-48df-80bc-5b7237aea475
 ---
 

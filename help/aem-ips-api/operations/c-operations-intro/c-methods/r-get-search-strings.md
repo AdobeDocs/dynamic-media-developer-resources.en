@@ -4,7 +4,7 @@ seo-description: Gets the search strings, keywords, and other information about 
 seo-title: getSearchStrings
 solution: Experience Manager
 title: getSearchStrings
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 9d588d6b-c79c-4531-a2e8-8467254a7985
 ---
 
@@ -27,14 +27,14 @@ Gets the search strings, keywords, and other information about an asset. The res
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company.  |
-|  ` *`assetHandle`*`  | `xsd:string`  | Yes  | Handle to the asset.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company.  |
+|  `*`assetHandle`*`  | `xsd:string`  | Yes  | Handle to the asset.  |
 
 **Output (getSearchStringsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`searchStringArray`*`  | `types:SearchStrings`  | Yes  | An array of asset search strings.  |
+|  `*`searchStringArray`*`  | `types:SearchStrings`  | Yes  | An array of asset search strings.  |
 
 ## Examples {#section-e1f73bff6e4440c489d59cb9aa5384d8}
 

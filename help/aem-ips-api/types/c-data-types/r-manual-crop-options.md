@@ -4,7 +4,7 @@ seo-description: Manual crop options for images.
 seo-title: ManualCropOptions
 solution: Experience Manager
 title: ManualCropOptions
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: ac3710d9-14b0-4e2f-90a5-f66fe37851ab
 ---
 
@@ -18,8 +18,8 @@ Manual crop options for images.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`left`*`  | `xsd:int`  | The left position of the manual crop in pixels.  |
-|  ` *`right`*`  | `xsd:int`  | The right position of the manual crop in pixels.  |
-|  ` *`top`*`  | `xsd:int`  | The top position of the manual crop in pixels.  |
-|  ` *`bottom`*`  | `xsd:int`  | The bottom position of the manual crop in pixels.  |
+|  `*`left`*`  | `xsd:int`  | The left position of the manual crop in pixels.  |
+|  `*`right`*`  | `xsd:int`  | The right position of the manual crop in pixels.  |
+|  `*`top`*`  | `xsd:int`  | The top position of the manual crop in pixels.  |
+|  `*`bottom`*`  | `xsd:int`  | The bottom position of the manual crop in pixels.  |
 

@@ -1,11 +1,8 @@
 ---
 description: Creates a user account and adds that account to one or more companies.
-seo-description: Creates a user account and adds that account to one or more companies.
-seo-title: addUser
 solution: Experience Manager
 title: addUser
-topic: Scene7 Image Production System API
-uuid: b8c5ada6-470e-4795-a4f3-20750da709a9
+topic: Dynamic Media Image Production System API
 ---
 
 # addUser{#adduser}
@@ -27,20 +24,20 @@ Creates a user account and adds that account to one or more companies.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`firstName`*`  | `xsd:string`  | Yes  | The user's first name.  |
-|  ` *`lastName`*`  | `xsd:string`  | Yes  | The user's last name.  |
-|  ` *`email`*`  | `xsd:string`  | Yes  | The user's email address.  |
-|  ` *`defaultRole`*`  | `xsd:string`  | Yes  |Sets the role for a user in each company they belong to. Note, however, the `IpsAdmin` role overrides other per-company settings.  |
-|  ` *`password`*`  | `xsd:string`  | Yes  | Sets the user's password  |
-|  ` *`passwordExpires`*`  | `xsd:dateTime`  | No  | Sets the password expiration period. Provide the time zone when passing in the request. Time zones are adjusted to Central Time.  |
-|  ` *`isValid`*`  | `xsd:boolean`  | Yes  | Determines if the user is valid.  |
-|  ` *`membershipArray`*`  | `xsd:CompanyMembershipUpdateArray`  | Yes  | An array of company handles.  |
+|  `*`firstName`*`  | `xsd:string`  | Yes  | The user's first name.  |
+|  `*`lastName`*`  | `xsd:string`  | Yes  | The user's last name.  |
+|  `*`email`*`  | `xsd:string`  | Yes  | The user's email address.  |
+|  `*`defaultRole`*`  | `xsd:string`  | Yes  |Sets the role for a user in each company they belong to. Note, however, the `IpsAdmin` role overrides other per-company settings.  |
+|  `*`password`*`  | `xsd:string`  | Yes  | Sets the user's password  |
+|  `*`passwordExpires`*`  | `xsd:dateTime`  | No  | Sets the password expiration period. Provide the time zone when passing in the request. Time zones are adjusted to Central Time.  |
+|  `*`isValid`*`  | `xsd:boolean`  | Yes  | Determines if the user is valid.  |
+|  `*`membershipArray`*`  | `xsd:CompanyMembershipUpdateArray`  | Yes  | An array of company handles.  |
 
 **Output (addUserParam)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`userHandle`*`  | `xsd:string`  | Yes  | The handle to the user.  |
+|  `*`userHandle`*`  | `xsd:string`  | Yes  | The handle to the user.  |
 
 ## Examples {#section-2547cef622734b71919eef849960b5cb}
 

@@ -4,7 +4,7 @@ seo-description: Sets metadata values for an asset. Works with an array of metad
 seo-title: setAssetMetadata
 solution: Experience Manager
 title: setAssetMetadata
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 17fe8277-a164-4f91-af96-ea43d41bd4f2
 ---
 
@@ -33,9 +33,9 @@ Sets metadata values for an asset. Works with an array of metadata updates to se
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company with the asset you want to update.  |
-|  ` *`assetHandle`*`  | `xsd:string`  | Yes  | The handle to the asset.  |
-|  ` *`updateArray`*`  | `types:MetadataUpdateArray`  | Yes  | Updates in a metadata update array.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company with the asset you want to update.  |
+|  `*`assetHandle`*`  | `xsd:string`  | Yes  | The handle to the asset.  |
+|  `*`updateArray`*`  | `types:MetadataUpdateArray`  | Yes  | Updates in a metadata update array.  |
 
 **Output (setAssetMetadataReturn)**
 

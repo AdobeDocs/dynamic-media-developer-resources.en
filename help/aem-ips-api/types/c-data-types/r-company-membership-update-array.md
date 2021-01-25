@@ -2,7 +2,7 @@
 description: CompanyMembershipUpdateArray
 solution: Experience Manager
 title: CompanyMembershipUpdateArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: bd09daae-f303-4048-baf0-152368904068
 ---
 
@@ -14,5 +14,5 @@ uuid: bd09daae-f303-4048-baf0-152368904068
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:CompanyMembershipUpdate`  | |
+|  `*`items`*`  | `types:CompanyMembershipUpdate`  | |
 

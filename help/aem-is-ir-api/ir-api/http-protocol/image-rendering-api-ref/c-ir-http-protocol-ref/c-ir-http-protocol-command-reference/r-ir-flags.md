@@ -4,7 +4,7 @@ seo-description: Apply flags. Specifies additional render options.
 seo-title: flags
 solution: Experience Manager
 title: flags
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 43ed24fe-461e-4973-aa44-8fba66668e6f
 ---
 

@@ -4,7 +4,7 @@ seo-description: An array of publish contexts.
 seo-title: PublishContextArray
 solution: Experience Manager
 title: PublishContextArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 47aa483c-c141-499b-b58c-7b09cc9c2a4b
 ---
 
@@ -18,5 +18,5 @@ An array of publish contexts.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`PublishContextArray`*`  | `types:PublishContext`  | An array of publish contexts.  |
+|  `*`PublishContextArray`*`  | `types:PublishContext`  | An array of publish contexts.  |
 

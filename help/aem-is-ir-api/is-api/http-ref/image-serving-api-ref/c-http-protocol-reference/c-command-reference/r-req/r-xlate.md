@@ -4,7 +4,7 @@ seo-description: Available locale-specific versions. Returns a list of available
 seo-title: xlate
 solution: Experience Manager
 title: xlate
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 4c2370e5-1d46-4242-89bb-a5ce416ef63c
 ---
 

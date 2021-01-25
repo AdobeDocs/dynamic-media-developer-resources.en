@@ -1,11 +1,8 @@
 ---
 description: Describes new and changed operations methods for the IPS API version 6.
-seo-description: Describes new and changed operations methods for the IPS API version 6.
-seo-title: Operations  New and Modified
 solution: Experience Manager
 title: Operations  New and Modified
-topic: Scene7 Image Production System API
-uuid: e36f0d5c-0170-4a65-9347-c7fd3538726b
+topic: Dynamic Media Image Production System API
 ---
 
 # Operations: New and Modified{#operations-new-and-modified}
@@ -29,33 +26,33 @@ Describes new and changed operations methods for the IPS API version 6.
 
 * Added `isHidden` and `initialTagValue` to:
 
-    * `saveMetadataField`
-    * ` `updateMetadataField``
-    * `createMetadataField`
+  * `saveMetadataField`
+  * ` `updateMetadataField``
+  * `createMetadataField`
 
 * Added `thumbAssetHandle` to:
 
-    * `createImageSet`
-    * `createAssetSet`
+  * `createImageSet`
+  * `createAssetSet`
 
   Added `companyHandle` to:
 
-    * `getViewerConfigSettings`
-    * `setViewerConfigSettings`
-    * `updateViewerConfigSettings`
-    * `getSearchStrings`
+  * `getViewerConfigSettings`
+  * `setViewerConfigSettings`
+  * `updateViewerConfigSettings`
+  * `getSearchStrings`
 
   Added `contextHandle` to:
 
-    * `getImageServingPublishSettings`
-    * `getImageRenderingPublishSettings`
-    * `setImageServingPublishSettings`
-    * `setImageRenderingPublishSettings`
+  * `getImageServingPublishSettings`
+  * `getImageRenderingPublishSettings`
+  * `setImageServingPublishSettings`
+  * `setImageRenderingPublishSettings`
 
 * Added includeInactive to:
 
-    * `getUsers`. 
-    * `getUserChars`.
+  * `getUsers`. 
+  * `getUserChars`.
 
 * Added `permissionArray` to `createPropertySet`. 
 

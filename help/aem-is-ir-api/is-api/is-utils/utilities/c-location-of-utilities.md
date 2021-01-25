@@ -4,7 +4,7 @@ seo-description: Image Serving includes three utilities.
 seo-title: Location of utilities
 solution: Experience Manager
 title: Location of utilities
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: e06c4ba1-e00f-464c-a6cf-54dcbabbfb45
 ---
 

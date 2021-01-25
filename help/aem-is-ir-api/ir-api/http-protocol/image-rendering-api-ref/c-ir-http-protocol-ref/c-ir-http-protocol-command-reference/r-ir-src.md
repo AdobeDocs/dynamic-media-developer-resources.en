@@ -4,7 +4,7 @@ seo-description: Material file. Specifies material data, either in form of a sin
 seo-title: src
 solution: Experience Manager
 title: src
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 52751bcc-a65d-4441-a3b5-802d27b54b54
 ---
 
@@ -87,7 +87,7 @@ If *`catId`* is not specified, the session catalog is used.
 
 ## Supported file formats {#section-f2186d3eef834fc8bbecb2bc68daacad}
 
-Image Rendering supports the same source image formats as Scene7 Image Serving.
+Image Rendering supports the same source image formats as Dynamic Media Image Serving.
 
 Applications which require image data in multiple different resolutions will perform best when using the Scene7 pyramid TIFF (PTIFF) multi-resolution format. Image Serving includes the Image Converter (IC) utility which creates PTIFF images from any supported format.
 

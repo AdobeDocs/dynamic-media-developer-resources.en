@@ -4,7 +4,7 @@ seo-description: Generates a new password.
 seo-title: generatePassword
 solution: Experience Manager
 title: generatePassword
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: e3367bfc-d437-4a61-83e8-69830154dc61
 ---
 
@@ -36,7 +36,7 @@ None.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`password`*`  | `xsd:string`  | Yes  | A new password.  |
+|  `*`password`*`  | `xsd:string`  | Yes  | A new password.  |
 
 ## Examples {#section-f580fefdccec46fe95359e3aef0ed17f}
 

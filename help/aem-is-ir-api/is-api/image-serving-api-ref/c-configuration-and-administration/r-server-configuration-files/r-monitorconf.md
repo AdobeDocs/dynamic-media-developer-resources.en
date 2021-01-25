@@ -4,7 +4,7 @@ seo-description: Contains settings for the monitoring/alerting system.
 seo-title: monitor.conf
 solution: Experience Manager
 title: monitor.conf
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 31949797-df2c-4b7c-841b-4c623299a228
 ---
 

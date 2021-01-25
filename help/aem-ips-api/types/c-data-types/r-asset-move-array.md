@@ -4,7 +4,7 @@ seo-description: Array of asset moves.
 seo-title: AssetMoveArray
 solution: Experience Manager
 title: AssetMoveArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 303948e6-9b83-4801-9c20-99dff15925ed
 ---
 
@@ -18,5 +18,5 @@ Array of asset moves.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `type:AssetMove`  | Array of asset moves.  |
+|  `*`items`*`  | `type:AssetMove`  | Array of asset moves.  |
 

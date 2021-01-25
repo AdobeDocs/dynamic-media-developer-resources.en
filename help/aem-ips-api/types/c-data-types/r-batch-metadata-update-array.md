@@ -4,7 +4,7 @@ seo-description: An array of batch metadata updates.
 seo-title: BatchMetadataUpdateArray
 solution: Experience Manager
 title: BatchMetadataUpdateArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: f095fd2a-025f-4a12-9637-d49d3324955c
 ---
 
@@ -18,5 +18,5 @@ An array of batch metadata updates.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:BatchMetadataUpdate`  | The array of batch updates.  |
+|  `*`items`*`  | `types:BatchMetadataUpdate`  | The array of batch updates.  |
 

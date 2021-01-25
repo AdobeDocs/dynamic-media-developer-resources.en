@@ -4,7 +4,7 @@ seo-description: Array of job log details.
 seo-title: JobLogDetailArray
 solution: Experience Manager
 title: JobLogDetailArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 83b499df-2b0c-43a8-986a-6d728e41655f
 ---
 
@@ -18,5 +18,5 @@ Array of job log details.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:JobLogDetail`  | An array of job log details.  |
+|  `*`items`*`  | `types:JobLogDetail`  | An array of job log details.  |
 

@@ -4,7 +4,7 @@ seo-description: Request modifier string. None or more Image Rendering commands 
 seo-title: Modifier
 solution: Experience Manager
 title: Modifier
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 725724dd-b664-4d43-8072-a79ea7e7fcce
 ---
 

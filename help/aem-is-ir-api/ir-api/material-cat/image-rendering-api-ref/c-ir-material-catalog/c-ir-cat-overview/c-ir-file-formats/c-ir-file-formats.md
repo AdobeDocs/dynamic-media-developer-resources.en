@@ -4,7 +4,7 @@ seo-description: Both catalog attribute files and catalog data files are plain t
 seo-title: File formats
 solution: Experience Manager
 title: File formats
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: dd297afd-8344-4656-b135-925fe59f1981
 ---
 

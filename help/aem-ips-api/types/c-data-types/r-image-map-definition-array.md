@@ -4,7 +4,7 @@ seo-description: An array of image map definitions.
 seo-title: ImageMapDefinitionArray
 solution: Experience Manager
 title: ImageMapDefinitionArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 3d828b12-68df-4180-b39b-d261c3ac9539
 ---
 
@@ -18,5 +18,5 @@ An array of image map definitions.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:ImageMapDefinition`  | Array of image map definitions.  |
+|  `*`items`*`  | `types:ImageMapDefinition`  | Array of image map definitions.  |
 

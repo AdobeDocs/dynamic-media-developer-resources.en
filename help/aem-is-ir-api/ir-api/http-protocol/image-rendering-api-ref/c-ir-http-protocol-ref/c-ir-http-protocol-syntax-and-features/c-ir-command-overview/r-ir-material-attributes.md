@@ -4,7 +4,7 @@ seo-description: These attributes define materials to be applied to the selected
 seo-title: Material attributes
 solution: Experience Manager
 title: Material attributes
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: afdff304-f607-4820-bdb2-f428271efb87
 ---
 

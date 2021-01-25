@@ -4,7 +4,7 @@ seo-description: Returns company groups.
 seo-title: getGroups
 solution: Experience Manager
 title: getGroups
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: d6e1542d-83a2-4b25-a986-2465e9e5a145
 ---
 
@@ -26,13 +26,13 @@ Returns company groups.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company.  |
 
 **Output (getGroupsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`groupArray`*`  | `types:GroupArray`  | Yes  | Array of groups.  |
+|  `*`groupArray`*`  | `types:GroupArray`  | Yes  | Array of groups.  |
 
 ## Examples {#section-ed0708f611574354bf0c6ea83912b531}
 

@@ -4,7 +4,7 @@ seo-description: Set of named assets.
 seo-title: Project
 solution: Experience Manager
 title: Project
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 7b933c10-d566-4c88-a7c5-c161e4e2cb91
 ---
 
@@ -18,6 +18,6 @@ Set of named assets.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`project Handle`*`  | `xsd:string`  | Project handle.  |
-|  ` *`name`*`  | `xsd:string`  | Project name.  |
+|  `*`project Handle`*`  | `xsd:string`  | Project handle.  |
+|  `*`name`*`  | `xsd:string`  | Project name.  |
 

@@ -4,7 +4,7 @@ seo-description: This section describes all editable configuration settings, gro
 seo-title: Server settings
 solution: Experience Manager
 title: Server settings
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: dc4deefe-c354-4d01-a1d2-815597994adc
 ---
 

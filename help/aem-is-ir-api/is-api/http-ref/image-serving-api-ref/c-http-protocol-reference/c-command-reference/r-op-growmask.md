@@ -4,7 +4,7 @@ seo-description: Dilate/erode image. Applies a morphological dilate (radius > 0)
 seo-title: op_growMask
 solution: Experience Manager
 title: op_growMask
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 016501e8-33c5-4c9e-8d26-120b1e929c55
 ---
 

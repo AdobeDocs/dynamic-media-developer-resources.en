@@ -4,7 +4,7 @@ seo-description: Use the following commands for advanced text formatting.
 seo-title: Advanced text formatting
 solution: Experience Manager
 title: Advanced text formatting
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 340166a5-5aef-4081-9114-a715cde68891
 ---
 
@@ -64,7 +64,7 @@ Use the following commands for advanced text formatting.
   <tr> 
    <td> <span class="codeph"> \charscaley <span class="varname"> N </span> </span> </td> 
    <td> <p>Vertical character scaling. </p> </td> 
-   <td> <p>Positive or negative percent; default is 100; Scene7 extension. </p> <p> <span class="codeph"> \charscaley </span> also scales line spacing when applied with <span class="codeph"> text= </span>. <span class="codeph"> textPs= </span> always preserves line spacing regardless of the amount of vertical character scaling. </p> </td> 
+   <td> <p>Positive or negative percent; default is 100; Dynamic Media extension. </p> <p> <span class="codeph"> \charscaley </span> also scales line spacing when applied with <span class="codeph"> text= </span>. <span class="codeph"> textPs= </span> always preserves line spacing regardless of the amount of vertical character scaling. </p> </td> 
   </tr> 
   <tr> 
    <td> <span class="codeph"> \ltrch </span> </td> 
@@ -79,17 +79,17 @@ Use the following commands for advanced text formatting.
   <tr> 
    <td> <span class="codeph"> \copyfit <span class="varname"> N </span> </span> </td> 
    <td> <p>Enable copy-fitting and set largest allowed font size. </p> </td> 
-   <td> <p>Font size in half-points; <span class="codeph"> textPs= </span> only; Scene7 extension. </p> </td> 
+   <td> <p>Font size in half-points; <span class="codeph"> textPs= </span> only; Dynamic Media extension. </p> </td> 
   </tr> 
   <tr> 
    <td> <span class="codeph"> \copyfitlines <span class="varname"> N </span> </span> </td> 
    <td> <p>Maximum copy-fit lines (soft limiting). </p> </td> 
-   <td> <p>0 for no line limitation; <span class="codeph"> textPs= </span> only; Scene7 extension. </p> </td> 
+   <td> <p>0 for no line limitation; <span class="codeph"> textPs= </span> only; Dynamic Media extension. </p> </td> 
   </tr> 
   <tr> 
    <td> <span class="codeph"> \copyfitmaxlines <span class="varname"> N </span> </span> </td> 
    <td> <p>Maximum copy-fit lines (truncating). </p> </td> 
-   <td> <p> <span class="codeph"> textPs= </span> only; Scene7 extension. </p> </td> 
+   <td> <p> <span class="codeph"> textPs= </span> only; Dynamic Media extension. </p> </td> 
   </tr> 
   <tr> 
    <td> <span class="codeph"> \baselinedir <span class="varname"> N </span> </span> </td> 

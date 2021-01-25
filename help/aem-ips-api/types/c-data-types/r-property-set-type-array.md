@@ -4,7 +4,7 @@ seo-description: Property set type array.
 seo-title: PropertySetTypeArray
 solution: Experience Manager
 title: PropertySetTypeArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: a35e55fe-7e61-4060-b0c2-93b551ad757d
 ---
 
@@ -18,5 +18,5 @@ Property set type array.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:PropertySetType`  | The property set type array.  |
+|  `*`items`*`  | `types:PropertySetType`  | The property set type array.  |
 

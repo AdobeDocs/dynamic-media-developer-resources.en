@@ -4,7 +4,7 @@ seo-description: Publishes all the images, templates, and spin sets that are mar
 seo-title: ServerDirectoryPublishJob
 solution: Experience Manager
 title: ServerDirectoryPublishJob
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 779f2c13-f57c-4244-b8bd-debed2b0f9af
 ---
 
@@ -18,6 +18,6 @@ Publishes all the images, templates, and spin sets that are marked ready to publ
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`emailSettings`*`  | `xsd:string`  | Choice of email settings.  |
-|  ` *`httpCompletionUrl`*`  | `xsd:string`  | URL to send a completion notice.  |
+|  `*`emailSettings`*`  | `xsd:string`  | Choice of email settings.  |
+|  `*`httpCompletionUrl`*`  | `xsd:string`  | URL to send a completion notice.  |
 

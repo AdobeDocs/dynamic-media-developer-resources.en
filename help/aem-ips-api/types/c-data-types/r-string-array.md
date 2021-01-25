@@ -4,7 +4,7 @@ seo-description: An array of strings.
 seo-title: StringArray
 solution: Experience Manager
 title: StringArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: d7be5c7b-6086-47bd-ac0d-84b375f2df2f
 ---
 
@@ -18,5 +18,5 @@ An array of strings.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `xsd:string`  | An array of strings.  |
+|  `*`items`*`  | `xsd:string`  | An array of strings.  |
 

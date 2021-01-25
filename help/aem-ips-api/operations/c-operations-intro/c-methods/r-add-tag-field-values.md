@@ -1,11 +1,8 @@
 ---
 description: Adds new tag values to the dictionary of an existing tag field.
-seo-description: Adds new tag values to the dictionary of an existing tag field.
-seo-title: addTagFieldValues
 solution: Experience Manager
 title: addTagFieldValues
-topic: Scene7 Image Production System API
-uuid: 9304f02c-a1df-4477-ab33-f2491c390c92
+topic: Dynamic Media Image Production System API
 ---
 
 # addTagFieldValues{#addtagfieldvalues}
@@ -26,9 +23,9 @@ Adds new tag values to the dictionary of an existing tag field.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle of the company containing the tag field.  |
-|  ` *`fieldHandle`*`  | `xsd:string`  | Yes  | The handle of the tag field to be modified.  |
-|  ` *`valueArray`*`  | `xsd:string`  | Yes  | An array of tag values to add to the field's existing dictionary.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle of the company containing the tag field.  |
+|  `*`fieldHandle`*`  | `xsd:string`  | Yes  | The handle of the tag field to be modified.  |
+|  `*`valueArray`*`  | `xsd:string`  | Yes  | An array of tag values to add to the field's existing dictionary.  |
 
 **Output (addTagFieldValuesParam)**
 

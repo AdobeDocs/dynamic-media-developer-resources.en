@@ -4,7 +4,7 @@ seo-description: The session catalog is the material catalog which provides sess
 seo-title: Session catalog
 solution: Experience Manager
 title: Session catalog
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 69c0f6cd-dfaf-47bf-bdd9-7abb4e6f7465
 ---
 

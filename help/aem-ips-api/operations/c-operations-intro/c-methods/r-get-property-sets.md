@@ -4,7 +4,7 @@ seo-description: Gets property sets associated with a type handle.
 seo-title: getPropertySets
 solution: Experience Manager
 title: getPropertySets
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: fa3cadb3-92b3-4ffb-ac1e-87a01b98bcb2
 ---
 
@@ -32,15 +32,15 @@ Gets property sets associated with a type handle.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`typeHandle`*`  | `xsd:string`  | Yes  | The handle to the property set type.  |
-|  ` *`primaryOwnerHandle`*`  | `xsd:string`  | Yes  | The primary owner of the data bound to the database object.  |
-|  ` *`secondaryOwnerHandle`*`  | `xsd:string`  | No  | An optional secondary owner of the data.  |
+|  `*`typeHandle`*`  | `xsd:string`  | Yes  | The handle to the property set type.  |
+|  `*`primaryOwnerHandle`*`  | `xsd:string`  | Yes  | The primary owner of the data bound to the database object.  |
+|  `*`secondaryOwnerHandle`*`  | `xsd:string`  | No  | An optional secondary owner of the data.  |
 
 **Output (getPropertySetsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`setArray`*`  | `types:PropertySetArray`  | Yes  | Arry of property sets.  |
+|  `*`setArray`*`  | `types:PropertySetArray`  | Yes  | Arry of property sets.  |
 
 ## Examples {#section-1358af974eab4259864910337a6f0bd2}
 

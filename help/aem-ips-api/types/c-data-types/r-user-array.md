@@ -4,7 +4,7 @@ seo-description: An array of users.
 seo-title: UserArray
 solution: Experience Manager
 title: UserArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 5b78918b-4d6b-4d0d-90b8-6b8a7c97c5f0
 ---
 
@@ -18,5 +18,5 @@ An array of users.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:User`  | An array of users.  |
+|  `*`items`*`  | `types:User`  | An array of users.  |
 

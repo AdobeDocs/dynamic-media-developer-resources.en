@@ -4,7 +4,7 @@ seo-description: Array of auxiliary job log detail types.
 seo-title: JobLogDetailAuxArray
 solution: Experience Manager
 title: JobLogDetailAuxArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: f55e10aa-eedf-41fa-bed5-f6a373d89482
 ---
 
@@ -18,5 +18,5 @@ Array of auxiliary job log detail types.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:JobLogDetailAux`  | An array of auxiliary job log detail types.  |
+|  `*`items`*`  | `types:JobLogDetailAux`  | An array of auxiliary job log detail types.  |
 

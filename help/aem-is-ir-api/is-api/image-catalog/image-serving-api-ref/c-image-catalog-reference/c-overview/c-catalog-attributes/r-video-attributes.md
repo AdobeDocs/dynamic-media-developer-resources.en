@@ -4,7 +4,7 @@ seo-description: Catalog attribute files recognize these video attributes.
 seo-title: Video attributes
 solution: Experience Manager
 title: Video attributes
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 7fb5edce-f88a-4eec-b314-070445f263b1
 ---
 

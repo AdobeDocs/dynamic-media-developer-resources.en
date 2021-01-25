@@ -4,7 +4,7 @@ seo-description: Regular-expression pattern element. Optional in <rule> elements
 seo-title: expression
 solution: Experience Manager
 title: expression
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: e7ef3769-0090-42d6-8021-1c213f1ee391
 ---
 

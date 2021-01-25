@@ -4,7 +4,7 @@ seo-description: Rules container element. A valid rule set file contains one <ru
 seo-title: ruleset
 solution: Experience Manager
 title: ruleset
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 92e691ac-079e-4f84-9142-80e0c603cfc3
 ---
 

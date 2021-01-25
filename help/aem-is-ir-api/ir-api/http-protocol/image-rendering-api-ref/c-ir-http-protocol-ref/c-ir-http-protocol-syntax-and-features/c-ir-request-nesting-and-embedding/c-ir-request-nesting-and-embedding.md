@@ -4,7 +4,7 @@ seo-description: Image Rendering allows embedding of Image Serving requests and 
 seo-title: Request nesting and embedding *
 solution: Experience Manager
 title: Request nesting and embedding *
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 1884ae71-6ff5-4945-9411-a7183c32b772
 ---
 

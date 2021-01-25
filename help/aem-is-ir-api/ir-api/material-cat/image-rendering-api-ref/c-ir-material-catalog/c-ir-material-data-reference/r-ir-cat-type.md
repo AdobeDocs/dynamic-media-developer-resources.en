@@ -4,7 +4,7 @@ seo-description: Material Type. Surface type of the material. Used in conjunctio
 seo-title: Type
 solution: Experience Manager
 title: Type
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 8e367013-ed4c-4504-baf7-26ea27d96469
 ---
 

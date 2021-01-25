@@ -1,11 +1,8 @@
 ---
-description: This section describes the common operation parameters handled by the IPS Web Service API.
-seo-description: This section describes the common operation parameters handled by the IPS Web Service API.
-seo-title: Operations methods
+description: Describes the common operation parameters handled by the IPS Web Service API.
 solution: Experience Manager
 title: Operations methods
-topic: Scene7 Image Production System API
-uuid: 713646a7-1108-4f93-bec2-3fbe7e548515
+topic: Dynamic Media Image Production System API
 ---
 
 # Operations methods{#operations-methods}

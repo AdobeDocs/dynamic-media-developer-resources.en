@@ -4,7 +4,7 @@ seo-description: An array of keywords.
 seo-title: KeywordsArray
 solution: Experience Manager
 title: KeywordsArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 78da064a-9906-4d79-93b4-4aa0f73358e2
 ---
 
@@ -18,5 +18,5 @@ An array of keywords.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:Keywords`  | An array of keywords.  |
+|  `*`items`*`  | `types:Keywords`  | An array of keywords.  |
 

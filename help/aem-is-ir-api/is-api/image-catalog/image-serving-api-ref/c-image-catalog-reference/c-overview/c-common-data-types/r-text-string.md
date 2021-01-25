@@ -4,7 +4,7 @@ seo-description: Text string data type.
 seo-title: Text string
 solution: Experience Manager
 title: Text string
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: d37ff12d-5c7a-4bb5-af61-44de85a86aa0
 ---
 

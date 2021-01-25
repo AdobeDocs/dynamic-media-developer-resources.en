@@ -4,7 +4,7 @@ seo-description: Returns assets from IPS.
 seo-title: getAssets
 solution: Experience Manager
 title: getAssets
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: ca06af8c-1753-4dfa-a7e6-1196ea769730
 ---
 

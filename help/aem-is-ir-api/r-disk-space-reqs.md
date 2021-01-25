@@ -1,11 +1,8 @@
 ---
 description: In addition to the space necessary to install the software, Image Serving has the following disk space requirements 
-seo-description: In addition to the space necessary to install the software, Image Serving has the following disk space requirements 
-seo-title: Disk space requirements and recommendations
 solution: Experience Manager
 title: Disk space requirements and recommendations
-topic: Scene7 Image Serving - Image Rendering API
-uuid: a6a21886-94d6-45b3-af68-497e039bdbac
+topic: Dynamic Media Image Serving - Image Rendering API
 ---
 
 # Disk space requirements and recommendations{#disk-space-requirements-and-recommendations}
@@ -51,7 +48,7 @@ In addition to the space necessary to install the software, Image Serving has th
 
 ## Disk space requirements for source images {#section-317da75099ad480d9a461c7e706d4f1c}
 
-It is recommended to convert all source images to the pyramid TIFF file format (PTIFF) using the Image Converter command-line tool (IC). This conversion ensures optimal runtime performance of Image Serving for all applications. While the Image Server can process all source file formats accepted by IC, Scene7 does not provide support for such uses.
+It is recommended to convert all source images to the pyramid TIFF file format (PTIFF) using the Image Converter command-line tool (IC). This conversion ensures optimal runtime performance of Image Serving for all applications. While the Image Server can process all source file formats accepted by IC, Dynamic Media does not provide support for such uses.
 
 When you use PTIFF files, the following rules of thumb can help you determine the space requirements.
 

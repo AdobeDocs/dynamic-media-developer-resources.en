@@ -4,7 +4,7 @@ seo-description: Image Serving source data files include image and mask files, f
 seo-title: Source data
 solution: Experience Manager
 title: Source data
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: d654eee7-ef2d-4546-93bb-72f80c38e018
 ---
 
@@ -14,7 +14,7 @@ Image Serving source data files include image and mask files, fonts, and ICC pro
 
 All source data files must be accessible to the Image Server. Image Serving provides a number of alternatives for specifying the location of data files:
 
-` *`install_folder`*/ *`rootPath`*/ *`filePath`*`
+`*`install_folder`*/ *`rootPath`*/ *`filePath`*`
 
 <table id="simpletable_26686444C7EF46D6BC4C0490C8010BF9"> 
  <tr class="strow"> 
@@ -37,9 +37,9 @@ All source data files must be accessible to the Image Server. Image Serving prov
 
 The server combines path segments right to left until an absolute file path is established.
 
-All ` *`rootPath`*` segments can be empty, relative, or absolute path segments.
+All `*`rootPath`*` segments can be empty, relative, or absolute path segments.
 
-` *`catalogPath`*` is either an absolute or relative file path/name. ` *`requestPath`*` must be a relative file path/name.
+`*`catalogPath`*` is either an absolute or relative file path/name. `*`requestPath`*` must be a relative file path/name.
 
 `Multiple IS::RootPath` values can be defined in ImageServerRegistry.xml (or by way of the admin interface). This allows source data files to be distributed across multiple file systems. The Image Server will try alternate paths in the order specified until the data file is found.
 

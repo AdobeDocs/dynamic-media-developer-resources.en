@@ -4,7 +4,7 @@ seo-description: The following fields are recognized in image and SVG data files
 seo-title: Image_SVG data
 solution: Experience Manager
 title: Image_SVG data
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 6f9595b3-d448-4aa1-87fe-edddfdd48873
 ---
 

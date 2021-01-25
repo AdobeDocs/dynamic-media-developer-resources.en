@@ -4,7 +4,7 @@ seo-description: Default render image size. The server constrains reply images t
 seo-title: DefaultPix
 solution: Experience Manager
 title: DefaultPix
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 27574811-a920-4e54-8635-5a643b8655ef
 ---
 

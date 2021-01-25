@@ -4,7 +4,7 @@ seo-description: ID translation map. Specifies the rules used for translating ge
 seo-title: LocaleMap
 solution: Experience Manager
 title: LocaleMap
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 3609a595-2948-43a4-ba8c-fd1a9ea4e26e
 ---
 
@@ -12,7 +12,7 @@ uuid: 3609a595-2948-43a4-ba8c-fd1a9ea4e26e
 
 ID translation map. Specifies the rules used for translating generic image ids to locale-specific IDs.
 
- ` *`item`*&#42;['|' *`item`*]`
+ `*`item`*&#42;['|' *`item`*]`
 
 <table id="simpletable_A6DD1A28F8ED4178A8ADDB2F3AEFC402"> 
  <tr class="strow"> 

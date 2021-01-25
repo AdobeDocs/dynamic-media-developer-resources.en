@@ -4,7 +4,7 @@ seo-description: Color data type.
 seo-title: Color
 solution: Experience Manager
 title: Color
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: ff431b92-7936-41df-9372-b97267cdffd2
 ---
 

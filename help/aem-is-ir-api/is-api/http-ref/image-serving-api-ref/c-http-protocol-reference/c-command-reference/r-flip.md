@@ -4,7 +4,7 @@ seo-description: Flip Layer. Flips the layer horizontally, vertically, or both, 
 seo-title: flip
 solution: Experience Manager
 title: flip
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: d28631f3-2198-4ba3-ab4b-578832db926e
 ---
 

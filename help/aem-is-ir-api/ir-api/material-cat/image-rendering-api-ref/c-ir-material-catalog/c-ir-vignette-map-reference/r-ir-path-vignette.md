@@ -4,7 +4,7 @@ seo-description: Vignette file path. Relative path and name of a vignette file.
 seo-title: Path
 solution: Experience Manager
 title: Path
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 470cee37-9840-402a-bde5-ace8988996d2
 ---
 

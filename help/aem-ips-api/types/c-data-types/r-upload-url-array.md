@@ -4,7 +4,7 @@ seo-description: An array of URL for uploading assets.
 seo-title: UploadUrlArray
 solution: Experience Manager
 title: UploadUrlArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: cb7338cd-5873-4e84-bf6d-39abff3166cd
 ---
 
@@ -18,5 +18,5 @@ An array of URL for uploading assets.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:UploadUrl`  | An array of URLs for uploading assets.  |
+|  `*`items`*`  | `types:UploadUrl`  | An array of URLs for uploading assets.  |
 

@@ -1,16 +1,13 @@
 ---
-description: Vignettes are images authored with Scene7 Image Authoring for use with Image Rendering.
-seo-description: Vignettes are images authored with Scene7 Image Authoring for use with Image Rendering.
-seo-title: Vignettes
+description: Vignettes are images authored with Dynamic Media Image Authoring for use with Image Rendering.
 solution: Experience Manager
 title: Vignettes
-topic: Scene7 Image Serving - Image Rendering API
-uuid: 31d6b2b7-57c4-4fef-a498-c357c3724356
+topic: Dynamic Media Image Serving - Image Rendering API
 ---
 
 # Vignettes{#vignettes}
 
-Vignettes are images authored with Scene7 Image Authoring for use with Image Rendering.
+Vignettes are images authored with Dynamic Media Image Authoring for use with Image Rendering.
 
 IR supports two basic types of vignettes, *2D* and *3D*. Room scenes typically are 3D vignettes which can render reflections, while most other scenes, such as apparel or upholstery, are normally 2D vignettes which do not have reflection rendering capability.
 

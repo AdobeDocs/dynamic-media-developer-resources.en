@@ -4,7 +4,7 @@ seo-description: Used by PermissionsUpdate/permissionType, Permission/permission
 seo-title: Permission Types
 solution: Experience Manager
 title: Permission Types
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 08c24010-489f-452f-9fc0-c65d33816200
 ---
 

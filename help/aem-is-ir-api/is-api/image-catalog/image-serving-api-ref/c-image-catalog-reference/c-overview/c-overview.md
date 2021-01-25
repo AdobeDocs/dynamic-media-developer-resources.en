@@ -4,7 +4,7 @@ seo-description: Image catalogs are used to provide information about images and
 seo-title: Overview
 solution: Experience Manager
 title: Overview
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: e8c0401b-9161-4624-babb-6c7afb443e65
 ---
 
@@ -27,6 +27,6 @@ Catalog data files are associated with image catalogs by file references in the 
 
 Catalog attribute files must have an [!DNL .ini] file suffix and must be located in the Platform Server's catalog folder ( `PlatformServer::catalog.rootPath`). Catalog data files can be located in the same folder or any other folder accessible to the Platform Server.
 
-This document describes the Image Catalog file format for the Scene7 Image Serving system. The intended audience is experienced programmers and web site developers who want to leverage Scene7 Image Serving for a web or custom application.
+This document describes the Image Catalog file format for the Dynamic Media Image Serving system. The intended audience is experienced programmers and web site developers who want to leverage Dynamic Media Image Serving for a web or custom application.
 
-It is assumed that the reader is generally familiar with the Scene7 Image Serving system, general HTTP protocol standards and conventions, and basic imaging terminology. 
+It is assumed that the reader is generally familiar with the Dynamic Media Image Serving system, general HTTP protocol standards and conventions, and basic imaging terminology. 

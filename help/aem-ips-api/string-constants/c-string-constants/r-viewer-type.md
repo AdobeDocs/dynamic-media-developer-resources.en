@@ -4,7 +4,7 @@ seo-description: Used by ViewerPresetInfo.
 seo-title: Viewer Type
 solution: Experience Manager
 title: Viewer Type
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 95b438db-35a8-45cf-8ec0-4a85e8b869c5
 ---
 

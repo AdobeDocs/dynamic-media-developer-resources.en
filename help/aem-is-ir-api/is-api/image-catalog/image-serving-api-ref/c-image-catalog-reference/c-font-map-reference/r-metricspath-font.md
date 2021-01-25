@@ -4,7 +4,7 @@ seo-description: Font metrics file path. Path and name of a font metrics file, i
 seo-title: MetricsPath
 solution: Experience Manager
 title: MetricsPath
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: b59110bf-330f-4ca4-8b0a-219a61d383f7
 ---
 

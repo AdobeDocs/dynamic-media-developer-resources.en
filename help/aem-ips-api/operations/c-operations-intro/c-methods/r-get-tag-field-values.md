@@ -4,7 +4,7 @@ seo-description: Gets all tag dictionary values defined for one or more tag fiel
 seo-title: getTagFieldValues
 solution: Experience Manager
 title: getTagFieldValues
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 92d84dfc-6a6c-4876-9670-1152adb6317c
 ---
 
@@ -32,14 +32,14 @@ Gets all tag dictionary values defined for one or more tag fields.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle of the company containing the tag field.  |
-|  ` *`fieldHandleArray`*`  | `types:HandleArray`  | Yes  | An array of field handles to tag values you want returned.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle of the company containing the tag field.  |
+|  `*`fieldHandleArray`*`  | `types:HandleArray`  | Yes  | An array of field handles to tag values you want returned.  |
 
 **Output (getTagFieldValuesReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`fieldArray`*`  | `types:TagFieldValuesArray`  | Yes  | An array of the tag values in the dictionary for each requested field.  |
+|  `*`fieldArray`*`  | `types:TagFieldValuesArray`  | Yes  | An array of the tag values in the dictionary for each requested field.  |
 
 ## Examples {#section-4492742614e44bb191a7d397dc1a1407}
 

@@ -2,7 +2,7 @@
 description: getVignettePublishFormats
 solution: Experience Manager
 title: getVignettePublishFormats
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 2cf58002-5c4a-4391-85d4-4a67cb085afa
 ---
 
@@ -23,13 +23,13 @@ uuid: 2cf58002-5c4a-4391-85d4-4a67cb085afa
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company.  |
 
 **Output (getVignettePublishFormatsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`vignetteFormatArray`*`  | `types:VignettePublishFormatArray`  | Yes  | Array of vignette publish formats.  |
+|  `*`vignetteFormatArray`*`  | `types:VignettePublishFormatArray`  | Yes  | Array of vignette publish formats.  |
 
 ## Examples {#section-2cc32b27cc6243b7b3e273cc05996226}
 

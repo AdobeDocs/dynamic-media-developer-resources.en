@@ -4,7 +4,7 @@ seo-description: RGB default input color profile. Specifies the name of the ICC 
 seo-title: IccProfileSrcRgb
 solution: Experience Manager
 title: IccProfileSrcRgb
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 4f6f19ec-3524-403e-9c79-1e2b25cd74ce
 ---
 

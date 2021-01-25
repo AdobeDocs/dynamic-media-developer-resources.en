@@ -4,7 +4,7 @@ seo-description: Gets specified job logs for the selected company. You can sort 
 seo-title: getJobLogs
 solution: Experience Manager
 title: getJobLogs
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 850ccfad-6cdb-4eda-a20a-762fadadf8b2
 ---
 
@@ -32,19 +32,19 @@ Gets specified job logs for the selected company. You can sort by characters, di
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | No  | The company handle.  |
-|  ` *`userHandle`*`  | `xsd:string`  | No  | Gets logs for jobs submitted by a specific user.  |
-|  ` *`sortBy`*`  | `xsd:string`  | No  | Lets you select sort fields.  |
-|  ` *`sortDirection`*`  | `xsd:string`  | No  | Sort order (ascending or descending).  |
-|  ` *`startDate`*`  | `xsd:dateTime`  | No  | The date and time of the start of the job log. Provide the time zone with the request for this field.  |
-|  ` *`endDate`*`  | `xsd:dateTime`  | No  | The date and time of the end of the job log. Provide the time zone with the request for this field.  |
-|  ` *`numRows`*`  | `xsd:int`  | No  | Maximum number of rows to return.  |
+|  `*`companyHandle`*`  | `xsd:string`  | No  | The company handle.  |
+|  `*`userHandle`*`  | `xsd:string`  | No  | Gets logs for jobs submitted by a specific user.  |
+|  `*`sortBy`*`  | `xsd:string`  | No  | Lets you select sort fields.  |
+|  `*`sortDirection`*`  | `xsd:string`  | No  | Sort order (ascending or descending).  |
+|  `*`startDate`*`  | `xsd:dateTime`  | No  | The date and time of the start of the job log. Provide the time zone with the request for this field.  |
+|  `*`endDate`*`  | `xsd:dateTime`  | No  | The date and time of the end of the job log. Provide the time zone with the request for this field.  |
+|  `*`numRows`*`  | `xsd:int`  | No  | Maximum number of rows to return.  |
 
 **Output (getJobLogsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`jobLogArray`*`  | `types: JobLogArray`  | Yes  | Array of job logs.  |
+|  `*`jobLogArray`*`  | `types: JobLogArray`  | Yes  | Array of job logs.  |
 
 ## Examples {#section-35871c94b4a44559912577efddbc46a6}
 

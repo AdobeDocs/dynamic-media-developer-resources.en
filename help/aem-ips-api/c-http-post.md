@@ -1,11 +1,8 @@
 ---
 description: Uploading assets into Scene7 Production System involves one or more HTTP POST requests that set up a job to coordinate all the log activity associated with the uploaded files.
-seo-description: Uploading assets into Scene7 Production System involves one or more HTTP POST requests that set up a job to coordinate all the log activity associated with the uploaded files.
-seo-title: Uploading assets by way of HTTP POSTs to the UploadFile Servlet
 solution: Experience Manager
 title: Uploading assets by way of HTTP POSTs to the UploadFile Servlet
-topic: Scene7 Image Production System API
-uuid: 8d562316-0849-4b95-a974-29732d453dc8
+topic: Dynamic Media Image Production System API
 ---
 
 # Uploading assets by way of HTTP POSTs to the UploadFile Servlet{#uploading-assets-by-way-of-http-posts-to-the-uploadfile-servlet}
@@ -22,7 +19,7 @@ https://<server>/scene7/UploadFile
 >
 >All POST requests for an upload job must originate from the same IP address.
 
-**Access URLs for Scene7 regions**
+**Access URLs for Dynamic Media regions**
 
 <table id="table_45BB314ABCDA49F38DF7BECF95CC984A"> 
  <thead> 

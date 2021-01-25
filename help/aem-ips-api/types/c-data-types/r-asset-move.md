@@ -4,7 +4,7 @@ seo-description: A handle to an asset and the handle to where it will be moved.
 seo-title: AssetMove
 solution: Experience Manager
 title: AssetMove
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 71335886-efe7-4565-a088-769bcbe7abaf
 ---
 
@@ -18,6 +18,6 @@ A handle to an asset and the handle to where it will be moved.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`assetHandle`*`  | `xsd:string`  | The handle to the asset you want to move.  |
-|  ` *`folderHandle`*`  | `xsd:string`  | The handle to the destination folder.  |
+|  `*`assetHandle`*`  | `xsd:string`  | The handle to the asset you want to move.  |
+|  `*`folderHandle`*`  | `xsd:string`  | The handle to the destination folder.  |
 

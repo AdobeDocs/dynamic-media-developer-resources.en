@@ -4,7 +4,7 @@ seo-description: Returns the members of a group.
 seo-title: getGroupMembership
 solution: Experience Manager
 title: getGroupMembership
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 5ec48e8c-378b-43a3-b3dc-aa21dbf339b5
 ---
 
@@ -30,14 +30,14 @@ Returns the members of a group.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`userHandle`*`  | `xsd:string`  | No  | The handle to the user.  |
-|  ` *`companyHandle`*`  | `xsd:string`  | No  | The handle to the company.  |
+|  `*`userHandle`*`  | `xsd:string`  | No  | The handle to the user.  |
+|  `*`companyHandle`*`  | `xsd:string`  | No  | The handle to the company.  |
 
 **Output (getGroupMembershipReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`groupArray`*`  | `types:GroupArray`  | Yes  | Array of groups.  |
+|  `*`groupArray`*`  | `types:GroupArray`  | Yes  | Array of groups.  |
 
 ## Examples {#section-ebb437369f4f4487b3eb2ef0c078b8ae}
 

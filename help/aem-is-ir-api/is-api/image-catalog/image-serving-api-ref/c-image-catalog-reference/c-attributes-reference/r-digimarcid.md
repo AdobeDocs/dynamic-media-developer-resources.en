@@ -4,7 +4,7 @@ seo-description: Digimarc user info. Specifies the user information for Digimarc
 seo-title: DigimarcId
 solution: Experience Manager
 title: DigimarcId
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 23f1952f-71b7-4b2a-917d-8161ea855ac9
 ---
 

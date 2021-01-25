@@ -4,7 +4,7 @@ seo-description: A metadata field returned by searchAssets.
 seo-title: Metadata
 solution: Experience Manager
 title: Metadata
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: fb7a0ef8-a16c-41e3-84cf-160602cb284b
 ---
 
@@ -18,10 +18,10 @@ A metadata field returned by searchAssets.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`name`*`  | `xsd:string`  | Metadata name.  |
-|  ` *`value`*`  | `xsd:string`  | Metadata value.  |
-|  ` *`boolVal`*`  | `xsd:boolean`  | Boolean metadata value (for Boolean-typed fields only).  |
-|  ` *`longVal`*`  | `xsd:long`  | Long metadata value (for int-typed fields only).  |
-|  ` *`doubleVal`*`  | `xsd:double`  | Double metadata value (for float-typed fields only).  |
-|  ` *`dateVal`*`  | `xsd:dateTime`  | Date metadata value (for date-typed fields only).  |
+|  `*`name`*`  | `xsd:string`  | Metadata name.  |
+|  `*`value`*`  | `xsd:string`  | Metadata value.  |
+|  `*`boolVal`*`  | `xsd:boolean`  | Boolean metadata value (for Boolean-typed fields only).  |
+|  `*`longVal`*`  | `xsd:long`  | Long metadata value (for int-typed fields only).  |
+|  `*`doubleVal`*`  | `xsd:double`  | Double metadata value (for float-typed fields only).  |
+|  `*`dateVal`*`  | `xsd:dateTime`  | Date metadata value (for date-typed fields only).  |
 

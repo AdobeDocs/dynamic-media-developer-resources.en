@@ -4,7 +4,7 @@ seo-description: Gets a list of active publish contexts for the specified compan
 seo-title: getActivePublishContext
 solution: Experience Manager
 title: getActivePublishContext
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 856704d1-e97b-4d2d-b80c-620450b78432
 ---
 
@@ -32,11 +32,11 @@ Gets a list of active publish contexts for the specified company. A publish cont
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company to query for active publish contexts  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company to query for active publish contexts  |
 
 **Output (getActivePublishContextsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`contextArray`*`  | `types:StringArray`  | Yes  | The array of active publish contexts, which may include zero or more values from Publish Context.  |
+|  `*`contextArray`*`  | `types:StringArray`  | Yes  | The array of active publish contexts, which may include zero or more values from Publish Context.  |
 

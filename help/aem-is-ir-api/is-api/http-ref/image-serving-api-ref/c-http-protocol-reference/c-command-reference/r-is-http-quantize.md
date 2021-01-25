@@ -4,7 +4,7 @@ seo-description: Color quantization. Specifies color-quantization attributes for
 seo-title: quantize
 solution: Experience Manager
 title: quantize
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 4e9c4807-59bc-4eb9-bcab-0bf0cfdf56d4
 ---
 
@@ -39,7 +39,7 @@ Color quantization. Specifies color-quantization attributes for GIF output conve
 
 Request attribute. Applies regardless of current layer setting. Used only if `fmt=gif`, `fmt=gif-alpha`, `fmt=png8`, or `fmt=png8-alpha`. Ignored otherwise.
 
-The colors specified with ` *`colorList`*` must consist of RGB values in hex6 format (see ` [color](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-color-commandref.md#reference-b044954ec6184253b8831579466b4423)`) without ' `0x`' prefix. No other color specifiers are permitted. *`numColors`* must be between 2-256.
+The colors specified with `*`colorList`*` must consist of RGB values in hex6 format (see ` [color](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-color-commandref.md#reference-b044954ec6184253b8831579466b4423)`) without ' `0x`' prefix. No other color specifiers are permitted. *`numColors`* must be between 2-256.
 
 ## Default {#section-ca3e817617244e8798ccff67b2023a32}
 

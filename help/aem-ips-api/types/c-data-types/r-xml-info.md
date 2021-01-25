@@ -4,7 +4,7 @@ seo-description: Properties of an XML file asset.
 seo-title: XmlInfo
 solution: Experience Manager
 title: XmlInfo
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 6871adc5-35cf-488f-abcc-20d766514ebd
 ---
 
@@ -18,7 +18,7 @@ Properties of an XML file asset.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`originalPath`*`  | `xsd:string`  | File path.  |
-|  ` *`originalFile`*`  | `xsd:string`  | File name.  |
-|  ` *`fileSize`*`  | `xsd:int`  | File size.  |
+|  `*`originalPath`*`  | `xsd:string`  | File path.  |
+|  `*`originalFile`*`  | `xsd:string`  | File name.  |
+|  `*`fileSize`*`  | `xsd:int`  | File size.  |
 

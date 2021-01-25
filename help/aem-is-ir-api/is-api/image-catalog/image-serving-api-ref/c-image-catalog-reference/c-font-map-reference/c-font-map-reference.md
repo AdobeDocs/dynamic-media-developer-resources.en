@@ -4,7 +4,7 @@ seo-description: If a font map is required for an image catalog, the relative or
 seo-title: Font map reference
 solution: Experience Manager
 title: Font map reference
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 7a6c5eda-3b47-4c23-8a33-7b7e39de29c9
 ---
 

@@ -4,7 +4,7 @@ seo-description: Describes values used by various parameters. See the list in th
 seo-title: User Roles
 solution: Experience Manager
 title: User Roles
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: d971c6aa-981a-4e15-b268-7bd685bad03b
 ---
 

@@ -4,7 +4,7 @@ seo-description: Font asset properties.
 seo-title: FontInfo
 solution: Experience Manager
 title: FontInfo
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 3747fef9-b065-4dc4-9c96-0ea483f1fd56
 ---
 
@@ -18,7 +18,7 @@ Font asset properties.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`originalPath`*`  | `xsd:string`  | Font path.  |
-|  ` *`originalFile`*`  | `xsd:string`  | Font name.  |
-|  ` *`fileSize`*`  | `xsd:int`  | Font size.  |
+|  `*`originalPath`*`  | `xsd:string`  | Font path.  |
+|  `*`originalFile`*`  | `xsd:string`  | Font name.  |
+|  `*`fileSize`*`  | `xsd:int`  | Font size.  |
 

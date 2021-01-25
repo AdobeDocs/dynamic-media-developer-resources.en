@@ -4,7 +4,7 @@ seo-description: Properties of an CSS file asset.
 seo-title: CssInfo
 solution: Experience Manager
 title: CssInfo
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 88575f2b-ace4-4a93-8e35-9685f5893530
 ---
 
@@ -18,7 +18,7 @@ Properties of an CSS file asset.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`originalPath`*`  | `xsd:string`  | Path to the CSS file.  |
-|  ` *`originalFile`*`  | `xsd:string`  | File name.  |
-|  ` *`fileSize`*`  | `xsd:int`  | File size.  |
+|  `*`originalPath`*`  | `xsd:string`  | Path to the CSS file.  |
+|  `*`originalFile`*`  | `xsd:string`  | File name.  |
+|  `*`fileSize`*`  | `xsd:int`  | File size.  |
 

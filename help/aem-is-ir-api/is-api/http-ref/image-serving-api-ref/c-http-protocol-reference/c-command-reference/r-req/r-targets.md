@@ -4,7 +4,7 @@ seo-description: Zoom targets data from image catalog. Returns zoom target data 
 seo-title: targets
 solution: Experience Manager
 title: targets
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: e20dcd2c-913a-4153-97c7-dfb190763e39
 ---
 

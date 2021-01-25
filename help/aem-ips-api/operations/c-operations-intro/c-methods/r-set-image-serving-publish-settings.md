@@ -4,7 +4,7 @@ seo-description: For Scene 7 developers only. Refer to the Image Rendering Mater
 seo-title: setImageServingPublishSettings
 solution: Experience Manager
 title: setImageServingPublishSettings
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 16fc8600-8b04-4078-abb0-201d750b28aa
 ---
 
@@ -20,7 +20,7 @@ For Scene 7 developers only. Refer to the Image Rendering Material Catalog Refer
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`CompanyHandle`*`  | `xsd:string`  | Yes  | Company handle.  |
-|  ` *`publishSettingsArray`*`  | `types:ConfigSettingArray`  | Yes  | For Scene 7 developers only.  |
-|  ` *`contextHandle`*`  | `xsd:string`  | No  | Handle to the publish context.  |
+|  `*`CompanyHandle`*`  | `xsd:string`  | Yes  | Company handle.  |
+|  `*`publishSettingsArray`*`  | `types:ConfigSettingArray`  | Yes  | For Scene 7 developers only.  |
+|  `*`contextHandle`*`  | `xsd:string`  | No  | Handle to the publish context.  |
 

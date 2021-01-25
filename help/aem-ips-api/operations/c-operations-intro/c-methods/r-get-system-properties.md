@@ -4,7 +4,7 @@ seo-description: Retrieves all system properties in a single request.
 seo-title: getSystemProperties
 solution: Experience Manager
 title: getSystemProperties
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 08ea86ba-bde5-45a1-920a-04f784395e6a
 ---
 
@@ -36,7 +36,7 @@ None.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`propertyArray`*`  | `types:PropertyArray`  | Yes  | An array of system properties.  |
+|  `*`propertyArray`*`  | `types:PropertyArray`  | Yes  | An array of system properties.  |
 
 ## Examples {#section-728cc16fe9954b2daa035b4d4d4b4ce6}
 

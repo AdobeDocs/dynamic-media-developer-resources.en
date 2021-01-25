@@ -4,7 +4,7 @@ seo-description: Gets the users that belong to a specific company and group.
 seo-title: getGroupMembers
 solution: Experience Manager
 title: getGroupMembers
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 02322b66-1c0c-4d84-a3eb-97a4fb605318
 ---
 
@@ -26,14 +26,14 @@ Gets the users that belong to a specific company and group.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company.  |
-|  ` *`groupHandle`*`  | `xsd:string`  |  | The handle to the group.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company.  |
+|  `*`groupHandle`*`  | `xsd:string`  |  | The handle to the group.  |
 
 **Output (getGroupMembersReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`userHandleArray`*`  | `type:HandleArray`  | Yes  | An array of user handles.  |
+|  `*`userHandleArray`*`  | `type:HandleArray`  | Yes  | An array of user handles.  |
 
 ## Examples {#section-aaa340dba6b64cce9bcd8303cf999166}
 

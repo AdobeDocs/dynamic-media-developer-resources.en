@@ -4,7 +4,7 @@ seo-description: Hide overlap object. Hides all overlap objects or window coveri
 seo-title: hide
 solution: Experience Manager
 title: hide
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 15c01750-958a-497d-a999-cacf359bb985
 ---
 

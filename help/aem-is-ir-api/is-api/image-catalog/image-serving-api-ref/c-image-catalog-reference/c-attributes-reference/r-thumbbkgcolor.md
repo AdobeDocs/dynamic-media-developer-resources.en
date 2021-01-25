@@ -4,7 +4,7 @@ seo-description: Default background color for thumbnails. RGB value used to fill
 seo-title: ThumbBkgColor
 solution: Experience Manager
 title: ThumbBkgColor
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: c75c01f4-036e-46fd-9bc1-480920c0c05a
 ---
 

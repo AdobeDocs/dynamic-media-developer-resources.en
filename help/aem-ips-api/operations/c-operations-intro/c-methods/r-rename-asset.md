@@ -4,7 +4,7 @@ seo-description: Renames an asset.
 seo-title: renameAsset
 solution: Experience Manager
 title: renameAsset
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: f285d7e4-00df-4d90-a05a-71747a4c54cc
 ---
 
@@ -35,10 +35,10 @@ Renames an asset.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company to which the asset belongs.  |
-|  ` *`assetHandle`*`  | `xsd:string`  | Yes  | The handle to the asset you want to rename.  |
-|  ` *`newName`*`  | `xsd:string`  | Yes  | Asset's new name.  |
-|  ` *`validateName`*`  | `xsd:boolean`  | Yes  |If the `validateName` is `true` and the asset type requires a unique IPS ID, then the new name is checked for global uniqueness and `renameAsset` throws a fault if it is not unique.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company to which the asset belongs.  |
+|  `*`assetHandle`*`  | `xsd:string`  | Yes  | The handle to the asset you want to rename.  |
+|  `*`newName`*`  | `xsd:string`  | Yes  | Asset's new name.  |
+|  `*`validateName`*`  | `xsd:boolean`  | Yes  |If the `validateName` is `true` and the asset type requires a unique IPS ID, then the new name is checked for global uniqueness and `renameAsset` throws a fault if it is not unique.  |
 
 **Output (renameAssetReturn)**
 

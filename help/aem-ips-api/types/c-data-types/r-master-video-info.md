@@ -4,7 +4,7 @@ seo-description: File information for primary video assets.
 seo-title: MasterVideoInfo
 solution: Experience Manager
 title: MasterVideoInfo
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 19f814c9-dddb-41ff-aef2-fb7ea91c130b
 ---
 
@@ -18,7 +18,7 @@ File information for primary video assets.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`originalPath`*`  | `xsd:string`  | File path.  |
-|  ` *`originalFile`*`  | `xsd:string`  | File name.  |
-|  ` *`fileSize`*`  | `xsd:int`  | File size.  |
+|  `*`originalPath`*`  | `xsd:string`  | File path.  |
+|  `*`originalFile`*`  | `xsd:string`  | File name.  |
+|  `*`fileSize`*`  | `xsd:int`  | File size.  |
 

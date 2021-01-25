@@ -4,7 +4,7 @@ seo-description: Align Image with View. Aligns the composite image (possibly aft
 seo-title: align
 solution: Experience Manager
 title: align
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 91940bd4-8e2b-4949-a76d-31cd238783bc
 ---
 

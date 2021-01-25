@@ -4,7 +4,7 @@ seo-description: An array of information about a task item.
 seo-title: TaskItemProgressArray
 solution: Experience Manager
 title: TaskItemProgressArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: f62f1123-bd7c-4099-b36d-58aff283bdb3
 ---
 
@@ -18,5 +18,5 @@ An array of information about a task item.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:TaskItemProgress`  | Task item progress array. Minimum occurrence is zero. Maximum is unbounded.  |
+|  `*`items`*`  | `types:TaskItemProgress`  | Task item progress array. Minimum occurrence is zero. Maximum is unbounded.  |
 

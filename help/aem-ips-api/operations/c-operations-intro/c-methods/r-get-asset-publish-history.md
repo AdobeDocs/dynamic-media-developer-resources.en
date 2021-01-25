@@ -4,7 +4,7 @@ seo-description: Returns the publish history for an asset.
 seo-title: getAssetPublishHistory
 solution: Experience Manager
 title: getAssetPublishHistory
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 15025c3d-eac3-4cb8-9a2a-fd80bd67478f
 ---
 
@@ -32,14 +32,14 @@ Returns the publish history for an asset.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company with the asset publish history.  |
-|  ` *`assetHandle`*`  | `xsd:string`  | Yes  | The asset with the publish history you want to examine.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company with the asset publish history.  |
+|  `*`assetHandle`*`  | `xsd:string`  | Yes  | The asset with the publish history you want to examine.  |
 
 **Output (getAssetPublishHistoryReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`pubHistoryArray`*`  | `types:PublishHistoryArray`  | Yes  | The asset's publish history.  |
+|  `*`pubHistoryArray`*`  | `types:PublishHistoryArray`  | Yes  | The asset's publish history.  |
 
 ## Examples {#section-53897c51e5a047c5bd5ea5a6efb2d114}
 

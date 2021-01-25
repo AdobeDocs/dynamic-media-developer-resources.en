@@ -4,7 +4,7 @@ seo-description: A priority alert is sent when the free Java heap space is below
 seo-title: Heap space priority alert
 solution: Experience Manager
 title: Heap space priority alert
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 89956ad3-8a73-40db-92bd-326e3fab37ee
 ---
 

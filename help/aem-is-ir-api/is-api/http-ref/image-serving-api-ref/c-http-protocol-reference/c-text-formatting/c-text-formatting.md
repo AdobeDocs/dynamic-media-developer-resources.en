@@ -4,7 +4,7 @@ seo-description: Image Serving provides several alternatives to render text, acc
 seo-title: Text formatting
 solution: Experience Manager
 title: Text formatting
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: e67b6dd2-2a78-4014-9525-816d91c9e783
 ---
 
@@ -145,7 +145,7 @@ The following table lists the key features available for each text command:
 
 RTF-compliant strings can be assembled manually or by formatting the desired text in a text editor or word processor capable of saving RTF files. The RTF file may then be opened in a plain text editor, and the relevant raw RTF content of the file copied to the request URL.
 
-Some word processors generate rather large files, which include substantial preambles that are not used by Scene7 Image Serving. It is recommended to remove the unused RTF elements from the string before passing the string to the text commands.
+Some word processors generate rather large files, which include substantial preambles that are not used by Dynamic Media Image Serving. It is recommended to remove the unused RTF elements from the string before passing the string to the text commands.
 
 Language-encoding based on UTF-8 and ISO standards is supported in RTF strings as an alternative to the standard RTF character encoding mechanisms. This allows applications to send non-English text to the server without knowledge of RTF encoding.
 

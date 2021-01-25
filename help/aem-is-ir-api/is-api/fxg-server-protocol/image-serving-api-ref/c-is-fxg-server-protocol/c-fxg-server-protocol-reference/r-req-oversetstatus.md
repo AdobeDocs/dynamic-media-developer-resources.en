@@ -4,7 +4,7 @@ seo-description: Request type. Specifies the type of request.
 seo-title: req
 solution: Experience Manager
 title: req
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 1c8ff9c3-9f39-46a8-bd38-8e0c5ab0f548
 ---
 

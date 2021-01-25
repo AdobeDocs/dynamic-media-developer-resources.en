@@ -4,7 +4,7 @@ seo-description: Detail message responding to one the URLs provided in the CDN i
 seo-title: OperationFault
 solution: Experience Manager
 title: OperationFault
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 879d025b-3269-4f87-b8bd-b7916509d077
 ---
 
@@ -20,6 +20,6 @@ Detail message responding to one the URLs provided in the CDN invalidation reque
 
 |  ** Name** | ** Type** | ** Description** |
 |---|---|---|
-|  ` *`code`*`  | `xsd:int`  | Error code provided from the CDN  |
-|  ` *`reason`*`  | `xsd:string`  | Error message provided from the CDN  |
+|  `*`code`*`  | `xsd:int`  | Error code provided from the CDN  |
+|  `*`reason`*`  | `xsd:string`  | Error message provided from the CDN  |
 

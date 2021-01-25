@@ -4,7 +4,7 @@ seo-description: Image Serving supports Scalable Vector Graphics (SVG) files as 
 seo-title: SVG support
 solution: Experience Manager
 title: SVG support
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 30d7b37d-fdef-4518-a4b3-4baee56fa634
 ---
 

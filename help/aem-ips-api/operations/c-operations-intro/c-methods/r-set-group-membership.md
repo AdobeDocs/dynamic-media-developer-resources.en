@@ -4,7 +4,7 @@ seo-description: Sets group membership for a user.
 seo-title: setGroupMembership
 solution: Experience Manager
 title: setGroupMembership
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 3285fab0-92e4-4b88-9a3c-88cbb97d48c9
 ---
 
@@ -26,9 +26,9 @@ Sets group membership for a user.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`userHandle`*`  | `xsd:string`  | No  | The handle to the user whose group membership you want to set.  |
-|  ` *`companyHandle`*`  | `xsd:string`  | No  | Company handle.  |
-|  ` *`groupHandleArray`*`  | `types:HandleArray`  | Yes  | The array of handles to groups to which the user to belongs.  |
+|  `*`userHandle`*`  | `xsd:string`  | No  | The handle to the user whose group membership you want to set.  |
+|  `*`companyHandle`*`  | `xsd:string`  | No  | Company handle.  |
+|  `*`groupHandleArray`*`  | `types:HandleArray`  | Yes  | The array of handles to groups to which the user to belongs.  |
 
 **Output (setGroupMembershipReturn)**
 

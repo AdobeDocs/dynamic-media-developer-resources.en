@@ -4,7 +4,7 @@ seo-description: The following commands comprise the batch processing API expose
 seo-title: Batch processing commands
 solution: Experience Manager
 title: Batch processing commands
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: e82c8106-8ea5-42c6-8ca9-ee9b8d9deb57
 ---
 

@@ -4,7 +4,7 @@ seo-description: Flash application web domains. Adobe Flash applications may req
 seo-title: TrustedDomains *
 solution: Experience Manager
 title: TrustedDomains *
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: c50180b1-9af7-45f1-878f-59f41f9958ae
 ---
 

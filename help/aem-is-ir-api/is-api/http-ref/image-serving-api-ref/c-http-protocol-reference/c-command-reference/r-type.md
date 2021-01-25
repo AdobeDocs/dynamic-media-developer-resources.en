@@ -4,7 +4,7 @@ seo-description: Static content type filter. Specifies a filter string for stati
 seo-title: type
 solution: Experience Manager
 title: type
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 44906190-516c-481c-9714-bb19d77af33c
 ---
 

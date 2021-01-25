@@ -4,7 +4,7 @@ seo-description: Command macros provide named shortcuts for sets of commands.
 seo-title: Command macros
 solution: Experience Manager
 title: Command macros
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: f90d5132-aa5b-424f-a123-838723ed891a
 ---
 

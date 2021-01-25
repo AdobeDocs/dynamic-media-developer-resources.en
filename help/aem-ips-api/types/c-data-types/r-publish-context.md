@@ -4,7 +4,7 @@ seo-description: Defines a publish target for a company.
 seo-title: PublishContext
 solution: Experience Manager
 title: PublishContext
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 62e2ba15-d966-48c7-86dc-373069c3ea46
 ---
 

@@ -4,7 +4,7 @@ seo-description: An array of property sets.
 seo-title: PropertySetArray
 solution: Experience Manager
 title: PropertySetArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 8180128a-6c63-4643-a152-42856460e1af
 ---
 
@@ -18,5 +18,5 @@ An array of property sets.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:PropertySet`  | Property set array.  |
+|  `*`items`*`  | `types:PropertySet`  | Property set array.  |
 

@@ -4,7 +4,7 @@ seo-description: Gets all currently active jobs.
 seo-title: getActiveJobs
 solution: Experience Manager
 title: getActiveJobs
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 3231d349-b254-4dd0-804d-8beaab116b56
 ---
 
@@ -31,15 +31,15 @@ Gets all currently active jobs.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | No  | The handle to the company.  |
-|  ` *`jobHandle`*`  | `xsd:string`  | No  | The handle to the job.  |
-|  ` *`originalName`*`  | `xsd:string`  | No  | Original job name.  |
+|  `*`companyHandle`*`  | `xsd:string`  | No  | The handle to the company.  |
+|  `*`jobHandle`*`  | `xsd:string`  | No  | The handle to the job.  |
+|  `*`originalName`*`  | `xsd:string`  | No  | Original job name.  |
 
 **Output (getActiveJobsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`jobArray`*`  | `xsd:string`  | Yes  | Array of active jobs.  |
+|  `*`jobArray`*`  | `xsd:string`  | Yes  | Array of active jobs.  |
 
 ## Examples {#section-4ac5dbbf9cd94fdeb013d055f8ee7add}
 

@@ -4,7 +4,7 @@ seo-description: Manages rights to access, modify, create, or delete assets by g
 seo-title: Permission
 solution: Experience Manager
 title: Permission
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 3b3580d3-e5bc-42bf-bfbe-ab0ec2dea574
 ---
 
@@ -18,9 +18,9 @@ Manages rights to access, modify, create, or delete assets by group.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`groupHandle`*`  | `xsd:string`  | Group handle.  |
-|  ` *`groupName`*`  | `xsd:string`  | Group name.  |
-|  ` *`permissionType`*`  | `xsd:string`  | Choice of permission type.  |
-|  ` *`isAllowed`*`  | `xsd:boolean`  | Determines if the permission is allowed.  |
-|  ` *`isOverride`*`  | `xsd:boolean`  | Determines if the permission overrides another.  |
+|  `*`groupHandle`*`  | `xsd:string`  | Group handle.  |
+|  `*`groupName`*`  | `xsd:string`  | Group name.  |
+|  `*`permissionType`*`  | `xsd:string`  | Choice of permission type.  |
+|  `*`isAllowed`*`  | `xsd:boolean`  | Determines if the permission is allowed.  |
+|  `*`isOverride`*`  | `xsd:boolean`  | Determines if the permission overrides another.  |
 

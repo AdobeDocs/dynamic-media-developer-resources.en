@@ -2,7 +2,7 @@
 description: getPublishContexts
 solution: Experience Manager
 title: getPublishContexts
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 7eb90f2c-2bfc-4d61-8a24-831964ed9182
 ---
 
@@ -67,7 +67,7 @@ uuid: 7eb90f2c-2bfc-4d61-8a24-831964ed9182
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`publishContextArray`*`  | types:PublishContextArray  | Yes  | An array of publish contexts for a company, filtered by context type if required.  |
+|  `*`publishContextArray`*`  | types:PublishContextArray  | Yes  | An array of publish contexts for a company, filtered by context type if required.  |
 
 ## Examples {#section-23fb7d6a15004b7eb4c3d3bcb37ceb04}
 

@@ -4,7 +4,7 @@ seo-description: Print resolution. Overrides the print resolution value embedded
 seo-title: printRes
 solution: Experience Manager
 title: printRes
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 1a62611a-b3b9-4f20-834f-e34e75d33ddd
 ---
 

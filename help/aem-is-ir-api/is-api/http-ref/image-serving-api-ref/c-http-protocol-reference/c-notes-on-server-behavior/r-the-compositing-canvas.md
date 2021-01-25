@@ -4,7 +4,7 @@ seo-description: If req=img, the size of the compositing canvas is determined en
 seo-title: The compositing canvas
 solution: Experience Manager
 title: The compositing canvas
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 7ec2f1b3-61fc-4bfe-96d2-a5946a238e74
 ---
 

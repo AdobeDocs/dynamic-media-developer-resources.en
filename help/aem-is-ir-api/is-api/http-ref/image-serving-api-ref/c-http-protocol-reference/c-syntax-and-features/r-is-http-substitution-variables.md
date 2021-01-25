@@ -4,7 +4,7 @@ seo-description: Substitution variables are used to transfer values from the req
 seo-title: Substitution variables
 solution: Experience Manager
 title: Substitution variables
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: e369f2c3-8d89-4169-8869-f1d7ab89aab9
 ---
 
@@ -75,7 +75,7 @@ Variable values which are to be substituted into foreign requests typically must
 
 ## Pre-defined path variable {#section-930d0dd12e8f49499becc9fe8df24092}
 
-The *`object`* specified in the request path is assigned to the pre-defined variable ` *`$object`*`. ' ` $ *`object`*$`' may be placed anywhere in the request, in the template referenced by the request, or in a nested/embedded request where such object is permitted, including the value of `src=` and `mask=`, and the path of a nested/embedded request.
+The *`object`* specified in the request path is assigned to the pre-defined variable `*`$object`*`. ' ` $ *`object`*$`' may be placed anywhere in the request, in the template referenced by the request, or in a nested/embedded request where such object is permitted, including the value of `src=` and `mask=`, and the path of a nested/embedded request.
 
 For example, the following request will reuse the image specified in the path as the source of a layer in a nested request:
 
@@ -85,13 +85,13 @@ This is equivalent to
 
 `/is/image/a/b?…&layer=3&src=is{…&src=a/b}&…`
 
-The definition of ` *`$object`*` can be overridden by explicitly specifying ` $ *`object`*=` with the desired value.
+The definition of `*`$object`*` can be overridden by explicitly specifying ` $ *`object`*=` with the desired value.
 
 The predefined path variable is commonly used in conjunction with `template=`.
 
 ## Default {#section-b02483d15529444586a2e9504805b155}
 
-None. Only variables which have been defined will be substituted by the server (except the pre-defined path variable $object, which will always be substituted). Any occurrences of ` $ *`var`*$` remain literal if ` *`var`*`cannot be matched with an existing variable definition.
+None. Only variables which have been defined will be substituted by the server (except the pre-defined path variable $object, which will always be substituted). Any occurrences of ` $ *`var`*$` remain literal if `*`var`*`cannot be matched with an existing variable definition.
 
 ## Examples {#section-fba9393df6984247b7e30b3f93992e86}
 

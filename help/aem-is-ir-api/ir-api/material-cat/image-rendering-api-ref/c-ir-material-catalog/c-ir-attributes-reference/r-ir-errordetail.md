@@ -4,7 +4,7 @@ seo-description: Error message detail. Specifies the level of detail for error m
 seo-title: ErrorDetail
 solution: Experience Manager
 title: ErrorDetail
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: aab11640-95d7-427d-b79f-c477b2c9047e
 ---
 
@@ -37,7 +37,7 @@ The following values are permitted:
 
 * Level 0 is recommended for live servers that can be accessed publicly. 
 * Level 2 is recommended for staging, quality assurance, and application development servers. 
-* Level 3 information may be useful when reporting problems to Scene7 Tech Support.
+* Level 3 information may be useful when reporting problems to Dynamic Media technical support.
 
 ## Properties {#section-f03f9a8edd6a4d99aff38fbec41c4b80}
 

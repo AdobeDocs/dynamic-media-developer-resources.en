@@ -4,7 +4,7 @@ seo-description: used by PhotoshopOptions/anchor.
 seo-title: Photoshop Anchor Modes
 solution: Experience Manager
 title: Photoshop Anchor Modes
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 7dd313ce-7e09-4b31-9005-4c2c319e42f8
 ---
 

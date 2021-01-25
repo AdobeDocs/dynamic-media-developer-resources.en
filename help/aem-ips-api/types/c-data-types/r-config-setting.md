@@ -1,16 +1,13 @@
 ---
-description: Used by Scene7 developers only.
-seo-description: Used by Scene7 developers only.
-seo-title: ConfigSetting
+description: Used by Dynamic Media developers only.
 solution: Experience Manager
 title: ConfigSetting
-topic: Scene7 Image Production System API
-uuid: cbce1b2b-d4da-4f35-a9a8-85422a094a2e
+topic: Dynamic Media Image Production System API
 ---
 
 # ConfigSetting{#configsetting}
 
-Used by Scene7 developers only.
+Used by Dynamic Media developers only.
 
  Syntax 
 
@@ -18,7 +15,7 @@ Used by Scene7 developers only.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`name`*`  | `xsd:string`  | Configuration name.  |
-|  ` *`value`*`  | `xsd:string`  | Configuration value.  |
-|  ` *`handle`*`  | `xsd:string`  | Handle to the stored configuration.  |
+|  `*`name`*`  | `xsd:string`  | Configuration name.  |
+|  `*`value`*`  | `xsd:string`  | Configuration value.  |
+|  `*`handle`*`  | `xsd:string`  | Handle to the stored configuration.  |
 

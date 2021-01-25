@@ -4,7 +4,7 @@ seo-description: Repeatable textures include interior and exterior materials, su
 seo-title: Repeatable textures
 solution: Experience Manager
 title: Repeatable textures
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 11a55d9f-a1d7-490e-af0e-9bf2c3a35501
 ---
 

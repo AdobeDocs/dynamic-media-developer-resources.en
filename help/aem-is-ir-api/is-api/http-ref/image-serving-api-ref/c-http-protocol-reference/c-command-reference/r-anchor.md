@@ -4,7 +4,7 @@ seo-description: Image Anchor. Defines the anchor point of the image, solid colo
 seo-title: anchor
 solution: Experience Manager
 title: anchor
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 3b174360-9bb7-4dc8-83be-6b8c4ea88cd4
 ---
 

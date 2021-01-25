@@ -4,7 +4,7 @@ seo-description: Sets image-specific fields for one or more image assets.
 seo-title: batchSetImageFields
 solution: Experience Manager
 title: batchSetImageFields
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: e0ad7da4-cb28-4402-8b47-a600916d23b3
 ---
 
@@ -29,18 +29,18 @@ Sets image-specific fields for one or more image assets.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that contains the image assets.  |
-|  ` *`updateArray`*`  | `types:ImageFieldUpdateArray`  | Yes  | The array of image field updates.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that contains the image assets.  |
+|  `*`updateArray`*`  | `types:ImageFieldUpdateArray`  | Yes  | The array of image field updates.  |
 
 **Output (batchSetImageFields)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`successCount`*`  | `xsd:int`  | Yes  | The number of successfully set image fields.  |
-|  ` *`warningCount`*`  | `xsd:int`  | Yes  | The number of warnings generated when the operation attempted to set the image fields.  |
-|  ` *`errorCount`*`  | `xsd:int`  | Yes  | The number of errors generated when the operation attempted to set the image fields.  |
-|  ` *`warningDetailArray`*`  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets that generated warnings when the operation attempted to apply the updates.  |
-|  ` *`errorDetailArray`*`  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets that generated errors when the operation attempted to apply the updates.  |
+|  `*`successCount`*`  | `xsd:int`  | Yes  | The number of successfully set image fields.  |
+|  `*`warningCount`*`  | `xsd:int`  | Yes  | The number of warnings generated when the operation attempted to set the image fields.  |
+|  `*`errorCount`*`  | `xsd:int`  | Yes  | The number of errors generated when the operation attempted to set the image fields.  |
+|  `*`warningDetailArray`*`  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets that generated warnings when the operation attempted to apply the updates.  |
+|  `*`errorDetailArray`*`  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets that generated errors when the operation attempted to apply the updates.  |
 
 ## Examples {#section-0476e3d6516a4f8bbaac9de983bc6d1e}
 

@@ -4,7 +4,7 @@ seo-description: Display overset text frames with plus sign. A text overflow ind
 seo-title: markOverflowingTextFrames
 solution: Experience Manager
 title: markOverflowingTextFrames
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 90237128-8d29-45cc-90e8-7fe46c1dae38
 ---
 

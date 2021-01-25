@@ -4,7 +4,7 @@ seo-description: The text= renderer positions text fundamentally different than 
 seo-title: Text positioning
 solution: Experience Manager
 title: Text positioning
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 77289c50-2f3a-4486-8274-eecfd6e5452f
 ---
 

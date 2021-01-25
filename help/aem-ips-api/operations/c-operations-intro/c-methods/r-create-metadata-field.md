@@ -4,7 +4,7 @@ seo-description: Lets administrators create new metadata fields to coordinate wi
 seo-title: createMetadataField
 solution: Experience Manager
 title: createMetadataField
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 50ab61fa-df44-4305-ad9f-693c4aea1e69
 ---
 
@@ -87,7 +87,7 @@ Lets administrators create new metadata fields to coordinate with content manage
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`fieldHandle`*`  | `xsd:string`  | Yes  | The handle to the new metadata field.  |
+|  `*`fieldHandle`*`  | `xsd:string`  | Yes  | The handle to the new metadata field.  |
 
 ## Examples {#section-ba66be30f36b4aeba1bc721b0b92fdfc}
 

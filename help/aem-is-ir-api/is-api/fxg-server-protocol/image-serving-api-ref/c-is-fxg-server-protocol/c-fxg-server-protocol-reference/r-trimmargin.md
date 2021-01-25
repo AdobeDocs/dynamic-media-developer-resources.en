@@ -4,7 +4,7 @@ seo-description: Set trim margin. Sets the trim margin that is set in the PDF fi
 seo-title: trimMargin
 solution: Experience Manager
 title: trimMargin
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: af94f9e8-a32e-439a-817a-a40aa8dc7dd4
 ---
 

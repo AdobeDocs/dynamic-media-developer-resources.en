@@ -4,7 +4,7 @@ seo-description: Properties of a viewer SWF file asset.
 seo-title: ViewerSwfInfo
 solution: Experience Manager
 title: ViewerSwfInfo
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 1432b0b0-7084-4eb0-a3cd-0e5bee2a5649
 ---
 
@@ -18,7 +18,7 @@ Properties of a viewer SWF file asset.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`originalPath`*`  | `xsd:string`  | Relative path to the originally uploaded viewer SWF file.  |
-|  ` *`originalFile`*`  | `xsd:string`  | File name of the original viewer SWF file.  |
-|  ` *`fileSize`*`  | `xsd:int`  | File size.  |
+|  `*`originalPath`*`  | `xsd:string`  | Relative path to the originally uploaded viewer SWF file.  |
+|  `*`originalFile`*`  | `xsd:string`  | File name of the original viewer SWF file.  |
+|  `*`fileSize`*`  | `xsd:int`  | File size.  |
 

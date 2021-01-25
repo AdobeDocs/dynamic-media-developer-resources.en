@@ -4,7 +4,7 @@ seo-description: The Platform Server caches all reply image and certain text dat
 seo-title: Response data cache
 solution: Experience Manager
 title: Response data cache
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: dbfda210-3b50-4e8c-8d77-7263ae4e80a2
 ---
 

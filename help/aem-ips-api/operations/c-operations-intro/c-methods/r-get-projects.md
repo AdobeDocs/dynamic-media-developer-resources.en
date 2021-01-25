@@ -4,7 +4,7 @@ seo-description: Gets projects for a group of related assets.
 seo-title: getProjects
 solution: Experience Manager
 title: getProjects
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 46ec9a5d-4414-4c9c-aaf2-0db654204b61
 ---
 
@@ -29,13 +29,13 @@ Gets projects for a group of related assets.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company.  |
 
 **Output (getProjectsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`projectArray`*`  | `types:ProjectArray`  | Yes  | The array of projects associated with the company.  |
+|  `*`projectArray`*`  | `types:ProjectArray`  | Yes  | The array of projects associated with the company.  |
 
 ## Examples {#section-8b12d0b948f644f68bf9a16060d3849a}
 

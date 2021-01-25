@@ -4,7 +4,7 @@ seo-description: Properties of a Microsoft Excel file.
 seo-title: ExcelInfo
 solution: Experience Manager
 title: ExcelInfo
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 27c11719-ac8f-43b2-a08a-cb46f47b8006
 ---
 
@@ -18,7 +18,7 @@ Properties of a Microsoft Excel file.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`originalPath`*`  | `xsd:string`  | Path to the file.  |
-|  ` *`originalFile`*`  | `xsd:string`  | File name.  |
-|  ` *`fileSize`*`  | `xsd:int`  | File size.  |
+|  `*`originalPath`*`  | `xsd:string`  | Path to the file.  |
+|  `*`originalFile`*`  | `xsd:string`  | File name.  |
+|  `*`fileSize`*`  | `xsd:int`  | File size.  |
 

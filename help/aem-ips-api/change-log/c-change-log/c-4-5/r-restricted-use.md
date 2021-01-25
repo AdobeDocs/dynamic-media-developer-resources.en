@@ -1,16 +1,13 @@
 ---
-description: These new or modified operations and data types available in the beta WSDL are not to be used outside of Scene7 developed applications.
-seo-description: These new or modified operations and data types available in the beta WSDL are not to be used outside of Scene7 developed applications.
-seo-title: Restricted Use
+description: These new or modified operations and data types available in the beta WSDL are not to be used outside of Dynamic Media developed applications.
 solution: Experience Manager
 title: Restricted Use
-topic: Scene7 Image Production System API
-uuid: 76a423e5-ff7d-44a3-aba4-af258ea55256
+topic: Dynamic Media Image Production System API
 ---
 
 # Restricted Use{#restricted-use}
 
-These new or modified operations and data types available in the beta WSDL are not to be used outside of Scene7 developed applications.
+These new or modified operations and data types available in the beta WSDL are not to be used outside of Dynamic Media developed applications.
 
 These operations and types are subject to disabling, change or deprecation with subsequent system updates.
 

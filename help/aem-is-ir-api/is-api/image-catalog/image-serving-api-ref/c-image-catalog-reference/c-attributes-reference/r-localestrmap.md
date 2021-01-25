@@ -4,7 +4,7 @@ seo-description: String translation map. Refers to a locId that can be mapped to
 seo-title: LocaleStrMap
 solution: Experience Manager
 title: LocaleStrMap
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 44207916-80a6-42cb-8bf1-fcf0f5194c6d
 ---
 
@@ -12,7 +12,7 @@ uuid: 44207916-80a6-42cb-8bf1-fcf0f5194c6d
 
 String translation map. Refers to a locId that can be mapped to any number of internalLocId.
 
- ` *`item`*&#42;['|' *`item`*]`
+ `*`item`*&#42;['|' *`item`*]`
 
 <table id="simpletable_26A9A6904C85459F89DCDD98C14139CA"> 
  <tr class="strow"> 

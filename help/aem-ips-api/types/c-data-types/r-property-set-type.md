@@ -4,7 +4,7 @@ seo-description: Valid values for the PropertySetType and createPropertySetTypeP
 seo-title: PropertySetType
 solution: Experience Manager
 title: PropertySetType
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 83220180-3272-4552-974d-a73e6aad3483
 ---
 

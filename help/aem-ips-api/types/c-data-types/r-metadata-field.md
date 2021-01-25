@@ -4,7 +4,7 @@ seo-description: User-defined field definitions for specific assets.
 seo-title: MetadataField
 solution: Experience Manager
 title: MetadataField
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 6156be6e-efa5-4e90-928d-2ab936668154
 ---
 

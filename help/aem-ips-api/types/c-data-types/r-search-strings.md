@@ -4,7 +4,7 @@ seo-description: Search string record extracted from a PDF file.
 seo-title: SearchStrings
 solution: Experience Manager
 title: SearchStrings
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: aade2741-3e77-44c6-ab3c-0810ff034412
 ---
 
@@ -18,13 +18,13 @@ Search string record extracted from a PDF file.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`searchString`*`  | `xsd:string`  | Search string text.  |
-|  ` *`keywordsArray`*`  | `types:KeywordsArray`  | Array of keywords in the search string.  |
-|  ` *`status`*`  | `xsd:boolean`  | True if the search string is valid and enabled.  |
-|  ` *`x`*`  | `xsd:int`  | X axis position of the search string.  |
-|  ` *`y`*`  | `xsd:int`  | Y axis position of the search string.  |
-|  ` *`width`*`  | `xsd:int`  | Search string width.  |
-|  ` *`height`*`  | `xsd:int`  | Search string height.  |
-|  ` *`fontName`*`  | `xsd:string`  | Name of the font used in the search string.  |
-|  ` *`pointSize`*`  | `xsd:string`  | Font size.  |
+|  `*`searchString`*`  | `xsd:string`  | Search string text.  |
+|  `*`keywordsArray`*`  | `types:KeywordsArray`  | Array of keywords in the search string.  |
+|  `*`status`*`  | `xsd:boolean`  | True if the search string is valid and enabled.  |
+|  `*`x`*`  | `xsd:int`  | X axis position of the search string.  |
+|  `*`y`*`  | `xsd:int`  | Y axis position of the search string.  |
+|  `*`width`*`  | `xsd:int`  | Search string width.  |
+|  `*`height`*`  | `xsd:int`  | Search string height.  |
+|  `*`fontName`*`  | `xsd:string`  | Name of the font used in the search string.  |
+|  `*`pointSize`*`  | `xsd:string`  | Font size.  |
 

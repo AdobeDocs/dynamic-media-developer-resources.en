@@ -4,7 +4,7 @@ seo-description: Default response image. Specifies the image or catalog entry to
 seo-title: DefaultImage
 solution: Experience Manager
 title: DefaultImage
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 6f8f50af-15bb-4333-b227-3eba38653a7d
 ---
 

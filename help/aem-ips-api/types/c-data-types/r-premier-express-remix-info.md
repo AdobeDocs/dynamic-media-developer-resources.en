@@ -4,7 +4,7 @@ seo-description: Properties of a PremierExpressRemix file asset.
 seo-title: PremierExpressRemixInfo
 solution: Experience Manager
 title: PremierExpressRemixInfo
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: e3a2d6f9-e6ba-4841-99b9-c514a4fb2397
 ---
 
@@ -18,7 +18,7 @@ Properties of a PremierExpressRemix file asset.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`originalPath`*`  | `xsd:string`  | File path.  |
-|  ` *`originalFile`*`  | `xsd:string`  | File name.  |
-|  ` *`fileSize`*`  | `xsd:int`  | File size.  |
+|  `*`originalPath`*`  | `xsd:string`  | File path.  |
+|  `*`originalFile`*`  | `xsd:string`  | File name.  |
+|  `*`fileSize`*`  | `xsd:int`  | File size.  |
 

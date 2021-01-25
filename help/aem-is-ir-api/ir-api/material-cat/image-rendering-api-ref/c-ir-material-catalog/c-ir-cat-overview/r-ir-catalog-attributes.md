@@ -4,7 +4,7 @@ seo-description: The following attributes are recognized in catalog attribute fi
 seo-title: Catalog attributes
 solution: Experience Manager
 title: Catalog attributes
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 91e1fbf8-cb0f-4509-814c-40f7bdbd74db
 ---
 

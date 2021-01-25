@@ -4,7 +4,7 @@ seo-description: Creates a layered image that can have multiple text and image l
 seo-title: createTemplate
 solution: Experience Manager
 title: createTemplate
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: c54bd47c-13e1-4b0d-a24c-9829b0a6d5bf
 ---
 
@@ -28,18 +28,18 @@ Creates a layered image that can have multiple text and image layers.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The company that the template belongs to.  |
-|  ` *`folderHandle`*`  | `xsd:string`  | Yes  | The folder handle that represents the folder where the template resides.  |
-|  ` *`name`*`  | `xsd:string`  | Yes  | Template name.  |
-|  ` *`type`*`  | `xsd:string`  | Yes  | Template type.  |
-|  ` *`urlModifier`*`  | `xsd:string`  | Yes  | Specifies the Image Server commands stored in the IS catalog that are applied prior to any user-supplied commands on the URL.  |
-|  ` *`urlPostApplyModifier`*`  | `xsd:string`  | No  | Specifies protocol commands applied after any URL commands, which will override any conflicting user-supplied settings.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The company that the template belongs to.  |
+|  `*`folderHandle`*`  | `xsd:string`  | Yes  | The folder handle that represents the folder where the template resides.  |
+|  `*`name`*`  | `xsd:string`  | Yes  | Template name.  |
+|  `*`type`*`  | `xsd:string`  | Yes  | Template type.  |
+|  `*`urlModifier`*`  | `xsd:string`  | Yes  | Specifies the Image Server commands stored in the IS catalog that are applied prior to any user-supplied commands on the URL.  |
+|  `*`urlPostApplyModifier`*`  | `xsd:string`  | No  | Specifies protocol commands applied after any URL commands, which will override any conflicting user-supplied settings.  |
 
 **Output (createTemplateParam)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`assetHandle`*`  | `xsd:string`  | Yes  | The handle to the template.  |
+|  `*`assetHandle`*`  | `xsd:string`  | Yes  | The handle to the template.  |
 
 ## Examples {#section-09adb4d2f0c944af875c4463a461f55d}
 

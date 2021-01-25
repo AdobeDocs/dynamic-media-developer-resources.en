@@ -4,7 +4,7 @@ seo-description: Properties of an ICC profile asset.
 seo-title: IccProfileInfo
 solution: Experience Manager
 title: IccProfileInfo
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 5266c727-136e-4eeb-85b0-739e4dd9b731
 ---
 
@@ -18,7 +18,7 @@ Properties of an ICC profile asset.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`originalPath`*`  | `xsd:string`  | ICC profile path.  |
-|  ` *`originalFile`*`  | `xsd:string`  | Name of the original ICC profile.  |
-|  ` *`fileSize`*`  | `xsd:int`  | ICC profile size.  |
+|  `*`originalPath`*`  | `xsd:string`  | ICC profile path.  |
+|  `*`originalFile`*`  | `xsd:string`  | Name of the original ICC profile.  |
+|  `*`fileSize`*`  | `xsd:int`  | ICC profile size.  |
 

@@ -4,7 +4,7 @@ seo-description: Creates a folder.
 seo-title: createFolder
 solution: Experience Manager
 title: createFolder
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: e3a4eed3-966d-4435-bfeb-3ead4bf523cd
 ---
 
@@ -37,14 +37,14 @@ Syntax
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The Handle to the company  |
-|  ` *`folderPath`*`  | `xsd:string`  | Yes  | The root folder used to retrieve folders and all subfolders to the leaf level. If excluded, the company root is used.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The Handle to the company  |
+|  `*`folderPath`*`  | `xsd:string`  | Yes  | The root folder used to retrieve folders and all subfolders to the leaf level. If excluded, the company root is used.  |
 
 **Output (createFolderParam)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`folderHandle`*`  | `xsd:string`  | Yes  | Handle of the new folder.  |
+|  `*`folderHandle`*`  | `xsd:string`  | Yes  | Handle of the new folder.  |
 
 ## Examples {#section-e596fbdb44fd43c8b30005cb2a2fdf26}
 

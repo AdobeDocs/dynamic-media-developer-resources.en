@@ -4,7 +4,7 @@ seo-description: Image mask. Requests the mask (alpha channel) data.
 seo-title: mask
 solution: Experience Manager
 title: mask
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 9a8dc4bc-0757-45d2-adfe-d4bd69b4efa9
 ---
 

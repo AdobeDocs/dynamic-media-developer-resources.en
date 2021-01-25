@@ -4,7 +4,7 @@ seo-description: Use these server settings to debug trace logging.
 seo-title: Debug_trace logging
 solution: Experience Manager
 title: Debug_trace logging
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 33f1d093-007d-453b-965a-9d701a845954
 ---
 

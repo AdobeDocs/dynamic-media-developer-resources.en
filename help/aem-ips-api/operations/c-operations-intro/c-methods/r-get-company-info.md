@@ -4,7 +4,7 @@ seo-description: Returns information about the specified company including the c
 seo-title: getCompanyInfo
 solution: Experience Manager
 title: getCompanyInfo
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 9218cba8-2873-46b7-90e3-7ab9d5018690
 ---
 

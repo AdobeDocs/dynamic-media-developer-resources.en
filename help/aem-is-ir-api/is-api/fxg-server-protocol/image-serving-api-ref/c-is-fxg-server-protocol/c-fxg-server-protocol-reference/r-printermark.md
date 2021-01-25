@@ -4,7 +4,7 @@ seo-description: Display printer marks. Specifies how to display the printer mar
 seo-title: printerMark
 solution: Experience Manager
 title: printerMark
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 3e5699ce-3ccd-4f85-91dd-c40c252a758d
 ---
 

@@ -4,7 +4,7 @@ seo-description: Hierarchical file or asset storage object. Folders can contain 
 seo-title: Folder
 solution: Experience Manager
 title: Folder
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 8ba8d9cb-c4e5-423c-b8cb-ba8751952771
 ---
 
@@ -18,11 +18,11 @@ Hierarchical file or asset storage object. Folders can contain one (or more) sub
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`folderHandle`*`  | `xsd:string`  | Folder handle.  |
-|  ` *`path`*`  | `xsd:string`  | Folder path.  |
-|  ` *`lastModified`*`  | `xsd:dateTime`  | Last modification date.  |
-|  ` *`childLastModified`*`  | `xsd:dateTime`  | Last modification date for subfolders and folder child assets.  |
-|  ` *`permissionsSetHandle`*`  | `xsd:string`  | Folder permissions handle.  |
-|  ` *`hasSubfolder`*`  | `types:Boolean`  | Determines if a folder has subfolders.  |
-|  ` *`subfolderArray`*`  | `types:FolderArray`  | An array of subfolders in a folder.  |
+|  `*`folderHandle`*`  | `xsd:string`  | Folder handle.  |
+|  `*`path`*`  | `xsd:string`  | Folder path.  |
+|  `*`lastModified`*`  | `xsd:dateTime`  | Last modification date.  |
+|  `*`childLastModified`*`  | `xsd:dateTime`  | Last modification date for subfolders and folder child assets.  |
+|  `*`permissionsSetHandle`*`  | `xsd:string`  | Folder permissions handle.  |
+|  `*`hasSubfolder`*`  | `types:Boolean`  | Determines if a folder has subfolders.  |
+|  `*`subfolderArray`*`  | `types:FolderArray`  | An array of subfolders in a folder.  |
 

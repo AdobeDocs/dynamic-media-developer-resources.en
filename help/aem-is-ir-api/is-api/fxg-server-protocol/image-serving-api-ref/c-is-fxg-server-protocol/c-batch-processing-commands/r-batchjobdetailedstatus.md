@@ -4,7 +4,7 @@ seo-description: Retrieve detailed status of a submitted job.
 seo-title: batchjobdetailedstatus
 solution: Experience Manager
 title: batchjobdetailedstatus
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: a79302ce-745b-44d8-9cb6-ed8d37530197
 ---
 

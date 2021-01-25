@@ -4,7 +4,7 @@ seo-description: Adjust color balance. Adjusts the value of each RGB color compo
 seo-title: op_colorbalance
 solution: Experience Manager
 title: op_colorbalance
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 177aa6e3-1b32-4254-85f1-d7fe14116e3c
 ---
 

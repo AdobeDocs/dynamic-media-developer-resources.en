@@ -4,7 +4,7 @@ seo-description: Use the following commands for encoding characters.
 seo-title: Character encoding
 solution: Experience Manager
 title: Character encoding
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 7b19b831-b40c-4f26-83a4-732c578dbbf0
 ---
 

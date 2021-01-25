@@ -4,7 +4,7 @@ seo-description: Sets the permissions of a single asset by using a permission as
 seo-title: setAssetPermissions
 solution: Experience Manager
 title: setAssetPermissions
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 38f26482-bce9-4d2c-9714-e8c3ae40c2d1
 ---
 
@@ -26,9 +26,9 @@ Sets the permissions of a single asset by using a permission asset.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that contains the folder you want to work with.  |
-|  ` *`assetHandle`*`  | `xsd:string`  | Yes  | Folder handle.  |
-|  ` *`permissionArray`*`  | `types:PermissionsUpdateArray`  | Yes  | Permissions array.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that contains the folder you want to work with.  |
+|  `*`assetHandle`*`  | `xsd:string`  | Yes  | Folder handle.  |
+|  `*`permissionArray`*`  | `types:PermissionsUpdateArray`  | Yes  | Permissions array.  |
 
 **Output (setAssetPermissonsReturn)**
 

@@ -4,7 +4,7 @@ seo-description: Zoom target definition.
 seo-title: ZoomTargetDefinition
 solution: Experience Manager
 title: ZoomTargetDefinition
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 9180b87b-13f5-4c63-83ff-3eb20b12ec19
 ---
 
@@ -18,10 +18,10 @@ Zoom target definition.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`name`*`  | `xsd:string`  | Target name.  |
-|  ` *`xPosition`*`  | `xsd:int`  | The X position of the zoom target.  |
-|  ` *`yPosition`*`  | `xsd:int`  | The Y position of the zoom target.  |
-|  ` *`width`*`  | `xsd:int`  | Zoom target width.  |
-|  ` *`height`*`  | `xsd:int`  | Zoom target height.  |
-|  ` *`userData`*`  | `xsd:string`  | Associated user data.  |
+|  `*`name`*`  | `xsd:string`  | Target name.  |
+|  `*`xPosition`*`  | `xsd:int`  | The X position of the zoom target.  |
+|  `*`yPosition`*`  | `xsd:int`  | The Y position of the zoom target.  |
+|  `*`width`*`  | `xsd:int`  | Zoom target width.  |
+|  `*`height`*`  | `xsd:int`  | Zoom target height.  |
+|  `*`userData`*`  | `xsd:string`  | Associated user data.  |
 

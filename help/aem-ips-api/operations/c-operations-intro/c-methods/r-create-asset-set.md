@@ -4,7 +4,7 @@ seo-description: Creates a generic asset set with a raw set definition string to
 seo-title: createAssetSet
 solution: Experience Manager
 title: createAssetSet
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 1e86bd37-511c-4c12-abfd-075053b86f78
 ---
 
@@ -109,7 +109,7 @@ jcompany/myRenderSet;jcompany/myRenderSet;1,jcompany/Videos/Somebodys_N08275_flv
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`assetHandle`*`  | `xsd:string`  | Yes  | The handle to the asset set.  |
+|  `*`assetHandle`*`  | `xsd:string`  | Yes  | The handle to the asset set.  |
 
 ## Examples {#section-fed53089de824d67ab96cd9103d384b4}
 

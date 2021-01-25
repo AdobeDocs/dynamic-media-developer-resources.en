@@ -4,7 +4,7 @@ seo-description: Image file path. Relative path and name of a texture or decal i
 seo-title: Path *
 solution: Experience Manager
 title: Path *
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 9e85a358-3f2f-4b8b-a98f-03de2a1a8a4c
 ---
 
@@ -22,9 +22,9 @@ Text string. Required for texture and decal materials, optional for cabinet and 
 
 ## Supported file formats {#section-7ef6c9f7c72c4f03ae926d030b6c46d8}
 
-Image Rendering supports the same source image formats as Scene7 Image Serving.
+Image Rendering supports the same source image formats as Dynamic Media Image Serving.
 
-Applications which require image data in multiple different resolutions will perform best when using the Scene7 pyramid TIFF (PTIFF) multi-resolution format. Image Serving includes the Image Converter (IC) utility which creates PTIFF images from any supported format.
+Applications which require image data in multiple different resolutions will perform best when using the Dynamic Media pyramid TIFF (PTIFF) multi-resolution format. Image Serving includes the Image Converter (IC) utility which creates PTIFF images from any supported format.
 
 Refer to the description of the IC utility in the Image Serving documentation for a complete list of supported file formats.
 

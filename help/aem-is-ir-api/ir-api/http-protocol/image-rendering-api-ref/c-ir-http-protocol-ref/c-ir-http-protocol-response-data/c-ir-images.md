@@ -4,7 +4,7 @@ seo-description: Image data is returned if a request successfully completes, and
 seo-title: Images
 solution: Experience Manager
 title: Images
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 8e8c5ec9-dc15-4894-b6a1-8e5241f03977
 ---
 

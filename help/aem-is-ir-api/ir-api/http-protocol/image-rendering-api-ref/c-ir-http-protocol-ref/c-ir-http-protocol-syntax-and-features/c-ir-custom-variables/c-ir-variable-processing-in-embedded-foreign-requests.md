@@ -4,7 +4,7 @@ seo-description: $var$ references occurring anywhere within the curly braces of 
 seo-title: Variable processing in embedded foreign requests
 solution: Experience Manager
 title: Variable processing in embedded foreign requests
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: b4334a2e-dab1-4458-ab3d-bb79d2c4fdd4
 ---
 

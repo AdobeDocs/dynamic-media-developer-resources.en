@@ -4,7 +4,7 @@ seo-description: CMYK default color space. Specifies the name of the ICC color p
 seo-title: IccProfileCmyk
 solution: Experience Manager
 title: IccProfileCmyk
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: d923d0fd-f00b-4fce-8ce9-8b177b4dba96
 ---
 

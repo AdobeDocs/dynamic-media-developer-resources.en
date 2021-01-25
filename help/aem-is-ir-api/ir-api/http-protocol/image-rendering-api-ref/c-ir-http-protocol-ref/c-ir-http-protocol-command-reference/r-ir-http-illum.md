@@ -4,7 +4,7 @@ seo-description: Illumination map selector. Specifies the illumination map this 
 seo-title: illum
 solution: Experience Manager
 title: illum
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 16c7144f-7f16-47d1-8140-fd679e702660
 ---
 

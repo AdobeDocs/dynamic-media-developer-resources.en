@@ -4,7 +4,7 @@ seo-description: These commands apply regardless of where in the request they ap
 seo-title: View commands
 solution: Experience Manager
 title: View commands
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: f847a2ed-cd16-4342-9395-8f933ff2da6f
 ---
 

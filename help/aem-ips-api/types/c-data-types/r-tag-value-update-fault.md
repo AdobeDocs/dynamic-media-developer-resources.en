@@ -4,7 +4,7 @@ seo-description: The error thrown when a tag value update fails.
 seo-title: TagValueUpdateFault
 solution: Experience Manager
 title: TagValueUpdateFault
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: e557c7da-2366-4f97-a354-c2d603aa996f
 ---
 
@@ -18,7 +18,7 @@ The error thrown when a tag value update fails.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`value`*`  | `xsd:string`  | Tag value for which the update failed.  |
-|  ` *`code`*`  | `xsd:int`  | Error code number.  |
-|  ` *`reason`*`  | `xsd:string`  | Error message (plain-text).  |
+|  `*`value`*`  | `xsd:string`  | Tag value for which the update failed.  |
+|  `*`code`*`  | `xsd:int`  | Error code number.  |
+|  `*`reason`*`  | `xsd:string`  | Error message (plain-text).  |
 

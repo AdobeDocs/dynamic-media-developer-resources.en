@@ -2,7 +2,7 @@
 description: Path
 solution: Experience Manager
 title: Path
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 455b6186-969a-49d9-a392-35660ec12213
 ---
 
@@ -18,7 +18,7 @@ Text string. Required for image and SVG records, may be empty for template recor
 
 Refer to the description of the Image Converter (IC) utility for a complete list of supported image file formats.
 
-Applications which require image data in multiple different resolutions will perform best when using the Scene7 pyramid TIFF (PTIFF) multi-resolution format. The IC utility is used to create PTIFF images from any supported image format.
+Applications which require image data in multiple different resolutions will perform best when using the Dynamic Media pyramid TIFF (PTIFF) multi-resolution format. The IC utility is used to create PTIFF images from any supported image format.
 
 ## Default {#section-82dad83ec3f84ae8bf2f850b4139f63e}
 

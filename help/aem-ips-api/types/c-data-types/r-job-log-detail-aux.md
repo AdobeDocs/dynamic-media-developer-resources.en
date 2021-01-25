@@ -4,7 +4,7 @@ seo-description: Contains supplementary messages associated with the main job lo
 seo-title: JobLogDetailAux
 solution: Experience Manager
 title: JobLogDetailAux
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: df6f61f2-54f1-4996-938c-c3ea8c27551a
 ---
 
@@ -18,7 +18,7 @@ Contains supplementary messages associated with the main job log message (JobDet
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`logMessage`*`  | `xsd:string`  | An auxiliary message.  |
-|  ` *`logType`*`  | `xsd:string`  |Log type: `IPSJobLog.gcUploadWarning` or `IPSJobLog.gcUploadError`.  |
-|  ` *`dateCreated`*`  | `xsd:dateTime`  | Auxiliary job log creation date.  |
+|  `*`logMessage`*`  | `xsd:string`  | An auxiliary message.  |
+|  `*`logType`*`  | `xsd:string`  |Log type: `IPSJobLog.gcUploadWarning` or `IPSJobLog.gcUploadError`.  |
+|  `*`dateCreated`*`  | `xsd:dateTime`  | Auxiliary job log creation date.  |
 

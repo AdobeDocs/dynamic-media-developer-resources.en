@@ -4,7 +4,7 @@ seo-description: Used by PhotoshopOptions/layerNaming.
 seo-title: Photoshop Layer Naming Modes
 solution: Experience Manager
 title: Photoshop Layer Naming Modes
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: bade8ee9-766f-4c03-88d4-4d54faecd40e
 ---
 

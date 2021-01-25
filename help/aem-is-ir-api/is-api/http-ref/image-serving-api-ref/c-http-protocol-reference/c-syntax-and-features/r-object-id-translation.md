@@ -4,7 +4,7 @@ seo-description: Image Serving provides a mechanism to translate external object
 seo-title: Object ID translation
 solution: Experience Manager
 title: Object ID translation
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 8b4c2f44-033a-428a-b505-af389865c70a
 ---
 
@@ -28,7 +28,7 @@ All references to entries in image, SVG, and static content catalogs are conside
 
 `attribute::LocaleMap` defines the rules used by the server to determine the ID of the localized content, given as inputs the generic object ID and the `locale=` value.
 
-`attribute::LocaleMap` consists of a list of input *locales* (matching the values specified with `locale=`), each with none or more output locale suffixes ( ` *`locSuffixes`*`).
+`attribute::LocaleMap` consists of a list of input *locales* (matching the values specified with `locale=`), each with none or more output locale suffixes ( `*`locSuffixes`*`).
 
 For example, `attribute::LocaleMap` might look like this:
 

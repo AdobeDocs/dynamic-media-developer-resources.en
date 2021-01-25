@@ -4,7 +4,7 @@ seo-description: Used by searchAssetsParam/sortDirection and getJobLogsParam/sor
 seo-title: Sort Directions
 solution: Experience Manager
 title: Sort Directions
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 9ff9d2f6-d41e-466e-a208-a30de04d3433
 ---
 

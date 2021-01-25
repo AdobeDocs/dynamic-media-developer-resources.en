@@ -4,7 +4,7 @@ seo-description: Image map data. None or more complete HTML <AREA> elements, sor
 seo-title: Map
 solution: Experience Manager
 title: Map
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 674a7a74-91bf-41c4-ab74-a5cb4f8abe1d
 ---
 

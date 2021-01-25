@@ -4,7 +4,7 @@ seo-description: Updates the set definition for an existing Asset Set.
 seo-title: setAssetSetDefinition
 solution: Experience Manager
 title: setAssetSetDefinition
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 2a2dce5d-7a01-49af-ac8b-33ae0b234ecc
 ---
 
@@ -29,9 +29,9 @@ Updates the set definition for an existing Asset Set.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company with the asset set.  |
-|  ` *`assetHandle`*`  | `xsd:string`  | Yes  | Asset set handle  |
-|  ` *`setDefinition`*`  | `xsd:string`  | Yes  | Definition string. See below.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company with the asset set.  |
+|  `*`assetHandle`*`  | `xsd:string`  | Yes  | Asset set handle  |
+|  `*`setDefinition`*`  | `xsd:string`  | Yes  | Definition string. See below.  |
 
 **Output (setAssetSetDefinitionReturn)**
 

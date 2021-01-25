@@ -1,11 +1,8 @@
 ---
 description: To add Responsive Image library to a web page and manage existing images with the library, complete the following steps.
-seo-description: To add Responsive Image library to a web page and manage existing images with the library, complete the following steps.
-seo-title: Using Responsive Image library
 solution: Experience Manager
 title: Using Responsive Image library
-topic: Scene7 Image Serving - Image Rendering API
-uuid: 325cdc8d-2bfa-4f9b-bf88-51d1dcc6c495
+topic: Dynamic Media Image Serving - Image Rendering API
 ---
 
 # Using Responsive Image library{#using-responsive-image-library}
@@ -81,7 +78,7 @@ The following code is a complete example of a trivial web page that has a single
 
 **Using Smart Crop**
 
-There are two Smart Crop modes available in AEM 6.4 and Scene7 Viewers 5.9:
+There are two Smart Crop modes available in AEM 6.4 and Dynamic Media Viewers 5.9:
 
 * **Manual** - user-defined breakpoints and corresponding Image Service commands are defined within an attribute in the image element. 
 * **Smart Crop** - computed smart crop renditions are automatically retrieved from the delivery server. The best rendition is selected using the runtime size of the image element.

@@ -4,7 +4,7 @@ seo-description: Returns coordinates for the quadrilateral enclosing the named P
 seo-title: getPhotoshopPath
 solution: Experience Manager
 title: getPhotoshopPath
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: e3ed4888-18db-40bc-a1db-f44a342d0293
 ---
 
@@ -31,15 +31,15 @@ Returns coordinates for the quadrilateral enclosing the named Photoshop path.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company with the image you want to work with.  |
-|  ` *`assetHandle`*`  | `xsd:string`  | Yes  | Handle to the image asset.  |
-|  ` *`pathName`*`  | `xsd:string`  | Yes  | Name of the Photoshop path you want to return.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company with the image you want to work with.  |
+|  `*`assetHandle`*`  | `xsd:string`  | Yes  | Handle to the image asset.  |
+|  `*`pathName`*`  | `xsd:string`  | Yes  | Name of the Photoshop path you want to return.  |
 
 **Output (getPhotoshopPathReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`perspectiveQuad`*`  | `types:PerspectiveQuad`  | Yes  |Returns image coordinates based on the path. See [PerspectiveQuad](../../../types/c-data-types/r-perspective-quad.md#reference-3c1f780f9c264e5b870b1ade24566204).  |
+|  `*`perspectiveQuad`*`  | `types:PerspectiveQuad`  | Yes  |Returns image coordinates based on the path. See [PerspectiveQuad](../../../types/c-data-types/r-perspective-quad.md#reference-3c1f780f9c264e5b870b1ade24566204).  |
 
 ## Examples {#section-1f0461cbdc184c8d8925336d5279db47}
 

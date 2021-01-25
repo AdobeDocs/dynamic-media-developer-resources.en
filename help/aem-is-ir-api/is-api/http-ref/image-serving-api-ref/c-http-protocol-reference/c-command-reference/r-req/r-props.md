@@ -4,7 +4,7 @@ seo-description: Response data properties. Evaluates the current request as if i
 seo-title: props
 solution: Experience Manager
 title: props
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: b9325654-81d6-4f00-bf0a-36650bea6b8d
 ---
 

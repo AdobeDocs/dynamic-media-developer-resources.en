@@ -4,7 +4,7 @@ seo-description: Catalog data file path. Specifies the file which contains the m
 seo-title: CatalogFile
 solution: Experience Manager
 title: CatalogFile
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 6c34e24e-4602-4dd6-b202-793d621a8995
 ---
 

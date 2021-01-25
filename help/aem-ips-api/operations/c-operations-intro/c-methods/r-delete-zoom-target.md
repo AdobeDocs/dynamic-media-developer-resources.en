@@ -4,7 +4,7 @@ seo-description: Deletes a zoom target.
 seo-title: deleteZoomTarget
 solution: Experience Manager
 title: deleteZoomTarget
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 01a9321f-89a9-4263-937b-b0b49fe2fb81
 ---
 
@@ -31,8 +31,8 @@ Deletes a zoom target.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company to which the zoom target belongs.  |
-|  ` *`zoomTargetHandle`*`  | `xsd:string`  | Yes  | The handle to the zoom target to delete.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company to which the zoom target belongs.  |
+|  `*`zoomTargetHandle`*`  | `xsd:string`  | Yes  | The handle to the zoom target to delete.  |
 
 **Output (deleteZoomTargetParam)**
 

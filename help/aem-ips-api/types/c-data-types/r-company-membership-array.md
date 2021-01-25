@@ -2,7 +2,7 @@
 description: CompanyMembershipArray
 solution: Experience Manager
 title: CompanyMembershipArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: fa0a9171-d5bc-4a6f-a1c5-7b4f26531901
 ---
 
@@ -14,5 +14,5 @@ uuid: fa0a9171-d5bc-4a6f-a1c5-7b4f26531901
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:CompanyMembership`  | |
+|  `*`items`*`  | `types:CompanyMembership`  | |
 

@@ -4,7 +4,7 @@ seo-description: Default image modification time stamp. Provides a default value
 seo-title: TimeStamp
 solution: Experience Manager
 title: TimeStamp
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 0670e53a-ad7d-46cf-8e18-4c52a766df6f
 ---
 
@@ -32,7 +32,7 @@ All elements of string formatted date/time values must be present. If the date/t
 
 ## Default {#section-ac465313c97943ed97d41ea852329177}
 
-If empty or not defined, the server uses the file modification time of this ` *`catalog`*.ini` file.
+If empty or not defined, the server uses the file modification time of this `*`catalog`*.ini` file.
 
 ## See also {#section-ea19bcefa4a04d7eb5d9480cf0e2ca26}
 

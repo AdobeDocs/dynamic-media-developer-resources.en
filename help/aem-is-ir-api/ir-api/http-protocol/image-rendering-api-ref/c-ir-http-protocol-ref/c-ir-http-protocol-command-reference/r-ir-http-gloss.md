@@ -4,7 +4,7 @@ seo-description: Material surface glossiness. Specifies the relative glossiness 
 seo-title: gloss
 solution: Experience Manager
 title: gloss
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 3774e08b-d24e-4cf2-8719-32a21bb9bcb6
 ---
 

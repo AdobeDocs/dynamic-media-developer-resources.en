@@ -4,7 +4,7 @@ seo-description: Use these server settings for SSL.
 seo-title: SSL
 solution: Experience Manager
 title: SSL
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: dec9bd09-8191-4010-8898-2890ffbe9ca7
 ---
 

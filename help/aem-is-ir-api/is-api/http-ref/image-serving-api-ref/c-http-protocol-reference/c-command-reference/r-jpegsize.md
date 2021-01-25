@@ -4,7 +4,7 @@ seo-description: Jpeg Size in KiloBytes. Specifies the maximum size of the JPEG 
 seo-title: jpegSize
 solution: Experience Manager
 title: jpegSize
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 832163ca-0554-481d-b87f-bf322f415274
 ---
 

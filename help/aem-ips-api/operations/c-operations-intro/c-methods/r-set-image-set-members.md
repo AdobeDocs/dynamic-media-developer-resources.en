@@ -4,7 +4,7 @@ seo-description: Sets the list of assets associated with an image set.
 seo-title: setImageSetMembers
 solution: Experience Manager
 title: setImageSetMembers
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 84a73ff4-e93f-4764-80e8-e15f1fec1aeb
 ---
 

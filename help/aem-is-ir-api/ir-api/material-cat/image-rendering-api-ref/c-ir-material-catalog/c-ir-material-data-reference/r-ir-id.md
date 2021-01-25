@@ -4,7 +4,7 @@ seo-description: Catalog record identifier. Key value by which material records 
 seo-title: Id
 solution: Experience Manager
 title: Id
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 0d29e936-f3f3-40cd-a25f-b85532a3b530
 ---
 

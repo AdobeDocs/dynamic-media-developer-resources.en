@@ -4,7 +4,7 @@ seo-description: Set any attribute for a given s7 elementID.
 seo-title: setAttr
 solution: Experience Manager
 title: setAttr
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 968f7496-3cd4-4670-96fc-53127bba9a83
 ---
 

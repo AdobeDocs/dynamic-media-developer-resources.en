@@ -4,7 +4,7 @@ seo-description: Macro definition. A Render Serving protocol fragment consisting
 seo-title: Definition
 solution: Experience Manager
 title: Definition
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 3860cf79-de70-4fcc-a4e8-6d9c53d32396
 ---
 

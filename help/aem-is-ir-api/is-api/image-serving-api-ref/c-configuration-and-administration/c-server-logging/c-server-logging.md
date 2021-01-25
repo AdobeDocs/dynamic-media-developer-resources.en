@@ -1,11 +1,8 @@
 ---
 description: All log files are written to the same log folder specified with TC directory.
-seo-description: All log files are written to the same log folder specified with TC directory.
-seo-title: Server logging
 solution: Experience Manager
 title: Server logging
-topic: Scene7 Image Serving - Image Rendering API
-uuid: f6145737-e4c3-4533-9be5-5b5a0202fe33
+topic: Dynamic Media Image Serving - Image Rendering API
 ---
 
 # Server logging{#server-logging}
@@ -18,7 +15,7 @@ Important A sufficient amount of disk space must be reserved for log files to av
 
 The Platform Server and the Image Server create the three types of log files described below.
 
-Other Image Serving components and certain other Scene7 packages, such as the Scene7 Viewers, may also create log files in the same folder. These log files are for Scene7 internal use and may be requested by Scene7 Support for trouble-shooting purposes.
+Other Image Serving components and certain other Dynamic Media packages, such as the Dynamic Media Viewers, may also create log files in the same folder. These log files are for Dynamic Media internal use and may be requested by Dynamic Media technical support for trouble-shooting purposes.
 
 * [Access log](c-access-log.md)
 * [Trace log](c-trace-log.md)

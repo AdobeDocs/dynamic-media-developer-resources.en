@@ -4,7 +4,7 @@ seo-description: A job that runs on a server. Also, it is an instance of a sched
 seo-title: ActiveJob
 solution: Experience Manager
 title: ActiveJob
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: d7120a88-6f3e-4844-aafa-83d419470fad
 ---
 

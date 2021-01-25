@@ -4,7 +4,7 @@ seo-description: View height. Specifies the height of the reply image.
 seo-title: hei
 solution: Experience Manager
 title: hei
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 6f7e580b-6399-4661-b5d9-8044574ba124
 ---
 

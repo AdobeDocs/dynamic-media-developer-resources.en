@@ -4,7 +4,7 @@ seo-description: Layer Clip Path. Specifies a clip path for the current layer.
 seo-title: clipPath
 solution: Experience Manager
 title: clipPath
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: fe84cf7a-63af-47d3-ae4f-2122f2f0a262
 ---
 
@@ -29,13 +29,13 @@ Layer Clip Path. Specifies a clip path for the current layer.
 
 Any parts of the layer that fall outside the area defined by `clipPath=` are rendered transparent.
 
-` *`pathName`*` is the name of a path embedded in the layer source image. The path is automatically transformed to maintain relative alignment with the image contents. If more than one ` *`pathName`*` is specified, the server clips the image to the intersection of these paths. Any ` *`pathName`*` not found in the source image is ignored.
+`*`pathName`*` is the name of a path embedded in the layer source image. The path is automatically transformed to maintain relative alignment with the image contents. If more than one `*`pathName`*` is specified, the server clips the image to the intersection of these paths. Any `*`pathName`*` not found in the source image is ignored.
 
 >[!NOTE]
 >
->Only ASCII strings are supported for ` *`pathName`*`.
+>Only ASCII strings are supported for `*`pathName`*`.
 
-` *`pathDefinition`*` allows specifying explicit path data in layer pixel coordinates.
+`*`pathDefinition`*` allows specifying explicit path data in layer pixel coordinates.
 
 If `size=` is specified and not 0,0, the layer is presized. In this case, path coordinates are relative to the upper-left corner of the layer rectangle and the layer is positioned based on `origin=` or its default. Any regions of the path outside the layer rectangle remain transparent.
 
@@ -45,9 +45,9 @@ If `size=` is not specified for a solid color or text layer, the layer is consid
 >
 >`scale=`, `rotate=`, and `anchor=` commands are not permitted for self-sizing solid color layers.
 
-` *`pathDefinition`*` accepts a string similar to the value of the `d=` attribute of the SVG `<path>` element, except that commas are used instead of spaces to separate values. ` *`pathDefinition`*` can include one or more closed-loop sub-paths.
+`*`pathDefinition`*` accepts a string similar to the value of the `d=` attribute of the SVG `<path>` element, except that commas are used instead of spaces to separate values. `*`pathDefinition`*` can include one or more closed-loop sub-paths.
 
-The following path commands are supported in ` *`pathDefinition`*`: 
+The following path commands are supported in `*`pathDefinition`*`: 
 
 <table id="table_A74DD7A48B1C417D9D4BA46BECEAB981"> 
  <thead> 

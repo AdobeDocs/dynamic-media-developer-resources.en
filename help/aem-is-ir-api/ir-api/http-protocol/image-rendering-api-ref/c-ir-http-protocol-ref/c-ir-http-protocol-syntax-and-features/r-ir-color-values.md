@@ -4,7 +4,7 @@ seo-description: Color values for color= and bgc= attributes may be specified us
 seo-title: Color values
 solution: Experience Manager
 title: Color values
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: f8e3a8e7-3e0c-4ee6-8434-caba1f2bea1f
 ---
 

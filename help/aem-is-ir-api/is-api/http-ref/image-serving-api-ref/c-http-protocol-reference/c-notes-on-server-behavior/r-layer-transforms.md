@@ -4,7 +4,7 @@ seo-description: Transforms are applied to source images and text layers.
 seo-title: Layer transforms
 solution: Experience Manager
 title: Layer transforms
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: b32b5af4-66ad-474a-9bca-4b6da8f43bf9
 ---
 

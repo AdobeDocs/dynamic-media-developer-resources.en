@@ -4,7 +4,7 @@ seo-description: If an ICC profile map is required for an image catalog, the rel
 seo-title: ICC profile map reference
 solution: Experience Manager
 title: ICC profile map reference
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 3f95a24b-98fe-408c-bdc2-4272266b7e86
 ---
 

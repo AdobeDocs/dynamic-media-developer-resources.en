@@ -4,7 +4,7 @@ seo-description: If material data is required for a material catalog, the relati
 seo-title: Material data reference
 solution: Experience Manager
 title: Material data reference
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 1f2dae40-0314-483a-a731-11889e166dee
 ---
 

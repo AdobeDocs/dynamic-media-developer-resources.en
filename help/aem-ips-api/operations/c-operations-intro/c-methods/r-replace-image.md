@@ -4,7 +4,7 @@ seo-description: Replaces image data for an image asset.
 seo-title: replaceImage
 solution: Experience Manager
 title: replaceImage
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 46824e33-265c-4425-9ab1-8ad6b7ac154d
 ---
 
@@ -29,15 +29,15 @@ Replaces image data for an image asset.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyName`*`  | `xsd:string`  | Yes  | The handle to the company with the image you want to replace.  |
-|  ` *`assetHandle`*`  | `xsd:string`  | Yes  | The handle to the asset you want to replace.  |
-|  ` *`urlModifier`*`  | `xsd:string`  | Yes  | Image Server commands that generate new image data.  |
+|  `*`companyName`*`  | `xsd:string`  | Yes  | The handle to the company with the image you want to replace.  |
+|  `*`assetHandle`*`  | `xsd:string`  | Yes  | The handle to the asset you want to replace.  |
+|  `*`urlModifier`*`  | `xsd:string`  | Yes  | Image Server commands that generate new image data.  |
 
 **Output (replaceImageReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`assetHandle`*`  | `xsd:string`  | Yes  | Handle to the new asset.  |
+|  `*`assetHandle`*`  | `xsd:string`  | Yes  | Handle to the new asset.  |
 
 ## Examples {#section-cebb93576bde4cb98cb27356ca66783b}
 

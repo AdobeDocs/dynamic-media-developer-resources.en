@@ -4,7 +4,7 @@ seo-description: Create a new image map or edit an existing map.
 seo-title: saveImageMap
 solution: Experience Manager
 title: saveImageMap
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 9714fc99-2259-4766-96d7-fe2f9fd2f341
 ---
 
@@ -102,7 +102,7 @@ Create a new image map or edit an existing map.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`imageMapHandle`*`  | `xsd:string`  | Yes  | The handle to the new or edited image map.  |
+|  `*`imageMapHandle`*`  | `xsd:string`  | Yes  | The handle to the new or edited image map.  |
 
 ## Examples {#section-fdac488b640f427c8aa3d549c5032851}
 

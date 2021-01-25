@@ -4,7 +4,7 @@ seo-description: Sharpen reply image. Optional sharpening may be applied after t
 seo-title: sharpen
 solution: Experience Manager
 title: sharpen
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 0fc0b694-f332-4a16-9970-6b699528f165
 ---
 

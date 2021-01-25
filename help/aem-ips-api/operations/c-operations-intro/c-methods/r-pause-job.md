@@ -4,7 +4,7 @@ seo-description: Pauses an active job.
 seo-title: pauseJob
 solution: Experience Manager
 title: pauseJob
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: baad2ad6-46f5-4133-a6d9-8ffadf990a06
 ---
 
@@ -31,8 +31,8 @@ Pauses an active job.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company.  |
-|  ` *`jobHandle`*`  | `xsd:string`  | Yes  | Handle to the job you want to pause.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company.  |
+|  `*`jobHandle`*`  | `xsd:string`  | Yes  | Handle to the job you want to pause.  |
 
 **Output (PauseJobReturn)**
 

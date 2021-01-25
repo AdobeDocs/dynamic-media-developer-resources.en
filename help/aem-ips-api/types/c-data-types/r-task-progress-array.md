@@ -4,7 +4,7 @@ seo-description: A task progress array. Contains information about video transco
 seo-title: TaskProgressArray
 solution: Experience Manager
 title: TaskProgressArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: e5d9b6ce-f133-47de-beea-b8b395827bb8
 ---
 
@@ -18,5 +18,5 @@ A task progress array. Contains information about video transcoding tasks.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`item`*`  | `types:TaskProgress`  | Task progress items. Minimum occurrence is zero. Maximum occurrence is unbounded.  |
+|  `*`item`*`  | `types:TaskProgress`  | Task progress items. Minimum occurrence is zero. Maximum occurrence is unbounded.  |
 

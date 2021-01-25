@@ -20,11 +20,11 @@ See also [init](../../../c-html5-s7-aem-asset-viewers/c-html5-mixedmedia-viewer-
 
 ## Parameters {#section-4fb77a645fdd45b3aaa5079c31e3bb05}
 
-` *`asset`*` - { `String`} new asset ID or explicit mixed media set, with optional Image Serving modifiers appended after `?`.
+`*`asset`*` - { `String`} new asset ID or explicit mixed media set, with optional Image Serving modifiers appended after `?`.
 
 Images which use IR (Image Rendering) or UGC (User-Generated Content) are not supported by this viewer.
 
-` *`data`*` - { `JSON`} location of the new caption file.
+`*`data`*` - { `JSON`} location of the new caption file.
 
 If not specified, the caption button is not visible in the user interface. Captions specified with this parameter apply to the video that comes first in the mixed media set; subsequent videos play without captions. This viewer supports the following component IDs:
 

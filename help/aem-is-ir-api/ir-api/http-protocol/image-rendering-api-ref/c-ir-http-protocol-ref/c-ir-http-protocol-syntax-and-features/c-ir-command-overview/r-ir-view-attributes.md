@@ -4,7 +4,7 @@ seo-description: These commands are position-independent and may occur anywhere 
 seo-title: View attributes
 solution: Experience Manager
 title: View attributes
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: eae8d998-a4ba-4871-9a8a-c15c22a20580
 ---
 

@@ -4,7 +4,7 @@ seo-description: Array of asset job logs.
 seo-title: AssetJobLogArray
 solution: Experience Manager
 title: AssetJobLogArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: f6d98335-778f-4289-b311-27457b9e039d
 ---
 
@@ -18,5 +18,5 @@ Array of asset job logs.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:AssetJobLog`  | Array of asset job logs.  |
+|  `*`items`*`  | `types:AssetJobLog`  | Array of asset job logs.  |
 

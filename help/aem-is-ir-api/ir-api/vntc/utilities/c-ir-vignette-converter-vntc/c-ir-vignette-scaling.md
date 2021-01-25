@@ -4,7 +4,7 @@ seo-description: Four general types of production vignettes are supported.
 seo-title: Vignette scaling
 solution: Experience Manager
 title: Vignette scaling
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 08c8f826-7dce-4bcb-9323-4892262eb578
 ---
 
@@ -20,7 +20,7 @@ Four general types of production vignettes are supported.
   Recommended when all desired render image sizes are known. Provides better quality and faster rendering than single-resolution and pyramid vignettes because the image does not need to be scaled after rendering. 
 * Pyramid
 
-  Best all purpose, recommended when multiple image sizes are needed and the exact sizes are not pre-determined and when one of the Scene7 Flash zoom viewers are used. 
+  Best all purpose, recommended when multiple image sizes are needed and the exact sizes are not pre-determined and when the Dynamic Media Zoom viewer is used. 
 * Pyramid with one or more additional resolutions
 
   Provides high quality for specific sizes while still providing flexibility and zoom viewer support.

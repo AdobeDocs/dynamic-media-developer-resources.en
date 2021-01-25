@@ -4,7 +4,7 @@ seo-description: Image Rendering source data files include vignette files, mater
 seo-title: Source data
 solution: Experience Manager
 title: Source data
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 76c6419c-613e-4eff-b30f-9fea2a7daf5b
 ---
 

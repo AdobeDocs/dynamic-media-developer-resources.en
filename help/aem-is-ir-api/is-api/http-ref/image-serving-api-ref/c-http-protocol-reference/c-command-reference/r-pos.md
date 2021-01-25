@@ -4,7 +4,7 @@ seo-description: Layer position.
 seo-title: pos
 solution: Experience Manager
 title: pos
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: e9872ce9-5c47-49c5-9c87-4fa8441c4770
 ---
 

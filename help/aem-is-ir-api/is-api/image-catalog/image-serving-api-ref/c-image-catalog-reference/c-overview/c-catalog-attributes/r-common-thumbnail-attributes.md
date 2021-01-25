@@ -4,7 +4,7 @@ seo-description: Catalog attribute files recognize these common thumbnail attrib
 seo-title: Common thumbnail attributes
 solution: Experience Manager
 title: Common thumbnail attributes
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 937988ba-43c3-4542-8e48-9f94cf3f61ad
 ---
 

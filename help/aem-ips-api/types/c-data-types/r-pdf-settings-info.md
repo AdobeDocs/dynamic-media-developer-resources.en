@@ -4,7 +4,7 @@ seo-description: The properties of a PDF settings file asset.
 seo-title: PdfSettingsInfo
 solution: Experience Manager
 title: PdfSettingsInfo
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: abbcf82d-5b6e-4f2c-8940-88ea8651aa40
 ---
 
@@ -18,7 +18,7 @@ The properties of a PDF settings file asset.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`originalPath`*`  | `xsd:string`  | File path.  |
-|  ` *`originalFile`*`  | `xsd:string`  | File name.  |
-|  ` *`fileSize`*`  | `xsd:int`  | File size.  |
+|  `*`originalPath`*`  | `xsd:string`  | File path.  |
+|  `*`originalFile`*`  | `xsd:string`  | File name.  |
+|  `*`fileSize`*`  | `xsd:int`  | File size.  |
 

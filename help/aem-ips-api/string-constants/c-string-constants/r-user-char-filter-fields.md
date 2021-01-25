@@ -4,7 +4,7 @@ seo-description: Used by getUsersParam and getUserCharsParam/charField.
 seo-title: User Char Filter Fields
 solution: Experience Manager
 title: User Char Filter Fields
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: b8137f42-d7f6-4545-ac7a-7d94a59c40c3
 ---
 

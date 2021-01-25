@@ -4,7 +4,7 @@ seo-description: Root URL for relative image URLs. Specifies the root URL for re
 seo-title: RootUrl
 solution: Experience Manager
 title: RootUrl
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 173ce99a-f87e-4700-a28a-1a87b8c55b85
 ---
 

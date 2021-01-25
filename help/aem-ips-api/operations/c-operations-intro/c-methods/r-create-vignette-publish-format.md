@@ -4,7 +4,7 @@ seo-description: Creates a new publish format for a vignette.
 seo-title: createVignettePublishFormat
 solution: Experience Manager
 title: createVignettePublishFormat
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 834ebe6a-e105-4075-8004-172237980933
 ---
 
@@ -116,7 +116,7 @@ Newer Image Rendering server versions can support pyramid vignettes, which elimi
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`vignetteFormatHandle`*`  | `xsd:string`  | Yes  | The handle to the created vignette format.  |
+|  `*`vignetteFormatHandle`*`  | `xsd:string`  | Yes  | The handle to the created vignette format.  |
 
 ## Examples {#section-0564752d439642b9bb8de2903db6de1e}
 

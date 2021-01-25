@@ -4,7 +4,7 @@ seo-description: Default print resolution. Provides a default print resolution i
 seo-title: PrintResolution
 solution: Experience Manager
 title: PrintResolution
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 6333c630-2df1-4eb1-b2fb-e67692f747eb
 ---
 

@@ -4,7 +4,7 @@ seo-description: Job data for a batch job.
 seo-title: jobdata
 solution: Experience Manager
 title: jobdata
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 4d0fca91-f08a-48cf-931a-504d295785fc
 ---
 

@@ -4,7 +4,7 @@ seo-description: Use the following to contact technical support.
 seo-title: Technical support
 solution: Experience Manager
 title: Technical support
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: bab5aab4-b5a3-4c8f-80bd-d9e3289b9bff
 ---
 

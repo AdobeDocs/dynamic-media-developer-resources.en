@@ -4,7 +4,7 @@ seo-description: Removes company users from a specific group.
 seo-title: removeGroupMembers
 solution: Experience Manager
 title: removeGroupMembers
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: dd0ea335-bbd0-43b1-830b-77f32dc39b12
 ---
 
@@ -29,9 +29,9 @@ Removes company users from a specific group.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company with the users you want to work with.  |
-|  ` *`groupHandle`*`  | `xsd:string`  | Yes  | Group handle.  |
-|  ` *`userHandleArray`*`  | `types:HandleArray`  | Yes  | An array of handles for users whose group memberships you want to remove.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company with the users you want to work with.  |
+|  `*`groupHandle`*`  | `xsd:string`  | Yes  | Group handle.  |
+|  `*`userHandleArray`*`  | `types:HandleArray`  | Yes  | An array of handles for users whose group memberships you want to remove.  |
 
 **Output (removeGroupMembersParam)**
 

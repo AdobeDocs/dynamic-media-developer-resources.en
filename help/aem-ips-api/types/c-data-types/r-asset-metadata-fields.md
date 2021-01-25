@@ -4,7 +4,7 @@ seo-description: Returns metadata field definitions for specified asset types.
 seo-title: AssetMetadataFields
 solution: Experience Manager
 title: AssetMetadataFields
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: aefb734c-7609-4227-ae2c-48a1469740ec
 ---
 
@@ -18,6 +18,6 @@ Returns metadata field definitions for specified asset types.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`assetType`*`  | `xsd:string`  | Asset type associated with field definitions (see "Asset Types" for values).  |
-|  ` *`fieldArray`*`  | `types:MetadataFieldArray`  |Array of metadata field definitions associated with the asset type specified in `assetType`.  |
+|  `*`assetType`*`  | `xsd:string`  | Asset type associated with field definitions (see "Asset Types" for values).  |
+|  `*`fieldArray`*`  | `types:MetadataFieldArray`  |Array of metadata field definitions associated with the asset type specified in `assetType`.  |
 

@@ -1,16 +1,16 @@
 ---
-description: There are some restrictions and known issues that should be considered when using Scene7 Image Serving.
-seo-description: There are some restrictions and known issues that should be considered when using Scene7 Image Serving.
+description: There are some restrictions and known issues that should be considered when using Dynamic Media Image Serving.
+seo-description: There are some restrictions and known issues that should be considered when using Dynamic Media Image Serving.
 seo-title: Restrictions and known issues
 solution: Experience Manager
 title: Restrictions and known issues
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 9f9fad41-4828-4fba-8f5f-2c33e7811c71
 ---
 
 # Restrictions and known issues{#restrictions-and-known-issues}
 
-There are some restrictions and known issues that should be considered when using Scene7 Image Serving.
+There are some restrictions and known issues that should be considered when using Dynamic Media Image Serving.
 
 ## Documentation errata {#section-b1579410b11e41e488c7de9ecc7e8d5c}
 

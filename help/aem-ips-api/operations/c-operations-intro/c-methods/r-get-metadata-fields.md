@@ -4,7 +4,7 @@ seo-description: Gets the user-defined metadata fields associated with an asset.
 seo-title: getMetadataFields
 solution: Experience Manager
 title: getMetadataFields
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: bf891bae-53c8-4e3d-90df-caca9a7e022b
 ---
 
@@ -30,14 +30,14 @@ Gets the user-defined metadata fields associated with an asset.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The company handle.  |
-|  ` *`assetType`*`  | `xsd:string`  | Yes  | Asset types from which to obtain metadata.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The company handle.  |
+|  `*`assetType`*`  | `xsd:string`  | Yes  | Asset types from which to obtain metadata.  |
 
 **Output (getMetadataFieldsParam)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`Code Phrase`*`  | `Code Phrase`  |  |  |
+|  `*`Code Phrase`*`  | `Code Phrase`  |  |  |
 
 ## Examples {#section-dbfde1483d614b5aac2b491cb32115d7}
 

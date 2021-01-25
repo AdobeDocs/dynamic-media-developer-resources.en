@@ -4,7 +4,7 @@ seo-description: Some restrictions apply for nesting and embedding.
 seo-title: Restrictions
 solution: Experience Manager
 title: Restrictions
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 05e97255-db4d-4587-94d2-a7ea608ff7d4
 ---
 

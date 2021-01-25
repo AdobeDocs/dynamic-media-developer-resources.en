@@ -4,7 +4,7 @@ seo-description: Sets folder permissions.
 seo-title: setFolderPermissions
 solution: Experience Manager
 title: setFolderPermissions
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 3a33034e-df2c-48ab-8ade-b76bea444388
 ---
 
@@ -26,10 +26,10 @@ Sets folder permissions.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | Company handle.  |
-|  ` *`folderHandle`*`  | `xsd:string`  | Yes  | Folder handle.  |
-|  ` *`setChildren`*`  | `xsd:boolean`  | Yes  | Sets permissions on children that belong to the folder.  |
-|  ` *`permissionArray`*`  | `types:PermissionUpdateArray`  | Yes  | Permissions array.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Company handle.  |
+|  `*`folderHandle`*`  | `xsd:string`  | Yes  | Folder handle.  |
+|  `*`setChildren`*`  | `xsd:boolean`  | Yes  | Sets permissions on children that belong to the folder.  |
+|  `*`permissionArray`*`  | `types:PermissionUpdateArray`  | Yes  | Permissions array.  |
 
 **Output (setFolderPermissionsReturn)**
 

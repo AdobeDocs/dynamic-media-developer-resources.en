@@ -4,7 +4,7 @@ seo-description: Image Rendering consumes disk space for caching and logging pur
 seo-title: Dynamic disk space considerations
 solution: Experience Manager
 title: Dynamic disk space considerations
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: fe8fd251-75fc-4c27-b58e-7b39a4f00118
 ---
 

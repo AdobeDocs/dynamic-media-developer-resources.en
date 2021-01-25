@@ -4,7 +4,7 @@ seo-description: Used by ColorManagementOptions/colorManagement.
 seo-title: Color Management Modes
 solution: Experience Manager
 title: Color Management Modes
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 44d0b8d6-7bfc-43f4-9ddc-179526c180f0
 ---
 

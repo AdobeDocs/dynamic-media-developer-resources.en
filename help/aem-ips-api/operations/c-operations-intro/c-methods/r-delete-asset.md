@@ -4,7 +4,7 @@ seo-description: Deletes an asset.
 seo-title: deleteAsset
 solution: Experience Manager
 title: deleteAsset
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 47f700e0-04bf-4d33-a18a-d938f7e9e326
 ---
 
@@ -33,8 +33,8 @@ Deletes an asset.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company to which the folder belongs.  |
-|  ` *`assetHandle`*`  | `xsd:string`  | Yes  | The handle to the asset to delete.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company to which the folder belongs.  |
+|  `*`assetHandle`*`  | `xsd:string`  | Yes  | The handle to the asset to delete.  |
 
 **Output (deleteAssetParam)**
 

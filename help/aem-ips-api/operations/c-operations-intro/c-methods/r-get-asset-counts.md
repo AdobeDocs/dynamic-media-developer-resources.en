@@ -4,7 +4,7 @@ seo-description: Gets the assets and the number of assets associated with a spec
 seo-title: getAssetCounts
 solution: Experience Manager
 title: getAssetCounts
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 92103806-59da-444f-b69c-d045d0ebf42e
 ---
 
@@ -33,13 +33,13 @@ Syntax
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company with assets you want to count.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company with assets you want to count.  |
 
 **Output (getAssetCountsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`countArray`*`  | `types:AssetCountArray`  | No  | An array of asset types, each with its own count field, allowing the representation of multiple asset types per element of the array.  |
+|  `*`countArray`*`  | `types:AssetCountArray`  | No  | An array of asset types, each with its own count field, allowing the representation of multiple asset types per element of the array.  |
 
 ## Examples {#section-6052a503eb3843f6adb99e200fdba280}
 

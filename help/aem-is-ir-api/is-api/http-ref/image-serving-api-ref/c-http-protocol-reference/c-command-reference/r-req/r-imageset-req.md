@@ -4,7 +4,7 @@ seo-description: Image set data from image catalog. Returns image set data for t
 seo-title: imageset
 solution: Experience Manager
 title: imageset
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 8854e903-a85f-403a-ae3d-b7281a236262
 ---
 

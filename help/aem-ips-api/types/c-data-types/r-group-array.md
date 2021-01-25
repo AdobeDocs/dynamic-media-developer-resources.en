@@ -4,7 +4,7 @@ seo-description: Array of groups.
 seo-title: GroupArray
 solution: Experience Manager
 title: GroupArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: b87ff841-6efc-479d-b4be-ed507fa14069
 ---
 
@@ -18,5 +18,5 @@ Array of groups.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:Group`  | Array of groups.  |
+|  `*`items`*`  | `types:Group`  | Array of groups.  |
 

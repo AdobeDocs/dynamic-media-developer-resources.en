@@ -4,7 +4,7 @@ seo-description: Removes tag field values from the dictionary of a tag field.
 seo-title: deleteTagFieldValues
 solution: Experience Manager
 title: deleteTagFieldValues
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 71cdec4e-c1d6-4518-87ed-5c47a5112b15
 ---
 
@@ -24,9 +24,9 @@ Removes tag field values from the dictionary of a tag field.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle of the company containing the tag field.  |
-|  ` *`fieldHandle`*`  | `xsd:string`  | Yes  | The handle of the tag field to be modified.  |
-|  ` *`valueArray`*`  | `types:StringArray`  | Yes  | An array of tag values to be deleted from the field’s dictionary.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle of the company containing the tag field.  |
+|  `*`fieldHandle`*`  | `xsd:string`  | Yes  | The handle of the tag field to be modified.  |
+|  `*`valueArray`*`  | `types:StringArray`  | Yes  | An array of tag values to be deleted from the field’s dictionary.  |
 
 **Output (deleteTagFieldValuesParam)**
 

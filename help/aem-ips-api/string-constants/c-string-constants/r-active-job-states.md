@@ -4,7 +4,7 @@ seo-description: Used by ActiveJobs/state.
 seo-title: Active Job States
 solution: Experience Manager
 title: Active Job States
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 77020ada-cea6-4de2-bb90-8d5cf835c221
 ---
 

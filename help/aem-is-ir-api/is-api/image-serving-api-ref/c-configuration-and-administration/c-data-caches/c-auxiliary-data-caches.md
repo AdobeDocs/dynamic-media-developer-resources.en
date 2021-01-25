@@ -4,7 +4,7 @@ seo-description: Intermediate image data produced by nested/embedded Image Servi
 seo-title: Auxiliary data caches
 solution: Experience Manager
 title: Auxiliary data caches
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 10ce998e-e300-4d24-9d92-a8693dade327
 ---
 

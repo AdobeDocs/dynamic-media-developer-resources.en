@@ -4,7 +4,7 @@ seo-description: Layer text. Specifies text and formatting content for a text la
 seo-title: text
 solution: Experience Manager
 title: text
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 5b4f9282-83a3-488d-b5d2-deb2c92de564
 ---
 

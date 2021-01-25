@@ -4,7 +4,7 @@ seo-description: Texture render alignment. Specifies which of the origin points 
 seo-title: align
 solution: Experience Manager
 title: align
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 0b24cd82-f9b2-48f4-9052-8c2026370ff7
 ---
 

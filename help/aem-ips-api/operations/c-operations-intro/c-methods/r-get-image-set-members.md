@@ -4,7 +4,7 @@ seo-description: Gets an array of members that are in an image set.
 seo-title: getImageSetMembers
 solution: Experience Manager
 title: getImageSetMembers
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: b19c9fec-df92-42e1-9228-42cdf196fdfc
 ---
 
@@ -35,14 +35,14 @@ Gets an array of members that are in an image set.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that contains the image set.  |
-|  ` *`assetHandle`*`  | `xsd:string`  | Yes  | The image set asset handle.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that contains the image set.  |
+|  `*`assetHandle`*`  | `xsd:string`  | Yes  | The image set asset handle.  |
 
 **Output (getImageSetMembersReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`memberArray`*`  | `types:ImageSetMemberArray`  | No  | Array of image set members.  |
+|  `*`memberArray`*`  | `types:ImageSetMemberArray`  | No  | Array of image set members.  |
 
 ## Examples {#section-888a9a78033346f39b171229de93dfa0}
 

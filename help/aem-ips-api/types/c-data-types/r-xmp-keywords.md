@@ -4,7 +4,7 @@ seo-description: The extensible metadata platform keywords of an asset.
 seo-title: XmpKeywords
 solution: Experience Manager
 title: XmpKeywords
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 220d285c-2275-4ed4-b606-e832e89aa916
 ---
 

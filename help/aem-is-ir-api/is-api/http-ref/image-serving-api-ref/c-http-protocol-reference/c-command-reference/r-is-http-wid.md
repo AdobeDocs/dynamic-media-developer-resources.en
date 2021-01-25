@@ -4,7 +4,7 @@ seo-description: View width. Specifies the width of the response image (view ima
 seo-title: wid
 solution: Experience Manager
 title: wid
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 30aeeea0-c8c9-40b9-a244-2802a7102dd6
 ---
 

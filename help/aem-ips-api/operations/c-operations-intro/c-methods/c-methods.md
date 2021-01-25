@@ -2,8 +2,7 @@
 description: Operation parameters
 solution: Experience Manager
 title: Operation parameters
-topic: Scene7 Image Production System API
-uuid: 2515588d-e2eb-4ea6-ae9c-d6a873c712e8
+topic: Dynamic Media Image Production System API
 ---
 
 # Operation parameters{#operation-parameters}

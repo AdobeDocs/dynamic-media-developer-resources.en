@@ -4,7 +4,7 @@ seo-description: Image Serving allows combining any number of image, text, and s
 seo-title: Layering overview
 solution: Experience Manager
 title: Layering overview
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 74c0855b-050a-4631-adea-9488bca67fd2
 ---
 

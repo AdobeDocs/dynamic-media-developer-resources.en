@@ -4,7 +4,7 @@ seo-description: Grayscale default output color profile. Specifies the name of t
 seo-title: IccProfileGray
 solution: Experience Manager
 title: IccProfileGray
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: a7d40114-f91f-4637-bb49-5b06b9ce846d
 ---
 

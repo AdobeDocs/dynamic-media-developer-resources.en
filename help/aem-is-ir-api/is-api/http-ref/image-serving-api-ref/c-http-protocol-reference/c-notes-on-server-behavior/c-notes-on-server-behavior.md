@@ -4,7 +4,7 @@ seo-description: There are several server behavior matters that should be consid
 seo-title: Notes on server behavior
 solution: Experience Manager
 title: Notes on server behavior
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: cca17322-4058-43cc-b022-ef8df52c0888
 ---
 

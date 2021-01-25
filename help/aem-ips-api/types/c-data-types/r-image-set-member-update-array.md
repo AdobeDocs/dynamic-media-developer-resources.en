@@ -4,7 +4,7 @@ seo-description: An array of image set member updates.
 seo-title: ImageSetMemberUpdateArray
 solution: Experience Manager
 title: ImageSetMemberUpdateArray
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 23d45181-1103-4e3a-89a4-984470c11728
 ---
 
@@ -18,5 +18,5 @@ An array of image set member updates.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`items`*`  | `types:ImageSetMemberUpdate`  | The array of image set member updates.  |
+|  `*`items`*`  | `types:ImageSetMemberUpdate`  | The array of image set member updates.  |
 

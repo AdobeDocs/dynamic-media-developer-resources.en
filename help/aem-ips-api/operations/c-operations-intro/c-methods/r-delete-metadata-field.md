@@ -4,7 +4,7 @@ seo-description: Deletes a company's metadata field.
 seo-title: deleteMetadataField
 solution: Experience Manager
 title: deleteMetadataField
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 06ec434a-2793-4227-ac93-ae3871c38ab9
 ---
 
@@ -26,8 +26,8 @@ Deletes a company's metadata field.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that contains the metadata field to be deleted.  |
-|  ` *`fieldHandle`*`  | `xsd:string`  | Yes  | The handle to the metadata field to be deleted.  |
+|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that contains the metadata field to be deleted.  |
+|  `*`fieldHandle`*`  | `xsd:string`  | Yes  | The handle to the metadata field to be deleted.  |
 
 **Output (deleteMetadataFieldParam)**
 

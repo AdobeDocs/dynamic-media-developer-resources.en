@@ -4,7 +4,7 @@ seo-description: Checks if a user with a specific company (identified by handle)
 seo-title: checkLogin
 solution: Experience Manager
 title: checkLogin
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 69f9e5f6-50c2-403d-93b2-b84a01f512a9
 ---
 
@@ -34,15 +34,15 @@ Checks if a user with a specific company (identified by handle), email address, 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`companyHandle`*`  | `xsd:string`  | No  | The handle to the company that contains the user.  |
-|  ` *`email`*`  | `xsd:string`  | Yes  | The user's email address.  |
-|  ` *`password`*`  | `xsd:string`  | Yes  | The user's password.  |
+|  `*`companyHandle`*`  | `xsd:string`  | No  | The handle to the company that contains the user.  |
+|  `*`email`*`  | `xsd:string`  | Yes  | The user's email address.  |
+|  `*`password`*`  | `xsd:string`  | Yes  | The user's password.  |
 
 **Output (checkLoginParam)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  ` *`status`*`  | `xsd:string`  | Yes  | User's log in status.  |
+|  `*`status`*`  | `xsd:string`  | Yes  | User's log in status.  |
 
 ## Examples {#section-23f90100a9d94bc7b4045634cccd1b98}
 

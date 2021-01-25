@@ -4,7 +4,7 @@ seo-description: Upload setting to process ZIP and TAR files as primary assets (
 seo-title: UnCompressOptions
 solution: Experience Manager
 title: UnCompressOptions
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 1e6827db-8c5e-47db-b7ff-4e681e107e57
 ---
 

@@ -4,7 +4,7 @@ seo-description: For information on materials used by Image Rendering see Materi
 seo-title: Materials
 solution: Experience Manager
 title: Materials
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: a4bbdd77-56b4-4a62-8fc4-2162b00420e7
 ---
 

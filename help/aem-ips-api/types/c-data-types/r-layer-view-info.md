@@ -4,7 +4,7 @@ seo-description: Layer view properties.
 seo-title: LayerViewInfo
 solution: Experience Manager
 title: LayerViewInfo
-topic: Scene7 Image Production System API
+topic: Dynamic Media Image Production System API
 uuid: 58d26f4d-03a6-4f57-bc8e-117355c0d74c
 ---
 
@@ -18,7 +18,7 @@ Layer view properties.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  ` *`url`*`  | `xsd:string`  |Image server URL that represents the template. Combines `urlModifier` and `urlPostAp- plyModifier` fields.  |
-|  ` *`urlModifier`*`  | `xsd:string`  |Image serving protocol commands to apply prior to request or `urlPostApplyModifier` commands.  |
-|  ` *`urlPostApplyModifier`*`  | `xsd:string`  |Image serving protocol commands to apply after `urlModifier` and request commands.  |
+|  `*`url`*`  | `xsd:string`  |Image server URL that represents the template. Combines `urlModifier` and `urlPostAp- plyModifier` fields.  |
+|  `*`urlModifier`*`  | `xsd:string`  |Image serving protocol commands to apply prior to request or `urlPostApplyModifier` commands.  |
+|  `*`urlPostApplyModifier`*`  | `xsd:string`  |Image serving protocol commands to apply after `urlModifier` and request commands.  |
 

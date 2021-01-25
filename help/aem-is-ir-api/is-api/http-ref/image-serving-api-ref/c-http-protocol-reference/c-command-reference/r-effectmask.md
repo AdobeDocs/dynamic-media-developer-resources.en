@@ -4,7 +4,7 @@ seo-description: Overrides the value of attribute ApplyEffectMask for the reques
 seo-title: effectMask
 solution: Experience Manager
 title: effectMask
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 2b90cc36-1e33-4116-a11d-74eafa9b366a
 ---
 

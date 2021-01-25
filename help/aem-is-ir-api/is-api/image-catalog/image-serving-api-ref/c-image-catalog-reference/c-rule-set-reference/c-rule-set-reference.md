@@ -4,7 +4,7 @@ seo-description: Image Serving supports a simple request preprocessing mechanism
 seo-title: Rule set reference
 solution: Experience Manager
 title: Rule set reference
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 356e4939-c57d-459a-8e40-9b25e20fc0a3
 ---
 

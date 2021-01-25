@@ -4,7 +4,7 @@ seo-description: Image Serving supports image catalogs with ISO‑8859‑1 and U
 seo-title: Character encoding
 solution: Experience Manager
 title: Character encoding
-topic: Scene7 Image Serving - Image Rendering API
+topic: Dynamic Media Image Serving - Image Rendering API
 uuid: dfb56411-40d1-4bac-9213-9104ecba2a02
 ---
 
