@@ -2,7 +2,7 @@
 description: closebutton
 solution: Experience Manager
 title: closebutton
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 474ee727-8afc-4f5e-9bad-0d0e5da998ef
 ---
 

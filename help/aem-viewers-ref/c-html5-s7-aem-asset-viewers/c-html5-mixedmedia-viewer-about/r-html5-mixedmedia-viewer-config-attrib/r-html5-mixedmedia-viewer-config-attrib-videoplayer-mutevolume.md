@@ -4,7 +4,7 @@ seo-description: Configuration attribute for Mixed Media Video Viewer.
 seo-title: VideoPlayer.mutevolume
 solution: Experience Manager
 title: VideoPlayer.mutevolume
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 2b004ebf-41e6-4895-a578-bb9094f40924
 ---
 

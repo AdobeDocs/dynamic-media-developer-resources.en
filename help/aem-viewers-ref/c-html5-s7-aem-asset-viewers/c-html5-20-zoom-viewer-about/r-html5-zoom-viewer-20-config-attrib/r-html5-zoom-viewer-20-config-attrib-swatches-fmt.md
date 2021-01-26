@@ -2,7 +2,7 @@
 description: Swatches.fmt
 solution: Experience Manager
 title: Swatches.fmt
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 61e6372c-bab9-4aac-a8a1-dffecc2e4903
 ---
 

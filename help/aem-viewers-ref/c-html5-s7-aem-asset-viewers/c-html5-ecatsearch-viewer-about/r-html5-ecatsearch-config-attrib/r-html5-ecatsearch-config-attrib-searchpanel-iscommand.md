@@ -2,7 +2,7 @@
 description: SearchPanel.iscommand
 solution: Experience Manager
 title: SearchPanel.iscommand
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 7496fea1-8a69-4749-ab4b-ae6d375441b8
 ---
 

@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Spin Viewer.
 seo-title: setParam
 solution: Experience Manager
 title: setParam
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 5f7be1d4-28aa-497c-9067-853c227aa11a
 ---
 

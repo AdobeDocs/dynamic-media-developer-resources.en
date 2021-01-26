@@ -2,7 +2,7 @@
 description: VideoScrubber.showtime
 solution: Experience Manager
 title: VideoScrubber.showtime
-topic: Dynamic media
+topic: Dynamic Media
 uuid: fe4e7327-5f2e-4eb4-a3ea-57a901fec1ca
 ---
 

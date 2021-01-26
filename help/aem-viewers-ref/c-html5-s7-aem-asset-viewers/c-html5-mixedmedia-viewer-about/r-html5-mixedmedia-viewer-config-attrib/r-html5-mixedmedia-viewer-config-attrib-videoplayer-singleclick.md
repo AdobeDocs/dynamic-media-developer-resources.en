@@ -2,7 +2,7 @@
 description: VideoPlayer.singleclick
 solution: Experience Manager
 title: VideoPlayer.singleclick
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 90664bad-10e4-47fb-a630-a5c25a5beb79
 ---
 

@@ -4,7 +4,7 @@ seo-description: The main class of the eCatalog Viewer is eCatalogViewer. It is 
 seo-title: Javascript API reference for eCatalog Viewer
 solution: Experience Manager
 title: Javascript API reference for eCatalog Viewer
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 96ce27fa-0509-4b8c-a4ba-f405830970c3
 ---
 

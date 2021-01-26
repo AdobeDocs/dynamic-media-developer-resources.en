@@ -4,7 +4,7 @@ seo-description: Specifies the image format that the component uses for loading 
 seo-title: FlyoutZoomView.fmt
 solution: Experience Manager
 title: FlyoutZoomView.fmt
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 6f6a69b4-d581-44ff-b089-ce9d0d0170bf
 ---
 

@@ -2,7 +2,7 @@
 description: ZoomView.iscommand
 solution: Experience Manager
 title: ZoomView.iscommand
-topic: Dynamic media
+topic: Dynamic Media
 uuid: e2a9388d-c753-4988-9aa0-73c4d0428d67
 ---
 

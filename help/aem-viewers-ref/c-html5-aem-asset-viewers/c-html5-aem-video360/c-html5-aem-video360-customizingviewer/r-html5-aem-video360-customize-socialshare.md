@@ -4,7 +4,7 @@ seo-description: The social share tool appears in the top right corner by defaul
 seo-title: Social share
 solution: Experience Manager
 title: Social share
-topic: Dynamic media
+topic: Dynamic Media
 uuid: d7b7e704-6f78-45f9-a82a-14dc6b01e230
 ---
 

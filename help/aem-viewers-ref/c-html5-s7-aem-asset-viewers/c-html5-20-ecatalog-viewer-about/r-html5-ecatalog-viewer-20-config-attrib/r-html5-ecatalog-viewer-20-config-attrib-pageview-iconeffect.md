@@ -2,7 +2,7 @@
 description: PageView.iconEffect
 solution: Experience Manager
 title: PageView.iconEffect
-topic: Dynamic media
+topic: Dynamic Media
 uuid: c8adabf9-ccbf-4a46-b1e7-b4cb58d4e606
 ---
 

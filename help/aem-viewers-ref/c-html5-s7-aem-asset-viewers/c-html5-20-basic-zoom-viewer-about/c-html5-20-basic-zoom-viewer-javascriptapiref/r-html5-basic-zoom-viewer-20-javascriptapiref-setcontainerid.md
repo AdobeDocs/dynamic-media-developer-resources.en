@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Basic Zoom Viewer.
 seo-title: setContainerId
 solution: Experience Manager
 title: setContainerId
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 064ebb0c-088a-4b8b-b623-c29363232cc4
 ---
 

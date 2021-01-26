@@ -5,7 +5,7 @@ seo-description: All visual customization and most behavior customization for th
 seo-title: Customizing Carousel Viewer
 solution: Experience Manager
 title: Customizing Carousel Viewer
-topic: Dynamic media
+topic: Dynamic Media
 uuid: a35dac3c-8785-42bf-8284-e400128f213c
 ---
 

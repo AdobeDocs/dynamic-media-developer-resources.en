@@ -4,7 +4,7 @@ seo-description: The video time is the numeric display that shows the current ti
 seo-title: Video time
 solution: Experience Manager
 title: Video time
-topic: Dynamic media
+topic: Dynamic Media
 uuid: f93e495b-44a1-493c-9bc6-5c088478ddce
 ---
 

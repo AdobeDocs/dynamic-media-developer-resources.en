@@ -4,7 +4,7 @@ seo-description: The HTML5 Video360 Viewer supports Adobe Analytics tracking out
 seo-title: Support for Adobe Analytics tracking
 solution: Experience Manager
 title: Support for Adobe Analytics tracking
-topic: Dynamic media
+topic: Dynamic Media
 uuid: b5ab903b-3365-45e3-9542-c290c6c42670
 ---
 

@@ -4,7 +4,7 @@ seo-description: Main Swatches consist of a row of thumbnail images with optiona
 seo-title: Main swatches
 solution: Experience Manager
 title: Main swatches
-topic: Dynamic media
+topic: Dynamic Media
 uuid: a968372d-3d11-45d7-b17f-50ec998f5e88
 ---
 

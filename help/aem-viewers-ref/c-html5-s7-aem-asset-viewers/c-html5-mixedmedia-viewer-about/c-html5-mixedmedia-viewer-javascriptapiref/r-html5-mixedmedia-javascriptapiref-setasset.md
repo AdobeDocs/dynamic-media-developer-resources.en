@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Mixed Media Viewer.
 seo-title: setAsset
 solution: Experience Manager
 title: setAsset
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 8c341a8a-25b5-4db9-ad1a-919ded79f2ed
 ---
 

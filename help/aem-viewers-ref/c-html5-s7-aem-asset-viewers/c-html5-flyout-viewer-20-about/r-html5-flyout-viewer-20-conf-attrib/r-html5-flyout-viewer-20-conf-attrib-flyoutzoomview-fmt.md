@@ -2,7 +2,7 @@
 description: FlyoutZoomView.fmt
 solution: Experience Manager
 title: FlyoutZoomView.fmt
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 1ed18115-9e29-434a-a48d-40bf6b48fe6f
 ---
 

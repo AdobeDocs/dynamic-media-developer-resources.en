@@ -4,7 +4,7 @@ seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: InteractiveSwatches.fmt
 solution: Experience Manager
 title: InteractiveSwatches.fmt
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 0a30c913-39d1-4521-b65c-f2b3879f6928
 ---
 

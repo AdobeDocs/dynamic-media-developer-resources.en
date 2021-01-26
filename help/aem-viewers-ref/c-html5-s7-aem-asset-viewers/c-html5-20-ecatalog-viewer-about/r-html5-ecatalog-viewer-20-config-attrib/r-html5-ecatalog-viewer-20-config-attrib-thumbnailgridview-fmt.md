@@ -2,7 +2,7 @@
 description: ThumbnailGridView.fmt
 solution: Experience Manager
 title: ThumbnailGridView.fmt
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 6aaac931-af78-4f63-9345-6c2580f52414
 ---
 

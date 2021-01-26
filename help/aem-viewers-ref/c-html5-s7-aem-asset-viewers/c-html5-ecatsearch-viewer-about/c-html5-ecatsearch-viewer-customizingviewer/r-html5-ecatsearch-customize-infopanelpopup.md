@@ -4,7 +4,7 @@ seo-description: Info Panel Popup displays in the middle of the viewer area when
 seo-title: Info panel popup
 solution: Experience Manager
 title: Info panel popup
-topic: Dynamic media
+topic: Dynamic Media
 uuid: a5c50e54-1ea7-4908-a8a5-dbeea5c8eabb
 ---
 

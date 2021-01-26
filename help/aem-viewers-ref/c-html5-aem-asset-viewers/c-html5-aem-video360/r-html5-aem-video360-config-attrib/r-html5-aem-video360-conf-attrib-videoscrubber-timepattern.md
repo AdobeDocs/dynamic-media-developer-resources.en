@@ -4,7 +4,7 @@ seo-description: Configuration attribute for Video360 Viewer.
 seo-title: VideoScrubber.timepattern
 solution: Experience Manager
 title: VideoScrubber.timepattern
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 73651147-d122-4466-ad74-e5f9438a9c56
 ---
 

@@ -2,7 +2,7 @@
 description: FavoritesView.favoritesThumbView
 solution: Experience Manager
 title: FavoritesView.favoritesThumbView
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 5c362eb3-dece-4546-8a79-fd79c2852a78
 ---
 

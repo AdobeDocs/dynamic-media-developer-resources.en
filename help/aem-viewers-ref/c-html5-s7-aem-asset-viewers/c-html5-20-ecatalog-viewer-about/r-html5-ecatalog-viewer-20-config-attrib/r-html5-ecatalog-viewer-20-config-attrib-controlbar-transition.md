@@ -2,7 +2,7 @@
 description: ControlBar.transition
 solution: Experience Manager
 title: ControlBar.transition
-topic: Dynamic media
+topic: Dynamic Media
 uuid: e029173b-c004-4be8-b304-d6e2183314ad
 ---
 

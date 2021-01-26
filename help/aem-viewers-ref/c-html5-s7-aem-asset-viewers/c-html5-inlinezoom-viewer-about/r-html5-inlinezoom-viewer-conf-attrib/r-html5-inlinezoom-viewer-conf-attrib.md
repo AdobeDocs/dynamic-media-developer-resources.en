@@ -4,7 +4,7 @@ seo-description: Configuration attributes documentation for Flyout Viewer
 seo-title: Command reference – Configuration attributes
 solution: Experience Manager
 title: Command reference – Configuration attributes
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 0813c334-37b7-43af-b39d-bec66658ad58
 ---
 

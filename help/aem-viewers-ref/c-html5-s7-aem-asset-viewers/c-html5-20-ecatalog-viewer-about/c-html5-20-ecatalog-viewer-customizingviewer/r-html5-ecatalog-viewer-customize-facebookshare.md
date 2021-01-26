@@ -4,7 +4,7 @@ seo-description: Facebook share tool consists of a button added to the Social sh
 seo-title: Facebook share
 solution: Experience Manager
 title: Facebook share
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 614e7a06-90b6-4fe0-9ecf-be97881ec6d1
 ---
 

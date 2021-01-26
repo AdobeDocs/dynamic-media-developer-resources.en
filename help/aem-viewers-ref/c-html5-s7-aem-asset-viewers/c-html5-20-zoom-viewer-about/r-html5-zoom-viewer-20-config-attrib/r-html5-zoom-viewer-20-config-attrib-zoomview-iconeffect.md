@@ -2,7 +2,7 @@
 description: ZoomView.iconeffect
 solution: Experience Manager
 title: ZoomView.iconeffect
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 3c10e625-f789-4454-8898-b3f293aa49b7
 ---
 

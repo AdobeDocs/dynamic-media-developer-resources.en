@@ -2,7 +2,7 @@
 description: The Viewer SDK provides a set of JavaScript-based components for custom viewer development. The viewers are web-based applications that allow for rich media content served by Adobe Dynamic Media to be embedded in web pages.
 solution: Experience Manager
 title: Viewer SDK Tutorial
-topic: Dynamic media
+topic: Dynamic Media
 ---
 
 # Viewer SDK Tutorial{#viewer-sdk-tutorial}

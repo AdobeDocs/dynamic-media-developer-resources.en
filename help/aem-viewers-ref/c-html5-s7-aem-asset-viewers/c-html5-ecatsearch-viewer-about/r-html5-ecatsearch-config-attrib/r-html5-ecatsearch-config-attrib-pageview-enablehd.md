@@ -2,7 +2,7 @@
 description: PageView.enableHD
 solution: Experience Manager
 title: PageView.enableHD
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 34c0e59f-4ed0-4b62-b661-aff20ff64ec4
 ---
 

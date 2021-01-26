@@ -4,7 +4,7 @@ seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: VideoPlayer.progressivebitrate
 solution: Experience Manager
 title: VideoPlayer.progressivebitrate
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 72438e50-29fc-484f-8a3b-be8909e7864f
 ---
 

@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Video360 Viewer
 seo-title: setHandlers
 solution: Experience Manager
 title: setHandlers
-topic: Dynamic media
+topic: Dynamic Media
 uuid: e6c8afb3-576a-4536-a7a0-416a21de85dc
 ---
 

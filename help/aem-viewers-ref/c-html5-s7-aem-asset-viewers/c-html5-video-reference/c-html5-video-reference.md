@@ -5,7 +5,7 @@ seo-description: The Video Viewer is a video player that plays streaming and pro
 seo-title: Video
 solution: Experience Manager
 title: Video
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 961a9b99-5892-4ee3-a2df-13e299f5d086
 ---
 

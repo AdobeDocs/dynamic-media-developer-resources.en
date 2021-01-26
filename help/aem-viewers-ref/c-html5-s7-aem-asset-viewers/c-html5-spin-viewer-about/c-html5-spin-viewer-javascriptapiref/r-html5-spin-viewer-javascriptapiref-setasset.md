@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Spin Viewer.
 seo-title: setAsset
 solution: Experience Manager
 title: setAsset
-topic: Dynamic media
+topic: Dynamic Media
 uuid: b0a6d252-4b9c-40c4-b321-eb71ebc3b276
 ---
 

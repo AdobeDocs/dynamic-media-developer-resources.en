@@ -4,7 +4,7 @@ seo-description: The control bar is the rectangular area that contains and sits 
 seo-title: Control bar
 solution: Experience Manager
 title: Control bar
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 328e34f1-9e60-4056-9a8a-e9292fb65605
 ---
 

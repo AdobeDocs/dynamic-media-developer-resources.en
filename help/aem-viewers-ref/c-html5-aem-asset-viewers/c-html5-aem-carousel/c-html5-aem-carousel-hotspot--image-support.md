@@ -2,7 +2,7 @@
 description: Hotspot and Image maps support
 solution: Experience Manager
 title: Hotspot and Image maps support
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 839b6a7f-4f6f-43ad-8eb8-254959c7fbac
 ---
 

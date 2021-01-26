@@ -4,7 +4,7 @@ seo-description: Certain content that the eCatalog Viewer displays is subject to
 seo-title: Localization of user interface elements
 solution: Experience Manager
 title: Localization of user interface elements
-topic: Dynamic media
+topic: Dynamic Media
 uuid: bd95c7dc-3158-4cca-81d4-f5efd57c0124
 ---
 

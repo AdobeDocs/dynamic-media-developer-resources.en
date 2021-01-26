@@ -2,7 +2,7 @@
 description: SpinView.doubleclick
 solution: Experience Manager
 title: SpinView.doubleclick
-topic: Dynamic media
+topic: Dynamic Media
 uuid: c1eef3d1-471e-41ef-b899-008d45b616d0
 ---
 

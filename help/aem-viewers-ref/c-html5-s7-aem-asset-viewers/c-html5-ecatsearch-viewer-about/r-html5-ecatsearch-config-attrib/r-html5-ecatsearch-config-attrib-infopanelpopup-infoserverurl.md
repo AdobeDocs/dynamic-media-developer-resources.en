@@ -2,8 +2,7 @@
 description: InfoPanelPopup.infoServerUrl
 solution: Experience Manager
 title: InfoPanelPopup.infoServerUrl
-topic: Dynamic media
-uuid: 7af5e3d3-40c2-4f02-94e2-0314b698905d
+topic: Dynamic Media
 ---
 
 # InfoPanelPopup.infoServerUrl{#infopanelpopup-infoserverurl}
@@ -14,7 +13,7 @@ uuid: 7af5e3d3-40c2-4f02-94e2-0314b698905d
  <tbody> 
   <tr> 
    <td> <p> <span class="codeph"><span class="varname"> infoserverurl</span></span> </p> </td> 
-   <td> <p>Info server URL template is used to fetch key/value pairs for the variable substitution in the info panel content template. The specified template typically contains macro place holders that are replaced with the actual data before the request is sent to the server. </p> <p><span class="codeph"> $1$</span> is replaced with the rollover value that triggered the <span class="codeph"> InfoPanelPopup</span> activation. </p> <p><span class="codeph"> $2$</span> is replaced with the sequence number of the current frame in the image set. </p> <p><span class="codeph"> $3$</span> is replaced with the first path element specified in the name of the parent set of the current item. It typically corresponds to the catalog id. </p> <p><span class="codeph"> $4$</span> is replaced with the following element in the path and corresponds to the asset id. The actual info server request syntax is info server dependent and it differs from server to server. For example, the following is a typical Scene7 info server request template: </p> <p><span class="codeph"> http://server_domain/s7info/s7/$3$/$4$/$1$</span> </p> </td> 
+   <td> <p>Info server URL template is used to fetch key/value pairs for the variable substitution in the info panel content template. The specified template typically contains macro place holders that are replaced with the actual data before the request is sent to the server. </p> <p><span class="codeph"> $1$</span> is replaced with the rollover value that triggered the <span class="codeph"> InfoPanelPopup</span> activation. </p> <p><span class="codeph"> $2$</span> is replaced with the sequence number of the current frame in the image set. </p> <p><span class="codeph"> $3$</span> is replaced with the first path element specified in the name of the parent set of the current item. It typically corresponds to the catalog id. </p> <p><span class="codeph"> $4$</span> is replaced with the following element in the path and corresponds to the asset id. The actual info server request syntax is info server dependent and it differs from server to server. For example, the following is a typical Dynamic Media info server request template: </p> <p><span class="codeph"> http://server_domain/s7info/s7/$3$/$4$/$1$</span> </p> </td> 
   </tr> 
  </tbody> 
 </table>

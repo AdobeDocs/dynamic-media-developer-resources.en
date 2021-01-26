@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Basic Zoom Viewer.
 seo-title: setLocalizedTexts
 solution: Experience Manager
 title: setLocalizedTexts
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 34a2ea4e-5493-41fa-92bf-5cebe66f6370
 ---
 

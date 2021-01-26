@@ -4,7 +4,7 @@ seo-description: Configuration attribute for Video Viewer.
 seo-title: EmailShare.emailurl
 solution: Experience Manager
 title: EmailShare.emailurl
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 5a461da2-4b08-4854-9bdc-98de208dc0fe
 ---
 

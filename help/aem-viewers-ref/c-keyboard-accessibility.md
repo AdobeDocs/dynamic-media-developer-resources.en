@@ -4,7 +4,7 @@ seo-description: All features exposed in the Basic Zoom, eCatalog, eCatalog Sear
 seo-title: Keyboard accessibility and navigation
 solution: Experience Manager
 title: Keyboard accessibility and navigation
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 9d7df3b0-2d77-4a2f-9ef1-210ccbd7a1a6
 ---
 

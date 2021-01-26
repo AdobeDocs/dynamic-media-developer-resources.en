@@ -2,7 +2,7 @@
 description: ZoomView.fmt
 solution: Experience Manager
 title: ZoomView.fmt
-topic: Dynamic media
+topic: Dynamic Media
 uuid: b4512555-edab-4818-86c0-e224775ecb2c
 ---
 

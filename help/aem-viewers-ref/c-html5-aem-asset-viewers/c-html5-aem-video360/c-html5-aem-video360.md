@@ -1,16 +1,13 @@
 ---
-description: The HTML5 Video360 Viewer is a 360-degree video player that plays streaming and progressive 360 video encoded in the H.264 format, delivered from Scene7 Publishing System or from AEM Dynamic Media.
-seo-description: The HTML5 Video360 Viewer is a 360-degree video player that plays streaming and progressive 360 video encoded in the H.264 format, delivered from Scene7 Publishing System or from AEM Dynamic Media.
-seo-title: Video360
+description: The HTML5 Video360 Viewer is a 360-degree video player that plays streaming and progressive 360 video encoded in the H.264 format, delivered from Dynamic Media Classic or from AEM Dynamic Media.
 solution: Experience Manager
 title: Video360
-topic: Dynamic media
-uuid: b03e6289-e012-4c62-835f-814463a27774
+topic: Dynamic Media
 ---
 
 # Video360{#video}
 
-The HTML5 Video360 Viewer is a 360-degree video player that plays streaming and progressive 360 video encoded in the H.264 format, delivered from Scene7 Publishing System or from AEM Dynamic Media.
+The HTML5 Video360 Viewer is a 360-degree video player that plays streaming and progressive 360 video encoded in the H.264 format, delivered from Dynmaic Media Classic or from AEM Dynamic Media.
 
 360-degree videos, also known as immersive videos or spherical videos, are video recordings where a view in every direction is recorded at the same time, shot using an omnidirectional camera or a collection of cameras. Both single video and Adaptive Video Sets are supported. The viewer additionally supports working with progressive video and HLS streams hosted on external location.
 

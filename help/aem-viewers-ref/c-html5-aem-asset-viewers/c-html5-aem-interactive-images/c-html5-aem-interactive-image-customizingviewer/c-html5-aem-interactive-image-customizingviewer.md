@@ -5,7 +5,7 @@ seo-description: All visual customization and most behavior customization for th
 seo-title: Customizing Interactive Image Viewer
 solution: Experience Manager
 title: Customizing Interactive Image Viewer
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 19868e4e-c2c9-41e0-82a6-20884a9454a4
 ---
 

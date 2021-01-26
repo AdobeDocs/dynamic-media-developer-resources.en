@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Spin Viewer.
 seo-title: setLocalizedTexts
 solution: Experience Manager
 title: setLocalizedTexts
-topic: Dynamic media
+topic: Dynamic Media
 uuid: bf136479-8ac8-4151-8911-377eed631aa2
 ---
 

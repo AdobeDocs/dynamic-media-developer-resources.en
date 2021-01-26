@@ -4,7 +4,7 @@ seo-description: Clicking or tapping on this button brings the user to the next 
 seo-title: Large next page button
 solution: Experience Manager
 title: Large next page button
-topic: Dynamic media
+topic: Dynamic Media
 uuid: c10edce3-ea01-4c8b-bb43-c2aafed08a39
 ---
 

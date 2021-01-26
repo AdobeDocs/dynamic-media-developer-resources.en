@@ -4,7 +4,7 @@ seo-description: Main view consists of the zoomable image.
 seo-title: Zoom view
 solution: Experience Manager
 title: Zoom view
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 06464e36-8c9c-4d3c-b4e5-5911f002568c
 ---
 

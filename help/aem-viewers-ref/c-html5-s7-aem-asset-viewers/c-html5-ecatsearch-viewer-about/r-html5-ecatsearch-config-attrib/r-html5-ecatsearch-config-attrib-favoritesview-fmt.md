@@ -2,7 +2,7 @@
 description: FavoritesView.fmt
 solution: Experience Manager
 title: FavoritesView.fmt
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 777411ee-c73f-4921-8ee1-7eb002ac3e95
 ---
 

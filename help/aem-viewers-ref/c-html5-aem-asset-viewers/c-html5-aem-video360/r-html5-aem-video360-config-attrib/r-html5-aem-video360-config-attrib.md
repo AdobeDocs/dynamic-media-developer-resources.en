@@ -4,7 +4,7 @@ seo-description: Configuration attributes documentation for Video360 Viewer.
 seo-title: Command reference – Configuration attributes
 solution: Experience Manager
 title: Command reference – Configuration attributes
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 645bba87-3d84-46e9-97fc-7019c5dd87ca
 ---
 

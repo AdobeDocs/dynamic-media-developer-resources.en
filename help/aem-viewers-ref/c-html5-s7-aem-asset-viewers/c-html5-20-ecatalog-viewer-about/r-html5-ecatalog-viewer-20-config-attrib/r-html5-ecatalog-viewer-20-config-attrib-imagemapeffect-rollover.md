@@ -2,7 +2,7 @@
 description: ImageMapEffect.rollover
 solution: Experience Manager
 title: ImageMapEffect.rollover
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 92bd8ced-1c41-4147-96fa-5f77bdd6a316
 ---
 

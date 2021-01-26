@@ -4,7 +4,7 @@ seo-description: Page indicator displays current page index and total page count
 seo-title: Page indicator
 solution: Experience Manager
 title: Page indicator
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 1be6021b-3026-48ef-b121-eeb8270d2bae
 ---
 

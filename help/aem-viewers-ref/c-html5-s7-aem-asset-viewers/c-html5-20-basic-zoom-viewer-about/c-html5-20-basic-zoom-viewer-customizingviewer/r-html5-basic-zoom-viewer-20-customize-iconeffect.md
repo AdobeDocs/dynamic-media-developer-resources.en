@@ -4,7 +4,7 @@ seo-description: The zoom indicator is overlaid on the main view area. It is dis
 seo-title: Icon effect
 solution: Experience Manager
 title: Icon effect
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 113b2502-395d-4fd1-ab28-4995e8248593
 ---
 

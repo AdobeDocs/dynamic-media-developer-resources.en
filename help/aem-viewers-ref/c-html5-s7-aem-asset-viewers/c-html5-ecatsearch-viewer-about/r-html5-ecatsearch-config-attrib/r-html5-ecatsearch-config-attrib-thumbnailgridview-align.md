@@ -2,7 +2,7 @@
 description: ThumbnailGridView.align
 solution: Experience Manager
 title: ThumbnailGridView.align
-topic: Dynamic media
+topic: Dynamic Media
 uuid: b0cdc9ee-4399-4783-99ec-cd9d03f262b1
 ---
 

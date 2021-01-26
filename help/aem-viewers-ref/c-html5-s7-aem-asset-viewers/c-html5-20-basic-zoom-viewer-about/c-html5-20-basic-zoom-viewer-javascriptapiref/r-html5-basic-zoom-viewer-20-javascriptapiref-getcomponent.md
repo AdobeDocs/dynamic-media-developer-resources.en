@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Basic Zoom Viewer
 seo-title: getComponent
 solution: Experience Manager
 title: getComponent
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 3e9f4baf-4914-42a8-a1bf-5756cbbd407b
 ---
 

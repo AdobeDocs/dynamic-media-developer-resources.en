@@ -3,7 +3,7 @@ description: Customizing Video Viewer
 keywords: responsive
 solution: Experience Manager
 title: Customizing Video Viewer
-topic: Dynamic media
+topic: Dynamic Media
 uuid: e18fdf8b-5834-4c99-b8a3-90d1f8310dc1
 ---
 

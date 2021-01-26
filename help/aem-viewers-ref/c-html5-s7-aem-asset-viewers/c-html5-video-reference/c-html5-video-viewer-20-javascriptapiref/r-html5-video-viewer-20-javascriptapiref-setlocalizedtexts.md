@@ -2,7 +2,7 @@
 description: setLocalizedTexts
 solution: Experience Manager
 title: setLocalizedTexts
-topic: Dynamic media
+topic: Dynamic Media
 uuid: df94044f-7f09-4645-8a6b-6dc58751ddcc
 ---
 

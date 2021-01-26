@@ -4,7 +4,7 @@ seo-description: Clicking or tapping on this button brings the user to the first
 seo-title: First page button
 solution: Experience Manager
 title: First page button
-topic: Dynamic media
+topic: Dynamic Media
 uuid: fd164899-505c-448b-8dba-7581d97d87b6
 ---
 

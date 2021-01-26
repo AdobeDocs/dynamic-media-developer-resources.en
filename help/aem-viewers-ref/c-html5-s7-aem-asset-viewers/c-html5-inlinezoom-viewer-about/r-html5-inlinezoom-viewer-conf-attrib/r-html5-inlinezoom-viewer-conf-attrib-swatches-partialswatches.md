@@ -2,7 +2,7 @@
 description: Swatches.partialswatches
 solution: Experience Manager
 title: Swatches.partialswatches
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 67cee2f7-82c1-4c0a-b583-13f8be46b972
 ---
 

@@ -2,7 +2,7 @@
 description: Support for Adobe Analytics tracking
 solution: Experience Manager
 title: Support for Adobe Analytics tracking
-topic: Dynamic media
+topic: Dynamic Media
 uuid: a7de5549-2a9d-4153-be5e-72705ced85ac
 ---
 

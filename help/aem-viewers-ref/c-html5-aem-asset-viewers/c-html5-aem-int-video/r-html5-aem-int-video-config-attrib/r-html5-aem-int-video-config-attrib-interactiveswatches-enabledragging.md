@@ -4,7 +4,7 @@ seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: InteractiveSwatches.enabledragging
 solution: Experience Manager
 title: InteractiveSwatches.enabledragging
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 9a93e6b3-3441-4987-b9e6-a964dbf2247d
 ---
 

@@ -2,8 +2,8 @@
 description: EmailShare.emailurl
 solution: Experience Manager
 title: EmailShare.emailurl
-topic: Dynamic media
-uuid: 27e3b0fb-0503-4993-a858-3f29d8d3bfb0
+topic: Dynamic Media
+
 ---
 
 # EmailShare.emailurl{#emailshare-emailurl}
@@ -14,7 +14,7 @@ uuid: 27e3b0fb-0503-4993-a858-3f29d8d3bfb0
  <tbody> 
   <tr> 
    <td colname="col1"> <p><span class="codeph"><span class="varname"> emailurl</span></span> </p> </td> 
-   <td colname="col2"> <p> Specifies the base URL for Scene7 OnDemand email service. </p> </td> 
+   <td colname="col2"> <p> Specifies the base URL for Dynamic Media OnDemand email service. </p> </td> 
   </tr> 
  </tbody> 
 </table>

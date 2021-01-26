@@ -2,7 +2,7 @@
 description: Swatches.iscommand
 solution: Experience Manager
 title: Swatches.iscommand
-topic: Dynamic media
+topic: Dynamic Media
 uuid: a9928350-d9a9-49b0-8990-1f8b67d82f10
 ---
 

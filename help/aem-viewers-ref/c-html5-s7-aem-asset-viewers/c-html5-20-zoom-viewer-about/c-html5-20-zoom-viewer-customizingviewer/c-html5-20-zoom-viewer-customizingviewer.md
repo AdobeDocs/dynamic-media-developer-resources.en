@@ -5,7 +5,7 @@ seo-description: All visual customization and most behavior customization for th
 seo-title: Customizing Zoom Viewer
 solution: Experience Manager
 title: Customizing Zoom Viewer
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 7ecbc4cc-b5c0-4f4a-b747-03c484de6851
 ---
 

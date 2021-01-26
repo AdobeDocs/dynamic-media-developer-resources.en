@@ -2,7 +2,7 @@
 description: SpinView.autospin
 solution: Experience Manager
 title: SpinView.autospin
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 9d24ed39-e4b9-442b-bc64-c77707ff69d8
 ---
 

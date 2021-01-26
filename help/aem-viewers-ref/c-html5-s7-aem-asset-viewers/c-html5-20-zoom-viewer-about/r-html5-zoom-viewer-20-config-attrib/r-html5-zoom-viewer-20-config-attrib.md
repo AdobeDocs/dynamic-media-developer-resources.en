@@ -4,7 +4,7 @@ seo-description: Configuration attributes documentation for Zoom Viewer.
 seo-title: Command reference – Configuration attributes
 solution: Experience Manager
 title: Command reference – Configuration attributes
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 1bcc879a-12ec-4924-ac05-2e4c1d6e4597
 ---
 

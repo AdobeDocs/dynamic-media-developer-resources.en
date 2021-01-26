@@ -2,7 +2,7 @@
 description: SocialShare.bearing
 solution: Experience Manager
 title: SocialShare.bearing
-topic: Dynamic media
+topic: Dynamic Media
 uuid: e48b39bb-c23d-42ce-9dc6-6e8b0d9b04ea
 ---
 

@@ -2,7 +2,7 @@
 description: SpinView.sensitivity
 solution: Experience Manager
 title: SpinView.sensitivity
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 7c63a7c5-ac75-485d-94ac-d1e133fbe44f
 ---
 

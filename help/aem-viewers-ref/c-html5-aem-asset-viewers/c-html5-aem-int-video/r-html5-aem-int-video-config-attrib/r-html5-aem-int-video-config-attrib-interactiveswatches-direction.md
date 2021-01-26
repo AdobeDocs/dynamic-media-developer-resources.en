@@ -4,7 +4,7 @@ seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: InteractiveSwatches.direction
 solution: Experience Manager
 title: InteractiveSwatches.direction
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 08095ab5-f74b-4da6-8f8d-df377995455e
 ---
 

@@ -2,7 +2,7 @@
 description: ZoomView.rgn
 solution: Experience Manager
 title: ZoomView.rgn
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 8ad882f9-5a7d-4a5c-a36b-98ad1f61e0b4
 ---
 

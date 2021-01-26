@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Video Viewer.
 seo-title: VideoViewer
 solution: Experience Manager
 title: VideoViewer
-topic: Dynamic media
+topic: Dynamic Media
 uuid: ad180d92-3e5c-4ded-b82b-79c23aa5c597
 ---
 

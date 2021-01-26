@@ -2,7 +2,7 @@
 description: FlyoutZoomView.frametransition
 solution: Experience Manager
 title: FlyoutZoomView.frametransition
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 39f74e9f-f04c-4c41-9669-029499388708
 ---
 

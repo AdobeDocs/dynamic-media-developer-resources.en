@@ -4,7 +4,7 @@ seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: VideoPlayer.mutevolume
 solution: Experience Manager
 title: VideoPlayer.mutevolume
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 00a660f1-fa00-4821-aaec-7d370376c347
 ---
 

@@ -2,7 +2,7 @@
 description: ZoomView.enableHD
 solution: Experience Manager
 title: ZoomView.enableHD
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 1ee3789d-a3eb-42f7-a0f4-71f62a54cab9
 ---
 

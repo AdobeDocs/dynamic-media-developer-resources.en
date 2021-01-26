@@ -4,7 +4,7 @@ seo-description: Swatches consist of a row of thumbnail images with optional scr
 seo-title: Swatches
 solution: Experience Manager
 title: Swatches
-topic: Dynamic media
+topic: Dynamic Media
 uuid: ee91385d-a0ff-4419-8a86-e2b106030f98
 ---
 

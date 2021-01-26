@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Basic Zoom Viewer
 seo-title: setHandlers
 solution: Experience Manager
 title: setHandlers
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 775e1561-3709-41e1-9146-dcc85f8a250d
 ---
 

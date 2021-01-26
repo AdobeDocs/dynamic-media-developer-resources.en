@@ -4,7 +4,7 @@ seo-description: Link share tool consists of a button added to the Social share 
 seo-title: Link share
 solution: Experience Manager
 title: Link share
-topic: Dynamic media
+topic: Dynamic Media
 uuid: e3b398c3-8dc8-4eaf-ba33-d4e76181cef8
 ---
 

@@ -4,7 +4,7 @@ seo-description: Configuration attribute for Mixed Media Video Viewer.
 seo-title: VideoPlayer.ssl
 solution: Experience Manager
 title: VideoPlayer.ssl
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 07e2c55b-2388-44c8-83ab-338997c5cb71
 ---
 

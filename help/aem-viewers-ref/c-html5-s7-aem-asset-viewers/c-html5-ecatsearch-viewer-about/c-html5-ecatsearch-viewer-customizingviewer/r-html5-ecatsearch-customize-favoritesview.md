@@ -4,7 +4,7 @@ seo-description: Favorites view consist of a column of thumbnail images.
 seo-title: Favorites view
 solution: Experience Manager
 title: Favorites view
-topic: Dynamic media
+topic: Dynamic Media
 uuid: e9d0380e-3b08-45e4-8419-447df2e8de37
 ---
 

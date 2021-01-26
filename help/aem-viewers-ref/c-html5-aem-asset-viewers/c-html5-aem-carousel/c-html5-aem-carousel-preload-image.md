@@ -4,7 +4,7 @@ seo-description: Preload image is a static asset preview image which loads right
 seo-title: Preload image
 solution: Experience Manager
 title: Preload image
-topic: Dynamic media
+topic: Dynamic Media
 uuid: bae99269-fd55-485e-b78e-873b77541d91
 ---
 

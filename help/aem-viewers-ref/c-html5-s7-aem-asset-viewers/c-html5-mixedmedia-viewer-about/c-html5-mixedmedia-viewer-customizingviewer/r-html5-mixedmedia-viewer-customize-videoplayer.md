@@ -4,7 +4,7 @@ seo-description: The video player is the rectangular area where the video conten
 seo-title: Video player
 solution: Experience Manager
 title: Video player
-topic: Dynamic media
+topic: Dynamic Media
 uuid: d7431a7b-6078-45d6-a364-434b3b44ecf4
 ---
 

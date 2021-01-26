@@ -4,7 +4,7 @@ seo-description: The main view area is the area occupied by the catalog image. I
 seo-title: Main viewer area
 solution: Experience Manager
 title: Main viewer area
-topic: Dynamic media
+topic: Dynamic Media
 uuid: e337058e-1b51-4bc8-bfdb-95c1500db16a
 ---
 

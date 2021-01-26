@@ -4,7 +4,7 @@ seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: InteractiveSwatches.maxloadradius
 solution: Experience Manager
 title: InteractiveSwatches.maxloadradius
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 12391b8b-532f-4e68-ad60-4dbcc86d9e58
 ---
 

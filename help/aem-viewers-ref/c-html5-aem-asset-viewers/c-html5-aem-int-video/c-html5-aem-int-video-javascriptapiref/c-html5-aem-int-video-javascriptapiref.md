@@ -4,7 +4,7 @@ seo-description: The main class of the Interactive Image Viewer is InteractiveVi
 seo-title: JavaScript API reference for Interactive Video Viewer
 solution: Experience Manager
 title: JavaScript API reference for Interactive Video Viewer
-topic: Dynamic media
+topic: Dynamic Media
 uuid: a389d884-1e16-4ba8-86e4-f00956be0465
 ---
 

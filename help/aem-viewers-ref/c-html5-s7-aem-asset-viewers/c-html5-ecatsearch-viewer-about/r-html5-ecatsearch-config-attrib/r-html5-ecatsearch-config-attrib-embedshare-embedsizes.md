@@ -2,7 +2,7 @@
 description: EmbedShare.embedsizes
 solution: Experience Manager
 title: EmbedShare.embedsizes
-topic: Dynamic media
+topic: Dynamic Media
 uuid: ffac9833-a048-4629-902f-832963431ae4
 ---
 

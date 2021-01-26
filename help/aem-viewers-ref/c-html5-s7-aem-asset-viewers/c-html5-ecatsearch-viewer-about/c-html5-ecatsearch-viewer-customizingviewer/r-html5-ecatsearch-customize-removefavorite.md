@@ -4,7 +4,7 @@ seo-description: The position of the Remove Favorite button is fully managed by 
 seo-title: Remove Favorite button
 solution: Experience Manager
 title: Remove Favorite button
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 9a0ab584-d299-43d2-9850-3dac4f332cd4
 ---
 

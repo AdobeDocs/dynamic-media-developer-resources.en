@@ -2,7 +2,7 @@
 description: Managing page labels
 solution: Experience Manager
 title: Managing page labels
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 49444fe6-ef34-4e5b-a293-e23830a67b4d
 ---
 

@@ -4,7 +4,7 @@ seo-description: URL command for Interactive Video Viewer.
 seo-title: interactivedata
 solution: Experience Manager
 title: interactivedata
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 72360679-7a39-46dd-ab10-7228d9c42a98
 ---
 

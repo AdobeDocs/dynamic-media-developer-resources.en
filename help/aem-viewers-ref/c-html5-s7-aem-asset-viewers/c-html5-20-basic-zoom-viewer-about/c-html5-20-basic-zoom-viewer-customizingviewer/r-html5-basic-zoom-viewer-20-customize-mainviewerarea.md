@@ -4,7 +4,7 @@ seo-description: The main view area is the area occupied by the zoom image. It u
 seo-title: Main viewer area
 solution: Experience Manager
 title: Main viewer area
-topic: Dynamic media
+topic: Dynamic Media
 uuid: f37b8d25-4bd6-481e-88e7-98192186b177
 ---
 

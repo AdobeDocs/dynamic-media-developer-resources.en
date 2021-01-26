@@ -1,8 +1,8 @@
 ---
-description: title
+description: title command
 solution: Experience Manager
 title: title
-topic: Dynamic media
+topic: Dynamic Media
 uuid: ff6c0e2e-ac59-4bcf-9ab9-227ba686914e
 ---
 
@@ -29,7 +29,7 @@ Optional.
 
 ## Default {#section-79a827f7a3bb4f36b3d72c309155059e}
 
-`Adobe Dynamic Media Classic Video` or `Adobe Scene7 eCatalog`
+`Adobe Dynamic Media Video` or `Adobe Dynamic Media Classic eCatalog`
 
 ## Properties {#section-f8a0c032979047a38041abfce3f7a70b}
 

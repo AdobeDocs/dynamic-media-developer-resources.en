@@ -4,7 +4,7 @@ seo-description: URL command for Video360 Viewer.
 seo-title: videoServerUrl
 solution: Experience Manager
 title: videoServerUrl
-topic: Dynamic media
+topic: Dynamic Media
 uuid: b6fa3fc3-9182-4d05-a735-e4cc0e58c3e4
 ---
 

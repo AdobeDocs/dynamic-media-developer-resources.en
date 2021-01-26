@@ -2,7 +2,7 @@
 description: TableOfContents.bearing
 solution: Experience Manager
 title: TableOfContents.bearing
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 832ebacf-d57f-4efa-ab1a-6a454f7c7a32
 ---
 

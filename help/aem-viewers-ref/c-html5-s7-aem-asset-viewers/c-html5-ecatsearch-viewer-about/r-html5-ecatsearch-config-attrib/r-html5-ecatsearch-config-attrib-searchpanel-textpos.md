@@ -2,7 +2,7 @@
 description: SearchPanel.textpos
 solution: Experience Manager
 title: SearchPanel.textpos
-topic: Dynamic media
+topic: Dynamic Media
 uuid: ed68aaa1-121c-458e-a724-3832915dca24
 ---
 

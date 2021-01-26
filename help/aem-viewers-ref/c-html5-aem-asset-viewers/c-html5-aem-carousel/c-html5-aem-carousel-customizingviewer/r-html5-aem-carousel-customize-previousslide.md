@@ -4,7 +4,7 @@ seo-description: Clicking or tapping on this button returns a user to the previo
 seo-title: Previous slide
 solution: Experience Manager
 title: Previous slide
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 733fa270-ce95-4493-9d31-f7f638d8368d
 ---
 

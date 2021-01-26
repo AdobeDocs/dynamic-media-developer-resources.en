@@ -2,7 +2,7 @@
 description: Swatches.scrollstep
 solution: Experience Manager
 title: Swatches.scrollstep
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 5acedf6a-dec5-4ecd-80b0-693031470e64
 ---
 

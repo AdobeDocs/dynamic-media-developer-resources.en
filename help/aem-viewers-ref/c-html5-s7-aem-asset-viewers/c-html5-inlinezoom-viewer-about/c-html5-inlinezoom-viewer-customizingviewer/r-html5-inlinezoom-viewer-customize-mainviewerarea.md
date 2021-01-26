@@ -4,7 +4,7 @@ seo-description: The main view area is the area occupied by the flyout view and 
 seo-title: Main viewer area
 solution: Experience Manager
 title: Main viewer area
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 828ee8e5-8e5f-47cf-a566-2e997a5e3926
 ---
 

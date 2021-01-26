@@ -2,7 +2,7 @@
 description: Event callbacks
 solution: Experience Manager
 title: Event callbacks
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 08756e93-2c6c-4c63-9dd0-c64531561d6f
 ---
 

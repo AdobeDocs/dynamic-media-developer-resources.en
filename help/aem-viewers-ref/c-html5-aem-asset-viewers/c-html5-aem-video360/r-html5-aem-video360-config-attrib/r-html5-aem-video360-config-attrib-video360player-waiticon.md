@@ -4,7 +4,7 @@ seo-description: Configuration attribute for Video360 Viewer.
 seo-title: Video360Player.waiticon
 solution: Experience Manager
 title: Video360Player.waiticon
-topic: Dynamic media
+topic: Dynamic Media
 uuid: c28cfba4-2bc9-4f02-9f99-7a8fa96ac592
 ---
 

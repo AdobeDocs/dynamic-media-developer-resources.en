@@ -4,7 +4,7 @@ seo-description: Certain content that the Mixed Media Viewer displays is subject
 seo-title: Localization of user interface elements
 solution: Experience Manager
 title: Localization of user interface elements
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 4da776f4-e370-444b-b31c-6b032483861d
 ---
 

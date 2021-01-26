@@ -1,12 +1,10 @@
 ---
 description: Flyout Viewer is an image viewer. It displays a static image with the zoomed version shown in the flyout view that a user activates. This viewer works with image sets and navigation is done by using swatches. It is designed to work on desktops and mobile devices.
 keywords: responsive
-seo-description: Flyout Viewer is an image viewer. It displays a static image with the zoomed version shown in the flyout view that a user activates. This viewer works with image sets and navigation is done by using swatches. It is designed to work on desktops and mobile devices.
-seo-title: Flyout
 solution: Experience Manager
 title: Flyout
-topic: Dynamic media
-uuid: 588e1baa-4165-4aec-8fbe-1a916c0f409f
+topic: Dynamic Media
+
 ---
 
 # Flyout{#flyout}
@@ -97,7 +95,7 @@ You add the viewer to a web page by doing the following:
 
 [!DNL <s7viewers_root>/html5/js/FlyoutViewer.js]
 
-   You can use a relative path if the viewer is deployed on one of the Adobe Scene7 servers and it is served from the same domain. Otherwise, you specify a full path to one of Adobe Scene7 servers that have the IS-Viewers installed.
+   You can use a relative path if the viewer is deployed on one of the Adobe Dynamic Media servers and it is served from the same domain. Otherwise, you specify a full path to one of Adobe Dynamic Media servers that have the IS-Viewers installed.
 
    A relative path looks like the following:
 

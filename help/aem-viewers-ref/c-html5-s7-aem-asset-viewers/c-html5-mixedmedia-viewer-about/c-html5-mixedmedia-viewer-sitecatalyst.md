@@ -4,7 +4,7 @@ seo-description: The Mixed Media Viewer supports Adobe Analytics tracking out-of
 seo-title: Support for Adobe Analytics tracking
 solution: Experience Manager
 title: Support for Adobe Analytics tracking
-topic: Dynamic media
+topic: Dynamic Media
 uuid: ad4dfed6-121f-4adb-bbdb-db6e6ee5672d
 ---
 

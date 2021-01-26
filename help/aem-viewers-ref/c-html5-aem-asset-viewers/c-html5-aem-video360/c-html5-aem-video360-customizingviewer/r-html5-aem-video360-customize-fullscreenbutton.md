@@ -4,7 +4,7 @@ seo-description: The full screen button causes the video player to enter or exit
 seo-title: Full screen button
 solution: Experience Manager
 title: Full screen button
-topic: Dynamic media
+topic: Dynamic Media
 uuid: d09832e4-5058-420a-8ee9-c6b5a2d42190
 ---
 

@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Carousel Viewer.
 seo-title: setParam
 solution: Experience Manager
 title: setParam
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 87f16ea9-0267-4114-9aeb-a68fdb616a88
 ---
 

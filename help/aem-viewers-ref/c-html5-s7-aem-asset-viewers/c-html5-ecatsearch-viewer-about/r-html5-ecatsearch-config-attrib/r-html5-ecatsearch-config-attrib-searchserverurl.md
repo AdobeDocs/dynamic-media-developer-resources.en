@@ -2,7 +2,7 @@
 description: searchServerUrl
 solution: Experience Manager
 title: searchServerUrl
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 2fe19821-923a-4156-9c52-48769467179d
 ---
 

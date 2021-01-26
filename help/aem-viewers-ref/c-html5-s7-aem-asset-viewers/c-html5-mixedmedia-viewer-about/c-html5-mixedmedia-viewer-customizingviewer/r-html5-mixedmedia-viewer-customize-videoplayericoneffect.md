@@ -4,7 +4,7 @@ seo-description: The play icon is overlaid on the video view area. It displays w
 seo-title: Video player icon effect
 solution: Experience Manager
 title: Video player icon effect
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 5d59c4b2-a7a1-49e1-84c7-0e127a571c4f
 ---
 

@@ -2,7 +2,7 @@
 description: Hotspot support
 solution: Experience Manager
 title: Hotspot support
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 62e0e55a-55a3-417d-ad51-ec77a7c16ac3
 ---
 

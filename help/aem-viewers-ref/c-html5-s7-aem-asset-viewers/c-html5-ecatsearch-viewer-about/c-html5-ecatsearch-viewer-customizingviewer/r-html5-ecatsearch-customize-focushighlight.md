@@ -4,7 +4,7 @@ seo-description: Input focus highlight displayed around the focused viewer user 
 seo-title: Focus highlight
 solution: Experience Manager
 title: Focus highlight
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 0bd36795-e663-4f0e-8310-a57c2ffae4a2
 ---
 

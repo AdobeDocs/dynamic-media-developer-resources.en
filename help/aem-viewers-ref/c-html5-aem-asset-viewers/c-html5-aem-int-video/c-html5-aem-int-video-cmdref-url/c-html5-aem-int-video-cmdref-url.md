@@ -4,7 +4,7 @@ seo-description: Command reference documentation for Interactive Video Viewer.
 seo-title: Command reference – URL
 solution: Experience Manager
 title: Command reference – URL
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 4f9e4a79-6865-4e41-b30b-84ff2c6f6045
 ---
 

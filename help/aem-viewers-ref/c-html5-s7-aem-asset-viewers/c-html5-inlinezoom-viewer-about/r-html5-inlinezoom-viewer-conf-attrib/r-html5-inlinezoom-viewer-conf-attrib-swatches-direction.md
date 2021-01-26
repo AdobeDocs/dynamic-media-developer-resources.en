@@ -2,7 +2,7 @@
 description: Swatches.direction
 solution: Experience Manager
 title: Swatches.direction
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 1ec6fc6a-ef53-46bf-9a14-7f7cf960a592
 ---
 

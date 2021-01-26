@@ -4,7 +4,7 @@ seo-description: Clicking or tapping this button zooms in on an image in the mai
 seo-title: Zoom in button
 solution: Experience Manager
 title: Zoom in button
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 86e5806b-a711-440c-95b6-a35420667182
 ---
 

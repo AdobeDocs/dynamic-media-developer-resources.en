@@ -4,7 +4,7 @@ seo-description: The eCatalog Viewer supports the rendering of image map icons a
 seo-title: Image map support
 solution: Experience Manager
 title: Image map support
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 69aeda21-909d-45da-bcf5-73ade8c5adda
 ---
 

@@ -2,7 +2,7 @@
 description: Print.printquality
 solution: Experience Manager
 title: Print.printquality
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 5ed92338-d6d4-4f59-b2b9-5c0caceef6a4
 ---
 

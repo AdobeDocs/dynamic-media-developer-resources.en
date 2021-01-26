@@ -4,7 +4,7 @@ seo-description: Certain content that the Basic Zoom Viewer displays is subject 
 seo-title: Localization of user interface elements
 solution: Experience Manager
 title: Localization of user interface elements
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 842970d9-0882-4163-8c49-3ea35d372d35
 ---
 
