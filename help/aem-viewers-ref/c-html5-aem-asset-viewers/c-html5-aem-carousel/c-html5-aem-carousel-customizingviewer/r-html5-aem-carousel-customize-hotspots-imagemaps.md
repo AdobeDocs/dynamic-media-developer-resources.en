@@ -4,7 +4,7 @@ seo-description: The viewer displays hotspot icons over the main view in places 
 seo-title: Hotspots and Image maps
 solution: Experience Manager
 title: Hotspots and Image maps
-topic: Dynamic media
+topic: Dynamic Media
 uuid: de7f4dc7-1a55-49d5-a712-7f178cc49068
 ---
 

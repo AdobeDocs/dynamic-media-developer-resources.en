@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Mixed Media Viewer.
 seo-title: setLocalizedTexts
 solution: Experience Manager
 title: setLocalizedTexts
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 86e2e70e-2147-4e63-9204-7a7a8566c3e6
 ---
 

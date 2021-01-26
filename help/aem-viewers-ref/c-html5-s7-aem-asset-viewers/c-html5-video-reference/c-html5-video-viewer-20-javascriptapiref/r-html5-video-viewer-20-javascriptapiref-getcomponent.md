@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Video Viewer
 seo-title: getComponent
 solution: Experience Manager
 title: getComponent
-topic: Dynamic media
+topic: Dynamic Media
 uuid: a2b073ab-d8a7-43cc-9cc8-80dd05a386f0
 ---
 

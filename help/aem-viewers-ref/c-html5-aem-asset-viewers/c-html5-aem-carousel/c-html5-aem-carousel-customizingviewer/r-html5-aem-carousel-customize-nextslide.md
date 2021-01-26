@@ -4,7 +4,7 @@ seo-description: Clicking or tapping the Next slide button moves a user to the n
 seo-title: Next slide
 solution: Experience Manager
 title: Next slide
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 6cf7a16c-42bf-4576-bcb1-d504589b2748
 ---
 

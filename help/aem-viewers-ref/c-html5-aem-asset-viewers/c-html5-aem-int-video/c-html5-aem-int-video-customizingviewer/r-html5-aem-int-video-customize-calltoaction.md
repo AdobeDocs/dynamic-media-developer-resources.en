@@ -4,7 +4,7 @@ seo-description: The Call to action panel appears when the video ends and displa
 seo-title: Call to action
 solution: Experience Manager
 title: Call to action
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 04a042d8-7329-4f1d-b3b9-312d620b1f29
 ---
 

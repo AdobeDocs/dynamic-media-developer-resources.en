@@ -2,7 +2,7 @@
 description: SpinView.iconeffect
 solution: Experience Manager
 title: SpinView.iconeffect
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 864fb8dc-34f8-4216-b38c-cc00f7d8d95f
 ---
 

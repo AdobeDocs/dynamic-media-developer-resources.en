@@ -4,7 +4,7 @@ seo-description: Twitter share tool consists of a button added to the Social sha
 seo-title: Twitter share
 solution: Experience Manager
 title: Twitter share
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 15fed20e-89c4-4c4b-8f0d-1f0bac0c0af7
 ---
 

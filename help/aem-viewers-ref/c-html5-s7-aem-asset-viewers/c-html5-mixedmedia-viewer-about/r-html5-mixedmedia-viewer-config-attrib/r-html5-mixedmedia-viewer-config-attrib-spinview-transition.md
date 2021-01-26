@@ -2,7 +2,7 @@
 description: SpinView.transition
 solution: Experience Manager
 title: SpinView.transition
-topic: Dynamic media
+topic: Dynamic Media
 uuid: d5cc319a-fb0b-41d3-a118-f00376a127e4
 ---
 

@@ -4,7 +4,7 @@ seo-description: Clicking or tapping on this button brings the user to the previ
 seo-title: Previous page button
 solution: Experience Manager
 title: Previous page button
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 0e7dfa50-0af5-4af9-b57c-5a01e73c03a0
 ---
 

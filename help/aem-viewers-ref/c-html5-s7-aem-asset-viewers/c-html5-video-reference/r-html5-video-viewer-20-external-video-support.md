@@ -4,7 +4,7 @@ seo-description: The viewer supports playing video hosted outside of Scene7 Publ
 seo-title: External video support
 solution: Experience Manager
 title: External video support
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 24739a5a-3a5d-49b8-9a15-bcf3a95fc192
 ---
 

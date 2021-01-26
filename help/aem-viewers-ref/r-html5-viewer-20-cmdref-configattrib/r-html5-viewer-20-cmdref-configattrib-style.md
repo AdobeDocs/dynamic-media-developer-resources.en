@@ -2,7 +2,7 @@
 description: style
 solution: Experience Manager
 title: style
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 6320c8dd-4827-41dc-a621-6fdf22e55003
 ---
 

@@ -4,7 +4,7 @@ seo-description: Configuration attribute for Video Viewer.
 seo-title: SocialShare.bearing
 solution: Experience Manager
 title: SocialShare.bearing
-topic: Dynamic media
+topic: Dynamic Media
 uuid: d7d92d63-a4c2-4bd9-b0fd-fdfd47504a39
 ---
 

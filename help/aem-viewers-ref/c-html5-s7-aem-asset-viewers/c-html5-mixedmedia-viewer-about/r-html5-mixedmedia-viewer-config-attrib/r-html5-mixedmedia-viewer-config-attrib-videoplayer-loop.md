@@ -4,7 +4,7 @@ seo-description: Configuration attribute for Mixed Media Video Viewer.
 seo-title: VideoPlayer.loop
 solution: Experience Manager
 title: VideoPlayer.loop
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 2eb19ab7-fc9f-45c1-b7a3-d06a02f8b6aa
 ---
 

@@ -4,7 +4,7 @@ seo-description: Table of contents is a button located in the main control bar. 
 seo-title: Table of contents
 solution: Experience Manager
 title: Table of contents
-topic: Dynamic media
+topic: Dynamic Media
 uuid: e5da89b4-fd3f-41ab-bc55-d43c2999d4b7
 ---
 

@@ -4,7 +4,7 @@ seo-description: Main view consists of the spin image when the current asset is 
 seo-title: Spin view
 solution: Experience Manager
 title: Spin view
-topic: Dynamic media
+topic: Dynamic Media
 uuid: f1edbcc4-966a-4ec6-8ba9-a76f3ae51733
 ---
 

@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Mixed Media Viewer.
 seo-title: dispose
 solution: Experience Manager
 title: dispose
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 8c0e89bc-227b-4ea6-a54e-8d0135d492ef
 ---
 

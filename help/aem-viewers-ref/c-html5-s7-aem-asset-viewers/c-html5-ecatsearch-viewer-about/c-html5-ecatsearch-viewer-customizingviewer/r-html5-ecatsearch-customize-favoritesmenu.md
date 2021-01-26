@@ -4,7 +4,7 @@ seo-description: The Favorites menu drop-down list appears in the control bar. I
 seo-title: Favorites menu
 solution: Experience Manager
 title: Favorites menu
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 46de2a74-690e-4010-8a71-54206dd02fd0
 ---
 

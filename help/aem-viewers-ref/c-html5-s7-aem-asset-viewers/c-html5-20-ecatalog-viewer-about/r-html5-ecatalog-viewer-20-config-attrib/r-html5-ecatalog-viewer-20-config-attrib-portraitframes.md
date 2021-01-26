@@ -2,7 +2,7 @@
 description: portraitFrames
 solution: Experience Manager
 title: portraitFrames
-topic: Dynamic media
+topic: Dynamic Media
 uuid: dd3777e1-4369-4f7e-a055-970b8eb3b018
 ---
 

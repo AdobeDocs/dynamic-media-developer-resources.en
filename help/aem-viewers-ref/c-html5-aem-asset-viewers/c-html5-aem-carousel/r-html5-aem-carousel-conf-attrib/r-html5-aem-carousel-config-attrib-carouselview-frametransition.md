@@ -2,7 +2,7 @@
 description: CarouselView.frametransition
 solution: Experience Manager
 title: CarouselView.frametransition
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 9539ede1-08fb-4bfc-8a5a-870c7d84de7f
 ---
 

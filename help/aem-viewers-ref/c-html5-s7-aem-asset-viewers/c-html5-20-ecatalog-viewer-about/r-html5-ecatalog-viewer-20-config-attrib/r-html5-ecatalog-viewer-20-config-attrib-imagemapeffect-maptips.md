@@ -2,7 +2,7 @@
 description: ImageMapEffect.mapTips
 solution: Experience Manager
 title: ImageMapEffect.mapTips
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 5466368f-3ee6-4030-ae8e-55d9e3ad5bc5
 ---
 

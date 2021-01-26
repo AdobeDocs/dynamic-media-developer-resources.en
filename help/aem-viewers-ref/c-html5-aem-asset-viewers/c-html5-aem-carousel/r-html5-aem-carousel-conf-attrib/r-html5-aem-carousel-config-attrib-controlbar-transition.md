@@ -4,7 +4,7 @@ seo-description: Configuration attribute for Carousel Viewer.
 seo-title: ControlBar.transition
 solution: Experience Manager
 title: ControlBar.transition
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 80053511-f0e2-49f6-a1db-cd96c7788703
 ---
 

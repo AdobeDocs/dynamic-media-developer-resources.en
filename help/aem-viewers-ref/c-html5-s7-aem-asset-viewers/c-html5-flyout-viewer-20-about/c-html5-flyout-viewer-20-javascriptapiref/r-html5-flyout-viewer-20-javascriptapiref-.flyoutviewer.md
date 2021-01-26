@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Flyout Viewer.
 seo-title: FlyoutViewer
 solution: Experience Manager
 title: FlyoutViewer
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 070ae248-34fd-40fb-9d40-2c7fff388592
 ---
 

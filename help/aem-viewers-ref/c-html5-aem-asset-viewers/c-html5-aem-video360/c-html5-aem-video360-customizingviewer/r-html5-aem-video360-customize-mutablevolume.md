@@ -4,7 +4,7 @@ seo-description: The mutable volume control initially appears as a button that l
 seo-title: Mutable volume
 solution: Experience Manager
 title: Mutable volume
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 6ac8f777-11d8-4a20-b7ed-23f947426cdf
 ---
 

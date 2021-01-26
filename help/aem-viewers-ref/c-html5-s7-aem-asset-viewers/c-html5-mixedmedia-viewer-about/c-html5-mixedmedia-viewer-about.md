@@ -5,7 +5,7 @@ seo-description: Mixed Media Viewer is a media viewer. It supports media sets th
 seo-title: Mixed Media
 solution: Experience Manager
 title: Mixed Media
-topic: Dynamic media
+topic: Dynamic Media
 uuid: b6028c54-7a3c-41eb-89f8-7b86bb0d0deb
 ---
 

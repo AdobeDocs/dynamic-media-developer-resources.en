@@ -4,7 +4,7 @@ seo-description: Configuration attribute for Video360 Viewer.
 seo-title: Video360Player.vrrender
 solution: Experience Manager
 title: Video360Player.vrrender
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 773ee479-012c-4649-adae-1f520ec37abb
 ---
 

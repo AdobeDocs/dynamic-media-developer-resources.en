@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Basic Zoom Viewer.
 seo-title: init
 solution: Experience Manager
 title: init
-topic: Dynamic media
+topic: Dynamic Media
 uuid: a2a4fb97-89ec-41d2-ada7-8ff1775eaefa
 ---
 

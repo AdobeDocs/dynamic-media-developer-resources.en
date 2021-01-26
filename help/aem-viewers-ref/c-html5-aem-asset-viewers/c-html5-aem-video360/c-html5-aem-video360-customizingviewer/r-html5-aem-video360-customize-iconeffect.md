@@ -4,7 +4,7 @@ seo-description: The play icon is overlaid on the main view area. It displays wh
 seo-title: Icon effect
 solution: Experience Manager
 title: Icon effect
-topic: Dynamic media
+topic: Dynamic Media
 uuid: a1e7d877-097c-4f43-8a6d-9627dc4924b1
 ---
 

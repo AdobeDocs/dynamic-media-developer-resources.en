@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Spin Viewer
 seo-title: getComponent
 solution: Experience Manager
 title: getComponent
-topic: Dynamic media
+topic: Dynamic Media
 uuid: c7585cd5-6a95-43b1-8f68-c1eba868164c
 ---
 

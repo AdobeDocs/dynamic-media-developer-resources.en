@@ -2,7 +2,7 @@
 description: HTTPS video delivery
 solution: Experience Manager
 title: HTTPS video delivery
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 68984ba1-2802-496a-8ad0-ba46b59514ad
 ---
 

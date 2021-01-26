@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Interactive Video Viewer.
 seo-title: setContainerId
 solution: Experience Manager
 title: setContainerId
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 2e453c1f-7940-461b-910f-4247b0fa9120
 ---
 

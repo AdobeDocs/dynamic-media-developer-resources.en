@@ -4,7 +4,7 @@ seo-description: Thumbnails consist of a grid of thumbnail images with an option
 seo-title: Thumbnails
 solution: Experience Manager
 title: Thumbnails
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 340b81e0-77df-4b44-a462-b98bcc96d707
 ---
 

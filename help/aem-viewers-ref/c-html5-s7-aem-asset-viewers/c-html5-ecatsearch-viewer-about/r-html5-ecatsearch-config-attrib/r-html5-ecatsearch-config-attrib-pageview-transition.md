@@ -2,7 +2,7 @@
 description: PageView.transition
 solution: Experience Manager
 title: PageView.transition
-topic: Dynamic media
+topic: Dynamic Media
 uuid: c85ad85f-a802-4f5d-9046-00171ad2d9ca
 ---
 

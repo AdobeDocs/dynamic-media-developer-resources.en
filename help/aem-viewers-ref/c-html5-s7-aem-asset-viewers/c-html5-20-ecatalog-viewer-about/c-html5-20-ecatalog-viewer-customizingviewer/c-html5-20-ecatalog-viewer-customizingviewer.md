@@ -5,7 +5,7 @@ seo-description: All visual customization and most behavior customization for th
 seo-title: Customizing eCatalog Viewer
 solution: Experience Manager
 title: Customizing eCatalog Viewer
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 20d0d342-acb8-421f-9ec1-447edeafda86
 ---
 

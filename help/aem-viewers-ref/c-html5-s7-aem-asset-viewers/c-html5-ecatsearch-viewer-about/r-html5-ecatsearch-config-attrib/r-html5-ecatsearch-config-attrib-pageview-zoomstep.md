@@ -2,7 +2,7 @@
 description: PageView.zoomstep
 solution: Experience Manager
 title: PageView.zoomstep
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 27eb2a48-008b-455e-9a03-41bb4030271b
 ---
 

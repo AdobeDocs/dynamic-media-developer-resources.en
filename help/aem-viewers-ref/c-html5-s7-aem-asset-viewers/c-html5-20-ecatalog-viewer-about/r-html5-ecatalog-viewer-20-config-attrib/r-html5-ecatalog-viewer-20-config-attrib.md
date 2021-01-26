@@ -4,7 +4,7 @@ seo-description: Configuration attributes documentation for eCatalog Viewer.
 seo-title: Command reference – Configuration attributes
 solution: Experience Manager
 title: Command reference – Configuration attributes
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 823ad411-653a-44de-97de-147e3b27a917
 ---
 

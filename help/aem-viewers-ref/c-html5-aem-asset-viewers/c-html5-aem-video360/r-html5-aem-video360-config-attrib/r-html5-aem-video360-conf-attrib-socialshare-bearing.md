@@ -4,7 +4,7 @@ seo-description: Configuration attribute for Video360 Viewer.
 seo-title: SocialShare.bearing
 solution: Experience Manager
 title: SocialShare.bearing
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 43217e2e-71c5-4c58-94e0-c6ed38e25a5b
 ---
 

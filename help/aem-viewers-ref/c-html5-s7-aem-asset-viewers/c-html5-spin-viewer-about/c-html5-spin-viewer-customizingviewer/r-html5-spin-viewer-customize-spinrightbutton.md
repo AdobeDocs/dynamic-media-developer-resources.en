@@ -4,7 +4,7 @@ seo-description: Clicking or tapping this button spins the image to the right in
 seo-title: Spin right button
 solution: Experience Manager
 title: Spin right button
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 5c754e53-9311-4d4f-96e7-2bb9a5a7babf
 ---
 

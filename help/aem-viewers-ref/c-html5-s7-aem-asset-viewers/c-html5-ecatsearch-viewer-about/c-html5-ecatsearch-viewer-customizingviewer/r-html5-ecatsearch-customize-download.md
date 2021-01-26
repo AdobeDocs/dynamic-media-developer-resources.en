@@ -2,7 +2,7 @@
 description: Download
 solution: Experience Manager
 title: Download
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 73f012dc-4fd0-4460-87d8-3079bcd7a9de
 ---
 

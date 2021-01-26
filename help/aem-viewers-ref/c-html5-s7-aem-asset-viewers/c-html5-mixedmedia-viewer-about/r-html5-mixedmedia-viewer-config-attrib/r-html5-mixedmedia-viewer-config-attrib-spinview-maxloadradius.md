@@ -4,7 +4,7 @@ seo-description: Represents the maximum number of frames to preload in each dire
 seo-title: SpinView.maxloadradius
 solution: Experience Manager
 title: SpinView.maxloadradius
-topic: Dynamic media
+topic: Dynamic Media
 uuid: e1b9fa84-837c-465e-8d37-0b6867404cae
 ---
 

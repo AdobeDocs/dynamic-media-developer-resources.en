@@ -2,7 +2,7 @@
 description: CarouselView.maxloadradius
 solution: Experience Manager
 title: CarouselView.maxloadradius
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 0dcebbce-f449-4f5f-acbc-02960e1dbdba
 ---
 

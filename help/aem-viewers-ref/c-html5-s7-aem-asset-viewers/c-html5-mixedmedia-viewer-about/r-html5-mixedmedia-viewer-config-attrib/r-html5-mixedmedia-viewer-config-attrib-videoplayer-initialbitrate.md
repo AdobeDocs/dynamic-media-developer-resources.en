@@ -2,7 +2,7 @@
 description: VideoPlayer.initialbitrate
 solution: Experience Manager
 title: VideoPlayer.initialbitrate
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 11426516-8336-4186-84b4-15ce5ec7e764
 ---
 

@@ -2,7 +2,7 @@
 description: FlyoutZoomView.highlightmode
 solution: Experience Manager
 title: FlyoutZoomView.highlightmode
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 397c1af0-f806-4555-83fa-ec7548b59a60
 ---
 

@@ -2,7 +2,7 @@
 description: FavoritesView.textpos
 solution: Experience Manager
 title: FavoritesView.textpos
-topic: Dynamic media
+topic: Dynamic Media
 uuid: e3e5f0c8-8a20-4e9c-8018-156af2a3ca3b
 ---
 

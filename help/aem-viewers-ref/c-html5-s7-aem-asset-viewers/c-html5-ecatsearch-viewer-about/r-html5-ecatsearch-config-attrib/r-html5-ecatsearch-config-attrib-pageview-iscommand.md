@@ -2,7 +2,7 @@
 description: PageView.iscommand
 solution: Experience Manager
 title: PageView.iscommand
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 32bfd041-e44c-4a78-a923-896a85d8f75f
 ---
 

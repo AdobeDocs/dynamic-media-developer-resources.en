@@ -4,7 +4,7 @@ seo-description: Configuration attribute for Carousel Viewer.
 seo-title: CarouselView.autoplay
 solution: Experience Manager
 title: CarouselView.autoplay
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 12730b17-110e-405b-97fe-e70fab89c703
 ---
 

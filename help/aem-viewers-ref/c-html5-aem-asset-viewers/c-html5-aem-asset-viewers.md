@@ -2,7 +2,7 @@
 description: Viewers for AEM Assets only
 solution: Experience Manager
 title: Viewers for AEM Assets only
-topic: Dynamic media
+topic: Dynamic Media
 uuid: ad815ca0-834c-404e-8baa-744a9d57dbd6
 ---
 

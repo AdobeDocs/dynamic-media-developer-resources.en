@@ -4,7 +4,7 @@ seo-description: The viewer supports playing video hosted outside of SPS or AEM 
 seo-title: External video support
 solution: Experience Manager
 title: External video support
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 2e9f1c54-627f-4462-ae85-8a5ca1d09762
 ---
 

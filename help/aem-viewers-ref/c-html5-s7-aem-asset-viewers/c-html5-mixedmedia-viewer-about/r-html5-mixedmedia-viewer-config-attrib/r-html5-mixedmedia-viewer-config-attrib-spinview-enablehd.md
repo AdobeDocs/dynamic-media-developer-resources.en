@@ -2,7 +2,7 @@
 description: SpinView.enableHD
 solution: Experience Manager
 title: SpinView.enableHD
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 3e7cdb44-4366-4e84-a6c7-c1cf1f5e6344
 ---
 

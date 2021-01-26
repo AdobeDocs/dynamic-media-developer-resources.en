@@ -5,7 +5,7 @@ seo-description: eCatalog Viewer is a catalog viewer that displays electronic br
 seo-title: eCatalog
 solution: Experience Manager
 title: eCatalog
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 6950306d-637e-4932-ae96-c5366e5477f3
 ---
 

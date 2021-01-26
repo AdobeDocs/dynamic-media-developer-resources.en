@@ -2,7 +2,7 @@
 description: VideoPlayer.progressivebitrate
 solution: Experience Manager
 title: VideoPlayer.progressivebitrate
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 94de31cd-2b4e-4247-b181-26666767f065
 ---
 

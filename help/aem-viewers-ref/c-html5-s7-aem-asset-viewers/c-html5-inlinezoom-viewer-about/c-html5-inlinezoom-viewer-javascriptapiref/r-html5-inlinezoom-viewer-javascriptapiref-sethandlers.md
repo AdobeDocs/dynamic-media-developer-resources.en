@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Inline Zoom Viewer.
 seo-title: setHandlers
 solution: Experience Manager
 title: setHandlers
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 357b0e33-befa-4b89-add5-67cc9e7fd9e7
 ---
 

@@ -4,7 +4,7 @@ seo-description: Configuration attribute for Video360 Viewer.
 seo-title: ControlBar.transition
 solution: Experience Manager
 title: ControlBar.transition
-topic: Dynamic media
+topic: Dynamic Media
 uuid: e8c1da96-3533-4d31-9ad3-569a87948ac6
 ---
 

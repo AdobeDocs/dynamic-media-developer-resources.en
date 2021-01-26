@@ -4,7 +4,7 @@ seo-description: Configuration attributes documentation for Interactive Video Vi
 seo-title: Command reference – Configuration attributes
 solution: Experience Manager
 title: Command reference – Configuration attributes
-topic: Dynamic media
+topic: Dynamic Media
 uuid: eaf7a1a2-b0ec-4df2-926b-5e2c4cd0b3d1
 ---
 

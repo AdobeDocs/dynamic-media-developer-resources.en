@@ -4,7 +4,7 @@ seo-description: Compatibility notes for operating systems, browsers, and mobile
 seo-title: Compatibility notes
 solution: Experience Manager
 title: Compatibility notes
-topic: Dynamic media
+topic: Dynamic Media
 uuid: cf732a03-bfaa-4838-862f-73343cefbd67
 ---
 

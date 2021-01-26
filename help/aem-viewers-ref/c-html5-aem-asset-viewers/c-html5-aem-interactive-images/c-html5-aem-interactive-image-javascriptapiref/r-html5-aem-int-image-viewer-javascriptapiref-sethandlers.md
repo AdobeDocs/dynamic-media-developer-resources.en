@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Interactive Image Viewer
 seo-title: setHandlers
 solution: Experience Manager
 title: setHandlers
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 93db9c88-890e-4be8-b82f-d15978a0cfac
 ---
 

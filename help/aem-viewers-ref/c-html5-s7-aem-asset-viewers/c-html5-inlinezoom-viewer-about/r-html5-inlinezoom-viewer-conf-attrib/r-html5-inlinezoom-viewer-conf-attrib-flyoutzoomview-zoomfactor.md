@@ -2,7 +2,7 @@
 description: FlyoutZoomView.zoomfactor
 solution: Experience Manager
 title: FlyoutZoomView.zoomfactor
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 8c4e6bf8-0238-470b-9fbe-262eb17f8f3b
 ---
 

@@ -4,7 +4,7 @@ seo-description: The secondary control bar is the rectangular area that contains
 seo-title: Secondary control bar
 solution: Experience Manager
 title: Secondary control bar
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 38217d2a-8668-46e1-9df1-f29c1c7e0798
 ---
 

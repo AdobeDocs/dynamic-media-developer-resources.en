@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Carousel Viewer.
 seo-title: init
 solution: Experience Manager
 title: init
-topic: Dynamic media
+topic: Dynamic Media
 uuid: f109d9ab-d5f0-462d-9e7d-c5e32629e449
 ---
 

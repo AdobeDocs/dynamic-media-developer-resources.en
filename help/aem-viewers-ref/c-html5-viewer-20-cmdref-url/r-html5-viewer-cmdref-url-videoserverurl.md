@@ -4,7 +4,7 @@ seo-description: Parameter common to all viewers.
 seo-title: videoServerUrl
 solution: Experience Manager
 title: videoServerUrl
-topic: Dynamic media
+topic: Dynamic Media
 uuid: ef9870f9-599b-449d-b713-66abafb80311
 ---
 

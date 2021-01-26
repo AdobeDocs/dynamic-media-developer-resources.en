@@ -4,7 +4,7 @@ seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: VideoScrubber.showchaptertime
 solution: Experience Manager
 title: VideoScrubber.showchaptertime
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 2a5e001d-14b6-41cd-938e-441ad0a789d2
 ---
 

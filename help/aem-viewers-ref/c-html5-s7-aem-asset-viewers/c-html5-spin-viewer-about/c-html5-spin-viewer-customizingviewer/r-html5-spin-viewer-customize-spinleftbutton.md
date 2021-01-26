@@ -4,7 +4,7 @@ seo-description: Clicking or tapping this button spins the image to the left in 
 seo-title: Spin left button
 solution: Experience Manager
 title: Spin left button
-topic: Dynamic media
+topic: Dynamic Media
 uuid: ef804867-2e84-4117-be56-eefcd44f9ca2
 ---
 

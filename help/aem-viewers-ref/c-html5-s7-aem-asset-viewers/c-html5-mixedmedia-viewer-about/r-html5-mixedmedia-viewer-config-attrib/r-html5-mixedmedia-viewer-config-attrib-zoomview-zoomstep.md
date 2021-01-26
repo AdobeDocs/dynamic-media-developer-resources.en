@@ -2,7 +2,7 @@
 description: ZoomView.zoomstep
 solution: Experience Manager
 title: ZoomView.zoomstep
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 914091e0-f026-423c-8c33-86a0284ac600
 ---
 

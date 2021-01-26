@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for eCatalog Viewer
 seo-title: getComponent
 solution: Experience Manager
 title: getComponent
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 4e5b79b5-4a2b-427a-b527-81247a6b740d
 ---
 

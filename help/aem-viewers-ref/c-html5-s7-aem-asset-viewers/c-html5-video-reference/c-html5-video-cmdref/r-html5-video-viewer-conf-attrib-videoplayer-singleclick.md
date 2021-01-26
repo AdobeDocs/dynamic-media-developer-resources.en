@@ -4,7 +4,7 @@ seo-description: Configuration attribute for Video Viewer.
 seo-title: VideoPlayer.singleclick
 solution: Experience Manager
 title: VideoPlayer.singleclick
-topic: Dynamic media
+topic: Dynamic Media
 uuid: df669b2e-31da-4de0-b480-e54402c9545c
 ---
 

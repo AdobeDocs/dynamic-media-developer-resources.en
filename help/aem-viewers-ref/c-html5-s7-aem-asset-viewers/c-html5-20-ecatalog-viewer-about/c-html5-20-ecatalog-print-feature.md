@@ -4,7 +4,7 @@ seo-description: The viewer lets you output the catalog content to a printer.
 seo-title: Print feature
 solution: Experience Manager
 title: Print feature
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 4ff170a3-ce37-454f-b4b0-b323de3dc9c9
 ---
 

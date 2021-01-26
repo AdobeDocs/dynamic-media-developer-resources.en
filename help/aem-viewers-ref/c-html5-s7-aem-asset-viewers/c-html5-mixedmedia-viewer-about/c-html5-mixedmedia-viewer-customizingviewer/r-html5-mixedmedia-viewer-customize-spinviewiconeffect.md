@@ -4,7 +4,7 @@ seo-description: The spin indicator is overlaid on the spin view area. It is dis
 seo-title: Spin view icon effect
 solution: Experience Manager
 title: Spin view icon effect
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 33445a3d-51dc-47a4-a8d1-87d25ea001e1
 ---
 

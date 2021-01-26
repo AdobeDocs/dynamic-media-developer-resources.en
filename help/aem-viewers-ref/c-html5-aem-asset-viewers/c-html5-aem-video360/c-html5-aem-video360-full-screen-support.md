@@ -4,7 +4,7 @@ seo-description: The viewer supports full-screen operation mode.
 seo-title: Full screen support
 solution: Experience Manager
 title: Full screen support
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 476cb9b4-9ef0-404a-b857-8f5913c34259
 ---
 

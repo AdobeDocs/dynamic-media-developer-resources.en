@@ -4,7 +4,7 @@ seo-description: In inline zoom mode main view consists of the static image, zoo
 seo-title: Flyout Zoom View
 solution: Experience Manager
 title: Flyout Zoom View
-topic: Dynamic media
+topic: Dynamic Media
 uuid: c4c94432-7b6f-40a8-ae5f-9423234f3656
 ---
 

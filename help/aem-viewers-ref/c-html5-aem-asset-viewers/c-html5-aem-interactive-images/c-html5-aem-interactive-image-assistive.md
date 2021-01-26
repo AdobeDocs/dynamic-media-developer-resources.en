@@ -4,7 +4,7 @@ seo-description: All viewer components support ARIA (Accessible Rich Internet Ap
 seo-title: Assistive technology support
 solution: Experience Manager
 title: Assistive technology support
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 5f6a021f-750c-40e1-be01-86c3750fd25f
 ---
 

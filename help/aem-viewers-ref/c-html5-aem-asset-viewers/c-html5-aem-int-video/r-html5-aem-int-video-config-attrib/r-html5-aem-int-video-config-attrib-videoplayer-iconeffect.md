@@ -4,7 +4,7 @@ seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: VideoPlayer.iconeffect
 solution: Experience Manager
 title: VideoPlayer.iconeffect
-topic: Dynamic media
+topic: Dynamic Media
 uuid: a403d44d-d5b5-4d09-876e-39146585704f
 ---
 

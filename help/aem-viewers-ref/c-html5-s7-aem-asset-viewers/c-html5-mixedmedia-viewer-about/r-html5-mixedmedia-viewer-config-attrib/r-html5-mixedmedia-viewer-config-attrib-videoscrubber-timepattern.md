@@ -2,7 +2,7 @@
 description: VideoScrubber.timepattern
 solution: Experience Manager
 title: VideoScrubber.timepattern
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 6034dc22-c1d4-4a37-93de-42a88b99234a
 ---
 

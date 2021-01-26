@@ -4,7 +4,7 @@ seo-description: Certain content that the Spin Viewer displays is subject to loc
 seo-title: Localization of user interface elements
 solution: Experience Manager
 title: Localization of user interface elements
-topic: Dynamic media
+topic: Dynamic Media
 uuid: bf38bdef-a31f-4f2f-a8f5-3d3d4eac95ab
 ---
 

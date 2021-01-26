@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Video360 Viewer.
 seo-title: dispose
 solution: Experience Manager
 title: dispose
-topic: Dynamic media
+topic: Dynamic Media
 uuid: bdecadb1-4e77-43d5-9da5-80e5101efb36
 ---
 

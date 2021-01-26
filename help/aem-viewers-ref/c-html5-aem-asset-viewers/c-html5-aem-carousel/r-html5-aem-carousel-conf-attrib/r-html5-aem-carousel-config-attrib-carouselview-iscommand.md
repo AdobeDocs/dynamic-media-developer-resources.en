@@ -2,7 +2,7 @@
 description: CarouselView.iscommand
 solution: Experience Manager
 title: CarouselView.iscommand
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 005b130c-9316-4cf9-ae59-9f8ef381dda3
 ---
 

@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for eCatalog Viewer.
 seo-title: setParam
 solution: Experience Manager
 title: setParam
-topic: Dynamic media
+topic: Dynamic Media
 uuid: a732461f-1b34-4ebe-9dfd-69175762e574
 ---
 

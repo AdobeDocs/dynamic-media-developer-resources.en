@@ -4,7 +4,7 @@ seo-description: URL command for Video Viewer.
 seo-title: caption
 solution: Experience Manager
 title: caption
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 670d83c2-bfc5-411a-8581-5103a62aa8cf
 ---
 

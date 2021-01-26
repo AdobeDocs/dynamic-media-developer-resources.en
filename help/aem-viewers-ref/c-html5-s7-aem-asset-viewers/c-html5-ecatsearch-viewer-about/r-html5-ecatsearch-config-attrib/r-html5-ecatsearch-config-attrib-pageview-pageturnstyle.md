@@ -2,7 +2,7 @@
 description: PageView.pageturnstyle
 solution: Experience Manager
 title: PageView.pageturnstyle
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 748adb73-bfb6-4fce-aa6a-4216184edabb
 ---
 

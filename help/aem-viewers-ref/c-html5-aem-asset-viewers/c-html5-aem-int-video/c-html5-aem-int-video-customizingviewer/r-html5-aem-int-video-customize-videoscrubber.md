@@ -4,7 +4,7 @@ seo-description: The video scrubber is the horizontal slider control that lets a
 seo-title: Video scrubber
 solution: Experience Manager
 title: Video scrubber
-topic: Dynamic media
+topic: Dynamic Media
 uuid: cfd1055b-c4d6-42e4-ad24-a897e923e8e9
 ---
 

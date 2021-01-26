@@ -4,7 +4,7 @@ seo-description: Certain content that the Interactive Video Viewer displays is s
 seo-title: Localization of user interface elements
 solution: Experience Manager
 title: Localization of user interface elements
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 7c880e25-76dc-43d3-83fc-12de92afd35f
 ---
 

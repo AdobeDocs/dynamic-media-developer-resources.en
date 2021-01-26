@@ -4,7 +4,7 @@ seo-description: Configuration attribute for Video Viewer.
 seo-title: EmbedShare.embedsizes
 solution: Experience Manager
 title: EmbedShare.embedsizes
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 1fc6057f-9e25-4e94-b516-e3e7af60188c
 ---
 

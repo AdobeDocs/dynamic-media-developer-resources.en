@@ -4,7 +4,7 @@ seo-description: Indicates whether the viewer begins loading video content befor
 seo-title: VideoPlayer.preload
 solution: Experience Manager
 title: VideoPlayer.preload
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 7fd801cf-8307-4b4e-a338-aa4d62b86d2f
 ---
 

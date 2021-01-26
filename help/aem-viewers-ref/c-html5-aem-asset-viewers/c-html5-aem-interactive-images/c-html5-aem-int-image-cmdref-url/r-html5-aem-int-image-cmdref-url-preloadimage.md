@@ -4,7 +4,7 @@ seo-description: URL command for Video Image Viewer.
 seo-title: preloadimage
 solution: Experience Manager
 title: preloadimage
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 3b45dc86-8963-465f-b23f-519d54c2ce85
 ---
 

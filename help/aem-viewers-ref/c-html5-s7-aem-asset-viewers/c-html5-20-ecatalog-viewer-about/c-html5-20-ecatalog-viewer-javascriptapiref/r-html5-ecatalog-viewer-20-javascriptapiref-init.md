@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for eCatalog Viewer.
 seo-title: init
 solution: Experience Manager
 title: init
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 142381e4-aa3c-46dd-a0bd-4e090d0003e4
 ---
 

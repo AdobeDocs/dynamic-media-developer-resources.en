@@ -2,7 +2,7 @@
 description: TableOfContents.showdefault
 solution: Experience Manager
 title: TableOfContents.showdefault
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 244a8485-a615-4155-a5a9-9d468ac3208f
 ---
 

@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Spin Viewer.
 seo-title: dispose
 solution: Experience Manager
 title: dispose
-topic: Dynamic media
+topic: Dynamic Media
 uuid: c92c82b4-3a1a-4cbe-ad16-aa00322889e1
 ---
 

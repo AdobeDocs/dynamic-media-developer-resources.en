@@ -1,11 +1,9 @@
 ---
 description: eCatalog Search Viewer is a catalog viewer that displays electronic brochures in a spread by spread or page by page manner, The eCatalog lets users navigate through the catalog using additional user interface elements or dedicated thumbnails mode. Users can also zoom in on every page for greater detail.
 keywords: responsive
-seo-description: eCatalog Search Viewer is a catalog viewer that displays electronic brochures in a spread by spread or page by page manner, The eCatalog lets users navigate through the catalog using additional user interface elements or dedicated thumbnails mode. Users can also zoom in on every page for greater detail.
-seo-title: eCatalog Search
 solution: Experience Manager
 title: eCatalog Search
-topic: Dynamic media
+topic: Dynamic Media
 uuid: f5ec33bf-e827-4709-9780-6f17096bf306
 ---
 
@@ -137,7 +135,7 @@ You add the viewer to a web page by doing the following:
 
 [!DNL <s7viewers_root>/html5/js/eCatalogSearchViewer.js]
 
-   You can use a relative path if the viewer is deployed on one of the Adobe Scene7 servers and it is served from the same domain. Otherwise, you specify a full path to one of Adobe Scene7 servers that have the IS-Viewers installed.
+   You can use a relative path if the viewer is deployed on one of the Adobe Dynamic Media servers and it is served from the same domain. Otherwise, you specify a full path to one of Adobe Dynamic Media servers that have the IS-Viewers installed.
 
    The relative path looks like the following:
 

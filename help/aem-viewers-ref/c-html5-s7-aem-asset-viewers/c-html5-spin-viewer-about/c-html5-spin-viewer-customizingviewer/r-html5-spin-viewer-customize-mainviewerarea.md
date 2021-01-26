@@ -4,7 +4,7 @@ seo-description: The main view area is the area occupied by the spin image. It u
 seo-title: Main viewer area
 solution: Experience Manager
 title: Main viewer area
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 8395386b-4039-4a47-8d31-a341813c2647
 ---
 

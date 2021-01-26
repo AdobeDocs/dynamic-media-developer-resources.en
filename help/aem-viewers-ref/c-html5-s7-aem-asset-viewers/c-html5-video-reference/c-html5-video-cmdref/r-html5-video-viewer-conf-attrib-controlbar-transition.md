@@ -4,7 +4,7 @@ seo-description: Configuration attribute for Video Viewer.
 seo-title: ControlBar.transition
 solution: Experience Manager
 title: ControlBar.transition
-topic: Dynamic media
+topic: Dynamic Media
 uuid: abd98898-d7d8-468f-b696-052e61e171b5
 ---
 

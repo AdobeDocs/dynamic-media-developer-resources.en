@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Interactive Video Viewer.
 seo-title: setLocalizedTexts
 solution: Experience Manager
 title: setLocalizedTexts
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 11844a71-adb0-42a9-9b58-b69821070fd2
 ---
 

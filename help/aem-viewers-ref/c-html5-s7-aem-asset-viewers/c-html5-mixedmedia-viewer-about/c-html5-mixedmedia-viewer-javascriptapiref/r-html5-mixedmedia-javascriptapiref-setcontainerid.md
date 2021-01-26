@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Mixed Media Viewer.
 seo-title: setContainerId
 solution: Experience Manager
 title: setContainerId
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 56d82392-1c6f-422a-ab5b-2e407d78ba74
 ---
 

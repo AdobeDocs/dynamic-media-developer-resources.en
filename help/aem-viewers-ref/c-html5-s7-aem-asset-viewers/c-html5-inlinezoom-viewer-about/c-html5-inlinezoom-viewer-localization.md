@@ -4,7 +4,7 @@ seo-description: Certain content that the Flyout Viewer displays is subject to l
 seo-title: Localization of user interface elements
 solution: Experience Manager
 title: Localization of user interface elements
-topic: Dynamic media
+topic: Dynamic Media
 uuid: d824c0c3-3606-4903-96f7-de26a61a8f65
 ---
 

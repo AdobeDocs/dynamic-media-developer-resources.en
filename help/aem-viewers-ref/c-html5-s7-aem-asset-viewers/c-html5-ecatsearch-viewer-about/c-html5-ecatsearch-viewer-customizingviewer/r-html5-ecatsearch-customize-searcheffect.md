@@ -4,7 +4,7 @@ seo-description: The viewer displays search result regions over the main view to
 seo-title: Search effect
 solution: Experience Manager
 title: Search effect
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 3a076ff8-2da5-4020-8a77-8f5a256afefe
 ---
 

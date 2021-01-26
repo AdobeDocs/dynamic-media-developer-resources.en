@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Flyout Viewer.
 seo-title: setParam
 solution: Experience Manager
 title: setParam
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 0c2deb6c-f40f-47e5-a1ef-f5eb5db6ee06
 ---
 

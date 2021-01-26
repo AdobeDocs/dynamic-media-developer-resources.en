@@ -2,7 +2,7 @@
 description: Swatches.buttonsnapmode
 solution: Experience Manager
 title: Swatches.buttonsnapmode
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 5d2e4d94-4e24-482e-891a-34ee21f97121
 ---
 

@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Inline Zoom Viewer.
 seo-title: setAsset
 solution: Experience Manager
 title: setAsset
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 5bb7aebf-0a1d-4783-923d-7f7e7dcb9baa
 ---
 

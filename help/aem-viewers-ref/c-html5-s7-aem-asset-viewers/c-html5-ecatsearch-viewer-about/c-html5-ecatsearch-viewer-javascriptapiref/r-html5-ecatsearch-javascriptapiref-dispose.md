@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for eCatalog Viewer.
 seo-title: dispose
 solution: Experience Manager
 title: dispose
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 791c47e9-daab-4500-9cd0-e56ee6fc830e
 ---
 

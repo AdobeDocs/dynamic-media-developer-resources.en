@@ -4,7 +4,7 @@ seo-description: Clicking or tapping this button zooms out on an image in the ma
 seo-title: Zoom out button
 solution: Experience Manager
 title: Zoom out button
-topic: Dynamic media
+topic: Dynamic Media
 uuid: edc46e24-d3d9-4d1e-8676-ec441936458d
 ---
 

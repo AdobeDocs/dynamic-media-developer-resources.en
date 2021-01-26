@@ -2,7 +2,7 @@
 description: Viewer SDK namespace
 solution: Experience Manager
 title: Viewer SDK namespace
-topic: Dynamic media
+topic: Dynamic Media
 uuid: e0113556-708c-4898-93f9-b3888de00afc
 ---
 

@@ -2,7 +2,7 @@
 description: SearchPanel.maxloadradius
 solution: Experience Manager
 title: SearchPanel.maxloadradius
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 37d58c88-3d45-44d9-9f2c-d616d1077906
 ---
 

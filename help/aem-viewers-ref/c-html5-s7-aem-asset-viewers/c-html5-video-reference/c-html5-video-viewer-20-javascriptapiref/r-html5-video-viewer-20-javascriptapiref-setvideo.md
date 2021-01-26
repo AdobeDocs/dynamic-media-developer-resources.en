@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Video Viewer
 seo-title: setVideo
 solution: Experience Manager
 title: setVideo
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 0a1b3caa-ded6-4020-962c-41c3ece0a865
 ---
 

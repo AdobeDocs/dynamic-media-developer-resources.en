@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Carousel Viewer.
 seo-title: dispose
 solution: Experience Manager
 title: dispose
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 6b4e5bd0-5a32-4e4e-a9a1-c26e8e266aa6
 ---
 

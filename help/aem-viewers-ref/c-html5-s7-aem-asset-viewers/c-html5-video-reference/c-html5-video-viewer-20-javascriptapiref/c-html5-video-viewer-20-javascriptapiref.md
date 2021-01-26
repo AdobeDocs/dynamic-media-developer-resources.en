@@ -4,7 +4,7 @@ seo-description: The main class of the Video Viewer is VideoViewer. It is declar
 seo-title: JavaScript API reference for Video Viewer
 solution: Experience Manager
 title: JavaScript API reference for Video Viewer
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 371f6dad-e7ba-434d-9a12-dbc9b871735e
 ---
 

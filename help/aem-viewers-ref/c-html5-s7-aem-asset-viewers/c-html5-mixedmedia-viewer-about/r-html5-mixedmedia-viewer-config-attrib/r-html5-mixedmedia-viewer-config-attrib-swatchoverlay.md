@@ -2,7 +2,7 @@
 description: swatchoverlay
 solution: Experience Manager
 title: swatchoverlay
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 2226a368-5db5-42a1-94be-b219560e3891
 ---
 

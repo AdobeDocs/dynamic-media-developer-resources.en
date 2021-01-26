@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Flyout Viewer
 seo-title: getComponent
 solution: Experience Manager
 title: getComponent
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 039d5df8-e912-4868-8ae6-855617693797
 ---
 

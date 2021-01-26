@@ -4,7 +4,7 @@ seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: CallToAction.align
 solution: Experience Manager
 title: CallToAction.align
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 87852fcc-026f-4a1d-b4a4-3ce532872b85
 ---
 

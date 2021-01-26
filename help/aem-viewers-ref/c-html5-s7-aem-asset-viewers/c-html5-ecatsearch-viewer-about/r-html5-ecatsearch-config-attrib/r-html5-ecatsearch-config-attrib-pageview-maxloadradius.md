@@ -2,7 +2,7 @@
 description: PageView.maxloadradius
 solution: Experience Manager
 title: PageView.maxloadradius
-topic: Dynamic media
+topic: Dynamic Media
 uuid: e60603a5-06dc-43e3-a380-b4d97fc539f1
 ---
 

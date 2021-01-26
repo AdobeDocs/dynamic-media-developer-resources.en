@@ -2,7 +2,7 @@
 description: Swatches.pagemode
 solution: Experience Manager
 title: Swatches.pagemode
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 116aef33-b31a-48d9-91bb-f068a02ca75a
 ---
 

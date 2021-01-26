@@ -4,7 +4,7 @@ seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: VideoTime.timepattern
 solution: Experience Manager
 title: VideoTime.timepattern
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 90d36f73-44f9-4e4e-9ad6-e866749f9b2f
 ---
 

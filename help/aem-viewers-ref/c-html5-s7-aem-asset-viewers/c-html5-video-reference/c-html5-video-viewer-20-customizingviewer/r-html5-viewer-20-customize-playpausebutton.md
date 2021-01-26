@@ -4,7 +4,7 @@ seo-description: The play/pause button causes the video player to play or pause 
 seo-title: Play/Pause button
 solution: Experience Manager
 title: Play/Pause button
-topic: Dynamic media
+topic: Dynamic Media
 uuid: b910a837-07ba-4e06-aee8-c22619ed0a92
 ---
 

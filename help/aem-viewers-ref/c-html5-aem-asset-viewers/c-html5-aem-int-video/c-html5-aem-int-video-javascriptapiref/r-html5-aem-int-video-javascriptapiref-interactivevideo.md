@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Interactive Video Viewer.
 seo-title: InteractiveVideoViewer
 solution: Experience Manager
 title: InteractiveVideoViewer
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 10514580-408f-4cbf-a2e4-be2040aa8a85
 ---
 

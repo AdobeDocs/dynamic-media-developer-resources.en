@@ -4,7 +4,7 @@ seo-description: Configuration attribute for Video360 Viewer.
 seo-title: Video360Player.posterimage
 solution: Experience Manager
 title: Video360Player.posterimage
-topic: Dynamic media
+topic: Dynamic Media
 uuid: a1adc3b7-2ea3-4f26-84f2-b5c2f4418038
 ---
 

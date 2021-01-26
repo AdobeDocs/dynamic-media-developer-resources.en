@@ -2,7 +2,7 @@
 description: PageView.fmt
 solution: Experience Manager
 title: PageView.fmt
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 302e20bf-d398-45de-98a5-58b9edde48f3
 ---
 

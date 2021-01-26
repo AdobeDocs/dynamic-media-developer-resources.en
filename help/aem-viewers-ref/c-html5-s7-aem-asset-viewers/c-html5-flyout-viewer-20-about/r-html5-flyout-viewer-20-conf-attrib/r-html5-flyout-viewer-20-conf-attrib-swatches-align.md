@@ -2,7 +2,7 @@
 description: Swatches.align
 solution: Experience Manager
 title: Swatches.align
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 4437ee11-8675-4c11-b436-414cdbb4b2e7
 ---
 

@@ -2,7 +2,7 @@
 description: SetIndicator.autohide
 solution: Experience Manager
 title: SetIndicator.autohide
-topic: Dynamic media
+topic: Dynamic Media
 uuid: eb93ad7a-6176-47ed-92c6-2eb1afcac0eb
 ---
 

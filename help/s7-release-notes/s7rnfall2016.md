@@ -4,7 +4,7 @@ seo-description: The latest release notes for Adobe Scene7 Fall 2016 release–p
 seo-title: Scene7 Fall 2016 Release
 solution: Experience Manager
 title: Scene7 Fall 2016 Release
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 3fddda65-0c6e-48ec-bd60-7e0ca59421a8
 ---
 

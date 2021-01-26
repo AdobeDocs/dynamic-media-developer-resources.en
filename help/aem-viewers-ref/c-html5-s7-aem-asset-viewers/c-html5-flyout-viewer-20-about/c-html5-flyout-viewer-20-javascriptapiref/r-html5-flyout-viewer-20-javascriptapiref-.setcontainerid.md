@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Flyout Viewer.
 seo-title: setContainerId
 solution: Experience Manager
 title: setContainerId
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 9a124dfb-e094-4426-8c46-aa1a784b127d
 ---
 

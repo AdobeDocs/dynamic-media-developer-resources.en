@@ -4,7 +4,7 @@ seo-description: The Image Serving command string that is applied to all thumbna
 seo-title: FavoritesView.iscommand
 solution: Experience Manager
 title: FavoritesView.iscommand
-topic: Dynamic media
+topic: Dynamic Media
 uuid: be3d49d1-d5d2-4ecd-bc8f-fe5f80204c76
 ---
 

@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Flyout Viewer.
 seo-title: init
 solution: Experience Manager
 title: init
-topic: Dynamic media
+topic: Dynamic Media
 uuid: e5d990af-1c5a-4253-8ecd-b51119cee3a2
 ---
 

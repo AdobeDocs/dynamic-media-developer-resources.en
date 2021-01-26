@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Interactive Image Viewer.
 seo-title: init
 solution: Experience Manager
 title: init
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 915f15cf-152a-424d-b7ea-a083891bb954
 ---
 

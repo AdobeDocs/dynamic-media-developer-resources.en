@@ -4,7 +4,7 @@ seo-description: The main view area is the area occupied by the interactive swat
 seo-title: Main viewer area
 solution: Experience Manager
 title: Main viewer area
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 3e04c578-dcb2-4034-8809-dc949be80097
 ---
 

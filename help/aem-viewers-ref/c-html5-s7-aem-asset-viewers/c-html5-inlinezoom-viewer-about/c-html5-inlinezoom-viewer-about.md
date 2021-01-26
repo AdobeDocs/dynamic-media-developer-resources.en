@@ -1,12 +1,9 @@
 ---
 description: Inline Zoom Viewer is an image viewer. It displays a static image with the zoomed version shown over that static image when a user rolls over or touches the main view. This viewer works with image sets and navigation is done by using swatches. It is designed to work on desktops and mobile devices.
 keywords: responsive
-seo-description: Inline Zoom Viewer is an image viewer. It displays a static image with the zoomed version shown over that static image when a user rolls over or touches the main view. This viewer works with image sets and navigation is done by using swatches. It is designed to work on desktops and mobile devices.
-seo-title: Inline Zoom
 solution: Experience Manager
 title: Inline Zoom
-topic: Dynamic media
-uuid: 2287aef0-79ba-4d63-911a-969fa1c63385
+topic: Dynamic Media
 ---
 
 # Inline Zoom{#inline-zoom}
@@ -121,7 +118,7 @@ You add the viewer to a web page by doing the following:
 
 [!DNL <s7viewers_root>/html5/js/FlyoutViewer.js]
 
-   You can use a relative path if the viewer is deployed on one of the Adobe Scene7 servers and it is served from the same domain. Otherwise, you specify a full path to one of Adobe Scene7 servers that have the IS-Viewers installed.
+   You can use a relative path if the viewer is deployed on one of the Adobe Dynamic Media servers and it is served from the same domain. Otherwise, you specify a full path to one of Adobe Dynamic Media servers that have the IS-Viewers installed.
 
    A relative path looks like the following:
 

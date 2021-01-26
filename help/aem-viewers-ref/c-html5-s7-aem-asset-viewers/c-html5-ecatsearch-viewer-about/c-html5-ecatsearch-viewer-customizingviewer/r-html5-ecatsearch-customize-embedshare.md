@@ -4,7 +4,7 @@ seo-description: Embed share tool consists of a button added to the Social share
 seo-title: Embed share
 solution: Experience Manager
 title: Embed share
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 73d259fe-0978-4f47-95f6-bbfcd3b7bad1
 ---
 

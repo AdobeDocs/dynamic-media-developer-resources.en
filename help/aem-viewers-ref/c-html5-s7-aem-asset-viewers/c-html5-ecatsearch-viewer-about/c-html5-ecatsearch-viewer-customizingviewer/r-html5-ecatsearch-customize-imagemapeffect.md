@@ -4,7 +4,7 @@ seo-description: Depending on the value of the mode parameter, the viewer displa
 seo-title: Image map effect
 solution: Experience Manager
 title: Image map effect
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 8bafaec3-500c-4a1f-b511-bff125daab7f
 ---
 

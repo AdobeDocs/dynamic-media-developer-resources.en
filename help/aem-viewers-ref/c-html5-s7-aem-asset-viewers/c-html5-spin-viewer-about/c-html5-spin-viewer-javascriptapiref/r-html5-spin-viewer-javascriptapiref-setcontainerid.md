@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Spin Viewer.
 seo-title: setContainerId
 solution: Experience Manager
 title: setContainerId
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 6ed57f8f-5a5e-4dfa-9ab5-0f724603a0bf
 ---
 

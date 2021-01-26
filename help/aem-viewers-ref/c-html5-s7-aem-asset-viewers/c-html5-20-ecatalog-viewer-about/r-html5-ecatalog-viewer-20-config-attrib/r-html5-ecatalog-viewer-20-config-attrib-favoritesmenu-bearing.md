@@ -4,7 +4,7 @@ seo-description: Specifies the direction of slide animation for the buttons cont
 seo-title: FavoritesMenu.bearing
 solution: Experience Manager
 title: FavoritesMenu.bearing
-topic: Dynamic media
+topic: Dynamic Media
 uuid: badc02ef-2724-41bb-9b00-c65966be8577
 ---
 

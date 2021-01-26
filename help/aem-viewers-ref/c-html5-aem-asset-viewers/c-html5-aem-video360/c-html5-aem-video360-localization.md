@@ -4,7 +4,7 @@ seo-description: Certain content that is displayed by the viewer is subject to l
 seo-title: Localization of user interface elements
 solution: Experience Manager
 title: Localization of user interface elements
-topic: Dynamic media
+topic: Dynamic Media
 uuid: d5e75af0-03d6-4357-a540-4094313ed026
 ---
 

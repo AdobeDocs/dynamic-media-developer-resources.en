@@ -2,7 +2,7 @@
 description: TableOfContents.maxitems
 solution: Experience Manager
 title: TableOfContents.maxitems
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 823a70b8-0f05-4b8a-8011-39f17c047018
 ---
 

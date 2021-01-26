@@ -4,7 +4,7 @@ seo-description: The main control bar is the rectangular area on desktop systems
 seo-title: Main control bar
 solution: Experience Manager
 title: Main control bar
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 0900f678-d7ec-4653-bc8a-21b8da7d5044
 ---
 

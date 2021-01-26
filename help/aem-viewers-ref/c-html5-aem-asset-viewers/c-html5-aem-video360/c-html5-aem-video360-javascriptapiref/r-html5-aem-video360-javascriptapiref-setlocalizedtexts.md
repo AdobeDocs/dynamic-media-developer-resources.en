@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Video360 Viewer.
 seo-title: setLocalizedTexts
 solution: Experience Manager
 title: setLocalizedTexts
-topic: Dynamic media
+topic: Dynamic Media
 uuid: dd9cf899-8855-463b-a142-698fd1a650fe
 ---
 

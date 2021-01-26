@@ -2,7 +2,7 @@
 description: SetIndicator.mode
 solution: Experience Manager
 title: SetIndicator.mode
-topic: Dynamic media
+topic: Dynamic Media
 uuid: cfb549c2-e0cf-46c3-b5b7-219c8c1bee94
 ---
 

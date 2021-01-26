@@ -4,7 +4,7 @@ seo-description: JavaScript API reference for Spin Viewer
 seo-title: setHandlers
 solution: Experience Manager
 title: setHandlers
-topic: Dynamic media
+topic: Dynamic Media
 uuid: 50db47ee-c1bb-4e45-bfcf-fae0fff6e0e8
 ---
 
