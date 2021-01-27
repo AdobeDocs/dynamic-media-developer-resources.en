@@ -50,15 +50,15 @@ or
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> imageList </span> </span> </p> </td> 
-   <td colname="col2"> <p> Specifies an explicit image set, consisting of a sorted sequence of items, or frames, separated by commas. </p> <p> <p>Note:  This feature is supported in Adobe Scene7 Publishing System; it is not supported in Adobe Experience Manager Assets. </p> </p> </td> 
+   <td colname="col2"> <p> Specifies an explicit image set, consisting of a sorted sequence of items, or frames, separated by commas. </p> <p> <p>Note:  This feature is supported in Adobe Dynamic Media Classic; it is not supported in Adobe Experience Manager Assets. </p> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> imageListWithModifiers </span> </span> </p> </td> 
-   <td colname="col2"> <p> Specifies an explicit image set where each frame has its own Image Serving modifiers. In this case, the list of frames are wrapped within parentheses. Make sure you apply double HTTP encoding to any comma that is present in the frame-specific Image Serving modifier. </p> <p> <p>Note:  This feature is supported in Adobe Scene7 Publishing System; it is not supported in Adobe Experience Manager Assets. </p> </p> </td> 
+   <td colname="col2"> <p> Specifies an explicit image set where each frame has its own Image Serving modifiers. In this case, the list of frames are wrapped within parentheses. Make sure you apply double HTTP encoding to any comma that is present in the frame-specific Image Serving modifier. </p> <p> <p>Note:  This feature is supported in Adobe Dynamic Media Classic; it is not supported in Adobe Experience Manager Assets. </p> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> multiDimensionalSpinSet </span> </span> </p> </td> 
-   <td colname="col2"> <p>Specifies an explicit multi-dimensional spin set using the following syntax: </p> <p> <span class="codeph"> (( <span class="varname"> horizontalSpinSet </span>)[,( <span class="varname"> horizontalSpinSet </span>)]) </span> </p> <p> where <span class="codeph"> <span class="varname"> horizontalSpinSet </span> </span> is a comma-separated list of frames for a given horizontal axis. All <span class="codeph"> <span class="varname"> horizontalSpinSet </span> </span> should have the same number of frames. </p> <p> <p>Note:  This feature is supported in Adobe Scene7 Publishing System; it is not supported in Adobe Experience Manager Assets. </p> </p> </td> 
+   <td colname="col2"> <p>Specifies an explicit multi-dimensional spin set using the following syntax: </p> <p> <span class="codeph"> (( <span class="varname"> horizontalSpinSet </span>)[,( <span class="varname"> horizontalSpinSet </span>)]) </span> </p> <p> where <span class="codeph"> <span class="varname"> horizontalSpinSet </span> </span> is a comma-separated list of frames for a given horizontal axis. All <span class="codeph"> <span class="varname"> horizontalSpinSet </span> </span> should have the same number of frames. </p> <p> <p>Note:  This feature is supported in Adobe Dynamic Media Classic; it is not supported in Adobe Experience Manager Assets. </p> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> modifiers </span> </span> </p> </td> 
@@ -79,19 +79,19 @@ or
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> video </span> </span> </p> </td> 
-   <td colname="col2"> <p> Single video or Adaptive Video Set. </p> <p> <p>Note:  This feature is supported in Adobe Scene7 Publishing System; it is not supported in Adobe Experience Manager Assets. </p> </p> </td> 
+   <td colname="col2"> <p> Single video or Adaptive Video Set. </p> <p> <p>Note:  This feature is supported in Adobe Dynamic Media Classic; it is not supported in Adobe Experience Manager Assets. </p> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> image </span> </span> </p> </td> 
-   <td colname="col2"> <p> Single image. </p> <p> <p>Note:  This feature is supported in Adobe Scene7 Publishing System; it is not supported in Adobe Experience Manager Assets. </p> </p> </td> 
+   <td colname="col2"> <p> Single image. </p> <p> <p>Note:  This feature is supported in Adobe Dynamic Media Classic; it is not supported in Adobe Experience Manager Assets. </p> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> setId </span> </span> </p> </td> 
-   <td colname="col2"> <p> Swatch set. </p> <p> <p>Note:  This feature is supported in Adobe Scene7 Publishing System; it is not supported in Adobe Experience Manager Assets. </p> </p> </td> 
+   <td colname="col2"> <p> Swatch set. </p> <p> <p>Note:  This feature is supported in Adobe Dynamic Media Classic; it is not supported in Adobe Experience Manager Assets. </p> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> swatchId </span> </span> </p> </td> 
-   <td colname="col2"> <p>Swatch image. </p> <p> <p>Note:  This feature is supported in Adobe Scene7 Publishing System; it is not supported in Adobe Experience Manager Assets. </p> </p> </td> 
+   <td colname="col2"> <p>Swatch image. </p> <p> <p>Note:  This feature is supported in Adobe Dynamic Media Classic; it is not supported in Adobe Experience Manager Assets. </p> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> ID </span> </span> </p> </td> 
@@ -102,7 +102,7 @@ or
       <li id="li_C942CED779B54110BCDC74188995FD5B"> <p> <span class="codeph"> spin </span> </p> <p>For spin set. </p> </li> 
       <li id="li_6EA5C54F078D4B24B44F1588BF083842"> <p> <span class="codeph"> video </span> </p> <p>For single video. </p> </li> 
       <li id="li_8110FA7E0CAB4681A2D8C15F2A656E69"> <p> <span class="codeph"> video_set </span> </p> <p>For Adaptive Video Sets. </p> </li> 
-     </ul> </p> <p> <p>Note:  This feature is supported in Adobe Scene7 Publishing System; it is not supported in Adobe Experience Manager Assets. </p> </p> </td> 
+     </ul> </p> <p> <p>Note:  This feature is supported in Adobe Dynamic Media Classic; it is not supported in Adobe Experience Manager Assets. </p> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> modifiers </span> </span> </p> </td> 

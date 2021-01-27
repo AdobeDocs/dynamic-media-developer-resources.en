@@ -160,7 +160,7 @@ You add the viewer to a web page by doing the following:
 
    This viewer displays thumbnails when working with multi-item sets, on desktop systems thumbnails are placed below the main view. At the same time, the viewer allows the swapping of the main asset in runtime using `setAsset()` API. As a Developer, you have control over how the viewer manages the thumbnails area at the bottom when the new asset has only one item. It is possible to keep the outer viewer size intact and let the main view increase its height and occupy thumbnails area. Or, you can keep the main view size static and collapse the outer viewer area, letting web page content to move up, and use free screen real estate leftover from the thumbnails.
 
-   To keep the outer viewer bounds intact, define the size for the `.s7zoomviewer` top-level CSS class in absolute units. Sizing in CSS can be put right on the HTML page, or in a custom viewer CSS file, which is later assigned to a viewer preset record in Scene7 Publishing System or passed explicitly using a style command.
+   To keep the outer viewer bounds intact, define the size for the `.s7zoomviewer` top-level CSS class in absolute units. Sizing in CSS can be put right on the HTML page, or in a custom viewer CSS file, which is later assigned to a viewer preset record in Dynamic Media Classic or passed explicitly using a style command.
 
    See [Customizing Zoom Viewer](../../c-html5-s7-aem-asset-viewers/c-html5-20-zoom-viewer-about/c-html5-20-zoom-viewer-customizingviewer/c-html5-20-zoom-viewer-customizingviewer.md#concept-73a8546acdb444a387c49969ceca57d0) for more information about styling the viewer with CSS.
 
@@ -192,7 +192,7 @@ You add the viewer to a web page by doing the following:
 
    [https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/samples/ZoomViewer-fixed-main-view.html](https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/samples/ZoomViewer-fixed-main-view.html)
 
-   You can set the `stagesize` modifier either in the viewer preset record in Scene7 Publishing System, or you can pass it explicitly with the viewer initialization code with the `params` collection or as an API call as described in the Command Reference section of this Help, as in the following:
+   You can set the `stagesize` modifier either in the viewer preset record in Dynamic Media Classic, or you can pass it explicitly with the viewer initialization code with the `params` collection or as an API call as described in the Command Reference section of this Help, as in the following:
 
    ```
     zoomViewer.setParam("stagesize", 

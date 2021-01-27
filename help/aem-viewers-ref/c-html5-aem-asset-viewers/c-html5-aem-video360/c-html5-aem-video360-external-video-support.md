@@ -1,16 +1,13 @@
 ---
-description: The viewer supports playing video hosted outside of SPS or AEM Dynamic Media.
-seo-description: The viewer supports playing video hosted outside of SPS or AEM Dynamic Media.
-seo-title: External video support
+description: The viewer supports playing video hosted outside of Dynamic Media Classic or AEM Dynamic Media.
 solution: Experience Manager
 title: External video support
 topic: Dynamic Media
-uuid: 2e9f1c54-627f-4462-ae85-8a5ca1d09762
 ---
 
 # External video support{#external-video-support}
 
-The viewer supports playing video hosted outside of SPS or AEM Dynamic Media.
+The viewer supports playing video hosted outside of Dynamic Media Classic or AEM Dynamic Media.
 
  Supported formats for the external video are either MP4 in H.264 format or M3U8 manifest for HLS stream.
 

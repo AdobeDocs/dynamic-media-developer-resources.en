@@ -1,11 +1,8 @@
 ---
 description: The latest release notes for Adobe Scene7 Fall 2016 release–part of the Adobe Experience Manager solution in the Adobe Marketing Cloud.
-seo-description: The latest release notes for Adobe Scene7 Fall 2016 release–part of the Adobe Experience Manager solution in the Adobe Marketing Cloud.
-seo-title: Scene7 Fall 2016 Release
 solution: Experience Manager
 title: Scene7 Fall 2016 Release
 topic: Dynamic Media
-uuid: 3fddda65-0c6e-48ec-bd60-7e0ca59421a8
 ---
 
 # Scene7 Fall 2016 Release{#scene-fall-release}
@@ -17,12 +14,12 @@ The latest release notes for Adobe Scene7 Fall 2016 release–part of the Adobe 
 The latest release notes for [!DNL Adobe Scene7] Fall 2016 release-part of the [!DNL Adobe Experience Manager] solution in the [!DNL Adobe Marketing Cloud].
 
 * [General](s7rnfall2016.md#section-52afeb72ecb34c1585ea67a5051825a2) 
-* [Scene7 Publishing System](s7rnfall2016.md#section-24487cb493444d808fb7193f0a00cdd4) 
+* [Scene7](s7rnfall2016.md#section-24487cb493444d808fb7193f0a00cdd4) 
 * [Viewers (Image Serving 5.5.3)](s7rnfall2016.md#section-1d59bcd5825d487b80b59a6d1a08ed30) 
 * [Viewers (Image Serving 5.5.2)](s7rnfall2016.md#section-9932c988cfee45749594af481dfc6476) 
 * [Viewers (Image Serving 5.5.1)](s7rnfall2016.md#section-833ab92c91c941d2bfdc27f233f582ad) 
 * [HTML5 Viewer SDK 3.0.1](s7rnfall2016.md#section-30e2392859c442d1aab2766d0f1d1580) 
-* [Dynamic Media Image Serving 6.3.2 and Image Rendering 6.3.2](s7rnfall2016.md#section-19a3e96f52c74757bcdea0f8a11001f2)
+* [Dynamic Media Classic Image Serving 6.3.2 and Image Rendering 6.3.2](s7rnfall2016.md#section-19a3e96f52c74757bcdea0f8a11001f2)
 
 ## General {#section-52afeb72ecb34c1585ea67a5051825a2}
 
@@ -39,7 +36,7 @@ For complete documentation, see [https://docs.adobe.com/content/help/en/dynamic-
 * Removed video recut feature from [!DNL Adobe Scene7 Publishing System] user interface. 
 * Added authentication to all Scene7 servlets where necessary and possible. 
 * Bug fix involving the List View in the Trash Can. 
-* Removed **Create SPSAdmin** user feature from User Management because of security concerns. 
+* Removed **Create Dynamic Media Classic (Scene7) Admin** user feature from User Management because of security concerns. 
 * FTP WebAdmin now supports OKTA authentication. 
 * Removed the feature of the default password that got created for new Media Portal users. 
 * Bug fix involving the temporary password that was generated when a new user was added. The password did not fulfill necessary password requirements. 

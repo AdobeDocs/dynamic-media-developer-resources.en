@@ -8,7 +8,7 @@ uuid: eb8e79fa-893b-402c-a937-6d7121c95821
 
 # Search feature{#search-feature}
 
-The viewer supports text searching over the catalog contents. For the search feature to work the catalog "Extract Search Words" feature must be turned on when the source PDF file is uploaded to Scene7 Publishing System.
+The viewer supports text searching over the catalog contents. For the search feature to work the catalog "Extract Search Words" feature must be turned on when the source PDF file is uploaded to Dynamic Media Classic.
 
 The Search feature is triggered by activating a Search button in the main tool bar. This action brings up a search results panel with a text input field. A user can run a search by using keywords that separated with spaces or by using phrases the are surrounded by double quotes.
 

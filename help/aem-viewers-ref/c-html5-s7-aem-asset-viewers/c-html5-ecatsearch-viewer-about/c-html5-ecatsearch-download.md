@@ -3,7 +3,6 @@ description: Download
 solution: Experience Manager
 title: Download
 topic: Dynamic Media
-uuid: 5899d665-b0e8-4f02-915b-55dcd2563b83
 ---
 
 # Download{#download}
@@ -14,5 +13,5 @@ The "Download" button is automatically available in the viewer user interface wh
 
 * An actual PDF file is present in the customer's company. 
 * The name matches the name of the e-catalog asset that is passed to the viewer and includes a `.pdf` extension. 
-* The PDF file is published in SPS (Scene7 Publishing System).
+* The PDF file is published in Dynamic Media Classic.
 

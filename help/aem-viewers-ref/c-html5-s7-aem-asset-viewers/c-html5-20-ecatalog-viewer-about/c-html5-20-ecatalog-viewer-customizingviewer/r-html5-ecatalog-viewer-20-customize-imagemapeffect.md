@@ -1,16 +1,13 @@
 ---
-description: Depending on the value of the mode parameter, the viewer displays image map icons over the main view in places where maps are originally authored in Scene7 Publishing System or renders exact regions that match the shape of original image maps.
-seo-description: Depending on the value of the mode parameter, the viewer displays image map icons over the main view in places where maps are originally authored in Scene7 Publishing System or renders exact regions that match the shape of original image maps.
-seo-title: Image map effect
+description: Depending on the value of the mode parameter, the viewer displays image map icons over the main view in places where maps are originally authored in Dynamic Media Classic or renders exact regions that match the shape of original image maps.
 solution: Experience Manager
 title: Image map effect
 topic: Dynamic Media
-uuid: 193d2f4e-77a2-4741-bf36-90ca31c600c6
 ---
 
 # Image map effect{#image-map-effect}
 
-Depending on the value of the mode parameter, the viewer displays image map icons over the main view in places where maps are originally authored in Scene7 Publishing System or renders exact regions that match the shape of original image maps.
+Depending on the value of the mode parameter, the viewer displays image map icons over the main view in places where maps are originally authored in Dynamic Media Classic or renders exact regions that match the shape of original image maps.
 
 <!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 

@@ -127,7 +127,7 @@ You add the Spin Viewer to a web page by doing the following:
 
    `<s7viewers_root>/html5/js/SpinViewer.js`
 
-   You can use a relative path if the viewer is deployed on one of the Adobe Scene7 servers and it is served from the same domain. Otherwise, you specify a full path to one of Adobe Scene7 servers that have the IS-Viewers installed.
+   You can use a relative path if the viewer is deployed on one of the Adobe Dynamic Media servers and it is served from the same domain. Otherwise, you specify a full path to one of Adobe Dynamic Media servers that have the IS-Viewers installed.
 
    The relative path looks like the following:
 
@@ -158,7 +158,7 @@ You add the Spin Viewer to a web page by doing the following:
 
    You can set the static size for the viewer by either declaring it for `.s7spinviewer` top-level CSS class in absolute units, or by using `stagesize` modifier.
 
-   You can put sizing in CSS directly on the HTML page, or in a custom viewer CSS file, which is then later assigned to a viewer preset record in Scene7 Publishing System, or passed explicitly using a style command.
+   You can put sizing in CSS directly on the HTML page, or in a custom viewer CSS file, which is then later assigned to a viewer preset record in Dynamic Media Classic, or passed explicitly using a style command.
 
    See [Customizing Spin Viewer](../../c-html5-s7-aem-asset-viewers/c-html5-spin-viewer-about/c-html5-spin-viewer-customizingviewer/c-html5-spin-viewer-customizingviewer.md#concept-464f3bfa55764bc09c92d8c7480b0b55) for more information about styling the viewer with CSS.
 
@@ -171,7 +171,7 @@ You add the Spin Viewer to a web page by doing the following:
    }
    ```
 
-   You can set the `stagesize` modifier either in the viewer preset record in Scene7 Publishing System, or pass it explicitly with the viewer initialization code with `params` collection, or as an API call as described in the Command Reference section, like the following:
+   You can set the `stagesize` modifier either in the viewer preset record in Dynamic Media Classic, or pass it explicitly with the viewer initialization code with `params` collection, or as an API call as described in the Command Reference section, like the following:
 
    ```
     spinViewer.setParam("stagesize", 

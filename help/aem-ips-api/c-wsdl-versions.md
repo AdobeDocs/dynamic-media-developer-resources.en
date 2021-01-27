@@ -1,11 +1,8 @@
 ---
 description: The IPS Web Service is supported by a set of WSDL (Web Services Description Language) documents that are accessed from any IPS installation on which the IPS Web Service component is installed. Each IPS API release includes a new WSDL file that references a versioned target XML namespace. Prior WSDL namespace versions are also supported to allow for backwards compatibility with existing applications.
-seo-description: The IPS Web Service is supported by a set of WSDL (Web Services Description Language) documents that are accessed from any IPS installation on which the IPS Web Service component is installed. Each IPS API release includes a new WSDL file that references a versioned target XML namespace. Prior WSDL namespace versions are also supported to allow for backwards compatibility with existing applications.
-seo-title: IPS Web Service WSDL versions
 solution: Experience Manager
 title: IPS Web Service WSDL versions
 topic: Dynamic Media Image Production System API
-uuid: 3443bb91-1663-4686-b20a-94c372f0026e
 ---
 
 # IPS Web Service WSDL versions{#ips-web-service-wsdl-versions}

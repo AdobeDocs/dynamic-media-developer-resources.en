@@ -108,7 +108,7 @@ Additional profiles may be added to the standard profiles, either to the default
 |`WebCoatedGrade5`|Web Coated SWOP 2006 Grade 5 Paper|WebCoatedSWOP2006Grade5.icc|
 |`WebUncoated`|U.S. Web Uncoated v2|USWebUncoated.icc|
 
-The following table applies to *Dynamic Media Classic (Scene7) Image Serving* and *Dynamic Media* (running in `dynamicmedia_scene7` run mode).
+The following table applies to *Dynamic Media Classic Image Serving* and *Dynamic Media* (running in `dynamicmedia_scene7` run mode).
 
 |Identifier|Common name|File name|
 |-- |-- |-- |

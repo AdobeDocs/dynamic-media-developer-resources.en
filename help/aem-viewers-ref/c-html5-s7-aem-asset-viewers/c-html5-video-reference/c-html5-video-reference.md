@@ -1,17 +1,14 @@
 ---
-description: The Video Viewer is a video player that plays streaming and progressive video encoded in the H.264 format. It is delivered from Scene7 Publishing System or AEM Dynamic Media.
+description: The Video Viewer is a video player that plays streaming and progressive video encoded in the H.264 format. It is delivered from Dynamic Media Classic or AEM Dynamic Media.
 keywords: responsive
-seo-description: The Video Viewer is a video player that plays streaming and progressive video encoded in the H.264 format. It is delivered from Scene7 Publishing System or AEM Dynamic Media.
-seo-title: Video
 solution: Experience Manager
 title: Video
 topic: Dynamic Media
-uuid: 961a9b99-5892-4ee3-a2df-13e299f5d086
 ---
 
 # Video{#video}
 
-The Video Viewer is a video player that plays streaming and progressive video encoded in the H.264 format. It is delivered from Scene7 Publishing System or AEM Dynamic Media.
+The Video Viewer is a video player that plays streaming and progressive video encoded in the H.264 format. It is delivered from Dynamic Media Classic or AEM Dynamic Media.
 
 See [System requirements and prerequisites](../../c-system-requirements-and-prerequisites.md#concept-9282e5b777de42cdaf72ef7ebd646842).
 
@@ -146,7 +143,7 @@ You add the viewer to a web page by doing the following:
 
    You can set the static size for the viewer by either declaring it for `.s7videoviewer` top-level CSS class in absolute units, or by using the modifier `stagesize`.
 
-   Sizing in CSS can be put right on the HTML page, or in a custom viewer CSS file, which is later assigned to a viewer preset record in Scene7 Publishing System or passed explicitly using a style command.
+   Sizing in CSS can be put right on the HTML page, or in a custom viewer CSS file, which is later assigned to a viewer preset record in Dynamic Media Classic or passed explicitly using a style command.
 
    See [Customizing Video Viewer](../../c-html5-s7-aem-asset-viewers/c-html5-video-reference/c-html5-video-viewer-20-customizingviewer/c-html5-video-viewer-20-customizingviewer.md#concept-072a52b10b5f4c0789393dc6e2134c0e) for more information about styling the viewer using CSS.
 
@@ -159,7 +156,7 @@ You add the viewer to a web page by doing the following:
    }
    ```
 
-   You can set `stagesize` modifier either in the viewer preset record in Scene7 Publishing System, or pass it explicitly with the viewer initialization code with `params` collection, or as an API call as described in the Command reference section, as in the following:
+   You can set `stagesize` modifier either in the viewer preset record in Dynamic Media Classic, or pass it explicitly with the viewer initialization code with `params` collection, or as an API call as described in the Command reference section, as in the following:
 
    ```
    videoViewer.setParam("stagesize", "640,480");

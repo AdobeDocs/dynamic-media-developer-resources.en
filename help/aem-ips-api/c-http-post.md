@@ -1,5 +1,5 @@
 ---
-description: Uploading assets into Scene7 Production System involves one or more HTTP POST requests that set up a job to coordinate all the log activity associated with the uploaded files.
+description: Uploading assets into Dynamic Media Classic involves one or more HTTP POST requests that set up a job to coordinate all the log activity associated with the uploaded files.
 solution: Experience Manager
 title: Uploading assets by way of HTTP POSTs to the UploadFile Servlet
 topic: Dynamic Media Image Production System API
@@ -7,7 +7,7 @@ topic: Dynamic Media Image Production System API
 
 # Uploading assets by way of HTTP POSTs to the UploadFile Servlet{#uploading-assets-by-way-of-http-posts-to-the-uploadfile-servlet}
 
-Uploading assets into Scene7 Production System involves one or more HTTP POST requests that set up a job to coordinate all the log activity associated with the uploaded files.
+Uploading assets into Dynamic Media Classic involves one or more HTTP POST requests that set up a job to coordinate all the log activity associated with the uploaded files.
 
 Use the following URL to access the UploadFile Servlet:
 
