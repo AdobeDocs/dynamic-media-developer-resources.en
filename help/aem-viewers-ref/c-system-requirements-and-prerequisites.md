@@ -14,7 +14,7 @@ System requirements for Dynamic Media HTML5 viewers.
 
 ## Server hardware and software {#section-05099146f1f0418988c196635110bee6}
 
-* Dynamic Media Classic (formerly Scene7) Image Serving 6.7.1 or later.
+* Dynamic Media Classic Image Serving 6.7.1 or later.
 * HTML5 Viewers require SDK JavaScript server-side libraries 3.10.2 or later.
 * "Email a Friend" social features require s7ondemand 5.0.9 or later.
 * eCatalog Viewer - Info panel support requires info server 2.1.8 or later.

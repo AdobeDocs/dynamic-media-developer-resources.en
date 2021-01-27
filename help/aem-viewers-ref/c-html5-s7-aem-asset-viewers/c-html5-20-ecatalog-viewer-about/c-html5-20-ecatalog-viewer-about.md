@@ -1,12 +1,9 @@
 ---
 description: eCatalog Viewer is a catalog viewer that displays electronic brochures in a spread by spread or page by page manner, The eCatalog lets users navigate through the catalog using additional user interface elements or dedicated thumbnails mode. Users can also zoom in on every page for greater detail.
 keywords: responsive
-seo-description: eCatalog Viewer is a catalog viewer that displays electronic brochures in a spread by spread or page by page manner, The eCatalog lets users navigate through the catalog using additional user interface elements or dedicated thumbnails mode. Users can also zoom in on every page for greater detail.
-seo-title: eCatalog
 solution: Experience Manager
 title: eCatalog
 topic: Dynamic Media
-uuid: 6950306d-637e-4932-ae96-c5366e5477f3
 ---
 
 # eCatalog{#ecatalog}
@@ -166,7 +163,7 @@ You add the viewer to a web page by doing the following:
 
    You can set the static size for the viewer by either declaring it for `.s7ecatalogviewer` top-level CSS class in absolute units, or by using `stagesize` modifier.
 
-   You can put sizing in CSS directly on the HTML page, or in a custom viewer CSS file, which is then later assigned to a viewer preset record in Scene7 Publishing System, or passed explicitly using a style command.
+   You can put sizing in CSS directly on the HTML page, or in a custom viewer CSS file, which is then later assigned to a viewer preset record in Dynamic Media Classic, or passed explicitly using a style command.
 
    See [Customizing eCatalog Viewer](../../c-html5-s7-aem-asset-viewers/c-html5-20-ecatalog-viewer-about/c-html5-20-ecatalog-viewer-customizingviewer/c-html5-20-ecatalog-viewer-customizingviewer.md#concept-73a8546acdb444a387c49969ceca57d0) for more information about styling the viewer with CSS.
 
@@ -179,7 +176,7 @@ You add the viewer to a web page by doing the following:
    }
    ```
 
-   You can set the `stagesize` modifier either in the viewer preset record in Scene7 Publishing System, or pass it explicitly with the viewer initialization code with `params` collection, or as an API call as described in the Command Reference section, like the following:
+   You can set the `stagesize` modifier either in the viewer preset record in Dynamic Media Classic, or pass it explicitly with the viewer initialization code with `params` collection, or as an API call as described in the Command Reference section, like the following:
 
    ```
    eCatalogViewer.setParam("stagesize", 

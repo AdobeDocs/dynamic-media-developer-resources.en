@@ -19,6 +19,6 @@ Display overset text frames with plus sign. A text overflow indicator shows when
  </tr> 
 </table>
 
-Setting modifier `markOverflowingTextFrames=1` through a URL call marks all the text frames where text is overset with a plus sign. Also, in SPS previewer, the text overset indicator is set to " `TRUE`" by default.
+Setting modifier `markOverflowingTextFrames=1` through a URL call marks all the text frames where text is overset with a plus sign. Also, in Dynamic Media Classic previewer, the text overset indicator is set to " `TRUE`" by default.
 
 Default is 0. 

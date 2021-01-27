@@ -1,16 +1,13 @@
 ---
-description: Info Panel Popup displays in the middle of the viewer area when a user activates an image map that has a rollover_key property defined in Scene7 Publishing System, and if info panel feature is properly configured for the viewer.
-seo-description: Info Panel Popup displays in the middle of the viewer area when a user activates an image map that has a rollover_key property defined in Scene7 Publishing System, and if info panel feature is properly configured for the viewer.
-seo-title: Info panel popup
+description: Info Panel Popup displays in the middle of the viewer area when a user activates an image map that has a rollover_key property defined in Dynamic Media Classic, and if info panel feature is properly configured for the viewer.
 solution: Experience Manager
 title: Info panel popup
 topic: Dynamic Media
-uuid: 4b44f48b-eabc-4a83-906a-dc7df13b2e74
 ---
 
 # Info panel popup{#info-panel-popup}
 
-Info Panel Popup displays in the middle of the viewer area when a user activates an image map that has a rollover_key property defined in Scene7 Publishing System, and if info panel feature is properly configured for the viewer.
+Info Panel Popup displays in the middle of the viewer area when a user activates an image map that has a rollover_key property defined in Dynamic Media Classic, and if info panel feature is properly configured for the viewer.
 
 Info panel background covers entire viewer area and is controlled with the following CSS class selector:
 

@@ -14,5 +14,5 @@ The "Download" button is automatically available in the viewer user interface wh
 
 * An actual PDF file is present in the customer's company. 
 * The name matches the name of the e-catalog asset that is passed to the viewer and includes a `.pdf` extension. 
-* The PDF file is published in SPS.
+* The PDF file is published in Dynamic Media Classic.
 

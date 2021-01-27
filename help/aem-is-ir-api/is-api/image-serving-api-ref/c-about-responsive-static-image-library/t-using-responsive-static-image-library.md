@@ -11,7 +11,7 @@ To add Responsive Image library to a web page and manage existing images with th
 
 **To use Responsive Image library** 
 
-1. In SPS, [create an Image Preset](http://help.adobe.com/en_US/scene7/using/WS2F6A1049-B41F-447d-A520-91227F9CDABF.html) in case you plan to use Responsive Image library with presets.
+1. In Dynamic Media Classic, [create an Image Preset](http://help.adobe.com/en_US/scene7/using/WS2F6A1049-B41F-447d-A520-91227F9CDABF.html) in case you plan to use Responsive Image library with presets.
 
    When you define Image Presets that are used with Responsive Image Library, do not use any settings that affect image size, such as `wid=`, `hei=`, or `scl=`. Do not specify any size fields in the Image Preset. Instead, leave them as blank values. 
 1. Add the library JavaScript file to your web page.

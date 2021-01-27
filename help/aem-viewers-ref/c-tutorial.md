@@ -9,7 +9,7 @@ topic: Dynamic Media
 
 The Viewer SDK provides a set of JavaScript-based components for custom viewer development. The viewers are web-based applications that allow for rich media content served by Adobe Dynamic Media to be embedded in web pages.
 
-For example, the SDK provides interactive zooming and panning. It also provides 360° view and video playback of assets that were uploaded to Adobe Dynamic Media through the backend application called SPS (Scene7 Publishing System).
+For example, the SDK provides interactive zooming and panning. It also provides 360° view and video playback of assets that were uploaded to Adobe Dynamic Media through the backend application called Dynamic Media Classic.
 
 Even though the components rely on HTML5 functionality, they are designed to work on Android and Apple iOS devices, and desktops, including Internet Explorer and later. This kind of experience means that you are able to provide a single workflow for all supported platforms.
 

@@ -14,7 +14,7 @@ uuid: 0cf61bbf-01c0-4c5c-84d2-7cecf88e51e9
  <tbody> 
   <tr> 
    <td colname="col1"> <p><span class="codeph"><span class="varname"> emailurl</span></span> </p> </td> 
-   <td colname="col2"> <p> Specifies the base URL for Scene7 OnDemand email service. </p> </td> 
+   <td colname="col2"> <p> Specifies the base URL for Dynamic Media Classic OnDemand email service. </p> </td> 
   </tr> 
  </tbody> 
 </table>

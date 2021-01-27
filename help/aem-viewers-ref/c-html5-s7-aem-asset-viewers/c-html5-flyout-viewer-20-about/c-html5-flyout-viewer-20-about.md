@@ -129,7 +129,7 @@ You add the viewer to a web page by doing the following:
 
    This viewer displays thumbnails when working with multi-item sets. On desktop systems, thumbnails are placed below the main view. At the same time, the viewer allows the swapping of the main asset during runtime using `setAsset()` API. As a developer, you have control over how the viewer manages the thumbnails area in the bottom area when the new asset has only one item. It is possible to keep the outer viewer size intact and let the main view increase its height and occupy the thumbnails area. Or, you can keep the main view size static and collapse the outer viewer area, thereby letting web page content to move up, and then use the free page real estate left from the thumbnails.
 
-   To keep the outer viewer bounds intact define the size for `.s7flyoutviewer` top-level CSS class in absolute units. Sizing in CSS can be put right on the HTML page, or in a custom viewer CSS file, which is later assigned to a viewer preset record in Scene7 Publishing System, or passed explicitly using style command.
+   To keep the outer viewer bounds intact define the size for `.s7flyoutviewer` top-level CSS class in absolute units. Sizing in CSS can be put right on the HTML page, or in a custom viewer CSS file, which is later assigned to a viewer preset record in Dynamic Media Classic, or passed explicitly using style command.
 
    See [Customizing Flyout Viewer](../../c-html5-s7-aem-asset-viewers/c-html5-flyout-viewer-20-about/c-html5-flyout-viewer-20-customizingviewer/c-html5-flyout-viewer-20-customizingviewer.md#concept-82f8c71adbe54680a0c2f83f81e5f451) for more information about styling the viewer with CSS.
 

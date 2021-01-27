@@ -156,7 +156,7 @@ You add the viewer to a web page by doing the following:
 
    You can set the static size for the viewer by either declaring it for `.s7basiczoomviewer` top-level CSS class in absolute units, or by using `stagesize` modifier.
 
-   You can put sizing in CSS directly on the HTML page, or in a custom viewer CSS file, which is then later assigned to a viewer preset record in SPS, or passed explicitly using a style command.
+   You can put sizing in CSS directly on the HTML page, or in a custom viewer CSS file, which is then later assigned to a viewer preset record in Dynamic Media Classic, or passed explicitly using a style command.
 
    See [Customizing Basic Zoom Viewer](../../c-html5-s7-aem-asset-viewers/c-html5-20-basic-zoom-viewer-about/c-html5-20-basic-zoom-viewer-customizingviewer/c-html5-20-basic-zoom-viewer-customizingviewer.md#concept-73a8546acdb444a387c49969ceca57d0) for more information about styling the viewer with CSS.
 
@@ -169,7 +169,7 @@ You add the viewer to a web page by doing the following:
    }
    ```
 
-   You can set the `stagesize` modifier either in the viewer preset record in SPS, or pass it explicitly with the viewer initialization code with `params` collection, or as an API call as described in the Command Reference section, like the following:
+   You can set the `stagesize` modifier either in the viewer preset record in Dynamic Media Classic, or pass it explicitly with the viewer initialization code with `params` collection, or as an API call as described in the Command Reference section, like the following:
 
    ```
    basicZoomViewer.setParam("stagesize", "640,480");

@@ -1,12 +1,9 @@
 ---
 description: Mixed Media Viewer is a media viewer. It supports media sets that contain images, swatch sets, spin sets, videos, and Adaptive Video Sets.
 keywords: responsive
-seo-description: Mixed Media Viewer is a media viewer. It supports media sets that contain images, swatch sets, spin sets, videos, and Adaptive Video Sets.
-seo-title: Mixed Media
 solution: Experience Manager
 title: Mixed Media
 topic: Dynamic Media
-uuid: b6028c54-7a3c-41eb-89f8-7b86bb0d0deb
 ---
 
 # Mixed Media{#mixed-media}
@@ -135,7 +132,7 @@ You add the viewer to a web page by doing the following:
 
 [!DNL <s7viewers_root>/html5/js/MixedMediaViewer.js]
 
-   You can use a relative path if the viewer is deployed on one of the Adobe Scene7 servers and it is served from the same domain. Otherwise, you specify a full path to one of Adobe Scene7 servers that have the IS-Viewers installed.
+   You can use a relative path if the viewer is deployed on one of the Adobe Dynamic Media Classic servers and it is served from the same domain. Otherwise, you specify a full path to one of Adobe Dynamic Media Classic servers that have the IS-Viewers installed.
 
    The relative path looks like the following:
 
@@ -169,7 +166,7 @@ You add the viewer to a web page by doing the following:
 
    This viewer displays thumbnails when working with multi-item sets. On desktop systems, thumbnails are placed below the main view. At the same time, the viewer allows the swapping of the main asset during runtime using `setAsset()` API. As a developer, you have control over how the viewer manages the thumbnails area at the bottom when the new asset has only one item. It is possible to keep the outer viewer size intact and let the main view increase its height and occupy the thumbnails area. Or, you can keep the main view size static and collapse the outer viewer area, letting web page content to move up, and then use the free page real estate that is left from the thumbnails.
 
-   To keep the outer viewer bounds intact define the size for `.s7mixedmediaviewer` top-level CSS class in absolute units. Sizing in CSS can be put right on the HTML page, or in a custom viewer CSS file, which is later assigned to a viewer preset record in Scene7 Publishing System, or passed explicitly using style command.
+   To keep the outer viewer bounds intact define the size for `.s7mixedmediaviewer` top-level CSS class in absolute units. Sizing in CSS can be put right on the HTML page, or in a custom viewer CSS file, which is later assigned to a viewer preset record in Dynamic Media Classic, or passed explicitly using style command.
 
    See [Customizing Mixed Media Viewer](../../c-html5-s7-aem-asset-viewers/c-html5-mixedmedia-viewer-about/c-html5-mixedmedia-viewer-customizingviewer/c-html5-mixedmedia-viewer-customizingviewer.md#concept-61b3410f187c4bf3af09ec813c649bf4) for more information about styling the viewer with CSS.
 
@@ -201,7 +198,7 @@ You add the viewer to a web page by doing the following:
 
    [https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/samples/MixedMediaViewer-fixed-main-view.html](https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/samples/MixedMediaViewer-fixed-main-view.html)
 
-   You can set the `stagesize` modifier either in the viewer preset record in Scene7 Publishing System, or pass it explicitly with the viewer initialization code with `params` collection, or as an API call as described in the Command Reference section of this Help, as in the following:
+   You can set the `stagesize` modifier either in the viewer preset record in Dynamic Media Classic, or pass it explicitly with the viewer initialization code with `params` collection, or as an API call as described in the Command Reference section of this Help, as in the following:
 
    ```
    mixedMediaViewer.setParam("stagesize", "640,480");
