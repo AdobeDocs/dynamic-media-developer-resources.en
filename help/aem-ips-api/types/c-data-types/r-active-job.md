@@ -166,7 +166,7 @@ Specify a job type value to return the job type. You can return the following jo
   <tr> 
    <td colname="col1"> <span class="codeph"> <span class="varname"> exportJob</span> </span> </td> 
    <td colname="col2"> <span class="codeph"> types:ExportJob</span> </td> 
-   <td colname="col3">Allow authorized export of previously uploaded files. See <a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/image-production-api/data-types/r-exportjob.html" format="http" scope="external"> Export Job</a>. </td> 
+   <td colname="col3">Allow authorized export of previously uploaded files. See <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-production-api/data-types/r-exportjob.html" format="http" scope="external"> Export Job</a>. </td> 
   </tr> 
  </tbody> 
 </table>

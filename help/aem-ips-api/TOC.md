@@ -7,7 +7,7 @@ user-guide-title: Dynamic Media Image Production System API
 
 # Dynamic Media Image Production System API {#image-production-api}
 
-+ [Dynamic Media Developer Resources Home](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/landing/home.html)
++ [Dynamic Media Developer Resources Home](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/landing/home.html)
 + [About Dynamic Media Image Production System API](c-overview.md)
 + [Deprecated calls](c-deprecated-calls.md)
 + [IPS Web Service WSDL versions](c-wsdl-versions.md)

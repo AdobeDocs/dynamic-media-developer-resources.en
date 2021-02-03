@@ -25,11 +25,11 @@ The latest release notes for [!DNL Adobe Scene7] Fall 2016 release-part of the [
 
 Adobe is excited to announce the availability of HTTP/2 delivery of content with the overall benefit of improved performance.
 
-See [HTTP2 Delivery of Content FAQ](https://docs.adobe.com/content/docs/en/aem/6-2/administer/integration/marketing-cloud/scene7/http2faq.html).
+See [HTTP2 Delivery of Content FAQ](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/http2.html#dynamic).
 
 ## Scene7 Publishing System {#section-24487cb493444d808fb7193f0a00cdd4}
 
-For complete documentation, see [https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html](https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html)
+For complete documentation, see [https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html)
 
 **New features, enhancements, and bug fixes**
 
@@ -51,7 +51,7 @@ For complete documentation, see [https://docs.adobe.com/content/help/en/dynamic-
 
 ## Viewers (Image Serving 5.5.3) {#section-1d59bcd5825d487b80b59a6d1a08ed30}
 
-For complete documentation, see [Viewers Reference Guide](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/home.html).
+For complete documentation, see [Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/home.html).
 
 **Bug fixes for Image Serving 5.5.3**
 
@@ -61,7 +61,7 @@ For complete documentation, see [Viewers Reference Guide](https://docs.adobe.com
 
 ## Viewers (Image Serving 5.5.2) {#section-9932c988cfee45749594af481dfc6476}
 
-For complete documentation, see [Viewers Reference Guide](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/home.html).
+For complete documentation, see [Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/home.html).
 
 **Bug fixes for Image Serving 5.5.2**
 
@@ -70,7 +70,7 @@ For complete documentation, see [Viewers Reference Guide](https://docs.adobe.com
 
 ## Viewers (Image Serving 5.5.1) {#section-833ab92c91c941d2bfdc27f233f582ad}
 
-For complete documentation, see [Viewers Reference Guide](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/home.html).
+For complete documentation, see [Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/home.html).
 
 **New features, enhancements, and bug fixes for Image Serving 5.5.1**
 

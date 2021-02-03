@@ -8,7 +8,7 @@ breadcrumb-title: Dynamic Media Image Serving and Rendering API
 
 # Dynamic Media Image Serving and Rendering API {#image-serving-api}
 
-+ [Dynamic Media Developer Resources Home](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/landing/home.html)
++ [Dynamic Media Developer Resources Home](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/landing/home.html)
 + [Dynamic Media Image Serving and Image Rendering API Home](home.md)
 + [About this release](r-about-this-release.md)
 + [System requirements and prerequisites](r-requirements-and-prerequisites.md)
