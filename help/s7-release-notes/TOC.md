@@ -1,8 +1,6 @@
 ---
 title: Adobe Dynamic Media Classic release notes
-seo-title: Adobe Dynamic Media Classic release notes
-description: Release notes for Adobe Dynamic Media Classic
-seo-description: Release notes for Adobe Dynamic Media Classic-part of the Adobe Experience Manager solution in the Adobe Experience Cloud.
+description: Release notes for Adobe Dynamic Media Classic-part of the Adobe Experience Manager solution in the Adobe Experience Cloud.
 author: Rick Brough
 cloud: experience-cloud
 product: Dynamic Media Classic
@@ -12,7 +10,7 @@ user-guide: null
 
 # Dynamic Media Release Notes {#release-notes}
 
-+ [Dynamic Media Developer Resources Home](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/landing/home.html)
++ [Dynamic Media Developer Resources Home](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/landing/home.html)
 + [Latest release notes](s7rn2017.md)
 + Archive {#archive-release-notes}
    + [Scene7 Fall 2016 release](s7rnfall2016.md)
