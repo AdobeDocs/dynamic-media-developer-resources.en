@@ -1,11 +1,8 @@
 ---
 description: All features exposed in the Basic Zoom, eCatalog, eCatalog Search, Flyout, Inline Zoom, Mixed Media, Spin, Video, Zoom, Dimensional (3D), Carousel, Interactive Image, Interactive Video, and Video360 viewer interface are keyboard accessible.
-seo-description: All features exposed in the Basic Zoom, eCatalog, eCatalog Search, Flyout, Inline Zoom, Mixed Media, Spin, Video, Zoom, Dimensional (3D), Carousel, Interactive Image, Interactive Video, and Video360 viewer interface are keyboard accessible.
-seo-title: Keyboard accessibility and navigation
 solution: Experience Manager
 title: Keyboard accessibility and navigation
 topic: Dynamic Media
-uuid: 9d7df3b0-2d77-4a2f-9ef1-210ccbd7a1a6
 ---
 
 # Keyboard accessibility and navigation{#keyboard-accessibility-and-navigation}
