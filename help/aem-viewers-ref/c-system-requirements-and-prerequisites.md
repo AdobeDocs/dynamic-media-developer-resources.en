@@ -55,12 +55,6 @@ System requirements for Dynamic Media HTML5 viewers.
 * OpenSSL 0.9.8y 
 * Baidu January 2015
 
-<!-- 
-
 >[!NOTE]
 >
->FLASH VIEWERS END-OF-LIFE—Effective January 31, 2017, Adobe Scene7 Publishing System officially ended support for the Flash viewer platform. For more information about this important change, see the following FAQ website:
-
-[https://docs.adobe.com/content/docs/en/aem/6-1/administer/integration/marketing-cloud/scene7/flash-eol.html](https://docs.adobe.com/content/docs/en/aem/6-1/administer/integration/marketing-cloud/scene7/flash-eol.html).  
-
--->
+>FLASH VIEWERS END-OF-LIFE — Effective January 31, 2017, Adobe Scene7 Publishing System officially ended support for the Flash viewer platform.
