@@ -1,6 +1,6 @@
 # Adobe Dynamic Media Developer Resources Documentation
 
-This is the repository for Adobe EDynamic Media Developer Resources documentation.
+This is the repository for Adobe Dynamic Media Developer Resources documentation.
 
 Your contributions to the documentation are welcome. Please see the following resources:
 
