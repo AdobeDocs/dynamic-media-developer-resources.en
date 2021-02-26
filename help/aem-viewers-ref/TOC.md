@@ -7,7 +7,7 @@ user-guide-title: Dynamic Media Viewers Reference Guide
 
 # Dynamic Media Viewers Reference Guide {#library}
 
-+ [Dynamic Media Developer Resources Home](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/landing/home.html)
++ [Dynamic Media Developer Resources Home](/help/landing/home.md)
 + [Dynamic Media Viewers Reference Guide](/help/aem-viewers-ref/home.md)
 + [Viewer library examples](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html)
 + [System requirements](c-system-requirements-and-prerequisites.md)
@@ -890,8 +890,8 @@ user-guide-title: Dynamic Media Viewers Reference Guide
          + [setContainerId](c-html5-aem-asset-viewers/c-html5-aem-video360/c-html5-aem-video360-javascriptapiref/r-html5-aem-video360-javascriptapiref-setcontainerid.md)
          + [setHandlers](c-html5-aem-asset-viewers/c-html5-aem-video360/c-html5-aem-video360-javascriptapiref/r-html5-aem-video360-javascriptapiref-sethandlers.md)
          + [setLocalizedTexts](c-html5-aem-asset-viewers/c-html5-aem-video360/c-html5-aem-video360-javascriptapiref/r-html5-aem-video360-javascriptapiref-setlocalizedtexts.md)
-         + [setParam](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/video360/jsapi-video360/r-html5-aem-int-video-javascriptapiref-setparam.html#viewers-for-aem-assets-only)
-         + [setParams](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/video360/jsapi-video360/r-html5-aem-int-video-javascriptapiref-setparams.html#viewers-for-aem-assets-only)
+         + [setParam](c-html5-aem-asset-viewers/c-html5-aem-video360/c-html5-aem-video360-javascriptapiref/r-html5-aem-video360-javascriptapiref-setparam.md)
+         + [setParams](/c-html5-aem-asset-viewers/c-html5-aem-video360/c-html5-aem-video360-javascriptapiref/r-html5-aem-video360-javascriptapiref-setparams.md)
          + [setVideo](c-html5-aem-asset-viewers/c-html5-aem-video360/c-html5-aem-video360-javascriptapiref/r-html5-aem-video360-javascriptapiref-setvideo.md)
          + [Video360Viewer](c-html5-aem-asset-viewers/c-html5-aem-video360/c-html5-aem-video360-javascriptapiref/r-html5-aem-video360-javascriptapiref-video360viewer.md)
       + [Event callbacks](c-html5-aem-asset-viewers/c-html5-aem-video360/c-html5-aem-video360-event-callbacks.md)
