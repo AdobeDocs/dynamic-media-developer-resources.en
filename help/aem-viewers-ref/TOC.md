@@ -8,7 +8,7 @@ user-guide-title: Dynamic Media Viewers Reference Guide
 # Dynamic Media Viewers Reference Guide {#library}
 
 + [Dynamic Media Developer Resources Home](/help/landing/home.md)
-+ [Dynamic Media Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/home.html?lang=en)
++ [Dynamic Media Viewers Reference Guide](homeviewers.md)<!-- (https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/home.html?lang=en) -->
 + [Viewer library examples](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html)
 + [System requirements](c-system-requirements-and-prerequisites.md)
 + [Installing multiple viewers on the same server](t-installing-the-viewers.md)
