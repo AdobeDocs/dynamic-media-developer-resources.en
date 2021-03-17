@@ -11,7 +11,7 @@ index: y
 
 # Dynamic Media Developer Resources{#landing}
 
-+ [Home](/help/landing/home.md)
++ [Home](home.md)
 
 <!--This TOC may not be necessary. Not sure, so leaving it in.
 + [Viewers Reference Guide](/help/aem-viewers-ref/home.md)
