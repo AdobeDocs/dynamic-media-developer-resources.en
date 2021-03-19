@@ -4,8 +4,9 @@ seo-description: Used by ImageMap/shapeType and saveImageMapParam/shapType.
 seo-title: Region Shape
 solution: Experience Manager
 title: Region Shape
-topic: Dynamic Media Image Production System API
 uuid: ea879108-5277-479b-afa5-fa06328c61cd
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # Region Shape{#region-shape}

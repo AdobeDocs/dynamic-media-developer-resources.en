@@ -2,8 +2,9 @@
 description: ZoomView.frametransition
 solution: Experience Manager
 title: ZoomView.frametransition
-topic: Dynamic Media
 uuid: 28e283ca-51d8-4d6c-9b8a-d16da21f4da1
+feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
+role: Developer,Business Practitioner
 ---
 
 # ZoomView.frametransition{#zoomview-frametransition}

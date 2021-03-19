@@ -4,8 +4,9 @@ seo-description: If text is specified as the response format, the reply data is 
 seo-title: Text (Java) properties
 solution: Experience Manager
 title: Text (Java) properties
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 5dba4cf7-9172-4195-968e-9ef76c25e90c
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Text (Java) properties{#text-java-properties}

@@ -4,8 +4,9 @@ seo-description: Sets user attributes (e.g., name, email, role, etc.)
 seo-title: setUserInfo
 solution: Experience Manager
 title: setUserInfo
-topic: Dynamic Media Image Production System API
 uuid: 52e3a21e-1dd5-4f9d-b460-506d280fff47
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # setUserInfo{#setuserinfo}

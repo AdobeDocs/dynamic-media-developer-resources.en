@@ -4,8 +4,9 @@ seo-description: Detail message responding to one the URLs provided in the CDN i
 seo-title: OperationFault
 solution: Experience Manager
 title: OperationFault
-topic: Dynamic Media Image Production System API
 uuid: 879d025b-3269-4f87-b8bd-b7916509d077
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # OperationFault{#operationfault}

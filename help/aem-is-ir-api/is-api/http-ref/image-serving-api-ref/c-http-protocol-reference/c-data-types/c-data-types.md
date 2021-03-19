@@ -4,8 +4,9 @@ seo-description: This section described the variables used to specify data types
 seo-title: Data types
 solution: Experience Manager
 title: Data types
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 66617ade-82e9-4a7e-8c65-3067b75d7a31
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Data types{#data-types}

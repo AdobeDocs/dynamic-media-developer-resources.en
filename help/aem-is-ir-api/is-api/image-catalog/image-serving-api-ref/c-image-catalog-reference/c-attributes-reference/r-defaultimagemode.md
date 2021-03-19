@@ -4,8 +4,9 @@ seo-description: Default image mode. Selects how the default image is applied wh
 seo-title: DefaultImageMode
 solution: Experience Manager
 title: DefaultImageMode
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: e5640f09-e1e3-473b-8fbc-84c6bfce2460
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # DefaultImageMode{#defaultimagemode}

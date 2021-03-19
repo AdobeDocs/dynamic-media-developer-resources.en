@@ -4,8 +4,9 @@ seo-description: Some applications may require a different illumination map for 
 seo-title: Using multiple illumination maps
 solution: Experience Manager
 title: Using multiple illumination maps
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 24d86229-6e88-4fe2-80ef-30461aee3db5
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Using multiple illumination maps{#using-multiple-illumination-maps}

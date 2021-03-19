@@ -4,8 +4,9 @@ seo-description: A handle to an asset and the handle to where it will be moved.
 seo-title: AssetMove
 solution: Experience Manager
 title: AssetMove
-topic: Dynamic Media Image Production System API
 uuid: 71335886-efe7-4565-a088-769bcbe7abaf
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # AssetMove{#assetmove}

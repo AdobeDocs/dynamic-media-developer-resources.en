@@ -4,8 +4,9 @@ seo-description: Configuration attributes documentation for Carousel Viewer.
 seo-title: Command reference – Configuration attributes
 solution: Experience Manager
 title: Command reference – Configuration attributes
-topic: Dynamic Media
 uuid: 036af728-ab00-4db3-98cf-d16f1bffa064
+feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
+role: Developer,Business Practitioner
 ---
 
 # Command reference – Configuration attributes{#command-reference-configuration-attributes}

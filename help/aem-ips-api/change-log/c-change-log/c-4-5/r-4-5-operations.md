@@ -2,7 +2,8 @@
 description: Describes new and changed operations methods for the IPS API version 4.5.
 solution: Experience Manager
 title: Operations  New and Modified
-topic: Dynamic Media Image Production System API
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # Operations: New and Modified{#operations-new-and-modified}

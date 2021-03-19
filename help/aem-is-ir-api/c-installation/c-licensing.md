@@ -2,7 +2,8 @@
 description: To use Image Serving, a Dynamic Media Image Serving license key is required and must be installed on each system on which Image Serving is to be used.
 solution: Experience Manager
 title: Licensing
-topic: Dynamic Media Image Serving - Image Rendering API
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Licensing{#licensing}

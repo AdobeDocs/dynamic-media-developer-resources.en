@@ -4,8 +4,9 @@ seo-description: JavaScript API reference for Inline Zoom Viewer
 seo-title: getComponent
 solution: Experience Manager
 title: getComponent
-topic: Dynamic Media
 uuid: 75c01024-a734-415a-898a-f91b6bc6a580
+feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
+role: Developer,Business Practitioner
 ---
 
 # getComponent{#getcomponent}

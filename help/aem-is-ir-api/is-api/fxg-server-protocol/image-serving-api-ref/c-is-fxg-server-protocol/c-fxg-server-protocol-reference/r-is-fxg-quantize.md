@@ -4,8 +4,9 @@ seo-description: Color quantization. Specifies color-quantization attributes for
 seo-title: quantize
 solution: Experience Manager
 title: quantize
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 624cdc45-51f2-4b18-a658-311770974521
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # quantize{#quantize}

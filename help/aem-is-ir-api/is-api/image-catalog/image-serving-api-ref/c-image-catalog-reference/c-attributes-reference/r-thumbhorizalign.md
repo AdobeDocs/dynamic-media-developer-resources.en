@@ -4,8 +4,9 @@ seo-description: Horizontal alignment for thumbnails. Specifies the horizontal a
 seo-title: ThumbHorizAlign
 solution: Experience Manager
 title: ThumbHorizAlign
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 2fbe71e2-1227-415b-ad4c-0d0752f8f729
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # ThumbHorizAlign{#thumbhorizalign}

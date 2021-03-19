@@ -4,8 +4,9 @@ seo-description: Use this procedure when upgrading Dynamic Media Image Serving.
 seo-title: Updating from IS 4.7.4 or later
 solution: Experience Manager
 title: Updating from IS 4.7.4 or later
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 3d23f13a-a9be-45ff-9765-c71bdeb77c5f
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Updating from IS 4.7.4 or later{#updating-from-is-or-later}

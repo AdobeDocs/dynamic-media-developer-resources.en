@@ -4,8 +4,9 @@ seo-description: Gets assets associated with a specified asset and details about
 seo-title: getAssociatedAssets
 solution: Experience Manager
 title: getAssociatedAssets
-topic: Dynamic Media Image Production System API
 uuid: 70c2f8aa-9104-42b0-b85b-14f90f1ead52
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # getAssociatedAssets{#getassociatedassets}

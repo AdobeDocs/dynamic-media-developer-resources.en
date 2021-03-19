@@ -4,8 +4,9 @@ seo-description: Returns all folders and subfolders, starting at the folder path
 seo-title: getFolders
 solution: Experience Manager
 title: getFolders
-topic: Dynamic Media Image Production System API
 uuid: 06e9d745-b711-43e3-8dc6-93da66b981b1
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # getFolders{#getfolders}

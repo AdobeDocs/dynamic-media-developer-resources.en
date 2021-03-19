@@ -4,8 +4,9 @@ seo-description: Layer size. Specifies the size or maximum layer size for a laye
 seo-title: size
 solution: Experience Manager
 title: size
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: c9c13062-7974-4dd9-aff4-f9502bcf442e
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # size{#size}

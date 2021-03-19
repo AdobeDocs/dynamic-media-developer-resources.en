@@ -4,8 +4,9 @@ seo-description: Image Rendering provides a simple request pre-processor based o
 seo-title: Request pre-processing *
 solution: Experience Manager
 title: Request pre-processing *
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: ef69ea23-753c-40c8-9edd-eab9c8820c98
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Request pre-processing *{#request-pre-processing}

@@ -4,8 +4,9 @@ seo-description: Use the following special entities when formatting text.
 seo-title: Special text entities
 solution: Experience Manager
 title: Special text entities
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: efcc3962-7097-4395-8b9f-f37c6e7f5b75
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Special text entities{#special-text-entities}

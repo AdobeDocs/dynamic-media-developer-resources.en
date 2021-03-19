@@ -4,8 +4,9 @@ seo-description: View Background Color. Specifies the background color for the c
 seo-title: bgc
 solution: Experience Manager
 title: bgc
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 3ea8291e-3223-45ff-a2ad-43fc212eff90
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # bgc{#bgc}

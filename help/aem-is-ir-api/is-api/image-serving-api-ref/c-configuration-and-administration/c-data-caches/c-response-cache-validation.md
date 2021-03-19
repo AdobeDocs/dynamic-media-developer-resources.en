@@ -4,8 +4,9 @@ seo-description: Cache entries are refreshed automatically using either catalog-
 seo-title: Response cache validation
 solution: Experience Manager
 title: Response cache validation
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: d1aad5ae-f0fa-489b-a48b-b0ac8c8f43bb
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Response cache validation{#response-cache-validation}

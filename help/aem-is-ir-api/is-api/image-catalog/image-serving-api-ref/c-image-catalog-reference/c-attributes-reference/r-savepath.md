@@ -4,8 +4,9 @@ seo-description: Root path for saveToFile=. Relative path for the root folder to
 seo-title: SavePath
 solution: Experience Manager
 title: SavePath
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 02b88e83-7fee-40d4-95ea-daba9a608e8e
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # SavePath{#savepath}

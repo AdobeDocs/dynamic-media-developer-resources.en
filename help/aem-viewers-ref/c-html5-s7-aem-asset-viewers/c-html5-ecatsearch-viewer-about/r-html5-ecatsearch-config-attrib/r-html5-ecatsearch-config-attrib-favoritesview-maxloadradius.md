@@ -2,8 +2,9 @@
 description: FavoritesView.maxloadradius
 solution: Experience Manager
 title: FavoritesView.maxloadradius
-topic: Dynamic Media
 uuid: 0479c371-487a-4e05-b009-9036ea464abf
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # FavoritesView.maxloadradius{#favoritesview-maxloadradius}

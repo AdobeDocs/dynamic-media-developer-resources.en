@@ -4,8 +4,9 @@ seo-description: Retrieve summarized status of a submitted job.
 seo-title: batchjobbriefstatus
 solution: Experience Manager
 title: batchjobbriefstatus
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 601e8395-8a77-4324-9cd7-5fe321bc91e3
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # batchjobbriefstatus{#batchjobbriefstatus}

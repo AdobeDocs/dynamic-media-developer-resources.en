@@ -2,8 +2,9 @@
 description: SpinView.doubleclick
 solution: Experience Manager
 title: SpinView.doubleclick
-topic: Dynamic Media
 uuid: c1eef3d1-471e-41ef-b899-008d45b616d0
+feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
+role: Developer,Business Practitioner
 ---
 
 # SpinView.doubleclick{#spinview-doubleclick}

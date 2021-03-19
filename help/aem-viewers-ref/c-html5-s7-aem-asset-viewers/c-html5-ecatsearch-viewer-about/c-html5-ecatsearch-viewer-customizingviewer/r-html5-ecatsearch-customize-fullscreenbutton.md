@@ -4,8 +4,9 @@ seo-description: Causes the viewer to enter or exit full screen mode when clicke
 seo-title: Full screen button
 solution: Experience Manager
 title: Full screen button
-topic: Dynamic Media
 uuid: f3b4d5b5-56ec-4169-ba7d-92bdd51a9e83
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # Full screen button{#full-screen-button}

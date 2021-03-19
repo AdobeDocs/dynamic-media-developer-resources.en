@@ -4,8 +4,9 @@ seo-description: Rules container element. A valid rule set file contains one <ru
 seo-title: ruleset
 solution: Experience Manager
 title: ruleset
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: ea44d7e6-8d82-41bb-a3b7-ec413c31afe0
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # ruleset{#ruleset}

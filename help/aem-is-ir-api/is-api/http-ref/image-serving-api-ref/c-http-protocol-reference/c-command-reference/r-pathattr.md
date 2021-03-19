@@ -4,8 +4,9 @@ seo-description: Text-on-path attributes.
 seo-title: pathAttr
 solution: Experience Manager
 title: pathAttr
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: b0ca5821-ee08-4c18-919d-775b75f19acd
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # pathAttr{#pathattr}

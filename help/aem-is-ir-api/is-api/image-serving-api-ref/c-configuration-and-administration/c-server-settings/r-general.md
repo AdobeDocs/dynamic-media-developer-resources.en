@@ -4,8 +4,9 @@ seo-description: General Server Settings
 seo-title: General
 solution: Experience Manager
 title: General
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: d7ec3dba-64b8-431b-b446-84ab6139ba8a
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # General{#general}

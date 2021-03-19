@@ -4,8 +4,9 @@ seo-description: An array of metadata updates.
 seo-title: MetadataUpdateArray
 solution: Experience Manager
 title: MetadataUpdateArray
-topic: Dynamic Media Image Production System API
 uuid: 2d79e7a0-b8bd-4746-a5d7-b742913ebc20
+feature: Dynamic Media Classic,SDK/API,Metadata
+role: Developer,Administrator
 ---
 
 # MetadataUpdateArray{#metadataupdatearray}

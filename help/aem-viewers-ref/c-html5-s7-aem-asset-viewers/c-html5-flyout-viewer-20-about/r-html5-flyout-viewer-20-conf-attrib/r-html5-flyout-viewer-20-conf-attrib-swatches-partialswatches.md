@@ -2,8 +2,9 @@
 description: Swatches.partialswatches
 solution: Experience Manager
 title: Swatches.partialswatches
-topic: Dynamic Media
 uuid: 5b15b367-a643-4a4a-9ed5-91c1da3169be
+feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
+role: Developer,Business Practitioner
 ---
 
 # Swatches.partialswatches{#swatches-partialswatches}

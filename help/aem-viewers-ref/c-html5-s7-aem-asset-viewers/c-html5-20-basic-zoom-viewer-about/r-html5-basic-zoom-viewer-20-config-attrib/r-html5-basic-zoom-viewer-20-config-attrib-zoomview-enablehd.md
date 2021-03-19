@@ -2,8 +2,9 @@
 description: ZoomView.enableHD
 solution: Experience Manager
 title: ZoomView.enableHD
-topic: Dynamic Media
 uuid: 1ee3789d-a3eb-42f7-a0f4-71f62a54cab9
+feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
+role: Developer,Business Practitioner
 ---
 
 # ZoomView.enableHD{#zoomview-enablehd}

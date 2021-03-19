@@ -4,8 +4,9 @@ seo-description: The viewer displays Favorites icons over the main view in place
 seo-title: Favorites effect
 solution: Experience Manager
 title: Favorites effect
-topic: Dynamic Media
 uuid: b660b9fd-592b-4072-83c9-f70330ee19ab
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
+role: Developer,Business Practitioner
 ---
 
 # Favorites effect{#favorites-effect}

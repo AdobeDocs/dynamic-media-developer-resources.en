@@ -4,8 +4,9 @@ seo-description: URL command for Interactive Video Viewer.
 seo-title: caption
 solution: Experience Manager
 title: caption
-topic: Dynamic Media
 uuid: 602c8f64-e018-4916-8141-09b36003a99d
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
+role: Developer,Business Practitioner
 ---
 
 # caption{#caption}

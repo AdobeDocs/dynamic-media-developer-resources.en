@@ -4,8 +4,9 @@ seo-description: This section describes the static content data attributes.
 seo-title: Static content data reference
 solution: Experience Manager
 title: Static content data reference
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 1e8af0a9-bc08-4e7f-bab2-344ec644e873
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Static content data reference{#static-content-data-reference}

@@ -4,8 +4,9 @@ seo-description: $var$ references may occur anywhere within the curly braces of 
 seo-title: Variable processing in nested requests
 solution: Experience Manager
 title: Variable processing in nested requests
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 2f3fefac-d45e-4c53-854f-1fe16d0cedd9
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Variable processing in nested requests{#variable-processing-in-nested-requests}

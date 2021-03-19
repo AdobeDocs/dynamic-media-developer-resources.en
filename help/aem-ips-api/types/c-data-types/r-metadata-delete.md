@@ -4,8 +4,9 @@ seo-description: Metadata to delete from the asset.
 seo-title: MetadataDelete
 solution: Experience Manager
 title: MetadataDelete
-topic: Dynamic Media Image Production System API
 uuid: 7bd80931-4b7a-4a70-a505-b351653549af
+feature: Dynamic Media Classic,SDK/API,Metadata
+role: Developer,Administrator
 ---
 
 # MetadataDelete{#metadatadelete}

@@ -4,8 +4,9 @@ seo-description: Experienced programmers and website developers who want to leve
 seo-title: Intended audience
 solution: Experience Manager
 title: Intended audience
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 610fe9a9-897d-4e20-8879-334587c54a5b
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Intended audience{#intended-audience}

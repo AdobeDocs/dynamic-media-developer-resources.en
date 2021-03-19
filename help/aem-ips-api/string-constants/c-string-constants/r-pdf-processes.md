@@ -4,8 +4,9 @@ seo-description: Used by PDFOptions/type.
 seo-title: PDF Processes
 solution: Experience Manager
 title: PDF Processes
-topic: Dynamic Media Image Production System API
 uuid: 50c93577-bdf3-4b29-9722-408379d90433
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # PDF Processes{#pdf-processes}

@@ -4,8 +4,9 @@ seo-description: Configuration attributes documentation for Spin Viewer.
 seo-title: Command reference – Configuration attributes
 solution: Experience Manager
 title: Command reference – Configuration attributes
-topic: Dynamic Media
 uuid: ba60da44-d30d-459f-b3d8-5cf3ea4bcbdb
+feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
+role: Developer,Business Practitioner
 ---
 
 # Command reference – Configuration attributes{#command-reference-configuration-attributes}

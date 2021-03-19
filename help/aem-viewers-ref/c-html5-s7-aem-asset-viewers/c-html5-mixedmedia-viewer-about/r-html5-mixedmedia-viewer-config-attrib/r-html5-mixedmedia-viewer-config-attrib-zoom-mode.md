@@ -4,8 +4,9 @@ seo-description: Sets the type of zoom interaction.
 seo-title: zoomMode
 solution: Experience Manager
 title: zoomMode
-topic: Dynamic Media
 uuid: fdbe7ab6-47db-46cf-8a0d-085c66d4b0f8
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # zoomMode{#zoommode}

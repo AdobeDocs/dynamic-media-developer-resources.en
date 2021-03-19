@@ -4,8 +4,9 @@ seo-description: Postfix request modifier string. None or more Image Serving com
 seo-title: PostModifier
 solution: Experience Manager
 title: PostModifier
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 8800a9b2-e9c0-498b-b4e1-37952ba7c842
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # PostModifier{#postmodifier}

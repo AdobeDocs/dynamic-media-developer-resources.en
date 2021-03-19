@@ -4,8 +4,9 @@ seo-description: PostScript file properties.
 seo-title: GenerationInfo
 solution: Experience Manager
 title: GenerationInfo
-topic: Dynamic Media Image Production System API
 uuid: 166637e5-b981-4f64-8d92-5fce4f1b20d2
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # GenerationInfo{#generationinfo}

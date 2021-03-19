@@ -4,8 +4,9 @@ seo-description: Image (default). Requests standard image data.
 seo-title: img
 solution: Experience Manager
 title: img
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 4809f916-0ccf-4a24-a93b-c51ed6203061
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # img{#img}

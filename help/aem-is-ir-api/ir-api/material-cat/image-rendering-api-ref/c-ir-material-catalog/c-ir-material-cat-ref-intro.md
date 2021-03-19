@@ -4,8 +4,9 @@ seo-description: This document describes the material catalog for Dynamic Media 
 seo-title: Introduction
 solution: Experience Manager
 title: Introduction
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 38da0561-7730-4170-bf29-02de325b3ad9
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Introduction{#introduction}

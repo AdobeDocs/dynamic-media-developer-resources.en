@@ -4,8 +4,9 @@ seo-description: Advanced render settings. Specifies an advanced render settings
 seo-title: rs
 solution: Experience Manager
 title: rs
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 4ff7fcb4-a10a-4e82-80a1-edf79ae1f717
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # rs{#rs}

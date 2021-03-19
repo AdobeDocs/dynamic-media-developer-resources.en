@@ -4,8 +4,9 @@ seo-description: Returns 2 different types of information based on the parameter
 seo-title: getGenerationInfo
 solution: Experience Manager
 title: getGenerationInfo
-topic: Dynamic Media Image Production System API
 uuid: 4310a702-c08b-4479-9f57-9f2bc1d6b032
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # getGenerationInfo{#getgenerationinfo}

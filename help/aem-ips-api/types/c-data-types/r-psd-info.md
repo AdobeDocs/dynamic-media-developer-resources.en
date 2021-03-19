@@ -4,8 +4,9 @@ seo-description: Photoshop file properties.
 seo-title: PsdInfo
 solution: Experience Manager
 title: PsdInfo
-topic: Dynamic Media Image Production System API
 uuid: 0512f996-ddeb-4c3c-a2e8-bef59ea99f9c
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # PsdInfo{#psdinfo}

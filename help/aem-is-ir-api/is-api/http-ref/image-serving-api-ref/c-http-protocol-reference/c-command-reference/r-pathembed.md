@@ -4,8 +4,9 @@ seo-description: Embed paths data. Specifies whether Photoshop paths from the la
 seo-title: pathEmbed
 solution: Experience Manager
 title: pathEmbed
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 93e63c7c-c091-4bb1-baff-45706fd611ea
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # pathEmbed{#pathembed}

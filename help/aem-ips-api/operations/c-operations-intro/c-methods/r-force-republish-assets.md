@@ -4,8 +4,9 @@ seo-description: Resets the publish status for one or more assets to force the a
 seo-title: forceRepublishAssets
 solution: Experience Manager
 title: forceRepublishAssets
-topic: Dynamic Media Image Production System API
 uuid: fd1f4ece-075c-40e3-868a-f27b9a4c3374
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # forceRepublishAssets{#forcerepublishassets}

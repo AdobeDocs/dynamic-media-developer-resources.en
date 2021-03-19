@@ -4,8 +4,9 @@ seo-description: Used by SystemFieldCondition/op and MetadataCondition/op.
 seo-title: String Comparison Operators
 solution: Experience Manager
 title: String Comparison Operators
-topic: Dynamic Media Image Production System API
 uuid: 980c3225-cf1d-43b5-8d99-83af8f0c82dd
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # String Comparison Operators{#string-comparison-operators}

@@ -2,7 +2,8 @@
 description: Describes new and changed data types for the IPS API version 4.4.
 solution: Experience Manager
 title: String Constants  New and Modified
-topic: Dynamic Media Image Production System API
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # String Constants: New and Modified{#string-constants-new-and-modified}

@@ -4,8 +4,9 @@ seo-description: Render scene asset properties.
 seo-title: RenderSceneInfo
 solution: Experience Manager
 title: RenderSceneInfo
-topic: Dynamic Media Image Production System API
 uuid: 1b93713e-9da0-441b-9ee0-434a405284c2
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # RenderSceneInfo{#rendersceneinfo}

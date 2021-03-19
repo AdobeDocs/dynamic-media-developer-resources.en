@@ -4,8 +4,9 @@ seo-description: Pick selection error handling. Specifies the action to be taken
 seo-title: OnFailSel
 solution: Experience Manager
 title: OnFailSel
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 073b6651-970c-460c-b044-e3ef37cc677a
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # OnFailSel{#onfailsel}

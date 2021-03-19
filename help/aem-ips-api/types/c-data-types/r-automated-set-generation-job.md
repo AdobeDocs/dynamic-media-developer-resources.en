@@ -4,8 +4,9 @@ seo-description: Group files into sets using an asset handle list array.
 seo-title: AutomatedSetGenerationJob
 solution: Experience Manager
 title: AutomatedSetGenerationJob
-topic: Dynamic Media Image Production System API
 uuid: 9c664bde-a731-4d6b-ae6b-c862bda02d4c
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # AutomatedSetGenerationJob{#automatedsetgenerationjob}

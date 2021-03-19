@@ -4,8 +4,9 @@ seo-description: Lets administrators create new metadata fields to coordinate wi
 seo-title: createMetadataField
 solution: Experience Manager
 title: createMetadataField
-topic: Dynamic Media Image Production System API
 uuid: 50ab61fa-df44-4305-ad9f-693c4aea1e69
+feature: Dynamic Media Classic,SDK/API,Metadata
+role: Developer,Administrator
 ---
 
 # createMetadataField{#createmetadatafield}

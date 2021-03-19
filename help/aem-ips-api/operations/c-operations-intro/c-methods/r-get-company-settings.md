@@ -4,8 +4,9 @@ seo-description: Returns IPS settings for a specific company.
 seo-title: getCompanySettings
 solution: Experience Manager
 title: getCompanySettings
-topic: Dynamic Media Image Production System API
 uuid: 28ee706d-aaef-45a1-9655-3805f158cdc3
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # getCompanySettings{#getcompanysettings}

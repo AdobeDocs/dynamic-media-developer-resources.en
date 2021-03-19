@@ -4,8 +4,9 @@ seo-description: Catalog attribute files recognize these video attributes.
 seo-title: Video attributes
 solution: Experience Manager
 title: Video attributes
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 7fb5edce-f88a-4eec-b314-070445f263b1
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Video attributes{#video-attributes}

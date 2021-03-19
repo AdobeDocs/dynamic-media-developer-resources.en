@@ -2,7 +2,8 @@
 description: Describes new and changed data types for the IPS API version 3.7.
 solution: Experience Manager
 title: Data Types  New and Modified
-topic: Dynamic Media Image Production System API
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # Data Types: New and Modified{#data-types-new-and-modified}

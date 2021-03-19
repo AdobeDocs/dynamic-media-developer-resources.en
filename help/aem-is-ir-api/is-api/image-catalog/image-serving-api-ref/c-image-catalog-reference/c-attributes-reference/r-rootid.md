@@ -4,8 +4,9 @@ seo-description: Catalog identifier. The HTTP path element to be used to identif
 seo-title: RootId
 solution: Experience Manager
 title: RootId
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 98cece72-487f-4a0d-ad6f-018b656f0f03
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # RootId{#rootid}

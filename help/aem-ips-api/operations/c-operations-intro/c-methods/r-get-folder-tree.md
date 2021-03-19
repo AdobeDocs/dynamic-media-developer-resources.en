@@ -4,8 +4,9 @@ seo-description: Returns folders and subfolders in a hierarchical tree structure
 seo-title: getFolderTree
 solution: Experience Manager
 title: getFolderTree
-topic: Dynamic Media Image Production System API
 uuid: 93fda0d6-c656-4254-b07b-7a448e164f28
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # getFolderTree{#getfoldertree}

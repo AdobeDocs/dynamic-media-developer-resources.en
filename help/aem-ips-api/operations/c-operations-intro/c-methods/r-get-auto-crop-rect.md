@@ -4,8 +4,9 @@ seo-description: Returns a cropped region for an image based on its background c
 seo-title: getAutoCropRect
 solution: Experience Manager
 title: getAutoCropRect
-topic: Dynamic Media Image Production System API
 uuid: bb00d89a-5fc4-476f-aa47-3cf69ef99afe
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # getAutoCropRect{#getautocroprect}

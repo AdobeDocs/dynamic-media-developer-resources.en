@@ -4,8 +4,9 @@ seo-description: Rule set definitions file path. Specifies the file which contai
 seo-title: RuleSetFile
 solution: Experience Manager
 title: RuleSetFile
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 9393e197-450a-4b7d-90ad-a6ea0204ee26
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # RuleSetFile{#rulesetfile}

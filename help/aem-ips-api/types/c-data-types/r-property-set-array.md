@@ -4,8 +4,9 @@ seo-description: An array of property sets.
 seo-title: PropertySetArray
 solution: Experience Manager
 title: PropertySetArray
-topic: Dynamic Media Image Production System API
 uuid: 8180128a-6c63-4643-a152-42856460e1af
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # PropertySetArray{#propertysetarray}

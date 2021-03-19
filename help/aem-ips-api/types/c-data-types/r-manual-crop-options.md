@@ -4,8 +4,9 @@ seo-description: Manual crop options for images.
 seo-title: ManualCropOptions
 solution: Experience Manager
 title: ManualCropOptions
-topic: Dynamic Media Image Production System API
 uuid: ac3710d9-14b0-4e2f-90a5-f66fe37851ab
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # ManualCropOptions{#manualcropoptions}

@@ -2,7 +2,8 @@
 description: Adds a company to the system.
 solution: Experience Manager
 title: addCompany
-topic: Dynamic Media Image Production System API
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # addCompany{#addcompany}

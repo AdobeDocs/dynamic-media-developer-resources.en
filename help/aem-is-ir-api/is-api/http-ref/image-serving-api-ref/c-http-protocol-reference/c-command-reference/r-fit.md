@@ -4,8 +4,9 @@ seo-description: Response Image Fit Mode. Specifies how the scale factor is calc
 seo-title: fit
 solution: Experience Manager
 title: fit
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 669fe757-f3a1-4cd4-b46c-6fbe5a039ce0
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # fit{#fit}

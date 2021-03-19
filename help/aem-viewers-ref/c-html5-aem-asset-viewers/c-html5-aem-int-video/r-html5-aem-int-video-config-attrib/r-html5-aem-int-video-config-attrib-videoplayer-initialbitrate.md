@@ -4,8 +4,9 @@ seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: VideoPlayer.initialbitrate
 solution: Experience Manager
 title: VideoPlayer.initialbitrate
-topic: Dynamic Media
 uuid: 251ab7d2-a0b5-4658-a2b8-6b39dd93dd5b
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
+role: Developer,Business Practitioner
 ---
 
 # VideoPlayer.initialbitrate{#videoplayer-initialbitrate}

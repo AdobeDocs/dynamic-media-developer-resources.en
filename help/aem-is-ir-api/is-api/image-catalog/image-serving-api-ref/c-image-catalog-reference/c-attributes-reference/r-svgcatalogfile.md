@@ -4,8 +4,9 @@ seo-description: SVG data file paths. Specifies the files containing the SVG dat
 seo-title: SvgCatalogFile
 solution: Experience Manager
 title: SvgCatalogFile
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: f0c8e687-77cc-4ca7-b2c2-6ba8960e11e6
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # SvgCatalogFile{#svgcatalogfile}

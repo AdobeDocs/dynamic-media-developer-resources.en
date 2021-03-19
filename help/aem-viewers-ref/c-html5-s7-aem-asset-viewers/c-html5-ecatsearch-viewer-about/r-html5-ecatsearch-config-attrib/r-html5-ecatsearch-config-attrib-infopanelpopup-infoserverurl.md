@@ -2,7 +2,8 @@
 description: InfoPanelPopup.infoServerUrl
 solution: Experience Manager
 title: InfoPanelPopup.infoServerUrl
-topic: Dynamic Media
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # InfoPanelPopup.infoServerUrl{#infopanelpopup-infoserverurl}

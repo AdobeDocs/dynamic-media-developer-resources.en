@@ -4,8 +4,9 @@ seo-description: JavaScript API reference for Carousel Viewer.
 seo-title: setLocalizedTexts
 solution: Experience Manager
 title: setLocalizedTexts
-topic: Dynamic Media
 uuid: f69d3232-dd7c-41b5-87a0-146b8fb1bdb1
+feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
+role: Developer,Business Practitioner
 ---
 
 # setLocalizedTexts{#setlocalizedtexts}

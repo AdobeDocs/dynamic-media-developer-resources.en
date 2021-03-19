@@ -4,8 +4,9 @@ seo-description: JavaScript API reference for Video360 Viewer
 seo-title: setVideo
 solution: Experience Manager
 title: setVideo
-topic: Dynamic Media
 uuid: 749aa32c-c27f-476c-954b-d4524528bccc
+feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
+role: Developer,Business Practitioner
 ---
 
 # setVideo{#setvideo}

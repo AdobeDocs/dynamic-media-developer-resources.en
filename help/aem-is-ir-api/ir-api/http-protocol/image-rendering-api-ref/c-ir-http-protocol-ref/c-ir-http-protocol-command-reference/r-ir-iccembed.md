@@ -4,8 +4,9 @@ seo-description: Embed ICC Profile. Specifies whether the working ICC color prof
 seo-title: iccEmbed
 solution: Experience Manager
 title: iccEmbed
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: a53580f4-86bc-4dbf-87ee-8829091b6381
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # iccEmbed{#iccembed}

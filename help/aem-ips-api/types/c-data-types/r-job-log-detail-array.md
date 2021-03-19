@@ -4,8 +4,9 @@ seo-description: Array of job log details.
 seo-title: JobLogDetailArray
 solution: Experience Manager
 title: JobLogDetailArray
-topic: Dynamic Media Image Production System API
 uuid: 83b499df-2b0c-43a8-986a-6d728e41655f
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # JobLogDetailArray{#joblogdetailarray}

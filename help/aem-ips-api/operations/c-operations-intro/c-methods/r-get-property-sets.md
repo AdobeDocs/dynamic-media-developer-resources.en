@@ -4,8 +4,9 @@ seo-description: Gets property sets associated with a type handle.
 seo-title: getPropertySets
 solution: Experience Manager
 title: getPropertySets
-topic: Dynamic Media Image Production System API
 uuid: fa3cadb3-92b3-4ffb-ac1e-87a01b98bcb2
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # getPropertySets{#getpropertysets}

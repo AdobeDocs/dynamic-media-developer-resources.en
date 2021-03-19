@@ -4,8 +4,9 @@ seo-description: RGB default output color profile. Specifies the name of the ICC
 seo-title: IccProfileRgb
 solution: Experience Manager
 title: IccProfileRgb
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 0fe63607-c328-468a-aa55-0c4d16cf9f0f
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # IccProfileRgb{#iccprofilergb}

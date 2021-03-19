@@ -4,8 +4,9 @@ seo-description: Hide overlap object. Hides all overlap objects or window coveri
 seo-title: hide
 solution: Experience Manager
 title: hide
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 15c01750-958a-497d-a999-cacf359bb985
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # hide{#hide}

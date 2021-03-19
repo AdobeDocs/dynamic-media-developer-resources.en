@@ -4,8 +4,9 @@ seo-description: Scale view. Scales the composite image by the inverse of invFac
 seo-title: scl
 solution: Experience Manager
 title: scl
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 10a365dc-9fc1-4236-9528-4aca04a4ca19
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # scl{#scl}

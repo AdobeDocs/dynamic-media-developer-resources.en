@@ -4,8 +4,9 @@ seo-description: User data. The server returns the contents of this field to the
 seo-title: UserData *
 solution: Experience Manager
 title: UserData *
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: ed4dfc19-8923-4e99-aa07-b6a9fab4eded
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # UserData *{#userdata}

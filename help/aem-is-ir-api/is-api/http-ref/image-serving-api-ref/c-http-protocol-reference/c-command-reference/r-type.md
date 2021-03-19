@@ -4,8 +4,9 @@ seo-description: Static content type filter. Specifies a filter string for stati
 seo-title: type
 solution: Experience Manager
 title: type
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 44906190-516c-481c-9714-bb19d77af33c
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # type{#type}

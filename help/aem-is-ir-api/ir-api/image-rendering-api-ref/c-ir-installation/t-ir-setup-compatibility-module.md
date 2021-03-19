@@ -4,8 +4,9 @@ seo-description: You must set up and configure the IR 3.x compatibility module.
 seo-title: Setup and configure IR 3.x compatibility module
 solution: Experience Manager
 title: Setup and configure IR 3.x compatibility module
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 609a6ac9-1a4e-4cca-ab08-aa0f957b0e31
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Setup and configure IR 3.x compatibility module{#setup-and-configure-ir-x-compatibility-module}

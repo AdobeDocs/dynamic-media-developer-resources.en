@@ -4,8 +4,9 @@ seo-description: Compositing template. Allows specifying a compositing template 
 seo-title: template
 solution: Experience Manager
 title: template
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 59b37d60-1d0c-4d0b-a5a0-98d8bf9e9064
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # template{#template}

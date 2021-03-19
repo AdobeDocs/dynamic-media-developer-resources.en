@@ -4,8 +4,9 @@ seo-description: Macro name.
 seo-title: Name
 solution: Experience Manager
 title: Name
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 3db05758-b013-47f1-b94b-8b594429581d
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Name{#name}

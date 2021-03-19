@@ -4,8 +4,9 @@ seo-description: These commands apply to text layers, in addition to the common 
 seo-title: Text layer commands
 solution: Experience Manager
 title: Text layer commands
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 00d2643c-1a74-4542-bd72-e6dc22d402b0
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Text layer commands{#text-layer-commands}

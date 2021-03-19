@@ -4,8 +4,9 @@ seo-description: The Image Serving API Guide contains information about setting 
 seo-title: Image Serving API
 solution: Experience Manager
 title: Image Serving API
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: a90088a8-94f4-4e36-aaa2-03c07e8522b0
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Image Serving API{#image-serving-api}

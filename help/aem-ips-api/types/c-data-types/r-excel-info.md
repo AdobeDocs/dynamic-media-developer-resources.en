@@ -4,8 +4,9 @@ seo-description: Properties of a Microsoft Excel file.
 seo-title: ExcelInfo
 solution: Experience Manager
 title: ExcelInfo
-topic: Dynamic Media Image Production System API
 uuid: 27c11719-ac8f-43b2-a08a-cb46f47b8006
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # ExcelInfo{#excelinfo}

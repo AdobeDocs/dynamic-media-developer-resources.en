@@ -2,8 +2,9 @@
 description: PageView.pageturnstyle
 solution: Experience Manager
 title: PageView.pageturnstyle
-topic: Dynamic Media
 uuid: 748adb73-bfb6-4fce-aa6a-4216184edabb
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # PageView.pageturnstyle{#pageview-pageturnstyle}

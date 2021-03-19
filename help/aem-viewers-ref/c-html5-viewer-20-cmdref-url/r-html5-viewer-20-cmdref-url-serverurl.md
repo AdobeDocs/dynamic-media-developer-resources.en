@@ -4,8 +4,9 @@ seo-description: Parameter common to all viewers.
 seo-title: serverUrl
 solution: Experience Manager
 title: serverUrl
-topic: Dynamic Media
 uuid: a079a223-7478-4b6a-bc99-284e3366fb30
+feature: Dynamic Media Classic,Viewers,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # serverUrl{#serverurl}

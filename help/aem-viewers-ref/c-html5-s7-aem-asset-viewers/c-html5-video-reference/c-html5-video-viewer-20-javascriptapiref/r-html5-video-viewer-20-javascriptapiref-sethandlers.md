@@ -4,8 +4,9 @@ seo-description: JavaScript API reference for Video Viewer.
 seo-title: setHandlers
 solution: Experience Manager
 title: setHandlers
-topic: Dynamic Media
 uuid: 02535997-521f-420f-af0b-5c8ec0fe0876
+feature: Dynamic Media Classic,Viewers,SDK/API,Video
+role: Developer,Business Practitioner
 ---
 
 # setHandlers{#sethandlers}

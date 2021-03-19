@@ -4,8 +4,9 @@ seo-description: Describes values used by various input parameters. See the list
 seo-title: Asset Types
 solution: Experience Manager
 title: Asset Types
-topic: Dynamic Media Image Production System API
 uuid: 932bae5a-1e5f-493a-a6fa-5c367c632f97
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # Asset Types{#asset-types}

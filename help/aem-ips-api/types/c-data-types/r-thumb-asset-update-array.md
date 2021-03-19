@@ -4,8 +4,9 @@ seo-description: An metadata updates for thumb assets.
 seo-title: ThumbAssetUpdateArray
 solution: Experience Manager
 title: ThumbAssetUpdateArray
-topic: Dynamic Media Image Production System API
 uuid: 43b96b01-3a88-48cc-b653-262c9fb798a5
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # ThumbAssetUpdateArray{#thumbassetupdatearray}

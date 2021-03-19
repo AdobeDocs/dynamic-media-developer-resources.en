@@ -2,8 +2,9 @@
 description: Event callbacks
 solution: Experience Manager
 title: Event callbacks
-topic: Dynamic Media
 uuid: 7280a391-3ead-470b-89e9-5faa082e0202
+feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
+role: Developer,Business Practitioner
 ---
 
 # Event callbacks{#event-callbacks}

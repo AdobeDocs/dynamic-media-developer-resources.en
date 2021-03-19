@@ -2,8 +2,9 @@
 description: Event callbacks
 solution: Experience Manager
 title: Event callbacks
-topic: Dynamic Media
 uuid: c347f178-254e-45da-b06d-394098064693
+feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
+role: Developer,Business Practitioner
 ---
 
 # Event callbacks{#event-callbacks}

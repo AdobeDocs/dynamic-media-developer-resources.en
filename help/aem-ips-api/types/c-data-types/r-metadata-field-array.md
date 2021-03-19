@@ -4,8 +4,9 @@ seo-description: An array of metadata fields
 seo-title: MetadataFieldArray
 solution: Experience Manager
 title: MetadataFieldArray
-topic: Dynamic Media Image Production System API
 uuid: f4cec7ce-2254-4e98-8202-9309e7dc3079
+feature: Dynamic Media Classic,SDK/API,Metadata
+role: Developer,Administrator
 ---
 
 # MetadataFieldArray{#metadatafieldarray}

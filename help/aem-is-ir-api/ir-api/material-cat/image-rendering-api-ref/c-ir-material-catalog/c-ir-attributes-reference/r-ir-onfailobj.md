@@ -4,8 +4,9 @@ seo-description: Object selection error handling. Specifies the action to be tak
 seo-title: OnFailObj
 solution: Experience Manager
 title: OnFailObj
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: b9dcaf29-ffa5-47db-9c8c-d1809da73582
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # OnFailObj{#onfailobj}

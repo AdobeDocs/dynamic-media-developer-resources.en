@@ -4,8 +4,9 @@ seo-description: Tile grout color and thickness. Simulates grout for ceramic and
 seo-title: grout
 solution: Experience Manager
 title: grout
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 00069004-40f2-4ab6-85d8-ca197b7bef69
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # grout{#grout}

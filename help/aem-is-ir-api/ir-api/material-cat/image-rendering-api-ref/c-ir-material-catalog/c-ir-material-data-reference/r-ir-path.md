@@ -4,8 +4,9 @@ seo-description: Image file path. Relative path and name of a texture or decal i
 seo-title: Path *
 solution: Experience Manager
 title: Path *
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 9e85a358-3f2f-4b8b-a98f-03de2a1a8a4c
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Path *{#path}

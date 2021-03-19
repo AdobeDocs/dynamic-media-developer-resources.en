@@ -4,8 +4,9 @@ seo-description: Error message detail. Specifies the level of detail for error m
 seo-title: ErrorDetail
 solution: Experience Manager
 title: ErrorDetail
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: aab11640-95d7-427d-b79f-c477b2c9047e
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # ErrorDetail{#errordetail}

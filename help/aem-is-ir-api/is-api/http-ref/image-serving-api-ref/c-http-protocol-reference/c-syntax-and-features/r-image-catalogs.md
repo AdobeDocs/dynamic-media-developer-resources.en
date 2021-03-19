@@ -4,8 +4,9 @@ seo-description: The features and syntax of image catalogs are described in this
 seo-title: Image catalogs
 solution: Experience Manager
 title: Image catalogs
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: d329807a-22b0-42a3-9297-8dad7a1dce43
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Image catalogs{#image-catalogs}

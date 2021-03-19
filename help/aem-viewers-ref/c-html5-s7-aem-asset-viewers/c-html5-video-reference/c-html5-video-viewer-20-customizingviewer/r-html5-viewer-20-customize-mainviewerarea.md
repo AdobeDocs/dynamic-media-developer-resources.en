@@ -4,8 +4,9 @@ seo-description: The main view area is occupied by the video. It usually sets to
 seo-title: Main viewer area
 solution: Experience Manager
 title: Main viewer area
-topic: Dynamic Media
 uuid: f395b22d-55b8-4422-9aa4-9dd4b7a24063
+feature: Dynamic Media Classic,Viewers,SDK/API,Video
+role: Developer,Business Practitioner
 ---
 
 # Main viewer area{#main-viewer-area}

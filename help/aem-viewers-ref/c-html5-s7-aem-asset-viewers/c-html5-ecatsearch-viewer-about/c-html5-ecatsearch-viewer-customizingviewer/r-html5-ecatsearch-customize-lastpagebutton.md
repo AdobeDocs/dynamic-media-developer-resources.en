@@ -4,8 +4,9 @@ seo-description: Clicking or tapping on this button brings the user to the last 
 seo-title: Last page button
 solution: Experience Manager
 title: Last page button
-topic: Dynamic Media
 uuid: 4cdcd2b7-a6d3-48c0-ba65-5339d232a954
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # Last page button{#last-page-button}

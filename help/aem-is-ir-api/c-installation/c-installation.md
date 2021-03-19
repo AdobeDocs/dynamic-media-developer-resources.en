@@ -4,8 +4,9 @@ seo-description: You must install Image Serving before you can use it.
 seo-title: Installation
 solution: Experience Manager
 title: Installation
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 19e9599e-800b-4c22-9325-fc47b9e5e19a
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Installation{#installation}

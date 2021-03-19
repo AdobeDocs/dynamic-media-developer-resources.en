@@ -4,8 +4,9 @@ seo-description: Jpeg quality. Specifies JPEG encoding attributes to control the
 seo-title: qlt
 solution: Experience Manager
 title: qlt
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 46f5b0da-7fe7-4daf-947b-bb5f5f5f5e6d
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # qlt{#qlt}

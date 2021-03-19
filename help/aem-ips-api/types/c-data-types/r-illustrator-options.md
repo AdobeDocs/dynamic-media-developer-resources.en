@@ -4,8 +4,9 @@ seo-description: Options for an Adobe Illustrator file.
 seo-title: IllustratorOptions
 solution: Experience Manager
 title: IllustratorOptions
-topic: Dynamic Media Image Production System API
 uuid: 87b38464-33db-4512-aa16-607b96a40673
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # IllustratorOptions{#illustratoroptions}

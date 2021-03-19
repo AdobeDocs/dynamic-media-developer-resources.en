@@ -4,8 +4,9 @@ seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: CallToAction.maxloadradius
 solution: Experience Manager
 title: CallToAction.maxloadradius
-topic: Dynamic Media
 uuid: ec5a4b0d-1dae-456f-a9da-91541cfba1a7
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
+role: Developer,Business Practitioner
 ---
 
 # CallToAction.maxloadradius{#calltoaction-maxloadradius}

@@ -4,8 +4,9 @@ seo-description: This section contains solutions to problems that have occasiona
 seo-title: Troubleshooting
 solution: Experience Manager
 title: Troubleshooting
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 39fdaf86-004b-4553-bde0-0367f3ef76b8
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Troubleshooting{#troubleshooting}

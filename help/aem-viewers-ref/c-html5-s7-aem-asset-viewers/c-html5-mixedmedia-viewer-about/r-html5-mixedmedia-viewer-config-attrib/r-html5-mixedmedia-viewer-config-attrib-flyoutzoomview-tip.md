@@ -2,8 +2,9 @@
 description: FlyoutZoomView.tip
 solution: Experience Manager
 title: FlyoutZoomView.tip
-topic: Dynamic Media
 uuid: 16a0ca99-1ed5-4f1d-b068-55adc46fde0b
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # FlyoutZoomView.tip{#flyoutzoomview-tip}

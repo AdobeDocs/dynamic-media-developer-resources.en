@@ -4,8 +4,9 @@ seo-description: Publishes files to the image servers.
 seo-title: ImageServingPublishJob
 solution: Experience Manager
 title: ImageServingPublishJob
-topic: Dynamic Media Image Production System API
 uuid: ab207299-ecb8-4acc-a5b3-b7553149b7b8
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # ImageServingPublishJob{#imageservingpublishjob}

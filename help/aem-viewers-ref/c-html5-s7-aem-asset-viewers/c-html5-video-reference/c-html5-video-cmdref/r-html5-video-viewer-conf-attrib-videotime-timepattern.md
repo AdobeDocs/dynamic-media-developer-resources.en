@@ -4,8 +4,9 @@ seo-description: Configuration attribute for Video Viewer.
 seo-title: VideoTime.timepattern
 solution: Experience Manager
 title: VideoTime.timepattern
-topic: Dynamic Media
 uuid: 211e0107-b6d1-43d6-b79d-34ed54383f80
+feature: Dynamic Media Classic,Viewers,SDK/API,Video
+role: Developer,Business Practitioner
 ---
 
 # VideoTime.timepattern{#videotime-timepattern}

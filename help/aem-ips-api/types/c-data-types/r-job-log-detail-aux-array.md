@@ -4,8 +4,9 @@ seo-description: Array of auxiliary job log detail types.
 seo-title: JobLogDetailAuxArray
 solution: Experience Manager
 title: JobLogDetailAuxArray
-topic: Dynamic Media Image Production System API
 uuid: f55e10aa-eedf-41fa-bed5-f6a373d89482
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # JobLogDetailAuxArray{#joblogdetailauxarray}

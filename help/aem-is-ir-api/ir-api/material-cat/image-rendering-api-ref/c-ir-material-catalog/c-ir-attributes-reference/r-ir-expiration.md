@@ -4,8 +4,9 @@ seo-description: Default client cache time to live. Provides a default expiratio
 seo-title: Expiration
 solution: Experience Manager
 title: Expiration
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 2b56f9ec-2b25-4e6a-aead-6dad3d2df975
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Expiration{#expiration}

@@ -4,8 +4,9 @@ seo-description: If javascript is specified as the response format, the reply da
 seo-title: JavaScript properties
 solution: Experience Manager
 title: JavaScript properties
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 832a927e-ecaf-438c-8fbf-a702d58902d8
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # JavaScript properties{#javascript-properties}

@@ -4,8 +4,9 @@ seo-description: Layer Color. Specifies the foreground color and opacity of soli
 seo-title: color
 solution: Experience Manager
 title: color
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 46b93609-02c0-47bf-97c0-e7b2e416d292
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # color{#color}

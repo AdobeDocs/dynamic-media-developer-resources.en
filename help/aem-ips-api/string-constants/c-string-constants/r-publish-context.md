@@ -4,8 +4,9 @@ seo-description: Used by getActivePublishContextsReturn/publishContext.
 seo-title: Publish Context
 solution: Experience Manager
 title: Publish Context
-topic: Dynamic Media Image Production System API
 uuid: 50347cd3-ce36-46d7-9b88-9da02a571768
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # Publish Context{#publish-context}

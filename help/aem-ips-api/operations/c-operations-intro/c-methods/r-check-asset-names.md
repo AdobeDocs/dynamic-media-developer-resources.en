@@ -4,8 +4,9 @@ seo-description: Checks for IPS ID conflicts by comparing asset names against al
 seo-title: checkAssetNames
 solution: Experience Manager
 title: checkAssetNames
-topic: Dynamic Media Image Production System API
 uuid: 91d073a8-7648-429b-aa5c-c7d595550299
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # checkAssetNames{#checkassetnames}

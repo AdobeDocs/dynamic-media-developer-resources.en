@@ -4,8 +4,9 @@ seo-description: Grayscale default input color profile. Specifies the name of th
 seo-title: IccProfileSrcGray
 solution: Experience Manager
 title: IccProfileSrcGray
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: e05d1185-ffd6-4c04-a2b8-52228beae37d
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # IccProfileSrcGray{#iccprofilesrcgray}

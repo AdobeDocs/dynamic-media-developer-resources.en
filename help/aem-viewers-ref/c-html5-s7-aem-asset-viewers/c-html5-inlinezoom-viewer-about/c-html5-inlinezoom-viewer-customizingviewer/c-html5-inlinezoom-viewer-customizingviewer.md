@@ -3,8 +3,9 @@ description: Customizing Inline Zoom Viewer
 keywords: responsive
 solution: Experience Manager
 title: Customizing Inline Zoom Viewer
-topic: Dynamic Media
 uuid: c9203ea7-47dc-40f6-add8-04e4258da7c9
+feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
+role: Developer,Business Practitioner
 ---
 
 # Customizing Inline Zoom Viewer{#customizing-inline-zoom-viewer}

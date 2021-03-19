@@ -4,8 +4,9 @@ seo-description: Default advanced render settings. Default for catalog RenderSet
 seo-title: RenderSettings
 solution: Experience Manager
 title: RenderSettings
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: ad8884e7-4a4c-489f-881d-1d55eedef034
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # RenderSettings{#rendersettings}

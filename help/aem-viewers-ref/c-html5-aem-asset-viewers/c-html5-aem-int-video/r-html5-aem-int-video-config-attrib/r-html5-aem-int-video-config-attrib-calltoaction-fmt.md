@@ -4,8 +4,9 @@ seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: CallToAction.fmt
 solution: Experience Manager
 title: CallToAction.fmt
-topic: Dynamic Media
 uuid: c85160e2-431f-42af-a468-c754bfe86ecd
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
+role: Developer,Business Practitioner
 ---
 
 # CallToAction.fmt{#calltoaction-fmt}

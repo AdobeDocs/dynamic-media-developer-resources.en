@@ -4,8 +4,9 @@ seo-description: Font face name. The font face name, exactly as specified in the
 seo-title: Name
 solution: Experience Manager
 title: Name
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 937d2d73-5e6d-4276-a4f9-892af97a2b86
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Name{#name}

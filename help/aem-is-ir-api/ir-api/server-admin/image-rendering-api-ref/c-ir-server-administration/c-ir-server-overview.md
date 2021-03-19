@@ -4,8 +4,9 @@ seo-description: This documentation explains how to administer the Dynamic Media
 seo-title: Server administration overview
 solution: Experience Manager
 title: Server administration overview
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 83aa83b7-bb7a-4bbd-923c-dd69763fe9c9
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Server administration overview{#server-administration-overview}

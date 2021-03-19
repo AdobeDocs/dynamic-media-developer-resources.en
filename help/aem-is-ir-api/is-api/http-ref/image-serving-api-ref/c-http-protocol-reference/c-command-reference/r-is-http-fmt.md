@@ -4,8 +4,9 @@ seo-description: Response Image Format.
 seo-title: fmt
 solution: Experience Manager
 title: fmt
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 29151740-3bbc-4c5e-bbc7-4afe9064ff5f
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # fmt{#fmt}

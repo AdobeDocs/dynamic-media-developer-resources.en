@@ -4,8 +4,9 @@ seo-description: To manipulate a graphic, you can use reference points similar t
 seo-title: FXG server protocol
 solution: Experience Manager
 title: FXG server protocol
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 5cb123ca-2274-4ddb-8fa1-ab22a19172f6
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # FXG server protocol{#fxg-server-protocol}

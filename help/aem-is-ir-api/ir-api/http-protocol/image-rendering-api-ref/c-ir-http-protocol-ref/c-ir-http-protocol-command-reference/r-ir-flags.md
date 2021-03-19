@@ -4,8 +4,9 @@ seo-description: Apply flags. Specifies additional render options.
 seo-title: flags
 solution: Experience Manager
 title: flags
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 43ed24fe-461e-4973-aa44-8fba66668e6f
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # flags{#flags}

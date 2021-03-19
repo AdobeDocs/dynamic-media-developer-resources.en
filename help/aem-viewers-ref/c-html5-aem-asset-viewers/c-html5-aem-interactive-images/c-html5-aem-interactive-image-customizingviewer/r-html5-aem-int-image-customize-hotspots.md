@@ -4,8 +4,9 @@ seo-description: The viewer displays hotspot icons over the main view in places 
 seo-title: Hotspots
 solution: Experience Manager
 title: Hotspots
-topic: Dynamic Media
 uuid: 79c4d128-e24a-43b0-8e18-13b588eb396e
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
+role: Developer,Business Practitioner
 ---
 
 # Hotspots{#hotspots}

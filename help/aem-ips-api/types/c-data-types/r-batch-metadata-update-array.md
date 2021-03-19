@@ -4,8 +4,9 @@ seo-description: An array of batch metadata updates.
 seo-title: BatchMetadataUpdateArray
 solution: Experience Manager
 title: BatchMetadataUpdateArray
-topic: Dynamic Media Image Production System API
 uuid: f095fd2a-025f-4a12-9637-d49d3324955c
+feature: Dynamic Media Classic,SDK/API,Metadata
+role: Developer,Administrator
 ---
 
 # BatchMetadataUpdateArray{#batchmetadataupdatearray}

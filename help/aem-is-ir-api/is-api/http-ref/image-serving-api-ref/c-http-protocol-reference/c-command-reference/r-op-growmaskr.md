@@ -4,8 +4,9 @@ seo-description: Dilate/erode image. Applies a morphological dilate (radius > 0)
 seo-title: op_growMaskR
 solution: Experience Manager
 title: op_growMaskR
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: b81968e7-ebaf-426c-9230-1afcf4b5cf24
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # op_growMaskR{#op-growmaskr}

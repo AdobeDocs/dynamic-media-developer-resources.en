@@ -4,8 +4,9 @@ seo-description: Location of the material catalog folder (where all catalog.ini 
 seo-title: Catalog folder (ir.catalogRootPath)
 solution: Experience Manager
 title: Catalog folder (ir.catalogRootPath)
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: d9c9f801-6622-4879-ba08-b381a45632a3
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Catalog folder (ir.catalogRootPath){#catalog-folder-ir-catalogrootpath}

@@ -5,8 +5,9 @@ seo-description: Basic Zoom Viewer is an image viewer that displays a single zoo
 seo-title: Basic Zoom
 solution: Experience Manager
 title: Basic Zoom
-topic: Dynamic Media
 uuid: 5466d647-af70-4503-9898-bb712ba6a007
+feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
+role: Developer,Business Practitioner
 ---
 
 # Basic Zoom{#basic-zoom}

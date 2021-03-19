@@ -4,8 +4,9 @@ seo-description: Sets metadata values for an asset. Works with an array of metad
 seo-title: setAssetMetadata
 solution: Experience Manager
 title: setAssetMetadata
-topic: Dynamic Media Image Production System API
 uuid: 17fe8277-a164-4f91-af96-ea43d41bd4f2
+feature: Dynamic Media Classic,SDK/API,Metadata,Asset Management
+role: Developer,Administrator
 ---
 
 # setAssetMetadata{#setassetmetadata}

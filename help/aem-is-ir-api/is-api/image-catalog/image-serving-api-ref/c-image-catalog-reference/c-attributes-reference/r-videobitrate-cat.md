@@ -4,8 +4,9 @@ seo-description: Video bit rate. Allows specification of a bit rate associated w
 seo-title: VideoBitRate
 solution: Experience Manager
 title: VideoBitRate
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: dff00d03-5fea-42cf-9b81-cd3488e666e4
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # VideoBitRate{#videobitrate}

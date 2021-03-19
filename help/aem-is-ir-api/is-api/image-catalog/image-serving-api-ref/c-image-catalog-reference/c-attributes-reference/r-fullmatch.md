@@ -4,8 +4,9 @@ seo-description: Catalog matching option.
 seo-title: FullMatch
 solution: Experience Manager
 title: FullMatch
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 0c69ba92-1411-4cb7-ac28-d26fe035222f
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # FullMatch{#fullmatch}

@@ -4,8 +4,9 @@ seo-description: The Connector tag in server.xml supports a ciphers attribute to
 seo-title: Defining SSL ciphers
 solution: Experience Manager
 title: Defining SSL ciphers
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 9490fb9a-5abb-4f5e-b660-b7af0a5e4b4d
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Defining SSL ciphers{#defining-ssl-ciphers}

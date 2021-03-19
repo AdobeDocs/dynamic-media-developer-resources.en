@@ -4,8 +4,9 @@ seo-description: Updates an asset set.
 seo-title: updateAssetSet
 solution: Experience Manager
 title: updateAssetSet
-topic: Dynamic Media Image Production System API
 uuid: e844a395-0ab3-45a7-bcec-8e9e15efc70e
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # updateAssetSet{#updateassetset}

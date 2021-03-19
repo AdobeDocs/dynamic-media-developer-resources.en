@@ -4,8 +4,9 @@ seo-description: Defines search conditions for tag fields.
 seo-title: TagCondition
 solution: Experience Manager
 title: TagCondition
-topic: Dynamic Media Image Production System API
 uuid: c7727267-05b6-4011-9ddf-7f3134e9609b
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # TagCondition{#tagcondition}

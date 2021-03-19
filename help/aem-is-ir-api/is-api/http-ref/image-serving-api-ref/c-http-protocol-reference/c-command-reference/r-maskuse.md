@@ -4,8 +4,9 @@ seo-description: Image mask usage. Specifies how the mask or alpha channel of th
 seo-title: maskUse
 solution: Experience Manager
 title: maskUse
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 2c70da87-f869-495a-be50-226a4516e002
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # maskUse{#maskuse}

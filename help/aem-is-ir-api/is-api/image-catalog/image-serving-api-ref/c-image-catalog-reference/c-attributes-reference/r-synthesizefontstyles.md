@@ -4,8 +4,9 @@ seo-description: Enable synthesized font variations. Controls whether the server
 seo-title: SynthesizeFontStyles
 solution: Experience Manager
 title: SynthesizeFontStyles
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: f1c67490-7f14-4a6c-a7ba-5a476231ef34
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # SynthesizeFontStyles{#synthesizefontstyles}

@@ -4,8 +4,9 @@ seo-description: On desktop systems some user interface elements like buttons ha
 seo-title: Tooltips
 solution: Experience Manager
 title: Tooltips
-topic: Dynamic Media
 uuid: f5c2c648-ce1d-401f-9c26-7b5b79438738
+feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
+role: Developer,Business Practitioner
 ---
 
 # Tooltips{#tooltips}

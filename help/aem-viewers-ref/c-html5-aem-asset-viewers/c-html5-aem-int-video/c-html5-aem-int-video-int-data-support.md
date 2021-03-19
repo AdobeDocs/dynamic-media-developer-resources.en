@@ -4,8 +4,9 @@ seo-description: The Interactive Video Viewer supports rendering interactive swa
 seo-title: Interactive data support
 solution: Experience Manager
 title: Interactive data support
-topic: Dynamic Media
 uuid: 70b2ec2e-0ea7-461d-a185-731fb0ef8f3e
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
+role: Developer,Business Practitioner
 ---
 
 # Interactive data support{#interactive-data-support}

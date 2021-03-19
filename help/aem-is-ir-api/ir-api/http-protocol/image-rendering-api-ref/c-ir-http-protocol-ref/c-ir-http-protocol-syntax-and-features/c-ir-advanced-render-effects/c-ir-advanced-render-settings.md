@@ -4,8 +4,9 @@ seo-description: The Vignette Authoring Tool (part of the Dynamic Media Image Au
 seo-title: Advanced Render settings
 solution: Experience Manager
 title: Advanced Render settings
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 18e7f3cf-4d30-445c-813c-546a91987b99
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Advanced Render settings{#advanced-render-settings}

@@ -4,8 +4,9 @@ seo-description: Set or update the publish state for one or more assets. You can
 seo-title: setAssetsContextState
 solution: Experience Manager
 title: setAssetsContextState
-topic: Dynamic Media Image Production System API
 uuid: 4b94f9ea-3f7b-45ee-9381-6434f2bc4e31
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # setAssetsContextState{#setassetscontextstate}

@@ -4,8 +4,9 @@ seo-description: Masks part of an image. The mask is always associated with the 
 seo-title: Mask
 solution: Experience Manager
 title: Mask
-topic: Dynamic Media Image Production System API
 uuid: 06ac0f76-13ce-434b-ac60-6a2af9648f92
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # Mask{#mask}

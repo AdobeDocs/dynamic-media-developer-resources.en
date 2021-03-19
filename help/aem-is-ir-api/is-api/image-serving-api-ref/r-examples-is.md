@@ -4,8 +4,9 @@ seo-description: This page links to several Image Server examples.
 seo-title: Image Server examples
 solution: Experience Manager
 title: Image Server examples
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 0db0350f-017b-43d8-8dbb-69234b21a747
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Image Server examples{#image-server-examples}

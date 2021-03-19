@@ -4,8 +4,9 @@ seo-description: Checks if a user with a specific company (identified by handle)
 seo-title: checkLogin
 solution: Experience Manager
 title: checkLogin
-topic: Dynamic Media Image Production System API
 uuid: 69f9e5f6-50c2-403d-93b2-b84a01f512a9
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # checkLogin{#checklogin}

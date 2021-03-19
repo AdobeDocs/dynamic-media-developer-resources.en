@@ -4,8 +4,9 @@ seo-description: A Dynamic Media Image Rendering license key is required and mus
 seo-title: Licensing
 solution: Experience Manager
 title: Licensing
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: dbc4eddc-a518-4337-9e09-ba40c02de797
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Licensing{#licensing}

@@ -4,8 +4,9 @@ seo-description: Mask file properties.
 seo-title: MaskInfo
 solution: Experience Manager
 title: MaskInfo
-topic: Dynamic Media Image Production System API
 uuid: a9657143-bd66-4280-b1b3-338529025f3a
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # MaskInfo{#maskinfo}

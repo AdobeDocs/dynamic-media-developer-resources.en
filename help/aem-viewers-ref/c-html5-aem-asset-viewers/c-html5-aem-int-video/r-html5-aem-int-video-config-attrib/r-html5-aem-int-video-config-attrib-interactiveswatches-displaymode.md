@@ -4,8 +4,9 @@ seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: InteractiveSwatches.displaymode
 solution: Experience Manager
 title: InteractiveSwatches.displaymode
-topic: Dynamic Media
 uuid: 279b1632-cf03-454d-b15f-9e785daad692
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
+role: Developer,Business Practitioner
 ---
 
 # InteractiveSwatches.displaymode{#interactiveswatches-displaymode}

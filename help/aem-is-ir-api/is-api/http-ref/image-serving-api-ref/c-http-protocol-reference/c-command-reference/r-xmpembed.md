@@ -4,8 +4,9 @@ seo-description: Embed XMP metadata. Specifies whether XMP metadata should be in
 seo-title: xmpEmbed
 solution: Experience Manager
 title: xmpEmbed
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: c0dfd0e5-16d1-4a6e-957a-ecc276b9361a
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # xmpEmbed{#xmpembed}

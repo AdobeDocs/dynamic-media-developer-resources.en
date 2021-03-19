@@ -4,8 +4,9 @@ seo-description: Properties of an SVG file asset.
 seo-title: SvgInfo
 solution: Experience Manager
 title: SvgInfo
-topic: Dynamic Media Image Production System API
 uuid: 23122def-24ea-46a8-be8a-ac7db09ebbc6
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # SvgInfo{#svginfo}

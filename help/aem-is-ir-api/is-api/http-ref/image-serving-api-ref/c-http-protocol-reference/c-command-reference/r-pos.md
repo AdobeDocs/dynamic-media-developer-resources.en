@@ -4,8 +4,9 @@ seo-description: Layer position.
 seo-title: pos
 solution: Experience Manager
 title: pos
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: e9872ce9-5c47-49c5-9c87-4fa8441c4770
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # pos{#pos}

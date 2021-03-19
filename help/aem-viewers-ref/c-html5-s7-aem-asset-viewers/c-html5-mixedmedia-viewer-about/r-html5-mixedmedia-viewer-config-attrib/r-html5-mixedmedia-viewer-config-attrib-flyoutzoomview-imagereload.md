@@ -4,8 +4,9 @@ seo-description: Configures how the component fetches new images for the main an
 seo-title: FlyoutZoomView.imagereload
 solution: Experience Manager
 title: FlyoutZoomView.imagereload
-topic: Dynamic Media
 uuid: 5cded4cb-7b02-47da-9e2d-b236548cc61d
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # FlyoutZoomView.imagereload{#flyoutzoomview-imagereload}

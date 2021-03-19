@@ -4,8 +4,9 @@ seo-description: Type and value for a property set.
 seo-title: PropertySet
 solution: Experience Manager
 title: PropertySet
-topic: Dynamic Media Image Production System API
 uuid: b8800e9c-a940-42a8-81cb-1798daf65477
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # PropertySet{#propertyset}

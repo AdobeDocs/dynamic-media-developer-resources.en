@@ -4,8 +4,9 @@ seo-description: An array of scheduled jobs.
 seo-title: ScheduledJobArray
 solution: Experience Manager
 title: ScheduledJobArray
-topic: Dynamic Media Image Production System API
 uuid: ef186476-d356-4516-b0c5-91e568e122cb
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # ScheduledJobArray{#scheduledjobarray}

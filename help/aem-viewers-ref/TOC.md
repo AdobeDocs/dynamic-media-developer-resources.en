@@ -1,8 +1,7 @@
 ---
 cloud: experience-cloud
-product: adobe
-archtype: end-user
 user-guide-title: Dynamic Media Viewers Reference Guide
+feature-set: Experience Manager Assets
 ---
 
 # Dynamic Media Viewers Reference Guide {#library}

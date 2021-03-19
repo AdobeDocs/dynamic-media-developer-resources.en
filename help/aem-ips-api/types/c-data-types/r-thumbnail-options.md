@@ -4,8 +4,9 @@ seo-description: An optional type that lets you choose a particular video frame 
 seo-title: ThumbnailOptions
 solution: Experience Manager
 title: ThumbnailOptions
-topic: Dynamic Media Image Production System API
 uuid: 50b2ecee-8396-4323-83e1-1f5060bec6c4
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # ThumbnailOptions{#thumbnailoptions}

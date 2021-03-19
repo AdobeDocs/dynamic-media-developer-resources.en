@@ -4,8 +4,9 @@ seo-description: Assign or update assets in a project.
 seo-title: setProjectAssets
 solution: Experience Manager
 title: setProjectAssets
-topic: Dynamic Media Image Production System API
 uuid: 98d18948-d387-4890-9c27-e8ab60cded1d
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # setProjectAssets{#setprojectassets}

@@ -2,8 +2,9 @@
 description: EmailShare.emailurl
 solution: Experience Manager
 title: EmailShare.emailurl
-topic: Dynamic Media
 uuid: 0cf61bbf-01c0-4c5c-84d2-7cecf88e51e9
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
+role: Developer,Business Practitioner
 ---
 
 # EmailShare.emailurl{#emailshare-emailurl}

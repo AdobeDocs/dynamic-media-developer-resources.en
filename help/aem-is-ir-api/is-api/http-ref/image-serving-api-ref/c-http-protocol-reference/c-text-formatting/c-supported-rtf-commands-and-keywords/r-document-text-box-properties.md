@@ -4,8 +4,9 @@ seo-description: The following document properties are supported in text boxes.
 seo-title: Document (text box) properties
 solution: Experience Manager
 title: Document (text box) properties
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 743a773a-83b0-4667-9c67-4cefbfe77bbd
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Document (text box) properties{#document-text-box-properties}

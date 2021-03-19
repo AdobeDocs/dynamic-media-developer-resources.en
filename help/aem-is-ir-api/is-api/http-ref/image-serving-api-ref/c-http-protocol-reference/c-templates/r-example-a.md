@@ -4,8 +4,9 @@ seo-description: Create a fixed-size template with a static background image, a 
 seo-title: Example A
 solution: Experience Manager
 title: Example A
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: c250dbc8-1e32-46b8-ba55-c1fb0ae62695
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Example A{#example-a}

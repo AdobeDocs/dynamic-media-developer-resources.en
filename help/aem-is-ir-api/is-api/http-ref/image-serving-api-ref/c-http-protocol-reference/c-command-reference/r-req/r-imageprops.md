@@ -4,8 +4,9 @@ seo-description: Source image properties. Returns selected properties of the ima
 seo-title: imageprops
 solution: Experience Manager
 title: imageprops
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: e9bf2780-a520-4fb1-ab4c-40bb799e36a4
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # imageprops{#imageprops}

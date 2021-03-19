@@ -2,7 +2,8 @@
 description: These new or modified operations and data types available in the beta WSDL are not to be used outside of Dynamic Media developed applications.
 solution: Experience Manager
 title: Restricted Use
-topic: Dynamic Media Image Production System API
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # Restricted Use{#restricted-use}

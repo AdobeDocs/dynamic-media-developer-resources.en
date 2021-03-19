@@ -4,8 +4,9 @@ seo-description: Image set data from image catalog. Returns image set data for t
 seo-title: imageset
 solution: Experience Manager
 title: imageset
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 8854e903-a85f-403a-ae3d-b7281a236262
+feature: Dynamic Media Classic,SDK/API,Image Sets
+role: Developer,Business Practitioner
 ---
 
 # imageset{#imageset}

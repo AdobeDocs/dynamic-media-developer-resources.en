@@ -2,8 +2,9 @@
 description: Favorites feature
 solution: Experience Manager
 title: Favorites feature
-topic: Dynamic Media
 uuid: 764b0c5e-f131-4af8-a7a6-f60f22bcfeb7
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
+role: Developer,Business Practitioner
 ---
 
 # Favorites feature{#favorites-feature}

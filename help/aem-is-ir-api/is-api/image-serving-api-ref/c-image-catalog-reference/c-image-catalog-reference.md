@@ -4,8 +4,9 @@ seo-description: Image catalogs provide information about images and supporting 
 seo-title: Image catalog reference
 solution: Experience Manager
 title: Image catalog reference
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 39d39f42-cd1b-46f5-859c-f32b6b5a20b3
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Image catalog reference{#image-catalog-reference}

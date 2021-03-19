@@ -4,8 +4,9 @@ seo-description: Catalog attribute files recognize these common thumbnail attrib
 seo-title: Common thumbnail attributes
 solution: Experience Manager
 title: Common thumbnail attributes
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 937988ba-43c3-4542-8e48-9f94cf3f61ad
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Common thumbnail attributes{#common-thumbnail-attributes}

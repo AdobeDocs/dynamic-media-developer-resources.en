@@ -5,8 +5,9 @@ seo-description: All visual customization and most behavior customization for th
 seo-title: Customizing Mixed Media Viewer
 solution: Experience Manager
 title: Customizing Mixed Media Viewer
-topic: Dynamic Media
 uuid: 039462a7-2915-48f3-8d4b-0c527801b85a
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # Customizing Mixed Media Viewer{#customizing-mixed-media-viewer}

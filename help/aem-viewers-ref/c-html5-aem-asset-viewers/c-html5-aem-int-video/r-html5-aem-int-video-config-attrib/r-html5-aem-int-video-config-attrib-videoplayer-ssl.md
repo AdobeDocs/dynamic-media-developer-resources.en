@@ -4,8 +4,9 @@ seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: VideoPlayer.ssl
 solution: Experience Manager
 title: VideoPlayer.ssl
-topic: Dynamic Media
 uuid: b4929e14-8712-4923-b9b1-62aa6721fc99
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
+role: Developer,Business Practitioner
 ---
 
 # VideoPlayer.ssl{#videoplayer-ssl}

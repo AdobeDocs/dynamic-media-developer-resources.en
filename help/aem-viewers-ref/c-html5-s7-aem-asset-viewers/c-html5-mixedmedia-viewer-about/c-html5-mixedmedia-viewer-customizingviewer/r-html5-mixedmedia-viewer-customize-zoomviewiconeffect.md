@@ -4,8 +4,9 @@ seo-description: The zoom indicator is overlaid on the zoom view area. It is dis
 seo-title: Zoom view icon effect
 solution: Experience Manager
 title: Zoom view icon effect
-topic: Dynamic Media
 uuid: 69a44789-9587-4459-9c75-048773c9e368
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # Zoom view icon effect{#zoom-view-icon-effect}

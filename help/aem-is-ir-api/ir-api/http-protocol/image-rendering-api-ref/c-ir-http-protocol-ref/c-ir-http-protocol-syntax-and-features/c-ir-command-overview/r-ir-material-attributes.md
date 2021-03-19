@@ -4,8 +4,9 @@ seo-description: These attributes define materials to be applied to the selected
 seo-title: Material attributes
 solution: Experience Manager
 title: Material attributes
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: afdff304-f607-4820-bdb2-f428271efb87
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Material attributes{#material-attributes}

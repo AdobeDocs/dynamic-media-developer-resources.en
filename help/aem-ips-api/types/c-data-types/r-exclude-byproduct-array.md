@@ -4,8 +4,9 @@ seo-description: Supports byproduct filtering in the searchAssets operation.
 seo-title: ExcludeByproductArray
 solution: Experience Manager
 title: ExcludeByproductArray
-topic: Dynamic Media Image Production System API
 uuid: 35c97446-ca7e-465d-9575-15d9480d5a87
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # ExcludeByproductArray{#excludebyproductarray}

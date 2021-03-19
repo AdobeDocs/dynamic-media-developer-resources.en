@@ -2,8 +2,9 @@
 description: FlyoutZoomView.iscommand
 solution: Experience Manager
 title: FlyoutZoomView.iscommand
-topic: Dynamic Media
 uuid: 1e8dcafb-33ef-42ea-8636-b3b7de81dfbd
+feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
+role: Developer,Business Practitioner
 ---
 
 # FlyoutZoomView.iscommand{#flyoutzoomview-iscommand}

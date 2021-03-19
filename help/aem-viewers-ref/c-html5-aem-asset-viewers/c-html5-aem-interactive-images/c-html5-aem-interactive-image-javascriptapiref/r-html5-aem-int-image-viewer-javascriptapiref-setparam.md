@@ -4,8 +4,9 @@ seo-description: JavaScript API reference for Video Image Viewer.
 seo-title: setParam
 solution: Experience Manager
 title: setParam
-topic: Dynamic Media
 uuid: b5f01b3b-6ea8-4604-860b-edc9ccc900b3
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
+role: Developer,Business Practitioner
 ---
 
 # setParam{#setparam}

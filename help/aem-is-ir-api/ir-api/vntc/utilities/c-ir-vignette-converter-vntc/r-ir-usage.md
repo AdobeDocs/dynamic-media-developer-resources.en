@@ -4,8 +4,9 @@ seo-description: This topic describes vntc usage syntax.
 seo-title: Usage
 solution: Experience Manager
 title: Usage
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 251aa1a0-5f19-42ab-b237-3e3b53fe8320
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Usage{#usage}

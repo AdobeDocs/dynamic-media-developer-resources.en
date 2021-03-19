@@ -4,8 +4,9 @@ seo-description: Job log information.
 seo-title: JobLogDetail
 solution: Experience Manager
 title: JobLogDetail
-topic: Dynamic Media Image Production System API
 uuid: cb1879d7-a554-4ff0-bba0-0758c43f2a99
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # JobLogDetail{#joblogdetail}

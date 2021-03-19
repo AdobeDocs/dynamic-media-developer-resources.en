@@ -3,7 +3,8 @@ description: eCatalog Viewer is a catalog viewer that displays electronic brochu
 keywords: responsive
 solution: Experience Manager
 title: eCatalog
-topic: Dynamic Media
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
+role: Developer,Business Practitioner
 ---
 
 # eCatalog{#ecatalog}

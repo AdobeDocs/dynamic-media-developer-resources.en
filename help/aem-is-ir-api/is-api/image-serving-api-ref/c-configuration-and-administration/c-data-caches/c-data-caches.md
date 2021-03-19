@@ -4,8 +4,9 @@ seo-description: You can configure data caches.
 seo-title: Data caches
 solution: Experience Manager
 title: Data caches
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: e97fad8d-b3b6-4cc2-a96c-62c96824384c
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Data caches{#data-caches}

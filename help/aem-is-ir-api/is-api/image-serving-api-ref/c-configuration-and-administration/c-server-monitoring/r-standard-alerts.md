@@ -4,8 +4,9 @@ seo-description: Standard alerts are sent with a consolidated email message at t
 seo-title: Standard alerts
 solution: Experience Manager
 title: Standard alerts
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: d3294434-a44b-4742-9d77-a6945760d33c
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Standard alerts{#standard-alerts}

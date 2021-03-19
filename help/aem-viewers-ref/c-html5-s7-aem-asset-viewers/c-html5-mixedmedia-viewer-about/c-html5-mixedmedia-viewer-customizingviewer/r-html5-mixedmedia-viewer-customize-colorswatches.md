@@ -4,8 +4,9 @@ seo-description: Color swatches consist of a row of thumbnail images with option
 seo-title: Color swatches
 solution: Experience Manager
 title: Color swatches
-topic: Dynamic Media
 uuid: 868d938f-578a-4ecf-8a71-9569450492fb
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # Color swatches{#color-swatches}

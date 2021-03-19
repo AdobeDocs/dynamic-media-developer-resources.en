@@ -4,8 +4,9 @@ seo-description: The video player is the rectangular area where the video conten
 seo-title: Video360 player
 solution: Experience Manager
 title: Video360 player
-topic: Dynamic Media
 uuid: e78a9c22-4217-42cc-ba47-3acb4130a4fd
+feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
+role: Developer,Business Practitioner
 ---
 
 # Video360 player{#video-player}

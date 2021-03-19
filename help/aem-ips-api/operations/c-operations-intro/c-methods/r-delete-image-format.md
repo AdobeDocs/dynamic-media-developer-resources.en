@@ -4,8 +4,9 @@ seo-description: Deletes an image format. Get the image format handle from saveI
 seo-title: deleteImageFormat
 solution: Experience Manager
 title: deleteImageFormat
-topic: Dynamic Media Image Production System API
 uuid: 70dddde9-830b-4267-8ef5-df5241f549e3
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # deleteImageFormat{#deleteimageformat}

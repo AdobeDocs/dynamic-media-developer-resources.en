@@ -2,8 +2,9 @@
 description: SpinView.zoomstep
 solution: Experience Manager
 title: SpinView.zoomstep
-topic: Dynamic Media
 uuid: 103097e9-7e6d-413c-a6a8-b8a15665348c
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # SpinView.zoomstep{#spinview-zoomstep}

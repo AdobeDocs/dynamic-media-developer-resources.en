@@ -4,8 +4,9 @@ seo-description: This section provides instruction for starting and stopping Ima
 seo-title: Starting and stopping Image Serving
 solution: Experience Manager
 title: Starting and stopping Image Serving
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 1b9f90a1-5ce4-49ed-b412-32d0c914b333
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Starting and stopping Image Serving{#starting-and-stopping-image-serving}

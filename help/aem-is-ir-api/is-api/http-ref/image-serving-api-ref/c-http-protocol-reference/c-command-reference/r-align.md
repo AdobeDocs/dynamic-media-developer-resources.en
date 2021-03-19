@@ -4,8 +4,9 @@ seo-description: Align Image with View. Aligns the composite image (possibly aft
 seo-title: align
 solution: Experience Manager
 title: align
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 91940bd4-8e2b-4949-a76d-31cd238783bc
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # align{#align}

@@ -4,8 +4,9 @@ seo-description: Final view rectangle. Allows the final view image to be disasse
 seo-title: rect
 solution: Experience Manager
 title: rect
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: c4830fc5-d102-4789-8753-0a660d4a557e
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # rect{#rect}

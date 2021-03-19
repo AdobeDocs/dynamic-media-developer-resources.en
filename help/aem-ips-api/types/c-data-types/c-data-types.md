@@ -2,8 +2,9 @@
 description: Data types
 solution: Experience Manager
 title: Data types
-topic: Dynamic Media Image Production System API
 uuid: 49e99f49-5bab-460f-a5f4-c966027b77fe
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # Data types{#data-types}

@@ -2,8 +2,9 @@
 description: Support for Adobe Analytics tracking
 solution: Experience Manager
 title: Support for Adobe Analytics tracking
-topic: Dynamic Media
 uuid: a7de5549-2a9d-4153-be5e-72705ced85ac
+feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
+role: Developer,Business Practitioner,Data Engineer,Data Architect
 ---
 
 # Support for Adobe Analytics tracking{#support-for-adobe-analytics-tracking}

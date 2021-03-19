@@ -4,8 +4,9 @@ seo-description: Updates an image set.
 seo-title: updateImageSet
 solution: Experience Manager
 title: updateImageSet
-topic: Dynamic Media Image Production System API
 uuid: df118ba3-d86f-4005-928e-76a5a9f899fc
+feature: Dynamic Media Classic,SDK/API,Image Sets
+role: Developer,Administrator
 ---
 
 # updateImageSet{#updateimageset}

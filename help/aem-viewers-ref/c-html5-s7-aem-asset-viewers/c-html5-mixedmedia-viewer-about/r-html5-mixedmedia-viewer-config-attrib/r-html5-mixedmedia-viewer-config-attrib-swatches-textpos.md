@@ -2,8 +2,9 @@
 description: Swatches.textpos
 solution: Experience Manager
 title: Swatches.textpos
-topic: Dynamic Media
 uuid: 1ad94058-4dca-40b9-a694-a6c1452880c1
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # Swatches.textpos{#swatches-textpos}

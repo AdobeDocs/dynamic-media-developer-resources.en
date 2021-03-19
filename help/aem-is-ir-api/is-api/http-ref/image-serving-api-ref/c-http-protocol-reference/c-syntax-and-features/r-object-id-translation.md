@@ -4,8 +4,9 @@ seo-description: Image Serving provides a mechanism to translate external object
 seo-title: Object ID translation
 solution: Experience Manager
 title: Object ID translation
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 8b4c2f44-033a-428a-b505-af389865c70a
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Object ID translation{#object-id-translation}

@@ -4,8 +4,9 @@ seo-description: There are several server behavior matters that should be consid
 seo-title: Notes on server behavior
 solution: Experience Manager
 title: Notes on server behavior
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: cca17322-4058-43cc-b022-ef8df52c0888
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Notes on server behavior{#notes-on-server-behavior}

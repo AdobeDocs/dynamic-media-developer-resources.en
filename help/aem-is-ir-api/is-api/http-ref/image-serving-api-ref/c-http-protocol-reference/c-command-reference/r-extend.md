@@ -4,8 +4,9 @@ seo-description: Extend layer. Adds margins to a layer or crops the layer rectan
 seo-title: extend
 solution: Experience Manager
 title: extend
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 7ca69994-e788-41a9-93ac-f22b6b9920d0
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # extend{#extend}

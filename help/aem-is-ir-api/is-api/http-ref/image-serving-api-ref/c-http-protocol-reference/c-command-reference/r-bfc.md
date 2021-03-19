@@ -4,8 +4,9 @@ seo-description: Browser Format Conversion. Specifies whether browser format con
 seo-title: bfc
 solution: Experience Manager
 title: bfc
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 2dd8b350-9006-4f0b-b710-0a331357daf3
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # bfc{#bfc}

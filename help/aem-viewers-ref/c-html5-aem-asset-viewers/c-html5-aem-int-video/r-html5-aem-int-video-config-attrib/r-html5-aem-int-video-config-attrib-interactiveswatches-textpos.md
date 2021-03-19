@@ -4,8 +4,9 @@ seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: InteractiveSwatches.textpos
 solution: Experience Manager
 title: InteractiveSwatches.textpos
-topic: Dynamic Media
 uuid: 1fd27847-f00f-431f-8f4b-85817c4c3ac6
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
+role: Developer,Business Practitioner
 ---
 
 # InteractiveSwatches.textpos{#interactiveswatches-textpos}

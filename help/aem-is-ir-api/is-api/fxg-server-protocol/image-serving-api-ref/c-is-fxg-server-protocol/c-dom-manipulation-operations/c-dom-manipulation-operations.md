@@ -4,8 +4,9 @@ seo-description: Several DOM manipulation operations are supported.
 seo-title: FXG DOM manipulation operations
 solution: Experience Manager
 title: FXG DOM manipulation operations
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 0bb31fb5-4735-4e10-8f3d-38f2885e8da5
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # FXG DOM manipulation operations{#fxg-dom-manipulation-operations}

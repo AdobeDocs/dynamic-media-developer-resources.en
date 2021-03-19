@@ -4,8 +4,9 @@ seo-description: Use these server settings for cache clustering.
 seo-title: Cache clustering
 solution: Experience Manager
 title: Cache clustering
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: ed6335d7-26c9-45d8-95f6-6c05e788e449
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Cache clustering{#cache-clustering}

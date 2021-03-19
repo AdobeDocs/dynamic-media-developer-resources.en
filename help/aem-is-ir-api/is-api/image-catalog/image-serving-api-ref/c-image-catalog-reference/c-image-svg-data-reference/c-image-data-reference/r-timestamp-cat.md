@@ -2,8 +2,9 @@
 description: TimeStamp
 solution: Experience Manager
 title: TimeStamp
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 3148cc25-3b9a-499a-b0da-1ebe9ae99f69
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # TimeStamp{#timestamp}

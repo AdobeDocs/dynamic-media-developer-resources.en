@@ -4,8 +4,9 @@ seo-description: Returns information about a company's structure (number of file
 seo-title: getDiskUsage
 solution: Experience Manager
 title: getDiskUsage
-topic: Dynamic Media Image Production System API
 uuid: 29190200-8f49-4689-9782-1df665dca1b7
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # getDiskUsage{#getdiskusage}

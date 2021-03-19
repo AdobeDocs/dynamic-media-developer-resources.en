@@ -2,8 +2,9 @@
 description: Id
 solution: Experience Manager
 title: Id
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: a700472c-e1eb-4eb0-95ff-7afd4ce27931
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Id{#id}

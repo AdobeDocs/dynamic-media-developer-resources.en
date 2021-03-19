@@ -4,8 +4,9 @@ seo-description: String translation map. Refers to a locId that can be mapped to
 seo-title: LocaleStrMap
 solution: Experience Manager
 title: LocaleStrMap
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 44207916-80a6-42cb-8bf1-fcf0f5194c6d
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # LocaleStrMap{#localestrmap}

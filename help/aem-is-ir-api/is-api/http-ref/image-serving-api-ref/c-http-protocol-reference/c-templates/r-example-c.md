@@ -4,8 +4,9 @@ seo-description: Create a "paper doll" layering application.
 seo-title: Example C
 solution: Experience Manager
 title: Example C
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 25f228c2-dc03-461a-aee8-40fdb3d4cf5e
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Example C{#example-c}

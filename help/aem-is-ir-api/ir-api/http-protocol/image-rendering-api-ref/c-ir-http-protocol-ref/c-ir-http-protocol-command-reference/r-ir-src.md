@@ -4,8 +4,9 @@ seo-description: Material file. Specifies material data, either in form of a sin
 seo-title: src
 solution: Experience Manager
 title: src
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 52751bcc-a65d-4441-a3b5-802d27b54b54
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # src{#src}

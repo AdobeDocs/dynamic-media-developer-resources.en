@@ -4,8 +4,9 @@ seo-description: The main view area is the area occupied by the main view and sw
 seo-title: Main viewer area
 solution: Experience Manager
 title: Main viewer area
-topic: Dynamic Media
 uuid: 9d0a23e2-97c2-441e-8e4c-ef528ff654d2
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # Main viewer area{#main-viewer-area}

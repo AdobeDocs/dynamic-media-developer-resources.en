@@ -4,8 +4,9 @@ seo-description: The main view area is the area occupied by the carousel banner 
 seo-title: Main viewer area
 solution: Experience Manager
 title: Main viewer area
-topic: Dynamic Media
 uuid: 0e796f75-36a6-4961-9980-b634ab50c7ff
+feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
+role: Developer,Business Practitioner
 ---
 
 # Main viewer area{#main-viewer-area}

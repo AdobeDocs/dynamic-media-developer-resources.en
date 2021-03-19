@@ -4,8 +4,9 @@ seo-description: The contents of the entire modifiers part of request string, in
 seo-title: Request obfuscation
 solution: Experience Manager
 title: Request obfuscation
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 59b12a78-c4ba-4b6d-97bc-63150298ed73
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Request obfuscation{#request-obfuscation}

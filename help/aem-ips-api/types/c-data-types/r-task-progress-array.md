@@ -4,8 +4,9 @@ seo-description: A task progress array. Contains information about video transco
 seo-title: TaskProgressArray
 solution: Experience Manager
 title: TaskProgressArray
-topic: Dynamic Media Image Production System API
 uuid: e5d9b6ce-f133-47de-beea-b8b395827bb8
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # TaskProgressArray{#taskprogressarray}

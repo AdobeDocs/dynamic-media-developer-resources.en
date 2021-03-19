@@ -4,8 +4,9 @@ seo-description: Preload server cache. Executes the request just like req=img, b
 seo-title: loadcache
 solution: Experience Manager
 title: loadcache
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 44f0db05-2323-4aa2-853c-f78e656a4308
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # loadcache{#loadcache}

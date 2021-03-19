@@ -2,7 +2,8 @@
 description: The HTML5 Video360 Viewer is a 360-degree video player that plays streaming and progressive 360 video encoded in the H.264 format, delivered from Dynamic Media Classic or from AEM Dynamic Media.
 solution: Experience Manager
 title: Video360
-topic: Dynamic Media
+feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
+role: Developer,Business Practitioner
 ---
 
 # Video360{#video}

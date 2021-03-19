@@ -4,8 +4,9 @@ seo-description: Select object by name. Selects the specified vignette group by 
 seo-title: obj
 solution: Experience Manager
 title: obj
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 2fede992-6759-45bd-b2f1-36e2c791d536
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # obj{#obj}

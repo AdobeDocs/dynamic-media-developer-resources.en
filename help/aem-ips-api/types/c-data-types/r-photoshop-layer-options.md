@@ -4,8 +4,9 @@ seo-description: Photoshop image layer options.
 seo-title: PhotoshopLayerOptions
 solution: Experience Manager
 title: PhotoshopLayerOptions
-topic: Dynamic Media Image Production System API
 uuid: af4d5c28-f7c1-4f89-943e-386a5f83474f
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # PhotoshopLayerOptions{#photoshoplayeroptions}

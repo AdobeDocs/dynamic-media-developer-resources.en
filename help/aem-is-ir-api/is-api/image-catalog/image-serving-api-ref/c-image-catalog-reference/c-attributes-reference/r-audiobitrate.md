@@ -4,8 +4,9 @@ seo-description: Audio bit rate. Long value that represents the audio bit rate f
 seo-title: AudioBitRate
 solution: Experience Manager
 title: AudioBitRate
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: cdcfd6b9-e0ce-4a00-b80b-4bfc4fad4b9c
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # AudioBitRate{#audiobitrate}

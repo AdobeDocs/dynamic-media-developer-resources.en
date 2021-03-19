@@ -4,8 +4,9 @@ seo-description: Image anchor (hotspot). Specifies the texture anchor point (hot
 seo-title: anchor
 solution: Experience Manager
 title: anchor
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 1e695882-f97a-4208-b595-2851b91bdbfe
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # anchor{#anchor}

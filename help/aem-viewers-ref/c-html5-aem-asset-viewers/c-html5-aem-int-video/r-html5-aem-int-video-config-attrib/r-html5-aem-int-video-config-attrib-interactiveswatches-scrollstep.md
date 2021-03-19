@@ -4,8 +4,9 @@ seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: InteractiveSwatches.scrollstep
 solution: Experience Manager
 title: InteractiveSwatches.scrollstep
-topic: Dynamic Media
 uuid: 6f521aa4-9155-4f14-bc89-e7af24af25f0
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
+role: Developer,Business Practitioner
 ---
 
 # InteractiveSwatches.scrollstep{#interactiveswatches-scrollstep}

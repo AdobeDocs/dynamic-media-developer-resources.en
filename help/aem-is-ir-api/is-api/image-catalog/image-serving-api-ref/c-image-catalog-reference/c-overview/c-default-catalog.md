@@ -4,8 +4,9 @@ seo-description: The default catalog provides default values for all catalog att
 seo-title: Default catalog
 solution: Experience Manager
 title: Default catalog
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 9f0c967e-a2fa-4ef0-bacb-3dcfb06a8027
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Default catalog{#default-catalog}

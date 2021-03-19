@@ -4,8 +4,9 @@ seo-description: Image validation utility. This command line utility verifies im
 seo-title: validate
 solution: Experience Manager
 title: validate
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 87a129ed-950a-4b1a-9240-bf567cd8e38f
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # validate{#validate}

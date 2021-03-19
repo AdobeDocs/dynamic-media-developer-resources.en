@@ -4,8 +4,9 @@ seo-description: Scene 7 Image Serving consists of the following components
 seo-title: Image Serving components
 solution: Experience Manager
 title: Image Serving components
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 84e04972-32ce-4aca-aae6-d5b8bbe761e6
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Image Serving components{#image-serving-components}

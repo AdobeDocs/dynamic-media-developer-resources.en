@@ -2,7 +2,8 @@
 description: Adds users from a specific company to a specific group.
 solution: Experience Manager
 title: addGroupMembers
-topic: Dynamic Media Image Production System API
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # addGroupMembers{#addgroupmembers}

@@ -4,8 +4,9 @@ seo-description: View Height. Specifies the height of the response image (view i
 seo-title: hei
 solution: Experience Manager
 title: hei
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 307952bb-604f-49b4-bce3-b7a7fc7ec63b
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # hei{#hei}

@@ -2,8 +2,9 @@
 description: VideoTime.timepattern
 solution: Experience Manager
 title: VideoTime.timepattern
-topic: Dynamic Media
 uuid: 57c86b63-7495-4f6f-bd30-8c4ebf017e36
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # VideoTime.timepattern{#videotime-timepattern}

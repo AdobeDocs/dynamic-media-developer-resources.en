@@ -4,8 +4,9 @@ seo-description: Job type to allow reprocessing of previously uploaded primary f
 seo-title: ReprocessAssetsJob
 solution: Experience Manager
 title: ReprocessAssetsJob
-topic: Dynamic Media Image Production System API
 uuid: 5b4aa838-0fb4-4ae8-be5a-8ce1e1487127
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # ReprocessAssetsJob{#reprocessassetsjob}

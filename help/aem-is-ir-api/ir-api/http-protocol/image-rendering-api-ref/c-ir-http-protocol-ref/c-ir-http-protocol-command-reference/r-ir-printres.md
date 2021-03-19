@@ -4,8 +4,9 @@ seo-description: Print resolution. Overrides the print resolution value embedded
 seo-title: printRes
 solution: Experience Manager
 title: printRes
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 5bca705a-3a48-4e5e-83eb-c200b6318564
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # printRes{#printres}

@@ -4,8 +4,9 @@ seo-description: Gets the job logs for an asset. Items returned in the array con
 seo-title: getAssetJobLogs
 solution: Experience Manager
 title: getAssetJobLogs
-topic: Dynamic Media Image Production System API
 uuid: 7ea81baf-769b-4c73-bbc6-f52c89c98d50
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # getAssetJobLogs{#getassetjoblogs}

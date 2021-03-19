@@ -2,8 +2,9 @@
 description: ZoomView.doubleclick
 solution: Experience Manager
 title: ZoomView.doubleclick
-topic: Dynamic Media
 uuid: 8dabc31c-ec7e-4dc0-b528-4f3f43f46721
+feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
+role: Developer,Business Practitioner
 ---
 
 # ZoomView.doubleclick{#zoomview-doubleclick}

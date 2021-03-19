@@ -4,8 +4,9 @@ seo-description: An array of URL for uploading assets.
 seo-title: UploadUrlArray
 solution: Experience Manager
 title: UploadUrlArray
-topic: Dynamic Media Image Production System API
 uuid: cb7338cd-5873-4e84-bf6d-39abff3166cd
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # UploadUrlArray{#uploadurlarray}

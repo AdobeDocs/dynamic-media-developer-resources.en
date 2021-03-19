@@ -4,8 +4,9 @@ seo-description: Rotate image. Rotates the image, text, or solid color layer by 
 seo-title: rotate
 solution: Experience Manager
 title: rotate
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 160d3c4b-3871-43bd-a17d-96198c7ea839
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # rotate{#rotate}

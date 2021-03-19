@@ -4,8 +4,9 @@ seo-description: Vignette file path. Relative path and name of a vignette file.
 seo-title: Path
 solution: Experience Manager
 title: Path
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 470cee37-9840-402a-bde5-ace8988996d2
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Path{#path}

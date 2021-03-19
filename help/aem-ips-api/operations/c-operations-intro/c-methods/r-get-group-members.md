@@ -4,8 +4,9 @@ seo-description: Gets the users that belong to a specific company and group.
 seo-title: getGroupMembers
 solution: Experience Manager
 title: getGroupMembers
-topic: Dynamic Media Image Production System API
 uuid: 02322b66-1c0c-4d84-a3eb-97a4fb605318
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # getGroupMembers{#getgroupmembers}

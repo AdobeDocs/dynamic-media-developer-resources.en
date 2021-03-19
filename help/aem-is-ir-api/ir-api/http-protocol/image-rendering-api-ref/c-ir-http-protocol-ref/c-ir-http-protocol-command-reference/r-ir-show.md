@@ -4,8 +4,9 @@ seo-description: Show overlap object. Makes visible all previously hidden overla
 seo-title: show
 solution: Experience Manager
 title: show
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 31255529-9277-40d9-9c57-205d22479600
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # show{#show}

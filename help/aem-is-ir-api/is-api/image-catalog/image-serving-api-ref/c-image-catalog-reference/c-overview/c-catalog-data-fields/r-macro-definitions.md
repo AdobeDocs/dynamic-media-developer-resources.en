@@ -4,8 +4,9 @@ seo-description: The following fields are recognized in macro definition files.
 seo-title: Macro definitions
 solution: Experience Manager
 title: Macro definitions
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 806f6394-0af8-4f69-83ec-6fe3b41efa27
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Macro definitions{#macro-definitions}

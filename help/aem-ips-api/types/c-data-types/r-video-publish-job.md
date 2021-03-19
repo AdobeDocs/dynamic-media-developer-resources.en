@@ -4,8 +4,9 @@ seo-description: Publishes files to the configured video publish servers.
 seo-title: VideoPublishJob
 solution: Experience Manager
 title: VideoPublishJob
-topic: Dynamic Media Image Production System API
 uuid: 430cdb75-b909-4023-8627-e9db1991b533
+feature: Dynamic Media Classic,SDK/API,Video
+role: Developer,Administrator
 ---
 
 # VideoPublishJob{#videopublishjob}

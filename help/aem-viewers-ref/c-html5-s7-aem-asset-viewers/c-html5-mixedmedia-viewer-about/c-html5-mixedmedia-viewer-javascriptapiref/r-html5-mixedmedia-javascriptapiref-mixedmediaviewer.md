@@ -4,8 +4,9 @@ seo-description: JavaScript API reference for Mixed Media Viewer.
 seo-title: MixedMediaViewer
 solution: Experience Manager
 title: MixedMediaViewer
-topic: Dynamic Media
 uuid: ccaabc04-a9d0-4f58-96bd-ba76e977bfac
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # MixedMediaViewer{#mixedmediaviewer}

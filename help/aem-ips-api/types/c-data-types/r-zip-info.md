@@ -4,8 +4,9 @@ seo-description: Properties of a ZIP archive asset.
 seo-title: ZipInfo
 solution: Experience Manager
 title: ZipInfo
-topic: Dynamic Media Image Production System API
 uuid: e0072a4a-195d-492e-a788-5c0318ccbe99
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # ZipInfo{#zipinfo}

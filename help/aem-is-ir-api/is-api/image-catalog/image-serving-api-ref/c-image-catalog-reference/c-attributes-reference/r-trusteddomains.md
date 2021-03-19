@@ -4,8 +4,9 @@ seo-description: Flash application web domains. Adobe Flash applications may req
 seo-title: TrustedDomains
 solution: Experience Manager
 title: TrustedDomains
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 1d056d68-b699-413c-897c-8612444735c5
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # TrustedDomains{#trusteddomains}

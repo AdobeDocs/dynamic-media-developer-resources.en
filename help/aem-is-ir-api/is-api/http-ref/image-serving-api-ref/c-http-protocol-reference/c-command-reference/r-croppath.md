@@ -4,8 +4,9 @@ seo-description: Lets you crop to the bounding box of an embedded named path. Th
 seo-title: cropPathE
 solution: Experience Manager
 title: cropPathE
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 4689fd20-dfa0-47eb-8184-cd233f1ac088
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # cropPathE{#croppathe}

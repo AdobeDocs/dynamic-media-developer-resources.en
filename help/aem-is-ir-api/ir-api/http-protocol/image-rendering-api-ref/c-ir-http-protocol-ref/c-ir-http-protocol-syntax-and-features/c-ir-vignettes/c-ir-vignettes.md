@@ -2,7 +2,8 @@
 description: Vignettes are images authored with Dynamic Media Image Authoring for use with Image Rendering.
 solution: Experience Manager
 title: Vignettes
-topic: Dynamic Media Image Serving - Image Rendering API
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Vignettes{#vignettes}

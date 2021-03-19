@@ -4,8 +4,9 @@ seo-description: Sets font metadata fields.
 seo-title: batchSetFontFields
 solution: Experience Manager
 title: batchSetFontFields
-topic: Dynamic Media Image Production System API
 uuid: 0209865e-32b3-4bea-a508-05771a0365e1
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # batchSetFontFields{#batchsetfontfields}

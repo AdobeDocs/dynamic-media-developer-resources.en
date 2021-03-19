@@ -4,8 +4,9 @@ seo-description: Image exists.
 seo-title: exists
 solution: Experience Manager
 title: exists
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 5490e4c7-b52a-4b2e-b002-34afaa242c08
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # exists{#exists}

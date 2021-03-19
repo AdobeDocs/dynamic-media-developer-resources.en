@@ -4,8 +4,9 @@ seo-description: Used by Illustrator/processes.
 seo-title: Illustrator Processes
 solution: Experience Manager
 title: Illustrator Processes
-topic: Dynamic Media Image Production System API
 uuid: 77524dce-25f5-4b01-a729-605a93544fbb
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # Illustrator Processes{#illustrator-processes}

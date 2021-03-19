@@ -4,8 +4,9 @@ seo-description: Adjust contrast. Adjusts the image contrast by increasing the b
 seo-title: op_contrast
 solution: Experience Manager
 title: op_contrast
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: d17b0b49-792b-41ce-a154-5e7635c9ab43
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # op_contrast{#op-contrast}

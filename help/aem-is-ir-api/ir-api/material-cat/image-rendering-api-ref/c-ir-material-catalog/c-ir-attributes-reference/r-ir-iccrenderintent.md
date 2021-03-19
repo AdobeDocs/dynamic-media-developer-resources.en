@@ -4,8 +4,9 @@ seo-description: Color conversion rendering intent. Provides the default renderi
 seo-title: IccRenderIntent
 solution: Experience Manager
 title: IccRenderIntent
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: a9648405-32c3-4762-bbb2-11e97d4f8374
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # IccRenderIntent{#iccrenderintent}

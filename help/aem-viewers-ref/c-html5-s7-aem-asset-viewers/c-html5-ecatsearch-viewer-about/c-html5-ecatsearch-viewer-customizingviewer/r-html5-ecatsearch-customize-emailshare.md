@@ -4,8 +4,9 @@ seo-description: Email share tool consists of a button added to the Social share
 seo-title: Email share
 solution: Experience Manager
 title: Email share
-topic: Dynamic Media
 uuid: fc60dd7b-651e-458c-9057-693ca1c0afdc
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # Email share{#email-share}

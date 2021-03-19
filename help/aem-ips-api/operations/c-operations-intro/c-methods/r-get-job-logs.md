@@ -4,8 +4,9 @@ seo-description: Gets specified job logs for the selected company. You can sort 
 seo-title: getJobLogs
 solution: Experience Manager
 title: getJobLogs
-topic: Dynamic Media Image Production System API
 uuid: 850ccfad-6cdb-4eda-a20a-762fadadf8b2
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # getJobLogs{#getjoblogs}

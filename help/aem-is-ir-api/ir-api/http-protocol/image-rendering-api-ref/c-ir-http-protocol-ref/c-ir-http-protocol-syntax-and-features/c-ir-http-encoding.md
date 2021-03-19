@@ -4,8 +4,9 @@ seo-description: Command values must be http-encoded using %xx escape sequences,
 seo-title: Image Rendering HTTP encoding
 solution: Experience Manager
 title: Image Rendering HTTP encoding
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 37bd0040-7bad-4548-ab39-7f598a217732
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Image Rendering HTTP encoding{#image-rendering-http-encoding}

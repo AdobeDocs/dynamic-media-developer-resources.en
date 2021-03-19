@@ -4,8 +4,9 @@ seo-description: Properties of an CSS file asset.
 seo-title: CssInfo
 solution: Experience Manager
 title: CssInfo
-topic: Dynamic Media Image Production System API
 uuid: 88575f2b-ace4-4a93-8e35-9685f5893530
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # CssInfo{#cssinfo}

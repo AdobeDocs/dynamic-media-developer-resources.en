@@ -4,8 +4,9 @@ seo-description: This section contains information to help you set up and manage
 seo-title: Configuring and managing the server
 solution: Experience Manager
 title: Configuring and managing the server
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: cd344495-cb41-440e-b3f8-5b5812e81a9c
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Configuring and managing the server{#configuring-and-managing-the-server}

@@ -4,8 +4,9 @@ seo-description: ICC profile map file path. Specifies the file which contains th
 seo-title: IccProfileMapFile
 solution: Experience Manager
 title: IccProfileMapFile
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 24fda621-05ef-4c3f-aa93-56d439334602
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # IccProfileMapFile{#iccprofilemapfile}

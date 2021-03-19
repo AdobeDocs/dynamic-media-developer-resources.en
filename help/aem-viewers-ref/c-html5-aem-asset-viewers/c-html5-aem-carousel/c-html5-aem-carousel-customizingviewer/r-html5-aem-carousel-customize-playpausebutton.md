@@ -4,8 +4,9 @@ seo-description: The Play/Pause button lets a user pause or resume carousel auto
 seo-title: PlayPause button
 solution: Experience Manager
 title: PlayPause button
-topic: Dynamic Media
 uuid: 342def36-9dfb-487c-bed5-b0f301ce8430
+feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
+role: Developer,Business Practitioner
 ---
 
 # PlayPause button{#playpause-button}

@@ -2,7 +2,8 @@
 description: Error message detail. Specifies the level of detail for error messages returned via HTTP as the error.message value.
 solution: Experience Manager
 title: ErrorDetail
-topic: Dynamic Media Image Serving - Image Rendering API
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # ErrorDetail{#errordetail}

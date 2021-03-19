@@ -4,8 +4,9 @@ seo-description: PDF file properties.
 seo-title: PdfInfo
 solution: Experience Manager
 title: PdfInfo
-topic: Dynamic Media Image Production System API
 uuid: 6143e7bd-f0d1-4388-a5ae-f8d40ad34175
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # PdfInfo{#pdfinfo}

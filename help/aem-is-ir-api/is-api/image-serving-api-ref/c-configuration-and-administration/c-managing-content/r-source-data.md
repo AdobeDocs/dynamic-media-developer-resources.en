@@ -4,8 +4,9 @@ seo-description: Image Serving source data files include image and mask files, f
 seo-title: Source data
 solution: Experience Manager
 title: Source data
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: d654eee7-ef2d-4546-93bb-72f80c38e018
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Source data{#source-data}

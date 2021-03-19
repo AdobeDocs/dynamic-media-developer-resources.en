@@ -4,8 +4,9 @@ seo-description: Create a new image map or edit an existing map.
 seo-title: saveImageMap
 solution: Experience Manager
 title: saveImageMap
-topic: Dynamic Media Image Production System API
 uuid: 9714fc99-2259-4766-96d7-fe2f9fd2f341
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # saveImageMap{#saveimagemap}

@@ -4,8 +4,9 @@ seo-description: Deletes an asset.
 seo-title: deleteAsset
 solution: Experience Manager
 title: deleteAsset
-topic: Dynamic Media Image Production System API
 uuid: 47f700e0-04bf-4d33-a18a-d938f7e9e326
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # deleteAsset{#deleteasset}

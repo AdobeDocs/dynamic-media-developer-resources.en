@@ -4,8 +4,9 @@ seo-description: Warning or error details for a sing update in a batchSetAssetMe
 seo-title: SetMetadataFault
 solution: Experience Manager
 title: SetMetadataFault
-topic: Dynamic Media Image Production System API
 uuid: 22302bb0-914a-4d50-a188-9c3ee58e0481
+feature: Dynamic Media Classic,SDK/API,Metadata
+role: Developer,Administrator
 ---
 
 # SetMetadataFault{#setmetadatafault}

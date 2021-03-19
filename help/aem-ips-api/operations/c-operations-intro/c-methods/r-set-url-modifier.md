@@ -4,8 +4,9 @@ seo-description: Sets the Image Serving or Image Rendering protocol commands for
 seo-title: setUrlModifier
 solution: Experience Manager
 title: setUrlModifier
-topic: Dynamic Media Image Production System API
 uuid: ec423e57-338b-4a32-be5a-a73fa96712ce
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # setUrlModifier{#seturlmodifier}

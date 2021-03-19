@@ -4,8 +4,9 @@ seo-description: Client IP address filter. Allows specification of one or more I
 seo-title: ClientAddressFilter
 solution: Experience Manager
 title: ClientAddressFilter
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: b68f527b-7fa7-43e3-9517-57a6c3700b06
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # ClientAddressFilter{#clientaddressfilter}

@@ -2,7 +2,8 @@
 description: All configuration files are located in install_folder/conf and are editable with most text editors. The server may need to be restarted for changes to take effect.
 solution: Experience Manager
 title: Server configuration files
-topic: Dynamic Media Image Serving - Image Rendering API
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Server configuration files{#server-configuration-files}

@@ -4,8 +4,9 @@ seo-description: The image returned to the client in response to a req=tmb reque
 seo-title: View transform for thumbnails
 solution: Experience Manager
 title: View transform for thumbnails
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 29924bc1-ada1-420f-aef7-bf9a7db7065b
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # View transform for thumbnails{#view-transform-for-thumbnails}

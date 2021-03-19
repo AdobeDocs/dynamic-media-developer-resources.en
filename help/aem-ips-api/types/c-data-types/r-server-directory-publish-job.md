@@ -4,8 +4,9 @@ seo-description: Publishes all the images, templates, and spin sets that are mar
 seo-title: ServerDirectoryPublishJob
 solution: Experience Manager
 title: ServerDirectoryPublishJob
-topic: Dynamic Media Image Production System API
 uuid: 779f2c13-f57c-4244-b8bd-debed2b0f9af
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # ServerDirectoryPublishJob{#serverdirectorypublishjob}

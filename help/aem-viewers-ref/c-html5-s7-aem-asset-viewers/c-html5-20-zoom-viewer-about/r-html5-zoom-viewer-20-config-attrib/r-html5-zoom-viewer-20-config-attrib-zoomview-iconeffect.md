@@ -2,8 +2,9 @@
 description: ZoomView.iconeffect
 solution: Experience Manager
 title: ZoomView.iconeffect
-topic: Dynamic Media
 uuid: 3c10e625-f789-4454-8898-b3f293aa49b7
+feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
+role: Developer,Business Practitioner
 ---
 
 # ZoomView.iconeffect{#zoomview-iconeffect}

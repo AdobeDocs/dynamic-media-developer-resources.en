@@ -4,8 +4,9 @@ seo-description: In continuous zoom mode, main view consists of the zoomable ima
 seo-title: Zoom view
 solution: Experience Manager
 title: Zoom view
-topic: Dynamic Media
 uuid: c9113275-eec6-4014-b7ad-3ae9f2cf01d9
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # Zoom view{#zoom-view}

@@ -4,8 +4,9 @@ seo-description: Set indicator is a series of dots rendered at the bottom of the
 seo-title: Set indicator
 solution: Experience Manager
 title: Set indicator
-topic: Dynamic Media
 uuid: 3f90a216-654f-44a9-947d-592bd5f342d4
+feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
+role: Developer,Business Practitioner
 ---
 
 # Set indicator{#set-indicator}

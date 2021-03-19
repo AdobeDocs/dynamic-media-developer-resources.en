@@ -4,8 +4,9 @@ seo-description: Carousel Viewer is a viewer that displays a carousel of non-zoo
 seo-title: Carousel
 solution: Experience Manager
 title: Carousel
-topic: Dynamic Media
 uuid: 0ba4f40b-8dde-4479-b906-3115f09ab249
+feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
+role: Developer,Business Practitioner
 ---
 
 # Carousel{#carousel}

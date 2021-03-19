@@ -4,8 +4,9 @@ seo-description: An array of masks.
 seo-title: MaskArray
 solution: Experience Manager
 title: MaskArray
-topic: Dynamic Media Image Production System API
 uuid: c57fcdae-2cad-48ca-8ade-bb81efee142c
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # MaskArray{#maskarray}

@@ -4,8 +4,9 @@ seo-description: Clicking or tapping this button resets toggles the viewer betwe
 seo-title: Thumbnails button
 solution: Experience Manager
 title: Thumbnails button
-topic: Dynamic Media
 uuid: a1a7f4b0-672e-4b83-9b21-0b8c6fc3f24a
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
+role: Developer,Business Practitioner
 ---
 
 # Thumbnails button{#thumbnails-button}

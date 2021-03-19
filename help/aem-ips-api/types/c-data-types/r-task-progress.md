@@ -4,8 +4,9 @@ seo-description: Task progress information.
 seo-title: TaskProgress
 solution: Experience Manager
 title: TaskProgress
-topic: Dynamic Media Image Production System API
 uuid: b3b67803-147a-48a3-acc3-d608e01e0800
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # TaskProgress{#taskprogress}

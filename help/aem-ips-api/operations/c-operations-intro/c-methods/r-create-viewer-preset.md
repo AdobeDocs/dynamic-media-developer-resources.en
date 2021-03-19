@@ -4,8 +4,9 @@ seo-description: Creates a preset view that determines what a user can see. The 
 seo-title: createViewerPreset
 solution: Experience Manager
 title: createViewerPreset
-topic: Dynamic Media Image Production System API
 uuid: 4160d2b0-6147-459f-830a-43c99b8dc196
+feature: Dynamic Media Classic,SDK/API,Viewer Presets
+role: Developer,Administrator
 ---
 
 # createViewerPreset{#createviewerpreset}

@@ -4,8 +4,9 @@ seo-description: An array of Zoom targets.
 seo-title: ZoomTargetArray
 solution: Experience Manager
 title: ZoomTargetArray
-topic: Dynamic Media Image Production System API
 uuid: 6dc21229-33b0-4e10-bcf2-1319016ffded
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # ZoomTargetArray{#zoomtargetarray}

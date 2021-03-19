@@ -4,8 +4,9 @@ seo-description: Output Color Profile.
 seo-title: icc
 solution: Experience Manager
 title: icc
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: cfbd18aa-cbba-4085-920d-1f54645d0f89
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # icc{#icc}

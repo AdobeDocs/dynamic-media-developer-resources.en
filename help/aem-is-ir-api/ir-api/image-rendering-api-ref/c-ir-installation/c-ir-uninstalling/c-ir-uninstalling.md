@@ -4,8 +4,9 @@ seo-description: If it ever becomes necessary, you can uninstall Image Rendering
 seo-title: Uninstalling Image Rendering
 solution: Experience Manager
 title: Uninstalling Image Rendering
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: ffabd01e-8653-491f-bddc-4ea6fcde0b43
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Uninstalling Image Rendering{#uninstalling-image-rendering}

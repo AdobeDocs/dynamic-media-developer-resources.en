@@ -4,8 +4,9 @@ seo-description: This material category includes paints for walls, woodwork and 
 seo-title: Solid colors
 solution: Experience Manager
 title: Solid colors
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 75b60e44-1727-4f3e-a186-df66fabeec0d
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Solid colors{#solid-colors}

@@ -4,8 +4,9 @@ seo-description: Colorize image. Colorizes the image data while preserving shado
 seo-title: op_colorize
 solution: Experience Manager
 title: op_colorize
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: e74a85ca-73bf-4c69-ac77-768a58b33d0b
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # op_colorize{#op-colorize}

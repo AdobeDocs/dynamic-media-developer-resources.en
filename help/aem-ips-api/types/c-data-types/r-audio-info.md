@@ -4,8 +4,9 @@ seo-description: Properties of an audio file asset.
 seo-title: AudioInfo
 solution: Experience Manager
 title: AudioInfo
-topic: Dynamic Media Image Production System API
 uuid: f8b8ed63-aac6-4ef1-bdf1-4b27265acffa
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # AudioInfo{#audioinfo}

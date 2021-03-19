@@ -4,8 +4,9 @@ seo-description: Default image modification time stamp. Provides a default value
 seo-title: TimeStamp
 solution: Experience Manager
 title: TimeStamp
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 0670e53a-ad7d-46cf-8e18-4c52a766df6f
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # TimeStamp{#timestamp}

@@ -5,8 +5,9 @@ seo-description: All visual customization and most behavior customization for th
 seo-title: Customizing Interactive Video Viewer
 solution: Experience Manager
 title: Customizing Interactive Video Viewer
-topic: Dynamic Media
 uuid: a24e7ada-c874-468b-ac44-a51d581d4479
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
+role: Developer,Business Practitioner
 ---
 
 # Customizing Interactive Video Viewer{#customizing-interactive-video-viewer}

@@ -4,8 +4,9 @@ seo-description: Catalog attribute files can have any name, but must have an .in
 seo-title: Catalog attribute files
 solution: Experience Manager
 title: Catalog attribute files
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 63985780-f032-4542-8d84-b8b608ceea4b
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Catalog attribute files{#catalog-attribute-files}

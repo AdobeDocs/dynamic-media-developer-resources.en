@@ -4,8 +4,9 @@ seo-description: Layer image.
 seo-title: src
 solution: Experience Manager
 title: src
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: b4396848-b992-4371-a8ae-4ff1781ae1be
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # src{#src}

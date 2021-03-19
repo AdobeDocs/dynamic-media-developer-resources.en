@@ -4,8 +4,9 @@ seo-description: Parameter common to all viewers.
 seo-title: config
 solution: Experience Manager
 title: config
-topic: Dynamic Media
 uuid: 9e9bb580-a33a-4405-b05c-56962d702145
+feature: Dynamic Media Classic,Viewers,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # config{#config}

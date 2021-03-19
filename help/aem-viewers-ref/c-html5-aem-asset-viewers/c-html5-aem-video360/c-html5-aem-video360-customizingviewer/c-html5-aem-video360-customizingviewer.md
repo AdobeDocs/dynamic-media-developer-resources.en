@@ -5,8 +5,9 @@ seo-description: All visual customization and most behavior customization for th
 seo-title: Customizing Video360 Viewer
 solution: Experience Manager
 title: Customizing Video360 Viewer
-topic: Dynamic Media
 uuid: 1f021a11-856e-4bbc-a2ee-454ab0a60adb
+feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
+role: Developer,Business Practitioner
 ---
 
 # Customizing Video360 Viewer{#customizing-video-viewer}

@@ -4,8 +4,9 @@ seo-description: Submit a new batch job.
 seo-title: batchjobsubmit
 solution: Experience Manager
 title: batchjobsubmit
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: eb695666-fcaf-40bc-8b56-452819f058d2
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # batchjobsubmit{#batchjobsubmit}

@@ -4,8 +4,9 @@ seo-description: List of paths, delimited by semi-colons, serve as roots for all
 seo-title: Resource root folders (ir.resourceRootPaths)
 solution: Experience Manager
 title: Resource root folders (ir.resourceRootPaths)
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: a2a8ecd1-ddfe-46c5-bb70-4640e0992de8
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Resource root folders (ir.resourceRootPaths){#resource-root-folders-ir-resourcerootpaths}

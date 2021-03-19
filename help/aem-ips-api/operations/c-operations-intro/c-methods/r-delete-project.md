@@ -4,8 +4,9 @@ seo-description: Deletes a project from a company. The links between the assets 
 seo-title: deleteProject
 solution: Experience Manager
 title: deleteProject
-topic: Dynamic Media Image Production System API
 uuid: 0915066f-2106-4cbc-a68a-f149810c24f8
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # deleteProject{#deleteproject}

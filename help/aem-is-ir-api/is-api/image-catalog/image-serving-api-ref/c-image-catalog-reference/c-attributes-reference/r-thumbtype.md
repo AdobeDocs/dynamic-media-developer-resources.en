@@ -4,8 +4,9 @@ seo-description: Default thumbnail type. Provides a default for the thumbnail ty
 seo-title: ThumbType
 solution: Experience Manager
 title: ThumbType
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 0b4aa767-2d80-4df8-8189-9d095cb88e87
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # ThumbType{#thumbtype}

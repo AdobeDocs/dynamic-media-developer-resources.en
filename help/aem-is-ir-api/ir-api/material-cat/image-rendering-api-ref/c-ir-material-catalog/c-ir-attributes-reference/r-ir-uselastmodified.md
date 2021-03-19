@@ -4,8 +4,9 @@ seo-description: Enable last-modified response headers. Enables or disables incl
 seo-title: UseLastModified
 solution: Experience Manager
 title: UseLastModified
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: f2ce2e04-4133-40af-ac82-cae57b253fe9
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # UseLastModified{#uselastmodified}

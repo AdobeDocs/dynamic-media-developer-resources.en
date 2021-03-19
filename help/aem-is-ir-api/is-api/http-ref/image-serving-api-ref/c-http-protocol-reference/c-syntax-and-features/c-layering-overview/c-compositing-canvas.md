@@ -4,8 +4,9 @@ seo-description: Layers are composited in the order specified by the layer= comm
 seo-title: The compositing canvas
 solution: Experience Manager
 title: The compositing canvas
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 057b11cb-36f3-40f8-b095-9ad05da858a9
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # The compositing canvas{#the-compositing-canvas}

@@ -4,8 +4,9 @@ seo-description: Creates a copy of an existing image asset. The specified Image 
 seo-title: copyImage
 solution: Experience Manager
 title: copyImage
-topic: Dynamic Media Image Production System API
 uuid: ae24f0cc-bcf0-4652-a67d-ed69f8a0da92
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # copyImage{#copyimage}

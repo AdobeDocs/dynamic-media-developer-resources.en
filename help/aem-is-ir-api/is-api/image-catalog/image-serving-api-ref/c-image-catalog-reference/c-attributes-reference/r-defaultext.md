@@ -4,8 +4,9 @@ seo-description: Default image file suffix. Appended to the catalog Path (or cat
 seo-title: DefaultExt
 solution: Experience Manager
 title: DefaultExt
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: aa245d18-15cc-41cb-a49d-757d74fe6231
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # DefaultExt{#defaultext}

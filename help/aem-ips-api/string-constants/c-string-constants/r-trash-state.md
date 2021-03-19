@@ -4,8 +4,9 @@ seo-description: Used by searchAssetReturn/trashState.
 seo-title: Trash State
 solution: Experience Manager
 title: Trash State
-topic: Dynamic Media Image Production System API
 uuid: 1fd56800-bf3e-4ecb-8329-5674c2b53a86
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # Trash State{#trash-state}

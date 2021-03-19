@@ -4,8 +4,9 @@ seo-description: Uploads files from specified server directories on a recurring 
 seo-title: UploadDirectoryJob
 solution: Experience Manager
 title: UploadDirectoryJob
-topic: Dynamic Media Image Production System API
 uuid: 6e6ae415-7c54-4bbb-aa98-ff9a77d956b0
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # UploadDirectoryJob{#uploaddirectoryjob}

@@ -4,8 +4,9 @@ seo-description: Substitution variable are used to transfer values from the requ
 seo-title: Substitution Variables
 solution: Experience Manager
 title: Substitution Variables
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 87cd9594-ba3b-429d-aa57-399902ef3abe
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Substitution Variables{#substitution-variables}
