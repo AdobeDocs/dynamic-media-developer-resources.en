@@ -4,8 +4,9 @@ seo-description: Returns an array of all companies.
 seo-title: getAllCompanies
 solution: Experience Manager
 title: getAllCompanies
-topic: Dynamic Media Image Production System API
 uuid: bc2d82b1-e020-4dfe-9704-601ef5aa2111
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # getAllCompanies{#getallcompanies}

@@ -2,7 +2,8 @@
 description: Creates a user account and adds that account to one or more companies.
 solution: Experience Manager
 title: addUser
-topic: Dynamic Media Image Production System API
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # addUser{#adduser}

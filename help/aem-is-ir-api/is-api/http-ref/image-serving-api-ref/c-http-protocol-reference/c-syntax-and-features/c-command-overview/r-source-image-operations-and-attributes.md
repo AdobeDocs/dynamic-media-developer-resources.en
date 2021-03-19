@@ -4,8 +4,9 @@ seo-description: These commands apply to source images used either in simple req
 seo-title: Source image operations
 solution: Experience Manager
 title: Source image operations
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: ad6dbcd8-f4a4-4439-b51a-2aca30d198e0
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Source image operations{#source-image-operations}

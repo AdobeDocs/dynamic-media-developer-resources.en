@@ -2,8 +2,9 @@
 description: InfoPanelPopup.infoServerUrl
 solution: Experience Manager
 title: InfoPanelPopup.infoServerUrl
-topic: Dynamic Media
 uuid: 0d0f2fd8-b3fc-46fd-8720-9c4c51db9646
+feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog"
+role: "Developer,Business Practitioner"
 ---
 
 # InfoPanelPopup.infoServerUrl{#infopanelpopup-infoserverurl}

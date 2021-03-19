@@ -4,8 +4,9 @@ seo-description: Update information for ICC profile properties.
 seo-title: IccProfileFieldUpdate
 solution: Experience Manager
 title: IccProfileFieldUpdate
-topic: Dynamic Media Image Production System API
 uuid: 0a37e7d9-7ed9-4db2-afc7-eaee69f97d9b
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # IccProfileFieldUpdate{#iccprofilefieldupdate}

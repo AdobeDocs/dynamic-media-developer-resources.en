@@ -2,8 +2,9 @@
 description: PageView.doubleclick
 solution: Experience Manager
 title: PageView.doubleclick
-topic: Dynamic Media
 uuid: c62302b0-d034-49d4-b5a8-1a77a46fe889
+feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
+role: "Developer,Business Practitioner"
 ---
 
 # PageView.doubleclick{#pageview-doubleclick}

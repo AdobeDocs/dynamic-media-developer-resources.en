@@ -2,7 +2,8 @@
 description: All log files are written to the same log folder specified with TC directory.
 solution: Experience Manager
 title: Server logging
-topic: Dynamic Media Image Serving - Image Rendering API
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator,Business Practitioner"
 ---
 
 # Server logging{#server-logging}

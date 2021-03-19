@@ -4,8 +4,9 @@ seo-description: These commands apply regardless of where in the request they ap
 seo-title: Request commands
 solution: Experience Manager
 title: Request commands
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 5566bbcd-baf8-4003-b61d-df4e414df781
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Request commands{#request-commands}

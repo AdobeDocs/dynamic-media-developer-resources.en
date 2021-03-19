@@ -4,8 +4,9 @@ seo-description: The following options control the processing of vignette files.
 seo-title: Options for vignettes
 solution: Experience Manager
 title: Options for vignettes
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 0cb40314-07ce-496b-a27b-560d7bb4fa8e
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Options for vignettes{#options-for-vignettes}

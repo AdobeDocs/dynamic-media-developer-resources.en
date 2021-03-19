@@ -4,8 +4,9 @@ seo-description: Most materials can be colorized dynamically.
 seo-title: Colorizing materials
 solution: Experience Manager
 title: Colorizing materials
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 3f5a9089-6e35-446c-89f9-71b067e0d1df
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Colorizing materials{#colorizing-materials}

@@ -2,8 +2,9 @@
 description: ZoomView.iscommand
 solution: Experience Manager
 title: ZoomView.iscommand
-topic: Dynamic Media
 uuid: e2a9388d-c753-4988-9aa0-73c4d0428d67
+feature: "Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets"
+role: "Developer,Business Practitioner"
 ---
 
 # ZoomView.iscommand{#zoomview-iscommand}

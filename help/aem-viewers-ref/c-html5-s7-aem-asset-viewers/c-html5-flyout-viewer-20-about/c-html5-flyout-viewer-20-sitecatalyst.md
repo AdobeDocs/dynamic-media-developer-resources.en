@@ -4,8 +4,9 @@ seo-description: The Flyout Viewer supports Adobe Analytics tracking out of the 
 seo-title: Support for Adobe Analytics tracking
 solution: Experience Manager
 title: Support for Adobe Analytics tracking
-topic: Dynamic Media
 uuid: 204857d3-744a-4c11-90db-1b18ff5ea5df
+feature: "Dynamic Media Classic,Viewers,SDK/API,Flyout"
+role: "Developer,Business Practitioner,Data Engineer,Data Architect"
 ---
 
 # Support for Adobe Analytics tracking{#support-for-adobe-analytics-tracking}

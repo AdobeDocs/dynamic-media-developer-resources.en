@@ -2,8 +2,9 @@
 description: Search feature
 solution: Experience Manager
 title: Search feature
-topic: Dynamic Media
 uuid: eb8e79fa-893b-402c-a937-6d7121c95821
+feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
+role: "Developer,Business Practitioner"
 ---
 
 # Search feature{#search-feature}

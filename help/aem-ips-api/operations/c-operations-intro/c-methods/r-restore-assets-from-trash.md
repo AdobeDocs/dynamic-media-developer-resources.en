@@ -4,8 +4,9 @@ seo-description: Restores assets from trash.
 seo-title: restoreAssetsFromTrash
 solution: Experience Manager
 title: restoreAssetsFromTrash
-topic: Dynamic Media Image Production System API
 uuid: f7424d4c-7807-4de9-ad0c-f96364bf7b82
+feature: "Dynamic Media Classic,SDK/API,Asset Management"
+role: "Developer,Administrator"
 ---
 
 # restoreAssetsFromTrash{#restoreassetsfromtrash}

@@ -4,8 +4,9 @@ seo-description: Image size. Pixel size of the full-resolution image referenced 
 seo-title: Size
 solution: Experience Manager
 title: Size
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 6fe2aeb6-0dd7-4631-955f-ad74d11b613d
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Size{#size}

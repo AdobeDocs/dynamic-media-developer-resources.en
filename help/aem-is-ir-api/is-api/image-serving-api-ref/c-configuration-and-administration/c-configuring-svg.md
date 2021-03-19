@@ -4,8 +4,9 @@ seo-description: The SvgRender component is an independent Java application.
 seo-title: Configuring SVG
 solution: Experience Manager
 title: Configuring SVG
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: f6e131af-283e-4649-b349-123489c0838d
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator,Business Practitioner"
 ---
 
 # Configuring SVG{#configuring-svg}

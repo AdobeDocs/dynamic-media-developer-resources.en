@@ -2,7 +2,8 @@
 description: Contains server supervisor configuration settings.
 solution: Experience Manager
 title: SupervisorRegistry.xml
-topic: Dynamic Media Image Serving - Image Rendering API
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator,Business Practitioner"
 ---
 
 # SupervisorRegistry.xml{#supervisorregistry-xml}

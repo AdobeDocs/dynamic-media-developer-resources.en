@@ -4,8 +4,9 @@ seo-description: Renames an asset.
 seo-title: renameAsset
 solution: Experience Manager
 title: renameAsset
-topic: Dynamic Media Image Production System API
 uuid: f285d7e4-00df-4d90-a05a-71747a4c54cc
+feature: "Dynamic Media Classic,SDK/API,Asset Management"
+role: "Developer,Administrator"
 ---
 
 # renameAsset{#renameasset}

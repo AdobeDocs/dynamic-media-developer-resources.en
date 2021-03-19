@@ -4,8 +4,9 @@ seo-description: Metadata search results that contain summarized information abo
 seo-title: AssetSummary
 solution: Experience Manager
 title: AssetSummary
-topic: Dynamic Media Image Production System API
 uuid: 0ac8f900-c16c-409d-b83c-3bdf0ad28fac
+feature: "Dynamic Media Classic,SDK/API,Asset Management"
+role: "Developer,Administrator"
 ---
 
 # AssetSummary{#assetsummary}

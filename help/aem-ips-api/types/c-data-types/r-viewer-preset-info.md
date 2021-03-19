@@ -4,8 +4,9 @@ seo-description: Properties of a viewer preset asset.
 seo-title: ViewerPresetInfo
 solution: Experience Manager
 title: ViewerPresetInfo
-topic: Dynamic Media Image Production System API
 uuid: 0117488d-b89d-48d4-b081-af177a22f71f
+feature: "Dynamic Media Classic,SDK/API,Viewer Presets"
+role: "Developer,Administrator"
 ---
 
 # ViewerPresetInfo{#viewerpresetinfo}

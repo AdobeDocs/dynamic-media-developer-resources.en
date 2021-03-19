@@ -4,8 +4,9 @@ seo-description: Image anchor. Origin point when this image is used as a layer i
 seo-title: Anchor
 solution: Experience Manager
 title: Anchor
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 81069578-8470-4ec0-b755-47b0a8124024
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Anchor{#anchor}

@@ -4,8 +4,9 @@ seo-description: These commands are also available.
 seo-title: Miscellaneous commands
 solution: Experience Manager
 title: Miscellaneous commands
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 31718b04-f09c-4103-8ccb-6818f91a1e32
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Miscellaneous commands{#miscellaneous-commands}

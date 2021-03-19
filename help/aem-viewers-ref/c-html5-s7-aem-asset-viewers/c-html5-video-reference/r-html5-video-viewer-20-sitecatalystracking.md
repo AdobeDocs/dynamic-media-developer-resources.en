@@ -4,8 +4,9 @@ seo-description: The Video Viewer supports Adobe Analytics tracking out-of-the-b
 seo-title: Support for Adobe Analytics tracking
 solution: Experience Manager
 title: Support for Adobe Analytics tracking
-topic: Dynamic Media
 uuid: c53b3d3b-42e5-4c87-8a1e-87c73eb32341
+feature: "Dynamic Media Classic,Viewers,SDK/API,Video"
+role: "Developer,Business Practitioner,Data Engineer,Data Architect"
 ---
 
 # Support for Adobe Analytics tracking{#support-for-adobe-analytics-tracking}

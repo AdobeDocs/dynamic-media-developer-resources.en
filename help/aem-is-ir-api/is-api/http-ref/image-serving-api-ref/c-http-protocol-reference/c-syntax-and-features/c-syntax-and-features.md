@@ -4,8 +4,9 @@ seo-description: Topics in this section describe the syntax and features of the 
 seo-title: Syntax and features
 solution: Experience Manager
 title: Syntax and features
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 5f8df6a2-a8f9-4582-9e1e-8f26acf61df4
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Syntax and features{#syntax-and-features}

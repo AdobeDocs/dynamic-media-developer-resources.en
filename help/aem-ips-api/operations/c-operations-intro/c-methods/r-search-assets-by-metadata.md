@@ -4,8 +4,9 @@ seo-description: Searches the metadata index repository for the given search ter
 seo-title: searchAssetsByMetadata
 solution: Experience Manager
 title: searchAssetsByMetadata
-topic: Dynamic Media Image Production System API
 uuid: f4119ee9-f6d8-49fb-9d8c-bb200951d983
+feature: "Dynamic Media Classic,SDK/API,Metadata,Asset Management"
+role: "Developer,Administrator"
 ---
 
 # searchAssetsByMetadata{#searchassetsbymetadata}

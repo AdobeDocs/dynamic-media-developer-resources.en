@@ -4,8 +4,9 @@ seo-description: Configuration attribute for Video Viewer.
 seo-title: VideoPlayer.autoplay
 solution: Experience Manager
 title: VideoPlayer.autoplay
-topic: Dynamic Media
 uuid: a603590b-5b56-4e67-837c-1ec5b1196b35
+feature: "Dynamic Media Classic,Viewers,SDK/API,Video"
+role: "Developer,Business Practitioner"
 ---
 
 # VideoPlayer.autoplay{#videoplayer-autoplay}

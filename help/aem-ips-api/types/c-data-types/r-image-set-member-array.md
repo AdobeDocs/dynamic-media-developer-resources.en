@@ -4,8 +4,9 @@ seo-description: An array of image set members.
 seo-title: ImageSetMemberArray
 solution: Experience Manager
 title: ImageSetMemberArray
-topic: Dynamic Media Image Production System API
 uuid: 49dec4a7-cffb-4d15-bdac-bb3a60fca0ee
+feature: "Dynamic Media Classic,SDK/API,Image Sets"
+role: "Developer,Administrator"
 ---
 
 # ImageSetMemberArray{#imagesetmemberarray}

@@ -1,11 +1,13 @@
 ---
 title: Adobe Dynamic Media Classic release notes
-description: Release notes for Adobe Dynamic Media Classic-part of the Adobe Experience Manager solution in the Adobe Experience Cloud.
+description: "Release notes for Adobe Dynamic Media Classic, part of the Adobe Experience Manager solution in the Adobe Experience Cloud."
 author: Rick Brough
 cloud: experience-cloud
 product: Dynamic Media Classic
 archtype: end-user
 user-guide: null
+feature: Dynamic Media Classic
+role: "Developer,Business Practitioner"
 ---
 
 # Dynamic Media Release Notes {#release-notes}

@@ -4,8 +4,9 @@ seo-description: Image anchor. Specifies the anchor point (hotspot) of a repeata
 seo-title: Anchor
 solution: Experience Manager
 title: Anchor
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 0b1a0fea-b299-44dc-b9fd-5916130b2ef3
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Anchor{#anchor}

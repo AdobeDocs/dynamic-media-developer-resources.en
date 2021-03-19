@@ -4,8 +4,9 @@ seo-description: The following fields are recognized in ICC color profile map fi
 seo-title: ICC profile maps
 solution: Experience Manager
 title: ICC profile maps
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: b244c95a-3198-4d6c-836f-f199022348b4
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # ICC profile maps{#icc-profile-maps}

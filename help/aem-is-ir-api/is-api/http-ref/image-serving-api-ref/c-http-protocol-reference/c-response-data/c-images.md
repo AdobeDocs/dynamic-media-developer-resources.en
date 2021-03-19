@@ -4,8 +4,9 @@ seo-description: Image data is returned if a request successfully completes, and
 seo-title: Images
 solution: Experience Manager
 title: Images
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 715154b6-f9ac-459e-a566-f78a4ca4580d
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Images{#images}

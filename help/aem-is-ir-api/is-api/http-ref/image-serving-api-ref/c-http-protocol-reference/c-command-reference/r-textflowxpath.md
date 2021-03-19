@@ -4,8 +4,9 @@ seo-description: Text flow exclusion area. Specifies one or more regions to excl
 seo-title: textFlowXPath
 solution: Experience Manager
 title: textFlowXPath
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: ce833ae7-e774-4954-a521-b6247e75f6eb
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # textFlowXPath{#textflowxpath}

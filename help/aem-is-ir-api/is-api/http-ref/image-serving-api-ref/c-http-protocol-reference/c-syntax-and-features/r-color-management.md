@@ -2,7 +2,8 @@
 description: Image Serving supports color space conversions based on color space profiles conforming to the ICC (International Color Consortium) specification.
 solution: Experience Manager
 title: Image Serving color management
-topic: Dynamic Media Image Serving - Image Rendering API
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Image Serving color management{#image-serving-color-management}

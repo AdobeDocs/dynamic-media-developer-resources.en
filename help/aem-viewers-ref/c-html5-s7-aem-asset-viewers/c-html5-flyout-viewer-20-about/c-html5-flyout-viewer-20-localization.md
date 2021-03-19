@@ -4,8 +4,9 @@ seo-description: Certain content that the Flyout Viewer displays is subject to l
 seo-title: Localization of user interface elements
 solution: Experience Manager
 title: Localization of user interface elements
-topic: Dynamic Media
 uuid: efba09ad-200b-4540-8876-c9e462ec233a
+feature: "Dynamic Media Classic,Viewers,SDK/API,Flyout"
+role: "Developer,Business Practitioner"
 ---
 
 # Localization of user interface elements{#localization-of-user-interface-elements}

@@ -4,8 +4,9 @@ seo-description: Filters that help you define search criteria to make searches m
 seo-title: SearchFilter
 solution: Experience Manager
 title: SearchFilter
-topic: Dynamic Media Image Production System API
 uuid: 85a434d3-51a5-4e68-901e-70585c0e8b20
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # SearchFilter{#searchfilter}

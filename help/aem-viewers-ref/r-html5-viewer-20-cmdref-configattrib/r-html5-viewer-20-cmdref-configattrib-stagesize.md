@@ -2,8 +2,9 @@
 description: stageSize
 solution: Experience Manager
 title: stageSize
-topic: Dynamic Media
 uuid: ad9404e4-a546-4db7-bb2d-d81a304dcb36
+feature: "Dynamic Media Classic,Viewers,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # stageSize{#stagesize}

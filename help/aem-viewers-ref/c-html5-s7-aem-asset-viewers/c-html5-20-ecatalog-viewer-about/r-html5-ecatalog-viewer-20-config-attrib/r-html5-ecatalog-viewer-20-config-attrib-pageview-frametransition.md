@@ -2,8 +2,9 @@
 description: PageView.frametransition
 solution: Experience Manager
 title: PageView.frametransition
-topic: Dynamic Media
 uuid: feeb02c0-f3f9-4559-acd9-cad30788b70b
+feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog"
+role: "Developer,Business Practitioner"
 ---
 
 # PageView.frametransition{#pageview-frametransition}

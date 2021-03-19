@@ -4,8 +4,9 @@ seo-description: Target definition for a click action in the browser.
 seo-title: ImageMapDefinition
 solution: Experience Manager
 title: ImageMapDefinition
-topic: Dynamic Media Image Production System API
 uuid: e3b9a304-5c43-46ce-8e87-860b49006a37
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # ImageMapDefinition{#imagemapdefinition}

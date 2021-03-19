@@ -4,8 +4,9 @@ seo-description: Configuration attribute for Video360 Viewer.
 seo-title: Video360Player.progressivebitrate
 solution: Experience Manager
 title: Video360Player.progressivebitrate
-topic: Dynamic Media
 uuid: 438c18d7-e7ac-4834-8445-def590264448
+feature: "Dynamic Media Classic,Viewers,SDK/API,360 VR Video"
+role: "Developer,Business Practitioner"
 ---
 
 # Video360Player.progressivebitrate{#video-player-progressivebitrate}

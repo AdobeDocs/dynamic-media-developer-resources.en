@@ -4,8 +4,9 @@ seo-description: Image catalogs are used to provide information about images and
 seo-title: Overview
 solution: Experience Manager
 title: Overview
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: e8c0401b-9161-4624-babb-6c7afb443e65
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Overview{#overview}

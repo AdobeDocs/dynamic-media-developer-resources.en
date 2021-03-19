@@ -4,8 +4,9 @@ seo-description: An array of messages responding to one the URL provided in the 
 seo-title: OperationFaultArray
 solution: Experience Manager
 title: OperationFaultArray
-topic: Dynamic Media Image Production System API
 uuid: dbf4ab5e-50fb-42f1-a97a-f8d07022b303
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # OperationFaultArray{#operationfaultarray}

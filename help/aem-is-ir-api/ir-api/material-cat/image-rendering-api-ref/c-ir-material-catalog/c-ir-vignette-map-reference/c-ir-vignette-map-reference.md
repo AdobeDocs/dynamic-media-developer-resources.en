@@ -4,8 +4,9 @@ seo-description: If a vignette map is required for a material catalog, the relat
 seo-title: Vignette map reference
 solution: Experience Manager
 title: Vignette map reference
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: a7056c16-1d05-44c8-9dd5-8969f64d3383
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Vignette map reference{#vignette-map-reference}

@@ -4,8 +4,9 @@ seo-description: Updates the image field associated with an image asset.
 seo-title: ImageFieldUpdate
 solution: Experience Manager
 title: ImageFieldUpdate
-topic: Dynamic Media Image Production System API
 uuid: 0262be3e-f840-41cd-bedc-cc37d9982235
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # ImageFieldUpdate{#imagefieldupdate}

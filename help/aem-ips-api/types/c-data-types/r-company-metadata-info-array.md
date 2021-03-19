@@ -4,8 +4,9 @@ seo-description: An array of CompanyMetadataInfo elements.
 seo-title: CompanyMetadataInfoArray
 solution: Experience Manager
 title: CompanyMetadataInfoArray
-topic: Dynamic Media Image Production System API
 uuid: 41b816ce-c19a-49fa-9c12-5773bd3ea634
+feature: "Dynamic Media Classic,SDK/API,Metadata"
+role: "Developer,Administrator"
 ---
 
 # CompanyMetadataInfoArray{#companymetadatainfoarray}

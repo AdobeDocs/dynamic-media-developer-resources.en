@@ -4,8 +4,9 @@ seo-description: Before using Dynamic Media Image Serving, make sure your system
 seo-title: System requirements and prerequisites
 solution: Experience Manager
 title: System requirements and prerequisites
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 80196574-f5a2-4298-880a-cc36f90b6e21
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # System requirements and prerequisites{#system-requirements-and-prerequisites}

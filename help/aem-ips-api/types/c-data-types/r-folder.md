@@ -4,8 +4,9 @@ seo-description: Hierarchical file or asset storage object. Folders can contain 
 seo-title: Folder
 solution: Experience Manager
 title: Folder
-topic: Dynamic Media Image Production System API
 uuid: 8ba8d9cb-c4e5-423c-b8cb-ba8751952771
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # Folder{#folder}

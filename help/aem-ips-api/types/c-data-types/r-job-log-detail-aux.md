@@ -4,8 +4,9 @@ seo-description: Contains supplementary messages associated with the main job lo
 seo-title: JobLogDetailAux
 solution: Experience Manager
 title: JobLogDetailAux
-topic: Dynamic Media Image Production System API
 uuid: df6f61f2-54f1-4996-938c-c3ea8c27551a
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # JobLogDetailAux{#joblogdetailaux}

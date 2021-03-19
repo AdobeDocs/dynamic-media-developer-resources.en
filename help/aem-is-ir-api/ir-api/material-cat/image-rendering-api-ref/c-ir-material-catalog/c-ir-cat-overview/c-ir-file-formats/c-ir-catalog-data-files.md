@@ -4,8 +4,9 @@ seo-description: Catalog data files can have any name and file suffix (except .i
 seo-title: Catalog data files
 solution: Experience Manager
 title: Catalog data files
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 33d991d6-5aa7-4cc6-88d4-10c4bb83d786
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Catalog data files{#catalog-data-files}

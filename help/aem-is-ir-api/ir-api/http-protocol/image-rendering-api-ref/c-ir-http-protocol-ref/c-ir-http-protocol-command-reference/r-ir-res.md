@@ -4,8 +4,9 @@ seo-description: Material resolution. Specifies the resolution of the repeatable
 seo-title: res
 solution: Experience Manager
 title: res
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: ae755a92-ad06-4cf2-b627-0b8b14e385c3
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # res{#res}

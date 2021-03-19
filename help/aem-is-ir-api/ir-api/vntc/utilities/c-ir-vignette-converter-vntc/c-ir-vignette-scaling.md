@@ -4,8 +4,9 @@ seo-description: Four general types of production vignettes are supported.
 seo-title: Vignette scaling
 solution: Experience Manager
 title: Vignette scaling
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 08c8f826-7dce-4bcb-9323-4892262eb578
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Vignette scaling{#vignette-scaling}

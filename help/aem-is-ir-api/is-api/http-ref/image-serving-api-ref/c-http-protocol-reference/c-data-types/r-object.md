@@ -4,8 +4,9 @@ seo-description: Source Object Specifier. Image, SVG, and ICC profile objects ma
 seo-title: object
 solution: Experience Manager
 title: object
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 8d25b47d-0f23-4d9a-a7e6-6e865ae4114e
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # object{#object}

@@ -4,8 +4,9 @@ seo-description: The search results panel consists of the search input box at th
 seo-title: Search results panel
 solution: Experience Manager
 title: Search results panel
-topic: Dynamic Media
 uuid: 43d8e003-79f7-4e41-98d7-b362ab7180ea
+feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
+role: "Developer,Business Practitioner"
 ---
 
 # Search results panel{#search-results-panel}

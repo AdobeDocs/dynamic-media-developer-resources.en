@@ -4,8 +4,9 @@ seo-description: Used by MetadataField/type, saveMetadataFieldParam/fieldType, a
 seo-title: Metadata Field Types
 solution: Experience Manager
 title: Metadata Field Types
-topic: Dynamic Media Image Production System API
 uuid: 57d292bb-848a-4e6e-bd08-4e6af1f9fc72
+feature: "Dynamic Media Classic,SDK/API,Metadata"
+role: "Developer,Administrator"
 ---
 
 # Metadata Field Types{#metadata-field-types}

@@ -4,8 +4,9 @@ seo-description: Normalized Size. Used to specify image sizes or rectangle sizes
 seo-title: sizeN
 solution: Experience Manager
 title: sizeN
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 6fc05654-6f0d-499f-97bc-6b7134024e1f
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # sizeN{#sizen}

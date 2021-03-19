@@ -4,8 +4,9 @@ seo-description: Layer text (Adobe Photoshop compatible). Specifies the text bod
 seo-title: textPs
 solution: Experience Manager
 title: textPs
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 45e587b6-8dc8-408c-ade6-d70025fd1117
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # textPs{#textps}

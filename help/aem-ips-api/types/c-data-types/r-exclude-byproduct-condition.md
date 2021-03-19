@@ -4,8 +4,9 @@ seo-description: Determines which generation engine and generated asset type to 
 seo-title: ExcludeByproductCondition
 solution: Experience Manager
 title: ExcludeByproductCondition
-topic: Dynamic Media Image Production System API
 uuid: 70581512-7b26-4319-b12b-27fbb205d871
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # ExcludeByproductCondition{#excludebyproductcondition}

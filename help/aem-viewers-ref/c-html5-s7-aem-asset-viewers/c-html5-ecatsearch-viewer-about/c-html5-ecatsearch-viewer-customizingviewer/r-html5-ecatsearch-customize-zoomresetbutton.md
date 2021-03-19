@@ -4,8 +4,9 @@ seo-description: Clicking or tapping this button resets an image in the main vie
 seo-title: Zoom reset button
 solution: Experience Manager
 title: Zoom reset button
-topic: Dynamic Media
 uuid: 19ef5c77-8352-4021-a022-adec6ecbf078
+feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
+role: "Developer,Business Practitioner"
 ---
 
 # Zoom reset button{#zoom-reset-button}

@@ -2,7 +2,8 @@
 description: Faults
 solution: Experience Manager
 title: Faults
-topic: Dynamic Media Image Production System API
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # Faults{#faults}

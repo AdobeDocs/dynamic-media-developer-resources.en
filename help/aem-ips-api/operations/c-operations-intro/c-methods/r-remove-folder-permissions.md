@@ -4,8 +4,9 @@ seo-description: Removes folder permissions.
 seo-title: removeFolderPermissions
 solution: Experience Manager
 title: removeFolderPermissions
-topic: Dynamic Media Image Production System API
 uuid: cd9f7a42-e314-4ec9-abe2-a27581c7cd23
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # removeFolderPermissions{#removefolderpermissions}

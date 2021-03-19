@@ -4,8 +4,9 @@ seo-description: The layer= command allows assigning a name to a layer and later
 seo-title: Named layers
 solution: Experience Manager
 title: Named layers
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: dad30027-338b-4387-9a14-b26c1b925b18
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Named layers{#named-layers}

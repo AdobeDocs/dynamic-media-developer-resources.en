@@ -4,8 +4,9 @@ seo-description: JavaScript API reference for Video Viewer.
 seo-title: dispose
 solution: Experience Manager
 title: dispose
-topic: Dynamic Media
 uuid: fbd85880-041a-4482-8897-1941bffa7955
+feature: "Dynamic Media Classic,Viewers,SDK/API,Video"
+role: "Developer,Business Practitioner"
 ---
 
 # dispose{#dispose}

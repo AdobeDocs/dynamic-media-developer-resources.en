@@ -4,8 +4,9 @@ seo-description: Image Rendering source data files include vignette files, mater
 seo-title: Source data
 solution: Experience Manager
 title: Source data
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 76c6419c-613e-4eff-b30f-9fea2a7daf5b
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator,Business Practitioner"
 ---
 
 # Source data{#source-data}

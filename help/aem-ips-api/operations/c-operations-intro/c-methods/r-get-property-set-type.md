@@ -4,8 +4,9 @@ seo-description: Gets a property set type using a handle to a company and the na
 seo-title: getPropertySetType
 solution: Experience Manager
 title: getPropertySetType
-topic: Dynamic Media Image Production System API
 uuid: 203fa949-a81e-455a-a83e-576b6f65e3af
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # getPropertySetType{#getpropertysettype}

@@ -4,8 +4,9 @@ seo-description: The Basic Zoom Viewer supports Adobe Analytics tracking out of 
 seo-title: Support for Adobe Analytics tracking
 solution: Experience Manager
 title: Support for Adobe Analytics tracking
-topic: Dynamic Media
 uuid: f48fde77-7e48-4d56-b5c5-079a484e6d9c
+feature: "Dynamic Media Classic,Viewers,SDK/API,Zoom"
+role: "Developer,Business Practitioner,Data Engineer,Data Architect"
 ---
 
 # Support for Adobe Analytics tracking{#support-for-adobe-analytics-tracking}

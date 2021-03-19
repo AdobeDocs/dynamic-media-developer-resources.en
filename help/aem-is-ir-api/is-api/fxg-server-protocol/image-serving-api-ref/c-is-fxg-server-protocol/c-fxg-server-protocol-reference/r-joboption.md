@@ -4,8 +4,9 @@ seo-description: Apply PDF job options. A job options file or PDF preset is a fi
 seo-title: joboption
 solution: Experience Manager
 title: joboption
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 7288cf29-850f-4121-8425-5f995daac22d
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # joboption{#joboption}

@@ -4,8 +4,9 @@ seo-description: Modification time stamp. Specifies the date/time this vignette 
 seo-title: TimeStamp
 solution: Experience Manager
 title: TimeStamp
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: d2649e86-8a6f-4f63-ab6a-8b2d8c03f8c0
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # TimeStamp{#timestamp}

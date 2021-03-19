@@ -4,8 +4,9 @@ seo-description: Layer view properties.
 seo-title: LayerViewInfo
 solution: Experience Manager
 title: LayerViewInfo
-topic: Dynamic Media Image Production System API
 uuid: 58d26f4d-03a6-4f57-bc8e-117355c0d74c
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # LayerViewInfo{#layerviewinfo}

@@ -2,8 +2,9 @@
 description: VideoPlayer.iconeffect
 solution: Experience Manager
 title: VideoPlayer.iconeffect
-topic: Dynamic Media
 uuid: 8e112f3c-8fa6-4c77-94c5-5027275225e7
+feature: "Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets"
+role: "Developer,Business Practitioner"
 ---
 
 # VideoPlayer.iconeffect{#videoplayer-iconeffect}

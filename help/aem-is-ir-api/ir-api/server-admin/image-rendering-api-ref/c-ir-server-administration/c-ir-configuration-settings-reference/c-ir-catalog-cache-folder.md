@@ -4,8 +4,9 @@ seo-description: The root folder for the catalog system cache.
 seo-title: Catalog cache folder (ir.catalogCacheRoot)
 solution: Experience Manager
 title: Catalog cache folder (ir.catalogCacheRoot)
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 18d400f4-7827-44a1-b09b-2292b97cd6cb
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator,Business Practitioner"
 ---
 
 # Catalog cache folder (ir.catalogCacheRoot){#catalog-cache-folder-ir-catalogcacheroot}

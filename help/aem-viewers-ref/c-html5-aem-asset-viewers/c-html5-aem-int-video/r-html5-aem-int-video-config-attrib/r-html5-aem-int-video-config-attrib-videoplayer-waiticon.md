@@ -4,8 +4,9 @@ seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: VideoPlayer.waiticon
 solution: Experience Manager
 title: VideoPlayer.waiticon
-topic: Dynamic Media
 uuid: 6563b9f1-8135-4d4b-bf31-25f599e166d4
+feature: "Dynamic Media Classic,Viewers,SDK/API,Interactive Videos"
+role: "Developer,Business Practitioner"
 ---
 
 # VideoPlayer.waiticon{#videoplayer-waiticon}

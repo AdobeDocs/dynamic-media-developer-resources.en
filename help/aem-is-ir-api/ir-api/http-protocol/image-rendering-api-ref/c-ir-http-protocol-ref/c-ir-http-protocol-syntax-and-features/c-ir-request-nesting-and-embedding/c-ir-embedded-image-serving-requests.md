@@ -4,8 +4,9 @@ seo-description: An Image Server (IS) request can be used as a material image.
 seo-title: Embedded Image Server requests
 solution: Experience Manager
 title: Embedded Image Server requests
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: dd72880d-8824-40b3-a5da-0f6ff4922939
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Embedded Image Server requests{#embedded-image-server-requests}

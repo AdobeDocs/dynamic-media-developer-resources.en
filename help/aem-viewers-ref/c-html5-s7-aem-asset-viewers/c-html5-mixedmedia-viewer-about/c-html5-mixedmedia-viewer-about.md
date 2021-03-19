@@ -3,7 +3,8 @@ description: Mixed Media Viewer is a media viewer. It supports media sets that c
 keywords: responsive
 solution: Experience Manager
 title: Mixed Media
-topic: Dynamic Media
+feature: "Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets"
+role: "Developer,Business Practitioner"
 ---
 
 # Mixed Media{#mixed-media}

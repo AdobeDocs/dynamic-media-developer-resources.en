@@ -4,8 +4,9 @@ seo-description: Blend Mode. Specifies the type of blending used when the layer 
 seo-title: blendMode
 solution: Experience Manager
 title: blendMode
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 9ae30495-c10b-4c55-968e-effb602a0857
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # blendMode{#blendmode}

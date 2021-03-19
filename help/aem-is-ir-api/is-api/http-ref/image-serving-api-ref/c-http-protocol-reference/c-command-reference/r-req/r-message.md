@@ -4,8 +4,9 @@ seo-description: Client message. Provides a mechanism for clients to insert shor
 seo-title: message
 solution: Experience Manager
 title: message
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 38d6d0e7-55cf-43ea-85b7-8f4aade4208a
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # message{#message}

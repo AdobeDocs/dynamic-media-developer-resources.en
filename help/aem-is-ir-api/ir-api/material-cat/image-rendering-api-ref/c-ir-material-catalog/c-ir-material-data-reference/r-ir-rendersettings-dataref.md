@@ -2,7 +2,8 @@
 description: Advanced render settings. Advanced render settings are used to control low-level aspects of the render engine, such as the material sharpening type and parameters or certain parameters of the illumination algorithms.
 solution: Experience Manager
 title: RenderSettings
-topic: Dynamic Media Image Serving - Image Rendering API
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # RenderSettings{#rendersettings}

@@ -2,8 +2,9 @@
 description: Swatches.fmt
 solution: Experience Manager
 title: Swatches.fmt
-topic: Dynamic Media
 uuid: 61e6372c-bab9-4aac-a8a1-dffecc2e4903
+feature: "Dynamic Media Classic,Viewers,SDK/API,Zoom"
+role: "Developer,Business Practitioner"
 ---
 
 # Swatches.fmt{#swatches-fmt}

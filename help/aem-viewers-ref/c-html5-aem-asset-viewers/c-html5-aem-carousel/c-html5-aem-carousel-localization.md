@@ -4,8 +4,9 @@ seo-description: Certain content that the Carousel Viewer displays is subject to
 seo-title: Localization of user interface elements
 solution: Experience Manager
 title: Localization of user interface elements
-topic: Dynamic Media
 uuid: 82e4dc72-cc12-4ab5-8370-6270f9a3d45f
+feature: "Dynamic Media Classic,Viewers,SDK/API,Carousel Banners"
+role: "Developer,Business Practitioner"
 ---
 
 # Localization of user interface elements{#localization-of-user-interface-elements}

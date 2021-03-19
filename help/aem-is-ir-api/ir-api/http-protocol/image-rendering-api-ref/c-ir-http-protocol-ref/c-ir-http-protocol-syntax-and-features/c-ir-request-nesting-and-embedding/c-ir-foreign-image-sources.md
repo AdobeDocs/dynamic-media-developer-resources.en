@@ -4,8 +4,9 @@ seo-description: Image Serving supports access to source images on foreign HTTP 
 seo-title: Foreign image sources
 solution: Experience Manager
 title: Foreign image sources
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 28a17400-4807-4e14-937a-80309be53d55
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Foreign image sources{#foreign-image-sources}

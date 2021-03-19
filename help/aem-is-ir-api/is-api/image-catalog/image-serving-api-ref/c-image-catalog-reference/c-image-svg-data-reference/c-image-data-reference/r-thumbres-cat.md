@@ -4,8 +4,9 @@ seo-description: Thumbnail resolution. Specifies the object resolution for the t
 seo-title: ThumbRes
 solution: Experience Manager
 title: ThumbRes
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 10bbad31-a0fd-4ed3-b708-87822777acdd
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # ThumbRes{#thumbres}

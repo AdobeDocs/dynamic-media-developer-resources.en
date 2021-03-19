@@ -4,8 +4,9 @@ seo-description: Default object resolution. Provides a default object resolution
 seo-title: Resolution
 solution: Experience Manager
 title: Resolution
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: dbc594de-05b9-4efa-93a6-4fdcf1981d8d
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Resolution{#resolution}

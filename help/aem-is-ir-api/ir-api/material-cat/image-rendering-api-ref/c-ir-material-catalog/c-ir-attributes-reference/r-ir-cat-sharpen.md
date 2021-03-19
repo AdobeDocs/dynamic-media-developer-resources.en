@@ -4,8 +4,9 @@ seo-description: Default reply image sharpening. Specifies whether to sharpen re
 seo-title: Sharpen
 solution: Experience Manager
 title: Sharpen
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: d93aacf4-d4e7-4cf5-aa9e-e7a82630d4c0
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Sharpen{#sharpen}

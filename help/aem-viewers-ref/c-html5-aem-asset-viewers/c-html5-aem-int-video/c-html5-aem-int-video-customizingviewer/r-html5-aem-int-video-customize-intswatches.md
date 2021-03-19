@@ -4,8 +4,9 @@ seo-description: The interactive swatches panel appears next to the video conten
 seo-title: Interactive swatches
 solution: Experience Manager
 title: Interactive swatches
-topic: Dynamic Media
 uuid: 9f9df764-3dd0-414e-a0db-4287f0019313
+feature: "Dynamic Media Classic,Viewers,SDK/API,Interactive Videos"
+role: "Developer,Business Practitioner"
 ---
 
 # Interactive swatches{#interactive-swatches}

@@ -4,8 +4,9 @@ seo-description: JavaScript API reference for Basic Zoom Viewer.
 seo-title: setParam
 solution: Experience Manager
 title: setParam
-topic: Dynamic Media
 uuid: 9e3fa66f-2817-4969-9532-99cd75b3e22a
+feature: "Dynamic Media Classic,Viewers,SDK/API,Zoom"
+role: "Developer,Business Practitioner"
 ---
 
 # setParam{#setparam}

@@ -4,8 +4,9 @@ seo-description: Command macros provide named shortcuts for sets of commands. Ma
 seo-title: Command macros
 solution: Experience Manager
 title: Command macros
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: a6ff5642-6716-484f-b37e-066994362a9b
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Command macros{#command-macros}

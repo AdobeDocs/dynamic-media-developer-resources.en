@@ -4,8 +4,9 @@ seo-description: Vignette map data file path. Specifies the file which contains 
 seo-title: VignetteMapFile
 solution: Experience Manager
 title: VignetteMapFile
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: d07dcfea-241e-4431-b09e-dbd1df38b8ca
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # VignetteMapFile{#vignettemapfile}

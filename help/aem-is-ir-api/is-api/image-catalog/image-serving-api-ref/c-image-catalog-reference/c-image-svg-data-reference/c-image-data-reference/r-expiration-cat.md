@@ -2,8 +2,9 @@
 description: Expiration
 solution: Experience Manager
 title: Expiration
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 5c9e5f76-c65f-4193-adf7-fb635fc5a071
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Expiration{#expiration}

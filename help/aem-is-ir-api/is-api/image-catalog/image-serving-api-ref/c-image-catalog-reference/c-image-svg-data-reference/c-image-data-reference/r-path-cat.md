@@ -2,8 +2,9 @@
 description: Image file path.
 solution: Experience Manager
 title: Path
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 0fca88bb-de00-4eff-83ad-c0f5e3b8ece0
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Path{#path}

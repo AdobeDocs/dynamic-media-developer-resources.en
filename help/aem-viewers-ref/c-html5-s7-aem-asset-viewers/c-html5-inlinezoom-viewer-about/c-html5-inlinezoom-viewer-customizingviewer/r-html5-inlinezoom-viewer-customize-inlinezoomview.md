@@ -4,8 +4,9 @@ seo-description: The main view consists of the static image, the zoomed image sh
 seo-title: Flyout zoom view
 solution: Experience Manager
 title: Flyout zoom view
-topic: Dynamic Media
 uuid: a918c775-a36a-44e8-9ca4-90cb8f5c3a5e
+feature: "Dynamic Media Classic,Viewers,SDK/API,Inline Zoom"
+role: "Developer,Business Practitioner"
 ---
 
 # Flyout zoom view{#flyout-zoom-view}

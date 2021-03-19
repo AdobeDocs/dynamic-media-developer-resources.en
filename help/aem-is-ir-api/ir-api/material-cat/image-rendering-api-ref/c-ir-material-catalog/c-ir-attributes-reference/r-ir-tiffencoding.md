@@ -4,8 +4,9 @@ seo-description: TIFF encoding format. Specifies the compression format for TIFF
 seo-title: TiffEncoding
 solution: Experience Manager
 title: TiffEncoding
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: b9f672f8-d759-4248-8588-9fe46db1645f
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # TiffEncoding{#tiffencoding}

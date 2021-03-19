@@ -2,8 +2,9 @@
 description: Path
 solution: Experience Manager
 title: Path
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 455b6186-969a-49d9-a392-35660ec12213
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Path{#path}

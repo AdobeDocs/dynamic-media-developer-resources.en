@@ -4,8 +4,9 @@ seo-description: Sets the zoom target associated with an asset image. It overwri
 seo-title: setZoomTargets
 solution: Experience Manager
 title: setZoomTargets
-topic: Dynamic Media Image Production System API
 uuid: 5d0aecec-ebd8-4c69-9514-c29fae347ee6
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # setZoomTargets{#setzoomtargets}

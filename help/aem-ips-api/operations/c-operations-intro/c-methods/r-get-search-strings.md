@@ -4,8 +4,9 @@ seo-description: Gets the search strings, keywords, and other information about 
 seo-title: getSearchStrings
 solution: Experience Manager
 title: getSearchStrings
-topic: Dynamic Media Image Production System API
 uuid: 9d588d6b-c79c-4531-a2e8-8467254a7985
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # getSearchStrings{#getsearchstrings}

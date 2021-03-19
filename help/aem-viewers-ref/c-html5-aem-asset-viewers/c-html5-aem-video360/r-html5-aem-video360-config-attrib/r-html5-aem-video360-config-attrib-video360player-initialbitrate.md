@@ -4,8 +4,9 @@ seo-description: Configuration attribute for Video360 Viewer.
 seo-title: Video360Player.initialbitrate
 solution: Experience Manager
 title: Video360Player.initialbitrate
-topic: Dynamic Media
 uuid: a23fa941-6dd2-41c0-aca9-06f0cdb027b1
+feature: "Dynamic Media Classic,Viewers,SDK/API,360 VR Video"
+role: "Developer,Business Practitioner"
 ---
 
 # Video360Player.initialbitrate{#video-player-initialbitrate}

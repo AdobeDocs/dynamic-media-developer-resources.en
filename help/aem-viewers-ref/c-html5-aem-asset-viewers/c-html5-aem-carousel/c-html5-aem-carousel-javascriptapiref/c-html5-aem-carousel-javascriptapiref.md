@@ -4,8 +4,9 @@ seo-description: The main class of the Carousel Viewer is CarouselViewer. It is 
 seo-title: JavaScript API reference for Carousel Viewer
 solution: Experience Manager
 title: JavaScript API reference for Carousel Viewer
-topic: Dynamic Media
 uuid: d235ca5e-9c5b-44e2-84b1-2704bf8c6ca5
+feature: "Dynamic Media Classic,Viewers,SDK/API,Carousel Banners"
+role: "Developer,Business Practitioner"
 ---
 
 # JavaScript API reference for Carousel Viewer{#javascript-api-reference-for-carousel-viewer}

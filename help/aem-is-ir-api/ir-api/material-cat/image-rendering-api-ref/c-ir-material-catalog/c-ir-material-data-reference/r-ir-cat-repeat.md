@@ -4,8 +4,9 @@ seo-description: Texture repeat mode. Specifies how texture images are tiled to 
 seo-title: Repeat
 solution: Experience Manager
 title: Repeat
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: bd15a573-9902-4672-992d-90d171160a46
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Repeat{#repeat}

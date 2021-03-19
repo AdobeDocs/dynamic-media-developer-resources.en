@@ -2,7 +2,8 @@
 description: Image Serving implements a simple visual watermarking facility.
 solution: Experience Manager
 title: Watermarks
-topic: Dynamic Media Image Serving - Image Rendering API
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Watermarks{#watermarks}

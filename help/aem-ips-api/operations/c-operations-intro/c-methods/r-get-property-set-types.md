@@ -4,8 +4,9 @@ seo-description: Gets the property set types associated with the specified compa
 seo-title: getPropertySetTypes
 solution: Experience Manager
 title: getPropertySetTypes
-topic: Dynamic Media Image Production System API
 uuid: b707344d-5571-45eb-9e37-cf0894ee81a0
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # getPropertySetTypes{#getpropertysettypes}

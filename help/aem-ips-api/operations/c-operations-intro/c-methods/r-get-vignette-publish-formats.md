@@ -2,8 +2,9 @@
 description: getVignettePublishFormats
 solution: Experience Manager
 title: getVignettePublishFormats
-topic: Dynamic Media Image Production System API
 uuid: 2cf58002-5c4a-4391-85d4-4a67cb085afa
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # getVignettePublishFormats{#getvignettepublishformats}

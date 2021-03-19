@@ -4,8 +4,9 @@ seo-description: Scale image. Scales a layer source image by factor relative to 
 seo-title: scale
 solution: Experience Manager
 title: scale
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: f5540df8-60d9-4efc-99fe-733cdc8268ea
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # scale{#scale}

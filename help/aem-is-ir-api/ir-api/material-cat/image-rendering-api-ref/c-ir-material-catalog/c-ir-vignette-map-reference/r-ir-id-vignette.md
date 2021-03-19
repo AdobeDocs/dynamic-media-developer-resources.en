@@ -4,8 +4,9 @@ seo-description: Vignette identifier. Index key value by which records in the vi
 seo-title: Id
 solution: Experience Manager
 title: Id
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 2af1f501-4236-4b95-8e90-31a5e7f26bc3
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Id{#id}

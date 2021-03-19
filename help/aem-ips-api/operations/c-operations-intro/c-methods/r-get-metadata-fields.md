@@ -4,8 +4,9 @@ seo-description: Gets the user-defined metadata fields associated with an asset.
 seo-title: getMetadataFields
 solution: Experience Manager
 title: getMetadataFields
-topic: Dynamic Media Image Production System API
 uuid: bf891bae-53c8-4e3d-90df-caca9a7e022b
+feature: "Dynamic Media Classic,SDK/API,Metadata"
+role: "Developer,Administrator"
 ---
 
 # getMetadataFields{#getmetadatafields}

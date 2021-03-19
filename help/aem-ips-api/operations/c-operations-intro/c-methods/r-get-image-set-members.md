@@ -4,8 +4,9 @@ seo-description: Gets an array of members that are in an image set.
 seo-title: getImageSetMembers
 solution: Experience Manager
 title: getImageSetMembers
-topic: Dynamic Media Image Production System API
 uuid: b19c9fec-df92-42e1-9228-42cdf196fdfc
+feature: "Dynamic Media Classic,SDK/API,Image Sets"
+role: "Developer,Administrator"
 ---
 
 # getImageSetMembers{#getimagesetmembers}

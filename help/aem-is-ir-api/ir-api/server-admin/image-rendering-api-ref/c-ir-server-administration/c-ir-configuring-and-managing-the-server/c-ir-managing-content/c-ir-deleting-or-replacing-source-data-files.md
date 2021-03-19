@@ -4,8 +4,9 @@ seo-description: Vignette files can be replaced or deleted while the server is l
 seo-title: Deleting or replacing source data files
 solution: Experience Manager
 title: Deleting or replacing source data files
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 13dc0489-7ab0-481e-b213-214affe9819e
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator,Business Practitioner"
 ---
 
 # Deleting or replacing source data files{#deleting-or-replacing-source-data-files}

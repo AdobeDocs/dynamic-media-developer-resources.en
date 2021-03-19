@@ -4,8 +4,9 @@ seo-description: The Image Server writes records to this log file to record warn
 seo-title: Image Server log
 solution: Experience Manager
 title: Image Server log
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 5a1a54bd-5553-43a4-9cd6-182ba474c2d0
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator,Business Practitioner"
 ---
 
 # Image Server log{#image-server-log}

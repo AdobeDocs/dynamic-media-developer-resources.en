@@ -4,8 +4,9 @@ seo-description: Request type. Specifies the type of request.
 seo-title: req
 solution: Experience Manager
 title: req
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: b888be10-89e5-4b41-a2bd-f83533ea2481
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # req{#req}

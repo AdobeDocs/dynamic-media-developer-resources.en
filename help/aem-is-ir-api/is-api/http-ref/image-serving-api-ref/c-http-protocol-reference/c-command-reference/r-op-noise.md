@@ -4,8 +4,9 @@ seo-description: Add noise. Adds random noise to the foreground image data, or t
 seo-title: op_noise
 solution: Experience Manager
 title: op_noise
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 531f7a94-149b-4090-a163-a1895156250b
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # op_noise{#op-noise}

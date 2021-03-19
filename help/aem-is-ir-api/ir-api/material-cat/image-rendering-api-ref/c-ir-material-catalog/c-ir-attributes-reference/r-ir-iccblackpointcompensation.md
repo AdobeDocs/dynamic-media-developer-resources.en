@@ -4,8 +4,9 @@ seo-description: Blackpoint compensation. Specifies whether blackpoint compensat
 seo-title: IccBlackPointCompensation
 solution: Experience Manager
 title: IccBlackPointCompensation
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 284339b1-e6fd-499a-a581-c87aa1765c0e
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # IccBlackPointCompensation{#iccblackpointcompensation}

@@ -4,8 +4,9 @@ seo-description: Deletes a property set and all associated properties.
 seo-title: deletePropertySet
 solution: Experience Manager
 title: deletePropertySet
-topic: Dynamic Media Image Production System API
 uuid: b4fdf51f-89ec-4a69-9179-078ee8e1937f
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # deletePropertySet{#deletepropertyset}

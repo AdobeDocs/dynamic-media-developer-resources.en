@@ -4,8 +4,9 @@ seo-description: Renames a folder.
 seo-title: renameFolder
 solution: Experience Manager
 title: renameFolder
-topic: Dynamic Media Image Production System API
 uuid: 7d190a57-1d81-4f41-9205-b8ffdf7330ec
+feature: "Dynamic Media Classic,SDK/API,Asset Management"
+role: "Developer,Administrator"
 ---
 
 # renameFolder{#renamefolder}

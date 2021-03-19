@@ -4,8 +4,9 @@ seo-description: Invert colors. Inverts each color component for a negative imag
 seo-title: op_invert
 solution: Experience Manager
 title: op_invert
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: bca91ce1-b105-42bf-b4ff-691f26218285
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # op_invert{#op-invert}

@@ -2,8 +2,9 @@
 description: ZoomView.singleclick
 solution: Experience Manager
 title: ZoomView.singleclick
-topic: Dynamic Media
 uuid: 42327f03-269b-4d4e-a35d-2537ca3ba071
+feature: "Dynamic Media Classic,Viewers,SDK/API,Zoom"
+role: "Developer,Business Practitioner"
 ---
 
 # ZoomView.singleclick{#zoomview-singleclick}

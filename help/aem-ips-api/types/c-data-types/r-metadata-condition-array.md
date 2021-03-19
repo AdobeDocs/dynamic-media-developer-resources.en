@@ -4,8 +4,9 @@ seo-description: An array of metadata conditons.
 seo-title: MetadataConditionArray
 solution: Experience Manager
 title: MetadataConditionArray
-topic: Dynamic Media Image Production System API
 uuid: 235cafa9-3d96-464f-9943-9f0addfa05c1
+feature: "Dynamic Media Classic,SDK/API,Metadata"
+role: "Developer,Administrator"
 ---
 
 # MetadataConditionArray{#metadataconditionarray}

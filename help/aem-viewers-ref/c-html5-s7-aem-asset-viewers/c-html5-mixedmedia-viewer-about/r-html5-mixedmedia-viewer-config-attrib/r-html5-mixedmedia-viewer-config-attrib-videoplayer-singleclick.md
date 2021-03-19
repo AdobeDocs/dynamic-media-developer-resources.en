@@ -2,8 +2,9 @@
 description: VideoPlayer.singleclick
 solution: Experience Manager
 title: VideoPlayer.singleclick
-topic: Dynamic Media
 uuid: 90664bad-10e4-47fb-a630-a5c25a5beb79
+feature: "Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets"
+role: "Developer,Business Practitioner"
 ---
 
 # VideoPlayer.singleclick{#videoplayer-singleclick}

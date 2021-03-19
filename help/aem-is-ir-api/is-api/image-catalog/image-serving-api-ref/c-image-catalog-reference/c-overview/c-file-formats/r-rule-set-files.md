@@ -4,8 +4,9 @@ seo-description: Rule set files are XML-formatted text files and must adhere to 
 seo-title: Rule set files
 solution: Experience Manager
 title: Rule set files
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: c0c7ec7b-547b-4007-864b-bf551f041aff
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Rule set files{#rule-set-files}

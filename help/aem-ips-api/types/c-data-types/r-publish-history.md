@@ -4,8 +4,9 @@ seo-description: Publication history of an asset.
 seo-title: PublishHistory
 solution: Experience Manager
 title: PublishHistory
-topic: Dynamic Media Image Production System API
 uuid: 842eafd8-dc41-4df0-96b0-de14357ac495
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # PublishHistory{#publishhistory}

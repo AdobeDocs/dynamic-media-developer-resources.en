@@ -4,8 +4,9 @@ seo-description: Creates a video site map.
 seo-title: CreateVideoSitemapJob
 solution: Experience Manager
 title: CreateVideoSitemapJob
-topic: Dynamic Media Image Production System API
 uuid: 85db2e47-ee15-4fdd-a8e2-bb45078f814a
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # CreateVideoSitemapJob{#createvideositemapjob}

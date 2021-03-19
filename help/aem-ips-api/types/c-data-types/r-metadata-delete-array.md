@@ -4,8 +4,9 @@ seo-description: An array of metadata to delete from the asset.
 seo-title: MetadataDeleteArray
 solution: Experience Manager
 title: MetadataDeleteArray
-topic: Dynamic Media Image Production System API
 uuid: 02bf3cb4-1643-4b97-9353-abb5001b1aa2
+feature: "Dynamic Media Classic,SDK/API,Metadata"
+role: "Developer,Administrator"
 ---
 
 # MetadataDeleteArray{#metadatadeletearray}

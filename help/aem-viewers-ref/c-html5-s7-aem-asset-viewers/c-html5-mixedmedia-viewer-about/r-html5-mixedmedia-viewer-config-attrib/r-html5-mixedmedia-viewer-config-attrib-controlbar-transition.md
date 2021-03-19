@@ -2,8 +2,9 @@
 description: ControlBar.transition
 solution: Experience Manager
 title: ControlBar.transition
-topic: Dynamic Media
 uuid: 803df8d4-6fb9-49ef-a097-c883d4115fad
+feature: "Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets"
+role: "Developer,Business Practitioner"
 ---
 
 # ControlBar.transition{#controlbar-transition}

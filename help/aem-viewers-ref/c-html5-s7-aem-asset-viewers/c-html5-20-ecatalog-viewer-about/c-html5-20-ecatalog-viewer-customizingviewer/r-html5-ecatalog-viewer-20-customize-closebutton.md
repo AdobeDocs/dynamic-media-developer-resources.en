@@ -4,8 +4,9 @@ seo-description: Clicking or tapping this button closes the containing web page.
 seo-title: Close button
 solution: Experience Manager
 title: Close button
-topic: Dynamic Media
 uuid: b0de1600-6b02-4b59-aac6-ade0ec6dc087
+feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog"
+role: "Developer,Business Practitioner"
 ---
 
 # Close button{#close-button}

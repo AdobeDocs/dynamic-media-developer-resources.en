@@ -4,8 +4,9 @@ seo-description: Profile file path. Path and name of the ICC color profile file,
 seo-title: ProfilePath
 solution: Experience Manager
 title: ProfilePath
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 59e78bfb-bc5c-45e4-aa70-d18cab2f9e39
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # ProfilePath{#profilepath}

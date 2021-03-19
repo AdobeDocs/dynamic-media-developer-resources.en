@@ -4,8 +4,9 @@ seo-description: Region-of-interest. Specifies a rectangular region-of-interest 
 seo-title: rgn
 solution: Experience Manager
 title: rgn
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 08657925-c52a-4279-8357-c26ad5c5ef3d
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # rgn{#rgn}

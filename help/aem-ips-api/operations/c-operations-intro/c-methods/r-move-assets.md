@@ -4,8 +4,9 @@ seo-description: Moves multiple assets independently of each other. It accomplis
 seo-title: moveAssets
 solution: Experience Manager
 title: moveAssets
-topic: Dynamic Media Image Production System API
 uuid: 178f9979-fff5-45ce-a001-1263d1770ea8
+feature: "Dynamic Media Classic,SDK/API,Asset Management"
+role: "Developer,Administrator"
 ---
 
 # moveAssets{#moveassets}

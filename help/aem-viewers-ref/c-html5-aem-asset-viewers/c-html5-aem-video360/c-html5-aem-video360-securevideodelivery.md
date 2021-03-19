@@ -2,8 +2,9 @@
 description: HTTPS video delivery
 solution: Experience Manager
 title: HTTPS video delivery
-topic: Dynamic Media
 uuid: 68984ba1-2802-496a-8ad0-ba46b59514ad
+feature: "Dynamic Media Classic,Viewers,SDK/API,360 VR Video"
+role: "Developer,Business Practitioner"
 ---
 
 # HTTPS video delivery{#https-video-delivery}

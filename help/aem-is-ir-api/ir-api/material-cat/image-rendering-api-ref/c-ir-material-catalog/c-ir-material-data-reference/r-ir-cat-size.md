@@ -4,8 +4,9 @@ seo-description: Decal size. Width, height, and thickness of a decal material ob
 seo-title: Size
 solution: Experience Manager
 title: Size
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 07d41f71-e18d-4559-afc7-75dc1c45be93
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Size{#size}

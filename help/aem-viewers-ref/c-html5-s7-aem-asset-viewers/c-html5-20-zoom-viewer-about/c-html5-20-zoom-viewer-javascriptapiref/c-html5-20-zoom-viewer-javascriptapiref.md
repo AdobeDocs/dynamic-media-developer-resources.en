@@ -4,8 +4,9 @@ seo-description: The main class of the Zoom Viewer is BasicZoomViewer. It is dec
 seo-title: Javascript API reference for Zoom Viewer
 solution: Experience Manager
 title: Javascript API reference for Zoom Viewer
-topic: Dynamic Media
 uuid: add69992-7613-4ec2-9845-f01bf0392d0c
+feature: "Dynamic Media Classic,Viewers,SDK/API,Zoom"
+role: "Developer,Business Practitioner"
 ---
 
 # Javascript API reference for Zoom Viewer{#javascript-api-reference-for-zoom-viewer}

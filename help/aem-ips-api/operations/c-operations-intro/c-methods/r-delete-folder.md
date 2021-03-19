@@ -4,8 +4,9 @@ seo-description: Deletes a folder.
 seo-title: deleteFolder
 solution: Experience Manager
 title: deleteFolder
-topic: Dynamic Media Image Production System API
 uuid: 76af65fb-86ef-43e2-bfec-3682acf0afe6
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # deleteFolder{#deletefolder}

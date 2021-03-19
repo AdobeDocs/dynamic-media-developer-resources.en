@@ -4,8 +4,9 @@ seo-description: Named set of users used for assigning permissions.
 seo-title: Group
 solution: Experience Manager
 title: Group
-topic: Dynamic Media Image Production System API
 uuid: 4be4ff41-8ef1-4b56-b2dc-074992fe0d6b
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # Group{#group}

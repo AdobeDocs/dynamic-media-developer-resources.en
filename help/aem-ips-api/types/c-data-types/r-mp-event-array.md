@@ -4,8 +4,9 @@ seo-description: An array of MediaPortal events.
 seo-title: MPEventArray
 solution: Experience Manager
 title: MPEventArray
-topic: Dynamic Media Image Production System API
 uuid: 7a07cb54-9839-4eaf-80cc-4f67044c3a59
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # MPEventArray{#mpeventarray}

@@ -2,8 +2,9 @@
 description: Swatches.enabledragging
 solution: Experience Manager
 title: Swatches.enabledragging
-topic: Dynamic Media
 uuid: fbff46d7-f947-40ae-9a0c-7d2496a343f6
+feature: "Dynamic Media Classic,Viewers,SDK/API,Inline Zoom"
+role: "Developer,Business Practitioner"
 ---
 
 # Swatches.enabledragging{#swatches-enabledragging}

@@ -2,8 +2,9 @@
 description: FavoritesView.textpos
 solution: Experience Manager
 title: FavoritesView.textpos
-topic: Dynamic Media
 uuid: e3e5f0c8-8a20-4e9c-8018-156af2a3ca3b
+feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog"
+role: "Developer,Business Practitioner"
 ---
 
 # FavoritesView.textpos{#favoritesview-textpos}

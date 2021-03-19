@@ -4,8 +4,9 @@ seo-description: Resampling mode. Chooses the resampling and/or interpolation al
 seo-title: resMode
 solution: Experience Manager
 title: resMode
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 8e12aa06-072c-4e7a-84e6-01437c43c57b
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # resMode{#resmode}

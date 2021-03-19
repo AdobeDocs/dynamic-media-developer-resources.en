@@ -4,8 +4,9 @@ seo-description: JavaScript API reference for Basic Zoom Viewer.
 seo-title: dispose
 solution: Experience Manager
 title: dispose
-topic: Dynamic Media
 uuid: 6c1af089-37f0-4e1f-9e62-68a70df1a0f0
+feature: "Dynamic Media Classic,Viewers,SDK/API,Zoom"
+role: "Developer,Business Practitioner"
 ---
 
 # dispose{#dispose}

@@ -4,8 +4,9 @@ seo-description: Describes new and changed operations methods for the IPS API ve
 seo-title: Operations  New and Modified
 solution: Experience Manager
 title: Operations  New and Modified
-topic: Dynamic Media Image Production System API
 uuid: e836c5af-53b8-4bfa-a93a-98750cca9745
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # Operations: New and Modified{#operations-new-and-modified}

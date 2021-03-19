@@ -4,8 +4,9 @@ seo-description: Properties of an ACO asset.
 seo-title: AcoInfo
 solution: Experience Manager
 title: AcoInfo
-topic: Dynamic Media Image Production System API
 uuid: 8384f1d7-8566-4dd6-a5b5-be20971b7aba
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # AcoInfo{#acoinfo}

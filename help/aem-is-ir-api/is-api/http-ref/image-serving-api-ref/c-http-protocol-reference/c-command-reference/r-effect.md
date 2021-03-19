@@ -4,8 +4,9 @@ seo-description: Select Effect Layer. Selects an effect layer and starts a new l
 seo-title: effect
 solution: Experience Manager
 title: effect
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 622dc7ca-55b8-4a82-b9a7-65588aee87d0
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # effect{#effect}

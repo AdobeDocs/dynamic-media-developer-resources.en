@@ -2,8 +2,9 @@
 description: getPublishContexts
 solution: Experience Manager
 title: getPublishContexts
-topic: Dynamic Media Image Production System API
 uuid: 7eb90f2c-2bfc-4d61-8a24-831964ed9182
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # getPublishContexts{#getpublishcontexts}

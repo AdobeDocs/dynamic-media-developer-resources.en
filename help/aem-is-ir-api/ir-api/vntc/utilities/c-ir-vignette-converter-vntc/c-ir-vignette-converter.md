@@ -4,8 +4,9 @@ seo-description: The Vignette Converter (vntc) is a command line utility used to
 seo-title: Vignette Converter
 solution: Experience Manager
 title: Vignette Converter
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: b32a30d6-ae4a-406f-88a9-e8b0eec394c9
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Vignette Converter{#vignette-converter}

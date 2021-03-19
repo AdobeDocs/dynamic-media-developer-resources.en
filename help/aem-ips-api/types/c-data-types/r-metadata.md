@@ -4,8 +4,9 @@ seo-description: A metadata field returned by searchAssets.
 seo-title: Metadata
 solution: Experience Manager
 title: Metadata
-topic: Dynamic Media Image Production System API
 uuid: fb7a0ef8-a16c-41e3-84cf-160602cb284b
+feature: "Dynamic Media Classic,SDK/API,Metadata"
+role: "Developer,Administrator"
 ---
 
 # Metadata{#metadata}

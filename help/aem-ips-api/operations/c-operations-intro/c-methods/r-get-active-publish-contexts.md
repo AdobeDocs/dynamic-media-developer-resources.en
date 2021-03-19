@@ -4,8 +4,9 @@ seo-description: Gets a list of active publish contexts for the specified compan
 seo-title: getActivePublishContext
 solution: Experience Manager
 title: getActivePublishContext
-topic: Dynamic Media Image Production System API
 uuid: 856704d1-e97b-4d2d-b80c-620450b78432
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # getActivePublishContext{#getactivepublishcontext}

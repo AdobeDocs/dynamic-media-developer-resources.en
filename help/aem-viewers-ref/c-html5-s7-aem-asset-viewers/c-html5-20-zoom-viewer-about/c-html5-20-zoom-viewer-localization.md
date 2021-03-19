@@ -4,8 +4,9 @@ seo-description: Certain content that the Video Viewer displays is subject to lo
 seo-title: Localization of user interface elements
 solution: Experience Manager
 title: Localization of user interface elements
-topic: Dynamic Media
 uuid: 00df92c5-3a10-4973-904d-de5a6b3b9258
+feature: "Dynamic Media Classic,Viewers,SDK/API,Zoom"
+role: "Developer,Business Practitioner"
 ---
 
 # Localization of user interface elements{#localization-of-user-interface-elements}

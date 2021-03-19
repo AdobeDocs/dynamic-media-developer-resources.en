@@ -2,7 +2,8 @@
 description: Thrown when a user cannot be authenticated.
 solution: Experience Manager
 title: authenticationFault
-topic: Dynamic Media Image Production System API
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # authenticationFault{#authenticationfault}

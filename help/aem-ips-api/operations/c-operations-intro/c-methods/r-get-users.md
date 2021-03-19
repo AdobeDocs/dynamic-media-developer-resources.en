@@ -4,8 +4,9 @@ seo-description: Gets an array of users as specified by company, group, and user
 seo-title: getUsers
 solution: Experience Manager
 title: getUsers
-topic: Dynamic Media Image Production System API
 uuid: f16ccd1b-0f00-4d9a-b6e1-6abc3bde1af9
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # getUsers{#getusers}

@@ -4,8 +4,9 @@ seo-description: Material catalogs provide many Image Rendering configuration se
 seo-title: Material catalogs
 solution: Experience Manager
 title: Material catalogs
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 6d209019-f9ca-43e4-900b-3597c7044a79
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator,Business Practitioner"
 ---
 
 # Material catalogs{#material-catalogs}

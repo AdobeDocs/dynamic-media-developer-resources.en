@@ -4,8 +4,9 @@ seo-description: Profile shortcut name. A shortcut name for the color profile.
 seo-title: Name
 solution: Experience Manager
 title: Name
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: eca98f72-f863-4b7f-961e-81252f907d45
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Name{#name}

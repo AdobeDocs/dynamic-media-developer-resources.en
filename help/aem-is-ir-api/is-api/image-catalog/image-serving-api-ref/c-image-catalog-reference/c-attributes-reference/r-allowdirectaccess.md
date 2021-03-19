@@ -4,8 +4,9 @@ seo-description: Allow direct access to path-based assets.
 seo-title: AllowDirectAccess
 solution: Experience Manager
 title: AllowDirectAccess
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 6d413fac-6930-4f6d-90ad-62abb419efef
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # AllowDirectAccess{#allowdirectaccess}

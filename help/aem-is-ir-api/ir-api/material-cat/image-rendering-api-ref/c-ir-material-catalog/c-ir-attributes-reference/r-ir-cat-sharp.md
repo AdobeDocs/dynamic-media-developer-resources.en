@@ -4,8 +4,9 @@ seo-description: Default material sharpening. Sets the default material sharpeni
 seo-title: Sharp
 solution: Experience Manager
 title: Sharp
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: f6a6101c-3d9e-4557-892b-be7943b4fdca
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Sharp{#sharp}

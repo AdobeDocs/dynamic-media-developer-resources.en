@@ -4,8 +4,9 @@ seo-description: Settings that help improve image sharpness for optimized pyrami
 seo-title: UnsharpMaskOptions
 solution: Experience Manager
 title: UnsharpMaskOptions
-topic: Dynamic Media Image Production System API
 uuid: 73073de0-41b6-471c-8887-f6b94ed2af90
+feature: "Dynamic Media Classic,SDK/API,Asset Management"
+role: "Developer,Administrator"
 ---
 
 # UnsharpMaskOptions{#unsharpmaskoptions}

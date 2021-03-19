@@ -4,8 +4,9 @@ seo-description: Generates thumbnail image for your video.
 seo-title: MediaOptions
 solution: Experience Manager
 title: MediaOptions
-topic: Dynamic Media Image Production System API
 uuid: 4de59678-1bef-484c-9a43-ded531537aeb
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # MediaOptions{#mediaoptions}

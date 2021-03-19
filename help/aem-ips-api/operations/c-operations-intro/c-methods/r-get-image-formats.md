@@ -4,8 +4,9 @@ seo-description: Returns image formats, such as PDF, EPS, SWF, and others.
 seo-title: getImageFormats
 solution: Experience Manager
 title: getImageFormats
-topic: Dynamic Media Image Production System API
 uuid: 0adf989d-9c72-4337-99c0-de6931943e78
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # getImageFormats{#getimageformats}

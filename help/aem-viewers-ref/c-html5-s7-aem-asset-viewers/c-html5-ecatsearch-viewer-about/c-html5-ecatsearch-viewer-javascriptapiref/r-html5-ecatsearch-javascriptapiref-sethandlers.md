@@ -4,8 +4,9 @@ seo-description: JavaScript API reference for eCatalog Viewer.
 seo-title: setHandlers
 solution: Experience Manager
 title: setHandlers
-topic: Dynamic Media
 uuid: 602fbf82-429b-443c-9163-f4d2e2b922dd
+feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
+role: "Developer,Business Practitioner"
 ---
 
 # setHandlers{#sethandlers}

@@ -4,8 +4,9 @@ seo-description: Zoom target definition.
 seo-title: ZoomTargetDefinition
 solution: Experience Manager
 title: ZoomTargetDefinition
-topic: Dynamic Media Image Production System API
 uuid: 9180b87b-13f5-4c63-83ff-3eb20b12ec19
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # ZoomTargetDefinition{#zoomtargetdefinition}

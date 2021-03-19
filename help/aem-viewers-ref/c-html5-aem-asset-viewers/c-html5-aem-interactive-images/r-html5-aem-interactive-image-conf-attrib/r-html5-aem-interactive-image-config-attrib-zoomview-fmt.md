@@ -4,8 +4,9 @@ seo-description: Specifies the image format that the component uses for loading 
 seo-title: ZoomView.fmt
 solution: Experience Manager
 title: ZoomView.fmt
-topic: Dynamic Media
 uuid: 73a2196f-0ece-497a-9a12-376dafbbae56
+feature: "Dynamic Media Classic,Viewers,SDK/API,Interactive Images"
+role: "Developer,Business Practitioner"
 ---
 
 # ZoomView.fmt{#zoomview-fmt}

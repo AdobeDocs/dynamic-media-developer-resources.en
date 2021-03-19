@@ -3,7 +3,8 @@ description: The Video Viewer is a video player that plays streaming and progres
 keywords: responsive
 solution: Experience Manager
 title: Video
-topic: Dynamic Media
+feature: "Dynamic Media Classic,Viewers,SDK/API,Video"
+role: "Developer,Business Practitioner"
 ---
 
 # Video{#video}

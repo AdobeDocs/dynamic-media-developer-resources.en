@@ -4,8 +4,9 @@ seo-description: This section describes the HTTP protocol syntax and featuring f
 seo-title: HTTP protocol syntax and features
 solution: Experience Manager
 title: HTTP protocol syntax and features
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 5badae8e-0874-43b1-b019-bd7445e6c2ce
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # HTTP protocol syntax and features{#http-protocol-syntax-and-features}

@@ -4,8 +4,9 @@ seo-description: Properties of an SWC file asset.
 seo-title: SwcInfo
 solution: Experience Manager
 title: SwcInfo
-topic: Dynamic Media Image Production System API
 uuid: 930b2ccd-5f32-4cc2-bef7-1f6eeb48dd1b
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # SwcInfo{#swcinfo}

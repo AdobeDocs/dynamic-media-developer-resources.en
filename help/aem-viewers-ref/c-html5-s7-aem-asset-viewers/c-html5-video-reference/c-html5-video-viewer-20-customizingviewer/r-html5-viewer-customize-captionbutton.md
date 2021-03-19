@@ -4,8 +4,9 @@ seo-description: This button toggles closed caption display on and off. It is no
 seo-title: Caption button
 solution: Experience Manager
 title: Caption button
-topic: Dynamic Media
 uuid: 97de8cdd-8410-4128-be5c-1fc4987a5f96
+feature: "Dynamic Media Classic,Viewers,SDK/API,Video"
+role: "Developer,Business Practitioner"
 ---
 
 # Caption button{#caption-button}

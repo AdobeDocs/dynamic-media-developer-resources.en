@@ -4,8 +4,9 @@ seo-description: A material is considered a wall border when it is specified in 
 seo-title: Wall borders
 solution: Experience Manager
 title: Wall borders
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 40acd667-5e8b-4425-b44a-0681e608d189
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Wall borders{#wall-borders}

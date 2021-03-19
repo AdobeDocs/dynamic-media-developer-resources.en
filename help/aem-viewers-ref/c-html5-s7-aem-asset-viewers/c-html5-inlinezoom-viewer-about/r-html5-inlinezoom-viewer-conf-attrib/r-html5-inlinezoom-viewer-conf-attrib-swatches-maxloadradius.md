@@ -2,8 +2,9 @@
 description: Swatches.maxloadradius
 solution: Experience Manager
 title: Swatches.maxloadradius
-topic: Dynamic Media
 uuid: 15d555bc-f9f7-4d0e-809e-7a51358e5c03
+feature: "Dynamic Media Classic,Viewers,SDK/API,Inline Zoom"
+role: "Developer,Business Practitioner"
 ---
 
 # Swatches.maxloadradius{#swatches-maxloadradius}

@@ -4,8 +4,9 @@ seo-description: Returns metadata field definitions for specified asset types.
 seo-title: AssetMetadataFields
 solution: Experience Manager
 title: AssetMetadataFields
-topic: Dynamic Media Image Production System API
 uuid: aefb734c-7609-4227-ae2c-48a1469740ec
+feature: "Dynamic Media Classic,SDK/API,Metadata,Asset Management"
+role: "Developer,Administrator"
 ---
 
 # AssetMetadataFields{#assetmetadatafields}

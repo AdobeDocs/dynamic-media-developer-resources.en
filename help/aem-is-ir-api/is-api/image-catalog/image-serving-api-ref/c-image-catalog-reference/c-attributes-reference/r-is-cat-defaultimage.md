@@ -4,8 +4,9 @@ seo-description: Default response image. Specifies the image or catalog entry to
 seo-title: DefaultImage
 solution: Experience Manager
 title: DefaultImage
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 6f8f50af-15bb-4333-b227-3eba38653a7d
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # DefaultImage{#defaultimage}

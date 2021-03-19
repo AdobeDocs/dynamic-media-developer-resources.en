@@ -4,8 +4,9 @@ seo-description: JavaScript API reference for Video Viewer.
 seo-title: setAsset
 solution: Experience Manager
 title: setAsset
-topic: Dynamic Media
 uuid: b95cef30-41ad-47d5-b0f1-efc8831c7bdc
+feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog"
+role: "Developer,Business Practitioner"
 ---
 
 # setAsset{#setasset}

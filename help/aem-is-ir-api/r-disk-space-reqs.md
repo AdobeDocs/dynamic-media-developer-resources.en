@@ -2,7 +2,8 @@
 description: In addition to the space necessary to install the software, Image Serving has the following disk space requirements 
 solution: Experience Manager
 title: Disk space requirements and recommendations
-topic: Dynamic Media Image Serving - Image Rendering API
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Disk space requirements and recommendations{#disk-space-requirements-and-recommendations}

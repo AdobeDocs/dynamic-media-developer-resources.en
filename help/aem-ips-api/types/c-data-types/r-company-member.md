@@ -4,8 +4,9 @@ seo-description: Describes the different companies a user belongs to.
 seo-title: CompanyMember
 solution: Experience Manager
 title: CompanyMember
-topic: Dynamic Media Image Production System API
 uuid: fc0ddcdd-ad1e-487c-8ef1-9c09e5dca33d
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # CompanyMember{#companymember}

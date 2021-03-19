@@ -4,8 +4,9 @@ seo-description: Uses a property array to update a property set.
 seo-title: updatePropertySet
 solution: Experience Manager
 title: updatePropertySet
-topic: Dynamic Media Image Production System API
 uuid: 21a59c5a-7799-4af6-ab9f-b0311f5f7254
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # updatePropertySet{#updatepropertyset}

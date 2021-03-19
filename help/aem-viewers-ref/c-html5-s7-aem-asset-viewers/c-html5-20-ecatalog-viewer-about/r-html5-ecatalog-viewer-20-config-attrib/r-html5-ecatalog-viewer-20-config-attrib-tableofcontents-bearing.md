@@ -2,8 +2,9 @@
 description: TableOfContents.bearing
 solution: Experience Manager
 title: TableOfContents.bearing
-topic: Dynamic Media
 uuid: 791aaaa5-3777-4f68-a445-caa3d975d883
+feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog"
+role: "Developer,Business Practitioner"
 ---
 
 # TableOfContents.bearing{#tableofcontents-bearing}

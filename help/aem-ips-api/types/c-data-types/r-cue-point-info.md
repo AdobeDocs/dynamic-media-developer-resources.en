@@ -4,8 +4,9 @@ seo-description: Properties of a CuePoint file asset.
 seo-title: CuePointInfo
 solution: Experience Manager
 title: CuePointInfo
-topic: Dynamic Media Image Production System API
 uuid: 0a1f7235-cbb9-4643-88de-31ada3cef2e5
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # CuePointInfo{#cuepointinfo}

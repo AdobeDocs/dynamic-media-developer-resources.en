@@ -4,8 +4,9 @@ seo-description: Catalog attribute files recognize these default request attribu
 seo-title: Default request attributes
 solution: Experience Manager
 title: Default request attributes
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: e83db949-67ba-4d70-8f66-41f5415c35ee
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Default request attributes{#default-request-attributes}

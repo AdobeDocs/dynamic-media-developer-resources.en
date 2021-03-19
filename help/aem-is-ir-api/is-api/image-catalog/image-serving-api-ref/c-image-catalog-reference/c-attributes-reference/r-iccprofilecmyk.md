@@ -4,8 +4,9 @@ seo-description: CMYK default output color profile. Specifies the name of the IC
 seo-title: IccProfileCmyk
 solution: Experience Manager
 title: IccProfileCmyk
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: b22b6ed1-615f-4241-b4d4-c3aa70351458
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # IccProfileCmyk{#iccprofilecmyk}

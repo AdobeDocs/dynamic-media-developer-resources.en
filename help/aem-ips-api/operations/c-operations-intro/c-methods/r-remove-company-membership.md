@@ -4,8 +4,9 @@ seo-description: Removes a user from one or more companies.
 seo-title: removeCompanyMembership
 solution: Experience Manager
 title: removeCompanyMembership
-topic: Dynamic Media Image Production System API
 uuid: af57fde0-2297-41da-87bf-f063fc313264
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # removeCompanyMembership{#removecompanymembership}

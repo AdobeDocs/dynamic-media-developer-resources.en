@@ -4,8 +4,9 @@ seo-description: Image Serving provides several alternatives to render text, acc
 seo-title: Text formatting
 solution: Experience Manager
 title: Text formatting
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: e67b6dd2-2a78-4014-9525-816d91c9e783
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Text formatting{#text-formatting}

@@ -4,8 +4,9 @@ seo-description: An array of projects.
 seo-title: ProjectArray
 solution: Experience Manager
 title: ProjectArray
-topic: Dynamic Media Image Production System API
 uuid: 5828eac9-653b-4241-bfdc-6ec5b5c0b25e
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # ProjectArray{#projectarray}

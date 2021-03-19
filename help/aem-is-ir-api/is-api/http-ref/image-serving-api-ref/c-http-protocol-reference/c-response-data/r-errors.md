@@ -4,8 +4,9 @@ seo-description: If a request cannot be completed successfully, the server will 
 seo-title: Errors
 solution: Experience Manager
 title: Errors
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: a08f3f5a-3013-4d35-9612-25190a4c99fa
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Errors{#errors}

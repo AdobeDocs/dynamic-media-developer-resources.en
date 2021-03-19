@@ -2,7 +2,8 @@
 description: To add Responsive Image library to a web page and manage existing images with the library, complete the following steps.
 solution: Experience Manager
 title: Using Responsive Image library
-topic: Dynamic Media Image Serving - Image Rendering API
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Using Responsive Image library{#using-responsive-image-library}

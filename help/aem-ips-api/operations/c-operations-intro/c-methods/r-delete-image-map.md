@@ -4,8 +4,9 @@ seo-description: Deletes an image map.
 seo-title: deleteImageMap
 solution: Experience Manager
 title: deleteImageMap
-topic: Dynamic Media Image Production System API
 uuid: 0abdf72c-f445-41d0-bd88-63b7ad1359d5
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # deleteImageMap{#deleteimagemap}

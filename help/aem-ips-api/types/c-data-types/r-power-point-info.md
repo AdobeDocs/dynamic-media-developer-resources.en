@@ -4,8 +4,9 @@ seo-description: PowerPoint file options.
 seo-title: PowerPointInfo
 solution: Experience Manager
 title: PowerPointInfo
-topic: Dynamic Media Image Production System API
 uuid: 26626c06-b610-4c3c-a249-70c6edc9ebdd
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # PowerPointInfo{#powerpointinfo}

@@ -2,8 +2,9 @@
 description: CompanyMembershipUpdate
 solution: Experience Manager
 title: CompanyMembershipUpdate
-topic: Dynamic Media Image Production System API
 uuid: dc396fd7-6ac1-4f52-9b30-e43808edefd0
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # CompanyMembershipUpdate{#companymembershipupdate}

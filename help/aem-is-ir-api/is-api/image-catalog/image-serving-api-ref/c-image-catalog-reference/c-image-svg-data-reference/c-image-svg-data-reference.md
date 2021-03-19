@@ -4,8 +4,9 @@ seo-description: Even though image and SVG data are very similar, they are maint
 seo-title: Image/SVG data reference
 solution: Experience Manager
 title: Image/SVG data reference
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 80e41e58-f20e-45fb-b180-28b2c4b30808
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Image/SVG data reference{#image-svg-data-reference}

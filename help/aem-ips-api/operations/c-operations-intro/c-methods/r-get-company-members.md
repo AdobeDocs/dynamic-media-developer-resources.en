@@ -4,8 +4,9 @@ seo-description: Returns the users of a company specified by a company handle.
 seo-title: getCompanyMembers
 solution: Experience Manager
 title: getCompanyMembers
-topic: Dynamic Media Image Production System API
 uuid: 45e2d040-a70a-46f4-863a-633ddabcbcf6
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # getCompanyMembers{#getcompanymembers}

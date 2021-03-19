@@ -4,8 +4,9 @@ seo-description: Clicking or tapping on this button brings the user to the previ
 seo-title: Large previous page button
 solution: Experience Manager
 title: Large previous page button
-topic: Dynamic Media
 uuid: 12e12b82-88f2-4fbf-bbbb-dea027eb6775
+feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog"
+role: "Developer,Business Practitioner"
 ---
 
 # Large previous page button{#large-previous-page-button}

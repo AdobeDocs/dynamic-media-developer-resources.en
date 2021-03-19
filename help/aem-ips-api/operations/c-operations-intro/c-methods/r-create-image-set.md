@@ -4,8 +4,9 @@ seo-description: Creates an image set.
 seo-title: createImageSet
 solution: Experience Manager
 title: createImageSet
-topic: Dynamic Media Image Production System API
 uuid: 688f3954-bc8f-4687-8d66-e064561cd4a0
+feature: "Dynamic Media Classic,SDK/API,Image Sets"
+role: "Developer,Administrator"
 ---
 
 # createImageSet{#createimageset}

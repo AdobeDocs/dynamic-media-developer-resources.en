@@ -4,8 +4,9 @@ seo-description: Deletes metadata values for an asset. Works with an array of me
 seo-title: deleteAssetMetadata
 solution: Experience Manager
 title: deleteAssetMetadata
-topic: Dynamic Media Image Production System API
 uuid: 2dc783c6-23da-4a94-8780-3c4ec88ff3f4
+feature: "Dynamic Media Classic,SDK/API,Metadata,Asset Management"
+role: "Developer,Administrator"
 ---
 
 # deleteAssetMetadata{#deleteassetmetadata}

@@ -4,8 +4,9 @@ seo-description: Request obfuscation mode. Specifies the type of obfuscation tha
 seo-title: RequestObfuscation
 solution: Experience Manager
 title: RequestObfuscation
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 07154e06-c386-45a7-b5ac-60f0aef3c362
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # RequestObfuscation{#requestobfuscation}

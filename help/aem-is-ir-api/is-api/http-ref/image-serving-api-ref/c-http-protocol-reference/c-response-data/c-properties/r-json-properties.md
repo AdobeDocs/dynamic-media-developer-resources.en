@@ -4,8 +4,9 @@ seo-description: If jsonp is specified as the response format, the reply data is
 seo-title: JSONP properties
 solution: Experience Manager
 title: JSONP properties
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: e53d75f2-9b43-4e8f-8191-66f69f344cdd
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # JSONP properties{#jsonp-properties}

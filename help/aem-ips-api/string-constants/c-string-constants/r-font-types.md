@@ -4,8 +4,9 @@ seo-description: Used by FontFieldUpdate/type.
 seo-title: Font Types
 solution: Experience Manager
 title: Font Types
-topic: Dynamic Media Image Production System API
 uuid: fb04f1a2-e4c7-4668-8ec7-d320bb38b1f9
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # Font Types{#font-types}

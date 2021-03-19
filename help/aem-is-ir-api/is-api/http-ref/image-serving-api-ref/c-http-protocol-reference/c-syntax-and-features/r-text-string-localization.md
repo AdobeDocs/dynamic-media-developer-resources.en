@@ -4,8 +4,9 @@ seo-description: Text string localization allows image catalogs to contain multi
 seo-title: Text string localization
 solution: Experience Manager
 title: Text string localization
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: bdff2403-e3bb-4b3f-a8d7-bb108c1fbee8
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Text string localization{#text-string-localization}

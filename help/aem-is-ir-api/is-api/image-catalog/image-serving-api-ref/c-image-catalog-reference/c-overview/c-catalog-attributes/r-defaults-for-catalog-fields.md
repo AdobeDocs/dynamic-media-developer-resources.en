@@ -4,8 +4,9 @@ seo-description: Catalog fields use these defaults.
 seo-title: Defaults for catalog fields
 solution: Experience Manager
 title: Defaults for catalog fields
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 8902766c-c2d9-433a-9c49-3182b063269f
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Defaults for catalog fields{#defaults-for-catalog-fields}

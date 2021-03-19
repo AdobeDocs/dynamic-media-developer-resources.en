@@ -2,7 +2,8 @@
 description: Adds a user to an array of groups.
 solution: Experience Manager
 title: addGroupMembership
-topic: Dynamic Media Image Production System API
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # addGroupMembership{#addgroupmembership}

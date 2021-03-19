@@ -2,8 +2,9 @@
 description: FavoritesView.favoritesThumbView
 solution: Experience Manager
 title: FavoritesView.favoritesThumbView
-topic: Dynamic Media
 uuid: 5c362eb3-dece-4546-8a79-fd79c2852a78
+feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog"
+role: "Developer,Business Practitioner"
 ---
 
 # FavoritesView.favoritesThumbView{#favoritesview-favoritesthumbview}

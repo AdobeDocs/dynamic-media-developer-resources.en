@@ -4,8 +4,9 @@ seo-description: Media set info.
 seo-title: set
 solution: Experience Manager
 title: set
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: ebd78249-45ea-47cd-8845-786070f92f21
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # set{#set}

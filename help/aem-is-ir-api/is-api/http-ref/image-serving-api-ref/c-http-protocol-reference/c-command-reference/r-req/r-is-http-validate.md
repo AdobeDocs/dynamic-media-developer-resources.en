@@ -4,8 +4,9 @@ seo-description: Request validation.
 seo-title: validate
 solution: Experience Manager
 title: validate
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 5322c484-2cf5-4022-9863-73fc525beb56
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # validate{#validate}

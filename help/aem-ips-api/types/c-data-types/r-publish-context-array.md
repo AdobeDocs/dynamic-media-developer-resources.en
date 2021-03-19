@@ -4,8 +4,9 @@ seo-description: An array of publish contexts.
 seo-title: PublishContextArray
 solution: Experience Manager
 title: PublishContextArray
-topic: Dynamic Media Image Production System API
 uuid: 47aa483c-c141-499b-b58c-7b09cc9c2a4b
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # PublishContextArray{#publishcontextarray}

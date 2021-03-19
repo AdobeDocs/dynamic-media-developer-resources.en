@@ -4,8 +4,9 @@ seo-description: This release—Image Serving 6.6.1 and Image Rendering 6.6.1—
 seo-title: About this release
 solution: Experience Manager
 title: About this release
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 2fdd8920-433b-405e-bf93-dbef5735be3f
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # About this release{#about-this-release}

@@ -4,8 +4,9 @@ seo-description: Catalog attribute files recognize these color management attrib
 seo-title: Color management attributes
 solution: Experience Manager
 title: Color management attributes
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: e136b1bd-650e-4f3d-90e8-df1df814ec48
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Color management attributes{#color-management-attributes}

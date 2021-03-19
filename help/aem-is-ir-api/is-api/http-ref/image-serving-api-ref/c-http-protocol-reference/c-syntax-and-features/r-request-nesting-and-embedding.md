@@ -4,8 +4,9 @@ seo-description: Image Serving supports unlimited nesting of Image Serving reque
 seo-title: Request nesting and embedding
 solution: Experience Manager
 title: Request nesting and embedding
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 59031329-e65f-4631-bc7d-83f2540cc836
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Request nesting and embedding{#request-nesting-and-embedding}

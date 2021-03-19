@@ -4,8 +4,9 @@ seo-description: JavaScript API reference for Zoom Viewer.
 seo-title: ZoomViewer
 solution: Experience Manager
 title: ZoomViewer
-topic: Dynamic Media
 uuid: 4c2acfaf-cc42-4bb7-a830-7226a8007117
+feature: "Dynamic Media Classic,Viewers,SDK/API,Zoom"
+role: "Developer,Business Practitioner"
 ---
 
 # ZoomViewer{#zoomviewer}

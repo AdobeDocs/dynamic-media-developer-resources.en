@@ -2,7 +2,8 @@
 description: Viewer SDK namespace
 solution: Experience Manager
 title: Viewer SDK namespace
-topic: Dynamic Media
+feature: "Dynamic Media Classic,Viewers,SDK/API,Flyout"
+role: "Developer,Business Practitioner"
 ---
 
 # Viewer SDK namespace{#viewer-sdk-namespace}

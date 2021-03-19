@@ -4,8 +4,9 @@ seo-description: Update field metadata.
 seo-title: updateMetadataField
 solution: Experience Manager
 title: updateMetadataField
-topic: Dynamic Media Image Production System API
 uuid: 8712b09b-b02a-4fb3-a0ed-084dc48a717a
+feature: "Dynamic Media Classic,SDK/API,Metadata"
+role: "Developer,Administrator"
 ---
 
 # updateMetadataField{#updatemetadatafield}

@@ -2,8 +2,9 @@
 description: ThumbnailGridView.scrollbar
 solution: Experience Manager
 title: ThumbnailGridView.scrollbar
-topic: Dynamic Media
 uuid: d3db8c8b-fcf0-405b-837f-c1a11e4b2f31
+feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog"
+role: "Developer,Business Practitioner"
 ---
 
 # ThumbnailGridView.scrollbar{#thumbnailgridview-scrollbar}

@@ -2,8 +2,9 @@
 description: swatchoverlay
 solution: Experience Manager
 title: swatchoverlay
-topic: Dynamic Media
 uuid: 60419120-effc-4895-8bb1-7e4b70a67c5b
+feature: "Dynamic Media Classic,Viewers,SDK/API,Zoom"
+role: "Developer,Business Practitioner"
 ---
 
 # swatchoverlay{#swatchoverlay}

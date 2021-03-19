@@ -4,8 +4,9 @@ seo-description: Variable opacity is supported for solid color and repeatable te
 seo-title: Varying material opacity
 solution: Experience Manager
 title: Varying material opacity
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 6af07ea8-44ba-4253-8a26-614725af2f46
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Varying material opacity{#varying-material-opacity}

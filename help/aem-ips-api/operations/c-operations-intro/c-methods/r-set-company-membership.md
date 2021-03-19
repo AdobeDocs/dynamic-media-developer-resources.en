@@ -4,8 +4,9 @@ seo-description: Sets a user’s membership in one or more companies.
 seo-title: setCompanyMembership
 solution: Experience Manager
 title: setCompanyMembership
-topic: Dynamic Media Image Production System API
 uuid: 34c9d457-bc2e-4186-8a8f-50388410640a
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # setCompanyMembership{#setcompanymembership}

@@ -2,8 +2,9 @@
 description: ZoomView.transition
 solution: Experience Manager
 title: ZoomView.transition
-topic: Dynamic Media
 uuid: f579397b-a449-42fe-b0a7-f0da65a6a248
+feature: "Dynamic Media Classic,Viewers,SDK/API,Zoom"
+role: "Developer,Business Practitioner"
 ---
 
 # ZoomView.transition{#zoomview-transition}

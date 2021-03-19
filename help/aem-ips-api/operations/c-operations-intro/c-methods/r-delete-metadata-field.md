@@ -4,8 +4,9 @@ seo-description: Deletes a company's metadata field.
 seo-title: deleteMetadataField
 solution: Experience Manager
 title: deleteMetadataField
-topic: Dynamic Media Image Production System API
 uuid: 06ec434a-2793-4227-ac93-ae3871c38ab9
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # deleteMetadataField{#deletemetadatafield}

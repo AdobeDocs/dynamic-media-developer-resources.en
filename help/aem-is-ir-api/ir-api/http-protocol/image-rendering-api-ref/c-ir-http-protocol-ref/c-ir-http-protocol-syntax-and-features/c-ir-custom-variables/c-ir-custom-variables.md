@@ -4,8 +4,9 @@ seo-description: The query portion of requests and vignette Modifier strings may
 seo-title: Custom variables
 solution: Experience Manager
 title: Custom variables
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 933fba00-759c-4bd3-bada-eec751426d9e
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Custom variables{#custom-variables}

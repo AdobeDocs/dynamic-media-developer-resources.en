@@ -4,8 +4,9 @@ seo-description: Properties of an RTF file asset.
 seo-title: RTFInfo
 solution: Experience Manager
 title: RTFInfo
-topic: Dynamic Media Image Production System API
 uuid: cd7744bd-d033-4095-82c7-2a7b7db7e97f
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # RTFInfo{#rtfinfo}

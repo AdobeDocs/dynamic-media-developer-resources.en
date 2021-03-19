@@ -4,8 +4,9 @@ seo-description: Configuration attribute for Interactive Video Viewer.
 seo-title: CallToAction.textpos
 solution: Experience Manager
 title: CallToAction.textpos
-topic: Dynamic Media
 uuid: 3592daf7-6222-4c42-b6bb-ab3ef5b8ae70
+feature: "Dynamic Media Classic,Viewers,SDK/API,Interactive Videos"
+role: "Developer,Business Practitioner"
 ---
 
 # CallToAction.textpos{#calltoaction-textpos}

@@ -4,8 +4,9 @@ seo-description: The Image Rendering API Reference contains information about se
 seo-title: Image Rendering API
 solution: Experience Manager
 title: Image Rendering API
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 14e283bb-451c-4b6e-bd73-32488dcd93b6
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Image Rendering API{#image-rendering-api}

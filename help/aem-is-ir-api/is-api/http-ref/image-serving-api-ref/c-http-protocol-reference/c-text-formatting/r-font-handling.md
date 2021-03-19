@@ -4,8 +4,9 @@ seo-description: All fonts referenced in the RTF string must be available in the
 seo-title: Font handling
 solution: Experience Manager
 title: Font handling
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 6a751973-5dae-472e-a908-bf24fa59d031
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Font handling{#font-handling}

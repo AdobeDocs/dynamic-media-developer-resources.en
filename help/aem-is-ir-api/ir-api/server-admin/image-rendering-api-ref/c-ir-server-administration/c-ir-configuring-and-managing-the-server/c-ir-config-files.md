@@ -4,8 +4,9 @@ seo-description: Image Rendering configuration settings are stored in the Platfo
 seo-title: Configuration files
 solution: Experience Manager
 title: Configuration files
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: ffd1c65b-e084-4a7e-9a15-600d6c5b173a
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator,Business Practitioner"
 ---
 
 # Configuration files{#configuration-files}

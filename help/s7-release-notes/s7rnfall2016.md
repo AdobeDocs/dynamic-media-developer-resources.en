@@ -1,8 +1,9 @@
 ---
-description: The latest release notes for Adobe Scene7 Fall 2016 release–part of the Adobe Experience Manager solution in the Adobe Marketing Cloud.
+description: "The latest release notes for Adobe Scene7 Fall 2016 release, part of the Adobe Experience Manager solution in the Adobe Marketing Cloud."
 solution: Experience Manager
 title: Scene7 Fall 2016 Release
-topic: Dynamic Media
+feature: Dynamic Media Classic
+role: "Developer,Business Practitioner"
 ---
 
 # Scene7 Fall 2016 Release{#scene-fall-release}

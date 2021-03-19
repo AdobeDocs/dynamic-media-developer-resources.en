@@ -4,8 +4,9 @@ seo-description: Retrieves an XMP Metadata packet for the specified asset.
 seo-title: getXMPPacket
 solution: Experience Manager
 title: getXMPPacket
-topic: Dynamic Media Image Production System API
 uuid: c4b40e76-a459-4036-ace2-8df202305bf9
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # getXMPPacket{#getxmppacket}

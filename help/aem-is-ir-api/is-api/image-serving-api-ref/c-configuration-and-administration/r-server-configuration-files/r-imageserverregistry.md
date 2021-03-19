@@ -4,8 +4,9 @@ seo-description: Contains Image Server configuration settings.
 seo-title: ImageServerRegistry.xml
 solution: Experience Manager
 title: ImageServerRegistry.xml
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: cc401f75-1eb1-40fe-8308-eaaf9e14f906
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator,Business Practitioner"
 ---
 
 # ImageServerRegistry.xml{#imageserverregistry-xml}

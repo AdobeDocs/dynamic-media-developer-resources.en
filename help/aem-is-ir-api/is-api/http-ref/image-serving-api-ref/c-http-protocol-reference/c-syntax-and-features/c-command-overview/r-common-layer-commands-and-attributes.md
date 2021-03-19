@@ -4,8 +4,9 @@ seo-description: These commands apply to image, text, and solid color layers. Mo
 seo-title: Common layer commands
 solution: Experience Manager
 title: Common layer commands
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: f11da6ba-18f2-42d6-8257-cb8ebef8c7d8
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Common layer commands{#common-layer-commands}

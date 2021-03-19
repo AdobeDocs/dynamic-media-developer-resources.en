@@ -4,8 +4,9 @@ seo-description: After you install Dynamic Media Image Serving, you should verif
 seo-title: Verifying the installation
 solution: Experience Manager
 title: Verifying the installation
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: ccc7688d-3d7f-4066-a19e-8a36ca56d711
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Verifying the installation{#verifying-the-installation}

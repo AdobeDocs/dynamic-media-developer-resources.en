@@ -4,8 +4,9 @@ seo-description: If so enabled in the vignette, the renderer will vary the illum
 seo-title: Gloss effects
 solution: Experience Manager
 title: Gloss effects
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: e4424b04-2d8c-47e5-8474-b5271c923451
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Gloss effects{#gloss-effects}

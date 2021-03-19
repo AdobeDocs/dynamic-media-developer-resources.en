@@ -2,8 +2,9 @@
 description: ThumbnailGridView.fmt
 solution: Experience Manager
 title: ThumbnailGridView.fmt
-topic: Dynamic Media
 uuid: 6aaac931-af78-4f63-9345-6c2580f52414
+feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog"
+role: "Developer,Business Practitioner"
 ---
 
 # ThumbnailGridView.fmt{#thumbnailgridview-fmt}

@@ -4,8 +4,9 @@ seo-description: Properties of an XML file asset.
 seo-title: XmlInfo
 solution: Experience Manager
 title: XmlInfo
-topic: Dynamic Media Image Production System API
 uuid: 6871adc5-35cf-488f-abcc-20d766514ebd
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # XmlInfo{#xmlinfo}

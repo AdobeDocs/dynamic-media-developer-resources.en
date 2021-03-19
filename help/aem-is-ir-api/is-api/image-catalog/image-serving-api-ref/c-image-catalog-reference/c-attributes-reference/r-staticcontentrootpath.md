@@ -4,8 +4,9 @@ seo-description: Static content data root path. Absolute path or relative path s
 seo-title: StaticContentRootPath
 solution: Experience Manager
 title: StaticContentRootPath
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: f1c0a54c-8b2c-4953-a3b7-180d231840db
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # StaticContentRootPath{#staticcontentrootpath}

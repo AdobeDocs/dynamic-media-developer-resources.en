@@ -4,8 +4,9 @@ seo-description: Following is the list of keywords and commands supported by the
 seo-title: Supported RTF commands and keywords
 solution: Experience Manager
 title: Supported RTF commands and keywords
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 0b77d0c5-c4cc-4de7-b51d-6f2ca02316f5
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Supported RTF commands and keywords{#supported-rtf-commands-and-keywords}

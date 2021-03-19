@@ -4,8 +4,9 @@ seo-description: An array of disk usage.
 seo-title: DiskUsageArray
 solution: Experience Manager
 title: DiskUsageArray
-topic: Dynamic Media Image Production System API
 uuid: 1745fa78-4ab1-491f-8213-fa3cce632e37
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # DiskUsageArray{#diskusagearray}

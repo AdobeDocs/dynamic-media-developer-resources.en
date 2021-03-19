@@ -4,8 +4,9 @@ seo-description: Select Layer. Selects a layer and starts a new layer definition
 seo-title: layer
 solution: Experience Manager
 title: layer
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 882309b3-51d7-477e-bd09-068ce9e55eb5
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # layer{#layer}

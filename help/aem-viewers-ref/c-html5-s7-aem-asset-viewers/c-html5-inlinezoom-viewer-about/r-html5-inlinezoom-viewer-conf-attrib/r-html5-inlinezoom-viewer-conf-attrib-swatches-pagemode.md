@@ -2,8 +2,9 @@
 description: Swatches.pagemode
 solution: Experience Manager
 title: Swatches.pagemode
-topic: Dynamic Media
 uuid: 116aef33-b31a-48d9-91bb-f068a02ca75a
+feature: "Dynamic Media Classic,Viewers,SDK/API,Inline Zoom"
+role: "Developer,Business Practitioner"
 ---
 
 # Swatches.pagemode{#swatches-pagemode}

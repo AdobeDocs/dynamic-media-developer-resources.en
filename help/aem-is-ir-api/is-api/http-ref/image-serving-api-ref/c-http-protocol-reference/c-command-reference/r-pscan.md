@@ -4,8 +4,9 @@ seo-description: Progressive JPEG scan. Progressive JPEG displays an image in su
 seo-title: pscan
 solution: Experience Manager
 title: pscan
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: c8e1d7a9-679c-437f-aa53-67aca3f40b30
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # pscan{#pscan}

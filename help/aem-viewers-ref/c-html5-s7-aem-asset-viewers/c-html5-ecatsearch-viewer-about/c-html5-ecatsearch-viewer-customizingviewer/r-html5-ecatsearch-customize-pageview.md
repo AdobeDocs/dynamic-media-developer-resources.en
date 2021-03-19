@@ -4,8 +4,9 @@ seo-description: Main view consists of the catalog image. It can be swiped to ge
 seo-title: Page view
 solution: Experience Manager
 title: Page view
-topic: Dynamic Media
 uuid: f585bf57-c66a-4213-a2af-d9625beb5bed
+feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
+role: "Developer,Business Practitioner"
 ---
 
 # Page view{#page-view}

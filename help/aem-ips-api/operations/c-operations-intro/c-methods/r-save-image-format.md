@@ -4,8 +4,9 @@ seo-description: Creates an image format.
 seo-title: saveImageFormat
 solution: Experience Manager
 title: saveImageFormat
-topic: Dynamic Media Image Production System API
 uuid: b11ea668-7a82-439c-b16b-909dc86c00a2
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # saveImageFormat{#saveimageformat}

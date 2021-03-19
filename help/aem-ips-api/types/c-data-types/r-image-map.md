@@ -4,8 +4,9 @@ seo-description: Target for a click action in the browser.
 seo-title: ImageMap
 solution: Experience Manager
 title: ImageMap
-topic: Dynamic Media Image Production System API
 uuid: 1a09ab27-7ee1-4162-8047-575f3f5ca8fe
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # ImageMap{#imagemap}

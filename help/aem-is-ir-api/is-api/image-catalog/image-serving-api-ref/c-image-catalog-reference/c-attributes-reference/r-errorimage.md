@@ -4,8 +4,9 @@ seo-description: Error response image. Image Serving normally returns an error s
 seo-title: ErrorImage
 solution: Experience Manager
 title: ErrorImage
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: b071c0cd-e7b8-422b-9b23-d93f504d9ce5
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # ErrorImage{#errorimage}

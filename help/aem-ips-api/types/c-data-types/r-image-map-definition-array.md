@@ -4,8 +4,9 @@ seo-description: An array of image map definitions.
 seo-title: ImageMapDefinitionArray
 solution: Experience Manager
 title: ImageMapDefinitionArray
-topic: Dynamic Media Image Production System API
 uuid: 3d828b12-68df-4180-b39b-d261c3ac9539
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # ImageMapDefinitionArray{#imagemapdefinitionarray}

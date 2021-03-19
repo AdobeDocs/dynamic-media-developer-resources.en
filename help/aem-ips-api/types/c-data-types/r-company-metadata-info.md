@@ -4,8 +4,9 @@ seo-description: Holds information about a company metadata object like ID, name
 seo-title: CompanyMetadataInfo
 solution: Experience Manager
 title: CompanyMetadataInfo
-topic: Dynamic Media Image Production System API
 uuid: 5a69a995-979a-4919-a506-42b2cbfa4657
+feature: "Dynamic Media Classic,SDK/API,Metadata"
+role: "Developer,Administrator"
 ---
 
 # CompanyMetadataInfo{#companymetadatainfo}

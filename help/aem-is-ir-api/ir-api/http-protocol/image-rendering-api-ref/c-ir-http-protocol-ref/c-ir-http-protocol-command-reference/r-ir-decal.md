@@ -4,8 +4,9 @@ seo-description: Decal material selector. Starts a material specification segmen
 seo-title: decal
 solution: Experience Manager
 title: decal
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 3a164f92-b0fc-4698-8aaa-934f029437c0
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # decal{#decal}

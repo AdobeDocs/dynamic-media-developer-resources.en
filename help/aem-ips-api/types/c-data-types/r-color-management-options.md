@@ -4,8 +4,9 @@ seo-description: Options specified during upload. Affects how color is managed f
 seo-title: ColorManagementOptions
 solution: Experience Manager
 title: ColorManagementOptions
-topic: Dynamic Media Image Production System API
 uuid: ddf50d22-8d7b-4881-8023-bd7f58cbd882
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # ColorManagementOptions{#colormanagementoptions}

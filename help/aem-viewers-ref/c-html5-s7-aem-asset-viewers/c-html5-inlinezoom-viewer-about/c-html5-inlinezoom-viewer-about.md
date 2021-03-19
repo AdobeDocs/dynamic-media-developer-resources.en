@@ -3,7 +3,8 @@ description: Inline Zoom Viewer is an image viewer. It displays a static image w
 keywords: responsive
 solution: Experience Manager
 title: Inline Zoom
-topic: Dynamic Media
+feature: "Dynamic Media Classic,Viewers,SDK/API,Inline Zoom"
+role: "Developer,Business Practitioner"
 ---
 
 # Inline Zoom{#inline-zoom}

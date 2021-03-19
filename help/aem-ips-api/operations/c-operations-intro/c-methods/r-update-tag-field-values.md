@@ -4,8 +4,9 @@ seo-description: Updates tag dictionary values for a tag field.
 seo-title: updateTagFieldValues
 solution: Experience Manager
 title: updateTagFieldValues
-topic: Dynamic Media Image Production System API
 uuid: 21689469-a0dd-480b-82ba-ebd12956ff8f
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # updateTagFieldValues{#updatetagfieldvalues}

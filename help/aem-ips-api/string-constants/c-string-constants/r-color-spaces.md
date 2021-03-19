@@ -4,8 +4,9 @@ seo-description: Used by IccProfileFieldUpdate/colorSpace and IccProfileFieldUpd
 seo-title: Color Spaces
 solution: Experience Manager
 title: Color Spaces
-topic: Dynamic Media Image Production System API
 uuid: a703fccb-932d-4de8-84a1-bc0483013151
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # Color Spaces{#color-spaces}

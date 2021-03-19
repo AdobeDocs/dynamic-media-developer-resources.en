@@ -4,8 +4,9 @@ seo-description: Image Rendering leverages the Image Serving caching features to
 seo-title: Data caching
 solution: Experience Manager
 title: Data caching
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 630ed3f4-3a0d-4de4-828f-45ffc14e6bb7
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator,Business Practitioner"
 ---
 
 # Data caching{#data-caching}

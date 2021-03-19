@@ -4,8 +4,9 @@ seo-description: Image Map Data. Provides image map data for this layer. Overrid
 seo-title: map
 solution: Experience Manager
 title: map
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 9c1c3323-21ab-4820-bf4e-761b82ada1ab
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # map{#map}

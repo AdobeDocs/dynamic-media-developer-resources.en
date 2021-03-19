@@ -4,8 +4,9 @@ seo-description: Material surface glossiness. Specifies the relative glossiness 
 seo-title: gloss
 solution: Experience Manager
 title: gloss
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 3774e08b-d24e-4cf2-8719-32a21bb9bcb6
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # gloss{#gloss}

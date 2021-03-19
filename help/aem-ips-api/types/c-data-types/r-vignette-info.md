@@ -4,8 +4,9 @@ seo-description: Properties of a vignette asset.
 seo-title: VignetteInfo
 solution: Experience Manager
 title: VignetteInfo
-topic: Dynamic Media Image Production System API
 uuid: 86406541-f117-49a3-909b-bde63d8e9eef
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # VignetteInfo{#vignetteinfo}

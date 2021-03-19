@@ -4,8 +4,9 @@ seo-description: An array of folders.
 seo-title: FolderArray
 solution: Experience Manager
 title: FolderArray
-topic: Dynamic Media Image Production System API
 uuid: 4dd51d7c-6198-4c69-a2ae-c533fd8baae9
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # FolderArray{#folderarray}

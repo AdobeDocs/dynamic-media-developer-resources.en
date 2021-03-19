@@ -4,8 +4,9 @@ seo-description: Italics flag.
 seo-title: Italic
 solution: Experience Manager
 title: Italic
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 4a484a3f-18b9-4fa7-bcbb-2dee947e9c2a
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Italic{#italic}

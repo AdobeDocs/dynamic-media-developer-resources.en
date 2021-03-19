@@ -4,8 +4,9 @@ seo-description: These commands apply to image layers, in addition to the common
 seo-title: Image layer commands
 solution: Experience Manager
 title: Image layer commands
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: eb8d2af0-3ec1-4730-886b-7494fb22b3e4
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Image layer commands{#image-layer-commands}

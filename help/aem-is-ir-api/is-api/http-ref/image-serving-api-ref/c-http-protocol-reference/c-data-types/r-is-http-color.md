@@ -4,8 +4,9 @@ seo-description: Color Values. You can specify color values using either hexadec
 seo-title: color
 solution: Experience Manager
 title: color
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 61308b8e-eaac-4b2e-8500-2f9efa8a6ce8
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # color{#color}

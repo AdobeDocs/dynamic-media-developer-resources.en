@@ -4,8 +4,9 @@ seo-description: Deletes a zoom target.
 seo-title: deleteZoomTarget
 solution: Experience Manager
 title: deleteZoomTarget
-topic: Dynamic Media Image Production System API
 uuid: 01a9321f-89a9-4263-937b-b0b49fe2fb81
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # deleteZoomTarget{#deletezoomtarget}

@@ -4,8 +4,9 @@ seo-description: Server cache validation policy. Specifies when server-side cach
 seo-title: CacheValidationPolicy
 solution: Experience Manager
 title: CacheValidationPolicy
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 299dd5fe-9a0c-43df-a4c8-6b9e9c24003b
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # CacheValidationPolicy{#cachevalidationpolicy}

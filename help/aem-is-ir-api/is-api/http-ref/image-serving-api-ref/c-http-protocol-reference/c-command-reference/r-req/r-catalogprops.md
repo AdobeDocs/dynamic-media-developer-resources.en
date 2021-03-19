@@ -4,8 +4,9 @@ seo-description: Image catalog properties. Returns common attributes of the imag
 seo-title: catalogprops
 solution: Experience Manager
 title: catalogprops
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 09252d39-8604-4785-bcdc-ad229a691035
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # catalogprops{#catalogprops}

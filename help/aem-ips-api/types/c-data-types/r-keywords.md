@@ -2,8 +2,9 @@
 description: Keywords
 solution: Experience Manager
 title: Keywords
-topic: Dynamic Media Image Production System API
 uuid: 147b7dcd-dd6d-4530-b046-18925e851eb1
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # Keywords{#keywords}

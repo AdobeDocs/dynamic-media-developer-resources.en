@@ -4,8 +4,9 @@ seo-description: Set indicator is a series of dots rendered on top of main swatc
 seo-title: Set indicator
 solution: Experience Manager
 title: Set indicator
-topic: Dynamic Media
 uuid: e62fac7c-28b6-40bf-83cc-8bcfbaa0dfa3
+feature: "Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets"
+role: "Developer,Business Practitioner"
 ---
 
 # Set indicator{#set-indicator}

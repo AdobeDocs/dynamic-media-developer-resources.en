@@ -4,8 +4,9 @@ seo-description: An array of image field updates.
 seo-title: ImageFieldUpdateArray
 solution: Experience Manager
 title: ImageFieldUpdateArray
-topic: Dynamic Media Image Production System API
 uuid: ac0f0e46-2ead-4ca3-9c7e-894e7b502949
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # ImageFieldUpdateArray{#imagefieldupdatearray}

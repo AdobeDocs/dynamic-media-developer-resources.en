@@ -4,8 +4,9 @@ seo-description: If material data is required for a material catalog, the relati
 seo-title: Material data reference
 solution: Experience Manager
 title: Material data reference
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 1f2dae40-0314-483a-a731-11889e166dee
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Material data reference{#material-data-reference}

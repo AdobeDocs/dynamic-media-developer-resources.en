@@ -4,8 +4,9 @@ seo-description: Use these steps to install Image Serving for the first time on 
 seo-title: Installing for the first time
 solution: Experience Manager
 title: Installing for the first time
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 3b28fbc7-6bc9-4619-8f92-c0ae610b8b30
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Installing for the first time{#installing-for-the-first-time}

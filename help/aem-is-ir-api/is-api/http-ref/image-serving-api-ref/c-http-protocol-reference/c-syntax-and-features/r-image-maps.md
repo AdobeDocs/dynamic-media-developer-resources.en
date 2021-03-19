@@ -4,8 +4,9 @@ seo-description: IS provides mechanisms to simplify use of HTML image maps. The 
 seo-title: Image maps
 solution: Experience Manager
 title: Image maps
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 2b7b620b-712b-4110-ba38-993a354c09d3
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Image maps{#image-maps}

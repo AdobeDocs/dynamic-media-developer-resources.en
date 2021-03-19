@@ -4,8 +4,9 @@ seo-description: Set bleed margin. Sets the bleed margin that is set in the PDF 
 seo-title: bleedmargin
 solution: Experience Manager
 title: bleedmargin
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 084d09dd-3f8e-4d2b-8a1c-21d87d925b14
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # bleedmargin{#bleedmargin}

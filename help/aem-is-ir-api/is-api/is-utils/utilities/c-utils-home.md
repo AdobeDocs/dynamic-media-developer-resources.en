@@ -2,7 +2,8 @@
 description: The Image Serving utilities guide contains information about utilities used with Dynamic Media Image Server and Image Rendering.
 solution: Experience Manager
 title: Image Serving utilities
-topic: Dynamic Media Image Serving - Image Rendering API
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Image Serving utilities{#image-serving-utilities}

@@ -4,8 +4,9 @@ seo-description: Configuration attribute for Video360 Viewer.
 seo-title: Video360Player.playback
 solution: Experience Manager
 title: Video360Player.playback
-topic: Dynamic Media
 uuid: ce814963-5cb8-408e-9d57-e7b7e61e0fab
+feature: "Dynamic Media Classic,Viewers,SDK/API,360 VR Video"
+role: "Developer,Business Practitioner"
 ---
 
 # Video360Player.playback{#video-player-playback}

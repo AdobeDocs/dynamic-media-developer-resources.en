@@ -4,8 +4,9 @@ seo-description: Property sets are application-specific sets of name-value pairs
 seo-title: createPropertySet
 solution: Experience Manager
 title: createPropertySet
-topic: Dynamic Media Image Production System API
 uuid: f0b5b951-143f-4a31-bb6b-cdeabdebbcbb
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # createPropertySet{#createpropertyset}

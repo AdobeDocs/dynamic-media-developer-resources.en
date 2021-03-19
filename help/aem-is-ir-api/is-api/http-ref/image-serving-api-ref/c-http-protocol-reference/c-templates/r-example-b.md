@@ -4,8 +4,9 @@ seo-description: Similar requirements as Example A, but use a solid color backgr
 seo-title: Example B
 solution: Experience Manager
 title: Example B
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 13120562-9201-4733-bd9d-4a54eac913e9
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Example B{#example-b}

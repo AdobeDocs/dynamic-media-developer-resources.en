@@ -2,8 +2,9 @@
 description: VideoPlayer.autoplay
 solution: Experience Manager
 title: VideoPlayer.autoplay
-topic: Dynamic Media
 uuid: 07576390-dd17-4a28-b372-7bba207bdebe
+feature: "Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets"
+role: "Developer,Business Practitioner"
 ---
 
 # VideoPlayer.autoplay{#videoplayer-autoplay}

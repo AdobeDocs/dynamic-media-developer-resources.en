@@ -4,8 +4,9 @@ seo-description: There are two options for starting or stopping Image Serving on
 seo-title: Starting or stopping on Linux
 solution: Experience Manager
 title: Starting or stopping on Linux
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 92cf60c4-3f80-42bc-b135-17bc22ba151e
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Starting or stopping on Linux{#starting-or-stopping-on-linux}

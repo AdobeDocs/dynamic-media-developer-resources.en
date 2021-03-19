@@ -4,8 +4,9 @@ seo-description: An array of publish histories.
 seo-title: PublishHistoryArray
 solution: Experience Manager
 title: PublishHistoryArray
-topic: Dynamic Media Image Production System API
 uuid: ce925322-43d7-4e29-bfdb-7c29eabb3ef0
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # PublishHistoryArray{#publishhistoryarray}

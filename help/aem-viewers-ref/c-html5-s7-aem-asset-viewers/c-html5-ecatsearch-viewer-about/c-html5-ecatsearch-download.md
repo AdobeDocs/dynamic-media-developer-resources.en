@@ -2,7 +2,8 @@
 description: Download
 solution: Experience Manager
 title: Download
-topic: Dynamic Media
+feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
+role: "Developer,Business Practitioner"
 ---
 
 # Download{#download}

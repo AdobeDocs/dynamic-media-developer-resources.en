@@ -4,8 +4,9 @@ seo-description: An array of AssetMetadataFields. Used by getAssetMetadataFields
 seo-title: AssetMetadataFieldsArray
 solution: Experience Manager
 title: AssetMetadataFieldsArray
-topic: Dynamic Media Image Production System API
 uuid: a131b234-83f3-4e3c-afa9-14314e78367f
+feature: "Dynamic Media Classic,SDK/API,Metadata,Asset Management"
+role: "Developer,Administrator"
 ---
 
 # AssetMetadataFieldsArray{#assetmetadatafieldsarray}

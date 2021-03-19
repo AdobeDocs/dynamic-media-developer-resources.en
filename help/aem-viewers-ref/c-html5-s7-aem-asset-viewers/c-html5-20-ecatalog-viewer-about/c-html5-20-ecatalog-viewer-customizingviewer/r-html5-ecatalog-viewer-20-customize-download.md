@@ -2,8 +2,9 @@
 description: Download
 solution: Experience Manager
 title: Download
-topic: Dynamic Media
 uuid: 0a6c2362-6c2a-42cc-b274-377aa507a557
+feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog"
+role: "Developer,Business Practitioner"
 ---
 
 # Download{#download}

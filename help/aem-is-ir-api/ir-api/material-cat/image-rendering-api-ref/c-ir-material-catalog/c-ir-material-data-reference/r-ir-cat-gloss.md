@@ -4,8 +4,9 @@ seo-description: Surface glossiness Specifies the relative glossiness of the mat
 seo-title: Gloss
 solution: Experience Manager
 title: Gloss
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 7db83f99-15ab-4c43-adfb-07ad0b0c9707
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Gloss{#gloss}

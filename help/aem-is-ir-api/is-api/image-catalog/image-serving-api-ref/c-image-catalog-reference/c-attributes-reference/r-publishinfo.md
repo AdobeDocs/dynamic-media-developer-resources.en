@@ -4,8 +4,9 @@ seo-description: Catalog annotation string. Text string that can be used to iden
 seo-title: PublishInfo
 solution: Experience Manager
 title: PublishInfo
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 2bcd65b8-2f3e-4652-b346-a850900e8c7b
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # PublishInfo{#publishinfo}

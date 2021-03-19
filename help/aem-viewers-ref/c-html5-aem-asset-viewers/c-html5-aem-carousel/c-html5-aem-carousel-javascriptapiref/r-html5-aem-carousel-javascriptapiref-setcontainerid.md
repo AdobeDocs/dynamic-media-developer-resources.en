@@ -4,8 +4,9 @@ seo-description: JavaScript API reference for Carousel Viewer.
 seo-title: setContainerId
 solution: Experience Manager
 title: setContainerId
-topic: Dynamic Media
 uuid: 3e26c121-7493-49b5-af25-ebd76477a415
+feature: "Dynamic Media Classic,Viewers,SDK/API,Carousel Banners"
+role: "Developer,Business Practitioner"
 ---
 
 # setContainerId{#setcontainerid}

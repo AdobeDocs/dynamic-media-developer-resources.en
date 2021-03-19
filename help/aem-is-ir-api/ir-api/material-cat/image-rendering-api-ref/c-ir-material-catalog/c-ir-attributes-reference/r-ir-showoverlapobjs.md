@@ -4,8 +4,9 @@ seo-description: Show overlap objects. Specifies whether overlap objects should 
 seo-title: ShowOverlapObjs
 solution: Experience Manager
 title: ShowOverlapObjs
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 965dcff5-30e1-4237-aa71-ee7533a674d8
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # ShowOverlapObjs{#showoverlapobjs}

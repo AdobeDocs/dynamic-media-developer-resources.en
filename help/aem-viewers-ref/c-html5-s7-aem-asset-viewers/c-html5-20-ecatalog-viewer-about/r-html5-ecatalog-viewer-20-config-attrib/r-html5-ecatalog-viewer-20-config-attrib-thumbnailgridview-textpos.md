@@ -2,8 +2,9 @@
 description: ThumbnailGridView.textpos
 solution: Experience Manager
 title: ThumbnailGridView.textpos
-topic: Dynamic Media
 uuid: 1d4f2704-fce1-4d51-b5d1-b5f514ec6877
+feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog"
+role: "Developer,Business Practitioner"
 ---
 
 # ThumbnailGridView.textpos{#thumbnailgridview-textpos}

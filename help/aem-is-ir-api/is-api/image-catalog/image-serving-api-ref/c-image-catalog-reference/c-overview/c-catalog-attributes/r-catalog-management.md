@@ -4,8 +4,9 @@ seo-description: Catalog attribute files recognize these catalog management attr
 seo-title: Catalog management
 solution: Experience Manager
 title: Catalog management
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: ef714ec5-8133-4d6f-bed0-29553fdb2af3
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Catalog management{#catalog-management}

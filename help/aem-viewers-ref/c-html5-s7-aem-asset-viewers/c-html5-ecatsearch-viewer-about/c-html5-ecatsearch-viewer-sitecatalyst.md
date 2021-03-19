@@ -4,8 +4,9 @@ seo-description: The eCatalog Search Viewer supports Adobe Analytics tracking ou
 seo-title: Support for Adobe Analytics tracking
 solution: Experience Manager
 title: Support for Adobe Analytics tracking
-topic: Dynamic Media
 uuid: 2e1e2bc6-5372-4ba2-b6d7-8b760b1b0a8a
+feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
+role: "Developer,Business Practitioner,Data Engineer,Data Architect"
 ---
 
 # Support for Adobe Analytics tracking{#support-for-adobe-analytics-tracking}

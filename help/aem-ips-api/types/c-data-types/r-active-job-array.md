@@ -4,8 +4,9 @@ seo-description: An array of active jobs.
 seo-title: ActiveJobArray
 solution: Experience Manager
 title: ActiveJobArray
-topic: Dynamic Media Image Production System API
 uuid: 05b01068-ba54-45f8-8c26-ec462df768e2
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # ActiveJobArray{#activejobarray}

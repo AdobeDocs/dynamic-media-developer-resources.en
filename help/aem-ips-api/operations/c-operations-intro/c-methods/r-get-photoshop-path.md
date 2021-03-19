@@ -4,8 +4,9 @@ seo-description: Returns coordinates for the quadrilateral enclosing the named P
 seo-title: getPhotoshopPath
 solution: Experience Manager
 title: getPhotoshopPath
-topic: Dynamic Media Image Production System API
 uuid: e3ed4888-18db-40bc-a1db-f44a342d0293
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # getPhotoshopPath{#getphotoshoppath}

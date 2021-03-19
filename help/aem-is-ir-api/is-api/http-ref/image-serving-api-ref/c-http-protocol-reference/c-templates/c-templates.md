@@ -4,8 +4,9 @@ seo-description: Templates may be used to reduce the length and complexity of re
 seo-title: Templates
 solution: Experience Manager
 title: Templates
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: 54830d1f-40ad-4bf2-8e3d-d3e4d4ab57b9
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # Templates{#templates}

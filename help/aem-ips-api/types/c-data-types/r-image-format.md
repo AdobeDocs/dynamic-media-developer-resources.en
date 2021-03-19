@@ -4,8 +4,9 @@ seo-description: Unstructured named set of image output settings.
 seo-title: ImageFormat
 solution: Experience Manager
 title: ImageFormat
-topic: Dynamic Media Image Production System API
 uuid: d3ad7058-781e-4b5b-84b5-7da6bcc77cd8
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Administrator"
 ---
 
 # ImageFormat{#imageformat}

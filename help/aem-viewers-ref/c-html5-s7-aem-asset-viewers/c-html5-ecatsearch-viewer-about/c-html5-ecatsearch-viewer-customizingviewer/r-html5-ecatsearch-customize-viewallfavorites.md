@@ -4,8 +4,9 @@ seo-description: The position of the button is fully managed by the Favorites me
 seo-title: View All Favorites button
 solution: Experience Manager
 title: View All Favorites button
-topic: Dynamic Media
 uuid: 8824deb5-3bdc-4681-85ac-7f86a76cf3b5
+feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
+role: "Developer,Business Practitioner"
 ---
 
 # View All Favorites button{#view-all-favorites-button}

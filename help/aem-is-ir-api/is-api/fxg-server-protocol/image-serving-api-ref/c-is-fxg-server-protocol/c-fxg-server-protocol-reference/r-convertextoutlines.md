@@ -4,8 +4,9 @@ seo-description: Convert text in a PDF file to outlines.
 seo-title: convertTextToOutlines
 solution: Experience Manager
 title: convertTextToOutlines
-topic: Dynamic Media Image Serving - Image Rendering API
 uuid: ec8a5f86-be10-494e-bc06-5c81520696f9
+feature: "Dynamic Media Classic,SDK/API"
+role: "Developer,Business Practitioner"
 ---
 
 # convertTextToOutlines{#converttexttooutlines}
