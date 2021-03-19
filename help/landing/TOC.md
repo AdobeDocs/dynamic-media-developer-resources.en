@@ -20,5 +20,5 @@ index: y
 + [IS/IR API](/help/aem-is-ir-api/homeisir.md)
 + [IPS API](/help/aem-ips-api/c-overview.md)
 + [Image Authoring](/help/aem-ia/aem-ia-home.md)
-+ [Dynamic Media Classic Release Notes](/help/s7-release-notes/home.md)
++ [Dynamic Media Classic Release Notes](/help/s7-release-notes/homern.md)
 -->
