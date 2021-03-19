@@ -1,6 +1,6 @@
 filename,title,description,feature,topic,role,level
 ./metadata.md,,Dynamic Media Classic,,,,
-./help/s7-release-notes/TOC.md,Adobe Dynamic Media Classic release notes,Release notes for Adobe Dynamic Media Classic-part of the Adobe Experience Manager solution in the Adobe Experience Cloud.,Dynamic Media Classic,,"Developer,Business Practitioner",
+./help/s7-release-notes/TOC.md,Adobe Dynamic Media Classic release notes,Release notes for Adobe Dynamic Media Classic&ndash;part of the Adobe Experience Manager solution in the Adobe Experience Cloud.,Dynamic Media Classic,,"Developer,Business Practitioner",
 ./help/landing/home.md,Adobe Dynamic Media developer resources,Adobe Dynamic Media developer resources,"Dynamic Media Classic,SDK/API",,"Developer,Business Practitioner",
 help/s7-release-notes/s7rn2017.md,Dynamic Media Release Notes,The latest release notes for Adobe Dynamic Media Classicâ part of the Adobe Experience Manager solution in the Adobe Marketing Cloud.,Dynamic Media Classic,,"Developer,Business Practitioner",
 help/s7-release-notes/s7rnfall2016.md,Scene7 Fall 2016 Release,The latest release notes for Adobe Scene7 Fall 2016 releaseâ part of the Adobe Experience Manager solution in the Adobe Marketing Cloud.,Dynamic Media Classic,,"Developer,Business Practitioner",
