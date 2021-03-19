@@ -5,8 +5,8 @@ seo-title: Icon effect
 solution: Experience Manager
 title: Icon effect
 uuid: 4995ac11-f591-4d1d-a292-be5d55aebf98
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # Icon effect{#icon-effect}

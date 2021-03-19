@@ -5,8 +5,8 @@ seo-title: Search effect
 solution: Experience Manager
 title: Search effect
 uuid: 3a076ff8-2da5-4020-8a77-8f5a256afefe
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # Search effect{#search-effect}

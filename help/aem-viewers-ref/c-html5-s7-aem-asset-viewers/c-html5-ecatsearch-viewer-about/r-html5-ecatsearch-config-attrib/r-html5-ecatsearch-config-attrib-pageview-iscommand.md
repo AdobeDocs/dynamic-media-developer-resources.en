@@ -3,8 +3,8 @@ description: PageView.iscommand
 solution: Experience Manager
 title: PageView.iscommand
 uuid: 32bfd041-e44c-4a78-a923-896a85d8f75f
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # PageView.iscommand{#pageview-iscommand}

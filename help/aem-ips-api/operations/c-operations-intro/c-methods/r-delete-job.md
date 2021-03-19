@@ -5,8 +5,8 @@ seo-title: deleteJob
 solution: Experience Manager
 title: deleteJob
 uuid: c1109cae-a3ca-40db-b641-9a6fc116c964
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # deleteJob{#deletejob}

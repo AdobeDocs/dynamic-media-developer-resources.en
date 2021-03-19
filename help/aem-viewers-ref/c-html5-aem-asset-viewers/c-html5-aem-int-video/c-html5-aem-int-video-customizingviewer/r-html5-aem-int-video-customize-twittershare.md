@@ -5,8 +5,8 @@ seo-title: Twitter share
 solution: Experience Manager
 title: Twitter share
 uuid: f5f1182f-f95c-43c4-b39f-1b50ed4a5458
-feature: "Dynamic Media Classic,Viewers,SDK/API,Interactive Videos"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
+role: Developer,Business Practitioner
 ---
 
 # Twitter share{#twitter-share}

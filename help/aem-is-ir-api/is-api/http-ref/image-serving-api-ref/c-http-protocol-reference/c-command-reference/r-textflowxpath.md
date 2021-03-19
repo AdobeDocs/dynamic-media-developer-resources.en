@@ -5,8 +5,8 @@ seo-title: textFlowXPath
 solution: Experience Manager
 title: textFlowXPath
 uuid: ce833ae7-e774-4954-a521-b6247e75f6eb
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # textFlowXPath{#textflowxpath}

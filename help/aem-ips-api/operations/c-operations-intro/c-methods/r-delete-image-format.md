@@ -5,8 +5,8 @@ seo-title: deleteImageFormat
 solution: Experience Manager
 title: deleteImageFormat
 uuid: 70dddde9-830b-4267-8ef5-df5241f549e3
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # deleteImageFormat{#deleteimageformat}

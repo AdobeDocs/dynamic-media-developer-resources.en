@@ -5,8 +5,8 @@ seo-title: Vignette Converter
 solution: Experience Manager
 title: Vignette Converter
 uuid: b32a30d6-ae4a-406f-88a9-e8b0eec394c9
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Vignette Converter{#vignette-converter}

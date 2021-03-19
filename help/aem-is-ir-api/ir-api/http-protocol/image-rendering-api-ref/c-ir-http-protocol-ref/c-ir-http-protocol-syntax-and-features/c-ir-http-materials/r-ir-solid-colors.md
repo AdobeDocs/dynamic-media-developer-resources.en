@@ -5,8 +5,8 @@ seo-title: Solid colors
 solution: Experience Manager
 title: Solid colors
 uuid: 75b60e44-1727-4f3e-a186-df66fabeec0d
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Solid colors{#solid-colors}

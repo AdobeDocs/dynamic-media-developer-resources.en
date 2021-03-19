@@ -3,8 +3,8 @@ description: SpinView.sensitivity
 solution: Experience Manager
 title: SpinView.sensitivity
 uuid: 82cf1f26-3af0-494f-b918-fdc318959c75
-feature: "Dynamic Media Classic,Viewers,SDK/API,Spin Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
+role: Developer,Business Practitioner
 ---
 
 # SpinView.sensitivity{#spinview-sensitivity}

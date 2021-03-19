@@ -5,8 +5,8 @@ seo-title: Previous slide
 solution: Experience Manager
 title: Previous slide
 uuid: 733fa270-ce95-4493-9d31-f7f638d8368d
-feature: "Dynamic Media Classic,Viewers,SDK/API,Carousel Banners"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
+role: Developer,Business Practitioner
 ---
 
 # Previous slide{#previous-slide}

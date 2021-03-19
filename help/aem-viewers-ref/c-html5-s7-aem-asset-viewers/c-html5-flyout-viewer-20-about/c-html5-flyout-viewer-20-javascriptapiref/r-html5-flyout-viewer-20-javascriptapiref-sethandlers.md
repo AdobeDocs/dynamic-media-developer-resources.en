@@ -5,8 +5,8 @@ seo-title: setHandlers
 solution: Experience Manager
 title: setHandlers
 uuid: cf01d214-4378-4e55-a241-31e56c9eae5b
-feature: "Dynamic Media Classic,Viewers,SDK/API,Flyout"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
+role: Developer,Business Practitioner
 ---
 
 # setHandlers{#sethandlers}

@@ -3,8 +3,8 @@ description: PageView.transition
 solution: Experience Manager
 title: PageView.transition
 uuid: c85ad85f-a802-4f5d-9046-00171ad2d9ca
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # PageView.transition{#pageview-transition}

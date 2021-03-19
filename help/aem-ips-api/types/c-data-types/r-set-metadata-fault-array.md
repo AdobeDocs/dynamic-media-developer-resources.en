@@ -5,8 +5,8 @@ seo-title: SetMetadataFaultArray
 solution: Experience Manager
 title: SetMetadataFaultArray
 uuid: 9a56312d-51a3-476c-b0a7-b5117f47b52c
-feature: "Dynamic Media Classic,SDK/API,Metadata"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Metadata
+role: Developer,Administrator
 ---
 
 # SetMetadataFaultArray{#setmetadatafaultarray}

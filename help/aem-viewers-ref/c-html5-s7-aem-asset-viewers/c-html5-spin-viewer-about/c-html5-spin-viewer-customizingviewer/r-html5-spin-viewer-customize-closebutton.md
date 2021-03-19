@@ -5,8 +5,8 @@ seo-title: Close button
 solution: Experience Manager
 title: Close button
 uuid: adeaa96c-87d7-434c-8ae9-7bb0e10a21c3
-feature: "Dynamic Media Classic,Viewers,SDK/API,Spin Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
+role: Developer,Business Practitioner
 ---
 
 # Close button{#close-button}

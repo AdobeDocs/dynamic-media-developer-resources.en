@@ -5,8 +5,8 @@ seo-title: ImageServingPublishJob
 solution: Experience Manager
 title: ImageServingPublishJob
 uuid: ab207299-ecb8-4acc-a5b3-b7553149b7b8
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # ImageServingPublishJob{#imageservingpublishjob}

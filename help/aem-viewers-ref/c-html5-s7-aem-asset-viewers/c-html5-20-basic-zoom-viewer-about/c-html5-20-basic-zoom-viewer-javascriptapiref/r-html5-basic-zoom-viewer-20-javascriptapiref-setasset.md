@@ -5,8 +5,8 @@ seo-title: setAsset
 solution: Experience Manager
 title: setAsset
 uuid: af433f15-34a0-4867-97c5-acab47e3e008
-feature: "Dynamic Media Classic,Viewers,SDK/API,Zoom"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
+role: Developer,Business Practitioner
 ---
 
 # setAsset{#setasset}

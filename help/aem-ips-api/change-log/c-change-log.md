@@ -2,8 +2,8 @@
 description: Change log
 solution: Experience Manager
 title: Change log
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # Change log{#change-log}

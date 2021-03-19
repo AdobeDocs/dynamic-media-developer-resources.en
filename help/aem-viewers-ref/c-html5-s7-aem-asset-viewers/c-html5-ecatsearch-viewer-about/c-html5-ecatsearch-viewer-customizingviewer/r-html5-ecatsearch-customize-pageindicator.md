@@ -5,8 +5,8 @@ seo-title: Page indicator
 solution: Experience Manager
 title: Page indicator
 uuid: 1be6021b-3026-48ef-b121-eeb8270d2bae
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # Page indicator{#page-indicator}

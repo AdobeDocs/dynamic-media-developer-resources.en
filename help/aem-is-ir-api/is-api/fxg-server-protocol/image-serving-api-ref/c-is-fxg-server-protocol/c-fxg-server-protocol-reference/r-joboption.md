@@ -5,8 +5,8 @@ seo-title: joboption
 solution: Experience Manager
 title: joboption
 uuid: 7288cf29-850f-4121-8425-5f995daac22d
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # joboption{#joboption}

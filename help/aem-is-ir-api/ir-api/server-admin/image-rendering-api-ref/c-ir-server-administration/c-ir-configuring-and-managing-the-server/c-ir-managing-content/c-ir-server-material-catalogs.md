@@ -5,8 +5,8 @@ seo-title: Material catalogs
 solution: Experience Manager
 title: Material catalogs
 uuid: 6d209019-f9ca-43e4-900b-3597c7044a79
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Material catalogs{#material-catalogs}

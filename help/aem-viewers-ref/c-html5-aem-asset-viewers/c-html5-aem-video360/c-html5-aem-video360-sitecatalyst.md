@@ -3,8 +3,8 @@ description: Support for Adobe Analytics tracking
 solution: Experience Manager
 title: Support for Adobe Analytics tracking
 uuid: 0d4dee7b-3ffb-4bf5-93b1-67972bfc9b2a
-feature: "Dynamic Media Classic,Viewers,SDK/API,360 VR Video"
-role: "Developer,Business Practitioner,Data Engineer,Data Architect"
+feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
+role: Developer,Business Practitioner,Data Engineer,Data Architect
 ---
 
 # Support for Adobe Analytics tracking{#support-for-adobe-analytics-tracking}

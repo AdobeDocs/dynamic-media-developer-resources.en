@@ -2,8 +2,8 @@
 description: Operation parameters
 solution: Experience Manager
 title: Operation parameters
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # Operation parameters{#operation-parameters}

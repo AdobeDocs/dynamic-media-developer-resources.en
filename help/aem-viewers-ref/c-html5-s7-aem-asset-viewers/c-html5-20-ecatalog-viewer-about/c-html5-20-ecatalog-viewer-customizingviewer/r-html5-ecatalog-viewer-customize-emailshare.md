@@ -5,8 +5,8 @@ seo-title: Email share
 solution: Experience Manager
 title: Email share
 uuid: e080ae49-c38f-43c3-a7b9-d5f8f41ba6d0
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
+role: Developer,Business Practitioner
 ---
 
 # Email share{#email-share}

@@ -5,8 +5,8 @@ seo-title: xmp
 solution: Experience Manager
 title: xmp
 uuid: e1583ffe-531a-4334-b974-72df6fcb14ba
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # xmp{#xmp}

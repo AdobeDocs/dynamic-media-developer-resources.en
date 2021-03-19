@@ -5,8 +5,8 @@ seo-title: Common data types
 solution: Experience Manager
 title: Common data types
 uuid: 125a4044-7699-4c4f-9dea-a2934d919309
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Common data types{#common-data-types}

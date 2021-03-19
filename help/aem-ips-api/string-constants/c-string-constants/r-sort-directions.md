@@ -5,8 +5,8 @@ seo-title: Sort Directions
 solution: Experience Manager
 title: Sort Directions
 uuid: 9ff9d2f6-d41e-466e-a208-a30de04d3433
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # Sort Directions{#sort-directions}

@@ -5,8 +5,8 @@ seo-title: VideoPlayer.singleclick
 solution: Experience Manager
 title: VideoPlayer.singleclick
 uuid: df669b2e-31da-4de0-b480-e54402c9545c
-feature: "Dynamic Media Classic,Viewers,SDK/API,Video"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Video
+role: Developer,Business Practitioner
 ---
 
 # VideoPlayer.singleclick{#videoplayer-singleclick}

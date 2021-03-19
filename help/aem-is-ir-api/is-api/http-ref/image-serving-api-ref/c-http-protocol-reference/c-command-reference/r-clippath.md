@@ -5,8 +5,8 @@ seo-title: clipPath
 solution: Experience Manager
 title: clipPath
 uuid: fe84cf7a-63af-47d3-ae4f-2122f2f0a262
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # clipPath{#clippath}

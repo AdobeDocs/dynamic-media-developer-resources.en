@@ -5,8 +5,8 @@ seo-title: FontMapFile
 solution: Experience Manager
 title: FontMapFile
 uuid: 84774ae3-c038-444b-ba00-d8528e6d0de8
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # FontMapFile{#fontmapfile}

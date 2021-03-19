@@ -5,8 +5,8 @@ seo-title: JSONP properties
 solution: Experience Manager
 title: JSONP properties
 uuid: e53d75f2-9b43-4e8f-8191-66f69f344cdd
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # JSONP properties{#jsonp-properties}

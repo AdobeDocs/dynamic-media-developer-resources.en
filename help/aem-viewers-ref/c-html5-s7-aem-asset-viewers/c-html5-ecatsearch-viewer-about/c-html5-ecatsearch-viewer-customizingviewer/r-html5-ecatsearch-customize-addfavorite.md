@@ -5,8 +5,8 @@ seo-title: Add Favorite button
 solution: Experience Manager
 title: Add Favorite button
 uuid: decde7d1-d7d1-4056-815c-2b6571110d9f
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # Add Favorite button{#add-favorite-button}

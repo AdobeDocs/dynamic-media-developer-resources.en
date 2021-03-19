@@ -5,8 +5,8 @@ seo-title: ContextStateUpdate
 solution: Experience Manager
 title: ContextStateUpdate
 uuid: ef579d3c-1899-4088-903e-e6ed5a414ca8
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # ContextStateUpdate{#contextstateupdate}

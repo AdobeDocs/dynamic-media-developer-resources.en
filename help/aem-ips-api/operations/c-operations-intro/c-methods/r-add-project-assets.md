@@ -2,8 +2,8 @@
 description: Adds one or more assets to a project.
 solution: Experience Manager
 title: addProjectAssets
-feature: "Dynamic Media Classic,SDK/API,Asset Management"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # addProjectAssets{#addprojectassets}

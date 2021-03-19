@@ -5,8 +5,8 @@ seo-title: Print
 solution: Experience Manager
 title: Print
 uuid: 7be047d8-d1be-4bda-90ca-6b55c749cc64
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # Print{#print}

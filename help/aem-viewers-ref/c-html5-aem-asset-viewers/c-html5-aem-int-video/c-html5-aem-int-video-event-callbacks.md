@@ -3,8 +3,8 @@ description: Event callbacks
 solution: Experience Manager
 title: Event callbacks
 uuid: b9252d4b-cff1-42eb-9e56-553091f854b5
-feature: "Dynamic Media Classic,Viewers,SDK/API,Interactive Videos"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
+role: Developer,Business Practitioner
 ---
 
 # Event callbacks{#event-callbacks}

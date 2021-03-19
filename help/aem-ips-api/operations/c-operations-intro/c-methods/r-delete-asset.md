@@ -5,8 +5,8 @@ seo-title: deleteAsset
 solution: Experience Manager
 title: deleteAsset
 uuid: 47f700e0-04bf-4d33-a18a-d938f7e9e326
-feature: "Dynamic Media Classic,SDK/API,Asset Management"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # deleteAsset{#deleteasset}

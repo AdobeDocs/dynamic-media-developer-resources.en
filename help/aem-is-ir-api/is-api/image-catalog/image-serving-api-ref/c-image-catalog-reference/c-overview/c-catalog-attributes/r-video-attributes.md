@@ -5,8 +5,8 @@ seo-title: Video attributes
 solution: Experience Manager
 title: Video attributes
 uuid: 7fb5edce-f88a-4eec-b314-070445f263b1
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Video attributes{#video-attributes}

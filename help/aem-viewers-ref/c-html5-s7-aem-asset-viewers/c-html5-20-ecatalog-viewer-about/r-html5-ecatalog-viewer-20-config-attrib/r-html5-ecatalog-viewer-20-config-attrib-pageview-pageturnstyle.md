@@ -3,8 +3,8 @@ description: PageView.pageturnstyle
 solution: Experience Manager
 title: PageView.pageturnstyle
 uuid: 3192d810-fb30-44ae-9939-98e890c76e5c
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
+role: Developer,Business Practitioner
 ---
 
 # PageView.pageturnstyle{#pageview-pageturnstyle}

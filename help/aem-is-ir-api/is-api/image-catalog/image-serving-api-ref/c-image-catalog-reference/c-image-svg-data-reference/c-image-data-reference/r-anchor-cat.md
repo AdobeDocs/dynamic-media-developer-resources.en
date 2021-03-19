@@ -5,8 +5,8 @@ seo-title: Anchor
 solution: Experience Manager
 title: Anchor
 uuid: 81069578-8470-4ec0-b755-47b0a8124024
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Anchor{#anchor}

@@ -5,8 +5,8 @@ seo-title: printerMark
 solution: Experience Manager
 title: printerMark
 uuid: 3e5699ce-3ccd-4f85-91dd-c40c252a758d
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # printerMark{#printermark}

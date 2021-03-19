@@ -5,8 +5,8 @@ seo-title: Set indicator
 solution: Experience Manager
 title: Set indicator
 uuid: 3f90a216-654f-44a9-947d-592bd5f342d4
-feature: "Dynamic Media Classic,Viewers,SDK/API,Carousel Banners"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
+role: Developer,Business Practitioner
 ---
 
 # Set indicator{#set-indicator}

@@ -5,8 +5,8 @@ seo-title: Spin view
 solution: Experience Manager
 title: Spin view
 uuid: 74f42373-b08c-43c8-8f08-e61a09655b61
-feature: "Dynamic Media Classic,Viewers,SDK/API,Spin Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
+role: Developer,Business Practitioner
 ---
 
 # Spin view{#spin-view}

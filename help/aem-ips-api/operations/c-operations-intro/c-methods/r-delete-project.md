@@ -5,8 +5,8 @@ seo-title: deleteProject
 solution: Experience Manager
 title: deleteProject
 uuid: 0915066f-2106-4cbc-a68a-f149810c24f8
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # deleteProject{#deleteproject}

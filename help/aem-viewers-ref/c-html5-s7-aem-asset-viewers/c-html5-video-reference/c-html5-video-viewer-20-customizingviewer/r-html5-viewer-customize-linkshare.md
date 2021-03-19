@@ -5,8 +5,8 @@ seo-title: Link share
 solution: Experience Manager
 title: Link share
 uuid: 699ddab2-8cfd-4edf-bb1b-5ff91fe63c1a
-feature: "Dynamic Media Classic,Viewers,SDK/API,Video"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Video
+role: Developer,Business Practitioner
 ---
 
 # Link share{#link-share}

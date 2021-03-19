@@ -5,8 +5,8 @@ seo-title: saveImageFormat
 solution: Experience Manager
 title: saveImageFormat
 uuid: b11ea668-7a82-439c-b16b-909dc86c00a2
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # saveImageFormat{#saveimageformat}

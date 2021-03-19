@@ -5,8 +5,8 @@ seo-title: SavePath
 solution: Experience Manager
 title: SavePath
 uuid: 02b88e83-7fee-40d4-95ea-daba9a608e8e
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # SavePath{#savepath}

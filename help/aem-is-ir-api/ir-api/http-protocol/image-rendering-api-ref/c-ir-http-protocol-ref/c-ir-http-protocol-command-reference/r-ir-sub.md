@@ -5,8 +5,8 @@ seo-title: sub
 solution: Experience Manager
 title: sub
 uuid: cb9f4dc5-9d89-483a-ae72-b9076b27c57e
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # sub{#sub}

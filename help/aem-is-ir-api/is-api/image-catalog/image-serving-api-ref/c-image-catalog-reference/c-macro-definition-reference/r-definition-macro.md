@@ -5,8 +5,8 @@ seo-title: Definition
 solution: Experience Manager
 title: Definition
 uuid: f576d5e7-cd80-4b7b-a6b6-2dc38cafbc7f
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Definition{#definition}

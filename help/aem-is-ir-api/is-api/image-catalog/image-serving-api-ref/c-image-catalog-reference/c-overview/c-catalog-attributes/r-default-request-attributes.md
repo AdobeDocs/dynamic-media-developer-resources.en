@@ -5,8 +5,8 @@ seo-title: Default request attributes
 solution: Experience Manager
 title: Default request attributes
 uuid: e83db949-67ba-4d70-8f66-41f5415c35ee
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Default request attributes{#default-request-attributes}

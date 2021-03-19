@@ -1,9 +1,8 @@
 ---
 cloud: experience-cloud
-product: adobe
-archtype: end-user
 user-guide-title: Dynamic Media Image Serving and Rendering API
 breadcrumb-title: Dynamic Media Image Serving and Rendering API
+feature-set: Experience Manager Assets
 ---
 
 # Dynamic Media Image Serving and Rendering API {#image-serving-api}

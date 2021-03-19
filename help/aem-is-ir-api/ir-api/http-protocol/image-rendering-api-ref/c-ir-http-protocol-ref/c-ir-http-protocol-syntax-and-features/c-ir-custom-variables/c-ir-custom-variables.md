@@ -5,8 +5,8 @@ seo-title: Custom variables
 solution: Experience Manager
 title: Custom variables
 uuid: 933fba00-759c-4bd3-bada-eec751426d9e
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Custom variables{#custom-variables}

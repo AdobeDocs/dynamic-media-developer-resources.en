@@ -5,8 +5,8 @@ seo-title: ServerDirectoryPublishJob
 solution: Experience Manager
 title: ServerDirectoryPublishJob
 uuid: 779f2c13-f57c-4244-b8bd-debed2b0f9af
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # ServerDirectoryPublishJob{#serverdirectorypublishjob}

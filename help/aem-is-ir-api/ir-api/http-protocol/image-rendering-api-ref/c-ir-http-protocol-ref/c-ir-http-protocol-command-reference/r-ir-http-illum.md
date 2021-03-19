@@ -5,8 +5,8 @@ seo-title: illum
 solution: Experience Manager
 title: illum
 uuid: 16c7144f-7f16-47d1-8140-fd679e702660
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # illum{#illum}

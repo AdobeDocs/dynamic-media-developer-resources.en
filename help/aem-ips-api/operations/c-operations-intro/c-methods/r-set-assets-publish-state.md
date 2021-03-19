@@ -5,8 +5,8 @@ seo-title: setAssetsPublishState
 solution: Experience Manager
 title: setAssetsPublishState
 uuid: 2910cd6c-573b-405c-864d-a0136ac5472d
-feature: "Dynamic Media Classic,SDK/API,Asset Management"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # setAssetsPublishState{#setassetspublishstate}

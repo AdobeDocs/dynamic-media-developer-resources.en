@@ -3,8 +3,8 @@ description: PageView.iconEffect
 solution: Experience Manager
 title: PageView.iconEffect
 uuid: c8adabf9-ccbf-4a46-b1e7-b4cb58d4e606
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
+role: Developer,Business Practitioner
 ---
 
 # PageView.iconEffect{#pageview-iconeffect}

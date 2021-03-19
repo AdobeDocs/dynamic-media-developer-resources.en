@@ -3,8 +3,8 @@ description: TableOfContents.maxitems
 solution: Experience Manager
 title: TableOfContents.maxitems
 uuid: 823a70b8-0f05-4b8a-8011-39f17c047018
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # TableOfContents.maxitems{#tableofcontents-maxitems}

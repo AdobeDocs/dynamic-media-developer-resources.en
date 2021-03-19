@@ -5,8 +5,8 @@ seo-title: getAssetCounts
 solution: Experience Manager
 title: getAssetCounts
 uuid: 92103806-59da-444f-b69c-d045d0ebf42e
-feature: "Dynamic Media Classic,SDK/API,Asset Management"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # getAssetCounts{#getassetcounts}

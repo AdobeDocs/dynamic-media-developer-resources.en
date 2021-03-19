@@ -5,8 +5,8 @@ seo-title: Play/Pause button
 solution: Experience Manager
 title: Play/Pause button
 uuid: d6dd795d-f608-4304-8221-251d0a082421
-feature: "Dynamic Media Classic,Viewers,SDK/API,Interactive Videos"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
+role: Developer,Business Practitioner
 ---
 
 # Play/Pause button{#play-pause-button}

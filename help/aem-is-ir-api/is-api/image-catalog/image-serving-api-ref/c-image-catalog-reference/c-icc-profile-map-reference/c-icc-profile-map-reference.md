@@ -5,8 +5,8 @@ seo-title: ICC profile map reference
 solution: Experience Manager
 title: ICC profile map reference
 uuid: eee1e8d5-cf16-4e73-9b44-4ec032cf3553
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # ICC profile map reference{#icc-profile-map-reference}

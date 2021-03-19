@@ -3,8 +3,8 @@ description: Swatches.pagemode
 solution: Experience Manager
 title: Swatches.pagemode
 uuid: 67fb7f83-b7be-4f83-9bac-9772de39d35e
-feature: "Dynamic Media Classic,Viewers,SDK/API,Flyout"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
+role: Developer,Business Practitioner
 ---
 
 # Swatches.pagemode{#swatches-pagemode}

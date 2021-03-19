@@ -5,8 +5,8 @@ seo-title: Javascript API reference for Zoom Viewer
 solution: Experience Manager
 title: Javascript API reference for Zoom Viewer
 uuid: add69992-7613-4ec2-9845-f01bf0392d0c
-feature: "Dynamic Media Classic,Viewers,SDK/API,Zoom"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
+role: Developer,Business Practitioner
 ---
 
 # Javascript API reference for Zoom Viewer{#javascript-api-reference-for-zoom-viewer}

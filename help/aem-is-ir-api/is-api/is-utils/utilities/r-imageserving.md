@@ -5,8 +5,8 @@ seo-title: ImageServing
 solution: Experience Manager
 title: ImageServing
 uuid: 2975b957-e06f-42c6-8c0a-0d2757a0025a
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # ImageServing{#imageserving}

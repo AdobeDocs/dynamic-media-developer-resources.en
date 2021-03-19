@@ -5,8 +5,8 @@ seo-title: Data types
 solution: Experience Manager
 title: Data types
 uuid: 66617ade-82e9-4a7e-8c65-3067b75d7a31
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Data types{#data-types}

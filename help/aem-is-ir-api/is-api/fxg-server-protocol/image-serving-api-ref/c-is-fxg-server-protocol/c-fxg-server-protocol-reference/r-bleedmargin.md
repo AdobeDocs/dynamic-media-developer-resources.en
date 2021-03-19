@@ -5,8 +5,8 @@ seo-title: bleedmargin
 solution: Experience Manager
 title: bleedmargin
 uuid: 084d09dd-3f8e-4d2b-8a1c-21d87d925b14
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # bleedmargin{#bleedmargin}

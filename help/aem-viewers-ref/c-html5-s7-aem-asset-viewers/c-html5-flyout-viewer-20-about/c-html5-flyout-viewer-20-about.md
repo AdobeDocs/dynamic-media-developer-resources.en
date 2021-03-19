@@ -3,8 +3,8 @@ description: Flyout Viewer is an image viewer. It displays a static image with t
 keywords: responsive
 solution: Experience Manager
 title: Flyout
-feature: "Dynamic Media Classic,Viewers,SDK/API,Flyout"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
+role: Developer,Business Practitioner
 ---
 
 # Flyout{#flyout}

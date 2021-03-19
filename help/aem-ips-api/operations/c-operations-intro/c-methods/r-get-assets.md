@@ -5,8 +5,8 @@ seo-title: getAssets
 solution: Experience Manager
 title: getAssets
 uuid: ca06af8c-1753-4dfa-a7e6-1196ea769730
-feature: "Dynamic Media Classic,SDK/API,Asset Management"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # getAssets{#getassets}

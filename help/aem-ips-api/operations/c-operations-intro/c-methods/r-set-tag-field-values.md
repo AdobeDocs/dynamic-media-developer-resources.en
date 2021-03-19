@@ -5,8 +5,8 @@ seo-title: setTagFieldValues
 solution: Experience Manager
 title: setTagFieldValues
 uuid: 56666c00-3694-4a43-a0ff-97af45c8df9f
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # setTagFieldValues{#settagfieldvalues}

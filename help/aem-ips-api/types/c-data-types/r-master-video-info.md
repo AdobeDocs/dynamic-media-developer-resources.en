@@ -5,8 +5,8 @@ seo-title: MasterVideoInfo
 solution: Experience Manager
 title: MasterVideoInfo
 uuid: 19f814c9-dddb-41ff-aef2-fb7ea91c130b
-feature: "Dynamic Media Classic,SDK/API,Video"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Video
+role: Developer,Administrator
 ---
 
 # MasterVideoInfo{#mastervideoinfo}

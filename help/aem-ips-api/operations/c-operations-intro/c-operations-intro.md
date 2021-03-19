@@ -2,8 +2,8 @@
 description: Describes the common operation parameters handled by the IPS Web Service API.
 solution: Experience Manager
 title: Operations methods
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # Operations methods{#operations-methods}

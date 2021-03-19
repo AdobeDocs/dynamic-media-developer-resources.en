@@ -5,8 +5,8 @@ seo-title: StaticContentCatalogFile
 solution: Experience Manager
 title: StaticContentCatalogFile
 uuid: 82d2a68a-255a-4e65-a29f-7022e7f0f5ec
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # StaticContentCatalogFile{#staticcontentcatalogfile}

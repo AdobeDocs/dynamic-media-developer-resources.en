@@ -5,8 +5,8 @@ seo-title: Tooltips
 solution: Experience Manager
 title: Tooltips
 uuid: fbe4e9d0-80ba-4d15-846b-077d095426fb
-feature: "Dynamic Media Classic,Viewers,SDK/API,Zoom"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
+role: Developer,Business Practitioner
 ---
 
 # Tooltips{#tooltips}

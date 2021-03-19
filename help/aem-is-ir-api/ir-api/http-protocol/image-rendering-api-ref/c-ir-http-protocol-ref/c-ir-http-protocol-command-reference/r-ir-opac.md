@@ -5,8 +5,8 @@ seo-title: opac
 solution: Experience Manager
 title: opac
 uuid: 0f5b11f0-af65-4abd-947e-7a28cb8de263
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # opac{#opac}

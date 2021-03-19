@@ -5,8 +5,8 @@ seo-title: Command reference – Configuration attributes
 solution: Experience Manager
 title: Command reference – Configuration attributes
 uuid: 1bcc879a-12ec-4924-ac05-2e4c1d6e4597
-feature: "Dynamic Media Classic,Viewers,SDK/API,Zoom"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
+role: Developer,Business Practitioner
 ---
 
 # Command reference – Configuration attributes{#command-reference-configuration-attributes}

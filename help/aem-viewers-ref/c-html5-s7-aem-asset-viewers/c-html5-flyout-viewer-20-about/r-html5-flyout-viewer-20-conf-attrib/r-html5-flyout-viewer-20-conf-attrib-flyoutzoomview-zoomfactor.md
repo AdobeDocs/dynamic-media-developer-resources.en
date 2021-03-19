@@ -3,8 +3,8 @@ description: FlyoutZoomView.zoomfactor
 solution: Experience Manager
 title: FlyoutZoomView.zoomfactor
 uuid: 58d49de7-4828-46ae-b2e7-eb9398e98a99
-feature: "Dynamic Media Classic,Viewers,SDK/API,Flyout"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
+role: Developer,Business Practitioner
 ---
 
 # FlyoutZoomView.zoomfactor{#flyoutzoomview-zoomfactor}

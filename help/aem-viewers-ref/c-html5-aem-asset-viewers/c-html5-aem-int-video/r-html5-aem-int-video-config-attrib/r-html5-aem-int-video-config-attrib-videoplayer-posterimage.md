@@ -5,8 +5,8 @@ seo-title: VideoPlayer.posterimage
 solution: Experience Manager
 title: VideoPlayer.posterimage
 uuid: 6b21179c-a227-4194-8640-0fcf73ee80e9
-feature: "Dynamic Media Classic,Viewers,SDK/API,Interactive Videos"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
+role: Developer,Business Practitioner
 ---
 
 # VideoPlayer.posterimage{#videoplayer-posterimage}

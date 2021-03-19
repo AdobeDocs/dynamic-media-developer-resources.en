@@ -5,8 +5,8 @@ seo-title: Assistive technology support
 solution: Experience Manager
 title: Assistive technology support
 uuid: 52f5dad9-7309-4385-99bc-79d02d3ba2d9
-feature: "Dynamic Media Classic,Viewers,SDK/API,360 VR Video,Accessibility"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video,Accessibility
+role: Developer,Business Practitioner
 ---
 
 # Assistive technology support{#assistive-technology-support}

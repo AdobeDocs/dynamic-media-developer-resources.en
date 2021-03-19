@@ -5,8 +5,8 @@ seo-title: setLocalizedTexts
 solution: Experience Manager
 title: setLocalizedTexts
 uuid: 8c9e0d6d-d7b0-494f-b7b7-6542fb51466a
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # setLocalizedTexts{#setlocalizedtexts}

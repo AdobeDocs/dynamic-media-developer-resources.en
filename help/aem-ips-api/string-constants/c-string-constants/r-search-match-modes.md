@@ -5,8 +5,8 @@ seo-title: Search Match Modes
 solution: Experience Manager
 title: Search Match Modes
 uuid: bbc90f83-3e7a-428f-b9c7-1defaaa3af72
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # Search Match Modes{#search-match-modes}

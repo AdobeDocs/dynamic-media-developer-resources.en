@@ -5,8 +5,8 @@ seo-title: Publish State
 solution: Experience Manager
 title: Publish State
 uuid: cebc16ed-ffee-47a5-a9c7-6d61da07e03f
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # Publish State{#publish-state}

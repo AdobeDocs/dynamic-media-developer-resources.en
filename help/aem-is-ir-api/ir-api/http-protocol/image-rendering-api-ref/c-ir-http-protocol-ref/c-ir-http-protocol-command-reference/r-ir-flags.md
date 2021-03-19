@@ -5,8 +5,8 @@ seo-title: flags
 solution: Experience Manager
 title: flags
 uuid: 43ed24fe-461e-4973-aa44-8fba66668e6f
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # flags{#flags}

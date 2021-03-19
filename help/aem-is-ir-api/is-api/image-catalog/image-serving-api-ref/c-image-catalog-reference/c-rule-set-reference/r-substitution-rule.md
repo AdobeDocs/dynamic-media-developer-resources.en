@@ -5,8 +5,8 @@ seo-title: substitution
 solution: Experience Manager
 title: substitution
 uuid: e5730559-0512-4416-927d-a7faf9180741
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # substitution{#substitution}

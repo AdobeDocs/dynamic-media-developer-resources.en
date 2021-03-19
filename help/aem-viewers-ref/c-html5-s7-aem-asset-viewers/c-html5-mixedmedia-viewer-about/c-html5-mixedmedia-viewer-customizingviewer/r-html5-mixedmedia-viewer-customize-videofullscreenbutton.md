@@ -5,8 +5,8 @@ seo-title: Video full screen button
 solution: Experience Manager
 title: Video full screen button
 uuid: f264154b-eb4d-4dcb-b8c0-e06c383198ae
-feature: "Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # Video full screen button{#video-full-screen-button}

@@ -5,8 +5,8 @@ seo-title: Configuration files
 solution: Experience Manager
 title: Configuration files
 uuid: ffd1c65b-e084-4a7e-9a15-600d6c5b173a
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Configuration files{#configuration-files}

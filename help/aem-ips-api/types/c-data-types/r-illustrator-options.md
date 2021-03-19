@@ -5,8 +5,8 @@ seo-title: IllustratorOptions
 solution: Experience Manager
 title: IllustratorOptions
 uuid: 87b38464-33db-4512-aa16-607b96a40673
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # IllustratorOptions{#illustratoroptions}

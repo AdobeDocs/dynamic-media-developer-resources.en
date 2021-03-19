@@ -3,8 +3,8 @@ description: Expiration
 solution: Experience Manager
 title: Expiration
 uuid: a727bbfc-940b-4d65-96d6-b2159b70bac1
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Expiration{#expiration}

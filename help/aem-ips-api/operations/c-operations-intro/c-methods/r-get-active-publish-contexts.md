@@ -5,8 +5,8 @@ seo-title: getActivePublishContext
 solution: Experience Manager
 title: getActivePublishContext
 uuid: 856704d1-e97b-4d2d-b80c-620450b78432
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # getActivePublishContext{#getactivepublishcontext}

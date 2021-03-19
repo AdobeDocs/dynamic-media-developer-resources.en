@@ -5,8 +5,8 @@ seo-title: Alignment
 solution: Experience Manager
 title: Alignment
 uuid: c64d7986-9bb9-4566-8e2f-dca7f459049e
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Alignment{#alignment}

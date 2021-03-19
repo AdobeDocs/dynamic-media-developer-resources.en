@@ -5,8 +5,8 @@ seo-title: getPhotoshopPathNames
 solution: Experience Manager
 title: getPhotoshopPathNames
 uuid: d3f1dea5-393b-498e-963d-37a4e38068a2
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # getPhotoshopPathNames{#getphotoshoppathnames}

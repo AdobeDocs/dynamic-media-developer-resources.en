@@ -5,8 +5,8 @@ seo-title: Request attributes
 solution: Experience Manager
 title: Request attributes
 uuid: 02156b81-9f18-461e-94c1-43b1155c4ab6
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Request attributes{#request-attributes}

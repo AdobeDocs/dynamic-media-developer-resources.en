@@ -5,8 +5,8 @@ seo-title: setContainerId
 solution: Experience Manager
 title: setContainerId
 uuid: 9aed8cb6-d89b-41f6-bd87-e390bb6002a5
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
+role: Developer,Business Practitioner
 ---
 
 # setContainerId{#setcontainerid}

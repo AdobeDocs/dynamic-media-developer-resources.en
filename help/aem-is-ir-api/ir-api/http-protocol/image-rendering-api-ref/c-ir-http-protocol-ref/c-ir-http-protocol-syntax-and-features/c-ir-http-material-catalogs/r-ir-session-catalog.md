@@ -5,8 +5,8 @@ seo-title: Session catalog
 solution: Experience Manager
 title: Session catalog
 uuid: 69c0f6cd-dfaf-47bf-bdd9-7abb4e6f7465
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Session catalog{#session-catalog}

@@ -5,8 +5,8 @@ seo-title: Catalog cache folder (ir.catalogCacheRoot)
 solution: Experience Manager
 title: Catalog cache folder (ir.catalogCacheRoot)
 uuid: 18d400f4-7827-44a1-b09b-2292b97cd6cb
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Catalog cache folder (ir.catalogCacheRoot){#catalog-cache-folder-ir-catalogcacheroot}

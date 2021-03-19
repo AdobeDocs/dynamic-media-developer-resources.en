@@ -5,8 +5,8 @@ seo-title: Operations  New and Modified
 solution: Experience Manager
 title: Operations  New and Modified
 uuid: e836c5af-53b8-4bfa-a93a-98750cca9745
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # Operations: New and Modified{#operations-new-and-modified}

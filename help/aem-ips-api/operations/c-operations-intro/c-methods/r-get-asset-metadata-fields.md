@@ -5,8 +5,8 @@ seo-title: getAssetMetadataFields
 solution: Experience Manager
 title: getAssetMetadataFields
 uuid: 01d5076f-f187-4069-b2f2-806fb1d8be84
-feature: "Dynamic Media Classic,SDK/API,Metadata,Asset Management"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Metadata,Asset Management
+role: Developer,Administrator
 ---
 
 # getAssetMetadataFields{#getassetmetadatafields}

@@ -5,8 +5,8 @@ seo-title: Material attributes
 solution: Experience Manager
 title: Material attributes
 uuid: afdff304-f607-4820-bdb2-f428271efb87
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Material attributes{#material-attributes}

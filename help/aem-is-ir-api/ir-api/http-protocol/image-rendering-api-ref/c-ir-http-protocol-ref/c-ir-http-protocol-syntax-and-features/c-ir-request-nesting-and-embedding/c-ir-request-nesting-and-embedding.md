@@ -5,8 +5,8 @@ seo-title: Request nesting and embedding *
 solution: Experience Manager
 title: Request nesting and embedding *
 uuid: 1884ae71-6ff5-4945-9411-a7183c32b772
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Request nesting and embedding *{#request-nesting-and-embedding}

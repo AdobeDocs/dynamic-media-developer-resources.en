@@ -5,8 +5,8 @@ seo-title: User Sort Fields
 solution: Experience Manager
 title: User Sort Fields
 uuid: df7fb1be-ab5e-4d0d-a000-ce29b45ac41f
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # User Sort Fields{#user-sort-fields}

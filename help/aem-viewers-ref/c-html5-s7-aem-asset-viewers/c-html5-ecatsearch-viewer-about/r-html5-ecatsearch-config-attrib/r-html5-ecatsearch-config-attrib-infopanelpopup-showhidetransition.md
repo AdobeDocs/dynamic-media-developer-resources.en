@@ -3,8 +3,8 @@ description: InfoPanelPopup.showhidetransition
 solution: Experience Manager
 title: InfoPanelPopup.showhidetransition
 uuid: ddd78693-e8f3-473c-91b3-8038e99c8ff1
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # InfoPanelPopup.showhidetransition{#infopanelpopup-showhidetransition}

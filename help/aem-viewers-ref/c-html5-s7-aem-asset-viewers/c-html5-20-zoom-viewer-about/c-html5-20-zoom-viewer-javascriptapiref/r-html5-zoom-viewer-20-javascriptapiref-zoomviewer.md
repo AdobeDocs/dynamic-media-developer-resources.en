@@ -5,8 +5,8 @@ seo-title: ZoomViewer
 solution: Experience Manager
 title: ZoomViewer
 uuid: 4c2acfaf-cc42-4bb7-a830-7226a8007117
-feature: "Dynamic Media Classic,Viewers,SDK/API,Zoom"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
+role: Developer,Business Practitioner
 ---
 
 # ZoomViewer{#zoomviewer}

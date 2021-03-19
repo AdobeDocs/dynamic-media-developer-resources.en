@@ -5,8 +5,8 @@ seo-title: CompanyMetadataInfo
 solution: Experience Manager
 title: CompanyMetadataInfo
 uuid: 5a69a995-979a-4919-a506-42b2cbfa4657
-feature: "Dynamic Media Classic,SDK/API,Metadata"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Metadata
+role: Developer,Administrator
 ---
 
 # CompanyMetadataInfo{#companymetadatainfo}

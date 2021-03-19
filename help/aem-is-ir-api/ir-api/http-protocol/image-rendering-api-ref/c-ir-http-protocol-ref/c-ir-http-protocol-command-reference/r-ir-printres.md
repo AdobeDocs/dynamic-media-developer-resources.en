@@ -5,8 +5,8 @@ seo-title: printRes
 solution: Experience Manager
 title: printRes
 uuid: 5bca705a-3a48-4e5e-83eb-c200b6318564
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # printRes{#printres}

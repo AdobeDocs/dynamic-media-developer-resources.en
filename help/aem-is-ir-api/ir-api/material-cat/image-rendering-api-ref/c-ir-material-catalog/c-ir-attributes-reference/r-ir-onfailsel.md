@@ -5,8 +5,8 @@ seo-title: OnFailSel
 solution: Experience Manager
 title: OnFailSel
 uuid: 073b6651-970c-460c-b044-e3ef37cc677a
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # OnFailSel{#onfailsel}

@@ -3,8 +3,8 @@ description: Swatches.buttonsnapmode
 solution: Experience Manager
 title: Swatches.buttonsnapmode
 uuid: 1b0c5b5d-2a25-4899-8831-40fd0f364f42
-feature: "Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # Swatches.buttonsnapmode{#swatches-buttonsnapmode}

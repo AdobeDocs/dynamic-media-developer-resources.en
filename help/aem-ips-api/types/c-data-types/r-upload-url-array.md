@@ -5,8 +5,8 @@ seo-title: UploadUrlArray
 solution: Experience Manager
 title: UploadUrlArray
 uuid: cb7338cd-5873-4e84-bf6d-39abff3166cd
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # UploadUrlArray{#uploadurlarray}

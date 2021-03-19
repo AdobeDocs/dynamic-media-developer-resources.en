@@ -5,8 +5,8 @@ seo-title: Selection commands
 solution: Experience Manager
 title: Selection commands
 uuid: fac4080b-3b7e-46ac-a564-3a7eff80c9eb
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Selection commands{#selection-commands}

@@ -2,8 +2,8 @@
 description: Image set data. Provides a mechanism to define sorted sets of images and control attributes used by the Dynamic Media viewers.
 solution: Experience Manager
 title: ImageSet
-feature: "Dynamic Media Classic,SDK/API,Image Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API,Image Sets
+role: Developer,Business Practitioner
 ---
 
 # ImageSet{#imageset}

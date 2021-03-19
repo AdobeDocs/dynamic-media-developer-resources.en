@@ -5,8 +5,8 @@ seo-title: monitor.conf
 solution: Experience Manager
 title: monitor.conf
 uuid: 31949797-df2c-4b7c-841b-4c623299a228
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # monitor.conf{#monitor-conf}

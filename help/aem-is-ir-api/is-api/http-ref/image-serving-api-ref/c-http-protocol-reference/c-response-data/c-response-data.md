@@ -5,8 +5,8 @@ seo-title: Response data
 solution: Experience Manager
 title: Response data
 uuid: 63812101-1956-4dea-9ef9-38769c934243
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Response data{#response-data}

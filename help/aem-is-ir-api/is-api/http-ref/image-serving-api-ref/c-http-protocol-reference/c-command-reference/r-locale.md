@@ -5,8 +5,8 @@ seo-title: locale
 solution: Experience Manager
 title: locale
 uuid: 82acc0bb-fd94-44c9-8ff9-3b9cefab4627
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # locale{#locale}

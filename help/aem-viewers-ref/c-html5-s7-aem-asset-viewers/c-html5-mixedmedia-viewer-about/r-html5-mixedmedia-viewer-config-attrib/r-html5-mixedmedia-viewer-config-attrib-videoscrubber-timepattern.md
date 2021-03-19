@@ -3,8 +3,8 @@ description: VideoScrubber.timepattern
 solution: Experience Manager
 title: VideoScrubber.timepattern
 uuid: 6034dc22-c1d4-4a37-93de-42a88b99234a
-feature: "Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # VideoScrubber.timepattern{#videoscrubber-timepattern}

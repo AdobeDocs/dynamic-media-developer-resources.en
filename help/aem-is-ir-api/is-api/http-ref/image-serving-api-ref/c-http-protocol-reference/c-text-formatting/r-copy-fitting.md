@@ -5,8 +5,8 @@ seo-title: Copy-fitting
 solution: Experience Manager
 title: Copy-fitting
 uuid: c3ddbf1f-c724-4436-96ff-2c616dfd355d
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Copy-fitting{#copy-fitting}

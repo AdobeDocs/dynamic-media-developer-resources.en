@@ -5,8 +5,8 @@ seo-title: Facebook share
 solution: Experience Manager
 title: Facebook share
 uuid: 614e7a06-90b6-4fe0-9ecf-be97881ec6d1
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
+role: Developer,Business Practitioner
 ---
 
 # Facebook share{#facebook-share}

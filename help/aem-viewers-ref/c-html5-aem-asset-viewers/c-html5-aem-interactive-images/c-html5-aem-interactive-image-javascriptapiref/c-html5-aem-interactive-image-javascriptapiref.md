@@ -5,8 +5,8 @@ seo-title: JavaScript API reference for Interactive Image Viewer
 solution: Experience Manager
 title: JavaScript API reference for Interactive Image Viewer
 uuid: 952c85b7-556c-4f58-aa65-003b0de70fd2
-feature: "Dynamic Media Classic,Viewers,SDK/API,Interactive Images"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
+role: Developer,Business Practitioner
 ---
 
 # JavaScript API reference for Interactive Image Viewer{#javascript-api-reference-for-interactive-image-viewer}

@@ -5,8 +5,8 @@ seo-title: Video360Player.autoplay
 solution: Experience Manager
 title: Video360Player.autoplay
 uuid: 582d0b34-bbf9-4af0-9f7a-4415d307f5d7
-feature: "Dynamic Media Classic,Viewers,SDK/API,360 VR Video"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
+role: Developer,Business Practitioner
 ---
 
 # Video360Player.autoplay{#video-player-autoplay}

@@ -2,8 +2,8 @@
 description: This document describes the HTTP protocol for Dynamic Media Image Rendering.
 solution: Experience Manager
 title: Introduction
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Introduction{#introduction}

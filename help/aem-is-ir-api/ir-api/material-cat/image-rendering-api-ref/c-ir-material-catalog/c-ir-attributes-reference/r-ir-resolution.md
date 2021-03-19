@@ -5,8 +5,8 @@ seo-title: Resolution
 solution: Experience Manager
 title: Resolution
 uuid: b04b3746-90e6-4545-9c57-7ee3b61d99bf
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Resolution{#resolution}

@@ -5,8 +5,8 @@ seo-title: setParams
 solution: Experience Manager
 title: setParams
 uuid: f0eedfbd-eb32-49db-bca4-cc7b14d5495e
-feature: "Dynamic Media Classic,Viewers,SDK/API,Spin Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
+role: Developer,Business Practitioner
 ---
 
 # setParams{#setparams}

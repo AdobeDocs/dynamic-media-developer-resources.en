@@ -5,8 +5,8 @@ seo-title: Path
 solution: Experience Manager
 title: Path
 uuid: 470cee37-9840-402a-bde5-ace8988996d2
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Path{#path}

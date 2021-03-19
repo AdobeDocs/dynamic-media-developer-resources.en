@@ -5,8 +5,8 @@ seo-title: Common operations
 solution: Experience Manager
 title: Common operations
 uuid: 2d1be69a-661e-494a-9748-3a6525b19b1b
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Common operations{#common-operations}

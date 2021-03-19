@@ -5,8 +5,8 @@ seo-title: getViewerConfigSettings
 solution: Experience Manager
 title: getViewerConfigSettings
 uuid: 61fe16de-ac72-472b-8945-f1ebe8b4d11c
-feature: "Dynamic Media Classic,SDK/API,Viewer Presets"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Viewer Presets
+role: Developer,Administrator
 ---
 
 # getViewerConfigSettings{#getviewerconfigsettings}

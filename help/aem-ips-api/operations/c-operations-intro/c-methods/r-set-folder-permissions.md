@@ -5,8 +5,8 @@ seo-title: setFolderPermissions
 solution: Experience Manager
 title: setFolderPermissions
 uuid: 3a33034e-df2c-48ab-8ade-b76bea444388
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # setFolderPermissions{#setfolderpermissions}

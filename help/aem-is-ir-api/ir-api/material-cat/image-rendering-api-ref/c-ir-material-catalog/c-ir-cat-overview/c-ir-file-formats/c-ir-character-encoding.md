@@ -5,8 +5,8 @@ seo-title: Character encoding
 solution: Experience Manager
 title: Character encoding
 uuid: efc3971b-dca1-4b47-a197-c10270ce17c9
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Character encoding{#character-encoding}

@@ -5,8 +5,8 @@ seo-title: Gloss effects
 solution: Experience Manager
 title: Gloss effects
 uuid: e4424b04-2d8c-47e5-8474-b5271c923451
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Gloss effects{#gloss-effects}

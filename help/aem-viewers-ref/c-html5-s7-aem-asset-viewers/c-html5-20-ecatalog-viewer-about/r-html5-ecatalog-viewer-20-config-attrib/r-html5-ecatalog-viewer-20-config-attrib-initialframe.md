@@ -3,8 +3,8 @@ description: InitialFrame
 solution: Experience Manager
 title: InitialFrame
 uuid: edd95500-a83d-4012-8850-b41c06c4c9e8
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
+role: Developer,Business Practitioner
 ---
 
 # InitialFrame{#initialframe}

@@ -5,8 +5,8 @@ seo-title: Response data cache
 solution: Experience Manager
 title: Response data cache
 uuid: dbfda210-3b50-4e8c-8d77-7263ae4e80a2
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Response data cache{#response-data-cache}

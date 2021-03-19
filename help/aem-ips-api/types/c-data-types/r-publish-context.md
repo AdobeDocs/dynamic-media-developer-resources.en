@@ -5,8 +5,8 @@ seo-title: PublishContext
 solution: Experience Manager
 title: PublishContext
 uuid: 62e2ba15-d966-48c7-86dc-373069c3ea46
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # PublishContext{#publishcontext}

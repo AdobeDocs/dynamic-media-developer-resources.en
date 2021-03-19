@@ -3,8 +3,8 @@ description: SpinView.lockdirection
 solution: Experience Manager
 title: SpinView.lockdirection
 uuid: adea34ca-adbe-465e-8991-f39a7a81d611
-feature: "Dynamic Media Classic,Viewers,SDK/API,Spin Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
+role: Developer,Business Practitioner
 ---
 
 # SpinView.lockdirection{#spinview-lockdirection}

@@ -5,8 +5,8 @@ seo-title: Varying material opacity
 solution: Experience Manager
 title: Varying material opacity
 uuid: 6af07ea8-44ba-4253-8a26-614725af2f46
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Varying material opacity{#varying-material-opacity}

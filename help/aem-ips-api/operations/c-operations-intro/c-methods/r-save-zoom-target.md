@@ -5,8 +5,8 @@ seo-title: saveZoomTarget
 solution: Experience Manager
 title: saveZoomTarget
 uuid: 197f7a2a-39ea-41cc-8e3a-76f9fe1b37d0
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # saveZoomTarget{#savezoomtarget}

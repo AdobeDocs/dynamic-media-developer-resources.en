@@ -5,8 +5,8 @@ seo-title: Focus highlight
 solution: Experience Manager
 title: Focus highlight
 uuid: 50411b68-8d01-4240-b548-a6c51374a8c6
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
+role: Developer,Business Practitioner
 ---
 
 # Focus highlight{#focus-highlight}

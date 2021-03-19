@@ -5,8 +5,8 @@ seo-title: WordInfo
 solution: Experience Manager
 title: WordInfo
 uuid: 616c7006-a7fe-4dbe-9532-1b296e774107
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # WordInfo{#wordinfo}

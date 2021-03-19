@@ -5,8 +5,8 @@ seo-title: contentUrl
 solution: Experience Manager
 title: contentUrl
 uuid: 85b00c4e-b382-4970-b780-e4ef59108cb7
-feature: "Dynamic Media Classic,Viewers,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # contentUrl{#contenturl}

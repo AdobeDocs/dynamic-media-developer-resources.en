@@ -5,8 +5,8 @@ seo-title: Options for vignettes
 solution: Experience Manager
 title: Options for vignettes
 uuid: 0cb40314-07ce-496b-a27b-560d7bb4fa8e
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Options for vignettes{#options-for-vignettes}

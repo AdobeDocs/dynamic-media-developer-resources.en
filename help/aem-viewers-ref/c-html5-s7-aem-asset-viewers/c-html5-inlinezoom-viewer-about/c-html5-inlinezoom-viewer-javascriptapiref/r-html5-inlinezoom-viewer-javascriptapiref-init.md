@@ -5,8 +5,8 @@ seo-title: init
 solution: Experience Manager
 title: init
 uuid: a3bd0cd1-e4cb-4b09-a78f-0958b55a79e4
-feature: "Dynamic Media Classic,Viewers,SDK/API,Inline Zoom"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
+role: Developer,Business Practitioner
 ---
 
 # init{#init}

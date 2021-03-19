@@ -2,8 +2,8 @@
 description: The viewer supports playing video hosted outside of Dynamic Media Classic or AEM Dynamic Media.
 solution: Experience Manager
 title: External video support
-feature: "Dynamic Media Classic,Viewers,SDK/API,Video"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Video
+role: Developer,Business Practitioner
 ---
 
 # External video support{#external-video-support}

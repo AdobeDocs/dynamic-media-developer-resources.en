@@ -5,8 +5,8 @@ seo-title: setPassword
 solution: Experience Manager
 title: setPassword
 uuid: 78067f8d-4191-4580-a5a8-adb6edfcfab8
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # setPassword{#setpassword}

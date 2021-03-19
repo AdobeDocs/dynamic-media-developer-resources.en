@@ -5,8 +5,8 @@ seo-title: createMetadataField
 solution: Experience Manager
 title: createMetadataField
 uuid: 50ab61fa-df44-4305-ad9f-693c4aea1e69
-feature: "Dynamic Media Classic,SDK/API,Metadata"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Metadata
+role: Developer,Administrator
 ---
 
 # createMetadataField{#createmetadatafield}

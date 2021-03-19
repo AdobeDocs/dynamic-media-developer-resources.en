@@ -3,8 +3,8 @@ description: FlyoutZoomView.overlay
 solution: Experience Manager
 title: FlyoutZoomView.overlay
 uuid: e6e9e97c-5d9b-47ca-bae3-ed3371c5ff9b
-feature: "Dynamic Media Classic,Viewers,SDK/API,Flyout"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
+role: Developer,Business Practitioner
 ---
 
 # FlyoutZoomView.overlay{#flyoutzoomview-overlay}

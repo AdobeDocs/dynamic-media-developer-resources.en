@@ -5,8 +5,8 @@ seo-title: updateXMPPacket
 solution: Experience Manager
 title: updateXMPPacket
 uuid: 97a40261-8f85-4e8c-8aa5-ed4fec297f33
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # updateXMPPacket{#updatexmppacket}

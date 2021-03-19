@@ -5,8 +5,8 @@ seo-title: Output
 solution: Experience Manager
 title: Output
 uuid: f2041600-408f-481c-95fc-3c112def7b8a
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Output{#output}

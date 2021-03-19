@@ -5,8 +5,8 @@ seo-title: object
 solution: Experience Manager
 title: object
 uuid: 8d25b47d-0f23-4d9a-a7e6-6e865ae4114e
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # object{#object}

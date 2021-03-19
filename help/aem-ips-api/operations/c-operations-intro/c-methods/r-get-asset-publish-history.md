@@ -5,8 +5,8 @@ seo-title: getAssetPublishHistory
 solution: Experience Manager
 title: getAssetPublishHistory
 uuid: 15025c3d-eac3-4cb8-9a2a-fd80bd67478f
-feature: "Dynamic Media Classic,SDK/API,Asset Management"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # getAssetPublishHistory{#getassetpublishhistory}

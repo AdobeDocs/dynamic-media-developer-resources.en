@@ -5,8 +5,8 @@ seo-title: page
 solution: Experience Manager
 title: page
 uuid: 3379c8d8-6e2e-4bd5-b683-a532330f1ddc
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # page{#page}

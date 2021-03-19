@@ -5,8 +5,8 @@ seo-title: Sharp
 solution: Experience Manager
 title: Sharp
 uuid: f153f496-f2c5-43d0-a7f0-00045fd96af8
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Sharp{#sharp}

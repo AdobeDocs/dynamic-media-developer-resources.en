@@ -5,8 +5,8 @@ seo-title: SocialShare.bearing
 solution: Experience Manager
 title: SocialShare.bearing
 uuid: 43217e2e-71c5-4c58-94e0-c6ed38e25a5b
-feature: "Dynamic Media Classic,Viewers,SDK/API,360 VR Video"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
+role: Developer,Business Practitioner
 ---
 
 # SocialShare.bearing{#socialshare-bearing}

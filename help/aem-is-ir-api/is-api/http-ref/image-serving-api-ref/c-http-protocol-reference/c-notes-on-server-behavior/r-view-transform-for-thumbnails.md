@@ -5,8 +5,8 @@ seo-title: View transform for thumbnails
 solution: Experience Manager
 title: View transform for thumbnails
 uuid: 29924bc1-ada1-420f-aef7-bf9a7db7065b
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # View transform for thumbnails{#view-transform-for-thumbnails}

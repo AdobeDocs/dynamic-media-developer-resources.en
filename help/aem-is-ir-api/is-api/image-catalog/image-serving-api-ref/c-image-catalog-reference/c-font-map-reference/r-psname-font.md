@@ -5,8 +5,8 @@ seo-title: PsName
 solution: Experience Manager
 title: PsName
 uuid: 8c7624c5-7f34-4128-abb7-94c007669b80
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # PsName{#psname}

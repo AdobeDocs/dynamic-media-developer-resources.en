@@ -5,8 +5,8 @@ seo-title: Video scrubber
 solution: Experience Manager
 title: Video scrubber
 uuid: 5e4abc8a-ee61-4528-a5de-66148aac3389
-feature: "Dynamic Media Classic,Viewers,SDK/API,Video"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Video
+role: Developer,Business Practitioner
 ---
 
 # Video scrubber{#video-scrubber}

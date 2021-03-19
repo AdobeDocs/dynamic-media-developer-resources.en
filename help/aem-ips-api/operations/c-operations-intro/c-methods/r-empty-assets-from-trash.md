@@ -5,8 +5,8 @@ seo-title: emptyAssetsFromTrash
 solution: Experience Manager
 title: emptyAssetsFromTrash
 uuid: de11a7b0-cd4b-4717-8596-d39afbcf7e9c
-feature: "Dynamic Media Classic,SDK/API,Asset Management"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # emptyAssetsFromTrash{#emptyassetsfromtrash}

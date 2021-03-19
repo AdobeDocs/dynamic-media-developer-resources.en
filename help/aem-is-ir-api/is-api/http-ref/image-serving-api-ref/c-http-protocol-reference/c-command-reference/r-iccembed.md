@@ -5,8 +5,8 @@ seo-title: iccEmbed
 solution: Experience Manager
 title: iccEmbed
 uuid: ccd3fd2f-6f73-4725-a51a-9daf643d71af
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # iccEmbed{#iccembed}

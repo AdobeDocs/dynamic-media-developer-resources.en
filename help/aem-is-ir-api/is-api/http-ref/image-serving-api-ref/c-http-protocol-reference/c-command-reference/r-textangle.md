@@ -5,8 +5,8 @@ seo-title: textAngle
 solution: Experience Manager
 title: textAngle
 uuid: ac54c186-1fc5-479a-89f2-ff2da5e7999a
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # textAngle{#textangle}

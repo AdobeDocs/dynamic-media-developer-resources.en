@@ -5,8 +5,8 @@ seo-title: RuleSetFile
 solution: Experience Manager
 title: RuleSetFile
 uuid: 9393e197-450a-4b7d-90ad-a6ea0204ee26
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # RuleSetFile{#rulesetfile}

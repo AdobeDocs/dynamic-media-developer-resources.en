@@ -5,8 +5,8 @@ seo-title: Mutable volume
 solution: Experience Manager
 title: Mutable volume
 uuid: 6ac8f777-11d8-4a20-b7ed-23f947426cdf
-feature: "Dynamic Media Classic,Viewers,SDK/API,360 VR Video"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
+role: Developer,Business Practitioner
 ---
 
 # Mutable volume{#mutable-volume}

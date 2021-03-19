@@ -5,8 +5,8 @@ seo-title: MacroFile
 solution: Experience Manager
 title: MacroFile
 uuid: cbf7fd62-b868-4891-8b95-0aaf38078a36
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # MacroFile{#macrofile}

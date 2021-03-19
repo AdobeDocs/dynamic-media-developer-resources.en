@@ -5,8 +5,8 @@ seo-title: getComponent
 solution: Experience Manager
 title: getComponent
 uuid: 77531130-12e7-4001-a68f-c9a581ec5f0d
-feature: "Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # getComponent{#getcomponent}

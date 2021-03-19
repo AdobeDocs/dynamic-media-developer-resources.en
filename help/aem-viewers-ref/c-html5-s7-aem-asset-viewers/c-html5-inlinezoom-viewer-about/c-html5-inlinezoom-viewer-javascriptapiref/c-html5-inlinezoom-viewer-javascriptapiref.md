@@ -5,8 +5,8 @@ seo-title: JavaScript API reference for Inline Zoom Viewer
 solution: Experience Manager
 title: JavaScript API reference for Inline Zoom Viewer
 uuid: ed0fb9e4-8a65-4791-a428-4e950c492198
-feature: "Dynamic Media Classic,Viewers,SDK/API,Inline Zoom"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
+role: Developer,Business Practitioner
 ---
 
 # JavaScript API reference for Inline Zoom Viewer{#javascript-api-reference-for-inline-zoom-viewer}

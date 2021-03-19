@@ -5,8 +5,8 @@ seo-title: Thumbnail scaling
 solution: Experience Manager
 title: Thumbnail scaling
 uuid: df935d40-84c6-4018-9e41-faef4653ff1f
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Thumbnail scaling{#thumbnail-scaling}

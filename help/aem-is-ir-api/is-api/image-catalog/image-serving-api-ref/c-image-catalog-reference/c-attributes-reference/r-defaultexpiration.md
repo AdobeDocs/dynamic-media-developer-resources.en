@@ -5,8 +5,8 @@ seo-title: DefaultExpiration
 solution: Experience Manager
 title: DefaultExpiration
 uuid: 5266bff9-f20b-4b3b-9566-8a3f5ba0777a
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # DefaultExpiration{#defaultexpiration}

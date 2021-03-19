@@ -5,8 +5,8 @@ seo-title: AutoTransparentCropOptions
 solution: Experience Manager
 title: AutoTransparentCropOptions
 uuid: 4c3d365d-e011-4f38-bea7-68cf0cba7893
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # AutoTransparentCropOptions{#autotransparentcropoptions}

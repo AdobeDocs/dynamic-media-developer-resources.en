@@ -5,8 +5,8 @@ seo-title: Technical support
 solution: Experience Manager
 title: Technical support
 uuid: bab5aab4-b5a3-4c8f-80bd-d9e3289b9bff
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Technical support{#technical-support}

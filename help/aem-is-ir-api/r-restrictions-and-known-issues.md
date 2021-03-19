@@ -5,8 +5,8 @@ seo-title: Restrictions and known issues
 solution: Experience Manager
 title: Restrictions and known issues
 uuid: 9f9fad41-4828-4fba-8f5f-2c33e7811c71
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Restrictions and known issues{#restrictions-and-known-issues}

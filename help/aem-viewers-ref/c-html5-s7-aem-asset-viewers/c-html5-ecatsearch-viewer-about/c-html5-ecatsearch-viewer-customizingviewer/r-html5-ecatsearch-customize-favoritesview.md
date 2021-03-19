@@ -5,8 +5,8 @@ seo-title: Favorites view
 solution: Experience Manager
 title: Favorites view
 uuid: e9d0380e-3b08-45e4-8419-447df2e8de37
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # Favorites view{#favorites-view}

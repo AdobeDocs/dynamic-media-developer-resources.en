@@ -5,8 +5,8 @@ seo-title: WatermarkInfo
 solution: Experience Manager
 title: WatermarkInfo
 uuid: 1bd6b2c5-c0e5-498f-98e6-42c636f1750c
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # WatermarkInfo{#watermarkinfo}

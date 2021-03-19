@@ -5,8 +5,8 @@ seo-title: scl
 solution: Experience Manager
 title: scl
 uuid: 10a365dc-9fc1-4236-9528-4aca04a4ca19
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # scl{#scl}

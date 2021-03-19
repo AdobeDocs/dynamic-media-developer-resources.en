@@ -5,8 +5,8 @@ seo-title: RootUrl
 solution: Experience Manager
 title: RootUrl
 uuid: 173ce99a-f87e-4700-a28a-1a87b8c55b85
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # RootUrl{#rooturl}

@@ -5,8 +5,8 @@ seo-title: markOverflowingTextFrames
 solution: Experience Manager
 title: markOverflowingTextFrames
 uuid: 90237128-8d29-45cc-90e8-7fe46c1dae38
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # markOverflowingTextFrames{#markoverflowingtextframes}

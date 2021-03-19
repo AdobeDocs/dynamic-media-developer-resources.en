@@ -3,8 +3,8 @@ description: Catalog record identifier
 solution: Experience Manager
 title: Id
 uuid: 9803d754-1f94-4e5d-9a40-3936676c0035
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Id {#id}

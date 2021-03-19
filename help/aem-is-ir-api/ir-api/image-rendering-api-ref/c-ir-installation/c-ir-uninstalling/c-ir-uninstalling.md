@@ -5,8 +5,8 @@ seo-title: Uninstalling Image Rendering
 solution: Experience Manager
 title: Uninstalling Image Rendering
 uuid: ffabd01e-8653-491f-bddc-4ea6fcde0b43
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Uninstalling Image Rendering{#uninstalling-image-rendering}

@@ -5,8 +5,8 @@ seo-title: Full screen button
 solution: Experience Manager
 title: Full screen button
 uuid: 58bea34f-357e-4d9b-a22d-7d0f177d8215
-feature: "Dynamic Media Classic,Viewers,SDK/API,Zoom"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
+role: Developer,Business Practitioner
 ---
 
 # Full screen button{#full-screen-button}

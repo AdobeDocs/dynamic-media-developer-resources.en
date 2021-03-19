@@ -5,8 +5,8 @@ seo-title: cropPathE
 solution: Experience Manager
 title: cropPathE
 uuid: 4689fd20-dfa0-47eb-8184-cd233f1ac088
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # cropPathE{#croppathe}

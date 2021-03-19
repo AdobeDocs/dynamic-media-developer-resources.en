@@ -5,8 +5,8 @@ seo-title: ExcludeByproductCondition
 solution: Experience Manager
 title: ExcludeByproductCondition
 uuid: 70581512-7b26-4319-b12b-27fbb205d871
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # ExcludeByproductCondition{#excludebyproductcondition}

@@ -5,8 +5,8 @@ seo-title: Zoom out button
 solution: Experience Manager
 title: Zoom out button
 uuid: cf1c62eb-e0a4-413d-93d3-3aed31e9a444
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # Zoom out button{#zoom-out-button}

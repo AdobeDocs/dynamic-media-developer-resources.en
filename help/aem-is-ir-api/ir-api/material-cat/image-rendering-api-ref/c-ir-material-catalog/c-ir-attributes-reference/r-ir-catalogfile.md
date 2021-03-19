@@ -5,8 +5,8 @@ seo-title: CatalogFile
 solution: Experience Manager
 title: CatalogFile
 uuid: 6c34e24e-4602-4dd6-b202-793d621a8995
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # CatalogFile{#catalogfile}

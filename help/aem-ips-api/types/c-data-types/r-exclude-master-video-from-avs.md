@@ -4,8 +4,8 @@ seo-description: Excludes the primary video from the adaptive video set.
 seo-title: ExcludeMasterVideoFromAVS
 title: ExcludeMasterVideoFromAVS
 uuid: 883c6ab0-314d-4257-82bc-0447031e68a4
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # ExcludeMasterVideoFromAVS{#excludemastervideofromavs}

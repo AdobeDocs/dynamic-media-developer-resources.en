@@ -5,8 +5,8 @@ seo-title: moveAssets
 solution: Experience Manager
 title: moveAssets
 uuid: 178f9979-fff5-45ce-a001-1263d1770ea8
-feature: "Dynamic Media Classic,SDK/API,Asset Management"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # moveAssets{#moveassets}

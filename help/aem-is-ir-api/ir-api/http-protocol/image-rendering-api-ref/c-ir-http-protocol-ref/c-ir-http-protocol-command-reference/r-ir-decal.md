@@ -5,8 +5,8 @@ seo-title: decal
 solution: Experience Manager
 title: decal
 uuid: 3a164f92-b0fc-4698-8aaa-934f029437c0
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # decal{#decal}

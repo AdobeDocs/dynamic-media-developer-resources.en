@@ -2,8 +2,8 @@
 description: Forwards the supplied list of URLs to the Dynamic Media CDN (Content Distribution Network) provider to invalidate their existing cache of HTTP responses.
 solution: Experience Manager
 title: cdnCacheInvalidation
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # cdnCacheInvalidation{#cdncacheinvalidation}

@@ -5,8 +5,8 @@ seo-title: ControlBar.transition
 solution: Experience Manager
 title: ControlBar.transition
 uuid: cde4a5b9-4512-41a6-84ce-9f4fc2cc0399
-feature: "Dynamic Media Classic,Viewers,SDK/API,Interactive Videos"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
+role: Developer,Business Practitioner
 ---
 
 # ControlBar.transition{#controlbar-transition}

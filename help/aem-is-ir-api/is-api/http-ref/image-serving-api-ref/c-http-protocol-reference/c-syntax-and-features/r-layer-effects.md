@@ -5,8 +5,8 @@ seo-title: Layer effects
 solution: Experience Manager
 title: Layer effects
 uuid: 076e98de-cbbb-457b-984a-367a935b4356
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Layer effects{#layer-effects}

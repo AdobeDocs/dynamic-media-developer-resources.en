@@ -5,8 +5,8 @@ seo-title: hei
 solution: Experience Manager
 title: hei
 uuid: 6f7e580b-6399-4661-b5d9-8044574ba124
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # hei{#hei}

@@ -5,8 +5,8 @@ seo-title: Wall borders
 solution: Experience Manager
 title: Wall borders
 uuid: 40acd667-5e8b-4425-b44a-0681e608d189
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Wall borders{#wall-borders}

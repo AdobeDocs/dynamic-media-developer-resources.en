@@ -5,8 +5,8 @@ seo-title: VideoPlayer.ssl
 solution: Experience Manager
 title: VideoPlayer.ssl
 uuid: b4929e14-8712-4923-b9b1-62aa6721fc99
-feature: "Dynamic Media Classic,Viewers,SDK/API,Interactive Videos"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
+role: Developer,Business Practitioner
 ---
 
 # VideoPlayer.ssl{#videoplayer-ssl}

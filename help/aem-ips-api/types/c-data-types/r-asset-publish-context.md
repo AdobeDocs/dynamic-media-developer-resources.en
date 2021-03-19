@@ -5,8 +5,8 @@ seo-title: AssetPublishContexts
 solution: Experience Manager
 title: AssetPublishContexts
 uuid: 85914db3-d2ea-4e73-8f8d-6e18d2d44f55
-feature: "Dynamic Media Classic,SDK/API,Asset Management"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # AssetPublishContexts{#assetpublishcontexts}

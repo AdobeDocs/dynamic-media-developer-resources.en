@@ -3,8 +3,8 @@ description: Vignette converter (vntc)
 solution: Experience Manager
 title: Vignette converter (vntc)
 uuid: b1eb0a58-3499-4a41-9054-86c7c8e31213
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Vignette converter (vntc){#vignette-converter-vntc}

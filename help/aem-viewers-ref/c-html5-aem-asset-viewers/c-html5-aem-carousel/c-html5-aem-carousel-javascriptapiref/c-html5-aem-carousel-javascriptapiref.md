@@ -5,8 +5,8 @@ seo-title: JavaScript API reference for Carousel Viewer
 solution: Experience Manager
 title: JavaScript API reference for Carousel Viewer
 uuid: d235ca5e-9c5b-44e2-84b1-2704bf8c6ca5
-feature: "Dynamic Media Classic,Viewers,SDK/API,Carousel Banners"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
+role: Developer,Business Practitioner
 ---
 
 # JavaScript API reference for Carousel Viewer{#javascript-api-reference-for-carousel-viewer}

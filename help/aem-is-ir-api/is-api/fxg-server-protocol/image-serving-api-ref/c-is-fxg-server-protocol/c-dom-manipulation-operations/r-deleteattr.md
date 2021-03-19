@@ -5,8 +5,8 @@ seo-title: deleteAttr
 solution: Experience Manager
 title: deleteAttr
 uuid: b1176c1a-9ec3-4a95-9f91-97f9f168c252
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # deleteAttr{#deleteattr}

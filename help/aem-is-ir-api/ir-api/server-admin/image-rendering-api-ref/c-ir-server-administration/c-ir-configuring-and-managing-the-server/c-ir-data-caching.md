@@ -5,8 +5,8 @@ seo-title: Data caching
 solution: Experience Manager
 title: Data caching
 uuid: 630ed3f4-3a0d-4de4-828f-45ffc14e6bb7
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Data caching{#data-caching}

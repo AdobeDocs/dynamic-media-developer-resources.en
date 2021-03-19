@@ -5,8 +5,8 @@ seo-title: RTFInfo
 solution: Experience Manager
 title: RTFInfo
 uuid: cd7744bd-d033-4095-82c7-2a7b7db7e97f
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # RTFInfo{#rtfinfo}

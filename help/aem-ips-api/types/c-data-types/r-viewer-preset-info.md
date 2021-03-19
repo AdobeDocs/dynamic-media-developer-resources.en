@@ -5,8 +5,8 @@ seo-title: ViewerPresetInfo
 solution: Experience Manager
 title: ViewerPresetInfo
 uuid: 0117488d-b89d-48d4-b081-af177a22f71f
-feature: "Dynamic Media Classic,SDK/API,Viewer Presets"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Viewer Presets
+role: Developer,Administrator
 ---
 
 # ViewerPresetInfo{#viewerpresetinfo}

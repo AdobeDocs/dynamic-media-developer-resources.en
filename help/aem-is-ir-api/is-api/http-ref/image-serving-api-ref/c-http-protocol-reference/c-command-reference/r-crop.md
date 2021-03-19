@@ -5,8 +5,8 @@ seo-title: crop
 solution: Experience Manager
 title: crop
 uuid: c8eca467-7564-48a6-82d7-17f68a1399e1
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # crop{#crop}

@@ -5,8 +5,8 @@ seo-title: bfc
 solution: Experience Manager
 title: bfc
 uuid: 2dd8b350-9006-4f0b-b710-0a331357daf3
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # bfc{#bfc}

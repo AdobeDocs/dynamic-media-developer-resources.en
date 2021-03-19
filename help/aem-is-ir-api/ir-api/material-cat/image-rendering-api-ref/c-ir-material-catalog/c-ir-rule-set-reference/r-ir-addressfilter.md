@@ -5,8 +5,8 @@ seo-title: addressfilter
 solution: Experience Manager
 title: addressfilter
 uuid: e5702c6e-a49c-4da6-a29c-26e16bfdcad1
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # addressfilter{#addressfilter}

@@ -5,8 +5,8 @@ seo-title: Swatches
 solution: Experience Manager
 title: Swatches
 uuid: ee91385d-a0ff-4419-8a86-e2b106030f98
-feature: "Dynamic Media Classic,Viewers,SDK/API,Flyout"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
+role: Developer,Business Practitioner
 ---
 
 # Swatches{#swatches}

@@ -5,8 +5,8 @@ seo-title: Font maps
 solution: Experience Manager
 title: Font maps
 uuid: 836131e6-d899-4e36-a837-df46bf27a6b2
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Font maps{#font-maps}

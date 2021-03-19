@@ -3,8 +3,8 @@ description: ipsApiFault
 solution: Experience Manager
 title: ipsApiFault
 uuid: 010814a8-1d29-4b02-8449-cb26e4335e07
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # ipsApiFault{#ipsapifault}

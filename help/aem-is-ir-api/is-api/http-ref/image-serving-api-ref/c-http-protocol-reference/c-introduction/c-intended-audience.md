@@ -5,8 +5,8 @@ seo-title: Intended audience
 solution: Experience Manager
 title: Intended audience
 uuid: 610fe9a9-897d-4e20-8879-334587c54a5b
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Intended audience{#intended-audience}

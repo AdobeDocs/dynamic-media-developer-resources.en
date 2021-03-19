@@ -5,8 +5,8 @@ seo-title: AuxPath
 solution: Experience Manager
 title: AuxPath
 uuid: 95d28f8d-27ec-480a-a62a-7e5e8fbfb3fb
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # AuxPath{#auxpath}

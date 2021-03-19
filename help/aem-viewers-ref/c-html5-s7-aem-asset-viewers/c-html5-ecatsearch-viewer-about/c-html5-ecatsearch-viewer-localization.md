@@ -5,8 +5,8 @@ seo-title: Localization of user interface elements
 solution: Experience Manager
 title: Localization of user interface elements
 uuid: 836cb874-2ce6-4737-9c10-f41af003a285
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # Localization of user interface elements{#localization-of-user-interface-elements}

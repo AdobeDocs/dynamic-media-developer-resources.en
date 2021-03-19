@@ -5,8 +5,8 @@ seo-title: Reflections
 solution: Experience Manager
 title: Reflections
 uuid: 6d86f566-0f02-4304-8a6c-08b1a2e9c72e
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Reflections{#reflections}

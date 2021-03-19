@@ -5,8 +5,8 @@ seo-title: Document (text box) properties
 solution: Experience Manager
 title: Document (text box) properties
 uuid: 743a773a-83b0-4667-9c67-4cefbfe77bbd
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Document (text box) properties{#document-text-box-properties}

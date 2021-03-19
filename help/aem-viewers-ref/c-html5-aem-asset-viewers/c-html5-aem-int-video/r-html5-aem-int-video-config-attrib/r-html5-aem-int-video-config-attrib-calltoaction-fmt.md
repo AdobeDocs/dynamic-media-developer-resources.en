@@ -5,8 +5,8 @@ seo-title: CallToAction.fmt
 solution: Experience Manager
 title: CallToAction.fmt
 uuid: c85160e2-431f-42af-a468-c754bfe86ecd
-feature: "Dynamic Media Classic,Viewers,SDK/API,Interactive Videos"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
+role: Developer,Business Practitioner
 ---
 
 # CallToAction.fmt{#calltoaction-fmt}

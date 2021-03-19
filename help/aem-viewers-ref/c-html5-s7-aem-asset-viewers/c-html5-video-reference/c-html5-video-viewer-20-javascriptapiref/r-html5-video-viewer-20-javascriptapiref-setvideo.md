@@ -5,8 +5,8 @@ seo-title: setVideo
 solution: Experience Manager
 title: setVideo
 uuid: 0a1b3caa-ded6-4020-962c-41c3ece0a865
-feature: "Dynamic Media Classic,Viewers,SDK/API,Video"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Video
+role: Developer,Business Practitioner
 ---
 
 # setVideo{#setvideo}

@@ -5,8 +5,8 @@ seo-title: SwcInfo
 solution: Experience Manager
 title: SwcInfo
 uuid: 930b2ccd-5f32-4cc2-bef7-1f6eeb48dd1b
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # SwcInfo{#swcinfo}

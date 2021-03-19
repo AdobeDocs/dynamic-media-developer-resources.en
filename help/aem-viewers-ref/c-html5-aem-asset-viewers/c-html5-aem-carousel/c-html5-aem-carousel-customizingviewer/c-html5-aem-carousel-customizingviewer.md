@@ -6,8 +6,8 @@ seo-title: Customizing Carousel Viewer
 solution: Experience Manager
 title: Customizing Carousel Viewer
 uuid: a35dac3c-8785-42bf-8284-e400128f213c
-feature: "Dynamic Media Classic,Viewers,SDK/API,Carousel Banners"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
+role: Developer,Business Practitioner
 ---
 
 # Customizing Carousel Viewer{#customizing-carousel-viewer}

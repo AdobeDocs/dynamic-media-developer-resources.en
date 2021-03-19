@@ -5,8 +5,8 @@ seo-title: ClientAddressFilter
 solution: Experience Manager
 title: ClientAddressFilter
 uuid: b68f527b-7fa7-43e3-9517-57a6c3700b06
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # ClientAddressFilter{#clientaddressfilter}

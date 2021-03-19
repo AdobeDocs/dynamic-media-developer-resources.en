@@ -5,8 +5,8 @@ seo-title: Video time
 solution: Experience Manager
 title: Video time
 uuid: f93e495b-44a1-493c-9bc6-5c088478ddce
-feature: "Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # Video time{#video-time}

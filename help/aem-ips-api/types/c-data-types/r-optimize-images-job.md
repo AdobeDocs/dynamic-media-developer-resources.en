@@ -5,8 +5,8 @@ seo-title: OptimizeImagesJob
 solution: Experience Manager
 title: OptimizeImagesJob
 uuid: 8d1eceb7-fa50-4649-b5a6-6102449a4c72
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # OptimizeImagesJob{#optimizeimagesjob}

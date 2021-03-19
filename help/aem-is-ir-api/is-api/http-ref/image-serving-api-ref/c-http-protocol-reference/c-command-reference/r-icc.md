@@ -5,8 +5,8 @@ seo-title: icc
 solution: Experience Manager
 title: icc
 uuid: cfbd18aa-cbba-4085-920d-1f54645d0f89
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # icc{#icc}

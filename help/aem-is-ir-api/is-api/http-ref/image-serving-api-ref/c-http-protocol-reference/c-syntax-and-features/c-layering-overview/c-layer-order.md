@@ -5,8 +5,8 @@ seo-title: Layer order
 solution: Experience Manager
 title: Layer order
 uuid: 090f3873-8355-4b11-b05f-f34c74f02a5b
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Layer order{#layer-order}

@@ -5,8 +5,8 @@ seo-title: Image Rendering HTTP encoding
 solution: Experience Manager
 title: Image Rendering HTTP encoding
 uuid: 37bd0040-7bad-4548-ab39-7f598a217732
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Image Rendering HTTP encoding{#image-rendering-http-encoding}

@@ -5,8 +5,8 @@ seo-title: TagValueUpdateArray
 solution: Experience Manager
 title: TagValueUpdateArray
 uuid: a151f6b6-1551-4751-a0e7-0da597526eca
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # TagValueUpdateArray{#tagvalueupdatearray}

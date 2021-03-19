@@ -3,8 +3,8 @@ description: PageView.enableHD
 solution: Experience Manager
 title: PageView.enableHD
 uuid: 34c0e59f-4ed0-4b62-b661-aff20ff64ec4
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # PageView.enableHD{#pageview-enablehd}

@@ -5,8 +5,8 @@ seo-title: Materials
 solution: Experience Manager
 title: Materials
 uuid: a4bbdd77-56b4-4a62-8fc4-2162b00420e7
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Materials{#materials}

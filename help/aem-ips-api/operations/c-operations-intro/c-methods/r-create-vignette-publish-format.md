@@ -5,8 +5,8 @@ seo-title: createVignettePublishFormat
 solution: Experience Manager
 title: createVignettePublishFormat
 uuid: 834ebe6a-e105-4075-8004-172237980933
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # createVignettePublishFormat{#createvignettepublishformat}

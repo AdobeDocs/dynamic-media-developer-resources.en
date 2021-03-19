@@ -5,8 +5,8 @@ seo-title: AssetJobLog
 solution: Experience Manager
 title: AssetJobLog
 uuid: 0dd65da1-f358-4d9a-98a2-abfb036347e3
-feature: "Dynamic Media Classic,SDK/API,Asset Management"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # AssetJobLog{#assetjoblog}

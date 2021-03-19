@@ -5,8 +5,8 @@ seo-title: PropertySetType
 solution: Experience Manager
 title: PropertySetType
 uuid: 83220180-3272-4552-974d-a73e6aad3483
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # PropertySetType{#propertysettype}

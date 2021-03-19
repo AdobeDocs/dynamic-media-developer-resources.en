@@ -5,8 +5,8 @@ seo-title: cache
 solution: Experience Manager
 title: cache
 uuid: 8af89b67-39d5-43e5-a58d-2cd509a1e373
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # cache{#cache}

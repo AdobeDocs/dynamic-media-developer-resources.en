@@ -5,8 +5,8 @@ seo-title: CompanyMember
 solution: Experience Manager
 title: CompanyMember
 uuid: fc0ddcdd-ad1e-487c-8ef1-9c09e5dca33d
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # CompanyMember{#companymember}

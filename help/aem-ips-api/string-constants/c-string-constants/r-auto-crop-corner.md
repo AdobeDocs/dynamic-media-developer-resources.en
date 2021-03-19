@@ -5,8 +5,8 @@ seo-title: AutoCrop Corner
 solution: Experience Manager
 title: AutoCrop Corner
 uuid: 684b4651-2978-4a11-b034-9423fe199b5e
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # AutoCrop Corner{#autocrop-corner}

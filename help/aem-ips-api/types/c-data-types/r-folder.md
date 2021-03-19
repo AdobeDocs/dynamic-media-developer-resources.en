@@ -5,8 +5,8 @@ seo-title: Folder
 solution: Experience Manager
 title: Folder
 uuid: 8ba8d9cb-c4e5-423c-b8cb-ba8751952771
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # Folder{#folder}

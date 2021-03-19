@@ -5,8 +5,8 @@ seo-title: CompanySettings
 solution: Experience Manager
 title: CompanySettings
 uuid: a807d5c1-058d-4313-b4f8-6ee203284003
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # CompanySettings{#companysettings}

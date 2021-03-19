@@ -5,8 +5,8 @@ seo-title: setAssetSetDefinition
 solution: Experience Manager
 title: setAssetSetDefinition
 uuid: 2a2dce5d-7a01-49af-ac8b-33ae0b234ecc
-feature: "Dynamic Media Classic,SDK/API,Asset Management"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # setAssetSetDefinition{#setassetsetdefinition}

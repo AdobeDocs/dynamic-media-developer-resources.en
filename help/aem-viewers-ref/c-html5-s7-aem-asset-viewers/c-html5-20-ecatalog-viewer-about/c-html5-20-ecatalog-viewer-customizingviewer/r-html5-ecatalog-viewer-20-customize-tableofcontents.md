@@ -5,8 +5,8 @@ seo-title: Table of contents
 solution: Experience Manager
 title: Table of contents
 uuid: e5da89b4-fd3f-41ab-bc55-d43c2999d4b7
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
+role: Developer,Business Practitioner
 ---
 
 # Table of contents{#table-of-contents}

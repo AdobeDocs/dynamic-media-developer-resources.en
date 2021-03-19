@@ -5,8 +5,8 @@ seo-title: JobLogArray
 solution: Experience Manager
 title: JobLogArray
 uuid: 92b9d0ce-80e5-4bfb-b604-74e690bedc1c
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # JobLogArray{#joblogarray}

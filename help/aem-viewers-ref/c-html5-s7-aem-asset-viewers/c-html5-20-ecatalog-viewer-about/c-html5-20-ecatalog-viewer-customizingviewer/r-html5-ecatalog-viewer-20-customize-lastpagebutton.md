@@ -5,8 +5,8 @@ seo-title: Last page button
 solution: Experience Manager
 title: Last page button
 uuid: f77b9ac5-4f00-41d4-9495-c4805d4a41f9
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
+role: Developer,Business Practitioner
 ---
 
 # Last page button{#last-page-button}

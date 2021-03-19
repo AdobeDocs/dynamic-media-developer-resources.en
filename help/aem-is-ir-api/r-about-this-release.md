@@ -5,8 +5,8 @@ seo-title: About this release
 solution: Experience Manager
 title: About this release
 uuid: 2fdd8920-433b-405e-bf93-dbef5735be3f
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # About this release{#about-this-release}

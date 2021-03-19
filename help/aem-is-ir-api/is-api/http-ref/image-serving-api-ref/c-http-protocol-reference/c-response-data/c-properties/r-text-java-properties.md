@@ -5,8 +5,8 @@ seo-title: Text (Java) properties
 solution: Experience Manager
 title: Text (Java) properties
 uuid: 5dba4cf7-9172-4195-968e-9ef76c25e90c
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Text (Java) properties{#text-java-properties}

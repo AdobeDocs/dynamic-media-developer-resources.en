@@ -5,8 +5,8 @@ seo-title: getScheduledJobs
 solution: Experience Manager
 title: getScheduledJobs
 uuid: 56b0623b-46d7-4d11-8eea-6543ed364b53
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # getScheduledJobs{#getscheduledjobs}

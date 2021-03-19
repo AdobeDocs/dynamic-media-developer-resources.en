@@ -5,8 +5,8 @@ seo-title: Content data folders
 solution: Experience Manager
 title: Content data folders
 uuid: 7c4d60ca-8a8b-453c-887d-a6a16eacc883
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Content data folders{#content-data-folders}

@@ -5,8 +5,8 @@ seo-title: ResMode
 solution: Experience Manager
 title: ResMode
 uuid: 14d184bd-6664-4f8f-b551-a92cb92a0d84
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # ResMode{#resmode}

@@ -5,8 +5,8 @@ seo-title: ExcelInfo
 solution: Experience Manager
 title: ExcelInfo
 uuid: 27c11719-ac8f-43b2-a08a-cb46f47b8006
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # ExcelInfo{#excelinfo}

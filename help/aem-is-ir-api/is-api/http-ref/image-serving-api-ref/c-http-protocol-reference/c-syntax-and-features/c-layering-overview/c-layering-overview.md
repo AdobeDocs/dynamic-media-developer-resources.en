@@ -5,8 +5,8 @@ seo-title: Layering overview
 solution: Experience Manager
 title: Layering overview
 uuid: 74c0855b-050a-4631-adea-9488bca67fd2
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Layering overview{#layering-overview}

@@ -5,8 +5,8 @@ seo-title: config2
 solution: Experience Manager
 title: config2
 uuid: 9b001bb8-7bae-4858-97ea-f9714a370dc8
-feature: "Dynamic Media Classic,Viewers,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # config2{#config}

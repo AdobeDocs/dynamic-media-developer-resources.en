@@ -5,8 +5,8 @@ seo-title: ScheduledJob
 solution: Experience Manager
 title: ScheduledJob
 uuid: cf0db523-2138-48c6-abbd-460a961e7de1
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # ScheduledJob{#scheduledjob}

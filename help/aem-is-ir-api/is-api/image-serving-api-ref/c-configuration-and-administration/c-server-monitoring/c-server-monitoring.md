@@ -5,8 +5,8 @@ seo-title: Server monitoring
 solution: Experience Manager
 title: Server monitoring
 uuid: c4042ed9-e186-4f0f-a48b-1af3b67a2f04
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Server monitoring{#server-monitoring}

@@ -5,8 +5,8 @@ seo-title: Command macros
 solution: Experience Manager
 title: Command macros
 uuid: a6ff5642-6716-484f-b37e-066994362a9b
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Command macros{#command-macros}

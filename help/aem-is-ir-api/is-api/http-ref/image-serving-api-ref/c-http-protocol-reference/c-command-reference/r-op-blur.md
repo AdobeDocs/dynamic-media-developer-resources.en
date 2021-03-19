@@ -5,8 +5,8 @@ seo-title: op_blur
 solution: Experience Manager
 title: op_blur
 uuid: 8405bbb5-fe09-412e-9b52-0af2c01f48b9
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # op_blur{#op-blur}

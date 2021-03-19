@@ -5,8 +5,8 @@ seo-title: JavaScript API reference for Flyout Viewer
 solution: Experience Manager
 title: JavaScript API reference for Flyout Viewer
 uuid: 45621805-8aa5-4ced-a36a-ebecb2a606a0
-feature: "Dynamic Media Classic,Viewers,SDK/API,Flyout"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
+role: Developer,Business Practitioner
 ---
 
 # JavaScript API reference for Flyout Viewer{#javascript-api-reference-for-flyout-viewer}

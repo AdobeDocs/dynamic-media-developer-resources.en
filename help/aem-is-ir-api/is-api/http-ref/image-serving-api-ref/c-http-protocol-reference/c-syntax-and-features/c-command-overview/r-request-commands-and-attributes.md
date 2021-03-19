@@ -5,8 +5,8 @@ seo-title: Request commands
 solution: Experience Manager
 title: Request commands
 uuid: 5566bbcd-baf8-4003-b61d-df4e414df781
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Request commands{#request-commands}

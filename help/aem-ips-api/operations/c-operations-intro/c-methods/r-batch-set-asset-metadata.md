@@ -5,8 +5,8 @@ seo-title: batchSetAssetMetadata
 solution: Experience Manager
 title: batchSetAssetMetadata
 uuid: 88d8f279-988f-4956-b66f-60fa95cf511c
-feature: "Dynamic Media Classic,SDK/API,Metadata.Asset Management"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Metadata.Asset Management
+role: Developer,Administrator
 ---
 
 # batchSetAssetMetadata{#batchsetassetmetadata}

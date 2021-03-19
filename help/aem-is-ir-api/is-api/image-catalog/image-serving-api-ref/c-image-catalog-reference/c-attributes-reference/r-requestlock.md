@@ -5,8 +5,8 @@ seo-title: RequestLock
 solution: Experience Manager
 title: RequestLock
 uuid: 09f20e5e-8ef1-48fe-8b3c-719d219159ec
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # RequestLock{#requestlock}

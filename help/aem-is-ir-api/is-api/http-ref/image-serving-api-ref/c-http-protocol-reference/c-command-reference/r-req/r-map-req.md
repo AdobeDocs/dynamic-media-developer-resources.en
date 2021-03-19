@@ -5,8 +5,8 @@ seo-title: map
 solution: Experience Manager
 title: map
 uuid: 57cb0fcf-5a07-4109-bfd4-ef9aaf794b27
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # map{#map}

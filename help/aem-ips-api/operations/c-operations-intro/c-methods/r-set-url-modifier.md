@@ -5,8 +5,8 @@ seo-title: setUrlModifier
 solution: Experience Manager
 title: setUrlModifier
 uuid: ec423e57-338b-4a32-be5a-a73fa96712ce
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # setUrlModifier{#seturlmodifier}

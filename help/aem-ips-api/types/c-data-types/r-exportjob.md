@@ -5,8 +5,8 @@ seo-title: ExportJob
 solution: Experience Manager
 title: ExportJob
 uuid: 439e3dd8-85b8-4f5b-abf8-8cc5a3f59fe6
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # ExportJob{#exportjob}

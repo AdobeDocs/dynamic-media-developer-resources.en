@@ -5,8 +5,8 @@ seo-title: Favorites effect
 solution: Experience Manager
 title: Favorites effect
 uuid: 5fbfe299-1fae-427f-8ade-e12cd168b8a7
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # Favorites effect{#favorites-effect}

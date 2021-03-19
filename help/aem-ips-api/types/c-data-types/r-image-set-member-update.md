@@ -5,8 +5,8 @@ seo-title: ImageSetMemberUpdate
 solution: Experience Manager
 title: ImageSetMemberUpdate
 uuid: b0226d21-87ba-4e07-9819-79c9df3df13c
-feature: "Dynamic Media Classic,SDK/API,Image Sets"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Image Sets
+role: Developer,Administrator
 ---
 
 # ImageSetMemberUpdate{#imagesetmemberupdate}

@@ -5,8 +5,8 @@ seo-title: updatePropertySet
 solution: Experience Manager
 title: updatePropertySet
 uuid: 21a59c5a-7799-4af6-ab9f-b0311f5f7254
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # updatePropertySet{#updatepropertyset}

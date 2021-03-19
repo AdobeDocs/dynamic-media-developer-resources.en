@@ -5,8 +5,8 @@ seo-title: UserType
 solution: Experience Manager
 title: UserType
 uuid: 0ce53373-7896-434c-8249-39037089fab9
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # UserType{#usertype}

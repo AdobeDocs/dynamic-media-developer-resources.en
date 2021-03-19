@@ -5,8 +5,8 @@ seo-title: MaxPix
 solution: Experience Manager
 title: MaxPix
 uuid: 22c5fac8-1e64-4917-8bb8-69a95ab549cb
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # MaxPix{#maxpix}

@@ -5,8 +5,8 @@ seo-title: wid
 solution: Experience Manager
 title: wid
 uuid: b59b936c-abab-4f9d-95ca-0a09743ba0fb
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # wid{#wid}

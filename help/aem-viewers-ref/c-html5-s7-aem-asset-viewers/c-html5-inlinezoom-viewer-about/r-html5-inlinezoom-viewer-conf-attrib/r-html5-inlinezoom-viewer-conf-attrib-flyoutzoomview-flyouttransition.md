@@ -3,8 +3,8 @@ description: FlyoutZoomView.flyouttransition
 solution: Experience Manager
 title: FlyoutZoomView.flyouttransition
 uuid: 0b94956d-9ee6-409e-9b52-29c888932a0e
-feature: "Dynamic Media Classic,Viewers,SDK/API,Inline Zoom"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
+role: Developer,Business Practitioner
 ---
 
 # FlyoutZoomView.flyouttransition{#flyoutzoomview-flyouttransition}

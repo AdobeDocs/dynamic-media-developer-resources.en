@@ -5,8 +5,8 @@ seo-title: Solid color layer commands
 solution: Experience Manager
 title: Solid color layer commands
 uuid: 51d82a95-d940-4c62-8ea8-b8805ba16fd3
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Solid color layer commands{#solid-color-layer-commands}

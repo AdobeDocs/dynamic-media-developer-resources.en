@@ -5,8 +5,8 @@ seo-title: rect
 solution: Experience Manager
 title: rect
 uuid: c4830fc5-d102-4789-8753-0a660d4a557e
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # rect{#rect}

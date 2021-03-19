@@ -5,8 +5,8 @@ seo-title: IccProfileMapFile
 solution: Experience Manager
 title: IccProfileMapFile
 uuid: 24fda621-05ef-4c3f-aa93-56d439334602
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # IccProfileMapFile{#iccprofilemapfile}

@@ -5,8 +5,8 @@ seo-title: Supported RTF commands and keywords
 solution: Experience Manager
 title: Supported RTF commands and keywords
 uuid: 0b77d0c5-c4cc-4de7-b51d-6f2ca02316f5
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Supported RTF commands and keywords{#supported-rtf-commands-and-keywords}

@@ -5,8 +5,8 @@ seo-title: Errors
 solution: Experience Manager
 title: Errors
 uuid: a08f3f5a-3013-4d35-9612-25190a4c99fa
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Errors{#errors}

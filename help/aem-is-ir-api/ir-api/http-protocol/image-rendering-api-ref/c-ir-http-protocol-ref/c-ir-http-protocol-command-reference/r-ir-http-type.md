@@ -5,8 +5,8 @@ seo-title: type
 solution: Experience Manager
 title: type
 uuid: 0f107d50-b363-4670-bb02-873677e7bbea
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # type{#type}

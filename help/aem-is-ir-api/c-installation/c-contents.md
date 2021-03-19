@@ -5,8 +5,8 @@ seo-title: Contents
 solution: Experience Manager
 title: Contents
 uuid: 4c92c916-3b6a-4ac8-8d32-121f79da100a
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Contents{#contents}

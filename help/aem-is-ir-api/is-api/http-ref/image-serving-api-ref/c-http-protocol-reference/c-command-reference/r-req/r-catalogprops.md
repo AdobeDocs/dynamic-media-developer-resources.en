@@ -5,8 +5,8 @@ seo-title: catalogprops
 solution: Experience Manager
 title: catalogprops
 uuid: 09252d39-8604-4785-bcdc-ad229a691035
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # catalogprops{#catalogprops}

@@ -5,8 +5,8 @@ seo-title: quantize
 solution: Experience Manager
 title: quantize
 uuid: 624cdc45-51f2-4b18-a658-311770974521
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # quantize{#quantize}

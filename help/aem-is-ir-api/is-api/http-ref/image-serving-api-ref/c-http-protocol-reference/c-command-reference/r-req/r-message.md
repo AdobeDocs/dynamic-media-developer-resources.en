@@ -5,8 +5,8 @@ seo-title: message
 solution: Experience Manager
 title: message
 uuid: 38d6d0e7-55cf-43ea-85b7-8f4aade4208a
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # message{#message}

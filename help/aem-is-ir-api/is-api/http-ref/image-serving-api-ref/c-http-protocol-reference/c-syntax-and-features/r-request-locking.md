@@ -5,8 +5,8 @@ seo-title: Request locking
 solution: Experience Manager
 title: Request locking
 uuid: 03239376-1e40-48d2-a396-c276802854ed
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Request locking{#request-locking}

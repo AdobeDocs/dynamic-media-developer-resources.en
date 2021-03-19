@@ -5,8 +5,8 @@ seo-title: Main control bar
 solution: Experience Manager
 title: Main control bar
 uuid: 21b6e6cd-115f-4c7b-a61e-34b307142045
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # Main control bar{#main-control-bar}

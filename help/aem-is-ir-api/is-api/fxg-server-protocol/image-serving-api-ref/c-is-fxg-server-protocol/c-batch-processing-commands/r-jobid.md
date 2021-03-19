@@ -5,8 +5,8 @@ seo-title: jobid
 solution: Experience Manager
 title: jobid
 uuid: 4e04d9ca-4c5c-476a-8293-fedf09de5f70
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # jobid{#jobid}

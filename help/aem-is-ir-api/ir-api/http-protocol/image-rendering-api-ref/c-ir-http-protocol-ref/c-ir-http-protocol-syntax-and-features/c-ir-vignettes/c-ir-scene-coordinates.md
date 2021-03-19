@@ -5,8 +5,8 @@ seo-title: Scene coordinates
 solution: Experience Manager
 title: Scene coordinates
 uuid: d1215ba2-9cad-4cf6-a57e-7c1d845b0199
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Scene coordinates{#scene-coordinates}

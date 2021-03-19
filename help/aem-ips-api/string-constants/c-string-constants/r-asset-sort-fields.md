@@ -5,8 +5,8 @@ seo-title: Asset Sort Fields
 solution: Experience Manager
 title: Asset Sort Fields
 uuid: d7db11e4-3acf-457d-9708-64167fbea899
-feature: "Dynamic Media Classic,SDK/API,Asset Management"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # Asset Sort Fields{#asset-sort-fields}

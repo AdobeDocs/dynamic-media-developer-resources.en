@@ -5,8 +5,8 @@ seo-title: deleteGroup
 solution: Experience Manager
 title: deleteGroup
 uuid: 04934b16-b7ef-4657-9f63-c91fcc741ca4
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # deleteGroup{#deletegroup}

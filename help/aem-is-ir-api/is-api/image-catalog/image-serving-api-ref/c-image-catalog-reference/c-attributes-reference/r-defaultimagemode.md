@@ -5,8 +5,8 @@ seo-title: DefaultImageMode
 solution: Experience Manager
 title: DefaultImageMode
 uuid: e5640f09-e1e3-473b-8fbc-84c6bfce2460
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # DefaultImageMode{#defaultimagemode}

@@ -5,8 +5,8 @@ seo-title: op_contrast
 solution: Experience Manager
 title: op_contrast
 uuid: d17b0b49-792b-41ce-a154-5e7635c9ab43
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # op_contrast{#op-contrast}

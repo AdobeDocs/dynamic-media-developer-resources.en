@@ -5,8 +5,8 @@ seo-title: AudioInfo
 solution: Experience Manager
 title: AudioInfo
 uuid: f8b8ed63-aac6-4ef1-bdf1-4b27265acffa
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # AudioInfo{#audioinfo}

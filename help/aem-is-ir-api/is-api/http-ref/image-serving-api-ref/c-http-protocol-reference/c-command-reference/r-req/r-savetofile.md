@@ -5,8 +5,8 @@ seo-title: saveToFile
 solution: Experience Manager
 title: saveToFile
 uuid: 32a56d77-89e2-4f78-9fab-1b528e9a024a
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # saveToFile{#savetofile}

@@ -5,8 +5,8 @@ seo-title: Layer effect commands
 solution: Experience Manager
 title: Layer effect commands
 uuid: 5fef90d1-0507-497b-9187-869672996852
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Layer effect commands{#layer-effect-commands}

@@ -5,8 +5,8 @@ seo-title: AutomatedSetGenerationJob
 solution: Experience Manager
 title: AutomatedSetGenerationJob
 uuid: 9c664bde-a731-4d6b-ae6b-c862bda02d4c
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # AutomatedSetGenerationJob{#automatedsetgenerationjob}

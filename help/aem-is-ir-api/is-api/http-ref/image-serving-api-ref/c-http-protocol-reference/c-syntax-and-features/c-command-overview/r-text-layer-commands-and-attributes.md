@@ -5,8 +5,8 @@ seo-title: Text layer commands
 solution: Experience Manager
 title: Text layer commands
 uuid: 00d2643c-1a74-4542-bd72-e6dc22d402b0
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Text layer commands{#text-layer-commands}

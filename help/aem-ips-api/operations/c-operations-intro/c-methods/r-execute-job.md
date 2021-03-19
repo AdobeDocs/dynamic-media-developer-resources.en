@@ -5,8 +5,8 @@ seo-title: executeJob
 solution: Experience Manager
 title: executeJob
 uuid: e73223c1-9032-4745-92b6-a5840949a824
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # executeJob{#executejob}

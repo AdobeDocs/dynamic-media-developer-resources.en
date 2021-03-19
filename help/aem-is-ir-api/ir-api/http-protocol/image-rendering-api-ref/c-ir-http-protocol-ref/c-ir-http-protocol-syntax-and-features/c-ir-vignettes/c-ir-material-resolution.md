@@ -5,8 +5,8 @@ seo-title: Material resolution
 solution: Experience Manager
 title: Material resolution
 uuid: 2c37d217-8d49-478e-88d1-7121d0f0419b
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Material resolution{#material-resolution}

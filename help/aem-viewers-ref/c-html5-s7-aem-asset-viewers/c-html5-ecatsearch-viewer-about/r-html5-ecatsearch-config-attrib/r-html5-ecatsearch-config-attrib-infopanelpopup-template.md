@@ -3,8 +3,8 @@ description: InfoPanelPopup.template
 solution: Experience Manager
 title: InfoPanelPopup.template
 uuid: a7b49f82-9a8b-45f8-b933-9880659770de
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # InfoPanelPopup.template{#infopanelpopup-template}

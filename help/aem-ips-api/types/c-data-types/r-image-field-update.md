@@ -5,8 +5,8 @@ seo-title: ImageFieldUpdate
 solution: Experience Manager
 title: ImageFieldUpdate
 uuid: 0262be3e-f840-41cd-bedc-cc37d9982235
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # ImageFieldUpdate{#imagefieldupdate}

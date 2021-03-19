@@ -5,8 +5,8 @@ seo-title: layer
 solution: Experience Manager
 title: layer
 uuid: 882309b3-51d7-477e-bd09-068ce9e55eb5
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # layer{#layer}

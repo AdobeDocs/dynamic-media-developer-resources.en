@@ -5,8 +5,8 @@ seo-title: Compatibility notes
 solution: Experience Manager
 title: Compatibility notes
 uuid: cf732a03-bfaa-4838-862f-73343cefbd67
-feature: "Dynamic Media Classic,Viewers,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Compatibility notes{#compatibility-notes}

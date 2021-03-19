@@ -5,8 +5,8 @@ seo-title: Install folder
 solution: Experience Manager
 title: Install folder
 uuid: 3e3a5077-f165-42e0-806b-c2cc97aa4f9a
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Install folder{#install-folder}

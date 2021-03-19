@@ -5,8 +5,8 @@ seo-title: Javascript API reference for eCatalog Viewer
 solution: Experience Manager
 title: Javascript API reference for eCatalog Viewer
 uuid: 96ce27fa-0509-4b8c-a4ba-f405830970c3
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
+role: Developer,Business Practitioner
 ---
 
 # Javascript API reference for eCatalog Viewer{#javascript-api-reference-for-ecatalog-viewer}

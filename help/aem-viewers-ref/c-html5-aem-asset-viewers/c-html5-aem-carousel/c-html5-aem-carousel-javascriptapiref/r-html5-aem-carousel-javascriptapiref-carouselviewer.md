@@ -5,8 +5,8 @@ seo-title: CarouselViewer
 solution: Experience Manager
 title: CarouselViewer
 uuid: 443a5b54-b5f6-4594-810b-ce9b2ba40611
-feature: "Dynamic Media Classic,Viewers,SDK/API,Carousel Banners"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
+role: Developer,Business Practitioner
 ---
 
 # CarouselViewer{#carouselviewer}

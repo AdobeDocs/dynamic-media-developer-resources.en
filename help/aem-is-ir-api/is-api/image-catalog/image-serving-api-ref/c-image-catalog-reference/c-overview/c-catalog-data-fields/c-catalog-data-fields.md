@@ -5,8 +5,8 @@ seo-title: Catalog data fields
 solution: Experience Manager
 title: Catalog data fields
 uuid: adba052d-a88b-4350-a4f8-faf649ca0e60
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Catalog data fields{#catalog-data-fields}

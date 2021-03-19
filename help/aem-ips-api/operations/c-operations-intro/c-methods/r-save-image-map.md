@@ -5,8 +5,8 @@ seo-title: saveImageMap
 solution: Experience Manager
 title: saveImageMap
 uuid: 9714fc99-2259-4766-96d7-fe2f9fd2f341
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # saveImageMap{#saveimagemap}

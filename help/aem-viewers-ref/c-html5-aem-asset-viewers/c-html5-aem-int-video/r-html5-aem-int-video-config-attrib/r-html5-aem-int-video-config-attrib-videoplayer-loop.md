@@ -5,8 +5,8 @@ seo-title: VideoPlayer.loop
 solution: Experience Manager
 title: VideoPlayer.loop
 uuid: 6cc91f08-fff1-4b93-9807-5435335c8df5
-feature: "Dynamic Media Classic,Viewers,SDK/API,Interactive Videos"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
+role: Developer,Business Practitioner
 ---
 
 # VideoPlayer.loop{#videoplayer-loop}

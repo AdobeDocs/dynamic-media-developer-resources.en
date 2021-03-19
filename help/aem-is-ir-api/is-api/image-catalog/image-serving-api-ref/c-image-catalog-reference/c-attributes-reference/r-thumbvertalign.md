@@ -5,8 +5,8 @@ seo-title: ThumbVertAlign
 solution: Experience Manager
 title: ThumbVertAlign
 uuid: a90281eb-9681-4b4a-a94b-663f007fb32f
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # ThumbVertAlign{#thumbvertalign}

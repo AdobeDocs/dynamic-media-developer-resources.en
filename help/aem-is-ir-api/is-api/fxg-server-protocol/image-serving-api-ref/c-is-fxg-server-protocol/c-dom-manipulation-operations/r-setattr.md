@@ -5,8 +5,8 @@ seo-title: setAttr
 solution: Experience Manager
 title: setAttr
 uuid: 968f7496-3cd4-4670-96fc-53127bba9a83
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # setAttr{#setattr}

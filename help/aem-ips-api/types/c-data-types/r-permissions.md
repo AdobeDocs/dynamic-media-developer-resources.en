@@ -5,8 +5,8 @@ seo-title: Permission
 solution: Experience Manager
 title: Permission
 uuid: 3b3580d3-e5bc-42bf-bfbe-ab0ec2dea574
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # Permission{#permission}

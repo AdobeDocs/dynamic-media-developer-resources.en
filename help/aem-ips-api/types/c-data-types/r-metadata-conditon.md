@@ -5,8 +5,8 @@ seo-title: MetadataCondition
 solution: Experience Manager
 title: MetadataCondition
 uuid: 9d65b8ce-86a5-4730-af84-a87134fd7db6
-feature: "Dynamic Media Classic,SDK/API,Metadata"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Metadata
+role: Developer,Administrator
 ---
 
 # MetadataCondition{#metadatacondition}

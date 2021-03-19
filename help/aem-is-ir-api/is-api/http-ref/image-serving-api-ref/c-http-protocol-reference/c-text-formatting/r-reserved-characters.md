@@ -5,8 +5,8 @@ seo-title: Reserved characters
 solution: Experience Manager
 title: Reserved characters
 uuid: 3b18da2e-5399-49d0-83c9-66dbf6e7807b
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Reserved characters{#reserved-characters}

@@ -5,8 +5,8 @@ seo-title: batchSetFontFields
 solution: Experience Manager
 title: batchSetFontFields
 uuid: 0209865e-32b3-4bea-a508-05771a0365e1
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # batchSetFontFields{#batchsetfontfields}

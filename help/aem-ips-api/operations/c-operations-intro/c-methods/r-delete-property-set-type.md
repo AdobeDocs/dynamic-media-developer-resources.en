@@ -5,8 +5,8 @@ seo-title: deletePropertySetType
 solution: Experience Manager
 title: deletePropertySetType
 uuid: 7a5232cc-fa3a-4dac-bf88-8b954dd37c87
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # deletePropertySetType{#deletepropertysettype}

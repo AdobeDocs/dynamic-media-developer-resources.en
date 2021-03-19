@@ -5,8 +5,8 @@ seo-title: pauseJob
 solution: Experience Manager
 title: pauseJob
 uuid: baad2ad6-46f5-4133-a6d9-8ffadf990a06
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # pauseJob{#pausejob}

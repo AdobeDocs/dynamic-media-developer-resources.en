@@ -3,8 +3,8 @@ description: title command
 solution: Experience Manager
 title: title
 uuid: ff6c0e2e-ac59-4bcf-9ab9-227ba686914e
-feature: "Dynamic Media Classic,Viewers,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # title{#title}

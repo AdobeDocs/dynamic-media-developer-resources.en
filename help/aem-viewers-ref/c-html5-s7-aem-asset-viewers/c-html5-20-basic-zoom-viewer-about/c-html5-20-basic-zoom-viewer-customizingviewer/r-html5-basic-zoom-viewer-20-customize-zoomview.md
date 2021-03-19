@@ -5,8 +5,8 @@ seo-title: Zoom view
 solution: Experience Manager
 title: Zoom view
 uuid: 06464e36-8c9c-4d3c-b4e5-5911f002568c
-feature: "Dynamic Media Classic,Viewers,SDK/API,Zoom"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
+role: Developer,Business Practitioner
 ---
 
 # Zoom view{#zoom-view}

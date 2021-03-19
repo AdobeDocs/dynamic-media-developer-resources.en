@@ -5,8 +5,8 @@ seo-title: Options for cabinet style files
 solution: Experience Manager
 title: Options for cabinet style files
 uuid: bca84724-d710-45da-86e9-7385f689fd4b
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Options for cabinet style files{#options-for-cabinet-style-files}

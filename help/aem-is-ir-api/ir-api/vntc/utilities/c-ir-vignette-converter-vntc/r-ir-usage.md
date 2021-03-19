@@ -5,8 +5,8 @@ seo-title: Usage
 solution: Experience Manager
 title: Usage
 uuid: 251aa1a0-5f19-42ab-b237-3e3b53fe8320
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Usage{#usage}

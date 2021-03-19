@@ -5,8 +5,8 @@ seo-title: exists
 solution: Experience Manager
 title: exists
 uuid: 5490e4c7-b52a-4b2e-b002-34afaa242c08
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # exists{#exists}

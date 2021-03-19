@@ -5,8 +5,8 @@ seo-title: generatePassword
 solution: Experience Manager
 title: generatePassword
 uuid: e3367bfc-d437-4a61-83e8-69830154dc61
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # generatePassword{#generatepassword}

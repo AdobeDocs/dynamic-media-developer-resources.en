@@ -3,8 +3,8 @@ description: SearchPanel.textpos
 solution: Experience Manager
 title: SearchPanel.textpos
 uuid: ed68aaa1-121c-458e-a724-3832915dca24
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # SearchPanel.textpos{#searchpanel-textpos}

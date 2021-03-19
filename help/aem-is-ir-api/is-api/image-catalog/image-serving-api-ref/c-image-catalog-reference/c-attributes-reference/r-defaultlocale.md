@@ -5,8 +5,8 @@ seo-title: DefaultLocale
 solution: Experience Manager
 title: DefaultLocale
 uuid: abee352a-5843-4e25-8fca-05b7dceca5b2
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # DefaultLocale{#defaultlocale}

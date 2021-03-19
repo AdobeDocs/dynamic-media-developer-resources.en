@@ -5,8 +5,8 @@ seo-title: Server administration overview
 solution: Experience Manager
 title: Server administration overview
 uuid: 83aa83b7-bb7a-4bbd-923c-dd69763fe9c9
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Server administration overview{#server-administration-overview}

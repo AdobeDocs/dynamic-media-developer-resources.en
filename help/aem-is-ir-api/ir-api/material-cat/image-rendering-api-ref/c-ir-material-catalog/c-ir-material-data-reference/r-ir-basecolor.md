@@ -5,8 +5,8 @@ seo-title: BaseColor
 solution: Experience Manager
 title: BaseColor
 uuid: 572ad63b-e3b1-478a-b3b3-2cba0b3413d6
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # BaseColor{#basecolor}

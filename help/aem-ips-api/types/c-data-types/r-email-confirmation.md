@@ -2,8 +2,8 @@
 description: Sends an email to a designated recipient in response to a cdnCacheInvalidation operation.
 solution: Experience Manager
 title: EmailConfirmation
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # EmailConfirmation{#emailconfirmation}

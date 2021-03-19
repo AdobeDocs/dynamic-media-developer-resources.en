@@ -5,8 +5,8 @@ seo-title: Video360Player.vrrender
 solution: Experience Manager
 title: Video360Player.vrrender
 uuid: 773ee479-012c-4649-adae-1f520ec37abb
-feature: "Dynamic Media Classic,Viewers,SDK/API,360 VR Video"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
+role: Developer,Business Practitioner
 ---
 
 # Video360Player.vrrender{#video-player-vrrender}

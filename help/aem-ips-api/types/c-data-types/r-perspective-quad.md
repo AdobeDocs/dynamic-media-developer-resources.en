@@ -5,8 +5,8 @@ seo-title: PerspectiveQuad
 solution: Experience Manager
 title: PerspectiveQuad
 uuid: e83b7b8c-995b-4ac0-ace5-491f7e98674d
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # PerspectiveQuad{#perspectivequad}

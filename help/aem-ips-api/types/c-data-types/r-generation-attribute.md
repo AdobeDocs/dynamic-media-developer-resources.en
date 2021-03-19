@@ -5,8 +5,8 @@ seo-title: GenerationAttribute
 solution: Experience Manager
 title: GenerationAttribute
 uuid: fe387eba-a30d-49d5-9e53-2083f42a5dd0
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # GenerationAttribute{#generationattribute}

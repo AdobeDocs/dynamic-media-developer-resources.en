@@ -5,8 +5,8 @@ seo-title: Verifying the installation
 solution: Experience Manager
 title: Verifying the installation
 uuid: 4fdf61c7-3c9f-4f3e-9696-60eb7e3f2209
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Verifying the installation{#verifying-the-installation}

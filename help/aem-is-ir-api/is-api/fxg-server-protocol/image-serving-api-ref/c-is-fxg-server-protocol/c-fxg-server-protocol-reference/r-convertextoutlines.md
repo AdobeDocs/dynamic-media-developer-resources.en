@@ -5,8 +5,8 @@ seo-title: convertTextToOutlines
 solution: Experience Manager
 title: convertTextToOutlines
 uuid: ec8a5f86-be10-494e-bc06-5c81520696f9
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # convertTextToOutlines{#converttexttooutlines}

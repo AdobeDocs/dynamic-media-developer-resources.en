@@ -5,8 +5,8 @@ seo-title: Access log
 solution: Experience Manager
 title: Access log
 uuid: 33cd4338-1fe7-46ac-83f5-200ea26f1e22
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Access log{#access-log}

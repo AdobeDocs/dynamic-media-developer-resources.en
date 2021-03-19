@@ -5,8 +5,8 @@ seo-title: ImageInfo
 solution: Experience Manager
 title: ImageInfo
 uuid: 89138f10-c80b-49b8-886f-45b0960038b8
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # ImageInfo{#imageinfo}

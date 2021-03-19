@@ -1,8 +1,7 @@
 ---
 cloud: experience-cloud
-product: adobe
-archtype: end-user
 user-guide-title: Dynamic Media Image Production System API
+feature-set: Experience Manager Assets
 ---
 
 # Dynamic Media Image Production System API {#image-production-api}

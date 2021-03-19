@@ -5,8 +5,8 @@ seo-title: Image Serving HTTP encoding
 solution: Experience Manager
 title: Image Serving HTTP encoding
 uuid: e7fb368b-060a-439e-95a1-16b94d4796dc
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Image Serving HTTP encoding{#image-serving-http-encoding}

@@ -5,8 +5,8 @@ seo-title: TemplateInfo
 solution: Experience Manager
 title: TemplateInfo
 uuid: ab405069-c231-435e-999e-95c64bd740be
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # TemplateInfo{#templateinfo}

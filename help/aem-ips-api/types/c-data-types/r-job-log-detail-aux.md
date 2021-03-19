@@ -5,8 +5,8 @@ seo-title: JobLogDetailAux
 solution: Experience Manager
 title: JobLogDetailAux
 uuid: df6f61f2-54f1-4996-938c-c3ea8c27551a
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # JobLogDetailAux{#joblogdetailaux}

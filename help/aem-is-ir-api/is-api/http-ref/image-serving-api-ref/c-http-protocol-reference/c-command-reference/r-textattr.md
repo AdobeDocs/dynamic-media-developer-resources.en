@@ -5,8 +5,8 @@ seo-title: textAttr
 solution: Experience Manager
 title: textAttr
 uuid: 07b3d263-2ed6-4363-83e1-3b841e9967c5
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # textAttr{#textattr}

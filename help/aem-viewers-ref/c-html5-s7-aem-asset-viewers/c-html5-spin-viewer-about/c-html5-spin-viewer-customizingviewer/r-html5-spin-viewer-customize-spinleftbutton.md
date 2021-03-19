@@ -5,8 +5,8 @@ seo-title: Spin left button
 solution: Experience Manager
 title: Spin left button
 uuid: ef804867-2e84-4117-be56-eefcd44f9ca2
-feature: "Dynamic Media Classic,Viewers,SDK/API,Spin Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
+role: Developer,Business Practitioner
 ---
 
 # Spin left button{#spin-left-button}

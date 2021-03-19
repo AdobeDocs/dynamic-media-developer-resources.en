@@ -5,8 +5,8 @@ seo-title: GenerationInfoArray
 solution: Experience Manager
 title: GenerationInfoArray
 uuid: 34124928-4177-415f-898a-e4b8bed9f95f
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # GenerationInfoArray{#generationinfoarray}

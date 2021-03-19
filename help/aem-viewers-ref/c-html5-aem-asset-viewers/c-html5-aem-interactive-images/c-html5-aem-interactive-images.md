@@ -5,8 +5,8 @@ seo-title: Interactive Image
 solution: Experience Manager
 title: Interactive Image
 uuid: 18b7a0c3-c047-4ce1-8920-1d8ebc1ab60e
-feature: "Dynamic Media Classic,Viewers,SDK/API,Interactive Images"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
+role: Developer,Business Practitioner
 ---
 
 # Interactive Image{#interactive-image}

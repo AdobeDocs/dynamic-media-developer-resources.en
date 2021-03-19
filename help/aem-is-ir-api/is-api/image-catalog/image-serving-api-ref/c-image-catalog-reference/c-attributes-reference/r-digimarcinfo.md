@@ -5,8 +5,8 @@ seo-title: DigimarcInfo
 solution: Experience Manager
 title: DigimarcInfo
 uuid: fc47645d-e3e9-433e-9194-2aa9ddc123ab
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # DigimarcInfo{#digimarcinfo}

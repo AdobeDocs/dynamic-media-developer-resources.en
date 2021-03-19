@@ -5,8 +5,8 @@ seo-title: tmb
 solution: Experience Manager
 title: tmb
 uuid: 0f098c30-a164-47a6-abb2-0eb1d0bc24da
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # tmb{#tmb}

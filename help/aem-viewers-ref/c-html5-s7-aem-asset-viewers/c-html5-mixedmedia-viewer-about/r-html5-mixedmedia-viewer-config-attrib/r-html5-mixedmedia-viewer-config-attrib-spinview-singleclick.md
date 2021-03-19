@@ -3,8 +3,8 @@ description: SpinView.singleclick
 solution: Experience Manager
 title: SpinView.singleclick
 uuid: 188a4e65-a93e-46c4-89b4-02e745ecf5eb
-feature: "Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # SpinView.singleclick{#spinview-singleclick}

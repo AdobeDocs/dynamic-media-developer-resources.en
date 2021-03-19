@@ -5,8 +5,8 @@ seo-title: getOriginalFilePaths
 solution: Experience Manager
 title: getOriginalFilePaths
 uuid: c4acf288-1a57-4295-806b-348f15a089cc
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # getOriginalFilePaths{#getoriginalfilepaths}

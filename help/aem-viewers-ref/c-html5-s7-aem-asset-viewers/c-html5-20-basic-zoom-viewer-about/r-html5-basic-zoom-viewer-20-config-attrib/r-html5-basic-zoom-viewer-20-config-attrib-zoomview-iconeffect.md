@@ -3,8 +3,8 @@ description: ZoomView.iconeffect
 solution: Experience Manager
 title: ZoomView.iconeffect
 uuid: 38350e3d-515b-454c-bc85-39b91ad06e8b
-feature: "Dynamic Media Classic,Viewers,SDK/API,Zoom"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
+role: Developer,Business Practitioner
 ---
 
 # ZoomView.iconeffect{#zoomview-iconeffect}

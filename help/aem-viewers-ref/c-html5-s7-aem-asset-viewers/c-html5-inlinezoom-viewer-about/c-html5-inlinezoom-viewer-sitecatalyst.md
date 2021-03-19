@@ -5,8 +5,8 @@ seo-title: Support for Adobe Analytics tracking
 solution: Experience Manager
 title: Support for Adobe Analytics tracking
 uuid: ac5a2de9-6275-434f-ae09-a588f4a71aa6
-feature: "Dynamic Media Classic,Viewers,SDK/API,Inline Zoom"
-role: "Developer,Business Practitioner,Data Engineer,Data Architect"
+feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
+role: Developer,Business Practitioner,Data Engineer,Data Architect
 ---
 
 # Support for Adobe Analytics tracking{#support-for-adobe-analytics-tracking}

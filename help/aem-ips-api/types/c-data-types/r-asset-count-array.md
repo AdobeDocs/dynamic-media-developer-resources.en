@@ -5,8 +5,8 @@ seo-title: AssetCountArray
 solution: Experience Manager
 title: AssetCountArray
 uuid: 1e93b8d7-5cd5-487d-84e6-69495221219a
-feature: "Dynamic Media Classic,SDK/API,Asset Management"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # AssetCountArray{#assetcountarray}

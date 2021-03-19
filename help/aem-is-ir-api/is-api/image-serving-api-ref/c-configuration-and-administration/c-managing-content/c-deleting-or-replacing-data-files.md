@@ -5,8 +5,8 @@ seo-title: Deleting or replacing data files
 solution: Experience Manager
 title: Deleting or replacing data files
 uuid: 7b446144-48f6-4b50-93ec-0287425d932a
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Deleting or replacing data files{#deleting-or-replacing-data-files}

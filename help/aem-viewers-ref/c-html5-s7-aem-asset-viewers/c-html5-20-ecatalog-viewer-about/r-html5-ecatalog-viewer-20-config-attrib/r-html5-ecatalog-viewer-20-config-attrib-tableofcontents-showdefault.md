@@ -3,8 +3,8 @@ description: TableOfContents.showdefault
 solution: Experience Manager
 title: TableOfContents.showdefault
 uuid: 244a8485-a615-4155-a5a9-9d468ac3208f
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
+role: Developer,Business Practitioner
 ---
 
 # TableOfContents.showdefault{#tableofcontents-showdefault}

@@ -5,8 +5,8 @@ seo-title: getMetadataFields
 solution: Experience Manager
 title: getMetadataFields
 uuid: bf891bae-53c8-4e3d-90df-caca9a7e022b
-feature: "Dynamic Media Classic,SDK/API,Metadata"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Metadata
+role: Developer,Administrator
 ---
 
 # getMetadataFields{#getmetadatafields}

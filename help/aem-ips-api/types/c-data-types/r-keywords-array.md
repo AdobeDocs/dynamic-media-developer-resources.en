@@ -5,8 +5,8 @@ seo-title: KeywordsArray
 solution: Experience Manager
 title: KeywordsArray
 uuid: 78da064a-9906-4d79-93b4-4aa0f73358e2
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # KeywordsArray{#keywordsarray}

@@ -2,8 +2,8 @@
 description: Depending on the value of the mode parameter, the viewer displays image map icons over the main view in places where maps are originally authored in Dynamic Media Classic or renders exact regions that match the shape of original image maps.
 solution: Experience Manager
 title: Image map effect
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # Image map effect{#image-map-effect}

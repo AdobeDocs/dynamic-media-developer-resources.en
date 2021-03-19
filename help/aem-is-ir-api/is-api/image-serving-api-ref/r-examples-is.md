@@ -5,8 +5,8 @@ seo-title: Image Server examples
 solution: Experience Manager
 title: Image Server examples
 uuid: 0db0350f-017b-43d8-8dbb-69234b21a747
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Image Server examples{#image-server-examples}

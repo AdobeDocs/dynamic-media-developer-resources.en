@@ -5,8 +5,8 @@ seo-title: Permission Types
 solution: Experience Manager
 title: Permission Types
 uuid: 08c24010-489f-452f-9fc0-c65d33816200
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # Permission Types{#permission-types}

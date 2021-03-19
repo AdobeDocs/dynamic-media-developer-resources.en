@@ -3,8 +3,8 @@ description: SpinView.enableHD
 solution: Experience Manager
 title: SpinView.enableHD
 uuid: 3e7cdb44-4366-4e84-a6c7-c1cf1f5e6344
-feature: "Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # SpinView.enableHD{#spinview-enablehd}

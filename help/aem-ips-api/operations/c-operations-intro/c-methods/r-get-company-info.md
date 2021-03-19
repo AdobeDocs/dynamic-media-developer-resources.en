@@ -5,8 +5,8 @@ seo-title: getCompanyInfo
 solution: Experience Manager
 title: getCompanyInfo
 uuid: 9218cba8-2873-46b7-90e3-7ab9d5018690
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # getCompanyInfo{#getcompanyinfo}

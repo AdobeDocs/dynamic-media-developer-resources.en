@@ -2,10 +2,12 @@
 title: Adobe Dynamic Media developer resources
 cloud: experience-cloud
 product: Adobe Dynamic Media Developer Resources
+solution: Dynamic Media Classic
 audience: end-user
 user-guide-title: Adobe Dynamic Media Developer Resources
 breadcrumb-title: Dynamic Media Developer Resources
 user-guide-description: Access Dynamic Media developer resources such as the Viewers Reference Guide, Image Production System API, Image Serving and Rendering API, and archived Scene7 release notes.
+feature-set: Experience Manager Assets
 index: y
 ---
 

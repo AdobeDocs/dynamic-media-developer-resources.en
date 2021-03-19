@@ -5,8 +5,8 @@ seo-title: setAssetPermissions
 solution: Experience Manager
 title: setAssetPermissions
 uuid: 38f26482-bce9-4d2c-9714-e8c3ae40c2d1
-feature: "Dynamic Media Classic,SDK/API,Asset Management"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # setAssetPermissions{#setassetpermissions}

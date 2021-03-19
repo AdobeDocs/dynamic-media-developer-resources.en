@@ -5,8 +5,8 @@ seo-title: Full screen support
 solution: Experience Manager
 title: Full screen support
 uuid: 4dbadc88-d9d4-44b7-83fb-38b8e6b34770
-feature: "Dynamic Media Classic,Viewers,SDK/API,Zoom"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
+role: Developer,Business Practitioner
 ---
 
 # Full screen support{#full-screen-support}

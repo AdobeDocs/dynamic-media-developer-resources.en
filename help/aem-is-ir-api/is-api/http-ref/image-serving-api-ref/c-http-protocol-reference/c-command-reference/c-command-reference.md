@@ -5,8 +5,8 @@ seo-title: Command reference
 solution: Experience Manager
 title: Command reference
 uuid: 72c4ed61-3436-4df5-b586-77808fb1903a
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Command reference{#command-reference}

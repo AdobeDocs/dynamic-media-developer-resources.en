@@ -5,8 +5,8 @@ seo-title: StaticContentRootPath
 solution: Experience Manager
 title: StaticContentRootPath
 uuid: f1c0a54c-8b2c-4953-a3b7-180d231840db
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # StaticContentRootPath{#staticcontentrootpath}

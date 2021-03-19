@@ -5,8 +5,8 @@ seo-title: VignetteMapFile
 solution: Experience Manager
 title: VignetteMapFile
 uuid: d07dcfea-241e-4431-b09e-dbd1df38b8ca
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # VignetteMapFile{#vignettemapfile}

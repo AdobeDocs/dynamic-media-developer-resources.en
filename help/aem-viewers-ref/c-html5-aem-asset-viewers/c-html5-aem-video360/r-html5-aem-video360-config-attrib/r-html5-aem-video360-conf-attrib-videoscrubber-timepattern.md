@@ -5,8 +5,8 @@ seo-title: VideoScrubber.timepattern
 solution: Experience Manager
 title: VideoScrubber.timepattern
 uuid: 73651147-d122-4466-ad74-e5f9438a9c56
-feature: "Dynamic Media Classic,Viewers,SDK/API,360 VR Video"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
+role: Developer,Business Practitioner
 ---
 
 # VideoScrubber.timepattern{#videoscrubber-timepattern}

@@ -5,8 +5,8 @@ seo-title: HttpAppleStreamingContext
 solution: Experience Manager
 title: HttpAppleStreamingContext
 uuid: e333c24b-b48f-439f-aa86-d223b533b9b6
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # HttpAppleStreamingContext{#httpapplestreamingcontext}

@@ -5,8 +5,8 @@ seo-title: IccProfileFieldUpdateArray
 solution: Experience Manager
 title: IccProfileFieldUpdateArray
 uuid: 15cb164d-6c56-45fd-9275-dd091e205c80
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # IccProfileFieldUpdateArray{#iccprofilefieldupdatearray}

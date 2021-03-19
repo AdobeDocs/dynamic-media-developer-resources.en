@@ -5,8 +5,8 @@ seo-title: Server configuration
 solution: Experience Manager
 title: Server configuration
 uuid: ee6346df-24cc-43be-ba79-c1cba2f237e3
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Server configuration{#server-configuration}

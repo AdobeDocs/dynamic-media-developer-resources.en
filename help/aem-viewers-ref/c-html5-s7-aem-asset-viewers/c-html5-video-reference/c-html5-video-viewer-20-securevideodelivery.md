@@ -3,8 +3,8 @@ description: HTTP video delivery
 solution: Experience Manager
 title: HTTP video delivery
 uuid: fd02a55a-a0f1-47a2-983f-15f296d1dbb4
-feature: "Dynamic Media Classic,Viewers,SDK/API,Video"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Video
+role: Developer,Business Practitioner
 ---
 
 # HTTP video delivery{#http-video-delivery}

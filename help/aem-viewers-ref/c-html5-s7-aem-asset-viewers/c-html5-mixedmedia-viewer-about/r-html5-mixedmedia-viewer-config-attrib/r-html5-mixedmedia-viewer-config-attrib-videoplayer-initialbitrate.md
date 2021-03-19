@@ -3,8 +3,8 @@ description: VideoPlayer.initialbitrate
 solution: Experience Manager
 title: VideoPlayer.initialbitrate
 uuid: 11426516-8336-4186-84b4-15ce5ec7e764
-feature: "Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # VideoPlayer.initialbitrate{#videoplayer-initialbitrate}

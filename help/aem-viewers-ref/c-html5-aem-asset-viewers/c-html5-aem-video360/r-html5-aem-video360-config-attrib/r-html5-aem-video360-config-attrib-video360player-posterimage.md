@@ -5,8 +5,8 @@ seo-title: Video360Player.posterimage
 solution: Experience Manager
 title: Video360Player.posterimage
 uuid: a1adc3b7-2ea3-4f26-84f2-b5c2f4418038
-feature: "Dynamic Media Classic,Viewers,SDK/API,360 VR Video"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
+role: Developer,Business Practitioner
 ---
 
 # Video360Player.posterimage{#video-player-posterimage}

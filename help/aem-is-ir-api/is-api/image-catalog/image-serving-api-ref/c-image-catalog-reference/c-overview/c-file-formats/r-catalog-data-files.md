@@ -5,8 +5,8 @@ seo-title: Catalog data files
 solution: Experience Manager
 title: Catalog data files
 uuid: 0f66e2fe-5b8a-43d3-bf2e-8dd79da6a581
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Catalog data files{#catalog-data-files}

@@ -2,8 +2,8 @@
 description: Adds a user to an array of groups.
 solution: Experience Manager
 title: addGroupMembership
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # addGroupMembership{#addgroupmembership}

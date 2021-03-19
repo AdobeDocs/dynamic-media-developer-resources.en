@@ -3,8 +3,8 @@ description: PermissionSetArray
 solution: Experience Manager
 title: PermissionSetArray
 uuid: aec7f307-7d1d-4d56-a1e5-55f82983c8c8
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # PermissionSetArray{#permissionsetarray}

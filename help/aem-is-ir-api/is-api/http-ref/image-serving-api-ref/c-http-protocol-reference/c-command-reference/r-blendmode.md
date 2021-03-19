@@ -5,8 +5,8 @@ seo-title: blendMode
 solution: Experience Manager
 title: blendMode
 uuid: 9ae30495-c10b-4c55-968e-effb602a0857
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # blendMode{#blendmode}

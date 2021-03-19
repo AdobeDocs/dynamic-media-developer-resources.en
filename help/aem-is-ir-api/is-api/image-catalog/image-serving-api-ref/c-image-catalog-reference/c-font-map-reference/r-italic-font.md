@@ -5,8 +5,8 @@ seo-title: Italic
 solution: Experience Manager
 title: Italic
 uuid: 4a484a3f-18b9-4fa7-bcbb-2dee947e9c2a
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Italic{#italic}

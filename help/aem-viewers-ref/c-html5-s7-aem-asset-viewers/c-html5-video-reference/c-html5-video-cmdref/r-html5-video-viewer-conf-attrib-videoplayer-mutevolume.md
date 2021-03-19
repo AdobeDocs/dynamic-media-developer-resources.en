@@ -5,8 +5,8 @@ seo-title: VideoPlayer.mutevolume
 solution: Experience Manager
 title: VideoPlayer.mutevolume
 uuid: 8e32b005-cf7f-4078-896c-14497340fad7
-feature: "Dynamic Media Classic,Viewers,SDK/API,Video"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Video
+role: Developer,Business Practitioner
 ---
 
 # VideoPlayer.mutevolume{#videoplayer-mutevolume}

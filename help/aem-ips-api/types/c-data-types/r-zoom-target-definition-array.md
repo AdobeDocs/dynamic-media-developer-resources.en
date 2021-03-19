@@ -3,8 +3,8 @@ description: ZoomTargetDefinitionArray
 solution: Experience Manager
 title: ZoomTargetDefinitionArray
 uuid: 681b323e-fe00-4d9e-9201-7fb46080d041
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # ZoomTargetDefinitionArray{#zoomtargetdefinitionarray}

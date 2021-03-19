@@ -5,8 +5,8 @@ seo-title: VideoSize
 solution: Experience Manager
 title: VideoSize
 uuid: 078508a7-8b06-4c40-9497-82b365b96fe2
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # VideoSize{#videosize}

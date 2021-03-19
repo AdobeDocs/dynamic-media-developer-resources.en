@@ -5,8 +5,8 @@ seo-title: VignetteInfo
 solution: Experience Manager
 title: VignetteInfo
 uuid: 86406541-f117-49a3-909b-bde63d8e9eef
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # VignetteInfo{#vignetteinfo}

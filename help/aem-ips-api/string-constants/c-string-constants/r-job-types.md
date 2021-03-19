@@ -5,8 +5,8 @@ seo-title: Job Types
 solution: Experience Manager
 title: Job Types
 uuid: ec55f636-d5c9-419c-b965-eee17ed7e2e7
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # Job Types{#job-types}

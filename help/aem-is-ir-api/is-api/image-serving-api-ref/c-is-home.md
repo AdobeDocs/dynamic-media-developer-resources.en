@@ -5,8 +5,8 @@ seo-title: Image Serving API
 solution: Experience Manager
 title: Image Serving API
 uuid: a90088a8-94f4-4e36-aaa2-03c07e8522b0
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Image Serving API{#image-serving-api}

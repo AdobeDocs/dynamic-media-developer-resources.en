@@ -3,8 +3,8 @@ description: Swatches.iscommand
 solution: Experience Manager
 title: Swatches.iscommand
 uuid: 6fa79ce2-5191-4282-acee-5c6caad24fba
-feature: "Dynamic Media Classic,Viewers,SDK/API,Zoom"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
+role: Developer,Business Practitioner
 ---
 
 # Swatches.iscommand{#swatches-iscommand}

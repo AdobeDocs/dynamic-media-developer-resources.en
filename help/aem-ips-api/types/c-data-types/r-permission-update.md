@@ -5,8 +5,8 @@ seo-title: PermissionUpdate
 solution: Experience Manager
 title: PermissionUpdate
 uuid: 7b1850ca-6a8c-402d-8c8f-4528d978245f
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # PermissionUpdate{#permissionupdate}

@@ -5,8 +5,8 @@ seo-title: View commands
 solution: Experience Manager
 title: View commands
 uuid: f847a2ed-cd16-4342-9395-8f933ff2da6f
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # View commands{#view-commands}

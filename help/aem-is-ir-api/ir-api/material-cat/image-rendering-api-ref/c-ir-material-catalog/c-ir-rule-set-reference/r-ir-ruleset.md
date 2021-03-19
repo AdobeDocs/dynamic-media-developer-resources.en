@@ -5,8 +5,8 @@ seo-title: ruleset
 solution: Experience Manager
 title: ruleset
 uuid: 92e691ac-079e-4f84-9142-80e0c603cfc3
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # ruleset{#ruleset}

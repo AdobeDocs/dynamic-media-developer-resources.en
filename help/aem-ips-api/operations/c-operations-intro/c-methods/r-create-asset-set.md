@@ -5,8 +5,8 @@ seo-title: createAssetSet
 solution: Experience Manager
 title: createAssetSet
 uuid: 1e86bd37-511c-4c12-abfd-075053b86f78
-feature: "Dynamic Media Classic,SDK/API,Asset Management"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # createAssetSet{#createassetset}

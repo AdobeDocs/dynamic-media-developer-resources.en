@@ -5,8 +5,8 @@ seo-title: IccBlackPointCompensation
 solution: Experience Manager
 title: IccBlackPointCompensation
 uuid: 284339b1-e6fd-499a-a581-c87aa1765c0e
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # IccBlackPointCompensation{#iccblackpointcompensation}

@@ -5,8 +5,8 @@ seo-title: Common layer commands
 solution: Experience Manager
 title: Common layer commands
 uuid: f11da6ba-18f2-42d6-8257-cb8ebef8c7d8
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Common layer commands{#common-layer-commands}

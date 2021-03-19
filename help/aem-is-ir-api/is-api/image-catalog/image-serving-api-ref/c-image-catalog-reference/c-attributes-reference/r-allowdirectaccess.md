@@ -5,8 +5,8 @@ seo-title: AllowDirectAccess
 solution: Experience Manager
 title: AllowDirectAccess
 uuid: 6d413fac-6930-4f6d-90ad-62abb419efef
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # AllowDirectAccess{#allowdirectaccess}

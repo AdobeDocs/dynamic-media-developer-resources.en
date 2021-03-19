@@ -5,8 +5,8 @@ seo-title: Default catalog
 solution: Experience Manager
 title: Default catalog
 uuid: 9f0c967e-a2fa-4ef0-bacb-3dcfb06a8027
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Default catalog{#default-catalog}

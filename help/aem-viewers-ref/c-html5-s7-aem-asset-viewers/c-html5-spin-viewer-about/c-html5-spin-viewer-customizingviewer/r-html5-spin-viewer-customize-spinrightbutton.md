@@ -5,8 +5,8 @@ seo-title: Spin right button
 solution: Experience Manager
 title: Spin right button
 uuid: 5c754e53-9311-4d4f-96e7-2bb9a5a7babf
-feature: "Dynamic Media Classic,Viewers,SDK/API,Spin Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
+role: Developer,Business Practitioner
 ---
 
 # Spin right button{#spin-right-button}

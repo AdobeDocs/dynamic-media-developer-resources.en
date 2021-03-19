@@ -5,8 +5,8 @@ seo-title: getProperty
 solution: Experience Manager
 title: getProperty
 uuid: 38ea08a6-c948-4a01-bc9a-d1609197224e
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # getProperty{#getproperty}

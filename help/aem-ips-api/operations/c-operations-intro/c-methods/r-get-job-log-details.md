@@ -5,8 +5,8 @@ seo-title: getJobLogDetails
 solution: Experience Manager
 title: getJobLogDetails
 uuid: e4314348-2160-4775-a02f-b4892924f064
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # getJobLogDetails{#getjoblogdetails}

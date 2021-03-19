@@ -5,8 +5,8 @@ seo-title: initialFrame
 solution: Experience Manager
 title: initialFrame
 uuid: 5d1c3a8a-8598-47c9-a106-36e8c6fcafb0
-feature: "Dynamic Media Classic,Viewers,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # initialFrame{#initialframe}

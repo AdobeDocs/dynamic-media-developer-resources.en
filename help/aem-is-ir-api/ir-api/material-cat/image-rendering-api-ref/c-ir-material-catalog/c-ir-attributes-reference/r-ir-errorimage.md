@@ -5,8 +5,8 @@ seo-title: ErrorImage *
 solution: Experience Manager
 title: ErrorImage *
 uuid: 6c8801d0-8cd0-4477-9a60-ccbb343a0747
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # ErrorImage *{#errorimage}

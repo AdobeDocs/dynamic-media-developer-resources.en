@@ -5,8 +5,8 @@ seo-title: TagConditionArray
 solution: Experience Manager
 title: TagConditionArray
 uuid: 9ee3b2c5-ba56-4df0-ae80-684d04455437
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # TagConditionArray{#tagconditionarray}

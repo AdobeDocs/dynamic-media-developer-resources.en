@@ -5,8 +5,8 @@ seo-title: User Roles
 solution: Experience Manager
 title: User Roles
 uuid: d971c6aa-981a-4e15-b268-7bd685bad03b
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # User Roles{#user-roles}

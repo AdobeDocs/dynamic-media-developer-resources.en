@@ -5,8 +5,8 @@ seo-title: pathEmbed
 solution: Experience Manager
 title: pathEmbed
 uuid: 93e63c7c-c091-4bb1-baff-45706fd611ea
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # pathEmbed{#pathembed}

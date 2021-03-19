@@ -3,8 +3,8 @@ description: Swatches.maxloadradius
 solution: Experience Manager
 title: Swatches.maxloadradius
 uuid: 3666b947-4a37-4711-90b0-f9c048b588f8
-feature: "Dynamic Media Classic,Viewers,SDK/API,Flyout"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
+role: Developer,Business Practitioner
 ---
 
 # Swatches.maxloadradius{#swatches-maxloadradius}

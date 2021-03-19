@@ -5,8 +5,8 @@ seo-title: checkAssetNames
 solution: Experience Manager
 title: checkAssetNames
 uuid: 91d073a8-7648-429b-aa5c-c7d595550299
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # checkAssetNames{#checkassetnames}

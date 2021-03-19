@@ -5,8 +5,8 @@ seo-title: obj
 solution: Experience Manager
 title: obj
 uuid: 2fede992-6759-45bd-b2f1-36e2c791d536
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # obj{#obj}

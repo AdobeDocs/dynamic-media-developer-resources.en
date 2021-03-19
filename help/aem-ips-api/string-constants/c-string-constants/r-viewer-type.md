@@ -5,8 +5,8 @@ seo-title: Viewer Type
 solution: Experience Manager
 title: Viewer Type
 uuid: 95b438db-35a8-45cf-8ec0-4a85e8b869c5
-feature: "Dynamic Media Classic,SDK/API,Viewer"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Viewer
+role: Developer,Administrator
 ---
 
 # Viewer Type{#viewer-type}

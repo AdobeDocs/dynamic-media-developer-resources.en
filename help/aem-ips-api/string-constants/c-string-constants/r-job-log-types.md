@@ -5,8 +5,8 @@ seo-title: Job Log Types
 solution: Experience Manager
 title: Job Log Types
 uuid: 2d8936c8-076b-431e-bcea-24c5aae0faee
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # Job Log Types{#job-log-types}

@@ -5,8 +5,8 @@ seo-title: Repeatable textures
 solution: Experience Manager
 title: Repeatable textures
 uuid: 11a55d9f-a1d7-490e-af0e-9bf2c3a35501
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Repeatable textures{#repeatable-textures}

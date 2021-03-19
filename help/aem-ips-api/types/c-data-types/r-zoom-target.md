@@ -5,8 +5,8 @@ seo-title: ZoomTarget
 solution: Experience Manager
 title: ZoomTarget
 uuid: 08a03140-c8cc-49d8-9575-ae153b3899c9
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # ZoomTarget{#zoomtarget}

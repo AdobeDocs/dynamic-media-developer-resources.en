@@ -5,8 +5,8 @@ seo-title: XML properties
 solution: Experience Manager
 title: XML properties
 uuid: 9d169ad2-e466-4ab3-8900-ea9c6125edad
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # XML properties{#xml-properties}

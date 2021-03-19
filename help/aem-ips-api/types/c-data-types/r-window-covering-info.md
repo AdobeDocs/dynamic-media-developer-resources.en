@@ -5,8 +5,8 @@ seo-title: WindowCoveringInfo
 solution: Experience Manager
 title: WindowCoveringInfo
 uuid: 6ca5c5b2-9fb1-4ba2-b981-f1912231512c
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # WindowCoveringInfo{#windowcoveringinfo}

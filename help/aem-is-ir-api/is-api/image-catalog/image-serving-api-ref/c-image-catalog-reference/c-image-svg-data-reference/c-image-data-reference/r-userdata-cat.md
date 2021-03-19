@@ -5,8 +5,8 @@ seo-title: UserData
 solution: Experience Manager
 title: UserData
 uuid: cadc9f3c-c0ca-4c88-bc8a-97c28b439b01
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # UserData{#userdata}

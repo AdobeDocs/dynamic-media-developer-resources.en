@@ -5,8 +5,8 @@ seo-title: op_colorize
 solution: Experience Manager
 title: op_colorize
 uuid: e74a85ca-73bf-4c69-ac77-768a58b33d0b
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # op_colorize{#op-colorize}

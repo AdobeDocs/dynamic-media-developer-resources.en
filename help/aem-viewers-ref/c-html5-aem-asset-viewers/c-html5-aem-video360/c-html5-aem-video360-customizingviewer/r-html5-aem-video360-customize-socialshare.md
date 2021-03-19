@@ -5,8 +5,8 @@ seo-title: Social share
 solution: Experience Manager
 title: Social share
 uuid: d7b7e704-6f78-45f9-a82a-14dc6b01e230
-feature: "Dynamic Media Classic,Viewers,SDK/API,360 VR Video"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
+role: Developer,Business Practitioner
 ---
 
 # Social share{#social-share}

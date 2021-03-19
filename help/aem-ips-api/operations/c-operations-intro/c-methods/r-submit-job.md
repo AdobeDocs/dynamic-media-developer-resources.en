@@ -5,8 +5,8 @@ seo-title: submitJob
 solution: Experience Manager
 title: submitJob
 uuid: d3a83b59-bcd7-4ae9-b1ee-e515fc3c9261
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # submitJob{#submitjob}

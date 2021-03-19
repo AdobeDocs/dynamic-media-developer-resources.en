@@ -5,8 +5,8 @@ seo-title: Size
 solution: Experience Manager
 title: Size
 uuid: 07d41f71-e18d-4559-afc7-75dc1c45be93
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Size{#size}

@@ -5,8 +5,8 @@ seo-title: The compositing canvas
 solution: Experience Manager
 title: The compositing canvas
 uuid: 7ec2f1b3-61fc-4bfe-96d2-a5946a238e74
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # The compositing canvas{#the-compositing-canvas}

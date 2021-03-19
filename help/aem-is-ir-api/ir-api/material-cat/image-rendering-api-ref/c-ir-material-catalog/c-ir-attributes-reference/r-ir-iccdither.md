@@ -5,8 +5,8 @@ seo-title: IccDither
 solution: Experience Manager
 title: IccDither
 uuid: 4ebd1bf8-eed0-4ff1-b8a0-1295d503fb4e
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # IccDither{#iccdither}

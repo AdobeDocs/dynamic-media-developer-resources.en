@@ -3,8 +3,8 @@ description: VideoPlayer.posterimage
 solution: Experience Manager
 title: VideoPlayer.posterimage
 uuid: 28663f44-11cb-4522-bd12-d6bec17b4173
-feature: "Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # VideoPlayer.posterimage{#videoplayer-posterimage}

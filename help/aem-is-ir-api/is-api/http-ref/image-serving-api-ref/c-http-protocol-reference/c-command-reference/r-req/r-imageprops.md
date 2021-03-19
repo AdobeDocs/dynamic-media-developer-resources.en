@@ -5,8 +5,8 @@ seo-title: imageprops
 solution: Experience Manager
 title: imageprops
 uuid: e9bf2780-a520-4fb1-ab4c-40bb799e36a4
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # imageprops{#imageprops}

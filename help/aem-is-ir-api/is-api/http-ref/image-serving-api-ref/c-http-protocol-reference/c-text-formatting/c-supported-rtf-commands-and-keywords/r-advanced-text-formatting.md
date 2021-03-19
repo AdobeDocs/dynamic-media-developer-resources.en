@@ -5,8 +5,8 @@ seo-title: Advanced text formatting
 solution: Experience Manager
 title: Advanced text formatting
 uuid: 340166a5-5aef-4081-9114-a715cde68891
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Advanced text formatting{#advanced-text-formatting}

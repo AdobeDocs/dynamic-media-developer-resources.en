@@ -5,8 +5,8 @@ seo-title: Repeat
 solution: Experience Manager
 title: Repeat
 uuid: bd15a573-9902-4672-992d-90d171160a46
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Repeat{#repeat}

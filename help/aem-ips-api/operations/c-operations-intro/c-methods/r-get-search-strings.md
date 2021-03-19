@@ -5,8 +5,8 @@ seo-title: getSearchStrings
 solution: Experience Manager
 title: getSearchStrings
 uuid: 9d588d6b-c79c-4531-a2e8-8467254a7985
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # getSearchStrings{#getsearchstrings}

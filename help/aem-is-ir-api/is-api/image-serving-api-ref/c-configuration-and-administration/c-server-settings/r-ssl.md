@@ -5,8 +5,8 @@ seo-title: SSL
 solution: Experience Manager
 title: SSL
 uuid: dec9bd09-8191-4010-8898-2890ffbe9ca7
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # SSL{#ssl}

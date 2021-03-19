@@ -5,8 +5,8 @@ seo-title: updateFolderPermissions
 solution: Experience Manager
 title: updateFolderPermissions
 uuid: 940d7b63-80cf-4097-9cf9-8499b69181b7
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # updateFolderPermissions{#updatefolderpermissions}

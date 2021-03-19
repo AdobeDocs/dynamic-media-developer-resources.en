@@ -5,8 +5,8 @@ seo-title: Text positioning
 solution: Experience Manager
 title: Text positioning
 uuid: 77289c50-2f3a-4486-8274-eecfd6e5452f
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Text positioning{#text-positioning}

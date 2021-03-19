@@ -5,8 +5,8 @@ seo-title: imageset
 solution: Experience Manager
 title: imageset
 uuid: 8854e903-a85f-403a-ae3d-b7281a236262
-feature: "Dynamic Media Classic,SDK/API,Image Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API,Image Sets
+role: Developer,Business Practitioner
 ---
 
 # imageset{#imageset}

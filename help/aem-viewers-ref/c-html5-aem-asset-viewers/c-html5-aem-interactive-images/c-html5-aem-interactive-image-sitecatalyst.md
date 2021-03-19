@@ -3,8 +3,8 @@ description: Support for analytics tracking
 solution: Experience Manager
 title: Support for analytics tracking
 uuid: ae870d2e-2a09-4551-935a-916d0e657653
-feature: "Dynamic Media Classic,Viewers,SDK/API,Interactive Images"
-role: "Developer,Business Practitioner,Data Engineer,Data Architect"
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
+role: Developer,Business Practitioner,Data Engineer,Data Architect
 ---
 
 # Support for analytics tracking{#support-for-analytics-tracking}

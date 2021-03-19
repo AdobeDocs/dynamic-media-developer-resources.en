@@ -5,8 +5,8 @@ seo-title: Updating image catalogs
 solution: Experience Manager
 title: Updating image catalogs
 uuid: 7e2557c4-1155-429b-a630-a2aff6725a3b
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Updating image catalogs{#updating-image-catalogs}

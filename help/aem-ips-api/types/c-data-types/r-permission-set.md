@@ -3,8 +3,8 @@ description: PermissonSet
 solution: Experience Manager
 title: PermissonSet
 uuid: d77d8fbd-ff41-4312-8c0d-f2d846149e3f
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # PermissonSet{#permissonset}

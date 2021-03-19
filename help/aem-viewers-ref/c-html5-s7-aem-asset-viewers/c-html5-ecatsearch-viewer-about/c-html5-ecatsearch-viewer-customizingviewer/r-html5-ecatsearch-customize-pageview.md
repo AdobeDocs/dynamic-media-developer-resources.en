@@ -5,8 +5,8 @@ seo-title: Page view
 solution: Experience Manager
 title: Page view
 uuid: f585bf57-c66a-4213-a2af-d9625beb5bed
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # Page view{#page-view}

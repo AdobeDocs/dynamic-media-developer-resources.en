@@ -5,8 +5,8 @@ seo-title: hide
 solution: Experience Manager
 title: hide
 uuid: fb50f2c4-fbac-4f0e-aa78-9cb1e47cc591
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # hide{#hide}

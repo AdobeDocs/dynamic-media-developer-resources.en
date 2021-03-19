@@ -5,8 +5,8 @@ seo-title: catalog-server.conf
 solution: Experience Manager
 title: catalog-server.conf
 uuid: 797a43d2-18f5-4735-8b19-da231952b1a2
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # catalog-server.conf{#catalog-server-conf}

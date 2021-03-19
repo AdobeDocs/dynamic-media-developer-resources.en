@@ -5,8 +5,8 @@ seo-title: rule
 solution: Experience Manager
 title: rule
 uuid: f7071681-e97e-4081-aeb1-093d2b23041c
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # rule{#rule}

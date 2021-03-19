@@ -5,8 +5,8 @@ seo-title: header
 solution: Experience Manager
 title: header
 uuid: 89ec0f27-fc12-47c2-b9dd-e0ee768587b5
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # header{#header}

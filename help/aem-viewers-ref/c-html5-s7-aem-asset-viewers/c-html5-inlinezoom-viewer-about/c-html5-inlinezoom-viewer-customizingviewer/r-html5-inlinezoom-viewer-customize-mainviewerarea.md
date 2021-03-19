@@ -5,8 +5,8 @@ seo-title: Main viewer area
 solution: Experience Manager
 title: Main viewer area
 uuid: 828ee8e5-8e5f-47cf-a566-2e997a5e3926
-feature: "Dynamic Media Classic,Viewers,SDK/API,Inline Zoom"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
+role: Developer,Business Practitioner
 ---
 
 # Main viewer area{#main-viewer-area}

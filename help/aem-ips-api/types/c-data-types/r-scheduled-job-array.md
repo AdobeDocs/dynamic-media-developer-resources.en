@@ -5,8 +5,8 @@ seo-title: ScheduledJobArray
 solution: Experience Manager
 title: ScheduledJobArray
 uuid: ef186476-d356-4516-b0c5-91e568e122cb
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # ScheduledJobArray{#scheduledjobarray}

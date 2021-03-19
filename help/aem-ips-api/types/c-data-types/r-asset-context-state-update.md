@@ -5,8 +5,8 @@ seo-title: AssetContextStateUpdate
 solution: Experience Manager
 title: AssetContextStateUpdate
 uuid: 74bc693f-1ce9-4dcf-92f5-1177668ea3ef
-feature: "Dynamic Media Classic,SDK/API,Asset Management"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # AssetContextStateUpdate{#assetcontextstateupdate}

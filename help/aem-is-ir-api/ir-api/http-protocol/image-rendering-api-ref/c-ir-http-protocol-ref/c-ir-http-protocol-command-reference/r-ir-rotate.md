@@ -5,8 +5,8 @@ seo-title: rotate
 solution: Experience Manager
 title: rotate
 uuid: 497cd8ea-c6a4-45d2-b5e0-0898ac00913d
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # rotate{#rotate}

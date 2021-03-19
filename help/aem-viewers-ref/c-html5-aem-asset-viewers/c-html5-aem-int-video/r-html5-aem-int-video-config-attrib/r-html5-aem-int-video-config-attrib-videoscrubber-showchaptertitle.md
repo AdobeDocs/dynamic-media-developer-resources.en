@@ -5,8 +5,8 @@ seo-title: VideoScrubber.showchaptertitle
 solution: Experience Manager
 title: VideoScrubber.showchaptertitle
 uuid: abd9624d-b24d-491c-afe2-1aafbdf90ae1
-feature: "Dynamic Media Classic,Viewers,SDK/API,Interactive Videos"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
+role: Developer,Business Practitioner
 ---
 
 # VideoScrubber.showchaptertitle{#videoscrubber-showchaptertitle}

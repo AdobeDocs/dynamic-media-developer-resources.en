@@ -5,8 +5,8 @@ seo-title: Substitution Variables
 solution: Experience Manager
 title: Substitution Variables
 uuid: 87cd9594-ba3b-429d-aa57-399902ef3abe
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Substitution Variables{#substitution-variables}

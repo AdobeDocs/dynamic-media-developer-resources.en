@@ -5,8 +5,8 @@ seo-title: AssetJobLogArray
 solution: Experience Manager
 title: AssetJobLogArray
 uuid: f6d98335-778f-4289-b311-27457b9e039d
-feature: "Dynamic Media Classic,SDK/API,Asset Management"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # AssetJobLogArray{#assetjoblogarray}

@@ -5,8 +5,8 @@ seo-title: removeGroupMembers
 solution: Experience Manager
 title: removeGroupMembers
 uuid: dd0ea335-bbd0-43b1-830b-77f32dc39b12
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # removeGroupMembers{#removegroupmembers}

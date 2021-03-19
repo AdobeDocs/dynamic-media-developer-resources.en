@@ -5,8 +5,8 @@ seo-title: JpegQuality
 solution: Experience Manager
 title: JpegQuality
 uuid: c256c44c-2807-4a0c-b6e4-3de0a828feda
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # JpegQuality{#jpegquality}

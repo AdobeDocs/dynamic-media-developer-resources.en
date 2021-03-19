@@ -5,8 +5,8 @@ seo-title: ZipEntry
 solution: Experience Manager
 title: ZipEntry
 uuid: 05aac11b-249c-4c44-943d-fa6bf35d3637
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # ZipEntry{#zipentry}

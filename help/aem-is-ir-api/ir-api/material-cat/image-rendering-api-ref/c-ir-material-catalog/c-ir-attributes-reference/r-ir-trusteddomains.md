@@ -5,8 +5,8 @@ seo-title: TrustedDomains *
 solution: Experience Manager
 title: TrustedDomains *
 uuid: c50180b1-9af7-45f1-878f-59f41f9958ae
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # TrustedDomains *{#trusteddomains}

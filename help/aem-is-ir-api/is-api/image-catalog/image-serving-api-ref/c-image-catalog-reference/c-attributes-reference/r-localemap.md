@@ -5,8 +5,8 @@ seo-title: LocaleMap
 solution: Experience Manager
 title: LocaleMap
 uuid: 3609a595-2948-43a4-ba8c-fd1a9ea4e26e
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # LocaleMap{#localemap}

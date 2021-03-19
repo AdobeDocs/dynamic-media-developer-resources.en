@@ -3,8 +3,8 @@ description: Closebutton
 solution: Experience Manager
 title: Closebutton
 uuid: a0bb6c9a-f8f2-4560-a19e-6ab32868c5ff
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # Closebutton{#closebutton}

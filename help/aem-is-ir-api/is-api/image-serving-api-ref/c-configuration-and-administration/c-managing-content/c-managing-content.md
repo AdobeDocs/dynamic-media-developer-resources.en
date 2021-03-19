@@ -5,8 +5,8 @@ seo-title: Managing content
 solution: Experience Manager
 title: Managing content
 uuid: 759697c9-0391-4b93-baac-6d153aed04f8
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Managing content{#managing-content}

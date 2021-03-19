@@ -5,8 +5,8 @@ seo-title: RenderSceneInfo
 solution: Experience Manager
 title: RenderSceneInfo
 uuid: 1b93713e-9da0-441b-9ee0-434a405284c2
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # RenderSceneInfo{#rendersceneinfo}

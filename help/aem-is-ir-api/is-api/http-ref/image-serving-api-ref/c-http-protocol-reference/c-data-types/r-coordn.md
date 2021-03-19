@@ -5,8 +5,8 @@ seo-title: coordN
 solution: Experience Manager
 title: coordN
 uuid: e182650b-aff6-4dd2-8edb-cd0d361865fd
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # coordN{#coordn}

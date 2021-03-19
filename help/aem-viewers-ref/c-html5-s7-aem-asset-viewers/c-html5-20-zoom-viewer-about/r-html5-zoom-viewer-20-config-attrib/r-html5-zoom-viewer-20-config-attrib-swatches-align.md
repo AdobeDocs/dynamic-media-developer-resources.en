@@ -3,8 +3,8 @@ description: Swatches.align
 solution: Experience Manager
 title: Swatches.align
 uuid: 5cff285b-69f0-4ffe-b165-c2d1fdc8aa75
-feature: "Dynamic Media Classic,Viewers,SDK/API,Zoom"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
+role: Developer,Business Practitioner
 ---
 
 # Swatches.align{#swatches-align}

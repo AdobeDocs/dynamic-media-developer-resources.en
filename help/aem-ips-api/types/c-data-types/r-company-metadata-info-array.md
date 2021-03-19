@@ -5,8 +5,8 @@ seo-title: CompanyMetadataInfoArray
 solution: Experience Manager
 title: CompanyMetadataInfoArray
 uuid: 41b816ce-c19a-49fa-9c12-5773bd3ea634
-feature: "Dynamic Media Classic,SDK/API,Metadata"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Metadata
+role: Developer,Administrator
 ---
 
 # CompanyMetadataInfoArray{#companymetadatainfoarray}

@@ -5,8 +5,8 @@ seo-title: SearchStringsArray
 solution: Experience Manager
 title: SearchStringsArray
 uuid: 69103ece-83ad-491f-9910-2929a3c36008
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # SearchStringsArray{#searchstringsarray}

@@ -3,8 +3,8 @@ description: Hotspot support
 solution: Experience Manager
 title: Hotspot support
 uuid: 62e0e55a-55a3-417d-ad51-ec77a7c16ac3
-feature: "Dynamic Media Classic,Viewers,SDK/API,Interactive Images"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
+role: Developer,Business Practitioner
 ---
 
 # Hotspot support{#hotspot-support}

@@ -5,8 +5,8 @@ seo-title: getGenerationInfo
 solution: Experience Manager
 title: getGenerationInfo
 uuid: 4310a702-c08b-4479-9f57-9f2bc1d6b032
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # getGenerationInfo{#getgenerationinfo}

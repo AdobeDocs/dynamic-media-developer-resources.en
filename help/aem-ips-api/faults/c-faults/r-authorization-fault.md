@@ -2,8 +2,8 @@
 description: Thrown when an authenticated user has insufficient permissions to accomplish a task.
 solution: Experience Manager
 title: authorizationFault
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # authorizationFault{#authorizationfault}

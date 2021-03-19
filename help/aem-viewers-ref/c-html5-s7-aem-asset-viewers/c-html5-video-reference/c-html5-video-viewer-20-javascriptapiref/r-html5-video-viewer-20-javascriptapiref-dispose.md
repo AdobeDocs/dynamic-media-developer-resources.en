@@ -5,8 +5,8 @@ seo-title: dispose
 solution: Experience Manager
 title: dispose
 uuid: fbd85880-041a-4482-8897-1941bffa7955
-feature: "Dynamic Media Classic,Viewers,SDK/API,Video"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Video
+role: Developer,Business Practitioner
 ---
 
 # dispose{#dispose}

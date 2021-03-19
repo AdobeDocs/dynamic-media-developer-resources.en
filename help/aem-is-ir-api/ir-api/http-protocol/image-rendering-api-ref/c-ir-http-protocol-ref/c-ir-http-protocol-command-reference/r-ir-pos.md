@@ -5,8 +5,8 @@ seo-title: pos
 solution: Experience Manager
 title: pos
 uuid: f44c258d-84e9-465b-8495-ae9b96a106c3
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # pos{#pos}

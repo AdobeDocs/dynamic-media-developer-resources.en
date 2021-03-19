@@ -5,8 +5,8 @@ seo-title: ZoomView.iscommand
 solution: Experience Manager
 title: ZoomView.iscommand
 uuid: 13dc11ed-52a4-45ae-bfae-ca034c8a3c87
-feature: "Dynamic Media Classic,Viewers,SDK/API,Interactive Images"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
+role: Developer,Business Practitioner
 ---
 
 # ZoomView.iscommand{#zoomview-iscommand}

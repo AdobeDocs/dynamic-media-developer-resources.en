@@ -5,8 +5,8 @@ seo-title: JavaScript API reference for Video360 Viewer
 solution: Experience Manager
 title: JavaScript API reference for Video360 Viewer
 uuid: 3c700c45-c3a1-4ff2-899d-702bf2e4d230
-feature: "Dynamic Media Classic,Viewers,SDK/API,360 VR Video"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
+role: Developer,Business Practitioner
 ---
 
 # JavaScript API reference for Video360 Viewer{#javascript-api-reference-for-video-viewer}

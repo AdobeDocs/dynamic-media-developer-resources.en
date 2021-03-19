@@ -5,8 +5,8 @@ seo-title: Image Rendering HTTP protocol command overview
 solution: Experience Manager
 title: Image Rendering HTTP protocol command overview
 uuid: 3278c781-968a-4bde-b469-84e8dcfb0e9a
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Image Rendering HTTP protocol command overview{#image-rendering-http-protocol-command-overview}

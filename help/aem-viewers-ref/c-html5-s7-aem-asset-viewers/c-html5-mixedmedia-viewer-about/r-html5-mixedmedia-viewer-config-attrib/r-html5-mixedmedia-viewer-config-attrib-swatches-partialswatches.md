@@ -3,8 +3,8 @@ description: Swatches.partialswatches
 solution: Experience Manager
 title: Swatches.partialswatches
 uuid: 77cf60b6-5bac-4036-87ca-418e9dafe204
-feature: "Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # Swatches.partialswatches{#swatches-partialswatches}

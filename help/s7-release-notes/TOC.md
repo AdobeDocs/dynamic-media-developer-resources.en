@@ -5,9 +5,9 @@ author: Rick Brough
 cloud: experience-cloud
 product: Dynamic Media Classic
 archtype: end-user
-user-guide: null
+feature-set: Experience Manager Assets
 feature: Dynamic Media Classic
-role: "Developer,Business Practitioner"
+role: Developer,Business Practitioner
 ---
 
 # Dynamic Media Release Notes {#release-notes}

@@ -5,8 +5,8 @@ seo-title: Macro definition reference
 solution: Experience Manager
 title: Macro definition reference
 uuid: 66e9d7e7-bb1e-4f76-abdd-43679abd443b
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Macro definition reference{#macro-definition-reference}

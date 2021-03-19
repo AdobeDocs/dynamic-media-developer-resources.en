@@ -5,8 +5,8 @@ seo-title: enableVisibleAttributeOptimization
 solution: Experience Manager
 title: enableVisibleAttributeOptimization
 uuid: 7f79aa12-6364-4b34-b547-88d4a778c015
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # enableVisibleAttributeOptimization{#enablevisibleattributeoptimization}

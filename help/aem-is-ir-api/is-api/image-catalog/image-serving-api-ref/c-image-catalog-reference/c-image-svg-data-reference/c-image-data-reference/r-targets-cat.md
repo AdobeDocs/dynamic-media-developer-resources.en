@@ -5,8 +5,8 @@ seo-title: Targets
 solution: Experience Manager
 title: Targets
 uuid: ca02483a-9aa0-4b54-b6f0-4fd10d8b2b4c
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Targets{#targets}

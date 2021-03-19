@@ -3,8 +3,8 @@ description: SpinView.doubleclick
 solution: Experience Manager
 title: SpinView.doubleclick
 uuid: 8e78d91e-e4c6-40f1-9421-8da8bc404ee0
-feature: "Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # SpinView.doubleclick{#spinview-doubleclick}

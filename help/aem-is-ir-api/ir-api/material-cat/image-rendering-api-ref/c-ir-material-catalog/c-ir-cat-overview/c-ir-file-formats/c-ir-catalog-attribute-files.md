@@ -5,8 +5,8 @@ seo-title: Catalog attribute files
 solution: Experience Manager
 title: Catalog attribute files
 uuid: ea2bddad-2c4a-43c1-9b62-6e724fcfb8a0
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Catalog attribute files{#catalog-attribute-files}

@@ -5,8 +5,8 @@ seo-title: Variable processing in embedded foreign requests
 solution: Experience Manager
 title: Variable processing in embedded foreign requests
 uuid: b4334a2e-dab1-4458-ab3d-bb79d2c4fdd4
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Variable processing in embedded foreign requests{#variable-processing-in-embedded-foreign-requests}

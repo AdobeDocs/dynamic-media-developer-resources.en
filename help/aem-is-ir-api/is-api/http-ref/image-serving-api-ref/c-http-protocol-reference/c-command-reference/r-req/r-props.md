@@ -5,8 +5,8 @@ seo-title: props
 solution: Experience Manager
 title: props
 uuid: b9325654-81d6-4f00-bf0a-36650bea6b8d
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # props{#props}

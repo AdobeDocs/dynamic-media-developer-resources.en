@@ -5,8 +5,8 @@ seo-title: Media set requests
 solution: Experience Manager
 title: Media set requests
 uuid: af9fabcd-531d-43fb-bd97-269923bea5e8
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Media set requests{#media-set-requests}

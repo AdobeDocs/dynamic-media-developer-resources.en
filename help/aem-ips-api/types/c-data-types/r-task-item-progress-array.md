@@ -5,8 +5,8 @@ seo-title: TaskItemProgressArray
 solution: Experience Manager
 title: TaskItemProgressArray
 uuid: f62f1123-bd7c-4099-b36d-58aff283bdb3
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # TaskItemProgressArray{#taskitemprogressarray}

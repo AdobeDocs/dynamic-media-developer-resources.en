@@ -5,8 +5,8 @@ seo-title: Image catalog service
 solution: Experience Manager
 title: Image catalog service
 uuid: 601b1c30-7d51-448b-97b5-5ad9cb383975
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Image catalog service{#image-catalog-service}

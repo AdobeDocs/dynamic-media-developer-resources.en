@@ -5,8 +5,8 @@ seo-title: IccRenderIntent
 solution: Experience Manager
 title: IccRenderIntent
 uuid: a9648405-32c3-4762-bbb2-11e97d4f8374
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # IccRenderIntent{#iccrenderintent}

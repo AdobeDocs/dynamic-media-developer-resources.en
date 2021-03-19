@@ -3,8 +3,8 @@ description: Path
 solution: Experience Manager
 title: Path
 uuid: d1ed8a98-60eb-4bdb-884e-ea08c018d834
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Path{#path}

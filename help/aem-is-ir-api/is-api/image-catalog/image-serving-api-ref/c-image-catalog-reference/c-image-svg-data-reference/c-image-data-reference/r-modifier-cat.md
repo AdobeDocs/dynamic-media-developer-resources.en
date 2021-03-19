@@ -5,8 +5,8 @@ seo-title: Modifier
 solution: Experience Manager
 title: Modifier
 uuid: eb17d115-22ec-4b1b-9039-9bd2bc256f48
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Modifier{#modifier}

@@ -5,8 +5,8 @@ seo-title: Flyout Zoom View
 solution: Experience Manager
 title: Flyout Zoom View
 uuid: c4c94432-7b6f-40a8-ae5f-9423234f3656
-feature: "Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # Flyout Zoom View{#flyout-zoom-view}

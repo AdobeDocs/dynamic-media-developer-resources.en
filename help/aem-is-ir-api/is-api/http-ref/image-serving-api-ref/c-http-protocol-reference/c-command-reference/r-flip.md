@@ -5,8 +5,8 @@ seo-title: flip
 solution: Experience Manager
 title: flip
 uuid: d28631f3-2198-4ba3-ab4b-578832db926e
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # flip{#flip}

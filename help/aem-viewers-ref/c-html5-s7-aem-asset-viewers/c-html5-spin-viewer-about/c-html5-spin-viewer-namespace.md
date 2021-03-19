@@ -3,8 +3,8 @@ description: Viewer SDK namespace
 solution: Experience Manager
 title: Viewer SDK namespace
 uuid: 476860e0-2685-4d6c-9555-acbc1d21138a
-feature: "Dynamic Media Classic,Viewers,SDK/API,Spin Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
+role: Developer,Business Practitioner
 ---
 
 # Viewer SDK namespace{#viewer-sdk-namespace}

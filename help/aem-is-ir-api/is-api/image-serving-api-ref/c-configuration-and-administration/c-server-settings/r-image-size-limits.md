@@ -5,8 +5,8 @@ seo-title: Image size limits
 solution: Experience Manager
 title: Image size limits
 uuid: 6736e652-c495-45a2-bdd2-9975f99af0a2
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Image size limits{#image-size-limits}

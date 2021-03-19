@@ -5,8 +5,8 @@ seo-title: Layer operations
 solution: Experience Manager
 title: Layer operations
 uuid: a9ef4199-cfa2-480e-a4de-8a0b9064a649
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Layer operations{#layer-operations}

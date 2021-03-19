@@ -5,8 +5,8 @@ seo-title: Serving static (non-image) contents
 solution: Experience Manager
 title: Serving static (non-image) contents
 uuid: bdb1383a-e02d-499f-be79-4a6dc501705c
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Serving static (non-image) contents{#serving-static-non-image-contents}

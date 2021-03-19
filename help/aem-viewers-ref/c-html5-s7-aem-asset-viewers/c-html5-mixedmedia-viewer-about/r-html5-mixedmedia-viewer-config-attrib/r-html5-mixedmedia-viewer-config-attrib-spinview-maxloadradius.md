@@ -5,8 +5,8 @@ seo-title: SpinView.maxloadradius
 solution: Experience Manager
 title: SpinView.maxloadradius
 uuid: e1b9fa84-837c-465e-8d37-0b6867404cae
-feature: "Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # SpinView.maxloadradius{#spinview-maxloadradius}

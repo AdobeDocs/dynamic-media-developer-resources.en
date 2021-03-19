@@ -5,8 +5,8 @@ seo-title: InteractiveVideoViewer
 solution: Experience Manager
 title: InteractiveVideoViewer
 uuid: 10514580-408f-4cbf-a2e4-be2040aa8a85
-feature: "Dynamic Media Classic,Viewers,SDK/API,Interactive Videos"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
+role: Developer,Business Practitioner
 ---
 
 # InteractiveVideoViewer{#interactivevideoviewer}

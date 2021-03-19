@@ -5,8 +5,8 @@ seo-title: Cache clustering
 solution: Experience Manager
 title: Cache clustering
 uuid: ed6335d7-26c9-45d8-95f6-6c05e788e449
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Cache clustering{#cache-clustering}

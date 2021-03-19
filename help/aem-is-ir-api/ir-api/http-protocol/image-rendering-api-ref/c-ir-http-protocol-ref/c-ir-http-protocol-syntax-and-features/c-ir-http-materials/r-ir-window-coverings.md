@@ -5,8 +5,8 @@ seo-title: Window coverings
 solution: Experience Manager
 title: Window coverings
 uuid: 3d74466a-b7c3-43b0-9b0b-f8bb809e2773
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Window coverings{#window-coverings}

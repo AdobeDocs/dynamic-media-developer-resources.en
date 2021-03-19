@@ -5,8 +5,8 @@ seo-title: deleteMetadataField
 solution: Experience Manager
 title: deleteMetadataField
 uuid: 06ec434a-2793-4227-ac93-ae3871c38ab9
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # deleteMetadataField{#deletemetadatafield}

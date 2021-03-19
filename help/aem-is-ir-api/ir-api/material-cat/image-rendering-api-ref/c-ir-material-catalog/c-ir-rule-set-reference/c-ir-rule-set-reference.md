@@ -5,8 +5,8 @@ seo-title: Rule set reference
 solution: Experience Manager
 title: Rule set reference
 uuid: aeec7597-4d23-4cf8-8bdc-3a133152eadb
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Rule set reference{#rule-set-reference}

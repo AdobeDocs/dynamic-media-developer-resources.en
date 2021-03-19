@@ -5,8 +5,8 @@ seo-title: Layer placement
 solution: Experience Manager
 title: Layer placement
 uuid: d9d778f2-13dd-4ea1-a703-52eac70bb3d8
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Layer placement{#layer-placement}

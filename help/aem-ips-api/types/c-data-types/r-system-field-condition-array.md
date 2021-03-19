@@ -5,8 +5,8 @@ seo-title: SystemFieldConditionArray
 solution: Experience Manager
 title: SystemFieldConditionArray
 uuid: 06d7f503-23d2-4bd0-a47b-e6077a8a7547
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # SystemFieldConditionArray{#systemfieldconditionarray}

@@ -3,8 +3,8 @@ description: Id
 solution: Experience Manager
 title: Id
 uuid: 45a79636-3fa9-4f2a-98bb-a46c9b627dd4
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Id{#id}

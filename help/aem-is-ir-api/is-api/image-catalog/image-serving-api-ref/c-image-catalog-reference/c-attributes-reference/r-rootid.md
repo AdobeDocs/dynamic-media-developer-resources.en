@@ -5,8 +5,8 @@ seo-title: RootId
 solution: Experience Manager
 title: RootId
 uuid: 98cece72-487f-4a0d-ad6f-018b656f0f03
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # RootId{#rootid}

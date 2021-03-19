@@ -5,8 +5,8 @@ seo-title: createPropertySet
 solution: Experience Manager
 title: createPropertySet
 uuid: f0b5b951-143f-4a31-bb6b-cdeabdebbcbb
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # createPropertySet{#createpropertyset}

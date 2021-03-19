@@ -5,8 +5,8 @@ seo-title: New Additions and Changes
 solution: Experience Manager
 title: New Additions and Changes
 uuid: ca4bbe36-c1b7-471f-90a8-6b695d56ac7a
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # New Additions and Changes{#new-additions-and-changes}

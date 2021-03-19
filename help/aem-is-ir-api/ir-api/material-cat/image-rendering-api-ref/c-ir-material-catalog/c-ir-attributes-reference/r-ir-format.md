@@ -5,8 +5,8 @@ seo-title: Format
 solution: Experience Manager
 title: Format
 uuid: d09b0a45-ea89-4c00-a6ac-065ffad51611
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Format{#format}

@@ -5,8 +5,8 @@ seo-title: UploadUrlsJob
 solution: Experience Manager
 title: UploadUrlsJob
 uuid: 6140e969-bf61-4b62-9a60-29609626b0b4
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # UploadUrlsJob{#uploadurlsjob}

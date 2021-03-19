@@ -5,8 +5,8 @@ seo-title: setGroupMembership
 solution: Experience Manager
 title: setGroupMembership
 uuid: 3285fab0-92e4-4b88-9a3c-88cbb97d48c9
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # setGroupMembership{#setgroupmembership}

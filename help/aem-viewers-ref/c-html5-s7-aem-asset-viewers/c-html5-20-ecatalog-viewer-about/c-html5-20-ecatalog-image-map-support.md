@@ -5,8 +5,8 @@ seo-title: Image map support
 solution: Experience Manager
 title: Image map support
 uuid: 69aeda21-909d-45da-bcf5-73ade8c5adda
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
+role: Developer,Business Practitioner
 ---
 
 # Image map support{#image-map-support}

@@ -5,8 +5,8 @@ seo-title: Redirect on error
 solution: Experience Manager
 title: Redirect on error
 uuid: 894babe9-9c3c-4972-ae8f-387d65b4167d
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Redirect on error{#redirect-on-error}

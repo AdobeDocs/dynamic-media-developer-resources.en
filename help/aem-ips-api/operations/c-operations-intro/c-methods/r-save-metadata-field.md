@@ -5,8 +5,8 @@ seo-title: saveMetadataField
 solution: Experience Manager
 title: saveMetadataField
 uuid: ccd84366-732a-4caf-914d-3bc5fe499e7a
-feature: "Dynamic Media Classic,SDK/API,Metadata"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Metadata
+role: Developer,Administrator
 ---
 
 # saveMetadataField{#savemetadatafield}

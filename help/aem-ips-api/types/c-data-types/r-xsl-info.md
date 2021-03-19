@@ -5,8 +5,8 @@ seo-title: XslInfo
 solution: Experience Manager
 title: XslInfo
 uuid: de0f2449-fdf7-49f7-b199-dcc0bc3decf7
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # XslInfo{#xslinfo}

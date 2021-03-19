@@ -5,8 +5,8 @@ seo-title: XmpKeywords
 solution: Experience Manager
 title: XmpKeywords
 uuid: 220d285c-2275-4ed4-b606-e832e89aa916
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # XmpKeywords{#xmpkeywords}

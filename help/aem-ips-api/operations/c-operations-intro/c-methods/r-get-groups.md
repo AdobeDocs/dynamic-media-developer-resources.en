@@ -5,8 +5,8 @@ seo-title: getGroups
 solution: Experience Manager
 title: getGroups
 uuid: d6e1542d-83a2-4b25-a986-2465e9e5a145
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # getGroups{#getgroups}

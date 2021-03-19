@@ -5,8 +5,8 @@ seo-title: getFolderTree
 solution: Experience Manager
 title: getFolderTree
 uuid: 93fda0d6-c656-4254-b07b-7a448e164f28
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # getFolderTree{#getfoldertree}

@@ -5,8 +5,8 @@ seo-title: setImageMaps
 solution: Experience Manager
 title: setImageMaps
 uuid: 1dd7e032-34b4-464d-8ec6-7ad282d12891
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # setImageMaps{#setimagemaps}

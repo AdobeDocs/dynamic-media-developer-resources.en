@@ -5,8 +5,8 @@ seo-title: getTagFieldValues
 solution: Experience Manager
 title: getTagFieldValues
 uuid: 92d84dfc-6a6c-4876-9670-1152adb6317c
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # getTagFieldValues{#gettagfieldvalues}

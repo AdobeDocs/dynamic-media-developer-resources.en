@@ -5,8 +5,8 @@ seo-title: MetricsPath
 solution: Experience Manager
 title: MetricsPath
 uuid: b59110bf-330f-4ca4-8b0a-219a61d383f7
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # MetricsPath{#metricspath}

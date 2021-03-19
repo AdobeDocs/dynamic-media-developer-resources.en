@@ -5,8 +5,8 @@ seo-title: OperationFault
 solution: Experience Manager
 title: OperationFault
 uuid: 879d025b-3269-4f87-b8bd-b7916509d077
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # OperationFault{#operationfault}

@@ -5,8 +5,8 @@ seo-title: Id
 solution: Experience Manager
 title: Id
 uuid: 0d29e936-f3f3-40cd-a25f-b85532a3b530
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Id{#id}

@@ -6,8 +6,8 @@ seo-title: Basic Zoom
 solution: Experience Manager
 title: Basic Zoom
 uuid: 5466d647-af70-4503-9898-bb712ba6a007
-feature: "Dynamic Media Classic,Viewers,SDK/API,Zoom"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
+role: Developer,Business Practitioner
 ---
 
 # Basic Zoom{#basic-zoom}

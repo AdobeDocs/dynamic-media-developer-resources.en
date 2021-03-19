@@ -5,8 +5,8 @@ seo-title: preloadimage
 solution: Experience Manager
 title: preloadimage
 uuid: 3b45dc86-8963-465f-b23f-519d54c2ce85
-feature: "Dynamic Media Classic,Viewers,SDK/API,Interactive Images"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
+role: Developer,Business Practitioner
 ---
 
 # preloadimage{#preloadimage}

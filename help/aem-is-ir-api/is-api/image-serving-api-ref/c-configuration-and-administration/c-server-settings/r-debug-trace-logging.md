@@ -5,8 +5,8 @@ seo-title: Debug_trace logging
 solution: Experience Manager
 title: Debug_trace logging
 uuid: 33f1d093-007d-453b-965a-9d701a845954
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Debug_trace logging{#debug-trace-logging}

@@ -5,8 +5,8 @@ seo-title: Search results panel
 solution: Experience Manager
 title: Search results panel
 uuid: 43d8e003-79f7-4e41-98d7-b362ab7180ea
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # Search results panel{#search-results-panel}

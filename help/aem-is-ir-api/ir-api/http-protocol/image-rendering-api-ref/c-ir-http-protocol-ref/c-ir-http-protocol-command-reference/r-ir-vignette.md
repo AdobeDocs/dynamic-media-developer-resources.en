@@ -5,8 +5,8 @@ seo-title: vignette
 solution: Experience Manager
 title: vignette
 uuid: 8bba4ad4-bd55-4c55-8ebf-585371cf33f1
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # vignette{#vignette}

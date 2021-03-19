@@ -2,8 +2,8 @@
 description: Adds new tag values to the dictionary of an existing tag field.
 solution: Experience Manager
 title: addTagFieldValues
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # addTagFieldValues{#addtagfieldvalues}

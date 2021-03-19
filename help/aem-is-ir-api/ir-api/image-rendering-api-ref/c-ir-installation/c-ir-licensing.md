@@ -5,8 +5,8 @@ seo-title: Licensing
 solution: Experience Manager
 title: Licensing
 uuid: dbc4eddc-a518-4337-9e09-ba40c02de797
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Licensing{#licensing}

@@ -5,8 +5,8 @@ seo-title: deleteVignettePublishFormat
 solution: Experience Manager
 title: deleteVignettePublishFormat
 uuid: 3c8148d5-dec6-4ffa-8ab8-2cd70811ada6
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # deleteVignettePublishFormat{#deletevignettepublishformat}

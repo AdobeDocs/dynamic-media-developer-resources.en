@@ -5,8 +5,8 @@ seo-title: VideoPlayer.preload
 solution: Experience Manager
 title: VideoPlayer.preload
 uuid: 2aaae96d-d42d-4984-aec9-86e06b3c711c
-feature: "Dynamic Media Classic,Viewers,SDK/API,Video"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Video
+role: Developer,Business Practitioner
 ---
 
 # VideoPlayer.preload{#videoplayer-preload}

@@ -5,8 +5,8 @@ seo-title: Command reference – URL
 solution: Experience Manager
 title: Command reference – URL
 uuid: 70c212d7-35ee-408f-abe4-19ba1e4d773d
-feature: "Dynamic Media Classic,Viewers,SDK/API,360 VR Video"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
+role: Developer,Business Practitioner
 ---
 
 # Command reference – URL{#command-reference-url}

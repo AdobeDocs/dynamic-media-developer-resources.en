@@ -5,8 +5,8 @@ seo-title: xmpEmbed
 solution: Experience Manager
 title: xmpEmbed
 uuid: c0dfd0e5-16d1-4a6e-957a-ecc276b9361a
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # xmpEmbed{#xmpembed}

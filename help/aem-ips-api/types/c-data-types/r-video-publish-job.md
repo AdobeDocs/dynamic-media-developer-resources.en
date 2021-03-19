@@ -5,8 +5,8 @@ seo-title: VideoPublishJob
 solution: Experience Manager
 title: VideoPublishJob
 uuid: 430cdb75-b909-4023-8627-e9db1991b533
-feature: "Dynamic Media Classic,SDK/API,Video"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Video
+role: Developer,Administrator
 ---
 
 # VideoPublishJob{#videopublishjob}

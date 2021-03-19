@@ -3,8 +3,8 @@ description: FavoritesEffect.expiration
 solution: Experience Manager
 title: FavoritesEffect.expiration
 uuid: 3b852317-af42-423e-a065-92192f0065db
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # FavoritesEffect.expiration{#favoriteseffect-expiration}

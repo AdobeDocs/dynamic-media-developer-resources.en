@@ -5,8 +5,8 @@ seo-title: ZoomTargetArray
 solution: Experience Manager
 title: ZoomTargetArray
 uuid: 6dc21229-33b0-4e10-bcf2-1319016ffded
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # ZoomTargetArray{#zoomtargetarray}

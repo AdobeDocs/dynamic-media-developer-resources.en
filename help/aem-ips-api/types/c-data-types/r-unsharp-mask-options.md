@@ -5,8 +5,8 @@ seo-title: UnsharpMaskOptions
 solution: Experience Manager
 title: UnsharpMaskOptions
 uuid: 73073de0-41b6-471c-8887-f6b94ed2af90
-feature: "Dynamic Media Classic,SDK/API,Asset Management"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # UnsharpMaskOptions{#unsharpmaskoptions}

@@ -3,8 +3,8 @@ description: Swatches.fmt
 solution: Experience Manager
 title: Swatches.fmt
 uuid: 76a2793e-bda0-408c-b09e-767a3ef27986
-feature: "Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # Swatches.fmt{#swatches-fmt}

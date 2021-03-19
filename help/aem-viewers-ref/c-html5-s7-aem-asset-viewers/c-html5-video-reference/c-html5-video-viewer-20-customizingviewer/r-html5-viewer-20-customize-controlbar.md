@@ -5,8 +5,8 @@ seo-title: Control bar
 solution: Experience Manager
 title: Control bar
 uuid: 5686b670-3c8c-4bef-b428-dc468f6ca05d
-feature: "Dynamic Media Classic,Viewers,SDK/API,Video"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Video
+role: Developer,Business Practitioner
 ---
 
 # Control bar{#control-bar}

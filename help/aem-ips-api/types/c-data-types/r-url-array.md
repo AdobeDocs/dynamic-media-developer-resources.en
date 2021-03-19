@@ -5,8 +5,8 @@ seo-title: UrlArray
 solution: Experience Manager
 title: UrlArray
 uuid: 59568d38-6e05-45ca-8054-cec2c5ea8c02
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # UrlArray{#urlarray}

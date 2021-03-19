@@ -5,8 +5,8 @@ seo-title: req
 solution: Experience Manager
 title: req
 uuid: b888be10-89e5-4b41-a2bd-f83533ea2481
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # req{#req}

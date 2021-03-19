@@ -5,8 +5,8 @@ seo-title: AllowDirectUrls
 solution: Experience Manager
 title: AllowDirectUrls
 uuid: 91d46cc5-8ada-4bd4-b7ff-3d021f4f32ea
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # AllowDirectUrls{#allowdirecturls}

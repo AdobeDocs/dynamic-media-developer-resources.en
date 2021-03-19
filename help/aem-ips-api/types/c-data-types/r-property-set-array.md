@@ -5,8 +5,8 @@ seo-title: PropertySetArray
 solution: Experience Manager
 title: PropertySetArray
 uuid: 8180128a-6c63-4643-a152-42856460e1af
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # PropertySetArray{#propertysetarray}

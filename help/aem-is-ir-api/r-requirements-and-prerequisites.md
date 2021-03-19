@@ -5,8 +5,8 @@ seo-title: System requirements and prerequisites
 solution: Experience Manager
 title: System requirements and prerequisites
 uuid: 80196574-f5a2-4298-880a-cc36f90b6e21
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # System requirements and prerequisites{#system-requirements-and-prerequisites}

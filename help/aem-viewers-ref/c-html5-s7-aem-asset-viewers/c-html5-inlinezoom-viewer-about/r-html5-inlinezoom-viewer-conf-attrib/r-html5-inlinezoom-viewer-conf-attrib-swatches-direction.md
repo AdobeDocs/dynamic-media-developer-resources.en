@@ -3,8 +3,8 @@ description: Swatches.direction
 solution: Experience Manager
 title: Swatches.direction
 uuid: 1ec6fc6a-ef53-46bf-9a14-7f7cf960a592
-feature: "Dynamic Media Classic,Viewers,SDK/API,Inline Zoom"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
+role: Developer,Business Practitioner
 ---
 
 # Swatches.direction{#swatches-direction}

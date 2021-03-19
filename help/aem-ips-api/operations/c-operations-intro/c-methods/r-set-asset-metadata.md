@@ -5,8 +5,8 @@ seo-title: setAssetMetadata
 solution: Experience Manager
 title: setAssetMetadata
 uuid: 17fe8277-a164-4f91-af96-ea43d41bd4f2
-feature: "Dynamic Media Classic,SDK/API,Metadata,Asset Management"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Metadata,Asset Management
+role: Developer,Administrator
 ---
 
 # setAssetMetadata{#setassetmetadata}

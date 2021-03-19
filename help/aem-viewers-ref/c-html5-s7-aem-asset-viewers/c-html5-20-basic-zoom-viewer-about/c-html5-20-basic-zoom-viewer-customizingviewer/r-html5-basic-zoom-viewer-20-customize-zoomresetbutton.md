@@ -5,8 +5,8 @@ seo-title: Zoom reset button
 solution: Experience Manager
 title: Zoom reset button
 uuid: 438e50e8-8e0f-485a-89d8-6fabd8051b2f
-feature: "Dynamic Media Classic,Viewers,SDK/API,Zoom"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
+role: Developer,Business Practitioner
 ---
 
 # Zoom reset button{#zoom-reset-button}

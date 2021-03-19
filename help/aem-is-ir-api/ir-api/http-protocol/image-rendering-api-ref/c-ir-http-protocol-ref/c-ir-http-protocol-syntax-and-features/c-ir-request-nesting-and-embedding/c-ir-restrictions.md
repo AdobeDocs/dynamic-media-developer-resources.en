@@ -5,8 +5,8 @@ seo-title: Restrictions
 solution: Experience Manager
 title: Restrictions
 uuid: 05e97255-db4d-4587-94d2-a7ea608ff7d4
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Restrictions{#restrictions}

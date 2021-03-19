@@ -5,8 +5,8 @@ seo-title: RTF encoding examples
 solution: Experience Manager
 title: RTF encoding examples
 uuid: 29fb4f59-b4bf-4768-a6e1-cc50926da936
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # RTF encoding examples{#rtf-encoding-examples}

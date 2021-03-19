@@ -5,8 +5,8 @@ seo-title: RootPath
 solution: Experience Manager
 title: RootPath
 uuid: 859bebf2-5ee7-4daa-8970-a18bddcee684
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # RootPath{#rootpath}

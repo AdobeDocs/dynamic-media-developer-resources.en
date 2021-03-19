@@ -5,8 +5,8 @@ seo-title: FavoritesMenu.bearing
 solution: Experience Manager
 title: FavoritesMenu.bearing
 uuid: c3f415ad-f976-464a-9067-a5d526908352
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # FavoritesMenu.bearing{#favoritesmenu-bearing}

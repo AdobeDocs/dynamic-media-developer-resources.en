@@ -5,8 +5,8 @@ seo-title: Syntax and features
 solution: Experience Manager
 title: Syntax and features
 uuid: 5f8df6a2-a8f9-4582-9e1e-8f26acf61df4
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Syntax and features{#syntax-and-features}

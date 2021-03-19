@@ -5,8 +5,8 @@ seo-title: Expiration
 solution: Experience Manager
 title: Expiration
 uuid: 6dbd7d43-727c-42fc-8953-dba112209a45
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Expiration{#expiration}

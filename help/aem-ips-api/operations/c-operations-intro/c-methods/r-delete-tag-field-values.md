@@ -5,8 +5,8 @@ seo-title: deleteTagFieldValues
 solution: Experience Manager
 title: deleteTagFieldValues
 uuid: 71cdec4e-c1d6-4518-87ed-5c47a5112b15
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # deleteTagFieldValues{#deletetagfieldvalues}

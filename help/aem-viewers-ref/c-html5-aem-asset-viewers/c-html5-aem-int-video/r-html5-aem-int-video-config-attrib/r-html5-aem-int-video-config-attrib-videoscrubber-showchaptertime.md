@@ -5,8 +5,8 @@ seo-title: VideoScrubber.showchaptertime
 solution: Experience Manager
 title: VideoScrubber.showchaptertime
 uuid: 2a5e001d-14b6-41cd-938e-441ad0a789d2
-feature: "Dynamic Media Classic,Viewers,SDK/API,Interactive Videos"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
+role: Developer,Business Practitioner
 ---
 
 # VideoScrubber.showchaptertime{#videoscrubber-showchaptertime}

@@ -5,8 +5,8 @@ seo-title: Embed share
 solution: Experience Manager
 title: Embed share
 uuid: 768e8eb5-ec35-4028-be96-268f8220fe07
-feature: "Dynamic Media Classic,Viewers,SDK/API,360 VR Video"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
+role: Developer,Business Practitioner
 ---
 
 # Embed share{#embed-share}

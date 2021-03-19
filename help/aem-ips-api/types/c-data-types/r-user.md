@@ -5,8 +5,8 @@ seo-title: User
 solution: Experience Manager
 title: User
 uuid: 37e939ae-dd1a-4550-aa93-b7b091ebc339
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # User{#user}

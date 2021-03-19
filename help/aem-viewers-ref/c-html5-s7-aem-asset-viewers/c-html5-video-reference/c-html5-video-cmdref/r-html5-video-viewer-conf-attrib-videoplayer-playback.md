@@ -5,8 +5,8 @@ seo-title: VideoPlayer.playback
 solution: Experience Manager
 title: VideoPlayer.playback
 uuid: 5ab7a322-9de0-4a26-95be-b9b2ff8e5a84
-feature: "Dynamic Media Classic,Viewers,SDK/API,Video"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Video
+role: Developer,Business Practitioner
 ---
 
 # VideoPlayer.playback{#videoplayer-playback}

@@ -5,8 +5,8 @@ seo-title: Nested Image Rendering requests
 solution: Experience Manager
 title: Nested Image Rendering requests
 uuid: 12551bd5-ff5f-45d6-81e9-5ba0be47a425
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Nested Image Rendering requests{#nested-image-rendering-requests}

@@ -5,8 +5,8 @@ seo-title: video
 solution: Experience Manager
 title: video
 uuid: c3304518-e1bb-43d6-801b-a4ce7c0d995d
-feature: "Dynamic Media Classic,Viewers,SDK/API,Video"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Video
+role: Developer,Business Practitioner
 ---
 
 # video{#video}

@@ -5,8 +5,8 @@ seo-title: CallToAction.direction
 solution: Experience Manager
 title: CallToAction.direction
 uuid: fe182e8f-696d-4515-afdb-49964a374dae
-feature: "Dynamic Media Classic,Viewers,SDK/API,Interactive Videos"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
+role: Developer,Business Practitioner
 ---
 
 # CallToAction.direction{#calltoaction-direction}

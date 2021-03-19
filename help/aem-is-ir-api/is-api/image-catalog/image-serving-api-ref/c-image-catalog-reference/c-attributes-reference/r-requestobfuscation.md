@@ -5,8 +5,8 @@ seo-title: RequestObfuscation
 solution: Experience Manager
 title: RequestObfuscation
 uuid: 07154e06-c386-45a7-b5ac-60f0aef3c362
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # RequestObfuscation{#requestobfuscation}

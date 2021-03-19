@@ -3,8 +3,8 @@ description: CarouselView.iscommand
 solution: Experience Manager
 title: CarouselView.iscommand
 uuid: 005b130c-9316-4cf9-ae59-9f8ef381dda3
-feature: "Dynamic Media Classic,Viewers,SDK/API,Carousel Banners"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
+role: Developer,Business Practitioner
 ---
 
 # CarouselView.iscommand{#carouselview-iscommand}

@@ -5,8 +5,8 @@ seo-title: batchjobdelete
 solution: Experience Manager
 title: batchjobdelete
 uuid: d19ed1c8-e13b-4da4-90e3-6bb0dcce2a12
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # batchjobdelete{#batchjobdelete}

@@ -3,8 +3,8 @@ description: ZoomView.zoomstep
 solution: Experience Manager
 title: ZoomView.zoomstep
 uuid: bc68fc0a-94bf-42b3-a386-e0a248e8445c
-feature: "Dynamic Media Classic,Viewers,SDK/API,Zoom"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
+role: Developer,Business Practitioner
 ---
 
 # ZoomView.zoomstep{#zoomview-zoomstep}

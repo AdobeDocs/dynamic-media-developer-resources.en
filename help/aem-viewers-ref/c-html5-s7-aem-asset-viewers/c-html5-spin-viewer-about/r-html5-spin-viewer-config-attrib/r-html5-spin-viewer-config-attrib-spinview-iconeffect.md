@@ -3,8 +3,8 @@ description: SpinView.iconeffect
 solution: Experience Manager
 title: SpinView.iconeffect
 uuid: 864fb8dc-34f8-4216-b38c-cc00f7d8d95f
-feature: "Dynamic Media Classic,Viewers,SDK/API,Spin Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
+role: Developer,Business Practitioner
 ---
 
 # SpinView.iconeffect{#spinview-iconeffect}

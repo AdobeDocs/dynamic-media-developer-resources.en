@@ -5,8 +5,8 @@ seo-title: op_grow
 solution: Experience Manager
 title: op_grow
 uuid: bc9bf889-f7e1-4a65-b6d6-7e1257ef8c11
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # op_grow{#op-grow}

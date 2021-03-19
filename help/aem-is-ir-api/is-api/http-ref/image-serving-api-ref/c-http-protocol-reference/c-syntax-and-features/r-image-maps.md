@@ -5,8 +5,8 @@ seo-title: Image maps
 solution: Experience Manager
 title: Image maps
 uuid: 2b7b620b-712b-4110-ba38-993a354c09d3
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Image maps{#image-maps}

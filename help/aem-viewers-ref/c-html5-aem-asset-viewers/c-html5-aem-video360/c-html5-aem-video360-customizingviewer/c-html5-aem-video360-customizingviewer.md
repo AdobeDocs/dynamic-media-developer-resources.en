@@ -6,8 +6,8 @@ seo-title: Customizing Video360 Viewer
 solution: Experience Manager
 title: Customizing Video360 Viewer
 uuid: 1f021a11-856e-4bbc-a2ee-454ab0a60adb
-feature: "Dynamic Media Classic,Viewers,SDK/API,360 VR Video"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
+role: Developer,Business Practitioner
 ---
 
 # Customizing Video360 Viewer{#customizing-video-viewer}

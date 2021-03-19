@@ -5,8 +5,8 @@ seo-title: Catalog folder (ir.catalogRootPath)
 solution: Experience Manager
 title: Catalog folder (ir.catalogRootPath)
 uuid: d9c9f801-6622-4879-ba08-b381a45632a3
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Catalog folder (ir.catalogRootPath){#catalog-folder-ir-catalogrootpath}

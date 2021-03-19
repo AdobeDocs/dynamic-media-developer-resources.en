@@ -5,8 +5,8 @@ seo-title: ThumbRes
 solution: Experience Manager
 title: ThumbRes
 uuid: 4a77d673-9d2e-4e62-a014-c99fa3df294a
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # ThumbRes{#thumbres}

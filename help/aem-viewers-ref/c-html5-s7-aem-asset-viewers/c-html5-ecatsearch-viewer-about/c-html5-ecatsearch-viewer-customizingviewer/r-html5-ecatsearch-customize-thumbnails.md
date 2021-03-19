@@ -5,8 +5,8 @@ seo-title: Thumbnails
 solution: Experience Manager
 title: Thumbnails
 uuid: 623f6c7a-4ec7-4708-a7ed-1aa42a21e430
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # Thumbnails{#thumbnails}

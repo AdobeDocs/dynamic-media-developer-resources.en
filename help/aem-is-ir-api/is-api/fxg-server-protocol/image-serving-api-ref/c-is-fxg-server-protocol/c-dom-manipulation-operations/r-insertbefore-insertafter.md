@@ -5,8 +5,8 @@ seo-title: insertBefore,insertAfter
 solution: Experience Manager
 title: insertBefore,insertAfter
 uuid: 5ac0f675-333b-4f85-abe0-642cf96de425
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # insertBefore,insertAfter{#insertbefore-insertafter}

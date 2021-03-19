@@ -2,8 +2,8 @@
 description: All features exposed in the Basic Zoom, eCatalog, eCatalog Search, Flyout, Inline Zoom, Mixed Media, Spin, Video, Zoom, Dimensional (3D), Carousel, Interactive Image, Interactive Video, and Video360 viewer interface are keyboard accessible.
 solution: Experience Manager
 title: Keyboard accessibility and navigation
-feature: "Dynamic Media Classic,Viewers,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Keyboard accessibility and navigation{#keyboard-accessibility-and-navigation}

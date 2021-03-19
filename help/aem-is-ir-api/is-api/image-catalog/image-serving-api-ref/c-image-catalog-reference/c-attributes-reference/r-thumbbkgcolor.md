@@ -5,8 +5,8 @@ seo-title: ThumbBkgColor
 solution: Experience Manager
 title: ThumbBkgColor
 uuid: c75c01f4-036e-46fd-9bc1-480920c0c05a
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # ThumbBkgColor{#thumbbkgcolor}

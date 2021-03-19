@@ -5,8 +5,8 @@ seo-title: Auxiliary data caches
 solution: Experience Manager
 title: Auxiliary data caches
 uuid: 10ce998e-e300-4d24-9d92-a8693dade327
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Auxiliary data caches{#auxiliary-data-caches}

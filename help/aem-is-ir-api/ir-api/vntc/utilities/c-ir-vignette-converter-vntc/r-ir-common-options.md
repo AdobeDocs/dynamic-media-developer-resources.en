@@ -5,8 +5,8 @@ seo-title: Common options
 solution: Experience Manager
 title: Common options
 uuid: fdf09873-4102-4ed6-a315-a87cba5c44c7
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Common options{#common-options}

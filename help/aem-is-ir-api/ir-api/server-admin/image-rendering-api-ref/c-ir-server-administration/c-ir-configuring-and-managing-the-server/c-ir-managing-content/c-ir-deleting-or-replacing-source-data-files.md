@@ -5,8 +5,8 @@ seo-title: Deleting or replacing source data files
 solution: Experience Manager
 title: Deleting or replacing source data files
 uuid: 13dc0489-7ab0-481e-b213-214affe9819e
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Deleting or replacing source data files{#deleting-or-replacing-source-data-files}

@@ -3,8 +3,8 @@ description: FlyoutZoomView.fmt
 solution: Experience Manager
 title: FlyoutZoomView.fmt
 uuid: 570a9cca-17fa-44d5-b3bb-66ec19453cbc
-feature: "Dynamic Media Classic,Viewers,SDK/API,Inline Zoom"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
+role: Developer,Business Practitioner
 ---
 
 # FlyoutZoomView.fmt{#flyoutzoomview-fmt}

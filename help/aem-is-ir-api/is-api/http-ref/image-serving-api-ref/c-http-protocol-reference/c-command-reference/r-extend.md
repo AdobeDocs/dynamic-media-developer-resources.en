@@ -5,8 +5,8 @@ seo-title: extend
 solution: Experience Manager
 title: extend
 uuid: 7ca69994-e788-41a9-93ac-f22b6b9920d0
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # extend{#extend}

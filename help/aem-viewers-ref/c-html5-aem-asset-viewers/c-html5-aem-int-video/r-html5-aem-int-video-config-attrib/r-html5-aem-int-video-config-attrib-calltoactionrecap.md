@@ -5,8 +5,8 @@ seo-title: callToActionRecap
 solution: Experience Manager
 title: callToActionRecap
 uuid: eda844e5-8ad2-4617-b38a-da0f7e981f68
-feature: "Dynamic Media Classic,Viewers,SDK/API,Interactive Videos"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
+role: Developer,Business Practitioner
 ---
 
 # callToActionRecap{#calltoactionrecap}

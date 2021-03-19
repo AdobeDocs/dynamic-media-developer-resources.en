@@ -5,8 +5,8 @@ seo-title: Interactive swatches
 solution: Experience Manager
 title: Interactive swatches
 uuid: 9f9df764-3dd0-414e-a0db-4287f0019313
-feature: "Dynamic Media Classic,Viewers,SDK/API,Interactive Videos"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
+role: Developer,Business Practitioner
 ---
 
 # Interactive swatches{#interactive-swatches}

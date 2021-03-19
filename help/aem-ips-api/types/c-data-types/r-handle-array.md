@@ -5,8 +5,8 @@ seo-title: HandleArray
 solution: Experience Manager
 title: HandleArray
 uuid: e6d24c00-80c4-441d-ae2b-bbd2725dd073
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # HandleArray{#handlearray}

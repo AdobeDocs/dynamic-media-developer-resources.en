@@ -5,8 +5,8 @@ seo-title: Embed share
 solution: Experience Manager
 title: Embed share
 uuid: 73d259fe-0978-4f47-95f6-bbfcd3b7bad1
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # Embed share{#embed-share}

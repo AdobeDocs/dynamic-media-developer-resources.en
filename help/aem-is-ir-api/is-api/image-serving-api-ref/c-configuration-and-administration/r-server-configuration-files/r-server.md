@@ -5,8 +5,8 @@ seo-title: server.xml
 solution: Experience Manager
 title: server.xml
 uuid: 6f8b7047-6de6-4a56-96b7-58c481150e32
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # server.xml{#server-xml}

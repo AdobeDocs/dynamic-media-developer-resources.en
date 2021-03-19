@@ -6,8 +6,8 @@ seo-title: Customizing Spin Viewer
 solution: Experience Manager
 title: Customizing Spin Viewer
 uuid: d951501c-d6da-454c-be2f-0887ffcac77c
-feature: "Dynamic Media Classic,Viewers,SDK/API,Spin Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
+role: Developer,Business Practitioner
 ---
 
 # Customizing Spin Viewer{#customizing-spin-viewer}

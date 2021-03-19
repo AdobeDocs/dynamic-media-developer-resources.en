@@ -5,8 +5,8 @@ seo-title: CacheValidationPolicy
 solution: Experience Manager
 title: CacheValidationPolicy
 uuid: 371dadbf-d58e-4214-8050-7e8907b436e3
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # CacheValidationPolicy{#cachevalidationpolicy}

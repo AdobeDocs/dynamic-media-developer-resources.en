@@ -5,8 +5,8 @@ seo-title: AssetMetadataFieldsArray
 solution: Experience Manager
 title: AssetMetadataFieldsArray
 uuid: a131b234-83f3-4e3c-afa9-14314e78367f
-feature: "Dynamic Media Classic,SDK/API,Metadata,Asset Management"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Metadata,Asset Management
+role: Developer,Administrator
 ---
 
 # AssetMetadataFieldsArray{#assetmetadatafieldsarray}

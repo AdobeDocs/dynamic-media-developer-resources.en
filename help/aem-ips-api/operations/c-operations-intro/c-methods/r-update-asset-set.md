@@ -5,8 +5,8 @@ seo-title: updateAssetSet
 solution: Experience Manager
 title: updateAssetSet
 uuid: e844a395-0ab3-45a7-bcec-8e9e15efc70e
-feature: "Dynamic Media Classic,SDK/API,Asset Management"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # updateAssetSet{#updateassetset}

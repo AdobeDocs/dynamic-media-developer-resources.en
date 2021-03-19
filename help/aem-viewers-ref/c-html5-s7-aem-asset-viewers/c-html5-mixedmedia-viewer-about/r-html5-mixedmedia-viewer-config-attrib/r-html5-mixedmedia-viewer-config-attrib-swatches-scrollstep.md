@@ -3,8 +3,8 @@ description: Swatches.scrollstep
 solution: Experience Manager
 title: Swatches.scrollstep
 uuid: c7a9d85b-df3e-457c-9386-b6188a4aa4d4
-feature: "Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # Swatches.scrollstep{#swatches-scrollstep}

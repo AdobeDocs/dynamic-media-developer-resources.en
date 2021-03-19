@@ -5,8 +5,8 @@ seo-title: validate
 solution: Experience Manager
 title: validate
 uuid: 87a129ed-950a-4b1a-9240-bf567cd8e38f
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # validate{#validate}

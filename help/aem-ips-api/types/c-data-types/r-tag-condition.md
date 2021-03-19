@@ -5,8 +5,8 @@ seo-title: TagCondition
 solution: Experience Manager
 title: TagCondition
 uuid: c7727267-05b6-4011-9ddf-7f3134e9609b
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # TagCondition{#tagcondition}

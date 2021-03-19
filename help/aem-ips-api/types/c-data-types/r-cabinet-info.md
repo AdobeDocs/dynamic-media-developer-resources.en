@@ -5,8 +5,8 @@ seo-title: CabinetInfo
 solution: Experience Manager
 title: CabinetInfo
 uuid: 5193f1e1-90d8-4c9a-b50d-a47a8b859992
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # CabinetInfo{#cabinetinfo}

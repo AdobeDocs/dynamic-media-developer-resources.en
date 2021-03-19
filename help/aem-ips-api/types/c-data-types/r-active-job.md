@@ -5,8 +5,8 @@ seo-title: ActiveJob
 solution: Experience Manager
 title: ActiveJob
 uuid: d7120a88-6f3e-4844-aafa-83d419470fad
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # ActiveJob{#activejob}

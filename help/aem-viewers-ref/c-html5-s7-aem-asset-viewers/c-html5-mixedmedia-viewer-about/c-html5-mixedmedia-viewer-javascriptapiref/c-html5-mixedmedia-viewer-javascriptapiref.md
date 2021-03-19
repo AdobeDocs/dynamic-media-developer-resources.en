@@ -5,8 +5,8 @@ seo-title: Javascript API reference for Mixed Media Viewer
 solution: Experience Manager
 title: Javascript API reference for Mixed Media Viewer
 uuid: 8a416e62-3ae1-4539-8757-d68f99ea1d1a
-feature: "Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # Javascript API reference for Mixed Media Viewer{#javascript-api-reference-for-mixed-media-viewer}

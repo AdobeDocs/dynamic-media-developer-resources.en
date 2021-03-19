@@ -5,8 +5,8 @@ seo-title: op_growMaskR
 solution: Experience Manager
 title: op_growMaskR
 uuid: b81968e7-ebaf-426c-9230-1afcf4b5cf24
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # op_growMaskR{#op-growmaskr}

@@ -5,8 +5,8 @@ seo-title: PublishHistory
 solution: Experience Manager
 title: PublishHistory
 uuid: 842eafd8-dc41-4df0-96b0-de14357ac495
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # PublishHistory{#publishhistory}

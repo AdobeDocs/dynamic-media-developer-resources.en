@@ -5,8 +5,8 @@ seo-title: First page button
 solution: Experience Manager
 title: First page button
 uuid: fd164899-505c-448b-8dba-7581d97d87b6
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
+role: Developer,Business Practitioner
 ---
 
 # First page button{#first-page-button}

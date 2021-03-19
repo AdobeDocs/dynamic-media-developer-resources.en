@@ -5,8 +5,8 @@ seo-title: Memory considerations
 solution: Experience Manager
 title: Memory considerations
 uuid: 21247081-ff27-4237-93da-5fc996417dfd
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Memory considerations{#memory-considerations}

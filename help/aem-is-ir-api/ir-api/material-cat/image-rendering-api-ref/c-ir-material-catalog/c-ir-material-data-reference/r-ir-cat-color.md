@@ -5,8 +5,8 @@ seo-title: Color
 solution: Experience Manager
 title: Color
 uuid: 5bf6c586-8165-4a2b-97a3-ba88bb9f72df
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Color{#color}

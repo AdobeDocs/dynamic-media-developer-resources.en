@@ -5,8 +5,8 @@ seo-title: Configuration settings reference
 solution: Experience Manager
 title: Configuration settings reference
 uuid: fd9629d6-901d-4015-a49e-d3a36e18a7a3
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Configuration settings reference{#configuration-settings-reference}

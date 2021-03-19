@@ -5,8 +5,8 @@ seo-title: updateAssetPermissons
 solution: Experience Manager
 title: updateAssetPermissons
 uuid: feb2faf3-81de-436e-82de-1e41df03508f
-feature: "Dynamic Media Classic,SDK/API,Asset Management"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # updateAssetPermissons{#updateassetpermissons}

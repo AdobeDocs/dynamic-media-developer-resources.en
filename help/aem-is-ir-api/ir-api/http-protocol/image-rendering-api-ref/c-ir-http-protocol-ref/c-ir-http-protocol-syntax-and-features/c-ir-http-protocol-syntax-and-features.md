@@ -5,8 +5,8 @@ seo-title: HTTP protocol syntax and features
 solution: Experience Manager
 title: HTTP protocol syntax and features
 uuid: 5badae8e-0874-43b1-b019-bd7445e6c2ce
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # HTTP protocol syntax and features{#http-protocol-syntax-and-features}

@@ -5,8 +5,8 @@ seo-title: align
 solution: Experience Manager
 title: align
 uuid: 91940bd4-8e2b-4949-a76d-31cd238783bc
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # align{#align}

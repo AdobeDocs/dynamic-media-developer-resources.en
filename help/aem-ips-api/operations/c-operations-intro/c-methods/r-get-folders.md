@@ -5,8 +5,8 @@ seo-title: getFolders
 solution: Experience Manager
 title: getFolders
 uuid: 06e9d745-b711-43e3-8dc6-93da66b981b1
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # getFolders{#getfolders}

@@ -5,8 +5,8 @@ seo-title: Zoom in button
 solution: Experience Manager
 title: Zoom in button
 uuid: 61a4f008-1d95-48dd-9e06-7d30be44a893
-feature: "Dynamic Media Classic,Viewers,SDK/API,Zoom"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
+role: Developer,Business Practitioner
 ---
 
 # Zoom in button{#zoom-in-button}

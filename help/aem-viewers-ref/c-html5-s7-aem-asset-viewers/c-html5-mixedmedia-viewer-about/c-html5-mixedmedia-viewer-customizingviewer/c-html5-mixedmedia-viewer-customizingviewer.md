@@ -6,8 +6,8 @@ seo-title: Customizing Mixed Media Viewer
 solution: Experience Manager
 title: Customizing Mixed Media Viewer
 uuid: 039462a7-2915-48f3-8d4b-0c527801b85a
-feature: "Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # Customizing Mixed Media Viewer{#customizing-mixed-media-viewer}

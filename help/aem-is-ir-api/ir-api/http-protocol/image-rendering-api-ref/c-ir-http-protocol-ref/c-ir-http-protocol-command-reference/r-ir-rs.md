@@ -5,8 +5,8 @@ seo-title: rs
 solution: Experience Manager
 title: rs
 uuid: 4ff7fcb4-a10a-4e82-80a1-edf79ae1f717
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # rs{#rs}

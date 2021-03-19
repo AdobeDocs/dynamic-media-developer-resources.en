@@ -5,8 +5,8 @@ seo-title: BatchMetadataUpdateArray
 solution: Experience Manager
 title: BatchMetadataUpdateArray
 uuid: f095fd2a-025f-4a12-9637-d49d3324955c
-feature: "Dynamic Media Classic,SDK/API,Metadata"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Metadata
+role: Developer,Administrator
 ---
 
 # BatchMetadataUpdateArray{#batchmetadataupdatearray}

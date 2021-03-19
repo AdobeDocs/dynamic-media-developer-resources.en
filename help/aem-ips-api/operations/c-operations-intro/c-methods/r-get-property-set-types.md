@@ -5,8 +5,8 @@ seo-title: getPropertySetTypes
 solution: Experience Manager
 title: getPropertySetTypes
 uuid: b707344d-5571-45eb-9e37-cf0894ee81a0
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # getPropertySetTypes{#getpropertysettypes}

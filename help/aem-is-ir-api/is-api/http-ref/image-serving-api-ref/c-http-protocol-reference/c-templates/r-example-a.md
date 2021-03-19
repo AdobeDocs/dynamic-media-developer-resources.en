@@ -5,8 +5,8 @@ seo-title: Example A
 solution: Experience Manager
 title: Example A
 uuid: c250dbc8-1e32-46b8-ba55-c1fb0ae62695
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Example A{#example-a}

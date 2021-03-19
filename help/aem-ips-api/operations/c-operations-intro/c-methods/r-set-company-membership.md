@@ -5,8 +5,8 @@ seo-title: setCompanyMembership
 solution: Experience Manager
 title: setCompanyMembership
 uuid: 34c9d457-bc2e-4186-8a8f-50388410640a
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # setCompanyMembership{#setcompanymembership}

@@ -5,8 +5,8 @@ seo-title: Templates
 solution: Experience Manager
 title: Templates
 uuid: 54830d1f-40ad-4bf2-8e3d-d3e4d4ab57b9
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Templates{#templates}

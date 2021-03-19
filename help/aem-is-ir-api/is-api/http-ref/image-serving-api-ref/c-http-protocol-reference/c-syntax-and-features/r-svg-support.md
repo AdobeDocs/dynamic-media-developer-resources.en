@@ -5,8 +5,8 @@ seo-title: SVG support
 solution: Experience Manager
 title: SVG support
 uuid: 30d7b37d-fdef-4518-a4b3-4baee56fa634
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # SVG support{#svg-support}

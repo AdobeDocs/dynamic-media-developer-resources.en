@@ -5,8 +5,8 @@ seo-title: PublishContextArray
 solution: Experience Manager
 title: PublishContextArray
 uuid: 47aa483c-c141-499b-b58c-7b09cc9c2a4b
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # PublishContextArray{#publishcontextarray}

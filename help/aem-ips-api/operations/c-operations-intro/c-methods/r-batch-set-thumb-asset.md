@@ -5,8 +5,8 @@ seo-title: batchSetThumbAsset
 solution: Experience Manager
 title: batchSetThumbAsset
 uuid: 16c298a7-bb07-4643-824b-8f864d7f0290
-feature: "Dynamic Media Classic,SDK/API,Asset Management"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # batchSetThumbAsset{#batchsetthumbasset}

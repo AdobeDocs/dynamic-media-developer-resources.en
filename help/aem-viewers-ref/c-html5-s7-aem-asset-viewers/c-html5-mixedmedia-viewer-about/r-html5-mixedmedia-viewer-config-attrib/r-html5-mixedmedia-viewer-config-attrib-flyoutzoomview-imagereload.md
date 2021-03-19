@@ -5,8 +5,8 @@ seo-title: FlyoutZoomView.imagereload
 solution: Experience Manager
 title: FlyoutZoomView.imagereload
 uuid: 5cded4cb-7b02-47da-9e2d-b236548cc61d
-feature: "Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # FlyoutZoomView.imagereload{#flyoutzoomview-imagereload}

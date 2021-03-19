@@ -5,8 +5,8 @@ seo-title: UseLastModified
 solution: Experience Manager
 title: UseLastModified
 uuid: 9dae4f15-4323-4f68-917f-6d72ae52c753
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # UseLastModified{#uselastmodified}

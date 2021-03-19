@@ -5,8 +5,8 @@ seo-title: caption
 solution: Experience Manager
 title: caption
 uuid: 670d83c2-bfc5-411a-8581-5103a62aa8cf
-feature: "Dynamic Media Classic,Viewers,SDK/API,Video"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Video
+role: Developer,Business Practitioner
 ---
 
 # caption{#caption}

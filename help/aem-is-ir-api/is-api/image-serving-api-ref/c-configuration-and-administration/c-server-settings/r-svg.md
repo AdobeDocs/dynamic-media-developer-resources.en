@@ -5,8 +5,8 @@ seo-title: SVG
 solution: Experience Manager
 title: SVG
 uuid: 9e69b150-46ac-480f-96db-afadccc40fe4
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # SVG{#svg}

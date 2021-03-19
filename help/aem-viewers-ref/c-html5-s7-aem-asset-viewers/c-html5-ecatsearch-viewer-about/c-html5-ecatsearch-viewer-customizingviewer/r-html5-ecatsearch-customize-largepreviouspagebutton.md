@@ -5,8 +5,8 @@ seo-title: Large previous page button
 solution: Experience Manager
 title: Large previous page button
 uuid: 10c9ade6-8bbd-4c05-bf3e-22d95b786d7b
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # Large previous page button{#large-previous-page-button}

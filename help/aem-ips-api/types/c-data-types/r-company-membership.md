@@ -3,8 +3,8 @@ description: CompanyMembership
 solution: Experience Manager
 title: CompanyMembership
 uuid: 005e01d0-178b-44a9-ad50-67c47beba421
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # CompanyMembership{#companymembership}

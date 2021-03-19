@@ -5,8 +5,8 @@ seo-title: TimeStamp
 solution: Experience Manager
 title: TimeStamp
 uuid: 10ceb600-1ed9-46a1-ae07-889d601ac0f4
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # TimeStamp{#timestamp}

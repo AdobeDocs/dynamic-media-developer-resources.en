@@ -5,8 +5,8 @@ seo-title: sizeN
 solution: Experience Manager
 title: sizeN
 uuid: 6fc05654-6f0d-499f-97bc-6b7134024e1f
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # sizeN{#sizen}

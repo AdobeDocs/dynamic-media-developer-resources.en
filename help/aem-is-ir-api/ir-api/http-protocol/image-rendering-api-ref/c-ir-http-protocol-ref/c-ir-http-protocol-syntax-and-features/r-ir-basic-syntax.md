@@ -5,8 +5,8 @@ seo-title: Image Rendering HTTP protocol basic syntax
 solution: Experience Manager
 title: Image Rendering HTTP protocol basic syntax
 uuid: e01314f0-6aaa-41ca-8c05-d5db3148a071
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Image Rendering HTTP protocol basic syntax{#image-rendering-http-protocol-basic-syntax}

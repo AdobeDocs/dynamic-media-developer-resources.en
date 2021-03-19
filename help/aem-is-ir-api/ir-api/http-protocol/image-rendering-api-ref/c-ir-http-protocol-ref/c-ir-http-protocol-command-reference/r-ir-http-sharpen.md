@@ -5,8 +5,8 @@ seo-title: sharpen
 solution: Experience Manager
 title: sharpen
 uuid: 0fc0b694-f332-4a16-9970-6b699528f165
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # sharpen{#sharpen}

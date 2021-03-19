@@ -5,8 +5,8 @@ seo-title: ViewerSwfInfo
 solution: Experience Manager
 title: ViewerSwfInfo
 uuid: 1432b0b0-7084-4eb0-a3cd-0e5bee2a5649
-feature: "Dynamic Media Classic,SDK/API,Viewers"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Viewers
+role: Developer,Administrator
 ---
 
 # ViewerSwfInfo{#viewerswfinfo}

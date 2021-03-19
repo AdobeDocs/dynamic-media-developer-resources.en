@@ -3,8 +3,8 @@ description: ImageMapEffect.mode
 solution: Experience Manager
 title: ImageMapEffect.mode
 uuid: af2f11a8-a452-49d6-9e8f-d4a5f05b73d2
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # ImageMapEffect.mode{#imagemapeffect-mode}

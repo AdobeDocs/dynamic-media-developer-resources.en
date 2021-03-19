@@ -5,8 +5,8 @@ seo-title: op_usm
 solution: Experience Manager
 title: op_usm
 uuid: c647e063-2405-489b-b14d-a70638ac8af7
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # op_usm{#op-usm}

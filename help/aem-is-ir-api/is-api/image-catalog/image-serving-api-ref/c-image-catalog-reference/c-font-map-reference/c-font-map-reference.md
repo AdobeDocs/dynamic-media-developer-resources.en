@@ -5,8 +5,8 @@ seo-title: Font map reference
 solution: Experience Manager
 title: Font map reference
 uuid: 7a6c5eda-3b47-4c23-8a33-7b7e39de29c9
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Font map reference{#font-map-reference}

@@ -5,8 +5,8 @@ seo-title: bgc
 solution: Experience Manager
 title: bgc
 uuid: 3ea8291e-3223-45ff-a2ad-43fc212eff90
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # bgc{#bgc}

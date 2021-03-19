@@ -2,8 +2,8 @@
 description: Used by Dynamic Media developers only.
 solution: Experience Manager
 title: ConfigSetting
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # ConfigSetting{#configsetting}

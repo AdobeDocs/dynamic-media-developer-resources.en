@@ -5,8 +5,8 @@ seo-title: Video player
 solution: Experience Manager
 title: Video player
 uuid: ff0f78b1-ff88-47b8-a118-4e0b3e75f341
-feature: "Dynamic Media Classic,Viewers,SDK/API,Interactive Videos"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
+role: Developer,Business Practitioner
 ---
 
 # Video player{#video-player}

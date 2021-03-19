@@ -5,8 +5,8 @@ seo-title: UploadDirectoryJob
 solution: Experience Manager
 title: UploadDirectoryJob
 uuid: 6e6ae415-7c54-4bbb-aa98-ff9a77d956b0
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # UploadDirectoryJob{#uploaddirectoryjob}

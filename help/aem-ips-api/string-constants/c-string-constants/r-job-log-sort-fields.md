@@ -5,8 +5,8 @@ seo-title: Job Log Sort Fields
 solution: Experience Manager
 title: Job Log Sort Fields
 uuid: 20f870da-421b-4cb0-8287-0220ad9b9cb5
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # Job Log Sort Fields{#job-log-sort-fields}

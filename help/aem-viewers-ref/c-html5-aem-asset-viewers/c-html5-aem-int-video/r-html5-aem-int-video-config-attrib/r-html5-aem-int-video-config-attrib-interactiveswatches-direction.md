@@ -5,8 +5,8 @@ seo-title: InteractiveSwatches.direction
 solution: Experience Manager
 title: InteractiveSwatches.direction
 uuid: 08095ab5-f74b-4da6-8f8d-df377995455e
-feature: "Dynamic Media Classic,Viewers,SDK/API,Interactive Videos"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
+role: Developer,Business Practitioner
 ---
 
 # InteractiveSwatches.direction{#interactiveswatches-direction}

@@ -5,8 +5,8 @@ seo-title: Large next page button
 solution: Experience Manager
 title: Large next page button
 uuid: c10edce3-ea01-4c8b-bb43-c2aafed08a39
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
+role: Developer,Business Practitioner
 ---
 
 # Large next page button{#large-next-page-button}

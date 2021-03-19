@@ -5,8 +5,8 @@ seo-title: FontPath
 solution: Experience Manager
 title: FontPath
 uuid: 199a2acd-2b7f-41a0-88b2-4955a9bc9c63
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # FontPath{#fontpath}

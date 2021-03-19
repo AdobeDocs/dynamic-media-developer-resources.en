@@ -5,8 +5,8 @@ seo-title: PostScriptOptions
 solution: Experience Manager
 title: PostScriptOptions
 uuid: 31526bfe-b651-47a8-98c0-2750a3d9cabf
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # PostScriptOptions{#postscriptoptions}

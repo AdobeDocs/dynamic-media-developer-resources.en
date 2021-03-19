@@ -2,8 +2,8 @@
 description: Several mechanisms exist to start/stop the Image Server and Platform Server on Windows
 solution: Experience Manager
 title: Starting or stopping on Windows
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Starting or stopping on Windows{#starting-or-stopping-on-windows}

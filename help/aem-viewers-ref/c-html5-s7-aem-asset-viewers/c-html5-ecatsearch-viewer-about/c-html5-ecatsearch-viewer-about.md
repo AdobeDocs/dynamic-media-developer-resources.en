@@ -4,8 +4,8 @@ keywords: responsive
 solution: Experience Manager
 title: eCatalog Search
 uuid: f5ec33bf-e827-4709-9780-6f17096bf306
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # eCatalog Search{#ecatalog-search}

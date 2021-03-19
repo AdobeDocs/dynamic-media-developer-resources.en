@@ -2,8 +2,8 @@
 description: Describes new and changed operations methods for the IPS API version 6.
 solution: Experience Manager
 title: Operations  New and Modified
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # Operations: New and Modified{#operations-new-and-modified}

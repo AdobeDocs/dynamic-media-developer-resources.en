@@ -5,8 +5,8 @@ seo-title: Next page button
 solution: Experience Manager
 title: Next page button
 uuid: 38be0f94-42eb-42ca-8e56-935aeeb4dc2b
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
+role: Developer,Business Practitioner
 ---
 
 # Next page button{#next-page-button}

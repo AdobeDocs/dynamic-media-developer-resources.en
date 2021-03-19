@@ -5,8 +5,8 @@ seo-title: qlt
 solution: Experience Manager
 title: qlt
 uuid: 9f69845d-3b25-41a7-b6c0-83cf1d2bc450
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # qlt{#qlt}

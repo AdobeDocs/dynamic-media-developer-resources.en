@@ -5,8 +5,8 @@ seo-title: Introduction
 solution: Experience Manager
 title: Introduction
 uuid: 38da0561-7730-4170-bf29-02de325b3ad9
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Introduction{#introduction}

@@ -5,8 +5,8 @@ seo-title: Monitoring and alerting system
 solution: Experience Manager
 title: Monitoring and alerting system
 uuid: 944c7d53-09ec-443e-ac8c-85684d8fda0f
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator,Business Practitioner
 ---
 
 # Monitoring and alerting system{#monitoring-and-alerting-system}

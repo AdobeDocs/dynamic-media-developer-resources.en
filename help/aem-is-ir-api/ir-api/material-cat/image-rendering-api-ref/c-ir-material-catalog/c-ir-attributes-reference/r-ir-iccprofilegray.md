@@ -5,8 +5,8 @@ seo-title: IccProfileGray
 solution: Experience Manager
 title: IccProfileGray
 uuid: 064be242-d964-4fb8-99ea-78bb5599e70f
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # IccProfileGray{#iccprofilegray}

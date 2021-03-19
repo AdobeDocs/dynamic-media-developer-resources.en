@@ -5,8 +5,8 @@ seo-title: Text string localization
 solution: Experience Manager
 title: Text string localization
 uuid: bdff2403-e3bb-4b3f-a8d7-bb108c1fbee8
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Text string localization{#text-string-localization}

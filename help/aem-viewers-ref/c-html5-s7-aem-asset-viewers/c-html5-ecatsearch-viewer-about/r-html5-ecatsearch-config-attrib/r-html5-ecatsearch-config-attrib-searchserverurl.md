@@ -3,8 +3,8 @@ description: searchServerUrl
 solution: Experience Manager
 title: searchServerUrl
 uuid: 2fe19821-923a-4156-9c52-48769467179d
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # searchServerUrl{#searchserverurl}

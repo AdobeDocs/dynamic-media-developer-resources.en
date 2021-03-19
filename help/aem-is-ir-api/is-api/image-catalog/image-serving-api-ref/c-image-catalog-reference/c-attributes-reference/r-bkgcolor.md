@@ -5,8 +5,8 @@ seo-title: BkgColor
 solution: Experience Manager
 title: BkgColor
 uuid: 48f0c7d2-3a6c-4076-81f1-ad94f701c576
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # BkgColor{#bkgcolor}

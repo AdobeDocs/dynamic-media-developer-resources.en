@@ -5,8 +5,8 @@ seo-title: getUniqueMetadataValues
 solution: Experience Manager
 title: getUniqueMetadataValues
 uuid: 5b2f95a7-cc0b-4938-99b9-2aefa0ffe693
-feature: "Dynamic Media Classic,SDK/API,Metadata"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Metadata
+role: Developer,Administrator
 ---
 
 # getUniqueMetadataValues{#getuniquemetadatavalues}

@@ -5,8 +5,8 @@ seo-title: getSystemProperties
 solution: Experience Manager
 title: getSystemProperties
 uuid: 08ea86ba-bde5-45a1-920a-04f784395e6a
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # getSystemProperties{#getsystemproperties}

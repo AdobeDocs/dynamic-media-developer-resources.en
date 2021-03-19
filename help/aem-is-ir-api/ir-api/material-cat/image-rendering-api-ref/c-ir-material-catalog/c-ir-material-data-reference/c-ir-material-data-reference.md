@@ -5,8 +5,8 @@ seo-title: Material data reference
 solution: Experience Manager
 title: Material data reference
 uuid: 1f2dae40-0314-483a-a731-11889e166dee
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Material data reference{#material-data-reference}

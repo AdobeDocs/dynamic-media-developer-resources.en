@@ -5,8 +5,8 @@ seo-title: imageRes
 solution: Experience Manager
 title: imageRes
 uuid: 9fd252b8-2956-4618-85dd-a47fc836639c
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # imageRes{#imageres}

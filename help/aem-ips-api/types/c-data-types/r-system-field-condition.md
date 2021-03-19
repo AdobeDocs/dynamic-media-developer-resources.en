@@ -5,8 +5,8 @@ seo-title: SystemFieldCondition
 solution: Experience Manager
 title: SystemFieldCondition
 uuid: 811095df-732d-48a3-a6ff-55d6dc602b54
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # SystemFieldCondition{#systemfieldcondition}

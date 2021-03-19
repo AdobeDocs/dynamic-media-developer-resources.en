@@ -5,8 +5,8 @@ seo-title: resolve
 solution: Experience Manager
 title: resolve
 uuid: bd1576a7-4802-4a87-b1c0-406f51382561
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # resolve{#resolve}

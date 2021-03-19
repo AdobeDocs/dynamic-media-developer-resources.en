@@ -5,8 +5,8 @@ seo-title: Caption button
 solution: Experience Manager
 title: Caption button
 uuid: a03170e4-aaa9-4822-99dd-b9cf13206bbc
-feature: "Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+role: Developer,Business Practitioner
 ---
 
 # Caption button{#caption-button}

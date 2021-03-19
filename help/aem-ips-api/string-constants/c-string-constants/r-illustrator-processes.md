@@ -5,8 +5,8 @@ seo-title: Illustrator Processes
 solution: Experience Manager
 title: Illustrator Processes
 uuid: 77524dce-25f5-4b01-a729-605a93544fbb
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # Illustrator Processes{#illustrator-processes}

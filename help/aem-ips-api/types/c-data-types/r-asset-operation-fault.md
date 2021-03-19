@@ -5,8 +5,8 @@ seo-title: AssetOperationFault
 solution: Experience Manager
 title: AssetOperationFault
 uuid: fb6c5482-6e16-4561-927b-e4daeb7bdd7b
-feature: "Dynamic Media Classic,SDK/API,Asset Management"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Asset Management
+role: Developer,Administrator
 ---
 
 # AssetOperationFault{#assetoperationfault}

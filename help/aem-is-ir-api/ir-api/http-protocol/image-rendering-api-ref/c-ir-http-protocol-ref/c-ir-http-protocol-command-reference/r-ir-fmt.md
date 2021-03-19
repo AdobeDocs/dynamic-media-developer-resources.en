@@ -5,8 +5,8 @@ seo-title: fmt
 solution: Experience Manager
 title: fmt
 uuid: 7c589119-d1b3-460f-acbd-5e8d10d0d976
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # fmt{#fmt}

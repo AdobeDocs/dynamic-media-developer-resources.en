@@ -5,8 +5,8 @@ seo-title: Layer transforms
 solution: Experience Manager
 title: Layer transforms
 uuid: b32b5af4-66ad-474a-9bca-4b6da8f43bf9
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Layer transforms{#layer-transforms}

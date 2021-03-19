@@ -5,8 +5,8 @@ seo-title: Roughness
 solution: Experience Manager
 title: Roughness
 uuid: d71e4411-dd59-4347-a7c2-132e130ff36b
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Roughness{#roughness}

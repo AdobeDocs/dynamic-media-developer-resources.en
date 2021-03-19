@@ -3,8 +3,8 @@ description: ThumbnailGridView.align
 solution: Experience Manager
 title: ThumbnailGridView.align
 uuid: b0cdc9ee-4399-4783-99ec-cd9d03f262b1
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # ThumbnailGridView.align{#thumbnailgridview-align}

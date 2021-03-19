@@ -5,8 +5,8 @@ seo-title: scale
 solution: Experience Manager
 title: scale
 uuid: db5bab94-e5c1-41fe-ab1b-5c62b6a798d0
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # scale{#scale}

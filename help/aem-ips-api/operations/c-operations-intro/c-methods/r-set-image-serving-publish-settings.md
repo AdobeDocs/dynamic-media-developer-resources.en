@@ -5,8 +5,8 @@ seo-title: setImageServingPublishSettings
 solution: Experience Manager
 title: setImageServingPublishSettings
 uuid: 16fc8600-8b04-4078-abb0-201d750b28aa
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # setImageServingPublishSettings{#setimageservingpublishsettings}

@@ -5,8 +5,8 @@ seo-title: DiskUsage
 solution: Experience Manager
 title: DiskUsage
 uuid: a63f0ed0-c689-43b0-9c3e-9500715d15a5
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # DiskUsage{#diskusage}

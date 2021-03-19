@@ -5,8 +5,8 @@ seo-title: ThumbHorizAlign
 solution: Experience Manager
 title: ThumbHorizAlign
 uuid: 2fbe71e2-1227-415b-ad4c-0d0752f8f729
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # ThumbHorizAlign{#thumbhorizalign}

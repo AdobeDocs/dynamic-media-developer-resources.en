@@ -3,8 +3,8 @@ description: PageView.frametransition
 solution: Experience Manager
 title: PageView.frametransition
 uuid: 12595a89-bad5-4224-aeff-52ce6bb615ee
-feature: "Dynamic Media Classic,Viewers,SDK/API,eCatalog Search"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
+role: Developer,Business Practitioner
 ---
 
 # PageView.frametransition{#pageview-frametransition}

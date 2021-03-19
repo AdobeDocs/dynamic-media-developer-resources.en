@@ -5,8 +5,8 @@ seo-title: IccProfileCmyk
 solution: Experience Manager
 title: IccProfileCmyk
 uuid: d923d0fd-f00b-4fce-8ce9-8b177b4dba96
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # IccProfileCmyk{#iccprofilecmyk}

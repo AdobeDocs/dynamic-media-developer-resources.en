@@ -5,8 +5,8 @@ seo-title: FontFieldUpdate
 solution: Experience Manager
 title: FontFieldUpdate
 uuid: f7ac1830-3a69-4278-948c-3a9c265ad520
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Administrator
 ---
 
 # FontFieldUpdate{#fontfieldupdate}

@@ -5,8 +5,8 @@ seo-title: getImageSetMembers
 solution: Experience Manager
 title: getImageSetMembers
 uuid: b19c9fec-df92-42e1-9228-42cdf196fdfc
-feature: "Dynamic Media Classic,SDK/API,Image Sets"
-role: "Developer,Administrator"
+feature: Dynamic Media Classic,SDK/API,Image Sets
+role: Developer,Administrator
 ---
 
 # getImageSetMembers{#getimagesetmembers}

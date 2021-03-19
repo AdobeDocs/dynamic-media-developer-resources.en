@@ -5,8 +5,8 @@ seo-title: HttpFlashStreamingContext
 solution: Experience Manager
 title: HttpFlashStreamingContext
 uuid: 7a69e7ac-9a32-4e32-a7bc-cc90c5cbe49c
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # HttpFlashStreamingContext{#httpflashstreamingcontext}

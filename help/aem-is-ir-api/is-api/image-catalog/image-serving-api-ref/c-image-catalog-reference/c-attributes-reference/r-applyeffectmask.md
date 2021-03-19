@@ -5,8 +5,8 @@ seo-title: ApplyEffectMask
 solution: Experience Manager
 title: ApplyEffectMask
 uuid: a217bf76-58da-4609-b394-e5591873ad20
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # ApplyEffectMask{#applyeffectmask}

@@ -5,8 +5,8 @@ seo-title: Colorizing materials
 solution: Experience Manager
 title: Colorizing materials
 uuid: 3f5a9089-6e35-446c-89f9-71b067e0d1df
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Colorizing materials{#colorizing-materials}

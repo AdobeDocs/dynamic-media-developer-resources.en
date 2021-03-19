@@ -5,8 +5,8 @@ seo-title: DefaultPix
 solution: Experience Manager
 title: DefaultPix
 uuid: 27574811-a920-4e54-8635-5a643b8655ef
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # DefaultPix{#defaultpix}

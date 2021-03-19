@@ -5,8 +5,8 @@ seo-title: Request pre-processing *
 solution: Experience Manager
 title: Request pre-processing *
 uuid: ef69ea23-753c-40c8-9edd-eab9c8820c98
-feature: "Dynamic Media Classic,SDK/API"
-role: "Developer,Business Practitioner"
+feature: Dynamic Media Classic,SDK/API
+role: Developer,Business Practitioner
 ---
 
 # Request pre-processing *{#request-pre-processing}
