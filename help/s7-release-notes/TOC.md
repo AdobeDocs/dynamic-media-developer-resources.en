@@ -12,7 +12,7 @@ role: Developer,Business Practitioner
 
 # Dynamic Media Release Notes {#release-notes}
 
-+ [Dynamic Media Developer Resources Home](/help/landing/home.md)
++ [Dynamic Media Developer Resources Home](homern.md)
 + [Latest release notes](s7rn2017.md)
 + Archive {#archive-release-notes}
   + [Scene7 Fall 2016 release](s7rnfall2016.md)
