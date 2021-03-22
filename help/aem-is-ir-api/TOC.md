@@ -7,7 +7,6 @@ feature-set: Experience Manager Assets
 
 # Dynamic Media Image Serving and Rendering API {#image-serving-api}
 
-+ [Dynamic Media Developer Resources Home](/help/landing/home.md)
 + [Dynamic Media Image Serving and Image Rendering API Home](homeisir.md)<!-- (https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/home.html?lang=en) -->
 + [About this release](r-about-this-release.md)
 + [System requirements and prerequisites](r-requirements-and-prerequisites.md)
