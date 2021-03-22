@@ -6,7 +6,6 @@ feature-set: Experience Manager Assets
 
 # Dynamic Media Image Production System API {#image-production-api}
 
-+ [Dynamic Media Developer Resources Home](/help/landing/home.md)
 + [About Dynamic Media Image Production System API](c-overview.md)
 + [Deprecated calls](c-deprecated-calls.md)
 + [IPS Web Service WSDL versions](c-wsdl-versions.md)
