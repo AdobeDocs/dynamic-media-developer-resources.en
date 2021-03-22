@@ -8,6 +8,7 @@ archtype: end-user
 feature-set: Experience Manager Assets
 feature: Dynamic Media Classic
 role: Developer,Business Practitioner
+user-guide-description: The latest release notes for Adobe Dynamic Media Classic, part of the Adobe Experience Manager solution in the Adobe Experience Cloud.
 ---
 
 # Dynamic Media Release Notes {#release-notes}

@@ -3,6 +3,7 @@ cloud: experience-cloud
 user-guide-title: Dynamic Media Image Serving and Rendering API
 breadcrumb-title: Dynamic Media Image Serving and Rendering API
 feature-set: Experience Manager Assets
+user-guide-description: View documentation about IS (Image Serving) and IR (Image Rendering) APIs, and related technologies.
 ---
 
 # Dynamic Media Image Serving and Rendering API {#image-serving-api}
