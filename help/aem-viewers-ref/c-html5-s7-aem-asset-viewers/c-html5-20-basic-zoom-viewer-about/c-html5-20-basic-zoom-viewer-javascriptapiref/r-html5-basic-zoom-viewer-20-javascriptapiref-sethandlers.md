@@ -1,10 +1,10 @@
 ---
 description: JavaScript API reference for Basic Zoom Viewer
-seo-description: JavaScript API reference for Basic Zoom Viewer
-seo-title: setHandlers
+
+
 solution: Experience Manager
 title: setHandlers
-uuid: 775e1561-3709-41e1-9146-dcc85f8a250d
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
 ---

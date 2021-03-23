@@ -2,7 +2,7 @@
 description: CompanyMemberArray
 solution: Experience Manager
 title: CompanyMemberArray
-uuid: 7245ad57-3673-422b-a21a-82d16691923e
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

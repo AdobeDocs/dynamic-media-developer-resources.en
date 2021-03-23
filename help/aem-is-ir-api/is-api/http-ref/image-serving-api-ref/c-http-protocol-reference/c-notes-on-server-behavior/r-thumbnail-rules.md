@@ -1,10 +1,7 @@
 ---
 description: Be aware of these thumbnail rules.
-seo-description: Be aware of these thumbnail rules.
-seo-title: Thumbnail rules
 solution: Experience Manager
 title: Thumbnail rules
-uuid: 7d04b923-e062-4764-9e48-99a7bba72d3f
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,10 @@
 ---
 description: The spin indicator is overlaid on the main view area. It is displayed when the image is in a reset state and it also depends on the iconeffect parameter.
-seo-description: The spin indicator is overlaid on the main view area. It is displayed when the image is in a reset state and it also depends on the iconeffect parameter.
-seo-title: Icon effect
+
+
 solution: Experience Manager
 title: Icon effect
-uuid: ce0524e4-fff4-45b0-8069-d5876802d66f
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
 ---

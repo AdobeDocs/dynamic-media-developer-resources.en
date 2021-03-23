@@ -1,10 +1,7 @@
 ---
 description: Static content type filter. Specifies a filter string for static content delivered via /is/content.
-seo-description: Static content type filter. Specifies a filter string for static content delivered via /is/content.
-seo-title: type
 solution: Experience Manager
 title: type
-uuid: 44906190-516c-481c-9714-bb19d77af33c
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

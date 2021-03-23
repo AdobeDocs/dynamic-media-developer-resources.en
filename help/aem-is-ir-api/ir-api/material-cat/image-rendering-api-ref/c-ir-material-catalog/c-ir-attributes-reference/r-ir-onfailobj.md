@@ -1,10 +1,10 @@
 ---
 description: Object selection error handling. Specifies the action to be taken if the obj= command fails because the specified path cannot be matched in the vignette object hierarchy.
-seo-description: Object selection error handling. Specifies the action to be taken if the obj= command fails because the specified path cannot be matched in the vignette object hierarchy.
-seo-title: OnFailObj
+
+
 solution: Experience Manager
 title: OnFailObj
-uuid: b9dcaf29-ffa5-47db-9c8c-d1809da73582
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -2,7 +2,7 @@
 description: SetPropertySetPermissions
 solution: Experience Manager
 title: SetPropertySetPermissions
-uuid: b0f1ddb3-2051-4f14-a791-f06efcbfaef2
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

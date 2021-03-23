@@ -1,10 +1,10 @@
 ---
 description: Email share tool consists of a button added to the Social share panel and the modal dialog box which displays when the tool is activated. The position of the button is fully managed by the Social share tool.
-seo-description: Email share tool consists of a button added to the Social share panel and the modal dialog box which displays when the tool is activated. The position of the button is fully managed by the Social share tool.
-seo-title: Email share
+
+
 solution: Experience Manager
 title: Email share
-uuid: 4c6abb74-7e13-4fed-bbfb-45e388627578
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
 ---

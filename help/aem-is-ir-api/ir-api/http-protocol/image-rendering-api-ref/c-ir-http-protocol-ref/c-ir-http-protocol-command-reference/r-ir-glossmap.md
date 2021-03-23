@@ -1,10 +1,10 @@
 ---
 description: Gloss map image. Provides pixel-by-pixel control of the glossiness of a repeatable texture, wallpaper/border, or decal.
-seo-description: Gloss map image. Provides pixel-by-pixel control of the glossiness of a repeatable texture, wallpaper/border, or decal.
-seo-title: glossmap
+
+
 solution: Experience Manager
 title: glossmap
-uuid: f137d362-74a1-45b3-9274-a3a2d6cf5db0
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

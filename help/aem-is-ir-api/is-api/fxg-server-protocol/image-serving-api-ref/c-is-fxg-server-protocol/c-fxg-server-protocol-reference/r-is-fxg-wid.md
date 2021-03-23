@@ -1,10 +1,10 @@
 ---
 description: View width. Specifies the width of the reply image (view image).
-seo-description: View width. Specifies the width of the reply image (view image).
-seo-title: wid
+
+
 solution: Experience Manager
 title: wid
-uuid: b59b936c-abab-4f9d-95ca-0a09743ba0fb
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

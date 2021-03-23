@@ -1,10 +1,10 @@
 ---
 description: Default resolution. Provides a default resolution in case a particular catalog record does not contain a valid catalog Resolution value.
-seo-description: Default resolution. Provides a default resolution in case a particular catalog record does not contain a valid catalog Resolution value.
-seo-title: Resolution
+
+
 solution: Experience Manager
 title: Resolution
-uuid: b04b3746-90e6-4545-9c57-7ee3b61d99bf
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

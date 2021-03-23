@@ -1,10 +1,10 @@
 ---
 description: This document provides information about FXG server protocols and their syntax.
-seo-description: This document provides information about FXG server protocols and their syntax.
-seo-title: FXG server protocol reference
+
+
 solution: Experience Manager
 title: FXG server protocol reference
-uuid: 59544a37-bd4f-494e-9c1f-3e6746287846
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

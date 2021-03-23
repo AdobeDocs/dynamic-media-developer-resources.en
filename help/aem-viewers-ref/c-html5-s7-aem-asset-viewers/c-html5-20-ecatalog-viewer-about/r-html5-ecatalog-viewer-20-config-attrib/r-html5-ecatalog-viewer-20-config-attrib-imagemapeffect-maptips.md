@@ -2,7 +2,7 @@
 description: ImageMapEffect.mapTips
 solution: Experience Manager
 title: ImageMapEffect.mapTips
-uuid: 5466368f-3ee6-4030-ae8e-55d9e3ad5bc5
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
 ---

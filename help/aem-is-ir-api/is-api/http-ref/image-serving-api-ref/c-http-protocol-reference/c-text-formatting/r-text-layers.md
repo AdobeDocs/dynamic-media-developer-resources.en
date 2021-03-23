@@ -1,10 +1,7 @@
 ---
 description: textPs= supports a number of different usage models described in this section.
-seo-description: textPs= supports a number of different usage models described in this section.
-seo-title: Text layers
 solution: Experience Manager
 title: Text layers
-uuid: 9ccef969-7c54-49ce-b6ff-ae4eabfcf99b
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

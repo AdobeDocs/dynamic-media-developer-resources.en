@@ -1,10 +1,7 @@
 ---
 description: Creates an image set.
-seo-description: Creates an image set.
-seo-title: createImageSet
 solution: Experience Manager
 title: createImageSet
-uuid: 688f3954-bc8f-4687-8d66-e064561cd4a0
 feature: Dynamic Media Classic,SDK/API,Image Sets
 role: Developer,Administrator
 ---

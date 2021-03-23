@@ -1,10 +1,7 @@
 ---
 description: Static content catalog data file paths. Specifies the files that contain the static content data for this catalog.
-seo-description: Static content catalog data file paths. Specifies the files that contain the static content data for this catalog.
-seo-title: StaticContentCatalogFile
 solution: Experience Manager
 title: StaticContentCatalogFile
-uuid: 82d2a68a-255a-4e65-a29f-7022e7f0f5ec
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

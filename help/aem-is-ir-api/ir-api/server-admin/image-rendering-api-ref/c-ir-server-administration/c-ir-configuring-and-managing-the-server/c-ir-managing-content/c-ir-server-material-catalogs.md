@@ -1,10 +1,10 @@
 ---
 description: Material catalogs provide many Image Rendering configuration settings.
-seo-description: Material catalogs provide many Image Rendering configuration settings.
-seo-title: Material catalogs
+
+
 solution: Experience Manager
 title: Material catalogs
-uuid: 6d209019-f9ca-43e4-900b-3597c7044a79
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

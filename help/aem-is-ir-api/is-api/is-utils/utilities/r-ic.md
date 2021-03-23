@@ -1,10 +1,7 @@
 ---
 description: Image Conversion utility.
-seo-description: Image Conversion utility.
-seo-title: ic
 solution: Experience Manager
 title: ic
-uuid: 08fabcc9-d0b5-4136-81fc-ac896c341e1d
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,7 @@
 ---
 description: Asset type. Used to identify the type of set published to catalog ImageSet.
-seo-description: Asset type. Used to identify the type of set published to catalog ImageSet.
-seo-title: AssetType
 solution: Experience Manager
 title: AssetType
-uuid: e9e0d7e0-0429-4949-aafa-0ac7032fdfe5
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

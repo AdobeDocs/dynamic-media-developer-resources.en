@@ -1,10 +1,10 @@
 ---
 description: After the installation, the folder hierarchy in install_root includes the files and folders listed below.
-seo-description: After the installation, the folder hierarchy in install_root includes the files and folders listed below.
-seo-title: Contents
+
+
 solution: Experience Manager
 title: Contents
-uuid: 4c92c916-3b6a-4ac8-8d32-121f79da100a
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

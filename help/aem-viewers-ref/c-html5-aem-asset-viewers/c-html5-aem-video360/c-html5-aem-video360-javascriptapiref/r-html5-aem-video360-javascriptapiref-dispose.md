@@ -1,10 +1,10 @@
 ---
 description: JavaScript API reference for Video360 Viewer.
-seo-description: JavaScript API reference for Video360 Viewer.
-seo-title: dispose
+
+
 solution: Experience Manager
 title: dispose
-uuid: bdecadb1-4e77-43d5-9da5-80e5101efb36
+
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,10 @@
 ---
 description: JavaScript API reference for Spin Viewer.
-seo-description: JavaScript API reference for Spin Viewer.
-seo-title: init
+
+
 solution: Experience Manager
 title: init
-uuid: 1803028f-dcba-49da-9fb7-78bfd64fc47d
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
 ---

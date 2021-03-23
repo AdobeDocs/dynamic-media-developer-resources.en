@@ -1,10 +1,7 @@
 ---
 description: Invert colors. Inverts each color component for a negative image effect.
-seo-description: Invert colors. Inverts each color component for a negative image effect.
-seo-title: op_invert
 solution: Experience Manager
 title: op_invert
-uuid: bca91ce1-b105-42bf-b4ff-691f26218285
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

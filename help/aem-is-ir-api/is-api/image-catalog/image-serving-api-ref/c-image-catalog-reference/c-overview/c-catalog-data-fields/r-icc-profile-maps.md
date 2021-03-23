@@ -1,10 +1,7 @@
 ---
 description: The following fields are recognized in ICC color profile map files.
-seo-description: The following fields are recognized in ICC color profile map files.
-seo-title: ICC profile maps
 solution: Experience Manager
 title: ICC profile maps
-uuid: b244c95a-3198-4d6c-836f-f199022348b4
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

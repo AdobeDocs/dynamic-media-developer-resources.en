@@ -1,10 +1,10 @@
 ---
 description: Decal position. Defines the offset in inches from the anchor= point of the decal image to the decal origin point defined by the target vignette object.
-seo-description: Decal position. Defines the offset in inches from the anchor= point of the decal image to the decal origin point defined by the target vignette object.
-seo-title: pos
+
+
 solution: Experience Manager
 title: pos
-uuid: f44c258d-84e9-465b-8495-ae9b96a106c3
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

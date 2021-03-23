@@ -1,10 +1,7 @@
 ---
 description: Source data root path. Absolute or relative path for the root folder for the source data of this image catalog.
-seo-description: Source data root path. Absolute or relative path for the root folder for the source data of this image catalog.
-seo-title: RootPath
 solution: Experience Manager
 title: RootPath
-uuid: 859bebf2-5ee7-4daa-8970-a18bddcee684
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

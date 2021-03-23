@@ -1,10 +1,7 @@
 ---
 description: Catalog matching option.
-seo-description: Catalog matching option.
-seo-title: FullMatch
 solution: Experience Manager
 title: FullMatch
-uuid: 0c69ba92-1411-4cb7-ac28-d26fe035222f
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

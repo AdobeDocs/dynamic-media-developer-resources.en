@@ -1,10 +1,10 @@
 ---
 description: Gets the assets and the number of assets associated with a specific company.
-seo-description: Gets the assets and the number of assets associated with a specific company.
-seo-title: getAssetCounts
+
+
 solution: Experience Manager
 title: getAssetCounts
-uuid: 92103806-59da-444f-b69c-d045d0ebf42e
+
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

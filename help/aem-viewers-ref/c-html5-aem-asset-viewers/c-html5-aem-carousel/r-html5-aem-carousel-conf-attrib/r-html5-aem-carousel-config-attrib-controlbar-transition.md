@@ -1,10 +1,10 @@
 ---
 description: Configuration attribute for Carousel Viewer.
-seo-description: Configuration attribute for Carousel Viewer.
-seo-title: ControlBar.transition
+
+
 solution: Experience Manager
 title: ControlBar.transition
-uuid: 80053511-f0e2-49f6-a1db-cd96c7788703
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
 ---

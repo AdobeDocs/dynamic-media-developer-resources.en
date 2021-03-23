@@ -1,10 +1,10 @@
 ---
 description: Create or edit a group.
-seo-description: Create or edit a group.
-seo-title: saveGroup
+
+
 solution: Experience Manager
 title: saveGroup
-uuid: d1631a55-7f1d-48b4-8b35-fd5a05277219
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,10 @@
 ---
 description: Clicking or tapping on this button brings the user to the first page in the catalog. This button appears in the main control bar on desktop systems and tablets; on mobile phones it is added to a secondary control bar. You can size, skin, and position this button by using CSS.
-seo-description: Clicking or tapping on this button brings the user to the first page in the catalog. This button appears in the main control bar on desktop systems and tablets; on mobile phones it is added to a secondary control bar. You can size, skin, and position this button by using CSS.
-seo-title: First page button
+
+
 solution: Experience Manager
 title: First page button
-uuid: fd164899-505c-448b-8dba-7581d97d87b6
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
 ---

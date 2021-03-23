@@ -1,10 +1,10 @@
 ---
 description: URL command for Video360 Viewer.
-seo-description: URL command for Video360 Viewer.
-seo-title: video
+
+
 solution: Experience Manager
 title: video
-uuid: 059ff97f-dc03-4894-b708-17d0a799c2a2
+
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
 ---

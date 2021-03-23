@@ -1,10 +1,10 @@
 ---
 description: Configuration attribute for Video Viewer.
-seo-description: Configuration attribute for Video Viewer.
-seo-title: EmbedShare.embedsizes
+
+
 solution: Experience Manager
 title: EmbedShare.embedsizes
-uuid: 1fc6057f-9e25-4e94-b516-e3e7af60188c
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
 ---

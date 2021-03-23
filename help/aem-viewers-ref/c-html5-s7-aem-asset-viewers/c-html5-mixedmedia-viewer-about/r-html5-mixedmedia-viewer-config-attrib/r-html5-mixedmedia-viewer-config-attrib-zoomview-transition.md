@@ -2,7 +2,7 @@
 description: ZoomView.transition
 solution: Experience Manager
 title: ZoomView.transition
-uuid: c7daf4e8-cb37-4f20-aaca-2ccde341d775
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
 ---

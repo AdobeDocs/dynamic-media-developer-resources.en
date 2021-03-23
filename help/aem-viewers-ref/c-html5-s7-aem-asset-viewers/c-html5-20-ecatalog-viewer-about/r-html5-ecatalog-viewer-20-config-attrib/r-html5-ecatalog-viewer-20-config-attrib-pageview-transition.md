@@ -2,7 +2,7 @@
 description: PageView.transition
 solution: Experience Manager
 title: PageView.transition
-uuid: f84da456-ac02-4037-b1fd-7440823eb1ef
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
 ---

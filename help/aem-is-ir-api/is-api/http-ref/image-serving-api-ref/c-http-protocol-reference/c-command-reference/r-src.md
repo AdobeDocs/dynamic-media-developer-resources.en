@@ -1,10 +1,7 @@
 ---
 description: Layer image.
-seo-description: Layer image.
-seo-title: src
 solution: Experience Manager
 title: src
-uuid: b4396848-b992-4371-a8ae-4ff1781ae1be
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

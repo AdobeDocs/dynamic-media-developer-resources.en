@@ -1,10 +1,7 @@
 ---
 description: Text flow exclusion area. Specifies one or more regions to exclude from text flow.
-seo-description: Text flow exclusion area. Specifies one or more regions to exclude from text flow.
-seo-title: textFlowXPath
 solution: Experience Manager
 title: textFlowXPath
-uuid: ce833ae7-e774-4954-a521-b6247e75f6eb
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

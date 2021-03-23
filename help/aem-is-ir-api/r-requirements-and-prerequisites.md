@@ -1,10 +1,7 @@
 ---
 description: Before using Dynamic Media Image Serving, make sure your system meets the system requirements.
-seo-description: Before using Dynamic Media Image Serving, make sure your system meets the system requirements.
-seo-title: System requirements and prerequisites
 solution: Experience Manager
 title: System requirements and prerequisites
-uuid: 80196574-f5a2-4298-880a-cc36f90b6e21
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

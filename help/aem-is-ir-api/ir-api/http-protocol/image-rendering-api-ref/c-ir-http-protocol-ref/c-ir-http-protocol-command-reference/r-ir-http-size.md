@@ -1,10 +1,10 @@
 ---
 description: Decal size. Specifies the size of a decal material.
-seo-description: Decal size. Specifies the size of a decal material.
-seo-title: size
+
+
 solution: Experience Manager
 title: size
-uuid: b82f3429-3d84-4707-8126-d390239df9a2
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

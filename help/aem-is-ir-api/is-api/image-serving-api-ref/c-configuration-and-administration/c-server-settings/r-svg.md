@@ -1,10 +1,7 @@
 ---
 description: The settings in this section need to be considered only if SVG rendering is required.
-seo-description: The settings in this section need to be considered only if SVG rendering is required.
-seo-title: SVG
 solution: Experience Manager
 title: SVG
-uuid: 9e69b150-46ac-480f-96db-afadccc40fe4
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

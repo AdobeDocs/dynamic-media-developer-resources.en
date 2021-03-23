@@ -1,10 +1,10 @@
 ---
 description: Properties of a Zoom target.
-seo-description: Properties of a Zoom target.
-seo-title: ZoomTarget
+
+
 solution: Experience Manager
 title: ZoomTarget
-uuid: 08a03140-c8cc-49d8-9575-ae153b3899c9
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

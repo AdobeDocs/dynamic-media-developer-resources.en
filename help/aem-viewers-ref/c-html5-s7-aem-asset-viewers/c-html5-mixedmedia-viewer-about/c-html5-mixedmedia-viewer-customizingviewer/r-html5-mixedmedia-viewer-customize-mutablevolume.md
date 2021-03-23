@@ -1,10 +1,10 @@
 ---
 description: The mutable volume control initially appears as a button that lets a user mute or unmute the video player sound.
-seo-description: The mutable volume control initially appears as a button that lets a user mute or unmute the video player sound.
-seo-title: Mutable volume
+
+
 solution: Experience Manager
 title: Mutable volume
-uuid: 0199c35b-e223-4c5b-8978-9e65554e64e0
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
 ---

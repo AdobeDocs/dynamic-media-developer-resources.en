@@ -2,7 +2,7 @@
 description: PageView.singleclick
 solution: Experience Manager
 title: PageView.singleclick
-uuid: b08b605e-5ffc-42cc-931d-d67750a8dca8
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,10 @@
 ---
 description: Array of groups.
-seo-description: Array of groups.
-seo-title: GroupArray
+
+
 solution: Experience Manager
 title: GroupArray
-uuid: b87ff841-6efc-479d-b4be-ed507fa14069
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

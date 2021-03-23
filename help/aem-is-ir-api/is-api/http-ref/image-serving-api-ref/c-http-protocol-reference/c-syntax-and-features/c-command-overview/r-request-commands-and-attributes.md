@@ -1,10 +1,7 @@
 ---
 description: These commands apply regardless of where in the request they appear.
-seo-description: These commands apply regardless of where in the request they appear.
-seo-title: Request commands
 solution: Experience Manager
 title: Request commands
-uuid: 5566bbcd-baf8-4003-b61d-df4e414df781
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

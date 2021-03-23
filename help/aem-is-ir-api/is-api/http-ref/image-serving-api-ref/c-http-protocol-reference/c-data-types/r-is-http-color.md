@@ -1,10 +1,7 @@
 ---
 description: Color Values. You can specify color values using either hexadecimal notation, a comma-separated list of component values, or decimals.
-seo-description: Color Values. You can specify color values using either hexadecimal notation, a comma-separated list of component values, or decimals.
-seo-title: color
 solution: Experience Manager
 title: color
-uuid: 61308b8e-eaac-4b2e-8500-2f9efa8a6ce8
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---
@@ -32,7 +29,7 @@ Color Values. You can specify color values using either hexadecimal notation, a 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p><span class="codeph"> <span class="varname"> hex2</span> </span> </p></td> 
-  <td class="stentry"> <p>packed two digit hex gray color value (GG) </p></td> 
+  <td class="stentry"> <p>packed two-digit hex gray color value (GG) </p></td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p><span class="codeph"> <span class="varname"> hex4</span> </span> </p> </td> 
@@ -40,15 +37,15 @@ Color Values. You can specify color values using either hexadecimal notation, a 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p><span class="codeph"> <span class="varname"> hex6</span> </span> </p> </td> 
-  <td class="stentry"> <p>packed six digit hexadecimal RGB color value (RRGGBB) </p></td> 
+  <td class="stentry"> <p>packed six-digit hexadecimal RGB color value (RRGGBB) </p></td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p><span class="codeph"> <span class="varname"> hex8</span> </span> </p> </td> 
-  <td class="stentry"> <p>packed eight digit hexadecimal RGBA (RRGGBBAA) or CMYK (CCMMYYKK) color value (if specified with 'k' suffix) </p></td> 
+  <td class="stentry"> <p>packed eight-digit hexadecimal RGBA (RRGGBBAA) or CMYK (CCMMYYKK) color value (if specified with 'k' suffix) </p></td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p><span class="codeph"> <span class="varname"> hex10</span> </span> </p></td> 
-  <td class="stentry"> <p>packed ten digit hexadecimal CMYK with alpha value (CCYYMMKKAA) </p> </td> 
+  <td class="stentry"> <p>packed ten-digit hexadecimal CMYK with alpha value (CCYYMMKKAA) </p> </td> 
  </tr> 
 </table>
 
@@ -56,7 +53,7 @@ Decimal component values for RGB colors are in the range 0…255. Decimal compon
 
 Color component values are assumed to be independent of the alpha value (not pre-multiplied).
 
-All color values, prefixes, and suffixes are not case sensitive.
+All color values, prefixes, and suffixes are not case-sensitive.
 
 The type suffix 'k' is required for CMYK color values. A type suffix can be optionally specified for RGB and gray color values.
 

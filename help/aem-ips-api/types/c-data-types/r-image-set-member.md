@@ -1,10 +1,10 @@
 ---
 description: Assets that belong to an image set.
-seo-description: Assets that belong to an image set.
-seo-title: ImageSetMember
+
+
 solution: Experience Manager
 title: ImageSetMember
-uuid: bd013609-aed7-4c85-80f9-16be7fce99a3
+
 feature: Dynamic Media Classic,SDK/API,Image Sets
 role: Developer,Administrator
 ---

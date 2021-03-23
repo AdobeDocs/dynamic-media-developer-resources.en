@@ -1,10 +1,7 @@
 ---
 description: Debug request. This debug command parses and preprocesses the request, execute image catalog lookups, catalog Modifier inclusions, macro and variable substitutions, etc, just like req=img.
-seo-description: Debug request. This debug command parses and preprocesses the request, execute image catalog lookups, catalog Modifier inclusions, macro and variable substitutions, etc, just like req=img.
-seo-title: resolve
 solution: Experience Manager
 title: resolve
-uuid: bd1576a7-4802-4a87-b1c0-406f51382561
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

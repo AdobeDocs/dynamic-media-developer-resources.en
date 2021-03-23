@@ -1,10 +1,10 @@
 ---
 description: The following commands comprise the batch processing API exposed by PlatformServer.
-seo-description: The following commands comprise the batch processing API exposed by PlatformServer.
-seo-title: Batch processing commands
+
+
 solution: Experience Manager
 title: Batch processing commands
-uuid: e82c8106-8ea5-42c6-8ca9-ee9b8d9deb57
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

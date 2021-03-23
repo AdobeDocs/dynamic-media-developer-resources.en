@@ -1,10 +1,10 @@
 ---
 description: Configuration attribute for Video360 Viewer.
-seo-description: Configuration attribute for Video360 Viewer.
-seo-title: Video360Player.ssl
+
+
 solution: Experience Manager
 title: Video360Player.ssl
-uuid: 00c8295c-cc41-489c-a444-ba9189426a20
+
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
 ---

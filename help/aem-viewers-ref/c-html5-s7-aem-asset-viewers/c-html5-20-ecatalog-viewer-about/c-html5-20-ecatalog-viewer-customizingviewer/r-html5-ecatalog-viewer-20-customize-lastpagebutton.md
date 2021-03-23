@@ -1,10 +1,10 @@
 ---
 description: Clicking or tapping on this button brings the user to the last page in the catalog. This button appears in the main control bar on desktop systems and tablets; on mobile phones it is added to a secondary control bar. You can size, skin, and position this button by using CSS.
-seo-description: Clicking or tapping on this button brings the user to the last page in the catalog. This button appears in the main control bar on desktop systems and tablets; on mobile phones it is added to a secondary control bar. You can size, skin, and position this button by using CSS.
-seo-title: Last page button
+
+
 solution: Experience Manager
 title: Last page button
-uuid: f77b9ac5-4f00-41d4-9495-c4805d4a41f9
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
 ---

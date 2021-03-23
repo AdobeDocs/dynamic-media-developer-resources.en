@@ -2,7 +2,7 @@
 description: PageView.fmt
 solution: Experience Manager
 title: PageView.fmt
-uuid: bbae406c-9169-4944-8e91-f2d7c8011520
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
 ---

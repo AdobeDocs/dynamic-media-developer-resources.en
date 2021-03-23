@@ -1,10 +1,10 @@
 ---
 description: Rules container element. A valid rule set file contains one <ruleset> element.
-seo-description: Rules container element. A valid rule set file contains one <ruleset> element.
-seo-title: ruleset
+
+
 solution: Experience Manager
 title: ruleset
-uuid: 92e691ac-079e-4f84-9142-80e0c603cfc3
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

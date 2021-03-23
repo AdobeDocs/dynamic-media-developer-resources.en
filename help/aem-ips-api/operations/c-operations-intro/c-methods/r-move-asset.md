@@ -1,10 +1,10 @@
 ---
 description: Moves an asset to a specific folder.
-seo-description: Moves an asset to a specific folder.
-seo-title: moveAsset
+
+
 solution: Experience Manager
 title: moveAsset
-uuid: cabeb7b7-ab0b-44d0-ad90-623f76e4323d
+
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

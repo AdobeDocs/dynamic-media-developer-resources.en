@@ -1,10 +1,10 @@
 ---
 description: Main view consists of the banner image.
-seo-description: Main view consists of the banner image.
-seo-title: Carousel view
+
+
 solution: Experience Manager
 title: Carousel view
-uuid: bf2065cc-fef2-4d4e-ab2a-a533fa063a80
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
 ---

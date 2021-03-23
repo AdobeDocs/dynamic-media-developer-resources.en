@@ -1,10 +1,7 @@
 ---
 description: Creates a new asset derived from an existing primary source image asset.
-seo-description: Creates a new asset derived from an existing primary source image asset.
-seo-title: createDerivedAsset
 solution: Experience Manager
 title: createDerivedAsset
-uuid: e1f9b690-af34-4da5-a534-c3a8c6b0a8fc
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

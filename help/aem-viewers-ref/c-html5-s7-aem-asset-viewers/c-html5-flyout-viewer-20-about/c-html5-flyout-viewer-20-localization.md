@@ -1,10 +1,10 @@
 ---
 description: Certain content that the Flyout Viewer displays is subject to localization. This content includes user interface element tool tips and information messages that are displayed by the flyout zoom view on load.
-seo-description: Certain content that the Flyout Viewer displays is subject to localization. This content includes user interface element tool tips and information messages that are displayed by the flyout zoom view on load.
-seo-title: Localization of user interface elements
+
+
 solution: Experience Manager
 title: Localization of user interface elements
-uuid: efba09ad-200b-4540-8876-c9e462ec233a
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,Business Practitioner
 ---

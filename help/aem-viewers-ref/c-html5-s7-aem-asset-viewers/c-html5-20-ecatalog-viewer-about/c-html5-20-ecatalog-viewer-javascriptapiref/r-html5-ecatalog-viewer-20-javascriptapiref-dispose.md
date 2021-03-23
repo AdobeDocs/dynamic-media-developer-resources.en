@@ -1,10 +1,10 @@
 ---
 description: JavaScript API reference for eCatalog Viewer.
-seo-description: JavaScript API reference for eCatalog Viewer.
-seo-title: dispose
+
+
 solution: Experience Manager
 title: dispose
-uuid: b2073d03-a0a0-4f55-a350-7336ddcf031d
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
 ---

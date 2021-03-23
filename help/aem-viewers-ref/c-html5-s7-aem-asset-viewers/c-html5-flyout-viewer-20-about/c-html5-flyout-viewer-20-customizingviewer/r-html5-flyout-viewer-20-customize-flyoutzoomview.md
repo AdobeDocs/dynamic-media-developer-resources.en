@@ -1,10 +1,10 @@
 ---
 description: The main view consists of the static image, the zoomed image shown in the flyout view, the highlight navigation area displayed over the static image and the tip message shown on top of static image.
-seo-description: The main view consists of the static image, the zoomed image shown in the flyout view, the highlight navigation area displayed over the static image and the tip message shown on top of static image.
-seo-title: Flyout zoom view
+
+
 solution: Experience Manager
 title: Flyout zoom view
-uuid: 35c60228-3044-442b-a8e2-e13d0bd306a5
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,Business Practitioner
 ---

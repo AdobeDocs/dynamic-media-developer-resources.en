@@ -1,10 +1,10 @@
 ---
 description: Vignette identifier. Index key value by which records in the vignette map file are looked up by the server.
-seo-description: Vignette identifier. Index key value by which records in the vignette map file are looked up by the server.
-seo-title: Id
+
+
 solution: Experience Manager
 title: Id
-uuid: 2af1f501-4236-4b95-8e90-31a5e7f26bc3
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

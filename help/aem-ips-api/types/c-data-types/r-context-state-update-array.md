@@ -1,10 +1,10 @@
 ---
 description: An array of context state updates.
-seo-description: An array of context state updates.
-seo-title: ContextStateUpdateArray
+
+
 solution: Experience Manager
 title: ContextStateUpdateArray
-uuid: 07212f37-4394-48c1-bd52-b1768950b0d4
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

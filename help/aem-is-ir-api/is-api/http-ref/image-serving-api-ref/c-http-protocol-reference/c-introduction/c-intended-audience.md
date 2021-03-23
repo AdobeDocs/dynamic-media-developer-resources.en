@@ -1,10 +1,7 @@
 ---
 description: Experienced programmers and website developers who want to leverage Dynamic Media Image Serving for a website or a custom application.
-seo-description: Experienced programmers and website developers who want to leverage Dynamic Media Image Serving for a website or a custom application.
-seo-title: Intended audience
 solution: Experience Manager
 title: Intended audience
-uuid: 610fe9a9-897d-4e20-8879-334587c54a5b
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

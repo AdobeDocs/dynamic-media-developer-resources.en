@@ -1,10 +1,10 @@
 ---
 description: Sets or updates an XMP metadata packet for an asset.
-seo-description: Sets or updates an XMP metadata packet for an asset.
-seo-title: updateXMPPacket
+
+
 solution: Experience Manager
 title: updateXMPPacket
-uuid: 97a40261-8f85-4e8c-8aa5-ed4fec297f33
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

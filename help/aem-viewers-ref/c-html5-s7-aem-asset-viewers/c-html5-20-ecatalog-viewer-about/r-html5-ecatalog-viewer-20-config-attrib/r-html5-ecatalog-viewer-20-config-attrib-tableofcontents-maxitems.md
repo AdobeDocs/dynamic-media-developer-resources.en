@@ -2,7 +2,7 @@
 description: TableOfContents.maxitems
 solution: Experience Manager
 title: TableOfContents.maxitems
-uuid: b1ed5145-e5d1-4458-94c4-00ee55f58a05
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,7 @@
 ---
 description: Create a fixed-size template with a static background image, a variable image which is aligned with the background at the left-center and scaled to not exceed 80% of the width and height of the background, and one text layer with vertical text centered at the right edge of the canvas.
-seo-description: Create a fixed-size template with a static background image, a variable image which is aligned with the background at the left-center and scaled to not exceed 80% of the width and height of the background, and one text layer with vertical text centered at the right edge of the canvas.
-seo-title: Example A
 solution: Experience Manager
 title: Example A
-uuid: c250dbc8-1e32-46b8-ba55-c1fb0ae62695
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

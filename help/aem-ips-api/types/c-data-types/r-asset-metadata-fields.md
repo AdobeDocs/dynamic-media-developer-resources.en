@@ -1,10 +1,10 @@
 ---
 description: Returns metadata field definitions for specified asset types.
-seo-description: Returns metadata field definitions for specified asset types.
-seo-title: AssetMetadataFields
+
+
 solution: Experience Manager
 title: AssetMetadataFields
-uuid: aefb734c-7609-4227-ae2c-48a1469740ec
+
 feature: Dynamic Media Classic,SDK/API,Metadata,Asset Management
 role: Developer,Administrator
 ---

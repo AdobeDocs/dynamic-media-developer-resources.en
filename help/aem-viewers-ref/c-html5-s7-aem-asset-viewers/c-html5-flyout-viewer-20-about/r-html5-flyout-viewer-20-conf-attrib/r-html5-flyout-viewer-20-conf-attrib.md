@@ -1,10 +1,10 @@
 ---
 description: Configuration attributes documentation for Flyout Viewer
-seo-description: Configuration attributes documentation for Flyout Viewer
-seo-title: Command reference – Configuration attributes
+
+
 solution: Experience Manager
 title: Command reference – Configuration attributes
-uuid: d7e89a24-a235-4f20-86d1-25aacd118880
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,Business Practitioner
 ---

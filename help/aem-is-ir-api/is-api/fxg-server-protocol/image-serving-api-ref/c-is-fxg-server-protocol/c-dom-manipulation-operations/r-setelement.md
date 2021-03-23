@@ -1,10 +1,10 @@
 ---
 description: Set XML to a s7 elementID.
-seo-description: Set XML to a s7 elementID.
-seo-title: setElement
+
+
 solution: Experience Manager
 title: setElement
-uuid: 717c9c3c-a2e0-4179-8158-9913f4e09a96
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

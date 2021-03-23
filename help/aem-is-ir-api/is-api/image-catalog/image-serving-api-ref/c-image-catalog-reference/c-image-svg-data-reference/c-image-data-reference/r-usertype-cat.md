@@ -1,10 +1,7 @@
 ---
 description: Static content user type. Allows assigning a user-specified type to static content items.
-seo-description: Static content user type. Allows assigning a user-specified type to static content items.
-seo-title: UserType
 solution: Experience Manager
 title: UserType
-uuid: 0ce53373-7896-434c-8249-39037089fab9
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

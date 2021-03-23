@@ -1,10 +1,7 @@
 ---
 description: The text= renderer positions text fundamentally different than the textPs= renderer when applied to pre-sized layers (i.e. when size= is specified as well).
-seo-description: The text= renderer positions text fundamentally different than the textPs= renderer when applied to pre-sized layers (i.e. when size= is specified as well).
-seo-title: Text positioning
 solution: Experience Manager
 title: Text positioning
-uuid: 77289c50-2f3a-4486-8274-eecfd6e5452f
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -2,7 +2,7 @@
 description: PageView.zoomstep
 solution: Experience Manager
 title: PageView.zoomstep
-uuid: 11458300-4a1b-4623-8ea1-db804daab3cf
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
 ---

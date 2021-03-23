@@ -1,10 +1,10 @@
 ---
 description: Returns Zip file data.
-seo-description: Returns Zip file data.
-seo-title: getZipEntries
+
+
 solution: Experience Manager
 title: getZipEntries
-uuid: cfc45f83-1cf9-4c50-9aac-5a731e62a839
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

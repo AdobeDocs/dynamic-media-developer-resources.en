@@ -1,10 +1,10 @@
 ---
 description: Thumbnail image update.
-seo-description: Thumbnail image update.
-seo-title: ThumbAssetUpdate
+
+
 solution: Experience Manager
 title: ThumbAssetUpdate
-uuid: 08330bf7-4d92-4301-afe9-69925747e36a
+
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

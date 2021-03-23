@@ -1,10 +1,10 @@
 ---
 description: Image Rendering is configured with the fileinstall_folder/conf/ImageRendering.conf.
-seo-description: Image Rendering is configured with the fileinstall_folder/conf/ImageRendering.conf.
-seo-title: Setup and configure Image Rendering
+
+
 solution: Experience Manager
 title: Setup and configure Image Rendering
-uuid: ce76282d-d942-4378-b083-41c95ba97980
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

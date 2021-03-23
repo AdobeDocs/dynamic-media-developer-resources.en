@@ -1,10 +1,10 @@
 ---
 description: An array of assets.
-seo-description: An array of assets.
-seo-title: AssetArray
+
+
 solution: Experience Manager
 title: AssetArray
-uuid: ab432380-1266-473a-9214-32e9244e1997
+
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

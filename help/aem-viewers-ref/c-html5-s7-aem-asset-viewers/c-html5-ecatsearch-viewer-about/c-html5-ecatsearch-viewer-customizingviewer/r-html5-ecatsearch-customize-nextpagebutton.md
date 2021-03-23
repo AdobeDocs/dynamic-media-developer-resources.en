@@ -1,10 +1,10 @@
 ---
 description: Clicking or tapping on this button brings the user to the next page in the catalog. This button appears in the main control bar. This button is not displayed on mobile phones to save screen real estate. You can size, skin, and position this button by using CSS.
-seo-description: Clicking or tapping on this button brings the user to the next page in the catalog. This button appears in the main control bar. This button is not displayed on mobile phones to save screen real estate. You can size, skin, and position this button by using CSS.
-seo-title: Next page button
+
+
 solution: Experience Manager
 title: Next page button
-uuid: dce92ce7-94c0-4f94-9842-8621d1112bea
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
 ---

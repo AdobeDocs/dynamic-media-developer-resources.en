@@ -1,10 +1,7 @@
 ---
 description: All fonts referenced in the RTF string must be available in the font map file of the default catalog or the current image catalog, otherwise an error is returned.
-seo-description: All fonts referenced in the RTF string must be available in the font map file of the default catalog or the current image catalog, otherwise an error is returned.
-seo-title: Font handling
 solution: Experience Manager
 title: Font handling
-uuid: 6a751973-5dae-472e-a908-bf24fa59d031
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

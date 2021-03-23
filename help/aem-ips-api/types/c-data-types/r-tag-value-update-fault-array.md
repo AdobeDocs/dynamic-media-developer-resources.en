@@ -1,10 +1,10 @@
 ---
 description: An array of tag value update faults.
-seo-description: An array of tag value update faults.
-seo-title: TagValueUpdateFaultArray
+
+
 solution: Experience Manager
 title: TagValueUpdateFaultArray
-uuid: c0dae056-3c26-4b8e-9069-c63a8a1b719f
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

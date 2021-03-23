@@ -1,10 +1,7 @@
 ---
 description: Creates a new project.
-seo-description: Creates a new project.
-seo-title: createProject
 solution: Experience Manager
 title: createProject
-uuid: e011b7ba-6c15-47ef-9ea1-6189c37e7719
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

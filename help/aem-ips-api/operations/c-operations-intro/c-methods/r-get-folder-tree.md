@@ -1,10 +1,10 @@
 ---
 description: Returns folders and subfolders in a hierarchical tree structure. The getFolderTree response is limited to a maximum of 100,000 folders
-seo-description: Returns folders and subfolders in a hierarchical tree structure. The getFolderTree response is limited to a maximum of 100,000 folders
-seo-title: getFolderTree
+
+
 solution: Experience Manager
 title: getFolderTree
-uuid: 93fda0d6-c656-4254-b07b-7a448e164f28
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

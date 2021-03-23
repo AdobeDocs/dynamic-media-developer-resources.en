@@ -1,10 +1,10 @@
 ---
 description: Allow absolute source URLs.
-seo-description: Allow absolute source URLs.
-seo-title: AllowDirectURLs
+
+
 solution: Experience Manager
 title: AllowDirectURLs
-uuid: 6b03abd1-bff6-4ff2-9945-9905355de87e
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

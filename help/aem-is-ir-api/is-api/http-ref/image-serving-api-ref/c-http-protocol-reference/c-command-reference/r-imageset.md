@@ -1,10 +1,7 @@
 ---
 description: Image Set. Specifies an image set value for use when generating req=set response.
-seo-description: Image Set. Specifies an image set value for use when generating req=set response.
-seo-title: imageSet
 solution: Experience Manager
 title: imageSet
-uuid: ecfb3905-e3ef-4ab8-a2c4-2c3f200e0f0f
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

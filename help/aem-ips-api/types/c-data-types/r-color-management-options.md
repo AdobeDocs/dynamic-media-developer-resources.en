@@ -1,10 +1,10 @@
 ---
 description: Options specified during upload. Affects how color is managed for the upload.
-seo-description: Options specified during upload. Affects how color is managed for the upload.
-seo-title: ColorManagementOptions
+
+
 solution: Experience Manager
 title: ColorManagementOptions
-uuid: ddf50d22-8d7b-4881-8023-bd7f58cbd882
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

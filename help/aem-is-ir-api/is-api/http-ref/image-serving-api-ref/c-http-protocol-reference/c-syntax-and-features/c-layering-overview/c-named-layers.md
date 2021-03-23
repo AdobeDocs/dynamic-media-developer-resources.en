@@ -1,10 +1,7 @@
 ---
 description: The layer= command allows assigning a name to a layer and later reference the same layer by name rather than layer number.
-seo-description: The layer= command allows assigning a name to a layer and later reference the same layer by name rather than layer number.
-seo-title: Named layers
 solution: Experience Manager
 title: Named layers
-uuid: dad30027-338b-4387-9a14-b26c1b925b18
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

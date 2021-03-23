@@ -1,10 +1,7 @@
 ---
 description: Postscript font face name. The Postscript font face name.
-seo-description: Postscript font face name. The Postscript font face name.
-seo-title: PsName
 solution: Experience Manager
 title: PsName
-uuid: 8c7624c5-7f34-4128-abb7-94c007669b80
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

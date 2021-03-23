@@ -1,10 +1,7 @@
 ---
 description: The playlog utility can be used to pre-generate contents for the HTTP response cache.
-seo-description: The playlog utility can be used to pre-generate contents for the HTTP response cache.
-seo-title: The 'playlog' utility
 solution: Experience Manager
 title: The 'playlog' utility
-uuid: 9044515e-7cfb-4e86-9ac4-e071b60f38d1
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

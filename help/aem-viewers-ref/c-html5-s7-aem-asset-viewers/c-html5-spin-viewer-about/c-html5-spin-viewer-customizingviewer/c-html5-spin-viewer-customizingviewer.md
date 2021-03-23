@@ -1,11 +1,11 @@
 ---
 description: All visual customization and most behavior customization for the Spin Viewer is done by creating a custom CSS.
 keywords: responsive
-seo-description: All visual customization and most behavior customization for the Spin Viewer is done by creating a custom CSS.
-seo-title: Customizing Spin Viewer
+
+
 solution: Experience Manager
 title: Customizing Spin Viewer
-uuid: d951501c-d6da-454c-be2f-0887ffcac77c
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
 ---

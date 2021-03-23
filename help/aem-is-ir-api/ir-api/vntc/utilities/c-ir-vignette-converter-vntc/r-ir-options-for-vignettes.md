@@ -1,10 +1,10 @@
 ---
 description: The following options control the processing of vignette files. They are ignored if sourceFile is not a vignette.
-seo-description: The following options control the processing of vignette files. They are ignored if sourceFile is not a vignette.
-seo-title: Options for vignettes
+
+
 solution: Experience Manager
 title: Options for vignettes
-uuid: 0cb40314-07ce-496b-a27b-560d7bb4fa8e
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

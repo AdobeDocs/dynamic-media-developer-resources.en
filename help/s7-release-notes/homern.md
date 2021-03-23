@@ -1,8 +1,8 @@
 ---
 title: Adobe Dynamic Media Classic release notes
-seo-title: Adobe Dynamic Media Classic release notes
+
 description: Adobe Dynamic Media Classic release notes
-seo-description: Adobe Dynamic Media release notes
+
 ---
 
 # Dynamic Media Release Notes{#dynamic-media-release-notes}

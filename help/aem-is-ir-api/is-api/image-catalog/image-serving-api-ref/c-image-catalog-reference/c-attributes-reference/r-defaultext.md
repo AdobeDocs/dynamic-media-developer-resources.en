@@ -1,10 +1,7 @@
 ---
 description: Default image file suffix. Appended to the catalog Path (or catalog MaskPath) field value if the path does not include a file suffix
-seo-description: Default image file suffix. Appended to the catalog Path (or catalog MaskPath) field value if the path does not include a file suffix
-seo-title: DefaultExt
 solution: Experience Manager
 title: DefaultExt
-uuid: aa245d18-15cc-41cb-a49d-757d74fe6231
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

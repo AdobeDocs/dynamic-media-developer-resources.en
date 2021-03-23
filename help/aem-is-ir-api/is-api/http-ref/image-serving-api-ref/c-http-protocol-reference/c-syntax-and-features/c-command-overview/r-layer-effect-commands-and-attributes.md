@@ -1,10 +1,7 @@
 ---
 description: These commands can be used to define layer effects, such as drop shadow or glow effects. Effect layers ignore all other commands.
-seo-description: These commands can be used to define layer effects, such as drop shadow or glow effects. Effect layers ignore all other commands.
-seo-title: Layer effect commands
 solution: Experience Manager
 title: Layer effect commands
-uuid: 5fef90d1-0507-497b-9187-869672996852
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,10 @@
 ---
 description: Main view consists of the zoomable image.
-seo-description: Main view consists of the zoomable image.
-seo-title: Zoom view
+
+
 solution: Experience Manager
 title: Zoom view
-uuid: 34cb6c80-77eb-42b0-91dd-ae0369ea2881
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,10 @@
 ---
 description: $var$ references may occur anywhere within the curly braces of a nested Image Serving or Image Rendering request, including to the left of the '?' separating the path from the query.
-seo-description: $var$ references may occur anywhere within the curly braces of a nested Image Serving or Image Rendering request, including to the left of the '?' separating the path from the query.
-seo-title: Variable processing in nested requests
+
+
 solution: Experience Manager
 title: Variable processing in nested requests
-uuid: 2f3fefac-d45e-4c53-854f-1fe16d0cedd9
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

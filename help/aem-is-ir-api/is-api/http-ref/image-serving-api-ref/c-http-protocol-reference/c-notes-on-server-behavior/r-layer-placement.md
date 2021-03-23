@@ -1,10 +1,7 @@
 ---
 description: Layers are positioned by aligning the layer origin (origin=) with the background layer origin at an offset specified by pos=.
-seo-description: Layers are positioned by aligning the layer origin (origin=) with the background layer origin at an offset specified by pos=.
-seo-title: Layer placement
 solution: Experience Manager
 title: Layer placement
-uuid: d9d778f2-13dd-4ea1-a703-52eac70bb3d8
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

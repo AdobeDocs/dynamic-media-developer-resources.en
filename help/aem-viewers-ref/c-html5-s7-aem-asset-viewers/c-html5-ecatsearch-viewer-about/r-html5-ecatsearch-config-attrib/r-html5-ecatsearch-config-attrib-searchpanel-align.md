@@ -2,7 +2,7 @@
 description: SearchPanel.align
 solution: Experience Manager
 title: SearchPanel.align
-uuid: 769ae5e4-23ee-435a-9a56-d84a32004b00
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
 ---

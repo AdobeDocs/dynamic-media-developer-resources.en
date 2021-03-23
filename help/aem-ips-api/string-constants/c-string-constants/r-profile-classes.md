@@ -1,10 +1,10 @@
 ---
 description: Used by IccProfileFieldUpdate/class.
-seo-description: Used by IccProfileFieldUpdate/class.
-seo-title: Profile Classes
+
+
 solution: Experience Manager
 title: Profile Classes
-uuid: da73b9d9-e19e-4166-a4c4-14f7eb17e3d5
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

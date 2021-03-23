@@ -1,10 +1,7 @@
 ---
 description: The following fields are recognized in image and SVG data files.
-seo-description: The following fields are recognized in image and SVG data files.
-seo-title: Image_SVG data
 solution: Experience Manager
 title: Image_SVG data
-uuid: 6f9595b3-d448-4aa1-87fe-edddfdd48873
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,10 @@
 ---
 description: Illumination map selector. Allows explicit selection of the illumination map to be used when rendering this material.
-seo-description: Illumination map selector. Allows explicit selection of the illumination map to be used when rendering this material.
-seo-title: Illum
+
+
 solution: Experience Manager
 title: Illum
-uuid: 2df0abbb-0d54-41b7-80c4-b914c18cd1b1
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

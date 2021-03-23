@@ -1,10 +1,7 @@
 ---
 description: In addition to sizing (size=) and positioning (pos=) layers relative to layer 0 and specifying the compositing order (the z-order) with the layer= command, layers can be rotated (rotate=) and flipped (flip=).
-seo-description: In addition to sizing (size=) and positioning (pos=) layers relative to layer 0 and specifying the compositing order (the z-order) with the layer= command, layers can be rotated (rotate=) and flipped (flip=).
-seo-title: Layer operations
 solution: Experience Manager
 title: Layer operations
-uuid: a9ef4199-cfa2-480e-a4de-8a0b9064a649
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

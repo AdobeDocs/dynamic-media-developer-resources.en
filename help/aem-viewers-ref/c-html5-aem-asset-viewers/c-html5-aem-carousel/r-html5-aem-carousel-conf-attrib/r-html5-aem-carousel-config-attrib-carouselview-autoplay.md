@@ -1,10 +1,10 @@
 ---
 description: Configuration attribute for Carousel Viewer.
-seo-description: Configuration attribute for Carousel Viewer.
-seo-title: CarouselView.autoplay
+
+
 solution: Experience Manager
 title: CarouselView.autoplay
-uuid: 12730b17-110e-405b-97fe-e70fab89c703
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
 ---

@@ -1,11 +1,11 @@
 ---
 description: All visual customization and most behavior customization for the Interactive Video Viewer is done by creating a custom CSS.
 keywords: responsive
-seo-description: All visual customization and most behavior customization for the Interactive Video Viewer is done by creating a custom CSS.
-seo-title: Customizing Interactive Video Viewer
+
+
 solution: Experience Manager
 title: Customizing Interactive Video Viewer
-uuid: a24e7ada-c874-468b-ac44-a51d581d4479
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
 ---

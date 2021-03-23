@@ -1,10 +1,7 @@
 ---
 description: Default font face name. Specifies which font should be used if no font is provided by a text= request.
-seo-description: Default font face name. Specifies which font should be used if no font is provided by a text= request.
-seo-title: DefaultFont
 solution: Experience Manager
 title: DefaultFont
-uuid: 0d1ada8d-2ffe-4799-b771-8f9113e04661
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

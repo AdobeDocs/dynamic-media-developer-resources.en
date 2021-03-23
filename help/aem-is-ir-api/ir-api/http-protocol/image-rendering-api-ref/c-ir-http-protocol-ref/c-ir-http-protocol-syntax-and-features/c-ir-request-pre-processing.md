@@ -1,10 +1,10 @@
 ---
 description: Image Rendering provides a simple request pre-processor based on regular-expression match and substitution rules.
-seo-description: Image Rendering provides a simple request pre-processor based on regular-expression match and substitution rules.
-seo-title: Request pre-processing *
+
+
 solution: Experience Manager
 title: Request pre-processing *
-uuid: ef69ea23-753c-40c8-9edd-eab9c8820c98
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

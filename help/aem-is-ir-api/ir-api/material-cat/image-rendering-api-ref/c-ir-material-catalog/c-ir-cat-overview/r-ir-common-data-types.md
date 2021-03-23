@@ -1,10 +1,10 @@
 ---
 description: Catalog attributes and fields may contain data of one of the following types.
-seo-description: Catalog attributes and fields may contain data of one of the following types.
-seo-title: Common data types
+
+
 solution: Experience Manager
 title: Common data types
-uuid: b36cf09d-dee2-4e8b-9500-e8fa4c5c112f
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

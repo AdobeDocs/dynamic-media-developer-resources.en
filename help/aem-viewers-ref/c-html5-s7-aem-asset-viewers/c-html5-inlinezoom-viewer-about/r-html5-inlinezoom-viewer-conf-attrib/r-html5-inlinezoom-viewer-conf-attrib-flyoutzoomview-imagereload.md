@@ -2,7 +2,7 @@
 description: FlyoutZoomView.imagereload
 solution: Experience Manager
 title: FlyoutZoomView.imagereload
-uuid: 98a84ba1-4b89-424a-ac2e-4a59af33cec0
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,Business Practitioner
 ---

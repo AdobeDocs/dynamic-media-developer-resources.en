@@ -1,11 +1,11 @@
 ---
 description: All visual customization and most behavior customization for the Carousel Viewer is done by creating a custom CSS.
 keywords: responsive
-seo-description: All visual customization and most behavior customization for the Carousel Viewer is done by creating a custom CSS.
-seo-title: Customizing Carousel Viewer
+
+
 solution: Experience Manager
 title: Customizing Carousel Viewer
-uuid: a35dac3c-8785-42bf-8284-e400128f213c
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
 ---

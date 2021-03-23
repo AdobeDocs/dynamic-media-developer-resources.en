@@ -1,10 +1,10 @@
 ---
 description: Configuration attributes documentation for eCatalog Viewer.
-seo-description: Configuration attributes documentation for eCatalog Viewer.
-seo-title: Command reference – Configuration attributes
+
+
 solution: Experience Manager
 title: Command reference – Configuration attributes
-uuid: 823ad411-653a-44de-97de-147e3b27a917
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
 ---

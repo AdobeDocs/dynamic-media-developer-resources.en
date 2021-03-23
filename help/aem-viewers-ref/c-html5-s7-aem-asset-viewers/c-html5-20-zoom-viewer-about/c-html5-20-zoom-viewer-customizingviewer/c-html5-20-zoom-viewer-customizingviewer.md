@@ -1,11 +1,11 @@
 ---
 description: All visual customization and most behavior customization for the Zoom Viewer is done by creating a custom CSS.
 keywords: responsive
-seo-description: All visual customization and most behavior customization for the Zoom Viewer is done by creating a custom CSS.
-seo-title: Customizing Zoom Viewer
+
+
 solution: Experience Manager
 title: Customizing Zoom Viewer
-uuid: 7ecbc4cc-b5c0-4f4a-b747-03c484de6851
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
 ---

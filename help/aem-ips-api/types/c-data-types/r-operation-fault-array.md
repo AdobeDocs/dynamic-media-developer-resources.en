@@ -1,10 +1,10 @@
 ---
 description: An array of messages responding to one the URL provided in the CDN invalidation request.
-seo-description: An array of messages responding to one the URL provided in the CDN invalidation request.
-seo-title: OperationFaultArray
+
+
 solution: Experience Manager
 title: OperationFaultArray
-uuid: dbf4ab5e-50fb-42f1-a97a-f8d07022b303
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

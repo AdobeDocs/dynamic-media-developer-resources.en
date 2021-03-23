@@ -1,10 +1,10 @@
 ---
 description: JavaScript API reference for Flyout Viewer.
-seo-description: JavaScript API reference for Flyout Viewer.
-seo-title: dispose
+
+
 solution: Experience Manager
 title: dispose
-uuid: 08720384-1520-4a5d-bd26-a043ba708774
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,Business Practitioner
 ---

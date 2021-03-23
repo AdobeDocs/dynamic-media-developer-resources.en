@@ -1,10 +1,10 @@
 ---
 description: Sets the list of assets associated with an image set.
-seo-description: Sets the list of assets associated with an image set.
-seo-title: setImageSetMembers
+
+
 solution: Experience Manager
 title: setImageSetMembers
-uuid: 84a73ff4-e93f-4764-80e8-e15f1fec1aeb
+
 feature: Dynamic Media Classic,SDK/API,Image Sets
 role: Developer,Administrator
 ---

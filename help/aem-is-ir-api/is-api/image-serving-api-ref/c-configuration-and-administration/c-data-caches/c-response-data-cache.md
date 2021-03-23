@@ -1,10 +1,7 @@
 ---
 description: The Platform Server caches all reply image and certain text data to disk unless a request is marked as non-cacheable.
-seo-description: The Platform Server caches all reply image and certain text data to disk unless a request is marked as non-cacheable.
-seo-title: Response data cache
 solution: Experience Manager
 title: Response data cache
-uuid: dbfda210-3b50-4e8c-8d77-7263ae4e80a2
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

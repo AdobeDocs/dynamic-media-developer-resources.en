@@ -1,10 +1,10 @@
 ---
 description: The following attributes are recognized in catalog attribute files.
-seo-description: The following attributes are recognized in catalog attribute files.
-seo-title: Catalog attributes
+
+
 solution: Experience Manager
 title: Catalog attributes
-uuid: 91e1fbf8-cb0f-4509-814c-40f7bdbd74db
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

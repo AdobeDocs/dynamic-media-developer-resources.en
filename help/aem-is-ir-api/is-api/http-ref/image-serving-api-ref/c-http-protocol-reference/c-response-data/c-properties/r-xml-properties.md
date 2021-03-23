@@ -1,10 +1,7 @@
 ---
 description: If xml is specified as the response format, the reply data is formatted as an XML document which can be parsed by any standard XML parser.
-seo-description: If xml is specified as the response format, the reply data is formatted as an XML document which can be parsed by any standard XML parser.
-seo-title: XML properties
 solution: Experience Manager
 title: XML properties
-uuid: 9d169ad2-e466-4ab3-8900-ea9c6125edad
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

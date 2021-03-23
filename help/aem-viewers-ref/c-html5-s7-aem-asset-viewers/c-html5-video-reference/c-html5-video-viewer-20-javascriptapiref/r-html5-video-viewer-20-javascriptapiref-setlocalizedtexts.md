@@ -2,7 +2,7 @@
 description: setLocalizedTexts
 solution: Experience Manager
 title: setLocalizedTexts
-uuid: df94044f-7f09-4645-8a6b-6dc58751ddcc
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
 ---

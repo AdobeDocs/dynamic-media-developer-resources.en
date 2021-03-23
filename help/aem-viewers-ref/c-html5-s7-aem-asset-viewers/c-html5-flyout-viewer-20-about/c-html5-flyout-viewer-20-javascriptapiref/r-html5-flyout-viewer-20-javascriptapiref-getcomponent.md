@@ -1,10 +1,10 @@
 ---
 description: JavaScript API reference for Flyout Viewer
-seo-description: JavaScript API reference for Flyout Viewer
-seo-title: getComponent
+
+
 solution: Experience Manager
 title: getComponent
-uuid: 039d5df8-e912-4868-8ae6-855617693797
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,Business Practitioner
 ---

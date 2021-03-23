@@ -1,10 +1,10 @@
 ---
 description: Toggles the closed caption display on and off. It is not visible if the caption parameter is not specified. You can use CSS to size, skin, and position this button relative to the control bar that contains it.
-seo-description: Toggles the closed caption display on and off. It is not visible if the caption parameter is not specified. You can use CSS to size, skin, and position this button relative to the control bar that contains it.
-seo-title: Caption button
+
+
 solution: Experience Manager
 title: Caption button
-uuid: a03170e4-aaa9-4822-99dd-b9cf13206bbc
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
 ---

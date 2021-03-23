@@ -1,10 +1,10 @@
 ---
 description: The main control bar is the rectangular area on desktop systems and tablets that contain all user interface controls (except Large Page buttons) available for the eCatalog Search viewer.
-seo-description: The main control bar is the rectangular area on desktop systems and tablets that contain all user interface controls (except Large Page buttons) available for the eCatalog Search viewer.
-seo-title: Main control bar
+
+
 solution: Experience Manager
 title: Main control bar
-uuid: 21b6e6cd-115f-4c7b-a61e-34b307142045
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
 ---

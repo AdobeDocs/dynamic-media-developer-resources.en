@@ -1,10 +1,7 @@
 ---
 description: Catalog attribute files recognize these request attributes.
-seo-description: Catalog attribute files recognize these request attributes.
-seo-title: Request attributes
 solution: Experience Manager
 title: Request attributes
-uuid: 02156b81-9f18-461e-94c1-43b1155c4ab6
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

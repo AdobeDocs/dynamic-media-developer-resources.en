@@ -1,10 +1,7 @@
 ---
 description: This document uses the following conventions.
-seo-description: This document uses the following conventions.
-seo-title: Document conventions
 solution: Experience Manager
 title: Document conventions
-uuid: 049c4d1b-b363-43bd-9597-168c97884ab7
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

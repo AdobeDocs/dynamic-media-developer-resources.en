@@ -1,10 +1,10 @@
 ---
 description: Color conversion rendering intent. Provides the default rendering intent for color conversions when the render intent is not specified with icc=.
-seo-description: Color conversion rendering intent. Provides the default rendering intent for color conversions when the render intent is not specified with icc=.
-seo-title: IccRenderIntent
+
+
 solution: Experience Manager
 title: IccRenderIntent
-uuid: a9648405-32c3-4762-bbb2-11e97d4f8374
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

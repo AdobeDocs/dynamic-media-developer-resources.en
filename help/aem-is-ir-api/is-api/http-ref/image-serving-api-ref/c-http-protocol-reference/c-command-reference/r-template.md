@@ -1,17 +1,14 @@
 ---
 description: Compositing template. Allows specifying a compositing template located in a catalog other than the main catalog.
-seo-description: Compositing template. Allows specifying a compositing template located in a catalog other than the main catalog.
-seo-title: template
 solution: Experience Manager
 title: template
-uuid: 59b37d60-1d0c-4d0b-a5a0-98d8bf9e9064
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---
 
 # template{#template}
 
-Compositing template. Allows specifying a compositing template located in a catalog other than the main catalog.
+Compositing template. Lets you specify a compositing template in a catalog other than the main catalog.
 
  `template= *`template`*`
 
@@ -24,9 +21,9 @@ Compositing template. Allows specifying a compositing template located in a cata
 
 *`template`* must be an image catalog entry with the template body contained in `catalog::Modifier`.
 
-When `template=` is present, the object specified in the request path will not be applied as the source for layer 0, but can be referenced as a `src=` or `mask=` anywhere in the template by using the predefined path variable `$object$` as a `src=` value. `catalog::Modifier` of the object specified in the request path is only applied in connection with the substitution of `$object$` within the template, while `catalog::PostModifier` is always applied.
+When `template=` is present, the object specified in the request path is not be applied as the source for layer 0. However, it can be referenced as a `src=` or `mask=` anywhere in the template by using the predefined path variable `$object$` as a `src=` value. `catalog::Modifier` of the object specified in the request path is only applied with the substitution of `$object$` within the template, while `catalog::PostModifier` is always applied.
 
-Layer 0 is defined in the template body and may be an image, solid color, text, or nested or embedded request layer.
+Layer 0 is defined in the template body and can be an image, solid color, text, or nested or embedded request layer.
 
 `catalog:PostModifier` of *`object`* is ignored when *`object`* is used with `template=`.
 

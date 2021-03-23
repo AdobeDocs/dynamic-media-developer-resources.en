@@ -1,10 +1,7 @@
 ---
 description: Default print resolution. Provides a default print resolution in case a particular catalog record does not contain a valid catalog PrintResolution value.
-seo-description: Default print resolution. Provides a default print resolution in case a particular catalog record does not contain a valid catalog PrintResolution value.
-seo-title: PrintResolution
 solution: Experience Manager
 title: PrintResolution
-uuid: 6333c630-2df1-4eb1-b2fb-e67692f747eb
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

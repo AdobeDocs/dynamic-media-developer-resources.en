@@ -3,7 +3,7 @@ description: Customizing Flyout Viewer
 keywords: responsive
 solution: Experience Manager
 title: Customizing Flyout Viewer
-uuid: 10b5caa4-5298-43fa-af86-4f0b77be967b
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,10 @@
 ---
 description: Gets a property set type using a handle to a company and the name of the property set type. It gets a type structure with the handle to the type as well as the property type.
-seo-description: Gets a property set type using a handle to a company and the name of the property set type. It gets a type structure with the handle to the type as well as the property type.
-seo-title: getPropertySetType
+
+
 solution: Experience Manager
 title: getPropertySetType
-uuid: 203fa949-a81e-455a-a83e-576b6f65e3af
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

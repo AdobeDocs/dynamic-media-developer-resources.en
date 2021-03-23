@@ -1,10 +1,10 @@
 ---
 description: Color swatches consist of a row of thumbnail images with optional scroll buttons on the left and right hand side. Color swatches are only visible on the desktop if all thumbnails cannot fit into the width of the container. On mobile devices, or if thumbnails can fit into the container width, scroll buttons are not shown.
-seo-description: Color swatches consist of a row of thumbnail images with optional scroll buttons on the left and right hand side. Color swatches are only visible on the desktop if all thumbnails cannot fit into the width of the container. On mobile devices, or if thumbnails can fit into the container width, scroll buttons are not shown.
-seo-title: Color swatches
+
+
 solution: Experience Manager
 title: Color swatches
-uuid: 868d938f-578a-4ecf-8a71-9569450492fb
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
 ---

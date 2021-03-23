@@ -1,10 +1,10 @@
 ---
 description: Configuration attribute for Interactive Video Viewer.
-seo-description: Configuration attribute for Interactive Video Viewer.
-seo-title: InteractiveSwatches.fmt
+
+
 solution: Experience Manager
 title: InteractiveSwatches.fmt
-uuid: 0a30c913-39d1-4521-b65c-f2b3879f6928
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
 ---

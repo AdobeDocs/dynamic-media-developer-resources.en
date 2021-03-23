@@ -1,10 +1,7 @@
 ---
 description: Font map file path. Specifies the file which contains the font map for this image catalog.
-seo-description: Font map file path. Specifies the file which contains the font map for this image catalog.
-seo-title: FontMapFile
 solution: Experience Manager
 title: FontMapFile
-uuid: 84774ae3-c038-444b-ba00-d8528e6d0de8
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

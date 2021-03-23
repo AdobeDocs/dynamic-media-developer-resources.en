@@ -1,10 +1,10 @@
 ---
 description: Task item progress information.
-seo-description: Task item progress information.
-seo-title: TaskItemProgress
+
+
 solution: Experience Manager
 title: TaskItemProgress
-uuid: 7cca2ad9-c8f9-4dff-a055-d03fa2c50cec
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

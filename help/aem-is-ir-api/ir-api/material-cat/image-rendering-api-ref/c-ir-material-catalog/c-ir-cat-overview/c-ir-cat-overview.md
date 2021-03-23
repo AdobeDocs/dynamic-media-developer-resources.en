@@ -1,10 +1,10 @@
 ---
 description: Material catalogs provide information about vignettes, materials, and supporting data, such as ICC profiles, to the server.
-seo-description: Material catalogs provide information about vignettes, materials, and supporting data, such as ICC profiles, to the server.
-seo-title: Material catalog overview *
+
+
 solution: Experience Manager
 title: Material catalog overview *
-uuid: f2128b64-8caf-4a59-b11f-604fe62bae69
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

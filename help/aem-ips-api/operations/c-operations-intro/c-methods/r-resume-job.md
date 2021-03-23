@@ -1,10 +1,10 @@
 ---
 description: Restarts a paused job.
-seo-description: Restarts a paused job.
-seo-title: resumeJob
+
+
 solution: Experience Manager
 title: resumeJob
-uuid: 0ca5db75-cce0-4afc-9a58-c47c6229931e
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

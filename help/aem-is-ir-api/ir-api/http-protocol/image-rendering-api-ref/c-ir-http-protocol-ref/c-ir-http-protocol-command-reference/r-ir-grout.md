@@ -1,10 +1,10 @@
 ---
 description: Tile grout color and thickness. Simulates grout for ceramic and natural stone tiles.
-seo-description: Tile grout color and thickness. Simulates grout for ceramic and natural stone tiles.
-seo-title: grout
+
+
 solution: Experience Manager
 title: grout
-uuid: 00069004-40f2-4ab6-85d8-ca197b7bef69
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

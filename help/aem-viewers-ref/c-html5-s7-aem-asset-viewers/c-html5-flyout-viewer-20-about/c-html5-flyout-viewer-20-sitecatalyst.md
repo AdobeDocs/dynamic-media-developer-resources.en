@@ -1,10 +1,10 @@
 ---
 description: The Flyout Viewer supports Adobe Analytics tracking out of the box.
-seo-description: The Flyout Viewer supports Adobe Analytics tracking out of the box.
-seo-title: Support for Adobe Analytics tracking
+
+
 solution: Experience Manager
 title: Support for Adobe Analytics tracking
-uuid: 204857d3-744a-4c11-90db-1b18ff5ea5df
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,Business Practitioner,Data Engineer,Data Architect
 ---

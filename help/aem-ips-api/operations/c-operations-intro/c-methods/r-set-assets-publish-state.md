@@ -1,10 +1,10 @@
 ---
 description: Determines if a batch of assets are ready to be published.
-seo-description: Determines if a batch of assets are ready to be published.
-seo-title: setAssetsPublishState
+
+
 solution: Experience Manager
 title: setAssetsPublishState
-uuid: 2910cd6c-573b-405c-864d-a0136ac5472d
+
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

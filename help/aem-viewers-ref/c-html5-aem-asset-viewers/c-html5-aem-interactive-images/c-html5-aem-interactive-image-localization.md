@@ -1,9 +1,9 @@
 ---
 description: Certain content that the Interactive Image Viewer displays is subject to localization. This includes user interface element tool tips and an information message that is displayed by the flyout zoom view on load.
-seo-description: Certain content that the Interactive Image Viewer displays is subject to localization. This includes user interface element tool tips and an information message that is displayed by the flyout zoom view on load.
-seo-title: Localization of user interface elements
+
+
 title: Localization of user interface elements
-uuid: 1a22570b-8435-4e57-a022-34428bddc7f7
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,Business Practitioner
 ---

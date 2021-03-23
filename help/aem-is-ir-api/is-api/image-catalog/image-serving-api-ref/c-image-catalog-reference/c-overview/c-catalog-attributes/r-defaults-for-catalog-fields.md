@@ -1,10 +1,7 @@
 ---
 description: Catalog fields use these defaults.
-seo-description: Catalog fields use these defaults.
-seo-title: Defaults for catalog fields
 solution: Experience Manager
 title: Defaults for catalog fields
-uuid: 8902766c-c2d9-433a-9c49-3182b063269f
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

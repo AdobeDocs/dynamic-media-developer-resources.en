@@ -1,10 +1,10 @@
 ---
 description: Preload image is a static asset preview image which loads right after calling init() method and shows while Viewer SDK libraries, asset and preset information is downloaded. The purpose of the preload image is to visually improve viewer load time and present content to the user quickly.
-seo-description: Preload image is a static asset preview image which loads right after calling init() method and shows while Viewer SDK libraries, asset and preset information is downloaded. The purpose of the preload image is to visually improve viewer load time and present content to the user quickly.
-seo-title: Preload image
+
+
 solution: Experience Manager
 title: Preload image
-uuid: cb5db16d-b496-40e4-b8ef-5573c42d2850
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,7 @@
 ---
 description: Image Map Data. Provides image map data for this layer. Overrides any data from catalog Map for this layer.
-seo-description: Image Map Data. Provides image map data for this layer. Overrides any data from catalog Map for this layer.
-seo-title: map
 solution: Experience Manager
 title: map
-uuid: 9c1c3323-21ab-4820-bf4e-761b82ada1ab
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

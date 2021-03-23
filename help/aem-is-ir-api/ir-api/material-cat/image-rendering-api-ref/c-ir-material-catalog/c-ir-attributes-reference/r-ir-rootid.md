@@ -1,10 +1,10 @@
 ---
 description: Catalog identifier. The HTTP path element to be used to identifies this catalog in the vignette, material, or ICC profile object specifier in HTTP requests.
-seo-description: Catalog identifier. The HTTP path element to be used to identifies this catalog in the vignette, material, or ICC profile object specifier in HTTP requests.
-seo-title: RootId
+
+
 solution: Experience Manager
 title: RootId
-uuid: fd726466-6dca-4612-a342-50689ed1469f
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

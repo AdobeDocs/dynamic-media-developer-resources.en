@@ -1,10 +1,10 @@
 ---
 description: Used by JobLogDetial/assetType.
-seo-description: Used by JobLogDetial/assetType.
-seo-title: Job Log File Types
+
+
 solution: Experience Manager
 title: Job Log File Types
-uuid: 52ec039f-51ef-4e4a-a927-2616d3675e86
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

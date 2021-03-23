@@ -2,7 +2,7 @@
 description: Managing page labels
 solution: Experience Manager
 title: Managing page labels
-uuid: 49444fe6-ef34-4e5b-a293-e23830a67b4d
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
 ---

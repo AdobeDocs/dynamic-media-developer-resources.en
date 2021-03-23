@@ -1,10 +1,10 @@
 ---
 description: Clicking or tapping this button zooms in on an image in the main view. This button appears in the main control bar. This button is not displayed on mobile phones to save screen real estate. You can size, skin, and position this button by using CSS.
-seo-description: Clicking or tapping this button zooms in on an image in the main view. This button appears in the main control bar. This button is not displayed on mobile phones to save screen real estate. You can size, skin, and position this button by using CSS.
-seo-title: Zoom in button
+
+
 solution: Experience Manager
 title: Zoom in button
-uuid: 927d3719-46fa-4e05-9b17-73e2e2f4d9d6
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
 ---

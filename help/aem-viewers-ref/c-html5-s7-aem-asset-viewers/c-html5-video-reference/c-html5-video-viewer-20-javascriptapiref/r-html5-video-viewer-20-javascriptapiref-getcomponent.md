@@ -1,10 +1,10 @@
 ---
 description: JavaScript API reference for Video Viewer
-seo-description: JavaScript API reference for Video Viewer
-seo-title: getComponent
+
+
 solution: Experience Manager
 title: getComponent
-uuid: a2b073ab-d8a7-43cc-9cc8-80dd05a386f0
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
 ---

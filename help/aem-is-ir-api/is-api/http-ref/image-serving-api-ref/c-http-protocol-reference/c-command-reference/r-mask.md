@@ -1,10 +1,7 @@
 ---
 description: Image mask. Specifies a separate mask image to be used as an unassociated mask.
-seo-description: Image mask. Specifies a separate mask image to be used as an unassociated mask.
-seo-title: mask
 solution: Experience Manager
 title: mask
-uuid: 2dc14d20-f02a-4a77-9b73-0c01e10d448d
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

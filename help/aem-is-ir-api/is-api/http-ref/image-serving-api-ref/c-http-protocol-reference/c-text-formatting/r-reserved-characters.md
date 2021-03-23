@@ -1,10 +1,7 @@
 ---
 description: This section lists characters that are reserved for specific purposes.
-seo-description: This section lists characters that are reserved for specific purposes.
-seo-title: Reserved characters
 solution: Experience Manager
 title: Reserved characters
-uuid: 3b18da2e-5399-49d0-83c9-66dbf6e7807b
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

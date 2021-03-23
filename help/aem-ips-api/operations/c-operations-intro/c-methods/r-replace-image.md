@@ -1,10 +1,10 @@
 ---
 description: Replaces image data for an image asset.
-seo-description: Replaces image data for an image asset.
-seo-title: replaceImage
+
+
 solution: Experience Manager
 title: replaceImage
-uuid: 46824e33-265c-4425-9ab1-8ad6b7ac154d
+
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

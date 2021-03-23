@@ -1,10 +1,7 @@
 ---
 description: Text string localization allows image catalogs to contain multiple locale-specific representations for the same string value.
-seo-description: Text string localization allows image catalogs to contain multiple locale-specific representations for the same string value.
-seo-title: Text string localization
 solution: Experience Manager
 title: Text string localization
-uuid: bdff2403-e3bb-4b3f-a8d7-bb108c1fbee8
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

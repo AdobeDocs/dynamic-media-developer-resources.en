@@ -1,10 +1,7 @@
 ---
 description: If jsonp is specified as the response format, the reply data is formatted using JSONP (JavaScript Object Notation with Padding), wrapped in a JavaScript function call.
-seo-description: If jsonp is specified as the response format, the reply data is formatted using JSONP (JavaScript Object Notation with Padding), wrapped in a JavaScript function call.
-seo-title: JSONP properties
 solution: Experience Manager
 title: JSONP properties
-uuid: e53d75f2-9b43-4e8f-8191-66f69f344cdd
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

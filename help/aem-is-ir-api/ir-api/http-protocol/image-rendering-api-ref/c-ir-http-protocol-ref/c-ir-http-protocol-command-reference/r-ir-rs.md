@@ -1,10 +1,10 @@
 ---
 description: Advanced render settings. Specifies an advanced render settings, to be applied when rendering the current selection.
-seo-description: Advanced render settings. Specifies an advanced render settings, to be applied when rendering the current selection.
-seo-title: rs
+
+
 solution: Experience Manager
 title: rs
-uuid: 4ff7fcb4-a10a-4e82-80a1-edf79ae1f717
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,10 @@
 ---
 description: Clicking or tapping this button resets toggles the viewer between the main view and the thumbnails. This button appears in the main control bar. You can size, skin, and position this button by using CSS.
-seo-description: Clicking or tapping this button resets toggles the viewer between the main view and the thumbnails. This button appears in the main control bar. You can size, skin, and position this button by using CSS.
-seo-title: Thumbnails button
+
+
 solution: Experience Manager
 title: Thumbnails button
-uuid: a1a7f4b0-672e-4b83-9b21-0b8c6fc3f24a
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
 ---

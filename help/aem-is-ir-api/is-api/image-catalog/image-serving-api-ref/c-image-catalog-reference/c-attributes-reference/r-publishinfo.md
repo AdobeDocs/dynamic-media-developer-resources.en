@@ -1,10 +1,7 @@
 ---
 description: Catalog annotation string. Text string that can be used to identify the catalog version, publish date, etc.
-seo-description: Catalog annotation string. Text string that can be used to identify the catalog version, publish date, etc.
-seo-title: PublishInfo
 solution: Experience Manager
 title: PublishInfo
-uuid: 2bcd65b8-2f3e-4652-b346-a850900e8c7b
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,10 @@
 ---
 description: Masks part of an image. The mask is always associated with the image. Get a mask from ImageInfo.
-seo-description: Masks part of an image. The mask is always associated with the image. Get a mask from ImageInfo.
-seo-title: Mask
+
+
 solution: Experience Manager
 title: Mask
-uuid: 06ac0f76-13ce-434b-ac60-6a2af9648f92
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

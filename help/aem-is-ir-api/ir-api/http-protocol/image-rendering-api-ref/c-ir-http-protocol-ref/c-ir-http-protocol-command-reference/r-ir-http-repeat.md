@@ -1,10 +1,10 @@
 ---
 description: Texture repeat mode. Specifies the repeat mode for repeatable texture materials.
-seo-description: Texture repeat mode. Specifies the repeat mode for repeatable texture materials.
-seo-title: repeat
+
+
 solution: Experience Manager
 title: repeat
-uuid: 6508fdff-27cd-4038-b506-39b927f3526a
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

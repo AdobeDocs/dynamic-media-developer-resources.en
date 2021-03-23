@@ -1,10 +1,10 @@
 ---
 description: Defines old and new tag field values.
-seo-description: Defines old and new tag field values.
-seo-title: TagValueUpdate
+
+
 solution: Experience Manager
 title: TagValueUpdate
-uuid: bcca6664-0406-4238-96cd-726a192c2d21
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

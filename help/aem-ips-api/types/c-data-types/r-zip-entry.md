@@ -1,10 +1,10 @@
 ---
 description: An entry in a ZIP file.
-seo-description: An entry in a ZIP file.
-seo-title: ZipEntry
+
+
 solution: Experience Manager
 title: ZipEntry
-uuid: 05aac11b-249c-4c44-943d-fa6bf35d3637
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

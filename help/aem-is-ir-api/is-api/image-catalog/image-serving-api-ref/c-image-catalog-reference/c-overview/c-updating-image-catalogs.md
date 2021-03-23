@@ -1,10 +1,7 @@
 ---
 description: The server continuously monitors the catalog folder and automatically reloads an image catalog, including the associated catalog data files, when it detects that the main catalog attribute file has been changed.
-seo-description: The server continuously monitors the catalog folder and automatically reloads an image catalog, including the associated catalog data files, when it detects that the main catalog attribute file has been changed.
-seo-title: Updating image catalogs
 solution: Experience Manager
 title: Updating image catalogs
-uuid: 7e2557c4-1155-429b-a630-a2aff6725a3b
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

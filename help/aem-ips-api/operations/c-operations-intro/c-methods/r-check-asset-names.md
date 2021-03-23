@@ -1,10 +1,7 @@
 ---
 description: Checks for IPS ID conflicts by comparing asset names against all names a company's Image Serving/Image Rendering catalog namespace.
-seo-description: Checks for IPS ID conflicts by comparing asset names against all names a company's Image Serving/Image Rendering catalog namespace.
-seo-title: checkAssetNames
 solution: Experience Manager
 title: checkAssetNames
-uuid: 91d073a8-7648-429b-aa5c-c7d595550299
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

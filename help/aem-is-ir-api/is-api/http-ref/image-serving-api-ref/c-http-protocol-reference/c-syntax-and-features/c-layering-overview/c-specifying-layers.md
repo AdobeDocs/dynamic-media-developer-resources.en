@@ -1,10 +1,7 @@
 ---
 description: In the URL or catalog Modifier command sequence, a layer definition sequence starts with the layer= command and terminates with another layer= command, an effect= command, or the end of the URL.
-seo-description: In the URL or catalog Modifier command sequence, a layer definition sequence starts with the layer= command and terminates with another layer= command, an effect= command, or the end of the URL.
-seo-title: Specifying layers
 solution: Experience Manager
 title: Specifying layers
-uuid: 86ece2a6-5b91-4a24-baaa-542d9ae1e544
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,10 @@
 ---
 description: vntc generates text data which is sent either to stderr or the log file.
-seo-description: vntc generates text data which is sent either to stderr or the log file.
-seo-title: Output
+
+
 solution: Experience Manager
 title: Output
-uuid: f2041600-408f-481c-95fc-3c112def7b8a
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

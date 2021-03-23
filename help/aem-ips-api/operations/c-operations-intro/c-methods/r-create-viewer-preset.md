@@ -1,10 +1,8 @@
 ---
 description: Creates a preset view that determines what a user can see. The viewer can be of any type available in IPS. The preset view is applied when the assets are published.
-seo-description: Creates a preset view that determines what a user can see. The viewer can be of any type available in IPS. The preset view is applied when the assets are published.
-seo-title: createViewerPreset
 solution: Experience Manager
 title: createViewerPreset
-uuid: 4160d2b0-6147-459f-830a-43c99b8dc196
+
 feature: Dynamic Media Classic,SDK/API,Viewer Presets
 role: Developer,Administrator
 ---

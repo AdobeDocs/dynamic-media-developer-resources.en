@@ -1,10 +1,7 @@
 ---
 description: IS provides mechanisms to simplify use of HTML image maps. The JAVA-based and Flash-based viewers in IS also include limited support for image maps.
-seo-description: IS provides mechanisms to simplify use of HTML image maps. The JAVA-based and Flash-based viewers in IS also include limited support for image maps.
-seo-title: Image maps
 solution: Experience Manager
 title: Image maps
-uuid: 2b7b620b-712b-4110-ba38-993a354c09d3
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

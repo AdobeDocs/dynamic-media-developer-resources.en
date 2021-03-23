@@ -2,7 +2,7 @@
 description: SocialShare.bearing
 solution: Experience Manager
 title: SocialShare.bearing
-uuid: e48b39bb-c23d-42ce-9dc6-6e8b0d9b04ea
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
 ---

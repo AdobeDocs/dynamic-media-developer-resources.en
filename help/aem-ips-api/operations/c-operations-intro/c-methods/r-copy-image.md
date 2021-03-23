@@ -1,10 +1,7 @@
 ---
 description: Creates a copy of an existing image asset. The specified Image Server protocol commands are applied to generate the new copy
-seo-description: Creates a copy of an existing image asset. The specified Image Server protocol commands are applied to generate the new copy
-seo-title: copyImage
 solution: Experience Manager
 title: copyImage
-uuid: ae24f0cc-bcf0-4652-a67d-ed69f8a0da92
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

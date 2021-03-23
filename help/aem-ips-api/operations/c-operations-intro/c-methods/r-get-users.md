@@ -1,10 +1,10 @@
 ---
 description: Gets an array of users as specified by company, group, and user role handles. This operation lets you sort returned users and filter by character.
-seo-description: Gets an array of users as specified by company, group, and user role handles. This operation lets you sort returned users and filter by character.
-seo-title: getUsers
+
+
 solution: Experience Manager
 title: getUsers
-uuid: f16ccd1b-0f00-4d9a-b6e1-6abc3bde1af9
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

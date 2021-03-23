@@ -1,10 +1,10 @@
 ---
 description: Gets information about a user. Use the email address and the password of a system user as credentials for authorizing the request. Otherwise, the operation gets information about the default user.
-seo-description: Gets information about a user. Use the email address and the password of a system user as credentials for authorizing the request. Otherwise, the operation gets information about the default user.
-seo-title: getUserInfo
+
+
 solution: Experience Manager
 title: getUserInfo
-uuid: b305c108-22e9-4268-a5b3-25fddd844c24
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

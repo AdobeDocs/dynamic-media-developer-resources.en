@@ -1,10 +1,7 @@
 ---
 description: XMP metadata. Returns the XMP metadata associated with the image specified in the request path.
-seo-description: XMP metadata. Returns the XMP metadata associated with the image specified in the request path.
-seo-title: xmp
 solution: Experience Manager
 title: xmp
-uuid: e1583ffe-531a-4334-b974-72df6fcb14ba
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

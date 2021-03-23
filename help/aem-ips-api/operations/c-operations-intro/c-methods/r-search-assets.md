@@ -1,10 +1,10 @@
 ---
 description: Search for assets based on your specified criteria.
-seo-description: Search for assets based on your specified criteria.
-seo-title: searchAssets
+
+
 solution: Experience Manager
 title: searchAssets
-uuid: 125e9e0d-1856-4e80-9778-ca93cd04b766
+
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

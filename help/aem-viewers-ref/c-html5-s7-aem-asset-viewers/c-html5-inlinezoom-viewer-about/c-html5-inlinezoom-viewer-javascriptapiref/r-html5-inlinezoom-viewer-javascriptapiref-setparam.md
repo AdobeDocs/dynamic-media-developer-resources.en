@@ -1,10 +1,10 @@
 ---
 description: JavaScript API reference for Inline Zoom Viewer.
-seo-description: JavaScript API reference for Inline Zoom Viewer.
-seo-title: setParam
+
+
 solution: Experience Manager
 title: setParam
-uuid: 7bccf2c0-9f9a-47ac-8b53-385989e8267c
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,Business Practitioner
 ---

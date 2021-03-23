@@ -1,10 +1,7 @@
 ---
 description: Client IP address filter. Allows specification of one or more IP addresses or address ranges.
-seo-description: Client IP address filter. Allows specification of one or more IP addresses or address ranges.
-seo-title: ClientAddressFilter
 solution: Experience Manager
 title: ClientAddressFilter
-uuid: 6a557795-0caf-4b5f-974e-fb4c1481a83c
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,10 @@
 ---
 description: JavaScript API reference for Carousel Viewer.
-seo-description: JavaScript API reference for Carousel Viewer.
-seo-title: setContainerId
+
+
 solution: Experience Manager
 title: setContainerId
-uuid: 3e26c121-7493-49b5-af25-ebd76477a415
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
 ---

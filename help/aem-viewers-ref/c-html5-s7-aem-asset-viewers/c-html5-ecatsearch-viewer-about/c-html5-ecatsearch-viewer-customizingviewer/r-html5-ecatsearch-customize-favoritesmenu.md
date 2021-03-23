@@ -1,10 +1,10 @@
 ---
 description: The Favorites menu drop-down list appears in the control bar. It consists of a button and a panel that expands when a user clicks or taps on a button. The panel contains individual Favorites tools.
-seo-description: The Favorites menu drop-down list appears in the control bar. It consists of a button and a panel that expands when a user clicks or taps on a button. The panel contains individual Favorites tools.
-seo-title: Favorites menu
+
+
 solution: Experience Manager
 title: Favorites menu
-uuid: 46de2a74-690e-4010-8a71-54206dd02fd0
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
 ---

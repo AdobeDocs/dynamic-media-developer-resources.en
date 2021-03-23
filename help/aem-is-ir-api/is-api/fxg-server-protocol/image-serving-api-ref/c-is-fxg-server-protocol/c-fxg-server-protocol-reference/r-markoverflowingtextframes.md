@@ -1,10 +1,10 @@
 ---
 description: Display overset text frames with plus sign. A text overflow indicator shows when text exceeds the space allocated for it in a text frame (or in the last text frame in the case of threaded text). The indicator is a red box with a plus sign in it.
-seo-description: Display overset text frames with plus sign. A text overflow indicator shows when text exceeds the space allocated for it in a text frame (or in the last text frame in the case of threaded text). The indicator is a red box with a plus sign in it.
-seo-title: markOverflowingTextFrames
+
+
 solution: Experience Manager
 title: markOverflowingTextFrames
-uuid: 90237128-8d29-45cc-90e8-7fe46c1dae38
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

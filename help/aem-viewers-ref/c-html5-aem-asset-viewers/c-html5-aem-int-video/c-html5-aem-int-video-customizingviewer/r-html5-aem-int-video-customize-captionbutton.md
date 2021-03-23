@@ -1,10 +1,10 @@
 ---
 description: This button toggles closed caption display on and off. It is not visible if the caption parameter is not specified.
-seo-description: This button toggles closed caption display on and off. It is not visible if the caption parameter is not specified.
-seo-title: Caption button
+
+
 solution: Experience Manager
 title: Caption button
-uuid: a3895a9a-972a-4259-9418-b78f7c904bd4
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,10 @@
 ---
 description: URL command for Video Viewer.
-seo-description: URL command for Video Viewer.
-seo-title: videoServerUrl
+
+
 solution: Experience Manager
 title: videoServerUrl
-uuid: 551338fe-8fc6-4045-8205-4cf102782f8d
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
 ---

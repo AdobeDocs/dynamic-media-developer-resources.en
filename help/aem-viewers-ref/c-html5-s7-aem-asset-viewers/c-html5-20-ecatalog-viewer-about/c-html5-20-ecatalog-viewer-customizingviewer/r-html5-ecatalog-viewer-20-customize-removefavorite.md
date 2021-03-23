@@ -1,10 +1,10 @@
 ---
 description: The position of the Remove Favorite button is fully managed by the Favorites menu.
-seo-description: The position of the Remove Favorite button is fully managed by the Favorites menu.
-seo-title: Remove Favorite button
+
+
 solution: Experience Manager
 title: Remove Favorite button
-uuid: c2e1929d-d859-49d5-8bdc-13507e25d02c
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
 ---

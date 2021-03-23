@@ -1,10 +1,10 @@
 ---
 description: Clicking or tapping on this button returns a user to the previous slide in the carousel set. This button is not displayed on touch devices. You can size, skin, and position this button using CSS.
-seo-description: Clicking or tapping on this button returns a user to the previous slide in the carousel set. This button is not displayed on touch devices. You can size, skin, and position this button using CSS.
-seo-title: Previous slide
+
+
 solution: Experience Manager
 title: Previous slide
-uuid: 733fa270-ce95-4493-9d31-f7f638d8368d
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
 ---

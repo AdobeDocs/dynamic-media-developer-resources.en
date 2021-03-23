@@ -1,10 +1,10 @@
 ---
 description: Used by PostScriptOptions/colorspace.
-seo-description: Used by PostScriptOptions/colorspace.
-seo-title: PostScript Colorspace Modes
+
+
 solution: Experience Manager
 title: PostScript Colorspace Modes
-uuid: 88fb9809-cff6-4a6b-8f45-dec528dce600
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

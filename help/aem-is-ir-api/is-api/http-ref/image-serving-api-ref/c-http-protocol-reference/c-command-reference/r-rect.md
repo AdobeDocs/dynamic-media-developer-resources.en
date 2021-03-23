@@ -1,10 +1,7 @@
 ---
 description: Final view rectangle. Allows the final view image to be disassembled into several strips or tiles, which can be delivered separately and reassembled by the client seamlessly, with no artifacts along the edges.
-seo-description: Final view rectangle. Allows the final view image to be disassembled into several strips or tiles, which can be delivered separately and reassembled by the client seamlessly, with no artifacts along the edges.
-seo-title: rect
 solution: Experience Manager
 title: rect
-uuid: c4830fc5-d102-4789-8753-0a660d4a557e
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

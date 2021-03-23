@@ -1,10 +1,10 @@
 ---
 description: Indicates whether the viewer begins loading video content before the playback starts.
-seo-description: Indicates whether the viewer begins loading video content before the playback starts.
-seo-title: VideoPlayer.preload
+
+
 solution: Experience Manager
 title: VideoPlayer.preload
-uuid: d080465d-7349-4671-aaa4-c49e549d1f64
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
 ---

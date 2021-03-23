@@ -1,10 +1,10 @@
 ---
 description: Configuration attribute for Video Viewer.
-seo-description: Configuration attribute for Video Viewer.
-seo-title: VideoPlayer.posterimage
+
+
 solution: Experience Manager
 title: VideoPlayer.posterimage
-uuid: 59d81a72-ac17-4c32-ab47-89bd14dc17a5
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
 ---

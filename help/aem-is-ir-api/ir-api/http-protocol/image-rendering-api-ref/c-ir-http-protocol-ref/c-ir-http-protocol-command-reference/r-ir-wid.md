@@ -1,10 +1,10 @@
 ---
 description: Reply image width. Specifies scaling of the rendered image so that the reply image is no taller than the specified value, while maintaining the image's aspect ratio.
-seo-description: Reply image width. Specifies scaling of the rendered image so that the reply image is no taller than the specified value, while maintaining the image's aspect ratio.
-seo-title: wid
+
+
 solution: Experience Manager
 title: wid
-uuid: 9a58a5d2-43ac-44db-9959-ba166006b7df
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

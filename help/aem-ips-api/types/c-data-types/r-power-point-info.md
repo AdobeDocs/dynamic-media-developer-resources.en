@@ -1,10 +1,10 @@
 ---
 description: PowerPoint file options.
-seo-description: PowerPoint file options.
-seo-title: PowerPointInfo
+
+
 solution: Experience Manager
 title: PowerPointInfo
-uuid: 26626c06-b610-4c3c-a249-70c6edc9ebdd
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

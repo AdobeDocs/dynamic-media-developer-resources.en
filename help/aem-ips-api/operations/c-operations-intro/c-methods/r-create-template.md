@@ -1,10 +1,10 @@
 ---
 description: Creates a layered image that can have multiple text and image layers.
-seo-description: Creates a layered image that can have multiple text and image layers.
-seo-title: createTemplate
+
+
 solution: Experience Manager
 title: createTemplate
-uuid: c54bd47c-13e1-4b0d-a24c-9829b0a6d5bf
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

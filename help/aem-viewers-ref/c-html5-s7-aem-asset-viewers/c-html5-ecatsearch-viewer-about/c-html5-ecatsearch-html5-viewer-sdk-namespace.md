@@ -2,7 +2,7 @@
 description: Viewer SDK namespace
 solution: Experience Manager
 title: Viewer SDK namespace
-uuid: 780396d8-e1e2-45f4-aa01-46c16e20de06
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
 ---

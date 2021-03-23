@@ -1,10 +1,7 @@
 ---
 description: Configuration attributes are defined as attributes directly on an IMG element that the Responsive Image library manages. Each image can have its own set of attributes.
-seo-description: Configuration attributes are defined as attributes directly on an IMG element that the Responsive Image library manages. Each image can have its own set of attributes.
-seo-title: Command reference – Configuration attributes
 solution: Experience Manager
 title: Command reference – Configuration attributes
-uuid: a3d52680-2a28-40c8-9b5f-b1c252c88e4d
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

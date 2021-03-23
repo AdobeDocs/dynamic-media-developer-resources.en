@@ -2,7 +2,7 @@
 description: SpinView.autospin
 solution: Experience Manager
 title: SpinView.autospin
-uuid: 9d24ed39-e4b9-442b-bc64-c77707ff69d8
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
 ---

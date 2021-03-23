@@ -1,10 +1,10 @@
 ---
 description: Sets the permissions of a single asset by using a permission asset.
-seo-description: Sets the permissions of a single asset by using a permission asset.
-seo-title: setAssetPermissions
+
+
 solution: Experience Manager
 title: setAssetPermissions
-uuid: 38f26482-bce9-4d2c-9714-e8c3ae40c2d1
+
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

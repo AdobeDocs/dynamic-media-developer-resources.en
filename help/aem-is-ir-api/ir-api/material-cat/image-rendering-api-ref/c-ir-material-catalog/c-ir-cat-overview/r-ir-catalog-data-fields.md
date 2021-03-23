@@ -1,10 +1,10 @@
 ---
 description: The following catalog data fields are available.
-seo-description: The following catalog data fields are available.
-seo-title: Catalog data fields
+
+
 solution: Experience Manager
 title: Catalog data fields
-uuid: 027ac3d6-3d64-4507-b17f-5ede48d55560
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

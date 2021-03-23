@@ -1,10 +1,10 @@
 ---
 description: The full screen button causes the video player to enter or exit full screen mode when a user clicks it.
-seo-description: The full screen button causes the video player to enter or exit full screen mode when a user clicks it.
-seo-title: Full screen button
+
+
 solution: Experience Manager
 title: Full screen button
-uuid: d09832e4-5058-420a-8ee9-c6b5a2d42190
+
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
 ---

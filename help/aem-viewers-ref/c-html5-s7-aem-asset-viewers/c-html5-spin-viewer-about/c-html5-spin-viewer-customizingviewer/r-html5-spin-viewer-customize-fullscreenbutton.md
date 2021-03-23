@@ -1,10 +1,10 @@
 ---
 description: This button causes the viewer to enter or exit full screen mode when clicked by the user. This button is not display if the viewer works in pop-up mode and the system does not support native full screen. You can size, skin, and position this button by using CSS.
-seo-description: This button causes the viewer to enter or exit full screen mode when clicked by the user. This button is not display if the viewer works in pop-up mode and the system does not support native full screen. You can size, skin, and position this button by using CSS.
-seo-title: Full screen button
+
+
 solution: Experience Manager
 title: Full screen button
-uuid: 22d10ec1-83f3-4f86-a0a1-0fc2e43232b1
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
 ---

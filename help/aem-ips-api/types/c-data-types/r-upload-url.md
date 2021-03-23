@@ -1,10 +1,10 @@
 ---
 description: For uploading assets via URL.
-seo-description: For uploading assets via URL.
-seo-title: UploadUrl
+
+
 solution: Experience Manager
 title: UploadUrl
-uuid: 83869ee3-a5bb-4f6f-8b09-6611861ed618
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

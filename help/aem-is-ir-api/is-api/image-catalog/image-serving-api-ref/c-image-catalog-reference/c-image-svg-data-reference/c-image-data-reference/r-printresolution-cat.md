@@ -1,10 +1,7 @@
 ---
 description: Print resolution. Print resolution for the full-size image.
-seo-description: Print resolution. Print resolution for the full-size image.
-seo-title: PrintResolution
 solution: Experience Manager
 title: PrintResolution
-uuid: 1c7f504a-c69d-4cfc-af01-b2b6ac6f0fbf
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

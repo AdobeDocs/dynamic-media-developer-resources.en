@@ -1,10 +1,7 @@
 ---
 description: View Height. Specifies the height of the response image (view image) when fit is not present in the request.
-seo-description: View Height. Specifies the height of the response image (view image) when fit is not present in the request.
-seo-title: hei
 solution: Experience Manager
 title: hei
-uuid: 307952bb-604f-49b4-bce3-b7a7fc7ec63b
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

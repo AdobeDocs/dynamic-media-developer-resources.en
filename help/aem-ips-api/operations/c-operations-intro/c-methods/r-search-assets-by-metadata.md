@@ -1,10 +1,10 @@
 ---
 description: Searches the metadata index repository for the given search terms. Returns asset data like the searchAssets method.
-seo-description: Searches the metadata index repository for the given search terms. Returns asset data like the searchAssets method.
-seo-title: searchAssetsByMetadata
+
+
 solution: Experience Manager
 title: searchAssetsByMetadata
-uuid: f4119ee9-f6d8-49fb-9d8c-bb200951d983
+
 feature: Dynamic Media Classic,SDK/API,Metadata,Asset Management
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: Client cache TTL for non-image responses. Provides the expiration interval for certain non-image responses.
-seo-description: Client cache TTL for non-image responses. Provides the expiration interval for certain non-image responses.
-seo-title: NonImgExpiration
 solution: Experience Manager
 title: NonImgExpiration
-uuid: 19b37bd4-f7cf-4b5f-be1a-b2d9fda5b4b1
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

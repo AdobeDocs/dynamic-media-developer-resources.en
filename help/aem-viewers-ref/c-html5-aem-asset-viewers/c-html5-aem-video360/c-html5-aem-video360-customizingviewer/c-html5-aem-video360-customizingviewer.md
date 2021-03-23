@@ -1,11 +1,11 @@
 ---
 description: All visual customization and most behavior customization for the Video360 Viewer is done by creating a custom CSS.
 keywords: responsive
-seo-description: All visual customization and most behavior customization for the Video360 Viewer is done by creating a custom CSS.
-seo-title: Customizing Video360 Viewer
+
+
 solution: Experience Manager
 title: Customizing Video360 Viewer
-uuid: 1f021a11-856e-4bbc-a2ee-454ab0a60adb
+
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
 ---

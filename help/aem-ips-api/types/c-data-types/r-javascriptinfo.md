@@ -1,10 +1,10 @@
 ---
 description: Properties of a JavaScript file asset.
-seo-description: Properties of a JavaScript file asset.
-seo-title: JavascriptInfo
+
+
 solution: Experience Manager
 title: JavascriptInfo
-uuid: cc80127a-f189-43a8-9ea1-1887520441fa
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: Grayscale default output color profile. Specifies the name of the ICC color profile to be used for grayscale response images when no output color space is specified with icc= and for certain grayscale color values specified with various Image Serving commands, such as color=.
-seo-description: Grayscale default output color profile. Specifies the name of the ICC color profile to be used for grayscale response images when no output color space is specified with icc= and for certain grayscale color values specified with various Image Serving commands, such as color=.
-seo-title: IccProfileGray
 solution: Experience Manager
 title: IccProfileGray
-uuid: a7d40114-f91f-4637-bb49-5b06b9ce846d
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,7 @@
 ---
 description: Prefix request modifier string. None or more Image Serving commands separated by '&' characters.
-seo-description: Prefix request modifier string. None or more Image Serving commands separated by '&' characters.
-seo-title: Modifier
 solution: Experience Manager
 title: Modifier
-uuid: eb17d115-22ec-4b1b-9039-9bd2bc256f48
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

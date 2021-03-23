@@ -1,10 +1,10 @@
 ---
 description: Clicking or tapping this button zooms out on an image in the main view. This button does not display on mobile phones in order to save screen real estate. You can size, skin, and position this button by using CSS.
-seo-description: Clicking or tapping this button zooms out on an image in the main view. This button does not display on mobile phones in order to save screen real estate. You can size, skin, and position this button by using CSS.
-seo-title: Zoom out button
+
+
 solution: Experience Manager
 title: Zoom out button
-uuid: 2e95855a-c3af-4a79-a33a-f27d88dc14a4
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
 ---

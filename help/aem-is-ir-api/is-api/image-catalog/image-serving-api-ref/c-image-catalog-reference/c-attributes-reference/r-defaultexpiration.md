@@ -1,10 +1,7 @@
 ---
 description: Client cache TTL for default image responses. Provides the expiration interval for default image responses (responses which return a default image specified with either defaultImage= or attribute DefaultImage).
-seo-description: Client cache TTL for default image responses. Provides the expiration interval for default image responses (responses which return a default image specified with either defaultImage= or attribute DefaultImage).
-seo-title: DefaultExpiration
 solution: Experience Manager
 title: DefaultExpiration
-uuid: 5266bff9-f20b-4b3b-9566-8a3f5ba0777a
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

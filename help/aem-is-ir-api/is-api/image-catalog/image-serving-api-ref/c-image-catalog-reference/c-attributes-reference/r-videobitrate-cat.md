@@ -1,10 +1,7 @@
 ---
 description: Video bit rate. Allows specification of a bit rate associated with each video record.
-seo-description: Video bit rate. Allows specification of a bit rate associated with each video record.
-seo-title: VideoBitRate
 solution: Experience Manager
 title: VideoBitRate
-uuid: dff00d03-5fea-42cf-9b81-cd3488e666e4
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

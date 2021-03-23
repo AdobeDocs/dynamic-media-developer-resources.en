@@ -1,10 +1,10 @@
 ---
 description: If so enabled in the vignette, the renderer will vary the illumination algorithm to simulate a variation of the material glossiness (chiefly by controlling contrast).
-seo-description: If so enabled in the vignette, the renderer will vary the illumination algorithm to simulate a variation of the material glossiness (chiefly by controlling contrast).
-seo-title: Gloss effects
+
+
 solution: Experience Manager
 title: Gloss effects
-uuid: e4424b04-2d8c-47e5-8474-b5271c923451
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

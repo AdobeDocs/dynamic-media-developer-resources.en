@@ -1,10 +1,10 @@
 ---
 description: Used by getGenerationInfo/engine.
-seo-description: Used by getGenerationInfo/engine.
-seo-title: Generation Info
+
+
 solution: Experience Manager
 title: Generation Info
-uuid: 7e0ddd2c-25b5-4ff6-9906-bc6072f55681
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: Response Image Fit Mode. Specifies how the scale factor is calculated, which is used to scale the composite image to the response image when the response size is specified with wid= and hei= and scl= is not present.
-seo-description: Response Image Fit Mode. Specifies how the scale factor is calculated, which is used to scale the composite image to the response image when the response size is specified with wid= and hei= and scl= is not present.
-seo-title: fit
 solution: Experience Manager
 title: fit
-uuid: 669fe757-f3a1-4cd4-b46c-6fbe5a039ce0
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

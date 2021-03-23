@@ -1,10 +1,10 @@
 ---
 description: JavaScript API reference for Video360 Viewer.
-seo-description: JavaScript API reference for Video360 Viewer.
-seo-title: Video360Viewer
+
+
 solution: Experience Manager
 title: Video360Viewer
-uuid: b5d5e270-687c-40aa-9de4-c5bc2a7806f7
+
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
 ---

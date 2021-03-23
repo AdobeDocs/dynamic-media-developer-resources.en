@@ -2,7 +2,7 @@
 description: Swatches.buttomsnapmode
 solution: Experience Manager
 title: Swatches.buttomsnapmode
-uuid: 9e1aff9b-66a2-4eaa-a3ff-598504dcb1c3
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
 ---

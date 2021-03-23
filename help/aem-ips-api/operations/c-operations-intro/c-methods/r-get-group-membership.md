@@ -1,10 +1,10 @@
 ---
 description: Returns the members of a group.
-seo-description: Returns the members of a group.
-seo-title: getGroupMembership
+
+
 solution: Experience Manager
 title: getGroupMembership
-uuid: 5ec48e8c-378b-43a3-b3dc-aa21dbf339b5
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

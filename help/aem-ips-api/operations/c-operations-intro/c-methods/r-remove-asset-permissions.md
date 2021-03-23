@@ -1,10 +1,10 @@
 ---
 description: Removes permissions from selected assets.
-seo-description: Removes permissions from selected assets.
-seo-title: removeAssetPermissions
+
+
 solution: Experience Manager
 title: removeAssetPermissions
-uuid: 5a351862-f412-4d89-90b7-9e70a26eacbc
+
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

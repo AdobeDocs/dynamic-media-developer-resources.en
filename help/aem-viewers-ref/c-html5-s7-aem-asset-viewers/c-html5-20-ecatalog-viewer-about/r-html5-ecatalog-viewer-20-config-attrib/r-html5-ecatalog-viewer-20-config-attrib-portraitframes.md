@@ -2,7 +2,7 @@
 description: portraitFrames
 solution: Experience Manager
 title: portraitFrames
-uuid: dd3777e1-4369-4f7e-a055-970b8eb3b018
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,10 @@
 ---
 description: Page indicator displays current page index and total page count. It appears in main control bar on desktop systems and tablet, on mobile phones it is added to secondary control bar. Page indicator can be sized, skinned, and positioned by CSS.
-seo-description: Page indicator displays current page index and total page count. It appears in main control bar on desktop systems and tablet, on mobile phones it is added to secondary control bar. Page indicator can be sized, skinned, and positioned by CSS.
-seo-title: Page indicator
+
+
 solution: Experience Manager
 title: Page indicator
-uuid: 5e33c149-fdc7-419a-b5ff-b9be3f342d9f
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,7 @@
 ---
 description: Response data properties. Evaluates the current request as if it were an image request (req=img), but instead of returning the image, the server returns selected properties of the reply image.
-seo-description: Response data properties. Evaluates the current request as if it were an image request (req=img), but instead of returning the image, the server returns selected properties of the reply image.
-seo-title: props
 solution: Experience Manager
 title: props
-uuid: b9325654-81d6-4f00-bf0a-36650bea6b8d
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

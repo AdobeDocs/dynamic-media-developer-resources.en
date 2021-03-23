@@ -1,10 +1,10 @@
 ---
 description: An array of image maps.
-seo-description: An array of image maps.
-seo-title: ImageMapArray
+
+
 solution: Experience Manager
 title: ImageMapArray
-uuid: d3b5f80d-faf9-4a4a-8f2e-1ff1ad7b7905
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

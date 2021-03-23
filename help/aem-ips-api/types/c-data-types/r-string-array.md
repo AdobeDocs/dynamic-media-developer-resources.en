@@ -1,10 +1,10 @@
 ---
 description: An array of strings.
-seo-description: An array of strings.
-seo-title: StringArray
+
+
 solution: Experience Manager
 title: StringArray
-uuid: d7be5c7b-6086-47bd-ac0d-84b375f2df2f
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

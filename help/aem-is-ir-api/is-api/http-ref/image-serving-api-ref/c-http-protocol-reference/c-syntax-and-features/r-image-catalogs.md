@@ -1,10 +1,7 @@
 ---
 description: The features and syntax of image catalogs are described in this section.
-seo-description: The features and syntax of image catalogs are described in this section.
-seo-title: Image catalogs
 solution: Experience Manager
 title: Image catalogs
-uuid: d329807a-22b0-42a3-9297-8dad7a1dce43
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

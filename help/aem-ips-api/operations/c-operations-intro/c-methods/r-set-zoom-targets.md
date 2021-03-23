@@ -1,10 +1,10 @@
 ---
 description: Sets the zoom target associated with an asset image. It overwrites existing zoom targets.
-seo-description: Sets the zoom target associated with an asset image. It overwrites existing zoom targets.
-seo-title: setZoomTargets
+
+
 solution: Experience Manager
 title: setZoomTargets
-uuid: 5d0aecec-ebd8-4c69-9514-c29fae347ee6
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,10 @@
 ---
 description: Name of command macro.
-seo-description: Name of command macro.
-seo-title: name
+
+
 solution: Experience Manager
 title: name
-uuid: 699c1d24-d10a-4daa-9ee1-506b3f664fa3
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

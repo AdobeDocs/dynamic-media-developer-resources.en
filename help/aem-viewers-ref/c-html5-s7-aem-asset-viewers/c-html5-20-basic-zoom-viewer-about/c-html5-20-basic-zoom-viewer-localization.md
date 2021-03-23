@@ -1,10 +1,10 @@
 ---
 description: Certain content that the Basic Zoom Viewer displays is subject to localization, including zoom buttons and a full screen button.
-seo-description: Certain content that the Basic Zoom Viewer displays is subject to localization, including zoom buttons and a full screen button.
-seo-title: Localization of user interface elements
+
+
 solution: Experience Manager
 title: Localization of user interface elements
-uuid: 842970d9-0882-4163-8c49-3ea35d372d35
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
 ---

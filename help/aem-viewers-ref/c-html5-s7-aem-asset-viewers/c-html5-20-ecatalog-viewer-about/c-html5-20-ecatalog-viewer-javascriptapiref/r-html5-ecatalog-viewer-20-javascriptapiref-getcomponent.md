@@ -1,10 +1,10 @@
 ---
 description: JavaScript API reference for eCatalog Viewer
-seo-description: JavaScript API reference for eCatalog Viewer
-seo-title: getComponent
+
+
 solution: Experience Manager
 title: getComponent
-uuid: e06e2943-d2cc-4eaf-9fd4-4225bb7a7469
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
 ---

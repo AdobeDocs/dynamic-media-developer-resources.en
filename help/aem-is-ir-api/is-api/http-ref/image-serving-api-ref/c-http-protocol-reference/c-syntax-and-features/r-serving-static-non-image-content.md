@@ -2,7 +2,6 @@
 description: Serving static (non-image) content
 solution: Experience Manager
 title: Serving static (non-image) content
-uuid: 4ec483fe-68a4-4ae2-b5ce-730229a9bc15
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

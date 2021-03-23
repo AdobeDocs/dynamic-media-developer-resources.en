@@ -1,10 +1,7 @@
 ---
 description: Cache entries are refreshed automatically using either catalog-based or expiration-based cache validation, as selected with attribute CacheValidationPolicy (in default.ini or the .ini file of a specific image catalog).
-seo-description: Cache entries are refreshed automatically using either catalog-based or expiration-based cache validation, as selected with attribute CacheValidationPolicy (in default.ini or the .ini file of a specific image catalog).
-seo-title: Response cache validation
 solution: Experience Manager
 title: Response cache validation
-uuid: d1aad5ae-f0fa-489b-a48b-b0ac8c8f43bb
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

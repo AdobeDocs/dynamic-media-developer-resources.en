@@ -1,10 +1,10 @@
 ---
 description: Illumination map selector. Specifies the illumination map this material prefers to be rendered with.
-seo-description: Illumination map selector. Specifies the illumination map this material prefers to be rendered with.
-seo-title: illum
+
+
 solution: Experience Manager
 title: illum
-uuid: 16c7144f-7f16-47d1-8140-fd679e702660
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,10 @@
 ---
 description: The zoom indicator is overlaid on the main view area. It is displayed when the image is in a reset state and it also depends on iconeffect parameter.
-seo-description: The zoom indicator is overlaid on the main view area. It is displayed when the image is in a reset state and it also depends on iconeffect parameter.
-seo-title: Icon effect
+
+
 solution: Experience Manager
 title: Icon effect
-uuid: 4995ac11-f591-4d1d-a292-be5d55aebf98
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
 ---

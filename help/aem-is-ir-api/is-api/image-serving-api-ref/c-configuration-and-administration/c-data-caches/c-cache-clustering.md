@@ -1,10 +1,7 @@
 ---
 description: Cache clustering allows multiple load-balanced servers to exchange cache entries in the primary response cache and the secondary data cache (for nested/embedded requests), with the potential to significantly increase server responsiveness by eliminating the need to generate the same cache entry on multiple servers.
-seo-description: Cache clustering allows multiple load-balanced servers to exchange cache entries in the primary response cache and the secondary data cache (for nested/embedded requests), with the potential to significantly increase server responsiveness by eliminating the need to generate the same cache entry on multiple servers.
-seo-title: Cache clustering
 solution: Experience Manager
 title: Cache clustering
-uuid: 347165d6-a9e7-406e-81a8-8a91f745ce27
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

@@ -1,10 +1,7 @@
 ---
 description: Use the following commands for encoding characters.
-seo-description: Use the following commands for encoding characters.
-seo-title: Character encoding
 solution: Experience Manager
 title: Character encoding
-uuid: 7b19b831-b40c-4f26-83a4-732c578dbbf0
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

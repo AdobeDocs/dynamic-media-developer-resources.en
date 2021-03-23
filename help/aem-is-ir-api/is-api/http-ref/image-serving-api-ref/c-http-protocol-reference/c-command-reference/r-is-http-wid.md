@@ -1,10 +1,7 @@
 ---
 description: View width. Specifies the width of the response image (view image) when fit= is not present in the request.
-seo-description: View width. Specifies the width of the response image (view image) when fit= is not present in the request.
-seo-title: wid
 solution: Experience Manager
 title: wid
-uuid: 30aeeea0-c8c9-40b9-a244-2802a7102dd6
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

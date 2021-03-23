@@ -1,10 +1,10 @@
 ---
 description: An array of ZIP entries.
-seo-description: An array of ZIP entries.
-seo-title: ZipEntryArray
+
+
 solution: Experience Manager
 title: ZipEntryArray
-uuid: 530ad406-b23c-4cee-a23e-141cf78818c0
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

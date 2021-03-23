@@ -1,10 +1,7 @@
 ---
 description: Digimarc image info. Enables Digimarc embedding and specifies the type of watermark and any associated image-specific data.
-seo-description: Digimarc image info. Enables Digimarc embedding and specifies the type of watermark and any associated image-specific data.
-seo-title: DigimarcInfo
 solution: Experience Manager
 title: DigimarcInfo
-uuid: 8371880e-47df-4333-b8a6-91feaf16c409
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

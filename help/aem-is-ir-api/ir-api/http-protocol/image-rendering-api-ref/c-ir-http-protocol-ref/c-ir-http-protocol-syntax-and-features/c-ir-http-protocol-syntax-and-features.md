@@ -1,10 +1,10 @@
 ---
 description: This section describes the HTTP protocol syntax and featuring for Dynamic Media Image Rendering.
-seo-description: This section describes the HTTP protocol syntax and featuring for Dynamic Media Image Rendering.
-seo-title: HTTP protocol syntax and features
+
+
 solution: Experience Manager
 title: HTTP protocol syntax and features
-uuid: 5badae8e-0874-43b1-b019-bd7445e6c2ce
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

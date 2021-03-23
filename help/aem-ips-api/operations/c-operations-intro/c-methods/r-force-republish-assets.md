@@ -1,10 +1,10 @@
 ---
 description: Resets the publish status for one or more assets to force the asset to be republished in the next publish job.
-seo-description: Resets the publish status for one or more assets to force the asset to be republished in the next publish job.
-seo-title: forceRepublishAssets
+
+
 solution: Experience Manager
 title: forceRepublishAssets
-uuid: fd1f4ece-075c-40e3-868a-f27b9a4c3374
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

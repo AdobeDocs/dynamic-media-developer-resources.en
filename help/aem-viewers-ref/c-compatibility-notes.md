@@ -1,10 +1,10 @@
 ---
 description: Compatibility notes for operating systems, browsers, and mobile devices.
-seo-description: Compatibility notes for operating systems, browsers, and mobile devices.
-seo-title: Compatibility notes
+
+
 solution: Experience Manager
 title: Compatibility notes
-uuid: cf732a03-bfaa-4838-862f-73343cefbd67
+
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,Business Practitioner
 ---

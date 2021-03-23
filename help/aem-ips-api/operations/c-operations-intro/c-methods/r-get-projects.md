@@ -1,10 +1,10 @@
 ---
 description: Gets projects for a group of related assets.
-seo-description: Gets projects for a group of related assets.
-seo-title: getProjects
+
+
 solution: Experience Manager
 title: getProjects
-uuid: 46ec9a5d-4414-4c9c-aaf2-0db654204b61
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

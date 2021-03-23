@@ -1,10 +1,7 @@
 ---
 description: Mask file path. Relative or absolute path and name for a mask image file associated with this catalog record.
-seo-description: Mask file path. Relative or absolute path and name for a mask image file associated with this catalog record.
-seo-title: MaskPath
 solution: Experience Manager
 title: MaskPath
-uuid: a2d1f08a-0a26-41a6-9be2-f5cc2afb15c4
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

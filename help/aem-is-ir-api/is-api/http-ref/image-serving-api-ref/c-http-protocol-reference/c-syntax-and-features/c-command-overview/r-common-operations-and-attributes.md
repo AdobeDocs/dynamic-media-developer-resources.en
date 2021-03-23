@@ -1,10 +1,7 @@
 ---
 description: These commands apply to image, text and solid color layers. They are also generally useful for composite images and simple, non-layered image requests.
-seo-description: These commands apply to image, text and solid color layers. They are also generally useful for composite images and simple, non-layered image requests.
-seo-title: Common operations
 solution: Experience Manager
 title: Common operations
-uuid: 2d1be69a-661e-494a-9748-3a6525b19b1b
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

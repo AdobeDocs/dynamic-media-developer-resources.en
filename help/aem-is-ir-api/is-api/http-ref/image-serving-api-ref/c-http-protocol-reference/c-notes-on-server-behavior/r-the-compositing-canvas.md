@@ -1,10 +1,7 @@
 ---
 description: If req=img, the size of the compositing canvas is determined entirely by the size of layer 0.
-seo-description: If req=img, the size of the compositing canvas is determined entirely by the size of layer 0.
-seo-title: The compositing canvas
 solution: Experience Manager
 title: The compositing canvas
-uuid: 7ec2f1b3-61fc-4bfe-96d2-a5946a238e74
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,10 @@
 ---
 description: Certain content that the eCatalog Viewer displays is subject to localization, including zoom buttons, page change buttons, thumbnail button, full screen button, close button, and scroll bar buttons.
-seo-description: Certain content that the eCatalog Viewer displays is subject to localization, including zoom buttons, page change buttons, thumbnail button, full screen button, close button, and scroll bar buttons.
-seo-title: Localization of user interface elements
+
+
 solution: Experience Manager
 title: Localization of user interface elements
-uuid: 836cb874-2ce6-4737-9c10-f41af003a285
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,10 @@
 ---
 description: RGB default output color profile. Specifies the name of the ICC color profile to be used for RGB response images when no output color space is specified with icc= and for certain RGB color values specified with various Image Rendering commands, such as bgc= and color=.
-seo-description: RGB default output color profile. Specifies the name of the ICC color profile to be used for RGB response images when no output color space is specified with icc= and for certain RGB color values specified with various Image Rendering commands, such as bgc= and color=.
-seo-title: IccProfileRgb
+
+
 solution: Experience Manager
 title: IccProfileRgb
-uuid: 0fe63607-c328-468a-aa55-0c4d16cf9f0f
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

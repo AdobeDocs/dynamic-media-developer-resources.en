@@ -1,10 +1,8 @@
 ---
 description: Property sets are application-specific sets of name-value pairs that can be attached to various IPS objects, depending on the property set type. If the property set type does not allow multiple sets to be attached to an object (PropertySetType/allowMultipleisfalse) and the object already has an associated set of the same type, the new set will replace the existing one.
-seo-description: Property sets are application-specific sets of name-value pairs that can be attached to various IPS objects, depending on the property set type. If the property set type does not allow multiple sets to be attached to an object (PropertySetType/allowMultipleisfalse) and the object already has an associated set of the same type, the new set will replace the existing one.
-seo-title: createPropertySet
 solution: Experience Manager
 title: createPropertySet
-uuid: f0b5b951-143f-4a31-bb6b-cdeabdebbcbb
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

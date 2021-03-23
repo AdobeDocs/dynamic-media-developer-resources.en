@@ -1,10 +1,10 @@
 ---
 description: Set of named assets.
-seo-description: Set of named assets.
-seo-title: Project
+
+
 solution: Experience Manager
 title: Project
-uuid: 7b933c10-d566-4c88-a7c5-c161e4e2cb91
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

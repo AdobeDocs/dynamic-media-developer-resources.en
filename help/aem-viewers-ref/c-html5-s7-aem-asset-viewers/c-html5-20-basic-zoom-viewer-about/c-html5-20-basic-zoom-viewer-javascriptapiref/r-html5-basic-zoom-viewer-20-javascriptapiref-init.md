@@ -1,10 +1,10 @@
 ---
 description: JavaScript API reference for Basic Zoom Viewer.
-seo-description: JavaScript API reference for Basic Zoom Viewer.
-seo-title: init
+
+
 solution: Experience Manager
 title: init
-uuid: a2a4fb97-89ec-41d2-ada7-8ff1775eaefa
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
 ---

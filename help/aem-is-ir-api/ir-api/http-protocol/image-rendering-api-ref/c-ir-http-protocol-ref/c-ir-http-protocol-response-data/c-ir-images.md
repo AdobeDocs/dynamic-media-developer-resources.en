@@ -1,10 +1,10 @@
 ---
 description: Image data is returned if a request successfully completes, and if the request either does not include a req= command, or if req= has one of the following values  img, debug
-seo-description: Image data is returned if a request successfully completes, and if the request either does not include a req= command, or if req= has one of the following values  img, debug
-seo-title: Images
+
+
 solution: Experience Manager
 title: Images
-uuid: 8e8c5ec9-dc15-4894-b6a1-8e5241f03977
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

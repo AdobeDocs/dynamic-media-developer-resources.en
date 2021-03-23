@@ -1,10 +1,10 @@
 ---
 description: JavaScript API reference for eCatalog Viewer.
-seo-description: JavaScript API reference for eCatalog Viewer.
-seo-title: eCatalogViewer
+
+
 solution: Experience Manager
 title: eCatalogViewer
-uuid: b87b6f6b-3e83-47b3-b867-30eca5eae56b
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
 ---

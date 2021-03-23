@@ -1,10 +1,10 @@
 ---
 description: Returns coordinates for the quadrilateral enclosing the named Photoshop path.
-seo-description: Returns coordinates for the quadrilateral enclosing the named Photoshop path.
-seo-title: getPhotoshopPath
+
+
 solution: Experience Manager
 title: getPhotoshopPath
-uuid: e3ed4888-18db-40bc-a1db-f44a342d0293
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: Normalized Size. Used to specify image sizes or rectangle sizes, normalized relative to the size of layer 0 or some other image.
-seo-description: Normalized Size. Used to specify image sizes or rectangle sizes, normalized relative to the size of layer 0 or some other image.
-seo-title: sizeN
 solution: Experience Manager
 title: sizeN
-uuid: 6fc05654-6f0d-499f-97bc-6b7134024e1f
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

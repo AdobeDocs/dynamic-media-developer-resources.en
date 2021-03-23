@@ -1,10 +1,10 @@
 ---
 description: CMYK default input color profile. Specifies the name of the ICC color profile to be used for CMYK material images which do not embed a color profile.
-seo-description: CMYK default input color profile. Specifies the name of the ICC color profile to be used for CMYK material images which do not embed a color profile.
-seo-title: IccProfileSrcCmyk
+
+
 solution: Experience Manager
 title: IccProfileSrcCmyk
-uuid: 95147b28-c87b-4337-a0eb-a962ca1e8786
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

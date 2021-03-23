@@ -1,10 +1,10 @@
 ---
 description: Scale image. Scales an image by factor relative to the full-resolution image.
-seo-description: Scale image. Scales an image by factor relative to the full-resolution image.
-seo-title: scale
+
+
 solution: Experience Manager
 title: scale
-uuid: db5bab94-e5c1-41fe-ab1b-5c62b6a798d0
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

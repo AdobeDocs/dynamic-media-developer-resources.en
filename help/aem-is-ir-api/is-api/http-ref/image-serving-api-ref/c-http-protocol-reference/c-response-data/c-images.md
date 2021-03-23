@@ -1,10 +1,7 @@
 ---
 description: Image data is returned if a request successfully completes, and if the request either does not include a req= command, or if req=img or req=tmb.
-seo-description: Image data is returned if a request successfully completes, and if the request either does not include a req= command, or if req=img or req=tmb.
-seo-title: Images
 solution: Experience Manager
 title: Images
-uuid: 715154b6-f9ac-459e-a566-f78a4ca4580d
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

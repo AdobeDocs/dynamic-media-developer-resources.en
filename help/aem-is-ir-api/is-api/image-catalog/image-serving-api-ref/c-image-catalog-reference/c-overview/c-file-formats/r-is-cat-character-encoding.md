@@ -1,10 +1,7 @@
 ---
 description: Image Serving supports image catalogs with ISO‑8859‑1 and UTF‑8 encoding.
-seo-description: Image Serving supports image catalogs with ISO‑8859‑1 and UTF‑8 encoding.
-seo-title: Character encoding
 solution: Experience Manager
 title: Character encoding
-uuid: dfb56411-40d1-4bac-9213-9104ecba2a02
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

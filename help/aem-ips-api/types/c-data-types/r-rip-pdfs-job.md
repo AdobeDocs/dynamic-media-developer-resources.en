@@ -1,10 +1,10 @@
 ---
 description: A process that re-rips an existing PDF asset.
-seo-description: A process that re-rips an existing PDF asset.
-seo-title: RipPdfsJob
+
+
 solution: Experience Manager
 title: RipPdfsJob
-uuid: 95990d53-4baf-44a2-8d84-3cab2b5c9105
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

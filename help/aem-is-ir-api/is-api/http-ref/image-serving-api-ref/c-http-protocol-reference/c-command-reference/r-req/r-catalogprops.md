@@ -1,10 +1,7 @@
 ---
 description: Image catalog properties. Returns common attributes of the image catalog specified in the request path.
-seo-description: Image catalog properties. Returns common attributes of the image catalog specified in the request path.
-seo-title: catalogprops
 solution: Experience Manager
 title: catalogprops
-uuid: 09252d39-8604-4785-bcdc-ad229a691035
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---
@@ -22,7 +19,7 @@ Image catalog properties. Returns common attributes of the image catalog specifi
  </tr> 
 </table>
 
-Omit the catalog id to retrieve the default catalog properties ( [!DNL default.ini]). The HTTP response is cacheable with the TTL based on `attribute::NonImgExpiration`.
+To retrieve the default catalog properties ( [!DNL default.ini]), omit the catalog ID. The HTTP response is cacheable with the TTL based on `attribute::NonImgExpiration`.
 
 Requests that support JSONP response format lets you specify the name of the JS callback handler using the extended syntax of `req=` parameter:
 

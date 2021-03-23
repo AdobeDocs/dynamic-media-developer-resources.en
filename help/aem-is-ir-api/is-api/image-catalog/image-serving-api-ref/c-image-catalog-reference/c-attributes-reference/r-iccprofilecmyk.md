@@ -1,10 +1,7 @@
 ---
 description: CMYK default output color profile. Specifies the name of the ICC color profile to be used for CMYK response images when no output color space is specified with icc= and for certain CMYK color values specified with various Image Serving commands, such as color=.
-seo-description: CMYK default output color profile. Specifies the name of the ICC color profile to be used for CMYK response images when no output color space is specified with icc= and for certain CMYK color values specified with various Image Serving commands, such as color=.
-seo-title: IccProfileCmyk
 solution: Experience Manager
 title: IccProfileCmyk
-uuid: b22b6ed1-615f-4241-b4d4-c3aa70351458
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

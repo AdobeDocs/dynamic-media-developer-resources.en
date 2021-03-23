@@ -1,10 +1,10 @@
 ---
 description: Clicking or tapping on this button brings the user to the previous page in the catalog. This button appears in the main control bar. This button is not displayed on mobile phones to save screen real estate. You can size, skin, and position this button by using CSS.
-seo-description: Clicking or tapping on this button brings the user to the previous page in the catalog. This button appears in the main control bar. This button is not displayed on mobile phones to save screen real estate. You can size, skin, and position this button by using CSS.
-seo-title: Previous page button
+
+
 solution: Experience Manager
 title: Previous page button
-uuid: 0e7dfa50-0af5-4af9-b57c-5a01e73c03a0
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
 ---

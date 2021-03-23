@@ -1,10 +1,10 @@
 ---
 description: User data. The server returns the contents of this field to the client in response to req=userdata.
-seo-description: User data. The server returns the contents of this field to the client in response to req=userdata.
-seo-title: UserData *
+
+
 solution: Experience Manager
 title: UserData *
-uuid: ed4dfc19-8923-4e99-aa07-b6a9fab4eded
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

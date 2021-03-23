@@ -1,10 +1,10 @@
 ---
 description: Certain content that the Video Viewer displays is subject to localization. This content includes user interface element tool tips and an error message that is displayed when the video cannot be played.
-seo-description: Certain content that the Video Viewer displays is subject to localization. This content includes user interface element tool tips and an error message that is displayed when the video cannot be played.
-seo-title: Localization of user interface elements
+
+
 solution: Experience Manager
 title: Localization of user interface elements
-uuid: 05b88ef9-0d90-4143-8558-d0d32943c348
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
 ---

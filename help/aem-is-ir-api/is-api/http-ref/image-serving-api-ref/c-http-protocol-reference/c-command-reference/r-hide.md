@@ -1,10 +1,7 @@
 ---
 description: Hide Layer. Allows hiding a layer without removing it from the request string.
-seo-description: Hide Layer. Allows hiding a layer without removing it from the request string.
-seo-title: hide
 solution: Experience Manager
 title: hide
-uuid: fb50f2c4-fbac-4f0e-aa78-9cb1e47cc591
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

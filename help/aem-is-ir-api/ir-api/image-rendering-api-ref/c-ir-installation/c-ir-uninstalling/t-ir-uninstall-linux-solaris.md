@@ -1,10 +1,10 @@
 ---
 description: Follow these instructions to uninstall Image Rendering on a Linux or Solaris system.
-seo-description: Follow these instructions to uninstall Image Rendering on a Linux or Solaris system.
-seo-title: Uninstalling on Linux and Solaris
+
+
 solution: Experience Manager
 title: Uninstalling on Linux and Solaris
-uuid: 80c0d6ec-985b-4596-bd67-22e5029f7b37
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

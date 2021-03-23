@@ -2,7 +2,7 @@
 description: TableOfContents.showdefault
 solution: Experience Manager
 title: TableOfContents.showdefault
-uuid: e5e9649e-6a4a-4a62-bc01-2e74bd95ffc5
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
 ---

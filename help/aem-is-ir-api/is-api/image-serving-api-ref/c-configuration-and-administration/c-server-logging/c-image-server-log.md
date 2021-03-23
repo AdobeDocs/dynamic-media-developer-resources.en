@@ -1,10 +1,7 @@
 ---
 description: The Image Server writes records to this log file to record warnings and errors and keep a record of startup and shutdown events.
-seo-description: The Image Server writes records to this log file to record warnings and errors and keep a record of startup and shutdown events.
-seo-title: Image Server log
 solution: Experience Manager
 title: Image Server log
-uuid: 5a1a54bd-5553-43a4-9cd6-182ba474c2d0
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

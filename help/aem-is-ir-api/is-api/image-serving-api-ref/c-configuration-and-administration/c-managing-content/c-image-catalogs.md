@@ -1,10 +1,7 @@
 ---
 description: Image catalogs provide many server configuration settings, as well as fonts, ICC profiles, command macros.
-seo-description: Image catalogs provide many server configuration settings, as well as fonts, ICC profiles, command macros.
-seo-title: Image catalogs
 solution: Experience Manager
 title: Image catalogs
-uuid: 7d7285e2-ee9c-4e88-b270-b686d1984d82
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

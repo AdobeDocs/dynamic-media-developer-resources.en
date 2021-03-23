@@ -1,10 +1,10 @@
 ---
 description: Generates a new password.
-seo-description: Generates a new password.
-seo-title: generatePassword
+
+
 solution: Experience Manager
 title: generatePassword
-uuid: e3367bfc-d437-4a61-83e8-69830154dc61
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

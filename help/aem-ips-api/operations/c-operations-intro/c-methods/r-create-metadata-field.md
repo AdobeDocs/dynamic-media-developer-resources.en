@@ -1,10 +1,7 @@
 ---
 description: Lets administrators create new metadata fields to coordinate with content management systems or for template operations. Examples of created metadata fields include keywords, information about the author of the image, or copyright holder information.
-seo-description: Lets administrators create new metadata fields to coordinate with content management systems or for template operations. Examples of created metadata fields include keywords, information about the author of the image, or copyright holder information.
-seo-title: createMetadataField
 solution: Experience Manager
 title: createMetadataField
-uuid: 50ab61fa-df44-4305-ad9f-693c4aea1e69
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
 ---

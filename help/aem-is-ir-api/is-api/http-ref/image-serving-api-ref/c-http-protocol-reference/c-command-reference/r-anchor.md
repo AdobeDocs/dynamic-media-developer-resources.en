@@ -1,10 +1,7 @@
 ---
 description: Image Anchor. Defines the anchor point of the image, solid color, or text bounding box rectangle, before applying transforms (crop=, scale=, rotate=, flip=). Also serves as the center-of-rotation for rotate=.
-seo-description: Image Anchor. Defines the anchor point of the image, solid color, or text bounding box rectangle, before applying transforms (crop=, scale=, rotate=, flip=). Also serves as the center-of-rotation for rotate=.
-seo-title: anchor
 solution: Experience Manager
 title: anchor
-uuid: 3b174360-9bb7-4dc8-83be-6b8c4ea88cd4
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

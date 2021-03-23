@@ -1,10 +1,7 @@
 ---
 description: Image Serving generates HTTP/1.1 response headers.
-seo-description: Image Serving generates HTTP/1.1 response headers.
-seo-title: Response data
 solution: Experience Manager
 title: Response data
-uuid: 63812101-1956-4dea-9ef9-38769c934243
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

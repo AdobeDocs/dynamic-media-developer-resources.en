@@ -1,10 +1,10 @@
 ---
 description: Metadata search results that contain summarized information about an asset.
-seo-description: Metadata search results that contain summarized information about an asset.
-seo-title: AssetSummary
+
+
 solution: Experience Manager
 title: AssetSummary
-uuid: 0ac8f900-c16c-409d-b83c-3bdf0ad28fac
+
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

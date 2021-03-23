@@ -1,10 +1,10 @@
 ---
 description: Search string record extracted from a PDF file.
-seo-description: Search string record extracted from a PDF file.
-seo-title: SearchStrings
+
+
 solution: Experience Manager
 title: SearchStrings
-uuid: aade2741-3e77-44c6-ab3c-0810ff034412
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

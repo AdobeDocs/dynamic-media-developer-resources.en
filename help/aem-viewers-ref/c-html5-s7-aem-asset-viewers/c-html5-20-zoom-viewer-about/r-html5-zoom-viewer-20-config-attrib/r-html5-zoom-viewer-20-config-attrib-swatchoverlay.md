@@ -2,7 +2,7 @@
 description: swatchoverlay
 solution: Experience Manager
 title: swatchoverlay
-uuid: 60419120-effc-4895-8bb1-7e4b70a67c5b
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
 ---

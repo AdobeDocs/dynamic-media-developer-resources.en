@@ -1,10 +1,7 @@
 ---
 description: The image returned to the client in response to a req=tmb request is derived from the composite image by considering the following values  wid=, hei=, attribute DefaultThumbPix, and attribute MaxPix.
-seo-description: The image returned to the client in response to a req=tmb request is derived from the composite image by considering the following values  wid=, hei=, attribute DefaultThumbPix, and attribute MaxPix.
-seo-title: View transform for thumbnails
 solution: Experience Manager
 title: View transform for thumbnails
-uuid: 29924bc1-ada1-420f-aef7-bf9a7db7065b
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

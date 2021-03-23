@@ -1,11 +1,11 @@
 ---
 description: Spin Viewer is an image viewer that provides a 360-degree view of the image or even multi-dimensional view if appropriate spin set is being used. It has zoom and spin tools, full screen support, and an optional close button. It is designed to work on desktops and mobile devices.
 keywords: responsive
-seo-description: Spin Viewer is an image viewer that provides a 360-degree view of the image or even multi-dimensional view if appropriate spin set is being used. It has zoom and spin tools, full screen support, and an optional close button. It is designed to work on desktops and mobile devices.
-seo-title: Spin
+
+
 solution: Experience Manager
 title: Spin
-uuid: 5d5cdf83-cfe8-48cd-af74-b270f7400b14
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
 ---

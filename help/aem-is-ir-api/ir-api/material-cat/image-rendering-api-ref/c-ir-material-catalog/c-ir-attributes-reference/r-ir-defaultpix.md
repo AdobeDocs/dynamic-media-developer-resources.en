@@ -1,10 +1,10 @@
 ---
 description: Default render image size. The server constrains reply images to be no larger than this width and height, if the request does not specify the view size explicitly using wid= or hei=.
-seo-description: Default render image size. The server constrains reply images to be no larger than this width and height, if the request does not specify the view size explicitly using wid= or hei=.
-seo-title: DefaultPix
+
+
 solution: Experience Manager
 title: DefaultPix
-uuid: 27574811-a920-4e54-8635-5a643b8655ef
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,10 @@
 ---
 description: Gets a list of active publish contexts for the specified company. A publish context is considered active if there is at least one active server defined for the context.
-seo-description: Gets a list of active publish contexts for the specified company. A publish context is considered active if there is at least one active server defined for the context.
-seo-title: getActivePublishContext
+
+
 solution: Experience Manager
 title: getActivePublishContext
-uuid: 856704d1-e97b-4d2d-b80c-620450b78432
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

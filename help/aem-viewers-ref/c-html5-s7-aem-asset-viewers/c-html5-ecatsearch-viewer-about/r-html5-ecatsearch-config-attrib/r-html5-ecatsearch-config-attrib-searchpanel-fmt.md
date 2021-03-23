@@ -2,7 +2,7 @@
 description: SearchPanel.fmt
 solution: Experience Manager
 title: SearchPanel.fmt
-uuid: 58b88cc9-e07a-47aa-a0d2-c81428ca4d1e
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
 ---

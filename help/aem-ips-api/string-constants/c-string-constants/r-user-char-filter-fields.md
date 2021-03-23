@@ -1,10 +1,10 @@
 ---
 description: Used by getUsersParam and getUserCharsParam/charField.
-seo-description: Used by getUsersParam and getUserCharsParam/charField.
-seo-title: User Char Filter Fields
+
+
 solution: Experience Manager
 title: User Char Filter Fields
-uuid: b8137f42-d7f6-4545-ac7a-7d94a59c40c3
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,10 @@
 ---
 description: Interactive Image Viewer is a viewer that displays a single, non-zoomable image with clickable hotspots. The purpose of this viewer is to implement a "shoppable banner" experience. That is, the user can select a hotspot over the banner image and get redirected to a Quick View or product detail page on your website. It is designed to work on desktops and mobile devices.
-seo-description: Interactive Image Viewer is a viewer that displays a single, non-zoomable image with clickable hotspots. The purpose of this viewer is to implement a "shoppable banner" experience. That is, the user can select a hotspot over the banner image and get redirected to a Quick View or product detail page on your website. It is designed to work on desktops and mobile devices.
-seo-title: Interactive Image
+
+
 solution: Experience Manager
 title: Interactive Image
-uuid: 18b7a0c3-c047-4ce1-8920-1d8ebc1ab60e
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,Business Practitioner
 ---

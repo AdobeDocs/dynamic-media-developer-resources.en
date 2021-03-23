@@ -1,10 +1,10 @@
 ---
 description: JavaScript API reference for Video Image Viewer.
-seo-description: JavaScript API reference for Video Image Viewer.
-seo-title: InteractiveImage
+
+
 solution: Experience Manager
 title: InteractiveImage
-uuid: 19bd0603-3180-4913-b5a0-93699c5131bc
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,Business Practitioner
 ---

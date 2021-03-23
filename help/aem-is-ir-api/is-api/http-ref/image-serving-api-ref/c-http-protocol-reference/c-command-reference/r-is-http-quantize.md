@@ -1,10 +1,7 @@
 ---
 description: Color quantization. Specifies color-quantization attributes for GIF output conversion.
-seo-description: Color quantization. Specifies color-quantization attributes for GIF output conversion.
-seo-title: quantize
 solution: Experience Manager
 title: quantize
-uuid: 4e9c4807-59bc-4eb9-bcab-0bf0cfdf56d4
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

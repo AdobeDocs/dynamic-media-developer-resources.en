@@ -2,7 +2,7 @@
 description: direction
 solution: Experience Manager
 title: direction
-uuid: 0a30f3b0-64c8-4799-b4f5-fc8996a8b5a4
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
 ---

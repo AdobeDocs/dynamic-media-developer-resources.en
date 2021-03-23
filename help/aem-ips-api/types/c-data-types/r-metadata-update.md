@@ -1,10 +1,10 @@
 ---
 description: Sets metadata values for a specific asset used with setAssetMetadata. Describes the changes you want to make to metadata.
-seo-description: Sets metadata values for a specific asset used with setAssetMetadata. Describes the changes you want to make to metadata.
-seo-title: MetadataUpdate
+
+
 solution: Experience Manager
 title: MetadataUpdate
-uuid: 09d3940b-117d-4d83-8b12-e86520c9da34
+
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
 ---

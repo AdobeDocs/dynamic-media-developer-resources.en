@@ -1,10 +1,10 @@
 ---
 description: Returns assets based on an array of asset names.
-seo-description: Returns assets based on an array of asset names.
-seo-title: getAssetsByName
+
+
 solution: Experience Manager
 title: getAssetsByName
-uuid: e86b3b16-ad93-4f70-9f59-b72395513c4c
+
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

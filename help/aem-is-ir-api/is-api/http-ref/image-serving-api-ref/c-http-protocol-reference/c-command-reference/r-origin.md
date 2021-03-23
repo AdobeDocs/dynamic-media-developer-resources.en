@@ -1,10 +1,7 @@
 ---
 description: Layer origin.
-seo-description: Layer origin.
-seo-title: origin
 solution: Experience Manager
 title: origin
-uuid: a36fc0b6-7744-4c1c-b9f8-4aa31a886bff
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

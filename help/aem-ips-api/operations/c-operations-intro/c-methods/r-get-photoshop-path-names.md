@@ -1,10 +1,10 @@
 ---
 description: Returns an array of Photoshop path names for the given image.
-seo-description: Returns an array of Photoshop path names for the given image.
-seo-title: getPhotoshopPathNames
+
+
 solution: Experience Manager
 title: getPhotoshopPathNames
-uuid: d3f1dea5-393b-498e-963d-37a4e38068a2
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

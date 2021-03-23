@@ -2,7 +2,7 @@
 description: SearchPanel.iscommand
 solution: Experience Manager
 title: SearchPanel.iscommand
-uuid: 7496fea1-8a69-4749-ab4b-ae6d375441b8
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
 ---

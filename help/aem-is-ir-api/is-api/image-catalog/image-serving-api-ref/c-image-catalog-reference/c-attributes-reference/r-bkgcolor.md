@@ -1,10 +1,7 @@
 ---
 description: Default background color. RGB value used to fill in any area of a reply image which does not contain actual image data.
-seo-description: Default background color. RGB value used to fill in any area of a reply image which does not contain actual image data.
-seo-title: BkgColor
 solution: Experience Manager
 title: BkgColor
-uuid: 48f0c7d2-3a6c-4076-81f1-ad94f701c576
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

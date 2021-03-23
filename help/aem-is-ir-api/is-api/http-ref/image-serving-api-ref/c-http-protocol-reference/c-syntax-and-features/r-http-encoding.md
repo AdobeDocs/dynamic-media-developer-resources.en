@@ -1,10 +1,7 @@
 ---
 description: Command values must be http-encoded using %xx escape sequences, such that the value strings do not include the reserved characters '=', '&', and '%'.
-seo-description: Command values must be http-encoded using %xx escape sequences, such that the value strings do not include the reserved characters '=', '&', and '%'.
-seo-title: Image Serving HTTP encoding
 solution: Experience Manager
 title: Image Serving HTTP encoding
-uuid: e7fb368b-060a-439e-95a1-16b94d4796dc
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

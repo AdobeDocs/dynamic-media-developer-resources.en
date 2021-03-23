@@ -1,10 +1,7 @@
 ---
 description: Macro definitions file path. Specifies the file which contains the macro definitions for this image catalog.
-seo-description: Macro definitions file path. Specifies the file which contains the macro definitions for this image catalog.
-seo-title: MacroFile
 solution: Experience Manager
 title: MacroFile
-uuid: a383b00a-47f8-4c1c-9fd0-0701d8f78b18
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

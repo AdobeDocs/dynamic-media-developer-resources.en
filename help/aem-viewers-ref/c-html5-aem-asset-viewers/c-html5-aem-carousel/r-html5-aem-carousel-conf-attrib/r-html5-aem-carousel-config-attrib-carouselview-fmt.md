@@ -2,7 +2,7 @@
 description: CarouselView.fmt
 solution: Experience Manager
 title: CarouselView.fmt
-uuid: deba25f3-f074-42db-b1d5-d4bf22e25773
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
 ---

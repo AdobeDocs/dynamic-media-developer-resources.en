@@ -1,10 +1,10 @@
 ---
 description: Vignette map data file path. Specifies the file which contains the vignette map for this image catalog.
-seo-description: Vignette map data file path. Specifies the file which contains the vignette map for this image catalog.
-seo-title: VignetteMapFile
+
+
 solution: Experience Manager
 title: VignetteMapFile
-uuid: d07dcfea-241e-4431-b09e-dbd1df38b8ca
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

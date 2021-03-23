@@ -1,10 +1,7 @@
 ---
 description: Optionally applies the final mask on effect layers to mask out the area of overlap between an effect and a layer.
-seo-description: Optionally applies the final mask on effect layers to mask out the area of overlap between an effect and a layer.
-seo-title: ApplyEffectMask
 solution: Experience Manager
 title: ApplyEffectMask
-uuid: a217bf76-58da-4609-b394-e5591873ad20
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

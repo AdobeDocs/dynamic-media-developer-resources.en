@@ -1,10 +1,10 @@
 ---
 description: Configuration attribute for Mixed Media Video Viewer.
-seo-description: Configuration attribute for Mixed Media Video Viewer.
-seo-title: VideoPlayer.waiticon
+
+
 solution: Experience Manager
 title: VideoPlayer.waiticon
-uuid: d57aa367-27cd-4aa2-b1bb-05a29b0c245a
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
 ---

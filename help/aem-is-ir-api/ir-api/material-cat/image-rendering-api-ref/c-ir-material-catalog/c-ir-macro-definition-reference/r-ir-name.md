@@ -1,10 +1,10 @@
 ---
 description: Macro name. Macro names may consist of any combination of alpha, digit, and safe characters, excluding $.
-seo-description: Macro name. Macro names may consist of any combination of alpha, digit, and safe characters, excluding $.
-seo-title: Name
+
+
 solution: Experience Manager
 title: Name
-uuid: 5b81b450-5c3d-4a9e-95dd-6f12b6a9a5ae
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---
