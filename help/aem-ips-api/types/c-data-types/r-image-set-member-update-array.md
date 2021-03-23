@@ -1,10 +1,10 @@
 ---
 description: An array of image set member updates.
-seo-description: An array of image set member updates.
-seo-title: ImageSetMemberUpdateArray
+
+
 solution: Experience Manager
 title: ImageSetMemberUpdateArray
-uuid: 23d45181-1103-4e3a-89a4-984470c11728
+
 feature: Dynamic Media Classic,SDK/API,Image Sets
 role: Developer,Administrator
 ---

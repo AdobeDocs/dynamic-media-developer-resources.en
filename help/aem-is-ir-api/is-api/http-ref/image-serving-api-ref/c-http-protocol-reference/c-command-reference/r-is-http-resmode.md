@@ -1,10 +1,7 @@
 ---
 description: Resampling mode. Chooses the resampling and/or interpolation algorithm to be used for scaling image data. Also applies to rotation of text layers and resizing of composite images during the view transform.
-seo-description: Resampling mode. Chooses the resampling and/or interpolation algorithm to be used for scaling image data. Also applies to rotation of text layers and resizing of composite images during the view transform.
-seo-title: resMode
 solution: Experience Manager
 title: resMode
-uuid: 8e12aa06-072c-4e7a-84e6-01437c43c57b
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

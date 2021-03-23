@@ -1,10 +1,7 @@
 ---
 description: An image server proxy can be used to resize images for Japanese phones.
-seo-description: An image server proxy can be used to resize images for Japanese phones.
-seo-title: Image server proxy
 solution: Experience Manager
 title: Image server proxy
-uuid: 49aa0861-9b03-4a62-8604-67e6cb7a621f
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

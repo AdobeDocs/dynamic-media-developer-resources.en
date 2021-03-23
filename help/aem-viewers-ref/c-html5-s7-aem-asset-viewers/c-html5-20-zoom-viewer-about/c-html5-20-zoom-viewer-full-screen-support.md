@@ -1,10 +1,10 @@
 ---
 description: The viewer supports full screen operation mode.
-seo-description: The viewer supports full screen operation mode.
-seo-title: Full Screen Support
+
+
 solution: Experience Manager
 title: Full Screen Support
-uuid: 13a26956-157c-4562-877b-2ef09592f36d
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,10 @@
 ---
 description: Configuration attribute for Interactive Video Viewer.
-seo-description: Configuration attribute for Interactive Video Viewer.
-seo-title: InteractiveSwatches.enabledragging
+
+
 solution: Experience Manager
 title: InteractiveSwatches.enabledragging
-uuid: 9a93e6b3-3441-4987-b9e6-a964dbf2247d
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
 ---

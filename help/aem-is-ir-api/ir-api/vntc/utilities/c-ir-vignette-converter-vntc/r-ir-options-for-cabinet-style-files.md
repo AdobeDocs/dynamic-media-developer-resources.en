@@ -1,10 +1,10 @@
 ---
 description: The following options control the processing of cabinet style files. They are ignored if sourceFile is not a cabinet style file or if -info is specified.
-seo-description: The following options control the processing of cabinet style files. They are ignored if sourceFile is not a cabinet style file or if -info is specified.
-seo-title: Options for cabinet style files
+
+
 solution: Experience Manager
 title: Options for cabinet style files
-uuid: bca84724-d710-45da-86e9-7385f689fd4b
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

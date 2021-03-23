@@ -1,10 +1,10 @@
 ---
 description: The video player is the rectangular area where the video content is displayed within the viewer.
-seo-description: The video player is the rectangular area where the video content is displayed within the viewer.
-seo-title: Video player
+
+
 solution: Experience Manager
 title: Video player
-uuid: d7431a7b-6078-45d6-a364-434b3b44ecf4
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
 ---

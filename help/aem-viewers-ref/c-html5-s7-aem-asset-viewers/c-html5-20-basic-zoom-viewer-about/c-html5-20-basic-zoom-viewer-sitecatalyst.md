@@ -1,10 +1,10 @@
 ---
 description: The Basic Zoom Viewer supports Adobe Analytics tracking out of the box.
-seo-description: The Basic Zoom Viewer supports Adobe Analytics tracking out of the box.
-seo-title: Support for Adobe Analytics tracking
+
+
 solution: Experience Manager
 title: Support for Adobe Analytics tracking
-uuid: f48fde77-7e48-4d56-b5c5-079a484e6d9c
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner,Data Engineer,Data Architect
 ---

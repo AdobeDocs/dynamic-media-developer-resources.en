@@ -2,7 +2,7 @@
 description: ZoomView.fmt
 solution: Experience Manager
 title: ZoomView.fmt
-uuid: b118e441-f128-4dfd-a82e-62ec4d1ebf84
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
 ---

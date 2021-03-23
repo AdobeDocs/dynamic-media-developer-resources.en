@@ -1,10 +1,7 @@
 ---
 description: Step 2 of the image layer transforms is modified as follows for thumbnails (i.e. if req=tmb).
-seo-description: Step 2 of the image layer transforms is modified as follows for thumbnails (i.e. if req=tmb).
-seo-title: Thumbnail scaling
 solution: Experience Manager
 title: Thumbnail scaling
-uuid: df935d40-84c6-4018-9e41-faef4653ff1f
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

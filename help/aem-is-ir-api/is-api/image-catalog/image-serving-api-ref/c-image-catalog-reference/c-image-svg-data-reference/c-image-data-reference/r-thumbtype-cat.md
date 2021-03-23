@@ -1,10 +1,7 @@
 ---
 description: Thumbnail type. Describes how a thumbnail for this image is to be generated.
-seo-description: Thumbnail type. Describes how a thumbnail for this image is to be generated.
-seo-title: ThumbType
 solution: Experience Manager
 title: ThumbType
-uuid: b737b5a4-ad6d-4a9c-b48f-81cf170dd210
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

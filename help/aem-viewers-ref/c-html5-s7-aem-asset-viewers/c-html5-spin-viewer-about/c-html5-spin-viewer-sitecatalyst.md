@@ -1,10 +1,10 @@
 ---
 description: The Spin Viewer supports Adobe Analytics tracking out of the box.
-seo-description: The Spin Viewer supports Adobe Analytics tracking out of the box.
-seo-title: Support for Adobe Analytics tracking
+
+
 solution: Experience Manager
 title: Support for Adobe Analytics tracking
-uuid: 337671f0-22e8-4e3e-a0a9-ce49d271ea56
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner,Data Engineer,Data Architect
 ---

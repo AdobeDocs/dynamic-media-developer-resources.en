@@ -2,7 +2,7 @@
 description: closebutton
 solution: Experience Manager
 title: closebutton
-uuid: 2095fe87-94cf-4773-8901-5582b9ed5d67
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
 ---

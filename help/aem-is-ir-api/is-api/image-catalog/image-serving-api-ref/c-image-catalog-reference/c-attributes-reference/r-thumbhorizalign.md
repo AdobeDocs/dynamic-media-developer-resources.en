@@ -1,10 +1,7 @@
 ---
 description: Horizontal alignment for thumbnails. Specifies the horizontal alignment of the thumbnail image in the reply image rectangle specified by wid= and hei= or by attribute DefaultThumbPix.
-seo-description: Horizontal alignment for thumbnails. Specifies the horizontal alignment of the thumbnail image in the reply image rectangle specified by wid= and hei= or by attribute DefaultThumbPix.
-seo-title: ThumbHorizAlign
 solution: Experience Manager
 title: ThumbHorizAlign
-uuid: 2fbe71e2-1227-415b-ad4c-0d0752f8f729
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

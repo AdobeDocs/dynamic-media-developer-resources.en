@@ -1,10 +1,10 @@
 ---
 description: An array of users.
-seo-description: An array of users.
-seo-title: UserArray
+
+
 solution: Experience Manager
 title: UserArray
-uuid: 5b78918b-4d6b-4d0d-90b8-6b8a7c97c5f0
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

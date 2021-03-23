@@ -1,10 +1,10 @@
 ---
 description: Texture repeat mode. Specifies how texture images are tiled to fill the target surface.
-seo-description: Texture repeat mode. Specifies how texture images are tiled to fill the target surface.
-seo-title: Repeat
+
+
 solution: Experience Manager
 title: Repeat
-uuid: bd15a573-9902-4672-992d-90d171160a46
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

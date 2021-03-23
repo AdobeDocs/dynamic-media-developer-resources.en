@@ -1,10 +1,10 @@
 ---
 description: Material surface roughness. Specifies the relative roughness of the material surface.
-seo-description: Material surface roughness. Specifies the relative roughness of the material surface.
-seo-title: rough
+
+
 solution: Experience Manager
 title: rough
-uuid: d3b4ece1-cc2a-4012-ad81-2f313d3a370b
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

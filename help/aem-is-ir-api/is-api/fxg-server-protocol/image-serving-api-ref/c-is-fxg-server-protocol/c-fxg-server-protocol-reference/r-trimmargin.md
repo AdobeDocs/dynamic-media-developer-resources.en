@@ -1,10 +1,10 @@
 ---
 description: Set trim margin. Sets the trim margin that is set in the PDF file.
-seo-description: Set trim margin. Sets the trim margin that is set in the PDF file.
-seo-title: trimMargin
+
+
 solution: Experience Manager
 title: trimMargin
-uuid: af94f9e8-a32e-439a-817a-a40aa8dc7dd4
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

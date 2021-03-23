@@ -1,10 +1,10 @@
 ---
 description: Deletes metadata values for an asset. Works with an array of metadata delete to set values in a batch.
-seo-description: Deletes metadata values for an asset. Works with an array of metadata delete to set values in a batch.
-seo-title: deleteAssetMetadata
+
+
 solution: Experience Manager
 title: deleteAssetMetadata
-uuid: 2dc783c6-23da-4a94-8780-3c4ec88ff3f4
+
 feature: Dynamic Media Classic,SDK/API,Metadata,Asset Management
 role: Developer,Administrator
 ---

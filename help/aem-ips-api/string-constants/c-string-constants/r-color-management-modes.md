@@ -1,10 +1,10 @@
 ---
 description: Used by ColorManagementOptions/colorManagement.
-seo-description: Used by ColorManagementOptions/colorManagement.
-seo-title: Color Management Modes
+
+
 solution: Experience Manager
 title: Color Management Modes
-uuid: 44d0b8d6-7bfc-43f4-9ddc-179526c180f0
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

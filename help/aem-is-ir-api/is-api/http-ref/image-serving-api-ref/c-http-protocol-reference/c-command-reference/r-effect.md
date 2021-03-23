@@ -1,10 +1,7 @@
 ---
 description: Select Effect Layer. Selects an effect layer and starts a new layer segment in the request string, which is associated with the current layer.
-seo-description: Select Effect Layer. Selects an effect layer and starts a new layer segment in the request string, which is associated with the current layer.
-seo-title: effect
 solution: Experience Manager
 title: effect
-uuid: 622dc7ca-55b8-4a82-b9a7-65588aee87d0
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

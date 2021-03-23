@@ -1,10 +1,7 @@
 ---
 description: Postfix request modifier string. None or more Image Serving commands separated by '&' characters.
-seo-description: Postfix request modifier string. None or more Image Serving commands separated by '&' characters.
-seo-title: PostModifier
 solution: Experience Manager
 title: PostModifier
-uuid: 8800a9b2-e9c0-498b-b4e1-37952ba7c842
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

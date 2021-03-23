@@ -1,10 +1,10 @@
 ---
 description: Gets specified job logs for the selected company. You can sort by characters, direction, start and end dates, and number of rows.
-seo-description: Gets specified job logs for the selected company. You can sort by characters, direction, start and end dates, and number of rows.
-seo-title: getJobLogs
+
+
 solution: Experience Manager
 title: getJobLogs
-uuid: 850ccfad-6cdb-4eda-a20a-762fadadf8b2
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

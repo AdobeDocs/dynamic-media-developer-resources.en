@@ -1,10 +1,10 @@
 ---
 description: Reply image height. Specifies scaling of the rendered image so that the height of the reply image is no larger than the specified value, while maintaining the image's aspect ratio.
-seo-description: Reply image height. Specifies scaling of the rendered image so that the height of the reply image is no larger than the specified value, while maintaining the image's aspect ratio.
-seo-title: hei
+
+
 solution: Experience Manager
 title: hei
-uuid: 616d3306-ccbd-4400-8a94-1ff6f47b802e
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,7 @@
 ---
 description: Layer size. Specifies the size or maximum layer size for a layer, before rotate=, perspective=, and extend= are applied to the layer.
-seo-description: Layer size. Specifies the size or maximum layer size for a layer, before rotate=, perspective=, and extend= are applied to the layer.
-seo-title: size
 solution: Experience Manager
 title: size
-uuid: c9c13062-7974-4dd9-aff4-f9502bcf442e
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,10 @@
 ---
 description: Returns 2 different types of information based on the parameters passed in. originatorHandle returns information about assets generated from the specified asset. generateHandle returns information about steps used to generate the specified asset or file.
-seo-description: Returns 2 different types of information based on the parameters passed in. originatorHandle returns information about assets generated from the specified asset. generateHandle returns information about steps used to generate the specified asset or file.
-seo-title: getGenerationInfo
+
+
 solution: Experience Manager
 title: getGenerationInfo
-uuid: 4310a702-c08b-4479-9f57-9f2bc1d6b032
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

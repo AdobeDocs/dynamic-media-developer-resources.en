@@ -1,10 +1,10 @@
 ---
 description: Properties of a Flash file.
-seo-description: Properties of a Flash file.
-seo-title: FlashInfo
+
+
 solution: Experience Manager
 title: FlashInfo
-uuid: ac36a7db-7ffd-40ab-bb21-9cbc0c31070b
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

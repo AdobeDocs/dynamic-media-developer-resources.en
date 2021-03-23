@@ -1,10 +1,7 @@
 ---
 description: Property data consists of a text string representing one or more properties.
-seo-description: Property data consists of a text string representing one or more properties.
-seo-title: Property data
 solution: Experience Manager
 title: Property data
-uuid: 7fa6ae70-8d70-41d6-9e47-7df3d616874c
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

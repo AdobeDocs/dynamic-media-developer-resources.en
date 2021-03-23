@@ -1,10 +1,7 @@
 ---
 description: Server cache validation policy. Specifies when server-side cache entries are validated.
-seo-description: Server cache validation policy. Specifies when server-side cache entries are validated.
-seo-title: CacheValidationPolicy
 solution: Experience Manager
 title: CacheValidationPolicy
-uuid: 371dadbf-d58e-4214-8050-7e8907b436e3
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,10 @@
 ---
 description: Publishes files to the image rendering servers.
-seo-description: Publishes files to the image rendering servers.
-seo-title: ImageRenderingPublishJob
+
+
 solution: Experience Manager
 title: ImageRenderingPublishJob
-uuid: 46dd5df4-2d20-444a-b5c3-200a74509798
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

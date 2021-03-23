@@ -1,10 +1,10 @@
 ---
 description: To manipulate a graphic, you can use reference points similar to compass points.
-seo-description: To manipulate a graphic, you can use reference points similar to compass points.
-seo-title: FXG server protocol
+
+
 solution: Experience Manager
 title: FXG server protocol
-uuid: 5cb123ca-2274-4ddb-8fa1-ab22a19172f6
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

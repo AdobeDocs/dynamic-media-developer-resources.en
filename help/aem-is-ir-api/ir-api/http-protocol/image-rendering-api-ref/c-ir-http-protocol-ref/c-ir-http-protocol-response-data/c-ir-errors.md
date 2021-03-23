@@ -1,10 +1,10 @@
 ---
 description: If a request cannot be completed successfully, the server will either return an error image or an HTTP response status other than 200 together with an error message.
-seo-description: If a request cannot be completed successfully, the server will either return an error image or an HTTP response status other than 200 together with an error message.
-seo-title: Errors
+
+
 solution: Experience Manager
 title: Errors
-uuid: 5984fa9e-63c8-426b-be5f-48f66fc918c3
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

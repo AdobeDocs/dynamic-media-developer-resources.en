@@ -2,7 +2,7 @@
 description: SpinView.iscommand
 solution: Experience Manager
 title: SpinView.iscommand
-uuid: e2c86ec3-0f8a-42eb-98a1-689f083fa20c
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
 ---

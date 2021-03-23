@@ -1,10 +1,7 @@
 ---
 description: Regular expression pattern element. Optional in <rule> elements.
-seo-description: Regular expression pattern element. Optional in <rule> elements.
-seo-title: expression
 solution: Experience Manager
 title: expression
-uuid: f2036015-a2c7-4392-86f6-4cdf3152839a
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,10 @@
 ---
 description: The main view area is the area occupied by the carousel banner image. It is usually set to fit the available device screen when no size is specified.
-seo-description: The main view area is the area occupied by the carousel banner image. It is usually set to fit the available device screen when no size is specified.
-seo-title: Main viewer area
+
+
 solution: Experience Manager
 title: Main viewer area
-uuid: 0e796f75-36a6-4961-9980-b634ab50c7ff
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
 ---

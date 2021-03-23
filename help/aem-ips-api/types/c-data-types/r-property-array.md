@@ -1,10 +1,10 @@
 ---
 description: An array of properties.
-seo-description: An array of properties.
-seo-title: PropertyArray
+
+
 solution: Experience Manager
 title: PropertyArray
-uuid: a28dd70f-953c-472a-9c23-020db134e1af
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

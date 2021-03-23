@@ -1,10 +1,10 @@
 ---
 description: Image anchor. Specifies the anchor point (hotspot) of a repeatable texture, wall border, or decal image.
-seo-description: Image anchor. Specifies the anchor point (hotspot) of a repeatable texture, wall border, or decal image.
-seo-title: Anchor
+
+
 solution: Experience Manager
 title: Anchor
-uuid: 0b1a0fea-b299-44dc-b9fd-5916130b2ef3
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

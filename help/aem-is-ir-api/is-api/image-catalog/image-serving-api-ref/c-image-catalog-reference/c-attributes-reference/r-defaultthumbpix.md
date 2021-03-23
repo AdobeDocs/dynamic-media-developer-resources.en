@@ -1,10 +1,7 @@
 ---
 description: Default thumbnail size. Used instead of attribute DefaultPix for thumbnail requests (req=tmb).
-seo-description: Default thumbnail size. Used instead of attribute DefaultPix for thumbnail requests (req=tmb).
-seo-title: DefaultThumbPix
 solution: Experience Manager
 title: DefaultThumbPix
-uuid: 7b310aab-6d38-45f3-a3e7-b074a8e7a795
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,7 @@
 ---
 description: If text is specified as the response format, the reply data is formatted to be readable as Java properties.
-seo-description: If text is specified as the response format, the reply data is formatted to be readable as Java properties.
-seo-title: Text (Java) properties
 solution: Experience Manager
 title: Text (Java) properties
-uuid: 5dba4cf7-9172-4195-968e-9ef76c25e90c
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

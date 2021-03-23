@@ -1,10 +1,7 @@
 ---
 description: Property data is returned in response to several req= types.
-seo-description: Property data is returned in response to several req= types.
-seo-title: Properties
 solution: Experience Manager
 title: Properties
-uuid: 22c271f7-e9dc-4f3e-af7b-1efe89df983e
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

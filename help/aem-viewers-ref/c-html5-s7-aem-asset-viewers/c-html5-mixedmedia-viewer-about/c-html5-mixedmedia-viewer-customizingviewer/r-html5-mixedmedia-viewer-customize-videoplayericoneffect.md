@@ -1,10 +1,10 @@
 ---
 description: The play icon is overlaid on the video view area. It displays when the video is paused, or when the end of the video is reached, and it also depends on the iconeffect parameter.
-seo-description: The play icon is overlaid on the video view area. It displays when the video is paused, or when the end of the video is reached, and it also depends on the iconeffect parameter.
-seo-title: Video player icon effect
+
+
 solution: Experience Manager
 title: Video player icon effect
-uuid: 5d59c4b2-a7a1-49e1-84c7-0e127a571c4f
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
 ---

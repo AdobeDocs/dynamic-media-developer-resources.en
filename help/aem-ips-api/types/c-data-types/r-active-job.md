@@ -1,10 +1,10 @@
 ---
 description: A job that runs on a server. Also, it is an instance of a scheduled job.
-seo-description: A job that runs on a server. Also, it is an instance of a scheduled job.
-seo-title: ActiveJob
+
+
 solution: Experience Manager
 title: ActiveJob
-uuid: d7120a88-6f3e-4844-aafa-83d419470fad
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

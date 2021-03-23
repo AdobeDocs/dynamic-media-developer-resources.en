@@ -1,10 +1,10 @@
 ---
 description: JavaScript API reference for Carousel Viewer.
-seo-description: JavaScript API reference for Carousel Viewer.
-seo-title: dispose
+
+
 solution: Experience Manager
 title: dispose
-uuid: 6b4e5bd0-5a32-4e4e-a9a1-c26e8e266aa6
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
 ---

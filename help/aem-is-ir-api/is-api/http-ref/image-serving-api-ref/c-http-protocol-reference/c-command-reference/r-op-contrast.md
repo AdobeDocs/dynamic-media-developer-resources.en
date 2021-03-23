@@ -1,10 +1,7 @@
 ---
 description: Adjust contrast. Adjusts the image contrast by increasing the brightness of pixels with more than 50% brightness, and reducing the brightness of pixels with less than 50% brightness.
-seo-description: Adjust contrast. Adjusts the image contrast by increasing the brightness of pixels with more than 50% brightness, and reducing the brightness of pixels with less than 50% brightness.
-seo-title: op_contrast
 solution: Experience Manager
 title: op_contrast
-uuid: d17b0b49-792b-41ce-a154-5e7635c9ab43
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

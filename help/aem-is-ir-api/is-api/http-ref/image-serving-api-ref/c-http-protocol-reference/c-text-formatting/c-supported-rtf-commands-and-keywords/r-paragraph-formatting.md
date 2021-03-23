@@ -1,10 +1,7 @@
 ---
 description: The following paragraph formatting commands are supported.
-seo-description: The following paragraph formatting commands are supported.
-seo-title: Paragraph formatting
 solution: Experience Manager
 title: Paragraph formatting
-uuid: 4f9255b2-3a74-4c9a-80c5-d85b4627027e
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

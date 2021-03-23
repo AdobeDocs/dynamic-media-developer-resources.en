@@ -1,10 +1,7 @@
 ---
 description: Total stream bit rate. Long value representing the total stream bit rate for the video asset.
-seo-description: Total stream bit rate. Long value representing the total stream bit rate for the video asset.
-seo-title: TotalStreamBitRate
 solution: Experience Manager
 title: TotalStreamBitRate
-uuid: 0fdb7189-cae6-4cf0-ae00-f46a7709fc46
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

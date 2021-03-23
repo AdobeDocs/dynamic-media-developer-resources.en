@@ -1,10 +1,7 @@
 ---
 description: Use these server settings to redirect errors.
-seo-description: Use these server settings to redirect errors.
-seo-title: Error redirection
 solution: Experience Manager
 title: Error redirection
-uuid: b2c2f725-98c3-44a4-8f50-2ca4da7f2156
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

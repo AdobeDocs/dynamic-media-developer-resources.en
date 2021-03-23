@@ -1,10 +1,7 @@
 ---
 description: Image Serving components are managed by the Server Supervisor, which is a Linux daemon or Windows Service (S7Supervisor.exe, listed as 'Dynamic Media Image Serving' in the Services Control Panel).
-seo-description: Image Serving components are managed by the Server Supervisor, which is a Linux daemon or Windows Service (S7Supervisor.exe, listed as 'Dynamic Media Image Serving' in the Services Control Panel).
-seo-title: Server supervisor
 solution: Experience Manager
 title: Server supervisor
-uuid: 6ac38d90-00ed-4d49-84f0-2e77e7a86d47
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

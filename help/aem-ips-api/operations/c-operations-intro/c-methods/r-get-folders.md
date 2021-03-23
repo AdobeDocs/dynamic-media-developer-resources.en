@@ -1,10 +1,10 @@
 ---
 description: Returns all folders and subfolders, starting at the folder path. The getFolders response returns a maximum of 100,000 folders.
-seo-description: Returns all folders and subfolders, starting at the folder path. The getFolders response returns a maximum of 100,000 folders.
-seo-title: getFolders
+
+
 solution: Experience Manager
 title: getFolders
-uuid: 06e9d745-b711-43e3-8dc6-93da66b981b1
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

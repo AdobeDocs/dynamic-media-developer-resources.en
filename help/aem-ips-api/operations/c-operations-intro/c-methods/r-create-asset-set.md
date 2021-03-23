@@ -1,10 +1,7 @@
 ---
 description: Creates a generic asset set with a raw set definition string to be published to an Image Server.
-seo-description: Creates a generic asset set with a raw set definition string to be published to an Image Server.
-seo-title: createAssetSet
 solution: Experience Manager
 title: createAssetSet
-uuid: 1e86bd37-511c-4c12-abfd-075053b86f78
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

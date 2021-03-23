@@ -1,10 +1,7 @@
 ---
 description: Rotate image. Rotates the image, text, or solid color layer by the specified angle.
-seo-description: Rotate image. Rotates the image, text, or solid color layer by the specified angle.
-seo-title: rotate
 solution: Experience Manager
 title: rotate
-uuid: 160d3c4b-3871-43bd-a17d-96198c7ea839
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

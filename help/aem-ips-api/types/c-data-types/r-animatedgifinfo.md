@@ -1,10 +1,10 @@
 ---
 description: Properties of an Animated GIF file asset.
-seo-description: Properties of an Animated GIF file asset.
-seo-title: AnimatedGifInfo
+
+
 solution: Experience Manager
 title: AnimatedGifInfo
-uuid: add69c62-1139-4993-acf7-2e11e734ea83
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

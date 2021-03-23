@@ -1,10 +1,10 @@
 ---
 description: RGB default input color profile. Specifies the name of the ICC color profile to be used for RGB material images and vignettes which do not embed a color profile and for RGB color values specified with various Image Rendering commands, such as bgc= and color=.
-seo-description: RGB default input color profile. Specifies the name of the ICC color profile to be used for RGB material images and vignettes which do not embed a color profile and for RGB color values specified with various Image Rendering commands, such as bgc= and color=.
-seo-title: IccProfileSrcRgb
+
+
 solution: Experience Manager
 title: IccProfileSrcRgb
-uuid: 9657e296-0d2a-4b05-9be7-5a54d3277f90
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

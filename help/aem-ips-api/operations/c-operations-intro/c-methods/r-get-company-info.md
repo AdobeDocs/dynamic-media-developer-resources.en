@@ -1,10 +1,10 @@
 ---
 description: Returns information about the specified company including the company handle, the company name, the root path, and the expiration date. You must specify either companyHandle or companyName whose information you want to retrieve.
-seo-description: Returns information about the specified company including the company handle, the company name, the root path, and the expiration date. You must specify either companyHandle or companyName whose information you want to retrieve.
-seo-title: getCompanyInfo
+
+
 solution: Experience Manager
 title: getCompanyInfo
-uuid: 9218cba8-2873-46b7-90e3-7ab9d5018690
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

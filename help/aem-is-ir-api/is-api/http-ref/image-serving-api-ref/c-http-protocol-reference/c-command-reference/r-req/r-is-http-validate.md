@@ -1,10 +1,7 @@
 ---
 description: Request validation.
-seo-description: Request validation.
-seo-title: validate
 solution: Experience Manager
 title: validate
-uuid: 5322c484-2cf5-4022-9863-73fc525beb56
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

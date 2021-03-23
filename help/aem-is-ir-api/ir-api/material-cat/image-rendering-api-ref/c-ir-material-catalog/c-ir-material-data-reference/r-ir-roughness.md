@@ -1,10 +1,10 @@
 ---
 description: Surface roughness. Specifies the relative glossiness of the material surface. Used in conjunction with catalog Type and catalog Gloss to control 3D reflection render effects.
-seo-description: Surface roughness. Specifies the relative glossiness of the material surface. Used in conjunction with catalog Type and catalog Gloss to control 3D reflection render effects.
-seo-title: Roughness
+
+
 solution: Experience Manager
 title: Roughness
-uuid: d71e4411-dd59-4347-a7c2-132e130ff36b
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

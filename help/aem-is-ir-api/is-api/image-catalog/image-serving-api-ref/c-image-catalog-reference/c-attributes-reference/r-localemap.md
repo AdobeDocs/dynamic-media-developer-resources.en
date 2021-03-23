@@ -1,10 +1,7 @@
 ---
 description: ID translation map. Specifies the rules used for translating generic image ids to locale-specific IDs.
-seo-description: ID translation map. Specifies the rules used for translating generic image ids to locale-specific IDs.
-seo-title: LocaleMap
 solution: Experience Manager
 title: LocaleMap
-uuid: 3609a595-2948-43a4-ba8c-fd1a9ea4e26e
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

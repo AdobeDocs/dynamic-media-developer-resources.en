@@ -1,10 +1,7 @@
 ---
 description: Image map data. None or more complete HTML <AREA> elements, sorted front-to-back.
-seo-description: Image map data. None or more complete HTML <AREA> elements, sorted front-to-back.
-seo-title: Map
 solution: Experience Manager
 title: Map
-uuid: 674a7a74-91bf-41c4-ab74-a5cb4f8abe1d
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,10 @@
 ---
 description: Clicking or tapping this button spins the image to the right in main view. This button is not displayed on mobile phones in order to save screen real estate. Also, the button is hidden when a multi-dimensional spin set is used. You can size, skin, and position the button using CSS.
-seo-description: Clicking or tapping this button spins the image to the right in main view. This button is not displayed on mobile phones in order to save screen real estate. Also, the button is hidden when a multi-dimensional spin set is used. You can size, skin, and position the button using CSS.
-seo-title: Spin right button
+
+
 solution: Experience Manager
 title: Spin right button
-uuid: 5c754e53-9311-4d4f-96e7-2bb9a5a7babf
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
 ---

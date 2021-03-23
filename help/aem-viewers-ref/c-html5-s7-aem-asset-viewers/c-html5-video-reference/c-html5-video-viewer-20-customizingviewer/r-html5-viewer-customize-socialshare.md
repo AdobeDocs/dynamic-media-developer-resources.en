@@ -1,10 +1,10 @@
 ---
 description: The social share tool appears in the top right corner by default. It consists of a button and a panel which expands when user clicks or taps on a button and contains individual sharing tools.
-seo-description: The social share tool appears in the top right corner by default. It consists of a button and a panel which expands when user clicks or taps on a button and contains individual sharing tools.
-seo-title: Social share
+
+
 solution: Experience Manager
 title: Social share
-uuid: 5c1ce7b4-54bf-486f-8b57-1d6d0cec119e
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
 ---

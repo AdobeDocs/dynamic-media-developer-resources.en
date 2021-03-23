@@ -1,10 +1,10 @@
 ---
 description: Configuration attribute for Video Viewer.
-seo-description: Configuration attribute for Video Viewer.
-seo-title: EmailShare.emailurl
+
+
 solution: Experience Manager
 title: EmailShare.emailurl
-uuid: 5a461da2-4b08-4854-9bdc-98de208dc0fe
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
 ---

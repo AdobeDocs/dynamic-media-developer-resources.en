@@ -1,10 +1,10 @@
 ---
 description: Options for automatically cropping images based on color.
-seo-description: Options for automatically cropping images based on color.
-seo-title: AutoColorCropOptions
+
+
 solution: Experience Manager
 title: AutoColorCropOptions
-uuid: 632ae721-7b39-4cd1-a1c6-1a3554167a4e
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

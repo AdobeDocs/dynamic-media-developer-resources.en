@@ -1,10 +1,7 @@
 ---
 description: Resolution-based image scaling. Scales the image to the requested resolution.
-seo-description: Resolution-based image scaling. Scales the image to the requested resolution.
-seo-title: res
 solution: Experience Manager
 title: res
-uuid: ab0c8329-5d40-4233-a122-8cb8ca01b500
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

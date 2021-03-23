@@ -1,10 +1,10 @@
 ---
 description: Uses getActiveJobs to track desktop uploads.
-seo-description: Uses getActiveJobs to track desktop uploads.
-seo-title: UploadPostJob
+
+
 solution: Experience Manager
 title: UploadPostJob
-uuid: 172f47c7-685a-4014-9c30-dacd78733655
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

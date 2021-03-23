@@ -1,10 +1,10 @@
 ---
 description: The main view area is the area occupied by the zoom image and swatches. It usually sets to fit the available device screen when no size is specified.
-seo-description: The main view area is the area occupied by the zoom image and swatches. It usually sets to fit the available device screen when no size is specified.
-seo-title: Main viewer area
+
+
 solution: Experience Manager
 title: Main viewer area
-uuid: 689116cb-bbb9-4e26-9c16-9229330c4034
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
 ---

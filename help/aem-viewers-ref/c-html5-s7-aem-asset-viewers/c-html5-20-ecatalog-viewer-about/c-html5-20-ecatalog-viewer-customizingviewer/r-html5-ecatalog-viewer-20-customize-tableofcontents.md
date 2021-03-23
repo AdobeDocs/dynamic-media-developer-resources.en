@@ -1,10 +1,10 @@
 ---
 description: Table of contents is a button located in the main control bar. When activated, a drop-down panel appears with a list of page indexes and labels.
-seo-description: Table of contents is a button located in the main control bar. When activated, a drop-down panel appears with a list of page indexes and labels.
-seo-title: Table of contents
+
+
 solution: Experience Manager
 title: Table of contents
-uuid: e5da89b4-fd3f-41ab-bc55-d43c2999d4b7
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
 ---

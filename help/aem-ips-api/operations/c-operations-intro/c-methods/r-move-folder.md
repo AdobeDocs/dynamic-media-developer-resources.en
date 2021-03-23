@@ -1,10 +1,10 @@
 ---
 description: Move a folder to a new location.
-seo-description: Move a folder to a new location.
-seo-title: moveFolder
+
+
 solution: Experience Manager
 title: moveFolder
-uuid: 424858c3-5796-4ae9-b5ad-fd50ddbee702
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

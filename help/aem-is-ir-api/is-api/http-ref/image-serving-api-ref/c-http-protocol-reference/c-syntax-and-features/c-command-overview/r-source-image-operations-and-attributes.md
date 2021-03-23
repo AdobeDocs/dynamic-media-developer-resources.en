@@ -1,10 +1,7 @@
 ---
 description: These commands apply to source images used either in simple requests or in image layers, as well as to masks attached to solid color layers.
-seo-description: These commands apply to source images used either in simple requests or in image layers, as well as to masks attached to solid color layers.
-seo-title: Source image operations
 solution: Experience Manager
 title: Source image operations
-uuid: ad6dbcd8-f4a4-4439-b51a-2aca30d198e0
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

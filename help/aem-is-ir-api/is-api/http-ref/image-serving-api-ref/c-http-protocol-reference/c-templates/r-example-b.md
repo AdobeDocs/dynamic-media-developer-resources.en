@@ -1,10 +1,7 @@
 ---
 description: Similar requirements as Example A, but use a solid color background and allow the height of the composite to vary, to accommodate images with different aspect ratios.
-seo-description: Similar requirements as Example A, but use a solid color background and allow the height of the composite to vary, to accommodate images with different aspect ratios.
-seo-title: Example B
 solution: Experience Manager
 title: Example B
-uuid: 13120562-9201-4733-bd9d-4a54eac913e9
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -2,7 +2,7 @@
 description: CarouselView.frametransition
 solution: Experience Manager
 title: CarouselView.frametransition
-uuid: 9539ede1-08fb-4bfc-8a5a-870c7d84de7f
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
 ---

@@ -2,7 +2,7 @@
 description: Swatches.direction
 solution: Experience Manager
 title: Swatches.direction
-uuid: 56190b1e-c69a-4296-8e91-adbce0801401
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
 ---

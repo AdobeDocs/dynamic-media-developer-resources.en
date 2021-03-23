@@ -1,10 +1,10 @@
 ---
 description: JavaScript API reference for Video Viewer
-seo-description: JavaScript API reference for Video Viewer
-seo-title: setHandlers
+
+
 solution: Experience Manager
 title: setHandlers
-uuid: d69160bf-b4de-4cde-8173-bf4da601a265
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
 ---

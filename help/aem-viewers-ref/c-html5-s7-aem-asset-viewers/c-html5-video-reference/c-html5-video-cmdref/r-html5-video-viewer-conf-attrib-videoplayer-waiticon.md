@@ -1,10 +1,10 @@
 ---
 description: Configuration attribute for Video Viewer.
-seo-description: Configuration attribute for Video Viewer.
-seo-title: VideoPlayer.waiticon
+
+
 solution: Experience Manager
 title: VideoPlayer.waiticon
-uuid: 7fbf49a6-0881-4c10-b4bb-0f1a9ed8776e
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
 ---

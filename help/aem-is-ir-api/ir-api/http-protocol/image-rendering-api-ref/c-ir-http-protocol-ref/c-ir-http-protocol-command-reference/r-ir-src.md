@@ -1,10 +1,10 @@
 ---
 description: Material file. Specifies material data, either in form of a single material catalog reference, or as one or two image or material data files, separated with a comma.
-seo-description: Material file. Specifies material data, either in form of a single material catalog reference, or as one or two image or material data files, separated with a comma.
-seo-title: src
+
+
 solution: Experience Manager
 title: src
-uuid: 52751bcc-a65d-4441-a3b5-802d27b54b54
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

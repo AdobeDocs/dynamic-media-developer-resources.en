@@ -1,10 +1,7 @@
 ---
 description: Default client cache time to live. Provides a default expiration interval in case a particular catalog record does not contain a valid catalog Expiration value.
-seo-description: Default client cache time to live. Provides a default expiration interval in case a particular catalog record does not contain a valid catalog Expiration value.
-seo-title: Expiration
 solution: Experience Manager
 title: Expiration
-uuid: 26b2abee-8bd1-4011-90ff-f5143826ac0d
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

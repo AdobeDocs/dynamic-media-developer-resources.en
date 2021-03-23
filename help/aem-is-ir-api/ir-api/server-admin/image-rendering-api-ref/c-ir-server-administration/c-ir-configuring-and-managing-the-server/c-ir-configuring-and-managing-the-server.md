@@ -1,10 +1,10 @@
 ---
 description: This section contains information to help you set up and manage the Image Rendering Server.
-seo-description: This section contains information to help you set up and manage the Image Rendering Server.
-seo-title: Configuring and managing the server
+
+
 solution: Experience Manager
 title: Configuring and managing the server
-uuid: cd344495-cb41-440e-b3f8-5b5812e81a9c
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

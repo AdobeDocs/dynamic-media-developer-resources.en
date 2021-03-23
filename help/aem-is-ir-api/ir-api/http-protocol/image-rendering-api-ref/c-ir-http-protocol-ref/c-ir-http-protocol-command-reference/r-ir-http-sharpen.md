@@ -1,10 +1,10 @@
 ---
 description: Sharpen reply image. Optional sharpening may be applied after the rendered image is scaled based on wid= or hei=.
-seo-description: Sharpen reply image. Optional sharpening may be applied after the rendered image is scaled based on wid= or hei=.
-seo-title: sharpen
+
+
 solution: Experience Manager
 title: sharpen
-uuid: 0fc0b694-f332-4a16-9970-6b699528f165
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

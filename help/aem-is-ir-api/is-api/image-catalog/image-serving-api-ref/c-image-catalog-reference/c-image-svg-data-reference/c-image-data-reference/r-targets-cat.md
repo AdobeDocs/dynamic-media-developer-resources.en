@@ -1,10 +1,7 @@
 ---
 description: Zoom target data. None or more zoom target properties, which may be used in conjunction with the zoom viewer client.
-seo-description: Zoom target data. None or more zoom target properties, which may be used in conjunction with the zoom viewer client.
-seo-title: Targets
 solution: Experience Manager
 title: Targets
-uuid: ca02483a-9aa0-4b54-b6f0-4fd10d8b2b4c
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

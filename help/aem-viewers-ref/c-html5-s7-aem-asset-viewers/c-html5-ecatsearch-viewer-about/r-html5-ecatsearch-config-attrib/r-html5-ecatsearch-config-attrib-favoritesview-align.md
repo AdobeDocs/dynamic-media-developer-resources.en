@@ -2,7 +2,7 @@
 description: FavoritesView.align
 solution: Experience Manager
 title: FavoritesView.align
-uuid: 4ff25cb3-3383-4ef2-90db-660fa774e109
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
 ---

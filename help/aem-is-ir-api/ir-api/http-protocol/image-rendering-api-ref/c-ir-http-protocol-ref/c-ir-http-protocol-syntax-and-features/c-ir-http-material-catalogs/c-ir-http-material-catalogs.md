@@ -1,10 +1,10 @@
 ---
 description: Material catalogs offer several features.
-seo-description: Material catalogs offer several features.
-seo-title: Material catalogs *
+
+
 solution: Experience Manager
 title: Material catalogs *
-uuid: 2a2f371e-0982-47c7-b3da-678a5ff6c7a7
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

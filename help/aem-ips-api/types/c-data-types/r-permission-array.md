@@ -1,10 +1,10 @@
 ---
 description: An array of permissions.
-seo-description: An array of permissions.
-seo-title: PermissionArray
+
+
 solution: Experience Manager
 title: PermissionArray
-uuid: 90c15863-8242-479b-9d90-666d26b8b10d
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

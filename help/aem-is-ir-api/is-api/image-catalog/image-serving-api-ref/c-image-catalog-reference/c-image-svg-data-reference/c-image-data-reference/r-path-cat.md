@@ -2,7 +2,6 @@
 description: Image file path.
 solution: Experience Manager
 title: Path
-uuid: 0fca88bb-de00-4eff-83ad-c0f5e3b8ece0
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

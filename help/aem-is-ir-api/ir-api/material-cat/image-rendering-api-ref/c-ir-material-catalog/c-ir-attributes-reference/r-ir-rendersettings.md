@@ -1,10 +1,10 @@
 ---
 description: Default advanced render settings. Default for catalog RenderSettings.
-seo-description: Default advanced render settings. Default for catalog RenderSettings.
-seo-title: RenderSettings
+
+
 solution: Experience Manager
 title: RenderSettings
-uuid: ad8884e7-4a4c-489f-881d-1d55eedef034
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

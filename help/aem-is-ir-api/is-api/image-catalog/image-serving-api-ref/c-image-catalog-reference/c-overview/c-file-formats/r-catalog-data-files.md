@@ -1,10 +1,7 @@
 ---
 description: Catalog data files can have any name and file suffix (except .ini). They can be maintained readily using applications which support tab-delimited text data files, such as Microsoft Excel and Access.
-seo-description: Catalog data files can have any name and file suffix (except .ini). They can be maintained readily using applications which support tab-delimited text data files, such as Microsoft Excel and Access.
-seo-title: Catalog data files
 solution: Experience Manager
 title: Catalog data files
-uuid: 0f66e2fe-5b8a-43d3-bf2e-8dd79da6a581
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

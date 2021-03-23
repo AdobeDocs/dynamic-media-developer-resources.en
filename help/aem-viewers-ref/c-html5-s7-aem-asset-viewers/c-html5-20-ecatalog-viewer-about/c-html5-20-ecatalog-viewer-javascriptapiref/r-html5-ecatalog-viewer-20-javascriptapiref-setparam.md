@@ -1,10 +1,10 @@
 ---
 description: JavaScript API reference for eCatalog Viewer.
-seo-description: JavaScript API reference for eCatalog Viewer.
-seo-title: setParam
+
+
 solution: Experience Manager
 title: setParam
-uuid: 16563f90-da93-404c-a54a-2409822685c9
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
 ---

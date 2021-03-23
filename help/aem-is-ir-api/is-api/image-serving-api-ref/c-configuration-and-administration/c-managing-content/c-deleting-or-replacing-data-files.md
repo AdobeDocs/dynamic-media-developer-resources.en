@@ -1,10 +1,7 @@
 ---
 description: While adding new data files is simple and straight-forward, special care must be taken when replacing existing data files which are actively used by the server. Instead of simply replacing such files, it is recommended to give the replacement file a new name (e.g. append a version suffix to the file name). After the new file has been taken live, the old version can be deleted.
-seo-description: While adding new data files is simple and straight-forward, special care must be taken when replacing existing data files which are actively used by the server. Instead of simply replacing such files, it is recommended to give the replacement file a new name (e.g. append a version suffix to the file name). After the new file has been taken live, the old version can be deleted.
-seo-title: Deleting or replacing data files
 solution: Experience Manager
 title: Deleting or replacing data files
-uuid: 7b446144-48f6-4b50-93ec-0287425d932a
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

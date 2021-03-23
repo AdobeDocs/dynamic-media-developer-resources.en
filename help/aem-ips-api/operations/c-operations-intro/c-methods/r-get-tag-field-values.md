@@ -1,10 +1,10 @@
 ---
 description: Gets all tag dictionary values defined for one or more tag fields.
-seo-description: Gets all tag dictionary values defined for one or more tag fields.
-seo-title: getTagFieldValues
+
+
 solution: Experience Manager
 title: getTagFieldValues
-uuid: 92d84dfc-6a6c-4876-9670-1152adb6317c
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

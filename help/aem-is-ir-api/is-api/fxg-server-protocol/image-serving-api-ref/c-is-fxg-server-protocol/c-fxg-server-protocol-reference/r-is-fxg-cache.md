@@ -1,10 +1,10 @@
 ---
 description: Cache control. Allows selectively disabling client-side caching (browser, proxy servers, network caching systems) and caching in the internal Platform Server cache.
-seo-description: Cache control. Allows selectively disabling client-side caching (browser, proxy servers, network caching systems) and caching in the internal Platform Server cache.
-seo-title: cache
+
+
 solution: Experience Manager
 title: cache
-uuid: 10332f0d-4ed3-4981-8034-46dffa5d68b0
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,7 @@
 ---
 description: Adjust brightness. Decreases or increases the image brightness.
-seo-description: Adjust brightness. Decreases or increases the image brightness.
-seo-title: op_brightness
 solution: Experience Manager
 title: op_brightness
-uuid: 751ec9e5-4a70-438d-950c-deff4db034b1
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

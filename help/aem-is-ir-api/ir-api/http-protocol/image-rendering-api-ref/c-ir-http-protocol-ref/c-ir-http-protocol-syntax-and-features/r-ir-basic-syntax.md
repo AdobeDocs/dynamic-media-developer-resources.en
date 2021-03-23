@@ -1,10 +1,10 @@
 ---
 description: This section describes the basic syntax of the Dynamic Media Image Rendering HTTP protocol.
-seo-description: This section describes the basic syntax of the Dynamic Media Image Rendering HTTP protocol.
-seo-title: Image Rendering HTTP protocol basic syntax
+
+
 solution: Experience Manager
 title: Image Rendering HTTP protocol basic syntax
-uuid: e01314f0-6aaa-41ca-8c05-d5db3148a071
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

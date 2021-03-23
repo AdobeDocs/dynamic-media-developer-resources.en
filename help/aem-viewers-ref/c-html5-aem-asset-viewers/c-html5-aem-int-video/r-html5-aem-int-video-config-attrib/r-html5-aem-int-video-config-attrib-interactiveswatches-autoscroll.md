@@ -1,10 +1,10 @@
 ---
 description: Configuration attribute for Interactive Video Viewer.
-seo-description: Configuration attribute for Interactive Video Viewer.
-seo-title: InteractiveSwatches.autoscroll
+
+
 solution: Experience Manager
 title: InteractiveSwatches.autoscroll
-uuid: 050e932b-089f-448e-a9de-38cc04c55a49
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
 ---

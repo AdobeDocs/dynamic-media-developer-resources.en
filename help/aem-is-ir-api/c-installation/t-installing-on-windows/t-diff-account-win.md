@@ -1,10 +1,10 @@
 ---
 description: After installation you will need to setup services to run under the other user account.
-seo-description: After installation you will need to setup services to run under the other user account.
-seo-title: Installing under a different user account than administrator
+
+
 solution: Experience Manager
 title: Installing under a different user account than administrator
-uuid: c5944515-c378-45c3-bc18-3261133ba009
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

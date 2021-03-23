@@ -1,10 +1,10 @@
 ---
 description: Video asset properties.
-seo-description: Video asset properties.
-seo-title: VideoInfo
+
+
 solution: Experience Manager
 title: VideoInfo
-uuid: c90f2a56-64ff-4f04-bfed-739e33d9a319
+
 feature: Dynamic Media Classic,SDK/API,Video
 role: Developer,Administrator
 ---

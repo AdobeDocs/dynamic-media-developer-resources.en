@@ -1,10 +1,10 @@
 ---
 description: All viewer components support ARIA (Accessible Rich Internet Applications) roles and attributes to improve integration with assistive technologies such as screen readers.
-seo-description: All viewer components support ARIA (Accessible Rich Internet Applications) roles and attributes to improve integration with assistive technologies such as screen readers.
-seo-title: Assistive technology support
+
+
 solution: Experience Manager
 title: Assistive technology support
-uuid: 8565383e-5c13-4af0-9b6e-2d583c18f19c
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog,Accessibility
 role: Developer,Business Practitioner
 ---

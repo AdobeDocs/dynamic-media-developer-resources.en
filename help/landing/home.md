@@ -1,8 +1,8 @@
 ---
 title: Adobe Dynamic Media developer resources
-seo-title: Adobe Dynamic Media developer resource guides for viewers, image serving, image rendering, and image production
+
 description: Adobe Dynamic Media developer resources
-seo-description: Adobe Dynamic Media developer resource guides for viewers, image serving, image rendering, and image production
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

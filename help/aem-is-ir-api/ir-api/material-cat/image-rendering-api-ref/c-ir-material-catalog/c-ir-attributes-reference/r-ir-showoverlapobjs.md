@@ -1,10 +1,10 @@
 ---
 description: Show overlap objects. Specifies whether overlap objects should be initially shown or hidden.
-seo-description: Show overlap objects. Specifies whether overlap objects should be initially shown or hidden.
-seo-title: ShowOverlapObjs
+
+
 solution: Experience Manager
 title: ShowOverlapObjs
-uuid: 965dcff5-30e1-4237-aa71-ee7533a674d8
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

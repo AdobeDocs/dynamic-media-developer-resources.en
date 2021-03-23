@@ -2,7 +2,6 @@
 description: Pixel Coordinates. Used to specify image coordinates, such as image offsets or crop parameters, in form of a pixel offset relative to the top-left corner of an image or layer rectangle.
 solution: Experience Manager
 title: coord
-uuid: dd49f12b-5a87-4157-9e44-4beb66f83770
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

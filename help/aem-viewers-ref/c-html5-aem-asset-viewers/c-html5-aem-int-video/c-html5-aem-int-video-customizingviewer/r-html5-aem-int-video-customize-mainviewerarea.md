@@ -1,10 +1,10 @@
 ---
 description: The main view area is the area occupied by the interactive swatches. It is usually set to fit the available device screen when no size is specified.
-seo-description: The main view area is the area occupied by the interactive swatches. It is usually set to fit the available device screen when no size is specified.
-seo-title: Main viewer area
+
+
 solution: Experience Manager
 title: Main viewer area
-uuid: 3e04c578-dcb2-4034-8809-dc949be80097
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
 ---

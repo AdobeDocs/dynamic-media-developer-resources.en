@@ -1,10 +1,7 @@
 ---
 description: Address filter element. Optional in <rule> and <pathrule> elements.
-seo-description: Address filter element. Optional in <rule> and <pathrule> elements.
-seo-title: addressfilter
 solution: Experience Manager
 title: addressfilter
-uuid: 677eb19f-fd1a-4f74-8d55-6045baf01bf5
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

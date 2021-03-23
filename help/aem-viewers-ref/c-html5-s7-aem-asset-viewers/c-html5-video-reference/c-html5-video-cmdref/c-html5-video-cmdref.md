@@ -1,10 +1,10 @@
 ---
 description: Configuration attributes documentation for Video Viewer.
-seo-description: Configuration attributes documentation for Video Viewer.
-seo-title: Command reference – Configuration attributes
+
+
 solution: Experience Manager
 title: Command reference – Configuration attributes
-uuid: 837cf230-f7dd-4010-a299-c3267d11e200
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
 ---

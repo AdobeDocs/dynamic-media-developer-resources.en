@@ -1,10 +1,10 @@
 ---
 description: The eCatalog Viewer supports the rendering of image map icons above the main view.
-seo-description: The eCatalog Viewer supports the rendering of image map icons above the main view.
-seo-title: Image map support
+
+
 solution: Experience Manager
 title: Image map support
-uuid: 69aeda21-909d-45da-bcf5-73ade8c5adda
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
 ---

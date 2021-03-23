@@ -1,10 +1,10 @@
 ---
 description: In continuous zoom mode, main view consists of the zoomable image when the current asset is a single image..
-seo-description: In continuous zoom mode, main view consists of the zoomable image when the current asset is a single image..
-seo-title: Zoom view
+
+
 solution: Experience Manager
 title: Zoom view
-uuid: c9113275-eec6-4014-b7ad-3ae9f2cf01d9
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
 ---

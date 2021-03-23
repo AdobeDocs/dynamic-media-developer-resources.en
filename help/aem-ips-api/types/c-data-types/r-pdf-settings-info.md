@@ -1,10 +1,10 @@
 ---
 description: The properties of a PDF settings file asset.
-seo-description: The properties of a PDF settings file asset.
-seo-title: PdfSettingsInfo
+
+
 solution: Experience Manager
 title: PdfSettingsInfo
-uuid: abbcf82d-5b6e-4f2c-8940-88ea8651aa40
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

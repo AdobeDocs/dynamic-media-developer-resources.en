@@ -1,10 +1,10 @@
 ---
 description: Gets all currently active jobs.
-seo-description: Gets all currently active jobs.
-seo-title: getActiveJobs
+
+
 solution: Experience Manager
 title: getActiveJobs
-uuid: 3231d349-b254-4dd0-804d-8beaab116b56
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,10 @@
 ---
 description: Parameter common to all viewers.
-seo-description: Parameter common to all viewers.
-seo-title: asset
+
+
 solution: Experience Manager
 title: asset
-uuid: 6a72257f-d204-4258-b6f8-de6f7b00fd54
+
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,Business Practitioner
 ---

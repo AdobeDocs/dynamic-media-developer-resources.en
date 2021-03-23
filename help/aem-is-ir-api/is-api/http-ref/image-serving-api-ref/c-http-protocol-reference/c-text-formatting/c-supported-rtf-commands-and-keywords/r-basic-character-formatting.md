@@ -1,10 +1,7 @@
 ---
 description: Use the following commands for basic character formatting.
-seo-description: Use the following commands for basic character formatting.
-seo-title: Basic character formatting
 solution: Experience Manager
 title: Basic character formatting
-uuid: cc8f276a-ebcc-479b-bd86-7ac0dc755f11
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

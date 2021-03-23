@@ -1,10 +1,7 @@
 ---
 description: To reduce opportunity for tampering with requests, a simple locking facility is provided.
-seo-description: To reduce opportunity for tampering with requests, a simple locking facility is provided.
-seo-title: Request locking
 solution: Experience Manager
 title: Request locking
-uuid: 03239376-1e40-48d2-a396-c276802854ed
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

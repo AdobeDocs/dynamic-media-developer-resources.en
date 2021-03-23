@@ -1,10 +1,8 @@
 ---
 description: Describes new and changed data types for the IPS API version 3.8.
-seo-description: Describes new and changed data types for the IPS API version 3.8.
-seo-title: Data Types  New and Modified
 solution: Experience Manager
 title: Data Types  New and Modified
-uuid: 099349dd-aaf9-4e25-9557-c3a196ef531f
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

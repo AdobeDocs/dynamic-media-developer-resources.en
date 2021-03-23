@@ -1,10 +1,7 @@
 ---
 description: Layers are composited in the order specified by the layer= command, where higher-numbered layers hide lower-numbered ones.
-seo-description: Layers are composited in the order specified by the layer= command, where higher-numbered layers hide lower-numbered ones.
-seo-title: The compositing canvas
 solution: Experience Manager
 title: The compositing canvas
-uuid: 057b11cb-36f3-40f8-b095-9ad05da858a9
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

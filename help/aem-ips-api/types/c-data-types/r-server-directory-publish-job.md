@@ -1,10 +1,10 @@
 ---
 description: Publishes all the images, templates, and spin sets that are marked ready to publish to a server directory.
-seo-description: Publishes all the images, templates, and spin sets that are marked ready to publish to a server directory.
-seo-title: ServerDirectoryPublishJob
+
+
 solution: Experience Manager
 title: ServerDirectoryPublishJob
-uuid: 779f2c13-f57c-4244-b8bd-debed2b0f9af
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

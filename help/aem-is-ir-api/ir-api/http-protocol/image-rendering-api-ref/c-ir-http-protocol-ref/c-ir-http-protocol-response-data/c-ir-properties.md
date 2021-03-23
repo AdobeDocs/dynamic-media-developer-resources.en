@@ -1,10 +1,10 @@
 ---
 description: Property data is returned in response to the following req= types  imageprops and props.
-seo-description: Property data is returned in response to the following req= types  imageprops and props.
-seo-title: Properties
+
+
 solution: Experience Manager
 title: Properties
-uuid: b4e1de52-db0a-43dc-aefe-26e8f5020e79
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

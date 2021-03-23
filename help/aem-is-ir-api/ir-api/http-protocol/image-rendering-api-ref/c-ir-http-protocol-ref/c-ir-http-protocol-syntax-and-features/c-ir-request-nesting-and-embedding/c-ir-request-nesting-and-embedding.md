@@ -1,10 +1,10 @@
 ---
 description: Image Rendering allows embedding of Image Serving requests and HTTP requests to foreign servers to retrieve material images used for repeatable textures and decals.
-seo-description: Image Rendering allows embedding of Image Serving requests and HTTP requests to foreign servers to retrieve material images used for repeatable textures and decals.
-seo-title: Request nesting and embedding *
+
+
 solution: Experience Manager
 title: Request nesting and embedding *
-uuid: 1884ae71-6ff5-4945-9411-a7183c32b772
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

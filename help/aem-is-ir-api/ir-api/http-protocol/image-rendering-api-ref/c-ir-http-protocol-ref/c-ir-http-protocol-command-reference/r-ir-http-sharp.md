@@ -1,10 +1,10 @@
 ---
 description: Sharpen texture. Specifies the sharpening to be applied when rendering this material.
-seo-description: Sharpen texture. Specifies the sharpening to be applied when rendering this material.
-seo-title: sharp
+
+
 solution: Experience Manager
 title: sharp
-uuid: 8265eebf-9cec-4ad3-8b22-0f46f33a89f1
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

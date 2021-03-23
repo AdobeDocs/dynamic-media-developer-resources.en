@@ -1,10 +1,7 @@
 ---
 description: Default response image. Specifies the image or catalog entry to be used in case an image file cannot be found and defaultImage= is not specified in the request.
-seo-description: Default response image. Specifies the image or catalog entry to be used in case an image file cannot be found and defaultImage= is not specified in the request.
-seo-title: DefaultImage
 solution: Experience Manager
 title: DefaultImage
-uuid: 6f8f50af-15bb-4333-b227-3eba38653a7d
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

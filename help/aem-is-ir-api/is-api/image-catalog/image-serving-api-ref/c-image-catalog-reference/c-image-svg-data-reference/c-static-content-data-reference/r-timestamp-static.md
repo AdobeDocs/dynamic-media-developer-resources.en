@@ -2,7 +2,6 @@
 description: TimeStamp
 solution: Experience Manager
 title: TimeStamp
-uuid: fd60e5db-9219-41a8-947f-0d497b39e727
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

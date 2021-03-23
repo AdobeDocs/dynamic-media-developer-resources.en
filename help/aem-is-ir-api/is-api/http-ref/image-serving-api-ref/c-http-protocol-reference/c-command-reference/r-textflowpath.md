@@ -1,10 +1,7 @@
 ---
 description: Text flow area. Specifies one or more regions into which text specified with textPs= should be flowed.
-seo-description: Text flow area. Specifies one or more regions into which text specified with textPs= should be flowed.
-seo-title: textFlowPath
 solution: Experience Manager
 title: textFlowPath
-uuid: 5449d78f-e56b-4afb-a05a-7cf8f1f37278
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

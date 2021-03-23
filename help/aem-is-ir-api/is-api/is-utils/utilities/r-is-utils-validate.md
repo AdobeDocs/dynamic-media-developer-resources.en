@@ -1,10 +1,7 @@
 ---
 description: Image validation utility. This command line utility verifies image files to make sure they are valid and can be read without difficulty by Image Serving.
-seo-description: Image validation utility. This command line utility verifies image files to make sure they are valid and can be read without difficulty by Image Serving.
-seo-title: validate
 solution: Experience Manager
 title: validate
-uuid: 87a129ed-950a-4b1a-9240-bf567cd8e38f
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

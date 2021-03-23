@@ -1,10 +1,10 @@
 ---
 description: These commands are position-independent and may occur anywhere in a request.
-seo-description: These commands are position-independent and may occur anywhere in a request.
-seo-title: View attributes
+
+
 solution: Experience Manager
 title: View attributes
-uuid: eae8d998-a4ba-4871-9a8a-c15c22a20580
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

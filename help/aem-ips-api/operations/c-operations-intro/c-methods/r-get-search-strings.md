@@ -1,10 +1,10 @@
 ---
 description: Gets the search strings, keywords, and other information about an asset. The response contains additional information about the asset.
-seo-description: Gets the search strings, keywords, and other information about an asset. The response contains additional information about the asset.
-seo-title: getSearchStrings
+
+
 solution: Experience Manager
 title: getSearchStrings
-uuid: 9d588d6b-c79c-4531-a2e8-8467254a7985
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

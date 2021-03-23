@@ -1,10 +1,7 @@
 ---
 description: Catalog attribute files recognize these catalog management attributes.
-seo-description: Catalog attribute files recognize these catalog management attributes.
-seo-title: Catalog management
 solution: Experience Manager
 title: Catalog management
-uuid: ef714ec5-8133-4d6f-bed0-29553fdb2af3
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

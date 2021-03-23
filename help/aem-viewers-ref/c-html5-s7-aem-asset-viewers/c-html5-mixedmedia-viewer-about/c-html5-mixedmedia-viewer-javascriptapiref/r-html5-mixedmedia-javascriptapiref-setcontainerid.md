@@ -1,10 +1,10 @@
 ---
 description: JavaScript API reference for Mixed Media Viewer.
-seo-description: JavaScript API reference for Mixed Media Viewer.
-seo-title: setContainerId
+
+
 solution: Experience Manager
 title: setContainerId
-uuid: 56d82392-1c6f-422a-ab5b-2e407d78ba74
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
 ---

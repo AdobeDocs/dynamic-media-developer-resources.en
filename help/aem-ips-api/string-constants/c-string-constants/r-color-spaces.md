@@ -1,10 +1,10 @@
 ---
 description: Used by IccProfileFieldUpdate/colorSpace and IccProfileFieldUpdate/pcsType.
-seo-description: Used by IccProfileFieldUpdate/colorSpace and IccProfileFieldUpdate/pcsType.
-seo-title: Color Spaces
+
+
 solution: Experience Manager
 title: Color Spaces
-uuid: a703fccb-932d-4de8-84a1-bc0483013151
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

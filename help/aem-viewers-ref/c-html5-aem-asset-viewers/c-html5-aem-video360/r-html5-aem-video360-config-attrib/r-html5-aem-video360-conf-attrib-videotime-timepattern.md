@@ -1,10 +1,10 @@
 ---
 description: Configuration attribute for Video360 Viewer.
-seo-description: Configuration attribute for Video360 Viewer.
-seo-title: VideoTime.timepattern
+
+
 solution: Experience Manager
 title: VideoTime.timepattern
-uuid: fe145e6f-742e-44fc-b225-187a86b6700e
+
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
 ---

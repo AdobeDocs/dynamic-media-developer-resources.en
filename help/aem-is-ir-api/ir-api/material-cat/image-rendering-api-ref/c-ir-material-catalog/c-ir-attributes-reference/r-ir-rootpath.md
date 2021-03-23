@@ -1,10 +1,10 @@
 ---
 description: Source data root path. Text string value. Absolute path or relative path segment for the root folder for all vignette, texture, image, and ICC data files referenced by this image catalog.
-seo-description: Source data root path. Text string value. Absolute path or relative path segment for the root folder for all vignette, texture, image, and ICC data files referenced by this image catalog.
-seo-title: RootPath *
+
+
 solution: Experience Manager
 title: RootPath *
-uuid: a23ea524-8ca4-47c4-83a5-64a174d8767e
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

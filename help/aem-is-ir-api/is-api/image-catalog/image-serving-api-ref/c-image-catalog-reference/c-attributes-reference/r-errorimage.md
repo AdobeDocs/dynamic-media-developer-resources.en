@@ -1,10 +1,7 @@
 ---
 description: Error response image. Image Serving normally returns an error status with a text message when an error occurs.
-seo-description: Error response image. Image Serving normally returns an error status with a text message when an error occurs.
-seo-title: ErrorImage
 solution: Experience Manager
 title: ErrorImage
-uuid: b071c0cd-e7b8-422b-9b23-d93f504d9ce5
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

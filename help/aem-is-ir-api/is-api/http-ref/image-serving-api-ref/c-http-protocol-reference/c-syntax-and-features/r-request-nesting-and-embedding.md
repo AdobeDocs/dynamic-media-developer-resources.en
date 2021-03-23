@@ -1,10 +1,7 @@
 ---
 description: Image Serving supports unlimited nesting of Image Serving requests, embedding of Image Rendering requests, as well as embedding images retrieved from foreign servers. Only layer images and layer masks support these mechanisms.
-seo-description: Image Serving supports unlimited nesting of Image Serving requests, embedding of Image Rendering requests, as well as embedding images retrieved from foreign servers. Only layer images and layer masks support these mechanisms.
-seo-title: Request nesting and embedding
 solution: Experience Manager
 title: Request nesting and embedding
-uuid: 59031329-e65f-4631-bc7d-83f2540cc836
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

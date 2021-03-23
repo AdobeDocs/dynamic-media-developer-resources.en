@@ -1,10 +1,7 @@
 ---
 description: Perspective transform. Apply a perspective transform to the layer source image to fill the region specified with the quadrilateral. Other areas of the layer remain transparent.
-seo-description: Perspective transform. Apply a perspective transform to the layer source image to fill the region specified with the quadrilateral. Other areas of the layer remain transparent.
-seo-title: perspective
 solution: Experience Manager
 title: perspective
-uuid: b22d7b49-db08-48df-80bc-5b7237aea475
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

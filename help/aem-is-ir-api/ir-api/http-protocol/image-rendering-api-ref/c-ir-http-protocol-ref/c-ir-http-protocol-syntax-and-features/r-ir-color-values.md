@@ -1,10 +1,10 @@
 ---
 description: Color values for color= and bgc= attributes may be specified using either a list of decimal, comma-separated component values, or a hex notation, similar to HTML.
-seo-description: Color values for color= and bgc= attributes may be specified using either a list of decimal, comma-separated component values, or a hex notation, similar to HTML.
-seo-title: Color values
+
+
 solution: Experience Manager
 title: Color values
-uuid: f8e3a8e7-3e0c-4ee6-8434-caba1f2bea1f
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

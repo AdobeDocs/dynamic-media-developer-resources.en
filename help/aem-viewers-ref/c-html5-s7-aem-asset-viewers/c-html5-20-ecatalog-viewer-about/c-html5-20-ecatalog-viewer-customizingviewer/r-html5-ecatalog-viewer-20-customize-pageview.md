@@ -1,10 +1,10 @@
 ---
 description: Main view consists of the catalog image. It can be swiped to get to another page or zoomed.
-seo-description: Main view consists of the catalog image. It can be swiped to get to another page or zoomed.
-seo-title: Page view
+
+
 solution: Experience Manager
 title: Page view
-uuid: 5e247f56-f0da-487b-8e03-587b9d36aa39
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
 ---

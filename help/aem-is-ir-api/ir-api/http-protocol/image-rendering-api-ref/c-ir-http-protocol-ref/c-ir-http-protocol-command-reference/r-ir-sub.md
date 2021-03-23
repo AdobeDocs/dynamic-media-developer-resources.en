@@ -1,10 +1,10 @@
 ---
 description: Sub selection. Permits applying different materials to different areas of the selected object or group, as well as removing previously applied materials.
-seo-description: Sub selection. Permits applying different materials to different areas of the selected object or group, as well as removing previously applied materials.
-seo-title: sub
+
+
 solution: Experience Manager
 title: sub
-uuid: cb9f4dc5-9d89-483a-ae72-b9076b27c57e
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

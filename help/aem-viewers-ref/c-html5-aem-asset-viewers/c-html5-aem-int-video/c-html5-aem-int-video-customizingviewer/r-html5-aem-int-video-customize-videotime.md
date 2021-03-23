@@ -1,10 +1,10 @@
 ---
 description: The video time is the numeric display that shows the current time and duration of the currently playing video.
-seo-description: The video time is the numeric display that shows the current time and duration of the currently playing video.
-seo-title: Video time
+
+
 solution: Experience Manager
 title: Video time
-uuid: 8cec89b9-b3e8-4c58-90d9-7ab56698e35d
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
 ---

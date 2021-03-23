@@ -1,10 +1,10 @@
 ---
 description: JavaScript API reference for Mixed Media Viewer.
-seo-description: JavaScript API reference for Mixed Media Viewer.
-seo-title: init
+
+
 solution: Experience Manager
 title: init
-uuid: f16e3cfe-4b30-4497-bd65-52d2f1edf3d3
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,7 @@
 ---
 description: Text path. Specifies the path to be used as the baseline for the text provided with textPs=.
-seo-description: Text path. Specifies the path to be used as the baseline for the text provided with textPs=.
-seo-title: textPath
 solution: Experience Manager
 title: textPath
-uuid: a2f0047b-ad62-4605-a723-b43d53fbea56
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

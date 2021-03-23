@@ -1,10 +1,10 @@
 ---
 description: Submits a job to the system.
-seo-description: Submits a job to the system.
-seo-title: submitJob
+
+
 solution: Experience Manager
 title: submitJob
-uuid: d3a83b59-bcd7-4ae9-b1ee-e515fc3c9261
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

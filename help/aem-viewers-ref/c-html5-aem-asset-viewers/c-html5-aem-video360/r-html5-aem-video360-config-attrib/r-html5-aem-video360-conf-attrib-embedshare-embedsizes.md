@@ -1,10 +1,10 @@
 ---
 description: Configuration attribute for Video360 Viewer.
-seo-description: Configuration attribute for Video360 Viewer.
-seo-title: EmbedShare.embedsizes
+
+
 solution: Experience Manager
 title: EmbedShare.embedsizes
-uuid: d3eea508-fb1e-4147-b853-a16f51725dd7
+
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
 ---

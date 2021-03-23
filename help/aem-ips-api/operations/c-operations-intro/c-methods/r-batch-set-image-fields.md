@@ -1,10 +1,8 @@
 ---
 description: Sets image-specific fields for one or more image assets.
-seo-description: Sets image-specific fields for one or more image assets.
-seo-title: batchSetImageFields
+
 solution: Experience Manager
 title: batchSetImageFields
-uuid: e0ad7da4-cb28-4402-8b47-a600916d23b3
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

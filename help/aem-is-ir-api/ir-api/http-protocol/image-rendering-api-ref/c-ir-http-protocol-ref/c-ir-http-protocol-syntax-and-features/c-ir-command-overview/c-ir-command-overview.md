@@ -1,10 +1,10 @@
 ---
 description: The commands supported by Image Rendering are listed below, grouped by category.
-seo-description: The commands supported by Image Rendering are listed below, grouped by category.
-seo-title: Image Rendering HTTP protocol command overview
+
+
 solution: Experience Manager
 title: Image Rendering HTTP protocol command overview
-uuid: 3278c781-968a-4bde-b469-84e8dcfb0e9a
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

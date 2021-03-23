@@ -1,10 +1,10 @@
 ---
 description: The Image Serving command string that is applied to all thumbnails.
-seo-description: The Image Serving command string that is applied to all thumbnails.
-seo-title: FavoritesView.iscommand
+
+
 solution: Experience Manager
 title: FavoritesView.iscommand
-uuid: 59a25b65-a08f-46e9-a9eb-33672e4a0cb5
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
 ---

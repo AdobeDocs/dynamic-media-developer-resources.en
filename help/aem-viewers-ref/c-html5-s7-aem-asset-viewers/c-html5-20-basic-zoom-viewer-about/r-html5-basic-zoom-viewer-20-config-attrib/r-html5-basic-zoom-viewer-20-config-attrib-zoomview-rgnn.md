@@ -2,7 +2,7 @@
 description: ZoomView.rgnN
 solution: Experience Manager
 title: ZoomView.rgnN
-uuid: f6432aff-046d-440f-8812-2a69ebb9b194
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
 ---

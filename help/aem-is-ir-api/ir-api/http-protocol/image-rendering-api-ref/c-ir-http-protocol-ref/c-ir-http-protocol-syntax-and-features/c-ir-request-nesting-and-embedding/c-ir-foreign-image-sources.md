@@ -1,10 +1,10 @@
 ---
 description: Image Serving supports access to source images on foreign HTTP and FTP servers.
-seo-description: Image Serving supports access to source images on foreign HTTP and FTP servers.
-seo-title: Foreign image sources
+
+
 solution: Experience Manager
 title: Foreign image sources
-uuid: 28a17400-4807-4e14-937a-80309be53d55
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

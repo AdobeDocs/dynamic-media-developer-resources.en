@@ -1,10 +1,10 @@
 ---
 description: Describes values used by various input parameters. See the list in this article for details.
-seo-description: Describes values used by various input parameters. See the list in this article for details.
-seo-title: Asset Types
+
+
 solution: Experience Manager
 title: Asset Types
-uuid: 932bae5a-1e5f-493a-a6fa-5c367c632f97
+
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

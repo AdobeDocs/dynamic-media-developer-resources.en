@@ -1,10 +1,7 @@
 ---
 description: If JavaScript™ is specified as the response format, the reply data is formatted to be parsed as a JavaScript™ include file.
-seo-description: If javascript is specified as the response format, the reply data is formatted to be parsed as a JavaScript include file.
-seo-title: JavaScript properties
 solution: Experience Manager
 title: JavaScript™ properties
-uuid: 832a927e-ecaf-438c-8fbf-a702d58902d8
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

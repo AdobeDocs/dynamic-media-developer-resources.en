@@ -1,10 +1,10 @@
 ---
 description: An array of companies
-seo-description: An array of companies
-seo-title: CompanyArray
+
+
 solution: Experience Manager
 title: CompanyArray
-uuid: 9963de05-7510-4dc8-8e63-1385761a2f75
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

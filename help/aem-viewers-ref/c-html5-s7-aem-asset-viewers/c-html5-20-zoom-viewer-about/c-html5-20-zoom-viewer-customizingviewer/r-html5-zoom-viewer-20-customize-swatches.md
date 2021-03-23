@@ -1,10 +1,10 @@
 ---
 description: Swatches consist of a row of thumbnail images with optional scroll buttons on the left and right hand side. Scroll buttons are only visible on the desktop if all thumbnails cannot fit into the container width. On mobile devices, or if thumbnails can fit into the container width, the scroll buttons are not shown.
-seo-description: Swatches consist of a row of thumbnail images with optional scroll buttons on the left and right hand side. Scroll buttons are only visible on the desktop if all thumbnails cannot fit into the container width. On mobile devices, or if thumbnails can fit into the container width, the scroll buttons are not shown.
-seo-title: Swatches
+
+
 solution: Experience Manager
 title: Swatches
-uuid: d44e775d-5253-4990-98a4-84ff50db09b9
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
 ---

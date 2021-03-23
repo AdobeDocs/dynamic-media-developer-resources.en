@@ -1,10 +1,8 @@
 ---
 description: Describes new and changed operations methods for the IPS API version 3.8.
-seo-description: Describes new and changed operations methods for the IPS API version 3.8.
-seo-title: Operations  New and Modified
 solution: Experience Manager
 title: Operations  New and Modified
-uuid: e836c5af-53b8-4bfa-a93a-98750cca9745
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

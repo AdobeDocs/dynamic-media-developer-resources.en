@@ -1,10 +1,10 @@
 ---
 description: Append XML to a s7 elementID.
-seo-description: Append XML to a s7 elementID.
-seo-title: appendElement
+
+
 solution: Experience Manager
 title: appendElement
-uuid: 062c8288-4517-42a1-9f9f-f3c7bbb4b63b
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

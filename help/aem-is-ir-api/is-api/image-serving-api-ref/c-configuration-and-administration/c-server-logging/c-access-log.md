@@ -1,10 +1,7 @@
 ---
 description: This is the primary log which keeps track of all HTTP requests made to the Platform Server. Image Rendering, if enabled, writes its access log data to the same file.
-seo-description: This is the primary log which keeps track of all HTTP requests made to the Platform Server. Image Rendering, if enabled, writes its access log data to the same file.
-seo-title: Access log
 solution: Experience Manager
 title: Access log
-uuid: 33cd4338-1fe7-46ac-83f5-200ea26f1e22
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

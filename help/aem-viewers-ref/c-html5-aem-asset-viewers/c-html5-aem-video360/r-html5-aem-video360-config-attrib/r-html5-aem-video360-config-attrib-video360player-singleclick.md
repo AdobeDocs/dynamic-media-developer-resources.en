@@ -1,10 +1,10 @@
 ---
 description: Configuration attribute for Video360 Viewer.
-seo-description: Configuration attribute for Video360 Viewer.
-seo-title: Video360Player.singleclick
+
+
 solution: Experience Manager
 title: Video360Player.singleclick
-uuid: 2972405c-5c89-45d0-a542-19c7463901b4
+
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
 ---

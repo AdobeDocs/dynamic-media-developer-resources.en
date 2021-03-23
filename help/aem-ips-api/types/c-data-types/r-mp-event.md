@@ -1,10 +1,10 @@
 ---
 description: A MediaPortal event.
-seo-description: A MediaPortal event.
-seo-title: MPEvent
+
+
 solution: Experience Manager
 title: MPEvent
-uuid: 0d15c07f-5545-42bb-a793-b6c77e7a1b7b
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

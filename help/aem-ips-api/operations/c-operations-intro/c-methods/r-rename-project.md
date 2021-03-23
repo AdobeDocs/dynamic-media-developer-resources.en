@@ -1,10 +1,10 @@
 ---
 description: Renames a project.
-seo-description: Renames a project.
-seo-title: renameProject
+
+
 solution: Experience Manager
 title: renameProject
-uuid: 6303c493-a6fe-4b32-80c3-947aba4190f7
+
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

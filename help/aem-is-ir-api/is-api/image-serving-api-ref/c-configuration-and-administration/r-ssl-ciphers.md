@@ -1,10 +1,7 @@
 ---
 description: The Connector tag in server.xml supports a ciphers attribute to limit the ciphers that can be chosen for an SSL connection.
-seo-description: The Connector tag in server.xml supports a ciphers attribute to limit the ciphers that can be chosen for an SSL connection.
-seo-title: Defining SSL ciphers
 solution: Experience Manager
 title: Defining SSL ciphers
-uuid: 9490fb9a-5abb-4f5e-b660-b7af0a5e4b4d
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

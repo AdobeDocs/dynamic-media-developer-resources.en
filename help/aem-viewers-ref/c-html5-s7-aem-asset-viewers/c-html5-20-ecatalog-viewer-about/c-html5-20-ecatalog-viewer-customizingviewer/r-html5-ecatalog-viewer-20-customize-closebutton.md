@@ -1,10 +1,10 @@
 ---
 description: Clicking or tapping this button closes the containing web page. This button only appears if the closebutton parameter is set to 1. This button is not available on desktop systems. You can size, skin, and position this button by using CSS.
-seo-description: Clicking or tapping this button closes the containing web page. This button only appears if the closebutton parameter is set to 1. This button is not available on desktop systems. You can size, skin, and position this button by using CSS.
-seo-title: Close button
+
+
 solution: Experience Manager
 title: Close button
-uuid: b0de1600-6b02-4b59-aac6-ade0ec6dc087
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
 ---

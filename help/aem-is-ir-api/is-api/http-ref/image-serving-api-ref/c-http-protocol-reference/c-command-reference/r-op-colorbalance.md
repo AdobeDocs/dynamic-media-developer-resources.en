@@ -1,10 +1,7 @@
 ---
 description: Adjust color balance. Adjusts the value of each RGB color component separately.
-seo-description: Adjust color balance. Adjusts the value of each RGB color component separately.
-seo-title: op_colorbalance
 solution: Experience Manager
 title: op_colorbalance
-uuid: 177aa6e3-1b32-4254-85f1-d7fe14116e3c
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

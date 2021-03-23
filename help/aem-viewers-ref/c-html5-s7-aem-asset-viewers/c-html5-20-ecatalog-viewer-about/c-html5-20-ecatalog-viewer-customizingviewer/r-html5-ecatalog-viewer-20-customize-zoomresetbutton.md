@@ -1,10 +1,10 @@
 ---
 description: Clicking or tapping this button resets an image in the main view. This button appears in the main control bar on desktop systems and tablets. On mobile phones, this button shows in the bottom center over the image. However, it is not displayed when the image is in a reset state. You can size, skin, and position this button by using CSS.
-seo-description: Clicking or tapping this button resets an image in the main view. This button appears in the main control bar on desktop systems and tablets. On mobile phones, this button shows in the bottom center over the image. However, it is not displayed when the image is in a reset state. You can size, skin, and position this button by using CSS.
-seo-title: Zoom reset button
+
+
 solution: Experience Manager
 title: Zoom reset button
-uuid: 27f6eacd-2922-4ddb-98e4-ee10d3b72b0c
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
 ---

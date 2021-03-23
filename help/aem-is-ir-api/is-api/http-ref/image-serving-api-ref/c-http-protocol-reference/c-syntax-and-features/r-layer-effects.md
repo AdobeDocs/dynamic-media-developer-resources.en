@@ -1,10 +1,7 @@
 ---
 description: Photoshop-style layer shadow and glow effects are implemented using special sub-layers (effect layers) which can be attached to any layer (the parent layer), including layer=0 and layer=comp.
-seo-description: Photoshop-style layer shadow and glow effects are implemented using special sub-layers (effect layers) which can be attached to any layer (the parent layer), including layer=0 and layer=comp.
-seo-title: Layer effects
 solution: Experience Manager
 title: Layer effects
-uuid: 076e98de-cbbb-457b-984a-367a935b4356
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,10 @@
 ---
 description: The secondary control bar is the rectangular area that contains First and Last Page buttons and a Page Indicator when made available in CSS.
-seo-description: The secondary control bar is the rectangular area that contains First and Last Page buttons and a Page Indicator when made available in CSS.
-seo-title: Secondary control bar
+
+
 solution: Experience Manager
 title: Secondary control bar
-uuid: 38217d2a-8668-46e1-9df1-f29c1c7e0798
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,10 @@
 ---
 description: Vignette files can be replaced or deleted while the server is live by using the req=release command just before the file is overwritten.
-seo-description: Vignette files can be replaced or deleted while the server is live by using the req=release command just before the file is overwritten.
-seo-title: Deleting or replacing source data files
+
+
 solution: Experience Manager
 title: Deleting or replacing source data files
-uuid: 13dc0489-7ab0-481e-b213-214affe9819e
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

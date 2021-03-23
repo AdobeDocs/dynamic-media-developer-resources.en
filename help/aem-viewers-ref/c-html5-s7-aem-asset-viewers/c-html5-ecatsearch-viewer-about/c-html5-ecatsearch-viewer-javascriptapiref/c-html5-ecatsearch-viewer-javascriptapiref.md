@@ -1,10 +1,10 @@
 ---
 description: The main class of the eCatalog Search Viewer is eCatalogSearchViewer. It is declared in the s7viewers namespace. This JavaScript API covers constructor, methods, and callbacks of this particular class.
-seo-description: The main class of the eCatalog Search Viewer is eCatalogSearchViewer. It is declared in the s7viewers namespace. This JavaScript API covers constructor, methods, and callbacks of this particular class.
-seo-title: Javascript API reference for eCatalog Search Viewer
+
+
 solution: Experience Manager
 title: Javascript API reference for eCatalog Search Viewer
-uuid: b65dec1e-567a-450f-9e24-e7841dc6f701
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
 ---

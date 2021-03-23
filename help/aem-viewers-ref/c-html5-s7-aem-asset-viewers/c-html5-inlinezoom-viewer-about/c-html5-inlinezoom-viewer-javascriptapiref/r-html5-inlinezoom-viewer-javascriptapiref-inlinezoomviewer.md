@@ -1,10 +1,10 @@
 ---
 description: JavaScript API reference for Inline Zoom Viewer.
-seo-description: JavaScript API reference for Inline Zoom Viewer.
-seo-title: FlyoutViewer
+
+
 solution: Experience Manager
 title: FlyoutViewer
-uuid: 23617eda-f4c9-4908-9f63-593849c12fc7
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,Business Practitioner
 ---

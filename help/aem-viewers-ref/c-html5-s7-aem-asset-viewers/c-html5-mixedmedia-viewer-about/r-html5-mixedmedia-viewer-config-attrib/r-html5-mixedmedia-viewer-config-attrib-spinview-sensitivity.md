@@ -2,7 +2,7 @@
 description: SpinView.sensitivity
 solution: Experience Manager
 title: SpinView.sensitivity
-uuid: 7c63a7c5-ac75-485d-94ac-d1e133fbe44f
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
 ---

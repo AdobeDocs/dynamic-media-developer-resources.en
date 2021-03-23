@@ -1,10 +1,10 @@
 ---
 description: Configures how the component fetches new images for the main and flyout view during resize.
-seo-description: Configures how the component fetches new images for the main and flyout view during resize.
-seo-title: FlyoutZoomView.imagereload
+
+
 solution: Experience Manager
 title: FlyoutZoomView.imagereload
-uuid: 5cded4cb-7b02-47da-9e2d-b236548cc61d
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
 ---

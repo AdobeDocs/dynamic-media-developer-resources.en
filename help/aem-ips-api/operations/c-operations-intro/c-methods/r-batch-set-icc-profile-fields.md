@@ -1,10 +1,7 @@
 ---
 description: Sets ICC profile metadata fields.
-seo-description: Sets ICC profile metadata fields.
-seo-title: batchSetIccProfileFields
 solution: Experience Manager
 title: batchSetIccProfileFields
-uuid: 163b9b36-85b6-4880-8029-8421b04f4a08
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

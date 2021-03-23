@@ -1,10 +1,10 @@
 ---
 description: A property set type specifies various settings used to help manage property sets.
-seo-description: A property set type specifies various settings used to help manage property sets.
-seo-title: createPropertySetType
+
+
 solution: Experience Manager
 title: createPropertySetType
-uuid: ecbaad48-d725-4f7a-a37d-5e4cde3295cb
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

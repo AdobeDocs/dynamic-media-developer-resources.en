@@ -1,10 +1,7 @@
 ---
 description: The following document properties are supported in text boxes.
-seo-description: The following document properties are supported in text boxes.
-seo-title: Document (text box) properties
 solution: Experience Manager
 title: Document (text box) properties
-uuid: 743a773a-83b0-4667-9c67-4cefbfe77bbd
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

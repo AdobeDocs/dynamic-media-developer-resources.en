@@ -1,10 +1,10 @@
 ---
 description: The control bar is the rectangular area that contains and sits behind all the UI controls available for the video viewer, such as the play/pause button, volume controls, and so on.
-seo-description: The control bar is the rectangular area that contains and sits behind all the UI controls available for the video viewer, such as the play/pause button, volume controls, and so on.
-seo-title: Control bar
+
+
 solution: Experience Manager
 title: Control bar
-uuid: 1fa90f7d-6b26-499d-8e6c-1cd80405aec0
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
 ---

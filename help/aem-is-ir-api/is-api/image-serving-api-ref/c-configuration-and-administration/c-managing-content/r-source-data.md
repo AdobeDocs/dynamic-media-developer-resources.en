@@ -1,10 +1,7 @@
 ---
 description: Image Serving source data files include image and mask files, fonts, and ICC profiles.
-seo-description: Image Serving source data files include image and mask files, fonts, and ICC profiles.
-seo-title: Source data
 solution: Experience Manager
 title: Source data
-uuid: d654eee7-ef2d-4546-93bb-72f80c38e018
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

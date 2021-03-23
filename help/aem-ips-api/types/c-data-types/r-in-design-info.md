@@ -1,10 +1,10 @@
 ---
 description: InDesign file properties.
-seo-description: InDesign file properties.
-seo-title: InDesignInfo
+
+
 solution: Experience Manager
 title: InDesignInfo
-uuid: d734bbe2-0bc4-46f4-b4a0-8c39949e8d46
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

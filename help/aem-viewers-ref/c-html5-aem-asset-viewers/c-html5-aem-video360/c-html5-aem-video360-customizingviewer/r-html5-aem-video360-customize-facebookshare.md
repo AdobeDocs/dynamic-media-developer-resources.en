@@ -1,10 +1,10 @@
 ---
 description: Facebook share tool consists of a button added to the Social share panel. When the button is clicked the user is redirected to a sharing dialog box that is provided by a social service. The position of the button is fully managed by the Social share tool.
-seo-description: Facebook share tool consists of a button added to the Social share panel. When the button is clicked the user is redirected to a sharing dialog box that is provided by a social service. The position of the button is fully managed by the Social share tool.
-seo-title: Facebook share
+
+
 solution: Experience Manager
 title: Facebook share
-uuid: 8575fde4-4d03-4b87-a628-ff06ff8c91c9
+
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
 ---

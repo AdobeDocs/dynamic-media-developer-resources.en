@@ -1,10 +1,10 @@
 ---
 description: Returns information about a company's structure (number of files, etc.).
-seo-description: Returns information about a company's structure (number of files, etc.).
-seo-title: getDiskUsage
+
+
 solution: Experience Manager
 title: getDiskUsage
-uuid: 29190200-8f49-4689-9782-1df665dca1b7
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: Vertical alignment for thumbnails. Specifies the vertical alignment of the thumbnail image in the reply image rectangle specified by wid= and hei= or by attribute DefaultThumbPix.
-seo-description: Vertical alignment for thumbnails. Specifies the vertical alignment of the thumbnail image in the reply image rectangle specified by wid= and hei= or by attribute DefaultThumbPix.
-seo-title: ThumbVertAlign
 solution: Experience Manager
 title: ThumbVertAlign
-uuid: a90281eb-9681-4b4a-a94b-663f007fb32f
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

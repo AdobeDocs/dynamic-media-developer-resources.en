@@ -1,10 +1,7 @@
 ---
 description: The server can be configured to send email alerts when certain performance or error thresholds are exceeded. The system collectively monitors all web applications deployed on the server.
-seo-description: The server can be configured to send email alerts when certain performance or error thresholds are exceeded. The system collectively monitors all web applications deployed on the server.
-seo-title: Server monitoring
 solution: Experience Manager
 title: Server monitoring
-uuid: c4042ed9-e186-4f0f-a48b-1af3b67a2f04
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

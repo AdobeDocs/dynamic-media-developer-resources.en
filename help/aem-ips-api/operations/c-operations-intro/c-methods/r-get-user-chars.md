@@ -1,10 +1,10 @@
 ---
 description: Gets a list of the characters used in a particular field.
-seo-description: Gets a list of the characters used in a particular field.
-seo-title: getUserChars
+
+
 solution: Experience Manager
 title: getUserChars
-uuid: c9fa7826-5174-4298-99e6-a0627e432567
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

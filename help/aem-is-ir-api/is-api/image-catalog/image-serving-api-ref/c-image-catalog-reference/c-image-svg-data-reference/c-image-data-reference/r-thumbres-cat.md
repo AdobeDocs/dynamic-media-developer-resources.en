@@ -1,10 +1,7 @@
 ---
 description: Thumbnail resolution. Specifies the object resolution for the thumbnail image.
-seo-description: Thumbnail resolution. Specifies the object resolution for the thumbnail image.
-seo-title: ThumbRes
 solution: Experience Manager
 title: ThumbRes
-uuid: 10bbad31-a0fd-4ed3-b708-87822777acdd
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

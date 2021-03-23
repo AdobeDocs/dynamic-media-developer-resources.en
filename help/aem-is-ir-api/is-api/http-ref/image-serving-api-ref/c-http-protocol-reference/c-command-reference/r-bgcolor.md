@@ -1,10 +1,7 @@
 ---
 description: Layer Background Color. Specifies the background color and opacity of the current layer.
-seo-description: Layer Background Color. Specifies the background color and opacity of the current layer.
-seo-title: bgColor
 solution: Experience Manager
 title: bgColor
-uuid: bcbd368f-d200-4b1f-8e9f-bf4d88f14b72
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

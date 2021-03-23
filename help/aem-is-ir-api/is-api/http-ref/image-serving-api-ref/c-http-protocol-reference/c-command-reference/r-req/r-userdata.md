@@ -1,10 +1,7 @@
 ---
 description: User data from image catalog. Returns user data for the image catalog entry specified in the url path.
-seo-description: User data from image catalog. Returns user data for the image catalog entry specified in the url path.
-seo-title: userdata
 solution: Experience Manager
 title: userdata
-uuid: 7a34adad-f1b6-45a7-94fe-1407845710e5
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

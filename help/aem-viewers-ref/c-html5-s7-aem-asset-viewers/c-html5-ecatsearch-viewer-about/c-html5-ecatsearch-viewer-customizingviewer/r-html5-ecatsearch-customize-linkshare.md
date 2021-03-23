@@ -1,10 +1,10 @@
 ---
 description: Link share tool consists of a button added to the Social share panel and the modal dialog box that displays when the tool is activated. The position of the button is fully managed by the Social share tool.
-seo-description: Link share tool consists of a button added to the Social share panel and the modal dialog box that displays when the tool is activated. The position of the button is fully managed by the Social share tool.
-seo-title: Link share
+
+
 solution: Experience Manager
 title: Link share
-uuid: e3b398c3-8dc8-4eaf-ba33-d4e76181cef8
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
 ---

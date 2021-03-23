@@ -1,10 +1,10 @@
 ---
 description: Configuration attribute for Video Viewer.
-seo-description: Configuration attribute for Video Viewer.
-seo-title: SocialShare.bearing
+
+
 solution: Experience Manager
 title: SocialShare.bearing
-uuid: d7d92d63-a4c2-4bd9-b0fd-fdfd47504a39
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
 ---

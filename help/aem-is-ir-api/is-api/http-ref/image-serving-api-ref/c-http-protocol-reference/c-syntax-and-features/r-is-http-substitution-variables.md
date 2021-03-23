@@ -1,10 +1,7 @@
 ---
 description: Substitution variables are used to transfer values from the request URL to compositing templates stored in image catalogs. Variables can also be used to convey the same value to different places in a complex request.
-seo-description: Substitution variables are used to transfer values from the request URL to compositing templates stored in image catalogs. Variables can also be used to convey the same value to different places in a complex request.
-seo-title: Substitution variables
 solution: Experience Manager
 title: Substitution variables
-uuid: e369f2c3-8d89-4169-8869-f1d7ab89aab9
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

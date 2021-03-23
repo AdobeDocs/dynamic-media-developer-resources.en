@@ -1,10 +1,10 @@
 ---
 description: JavaScript API reference for Video Viewer.
-seo-description: JavaScript API reference for Video Viewer.
-seo-title: setParam
+
+
 solution: Experience Manager
 title: setParam
-uuid: c1bc5271-2444-4f6b-8bed-5df88ecd59f8
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
 ---

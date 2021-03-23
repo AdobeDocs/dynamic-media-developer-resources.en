@@ -1,10 +1,7 @@
 ---
 description: Dilate/erode image. Applies a morphological dilate (radius > 0) or erode (radius < 0) to the mask data.
-seo-description: Dilate/erode image. Applies a morphological dilate (radius > 0) or erode (radius < 0) to the mask data.
-seo-title: op_growMaskR
 solution: Experience Manager
 title: op_growMaskR
-uuid: b81968e7-ebaf-426c-9230-1afcf4b5cf24
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

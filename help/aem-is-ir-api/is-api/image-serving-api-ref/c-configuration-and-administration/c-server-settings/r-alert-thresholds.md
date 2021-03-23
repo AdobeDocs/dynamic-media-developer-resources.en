@@ -1,10 +1,7 @@
 ---
 description: Use these server settings to configure alert thresholds.
-seo-description: Use these server settings to configure alert thresholds.
-seo-title: Alert thresholds
 solution: Experience Manager
 title: Alert thresholds
-uuid: 032cb396-1a03-4ba9-82d6-ed2cb06e8cf2
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

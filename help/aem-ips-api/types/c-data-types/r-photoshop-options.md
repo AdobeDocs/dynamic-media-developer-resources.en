@@ -1,10 +1,10 @@
 ---
 description: Options for Photoshop images.
-seo-description: Options for Photoshop images.
-seo-title: PhotoshopOptions
+
+
 solution: Experience Manager
 title: PhotoshopOptions
-uuid: ed97d20a-358d-4a00-93c7-4498bb2e9d35
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

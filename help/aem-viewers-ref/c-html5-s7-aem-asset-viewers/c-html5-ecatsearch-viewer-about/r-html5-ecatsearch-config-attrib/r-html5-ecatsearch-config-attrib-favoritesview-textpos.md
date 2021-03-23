@@ -2,7 +2,7 @@
 description: FavoritesView.textpos
 solution: Experience Manager
 title: FavoritesView.textpos
-uuid: 851e3631-0fd9-4ed5-bef9-af5dca6e7646
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
 ---

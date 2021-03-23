@@ -2,7 +2,6 @@
 description: Image catalog properties. Returns common attributes of the image catalog specified in the request path.
 solution: Experience Manager
 title: catalogprops
-uuid: 09252d39-8604-4785-bcdc-ad229a691035
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

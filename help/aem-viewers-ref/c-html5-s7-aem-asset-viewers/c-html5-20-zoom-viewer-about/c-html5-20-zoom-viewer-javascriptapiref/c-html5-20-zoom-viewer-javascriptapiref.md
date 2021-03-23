@@ -1,10 +1,10 @@
 ---
 description: The main class of the Zoom Viewer is BasicZoomViewer. It is declared in the s7viewers namespace. This JavaScript API covers constructor, methods, and call backs of this particular class.
-seo-description: The main class of the Zoom Viewer is BasicZoomViewer. It is declared in the s7viewers namespace. This JavaScript API covers constructor, methods, and call backs of this particular class.
-seo-title: Javascript API reference for Zoom Viewer
+
+
 solution: Experience Manager
 title: Javascript API reference for Zoom Viewer
-uuid: add69992-7613-4ec2-9845-f01bf0392d0c
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
 ---

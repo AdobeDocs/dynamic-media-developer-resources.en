@@ -1,10 +1,10 @@
 ---
 description: Deletes a folder.
-seo-description: Deletes a folder.
-seo-title: deleteFolder
+
+
 solution: Experience Manager
 title: deleteFolder
-uuid: 76af65fb-86ef-43e2-bfec-3682acf0afe6
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: Default thumbnail type. Provides a default for the thumbnail type in case a particular catalog record does not contain a valid catalog ThumbType value.
-seo-description: Default thumbnail type. Provides a default for the thumbnail type in case a particular catalog record does not contain a valid catalog ThumbType value.
-seo-title: ThumbType
 solution: Experience Manager
 title: ThumbType
-uuid: 0b4aa767-2d80-4df8-8189-9d095cb88e87
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

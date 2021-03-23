@@ -1,10 +1,7 @@
 ---
 description: Unsharp-mask. Unsharp masks the layer or the final view image, after all scaling, if layer=comp.
-seo-description: Unsharp-mask. Unsharp masks the layer or the final view image, after all scaling, if layer=comp.
-seo-title: op_usmR
 solution: Experience Manager
 title: op_usmR
-uuid: 98afd83c-097e-40b4-b0a6-647f70b95fae
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

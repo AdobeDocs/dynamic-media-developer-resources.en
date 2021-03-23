@@ -1,10 +1,7 @@
 ---
 description: Flash Streaming Server URL prefix. Flash Streaming Server URL prefix used when generating multi-bit rate f4m responses with req=mbrSet.
-seo-description: Flash Streaming Server URL prefix. Flash Streaming Server URL prefix used when generating multi-bit rate f4m responses with req=mbrSet.
-seo-title: HttpFlashStreamingContext
 solution: Experience Manager
 title: HttpFlashStreamingContext
-uuid: 7a69e7ac-9a32-4e32-a7bc-cc90c5cbe49c
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

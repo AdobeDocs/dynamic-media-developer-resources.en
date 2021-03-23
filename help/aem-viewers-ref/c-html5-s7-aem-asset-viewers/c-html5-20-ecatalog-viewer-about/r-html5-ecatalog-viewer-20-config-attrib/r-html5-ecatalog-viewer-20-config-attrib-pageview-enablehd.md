@@ -2,7 +2,7 @@
 description: PageView.enableHD
 solution: Experience Manager
 title: PageView.enableHD
-uuid: dcfb202d-6ed8-4cb9-9254-b8dcfe99cd00
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
 ---

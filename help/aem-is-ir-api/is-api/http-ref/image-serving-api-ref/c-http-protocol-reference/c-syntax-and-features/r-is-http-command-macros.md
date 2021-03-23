@@ -1,10 +1,7 @@
 ---
 description: Command macros provide named shortcuts for sets of commands. Macros are defined in separate macro definition files, which can be attached to image catalogs or the default catalog.
-seo-description: Command macros provide named shortcuts for sets of commands. Macros are defined in separate macro definition files, which can be attached to image catalogs or the default catalog.
-seo-title: Command macros
 solution: Experience Manager
 title: Command macros
-uuid: a6ff5642-6716-484f-b37e-066994362a9b
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

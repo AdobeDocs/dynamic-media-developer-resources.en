@@ -1,10 +1,10 @@
 ---
 description: For internal use only. See the Image Rendering Material Catalog Reference–Catalog Attributes section.
-seo-description: For internal use only. See the Image Rendering Material Catalog Reference–Catalog Attributes section.
-seo-title: getImageRenderingPublishSettings
+
+
 solution: Experience Manager
 title: getImageRenderingPublishSettings
-uuid: b1c253b5-febe-4dc7-95a1-a5f4789030e7
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

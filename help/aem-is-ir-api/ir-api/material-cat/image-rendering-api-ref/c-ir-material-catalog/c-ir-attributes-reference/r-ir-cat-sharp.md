@@ -1,10 +1,10 @@
 ---
 description: Default material sharpening. Sets the default material sharpening mode in case a particular catalog record does not contain a valid catalog Sharp value.
-seo-description: Default material sharpening. Sets the default material sharpening mode in case a particular catalog record does not contain a valid catalog Sharp value.
-seo-title: Sharp
+
+
 solution: Experience Manager
 title: Sharp
-uuid: f6a6101c-3d9e-4557-892b-be7943b4fdca
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

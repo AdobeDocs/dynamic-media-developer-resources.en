@@ -1,10 +1,7 @@
 ---
 description: Multi-bit rate data.
-seo-description: Multi-bit rate data.
-seo-title: mbrSet
 solution: Experience Manager
 title: mbrSet
-uuid: 829c44ce-c66a-49a9-ba69-9e8e94ef8921
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

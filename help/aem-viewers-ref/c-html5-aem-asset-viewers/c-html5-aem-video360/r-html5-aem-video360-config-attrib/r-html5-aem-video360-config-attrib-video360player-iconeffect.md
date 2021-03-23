@@ -1,10 +1,10 @@
 ---
 description: Configuration attribute for Video360 Viewer.
-seo-description: Configuration attribute for Video360 Viewer.
-seo-title: Video360Player.iconeffect
+
+
 solution: Experience Manager
 title: Video360Player.iconeffect
-uuid: a0a2f840-e330-4636-8daf-1cd3f2eddf01
+
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
 ---

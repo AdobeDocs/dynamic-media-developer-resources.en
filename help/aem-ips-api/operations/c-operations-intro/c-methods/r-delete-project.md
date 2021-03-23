@@ -1,10 +1,10 @@
 ---
 description: Deletes a project from a company. The links between the assets and the project are broken, but the assets are not deleted from IPS.
-seo-description: Deletes a project from a company. The links between the assets and the project are broken, but the assets are not deleted from IPS.
-seo-title: deleteProject
+
+
 solution: Experience Manager
 title: deleteProject
-uuid: 0915066f-2106-4cbc-a68a-f149810c24f8
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

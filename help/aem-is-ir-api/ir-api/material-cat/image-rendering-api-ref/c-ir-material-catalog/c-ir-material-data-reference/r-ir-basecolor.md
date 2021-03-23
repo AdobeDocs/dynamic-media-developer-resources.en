@@ -1,10 +1,10 @@
 ---
 description: Dominant image color. Subtractive color, used for texture colorizing. Should be the average dominant color in the texture image.
-seo-description: Dominant image color. Subtractive color, used for texture colorizing. Should be the average dominant color in the texture image.
-seo-title: BaseColor
+
+
 solution: Experience Manager
 title: BaseColor
-uuid: 572ad63b-e3b1-478a-b3b3-2cba0b3413d6
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

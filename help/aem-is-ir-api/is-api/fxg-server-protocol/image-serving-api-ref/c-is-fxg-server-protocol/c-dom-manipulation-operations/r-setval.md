@@ -1,10 +1,10 @@
 ---
 description: Set text node value for s7 elementID.
-seo-description: Set text node value for s7 elementID.
-seo-title: setVal
+
+
 solution: Experience Manager
 title: setVal
-uuid: 27ced070-6434-477d-aacf-053d53ee58ff
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

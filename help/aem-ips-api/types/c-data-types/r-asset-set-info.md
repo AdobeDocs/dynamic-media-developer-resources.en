@@ -1,10 +1,10 @@
 ---
 description: Properties for AssetSet type assets.
-seo-description: Properties for AssetSet type assets.
-seo-title: AssetSetInfo
+
+
 solution: Experience Manager
 title: AssetSetInfo
-uuid: e4645b21-c1b9-4453-9f38-a75b6f7f1b98
+
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

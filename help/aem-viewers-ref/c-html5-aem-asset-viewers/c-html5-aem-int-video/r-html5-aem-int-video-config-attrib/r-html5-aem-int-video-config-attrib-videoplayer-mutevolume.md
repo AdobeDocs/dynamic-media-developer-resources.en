@@ -1,10 +1,10 @@
 ---
 description: Configuration attribute for Interactive Video Viewer.
-seo-description: Configuration attribute for Interactive Video Viewer.
-seo-title: VideoPlayer.mutevolume
+
+
 solution: Experience Manager
 title: VideoPlayer.mutevolume
-uuid: 00a660f1-fa00-4821-aaec-7d370376c347
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
 ---

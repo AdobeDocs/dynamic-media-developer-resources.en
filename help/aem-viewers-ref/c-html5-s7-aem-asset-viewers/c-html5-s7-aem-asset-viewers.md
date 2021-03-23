@@ -2,7 +2,7 @@
 description: Viewers for AEM Assets and Dynamic Media Classic
 solution: Experience Manager
 title: Viewers for AEM Assets and Dynamic Media Classic
-uuid: 52f744df-8eee-45fe-8246-6f497d9feb66
+
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,Business Practitioner
 ---

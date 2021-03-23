@@ -1,10 +1,10 @@
 ---
 description: Removes assets from a project. Does not destroy the assets.
-seo-description: Removes assets from a project. Does not destroy the assets.
-seo-title: removeProjectAssets
+
+
 solution: Experience Manager
 title: removeProjectAssets
-uuid: bae09dc3-4328-4264-8fb2-e4f0c53546eb
+
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: The following examples show a sample of text commands and how they affect text.
-seo-description: The following examples show a sample of text commands and how they affect text.
-seo-title: RTF encoding examples
 solution: Experience Manager
 title: RTF encoding examples
-uuid: 29fb4f59-b4bf-4768-a6e1-cc50926da936
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,7 @@
 ---
 description: Jpeg Size in KiloBytes. Specifies the maximum size of the JPEG response in kilobytes.
-seo-description: Jpeg Size in KiloBytes. Specifies the maximum size of the JPEG response in kilobytes.
-seo-title: jpegSize
 solution: Experience Manager
 title: jpegSize
-uuid: 832163ca-0554-481d-b87f-bf322f415274
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

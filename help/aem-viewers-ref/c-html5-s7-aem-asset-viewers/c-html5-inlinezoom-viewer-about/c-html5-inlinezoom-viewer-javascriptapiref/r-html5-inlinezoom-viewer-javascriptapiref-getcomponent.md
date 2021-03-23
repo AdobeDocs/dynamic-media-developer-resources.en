@@ -1,10 +1,10 @@
 ---
 description: JavaScript API reference for Inline Zoom Viewer
-seo-description: JavaScript API reference for Inline Zoom Viewer
-seo-title: getComponent
+
+
 solution: Experience Manager
 title: getComponent
-uuid: 75c01024-a734-415a-898a-f91b6bc6a580
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,Business Practitioner
 ---

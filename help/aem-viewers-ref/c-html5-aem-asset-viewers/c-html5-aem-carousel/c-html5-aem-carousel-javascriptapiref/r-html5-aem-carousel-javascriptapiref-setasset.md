@@ -1,10 +1,10 @@
 ---
 description: JavaScript API reference for Carousel Viewer.
-seo-description: JavaScript API reference for Carousel Viewer.
-seo-title: setAsset
+
+
 solution: Experience Manager
 title: setAsset
-uuid: 770cbb87-af86-48dc-88a0-e74f6716f545
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
 ---

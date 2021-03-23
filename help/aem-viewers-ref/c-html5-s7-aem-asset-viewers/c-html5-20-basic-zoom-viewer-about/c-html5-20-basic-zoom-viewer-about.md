@@ -1,11 +1,11 @@
 ---
 description: Basic Zoom Viewer is an image viewer that displays a single zoomable image. It has zoom tools, full screen support, and an optional close button. This viewer is the most lightweight. It is designed to work on desktops and mobile devices.
 keywords: responsive
-seo-description: Basic Zoom Viewer is an image viewer that displays a single zoomable image. It has zoom tools, full screen support, and an optional close button. This viewer is the most lightweight. It is designed to work on desktops and mobile devices.
-seo-title: Basic Zoom
+
+
 solution: Experience Manager
 title: Basic Zoom
-uuid: 5466d647-af70-4503-9898-bb712ba6a007
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
 ---

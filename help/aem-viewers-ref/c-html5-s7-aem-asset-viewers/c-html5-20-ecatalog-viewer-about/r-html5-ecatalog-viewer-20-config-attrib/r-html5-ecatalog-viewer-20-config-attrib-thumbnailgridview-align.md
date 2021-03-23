@@ -2,7 +2,7 @@
 description: ThumbnailGridView.align
 solution: Experience Manager
 title: ThumbnailGridView.align
-uuid: b51ed5e1-83b5-4f00-8ff7-3366b3ff2596
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
 ---

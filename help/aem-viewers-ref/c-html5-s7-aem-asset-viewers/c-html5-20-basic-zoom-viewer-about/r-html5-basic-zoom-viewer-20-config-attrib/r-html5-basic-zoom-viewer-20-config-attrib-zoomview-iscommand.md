@@ -2,7 +2,7 @@
 description: ZoomView.iscommand
 solution: Experience Manager
 title: ZoomView.iscommand
-uuid: 0befdc0b-dd58-4aae-90e6-8c578f3b6c6f
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
 ---

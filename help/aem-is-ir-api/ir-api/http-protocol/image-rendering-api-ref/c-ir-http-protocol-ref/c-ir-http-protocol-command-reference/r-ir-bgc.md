@@ -1,10 +1,10 @@
 ---
 description: Background color. Specifies the subtractive color for colorizable textures and decals.
-seo-description: Background color. Specifies the subtractive color for colorizable textures and decals.
-seo-title: bgc
+
+
 solution: Experience Manager
 title: bgc
-uuid: 551a0da8-dd1f-484a-bf7e-f4896370340a
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

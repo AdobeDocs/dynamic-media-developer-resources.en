@@ -1,10 +1,10 @@
 ---
 description: The zoom indicator is overlaid on the zoom view area. It is displayed when the image is in a reset state and it also depends on iconeffect parameter.
-seo-description: The zoom indicator is overlaid on the zoom view area. It is displayed when the image is in a reset state and it also depends on iconeffect parameter.
-seo-title: Zoom view icon effect
+
+
 solution: Experience Manager
 title: Zoom view icon effect
-uuid: 69a44789-9587-4459-9c75-048773c9e368
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
 ---

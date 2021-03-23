@@ -1,10 +1,7 @@
 ---
 description: Image anchor. Origin point when this image is used as a layer in a template or composite image.
-seo-description: Image anchor. Origin point when this image is used as a layer in a template or composite image.
-seo-title: Anchor
 solution: Experience Manager
 title: Anchor
-uuid: 81069578-8470-4ec0-b755-47b0a8124024
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

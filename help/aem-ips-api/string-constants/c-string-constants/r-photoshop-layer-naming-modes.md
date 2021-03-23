@@ -1,10 +1,10 @@
 ---
 description: Used by PhotoshopOptions/layerNaming.
-seo-description: Used by PhotoshopOptions/layerNaming.
-seo-title: Photoshop Layer Naming Modes
+
+
 solution: Experience Manager
 title: Photoshop Layer Naming Modes
-uuid: bade8ee9-766f-4c03-88d4-4d54faecd40e
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

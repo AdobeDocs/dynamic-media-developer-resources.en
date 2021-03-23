@@ -1,10 +1,10 @@
 ---
 description: An object or container in the folder hierarchy.
-seo-description: An object or container in the folder hierarchy.
-seo-title: Asset
+
+
 solution: Experience Manager
 title: Asset
-uuid: 758ac593-98d8-4366-a723-a06435c7fd3c
+
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

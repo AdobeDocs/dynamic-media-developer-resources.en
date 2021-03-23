@@ -1,10 +1,7 @@
 ---
 description: These commands apply to image layers, in addition to the common layer commands.
-seo-description: These commands apply to image layers, in addition to the common layer commands.
-seo-title: Image layer commands
 solution: Experience Manager
 title: Image layer commands
-uuid: eb8d2af0-3ec1-4730-886b-7494fb22b3e4
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,10 @@
 ---
 description: User-defined field definitions for specific assets.
-seo-description: User-defined field definitions for specific assets.
-seo-title: MetadataField
+
+
 solution: Experience Manager
 title: MetadataField
-uuid: 6156be6e-efa5-4e90-928d-2ab936668154
+
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
 ---

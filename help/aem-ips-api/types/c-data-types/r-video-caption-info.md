@@ -1,9 +1,9 @@
 ---
 description: Video caption properties
-seo-description: Video caption properties
-seo-title: VideoCaptionInfo
+
+
 title: VideoCaptionInfo
-uuid: affd5019-9916-421d-8c4b-676d48bf010c
+
 feature: Dynamic Media Classic,SDK/API,Video
 role: Developer,Administrator
 ---

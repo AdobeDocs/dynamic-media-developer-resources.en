@@ -1,10 +1,7 @@
 ---
 description: Contains Platform Server settings.
-seo-description: Contains Platform Server settings.
-seo-title: PlatformServer.conf
 solution: Experience Manager
 title: PlatformServer.conf
-uuid: d798762b-c9ff-4e1b-b2ac-c5e40476b375
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

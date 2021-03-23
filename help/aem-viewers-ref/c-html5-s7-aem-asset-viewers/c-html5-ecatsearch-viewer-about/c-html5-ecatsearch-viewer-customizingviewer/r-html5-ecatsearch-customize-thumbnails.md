@@ -1,10 +1,10 @@
 ---
 description: Thumbnails consist of a grid of thumbnail images with an optional scroll bar on the right side to allow vertical scrolling.
-seo-description: Thumbnails consist of a grid of thumbnail images with an optional scroll bar on the right side to allow vertical scrolling.
-seo-title: Thumbnails
+
+
 solution: Experience Manager
 title: Thumbnails
-uuid: 623f6c7a-4ec7-4708-a7ed-1aa42a21e430
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
 ---

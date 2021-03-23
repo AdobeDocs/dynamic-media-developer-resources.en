@@ -2,7 +2,7 @@
 description: Swatches.pagemode
 solution: Experience Manager
 title: Swatches.pagemode
-uuid: 531b9119-1433-4856-aaeb-9ba31378a457
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
 ---

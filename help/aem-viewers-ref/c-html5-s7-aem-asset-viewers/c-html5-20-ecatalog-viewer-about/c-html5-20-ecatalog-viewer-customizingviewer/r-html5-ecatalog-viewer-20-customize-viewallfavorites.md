@@ -1,10 +1,10 @@
 ---
 description: The position of the button is fully managed by the Favorites menu.
-seo-description: The position of the button is fully managed by the Favorites menu.
-seo-title: View All Favorites button
+
+
 solution: Experience Manager
 title: View All Favorites button
-uuid: f9fd2110-d225-4eba-8e21-acc9c0e1dfd4
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,10 @@
 ---
 description: Profile file path. Path and name of the ICC color profile file, including file suffix.
-seo-description: Profile file path. Path and name of the ICC color profile file, including file suffix.
-seo-title: ProfilePath
+
+
 solution: Experience Manager
 title: ProfilePath
-uuid: 82fd2cee-ad15-4dd3-8864-9976470fc847
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

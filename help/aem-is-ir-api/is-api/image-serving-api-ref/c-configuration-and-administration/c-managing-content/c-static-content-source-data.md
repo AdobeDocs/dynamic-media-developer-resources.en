@@ -1,10 +1,7 @@
 ---
 description: Static content source data files are accessed only by the Platform Server.
-seo-description: Static content source data files are accessed only by the Platform Server.
-seo-title: Static content source data
 solution: Experience Manager
 title: Static content source data
-uuid: a3280ce7-20d7-4f4b-bf3e-e77cc7aca35f
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

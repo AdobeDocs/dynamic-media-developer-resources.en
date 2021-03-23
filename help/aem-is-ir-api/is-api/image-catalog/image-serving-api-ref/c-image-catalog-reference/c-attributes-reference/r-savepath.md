@@ -1,10 +1,7 @@
 ---
 description: Root path for saveToFile=. Relative path for the root folder to which images generated with req=saveToFile should be written.
-seo-description: Root path for saveToFile=. Relative path for the root folder to which images generated with req=saveToFile should be written.
-seo-title: SavePath
 solution: Experience Manager
 title: SavePath
-uuid: 02b88e83-7fee-40d4-95ea-daba9a608e8e
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

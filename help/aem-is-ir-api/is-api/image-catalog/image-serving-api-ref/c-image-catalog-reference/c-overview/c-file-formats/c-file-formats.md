@@ -1,10 +1,7 @@
 ---
 description: All catalog files are plain text files.
-seo-description: All catalog files are plain text files.
-seo-title: File formats
 solution: Experience Manager
 title: File formats
-uuid: d0d35682-e794-4571-87e6-f54ac57126c7
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

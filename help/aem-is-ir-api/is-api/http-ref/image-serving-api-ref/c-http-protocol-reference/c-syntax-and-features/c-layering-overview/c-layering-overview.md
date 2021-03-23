@@ -1,10 +1,7 @@
 ---
 description: Image Serving allows combining any number of image, text, and solid color layers into a composite image.
-seo-description: Image Serving allows combining any number of image, text, and solid color layers into a composite image.
-seo-title: Layering overview
 solution: Experience Manager
 title: Layering overview
-uuid: 74c0855b-050a-4631-adea-9488bca67fd2
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,10 @@
 ---
 description: Swatches consist of a row of thumbnail images with optional scroll buttons on the left and right hand side.
-seo-description: Swatches consist of a row of thumbnail images with optional scroll buttons on the left and right hand side.
-seo-title: Swatches
+
+
 solution: Experience Manager
 title: Swatches
-uuid: 92360088-7199-49c3-80ee-e175d234a78e
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,7 @@
 ---
 description: Lets you crop to the bounding box of an embedded named path. This cropping, in turn, changes the size of the image.
-seo-description: Lets you crop to the bounding box of an embedded named path. This cropping, in turn, changes the size of the image.
-seo-title: cropPathE
 solution: Experience Manager
 title: cropPathE
-uuid: 4689fd20-dfa0-47eb-8184-cd233f1ac088
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

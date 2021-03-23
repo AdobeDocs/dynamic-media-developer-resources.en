@@ -1,10 +1,10 @@
 ---
 description: Command macros provide named shortcuts for sets of commands.
-seo-description: Command macros provide named shortcuts for sets of commands.
-seo-title: Command macros
+
+
 solution: Experience Manager
 title: Command macros
-uuid: f90d5132-aa5b-424f-a123-838723ed891a
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

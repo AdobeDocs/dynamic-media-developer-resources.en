@@ -1,10 +1,7 @@
 ---
 description: The following fields are supported for static (non-image) content catalogs.
-seo-description: The following fields are supported for static (non-image) content catalogs.
-seo-title: Static contents data
 solution: Experience Manager
 title: Static contents data
-uuid: a890ffef-55b2-4880-afa5-ced8598642d1
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

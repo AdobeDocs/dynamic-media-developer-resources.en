@@ -1,10 +1,10 @@
 ---
 description: For Scene 7 developers only. Refer to the Image Rendering Material Catalog Reference–Catalog Attributes section.
-seo-description: For Scene 7 developers only. Refer to the Image Rendering Material Catalog Reference–Catalog Attributes section.
-seo-title: setImageRenderingPublishSettings
+
+
 solution: Experience Manager
 title: setImageRenderingPublishSettings
-uuid: 0ea8325c-d56b-47da-a3d0-18876d5dd0ba
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

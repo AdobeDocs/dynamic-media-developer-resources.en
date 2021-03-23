@@ -1,10 +1,10 @@
 ---
 description: Sets the resolution of embedded bitmaps in a Web To Print request.
-seo-description: Sets the resolution of embedded bitmaps in a Web To Print request.
-seo-title: imageRes
+
+
 solution: Experience Manager
 title: imageRes
-uuid: 9fd252b8-2956-4618-85dd-a47fc836639c
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

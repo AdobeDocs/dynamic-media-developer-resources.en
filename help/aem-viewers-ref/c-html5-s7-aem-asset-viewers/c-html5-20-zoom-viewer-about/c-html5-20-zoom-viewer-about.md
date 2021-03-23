@@ -1,11 +1,11 @@
 ---
 description: Zoom Viewer is an image viewer that displays a zoomable image. This viewer works with image sets and navigation is done by using swatches. It has zoom tools, full screen support, swatches, and an optional close button. It is designed to work on desktops and mobile devices.
 keywords: responsive
-seo-description: Zoom Viewer is an image viewer that displays a zoomable image. This viewer works with image sets and navigation is done by using swatches. It has zoom tools, full screen support, swatches, and an optional close button. It is designed to work on desktops and mobile devices.
-seo-title: Zoom
+
+
 solution: Experience Manager
 title: Zoom
-uuid: ec2a91e2-ce2c-48b1-a2b2-8671524288c7
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
 ---

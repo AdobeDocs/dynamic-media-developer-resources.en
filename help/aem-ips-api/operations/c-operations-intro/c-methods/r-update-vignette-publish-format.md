@@ -1,10 +1,10 @@
 ---
 description: Updates the vignette publish format settings.
-seo-description: Updates the vignette publish format settings.
-seo-title: updateVignettePublishFormat
+
+
 solution: Experience Manager
 title: updateVignettePublishFormat
-uuid: ef8ae609-56e8-4ed6-906b-0668c5873946
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

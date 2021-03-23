@@ -2,7 +2,7 @@
 description: SpinView.fmt
 solution: Experience Manager
 title: SpinView.fmt
-uuid: ad4bb340-3144-46e8-a184-a5cae572596c
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
 ---

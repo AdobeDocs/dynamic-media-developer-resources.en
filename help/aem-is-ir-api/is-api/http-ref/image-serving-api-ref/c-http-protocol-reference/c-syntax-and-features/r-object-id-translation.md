@@ -1,10 +1,7 @@
 ---
 description: Image Serving provides a mechanism to translate external object ids to locale-specific object (catalog) IDs. The primary application is for providing locale-specific content and content shared amongst multiple locales without the client application needing to know the locale-specific object IDs.
-seo-description: Image Serving provides a mechanism to translate external object ids to locale-specific object (catalog) IDs. The primary application is for providing locale-specific content and content shared amongst multiple locales without the client application needing to know the locale-specific object IDs.
-seo-title: Object ID translation
 solution: Experience Manager
 title: Object ID translation
-uuid: 8b4c2f44-033a-428a-b505-af389865c70a
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

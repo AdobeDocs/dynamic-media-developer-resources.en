@@ -1,10 +1,7 @@
 ---
 description: Default background color for thumbnails. RGB value used to fill the area of an output thumbnail image which does not contain actual image data.
-seo-description: Default background color for thumbnails. RGB value used to fill the area of an output thumbnail image which does not contain actual image data.
-seo-title: ThumbBkgColor
 solution: Experience Manager
 title: ThumbBkgColor
-uuid: c75c01f4-036e-46fd-9bc1-480920c0c05a
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

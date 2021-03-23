@@ -1,10 +1,7 @@
 ---
 description: Blackpoint compensation. Specifies whether blackpoint compensation should be applied to color conversions when no explicit selection is made with icc=.
-seo-description: Blackpoint compensation. Specifies whether blackpoint compensation should be applied to color conversions when no explicit selection is made with icc=.
-seo-title: IccBlackPointCompensation
 solution: Experience Manager
 title: IccBlackPointCompensation
-uuid: 58d92a02-778f-41cf-846a-3a25d4376ec6
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

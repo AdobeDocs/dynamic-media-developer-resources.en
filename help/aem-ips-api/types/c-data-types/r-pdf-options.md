@@ -1,10 +1,10 @@
 ---
 description: PDF file options.
-seo-description: PDF file options.
-seo-title: PDFOptions
+
+
 solution: Experience Manager
 title: PDFOptions
-uuid: 7558b6b5-ad32-4baf-896b-f4e2bd48f2ec
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

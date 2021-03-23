@@ -1,10 +1,7 @@
 ---
 description: View Background Color. Specifies the background color for the composite image (view image).
-seo-description: View Background Color. Specifies the background color for the composite image (view image).
-seo-title: bgc
 solution: Experience Manager
 title: bgc
-uuid: 3ea8291e-3223-45ff-a2ad-43fc212eff90
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

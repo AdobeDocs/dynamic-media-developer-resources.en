@@ -1,10 +1,10 @@
 ---
 description: Updates SWF viewer configuration settings.
-seo-description: Updates SWF viewer configuration settings.
-seo-title: updateViewerConfigSettings
+
+
 solution: Experience Manager
 title: updateViewerConfigSettings
-uuid: ad4af874-5ca4-4182-868e-afa48b1cd2b6
+
 feature: Dynamic Media Classic,SDK/API,Viewer Presets
 role: Developer,Administrator
 ---

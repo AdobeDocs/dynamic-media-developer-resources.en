@@ -1,10 +1,10 @@
 ---
 description: Configuration attribute for Video Viewer.
-seo-description: Configuration attribute for Video Viewer.
-seo-title: VideoPlayer.iconeffect
+
+
 solution: Experience Manager
 title: VideoPlayer.iconeffect
-uuid: 1ba6f24a-77bb-41ef-a831-a7ac817abd73
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
 ---

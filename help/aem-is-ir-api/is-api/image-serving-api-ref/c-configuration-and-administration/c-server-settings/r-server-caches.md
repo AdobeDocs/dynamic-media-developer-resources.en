@@ -1,10 +1,7 @@
 ---
 description: Use these server settings for server caches.
-seo-description: Use these server settings for server caches.
-seo-title: Server caches
 solution: Experience Manager
 title: Server caches
-uuid: 73745363-2011-453f-b7a0-96de4b44186d
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

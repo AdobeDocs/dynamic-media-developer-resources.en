@@ -2,7 +2,7 @@
 description: Search button
 solution: Experience Manager
 title: Search button
-uuid: a4d64d61-338e-4963-865e-c1afe1a4876f
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
 ---

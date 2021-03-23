@@ -1,10 +1,10 @@
 ---
 description: Configuration attribute for Video360 Viewer.
-seo-description: Configuration attribute for Video360 Viewer.
-seo-title: Video360Player.mutevolume
+
+
 solution: Experience Manager
 title: Video360Player.mutevolume
-uuid: 02c5a8d9-c382-4762-84a6-120255a97840
+
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
 ---

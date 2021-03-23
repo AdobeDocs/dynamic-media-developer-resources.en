@@ -1,10 +1,10 @@
 ---
 description: On desktop systems some user interface elements such as buttons have tooltips that are displayed on mouse hover.
-seo-description: On desktop systems some user interface elements such as buttons have tooltips that are displayed on mouse hover.
-seo-title: Tooltips
+
+
 solution: Experience Manager
 title: Tooltips
-uuid: 763cdda7-4938-4884-8040-7e4017e6a0d8
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
 ---

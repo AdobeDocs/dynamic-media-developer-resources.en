@@ -1,10 +1,10 @@
 ---
 description: An array of ICC profile field update items.
-seo-description: An array of ICC profile field update items.
-seo-title: IccProfileFieldUpdateArray
+
+
 solution: Experience Manager
 title: IccProfileFieldUpdateArray
-uuid: 15cb164d-6c56-45fd-9275-dd091e205c80
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

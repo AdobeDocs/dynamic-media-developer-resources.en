@@ -1,10 +1,7 @@
 ---
 description: JPEG quality. Specifies JPEG encoding attributes to control the compression level. This in turn varies the file size (amount of the reply data), and, indirectly, the visual quality of the resultant image.
-seo-description: JPEG quality. Specifies JPEG encoding attributes to control the compression level. This in turn varies the file size (amount of the reply data), and, indirectly, the visual quality of the resultant image.
-seo-title: qlt
 solution: Experience Manager
 title: qlt
-uuid: 9f69845d-3b25-41a7-b6c0-83cf1d2bc450
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

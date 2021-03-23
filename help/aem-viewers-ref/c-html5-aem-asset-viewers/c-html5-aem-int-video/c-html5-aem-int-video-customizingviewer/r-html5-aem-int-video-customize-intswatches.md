@@ -1,10 +1,10 @@
 ---
 description: The interactive swatches panel appears next to the video content if interactive data was passed to the viewer in configuration. It consists of a banner at the top that renders text such as "Click to View", a column of one or more interactive swatches and two scroll buttons (available only on desktop systems).
-seo-description: The interactive swatches panel appears next to the video content if interactive data was passed to the viewer in configuration. It consists of a banner at the top that renders text such as "Click to View", a column of one or more interactive swatches and two scroll buttons (available only on desktop systems).
-seo-title: Interactive swatches
+
+
 solution: Experience Manager
 title: Interactive swatches
-uuid: 9f9df764-3dd0-414e-a0db-4287f0019313
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
 ---

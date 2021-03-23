@@ -1,10 +1,10 @@
 ---
 description: Sets the password of a specific user or the default user to a specific value, depending on whether you specify a user handle.
-seo-description: Sets the password of a specific user or the default user to a specific value, depending on whether you specify a user handle.
-seo-title: setPassword
+
+
 solution: Experience Manager
 title: setPassword
-uuid: 78067f8d-4191-4580-a5a8-adb6edfcfab8
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

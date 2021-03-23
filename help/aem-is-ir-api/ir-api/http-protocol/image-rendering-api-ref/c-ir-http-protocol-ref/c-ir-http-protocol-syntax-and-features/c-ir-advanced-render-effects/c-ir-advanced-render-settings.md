@@ -1,10 +1,10 @@
 ---
 description: The Vignette Authoring Tool (part of the Dynamic Media Image Authoring package) provides mechanisms to control low-level aspects of the vignette render engine.
-seo-description: The Vignette Authoring Tool (part of the Dynamic Media Image Authoring package) provides mechanisms to control low-level aspects of the vignette render engine.
-seo-title: Advanced Render settings
+
+
 solution: Experience Manager
 title: Advanced Render settings
-uuid: 18e7f3cf-4d30-445c-813c-546a91987b99
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

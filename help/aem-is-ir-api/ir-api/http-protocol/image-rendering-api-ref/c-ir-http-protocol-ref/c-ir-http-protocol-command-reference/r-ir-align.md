@@ -1,10 +1,10 @@
 ---
 description: Texture render alignment. Specifies which of the origin points defined by the selected vignette object is to be used.
-seo-description: Texture render alignment. Specifies which of the origin points defined by the selected vignette object is to be used.
-seo-title: align
+
+
 solution: Experience Manager
 title: align
-uuid: 0b24cd82-f9b2-48f4-9052-8c2026370ff7
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

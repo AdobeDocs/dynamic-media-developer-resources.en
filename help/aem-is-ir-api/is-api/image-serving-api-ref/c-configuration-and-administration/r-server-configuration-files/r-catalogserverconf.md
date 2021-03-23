@@ -1,10 +1,7 @@
 ---
 description: Contains settings related to managing image catalogs.
-seo-description: Contains settings related to managing image catalogs.
-seo-title: catalog-server.conf
 solution: Experience Manager
 title: catalog-server.conf
-uuid: 797a43d2-18f5-4735-8b19-da231952b1a2
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

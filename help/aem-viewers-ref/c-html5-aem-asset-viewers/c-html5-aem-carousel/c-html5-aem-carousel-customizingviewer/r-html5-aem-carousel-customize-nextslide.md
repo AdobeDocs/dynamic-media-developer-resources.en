@@ -1,10 +1,10 @@
 ---
 description: Clicking or tapping the Next slide button moves a user to the next slide in the carousel set.
-seo-description: Clicking or tapping the Next slide button moves a user to the next slide in the carousel set.
-seo-title: Next slide
+
+
 solution: Experience Manager
 title: Next slide
-uuid: 6cf7a16c-42bf-4576-bcb1-d504589b2748
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
 ---

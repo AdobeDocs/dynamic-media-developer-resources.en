@@ -1,10 +1,10 @@
 ---
 description: Metadata to delete from the asset.
-seo-description: Metadata to delete from the asset.
-seo-title: MetadataDelete
+
+
 solution: Experience Manager
 title: MetadataDelete
-uuid: 7bd80931-4b7a-4a70-a505-b351653549af
+
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
 ---

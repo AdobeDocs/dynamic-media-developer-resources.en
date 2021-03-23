@@ -1,10 +1,7 @@
 ---
 description: Four types of layers are supported.
-seo-description: Four types of layers are supported.
-seo-title: Layer types
 solution: Experience Manager
 title: Layer types
-uuid: d88b2163-7c9f-4885-9722-be3339e7127a
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

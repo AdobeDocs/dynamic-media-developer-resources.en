@@ -1,10 +1,10 @@
 ---
 description: JavaScript API reference for Carousel Viewer.
-seo-description: JavaScript API reference for Carousel Viewer.
-seo-title: setParams
+
+
 solution: Experience Manager
 title: setParams
-uuid: e7d5a565-3d61-482b-836e-128be89ad03a
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,7 @@
 ---
 description: Use these server settings to debug trace logging.
-seo-description: Use these server settings to debug trace logging.
-seo-title: Debug_trace logging
 solution: Experience Manager
 title: Debug_trace logging
-uuid: 33f1d093-007d-453b-965a-9d701a845954
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

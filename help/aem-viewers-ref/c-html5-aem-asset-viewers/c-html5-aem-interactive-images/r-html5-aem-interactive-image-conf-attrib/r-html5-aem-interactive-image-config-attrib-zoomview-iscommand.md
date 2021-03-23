@@ -1,10 +1,10 @@
 ---
 description: The Image Serving command string that is applied to zoom image.
-seo-description: The Image Serving command string that is applied to zoom image.
-seo-title: ZoomView.iscommand
+
+
 solution: Experience Manager
 title: ZoomView.iscommand
-uuid: 13dc11ed-52a4-45ae-bfae-ca034c8a3c87
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,Business Practitioner
 ---

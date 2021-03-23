@@ -1,10 +1,10 @@
 ---
 description: Create or edit a metadata field. Omit the optional field handle to create a new metadata field.
-seo-description: Create or edit a metadata field. Omit the optional field handle to create a new metadata field.
-seo-title: saveMetadataField
+
+
 solution: Experience Manager
 title: saveMetadataField
-uuid: ccd84366-732a-4caf-914d-3bc5fe499e7a
+
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
 ---

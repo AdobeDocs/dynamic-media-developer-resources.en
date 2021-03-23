@@ -1,10 +1,10 @@
 ---
 description: Reply image size limit. Maximum reply image width and height that may be returned to the client.
-seo-description: Reply image size limit. Maximum reply image width and height that may be returned to the client.
-seo-title: MaxPix
+
+
 solution: Experience Manager
 title: MaxPix
-uuid: 8fc5e032-cfbb-40b5-9c3a-a2ec1bc4c3e2
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

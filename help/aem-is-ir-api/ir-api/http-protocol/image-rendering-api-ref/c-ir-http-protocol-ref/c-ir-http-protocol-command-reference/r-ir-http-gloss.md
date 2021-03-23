@@ -1,10 +1,10 @@
 ---
 description: Material surface glossiness. Specifies the relative glossiness of the material surface. Used to select the illumination map and control rendering of gloss effects and 3D reflections.
-seo-description: Material surface glossiness. Specifies the relative glossiness of the material surface. Used to select the illumination map and control rendering of gloss effects and 3D reflections.
-seo-title: gloss
+
+
 solution: Experience Manager
 title: gloss
-uuid: 3774e08b-d24e-4cf2-8719-32a21bb9bcb6
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,7 @@
 ---
 description: Inverted Layer Clip Path. Specifies an exclusion clip path for the current layer. Any parts of the layer that are within the area defined by clipXPath= are rendered transparent.
-seo-description: Inverted Layer Clip Path. Specifies an exclusion clip path for the current layer. Any parts of the layer that are within the area defined by clipXPath= are rendered transparent.
-seo-title: clipXPath
 solution: Experience Manager
 title: clipXPath
-uuid: a4062f3f-5dba-4514-acde-e1b7d608a2e9
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

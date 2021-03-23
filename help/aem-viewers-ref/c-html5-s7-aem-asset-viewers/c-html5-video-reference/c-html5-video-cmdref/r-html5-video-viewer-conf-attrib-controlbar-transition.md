@@ -1,10 +1,10 @@
 ---
 description: Configuration attribute for Video Viewer.
-seo-description: Configuration attribute for Video Viewer.
-seo-title: ControlBar.transition
+
+
 solution: Experience Manager
 title: ControlBar.transition
-uuid: abd98898-d7d8-468f-b696-052e61e171b5
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,10 @@
 ---
 description: Retrieve the output of a submitted job.
-seo-description: Retrieve the output of a submitted job.
-seo-title: batchjobgetoutput
+
+
 solution: Experience Manager
 title: batchjobgetoutput
-uuid: c2d49cc2-3223-4f0f-8ba7-4f74a5f76789
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

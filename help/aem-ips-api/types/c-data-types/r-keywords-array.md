@@ -1,10 +1,10 @@
 ---
 description: An array of keywords.
-seo-description: An array of keywords.
-seo-title: KeywordsArray
+
+
 solution: Experience Manager
 title: KeywordsArray
-uuid: 78da064a-9906-4d79-93b4-4aa0f73358e2
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

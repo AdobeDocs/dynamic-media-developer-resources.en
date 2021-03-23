@@ -2,7 +2,7 @@
 description: Swatches.partialswatches
 solution: Experience Manager
 title: Swatches.partialswatches
-uuid: f783f75f-02ea-4a71-88e2-6857c981de27
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
 ---

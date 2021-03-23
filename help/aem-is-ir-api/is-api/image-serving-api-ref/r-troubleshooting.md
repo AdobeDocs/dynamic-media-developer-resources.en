@@ -1,10 +1,7 @@
 ---
 description: This section contains solutions to problems that have occasionally occurred with Image Serving.
-seo-description: This section contains solutions to problems that have occasionally occurred with Image Serving.
-seo-title: Troubleshooting
 solution: Experience Manager
 title: Troubleshooting
-uuid: 39fdaf86-004b-4553-bde0-0367f3ef76b8
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

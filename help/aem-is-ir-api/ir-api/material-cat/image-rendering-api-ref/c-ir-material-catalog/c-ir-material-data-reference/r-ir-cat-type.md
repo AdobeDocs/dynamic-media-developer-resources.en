@@ -1,10 +1,10 @@
 ---
 description: Material Type. Surface type of the material. Used in conjunction with catalog Gloss and catalog Roughness to control 3D reflection render effects.
-seo-description: Material Type. Surface type of the material. Used in conjunction with catalog Gloss and catalog Roughness to control 3D reflection render effects.
-seo-title: Type
+
+
 solution: Experience Manager
 title: Type
-uuid: 8e367013-ed4c-4504-baf7-26ea27d96469
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,7 @@
 ---
 description: Image Serving provides a simple request preprocessor based on regular-expression match and substitution rules.
-seo-description: Image Serving provides a simple request preprocessor based on regular-expression match and substitution rules.
-seo-title: Request preprocessing
 solution: Experience Manager
 title: Request preprocessing
-uuid: 375bbca2-7a4a-49a9-9577-86e6b2f19990
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

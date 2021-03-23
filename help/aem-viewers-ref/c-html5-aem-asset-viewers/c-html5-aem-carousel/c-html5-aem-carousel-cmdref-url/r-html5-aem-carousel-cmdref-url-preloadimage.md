@@ -1,10 +1,10 @@
 ---
 description: URL command for Carousel Viewer.
-seo-description: URL command for Carousel Viewer.
-seo-title: preloadimage**
+
+
 solution: Experience Manager
 title: preloadimage**
-uuid: e0910559-d6f1-41d4-b1ed-76114c16d929
+
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
 ---

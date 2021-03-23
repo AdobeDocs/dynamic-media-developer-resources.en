@@ -1,10 +1,7 @@
 ---
 description: Source image properties. Returns selected properties of the image file or catalog entry specified in the URL path.
-seo-description: Source image properties. Returns selected properties of the image file or catalog entry specified in the URL path.
-seo-title: imageprops
 solution: Experience Manager
 title: imageprops
-uuid: e9bf2780-a520-4fb1-ab4c-40bb799e36a4
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

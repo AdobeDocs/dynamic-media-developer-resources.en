@@ -1,10 +1,7 @@
 ---
 description: Region-of-interest. Specifies a rectangular region-of-interest (ROI) in the composite image, expressed in pixels.
-seo-description: Region-of-interest. Specifies a rectangular region-of-interest (ROI) in the composite image, expressed in pixels.
-seo-title: rgn
 solution: Experience Manager
 title: rgn
-uuid: 08657925-c52a-4279-8357-c26ad5c5ef3d
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

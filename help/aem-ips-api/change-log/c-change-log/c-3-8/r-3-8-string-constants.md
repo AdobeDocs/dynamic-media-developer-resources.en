@@ -1,10 +1,8 @@
 ---
 description: Describes new and changed string constants for the IPS API version 3.8.
-seo-description: Describes new and changed string constants for the IPS API version 3.8.
-seo-title: String Constants  New and Modified
 solution: Experience Manager
 title: String Constants  New and Modified
-uuid: 4cdfdff7-9cea-4ae1-925b-ce6cfc51c151
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

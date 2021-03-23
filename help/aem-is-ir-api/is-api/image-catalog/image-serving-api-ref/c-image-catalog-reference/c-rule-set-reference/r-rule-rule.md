@@ -1,10 +1,7 @@
 ---
 description: Request rule element. One or more rules are optional in the <ruleset> element.
-seo-description: Request rule element. One or more rules are optional in the <ruleset> element.
-seo-title: rule
 solution: Experience Manager
 title: rule
-uuid: 8b8e5b06-a0b7-47e1-942d-0297d08c313b
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

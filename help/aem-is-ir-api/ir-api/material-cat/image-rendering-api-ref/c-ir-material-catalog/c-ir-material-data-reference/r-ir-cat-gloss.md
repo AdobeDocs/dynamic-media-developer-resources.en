@@ -1,10 +1,10 @@
 ---
 description: Surface glossiness Specifies the relative glossiness of the material surface.
-seo-description: Surface glossiness Specifies the relative glossiness of the material surface.
-seo-title: Gloss
+
+
 solution: Experience Manager
 title: Gloss
-uuid: 7db83f99-15ab-4c43-adfb-07ad0b0c9707
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

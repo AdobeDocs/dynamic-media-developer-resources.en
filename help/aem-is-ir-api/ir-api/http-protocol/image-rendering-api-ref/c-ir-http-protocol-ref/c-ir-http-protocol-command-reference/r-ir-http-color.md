@@ -1,10 +1,10 @@
 ---
 description: Foreground color. Specifies the color of solid color materials or the additive color for colorizable materials.
-seo-description: Foreground color. Specifies the color of solid color materials or the additive color for colorizable materials.
-seo-title: color
+
+
 solution: Experience Manager
 title: color
-uuid: 546cf34b-ab2d-497c-abc2-89024dc541db
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

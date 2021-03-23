@@ -1,10 +1,10 @@
 ---
 description: Sets the group membership of users that belong to a specific company.
-seo-description: Sets the group membership of users that belong to a specific company.
-seo-title: setGroupMembers
+
+
 solution: Experience Manager
 title: setGroupMembers
-uuid: fe6585ef-a4b3-4b3c-95d0-624017650497
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

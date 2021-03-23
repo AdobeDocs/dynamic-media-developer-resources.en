@@ -1,10 +1,10 @@
 ---
 description: Input focus highlight displayed around the focused viewer user interface element.
-seo-description: Input focus highlight displayed around the focused viewer user interface element.
-seo-title: Focus highlight
+
+
 solution: Experience Manager
 title: Focus highlight
-uuid: 0bd36795-e663-4f0e-8310-a57c2ffae4a2
+
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
 ---
