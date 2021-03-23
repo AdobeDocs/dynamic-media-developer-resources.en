@@ -11,7 +11,7 @@ role: Developer,Business Practitioner
 
 # Image Serving HTTP protocol basic syntax{#image-serving-http-protocol-basic-syntax}
 
-The HTTP protocol basic syntax is as follows.
+The HTTP protocol basic syntax is as follows:
 
 <table id="simpletable_854C20D4C42247B99D9F123543C17E7C"> 
  <tr class="strow"> 
@@ -40,19 +40,19 @@ The HTTP protocol basic syntax is as follows.
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p><span class="codeph"> <span class="varname"> macro</span> </span> </p> </td> 
-  <td class="stentry"> <p>Name of a command macro. </p></td> 
+  <td class="stentry"> <p>Name of a command macro.</p></td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p><span class="codeph"> <span class="varname"> comment</span> </span> </p></td> 
-  <td class="stentry"> <p>Comment string (ignored by server). </p></td> 
+  <td class="stentry"> <p>Comment string (ignored by server).</p></td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p><span class="codeph"> <span class="varname"> cmdName</span> </span> </p></td> 
-  <td class="stentry"> <p>One of the supported command or attribute names. </p></td> 
+  <td class="stentry"> <p>One of the supported command or attribute names.</p></td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p><span class="codeph"> <span class="varname"> var</span> </span> </p> </td> 
-  <td class="stentry"> <p>Name of a custom variable. </p></td> 
+  <td class="stentry"> <p>Name of a custom variable.</p></td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p><span class="codeph"> <span class="varname"> value</span> </span> </p></td> 
@@ -62,7 +62,7 @@ The HTTP protocol basic syntax is as follows.
 
 *`server_address`*, *`cmdName`*, *`macro`*, and *`var`* are case-insensitive. The server preserves the case of all other string values.
 
-*`value`* is command-specific and may consist of one or more values separated by commas. Refer to the description of the individual commands for details.
+*`value`* is command-specific and can consist of one or more values separated by commas. Refer to the description of the individual commands for details.
 
 ## Server identifier {#section-926ae55ddba14b8d952147a5fd701e14}
 
@@ -78,7 +78,7 @@ Image Serving first extracts *`object`* and *`modifiers`* from the incoming requ
 
 ## Comments {#section-69ef0be0f17a418c87a0eba21c2ddb00}
 
-Comments may be embedded into request strings anywhere and are identified by a period(.) immediately following the command separator(&). The comment is terminated by the next occurrence of an (unencoded) command separator. This feature may be used to add information to the request which is not for Image Serving use, such as time stamps, database ids, etc.
+Comments can be embedded into request strings anywhere and are identified by a period(.) immediately following the command separator(&). The comment is terminated by the next occurrence of an (unencoded) command separator. This feature can be used to add information to the request which is not for Image Serving use, such as time stamps, and database IDs.
 
 ## See also {#section-d0b836568c31454b8dbeb136e6bbe0f0}
 

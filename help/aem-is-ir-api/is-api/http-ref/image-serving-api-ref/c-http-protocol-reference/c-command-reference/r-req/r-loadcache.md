@@ -1,10 +1,7 @@
 ---
 description: Preload server cache. Executes the request just like req=img, but instead of returning the image, the server returns the length of the reply image (image.length), formatted as text data with MIME type text/plain.
-seo-description: Preload server cache. Executes the request just like req=img, but instead of returning the image, the server returns the length of the reply image (image.length), formatted as text data with MIME type text/plain.
-seo-title: loadcache
 solution: Experience Manager
 title: loadcache
-uuid: 44f0db05-2323-4aa2-853c-f78e656a4308
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---
@@ -17,4 +14,4 @@ Preload server cache. Executes the request just like req=img, but instead of ret
 
 The HTTP response is not cacheable.
 
-Other commands in the request apply as documented. 
+Other commands in the request apply as documented.

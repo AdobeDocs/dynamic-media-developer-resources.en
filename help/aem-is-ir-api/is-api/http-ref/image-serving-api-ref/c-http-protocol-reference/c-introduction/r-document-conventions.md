@@ -16,7 +16,7 @@ This document uses the following conventions.
 <table id="simpletable_8C9DB0DA5F2B4C068794415602B768CB"> 
  <tr class="strow"> 
   <td class="stentry"> <p>literal </p> </td> 
-  <td class="stentry"> <p>In syntax sections, non-italic text is literal; this does not apply to white space and the symbols [ ] { } | *. </p> </td> 
+  <td class="stentry"> <p>In syntax sections, non-italic text is literal. This rule does not apply to white space and the symbols [ ] { } | *. </p> </td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p>'literal' </p> </td> 
@@ -64,11 +64,11 @@ This document uses the following conventions.
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p> <span class="codeph"> *[ <span class="varname"> optional </span>] </span> </p> </td> 
-  <td class="stentry"> <p>The <span class="varname"> optional </span> syntax element may be repeated none or more times. </p> </td> 
+  <td class="stentry"> <p>The <span class="varname"> optional </span> syntax element can be repeated none or more times. </p> </td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p> <span class="codeph"> <span class="varname"> item1 </span>| <span class="varname"> item2 </span> </span> </p> </td> 
-  <td class="stentry"> <p>A vertical bar indicates that either the single syntax item to the left or the item to right may be used. Exactly one item must be selected. </p> </td> 
+  <td class="stentry"> <p>A vertical bar indicates that either the single syntax item to the left or the item to right can be used. Exactly one item must be selected. </p> </td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p> <span class="codeph"> { <span class="varname"> group </span>} </span> </p> </td> 
@@ -76,7 +76,7 @@ This document uses the following conventions.
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p> <span class="codeph"> *{ <span class="varname"> group </span>} </span> </p> </td> 
-  <td class="stentry"> <p>The syntax elements within the group may be repeated one or more times. </p> </td> 
+  <td class="stentry"> <p>The syntax elements within the group can be repeated one or more times. </p> </td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p>white space </p> </td> 
