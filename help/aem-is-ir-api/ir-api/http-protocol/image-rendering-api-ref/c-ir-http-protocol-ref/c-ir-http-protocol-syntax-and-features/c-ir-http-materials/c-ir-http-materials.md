@@ -1,10 +1,7 @@
 ---
 description: Image Rendering applies materials to groups or objects in vignettes.
-
-
 solution: Experience Manager
 title: Materials
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

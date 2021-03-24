@@ -1,10 +1,7 @@
 ---
 description: Image Serving can be installed on 64-bit Windows.
-
-
 solution: Experience Manager
 title: Installing on Windows
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,7 @@
 ---
 description: Default client cache time to live. Provides a default expiration interval in case a particular catalog record does not contain a valid catalog Expiration or vignette Expiration value, or if a vignette file or material file is accessed directly, rather than via a catalog record.
-
-
 solution: Experience Manager
 title: Expiration
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

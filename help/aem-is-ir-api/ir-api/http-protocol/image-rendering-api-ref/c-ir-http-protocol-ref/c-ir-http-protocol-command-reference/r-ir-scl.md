@@ -1,10 +1,7 @@
 ---
 description: Scale view. Scales the rendered image by the specified scale factor, relative to the full-resolution vignette.
-
-
 solution: Experience Manager
 title: scl
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

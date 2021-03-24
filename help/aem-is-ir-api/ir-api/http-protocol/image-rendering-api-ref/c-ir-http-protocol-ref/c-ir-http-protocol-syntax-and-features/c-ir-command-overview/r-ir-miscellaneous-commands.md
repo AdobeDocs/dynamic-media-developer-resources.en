@@ -1,10 +1,7 @@
 ---
 description: These commands are also available.
-
-
 solution: Experience Manager
 title: Miscellaneous commands
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

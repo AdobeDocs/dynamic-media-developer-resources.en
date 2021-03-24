@@ -1,10 +1,7 @@
 ---
 description: If material data is required for a material catalog, the relative or absolute path of the material data file must be specified in attribute CatalogFile.
-
-
 solution: Experience Manager
 title: Material data reference
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

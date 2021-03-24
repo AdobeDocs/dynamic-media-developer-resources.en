@@ -1,10 +1,7 @@
 ---
 description: Texture render alignment. Specifies which of the origin points defined by the selected vignette object is to be used.
-
-
 solution: Experience Manager
 title: align
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

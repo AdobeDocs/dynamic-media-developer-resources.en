@@ -1,10 +1,7 @@
 ---
 description: Image Rendering supports color space conversions based on color space profiles conforming to the ICC (International Color Consortium) specification.
-
-
 solution: Experience Manager
 title: Image Rendering color management *
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

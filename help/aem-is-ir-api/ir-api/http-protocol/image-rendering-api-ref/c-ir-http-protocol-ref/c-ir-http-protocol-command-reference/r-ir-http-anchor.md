@@ -1,10 +1,7 @@
 ---
 description: Image anchor (hotspot). Specifies the texture anchor point (hotspot) of the repeatable texture or decal material.
-
-
 solution: Experience Manager
 title: anchor
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

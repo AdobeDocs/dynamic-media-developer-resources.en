@@ -1,10 +1,7 @@
 ---
 description: After the installation, the folder hierarchy in install_root includes the files and folders listed below.
-
-
 solution: Experience Manager
 title: Contents
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

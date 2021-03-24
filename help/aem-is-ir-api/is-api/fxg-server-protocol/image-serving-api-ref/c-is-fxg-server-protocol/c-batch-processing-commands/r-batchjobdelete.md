@@ -1,10 +1,7 @@
 ---
 description: Delete the output of a job.
-
-
 solution: Experience Manager
 title: batchjobdelete
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

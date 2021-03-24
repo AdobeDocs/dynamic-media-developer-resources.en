@@ -1,10 +1,7 @@
 ---
 description: Image Rendering configuration settings are stored in the Platform Server configuration file.
-
-
 solution: Experience Manager
 title: Configuration files
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

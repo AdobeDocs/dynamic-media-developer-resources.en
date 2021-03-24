@@ -1,10 +1,7 @@
 ---
 description: Advanced render settings. Specifies an advanced render settings, to be applied when rendering the current selection.
-
-
 solution: Experience Manager
 title: rs
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

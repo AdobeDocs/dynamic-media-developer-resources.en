@@ -1,10 +1,7 @@
 ---
 description: Sharpening. Sharpening attribute, determines when the material is sharpened during rendering.
-
-
 solution: Experience Manager
 title: Sharp
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

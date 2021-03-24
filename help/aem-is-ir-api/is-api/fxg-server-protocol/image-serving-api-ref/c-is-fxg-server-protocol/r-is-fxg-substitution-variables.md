@@ -1,10 +1,7 @@
 ---
 description: Substitution variable are used to transfer values from the request URL to FXG templates stored on the server.
-
-
 solution: Experience Manager
 title: Substitution Variables
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

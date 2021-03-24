@@ -1,10 +1,7 @@
 ---
 description: To manipulate a graphic, you can use reference points similar to compass points.
-
-
 solution: Experience Manager
 title: FXG server protocol
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

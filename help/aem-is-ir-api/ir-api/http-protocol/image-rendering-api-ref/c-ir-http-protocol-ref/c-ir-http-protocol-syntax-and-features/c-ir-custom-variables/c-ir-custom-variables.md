@@ -1,10 +1,7 @@
 ---
 description: The query portion of requests and vignette Modifier strings may include user-defined variables.
-
-
 solution: Experience Manager
 title: Custom variables
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,7 @@
 ---
 description: Error response image. Image Rendering normally returns an error status with a text message when an error occurs. attribute ErrorImage allows configuring an image to be returned in case of error.
-
-
 solution: Experience Manager
 title: ErrorImage *
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

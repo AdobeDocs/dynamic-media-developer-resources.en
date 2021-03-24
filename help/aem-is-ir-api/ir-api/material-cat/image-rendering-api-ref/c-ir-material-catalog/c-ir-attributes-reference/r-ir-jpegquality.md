@@ -1,10 +1,7 @@
 ---
 description: Default JPEG encoding quaility. Specifies the default quality setting for JPEG-encoded reply images.
-
-
 solution: Experience Manager
 title: JpegQuality
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

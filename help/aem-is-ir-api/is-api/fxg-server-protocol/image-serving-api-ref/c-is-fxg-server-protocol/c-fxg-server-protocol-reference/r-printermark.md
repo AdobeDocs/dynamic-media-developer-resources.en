@@ -1,10 +1,7 @@
 ---
 description: Display printer marks. Specifies how to display the printer marks.
-
-
 solution: Experience Manager
 title: printerMark
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

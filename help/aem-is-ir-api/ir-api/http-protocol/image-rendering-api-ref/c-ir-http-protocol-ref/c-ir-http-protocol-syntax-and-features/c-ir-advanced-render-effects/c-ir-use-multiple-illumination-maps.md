@@ -1,10 +1,7 @@
 ---
 description: Some applications may require a different illumination map for different kinds of materials.
-
-
 solution: Experience Manager
 title: Using multiple illumination maps
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

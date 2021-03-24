@@ -1,10 +1,7 @@
 ---
 description: Reply image size limit. Maximum reply image width and height that may be returned to the client.
-
-
 solution: Experience Manager
 title: MaxPix
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

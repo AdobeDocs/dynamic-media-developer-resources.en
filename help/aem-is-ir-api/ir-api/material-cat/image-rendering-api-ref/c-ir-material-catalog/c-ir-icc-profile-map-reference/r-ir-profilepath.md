@@ -1,10 +1,7 @@
 ---
 description: Profile file path. Path and name of the ICC color profile file, including file suffix.
-
-
 solution: Experience Manager
 title: ProfilePath
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

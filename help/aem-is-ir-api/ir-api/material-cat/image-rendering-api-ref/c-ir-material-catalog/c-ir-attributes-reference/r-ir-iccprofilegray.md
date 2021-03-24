@@ -1,10 +1,7 @@
 ---
 description: Grayscale default color space. Specifies the name of the ICC color profile to be used for grayscale response images when no output color space is specified with icc=.
-
-
 solution: Experience Manager
 title: IccProfileGray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

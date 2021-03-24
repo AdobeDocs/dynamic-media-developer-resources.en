@@ -1,10 +1,7 @@
 ---
 description: Default reply image format. Specifies the default format for reply images.
-
-
 solution: Experience Manager
 title: Format
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

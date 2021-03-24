@@ -1,10 +1,7 @@
 ---
 description: Retrieve the output of a submitted job.
-
-
 solution: Experience Manager
 title: batchjobgetoutput
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

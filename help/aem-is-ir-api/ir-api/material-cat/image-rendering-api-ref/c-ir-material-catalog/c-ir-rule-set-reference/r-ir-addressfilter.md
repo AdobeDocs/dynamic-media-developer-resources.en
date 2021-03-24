@@ -1,10 +1,7 @@
 ---
 description: Address filter element. Optional in <rule> elements. Overrides attribute ClientAddressFilter when the rule is applied.
-
-
 solution: Experience Manager
 title: addressfilter
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

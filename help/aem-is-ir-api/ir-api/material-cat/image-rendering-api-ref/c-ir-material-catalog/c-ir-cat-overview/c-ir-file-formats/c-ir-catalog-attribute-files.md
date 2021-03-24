@@ -1,10 +1,7 @@
 ---
 description: Catalog attribute files can have any name, but must have an .ini file suffix. They can be readily maintained using any text editor.
-
-
 solution: Experience Manager
 title: Catalog attribute files
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

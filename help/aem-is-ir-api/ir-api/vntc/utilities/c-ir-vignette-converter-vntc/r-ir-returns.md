@@ -1,10 +1,7 @@
 ---
 description: vntc returns the following values, depending on whether an error is encountered during processing.
-
-
 solution: Experience Manager
 title: Returns
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

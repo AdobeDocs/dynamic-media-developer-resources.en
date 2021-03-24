@@ -1,10 +1,7 @@
 ---
 description: Vignettes can be authored to include near-3D reflection data.
-
-
 solution: Experience Manager
 title: Reflections
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

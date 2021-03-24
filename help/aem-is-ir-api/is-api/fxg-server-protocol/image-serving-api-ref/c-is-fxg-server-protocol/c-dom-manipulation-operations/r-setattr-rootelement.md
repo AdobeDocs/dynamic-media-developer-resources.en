@@ -1,10 +1,7 @@
 ---
 description: Set attributes to FXG Root element.
-
-
 solution: Experience Manager
 title: setAttr.rootElement
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

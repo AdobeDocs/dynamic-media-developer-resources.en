@@ -1,10 +1,7 @@
 ---
 description: Regular-expression pattern element. Optional in <rule> elements.
-
-
 solution: Experience Manager
 title: expression
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

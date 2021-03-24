@@ -1,10 +1,7 @@
 ---
 description: The root folder for the catalog system cache.
-
-
 solution: Experience Manager
 title: Catalog cache folder (ir.catalogCacheRoot)
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

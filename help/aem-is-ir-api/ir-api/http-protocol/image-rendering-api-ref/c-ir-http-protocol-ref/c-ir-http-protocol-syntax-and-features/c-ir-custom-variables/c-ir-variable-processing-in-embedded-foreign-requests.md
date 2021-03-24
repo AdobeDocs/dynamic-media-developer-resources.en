@@ -1,10 +1,7 @@
 ---
 description: $var$ references occurring anywhere within the curly braces of an embedded foreign request are substituted with matching variable definition values.
-
-
 solution: Experience Manager
 title: Variable processing in embedded foreign requests
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,7 @@
 ---
 description: CMYK default color space. Specifies the name of the ICC color profile to be used for gray-scale response images when no output color space is specified with icc=.
-
-
 solution: Experience Manager
 title: IccProfileCmyk
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

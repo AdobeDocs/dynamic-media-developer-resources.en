@@ -1,10 +1,7 @@
 ---
 description: Resampling mode. Selects the resampling and/or interpolation algorithm to be used for scaling the rendered image to the size specified with wid=, hei=, or scl=.
-
-
 solution: Experience Manager
 title: resMode
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,7 @@
 ---
 description: Material surface type. Specifies the surface type of the material.
-
-
 solution: Experience Manager
 title: type
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

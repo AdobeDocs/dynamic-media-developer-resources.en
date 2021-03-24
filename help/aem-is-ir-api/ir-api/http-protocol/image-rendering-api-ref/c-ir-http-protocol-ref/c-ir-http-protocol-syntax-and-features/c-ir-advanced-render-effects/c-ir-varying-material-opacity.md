@@ -1,10 +1,7 @@
 ---
 description: Variable opacity is supported for solid color and repeatable textures applied to overlapping objects, as well as for decals and window covering materials.
-
-
 solution: Experience Manager
 title: Varying material opacity
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

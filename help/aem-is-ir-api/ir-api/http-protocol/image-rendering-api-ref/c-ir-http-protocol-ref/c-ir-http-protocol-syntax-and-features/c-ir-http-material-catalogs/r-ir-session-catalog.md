@@ -1,10 +1,7 @@
 ---
 description: The session catalog is the material catalog which provides session attributes for the request, as well as a default catId value for all src=, vignette=, and icc= commands.
-
-
 solution: Experience Manager
 title: Session catalog
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

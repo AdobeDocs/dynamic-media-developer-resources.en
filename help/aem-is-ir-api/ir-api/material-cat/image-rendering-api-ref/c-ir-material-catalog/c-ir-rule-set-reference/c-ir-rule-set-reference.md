@@ -1,10 +1,7 @@
 ---
 description: Image Rendering supports a simple request pre-processing mechanism which is based on regular-expression match and substitution rules.
-
-
 solution: Experience Manager
 title: Rule set reference
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

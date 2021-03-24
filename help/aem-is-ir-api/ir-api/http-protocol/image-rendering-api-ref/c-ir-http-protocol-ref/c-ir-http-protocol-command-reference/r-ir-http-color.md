@@ -1,10 +1,7 @@
 ---
 description: Foreground color. Specifies the color of solid color materials or the additive color for colorizable materials.
-
-
 solution: Experience Manager
 title: color
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

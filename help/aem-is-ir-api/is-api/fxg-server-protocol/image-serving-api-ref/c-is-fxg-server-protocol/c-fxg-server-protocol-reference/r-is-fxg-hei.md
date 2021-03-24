@@ -1,10 +1,7 @@
 ---
 description: View height. Specifies the height of the reply image.
-
-
 solution: Experience Manager
 title: hei
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

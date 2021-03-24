@@ -1,10 +1,7 @@
 ---
 description: Resolution. "Real-world" image resolution, typically expressed as pixels per inch, but may also be in other units, such as pixels per meter.
-
-
 solution: Experience Manager
 title: Resolution
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

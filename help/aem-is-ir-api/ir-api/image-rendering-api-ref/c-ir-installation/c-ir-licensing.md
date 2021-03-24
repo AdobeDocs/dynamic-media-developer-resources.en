@@ -1,10 +1,7 @@
 ---
 description: A Dynamic Media Image Rendering license key is required and must be installed on each system on which Image Rendering is installed.
-
-
 solution: Experience Manager
 title: Licensing
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

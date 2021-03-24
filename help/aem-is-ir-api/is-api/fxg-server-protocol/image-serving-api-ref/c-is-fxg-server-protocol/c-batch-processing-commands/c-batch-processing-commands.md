@@ -1,10 +1,7 @@
 ---
 description: The following commands comprise the batch processing API exposed by PlatformServer.
-
-
 solution: Experience Manager
 title: Batch processing commands
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

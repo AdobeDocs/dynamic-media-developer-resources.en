@@ -1,10 +1,7 @@
 ---
 description: User data. The server returns the contents of this field to the client in response to req=userdata.
-
-
 solution: Experience Manager
 title: UserData *
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

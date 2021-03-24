@@ -1,10 +1,7 @@
 ---
 description: Gloss map image. Provides pixel-by-pixel control of the glossiness of a repeatable texture, wallpaper/border, or decal.
-
-
 solution: Experience Manager
 title: glossmap
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,7 @@
 ---
 description: Material surface roughness. Specifies the relative roughness of the material surface.
-
-
 solution: Experience Manager
 title: rough
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

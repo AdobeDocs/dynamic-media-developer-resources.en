@@ -1,10 +1,7 @@
 ---
 description: Tile grout color and thickness. Simulates grout for ceramic and natural stone tiles.
-
-
 solution: Experience Manager
 title: grout
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

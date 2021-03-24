@@ -1,10 +1,7 @@
 ---
 description: Request type. Specifies the type of data requested.
-
-
 solution: Experience Manager
 title: req
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

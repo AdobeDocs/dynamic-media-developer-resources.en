@@ -1,10 +1,7 @@
 ---
 description: This section provides instruction for starting and stopping Image Serving in Windows and Linux.
-
-
 solution: Experience Manager
 title: Starting and stopping Image Serving
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

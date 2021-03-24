@@ -1,10 +1,7 @@
 ---
 description: Jpeg quality. Specifies JPEG encoding attributes to control the compression level.
-
-
 solution: Experience Manager
 title: qlt
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

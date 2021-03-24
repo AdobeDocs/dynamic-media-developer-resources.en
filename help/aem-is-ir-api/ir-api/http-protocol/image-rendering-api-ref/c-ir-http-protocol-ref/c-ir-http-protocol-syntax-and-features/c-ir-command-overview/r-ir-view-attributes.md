@@ -1,10 +1,7 @@
 ---
 description: These commands are position-independent and may occur anywhere in a request.
-
-
 solution: Experience Manager
 title: View attributes
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

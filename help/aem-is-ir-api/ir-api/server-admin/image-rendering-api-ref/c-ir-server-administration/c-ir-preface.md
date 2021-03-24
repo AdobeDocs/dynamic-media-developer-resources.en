@@ -1,10 +1,7 @@
 ---
 description: This documentation discusses server administration issues and describes configuration settings for Dynamic Media Image Rendering.
-
-
 solution: Experience Manager
 title: Server administration preface
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

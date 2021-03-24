@@ -1,10 +1,7 @@
 ---
 description: The following options control the processing of vignette files. They are ignored if sourceFile is not a vignette.
-
-
 solution: Experience Manager
 title: Options for vignettes
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

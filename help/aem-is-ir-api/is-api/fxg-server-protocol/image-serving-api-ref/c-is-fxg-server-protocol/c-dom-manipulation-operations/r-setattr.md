@@ -1,10 +1,7 @@
 ---
 description: Set any attribute for a given s7 elementID.
-
-
 solution: Experience Manager
 title: setAttr
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

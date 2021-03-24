@@ -1,10 +1,7 @@
 ---
 description: Command macros provide named shortcuts for sets of commands.
-
-
 solution: Experience Manager
 title: Command macros
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

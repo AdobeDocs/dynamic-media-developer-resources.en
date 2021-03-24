@@ -1,10 +1,7 @@
 ---
 description: Texture alignment. Alignment of the texture when applied to vignette objects related to each other, such as the upholstered parts of a furniture item. Used primarily for upholstery rendering applications, possibly for advanced apparel applications.
-
-
 solution: Experience Manager
 title: Alignment
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

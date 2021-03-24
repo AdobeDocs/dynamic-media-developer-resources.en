@@ -1,10 +1,7 @@
 ---
 description: Default resolution. Provides a default resolution in case a particular catalog record does not contain a valid catalog Resolution value.
-
-
 solution: Experience Manager
 title: Resolution
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,7 @@
 ---
 description: Image file path. Relative path and name of a texture or decal image file.
-
-
 solution: Experience Manager
 title: Path *
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,7 @@
 ---
 description: Image Rendering source data files include vignette files, material files (images for repeatable textures and decals as well as cabinet and window covering style files), and ICC profiles.
-
-
 solution: Experience Manager
 title: Source data
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

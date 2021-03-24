@@ -1,10 +1,7 @@
 ---
 description: Root URL for relative image URLs. Specifies the root URL for relative image URLs. attribute RootUrl is used instead of attribute RootPath when a src= value is enclosed by { curly braces }.
-
-
 solution: Experience Manager
 title: RootUrl *
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

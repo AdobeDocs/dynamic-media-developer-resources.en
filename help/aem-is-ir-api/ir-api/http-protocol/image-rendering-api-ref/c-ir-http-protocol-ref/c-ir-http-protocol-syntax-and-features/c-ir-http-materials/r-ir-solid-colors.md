@@ -1,10 +1,7 @@
 ---
 description: This material category includes paints for walls, woodwork and trim, automotive, as well as any other application where textures are not required.
-
-
 solution: Experience Manager
 title: Solid colors
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

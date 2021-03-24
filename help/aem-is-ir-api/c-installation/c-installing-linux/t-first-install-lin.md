@@ -1,10 +1,7 @@
 ---
 description: This procedure shows how to install Image Serving for the first time on Linux.
-
-
 solution: Experience Manager
 title: Installing for the first time
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

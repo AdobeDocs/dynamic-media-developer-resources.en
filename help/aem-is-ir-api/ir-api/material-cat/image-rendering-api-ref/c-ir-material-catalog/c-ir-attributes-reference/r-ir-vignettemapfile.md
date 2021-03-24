@@ -1,10 +1,7 @@
 ---
 description: Vignette map data file path. Specifies the file which contains the vignette map for this image catalog.
-
-
 solution: Experience Manager
 title: VignetteMapFile
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,7 @@
 ---
 description: Macro name. Macro names may consist of any combination of alpha, digit, and safe characters, excluding $.
-
-
 solution: Experience Manager
 title: Name
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

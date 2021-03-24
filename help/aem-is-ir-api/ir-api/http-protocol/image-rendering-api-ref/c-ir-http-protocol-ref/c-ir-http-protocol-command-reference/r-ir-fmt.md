@@ -1,10 +1,7 @@
 ---
 description: Reply image format. Specifies the image encoding format for image data sent to the client and the corresponding response MIME type for the HTTP response header.
-
-
 solution: Experience Manager
 title: fmt
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---
@@ -119,7 +116,7 @@ Reply image format. Specifies the image encoding format for image data sent to t
 
 `qlt-` sets the JPEG encoding options for these formats: JPEG, TIFF with JPEG compression, PDF with JPEG compression, and SWF file. Use `quantize=` if `fmt=gif` or `fmt=gif-alpha`. Refer to the command descriptions for details. The other formats do not have settable options.
 
-8-bits per pixel component are returned for all formats and pixel types.
+Eight bits per pixel component are returned for all formats and pixel types.
 
 The following table lists the valid combinations of *`format`* and *`pixelType`*, the corresponding HTTP response MIME types, whether ICC profiles can be embedded (see [iccEmbed=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-iccembed.md#reference-47a433138c7c4b29b9b29871b2491a7f)), and what format-specific option commands can be applied.
 
@@ -195,11 +192,11 @@ The following table lists the valid combinations of *`format`* and *`pixelType`*
 
 Specifies encoding format for reply image data sent to the client and the corresponding response MIME type for the HTTP reply header.
 
-`png-alpha` returns unassociated alpha (that is, alpha does not pre-multiply the pixel values), while `tif-alpha`, and `swf-alpha` return associated alpha (that is, the alpha values are pre-multiplied with the alpha values). The alpha channel corresponds to the inverse of the vignette's background mask for `req=img`, and to the group or object mask in case of `req=object`. To apply alpha when using a nested IR request, add `fmt=` with the appropriate alpha file format to the embedded IR request and the main request. No alpha data is returned if a CMYK or grayscale ICC profile is specified with `icc=`.
+`png-alpha` returns unassociated alpha (that is, alpha does not pre-multiply the pixel values), while `tif-alpha`, and `swf-alpha` return associated alpha (that is, the alpha values are pre-multiplied with the alpha values). The alpha channel corresponds to the inverse of the vignette's background mask for `req=img`, and to the group or object mask if there is `req=object`. To apply alpha when using a nested IR request, add `fmt=` with the appropriate alpha file format to the embedded IR request and the main request. No alpha data is returned if a CMYK or grayscale ICC profile is specified with `icc=`.
 
 ## Properties {#section-eb12a82c69d84622bcea153dd84d95b3}
 
-May occur anywhere in the request.
+Can occur anywhere in the request.
 
 ## Default {#section-d2c2af11fa974e1a84e0c6cb7fb646fe}
 

@@ -1,10 +1,7 @@
 ---
 description: The commands supported by Image Rendering are listed below, grouped by category.
-
-
 solution: Experience Manager
 title: Image Rendering HTTP protocol command overview
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---
