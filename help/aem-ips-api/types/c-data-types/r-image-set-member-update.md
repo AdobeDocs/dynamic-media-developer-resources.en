@@ -1,10 +1,7 @@
 ---
 description: Within this type, the pageReset field is meaningful for RenderSet and Catalog image asset types 
-
-
 solution: Experience Manager
 title: ImageSetMemberUpdate
-
 feature: Dynamic Media Classic,SDK/API,Image Sets
 role: Developer,Administrator
 ---

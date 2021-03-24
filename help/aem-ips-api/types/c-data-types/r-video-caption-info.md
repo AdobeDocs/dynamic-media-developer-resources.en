@@ -1,9 +1,6 @@
 ---
 description: Video caption properties
-
-
 title: VideoCaptionInfo
-
 feature: Dynamic Media Classic,SDK/API,Video
 role: Developer,Administrator
 ---

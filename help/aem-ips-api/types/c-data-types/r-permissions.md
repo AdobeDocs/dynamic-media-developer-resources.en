@@ -1,10 +1,7 @@
 ---
 description: Manages rights to access, modify, create, or delete assets by group.
-
-
 solution: Experience Manager
 title: Permission
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

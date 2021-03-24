@@ -1,10 +1,7 @@
 ---
 description: A name-value pair that contains information about an asset generation step. See getGenerationInfo.
-
-
 solution: Experience Manager
 title: GenerationAttribute
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

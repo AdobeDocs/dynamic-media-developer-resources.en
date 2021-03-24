@@ -1,10 +1,7 @@
 ---
 description: PostScript file options.
-
-
 solution: Experience Manager
 title: PostScriptOptions
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

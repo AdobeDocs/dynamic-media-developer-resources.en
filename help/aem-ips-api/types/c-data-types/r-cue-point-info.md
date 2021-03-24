@@ -1,10 +1,7 @@
 ---
 description: Properties of a CuePoint file asset.
-
-
 solution: Experience Manager
 title: CuePointInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

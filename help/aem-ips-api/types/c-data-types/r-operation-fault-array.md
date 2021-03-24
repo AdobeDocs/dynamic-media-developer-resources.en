@@ -1,10 +1,7 @@
 ---
 description: An array of messages responding to one the URL provided in the CDN invalidation request.
-
-
 solution: Experience Manager
 title: OperationFaultArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

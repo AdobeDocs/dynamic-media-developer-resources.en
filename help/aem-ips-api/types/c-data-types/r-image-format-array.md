@@ -1,10 +1,7 @@
 ---
 description: Array of image formats.
-
-
 solution: Experience Manager
 title: ImageFormatArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: Searches the metadata index repository for the given search terms. Returns asset data like the searchAssets method.
-
-
 solution: Experience Manager
 title: searchAssetsByMetadata
-
 feature: Dynamic Media Classic,SDK/API,Metadata,Asset Management
 role: Developer,Administrator
 ---

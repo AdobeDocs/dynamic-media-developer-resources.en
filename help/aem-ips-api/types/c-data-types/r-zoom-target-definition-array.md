@@ -2,7 +2,6 @@
 description: ZoomTargetDefinitionArray
 solution: Experience Manager
 title: ZoomTargetDefinitionArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

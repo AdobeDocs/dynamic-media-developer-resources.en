@@ -1,10 +1,7 @@
 ---
 description: Used by PermissionsUpdate/permissionType, Permission/permissionType.
-
-
 solution: Experience Manager
 title: Permission Types
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

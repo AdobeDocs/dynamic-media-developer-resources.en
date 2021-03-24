@@ -1,10 +1,7 @@
 ---
 description: Job log information.
-
-
 solution: Experience Manager
 title: JobLogDetail
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

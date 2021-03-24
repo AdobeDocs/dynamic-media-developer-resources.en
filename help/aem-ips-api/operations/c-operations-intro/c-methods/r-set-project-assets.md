@@ -1,10 +1,7 @@
 ---
 description: Assign or update assets in a project.
-
-
 solution: Experience Manager
 title: setProjectAssets
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

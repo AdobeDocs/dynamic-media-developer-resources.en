@@ -1,10 +1,7 @@
 ---
 description: Gets the details of a company job log.
-
-
 solution: Experience Manager
 title: getJobLogDetails
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

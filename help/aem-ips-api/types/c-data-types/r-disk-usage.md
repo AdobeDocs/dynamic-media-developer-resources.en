@@ -1,10 +1,7 @@
 ---
 description: Disk space statistics for an asset or folder.
-
-
 solution: Experience Manager
 title: DiskUsage
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

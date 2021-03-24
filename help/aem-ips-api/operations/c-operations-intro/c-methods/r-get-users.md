@@ -1,10 +1,7 @@
 ---
 description: Gets an array of users as specified by company, group, and user role handles. This operation lets you sort returned users and filter by character.
-
-
 solution: Experience Manager
 title: getUsers
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

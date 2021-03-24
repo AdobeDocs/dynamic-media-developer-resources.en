@@ -1,9 +1,6 @@
 ---
 description: Excludes the primary video from the adaptive video set.
-
-
 title: ExcludeMasterVideoFromAVS
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: Removes assets from a project. Does not destroy the assets.
-
-
 solution: Experience Manager
 title: removeProjectAssets
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

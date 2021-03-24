@@ -1,10 +1,7 @@
 ---
 description: An array of context state updates.
-
-
 solution: Experience Manager
 title: ContextStateUpdateArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

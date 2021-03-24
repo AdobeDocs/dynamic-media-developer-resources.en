@@ -1,10 +1,7 @@
 ---
 description: Gets the users that belong to a specific company and group.
-
-
 solution: Experience Manager
 title: getGroupMembers
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

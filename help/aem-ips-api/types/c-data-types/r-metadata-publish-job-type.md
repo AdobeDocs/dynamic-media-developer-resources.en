@@ -1,10 +1,7 @@
 ---
 description: Publishes metadata to the metadata server.
-
-
 solution: Experience Manager
 title: MetadataPublishJobType
-
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
 ---

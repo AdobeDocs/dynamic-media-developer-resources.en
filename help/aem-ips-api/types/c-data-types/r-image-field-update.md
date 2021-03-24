@@ -1,10 +1,7 @@
 ---
 description: Updates the image field associated with an image asset.
-
-
 solution: Experience Manager
 title: ImageFieldUpdate
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

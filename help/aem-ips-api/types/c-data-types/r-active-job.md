@@ -1,10 +1,7 @@
 ---
 description: A job that runs on a server. Also, it is an instance of a scheduled job.
-
-
 solution: Experience Manager
 title: ActiveJob
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

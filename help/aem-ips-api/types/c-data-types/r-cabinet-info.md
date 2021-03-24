@@ -1,10 +1,7 @@
 ---
 description: Properties of a cabinet asset.
-
-
 solution: Experience Manager
 title: CabinetInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

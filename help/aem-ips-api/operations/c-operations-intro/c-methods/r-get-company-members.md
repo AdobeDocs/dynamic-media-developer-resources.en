@@ -1,10 +1,7 @@
 ---
 description: Returns the users of a company specified by a company handle.
-
-
 solution: Experience Manager
 title: getCompanyMembers
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

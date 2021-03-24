@@ -1,10 +1,7 @@
 ---
 description: Updates tag dictionary values for a tag field.
-
-
 solution: Experience Manager
 title: updateTagFieldValues
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

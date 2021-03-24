@@ -1,10 +1,7 @@
 ---
 description: Used by PhotoshopOptions/layerNaming.
-
-
 solution: Experience Manager
 title: Photoshop Layer Naming Modes
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

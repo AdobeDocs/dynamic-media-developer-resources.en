@@ -1,10 +1,7 @@
 ---
 description: Holds information about a company metadata object like ID, name, and type.
-
-
 solution: Experience Manager
 title: CompanyMetadataInfo
-
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
 ---

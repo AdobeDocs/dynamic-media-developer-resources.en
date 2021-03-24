@@ -1,10 +1,7 @@
 ---
 description: Used by ImageServingPublishJob/publishType.
-
-
 solution: Experience Manager
 title: Publish Types
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

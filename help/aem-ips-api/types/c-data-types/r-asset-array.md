@@ -1,10 +1,7 @@
 ---
 description: An array of assets.
-
-
 solution: Experience Manager
 title: AssetArray
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

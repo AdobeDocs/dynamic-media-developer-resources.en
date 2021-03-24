@@ -1,10 +1,7 @@
 ---
 description: An array of projects.
-
-
 solution: Experience Manager
 title: ProjectArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

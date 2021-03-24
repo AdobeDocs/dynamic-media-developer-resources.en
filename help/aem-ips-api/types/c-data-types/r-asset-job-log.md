@@ -1,10 +1,7 @@
 ---
 description: The details of a job log entry associated with a particular asset. Data returned by getAssetJobLogs.
-
-
 solution: Experience Manager
 title: AssetJobLog
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

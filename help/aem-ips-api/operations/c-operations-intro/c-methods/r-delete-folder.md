@@ -1,10 +1,7 @@
 ---
 description: Deletes a folder.
-
-
 solution: Experience Manager
 title: deleteFolder
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

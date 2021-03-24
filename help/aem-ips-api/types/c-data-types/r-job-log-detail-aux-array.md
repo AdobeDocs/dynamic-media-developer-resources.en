@@ -1,10 +1,7 @@
 ---
 description: Array of auxiliary job log detail types.
-
-
 solution: Experience Manager
 title: JobLogDetailAuxArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

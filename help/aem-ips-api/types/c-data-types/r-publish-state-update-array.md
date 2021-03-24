@@ -1,10 +1,7 @@
 ---
 description: An array of publish state updates.
-
-
 solution: Experience Manager
 title: PublishStateUpdateArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

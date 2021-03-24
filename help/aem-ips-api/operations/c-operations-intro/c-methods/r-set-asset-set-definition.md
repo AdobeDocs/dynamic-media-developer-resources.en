@@ -1,10 +1,7 @@
 ---
 description: Updates the set definition for an existing Asset Set.
-
-
 solution: Experience Manager
 title: setAssetSetDefinition
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

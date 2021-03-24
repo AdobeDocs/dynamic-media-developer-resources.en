@@ -1,10 +1,7 @@
 ---
 description: Describes values used by various input parameters. See the list in this article for details.
-
-
 solution: Experience Manager
 title: Email Settings
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

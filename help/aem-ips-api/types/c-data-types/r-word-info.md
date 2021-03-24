@@ -1,10 +1,7 @@
 ---
 description: Properties of a Word file.
-
-
 solution: Experience Manager
 title: WordInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

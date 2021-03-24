@@ -1,10 +1,7 @@
 ---
 description: Property set type array.
-
-
 solution: Experience Manager
 title: PropertySetTypeArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

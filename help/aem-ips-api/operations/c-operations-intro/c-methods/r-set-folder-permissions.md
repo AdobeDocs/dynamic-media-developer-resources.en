@@ -1,10 +1,7 @@
 ---
 description: Sets folder permissions.
-
-
 solution: Experience Manager
 title: setFolderPermissions
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: Create or edit a zoom target.
-
-
 solution: Experience Manager
 title: saveZoomTarget
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

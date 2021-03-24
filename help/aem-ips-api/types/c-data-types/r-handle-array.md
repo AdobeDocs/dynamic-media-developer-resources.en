@@ -1,10 +1,7 @@
 ---
 description: An array of handles.
-
-
 solution: Experience Manager
 title: HandleArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

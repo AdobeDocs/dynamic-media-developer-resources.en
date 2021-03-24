@@ -1,10 +1,7 @@
 ---
 description: Create or edit a metadata field. Omit the optional field handle to create a new metadata field.
-
-
 solution: Experience Manager
 title: saveMetadataField
-
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
 ---

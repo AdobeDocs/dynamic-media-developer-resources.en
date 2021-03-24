@@ -1,10 +1,7 @@
 ---
 description: Array of generation attributes.
-
-
 solution: Experience Manager
 title: GenerationAttributeArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

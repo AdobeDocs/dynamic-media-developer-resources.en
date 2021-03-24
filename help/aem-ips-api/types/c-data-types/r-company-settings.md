@@ -1,10 +1,7 @@
 ---
 description: Company-specific configuration settings.
-
-
 solution: Experience Manager
 title: CompanySettings
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

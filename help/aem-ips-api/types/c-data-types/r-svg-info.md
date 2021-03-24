@@ -1,10 +1,7 @@
 ---
 description: Properties of an SVG file asset.
-
-
 solution: Experience Manager
 title: SvgInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

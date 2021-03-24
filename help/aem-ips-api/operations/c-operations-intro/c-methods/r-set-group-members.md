@@ -1,10 +1,7 @@
 ---
 description: Sets the group membership of users that belong to a specific company.
-
-
 solution: Experience Manager
 title: setGroupMembers
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

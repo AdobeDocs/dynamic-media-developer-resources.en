@@ -1,10 +1,7 @@
 ---
 description: Updates an asset set.
-
-
 solution: Experience Manager
 title: updateAssetSet
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

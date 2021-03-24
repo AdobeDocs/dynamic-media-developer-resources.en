@@ -1,10 +1,7 @@
 ---
 description: An array of Zoom targets.
-
-
 solution: Experience Manager
 title: ZoomTargetArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

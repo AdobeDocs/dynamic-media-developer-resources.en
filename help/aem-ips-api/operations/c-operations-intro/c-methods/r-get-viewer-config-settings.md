@@ -1,10 +1,7 @@
 ---
 description: Gets all viewer configuration settings associated with the specified asset.
-
-
 solution: Experience Manager
 title: getViewerConfigSettings
-
 feature: Dynamic Media Classic,SDK/API,Viewer Presets
 role: Developer,Administrator
 ---

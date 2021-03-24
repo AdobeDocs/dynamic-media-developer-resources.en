@@ -1,10 +1,7 @@
 ---
 description: PostScript file properties.
-
-
 solution: Experience Manager
 title: GenerationInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

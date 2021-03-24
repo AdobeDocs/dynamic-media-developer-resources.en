@@ -1,10 +1,7 @@
 ---
 description: Defines a publish target for a company.
-
-
 solution: Experience Manager
 title: PublishContext
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

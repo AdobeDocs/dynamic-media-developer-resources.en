@@ -1,10 +1,7 @@
 ---
 description: Detail message responding to one the URLs provided in the CDN invalidation request.
-
-
 solution: Experience Manager
 title: OperationFault
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

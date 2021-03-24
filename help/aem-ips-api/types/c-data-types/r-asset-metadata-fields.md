@@ -1,10 +1,7 @@
 ---
 description: Returns metadata field definitions for specified asset types.
-
-
 solution: Experience Manager
 title: AssetMetadataFields
-
 feature: Dynamic Media Classic,SDK/API,Metadata,Asset Management
 role: Developer,Administrator
 ---

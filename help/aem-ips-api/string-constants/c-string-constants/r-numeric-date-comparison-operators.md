@@ -1,10 +1,7 @@
 ---
 description: Used by SystemFieldCondition/op.
-
-
 solution: Experience Manager
 title: Numeric/Date Comparison Operators
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

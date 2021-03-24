@@ -1,10 +1,7 @@
 ---
 description: Used by searchAssetsParam/publishState, setAssetPublishStateParam/publishState and ContextStateUpdate/publishState.
-
-
 solution: Experience Manager
 title: Publish State
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

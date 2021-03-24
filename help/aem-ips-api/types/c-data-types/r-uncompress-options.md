@@ -1,10 +1,7 @@
 ---
 description: Upload setting to process ZIP and TAR files as primary assets (None) or to extract and upload their contents (UnCompress).
-
-
 solution: Experience Manager
 title: UnCompressOptions
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: File information for primary video assets.
-
-
 solution: Experience Manager
 title: MasterVideoInfo
-
 feature: Dynamic Media Classic,SDK/API,Video
 role: Developer,Administrator
 ---

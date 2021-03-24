@@ -1,10 +1,7 @@
 ---
 description: Used by JobLogDetial/assetType.
-
-
 solution: Experience Manager
 title: Job Log File Types
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

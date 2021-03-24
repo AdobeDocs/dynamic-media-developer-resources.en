@@ -1,10 +1,7 @@
 ---
 description: An array of CompanyMetadataInfo elements.
-
-
 solution: Experience Manager
 title: CompanyMetadataInfoArray
-
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
 ---

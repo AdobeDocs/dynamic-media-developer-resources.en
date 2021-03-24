@@ -1,10 +1,7 @@
 ---
 description: Returns all values for a metadata field.
-
-
 solution: Experience Manager
 title: getDistinctMetadataValues
-
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
 ---

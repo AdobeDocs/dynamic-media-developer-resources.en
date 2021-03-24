@@ -1,10 +1,7 @@
 ---
 description: Returns company groups.
-
-
 solution: Experience Manager
 title: getGroups
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

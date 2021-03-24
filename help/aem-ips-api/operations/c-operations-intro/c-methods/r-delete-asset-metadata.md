@@ -1,10 +1,7 @@
 ---
 description: Deletes metadata values for an asset. Works with an array of metadata delete to set values in a batch.
-
-
 solution: Experience Manager
 title: deleteAssetMetadata
-
 feature: Dynamic Media Classic,SDK/API,Metadata,Asset Management
 role: Developer,Administrator
 ---

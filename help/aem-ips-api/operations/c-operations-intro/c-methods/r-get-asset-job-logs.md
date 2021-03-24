@@ -1,10 +1,7 @@
 ---
 description: Gets the job logs for an asset. Items returned in the array contain detailed information about each entry in the job log for that asset. The logMessage response field is localized based on the authHeader field.
-
-
 solution: Experience Manager
 title: getAssetJobLogs
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

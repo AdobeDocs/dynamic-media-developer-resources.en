@@ -1,10 +1,7 @@
 ---
 description: An array of tag field values.
-
-
 solution: Experience Manager
 title: TagFieldValuesArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: Uses a property array to update a property set.
-
-
 solution: Experience Manager
 title: updatePropertySet
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

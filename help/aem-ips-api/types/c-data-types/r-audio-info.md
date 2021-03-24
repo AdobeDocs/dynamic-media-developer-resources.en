@@ -1,10 +1,7 @@
 ---
 description: Properties of an audio file asset.
-
-
 solution: Experience Manager
 title: AudioInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

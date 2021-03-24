@@ -1,10 +1,7 @@
 ---
 description: PDF file options.
-
-
 solution: Experience Manager
 title: PDFOptions
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

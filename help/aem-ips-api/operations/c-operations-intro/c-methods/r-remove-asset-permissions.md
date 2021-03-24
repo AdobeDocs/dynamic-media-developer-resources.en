@@ -1,10 +1,7 @@
 ---
 description: Removes permissions from selected assets.
-
-
 solution: Experience Manager
 title: removeAssetPermissions
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

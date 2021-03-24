@@ -1,10 +1,7 @@
 ---
 description: An array of keywords.
-
-
 solution: Experience Manager
 title: KeywordsArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

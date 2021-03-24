@@ -1,10 +1,7 @@
 ---
 description: Metadata search results that contain summarized information about an asset.
-
-
 solution: Experience Manager
 title: AssetSummary
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

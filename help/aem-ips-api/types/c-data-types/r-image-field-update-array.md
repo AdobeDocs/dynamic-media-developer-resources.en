@@ -1,10 +1,7 @@
 ---
 description: An array of image field updates.
-
-
 solution: Experience Manager
 title: ImageFieldUpdateArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

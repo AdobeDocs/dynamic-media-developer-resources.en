@@ -1,10 +1,7 @@
 ---
 description: Mask (knock-out) the background for selected images. This lets you overlay them in other layers with a transparency outside of subject image. An optional parameter that is off by default.
-
-
 solution: Experience Manager
 title: KnockoutBackgroundOptions
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

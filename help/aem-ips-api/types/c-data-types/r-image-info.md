@@ -1,10 +1,7 @@
 ---
 description: Properties of an image asset.
-
-
 solution: Experience Manager
 title: ImageInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

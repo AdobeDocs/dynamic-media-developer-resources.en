@@ -1,10 +1,7 @@
 ---
 description: Uploads files from specified server directories on a recurring basis.
-
-
 solution: Experience Manager
 title: UploadDirectoryJob
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

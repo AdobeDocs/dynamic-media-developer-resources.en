@@ -2,7 +2,6 @@
 description: Keywords
 solution: Experience Manager
 title: Keywords
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

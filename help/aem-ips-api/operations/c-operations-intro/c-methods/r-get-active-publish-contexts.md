@@ -1,10 +1,7 @@
 ---
 description: Gets a list of active publish contexts for the specified company. A publish context is considered active if there is at least one active server defined for the context.
-
-
 solution: Experience Manager
 title: getActivePublishContext
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

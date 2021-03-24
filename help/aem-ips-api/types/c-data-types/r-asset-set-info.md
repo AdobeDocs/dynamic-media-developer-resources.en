@@ -1,10 +1,7 @@
 ---
 description: Properties for AssetSet type assets.
-
-
 solution: Experience Manager
 title: AssetSetInfo
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

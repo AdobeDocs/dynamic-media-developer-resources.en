@@ -1,10 +1,7 @@
 ---
 description: Properties of an Adobe Illustrator file.
-
-
 solution: Experience Manager
 title: IllustratorInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

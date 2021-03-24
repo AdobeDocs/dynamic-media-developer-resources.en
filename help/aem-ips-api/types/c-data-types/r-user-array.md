@@ -1,10 +1,7 @@
 ---
 description: An array of users.
-
-
 solution: Experience Manager
 title: UserArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

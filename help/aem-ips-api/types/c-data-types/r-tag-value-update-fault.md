@@ -1,10 +1,7 @@
 ---
 description: The error thrown when a tag value update fails.
-
-
 solution: Experience Manager
 title: TagValueUpdateFault
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

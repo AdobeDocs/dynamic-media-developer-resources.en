@@ -1,10 +1,7 @@
 ---
 description: Options for Photoshop images.
-
-
 solution: Experience Manager
 title: PhotoshopOptions
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: Updates an image set.
-
-
 solution: Experience Manager
 title: updateImageSet
-
 feature: Dynamic Media Classic,SDK/API,Image Sets
 role: Developer,Administrator
 ---

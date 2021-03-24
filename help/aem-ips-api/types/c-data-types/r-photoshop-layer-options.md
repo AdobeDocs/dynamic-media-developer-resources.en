@@ -1,10 +1,7 @@
 ---
 description: Photoshop image layer options.
-
-
 solution: Experience Manager
 title: PhotoshopLayerOptions
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

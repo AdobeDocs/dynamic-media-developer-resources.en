@@ -1,10 +1,7 @@
 ---
 description: Updates asset permissions.
-
-
 solution: Experience Manager
 title: updateAssetPermissons
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

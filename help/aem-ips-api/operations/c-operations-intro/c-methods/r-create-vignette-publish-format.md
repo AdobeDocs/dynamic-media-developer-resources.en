@@ -1,10 +1,7 @@
 ---
 description: Creates a new publish format for a vignette.
-
-
 solution: Experience Manager
 title: createVignettePublishFormat
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

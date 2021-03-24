@@ -1,10 +1,7 @@
 ---
 description: Used by ActiveJob/type and ScheduledJob/type.
-
-
 solution: Experience Manager
 title: Job Types
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

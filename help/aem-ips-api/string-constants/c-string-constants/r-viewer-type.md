@@ -1,10 +1,7 @@
 ---
 description: Used by ViewerPresetInfo.
-
-
 solution: Experience Manager
 title: Viewer Type
-
 feature: Dynamic Media Classic,SDK/API,Viewer
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: Asset types and count for a company.
-
-
 solution: Experience Manager
 title: AssetCount
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

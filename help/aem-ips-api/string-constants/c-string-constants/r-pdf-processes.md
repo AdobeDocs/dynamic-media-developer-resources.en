@@ -1,10 +1,7 @@
 ---
 description: Used by PDFOptions/type.
-
-
 solution: Experience Manager
 title: PDF Processes
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

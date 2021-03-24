@@ -1,10 +1,7 @@
 ---
 description: Used by getUsersParam/sortBy.
-
-
 solution: Experience Manager
 title: User Sort Fields
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

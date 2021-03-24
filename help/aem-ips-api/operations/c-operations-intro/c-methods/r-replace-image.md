@@ -1,10 +1,7 @@
 ---
 description: Replaces image data for an image asset.
-
-
 solution: Experience Manager
 title: replaceImage
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

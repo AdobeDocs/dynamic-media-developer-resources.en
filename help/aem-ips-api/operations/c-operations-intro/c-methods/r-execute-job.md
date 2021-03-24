@@ -1,10 +1,7 @@
 ---
 description: Runs a specific job.
-
-
 solution: Experience Manager
 title: executeJob
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

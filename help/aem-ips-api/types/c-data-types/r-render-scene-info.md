@@ -1,10 +1,7 @@
 ---
 description: Render scene asset properties.
-
-
 solution: Experience Manager
 title: RenderSceneInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

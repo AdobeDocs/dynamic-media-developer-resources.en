@@ -1,10 +1,7 @@
 ---
 description: An array of ICC profile field update items.
-
-
 solution: Experience Manager
 title: IccProfileFieldUpdateArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: Deletes an asset.
-
-
 solution: Experience Manager
 title: deleteAsset
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

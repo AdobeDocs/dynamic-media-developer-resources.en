@@ -1,10 +1,7 @@
 ---
 description: Uses getActiveJobs to track desktop uploads.
-
-
 solution: Experience Manager
 title: UploadPostJob
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

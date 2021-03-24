@@ -1,10 +1,7 @@
 ---
 description: Used by JobLogDetail/logType and JobLog/logType.
-
-
 solution: Experience Manager
 title: Job Log Types
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: Returns assets from IPS.
-
-
 solution: Experience Manager
 title: getAssets
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

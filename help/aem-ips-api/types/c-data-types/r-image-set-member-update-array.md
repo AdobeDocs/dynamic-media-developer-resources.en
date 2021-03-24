@@ -1,10 +1,7 @@
 ---
 description: An array of image set member updates.
-
-
 solution: Experience Manager
 title: ImageSetMemberUpdateArray
-
 feature: Dynamic Media Classic,SDK/API,Image Sets
 role: Developer,Administrator
 ---

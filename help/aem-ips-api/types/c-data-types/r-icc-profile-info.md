@@ -1,10 +1,7 @@
 ---
 description: Properties of an ICC profile asset.
-
-
 solution: Experience Manager
 title: IccProfileInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

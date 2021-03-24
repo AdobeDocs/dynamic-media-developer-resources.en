@@ -1,10 +1,7 @@
 ---
 description: An array of publish contexts.
-
-
 solution: Experience Manager
 title: PublishContextArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

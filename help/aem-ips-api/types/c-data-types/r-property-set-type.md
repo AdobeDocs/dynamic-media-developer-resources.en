@@ -1,10 +1,7 @@
 ---
 description: Valid values for the PropertySetType and createPropertySetTypeParam fields.
-
-
 solution: Experience Manager
 title: PropertySetType
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

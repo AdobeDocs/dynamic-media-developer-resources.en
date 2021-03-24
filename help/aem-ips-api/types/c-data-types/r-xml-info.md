@@ -1,10 +1,7 @@
 ---
 description: Properties of an XML file asset.
-
-
 solution: Experience Manager
 title: XmlInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

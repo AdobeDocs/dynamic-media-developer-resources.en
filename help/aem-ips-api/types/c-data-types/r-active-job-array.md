@@ -1,10 +1,7 @@
 ---
 description: An array of active jobs.
-
-
 solution: Experience Manager
 title: ActiveJobArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

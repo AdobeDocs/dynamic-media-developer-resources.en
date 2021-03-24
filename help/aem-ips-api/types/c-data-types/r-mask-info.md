@@ -1,10 +1,7 @@
 ---
 description: Mask file properties.
-
-
 solution: Experience Manager
 title: MaskInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

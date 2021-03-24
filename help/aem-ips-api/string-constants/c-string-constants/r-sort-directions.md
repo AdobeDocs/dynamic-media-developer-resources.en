@@ -1,10 +1,7 @@
 ---
 description: Used by searchAssetsParam/sortDirection and getJobLogsParam/sortDirection.
-
-
 solution: Experience Manager
 title: Sort Directions
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

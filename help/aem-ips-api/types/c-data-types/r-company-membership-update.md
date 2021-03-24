@@ -2,7 +2,6 @@
 description: CompanyMembershipUpdate
 solution: Experience Manager
 title: CompanyMembershipUpdate
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

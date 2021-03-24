@@ -1,10 +1,7 @@
 ---
 description: Generates a new password.
-
-
 solution: Experience Manager
 title: generatePassword
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

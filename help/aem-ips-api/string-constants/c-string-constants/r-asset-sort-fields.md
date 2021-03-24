@@ -1,10 +1,7 @@
 ---
 description: Used by searchAssetsParam/sortBy.
-
-
 solution: Experience Manager
 title: Asset Sort Fields
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

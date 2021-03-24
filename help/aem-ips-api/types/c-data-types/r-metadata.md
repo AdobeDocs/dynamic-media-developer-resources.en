@@ -1,10 +1,7 @@
 ---
 description: A metadata field returned by searchAssets.
-
-
 solution: Experience Manager
 title: Metadata
-
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
 ---

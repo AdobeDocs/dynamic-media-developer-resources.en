@@ -1,10 +1,7 @@
 ---
 description: Properties of a JavaScript file asset.
-
-
 solution: Experience Manager
 title: JavascriptInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

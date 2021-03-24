@@ -1,10 +1,7 @@
 ---
 description: An object or container in the folder hierarchy.
-
-
 solution: Experience Manager
 title: Asset
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

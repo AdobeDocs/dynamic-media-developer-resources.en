@@ -1,10 +1,7 @@
 ---
 description: Properties of an ACO asset.
-
-
 solution: Experience Manager
 title: AcoInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

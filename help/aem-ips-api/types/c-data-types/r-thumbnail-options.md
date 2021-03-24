@@ -1,10 +1,7 @@
 ---
 description: An optional type that lets you choose a particular video frame to use as the thumbnail image.
-
-
 solution: Experience Manager
 title: ThumbnailOptions
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

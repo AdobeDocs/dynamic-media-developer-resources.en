@@ -1,10 +1,7 @@
 ---
 description: Zoom target definition.
-
-
 solution: Experience Manager
 title: ZoomTargetDefinition
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

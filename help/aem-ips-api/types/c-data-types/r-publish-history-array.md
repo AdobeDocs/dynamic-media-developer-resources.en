@@ -1,10 +1,7 @@
 ---
 description: An array of publish histories.
-
-
 solution: Experience Manager
 title: PublishHistoryArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

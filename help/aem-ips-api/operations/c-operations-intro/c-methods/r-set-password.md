@@ -1,10 +1,7 @@
 ---
 description: Sets the password of a specific user or the default user to a specific value, depending on whether you specify a user handle.
-
-
 solution: Experience Manager
 title: setPassword
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

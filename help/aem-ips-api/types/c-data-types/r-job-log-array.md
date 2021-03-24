@@ -1,10 +1,7 @@
 ---
 description: An array of job logs.
-
-
 solution: Experience Manager
 title: JobLogArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

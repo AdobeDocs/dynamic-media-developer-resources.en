@@ -1,10 +1,7 @@
 ---
 description: Supports byproduct filtering in the searchAssets operation.
-
-
 solution: Experience Manager
 title: ExcludeByproductArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

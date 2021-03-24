@@ -1,10 +1,7 @@
 ---
 description: Properties of an RTF file asset.
-
-
 solution: Experience Manager
 title: RTFInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

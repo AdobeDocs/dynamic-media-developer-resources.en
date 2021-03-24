@@ -1,10 +1,7 @@
 ---
 description: Job type to allow authorized export of previously uploaded files.
-
-
 solution: Experience Manager
 title: ExportJob
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

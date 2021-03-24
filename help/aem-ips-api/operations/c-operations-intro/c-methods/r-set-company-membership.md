@@ -1,10 +1,7 @@
 ---
 description: Sets a user’s membership in one or more companies.
-
-
 solution: Experience Manager
 title: setCompanyMembership
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

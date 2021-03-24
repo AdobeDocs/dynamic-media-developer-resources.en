@@ -1,10 +1,7 @@
 ---
 description: Properties of a watermark asset.
-
-
 solution: Experience Manager
 title: WatermarkInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

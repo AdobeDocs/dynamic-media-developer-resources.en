@@ -1,10 +1,7 @@
 ---
 description: An metadata updates for thumb assets.
-
-
 solution: Experience Manager
 title: ThumbAssetUpdateArray
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

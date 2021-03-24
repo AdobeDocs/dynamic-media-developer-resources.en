@@ -1,10 +1,7 @@
 ---
 description: An array of properties.
-
-
 solution: Experience Manager
 title: PropertyArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

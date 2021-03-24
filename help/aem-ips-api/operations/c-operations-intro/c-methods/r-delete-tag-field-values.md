@@ -1,10 +1,7 @@
 ---
 description: Removes tag field values from the dictionary of a tag field.
-
-
 solution: Experience Manager
 title: deleteTagFieldValues
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

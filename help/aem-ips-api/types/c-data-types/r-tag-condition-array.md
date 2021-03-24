@@ -1,10 +1,7 @@
 ---
 description: An array of tag conditions.
-
-
 solution: Experience Manager
 title: TagConditionArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

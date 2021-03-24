@@ -1,10 +1,7 @@
 ---
 description: PDF file properties.
-
-
 solution: Experience Manager
 title: PdfInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

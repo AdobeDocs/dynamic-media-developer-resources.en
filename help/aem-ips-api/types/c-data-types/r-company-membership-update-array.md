@@ -2,7 +2,6 @@
 description: CompanyMembershipUpdateArray
 solution: Experience Manager
 title: CompanyMembershipUpdateArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

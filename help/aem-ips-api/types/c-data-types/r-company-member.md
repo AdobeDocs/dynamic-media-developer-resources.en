@@ -1,10 +1,7 @@
 ---
 description: Describes the different companies a user belongs to.
-
-
 solution: Experience Manager
 title: CompanyMember
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

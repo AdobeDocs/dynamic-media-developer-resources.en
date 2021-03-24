@@ -1,10 +1,7 @@
 ---
 description: Used by IccProfileFieldUpdate/class.
-
-
 solution: Experience Manager
 title: Profile Classes
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

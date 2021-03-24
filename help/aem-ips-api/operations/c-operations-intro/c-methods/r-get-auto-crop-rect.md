@@ -1,10 +1,7 @@
 ---
 description: Returns a cropped region for an image based on its background color or transparency.
-
-
 solution: Experience Manager
 title: getAutoCropRect
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

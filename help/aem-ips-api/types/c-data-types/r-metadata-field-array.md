@@ -1,10 +1,7 @@
 ---
 description: An array of metadata fields
-
-
 solution: Experience Manager
 title: MetadataFieldArray
-
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
 ---

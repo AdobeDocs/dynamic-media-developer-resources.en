@@ -1,10 +1,7 @@
 ---
 description: Update information for font properties.
-
-
 solution: Experience Manager
 title: FontFieldUpdate
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

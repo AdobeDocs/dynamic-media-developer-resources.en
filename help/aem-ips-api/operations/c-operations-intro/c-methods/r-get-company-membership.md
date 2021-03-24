@@ -1,10 +1,7 @@
 ---
 description: Gets a user’s memberships in a company array.
-
-
 solution: Experience Manager
 title: getCompanyMembership
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

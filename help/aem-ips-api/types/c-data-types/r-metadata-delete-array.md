@@ -1,10 +1,7 @@
 ---
 description: An array of metadata to delete from the asset.
-
-
 solution: Experience Manager
 title: MetadataDeleteArray
-
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
 ---

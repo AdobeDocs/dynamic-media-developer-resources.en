@@ -1,10 +1,7 @@
 ---
 description: Type and value for a property set.
-
-
 solution: Experience Manager
 title: PropertySet
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

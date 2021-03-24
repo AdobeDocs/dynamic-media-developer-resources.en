@@ -1,10 +1,7 @@
 ---
 description: Used by ColorManagementOptions/colorManagement.
-
-
 solution: Experience Manager
 title: Color Management Modes
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

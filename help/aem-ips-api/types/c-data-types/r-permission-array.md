@@ -1,10 +1,7 @@
 ---
 description: An array of permissions.
-
-
 solution: Experience Manager
 title: PermissionArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

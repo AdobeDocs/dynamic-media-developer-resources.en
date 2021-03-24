@@ -2,7 +2,6 @@
 description: PermissionSetArray
 solution: Experience Manager
 title: PermissionSetArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

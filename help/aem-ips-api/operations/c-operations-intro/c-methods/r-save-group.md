@@ -1,10 +1,7 @@
 ---
 description: Create or edit a group.
-
-
 solution: Experience Manager
 title: saveGroup
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

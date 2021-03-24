@@ -1,10 +1,7 @@
 ---
 description: A handle to an asset and the handle to where it will be moved.
-
-
 solution: Experience Manager
 title: AssetMove
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

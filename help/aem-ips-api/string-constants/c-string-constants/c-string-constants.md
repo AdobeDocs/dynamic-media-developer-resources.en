@@ -2,7 +2,6 @@
 description: String constants
 solution: Experience Manager
 title: String constants
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

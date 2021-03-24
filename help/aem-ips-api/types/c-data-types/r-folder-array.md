@@ -1,10 +1,7 @@
 ---
 description: An array of folders.
-
-
 solution: Experience Manager
 title: FolderArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: For internal use only. Users should refer to the Image Serving Image Catalog Reference – Attribute Reference section.
-
-
 solution: Experience Manager
 title: getImageServingPublishSettings
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

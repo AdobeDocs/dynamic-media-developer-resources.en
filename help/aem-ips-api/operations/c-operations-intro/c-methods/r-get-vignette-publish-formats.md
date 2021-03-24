@@ -2,7 +2,6 @@
 description: getVignettePublishFormats
 solution: Experience Manager
 title: getVignettePublishFormats
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

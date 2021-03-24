@@ -1,10 +1,7 @@
 ---
 description: Used by SystemFieldCondition/op and MetadataCondition/op.
-
-
 solution: Experience Manager
 title: String Comparison Operators
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

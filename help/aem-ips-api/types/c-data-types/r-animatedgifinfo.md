@@ -1,10 +1,7 @@
 ---
 description: Properties of an Animated GIF file asset.
-
-
 solution: Experience Manager
 title: AnimatedGifInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: Returns all folders and subfolders, starting at the folder path. The getFolders response returns a maximum of 100,000 folders.
-
-
 solution: Experience Manager
 title: getFolders
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

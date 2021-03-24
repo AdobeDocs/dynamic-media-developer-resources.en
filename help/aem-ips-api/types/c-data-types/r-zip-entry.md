@@ -1,10 +1,7 @@
 ---
 description: An entry in a ZIP file.
-
-
 solution: Experience Manager
 title: ZipEntry
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

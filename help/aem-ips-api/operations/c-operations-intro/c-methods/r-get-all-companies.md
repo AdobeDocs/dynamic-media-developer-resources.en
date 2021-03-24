@@ -1,10 +1,7 @@
 ---
 description: Returns an array of all companies.
-
-
 solution: Experience Manager
 title: getAllCompanies
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

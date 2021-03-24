@@ -1,10 +1,7 @@
 ---
 description: Gets assets associated with a specified asset and details about their relationship.
-
-
 solution: Experience Manager
 title: getAssociatedAssets
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

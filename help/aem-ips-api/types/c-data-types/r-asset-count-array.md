@@ -1,10 +1,7 @@
 ---
 description: An array of asset counts.
-
-
 solution: Experience Manager
 title: AssetCountArray
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---
