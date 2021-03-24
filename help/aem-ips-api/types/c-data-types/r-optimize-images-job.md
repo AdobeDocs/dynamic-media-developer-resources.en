@@ -1,10 +1,7 @@
 ---
 description: Details for an optimize images job.
-
-
 solution: Experience Manager
 title: OptimizeImagesJob
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

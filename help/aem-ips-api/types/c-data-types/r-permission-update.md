@@ -1,10 +1,7 @@
 ---
 description: Describes permission changes.
-
-
 solution: Experience Manager
 title: PermissionUpdate
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: Gets jobs scheduled to run.
-
-
 solution: Experience Manager
 title: getScheduledJobs
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

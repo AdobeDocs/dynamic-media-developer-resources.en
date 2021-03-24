@@ -1,10 +1,7 @@
 ---
 description: Uploads URLs from the location where you want to get files.
-
-
 solution: Experience Manager
 title: UploadUrlsJob
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

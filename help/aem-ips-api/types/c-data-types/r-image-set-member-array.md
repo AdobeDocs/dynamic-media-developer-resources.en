@@ -1,10 +1,7 @@
 ---
 description: An array of image set members.
-
-
 solution: Experience Manager
 title: ImageSetMemberArray
-
 feature: Dynamic Media Classic,SDK/API,Image Sets
 role: Developer,Administrator
 ---

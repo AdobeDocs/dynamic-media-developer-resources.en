@@ -1,10 +1,7 @@
 ---
 description: Maps an asset to the PublishContexts in which an asset is marked for publication.
-
-
 solution: Experience Manager
 title: AssetPublishContexts
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: Properties of a ZIP archive asset.
-
-
 solution: Experience Manager
 title: ZipInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

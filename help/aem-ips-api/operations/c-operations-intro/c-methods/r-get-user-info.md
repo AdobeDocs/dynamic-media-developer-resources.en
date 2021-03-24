@@ -1,10 +1,7 @@
 ---
 description: Gets information about a user. Use the email address and the password of a system user as credentials for authorizing the request. Otherwise, the operation gets information about the default user.
-
-
 solution: Experience Manager
 title: getUserInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

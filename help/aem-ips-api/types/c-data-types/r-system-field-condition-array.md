@@ -1,10 +1,7 @@
 ---
 description: An system field condition array.
-
-
 solution: Experience Manager
 title: SystemFieldConditionArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

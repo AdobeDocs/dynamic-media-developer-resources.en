@@ -1,10 +1,7 @@
 ---
 description: Properties of a Flash file.
-
-
 solution: Experience Manager
 title: FlashInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

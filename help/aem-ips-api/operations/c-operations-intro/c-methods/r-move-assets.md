@@ -1,10 +1,7 @@
 ---
 description: Moves multiple assets independently of each other. It accomplishes this using the AssetMove type contained in the assetMoveArray. Each AssetMove field contains a destination folder.
-
-
 solution: Experience Manager
 title: moveAssets
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

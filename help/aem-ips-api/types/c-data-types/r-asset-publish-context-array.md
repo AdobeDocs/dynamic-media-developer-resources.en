@@ -2,7 +2,6 @@
 description: AssetPublishContextArray
 solution: Experience Manager
 title: AssetPublishContextArray
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

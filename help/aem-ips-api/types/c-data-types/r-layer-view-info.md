@@ -1,10 +1,7 @@
 ---
 description: Layer view properties.
-
-
 solution: Experience Manager
 title: LayerViewInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

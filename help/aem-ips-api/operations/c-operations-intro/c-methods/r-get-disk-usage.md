@@ -1,10 +1,7 @@
 ---
 description: Returns information about a company's structure (number of files, etc.).
-
-
 solution: Experience Manager
 title: getDiskUsage
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

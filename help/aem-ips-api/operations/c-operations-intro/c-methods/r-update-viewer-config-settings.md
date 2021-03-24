@@ -1,10 +1,7 @@
 ---
 description: Updates SWF viewer configuration settings.
-
-
 solution: Experience Manager
 title: updateViewerConfigSettings
-
 feature: Dynamic Media Classic,SDK/API,Viewer Presets
 role: Developer,Administrator
 ---

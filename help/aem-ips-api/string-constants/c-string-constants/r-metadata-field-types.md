@@ -1,10 +1,7 @@
 ---
 description: Used by MetadataField/type, saveMetadataFieldParam/fieldType, and createMetadataField/fieldType.
-
-
 solution: Experience Manager
 title: Metadata Field Types
-
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
 ---

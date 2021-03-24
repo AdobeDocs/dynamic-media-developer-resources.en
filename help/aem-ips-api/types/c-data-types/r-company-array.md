@@ -1,10 +1,7 @@
 ---
 description: An array of companies
-
-
 solution: Experience Manager
 title: CompanyArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

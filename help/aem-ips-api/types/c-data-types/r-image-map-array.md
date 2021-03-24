@@ -1,10 +1,7 @@
 ---
 description: An array of image maps.
-
-
 solution: Experience Manager
 title: ImageMapArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

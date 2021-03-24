@@ -1,10 +1,7 @@
 ---
 description: An array of scheduled jobs.
-
-
 solution: Experience Manager
 title: ScheduledJobArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

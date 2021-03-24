@@ -1,10 +1,7 @@
 ---
 description: An array of metadata updates.
-
-
 solution: Experience Manager
 title: MetadataUpdateArray
-
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
 ---

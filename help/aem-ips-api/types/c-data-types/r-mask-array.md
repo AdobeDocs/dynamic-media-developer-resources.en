@@ -1,10 +1,7 @@
 ---
 description: An array of masks.
-
-
 solution: Experience Manager
 title: MaskArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

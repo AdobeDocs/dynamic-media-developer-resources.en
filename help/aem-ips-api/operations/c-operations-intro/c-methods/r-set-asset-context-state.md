@@ -1,10 +1,7 @@
 ---
 description: Set or update the publish state for one or more assets. You can set separate publish states for each publish context in a company.
-
-
 solution: Experience Manager
 title: setAssetsContextState
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

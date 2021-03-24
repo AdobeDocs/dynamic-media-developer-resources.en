@@ -1,10 +1,7 @@
 ---
 description: Parameters used to update the publish state of an asset.
-
-
 solution: Experience Manager
 title: PublishStateUpdate
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

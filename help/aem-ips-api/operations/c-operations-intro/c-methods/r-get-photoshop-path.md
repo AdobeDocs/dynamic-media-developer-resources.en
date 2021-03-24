@@ -1,10 +1,7 @@
 ---
 description: Returns coordinates for the quadrilateral enclosing the named Photoshop path.
-
-
 solution: Experience Manager
 title: getPhotoshopPath
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

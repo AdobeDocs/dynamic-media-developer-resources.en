@@ -1,10 +1,7 @@
 ---
 description: Defines old and new tag field values.
-
-
 solution: Experience Manager
 title: TagValueUpdate
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

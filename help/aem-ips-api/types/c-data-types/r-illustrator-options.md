@@ -1,10 +1,7 @@
 ---
 description: Options for an Adobe Illustrator file.
-
-
 solution: Experience Manager
 title: IllustratorOptions
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

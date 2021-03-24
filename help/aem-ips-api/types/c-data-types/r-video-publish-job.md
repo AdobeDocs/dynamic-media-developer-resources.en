@@ -1,10 +1,7 @@
 ---
 description: Publishes files to the configured video publish servers.
-
-
 solution: Experience Manager
 title: VideoPublishJob
-
 feature: Dynamic Media Classic,SDK/API,Video
 role: Developer,Administrator
 ---

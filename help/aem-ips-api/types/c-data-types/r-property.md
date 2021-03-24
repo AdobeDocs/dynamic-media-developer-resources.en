@@ -1,10 +1,7 @@
 ---
 description: A name and value pair.
-
-
 solution: Experience Manager
 title: Property
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

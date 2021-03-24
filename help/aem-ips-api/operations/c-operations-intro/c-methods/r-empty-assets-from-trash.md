@@ -1,10 +1,7 @@
 ---
 description: Empties assets from the IPS trash.
-
-
 solution: Experience Manager
 title: emptyAssetsFromTrash
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

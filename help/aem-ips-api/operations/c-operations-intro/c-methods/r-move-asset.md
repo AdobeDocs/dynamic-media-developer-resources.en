@@ -1,10 +1,7 @@
 ---
 description: Moves an asset to a specific folder.
-
-
 solution: Experience Manager
 title: moveAsset
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

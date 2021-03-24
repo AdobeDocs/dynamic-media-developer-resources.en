@@ -1,10 +1,7 @@
 ---
 description: An array of MediaPortal events.
-
-
 solution: Experience Manager
 title: MPEventArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: Move a folder to a new location.
-
-
 solution: Experience Manager
 title: moveFolder
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

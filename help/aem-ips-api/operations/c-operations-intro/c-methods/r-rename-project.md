@@ -1,10 +1,7 @@
 ---
 description: Renames a project.
-
-
 solution: Experience Manager
 title: renameProject
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

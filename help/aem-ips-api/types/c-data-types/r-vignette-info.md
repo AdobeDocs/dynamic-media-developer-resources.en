@@ -1,10 +1,7 @@
 ---
 description: Properties of a vignette asset.
-
-
 solution: Experience Manager
 title: VignetteInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

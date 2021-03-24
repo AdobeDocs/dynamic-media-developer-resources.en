@@ -1,10 +1,7 @@
 ---
 description: Warning or error details for a sing update in a batchSetAssetMetadata operation.
-
-
 solution: Experience Manager
 title: SetMetadataFault
-
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
 ---

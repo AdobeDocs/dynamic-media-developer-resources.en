@@ -1,10 +1,7 @@
 ---
 description: A job that is scheduled to run.
-
-
 solution: Experience Manager
 title: ScheduledJob
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

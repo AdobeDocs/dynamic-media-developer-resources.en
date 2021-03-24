@@ -1,10 +1,7 @@
 ---
 description: Update field metadata.
-
-
 solution: Experience Manager
 title: updateMetadataField
-
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
 ---

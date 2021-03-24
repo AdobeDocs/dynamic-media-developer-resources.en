@@ -1,10 +1,7 @@
 ---
 description: Deletes a zoom target.
-
-
 solution: Experience Manager
 title: deleteZoomTarget
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: Deletes a company's metadata field.
-
-
 solution: Experience Manager
 title: deleteMetadataField
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

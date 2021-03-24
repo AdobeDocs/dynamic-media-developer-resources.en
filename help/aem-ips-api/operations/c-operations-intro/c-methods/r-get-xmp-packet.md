@@ -1,10 +1,7 @@
 ---
 description: Retrieves an XMP Metadata packet for the specified asset.
-
-
 solution: Experience Manager
 title: getXMPPacket
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

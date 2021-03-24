@@ -1,10 +1,7 @@
 ---
 description: Image location coordinates returned by the getPhotoshopPath operation.
-
-
 solution: Experience Manager
 title: PerspectiveQuad
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: Renames an asset.
-
-
 solution: Experience Manager
 title: renameAsset
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

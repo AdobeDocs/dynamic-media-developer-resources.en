@@ -1,10 +1,7 @@
 ---
 description: Contains supplementary messages associated with the main job log message (JobDetail). Includes warnings and other details associated with the currently processed asset.
-
-
 solution: Experience Manager
 title: JobLogDetailAux
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

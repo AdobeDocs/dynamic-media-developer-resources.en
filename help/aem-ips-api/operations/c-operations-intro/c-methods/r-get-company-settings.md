@@ -1,10 +1,7 @@
 ---
 description: Returns IPS settings for a specific company.
-
-
 solution: Experience Manager
 title: getCompanySettings
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

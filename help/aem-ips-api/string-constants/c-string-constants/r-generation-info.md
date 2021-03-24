@@ -1,10 +1,7 @@
 ---
 description: Used by getGenerationInfo/engine.
-
-
 solution: Experience Manager
 title: Generation Info
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

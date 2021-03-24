@@ -1,10 +1,7 @@
 ---
 description: Gets string values of system properties related to Image Portal.
-
-
 solution: Experience Manager
 title: getProperty
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

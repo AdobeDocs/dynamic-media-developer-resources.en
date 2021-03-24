@@ -1,10 +1,7 @@
 ---
 description: Masks part of an image. The mask is always associated with the image. Get a mask from ImageInfo.
-
-
 solution: Experience Manager
 title: Mask
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

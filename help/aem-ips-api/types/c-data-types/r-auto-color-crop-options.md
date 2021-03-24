@@ -1,10 +1,7 @@
 ---
 description: Options for automatically cropping images based on color.
-
-
 solution: Experience Manager
 title: AutoColorCropOptions
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

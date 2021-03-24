@@ -1,10 +1,7 @@
 ---
 description: An array of batch metadata updates.
-
-
 solution: Experience Manager
 title: BatchMetadataUpdateArray
-
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
 ---

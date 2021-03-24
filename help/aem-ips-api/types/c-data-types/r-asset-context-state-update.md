@@ -1,10 +1,7 @@
 ---
 description: Set a new set of publish state flags for the publish context associated with an asset.
-
-
 solution: Experience Manager
 title: AssetContextStateUpdate
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: Sets the Image Serving or Image Rendering protocol commands for the specified asset. These commands modify the representation of the asset without destroying it.
-
-
 solution: Experience Manager
 title: setUrlModifier
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

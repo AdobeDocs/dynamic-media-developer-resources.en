@@ -1,10 +1,7 @@
 ---
 description: An array of URLS for invalidating CDN cache.
-
-
 solution: Experience Manager
 title: UrlArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

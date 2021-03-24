@@ -1,10 +1,7 @@
 ---
 description: Update folder permissions.
-
-
 solution: Experience Manager
 title: updateFolderPermissions
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

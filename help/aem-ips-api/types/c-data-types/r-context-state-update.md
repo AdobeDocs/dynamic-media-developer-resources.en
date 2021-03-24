@@ -1,10 +1,7 @@
 ---
 description: Updates publish context state for an asset.
-
-
 solution: Experience Manager
 title: ContextStateUpdate
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

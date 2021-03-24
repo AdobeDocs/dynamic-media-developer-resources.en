@@ -1,10 +1,7 @@
 ---
 description: Filters that help you define search criteria to make searches more efficient.
-
-
 solution: Experience Manager
 title: SearchFilter
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

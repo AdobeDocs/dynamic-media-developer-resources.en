@@ -1,10 +1,7 @@
 ---
 description: InDesign file properties.
-
-
 solution: Experience Manager
 title: InDesignInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

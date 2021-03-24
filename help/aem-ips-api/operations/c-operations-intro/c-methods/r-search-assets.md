@@ -1,10 +1,7 @@
 ---
 description: Search for assets based on your specified criteria.
-
-
 solution: Experience Manager
 title: searchAssets
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: Publishes all the images, templates, and spin sets that are marked ready to publish to a server directory.
-
-
 solution: Experience Manager
 title: ServerDirectoryPublishJob
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

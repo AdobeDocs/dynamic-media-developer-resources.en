@@ -1,10 +1,7 @@
 ---
 description: Deletes an image format. Get the image format handle from saveImageFormat.
-
-
 solution: Experience Manager
 title: deleteImageFormat
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

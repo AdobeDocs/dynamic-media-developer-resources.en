@@ -1,10 +1,7 @@
 ---
 description: Gets a list of the characters used in a particular field.
-
-
 solution: Experience Manager
 title: getUserChars
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

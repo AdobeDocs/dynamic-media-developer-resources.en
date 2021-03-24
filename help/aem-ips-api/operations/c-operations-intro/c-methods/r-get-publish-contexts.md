@@ -2,7 +2,6 @@
 description: getPublishContexts
 solution: Experience Manager
 title: getPublishContexts
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

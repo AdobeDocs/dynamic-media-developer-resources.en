@@ -1,10 +1,7 @@
 ---
 description: Group files into sets using an asset handle list array.
-
-
 solution: Experience Manager
 title: AutomatedSetGenerationJob
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

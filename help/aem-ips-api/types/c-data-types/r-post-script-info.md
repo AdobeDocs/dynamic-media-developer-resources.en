@@ -2,7 +2,6 @@
 description: PostScriptInfo
 solution: Experience Manager
 title: PostScriptInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

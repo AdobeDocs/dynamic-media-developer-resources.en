@@ -1,10 +1,7 @@
 ---
 description: Properties of an CSS file asset.
-
-
 solution: Experience Manager
 title: CssInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

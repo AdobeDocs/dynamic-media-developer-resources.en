@@ -1,10 +1,7 @@
 ---
 description: An array of search strings.
-
-
 solution: Experience Manager
 title: SearchStringsArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

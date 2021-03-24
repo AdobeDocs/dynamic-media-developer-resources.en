@@ -1,10 +1,7 @@
 ---
 description: A MediaPortal event.
-
-
 solution: Experience Manager
 title: MPEvent
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

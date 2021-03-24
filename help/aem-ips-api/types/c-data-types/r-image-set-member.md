@@ -1,10 +1,7 @@
 ---
 description: Assets that belong to an image set.
-
-
 solution: Experience Manager
 title: ImageSetMember
-
 feature: Dynamic Media Classic,SDK/API,Image Sets
 role: Developer,Administrator
 ---

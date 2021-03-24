@@ -1,10 +1,7 @@
 ---
 description: Used by IccProfileFieldUpdate/colorSpace and IccProfileFieldUpdate/pcsType.
-
-
 solution: Experience Manager
 title: Color Spaces
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

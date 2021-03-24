@@ -1,10 +1,7 @@
 ---
 description: Properties of a Microsoft Excel file.
-
-
 solution: Experience Manager
 title: ExcelInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

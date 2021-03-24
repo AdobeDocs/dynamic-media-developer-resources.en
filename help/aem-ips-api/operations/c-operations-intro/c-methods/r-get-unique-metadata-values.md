@@ -1,10 +1,7 @@
 ---
 description: Gets unique metadata field values.
-
-
 solution: Experience Manager
 title: getUniqueMetadataValues
-
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
 ---

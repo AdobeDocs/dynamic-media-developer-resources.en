@@ -1,10 +1,7 @@
 ---
 description: Sets group membership for a user.
-
-
 solution: Experience Manager
 title: setGroupMembership
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

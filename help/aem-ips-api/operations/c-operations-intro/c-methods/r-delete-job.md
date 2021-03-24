@@ -1,10 +1,7 @@
 ---
 description: Deletes a current or scheduled job.
-
-
 solution: Experience Manager
 title: deleteJob
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

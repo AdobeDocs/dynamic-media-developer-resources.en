@@ -1,10 +1,7 @@
 ---
 description: Used by getUsersParam and getUserCharsParam/charField.
-
-
 solution: Experience Manager
 title: User Char Filter Fields
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: Removes company users from a specific group.
-
-
 solution: Experience Manager
 title: removeGroupMembers
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

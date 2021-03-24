@@ -1,10 +1,7 @@
 ---
 description: Gets the user-defined metadata fields associated with an asset.
-
-
 solution: Experience Manager
 title: getMetadataFields
-
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
 ---

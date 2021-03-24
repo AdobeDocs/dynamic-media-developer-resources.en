@@ -1,10 +1,7 @@
 ---
 description: A user of resources and types in the system.
-
-
 solution: Experience Manager
 title: User
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

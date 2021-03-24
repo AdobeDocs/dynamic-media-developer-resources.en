@@ -1,10 +1,7 @@
 ---
 description: Photoshop file properties.
-
-
 solution: Experience Manager
 title: PsdInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

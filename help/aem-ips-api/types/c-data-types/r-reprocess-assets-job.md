@@ -1,10 +1,7 @@
 ---
 description: Job type to allow reprocessing of previously uploaded primary files, including reripping PDFs and reoptimizing images.
-
-
 solution: Experience Manager
 title: ReprocessAssetsJob
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: Returns information about the specified company including the company handle, the company name, the root path, and the expiration date. You must specify either companyHandle or companyName whose information you want to retrieve.
-
-
 solution: Experience Manager
 title: getCompanyInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

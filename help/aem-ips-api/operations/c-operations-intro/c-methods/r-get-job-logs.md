@@ -1,10 +1,7 @@
 ---
 description: Gets specified job logs for the selected company. You can sort by characters, direction, start and end dates, and number of rows.
-
-
 solution: Experience Manager
 title: getJobLogs
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: Attaches viewer configuration settings to an asset. These can be a viewer preset or the source asset for the viewer.
-
-
 solution: Experience Manager
 title: setViewerConfigSettings
-
 feature: Dynamic Media Classic,SDK/API,Viewer Presets
 role: Developer,Administrator
 ---

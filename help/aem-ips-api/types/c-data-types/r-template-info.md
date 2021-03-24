@@ -1,10 +1,7 @@
 ---
 description: The properties of a template asset.
-
-
 solution: Experience Manager
 title: TemplateInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

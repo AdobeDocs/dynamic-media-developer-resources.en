@@ -1,10 +1,7 @@
 ---
 description: Video asset properties.
-
-
 solution: Experience Manager
 title: VideoInfo
-
 feature: Dynamic Media Classic,SDK/API,Video
 role: Developer,Administrator
 ---

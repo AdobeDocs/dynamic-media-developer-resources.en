@@ -1,10 +1,7 @@
 ---
 description: Array of asset job logs.
-
-
 solution: Experience Manager
 title: AssetJobLogArray
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

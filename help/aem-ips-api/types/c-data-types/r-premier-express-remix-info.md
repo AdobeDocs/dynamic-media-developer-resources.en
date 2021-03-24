@@ -1,10 +1,7 @@
 ---
 description: Properties of a PremierExpressRemix file asset.
-
-
 solution: Experience Manager
 title: PremierExpressRemixInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

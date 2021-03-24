@@ -1,10 +1,7 @@
 ---
 description: Set of named assets.
-
-
 solution: Experience Manager
 title: Project
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

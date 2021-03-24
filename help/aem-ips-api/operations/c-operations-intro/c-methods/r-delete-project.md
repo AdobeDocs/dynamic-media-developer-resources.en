@@ -1,10 +1,7 @@
 ---
 description: Deletes a project from a company. The links between the assets and the project are broken, but the assets are not deleted from IPS.
-
-
 solution: Experience Manager
 title: deleteProject
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

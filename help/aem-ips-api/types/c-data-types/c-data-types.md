@@ -2,7 +2,6 @@
 description: Data types
 solution: Experience Manager
 title: Data types
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

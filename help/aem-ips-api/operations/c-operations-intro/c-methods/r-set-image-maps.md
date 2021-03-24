@@ -1,10 +1,7 @@
 ---
 description: Sets the image map for an asset.
-
-
 solution: Experience Manager
 title: setImageMaps
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

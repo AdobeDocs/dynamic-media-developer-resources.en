@@ -1,10 +1,7 @@
 ---
 description: Used by ScheduledJob/triggerState.
-
-
 solution: Experience Manager
 title: Job Trigger States
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

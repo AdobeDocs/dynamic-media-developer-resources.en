@@ -1,10 +1,7 @@
 ---
 description: Resets the publish status for one or more assets to force the asset to be republished in the next publish job.
-
-
 solution: Experience Manager
 title: forceRepublishAssets
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

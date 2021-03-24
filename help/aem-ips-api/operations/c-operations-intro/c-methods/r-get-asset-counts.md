@@ -1,10 +1,7 @@
 ---
 description: Gets the assets and the number of assets associated with a specific company.
-
-
 solution: Experience Manager
 title: getAssetCounts
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

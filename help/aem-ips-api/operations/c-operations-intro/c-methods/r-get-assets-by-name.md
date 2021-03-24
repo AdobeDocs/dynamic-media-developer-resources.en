@@ -1,10 +1,7 @@
 ---
 description: Returns assets based on an array of asset names.
-
-
 solution: Experience Manager
 title: getAssetsByName
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

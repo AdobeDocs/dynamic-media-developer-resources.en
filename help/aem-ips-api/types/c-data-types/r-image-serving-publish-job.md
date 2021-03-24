@@ -1,10 +1,7 @@
 ---
 description: Publishes files to the image servers.
-
-
 solution: Experience Manager
 title: ImageServingPublishJob
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

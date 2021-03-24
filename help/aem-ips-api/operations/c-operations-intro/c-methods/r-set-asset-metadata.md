@@ -1,10 +1,7 @@
 ---
 description: Sets metadata values for an asset. Works with an array of metadata updates to set values in a batch.
-
-
 solution: Experience Manager
 title: setAssetMetadata
-
 feature: Dynamic Media Classic,SDK/API,Metadata,Asset Management
 role: Developer,Administrator
 ---

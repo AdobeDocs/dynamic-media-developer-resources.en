@@ -1,10 +1,7 @@
 ---
 description: Used by Illustrator/processes.
-
-
 solution: Experience Manager
 title: Illustrator Processes
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

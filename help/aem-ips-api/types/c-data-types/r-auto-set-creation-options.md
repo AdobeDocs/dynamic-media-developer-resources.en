@@ -1,10 +1,7 @@
 ---
 description: Automatic set generation script list for upload jobs. Assumes that every script specified for the upload is applied to all uploaded assets.
-
-
 solution: Experience Manager
 title: AutoSetCreationOptions
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

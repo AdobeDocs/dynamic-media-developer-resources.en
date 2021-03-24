@@ -1,10 +1,7 @@
 ---
 description: PowerPoint file options.
-
-
 solution: Experience Manager
 title: PowerPointInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

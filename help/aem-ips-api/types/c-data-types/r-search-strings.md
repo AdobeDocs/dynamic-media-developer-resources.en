@@ -1,10 +1,7 @@
 ---
 description: Search string record extracted from a PDF file.
-
-
 solution: Experience Manager
 title: SearchStrings
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: Deletes a group.
-
-
 solution: Experience Manager
 title: deleteGroup
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

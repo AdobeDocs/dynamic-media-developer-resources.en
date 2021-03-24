@@ -1,10 +1,7 @@
 ---
 description: Restores assets from trash.
-
-
 solution: Experience Manager
 title: restoreAssetsFromTrash
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

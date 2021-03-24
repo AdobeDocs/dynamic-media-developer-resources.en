@@ -1,10 +1,7 @@
 ---
 description: The properties of a PDF settings file asset.
-
-
 solution: Experience Manager
 title: PdfSettingsInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

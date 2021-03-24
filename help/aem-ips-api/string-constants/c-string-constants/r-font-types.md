@@ -1,10 +1,7 @@
 ---
 description: Used by FontFieldUpdate/type.
-
-
 solution: Experience Manager
 title: Font Types
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

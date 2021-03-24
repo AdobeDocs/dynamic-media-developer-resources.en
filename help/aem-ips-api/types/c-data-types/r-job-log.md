@@ -1,10 +1,7 @@
 ---
 description: The job log after the job has run.
-
-
 solution: Experience Manager
 title: JobLog
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

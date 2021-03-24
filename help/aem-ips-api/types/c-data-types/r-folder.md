@@ -1,10 +1,7 @@
 ---
 description: Hierarchical file or asset storage object. Folders can contain one (or more) subfolders.
-
-
 solution: Experience Manager
 title: Folder
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

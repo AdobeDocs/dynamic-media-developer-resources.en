@@ -1,10 +1,7 @@
 ---
 description: Array of groups.
-
-
 solution: Experience Manager
 title: GroupArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

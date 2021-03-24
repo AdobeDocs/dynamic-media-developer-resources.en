@@ -1,10 +1,7 @@
 ---
 description: Used by getActivePublishContextsReturn/publishContext.
-
-
 solution: Experience Manager
 title: Publish Context
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

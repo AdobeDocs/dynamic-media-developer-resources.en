@@ -1,10 +1,7 @@
 ---
 description: An array of disk usage.
-
-
 solution: Experience Manager
 title: DiskUsageArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

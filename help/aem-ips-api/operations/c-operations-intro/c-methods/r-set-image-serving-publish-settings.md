@@ -1,10 +1,7 @@
 ---
 description: For Scene 7 developers only. Refer to the Image Rendering Material Catalog Reference–Catalog Attributes section.
-
-
 solution: Experience Manager
 title: setImageServingPublishSettings
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

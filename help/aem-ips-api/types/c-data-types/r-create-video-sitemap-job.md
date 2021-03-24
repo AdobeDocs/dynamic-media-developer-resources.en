@@ -1,10 +1,7 @@
 ---
 description: Creates a video site map.
-
-
 solution: Experience Manager
 title: CreateVideoSitemapJob
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: Deletes a vignette publish format.
-
-
 solution: Experience Manager
 title: deleteVignettePublishFormat
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: Gets the property set types associated with the specified company, or global property set types if no company is specified.
-
-
 solution: Experience Manager
 title: getPropertySetTypes
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

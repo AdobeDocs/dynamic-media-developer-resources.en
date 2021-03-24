@@ -1,10 +1,7 @@
 ---
 description: Removes users from an array of groups.
-
-
 solution: Experience Manager
 title: removeGroupMembership
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

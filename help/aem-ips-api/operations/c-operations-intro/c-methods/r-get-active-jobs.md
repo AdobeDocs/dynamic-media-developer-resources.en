@@ -1,10 +1,7 @@
 ---
 description: Gets all currently active jobs.
-
-
 solution: Experience Manager
 title: getActiveJobs
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

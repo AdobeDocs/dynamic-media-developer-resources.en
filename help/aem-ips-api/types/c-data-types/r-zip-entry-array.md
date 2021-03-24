@@ -1,10 +1,7 @@
 ---
 description: An array of ZIP entries.
-
-
 solution: Experience Manager
 title: ZipEntryArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

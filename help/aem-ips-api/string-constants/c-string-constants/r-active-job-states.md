@@ -1,10 +1,7 @@
 ---
 description: Used by ActiveJobs/state.
-
-
 solution: Experience Manager
 title: Active Job States
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

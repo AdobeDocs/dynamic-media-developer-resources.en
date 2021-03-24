@@ -1,10 +1,7 @@
 ---
 description: Restarts a paused job.
-
-
 solution: Experience Manager
 title: resumeJob
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

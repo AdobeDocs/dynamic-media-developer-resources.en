@@ -1,10 +1,7 @@
 ---
 description: Used by searchAssetReturn/trashState.
-
-
 solution: Experience Manager
 title: Trash State
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

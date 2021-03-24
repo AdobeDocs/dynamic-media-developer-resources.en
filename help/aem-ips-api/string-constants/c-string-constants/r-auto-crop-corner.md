@@ -1,10 +1,7 @@
 ---
 description: Used by AutoCropColorOptions/corner.
-
-
 solution: Experience Manager
 title: AutoCrop Corner
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

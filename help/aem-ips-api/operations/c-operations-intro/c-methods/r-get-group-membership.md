@@ -1,10 +1,7 @@
 ---
 description: Returns the members of a group.
-
-
 solution: Experience Manager
 title: getGroupMembership
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

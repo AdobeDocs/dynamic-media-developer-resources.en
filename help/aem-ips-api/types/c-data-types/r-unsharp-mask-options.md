@@ -1,10 +1,7 @@
 ---
 description: Settings that help improve image sharpness for optimized pyramid TIF files.
-
-
 solution: Experience Manager
 title: UnsharpMaskOptions
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

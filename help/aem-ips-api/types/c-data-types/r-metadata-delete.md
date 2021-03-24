@@ -1,10 +1,7 @@
 ---
 description: Metadata to delete from the asset.
-
-
 solution: Experience Manager
 title: MetadataDelete
-
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
 ---

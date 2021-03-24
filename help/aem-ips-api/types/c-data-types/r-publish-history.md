@@ -1,10 +1,7 @@
 ---
 description: Publication history of an asset.
-
-
 solution: Experience Manager
 title: PublishHistory
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: Gets the original file paths of a company’s assets.
-
-
 solution: Experience Manager
 title: getOriginalFilePaths
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

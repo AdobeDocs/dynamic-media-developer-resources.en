@@ -1,10 +1,7 @@
 ---
 description: Returns an array of Photoshop path names for the given image.
-
-
 solution: Experience Manager
 title: getPhotoshopPathNames
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

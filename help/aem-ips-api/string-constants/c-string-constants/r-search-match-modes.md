@@ -1,10 +1,7 @@
 ---
 description: Used by searchAssetsParam/conditionMatchMode, searchAssetsParam/systemFieldMatchMode, and searchAssetsParam/metadataMatchMode.
-
-
 solution: Experience Manager
 title: Search Match Modes
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

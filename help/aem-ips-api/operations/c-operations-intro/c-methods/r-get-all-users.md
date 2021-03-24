@@ -1,10 +1,7 @@
 ---
 description: Gets all users in an array.
-
-
 solution: Experience Manager
 title: getAllUsers
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

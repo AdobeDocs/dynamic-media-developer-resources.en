@@ -1,10 +1,7 @@
 ---
 description: Returns image formats, such as PDF, EPS, SWF, and others.
-
-
 solution: Experience Manager
 title: getImageFormats
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

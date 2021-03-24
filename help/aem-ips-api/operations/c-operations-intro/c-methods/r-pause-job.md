@@ -1,10 +1,7 @@
 ---
 description: Pauses an active job.
-
-
 solution: Experience Manager
 title: pauseJob
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

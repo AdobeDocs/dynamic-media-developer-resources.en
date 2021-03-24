@@ -1,10 +1,7 @@
 ---
 description: Task progress information.
-
-
 solution: Experience Manager
 title: TaskProgress
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

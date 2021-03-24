@@ -1,10 +1,7 @@
 ---
 description: Describes values used by various parameters. See the list in this article for details
-
-
 solution: Experience Manager
 title: User Roles
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

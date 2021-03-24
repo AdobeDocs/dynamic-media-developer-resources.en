@@ -1,10 +1,7 @@
 ---
 description: Submits a job to the system.
-
-
 solution: Experience Manager
 title: submitJob
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

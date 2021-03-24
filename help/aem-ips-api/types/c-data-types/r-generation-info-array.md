@@ -1,10 +1,7 @@
 ---
 description: An array of generation properties.
-
-
 solution: Experience Manager
 title: GenerationInfoArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: An array of tag value updates.
-
-
 solution: Experience Manager
 title: TagValueUpdateArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: Determines which generation engine and generated asset type to exclude from search results.
-
-
 solution: Experience Manager
 title: ExcludeByproductCondition
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

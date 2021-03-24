@@ -1,10 +1,7 @@
 ---
 description: Generates thumbnail image for your video.
-
-
 solution: Experience Manager
 title: MediaOptions
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

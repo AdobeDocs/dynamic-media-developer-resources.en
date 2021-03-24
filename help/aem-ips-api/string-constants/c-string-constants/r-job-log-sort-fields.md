@@ -1,10 +1,7 @@
 ---
 description: Used by getJobLogsParam/sortBy
-
-
 solution: Experience Manager
 title: Job Log Sort Fields
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

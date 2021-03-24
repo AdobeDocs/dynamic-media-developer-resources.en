@@ -1,10 +1,7 @@
 ---
 description: Represents a company.
-
-
 solution: Experience Manager
 title: Company
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

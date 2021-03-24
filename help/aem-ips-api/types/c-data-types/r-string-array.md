@@ -1,10 +1,7 @@
 ---
 description: An array of strings.
-
-
 solution: Experience Manager
 title: StringArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

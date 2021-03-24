@@ -1,10 +1,7 @@
 ---
 description: Used by setCompanySettingsParam/overwriteMode.
-
-
 solution: Experience Manager
 title: Asset Overwrite Modes
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

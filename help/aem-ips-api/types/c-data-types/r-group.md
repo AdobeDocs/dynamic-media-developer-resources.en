@@ -1,10 +1,7 @@
 ---
 description: Named set of users used for assigning permissions.
-
-
 solution: Experience Manager
 title: Group
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

@@ -1,10 +1,7 @@
 ---
 description: An array of font field updates.
-
-
 solution: Experience Manager
 title: FontFieldUpdateArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

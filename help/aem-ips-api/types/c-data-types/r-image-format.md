@@ -1,10 +1,7 @@
 ---
 description: Unstructured named set of image output settings.
-
-
 solution: Experience Manager
 title: ImageFormat
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

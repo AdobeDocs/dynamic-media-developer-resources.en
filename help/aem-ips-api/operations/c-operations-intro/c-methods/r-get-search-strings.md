@@ -1,10 +1,7 @@
 ---
 description: Gets the search strings, keywords, and other information about an asset. The response contains additional information about the asset.
-
-
 solution: Experience Manager
 title: getSearchStrings
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

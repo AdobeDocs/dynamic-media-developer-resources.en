@@ -1,10 +1,7 @@
 ---
 description: Properties of a window covering file.
-
-
 solution: Experience Manager
 title: WindowCoveringInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

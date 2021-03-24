@@ -1,10 +1,7 @@
 ---
 description: Used by SystemFieldCondition/field.
-
-
 solution: Experience Manager
 title: Asset Search System Fields
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

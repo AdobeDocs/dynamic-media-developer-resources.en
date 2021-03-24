@@ -1,10 +1,7 @@
 ---
 description: An array of metadata conditons.
-
-
 solution: Experience Manager
 title: MetadataConditionArray
-
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
 ---

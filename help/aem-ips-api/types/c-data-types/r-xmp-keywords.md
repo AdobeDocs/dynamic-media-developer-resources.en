@@ -1,10 +1,7 @@
 ---
 description: The extensible metadata platform keywords of an asset.
-
-
 solution: Experience Manager
 title: XmpKeywords
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

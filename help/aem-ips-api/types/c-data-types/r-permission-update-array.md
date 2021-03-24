@@ -1,10 +1,7 @@
 ---
 description: An array of permission updates.
-
-
 solution: Experience Manager
 title: PermissionUpdateArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

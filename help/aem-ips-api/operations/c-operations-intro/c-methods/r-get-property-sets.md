@@ -1,10 +1,7 @@
 ---
 description: Gets property sets associated with a type handle.
-
-
 solution: Experience Manager
 title: getPropertySets
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

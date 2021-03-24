@@ -1,10 +1,7 @@
 ---
 description: Describes values used by various input parameters. See the list in this article for details.
-
-
 solution: Experience Manager
 title: Asset Types
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

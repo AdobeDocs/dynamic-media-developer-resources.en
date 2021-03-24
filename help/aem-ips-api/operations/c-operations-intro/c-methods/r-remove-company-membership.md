@@ -1,10 +1,7 @@
 ---
 description: Removes a user from one or more companies.
-
-
 solution: Experience Manager
 title: removeCompanyMembership
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

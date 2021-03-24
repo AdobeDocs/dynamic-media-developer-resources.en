@@ -1,10 +1,7 @@
 ---
 description: Target for a click action in the browser.
-
-
 solution: Experience Manager
 title: ImageMap
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

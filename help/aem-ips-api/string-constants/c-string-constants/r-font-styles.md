@@ -1,10 +1,7 @@
 ---
 description: Used by FontFieldUpdate/style.
-
-
 solution: Experience Manager
 title: Font Styles
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

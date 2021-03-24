@@ -1,10 +1,7 @@
 ---
 description: Update information for ICC profile properties.
-
-
 solution: Experience Manager
 title: IccProfileFieldUpdate
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

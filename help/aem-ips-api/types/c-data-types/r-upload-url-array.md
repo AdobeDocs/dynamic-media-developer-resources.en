@@ -1,10 +1,7 @@
 ---
 description: An array of URL for uploading assets.
-
-
 solution: Experience Manager
 title: UploadUrlArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

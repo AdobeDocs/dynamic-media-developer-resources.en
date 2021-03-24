@@ -1,10 +1,7 @@
 ---
 description: Gets projects for a group of related assets.
-
-
 solution: Experience Manager
 title: getProjects
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

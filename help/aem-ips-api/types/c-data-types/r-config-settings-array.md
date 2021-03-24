@@ -1,10 +1,7 @@
 ---
 description: An array of configuration settings.
-
-
 solution: Experience Manager
 title: ConfigSettingArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

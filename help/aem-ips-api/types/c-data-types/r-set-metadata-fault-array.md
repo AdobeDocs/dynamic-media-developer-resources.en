@@ -1,10 +1,7 @@
 ---
 description: An array of metadata faults.
-
-
 solution: Experience Manager
 title: SetMetadataFaultArray
-
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
 ---

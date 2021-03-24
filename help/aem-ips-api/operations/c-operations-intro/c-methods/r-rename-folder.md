@@ -1,10 +1,7 @@
 ---
 description: Renames a folder.
-
-
 solution: Experience Manager
 title: renameFolder
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

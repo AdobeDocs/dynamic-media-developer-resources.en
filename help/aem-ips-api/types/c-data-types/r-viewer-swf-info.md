@@ -1,10 +1,7 @@
 ---
 description: Properties of a viewer SWF file asset.
-
-
 solution: Experience Manager
 title: ViewerSwfInfo
-
 feature: Dynamic Media Classic,SDK/API,Viewers
 role: Developer,Administrator
 ---

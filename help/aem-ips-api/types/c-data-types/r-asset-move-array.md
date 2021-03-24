@@ -1,10 +1,7 @@
 ---
 description: Array of asset moves.
-
-
 solution: Experience Manager
 title: AssetMoveArray
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

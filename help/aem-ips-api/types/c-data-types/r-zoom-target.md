@@ -1,10 +1,7 @@
 ---
 description: Properties of a Zoom target.
-
-
 solution: Experience Manager
 title: ZoomTarget
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

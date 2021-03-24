@@ -1,10 +1,7 @@
 ---
 description: Font asset properties.
-
-
 solution: Experience Manager
 title: FontInfo
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

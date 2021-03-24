@@ -1,10 +1,7 @@
 ---
 description: Thumbnail image update.
-
-
 solution: Experience Manager
 title: ThumbAssetUpdate
-
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
 ---

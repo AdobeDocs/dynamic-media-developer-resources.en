@@ -1,10 +1,7 @@
 ---
 description: An array of AssetMetadataFields. Used by getAssetMetadataFields to return all asset metadata fields in a single call with results grouped by asset type.
-
-
 solution: Experience Manager
 title: AssetMetadataFieldsArray
-
 feature: Dynamic Media Classic,SDK/API,Metadata,Asset Management
 role: Developer,Administrator
 ---

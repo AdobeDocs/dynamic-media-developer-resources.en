@@ -1,10 +1,7 @@
 ---
 description: Deletes a property set type and its associated property set and properties.
-
-
 solution: Experience Manager
 title: deletePropertySetType
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---

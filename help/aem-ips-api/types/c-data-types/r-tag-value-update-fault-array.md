@@ -1,10 +1,7 @@
 ---
 description: An array of tag value update faults.
-
-
 solution: Experience Manager
 title: TagValueUpdateFaultArray
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
 ---
