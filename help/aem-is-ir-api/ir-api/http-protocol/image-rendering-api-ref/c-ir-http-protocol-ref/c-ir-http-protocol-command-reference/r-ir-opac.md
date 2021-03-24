@@ -21,9 +21,9 @@ Opacity. Specifies material opacity.
 
 The following material/object combinations support variable opacity:
 
-* Solid color and repeatable textures applied to texturable overlap objects. 
+* Solid color and repeatable textures applied to textural overlap objects. 
 * Window covering materials applied to window covering frame objects. 
-* Decals applied to texturable objects or wall objects.
+* Decals applied to textural objects or wall objects.
 
 If the material includes an image with an alpha channel, `opac=` can be used to make the image more transparent, but not more opaque.
 
