@@ -1,10 +1,7 @@
 ---
 description: Command values must be http-encoded using %xx escape sequences, such that the value strings do not include the reserved characters '=', '&', and '%'.
-
-
 solution: Experience Manager
 title: Image Rendering HTTP encoding
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,7 @@
 ---
 description: Use these steps to install Image Serving for the first time on Windows.
-
-
 solution: Experience Manager
 title: Installing for the first time
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

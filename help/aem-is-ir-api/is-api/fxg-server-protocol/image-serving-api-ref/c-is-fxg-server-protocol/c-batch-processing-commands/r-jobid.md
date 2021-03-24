@@ -1,10 +1,7 @@
 ---
 description: Job ID of batch job.
-
-
 solution: Experience Manager
 title: jobid
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

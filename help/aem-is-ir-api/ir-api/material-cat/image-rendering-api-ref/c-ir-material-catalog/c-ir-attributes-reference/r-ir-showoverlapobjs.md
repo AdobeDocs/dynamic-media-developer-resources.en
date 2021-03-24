@@ -1,10 +1,7 @@
 ---
 description: Show overlap objects. Specifies whether overlap objects should be initially shown or hidden.
-
-
 solution: Experience Manager
 title: ShowOverlapObjs
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

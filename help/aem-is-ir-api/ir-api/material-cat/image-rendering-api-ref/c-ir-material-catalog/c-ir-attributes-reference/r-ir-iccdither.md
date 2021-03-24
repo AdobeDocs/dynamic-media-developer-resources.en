@@ -1,10 +1,7 @@
 ---
 description: Color conversion dithering. Specifies whether dithering should be used to improve the perceptual quality of color conversions when no explicit selection is made with icc=.
-
-
 solution: Experience Manager
 title: IccDither
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

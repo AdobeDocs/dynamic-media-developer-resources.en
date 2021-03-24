@@ -1,10 +1,7 @@
 ---
 description: Show overlap object. Makes visible all previously hidden overlap objects (including window coverings frame objects) in the current selection.
-
-
 solution: Experience Manager
 title: show
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

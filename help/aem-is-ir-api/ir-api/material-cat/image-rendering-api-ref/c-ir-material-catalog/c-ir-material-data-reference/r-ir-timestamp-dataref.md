@@ -1,10 +1,7 @@
 ---
 description: File modification time stamp. Specifies the date/time the image and/or data files attached to this catalog record were last modified.
-
-
 solution: Experience Manager
 title: TimeStamp
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

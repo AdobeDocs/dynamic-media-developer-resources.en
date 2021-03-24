@@ -1,10 +1,7 @@
 ---
 description: You must install Image Serving before you can use it.
-
-
 solution: Experience Manager
 title: Installation
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,7 @@
 ---
 description: Pick selection error handling. Specifies the action to be taken if the sel= command fails because the specified pixel location is not within the mask area of a selectable object.
-
-
 solution: Experience Manager
 title: OnFailSel
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

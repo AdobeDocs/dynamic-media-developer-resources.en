@@ -1,10 +1,7 @@
 ---
 description: The Image Serving install folder (install_folder) is install_root/ImageServing.
-
-
 solution: Experience Manager
 title: Install folder
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

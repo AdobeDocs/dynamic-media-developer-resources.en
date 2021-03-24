@@ -1,10 +1,7 @@
 ---
 description: ICC profile map file path. Specifies the file which contains the ICC profile map for this image catalog.
-
-
 solution: Experience Manager
 title: IccProfileMapFile
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

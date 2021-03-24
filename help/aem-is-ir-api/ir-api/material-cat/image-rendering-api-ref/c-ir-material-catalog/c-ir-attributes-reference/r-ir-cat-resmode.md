@@ -1,10 +1,7 @@
 ---
 description: Resampling mode. Default for resMode=. Specifies the resampling and interpolation attributes used for scaling the rendered image to final size.
-
-
 solution: Experience Manager
 title: ResMode
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

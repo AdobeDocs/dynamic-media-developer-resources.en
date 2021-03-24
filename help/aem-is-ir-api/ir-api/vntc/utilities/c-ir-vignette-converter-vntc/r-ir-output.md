@@ -1,10 +1,7 @@
 ---
 description: vntc generates text data which is sent either to stderr or the log file.
-
-
 solution: Experience Manager
 title: Output
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

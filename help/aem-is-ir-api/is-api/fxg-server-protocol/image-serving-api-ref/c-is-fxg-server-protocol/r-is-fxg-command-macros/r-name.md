@@ -1,10 +1,7 @@
 ---
 description: Name of command macro.
-
-
 solution: Experience Manager
 title: name
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

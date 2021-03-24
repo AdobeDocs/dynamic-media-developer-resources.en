@@ -1,10 +1,7 @@
 ---
 description: List of paths, delimited by semi-colons, serve as roots for all data files with relative file paths.
-
-
 solution: Experience Manager
 title: Resource root folders (ir.resourceRootPaths)
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

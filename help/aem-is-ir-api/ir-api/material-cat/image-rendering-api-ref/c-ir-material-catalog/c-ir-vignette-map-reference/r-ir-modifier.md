@@ -1,10 +1,7 @@
 ---
 description: Request modifier string. None or more Image Rendering commands separated by '&' characters. Used to store templates and modifiers which are to be applied every time a request for this vignette map entry is made.
-
-
 solution: Experience Manager
 title: Modifier
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

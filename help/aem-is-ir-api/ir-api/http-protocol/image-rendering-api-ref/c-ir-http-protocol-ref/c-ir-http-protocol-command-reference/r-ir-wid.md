@@ -1,10 +1,7 @@
 ---
 description: Reply image width. Specifies scaling of the rendered image so that the reply image is no taller than the specified value, while maintaining the image's aspect ratio.
-
-
 solution: Experience Manager
 title: wid
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

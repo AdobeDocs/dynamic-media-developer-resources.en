@@ -1,10 +1,7 @@
 ---
 description: Enable last-modified response headers. Enables or disables inclusion of the Last-Modified header in cacheable HTTP responses emitted by Image Rendering.
-
-
 solution: Experience Manager
 title: UseLastModified
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

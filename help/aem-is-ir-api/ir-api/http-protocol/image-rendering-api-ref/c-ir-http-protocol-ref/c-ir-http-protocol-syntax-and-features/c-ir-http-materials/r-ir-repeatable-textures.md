@@ -1,10 +1,7 @@
 ---
 description: Repeatable textures include interior and exterior materials, such as fabrics (both apparel and upholstery), wall-to-wall floor coverings, wallpapers, countertop materials, wood grain textures, roofing and siding materials, and any other generic texture.
-
-
 solution: Experience Manager
 title: Repeatable textures
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

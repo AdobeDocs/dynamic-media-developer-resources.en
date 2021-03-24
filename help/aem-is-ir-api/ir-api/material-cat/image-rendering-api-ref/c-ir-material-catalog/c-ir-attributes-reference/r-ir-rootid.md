@@ -1,10 +1,7 @@
 ---
 description: Catalog identifier. The HTTP path element to be used to identifies this catalog in the vignette, material, or ICC profile object specifier in HTTP requests.
-
-
 solution: Experience Manager
 title: RootId
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

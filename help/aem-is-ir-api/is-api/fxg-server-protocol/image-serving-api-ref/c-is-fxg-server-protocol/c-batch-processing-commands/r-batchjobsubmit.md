@@ -1,10 +1,7 @@
 ---
 description: Submit a new batch job.
-
-
 solution: Experience Manager
 title: batchjobsubmit
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

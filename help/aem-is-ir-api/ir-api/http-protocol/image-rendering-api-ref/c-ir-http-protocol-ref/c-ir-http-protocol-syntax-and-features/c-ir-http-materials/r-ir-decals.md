@@ -1,10 +1,7 @@
 ---
 description: Decal materials include apparel constructs such as appliqués, t-shirt prints, and embroidered or printed logos, as well as non-repeatable, flat objects used in interior or exterior applications, such as area rugs, wall-hung art, signs, and so on.
-
-
 solution: Experience Manager
 title: Decals
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

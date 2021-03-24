@@ -1,10 +1,7 @@
 ---
 description: Set XML to a s7 elementID.
-
-
 solution: Experience Manager
 title: setElement
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

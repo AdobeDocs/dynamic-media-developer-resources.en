@@ -1,10 +1,7 @@
 ---
 description: Image Rendering leverages the Image Serving caching features to save response image data, intermediate data for nested/embedded requests, and source image data (such as textures) obtained from an external source.
-
-
 solution: Experience Manager
 title: Data caching
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

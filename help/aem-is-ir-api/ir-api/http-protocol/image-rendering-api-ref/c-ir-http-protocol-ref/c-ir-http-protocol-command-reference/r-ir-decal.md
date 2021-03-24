@@ -1,10 +1,7 @@
 ---
 description: Decal material selector. Starts a material specification segment (MSS) for a non-repeatable decal material.
-
-
 solution: Experience Manager
 title: decal
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

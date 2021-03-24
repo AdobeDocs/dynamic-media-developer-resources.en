@@ -1,10 +1,7 @@
 ---
 description: The resolution value of a repeatable texture or other material defines the size of the material image in the scene coordinate space.
-
-
 solution: Experience Manager
 title: Material resolution
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

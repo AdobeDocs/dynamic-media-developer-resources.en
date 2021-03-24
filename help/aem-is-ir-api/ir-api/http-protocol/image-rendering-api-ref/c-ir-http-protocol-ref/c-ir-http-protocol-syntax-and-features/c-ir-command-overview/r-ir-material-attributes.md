@@ -1,10 +1,7 @@
 ---
 description: These attributes define materials to be applied to the selected object.
-
-
 solution: Experience Manager
 title: Material attributes
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

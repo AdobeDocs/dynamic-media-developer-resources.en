@@ -1,10 +1,7 @@
 ---
 description: Material catalogs provide information about vignettes, materials, and supporting data, such as ICC profiles, to the server.
-
-
 solution: Experience Manager
 title: Material catalog overview *
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

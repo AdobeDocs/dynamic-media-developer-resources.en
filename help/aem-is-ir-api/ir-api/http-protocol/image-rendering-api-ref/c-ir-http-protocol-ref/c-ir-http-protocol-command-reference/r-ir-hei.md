@@ -1,10 +1,7 @@
 ---
 description: Reply image height. Specifies scaling of the rendered image so that the height of the reply image is no larger than the specified value, while maintaining the image's aspect ratio.
-
-
 solution: Experience Manager
 title: hei
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

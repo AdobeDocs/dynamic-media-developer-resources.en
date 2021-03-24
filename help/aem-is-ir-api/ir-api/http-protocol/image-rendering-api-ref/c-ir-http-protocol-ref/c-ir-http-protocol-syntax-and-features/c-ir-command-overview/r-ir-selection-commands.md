@@ -1,10 +1,7 @@
 ---
 description: These commands are used to select vignette groups, objects, sub-areas of groups or objects.
-
-
 solution: Experience Manager
 title: Selection commands
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

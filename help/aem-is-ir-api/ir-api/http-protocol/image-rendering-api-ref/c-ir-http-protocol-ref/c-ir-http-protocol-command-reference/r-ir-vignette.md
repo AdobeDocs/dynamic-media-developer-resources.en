@@ -1,10 +1,7 @@
 ---
 description: Vignette file. Specifies the vignette to be used for this request.
-
-
 solution: Experience Manager
 title: vignette
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

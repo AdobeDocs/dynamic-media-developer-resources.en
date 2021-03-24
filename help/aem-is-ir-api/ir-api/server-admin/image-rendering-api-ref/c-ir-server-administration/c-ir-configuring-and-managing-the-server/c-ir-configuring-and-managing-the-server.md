@@ -1,10 +1,7 @@
 ---
 description: This section contains information to help you set up and manage the Image Rendering Server.
-
-
 solution: Experience Manager
 title: Configuring and managing the server
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

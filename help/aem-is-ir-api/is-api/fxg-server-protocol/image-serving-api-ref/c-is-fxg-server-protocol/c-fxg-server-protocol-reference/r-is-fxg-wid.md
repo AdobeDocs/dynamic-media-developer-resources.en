@@ -1,10 +1,7 @@
 ---
 description: View width. Specifies the width of the reply image (view image).
-
-
 solution: Experience Manager
 title: wid
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,7 @@
 ---
 description: After installation you will need to setup services to run under the other user account.
-
-
 solution: Experience Manager
 title: Installing under a different user account than administrator
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

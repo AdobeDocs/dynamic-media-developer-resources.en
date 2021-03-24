@@ -1,10 +1,7 @@
 ---
 description: Decal size. Width, height, and thickness of a decal material object.
-
-
 solution: Experience Manager
 title: Size
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

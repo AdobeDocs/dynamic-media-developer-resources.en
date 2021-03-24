@@ -1,10 +1,7 @@
 ---
 description: TIFF encoding format. Specifies the compression format for TIFF images (effectively the default for the third value of the fmt= command).
-
-
 solution: Experience Manager
 title: TiffEncoding
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

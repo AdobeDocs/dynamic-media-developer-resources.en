@@ -1,10 +1,7 @@
 ---
 description: Modification time stamp. Specifies the date/time this vignette was last modified.
-
-
 solution: Experience Manager
 title: TimeStamp
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

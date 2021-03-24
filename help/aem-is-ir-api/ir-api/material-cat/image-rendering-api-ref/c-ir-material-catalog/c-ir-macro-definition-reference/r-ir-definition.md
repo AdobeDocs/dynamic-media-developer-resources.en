@@ -1,10 +1,7 @@
 ---
 description: Macro definition. A Render Serving protocol fragment consisting of one or more complete commands, separated by '&' characters.
-
-
 solution: Experience Manager
 title: Definition
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

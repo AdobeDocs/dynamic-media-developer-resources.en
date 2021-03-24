@@ -1,10 +1,7 @@
 ---
 description: There is no default.
-
-
 solution: Experience Manager
 title: Default
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

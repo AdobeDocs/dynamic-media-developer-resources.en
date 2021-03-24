@@ -1,10 +1,7 @@
 ---
 description: Material file. Specifies material data, either in form of a single material catalog reference, or as one or two image or material data files, separated with a comma.
-
-
 solution: Experience Manager
 title: src
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

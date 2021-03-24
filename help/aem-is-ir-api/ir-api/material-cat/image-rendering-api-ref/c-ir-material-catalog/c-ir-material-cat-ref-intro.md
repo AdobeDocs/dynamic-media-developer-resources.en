@@ -1,10 +1,7 @@
 ---
 description: This document describes the material catalog for Dynamic Media Image Rendering.
-
-
 solution: Experience Manager
 title: Introduction
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

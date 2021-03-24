@@ -1,10 +1,7 @@
 ---
 description: After you install Dynamic Media Image Serving, you should verify the installation.
-
-
 solution: Experience Manager
 title: Verifying the installation
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

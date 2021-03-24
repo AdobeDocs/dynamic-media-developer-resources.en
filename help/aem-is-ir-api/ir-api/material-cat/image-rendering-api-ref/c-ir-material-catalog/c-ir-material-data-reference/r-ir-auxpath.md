@@ -1,10 +1,7 @@
 ---
 description: Data file path. Relative path and name for non-image data files associated with this image.
-
-
 solution: Experience Manager
 title: AuxPath
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

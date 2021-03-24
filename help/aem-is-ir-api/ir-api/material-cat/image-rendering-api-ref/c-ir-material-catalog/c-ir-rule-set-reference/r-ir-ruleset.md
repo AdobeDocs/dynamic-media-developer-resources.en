@@ -1,10 +1,7 @@
 ---
 description: Rules container element. A valid rule set file contains one <ruleset> element.
-
-
 solution: Experience Manager
 title: ruleset
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

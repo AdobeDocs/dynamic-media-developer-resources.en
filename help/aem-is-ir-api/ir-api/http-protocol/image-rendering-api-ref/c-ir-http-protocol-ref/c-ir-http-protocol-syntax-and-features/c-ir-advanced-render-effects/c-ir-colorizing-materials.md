@@ -1,10 +1,7 @@
 ---
 description: Most materials can be colorized dynamically.
-
-
 solution: Experience Manager
 title: Colorizing materials
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

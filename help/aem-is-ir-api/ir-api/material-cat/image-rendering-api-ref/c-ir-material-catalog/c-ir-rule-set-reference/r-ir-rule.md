@@ -1,10 +1,7 @@
 ---
 description: Request rule element. One or more are optional in the <ruleset> element.
-
-
 solution: Experience Manager
 title: rule
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

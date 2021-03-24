@@ -1,10 +1,7 @@
 ---
 description: Opacity. Specifies material opacity.
-
-
 solution: Experience Manager
 title: opac
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

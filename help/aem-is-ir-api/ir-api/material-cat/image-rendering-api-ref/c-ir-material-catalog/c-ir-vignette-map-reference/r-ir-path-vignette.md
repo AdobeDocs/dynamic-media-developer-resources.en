@@ -1,10 +1,7 @@
 ---
 description: Vignette file path. Relative path and name of a vignette file.
-
-
 solution: Experience Manager
 title: Path
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

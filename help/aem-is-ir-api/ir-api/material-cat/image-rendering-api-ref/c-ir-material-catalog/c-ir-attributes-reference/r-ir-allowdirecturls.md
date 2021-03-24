@@ -1,10 +1,7 @@
 ---
 description: Allow absolute source URLs.
-
-
 solution: Experience Manager
 title: AllowDirectURLs
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

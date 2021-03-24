@@ -1,10 +1,7 @@
 ---
 description: Set media margin. Sets the media margin that is set in the PDF file.
-
-
 solution: Experience Manager
 title: mediaMargin
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

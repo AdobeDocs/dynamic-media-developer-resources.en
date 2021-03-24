@@ -1,10 +1,7 @@
 ---
 description: Hide overlap object. Hides all overlap objects or window coverings applied to window coverings frames in the current selection.
-
-
 solution: Experience Manager
 title: hide
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

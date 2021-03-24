@@ -1,10 +1,7 @@
 ---
 description: Apply flags. Specifies additional render options.
-
-
 solution: Experience Manager
 title: flags
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

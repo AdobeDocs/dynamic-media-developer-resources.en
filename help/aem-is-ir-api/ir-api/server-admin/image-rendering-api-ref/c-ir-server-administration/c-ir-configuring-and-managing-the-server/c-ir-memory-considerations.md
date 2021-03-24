@@ -1,10 +1,7 @@
 ---
 description: The amount of memory used by Image Rendering can vary widely and depends highly on actual server load and usage (for example, few vs. many different vignettes, size and complexity of vignettes, and so on).
-
-
 solution: Experience Manager
 title: Memory considerations
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

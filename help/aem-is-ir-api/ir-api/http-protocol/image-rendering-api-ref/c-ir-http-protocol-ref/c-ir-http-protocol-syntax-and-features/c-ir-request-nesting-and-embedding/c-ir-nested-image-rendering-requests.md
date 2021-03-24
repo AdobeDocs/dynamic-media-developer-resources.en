@@ -1,10 +1,7 @@
 ---
 description: For advanced applications it is possible to use the result of a render operation as a material image, just like an image obtained from Image Serving.
-
-
 solution: Experience Manager
 title: Nested Image Rendering requests
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

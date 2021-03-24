@@ -1,10 +1,7 @@
 ---
 description: For information on materials used by Image Rendering see Materials in the HTTP Protocol Reference.
-
-
 solution: Experience Manager
 title: Materials
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

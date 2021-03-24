@@ -1,10 +1,7 @@
 ---
 description: Vignette identifier. Index key value by which records in the vignette map file are looked up by the server.
-
-
 solution: Experience Manager
 title: Id
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,7 @@
 ---
 description: Reply image format. Specifies the image encoding format for image data sent to the client and the corresponding response MIME type for the HTTP response header.
-
-
 solution: Experience Manager
 title: fmt
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,7 @@
 ---
 description: Image Rendering enforces a two Megapixel size limitation for non-pyramid vignettes.
-
-
 solution: Experience Manager
 title: Vignette size limitation
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
 ---

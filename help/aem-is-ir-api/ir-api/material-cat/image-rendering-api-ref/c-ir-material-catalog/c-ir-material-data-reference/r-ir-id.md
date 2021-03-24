@@ -1,10 +1,7 @@
 ---
 description: Catalog record identifier. Key value by which material records are looked by the Render Server. Typically a short and unique material identifier, such as a SKU number.
-
-
 solution: Experience Manager
 title: Id
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

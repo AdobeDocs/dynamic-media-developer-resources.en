@@ -1,10 +1,7 @@
 ---
 description: Select object by pixel location.
-
-
 solution: Experience Manager
 title: sel
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

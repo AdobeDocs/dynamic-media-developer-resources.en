@@ -1,10 +1,7 @@
 ---
 description: Window covering materials include both soft window coverings (drapes, valances, café curtains), as well as hard window coverings (shades and blinds).
-
-
 solution: Experience Manager
 title: Window coverings
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

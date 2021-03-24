@@ -1,10 +1,7 @@
 ---
 description: If a vignette map is required for a material catalog, the relative or absolute path of the vignette map file must be specified in attribute VignetteMapFile.
-
-
 solution: Experience Manager
 title: Vignette map reference
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

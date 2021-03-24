@@ -1,10 +1,7 @@
 ---
 description: The Image Rendering API Reference contains information about setting up and using the Dynamic Media Image Rendering API.
-
-
 solution: Experience Manager
 title: Image Rendering API
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

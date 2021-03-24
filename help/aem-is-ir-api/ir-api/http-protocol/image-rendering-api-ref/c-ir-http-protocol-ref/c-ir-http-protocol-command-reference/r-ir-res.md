@@ -1,10 +1,7 @@
 ---
 description: Material resolution. Specifies the resolution of the repeatable texture or decal image.
-
-
 solution: Experience Manager
 title: res
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

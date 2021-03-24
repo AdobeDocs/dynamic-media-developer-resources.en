@@ -1,10 +1,7 @@
 ---
 description: Convert text in a PDF file to outlines.
-
-
 solution: Experience Manager
 title: convertTextToOutlines
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

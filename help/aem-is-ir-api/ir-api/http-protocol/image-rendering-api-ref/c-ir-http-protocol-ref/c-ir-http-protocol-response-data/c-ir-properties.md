@@ -1,10 +1,7 @@
 ---
 description: Property data is returned in response to the following req= types  imageprops and props.
-
-
 solution: Experience Manager
 title: Properties
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

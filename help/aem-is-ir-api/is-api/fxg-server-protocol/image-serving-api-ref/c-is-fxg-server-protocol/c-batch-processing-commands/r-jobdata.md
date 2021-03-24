@@ -1,10 +1,7 @@
 ---
 description: Job data for a batch job.
-
-
 solution: Experience Manager
 title: jobdata
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

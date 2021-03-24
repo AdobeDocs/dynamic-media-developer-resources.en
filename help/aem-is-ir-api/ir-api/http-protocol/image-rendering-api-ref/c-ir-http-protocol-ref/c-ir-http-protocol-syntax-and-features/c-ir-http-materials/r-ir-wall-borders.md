@@ -1,10 +1,7 @@
 ---
 description: A material is considered a wall border when it is specified in a wall border MSS (introduced with sub=3..5).
-
-
 solution: Experience Manager
 title: Wall borders
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

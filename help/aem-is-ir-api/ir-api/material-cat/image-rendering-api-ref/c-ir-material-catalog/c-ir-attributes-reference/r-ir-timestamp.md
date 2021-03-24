@@ -1,10 +1,7 @@
 ---
 description: Default modification time stamp. Provides a default value for catalog TimeStamp and vignette TimeStamp. If not specified, the server will use the modification date/time of this catalog.ini file.
-
-
 solution: Experience Manager
 title: TimeStamp
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

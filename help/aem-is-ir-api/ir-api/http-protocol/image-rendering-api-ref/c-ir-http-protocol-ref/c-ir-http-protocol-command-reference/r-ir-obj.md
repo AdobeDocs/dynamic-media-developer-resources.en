@@ -1,10 +1,7 @@
 ---
 description: Select object by name. Selects the specified vignette group by name and starts a new MSS.
-
-
 solution: Experience Manager
 title: obj
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

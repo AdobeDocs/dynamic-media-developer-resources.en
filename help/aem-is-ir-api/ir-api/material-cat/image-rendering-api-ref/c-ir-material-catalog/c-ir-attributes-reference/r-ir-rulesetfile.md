@@ -1,10 +1,7 @@
 ---
 description: Rule set definitions file path. Specifies the file which contains the rule set definitions for this material catalog.
-
-
 solution: Experience Manager
 title: RuleSetFile
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

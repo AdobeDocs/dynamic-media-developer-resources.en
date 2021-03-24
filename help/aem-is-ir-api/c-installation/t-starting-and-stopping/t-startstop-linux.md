@@ -1,10 +1,7 @@
 ---
 description: There are two options for starting or stopping Image Serving on Linux.
-
-
 solution: Experience Manager
 title: Starting or stopping on Linux
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

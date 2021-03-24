@@ -1,10 +1,7 @@
 ---
 description: Set XML before or after a node.
-
-
 solution: Experience Manager
 title: insertBefore,insertAfter
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

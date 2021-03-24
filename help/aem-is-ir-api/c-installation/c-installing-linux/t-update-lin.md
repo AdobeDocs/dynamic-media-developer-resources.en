@@ -1,10 +1,7 @@
 ---
 description: Use this procedure when upgrading Dynamic Media Image Serving on Linux.
-
-
 solution: Experience Manager
 title: Updating from IS 4.7.4 or later
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

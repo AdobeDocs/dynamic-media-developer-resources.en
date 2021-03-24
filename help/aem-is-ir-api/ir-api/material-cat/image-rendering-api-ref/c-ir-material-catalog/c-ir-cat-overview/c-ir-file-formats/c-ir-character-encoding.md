@@ -1,10 +1,7 @@
 ---
 description: Image Rendering supports material catalogs with ISO‑8859‑1 and UTF‑8 encoding.
-
-
 solution: Experience Manager
 title: Character encoding
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

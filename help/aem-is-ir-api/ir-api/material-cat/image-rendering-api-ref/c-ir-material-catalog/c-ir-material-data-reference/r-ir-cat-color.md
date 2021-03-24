@@ -1,10 +1,7 @@
 ---
 description: Material color. The principal color for solid color materials and the additive color for colorized texture materials.
-
-
 solution: Experience Manager
 title: Color
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

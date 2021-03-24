@@ -1,10 +1,7 @@
 ---
 description: Client cache time to live. Number of hours until expiration. Used to manage client and proxy server caching.
-
-
 solution: Experience Manager
 title: Expiration
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

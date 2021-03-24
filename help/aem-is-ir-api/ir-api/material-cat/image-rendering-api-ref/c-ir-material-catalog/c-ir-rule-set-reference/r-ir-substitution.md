@@ -1,10 +1,7 @@
 ---
 description: Substitution string element. Optional in <rule> elements.
-
-
 solution: Experience Manager
 title: substitution
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

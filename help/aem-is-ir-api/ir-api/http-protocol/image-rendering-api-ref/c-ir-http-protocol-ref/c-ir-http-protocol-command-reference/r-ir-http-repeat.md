@@ -1,10 +1,7 @@
 ---
 description: Texture repeat mode. Specifies the repeat mode for repeatable texture materials.
-
-
 solution: Experience Manager
 title: repeat
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

@@ -1,10 +1,7 @@
 ---
 description: Catalog data file path. Specifies the file which contains the material data for this catalog.
-
-
 solution: Experience Manager
 title: CatalogFile
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

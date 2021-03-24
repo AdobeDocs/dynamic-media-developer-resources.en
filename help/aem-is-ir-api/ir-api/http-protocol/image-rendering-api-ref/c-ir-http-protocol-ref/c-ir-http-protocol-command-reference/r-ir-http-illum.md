@@ -1,10 +1,7 @@
 ---
 description: Illumination map selector. Specifies the illumination map this material prefers to be rendered with.
-
-
 solution: Experience Manager
 title: illum
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

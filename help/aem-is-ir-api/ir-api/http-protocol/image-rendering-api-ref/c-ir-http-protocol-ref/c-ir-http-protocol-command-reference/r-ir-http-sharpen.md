@@ -1,10 +1,7 @@
 ---
 description: Sharpen reply image. Optional sharpening may be applied after the rendered image is scaled based on wid= or hei=.
-
-
 solution: Experience Manager
 title: sharpen
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

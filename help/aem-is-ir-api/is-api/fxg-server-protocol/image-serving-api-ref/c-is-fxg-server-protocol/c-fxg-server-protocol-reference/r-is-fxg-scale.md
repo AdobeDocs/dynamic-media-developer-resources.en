@@ -1,10 +1,7 @@
 ---
 description: Scale image. Scales an image by factor relative to the full-resolution image.
-
-
 solution: Experience Manager
 title: scale
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

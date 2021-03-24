@@ -1,10 +1,7 @@
 ---
 description: The following options can be applied regardless of the type of sourceFile.
-
-
 solution: Experience Manager
 title: Common options
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

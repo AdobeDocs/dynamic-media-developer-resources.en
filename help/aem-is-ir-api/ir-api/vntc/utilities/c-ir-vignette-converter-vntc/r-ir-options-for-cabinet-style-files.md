@@ -1,10 +1,7 @@
 ---
 description: The following options control the processing of cabinet style files. They are ignored if sourceFile is not a cabinet style file or if -info is specified.
-
-
 solution: Experience Manager
 title: Options for cabinet style files
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---

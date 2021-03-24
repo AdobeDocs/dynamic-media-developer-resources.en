@@ -1,10 +1,7 @@
 ---
 description: This example uses Image Serving to colorize an object and apply a decal containing custom text in one of a set of vignettes.
-
-
 solution: Experience Manager
 title: Examples
-
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
 ---
