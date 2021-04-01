@@ -1,6 +1,6 @@
 ---
 title: Adobe Dynamic Media developer resources
-cloud: experience-cloud
+cloud: Experience Cloud
 product: Adobe Dynamic Media Developer Resources
 solution: Dynamic Media Classic
 audience: end-user

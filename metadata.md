@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 description: Dynamic Media Classic
 solution: Dynamic Media Classic
 type: Documentation
