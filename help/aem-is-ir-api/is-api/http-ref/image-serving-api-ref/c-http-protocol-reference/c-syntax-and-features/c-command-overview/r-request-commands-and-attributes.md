@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Request commands
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 3f794f46-e7f0-4899-90fa-898a698dd629
 ---
-
 # Request commands{#request-commands}
 
 These commands apply regardless of where in the request they appear.
@@ -76,4 +76,3 @@ These commands apply regardless of where in the request they appear.
   <td class="stentry"> <p>Specifies image set to use for this request. </p></td> 
  </tr> 
 </table>
-

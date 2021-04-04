@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Video attributes
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: c6bf2736-df10-41a2-b3ec-c930d6881f20
 ---
-
 # Video attributes{#video-attributes}
 
 Catalog attribute files recognize these video attributes.
@@ -20,4 +20,3 @@ Catalog attribute files recognize these video attributes.
   <td class="stentry"> <p>Flash Streaming Server URL prefix. </p></td> 
  </tr> 
 </table>
-

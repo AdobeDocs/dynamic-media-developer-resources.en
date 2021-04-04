@@ -7,8 +7,8 @@ title: Twitter share
 
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
+exl-id: a90a4c82-b51a-4fb0-9196-44ae4ba8e0cd
 ---
-
 # Twitter share{#twitter-share}
 
 Twitter share tool consists of a button added to the Social share panel. When the button is clicked the user is redirected to a sharing dialog box that is provided by a social service. The position of the button is fully managed by the Social share tool.
@@ -72,4 +72,3 @@ background-image:url(images/v2/TwitterShare_dark_down.png);
 background-image:url(images/v2/TwitterShare_dark_disabled.png); 
 }
 ```
-

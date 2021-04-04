@@ -4,8 +4,8 @@ solution: Experience Manager
 title: pos
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: c2e9a1f3-7216-4ab0-9c37-57f083119cef
 ---
-
 # pos{#pos}
 
 Layer position.
@@ -45,4 +45,4 @@ See Example A in [Templates](../../../../../is-api/http-ref/image-serving-api-re
 
 ## See also {#section-812d95575ba542808e8387d0a8650606}
 
-[origin=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-origin.md#reference-e11c7ac06e2240cc884c3fec98f05138) 
+[origin=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-origin.md#reference-e11c7ac06e2240cc884c3fec98f05138)

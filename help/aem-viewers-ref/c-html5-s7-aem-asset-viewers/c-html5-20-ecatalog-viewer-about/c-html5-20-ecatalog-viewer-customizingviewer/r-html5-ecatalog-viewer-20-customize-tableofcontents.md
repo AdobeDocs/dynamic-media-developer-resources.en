@@ -7,8 +7,8 @@ title: Table of contents
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: 9b61e269-201d-4083-9c47-0b73d55aa6ed
 ---
-
 # Table of contents{#table-of-contents}
 
 Table of contents is a button located in the main control bar. When activated, a drop-down panel appears with a list of page indexes and labels.
@@ -460,4 +460,3 @@ Example - set up scroll buttons that are 28 x 32 pixels and have different artwo
  background-image:url(images/v2/ThumbnailScrollDownButton_dark_up.png); 
 }
 ```
-

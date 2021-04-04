@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Overview
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 36cdd833-6fcb-4be6-a4f8-ba8d20580f29
 ---
-
 # Overview{#overview}
 
 Image catalogs are used to provide information about images and supporting data (such as fonts and ICC profiles) to the server.
@@ -27,4 +27,4 @@ Catalog attribute files must have an [!DNL .ini] file suffix and must be located
 
 This document describes the Image Catalog file format for the Dynamic Media Image Serving system. The intended audience is experienced programmers and web site developers who want to leverage Dynamic Media Image Serving for a web or custom application.
 
-It is assumed that the reader is generally familiar with the Dynamic Media Image Serving system, general HTTP protocol standards and conventions, and basic imaging terminology. 
+It is assumed that the reader is generally familiar with the Dynamic Media Image Serving system, general HTTP protocol standards and conventions, and basic imaging terminology.

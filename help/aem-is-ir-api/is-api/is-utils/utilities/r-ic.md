@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ic
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: ab653aae-532b-4f3d-8541-f6296fbf9172
 ---
-
 # ic {#ic}
 
 Image Conversion utility.
@@ -326,4 +326,4 @@ Convert all images in *`srcFolder`* to JPEG-encoded pyramid TIFFs and place in *
 
 Convert all images in *`srcFolder`*. The encoded image data of JPG files is used for the full-resolution level, loss-less LZW compression for the remainder of the image pyramid of these images as well as for the entire output image of all non-JPG input files. The pixel types, embedded color profiles, XMP metadata, etc. are maintained.
 
-`ic -convert -lzwcompress -embedXmpData -embedColorProfile -maintainpixeltype -overwrite -continueOnError srcFolder destFolder` 
+`ic -convert -lzwcompress -embedXmpData -embedColorProfile -maintainpixeltype -overwrite -continueOnError srcFolder destFolder`

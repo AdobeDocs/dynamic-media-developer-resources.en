@@ -5,8 +5,8 @@ title: VideoPlayer.progressivebitrate
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: b156d3f4-c4d3-45fe-b3d3-b7ed38f6eb4d
 ---
-
 # VideoPlayer.progressivebitrate{#videoplayer-progressivebitrate}
 
  ` [VideoPlayer.|<containerId>_videoPlayer.]progressivebitrate= *`value`*`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`progressivebitrate=600` 
+`progressivebitrate=600`

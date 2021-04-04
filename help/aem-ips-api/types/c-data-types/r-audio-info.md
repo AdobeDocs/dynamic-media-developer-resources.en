@@ -4,8 +4,8 @@ solution: Experience Manager
 title: AudioInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 51d09533-2964-4b46-b45b-cc65e178ee0a
 ---
-
 # AudioInfo{#audioinfo}
 
 Properties of an audio file asset.
@@ -19,4 +19,3 @@ Properties of an audio file asset.
 |  `*`originalPath`*`  | `xsd:string`  | Path to the audio file.  |
 |  `*`originalFile`*`  | `xsd:string`  | File name.  |
 |  `*`fileSize`*`  | `xsd:int`  | File size.  |
-

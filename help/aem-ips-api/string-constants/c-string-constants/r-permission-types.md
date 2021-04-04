@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Permission Types
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: f58d2606-d794-4d4f-9566-02dfda5e0654
 ---
-
 # Permission Types{#permission-types}
 
 Used by PermissionsUpdate/permissionType, Permission/permissionType.
@@ -17,4 +17,3 @@ Used by PermissionsUpdate/permissionType, Permission/permissionType.
 * [!DNL `Read`] 
 * [!DNL `Write`] 
 * [!DNL `Delete`]
-

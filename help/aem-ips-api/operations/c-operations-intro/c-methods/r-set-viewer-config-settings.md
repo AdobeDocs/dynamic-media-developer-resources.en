@@ -4,8 +4,8 @@ solution: Experience Manager
 title: setViewerConfigSettings
 feature: Dynamic Media Classic,SDK/API,Viewer Presets
 role: Developer,Administrator
+exl-id: 6b70f2c3-c98b-455f-b453-bb797744dadc
 ---
-
 # setViewerConfigSettings{#setviewerconfigsettings}
 
 Attaches viewer configuration settings to an asset. These can be a viewer preset or the source asset for the viewer.
@@ -33,4 +33,4 @@ Attaches viewer configuration settings to an asset. These can be a viewer preset
 
 **Output (setViewerConfigSettingsParam)**
 
-The IPS API does not return a response for this operation. 
+The IPS API does not return a response for this operation.

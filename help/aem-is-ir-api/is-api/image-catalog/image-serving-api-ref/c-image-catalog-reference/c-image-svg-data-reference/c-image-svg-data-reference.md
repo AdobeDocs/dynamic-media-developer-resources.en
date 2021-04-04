@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Image/SVG data reference
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: d43bf938-efed-4e9f-ab47-6581f8c587c9
 ---
-
 # Image/SVG data reference{#image-svg-data-reference}
 
 Even though image and SVG data are very similar, they are maintained in separate tables in the image catalog.

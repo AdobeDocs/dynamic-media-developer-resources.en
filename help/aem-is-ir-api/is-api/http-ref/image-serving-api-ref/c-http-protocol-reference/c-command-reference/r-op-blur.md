@@ -4,8 +4,8 @@ solution: Experience Manager
 title: op_blur
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: cd68c109-ee99-4ef7-aac0-7d2e6d408cc0
 ---
-
 # op_blur{#op-blur}
 
 Blur image. Applies a blur filter to the image data.
@@ -33,4 +33,4 @@ Layer command. Applies to the current layer or to the composite image if `layer=
 
 Blur the background of an image. A separate mask image is referenced by `catalog::MaskPath`. Note that `layer=0`must be specified explicitly, otherwise `op_blur` would be applied to the entire composite image.
 
-`http://server/myRootId/myImageId?wid=500&layer=0&maskUse=invert&op_blur=20&layer=1&src=myRootId/myImageId` 
+`http://server/myRootId/myImageId?wid=500&layer=0&maskUse=invert&op_blur=20&layer=1&src=myRootId/myImageId`

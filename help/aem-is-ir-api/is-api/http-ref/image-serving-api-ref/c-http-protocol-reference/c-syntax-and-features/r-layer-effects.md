@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Layer effects
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 8f99bb3d-c5d6-4215-a76b-58ba7689ff02
 ---
-
 # Layer effects{#layer-effects}
 
 Photoshop-style layer shadow and glow effects are implemented using special sub-layers (effect layers) which can be attached to any layer (the parent layer), including layer=0 and layer=comp.
@@ -85,4 +85,4 @@ Add a bluish drop shadow to an image, using the default effect settings (except 
 
 ## See also {#section-1acccccf534549aea23d4c008c17e7c0}
 
-[effect=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-effect.md#reference-b1296c4afed047fb921bbc1e33752135), [Command Macros%l94560](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-syntax-and-features/r-is-http-command-macros.md#reference-ea2a9571c65a46da83eca27d0013cbf9) 
+[effect=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-effect.md#reference-b1296c4afed047fb921bbc1e33752135), [Command Macros%l94560](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-syntax-and-features/r-is-http-command-macros.md#reference-ea2a9571c65a46da83eca27d0013cbf9)

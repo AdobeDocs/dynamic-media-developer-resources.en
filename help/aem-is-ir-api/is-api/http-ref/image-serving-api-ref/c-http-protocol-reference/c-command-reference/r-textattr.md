@@ -4,8 +4,8 @@ solution: Experience Manager
 title: textAttr
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 0c8a3d2a-2524-436a-8bc7-60241af0fd17
 ---
-
 # textAttr{#textattr}
 
 Text layer attributes. Specifies additional attributes for text layers which are not available as rtf commands.
@@ -91,4 +91,4 @@ Text layer attribute. Ignored by image, solid color, and effect layers. Applies 
 
 ## See also {#section-68b0d2e2d0474e2097a9331ae272c224}
 
-[text=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-text.md#reference-84634052e48548539a1ef63cbe41f22f) , [textPs=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-textps.md#reference-4209a2a6169f44278da2647cfb0cd767), [size=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-data-types/r-size.md#reference-04d383f32c7b4003bed9978cb854747b) 
+[text=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-text.md#reference-84634052e48548539a1ef63cbe41f22f) , [textPs=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-textps.md#reference-4209a2a6169f44278da2647cfb0cd767), [size=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-data-types/r-size.md#reference-04d383f32c7b4003bed9978cb854747b)

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: FontPath
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 251ded53-47db-4855-a40b-7078dfc24d87
 ---
-
 # FontPath{#fontpath}
 
 Font file path. Path and name for the principal font file, including file suffix.
@@ -20,4 +20,4 @@ None.
 
 ## See also {#section-35bcdd8dcba745929e9cee8207609d88}
 
-[attribute::RootPath](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-rootpath.md) 
+[attribute::RootPath](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-rootpath.md)

@@ -7,8 +7,8 @@ title: Command reference – Configuration attributes
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: e8ce40c9-d1c0-454f-b8fa-ba19e3fe2091
 ---
-
 # Command reference – Configuration attributes{#command-reference-configuration-attributes}
 
 Configuration attributes documentation for eCatalog Viewer.
@@ -25,4 +25,4 @@ which means that you can use this command as:
 * `PageView.zoomstep` (qualified with component class name) 
 * `cont_pageView.zoomstep` (qualified with component ID, assuming `cont` is the ID of the container element)
 
-See also [Command reference common to all viewers - Configuration attributes](../../../r-html5-viewer-20-cmdref-configattrib/r-html5-viewer-20-cmdref-configattrib.md#concept-850e0f2c49b949deb7cfbfd330d329bd) 
+See also [Command reference common to all viewers - Configuration attributes](../../../r-html5-viewer-20-cmdref-configattrib/r-html5-viewer-20-cmdref-configattrib.md#concept-850e0f2c49b949deb7cfbfd330d329bd)

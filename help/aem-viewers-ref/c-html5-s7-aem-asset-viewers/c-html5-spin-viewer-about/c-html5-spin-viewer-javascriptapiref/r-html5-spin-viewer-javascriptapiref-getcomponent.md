@@ -7,8 +7,8 @@ title: getComponent
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
+exl-id: f0cb5a99-814f-4c4d-bfe3-bb670c8f9926
 ---
-
 # getComponent{#getcomponent}
 
 JavaScript API reference for Spin Viewer
@@ -93,4 +93,3 @@ See the Viewer SDK API documentation for more information about a particular com
 } 
 })
 ```
-

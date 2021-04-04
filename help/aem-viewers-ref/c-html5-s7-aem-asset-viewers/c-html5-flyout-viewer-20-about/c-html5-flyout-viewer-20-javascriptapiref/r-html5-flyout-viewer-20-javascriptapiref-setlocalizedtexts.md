@@ -7,8 +7,8 @@ title: setLocalizedTexts
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,Business Practitioner
+exl-id: abe33346-303a-4121-b41b-db89ae106e31
 ---
-
 # setLocalizedTexts{#setlocalizedtexts}
 
 JavaScript API reference for Flyout Viewer.
@@ -37,4 +37,3 @@ None.
 ```
 <instance>.setLocalizedTexts({"en":{"FlyoutZoomView.TIP_BUBBLE_OVER":"Mouse over to zoom"},"fr":{"FlyoutZoomView.TIP_BUBBLE_OVER":"Passez la souris sur pour zoomer"},defaultLocale:"en"})
 ```
-

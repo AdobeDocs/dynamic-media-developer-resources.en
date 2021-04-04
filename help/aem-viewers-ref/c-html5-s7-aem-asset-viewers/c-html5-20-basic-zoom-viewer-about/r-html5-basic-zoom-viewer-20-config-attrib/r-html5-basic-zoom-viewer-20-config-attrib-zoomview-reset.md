@@ -5,8 +5,8 @@ title: ZoomView.reset
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
+exl-id: 054cd090-2167-4903-ba19-52bc8606370c
 ---
-
 # ZoomView.reset{#zoomview-reset}
 
  `[ZoomView.|<containerId>_zoomView.]reset=0|1`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-96e69b70365f461dae4399e49044ea2f}
 
-`reset=0` 
+`reset=0`

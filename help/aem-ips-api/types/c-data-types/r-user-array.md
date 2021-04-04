@@ -4,8 +4,8 @@ solution: Experience Manager
 title: UserArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 0b06cc8e-5bc7-4d0f-bfdc-24d53cb5deea
 ---
-
 # UserArray{#userarray}
 
 An array of users.
@@ -17,4 +17,3 @@ An array of users.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:User`  | An array of users.  |
-

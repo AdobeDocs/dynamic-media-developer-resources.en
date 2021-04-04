@@ -4,8 +4,8 @@ solution: Experience Manager
 title: deletePropertySetType
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 97ec0f41-794f-4340-b86d-ab07a742d447
 ---
-
 # deletePropertySetType{#deletepropertysettype}
 
 Deletes a property set type and its associated property set and properties.
@@ -45,4 +45,4 @@ This code sample uses the type’s handle as a field in the `deletePropertySetTy
 
 **Response**
 
-None. 
+None.

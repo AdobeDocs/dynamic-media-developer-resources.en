@@ -4,8 +4,8 @@ solution: Experience Manager
 title: createFolder
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 569130ae-5515-4b14-a410-2bd6f9fc7638
 ---
-
 # [!DNL createFolder]{#createfolder}
 
 Creates a folder.
@@ -64,4 +64,3 @@ This sample code creates a folder at the root of a company. The response returns
    <folderHandle xmlns="http://www.scene7.com/IpsApi/xsd">MyCompany/SpinSets/</folderHandle>
 </ns1:createFolderReturn>
 ```
-

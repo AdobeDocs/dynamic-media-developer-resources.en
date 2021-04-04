@@ -7,8 +7,8 @@ title: Localization of user interface elements
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
+exl-id: c386a09c-21ce-4105-b416-e6ae50219af0
 ---
-
 # Localization of user interface elements{#localization-of-user-interface-elements}
 
 Certain content that the Video Viewer displays is subject to localization, including zoom buttons and a full screen button.
@@ -103,4 +103,3 @@ The following SYMBOLs are supported:
   </tr> 
  </tbody> 
 </table>
-

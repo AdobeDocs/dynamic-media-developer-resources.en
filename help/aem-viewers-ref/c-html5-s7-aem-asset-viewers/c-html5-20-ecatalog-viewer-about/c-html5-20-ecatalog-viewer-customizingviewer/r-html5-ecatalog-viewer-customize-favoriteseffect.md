@@ -7,8 +7,8 @@ title: Favorites effect
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: e87226cf-56bf-4d54-8df5-91295eae90a8
 ---
-
 # Favorites effect{#favorites-effect}
 
 The viewer displays Favorites icons over the main view in places where it was originally added by the user.
@@ -86,4 +86,3 @@ cursor: not-allowed;
 cursor: auto; 
 }
 ```
-

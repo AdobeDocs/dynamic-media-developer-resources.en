@@ -7,8 +7,8 @@ title: Large previous page button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: 51c2fe1a-c14e-4a87-887b-f97546a517a4
 ---
-
 # Large previous page button{#large-previous-page-button}
 
 Clicking or tapping on this button brings the user to the previous page in the catalog. This button appears in the main control bar. This button is not displayed on mobile phones to save screen real estate. You can size, skin, and position this button by using CSS.
@@ -93,4 +93,3 @@ background-image:url(images/v2/LeftButton_dark_down.png);
 background-image:url(images/v2/LeftButton_dark_disabled.png); 
 }
 ```
-

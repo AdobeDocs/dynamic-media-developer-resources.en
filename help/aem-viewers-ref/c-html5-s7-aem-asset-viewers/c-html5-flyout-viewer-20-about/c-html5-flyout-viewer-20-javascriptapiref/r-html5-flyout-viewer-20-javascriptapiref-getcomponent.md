@@ -7,8 +7,8 @@ title: getComponent
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,Business Practitioner
+exl-id: 618d34af-32d0-45bd-928d-7a4e084edbe6
 ---
-
 # getComponent{#getcomponent}
 
 JavaScript API reference for Flyout Viewer
@@ -69,4 +69,3 @@ See the Viewer SDK API documentation for more information about a particular com
 } 
 })
 ```
-

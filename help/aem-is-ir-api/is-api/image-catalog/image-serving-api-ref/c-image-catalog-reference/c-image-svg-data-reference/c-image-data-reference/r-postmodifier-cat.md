@@ -4,8 +4,8 @@ solution: Experience Manager
 title: PostModifier
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 7d6c9408-1f09-464d-8a69-eabdf7c0117d
 ---
-
 # PostModifier{#postmodifier}
 
 Postfix request modifier string. None or more Image Serving commands separated by '&' characters.
@@ -30,4 +30,4 @@ None.
 
 ## See also {#section-8942f70e40f44dc48df51b4d8d0a7cde}
 
-[catalog::Modifier](../../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-modifier-cat.md#reference-d2c6884b3a2248fab81a112d27969834) 
+[catalog::Modifier](../../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-modifier-cat.md#reference-d2c6884b3a2248fab81a112d27969834)

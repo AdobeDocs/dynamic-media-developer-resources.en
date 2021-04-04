@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getImageFormats
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: c2fa4cdd-fb4f-4e6a-8197-8f64c986c3a0
 ---
-
 # getImageFormats{#getimageformats}
 
 Returns image formats, such as PDF, EPS, SWF, and others.
@@ -55,4 +55,3 @@ This code sample returns all image formats for the specified company.
    <imageFormatArray></imageFormatArray>
 </getImageFormatsReturn>
 ```
-

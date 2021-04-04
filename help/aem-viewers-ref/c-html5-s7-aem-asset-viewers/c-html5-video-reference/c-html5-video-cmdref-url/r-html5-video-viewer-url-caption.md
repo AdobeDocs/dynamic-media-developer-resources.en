@@ -7,8 +7,8 @@ title: caption
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
+exl-id: a9af3335-ae18-4399-9014-47ec0306a087
 ---
-
 # caption{#caption}
 
 URL command for Video Viewer.
@@ -82,4 +82,3 @@ None.
 ```
 caption=Scene7SharedAssets/adobe_qbc_final_cc,1
 ```
-

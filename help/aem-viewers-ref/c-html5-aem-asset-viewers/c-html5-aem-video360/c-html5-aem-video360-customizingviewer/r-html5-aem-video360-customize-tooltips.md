@@ -7,8 +7,8 @@ title: Tooltips
 
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
+exl-id: 051bfbed-103e-4fcf-9f01-93f03730397a
 ---
-
 # Tooltips{#tooltips}
 
 On desktop systems some user interface elements such as buttons have tooltips that are displayed on mouse hover.
@@ -74,4 +74,3 @@ Example - To set up tooltips that have a grey border with a three pixel corner r
  font-size: 11px; 
 }
 ```
-

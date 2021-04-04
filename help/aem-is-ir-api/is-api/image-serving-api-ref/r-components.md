@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Image Serving components
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 67dd37f3-b11e-42d6-b308-7c1e76a8f2a9
 ---
-
 # Image Serving components{#image-serving-components}
 
 Scene 7 Image Serving consists of the following components:
@@ -57,4 +57,4 @@ Scene 7 Image Serving consists of the following components:
  </tbody> 
 </table>
 
-Additional configuration settings are provided by the default catalog ( [!DNL default.ini]) or specific image catalogs (see [Image Catalogs](../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-overview/c-overview.md#concept-9ce2b6a133de45f783e95cabc5810ac3) for details). 
+Additional configuration settings are provided by the default catalog ( [!DNL default.ini]) or specific image catalogs (see [Image Catalogs](../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-overview/c-overview.md#concept-9ce2b6a133de45f783e95cabc5810ac3) for details).

@@ -7,8 +7,8 @@ title: eCatalogSearchViewer
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: a7289d23-b2f6-4730-99fa-331174968e05
 ---
-
 # eCatalogSearchViewer{#ecatalogsearchviewer}
 
 JavaScript API reference for eCatalog SearchViewer.
@@ -64,4 +64,3 @@ defaultLocale:"en"
 } 
 });
 ```
-

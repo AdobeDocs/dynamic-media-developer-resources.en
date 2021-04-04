@@ -7,8 +7,8 @@ title: Interactive data support
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: 9118bf02-16ae-4dab-92e4-17347e866cc9
 ---
-
 # Interactive data support{#interactive-data-support}
 
 The Interactive Video Viewer supports rendering interactive swatches based on interactive data passed to the viewer as a configuration parameter.
@@ -23,4 +23,4 @@ These types of interactive swatches should be authored using the action type "qu
 
 ## Redirect to an external web page {#section-32ebe3c3a7f74892a428c5d48801de4d}
 
-Swatches authored for the action type "quickview" in AEM Assets - on-demand redirect the user to an external URL. Depending on the settings at the time of authoring, the URL can open either in a new browser tab, in the same window, or in the named browser window. 
+Swatches authored for the action type "quickview" in AEM Assets - on-demand redirect the user to an external URL. Depending on the settings at the time of authoring, the URL can open either in a new browser tab, in the same window, or in the named browser window.

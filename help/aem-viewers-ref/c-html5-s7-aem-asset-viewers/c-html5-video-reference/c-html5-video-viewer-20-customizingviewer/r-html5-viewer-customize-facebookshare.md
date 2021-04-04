@@ -7,8 +7,8 @@ title: Facebook share
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
+exl-id: 6b7e043f-6a9f-48ba-b811-3c94fe5c32f1
 ---
-
 # Facebook share{#facebook-share}
 
 Facebook share tool consists of a button added to the Social share panel. When the button is clicked the user is redirected to a sharing dialog box that is provided by a social service. The position of the button is fully managed by the Social share tool.
@@ -72,4 +72,3 @@ background-image:url(images/v2/FacebookShare_dark_down.png);
 background-image:url(images/v2/FacebookShare_dark_disabled.png); 
 }
 ```
-

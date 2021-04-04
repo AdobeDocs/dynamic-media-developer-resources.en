@@ -7,8 +7,8 @@ title: ControlBar.transition
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
+exl-id: 133717c7-38d9-47b6-86bb-e23ebd8f147a
 ---
-
 # ControlBar.transition{#controlbar-transition}
 
 Configuration attribute for Video Viewer.
@@ -45,4 +45,3 @@ Optional.
 ```
 transition=none
 ```
-

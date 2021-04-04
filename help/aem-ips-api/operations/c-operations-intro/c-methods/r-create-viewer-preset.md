@@ -5,8 +5,8 @@ title: createViewerPreset
 
 feature: Dynamic Media Classic,SDK/API,Viewer Presets
 role: Developer,Administrator
+exl-id: b24536d9-df66-4c94-8467-6f46e66a1b36
 ---
-
 # createViewerPreset{#createviewerpreset}
 
 Creates a preset view that determines what a user can see. The viewer can be of any type available in IPS. The preset view is applied when the assets are published.
@@ -73,4 +73,3 @@ This code sample creates a video player preset. The response returns a handle to
    <viewerPresetHandle>a|151760|40|151760</viewerPresetHandle>
 </createViewerPresetReturn>
 ```
-

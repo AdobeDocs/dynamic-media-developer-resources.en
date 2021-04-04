@@ -7,8 +7,8 @@ title: Search effect
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: 3591edb0-4b0a-4761-af87-c372132c5138
 ---
-
 # Search effect{#search-effect}
 
 The viewer displays search result regions over the main view to highlight words or phrases found in the catalog.
@@ -43,4 +43,3 @@ Example - to set up search result regions with a semi-transparent, yellow fill:
  background: rgba(255,255,0, 0.5); 
 }
 ```
-

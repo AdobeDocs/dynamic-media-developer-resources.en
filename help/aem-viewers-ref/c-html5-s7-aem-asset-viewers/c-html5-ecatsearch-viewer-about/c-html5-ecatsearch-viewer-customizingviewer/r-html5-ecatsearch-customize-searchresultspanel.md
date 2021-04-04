@@ -7,8 +7,8 @@ title: Search results panel
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: ffbbc2ae-60da-4c3d-a350-6dbcb64e189d
 ---
-
 # Search results panel{#search-results-panel}
 
 The search results panel consists of the search input box at the top and the main area where informational messages or search results are displayed.
@@ -392,4 +392,3 @@ Example - to set up a scroll up button that is 125 x 35 pixels and has different
 .s7ecatalogsearchviewer .s7searchpanel .s7scrolldownbutton[state='disabled'] { 
  background-image:url(images/sdk/searchpanel_scroll_down_disabled.png);
 ```
-

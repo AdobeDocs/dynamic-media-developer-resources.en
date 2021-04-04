@@ -7,8 +7,8 @@ title: FavoritesMenu.bearing
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: f08545fd-f039-41a1-ad0b-430ce7c1bdd1
 ---
-
 # FavoritesMenu.bearing{#favoritesmenu-bearing}
 
 Specifies the direction of slide animation for the buttons container.
@@ -34,4 +34,4 @@ Optional.
 
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
-`bearing=left` 
+`bearing=left`

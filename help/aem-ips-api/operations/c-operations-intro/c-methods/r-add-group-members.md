@@ -4,8 +4,8 @@ solution: Experience Manager
 title: addGroupMembers
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: c03525e3-6bc4-4c6a-bb5b-b0cb2e6f6d0d
 ---
-
 # addGroupMembers{#addgroupmembers}
 
 Adds users from a specific company to a specific group.
@@ -48,4 +48,4 @@ This example uses `*`addGroupMembersParam`*` to add a user to a single company. 
 
 **Response**
 
-None. 
+None.

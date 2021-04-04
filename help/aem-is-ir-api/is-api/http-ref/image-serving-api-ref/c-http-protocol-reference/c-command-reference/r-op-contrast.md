@@ -4,8 +4,8 @@ solution: Experience Manager
 title: op_contrast
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 0216f22e-a3b3-4dda-89c2-9c6c2c81cab3
 ---
-
 # op_contrast{#op-contrast}
 
 Adjust contrast. Adjusts the image contrast by increasing the brightness of pixels with more than 50% brightness, and reducing the brightness of pixels with less than 50% brightness.
@@ -33,4 +33,4 @@ Decrease the contrast and sharpness of a higher quality image layer to visually 
 
 … `&op_blur=3&op_contrast=-12&`
 
-A future release may use the median brightness of the image rather than a fixed 50% brightness. 
+A future release may use the median brightness of the image rather than a fixed 50% brightness.

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: UserData
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 4994c91c-52d7-473d-88ee-f136c4193c40
 ---
-
 # UserData{#userdata}
 
 User data. The server returns the contents of this field to the client in response to req=userdata.
@@ -24,4 +24,4 @@ None.
 
 ## See also {#section-e07a022933b2461d9c37b1f188aa8fb5}
 
-[req=userdata](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-req/r-req.md) , [Text String Localization](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-syntax-and-features/r-text-string-localization.md) 
+[req=userdata](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-req/r-req.md) , [Text String Localization](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-syntax-and-features/r-text-string-localization.md)

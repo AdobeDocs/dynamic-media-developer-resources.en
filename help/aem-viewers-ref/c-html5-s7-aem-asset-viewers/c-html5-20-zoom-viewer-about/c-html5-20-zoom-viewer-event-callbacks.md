@@ -5,8 +5,8 @@ title: Event callbacks
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
+exl-id: 68aa55da-5f6f-4c7d-8d3f-c25de9cc325c
 ---
-
 # Event callbacks{#event-callbacks}
 
 The viewer supports JavaScript event callbacks that the web page uses to track the viewer initialization process or runtime behavior.
@@ -25,4 +25,4 @@ Supported viewer events include the following:
     * `timeStamp {Number}` event time stamp. 
     * `eventInfo {String}` event payload.
 
-See also [ZoomViewer](../../c-html5-s7-aem-asset-viewers/c-html5-20-zoom-viewer-about/c-html5-20-zoom-viewer-javascriptapiref/r-html5-zoom-viewer-20-javascriptapiref-zoomviewer.md#reference-bd16cadc0c054fafb0db4994741d47cd) and [setHandlers](../../c-html5-s7-aem-asset-viewers/c-html5-20-zoom-viewer-about/c-html5-20-zoom-viewer-javascriptapiref/r-html5-zoom-viewer-20-javascriptapiref-sethandlers.md#reference-d76f126ac4354dc282e56afd49a0c643). 
+See also [ZoomViewer](../../c-html5-s7-aem-asset-viewers/c-html5-20-zoom-viewer-about/c-html5-20-zoom-viewer-javascriptapiref/r-html5-zoom-viewer-20-javascriptapiref-zoomviewer.md#reference-bd16cadc0c054fafb0db4994741d47cd) and [setHandlers](../../c-html5-s7-aem-asset-viewers/c-html5-20-zoom-viewer-about/c-html5-20-zoom-viewer-javascriptapiref/r-html5-zoom-viewer-20-javascriptapiref-sethandlers.md#reference-d76f126ac4354dc282e56afd49a0c643).

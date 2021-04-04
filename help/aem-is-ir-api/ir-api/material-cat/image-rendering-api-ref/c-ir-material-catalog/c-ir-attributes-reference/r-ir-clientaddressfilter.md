@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ClientAddressFilter
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 24046950-1dba-4352-a549-43994e799748
 ---
-
 # ClientAddressFilter{#clientaddressfilter}
 
 Client IP address filter. Allows specification of one or more IP addresses or address ranges.
@@ -38,4 +38,4 @@ Inherited from `default::AddressFilter` if not defined or if empty.
 
 ## See also {#section-6198780c7b3045aabd211eefb38bc565}
 
-[addressfilter](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-clientaddressfilter.md#reference-52a541cec0b0424faf263d1fb4946b5f) 
+[addressfilter](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-clientaddressfilter.md#reference-52a541cec0b0424faf263d1fb4946b5f)

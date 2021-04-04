@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Job Types
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: c833c6f7-0f72-485d-8ad1-3620db7c320a
 ---
-
 # Job Types{#job-types}
 
 Used by ActiveJob/type and ScheduledJob/type.
@@ -24,4 +24,3 @@ Used by ActiveJob/type and ScheduledJob/type.
 * `MetadataUpload`
 * `ImageOptimization`
 * `Cleanup`
-

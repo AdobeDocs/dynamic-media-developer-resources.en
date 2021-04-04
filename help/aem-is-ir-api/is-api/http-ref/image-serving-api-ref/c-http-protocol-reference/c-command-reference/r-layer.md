@@ -4,8 +4,8 @@ solution: Experience Manager
 title: layer
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: f1200d86-d88c-4990-ae36-2ce96ae94343
 ---
-
 # layer{#layer}
 
 Select Layer. Selects a layer and starts a new layer definition segment in the command sequence.
@@ -69,4 +69,4 @@ Layer command. Substitution variable references are not supported in `layer=`.
 
 ## Example {#section-cc40de6a0a754178aa752601539c815b}
 
-See the examples in [Templates](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-templates/c-templates.md#concept-3cd2d2adae0e41b2979b9640244d4d3e). 
+See the examples in [Templates](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-templates/c-templates.md#concept-3cd2d2adae0e41b2979b9640244d4d3e).

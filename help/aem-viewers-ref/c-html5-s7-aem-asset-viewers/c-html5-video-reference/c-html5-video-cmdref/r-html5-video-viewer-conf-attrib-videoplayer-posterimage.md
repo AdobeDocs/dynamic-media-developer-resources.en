@@ -7,8 +7,8 @@ title: VideoPlayer.posterimage
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
+exl-id: c09884e2-60a1-4fce-997a-29747b4ccb7b
 ---
-
 # VideoPlayer.posterimage{#videoplayer-posterimage}
 
 Configuration attribute for Video Viewer.
@@ -42,4 +42,3 @@ None.
 ```
 posterimage=none
 ```
-

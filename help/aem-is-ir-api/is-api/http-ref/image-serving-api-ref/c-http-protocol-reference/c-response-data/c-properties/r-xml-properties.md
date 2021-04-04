@@ -4,8 +4,8 @@ solution: Experience Manager
 title: XML properties
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 84cae0cd-d13b-409e-bd65-71c7e973d4b8
 ---
-
 # XML properties{#xml-properties}
 
 If xml is specified as the response format, the reply data is formatted as an XML document which can be parsed by any standard XML parser.
@@ -38,4 +38,3 @@ The `<prop-group>` element is used as the outermost container, and for grouping 
 >[!NOTE]
 >
 >Character encoding may be specified for some `req=` types. Refer to the description of the specific `req=`command for details.
-

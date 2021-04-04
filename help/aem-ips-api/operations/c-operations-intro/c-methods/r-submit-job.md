@@ -4,8 +4,8 @@ solution: Experience Manager
 title: submitJob
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: b1dc7a0e-da9a-4086-822b-5274bd62eadf
 ---
-
 # submitJob{#submitjob}
 
 Submits a job to the system.
@@ -188,4 +188,3 @@ You can specify at most one of `execTime` and `execSchedule`. If neither is pass
 * `serverDirectoryPublishJob` 
 * `uploadDirectoryJob` 
 * `uploadUrlsJob`
-

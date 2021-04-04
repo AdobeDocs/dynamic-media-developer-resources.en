@@ -4,8 +4,8 @@ solution: Experience Manager
 title: effect
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: d1eaa38d-cfd3-44d4-92b1-04d72333f867
 ---
-
 # effect{#effect}
 
 Select Effect Layer. Selects an effect layer and starts a new layer segment in the request string, which is associated with the current layer.
@@ -41,4 +41,4 @@ None.
 
 ## See also {#section-573273e9e0e64103a5764075f5e50180}
 
-` [layer=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-layer.md#reference-0f8d7fbef64841dd855917bd8fc22e6d)` 
+` [layer=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-layer.md#reference-0f8d7fbef64841dd855917bd8fc22e6d)`

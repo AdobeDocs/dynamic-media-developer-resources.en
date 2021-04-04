@@ -4,8 +4,8 @@ solution: Experience Manager
 title: quantize
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 71d59961-848e-4d78-875e-066e842ac1bf
 ---
-
 # quantize{#quantize}
 
 Color quantization. Specifies color-quantization attributes for GIF output conversion.
@@ -55,4 +55,4 @@ Convert image to a bi-tonal GIF with key-color transparency and force colors to 
 
 ## See also {#section-ea5e8de6084540cf86010370a4d0f01f}
 
-[fmt=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-is-http-fmt.md#reference-cdf10043423b45ba9fe15157fb3ae37a) , [color](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-data-types/r-is-http-color.md) 
+[fmt=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-is-http-fmt.md#reference-cdf10043423b45ba9fe15157fb3ae37a) , [color](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-data-types/r-is-http-color.md)

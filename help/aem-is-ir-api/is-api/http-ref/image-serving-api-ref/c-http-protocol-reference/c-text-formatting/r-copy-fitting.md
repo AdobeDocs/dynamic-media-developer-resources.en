@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Copy-fitting
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: d1a560f3-f92c-4143-b80a-e1674c8a4207
 ---
-
 # Copy-fitting{#copy-fitting}
 
 textPs= implements a proprietary copy-fitting algorithm which will automatically adjust the font size(s) to optimally fill the text area with text, minimizing extra space at the bottom while avoiding overflow.
@@ -60,4 +60,4 @@ The font size for *[!DNL $A$]* and *[!DNL $C$]* can vary between 10 and 100, whi
 
 **Limit the output to a single line, even if more vertical space is available. If too much text is specified to fit into a single line at `\fs10` it will be truncated:**
 
-`{\fs10\copyfit100 \copyfitmaxlines1 $A$}` 
+`{\fs10\copyfit100 \copyfitmaxlines1 $A$}`

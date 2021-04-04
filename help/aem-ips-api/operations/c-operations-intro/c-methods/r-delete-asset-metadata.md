@@ -4,8 +4,8 @@ solution: Experience Manager
 title: deleteAssetMetadata
 feature: Dynamic Media Classic,SDK/API,Metadata,Asset Management
 role: Developer,Administrator
+exl-id: ce9b8dff-efc0-4427-9f50-10269647187f
 ---
-
 # deleteAssetMetadata{#deleteassetmetadata}
 
 Deletes metadata values for an asset. Works with an array of metadata delete to set values in a batch.
@@ -97,4 +97,3 @@ Example call
  </deleteAssetMetadataParam>
 </ac:Request>
 ```
-

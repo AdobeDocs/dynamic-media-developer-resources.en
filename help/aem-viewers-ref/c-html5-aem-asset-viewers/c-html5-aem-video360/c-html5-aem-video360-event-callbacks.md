@@ -5,8 +5,8 @@ title: Event callbacks
 
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
+exl-id: 24ea35c0-a0b1-4768-9336-94eb5e2d4fb2
 ---
-
 # Event callbacks{#event-callbacks}
 
 The viewer supports JavaScript event callbacks that the web page uses to track the viewer initialization process or runtime behavior.
@@ -24,4 +24,4 @@ Supported viewer events include the following:
     * `timeStamp {Number}` event time stamp. 
     * `eventInfo {String}` event payload.
 
-See also [Video360Viewer](../../c-html5-aem-asset-viewers/c-html5-aem-video360/c-html5-aem-video360-javascriptapiref/r-html5-aem-video360-javascriptapiref-video360viewer.md#reference-bd16cadc0c054fafb0db4994741d47cd) and [setHandlers](../../c-html5-aem-asset-viewers/c-html5-aem-video360/c-html5-aem-video360-javascriptapiref/r-html5-aem-video360-javascriptapiref-sethandlers.md#reference-d76f126ac4354dc282e56afd49a0c643). 
+See also [Video360Viewer](../../c-html5-aem-asset-viewers/c-html5-aem-video360/c-html5-aem-video360-javascriptapiref/r-html5-aem-video360-javascriptapiref-video360viewer.md#reference-bd16cadc0c054fafb0db4994741d47cd) and [setHandlers](../../c-html5-aem-asset-viewers/c-html5-aem-video360/c-html5-aem-video360-javascriptapiref/r-html5-aem-video360-javascriptapiref-sethandlers.md#reference-d76f126ac4354dc282e56afd49a0c643).

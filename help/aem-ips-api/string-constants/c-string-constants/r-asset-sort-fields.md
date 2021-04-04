@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Asset Sort Fields
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: 6652fe0e-4042-40b0-b5ec-e8533ee42aa2
 ---
-
 # Asset Sort Fields{#asset-sort-fields}
 
 Used by searchAssetsParam/sortBy.
@@ -19,4 +19,3 @@ Used by searchAssetsParam/sortBy.
 * [!DNL `Name`] 
 * [!DNL `AssetType`] 
 * [!DNL `FileSize`]
-

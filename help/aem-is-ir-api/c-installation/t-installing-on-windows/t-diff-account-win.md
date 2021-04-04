@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Installing under a different user account than administrator
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: 20bb00cb-3af6-4573-bbff-8c4f984ed2ae
 ---
-
 # Installing under a different user account than administrator{#installing-under-a-different-user-account-than-administrator}
 
 After installation you will need to setup services to run under the other user account.

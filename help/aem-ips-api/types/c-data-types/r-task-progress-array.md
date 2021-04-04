@@ -4,8 +4,8 @@ solution: Experience Manager
 title: TaskProgressArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: ac86ddcb-dc10-44b8-b007-4f54f7367c41
 ---
-
 # TaskProgressArray{#taskprogressarray}
 
 A task progress array. Contains information about video transcoding tasks.
@@ -17,4 +17,3 @@ A task progress array. Contains information about video transcoding tasks.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`item`*`  | `types:TaskProgress`  | Task progress items. Minimum occurrence is zero. Maximum occurrence is unbounded.  |
-

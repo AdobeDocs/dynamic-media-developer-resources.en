@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getUniqueMetadataValues
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
+exl-id: ac5f5667-6c94-425c-bc01-f9df48d16e00
 ---
-
 # getUniqueMetadataValues{#getuniquemetadatavalues}
 
 Gets unique metadata field values.
@@ -59,4 +59,3 @@ This code sample uses a field handle to return specific metadata values.
    </values>
 </getUniqueMetadataValuesReturn>
 ```
-

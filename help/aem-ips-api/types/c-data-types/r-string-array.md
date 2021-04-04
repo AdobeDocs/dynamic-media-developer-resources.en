@@ -4,8 +4,8 @@ solution: Experience Manager
 title: StringArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 1d380460-6634-4a63-a853-5a23e54b3f67
 ---
-
 # StringArray{#stringarray}
 
 An array of strings.
@@ -17,4 +17,3 @@ An array of strings.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `xsd:string`  | An array of strings.  |
-

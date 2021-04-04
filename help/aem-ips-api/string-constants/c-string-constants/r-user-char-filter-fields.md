@@ -4,8 +4,8 @@ solution: Experience Manager
 title: User Char Filter Fields
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 40ba507b-6859-4b37-b801-c6f21d12e98e
 ---
-
 # User Char Filter Fields{#user-char-filter-fields}
 
 Used by getUsersParam and getUserCharsParam/charField.
@@ -20,4 +20,3 @@ Used by getUsersParam and getUserCharsParam/charField.
 * [!DNL `Email`] 
 * [!DNL `StartsWith`] 
 * [!DNL `EndsWith`]
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Change log
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 15228b48-90a8-4d45-ade3-d5c6962549eb
 ---
-
 # Change log{#change-log}
 
 * [Version 6.0](c-change-log/c-6/c-6.md)

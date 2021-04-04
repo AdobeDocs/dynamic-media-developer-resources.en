@@ -7,8 +7,8 @@ title: setVideo
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
+exl-id: c89099f6-09f7-4d81-939e-90ffa2764c8c
 ---
-
 # setVideo{#setvideo}
 
 JavaScript API reference for Video Viewer
@@ -48,4 +48,3 @@ None.
 ```
 <instance>.setVideo("https://s7d9.scene7.com/is/content/Scene7SharedAssets/Glacier_Climber_MP4")
 ```
-

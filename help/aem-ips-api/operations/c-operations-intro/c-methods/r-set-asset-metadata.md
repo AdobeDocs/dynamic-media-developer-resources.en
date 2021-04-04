@@ -4,8 +4,8 @@ solution: Experience Manager
 title: setAssetMetadata
 feature: Dynamic Media Classic,SDK/API,Metadata,Asset Management
 role: Developer,Administrator
+exl-id: 811e44e1-774a-49bd-a2bd-a7504e5f7f5f
 ---
-
 # setAssetMetadata{#setassetmetadata}
 
 Sets metadata values for an asset. Works with an array of metadata updates to set values in a batch.
@@ -60,4 +60,4 @@ This code sample uses an array of metadata updates to set the metadata of the sp
 
 **Response**
 
-None. 
+None.

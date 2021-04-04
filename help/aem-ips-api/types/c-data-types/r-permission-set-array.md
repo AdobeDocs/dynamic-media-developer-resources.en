@@ -4,8 +4,8 @@ solution: Experience Manager
 title: PermissionSetArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: b6019cf9-8c3a-48a7-b7bb-fa2191a958fa
 ---
-
 # PermissionSetArray{#permissionsetarray}
 
  Syntax 
@@ -15,4 +15,3 @@ role: Developer,Administrator
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:PermissionSet`  | Array of permission sets.  |
-

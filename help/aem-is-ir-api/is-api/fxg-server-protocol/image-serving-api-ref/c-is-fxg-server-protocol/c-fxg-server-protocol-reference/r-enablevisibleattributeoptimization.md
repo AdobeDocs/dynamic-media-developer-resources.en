@@ -4,8 +4,8 @@ solution: Experience Manager
 title: enableVisibleAttributeOptimization
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: a643694e-f6a2-424e-8f6e-3dbb4cdc41b3
 ---
-
 # enableVisibleAttributeOptimization{#enablevisibleattributeoptimization}
 
 Enables the optimization of FXG.
@@ -19,4 +19,4 @@ Enables the optimization of FXG.
 
 Removes the elements whose visibility is set as false in FXG while passing this FXG which in turn reduces the processing time of FXG. Though it removes only those elements with visibility as false that would not impact any other element in FXG. For example, if there is text on `Path` and visibility of `Path` is set as false, then it is not removed from FXG even with this modifier enabled because text needs to be drawn on this path.
 
-Default is 1. 
+Default is 1.

@@ -7,8 +7,8 @@ title: Full screen button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
+exl-id: 0cb2b1bd-154e-41d8-bd9f-69a1cfc72902
 ---
-
 # Full screen button{#full-screen-button}
 
 The full screen button causes the video player to enter or exit full screen mode when a user clicks it.
@@ -102,4 +102,3 @@ background-image:url(images/exitFullBtn_down.png);
 background-image:url(images/exitFullBtn_disabled.png); } 
 }
 ```
-

@@ -7,8 +7,8 @@ title: setLocalizedTexts
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 19bc61be-4321-434a-ae2c-4576c7799c0a
 ---
-
 # setLocalizedTexts{#setlocalizedtexts}
 
 JavaScript API reference for Mixed Media Viewer.
@@ -37,4 +37,3 @@ None.
 ```
 <instance>.setLocalizedTexts({"en":{"CloseButton.TOOLTIP":"Close"},"fr":{"CloseButton.TOOLTIP":"Fermer"},defaultLocale:"en"})
 ```
-

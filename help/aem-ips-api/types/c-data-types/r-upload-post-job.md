@@ -4,8 +4,8 @@ solution: Experience Manager
 title: UploadPostJob
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 60163016-fe96-4ac2-9208-da8192042d0f
 ---
-
 # UploadPostJob{#uploadpostjob}
 
 Uses getActiveJobs to track desktop uploads.
@@ -168,4 +168,3 @@ See also [Uploading assets by way of HTTP POSTs to the Upload...](../../c-http-p
   </tr> 
  </tbody> 
 </table>
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Common data types
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: f9654c04-62c7-4820-a7e0-9242c8673e7d
 ---
-
 # Common data types{#common-data-types}
 
 Catalog attributes and fields may contain data of one of the following types.

@@ -7,8 +7,8 @@ title: View All Favorites button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: e07da96d-e6ad-4257-afdb-f6967fb83f52
 ---
-
 # View All Favorites button{#view-all-favorites-button}
 
 The position of the button is fully managed by the Favorites menu.
@@ -82,4 +82,3 @@ background-image:url(images/v2/ViewAllFavoritesButton_dark_over.png);
 background-image:url(images/v2/ViewAllFavoritesButton_dark_disabled.png); 
 }
 ```
-

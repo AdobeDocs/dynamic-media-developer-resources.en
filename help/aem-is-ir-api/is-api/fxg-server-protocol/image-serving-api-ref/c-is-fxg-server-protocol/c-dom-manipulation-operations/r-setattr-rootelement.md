@@ -4,8 +4,8 @@ solution: Experience Manager
 title: setAttr.rootElement
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 47bd947f-c078-4fd3-99cb-5ef48ea3e05e
 ---
-
 # setAttr.rootElement{#setattr-rootelement}
 
 Set attributes to FXG Root element.
@@ -26,4 +26,4 @@ After applying the following command:
 
 The root element is now changed to the following:
 
-`<Graphic xmlns="http://ns.adobe.com/fxg/2008" xmlns:ai="http://ns.adobe.com/ai/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:s7="http://ns.adobe.com/S7FXG/2008" ai:appVersion="14.0.0.367" d:id="1" s7:appVersion="1.0.0.11" version="1.0" viewHeight="300" viewWidth="200">` 
+`<Graphic xmlns="http://ns.adobe.com/fxg/2008" xmlns:ai="http://ns.adobe.com/ai/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:s7="http://ns.adobe.com/S7FXG/2008" ai:appVersion="14.0.0.367" d:id="1" s7:appVersion="1.0.0.11" version="1.0" viewHeight="300" viewWidth="200">`

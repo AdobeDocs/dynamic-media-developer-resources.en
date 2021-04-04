@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Image layer commands
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 142e3fbb-93d6-4072-8e49-b7a7484106d8
 ---
-
 # Image layer commands{#image-layer-commands}
 
 These commands apply to image layers, in addition to the common layer commands.
@@ -16,4 +16,3 @@ These commands apply to image layers, in addition to the common layer commands.
   <td class="stentry"> <p>Specifies the source image. </p></td> 
  </tr> 
 </table>
-

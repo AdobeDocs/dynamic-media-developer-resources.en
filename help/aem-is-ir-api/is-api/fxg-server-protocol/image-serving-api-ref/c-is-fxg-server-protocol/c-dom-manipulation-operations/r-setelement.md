@@ -4,8 +4,8 @@ solution: Experience Manager
 title: setElement
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 979e6070-6e24-4caf-9d87-2c80b734c996
 ---
-
 # setElement{#setelement}
 
 Set XML to a s7:elementID.
@@ -20,4 +20,4 @@ Assume a `s7:elementID="group2"` attribute is defined for a `Group` node then th
 
 `&setElement.group2=<TextGraphic+fontFamily%3D"DefaultFont"+fontSize%3D"50"+x%3D"20"+y%3D"500"><content><p><span>New+Text+Graphic+Tag+For+Demo<%2Fspan><%2Fp><%2Fcontent><%2FTextGraphic>`
 
-This example removes all children from the `group2`node and replaces it with new `TextGraphic` child node. 
+This example removes all children from the `group2`node and replaces it with new `TextGraphic` child node.

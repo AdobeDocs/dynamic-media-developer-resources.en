@@ -7,8 +7,8 @@ title: FlyoutViewer
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,Business Practitioner
+exl-id: b64f16c8-03bf-4603-972f-845a4c1e2b02
 ---
-
 # FlyoutViewer{#flyoutviewer}
 
 JavaScript API reference for Flyout Viewer.
@@ -63,4 +63,3 @@ defaultLocale:"en"
 } 
 });
 ```
-

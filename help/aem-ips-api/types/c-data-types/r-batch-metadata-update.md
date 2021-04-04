@@ -4,8 +4,8 @@ solution: Experience Manager
 title: BatchMetadataUpdate
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
+exl-id: 07998708-f7c2-42bc-b128-c81f86fd1760
 ---
-
 # BatchMetadataUpdate{#batchmetadataupdate}
 
 Updates metadata in batch mode.
@@ -18,4 +18,3 @@ Updates metadata in batch mode.
 |---|---|---|
 |  `*`assetHandleArray`*`  | `types:HandleArray`  | Array of asset handles.  |
 |  `*`updateArray`*`  | `types:MetadataUpdateArray`  | Array of metadata update handles.  |
-

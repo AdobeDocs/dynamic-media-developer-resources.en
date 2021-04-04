@@ -7,8 +7,8 @@ title: EmbedShare.embedsizes
 
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
+exl-id: 3a6c23dd-5e2c-4149-aa24-37d445128125
 ---
-
 # EmbedShare.embedsizes{#embedshare-embedsizes}
 
 Configuration attribute for Video360 Viewer.
@@ -47,4 +47,3 @@ Optional.
 ```
 embedsizes=800,600;640,480,1
 ```
-

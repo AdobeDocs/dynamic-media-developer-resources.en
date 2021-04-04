@@ -5,8 +5,8 @@ title: SpinView.sensitivity
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
+exl-id: 256cffae-d284-4f46-a2dc-4618ea7eda57
 ---
-
 # SpinView.sensitivity{#spinview-sensitivity}
 
  ` [SpinView.|<containerId>_spinView.]sensitivity= *`xSensitivity`*[, *`ySensitivity`*]`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`sensitivity=4,-2` 
+`sensitivity=4,-2`

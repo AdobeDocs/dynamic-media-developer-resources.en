@@ -4,8 +4,8 @@ solution: Experience Manager
 title: addTagFieldValues
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 099263e4-8214-46eb-898e-7a28c4f25598
 ---
-
 # addTagFieldValues{#addtagfieldvalues}
 
 Adds new tag values to the dictionary of an existing tag field.
@@ -49,4 +49,4 @@ The IPS API does not return a response for this operation.
 
 **Response**
 
-None. 
+None.

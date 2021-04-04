@@ -7,8 +7,8 @@ title: JavaScript API reference for Inline Zoom Viewer
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,Business Practitioner
+exl-id: 0bebc7a8-c98c-4c85-a1d6-fccecccd53e0
 ---
-
 # JavaScript API reference for Inline Zoom Viewer{#javascript-api-reference-for-inline-zoom-viewer}
 
 The main class of the Inline Zoom Viewer is FlyoutViewer. It is declared in the s7viewers namespace. This JavaScript API covers constructor, methods, and call backs of this particular class.

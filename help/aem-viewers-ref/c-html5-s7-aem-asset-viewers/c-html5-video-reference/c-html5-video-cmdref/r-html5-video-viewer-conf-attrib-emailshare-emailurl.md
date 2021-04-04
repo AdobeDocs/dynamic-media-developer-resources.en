@@ -7,8 +7,8 @@ title: EmailShare.emailurl
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
+exl-id: 6126d7de-5d5f-4a8a-898e-8a9bb5b37627
 ---
-
 # EmailShare.emailurl{#emailshare-emailurl}
 
 Configuration attribute for Video Viewer.
@@ -37,4 +37,3 @@ Optional.
 ```
 emailurl=http://s7d1.scene7.com/s7/emailFriend
 ```
-

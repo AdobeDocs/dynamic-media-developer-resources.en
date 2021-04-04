@@ -7,8 +7,8 @@ title: Main viewer area
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: 8e5a44fa-422f-46f3-bd85-86bd2ce03899
 ---
-
 # Main viewer area{#main-viewer-area}
 
 The main view area is the area occupied by the interactive swatches. It is usually set to fit the available device screen when no size is specified.
@@ -57,4 +57,3 @@ To set up a viewer with a white background ( `#FFFFFF`) and make its size 512 x 
  height: 288px;  
 }
 ```
-

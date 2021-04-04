@@ -7,8 +7,8 @@ title: setParam
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,Business Practitioner
+exl-id: ef307acb-2ff0-46df-a06b-8dbac2e412f9
 ---
-
 # setParam{#setparam}
 
 JavaScript API reference for Video Image Viewer.
@@ -45,4 +45,3 @@ None.
 ```
 <instance>.setParam("style", "etc/dam/presets/css/html5_interactiveimage.css")
 ```
-

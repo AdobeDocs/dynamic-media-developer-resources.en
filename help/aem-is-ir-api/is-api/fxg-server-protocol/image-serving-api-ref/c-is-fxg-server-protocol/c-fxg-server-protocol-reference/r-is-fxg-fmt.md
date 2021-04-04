@@ -4,8 +4,8 @@ solution: Experience Manager
 title: fmt
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: e179fc51-0461-4000-99eb-4390c35d5606
 ---
-
 # fmt{#fmt}
 
 Response image format.
@@ -97,4 +97,4 @@ The following table lists the valid combinations of format and `pixelType`, the 
 
 ## Example {#section-2135175ab3ec453f9f5388d5690b0da4}
 
-[!DNL http://server/is/agm/myRootId/myImageId?fmt=swf] 
+[!DNL http://server/is/agm/myRootId/myImageId?fmt=swf]

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: EmailShare.emailurl
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: 4ebaed6f-7058-42cc-b3b2-0fe2c1d081e4
 ---
-
 # EmailShare.emailurl{#emailshare-emailurl}
 
 [!DNL ` [EmailShare.|<containerId>_emailShare.]emailurl= *`emailurl`*`]
@@ -29,4 +29,4 @@ Optional.
 
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
-[!DNL `emailurl=http://s7d1.scene7.com/s7/emailFriend`] 
+[!DNL `emailurl=http://s7d1.scene7.com/s7/emailFriend`]

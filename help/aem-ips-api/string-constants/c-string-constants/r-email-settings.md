@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Email Settings
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: f6fb7d58-968a-41c8-b0a8-ccab37e98801
 ---
-
 # Email Settings{#email-settings}
 
 Describes values used by various input parameters. See the list in this article for details.
@@ -28,4 +28,3 @@ Describes values used by various input parameters. See the list in this article 
 * [!DNL `ErrorAndWarning`] 
 * [!DNL `JobCompletion`] 
 * [!DNL `None`]
-

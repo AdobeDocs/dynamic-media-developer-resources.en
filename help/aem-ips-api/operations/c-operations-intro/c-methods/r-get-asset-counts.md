@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getAssetCounts
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: 21cb8023-d6fe-416a-b16f-636df8a37958
 ---
-
 # getAssetCounts{#getassetcounts}
 
 Gets the assets and the number of assets associated with a specific company.
@@ -67,4 +67,3 @@ This code sample uses the company’s handle as a field in the `getAssetCountsPa
    </countArray>
 </getAssetCountsReturn>
 ```
-

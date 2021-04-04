@@ -4,8 +4,8 @@ solution: Experience Manager
 title: printRes
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: de02d058-e538-4d67-9413-e2e47dd2fd67
 ---
-
 # printRes{#printres}
 
 Print resolution. Overrides the print resolution value embedded in the response image.
@@ -29,4 +29,4 @@ Can be specified anywhere in the request.
 
 ## Default {#section-b482aa22ec0a4fba87b3f9007ab6d9ce}
 
-The print resolution embedded in the vignette. 
+The print resolution embedded in the vignette.

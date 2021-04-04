@@ -4,8 +4,8 @@ solution: Experience Manager
 title: op_saturation
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: cd71e27e-6ccc-4ade-9bcf-af8e41bcf381
 ---
-
 # op_saturation{#op-saturation}
 
 Adjust saturation. Changes the saturation of each visible pixel of the layer or composite image.
@@ -33,4 +33,4 @@ Layer command. Applies to the current layer or to the composite image if `layer=
 
 Manipulate a color photograph to achieve a "high-key" appearance:
 
-`http://server/myRootId/myImageId?op_saturation=-60&op_brightness=45&op_contrast=-35` 
+`http://server/myRootId/myImageId?op_saturation=-60&op_brightness=45&op_contrast=-35`

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: WordInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 998988bc-4842-4153-8b6a-af21a80c4e8b
 ---
-
 # WordInfo{#wordinfo}
 
 Properties of a Word file.
@@ -19,4 +19,3 @@ Properties of a Word file.
 |  `*`originalPath`*`  | `xsd:string`  | File path.  |
 |  `*`originalFile`*`  | `xsd:string`  | File name.  |
 |  `*`fileSize`*`  | `xsd:int`  | File size.  |
-

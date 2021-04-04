@@ -4,8 +4,8 @@ solution: Experience Manager
 title: IllustratorInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 4ff75141-4de4-4280-9f7a-901bdfc060fb
 ---
-
 # IllustratorInfo{#illustratorinfo}
 
 Properties of an Adobe Illustrator file.
@@ -19,4 +19,3 @@ Properties of an Adobe Illustrator file.
 |  `*`originalPath`*`  | `xsd:string`  | File path.  |
 |  `*`originalFile`*`  | `xsd:string`  | File name.  |
 |  `*`fileSize`*`  | `xsd:int`  | File size.  |
-

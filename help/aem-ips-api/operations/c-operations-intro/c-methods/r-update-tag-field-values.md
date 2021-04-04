@@ -4,8 +4,8 @@ solution: Experience Manager
 title: updateTagFieldValues
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 6de49217-2d15-49d9-9357-b058b2564686
 ---
-
 # updateTagFieldValues{#updatetagfieldvalues}
 
 Updates tag dictionary values for a tag field.
@@ -113,4 +113,3 @@ Updates tag dictionary values for a tag field.
    </errorDetailArray>
 </updateTagFieldValuesReturn>
 ```
-

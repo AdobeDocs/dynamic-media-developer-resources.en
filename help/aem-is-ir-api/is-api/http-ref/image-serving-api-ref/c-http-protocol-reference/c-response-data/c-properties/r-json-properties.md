@@ -4,8 +4,8 @@ solution: Experience Manager
 title: JSONP properties
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 2294eb37-b362-438f-94bc-eb24ca641752
 ---
-
 # JSONP properties{#jsonp-properties}
 
 If jsonp is specified as the response format, the reply data is formatted using JSONP (JavaScript Object Notation with Padding), wrapped in a JavaScript function call.
@@ -53,4 +53,4 @@ See [http://en.wikipedia.org/wiki/JSONP](http://en.wikipedia.org/wiki/JSONP) for
 
 See [www.json.org](http://www.json.org) for more information about the JSON format.
 
-See also [req](../../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-req/r-req.md#reference-907cdb4a97034db7ad94695f25552e76). 
+See also [req](../../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-req/r-req.md#reference-907cdb4a97034db7ad94695f25552e76).

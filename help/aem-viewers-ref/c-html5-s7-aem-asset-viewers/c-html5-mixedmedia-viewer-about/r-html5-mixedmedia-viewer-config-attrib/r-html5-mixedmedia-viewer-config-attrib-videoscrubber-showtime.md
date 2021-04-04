@@ -5,8 +5,8 @@ title: VideoScrubber.showtime
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: cd141d46-9d73-417e-b789-4d2f0bc6a9eb
 ---
-
 # VideoScrubber.showtime{#videoscrubber-showtime}
 
 `[VideoScrubber.|<containerId>_videoScrubber.]showtime=0|1`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`showtime=0` 
+`showtime=0`

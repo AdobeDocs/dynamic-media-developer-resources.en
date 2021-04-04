@@ -4,8 +4,8 @@ solution: Experience Manager
 title: PostScript Colorspace Modes
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 1083ee53-f9ba-4afe-a62f-98db11c74137
 ---
-
 # PostScript Colorspace Modes{#postscript-colorspace-modes}
 
 Used by PostScriptOptions/colorspace.
@@ -18,4 +18,3 @@ Used by PostScriptOptions/colorspace.
 * [!DNL `Rgb`] 
 * [!DNL `Cmyk`] 
 * [!DNL `Gray`]
-

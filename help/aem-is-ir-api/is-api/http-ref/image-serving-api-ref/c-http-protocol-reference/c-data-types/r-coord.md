@@ -4,8 +4,8 @@ solution: Experience Manager
 title: coord
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 12ca4002-a540-4eb9-bb11-824d7cb41d30
 ---
-
 # coord{#coord}
 
 Pixel Coordinates. Used to specify image coordinates, such as image offsets or crop parameters, in the form of a pixel offset relative to the top-left corner of an image or layer rectangle.
@@ -21,4 +21,4 @@ Pixel Coordinates. Used to specify image coordinates, such as image offsets or c
  </tr> 
 </table>
 
-0,0 refers to the top-left corner of the image or rectangle. Increasing the values moves towards the bottom-right. 
+0,0 refers to the top-left corner of the image or rectangle. Increasing the values moves towards the bottom-right.

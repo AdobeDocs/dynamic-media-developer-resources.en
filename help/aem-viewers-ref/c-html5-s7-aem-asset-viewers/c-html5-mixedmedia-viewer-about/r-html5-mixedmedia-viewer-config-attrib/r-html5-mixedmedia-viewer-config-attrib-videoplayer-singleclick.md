@@ -5,8 +5,8 @@ title: VideoPlayer.singleclick
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 2ec6d871-05d9-4d85-b031-e64386f5d2e9
 ---
-
 # VideoPlayer.singleclick{#videoplayer-singleclick}
 
  ` [VideoPlayer.|<containerId>_videoPlayer.]singleclick= *`none|playPause`*`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`singleclick=none` 
+`singleclick=none`

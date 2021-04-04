@@ -4,8 +4,8 @@ solution: Experience Manager
 title: PublishHistoryArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: a3c5c523-0157-449d-b03c-56b23501e822
 ---
-
 # PublishHistoryArray{#publishhistoryarray}
 
 An array of publish histories.
@@ -17,4 +17,3 @@ An array of publish histories.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:PublishHistory`  | The publish history array.  |
-

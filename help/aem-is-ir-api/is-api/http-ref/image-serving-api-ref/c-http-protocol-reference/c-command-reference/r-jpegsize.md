@@ -4,8 +4,8 @@ solution: Experience Manager
 title: jpegSize
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 08cecb09-100f-4671-b335-d59c88b0e1ef
 ---
-
 # jpegSize{#jpegsize}
 
 Jpeg Size in KiloBytes. Specifies the maximum size of the JPEG response in kilobytes.
@@ -41,4 +41,4 @@ Guarantee size is not too large for delivering to a device with limited memory:
 
 ## See also {#section-98d472b39d6547969fce6dd86748c153}
 
-[fmt=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-is-http-fmt.md#reference-cdf10043423b45ba9fe15157fb3ae37a) , [attribute::JpegQuality](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-jpegquality.md#reference-4a879e7c46024c8a898a9fd226f9eb09) 
+[fmt=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-is-http-fmt.md#reference-cdf10043423b45ba9fe15157fb3ae37a) , [attribute::JpegQuality](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-jpegquality.md#reference-4a879e7c46024c8a898a9fd226f9eb09)

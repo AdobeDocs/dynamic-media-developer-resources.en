@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Catalog data fields
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: bda5fe2d-6205-4737-a9c7-dc934a2d7b06
 ---
-
 # Catalog data fields{#catalog-data-fields}
 
 The following catalog data fields are available.
@@ -160,4 +160,3 @@ The following fields are recognized in ICC color profile map files:
   <td class="stentry"> <p>ICC color profile file path. </p></td> 
  </tr> 
 </table>
-

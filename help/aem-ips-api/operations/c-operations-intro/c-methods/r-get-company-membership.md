@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getCompanyMembership
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 53af8a97-208c-4c44-93d6-aa36a459af51
 ---
-
 # getCompanyMembership{#getcompanymembership}
 
 Gets a user’s memberships in a company array.
@@ -66,4 +66,3 @@ This code sample takes a user handle and gets all the user’s company membershi
     </membershipArray>
 </getCompanyMembershipReturn>
 ```
-

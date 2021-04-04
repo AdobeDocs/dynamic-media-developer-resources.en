@@ -7,8 +7,8 @@ title: Link share
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: eeb5b2c7-688e-42a1-bfe6-3f29e509baed
 ---
-
 # Link share{#link-share}
 
 Link share tool consists of a button added to the Social share panel and the modal dialog box that displays when the tool is activated. The position of the button is fully managed by the Social share tool.
@@ -709,4 +709,3 @@ Example - to set the share link to be 450 pixels wide:
     width: 450px; 
 }
 ```
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getDistinctMetadataValues
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
+exl-id: 1987d8b0-64e4-49be-af45-98e4c6542e5f
 ---
-
 # getDistinctMetadataValues{#getdistinctmetadatavalues}
 
 Returns all values for a metadata field.
@@ -88,4 +88,3 @@ xmlns:ns="http://www.scene7.com/IpsApi/xsd/2010-01-31">
    </soapenv:Body>
 </soapenv:Envelope>
 ```
-

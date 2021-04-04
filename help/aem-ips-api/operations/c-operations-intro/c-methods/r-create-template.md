@@ -4,8 +4,8 @@ solution: Experience Manager
 title: createTemplate
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 228b4228-8c42-4e42-9fb1-d6aea61b9c4a
 ---
-
 # createTemplate{#createtemplate}
 
 Creates a layered image that can have multiple text and image layers.
@@ -63,4 +63,3 @@ This code sample creates a template in a folder specified by a handle, with a na
    <assetHandle>a|153393|2|2061</assetHandle>
 </createTemplateReturn>
 ```
-

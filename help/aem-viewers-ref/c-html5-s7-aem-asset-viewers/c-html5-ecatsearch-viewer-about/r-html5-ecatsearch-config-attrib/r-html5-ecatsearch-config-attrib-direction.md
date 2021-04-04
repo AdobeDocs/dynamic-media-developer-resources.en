@@ -5,8 +5,8 @@ title: direction
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: 0f78a835-9057-4c79-843a-52b33a1bdd3f
 ---
-
 # direction{#direction}
 
  [!DNL `direction=auto|left|right`]
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-798e4fc8dd9b4b059171b41a608a96ce}
 
-[!DNL `direction=right`] 
+[!DNL `direction=right`]

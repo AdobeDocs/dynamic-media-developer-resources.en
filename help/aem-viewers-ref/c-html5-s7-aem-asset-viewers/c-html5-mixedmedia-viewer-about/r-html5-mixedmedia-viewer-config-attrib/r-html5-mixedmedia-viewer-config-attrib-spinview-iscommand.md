@@ -5,8 +5,8 @@ title: SpinView.iscommand
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: d616c8cf-6717-48f9-9926-1b37afe0e444
 ---
-
 # SpinView.iscommand{#spinview-iscommand}
 
  ` [SpinView.|<containerId>_spinView.]iscommand= *`isCommand`*`
@@ -36,4 +36,4 @@ When specified in the viewer URL:
 
 When specified in the config data:
 
-`iscommand=op_sharpen=1&op_colorize=0xff0000` 
+`iscommand=op_sharpen=1&op_colorize=0xff0000`

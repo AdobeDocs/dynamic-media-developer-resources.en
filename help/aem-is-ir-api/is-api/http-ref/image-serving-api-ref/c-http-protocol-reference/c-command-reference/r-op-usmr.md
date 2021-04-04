@@ -4,8 +4,8 @@ solution: Experience Manager
 title: op_usmR
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 51a779be-568b-40e5-99d9-e875023a2b2c
 ---
-
 # op_usmR{#op-usmr}
 
 Unsharp-mask. Unsharp masks the layer or the final view image, after all scaling, if layer=comp.
@@ -45,4 +45,4 @@ Layer attribute or view attribute. Applies to the current layer or to the final 
 
 ## See also {#section-63f186b8a1b34ec4bb895230838502a4}
 
-[qlt=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-is-http-qlt.md#reference-f69ed0758c784b0385d979820546d352) , [op_sharpen=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-op-sharpen.md#reference-c32573230c6140f883efdaa201ea8541) , [op_usm](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-op-usm.md#reference-51ac75adadfe4346ab60953192d0a1aa) 
+[qlt=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-is-http-qlt.md#reference-f69ed0758c784b0385d979820546d352) , [op_sharpen=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-op-sharpen.md#reference-c32573230c6140f883efdaa201ea8541) , [op_usm](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-op-usm.md#reference-51ac75adadfe4346ab60953192d0a1aa)

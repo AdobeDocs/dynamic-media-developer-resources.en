@@ -7,8 +7,8 @@ title: VideoPlayer.loop
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
+exl-id: 92d22f5d-0ba8-4ea2-bba6-2275efdd1fe0
 ---
-
 # VideoPlayer.loop{#videoplayer-loop}
 
 Configuration attribute for Video Viewer.
@@ -37,4 +37,3 @@ Optional.
 ```
 loop=1
 ```
-

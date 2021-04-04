@@ -7,8 +7,8 @@ title: Video time
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
+exl-id: 83491281-aff4-411a-a5a2-42e2454fd375
 ---
-
 # Video time{#video-time}
 
 The video time is the numeric display that shows the current time and duration of the currently playing video.
@@ -67,4 +67,3 @@ color:#BBBBBB;
 width:60px;  
 }
 ```
-

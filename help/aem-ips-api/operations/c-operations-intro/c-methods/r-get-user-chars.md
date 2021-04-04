@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getUserChars
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: d6b79c06-0e90-406f-bac8-3b8c2bae5480
 ---
-
 # getUserChars{#getuserchars}
 
 Gets a list of the characters used in a particular field.
@@ -72,4 +72,3 @@ The User Char Filter Fields string constant determines the type of user characte
    </userCharsArray>
 </getUserCharsReturn>
 ```
-

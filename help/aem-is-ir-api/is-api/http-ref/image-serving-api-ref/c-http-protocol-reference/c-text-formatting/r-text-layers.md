@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Text layers
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 6793eb7d-6c10-4136-b6d4-186a698a8e52
 ---
-
 # Text layers{#text-layers}
 
 textPs= supports a number of different usage models described in this section.
@@ -113,4 +113,4 @@ The following RTF commands are ignored:
 * `\hyph*` 
 * `\vertal*`
 
-Any text after the first `\par` or `\line` is ignored. 
+Any text after the first `\par` or `\line` is ignored.

@@ -7,8 +7,8 @@ title: Caption button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
+exl-id: 47d4a33b-e2bc-4a32-be45-5320d3de1955
 ---
-
 # Caption button{#caption-button}
 
 This button toggles closed caption display on and off. It is not visible if the caption parameter is not specified.
@@ -105,4 +105,3 @@ background-image:url(images/v2/ClosedCaptionButton_down.png);
 background-image:url(images/v2/ClosedCaptionButton_disabled.png);  
 }
 ```
-

@@ -8,8 +8,8 @@ title: Customizing Interactive Image Viewer
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,Business Practitioner
+exl-id: bb3cfe4a-ec60-4c10-82fe-9e4f8f7c586f
 ---
-
 # Customizing Interactive Image Viewer{#customizing-interactive-image-viewer}
 
 All visual customization and most behavior customization for the Interactive Image Viewer is done by creating a custom CSS.
@@ -166,4 +166,4 @@ background-position: -0px -0px; width: 56px; height: 56px;
 
 ## Common user interface elements {#section-d6330c9be8c444aa9b2a07886e3dbc2a}
 
-The following is user interface elements reference documentation that applies to the Video Image Viewer: 
+The following is user interface elements reference documentation that applies to the Video Image Viewer:

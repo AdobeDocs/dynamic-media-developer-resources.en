@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ScheduledJob
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: c0084d10-ce38-4a01-9246-aaec44abc8eb
 ---
-
 # ScheduledJob{#scheduledjob}
 
 A job that is scheduled to run.
@@ -49,4 +49,3 @@ When you specify a job type value in `submitJob`, the system returns a job based
 * `serverDirectoryPublishJob` 
 * `uploadDirectorhJob` 
 * `uploadUrlsJob`
-

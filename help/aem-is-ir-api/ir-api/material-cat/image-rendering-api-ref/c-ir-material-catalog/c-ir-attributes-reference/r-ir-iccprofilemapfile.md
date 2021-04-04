@@ -4,8 +4,8 @@ solution: Experience Manager
 title: IccProfileMapFile
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 595a89e3-dc8d-49f1-80fe-83dee9da466a
 ---
-
 # IccProfileMapFile{#iccprofilemapfile}
 
 ICC profile map file path. Specifies the file which contains the ICC profile map for this image catalog.
@@ -20,4 +20,4 @@ Empty, which indicates that this material catalog does not include private ICC p
 
 ## See also {#section-972aa8d0fba74ee8b999ee3458320d4d}
 
-[ICC Profile Map](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-icc-profile-map-reference/c-ir-icc-profile-map-reference.md#concept-8c2a7d205b8544ccaa159f5b66710012) 
+[ICC Profile Map](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-icc-profile-map-reference/c-ir-icc-profile-map-reference.md#concept-8c2a7d205b8544ccaa159f5b66710012)

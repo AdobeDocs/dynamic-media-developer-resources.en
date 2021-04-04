@@ -4,8 +4,8 @@ solution: Experience Manager
 title: monitor.conf
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: 09c30680-dd9f-4744-b5ec-105721058883
 ---
-
 # monitor.conf{#monitor-conf}
 
 Contains settings for the monitoring/alerting system.
@@ -24,4 +24,3 @@ Changes to this file take effect shortly after the file is saved.
   <td class="stentry"> <p> monitorAlertGenerator.maxAverageResponseTime=200 </p> <p> monitorAlertGenerator.maxErrorRate=0.05 </p> <p> monitorAlertGenerator.minRequestRate=0.0 </p> <p> monitorAlertGenerator.minFreeHeapSpace=52428800 </p> <p> monitorAlertGenerator.maxOverlap=20 </p> <p> monitorAlertGenerator.lockedThreshold=60000 </p> </td> 
  </tr> 
 </table>
-

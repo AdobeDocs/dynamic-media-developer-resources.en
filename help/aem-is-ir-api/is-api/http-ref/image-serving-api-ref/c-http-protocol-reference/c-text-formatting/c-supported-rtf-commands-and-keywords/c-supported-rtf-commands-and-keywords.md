@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Supported RTF commands and keywords
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: a63bc7f1-34a9-485d-aadd-c65e3e26034a
 ---
-
 # Supported RTF commands and keywords{#supported-rtf-commands-and-keywords}
 
 Following is the list of keywords and commands supported by the Scene 7 Image Serving text engine.

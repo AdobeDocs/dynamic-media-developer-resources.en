@@ -7,8 +7,8 @@ title: Page view
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: d3368115-15e7-4d9d-a417-a3c82c9a8a64
 ---
-
 # Page view{#page-view}
 
 Main view consists of the catalog image. It can be swiped to get to another page or zoomed.
@@ -171,4 +171,3 @@ cursor:url(images/slide_cursor.cur), auto;
 cursor:url(images/drag_cursor.cur), auto; 
 }
 ```
-

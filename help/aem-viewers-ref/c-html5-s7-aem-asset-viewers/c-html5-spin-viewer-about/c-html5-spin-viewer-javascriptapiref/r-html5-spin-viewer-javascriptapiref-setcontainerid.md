@@ -7,8 +7,8 @@ title: setContainerId
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
+exl-id: 5859800f-7d01-4c32-a67f-211578d5c50b
 ---
-
 # setContainerId{#setcontainerid}
 
 JavaScript API reference for Spin Viewer.
@@ -37,4 +37,3 @@ None.
 ```
 <instance>.setContainerId("s7viewer");
 ```
-

@@ -7,8 +7,8 @@ title: Focus highlight
 
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
+exl-id: 05ac1a70-c20d-4ddf-942c-181f101cb1d8
 ---
-
 # Focus highlight{#focus-highlight}
 
 Input focus highlight displayed around focused viewer user interface element is controlled with the CSS class selector.
@@ -45,4 +45,3 @@ Example - to disable the default browser focus highlight for all viewer user int
  outline: none; 
 }
 ```
-

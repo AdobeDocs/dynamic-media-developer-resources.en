@@ -7,8 +7,8 @@ title: InteractiveImage
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,Business Practitioner
+exl-id: 165de14f-0031-4969-9671-5da310d44c28
 ---
-
 # InteractiveImage{#interactiveimage}
 
 JavaScript API reference for Video Image Viewer.
@@ -53,4 +53,3 @@ var interactiveImage = new s7viewers.InteractiveImage({
 } 
 });
 ```
-

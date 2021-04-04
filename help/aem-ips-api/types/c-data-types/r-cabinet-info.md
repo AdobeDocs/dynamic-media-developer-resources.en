@@ -4,8 +4,8 @@ solution: Experience Manager
 title: CabinetInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 78ec00cd-c410-412c-970f-96226563a45a
 ---
-
 # CabinetInfo{#cabinetinfo}
 
 Properties of a cabinet asset.
@@ -23,4 +23,3 @@ Properties of a cabinet asset.
 |  `*`imageFile`*`  | `xsd:string`  | File name of cabinet associated with the vignette.  |
 |  `*`optimizedPath`*`  | `xsd:string`  | Path to the IPS-optimized cabinet.  |
 |  `*`optimizedFile`*`  | `xsd:string`  | IPS-optimized cabinet file.  |
-

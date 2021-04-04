@@ -4,8 +4,8 @@ solution: Experience Manager
 title: PhotoshopOptions
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 0ad8e002-4fbd-442f-84ba-89cc551ec3de
 ---
-
 # PhotoshopOptions{#photoshopoptions}
 
 Options for Photoshop images.
@@ -39,4 +39,3 @@ Options for Photoshop images.
   </tr> 
  </tbody> 
 </table>
-

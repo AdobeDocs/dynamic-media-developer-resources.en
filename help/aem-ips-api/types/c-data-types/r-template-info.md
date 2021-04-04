@@ -4,8 +4,8 @@ solution: Experience Manager
 title: TemplateInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 90d7f116-936d-4e04-b54f-ec9ba37d5477
 ---
-
 # TemplateInfo{#templateinfo}
 
 The properties of a template asset.
@@ -19,4 +19,3 @@ The properties of a template asset.
 |  `*`url`*`  | `xsd:string`  | Image server URL that represents the template.  |
 |  `*`urlModifier`*`  | `xsd:string`  | |
 |  `*`urlPostApplyModifier`*`  | `xsd:string`  | |
-

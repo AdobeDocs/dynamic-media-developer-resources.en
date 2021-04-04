@@ -4,8 +4,8 @@ solution: Experience Manager
 title: illum
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: e1af2397-8eae-4b77-abb1-61ba8cb866f3
 ---
-
 # illum{#illum}
 
 Illumination map selector. Specifies the illumination map this material prefers to be rendered with.
@@ -26,4 +26,4 @@ Material attribute. Ignored if the vignette does not define multiple illuminatio
 
 ## See also {#section-9132e60381c64aa3a8ed1319690db55e}
 
-[gloss=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-http-gloss.md#reference-325aef2ee51e4e1584a06047427340ca) 
+[gloss=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-http-gloss.md#reference-325aef2ee51e4e1584a06047427340ca)

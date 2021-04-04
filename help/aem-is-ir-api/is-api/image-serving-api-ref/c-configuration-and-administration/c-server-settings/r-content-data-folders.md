@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Content data folders
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: 9aa4121f-25f8-49d0-a304-7ae756c046f5
 ---
-
 # Content data folders{#content-data-folders}
 
 Use these server settings for content data folders.
@@ -28,4 +28,4 @@ The Platform Server tries the root paths in the order specified until the reques
 
 ## IS::SaveDirectory - File Save Root Folder {#section-1c517f8d49ce4cb8b9013e520bf309c9}
 
-The root path for `attribute::SavePath` (used by `req=saveToFile`). The Image Server must have create access permissions for the subfolder in which it will create image files. 
+The root path for `attribute::SavePath` (used by `req=saveToFile`). The Image Server must have create access permissions for the subfolder in which it will create image files.

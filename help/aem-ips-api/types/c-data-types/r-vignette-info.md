@@ -4,8 +4,8 @@ solution: Experience Manager
 title: VignetteInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: f9142082-5f49-4133-aab4-c07a14f8a16b
 ---
-
 # VignetteInfo{#vignetteinfo}
 
 Properties of a vignette asset.
@@ -23,4 +23,3 @@ Properties of a vignette asset.
 |  `*`imageFile`*`  | `xsd:string`  | |
 |  `*`optimizedPath`*`  | `xsd:string`  | Optimized path to the file.  |
 |  `*`optimizedFile`*`  | `xsd:string`  | Optimized file name.  |
-

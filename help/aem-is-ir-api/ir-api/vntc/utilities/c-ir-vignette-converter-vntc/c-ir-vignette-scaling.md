@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Vignette scaling
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: f9f92254-41d8-4d22-a168-78b49dd55478
 ---
-
 # Vignette scaling{#vignette-scaling}
 
 Four general types of production vignettes are supported.
@@ -31,4 +31,4 @@ Effectively the same rules apply to multi-resolution vignettes, with the first r
 
 A pyramid vignette is created by specifying `-pyramid`. The largest resolution level of a such a vignette is determined exactly as for a single-resolution vignette. The additional resolution levels are determined automatically by scaling each level to 0.5x the previous level, with the smallest level not exceeding 128x128 pixels.
 
-Additional resolution levels may be specified for a pyramid vignette, just like for a multi-resolution vignette. 
+Additional resolution levels may be specified for a pyramid vignette, just like for a multi-resolution vignette.

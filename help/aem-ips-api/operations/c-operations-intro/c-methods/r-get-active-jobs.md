@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getActiveJobs
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 55e92ebc-d153-49b5-bf2e-c69d042e15b6
 ---
-
 # getActiveJobs{#getactivejobs}
 
 Gets all currently active jobs.
@@ -58,4 +58,3 @@ This code sample returns all active jobs of a company running in IPS. In this ca
    <jobArray></jobArray>
 </getActiveJobsReturn>
 ```
-

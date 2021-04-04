@@ -5,8 +5,8 @@ title: Swatches.iscommand
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,Business Practitioner
+exl-id: ed587082-3306-4914-916f-db37a823e199
 ---
-
 # Swatches.iscommand{#swatches-iscommand}
 
  ` [Swatches.|<containerId>_swatches.]iscommand= *`isCommand`*`
@@ -36,4 +36,4 @@ When specified in the viewer URL:
 
 When specified in the configuration data:
 
-`iscommand=op_sharpen=1&op_colorize=0xff0000` 
+`iscommand=op_sharpen=1&op_colorize=0xff0000`

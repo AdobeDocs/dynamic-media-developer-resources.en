@@ -4,8 +4,8 @@ solution: Experience Manager
 title: TaskItemProgressArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: deba612e-34ea-4892-8ee7-a2d5acb96299
 ---
-
 # TaskItemProgressArray{#taskitemprogressarray}
 
 An array of information about a task item.
@@ -17,4 +17,3 @@ An array of information about a task item.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:TaskItemProgress`  | Task item progress array. Minimum occurrence is zero. Maximum is unbounded.  |
-

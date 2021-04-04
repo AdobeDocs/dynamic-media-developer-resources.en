@@ -5,8 +5,8 @@ title: Viewer SDK namespace
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
+exl-id: 1712f08c-70e6-483e-a4e5-614448f35374
 ---
-
 # Viewer SDK namespace{#viewer-sdk-namespace}
 
 The viewer is built of many Viewer SDK components. In most cases, the web page does not need to interact with SDK components API directly; all common needs are covered in the viewer API itself.
@@ -31,4 +31,3 @@ For example, if you plan to listen to `StatusEvent.NOTF_VIEW_READY` event and th
 } 
 });
 ```
-

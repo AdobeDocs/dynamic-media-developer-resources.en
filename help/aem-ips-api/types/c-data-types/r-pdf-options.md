@@ -4,8 +4,8 @@ solution: Experience Manager
 title: PDFOptions
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 140c9261-e590-4889-9be4-29afd19ffa86
 ---
-
 # PDFOptions{#pdfoptions}
 
 PDF file options.
@@ -22,4 +22,3 @@ PDF file options.
 |  `*`pdfCatalog`*`  | `xsd:boolean`  | Whether to combine a multiple page PDF into an eCatalog after rendering (default is true).  |
 |  `*`extractSearchWords`*`  | `xsd:boolean`  | Whether to extract search words from the PDF file.  |
 |  `*`extractLinks`*`  | `xsd:boolean`  | Whether to extract PDF links into image maps assigned to the rasterized pages within IPS.  |
-

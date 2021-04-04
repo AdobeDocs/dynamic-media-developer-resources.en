@@ -7,8 +7,8 @@ title: Previous page button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: af67b10c-6393-4032-a166-8f4232a79818
 ---
-
 # Previous page button{#previous-page-button}
 
 Clicking or tapping on this button brings the user to the previous page in the catalog. This button appears in the main control bar. This button is not displayed on mobile phones to save screen real estate. You can size, skin, and position this button by using CSS.
@@ -92,4 +92,3 @@ background-image:url(images/v2/ToolBarLeftButton_dark_down.png);
 background-image:url(images/v2/ToolBarLeftButton_dark_disabled.png); 
 }
 ```
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Operations methods
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 020c8e63-ad4e-4c0d-8da6-b51efb2b89a5
 ---
-
 # Operations methods{#operations-methods}
 
 This section describes the common operation parameters handled by the IPS Web Service API.
@@ -100,4 +100,4 @@ Certain operations also take explicit locale parameters, which may be different 
 
 Locale parameters use the format `<language_code>[-<country_code>]`
 
-Where the language code is a lower-case, two-letter code specified by ISO-639 and the optional country code is an upper-case, two-letter code specified by ISO-3266. For example, the locale string for US English is `en-US`. 
+Where the language code is a lower-case, two-letter code specified by ISO-639 and the optional country code is an upper-case, two-letter code specified by ISO-3266. For example, the locale string for US English is `en-US`.

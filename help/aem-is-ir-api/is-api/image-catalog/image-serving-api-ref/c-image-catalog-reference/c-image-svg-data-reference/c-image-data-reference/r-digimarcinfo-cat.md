@@ -4,8 +4,8 @@ solution: Experience Manager
 title: DigimarcInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 87f4d8f0-02b9-4511-9151-89c58116c78d
 ---
-
 # DigimarcInfo{#digimarcinfo}
 
 Digimarc image info. Enables Digimarc embedding and specifies the type of watermark and any associated image-specific data.
@@ -151,4 +151,4 @@ Inherited from attribute::DigimarcInfo if the field is not present or if it is e
 
 ## See also {#section-4bd3e7272c5c4b8cb8c5ca1ac7ed1012}
 
-[attribute::DigimarcInfo](../../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-digimarcinfo.md#reference-de88636cb9b4435a94e3d0a80f072667) , [attribute::DigimarcId](../../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-digimarcid.md#reference-33e3eca7f1874510904e5c8645cecd68) 
+[attribute::DigimarcInfo](../../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-digimarcinfo.md#reference-de88636cb9b4435a94e3d0a80f072667) , [attribute::DigimarcId](../../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-digimarcid.md#reference-33e3eca7f1874510904e5c8645cecd68)

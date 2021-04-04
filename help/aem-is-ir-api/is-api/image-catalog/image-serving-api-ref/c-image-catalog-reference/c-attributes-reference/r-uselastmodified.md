@@ -4,8 +4,8 @@ solution: Experience Manager
 title: UseLastModified
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 4908da5d-636e-44d2-bd49-40e01c8b5f79
 ---
-
 # UseLastModified{#uselastmodified}
 
 Enable last-modified response headers. Enables or disables inclusion of the Last-Modified header in cacheable HTTP responses emitted by Image Serving.
@@ -34,4 +34,4 @@ Inherited from `default::UseLastModified` if not defined or if empty.
 
 ## See also {#section-4211a78f8a5b45629c62fed5ae82f1cb}
 
-[catalog::TimeStamp](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-timestamp-cat.md#reference-59a27b72f4cb4a53a3baba83214c4ded) 
+[catalog::TimeStamp](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-timestamp-cat.md#reference-59a27b72f4cb4a53a3baba83214c4ded)

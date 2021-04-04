@@ -4,8 +4,8 @@ solution: Experience Manager
 title: cache
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 8b631836-e5a8-4a56-a09a-35bb2474cc84
 ---
-
 # cache{#cache}
 
 Cache Control. Allows selectively disabling client-side caching (browser, proxy servers, network caching systems) and caching in the internal Platform Server cache.
@@ -49,4 +49,4 @@ Client-side cache control ( `on` and `off` only) is also available for static co
 
 ## See also {#section-7c2ac171fa0e4aa4a2e9955fd2d2013e}
 
-[catalog::Expiration](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-expiration-cat.md#reference-a7afd668ecbb4d2da65d86259aa6a28a) , [req=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-req/r-req.md#reference-907cdb4a97034db7ad94695f25552e76) 
+[catalog::Expiration](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-expiration-cat.md#reference-a7afd668ecbb4d2da65d86259aa6a28a) , [req=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-req/r-req.md#reference-907cdb4a97034db7ad94695f25552e76)

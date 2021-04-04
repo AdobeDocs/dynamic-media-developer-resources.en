@@ -4,8 +4,8 @@ solution: Experience Manager
 title: searchAssetsByMetadata
 feature: Dynamic Media Classic,SDK/API,Metadata,Asset Management
 role: Developer,Administrator
+exl-id: a0e01edb-c52b-436d-a166-e24cc6861c49
 ---
-
 # searchAssetsByMetadata{#searchassetsbymetadata}
 
 Searches the metadata index repository for the given search terms. Returns asset data like the searchAssets method.
@@ -245,4 +245,3 @@ xmlns:ns="http://www.scene7.com/IpsApi/xsd/2010-01-31">
    </soapenv:Body>
 </soapenv:Envelope>
 ```
-

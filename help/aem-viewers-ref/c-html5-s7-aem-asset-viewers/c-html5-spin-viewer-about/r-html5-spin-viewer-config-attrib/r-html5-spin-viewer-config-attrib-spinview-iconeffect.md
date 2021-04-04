@@ -5,8 +5,8 @@ title: SpinView.iconeffect
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
+exl-id: e84336da-7f33-4fa9-b881-93b9db4bae8b
 ---
-
 # SpinView.iconeffect{#spinview-iconeffect}
 
  ` [SpinView.|<containerId>_spinView.]iconeffect=0|1[, *`count`*][, *`fade`*][, *`autoHide`*]`
@@ -42,4 +42,4 @@ Optional.
 
 ## Example {#section-622348a84fbe4ff4b5dd7eb53b044d83}
 
-`iconeffect=0` 
+`iconeffect=0`

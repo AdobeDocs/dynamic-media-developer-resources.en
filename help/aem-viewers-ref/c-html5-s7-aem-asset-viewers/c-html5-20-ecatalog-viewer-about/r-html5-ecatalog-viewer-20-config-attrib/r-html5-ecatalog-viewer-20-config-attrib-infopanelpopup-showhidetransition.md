@@ -5,8 +5,8 @@ title: InfoPanelPopup.showhidetransition
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: 5f7ce5e7-7351-42e0-88ce-6783b5c2e507
 ---
-
 # InfoPanelPopup.showhidetransition{#infopanelpopup-showhidetransition}
 
 ` [InfoPanelPopup.|<containerId>_infoPanelPopup.]showhidetranstion=fade|none[, *`time`*]`
@@ -34,4 +34,4 @@ Optional.
 
 ## Example {#section-b831b1b6e18a4526aad3d8e4eaa97564}
 
-`showhidetranstion=none` 
+`showhidetranstion=none`

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: removeFolderPermissions
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 10830980-d504-4610-96c9-730937453256
 ---
-
 # removeFolderPermissions{#removefolderpermissions}
 
 Removes folder permissions.
@@ -79,4 +79,4 @@ This code sample removes permissions from a folder and its sub-folders. Set `upd
 
 **Response**
 
-None. 
+None.

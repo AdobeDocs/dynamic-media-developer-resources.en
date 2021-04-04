@@ -4,8 +4,8 @@ solution: Experience Manager
 title: flags
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: d0c3f65e-2dec-4c35-8df4-8d111e81f3f0
 ---
-
 # flags{#flags}
 
 Apply flags. Specifies additional render options.
@@ -31,4 +31,4 @@ Material attribute. Ignored if not a cabinet material, or if the target cabinet 
 
 ## Default {#section-4c134b02a1da4ffb9841233f98f6e97c}
 
-`flags=0` for no glass doors. 
+`flags=0` for no glass doors.

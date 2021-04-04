@@ -4,8 +4,8 @@ solution: Experience Manager
 title: AllowDirectAccess
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: b4000bdf-c21a-4976-82a7-70b2261dee0b
 ---
-
 # AllowDirectAccess{#allowdirectaccess}
 
 Allow direct access to path-based assets.
@@ -56,4 +56,3 @@ The following types can be controlled:
 * Include none, equivalent to `include:` (if `include`/ `exclude` is not present, `include` is assumed)
 
   `AllowDirectAccess=`
-

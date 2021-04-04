@@ -4,8 +4,8 @@ solution: Experience Manager
 title: req
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 9242c873-5a85-4ede-82b6-4ef15feecf50
 ---
-
 # req{#req}
 
 Request type. Specifies the type of request.
@@ -38,4 +38,3 @@ Request type. Specifies the type of request.
   </tr> 
  </tbody> 
 </table>
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Numeric/Date Comparison Operators
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 96fb9661-f911-4476-a848-ef5256ddbeaf
 ---
-
 # Numeric/Date Comparison Operators{#numeric-date-comparison-operators}
 
 Used by SystemFieldCondition/op.
@@ -20,4 +20,3 @@ Used by SystemFieldCondition/op.
 * [!DNL `LessThanEquals`] 
 * [!DNL `GreaterThan`] 
 * [!DNL `GreaterThanEquals`]
-

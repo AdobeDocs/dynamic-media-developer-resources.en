@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getPhotoshopPath
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 46d88547-bb60-4370-9c79-bd281b40ba28
 ---
-
 # getPhotoshopPath{#getphotoshoppath}
 
 Returns coordinates for the quadrilateral enclosing the named Photoshop path.

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Cache clustering
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: d1bea565-ac4e-4717-a53f-cbe706664598
 ---
-
 # Cache clustering{#cache-clustering}
 
 Cache clustering allows multiple load-balanced servers to exchange cache entries in the primary response cache and the secondary data cache (for nested/embedded requests), with the potential to significantly increase server responsiveness by eliminating the need to generate the same cache entry on multiple servers.
@@ -25,4 +25,3 @@ The cache cluster can operate in one of two basic configurations:
 * When `PS::cacheCluster.updateLocalCache` is disabled, data from other servers in not copied to the local cache.
 
   This multiplies the available disk space for cache data. However, it increases the traffic between the peer servers and reduces the overall response times. Use this configuration only when you see low cache hit rates.
-

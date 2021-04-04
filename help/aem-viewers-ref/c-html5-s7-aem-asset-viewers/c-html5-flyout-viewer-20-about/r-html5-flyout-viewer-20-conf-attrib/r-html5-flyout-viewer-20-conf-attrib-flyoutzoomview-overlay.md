@@ -5,8 +5,8 @@ title: FlyoutZoomView.overlay
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,Business Practitioner
+exl-id: 7fbf24c6-900f-4e94-b879-3a8f95dc5c08
 ---
-
 # FlyoutZoomView.overlay{#flyoutzoomview-overlay}
 
 `[FlyoutZoomView.|<containerId>_flyout.]overlay=0|1`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-0338be21edd04ff1a3bed5c8319b61a4}
 
-`overlay=1` 
+`overlay=1`

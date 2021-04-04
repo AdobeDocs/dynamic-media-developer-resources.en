@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Server supervisor
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: 83b6a63f-6bb8-4a14-b8d5-389d23fae57c
 ---
-
 # Server supervisor{#server-supervisor}
 
 Image Serving components are managed by the Server Supervisor, which is a Linux daemon or Windows Service (S7Supervisor.exe, listed as 'Dynamic Media Image Serving' in the Services Control Panel).
@@ -18,4 +18,4 @@ The Server Supervisor is started, stopped, and restarted with the Image Serving 
 
 Starting and stopping the Server Supervisor automatically starts and stops all other Image Serving components.
 
-[SupervisorRegistry.xml](../../../is-api/image-serving-api-ref/c-configuration-and-administration/r-server-configuration-files/r-supervisorregistry.md#reference-b55f37a7a7a044d19c1722f5130906c6) 
+[SupervisorRegistry.xml](../../../is-api/image-serving-api-ref/c-configuration-and-administration/r-server-configuration-files/r-supervisorregistry.md#reference-b55f37a7a7a044d19c1722f5130906c6)

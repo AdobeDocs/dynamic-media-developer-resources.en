@@ -5,8 +5,8 @@ title: PageView.zoomstep
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: 64cce312-c13b-49c7-af85-3349ff5c4322
 ---
-
 # PageView.zoomstep{#pageview-zoomstep}
 
  ` [PageView.|<containerId>_pageView.]zoomstep= *`step`*[, *`limit`*]`
@@ -34,4 +34,4 @@ Optional.
 
 ## Example {#section-1e20672d42c845bd84f02f88cbc53efc}
 
-`zoomstep=2,3` 
+`zoomstep=2,3`

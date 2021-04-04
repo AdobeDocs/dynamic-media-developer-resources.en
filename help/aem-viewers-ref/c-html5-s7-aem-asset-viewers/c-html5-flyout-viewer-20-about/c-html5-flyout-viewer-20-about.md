@@ -5,8 +5,8 @@ solution: Experience Manager
 title: Flyout
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,Business Practitioner
+exl-id: 9b60330f-5348-431d-9682-cf97aace3679
 ---
-
 # Flyout{#flyout}
 
 Flyout Viewer is an image viewer. It displays a static image with the zoomed version shown in the flyout view that a user activates. This viewer works with image sets and navigation is done by using swatches. It is designed to work on desktops and mobile devices.
@@ -399,4 +399,3 @@ flyoutViewer.init();
 </body> 
 </html>
 ```
-

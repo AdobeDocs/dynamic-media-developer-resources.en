@@ -4,8 +4,8 @@ solution: Experience Manager
 title: MaskInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 91e760c5-2c6e-47e6-9429-d37ba9d84cdb
 ---
-
 # MaskInfo{#maskinfo}
 
 Mask file properties.
@@ -18,4 +18,3 @@ Mask file properties.
 |---|---|---|
 |  `*`maskPath`*`  | `xsd:string`  | Mask file path.  |
 |  `*`maskFile`*`  | `xsd:string`  | Mask file name.  |
-

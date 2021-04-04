@@ -7,8 +7,8 @@ title: Assistive technology support
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets,Accessibility
 role: Developer,Business Practitioner
+exl-id: 6cf7f739-cbfb-4fac-8632-904a0d40ad05
 ---
-
 # Assistive technology support{#assistive-technology-support}
 
 All viewer components support ARIA (Accessible Rich Internet Applications) roles and attributes to improve integration with assistive technologies such as screen readers.
@@ -21,4 +21,4 @@ The main view has role `application`. A brief description of the main view is pr
 
 Components that display swatches have the role `listbox` with `aria-label` attribute set to the value of the `LABEL` localization symbol of that component. Individual swatches have the role `option` with `aria-setsize` and `aria-posinset` attributes to describe the swatch position in the set. If a swatch is selected it gets the `aria-selected` attribute set to `true`.
 
-Slider components have the role `slider` with attributes `aria-valuenow`, `aria-valuemin`, and `aria-valuemax` to describe the current slider position. 
+Slider components have the role `slider` with attributes `aria-valuenow`, `aria-valuemin`, and `aria-valuemax` to describe the current slider position.

@@ -7,8 +7,8 @@ title: Spin view icon effect
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 1c5c73f9-c32a-4bca-93f0-c5a95756355b
 ---
-
 # Spin view icon effect{#spin-view-icon-effect}
 
 The spin indicator is overlaid on the spin view area. It is displayed when the image is in a reset state and it also depends on the iconeffect parameter.
@@ -66,4 +66,3 @@ background-image: url(images/spinIcon_1D.png);
 background-image: url(images/spinIcon_2D.png); 
 }
 ```
-

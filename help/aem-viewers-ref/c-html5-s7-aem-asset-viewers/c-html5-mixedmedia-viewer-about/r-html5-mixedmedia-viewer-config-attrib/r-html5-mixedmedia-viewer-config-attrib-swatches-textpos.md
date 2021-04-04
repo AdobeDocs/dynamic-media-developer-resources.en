@@ -5,8 +5,8 @@ title: Swatches.textpos
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 4b3b91f9-e564-462a-a4f3-494dd5511c26
 ---
-
 # Swatches.textpos{#swatches-textpos}
 
 `[Swatches.|<containerId>_swatches.]textpos=bottom|top|left|right|none|tooltip`
@@ -32,4 +32,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`textpos=tooltip` 
+`textpos=tooltip`

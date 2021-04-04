@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Color values
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 608ff0f1-4fbd-4e32-af07-3a62569d14c7
 ---
-
 # Color values{#color-values}
 
 Color values for color= and bgc= attributes may be specified using either a list of decimal, comma-separated component values, or a hex notation, similar to HTML.
@@ -54,4 +54,4 @@ Some examples of valid color specifiers and their corresponding RGB color value 
 
 ## See also {#section-207d5cb918a94736a27445faa58917d3}
 
-[color=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-http-color.md#reference-ea3cba9edfe94dbab86d8f123a9ed0aa), [bgc=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-bgc.md#reference-3f5c78cea01c4a85aa582076d23aebb0), [grout=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-grout.md#reference-73651cbbbc344adba2626ef950d3672a) 
+[color=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-http-color.md#reference-ea3cba9edfe94dbab86d8f123a9ed0aa), [bgc=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-bgc.md#reference-3f5c78cea01c4a85aa582076d23aebb0), [grout=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-grout.md#reference-73651cbbbc344adba2626ef950d3672a)

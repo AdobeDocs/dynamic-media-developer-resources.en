@@ -7,8 +7,8 @@ title: setParam
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: 820379e5-04ef-4840-85ca-bbfd9b42cf17
 ---
-
 # setParam{#setparam}
 
 JavaScript API reference for Interactive Video Viewer.
@@ -45,4 +45,3 @@ None.
 ```
 <instance>.setParam("style", "customStyle.css")
 ```
-

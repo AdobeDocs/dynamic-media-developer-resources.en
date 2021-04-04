@@ -5,8 +5,8 @@ title: style
 
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,Business Practitioner
+exl-id: a0547ada-3d8f-4ec2-a7e4-424fd1a78a28
 ---
-
 # style{#style}
 
 You can apply the following command both from the URL query string and config. The command applied in the URL query string always takes precedence over the same command present in config.
@@ -40,4 +40,4 @@ None.
 
 `style=etc/dam/presets/css/html5_interactivevideo.css`
 
-`style=etc/dam/presets/css/html5_carouselviewer_dotted_light.css` 
+`style=etc/dam/presets/css/html5_carouselviewer_dotted_light.css`

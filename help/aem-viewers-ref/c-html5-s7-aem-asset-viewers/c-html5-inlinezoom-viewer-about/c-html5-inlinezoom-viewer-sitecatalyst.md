@@ -7,8 +7,8 @@ title: Support for Adobe Analytics tracking
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,Business Practitioner,Data Engineer,Data Architect
+exl-id: e5ffe8a8-6c25-4fc2-8c25-90bc7e0b416c
 ---
-
 # Support for Adobe Analytics tracking{#support-for-adobe-analytics-tracking}
 
 The Flyout Viewer supports Adobe Analytics tracking out of the box.
@@ -79,4 +79,3 @@ The viewer tracks the following SDK user events:
   </tr> 
  </tbody> 
 </table>
-

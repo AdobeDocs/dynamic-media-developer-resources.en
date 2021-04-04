@@ -7,8 +7,8 @@ title: VideoPlayer.progressivebitrate
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: 69f3c4c0-00d9-46ef-aebb-3116a0d83c85
 ---
-
 # VideoPlayer.progressivebitrate{#videoplayer-progressivebitrate}
 
 Configuration attribute for Interactive Video Viewer.
@@ -37,4 +37,3 @@ Optional.
 ```
 progressivebitrate=600
 ```
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ConfigSettingArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 7b240693-8b3b-4765-9cd9-a6125da77f54
 ---
-
 # ConfigSettingArray{#configsettingarray}
 
 An array of configuration settings.
@@ -17,4 +17,3 @@ An array of configuration settings.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:ConfigSetting`  | An array of configuration settings.  |
-

@@ -7,8 +7,8 @@ title: Add Favorite button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: 703b57c0-b764-44c0-a1c1-37f7dd8836f3
 ---
-
 # Add Favorite button{#add-favorite-button}
 
 The position of the Add Favorite button is fully managed by the Favorites menu.
@@ -82,4 +82,3 @@ background-image:url(images/v2/AddFavoriteButton_dark_over.png);
 background-image:url(images/v2/AddFavoriteButton_dark_disabled.png); 
 }
 ```
-

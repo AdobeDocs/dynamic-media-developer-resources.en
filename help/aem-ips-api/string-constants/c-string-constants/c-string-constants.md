@@ -4,8 +4,8 @@ solution: Experience Manager
 title: String constants
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 06c381f6-5896-4d9b-b6f4-a907b3774d08
 ---
-
 # String constants{#string-constants}
 
 * [Active Job States](r-active-job-states.md)

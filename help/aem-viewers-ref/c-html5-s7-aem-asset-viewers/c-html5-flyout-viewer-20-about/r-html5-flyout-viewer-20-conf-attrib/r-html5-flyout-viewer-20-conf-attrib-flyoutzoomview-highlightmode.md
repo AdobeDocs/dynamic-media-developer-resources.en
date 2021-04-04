@@ -5,8 +5,8 @@ title: FlyoutZoomView.highlightmode
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,Business Practitioner
+exl-id: b35285a2-7319-4ed7-9681-12a6acda8fa5
 ---
-
 # FlyoutZoomView.highlightmode{#flyoutzoomview-highlightmode}
 
  ` [FlyoutZoomView.|<containerId>_flyout.]highlightmode=highlight|cursor[, *`showtime`*[,onimage|free]]`
@@ -38,4 +38,4 @@ Optional.
 
 ## Example {#section-0338be21edd04ff1a3bed5c8319b61a4}
 
-`highlightmode=cursor,1,free` 
+`highlightmode=cursor,1,free`

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: JobLogDetail
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: fe41a48a-4671-4179-a128-aadc7bc0683b
 ---
-
 # JobLogDetail{#joblogdetail}
 
 Job log information.
@@ -22,4 +22,3 @@ Job log information.
 |  `*`assetType`*`  | `xsd:string`  | Choice of asset type.  |
 |  `*`assetHandle`*`  | `xsd:string`  | Asset handle referenced in the job log.  |
 |  `*`auxArray`*`  | `types:JobLogDetailAuxArray`  | Provides additional detailed job log information beyond the five job log types described above.  |
-

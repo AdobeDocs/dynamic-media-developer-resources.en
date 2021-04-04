@@ -7,8 +7,8 @@ title: Focus highlight
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: 3d5737d7-1295-46a9-9b84-c43269e5a914
 ---
-
 # Focus highlight{#focus-highlight}
 
 Input focus highlight displayed around the focused viewer user interface element.
@@ -39,4 +39,3 @@ Example - to disable the default browser focus highlight for all viewer user int
  outline: none; 
 }
 ```
-

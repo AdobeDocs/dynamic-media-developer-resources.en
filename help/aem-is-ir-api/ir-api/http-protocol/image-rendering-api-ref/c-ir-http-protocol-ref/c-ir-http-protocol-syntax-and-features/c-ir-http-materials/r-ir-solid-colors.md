@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Solid colors
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 0f4f2d25-dd99-488b-89d9-88367d5a715d
 ---
-
 # Solid colors{#solid-colors}
 
 This material category includes paints for walls, woodwork and trim, automotive, as well as any other application where textures are not required.
@@ -30,4 +30,3 @@ Solid colors can be applied to all renderable objects.
   </tr> 
  </tbody> 
 </table>
-

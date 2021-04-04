@@ -7,8 +7,8 @@ title: dispose
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: e09f73a9-a961-4188-b092-f7bbcae4946d
 ---
-
 # dispose{#dispose}
 
 JavaScript API reference for Mixed Media Viewer.
@@ -36,4 +36,3 @@ None.
 ```
 <instance>.dispose()
 ```
-

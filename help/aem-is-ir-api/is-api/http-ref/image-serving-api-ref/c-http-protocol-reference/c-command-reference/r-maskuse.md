@@ -4,8 +4,8 @@ solution: Experience Manager
 title: maskUse
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: e99101a1-1747-454c-b0c0-3af3335c0497
 ---
-
 # maskUse{#maskuse}
 
 Image mask usage. Specifies how the mask or alpha channel of the image is used for operations on the image (for example, colorize=). When specified in an effect layer, it allows applying the effect to the background area of parent layer or to the entire parent layer rectangle.
@@ -63,4 +63,4 @@ Colorize the background area of an image; the image foreground is defined by a s
 
 ## See also {#section-f239d8f4ce70434f8d30e482ed60ee5e}
 
-[color=](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-data-types/r-is-http-color.md) , [mask=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-mask.md#reference-922254e027404fb890b850e2723ee06e)  
+[color=](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-data-types/r-is-http-color.md) , [mask=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-mask.md#reference-922254e027404fb890b850e2723ee06e)

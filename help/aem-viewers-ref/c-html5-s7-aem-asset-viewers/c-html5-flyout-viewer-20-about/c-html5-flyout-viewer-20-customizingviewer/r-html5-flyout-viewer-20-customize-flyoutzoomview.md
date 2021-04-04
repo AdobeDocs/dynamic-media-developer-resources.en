@@ -7,8 +7,8 @@ title: Flyout zoom view
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,Business Practitioner
+exl-id: c04c4b8f-4e63-4e84-98c0-aa0781608130
 ---
-
 # Flyout zoom view{#flyout-zoom-view}
 
 The main view consists of the static image, the zoomed image shown in the flyout view, the highlight navigation area displayed over the static image and the tip message shown on top of static image.
@@ -283,4 +283,3 @@ opacity: 0.5;
 filter: alpha(opacity = 50); 
 }
 ```
-

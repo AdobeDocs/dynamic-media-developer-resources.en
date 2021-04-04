@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Text layer commands
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: a40b90ca-98c1-4f1f-9825-ff9d57d67bb4
 ---
-
 # Text layer commands{#text-layer-commands}
 
 These commands apply to text layers, in addition to the common layer commands.
@@ -44,4 +44,3 @@ These commands apply to text layers, in addition to the common layer commands.
   <td class="stentry"> <p>Provides layer text to the traditional text renderer. </p></td> 
  </tr> 
 </table>
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Catalog attribute files
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 8b5afb99-3201-4e43-93e7-e8998354204f
 ---
-
 # Catalog attribute files{#catalog-attribute-files}
 
 Catalog attribute files can have any name, but must have an .ini file suffix. They can be readily maintained using any text editor.
@@ -30,4 +30,3 @@ Catalog attribute files consist of a set of text records, separated by a single 
 * Attribute names may consist of any combination of ASCII letters, numbers, as well as "-", "_", and "." 
 * If the same attribute name occurs more than once in the same attribute file, the last one encountered prevails. 
 * Use '#' as the first character to mark any record as a comment which the parser ignores.
-

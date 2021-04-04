@@ -7,8 +7,8 @@ title: FlyoutZoomView.fmt
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 6e3bf609-eae7-4db9-b922-cba3a9f7634b
 ---
-
 # FlyoutZoomView.fmt{#flyoutzoomview-fmt}
 
 Specifies the image format that the component uses for loading images from Image Server.
@@ -34,4 +34,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`fmt=png-alpha` 
+`fmt=png-alpha`

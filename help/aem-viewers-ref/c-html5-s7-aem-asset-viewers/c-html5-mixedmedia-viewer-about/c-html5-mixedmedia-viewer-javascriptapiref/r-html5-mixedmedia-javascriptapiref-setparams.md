@@ -7,8 +7,8 @@ title: setParams
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 200805ca-20e5-4d3a-90ba-2511e71705ab
 ---
-
 # setParams{#setparams}
 
 JavaScript API reference for Mixed Media Viewer.
@@ -37,4 +37,3 @@ None.
 ```
 <instance>.setParams("ZoomView.zoomstep=2,3&ZoomView.iscommand=op_sharpen%3d1")
 ```
-

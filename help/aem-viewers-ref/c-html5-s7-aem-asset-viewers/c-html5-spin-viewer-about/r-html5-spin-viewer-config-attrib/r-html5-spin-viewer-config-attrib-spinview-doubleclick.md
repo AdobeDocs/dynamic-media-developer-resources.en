@@ -5,8 +5,8 @@ title: SpinView.doubleclick
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
+exl-id: 2e9b8f8e-aa36-4b47-a36d-7b7036e8722f
 ---
-
 # SpinView.doubleclick{#spinview-doubleclick}
 
  `[SpinView.|<containerId>_spinView.]doubleclick=none|zoom|reset|zoomReset`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-622348a84fbe4ff4b5dd7eb53b044d83}
 
-`doubleclick=zoom` 
+`doubleclick=zoom`

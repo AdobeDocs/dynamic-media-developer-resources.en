@@ -7,8 +7,8 @@ title: FlyoutZoomView.imagereload
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 1bb57c89-4ceb-40d6-8054-d51c1573431c
 ---
-
 # FlyoutZoomView.imagereload{#flyoutzoomview-imagereload}
 
 Configures how the component fetches new images for the main and flyout view during resize.
@@ -38,4 +38,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`imagereload=1,breakpoint,200;400;800;1600` 
+`imagereload=1,breakpoint,200;400;800;1600`

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: User
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 5747f5bf-0175-4707-bfcb-1a9b97d7a24a
 ---
-
 # User{#user}
 
 A user of resources and types in the system.
@@ -23,4 +23,3 @@ A user of resources and types in the system.
 |  `*`defaultRole`*`  | `xsd:string`  |Sets the role for a user in each company they belong to. However, the user role `IpsAmin` overrides other user roles.  |
 |  `*`isValid`*`  | `xsd:boolean`  | Determines if the user is valid.  |
 |  `*`passwordExpires`*`  | `xsd:dateTime`  | Sets password expiration date.  |
-

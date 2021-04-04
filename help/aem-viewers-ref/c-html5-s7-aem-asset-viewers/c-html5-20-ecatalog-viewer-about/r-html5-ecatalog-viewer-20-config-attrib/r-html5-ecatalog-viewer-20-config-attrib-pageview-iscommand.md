@@ -5,8 +5,8 @@ title: PageView.iscommand
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: d1b05fe7-901b-4030-9b71-e4e0e5191abf
 ---
-
 # PageView.iscommand{#pageview-iscommand}
 
  ` [PageView.|<containerId>_pageView.]iscommand= *`isCommand`*`
@@ -36,4 +36,4 @@ When specified in the viewer URL.
 
 When specified in the config data.
 
-`iscommand=op_sharpen=1&op_colorize=0xff0000` 
+`iscommand=op_sharpen=1&op_colorize=0xff0000`

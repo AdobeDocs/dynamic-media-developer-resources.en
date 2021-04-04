@@ -5,8 +5,8 @@ title: searchServerUrl
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: 9ef8040f-1ea0-434d-ad00-3ef863448cb7
 ---
-
 # searchServerUrl{#searchserverurl}
 
  [!DNL `searchServerUrl= *`searchServerUrl`*`]

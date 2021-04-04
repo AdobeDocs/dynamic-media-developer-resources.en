@@ -4,8 +4,8 @@ solution: Experience Manager
 title: removeProjectAssets
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: 6bf169ec-c724-4ac0-a2bf-67af2ebba21a
 ---
-
 # removeProjectAssets{#removeprojectassets}
 
 Removes assets from a project. Does not destroy the assets.
@@ -56,4 +56,3 @@ This code sample removes 2 assets from a project (specified by the project handl
    </assetHandleArray>
 </removeProjectAssetsParam>
 ```
-

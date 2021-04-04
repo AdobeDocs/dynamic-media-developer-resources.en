@@ -7,8 +7,8 @@ title: VideoPlayer.preload
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
+exl-id: cee887f6-bbd9-46dd-aa41-03493596fcf4
 ---
-
 # VideoPlayer.preload{#videoplayer-preload}
 
 Indicates whether the viewer begins loading video content before the playback starts.
@@ -34,4 +34,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`preload=0` 
+`preload=0`

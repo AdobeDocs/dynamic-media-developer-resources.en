@@ -4,8 +4,8 @@ solution: Experience Manager
 title: About Responsive Image library
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: f853b9b4-917c-4744-b2a5-25fde2532356
 ---
-
 # About Responsive Image library{#about-responsive-image-library}
 
 Responsive Image Library is a JavaScript module that dynamically adjusts the quality of images served from Dynamic Media and embedded into responsive web pages. In addition, it provides improved image quality on devices with high-density screens. The library can also responsively render results from Smart Crop and Smart Swatch.
@@ -70,4 +70,3 @@ The simplest use case of the Responsive Image Library is to define a list of bre
 * Certified on iPhone3GS or later and iPad2 or later (native browsers only). 
 * Android OS 2.3 or later. 
 * Internet Explorer on mobile devices is not supported at this time.
-

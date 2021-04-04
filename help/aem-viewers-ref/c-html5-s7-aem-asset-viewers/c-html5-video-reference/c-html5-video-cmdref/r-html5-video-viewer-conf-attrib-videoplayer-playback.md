@@ -7,8 +7,8 @@ title: VideoPlayer.playback
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
+exl-id: 54a10b30-ebf5-4f1e-aa4a-b09055453c4e
 ---
-
 # VideoPlayer.playback{#videoplayer-playback}
 
 Configuration attribute for Video Viewer.
@@ -39,4 +39,3 @@ Ignored when viewer works with external video. See [External Video Support](../.
 ```
 playback=progressive
 ```
-

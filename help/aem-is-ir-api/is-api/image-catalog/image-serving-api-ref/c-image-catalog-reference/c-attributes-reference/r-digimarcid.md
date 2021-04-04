@@ -4,8 +4,8 @@ solution: Experience Manager
 title: DigimarcId
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: ac09c8cd-cb68-4b70-b1b4-9d4ca0166c7f
 ---
-
 # DigimarcId{#digimarcid}
 
 Digimarc user info. Specifies the user information for Digimarc embedding.
@@ -34,4 +34,4 @@ Specify a test Digimarc creator id with durability set to 4.
 
 ## See also {#section-75d4d2afd1df4127b31b1a82f30079d8}
 
-[catalog::DigimarcInfo](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-digimarcinfo-cat.md#reference-4925764ed683466bb7af4b807c86f8ba) 
+[catalog::DigimarcInfo](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-digimarcinfo-cat.md#reference-4925764ed683466bb7af4b807c86f8ba)

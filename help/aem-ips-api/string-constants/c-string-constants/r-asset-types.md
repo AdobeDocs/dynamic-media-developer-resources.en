@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Asset Types
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: efbdf214-403e-4dc8-90c1-97e6fd113265
 ---
-
 # Asset Types{#asset-types}
 
 Describes values used by various input parameters. See the list in this article for details.
@@ -70,4 +70,3 @@ Describes values used by various input parameters. See the list in this article 
 * [!DNL `Xsl`] 
 * [!DNL `Zip Rtf`]
 * [!DNL `ZoomTarget`]
-

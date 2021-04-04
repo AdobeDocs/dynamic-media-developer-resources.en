@@ -5,8 +5,8 @@ title: InfoPanelPopup.infoServerUrl
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: 83abaecb-cc85-4918-98ed-2770b4ca407b
 ---
-
 # InfoPanelPopup.infoServerUrl{#infopanelpopup-infoserverurl}
 
  `[InfoPanelPopup.|<containerId>_infoPanelPopup.]infoServerUrl= *`infoserverurl`*`
@@ -34,4 +34,4 @@ None.
 
 ## Example {#section-4f70fa4705c54452893c72c9da7e998a}
 
-`infoServerUrl= http://s7info1.scene7.com/s7info/s7/$3$/$4$/$1$` 
+`infoServerUrl= http://s7info1.scene7.com/s7info/s7/$3$/$4$/$1$`

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Size
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 46f06cbb-d70f-4334-966c-624b49c3bb9b
 ---
-
 # Size{#size}
 
 Image size. Pixel size of the full-resolution image referenced by catalog::Path.
@@ -26,4 +26,4 @@ If the field is not present, or if the field is empty, the actual size of the im
 
 ## See also {#section-e63797357d5a4119a10db1e6e088f6e9}
 
-[catalog::Path](../../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-path-cat.md#reference-306afcaff172440ca81b85da8d78213c) , [res=](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-res.md) 
+[catalog::Path](../../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-path-cat.md#reference-306afcaff172440ca81b85da8d78213c) , [res=](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-res.md)

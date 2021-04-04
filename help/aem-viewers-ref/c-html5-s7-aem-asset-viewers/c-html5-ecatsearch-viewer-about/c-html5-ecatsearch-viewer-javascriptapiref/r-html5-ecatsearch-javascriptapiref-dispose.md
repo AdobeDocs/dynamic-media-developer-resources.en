@@ -7,8 +7,8 @@ title: dispose
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: fda6d50f-0e1b-436c-af2e-1ccc9cd51c39
 ---
-
 # dispose{#dispose}
 
 JavaScript API reference for eCatalog Viewer.
@@ -36,4 +36,3 @@ None.
 ```
 <instance>.dispose()
 ```
-

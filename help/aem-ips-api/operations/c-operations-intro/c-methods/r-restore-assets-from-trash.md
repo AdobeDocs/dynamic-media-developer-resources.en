@@ -4,8 +4,8 @@ solution: Experience Manager
 title: restoreAssetsFromTrash
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: b1cde1a9-d726-4ebc-9d49-ee72a6b56fc9
 ---
-
 # restoreAssetsFromTrash{#restoreassetsfromtrash}
 
 Restores assets from trash.
@@ -65,4 +65,3 @@ This code sample restores assets from the trash. The response indicates the oper
    <errorCount>0</errorCount>
 </restoreAssetsFromTrashReturn
 ```
-

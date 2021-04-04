@@ -5,8 +5,8 @@ description: Adobe Dynamic Media developer resources
 
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: be0763ba-f343-4dd0-8146-1facb4cd5b0b
 ---
-
 # Dynamic Media Developer Resources{#dynamic-media-developer-resource}
 
 * [Viewers Reference Guide](/help/aem-viewers-ref/homeviewers.md)<!-- (https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/home.html?lang=en) -->

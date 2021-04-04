@@ -4,8 +4,8 @@ solution: Experience Manager
 title: deleteJob
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: d38dd1e2-668e-4956-b854-54bf466d6d45
 ---
-
 # deleteJob{#deletejob}
 
 Deletes a current or scheduled job.
@@ -51,4 +51,4 @@ This code sample deletes a job that is running or is scheduled to run in IPS. It
 
 **Response**
 
-None. 
+None.

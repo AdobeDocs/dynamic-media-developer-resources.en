@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Name
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 054dbbff-0989-4fa2-8a44-e6d3ee9e5ec9
 ---
-
 # Name{#name}
 
 Macro name.
@@ -18,4 +18,4 @@ Text string. Required. Each macro::Name value must be unique within the table. M
 
 ## Default {#section-031d1931a7694da88c3f7d623eabcb78}
 
-None. 
+None.

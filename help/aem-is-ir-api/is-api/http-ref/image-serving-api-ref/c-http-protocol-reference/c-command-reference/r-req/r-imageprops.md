@@ -4,8 +4,8 @@ solution: Experience Manager
 title: imageprops
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: b4337c20-8e47-4d61-b234-19434f5c5216
 ---
-
 # imageprops{#imageprops}
 
 Source image properties. Returns selected properties of the image file or catalog entry specified in the URL path.
@@ -135,4 +135,3 @@ The following properties are returned:
   </tr> 
  </tbody> 
 </table>
-

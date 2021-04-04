@@ -4,8 +4,8 @@ solution: Experience Manager
 title: GenerationAttributeArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 8b771155-5cd7-4cf2-9552-4efb114556de
 ---
-
 # GenerationAttributeArray{#generationattributearray}
 
 Array of generation attributes.
@@ -17,4 +17,3 @@ Array of generation attributes.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:GenerationAttribute`  | The array of generation attributes.  |
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Command macros
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 304d93af-3427-4111-882a-35be9ec3aef5
 ---
-
 # Command macros{#command-macros}
 
 Command macros provide named shortcuts for sets of commands. Macros are defined in separate macro definition files, which can be attached to image catalogs or the default catalog.
@@ -47,4 +47,4 @@ Since `wid=` is different for the third request, we simply override the value *a
 
 ## See also {#section-8cdba0ed2480444ca61e719e54f8871c}
 
-[catalog::MacroFile](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-macrofile.md#reference-f91d717b3847458ca0f1fe95387554a2) , [catalog::Modifier](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-modifier-cat.md), [Macro Definition Reference](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-macro-definition-reference/c-macro-definition-reference.md#concept-5ec73f7636c1496fba1e94094e694e79) 
+[catalog::MacroFile](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-macrofile.md#reference-f91d717b3847458ca0f1fe95387554a2) , [catalog::Modifier](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-modifier-cat.md), [Macro Definition Reference](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-macro-definition-reference/c-macro-definition-reference.md#concept-5ec73f7636c1496fba1e94094e694e79)

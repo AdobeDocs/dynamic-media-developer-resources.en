@@ -5,8 +5,8 @@ title: InfoPanelPopup.template
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: 20618017-2f73-4951-baa9-2063a0f4efcb
 ---
-
 # InfoPanelPopup.template{#infopanelpopup-template}
 
 ` [InfoPanelPopup.|<containerId>_infoPanelPopup.]template= *`template`*`
@@ -45,4 +45,4 @@ None.
 
 Assuming that the info server response returns the product name as variable `$1$` and product image URL is returned as variable `$2$`.
 
-`template=<info><![CDATA[Product description:$1$<br>Product image:<img src="$2$">]]></info>` 
+`template=<info><![CDATA[Product description:$1$<br>Product image:<img src="$2$">]]></info>`

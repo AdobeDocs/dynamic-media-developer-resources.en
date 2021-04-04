@@ -4,8 +4,8 @@ solution: Experience Manager
 title: obj
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 17387203-f7a7-4876-a15b-2084894f981d
 ---
-
 # obj{#obj}
 
 Select object by name. Selects the specified vignette group by name and starts a new MSS.
@@ -35,4 +35,4 @@ The first group in the vignette containing renderable objects is selected automa
 
 ## See also {#section-d9d2c92ef48548f48b9781e2a8a5fb5a}
 
-[sel=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-sel.md#reference-01322c58d414481385c29fcdd27a090b), [attribute::OnFailObj](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-onfailobj.md#reference-4c6ba90418e84da5831f8573bbbf2c8d) 
+[sel=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-sel.md#reference-01322c58d414481385c29fcdd27a090b), [attribute::OnFailObj](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-onfailobj.md#reference-4c6ba90418e84da5831f8573bbbf2c8d)

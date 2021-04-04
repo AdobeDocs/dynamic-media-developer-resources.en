@@ -5,8 +5,8 @@ title: createPropertySet
 
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: e9f85e65-4a2f-4b82-b7b8-d0d60b8345cd
 ---
-
 # createPropertySet{#createpropertyset}
 
 Property sets are application-specific sets of name-value pairs that can be attached to various IPS objects, depending on the property set type. If the property set type does not allow multiple sets to be attached to an object (PropertySetType/allowMultipleisfalse) and the object already has an associated set of the same type, the new set will replace the existing one.
@@ -72,4 +72,3 @@ This code sample creates a property set that contains names and values of proper
    <setHandle>ps|941</setHandle>
 </createPropertySetReturn>
 ```
-

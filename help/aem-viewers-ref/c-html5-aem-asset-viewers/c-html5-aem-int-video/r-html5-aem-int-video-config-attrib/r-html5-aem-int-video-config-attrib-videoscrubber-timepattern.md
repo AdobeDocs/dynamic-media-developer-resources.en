@@ -7,8 +7,8 @@ title: VideoScrubber.timepattern
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: d39ddf38-9157-412a-83a4-c1af4944a904
 ---
-
 # VideoScrubber.timepattern{#videoscrubber-timepattern}
 
 Configuration attribute for Interactive Video Viewer.
@@ -37,4 +37,3 @@ Optional.
 ```
 timepattern=h:mm:ss
 ```
-

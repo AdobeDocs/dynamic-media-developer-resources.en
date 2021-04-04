@@ -5,8 +5,8 @@ title: FavoritesView.align
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: 1cc46e3d-c9c7-4946-b957-ba4eff20dee0
 ---
-
 # FavoritesView.align{#favoritesview-align}
 
 [!DNL `[FavoritesView.|<containerId>_favoritesView.]align=left|center|right,top|center|bottom`]
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
-[!DNL `align=left,top`] 
+[!DNL `align=left,top`]

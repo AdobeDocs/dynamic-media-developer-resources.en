@@ -4,8 +4,8 @@ solution: Experience Manager
 title: DigimarcInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 2c46a563-d1e1-44c9-9bde-22128d023828
 ---
-
 # DigimarcInfo{#digimarcinfo}
 
 Default Digimarc image info. Provides a default value for catalog::DigimarcInfo.
@@ -22,4 +22,4 @@ Inherited from `default::DigimarcInfo` if the field is not specified or if it is
 
 ## See also {#section-543464e27f0a43249860a883b1ebfa15}
 
-[attribute::DigimarcId](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-digimarcid.md#reference-33e3eca7f1874510904e5c8645cecd68) , [catalog::DigimarcInfo](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-digimarcinfo-cat.md#reference-4925764ed683466bb7af4b807c86f8ba) 
+[attribute::DigimarcId](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-digimarcid.md#reference-33e3eca7f1874510904e5c8645cecd68) , [catalog::DigimarcInfo](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-digimarcinfo-cat.md#reference-4925764ed683466bb7af4b807c86f8ba)

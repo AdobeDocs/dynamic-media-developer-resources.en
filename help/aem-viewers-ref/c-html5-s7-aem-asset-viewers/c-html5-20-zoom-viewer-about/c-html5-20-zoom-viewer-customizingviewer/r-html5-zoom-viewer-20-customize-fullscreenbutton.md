@@ -7,8 +7,8 @@ title: Full screen button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
+exl-id: bbbf32db-15ce-4273-acc0-b6725b5405fb
 ---
-
 # Full screen button{#full-screen-button}
 
 Causes the viewer to enter or exit full screen mode when clicked by the user. This button does not display if the viewer works in popup mode and the system does not support native full screen. You can size, skin, and position this button by using CSS.
@@ -106,4 +106,3 @@ background-image:url(images/exitFullBtn_down.png);
 background-image:url(images/exitFullBtn_disabled.png); } 
 }
 ```
-

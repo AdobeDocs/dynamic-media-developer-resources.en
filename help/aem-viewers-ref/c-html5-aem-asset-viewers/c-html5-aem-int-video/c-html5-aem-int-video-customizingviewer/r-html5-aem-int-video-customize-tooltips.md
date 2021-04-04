@@ -7,8 +7,8 @@ title: Tooltips
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: 430809d8-3d51-49b7-b6bf-c3c3c77501ff
 ---
-
 # Tooltips{#tooltips}
 
 On desktop systems some user interface elements such as buttons have tooltips that are displayed on mouse hover.
@@ -76,4 +76,3 @@ To set up tooltips that have a grey border with a three pixel corner radius, bla
  font-size: 11px; 
 }
 ```
-

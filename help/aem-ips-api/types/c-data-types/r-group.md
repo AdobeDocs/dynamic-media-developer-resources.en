@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Group
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 843b3fa5-93d3-43db-b6c7-194e7fa4d31a
 ---
-
 # Group{#group}
 
 Named set of users used for assigning permissions.
@@ -20,4 +20,3 @@ Named set of users used for assigning permissions.
 |  `*`companyHandle`*`  | `xsd:string`  | Company handle.  |
 |  `*`name`*`  | `xsd:string`  | Group name.  |
 |  `*`is SystemDefined`*`  | `xsd:string`  | Whether the group is defined by the system.  |
-

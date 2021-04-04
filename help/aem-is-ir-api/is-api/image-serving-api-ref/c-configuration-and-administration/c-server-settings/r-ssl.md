@@ -4,8 +4,8 @@ solution: Experience Manager
 title: SSL
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: 4a5c52cc-de47-48e0-ac92-6ee66a58a7ea
 ---
-
 # SSL{#ssl}
 
 Use these server settings for SSL.
@@ -24,4 +24,4 @@ The password for the keystore file. Default is `scene7`.
 
 ## TC::keystoreType - Keystore Type {#section-8f263e1ba67740728cd39181960d7c7d}
 
-Select the type of keystore. ' `Java'` (default) and ' `PKCS12`' are supported. 
+Select the type of keystore. ' `Java'` (default) and ' `PKCS12`' are supported.

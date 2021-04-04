@@ -4,8 +4,8 @@ solution: Experience Manager
 title: IccProfileInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 10e04ec2-14af-4d15-9970-f47a2407d077
 ---
-
 # IccProfileInfo{#iccprofileinfo}
 
 Properties of an ICC profile asset.
@@ -19,4 +19,3 @@ Properties of an ICC profile asset.
 |  `*`originalPath`*`  | `xsd:string`  | ICC profile path.  |
 |  `*`originalFile`*`  | `xsd:string`  | Name of the original ICC profile.  |
 |  `*`fileSize`*`  | `xsd:int`  | ICC profile size.  |
-

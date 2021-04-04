@@ -4,8 +4,8 @@ solution: Experience Manager
 title: hide
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: bf70af48-53d6-4c4a-9d16-3696bbfe86ff
 ---
-
 # hide{#hide}
 
 Hide Layer. Allows hiding a layer without removing it from the request string.
@@ -18,4 +18,4 @@ Layer attribute. Applies to layer 0 when specified for `layer=comp`.
 
 ## Default {#section-ec9f5130be1b435c84ba1bba54e38a48}
 
-`hide=0` for a visible layer. 
+`hide=0` for a visible layer.

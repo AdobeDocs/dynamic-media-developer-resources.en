@@ -4,8 +4,8 @@ solution: Experience Manager
 title: AutomatedSetGenerationJob
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 44df6dfa-1485-40c2-8a14-bbf451b87641
 ---
-
 # AutomatedSetGenerationJob{#automatedsetgenerationjob}
 
 Group files into sets using an asset handle list array.
@@ -76,4 +76,3 @@ The `emailSetting` parameter includes the following options:
   </sequence>
 </complexType>
 ```
-

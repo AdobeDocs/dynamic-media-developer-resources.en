@@ -7,8 +7,8 @@ title: JavaScript API reference for Flyout Viewer
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,Business Practitioner
+exl-id: 7f85f6d0-bcc8-4d9b-ae0b-6fb9e1e7f0da
 ---
-
 # JavaScript API reference for Flyout Viewer{#javascript-api-reference-for-flyout-viewer}
 
 The main class of the Flyout Viewer is FlyoutViewer. It is declared in the s7viewers namespace. This JavaScript API covers constructor, methods, and call backs of this particular class.

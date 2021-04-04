@@ -5,8 +5,8 @@ title: Viewer SDK namespace
 
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
+exl-id: 3360a3bd-8a4a-4bf9-98bf-ada7c35c58f4
 ---
-
 # Viewer SDK namespace{#viewer-sdk-namespace}
 
 The viewer is built of many Viewer SDK components. In most cases, the web page does not need to interact with SDK components API directly; all common needs are covered in the viewer API itself.
@@ -31,4 +31,3 @@ For example, if you plan to listen to `StatusEvent.NOTF_VIEW_READY` event and th
 } 
 });
 ```
-

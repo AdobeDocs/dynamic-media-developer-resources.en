@@ -7,8 +7,8 @@ title: Large next page button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: 8147cdf8-298c-4713-a5a5-b34674f6b2c8
 ---
-
 # Large next page button{#large-next-page-button}
 
 Clicking or tapping on this button brings the user to the next page in the catalog. This button appears in the main control bar. This button is not displayed on mobile phones to save screen real estate. You can size, skin, and position this button by using CSS.
@@ -93,4 +93,3 @@ background-image:url(images/v2/RightButton_dark_down.png);
 background-image:url(images/v2/RightButton_dark_disabled.png); 
 }
 ```
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ImageServing
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 252e12d9-703e-4fbb-a156-8dcdc3bc4f2e
 ---
-
 # ImageServing{#imageserving}
 
 Image Serving control script. This script is used to start, stop, or restart the Image Serving Server Supervisor, which in turn starts, stops, or restarts all other Image Serving components.
@@ -46,4 +46,3 @@ Image Serving control script. This script is used to start, stop, or restart the
   </tr> 
  </tbody> 
 </table>
-

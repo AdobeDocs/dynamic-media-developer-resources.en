@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Rule set reference
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 194600d0-72d9-47fb-8525-598beb2ce17d
 ---
-
 # Rule set reference{#rule-set-reference}
 
 Image Rendering supports a simple request pre-processing mechanism which is based on regular-expression match and substitution rules.
@@ -108,4 +108,4 @@ Ruleset examples are provided in the corresponding section of the Image Catalog 
 
 ## See also {#section-cdaacf84f92c4bffbb4b76197b4e531a}
 
-[package java.util.regex](https://www2.cs.duke.edu/csed/java/jdk1.4.2/docs/api/) 
+[package java.util.regex](https://www2.cs.duke.edu/csed/java/jdk1.4.2/docs/api/)

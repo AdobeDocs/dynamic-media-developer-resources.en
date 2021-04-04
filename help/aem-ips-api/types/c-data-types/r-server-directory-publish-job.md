@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ServerDirectoryPublishJob
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: b6fe49ef-9db8-495c-9d5e-3230889f21ca
 ---
-
 # ServerDirectoryPublishJob{#serverdirectorypublishjob}
 
 Publishes all the images, templates, and spin sets that are marked ready to publish to a server directory.
@@ -18,4 +18,3 @@ Publishes all the images, templates, and spin sets that are marked ready to publ
 |---|---|---|
 |  `*`emailSettings`*`  | `xsd:string`  | Choice of email settings.  |
 |  `*`httpCompletionUrl`*`  | `xsd:string`  | URL to send a completion notice.  |
-

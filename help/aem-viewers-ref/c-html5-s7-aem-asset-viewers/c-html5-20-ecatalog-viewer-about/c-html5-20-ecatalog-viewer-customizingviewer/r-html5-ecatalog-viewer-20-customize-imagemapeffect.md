@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Image map effect
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: 3816118f-4eb7-4436-9f54-155dde077734
 ---
-
 # Image map effect{#image-map-effect}
 
 Depending on the value of the mode parameter, the viewer displays image map icons over the main view in places where maps are originally authored in Dynamic Media Classic or renders exact regions that match the shape of original image maps.
@@ -110,4 +110,3 @@ Example - set up a transparent image map region with `1` pixel black border :
  background: RGBA(0,0,0,0);  
 }
 ```
-

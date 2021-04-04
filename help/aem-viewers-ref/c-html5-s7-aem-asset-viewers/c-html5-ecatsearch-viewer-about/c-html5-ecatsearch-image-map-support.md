@@ -7,8 +7,8 @@ title: Image map support
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: 58e7523f-1615-4da4-bb09-a995bf427bfc
 ---
-
 # Image map support{#image-map-support}
 
 The eCatalog Search Viewer supports the rendering of image map icons above the main view.
@@ -51,4 +51,4 @@ where `*`idx`*` is a zero-based index of the catalog spread.
 
 The following is an example of an `href` attribute for an image map that points to the 3D spread in the eCatalog:
 
-`href=target:2` 
+`href=target:2`

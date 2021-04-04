@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Advanced text formatting
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: fd0e94dc-34ce-4fc1-8d52-f8647c8312b8
 ---
-
 # Advanced text formatting{#advanced-text-formatting}
 
 Use the following commands for advanced text formatting.
@@ -96,4 +96,3 @@ Use the following commands for advanced text formatting.
   </tr> 
  </tbody> 
 </table>
-

@@ -7,8 +7,8 @@ title: setParams
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: a93c14e8-d322-4630-9334-1b4413f1e443
 ---
-
 # setParams{#setparams}
 
 JavaScript API reference for eCatalog Viewer.
@@ -39,4 +39,3 @@ None.
 ```
 <instance>.setParams("PageView.zoomstep=2,3&PageView.iscommand=op_sharpen%3d1")
 ```
-

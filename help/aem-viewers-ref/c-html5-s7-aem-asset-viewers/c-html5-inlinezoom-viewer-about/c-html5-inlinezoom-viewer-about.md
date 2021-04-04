@@ -5,8 +5,8 @@ solution: Experience Manager
 title: Inline Zoom
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,Business Practitioner
+exl-id: 33e661b0-be5e-4d37-af88-47f7bc433c01
 ---
-
 # Inline Zoom{#inline-zoom}
 
 Inline Zoom Viewer is an image viewer. It displays a static image with the zoomed version shown over that static image when a user rolls over or touches the main view. This viewer works with image sets and navigation is done by using swatches. It is designed to work on desktops and mobile devices.
@@ -432,4 +432,3 @@ inlineZoomViewer.init();
 </body> 
 </html>
 ```
-

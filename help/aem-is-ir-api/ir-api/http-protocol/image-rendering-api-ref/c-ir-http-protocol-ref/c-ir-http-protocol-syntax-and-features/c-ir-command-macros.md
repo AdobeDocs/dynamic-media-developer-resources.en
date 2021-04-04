@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Command macros *
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 00f6d27e-9f6b-4eea-8f42-833fbc0f1c38
 ---
-
 # Command macros *{#command-macros}
 
 Command macros provide named shortcuts for sets of commands.
@@ -47,4 +47,3 @@ Since `qlt=` is different for the third request, we simply override the value af
 `catalog::MacroFile`, `catalog::Modifier`, Macro Definition Reference
 
 <!--<a id="section_297B7FCB285F4891AA76DF8393089931"></a>-->
-

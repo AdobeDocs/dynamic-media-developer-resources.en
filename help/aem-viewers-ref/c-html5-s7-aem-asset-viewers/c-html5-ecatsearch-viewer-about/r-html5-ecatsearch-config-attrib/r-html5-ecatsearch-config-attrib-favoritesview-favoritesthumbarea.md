@@ -5,8 +5,8 @@ title: FavoritesView.favoritesThumbView
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: 3a0a7482-315f-4192-aa6d-e9cc1415194f
 ---
-
 # FavoritesView.favoritesThumbView{#favoritesview-favoritesthumbview}
 
 [!DNL ` [FavoritesView.|<containerId>_favoritesView.]favoritesThumbArea= *`area`*`]
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
-[!DNL `favoritesThumbArea=0.5`] 
+[!DNL `favoritesThumbArea=0.5`]

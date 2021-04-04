@@ -5,8 +5,8 @@ title: Hotspot and Image maps support
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
+exl-id: b441e241-809e-47cf-a309-57283bd0532b
 ---
-
 # Hotspot and Image maps support{#hotspot-and-image-maps-support}
 
 The viewer supports the rendering of hotspot icons and image map regions on top of the main view. The appearance of hotspot icons and regions is controlled through CSS as described in the customize Hotspots and Image maps section.
@@ -21,4 +21,4 @@ These types of hotspots or image maps should be authored using the "Quick View" 
 
 ## Redirect to external web page {#section-ef820c71251e4215800bb99c0c9ebe16}
 
-Hotspots or image maps authored for the action type "Quick View" in Dynamic Media of AEM redirects the user to an external URL. Depending on settings made during authoring, the URL opens in a new browser tab, in the same window, or in the named browser window. 
+Hotspots or image maps authored for the action type "Quick View" in Dynamic Media of AEM redirects the user to an external URL. Depending on settings made during authoring, the URL opens in a new browser tab, in the same window, or in the named browser window.

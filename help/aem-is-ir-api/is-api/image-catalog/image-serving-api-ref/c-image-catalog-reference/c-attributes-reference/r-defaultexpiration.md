@@ -4,8 +4,8 @@ solution: Experience Manager
 title: DefaultExpiration
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 99103681-c00c-4648-8dee-2314e7e614af
 ---
-
 # DefaultExpiration{#defaultexpiration}
 
 Client cache TTL for default image responses. Provides the expiration interval for default image responses (responses which return a default image specified with either defaultImage= or attribute::DefaultImage).
@@ -24,4 +24,4 @@ TTL (Time-To-Live) is the duration before the cache expires. The default TTL is 
 
 ## See also {#section-d8642c22e3d947129367dd76366963d6}
 
-[catalog::Expiration](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-svg-data-reference/r-expiration-svg.md#reference-a7afd668ecbb4d2da65d86259aa6a28a) , [attribute::DefaultImage](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-is-cat-defaultimage.md#reference-8e9900e129f54ed68462a3c2fc3bc433) 
+[catalog::Expiration](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-svg-data-reference/r-expiration-svg.md#reference-a7afd668ecbb4d2da65d86259aa6a28a) , [attribute::DefaultImage](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-is-cat-defaultimage.md#reference-8e9900e129f54ed68462a3c2fc3bc433)

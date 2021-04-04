@@ -4,8 +4,8 @@ solution: Experience Manager
 title: printerMark
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: f61c7311-a2e9-4eb7-ae05-276a4eec980b
 ---
-
 # printerMark{#printermark}
 
 Display printer marks. Specifies how to display the printer marks.
@@ -61,4 +61,4 @@ The following are the valid values:
 
 ## Example {#section-d2e394ddabe14f4ea63af6dab233a163}
 
-`&printerMark=1,1,1,1,1,Illustrator,.25,1` 
+`&printerMark=1,1,1,1,1,Illustrator,.25,1`

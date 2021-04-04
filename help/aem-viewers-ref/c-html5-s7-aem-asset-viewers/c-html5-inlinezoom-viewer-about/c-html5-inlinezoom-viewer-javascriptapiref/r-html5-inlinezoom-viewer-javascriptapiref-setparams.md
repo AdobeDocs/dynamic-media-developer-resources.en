@@ -7,8 +7,8 @@ title: setParams
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,Business Practitioner
+exl-id: eb3298da-f19d-4013-8192-c51144d8b866
 ---
-
 # setParams{#setparams}
 
 JavaScript API reference for Inline Zoom Viewer.
@@ -37,4 +37,3 @@ None.
 ```
 <instance>.setParams("FlyoutZoomView.zoomfactor=2,3&Swatches.iscommand=op_sharpen%3d1")
 ```
-

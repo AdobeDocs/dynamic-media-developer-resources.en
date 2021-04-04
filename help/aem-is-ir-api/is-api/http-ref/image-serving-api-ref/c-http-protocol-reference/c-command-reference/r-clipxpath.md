@@ -4,8 +4,8 @@ solution: Experience Manager
 title: clipXPath
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 7d7e92f5-856f-4d62-a5d3-4726d7b43792
 ---
-
 # clipXPath{#clipxpath}
 
 Inverted Layer Clip Path. Specifies an exclusion clip path for the current layer. Any parts of the layer that are within the area defined by clipXPath= are rendered transparent.
@@ -37,4 +37,4 @@ None.
 
 ## See also {#section-a60f6e37ebf14e458519fcc4d2cc911d}
 
-[clipPath=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-clippath.md#reference-8139b1b52dc54749b51b109521ddf83d) 
+[clipPath=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-clippath.md#reference-8139b1b52dc54749b51b109521ddf83d)

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ImageServingPublishJob
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: dad6ca6b-6bfe-4788-8ba7-f6cb2a734800
 ---
-
 # ImageServingPublishJob{#imageservingpublishjob}
 
 Publishes files to the image servers.
@@ -19,4 +19,3 @@ Publishes files to the image servers.
 |  `*`publishType`*`  | `xsd:string`  | One of the available publish types.  |
 |  `*`emailSetting`*`  | `xsd:string`  | Choice of email settings.  |
 |  `*`httpCompletionUrl`*`  | `xsd:string`  | URL to send a completion notice.  |
-

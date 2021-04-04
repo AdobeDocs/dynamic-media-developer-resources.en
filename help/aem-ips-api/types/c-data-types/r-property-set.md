@@ -4,8 +4,8 @@ solution: Experience Manager
 title: PropertySet
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 8515d07b-354f-46c9-b528-fa1c380e66af
 ---
-
 # PropertySet{#propertyset}
 
 Type and value for a property set.
@@ -19,4 +19,3 @@ Type and value for a property set.
 |  `*`setHandle`*`  | `xsd:string`  | Property set handle.  |
 |  `*`typeHandle`*`  | `xsd:string`  | Handle to the property set type.  |
 |  `*`propertyArray`*`  | `types:PropertyArray`  | Name-value pair. Can contain zero items.  |
-

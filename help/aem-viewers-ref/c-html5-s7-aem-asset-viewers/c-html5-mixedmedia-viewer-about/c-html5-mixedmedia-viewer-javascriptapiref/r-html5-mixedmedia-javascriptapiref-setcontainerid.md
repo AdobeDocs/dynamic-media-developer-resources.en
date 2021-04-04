@@ -7,8 +7,8 @@ title: setContainerId
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: b6e191dc-3172-45ba-b6f6-258cfbd5855d
 ---
-
 # setContainerId{#setcontainerid}
 
 JavaScript API reference for Mixed Media Viewer.
@@ -35,4 +35,3 @@ None.
 ```
 <instance>.setContainerId("s7viewer");
 ```
-

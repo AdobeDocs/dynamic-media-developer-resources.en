@@ -7,8 +7,8 @@ title: dispose
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
+exl-id: c19466a8-9fc5-440c-8bb1-c4528937a522
 ---
-
 # dispose{#dispose}
 
 JavaScript API reference for Spin Viewer.
@@ -36,4 +36,3 @@ None.
 ```
 <instance>.dispose()
 ```
-

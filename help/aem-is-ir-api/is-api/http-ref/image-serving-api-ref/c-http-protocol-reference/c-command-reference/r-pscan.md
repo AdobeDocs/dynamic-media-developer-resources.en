@@ -4,8 +4,8 @@ solution: Experience Manager
 title: pscan
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 1afd3a60-e0b6-47d1-b7e4-98a3145782a2
 ---
-
 # pscan{#pscan}
 
 Progressive JPEG scan. Progressive JPEG displays an image in such a way that it initially shows a blurry/low-quality photo in its entirety. As the scanning passes continue, it becomes clearer as the image's data becomes more fully downloaded. This parameter lets you set the number of scans it takes (3, 4, or 5) for the entire image to appear.
@@ -32,4 +32,4 @@ Request attribute. Applies regardless of the current layer setting. Ignored if t
 
 ## See also {#section-2105c6441d2b42edb15c7abc4e20d7fc}
 
-[fmt=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-is-http-fmt.md#reference-cdf10043423b45ba9fe15157fb3ae37a) 
+[fmt=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-is-http-fmt.md#reference-cdf10043423b45ba9fe15157fb3ae37a)

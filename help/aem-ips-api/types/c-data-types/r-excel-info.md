@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ExcelInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: eec7405f-58fd-4103-95ff-c35c6e86c60f
 ---
-
 # ExcelInfo{#excelinfo}
 
 Properties of a Microsoft Excel file.
@@ -19,4 +19,3 @@ Properties of a Microsoft Excel file.
 |  `*`originalPath`*`  | `xsd:string`  | Path to the file.  |
 |  `*`originalFile`*`  | `xsd:string`  | File name.  |
 |  `*`fileSize`*`  | `xsd:int`  | File size.  |
-

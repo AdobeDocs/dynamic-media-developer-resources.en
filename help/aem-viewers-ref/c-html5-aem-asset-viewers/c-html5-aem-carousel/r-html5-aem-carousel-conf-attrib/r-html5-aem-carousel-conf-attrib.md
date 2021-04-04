@@ -7,8 +7,8 @@ title: Command reference – Configuration attributes
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
+exl-id: 71c2c973-d711-4d37-b778-381a7ec71527
 ---
-
 # Command reference – Configuration attributes{#command-reference-configuration-attributes}
 
 Configuration attributes documentation for Carousel Viewer.
@@ -25,4 +25,4 @@ which means that you can use this command as:
 * `CarouselView.fmt` (qualified with component class name) 
 * `cont_carouselView.fmt` (qualified with component ID, assuming `cont` is the ID of the container element)
 
-See also [Command reference common to all viewers - Configuration attributes](../../../r-html5-viewer-20-cmdref-configattrib/r-html5-viewer-20-cmdref-configattrib.md#concept-850e0f2c49b949deb7cfbfd330d329bd) 
+See also [Command reference common to all viewers - Configuration attributes](../../../r-html5-viewer-20-cmdref-configattrib/r-html5-viewer-20-cmdref-configattrib.md#concept-850e0f2c49b949deb7cfbfd330d329bd)

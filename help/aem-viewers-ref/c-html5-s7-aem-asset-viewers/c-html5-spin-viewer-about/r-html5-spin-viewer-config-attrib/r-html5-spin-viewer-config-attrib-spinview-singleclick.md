@@ -5,8 +5,8 @@ title: SpinView.singleclick
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
+exl-id: 92a497dc-c6b5-4b2d-8095-08bc6ad3d189
 ---
-
 # SpinView.singleclick{#spinview-singleclick}
 
  `[SpinView.|<containerId>_spinView.]singleclick=none|zoom|reset|zoomReset`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-622348a84fbe4ff4b5dd7eb53b044d83}
 
-`singleclick=zoom` 
+`singleclick=zoom`

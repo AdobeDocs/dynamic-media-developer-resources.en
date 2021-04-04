@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Text positioning
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 092444bf-9964-4d97-b06e-3add033da284
 ---
-
 # Text positioning{#text-positioning}
 
 The text= renderer positions text fundamentally different than the textPs= renderer when applied to pre-sized layers (i.e. when size= is specified as well).
@@ -56,4 +56,4 @@ The following examples are for pre-sized text. Behavior for self-sizing text is 
 
 ![](assets/tp06.png)
 
-`/is/image?size=230,50&bgc=f0f0f0&fmt=png&textPs={\fonttbl{\f1\fcharset0%20FluffyFont;}}\f1\fs88%20fluffy%20font%20problems` 
+`/is/image?size=230,50&bgc=f0f0f0&fmt=png&textPs={\fonttbl{\f1\fcharset0%20FluffyFont;}}\f1\fs88%20fluffy%20font%20problems`

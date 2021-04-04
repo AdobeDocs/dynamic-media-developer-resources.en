@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Request preprocessing
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: f855c36f-29f2-4ada-a103-1eb9b7b0c1a0
 ---
-
 # Request preprocessing{#request-preprocessing}
 
 Image Serving provides a simple request preprocessor based on regular-expression match and substitution rules.
@@ -28,4 +28,4 @@ Detailed information about creating, using, and managing rule sets can be found 
 
 ## See also {#see-also}
 
-[Rule Set Reference](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-rule-set-reference/c-rule-set-reference.md#concept-3e5058cf3507470b82cac638df23ea8e), [attribute::RuleSetFile](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-overview/c-file-formats/r-rule-set-files.md#reference-3e54cb5f4d74411a84889fed056ac093) 
+[Rule Set Reference](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-rule-set-reference/c-rule-set-reference.md#concept-3e5058cf3507470b82cac638df23ea8e), [attribute::RuleSetFile](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-overview/c-file-formats/r-rule-set-files.md#reference-3e54cb5f4d74411a84889fed056ac093)

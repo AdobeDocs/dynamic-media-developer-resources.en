@@ -5,8 +5,8 @@ title: batchSetAssetMetadata
 
 feature: Dynamic Media Classic,SDK/API,Metadata.Asset Management
 role: Developer,Administrator
+exl-id: 7393fa4f-71fb-48a5-a7f3-91eec82c88c1
 ---
-
 # batchSetAssetMetadata{#batchsetassetmetadata}
 
 Sets asset metadata using batch mode.
@@ -86,4 +86,3 @@ Sets asset metadata using batch mode.
    <errorCount>0</errorCount>
 </batchSetAssetMetadataReturn>
 ```
-

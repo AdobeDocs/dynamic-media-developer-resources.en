@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getAssetsByName
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: e48574e3-9d16-45fb-b4c8-98b5e092e611
 ---
-
 # getAssetsByName{#getassetsbyname}
 
 Returns assets based on an array of asset names.
@@ -148,4 +148,3 @@ This code sample returns two image type assets.
    </assetArray>
 </getAssetsByNameReturn>
 ```
-

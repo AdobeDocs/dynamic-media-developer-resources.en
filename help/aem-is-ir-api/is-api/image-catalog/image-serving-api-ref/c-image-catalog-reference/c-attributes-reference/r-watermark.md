@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Watermark
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 54c27ea0-e87f-41ce-ae8d-71c9fabe412e
 ---
-
 # Watermark{#watermark}
 
 Watermark selector. Specifies the catalog::Id of the catalog record to be used as a watermark image or template.
@@ -22,4 +22,4 @@ Inherited from `default::Watermark` if not defined. If defined but empty, no wat
 
 ## See also {#section-f15dbe31013849828d78588742dde58e}
 
-[catalog::Id](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-id-cat.md) 
+[catalog::Id](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-id-cat.md)

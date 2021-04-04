@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Profile Classes
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 9c6b59a2-bf26-4032-a963-d29268d0a0f8
 ---
-
 # Profile Classes{#profile-classes}
 
 Used by IccProfileFieldUpdate/class.
@@ -21,4 +21,3 @@ Used by IccProfileFieldUpdate/class.
 * [!DNL `ColorSpaceConversion`] 
 * [!DNL `Abstract`] 
 * [!DNL `NamedColor`]
-

@@ -5,8 +5,8 @@ title: ZoomView.iconeffect
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 40b7887d-d525-4816-8c72-9ef8f5948de3
 ---
-
 # ZoomView.iconeffect{#zoomview-iconeffect}
 
  ` [ZoomView.|<containerId>_zoomView.]iconeffect=0|1[, *`count`*][, *`fade`*][, *`autoHide`*]`
@@ -42,4 +42,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`iconeffect=0` 
+`iconeffect=0`

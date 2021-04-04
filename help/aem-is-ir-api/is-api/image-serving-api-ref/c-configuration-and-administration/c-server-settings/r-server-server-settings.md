@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Server
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: 10970ca8-b209-4adf-b027-6eb8d7a15db6
 ---
-
 # Server{#server}
 
 Use these server settings to configure your server.
@@ -50,4 +50,4 @@ The maximum number of text renderers to be active concurrently. 0 (default) is e
 
 ## IS::TextServerTcpPortRange - Text Server Communication Ports {#section-a13465de88ed4df09931e5ba840c1942}
 
-The ports to be used for text server communications. Specify the first and last port number, separated with '-'. 
+The ports to be used for text server communications. Specify the first and last port number, separated with '-'.

@@ -7,8 +7,8 @@ title: setAsset
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
+exl-id: e8aaee4e-56d5-46e4-8499-d5c9a6ba5d3b
 ---
-
 # setAsset{#setasset}
 
 JavaScript API reference for Carousel Viewer.
@@ -39,4 +39,3 @@ Single image reference:
 ```
 <instance>.setAsset("/content/dam/dm-public-facing-live-demo-page/04_shoppable_carousel/05_shoppable_banner")
 ```
-

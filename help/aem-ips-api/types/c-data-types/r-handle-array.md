@@ -4,8 +4,8 @@ solution: Experience Manager
 title: HandleArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 7dd58b31-8337-4ffc-9f58-ca7a8d16abb9
 ---
-
 # HandleArray{#handlearray}
 
 An array of handles.
@@ -19,4 +19,3 @@ An array of handles.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `xsd:string`  | An array of handles.  |
-

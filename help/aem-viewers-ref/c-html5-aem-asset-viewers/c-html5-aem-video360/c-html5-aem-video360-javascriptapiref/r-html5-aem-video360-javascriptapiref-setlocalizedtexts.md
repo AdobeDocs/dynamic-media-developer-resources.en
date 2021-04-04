@@ -7,8 +7,8 @@ title: setLocalizedTexts
 
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
+exl-id: b0434886-defa-47d4-9853-bfd73c64d036
 ---
-
 # setLocalizedTexts{#setlocalizedtexts}
 
 JavaScript API reference for Video360 Viewer.
@@ -37,4 +37,3 @@ None.
 ```
 <instance>.setLocalizedTexts({"en":{"Video360Player.ERROR":"Your Browser does not support HTML5 Video tag or the video cannot be played."},"fr":{"Video360Player.ERROR":"Votre navigateur ne prend pas en charge la vidéo HTML5 tag ou la vidéo ne peuvent pas être lus."},defaultLocale:"en"})
 ```
-

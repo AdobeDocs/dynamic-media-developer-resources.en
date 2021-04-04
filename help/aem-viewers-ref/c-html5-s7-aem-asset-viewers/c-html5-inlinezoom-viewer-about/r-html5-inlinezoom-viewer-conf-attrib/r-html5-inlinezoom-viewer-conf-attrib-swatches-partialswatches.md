@@ -5,8 +5,8 @@ title: Swatches.partialswatches
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,Business Practitioner
+exl-id: 2ec8c718-35f0-40d0-ae5d-d80111eb1b41
 ---
-
 # Swatches.partialswatches{#swatches-partialswatches}
 
  `[Swatches.|<containerId>_swatches.]partialswatches=0|1`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-3a188ab955c445bcb2efa3c49722c10d}
 
-`partialswatches=1` 
+`partialswatches=1`

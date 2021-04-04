@@ -5,8 +5,8 @@ title: PageView.iconEffect
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: cdd96e58-d805-47d6-bf26-9ebd90afd535
 ---
-
 # PageView.iconEffect{#pageview-iconeffect}
 
  ` [PageView.|<containerId>_pageView.]iconeffect=0|1[, *`count`*][, *`fade`*][, *`autoHide`*]`
@@ -42,4 +42,4 @@ Optional.
 
 ## Example {#section-95db1bfcccf241089654363203b19977}
 
-`iconeffect=0` 
+`iconeffect=0`

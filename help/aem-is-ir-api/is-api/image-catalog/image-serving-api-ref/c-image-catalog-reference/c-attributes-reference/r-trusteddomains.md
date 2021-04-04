@@ -4,8 +4,8 @@ solution: Experience Manager
 title: TrustedDomains
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 925ac9d1-203c-4814-a701-71060bf47c20
 ---
-
 # TrustedDomains{#trusteddomains}
 
 Flash application web domains. Adobe Flash applications may require access to the properties of images delivered with fmt=swf or fmt=swf3.
@@ -22,4 +22,4 @@ Inherited from `default::TrustedDomains` if not present.
 
 ## See also {#section-65d0846e41674882a4d0d56a8f6d524b}
 
-[fmt=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-is-http-fmt.md#reference-cdf10043423b45ba9fe15157fb3ae37a) 
+[fmt=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-is-http-fmt.md#reference-cdf10043423b45ba9fe15157fb3ae37a)

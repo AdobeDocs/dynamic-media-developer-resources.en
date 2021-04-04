@@ -5,8 +5,8 @@ title: TableOfContents.bearing
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: d8b88ea2-38fe-41b8-89cb-c3603c513142
 ---
-
 # TableOfContents.bearing{#tableofcontents-bearing}
 
  [!DNL `[TableOfContents.|<containerId>_tableOfContents.]bearing=[fit-lateral|fit-vertical][, *`autoHideDelay`*]`]
@@ -34,4 +34,4 @@ Optional.
 
 ## Example {#section-68ff51c4e2b740c995fc5109cc0063bd}
 
-[!DNL `bearing=fit-vertical,0.5`] 
+[!DNL `bearing=fit-vertical,0.5`]

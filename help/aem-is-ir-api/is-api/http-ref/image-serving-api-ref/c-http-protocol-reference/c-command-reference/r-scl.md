@@ -4,8 +4,8 @@ solution: Experience Manager
 title: scl
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 297d187c-3a52-45ff-b73d-0b0e4b956080
 ---
-
 # scl{#scl}
 
 Scale view. Scales the composite image by the inverse of invFactor.
@@ -41,4 +41,4 @@ See the example in [rotate=](../../../../../is-api/http-ref/image-serving-api-re
 
 ## See also {#section-ccefd5de59924059903d66d4974ce317}
 
-[wid=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-is-http-wid.md#reference-bfeadcb67bf4485f851eb21345527e47) , [hei=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-is-http-hei.md#reference-6d6f556ccc0e4b98a815e8a5c1944a96), [attribute::DefaultPix](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-defaultpix.md#reference-996b2c22b30f4fd9b970c84063306df1) 
+[wid=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-is-http-wid.md#reference-bfeadcb67bf4485f851eb21345527e47) , [hei=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-is-http-hei.md#reference-6d6f556ccc0e4b98a815e8a5c1944a96), [attribute::DefaultPix](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-defaultpix.md#reference-996b2c22b30f4fd9b970c84063306df1)

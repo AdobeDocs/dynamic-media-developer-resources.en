@@ -4,8 +4,8 @@ solution: Experience Manager
 title: deleteGroup
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 0de188de-b4b6-4f48-9918-bcf962fa9482
 ---
-
 # deleteGroup{#deletegroup}
 
 Deletes a group.
@@ -46,4 +46,4 @@ This sample code deletes a group from a company. It requires a group handle, whi
 
 **Response**
 
-None. 
+None.

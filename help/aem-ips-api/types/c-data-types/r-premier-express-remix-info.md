@@ -4,8 +4,8 @@ solution: Experience Manager
 title: PremierExpressRemixInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 725612b5-6e60-4c43-b33a-11c6fccb3c1d
 ---
-
 # PremierExpressRemixInfo{#premierexpressremixinfo}
 
 Properties of a PremierExpressRemix file asset.
@@ -19,4 +19,3 @@ Properties of a PremierExpressRemix file asset.
 |  `*`originalPath`*`  | `xsd:string`  | File path.  |
 |  `*`originalFile`*`  | `xsd:string`  | File name.  |
 |  `*`fileSize`*`  | `xsd:int`  | File size.  |
-

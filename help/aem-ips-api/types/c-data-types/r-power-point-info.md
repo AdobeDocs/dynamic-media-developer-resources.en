@@ -4,8 +4,8 @@ solution: Experience Manager
 title: PowerPointInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 089bea2b-562f-4a63-a4f1-70194811a47d
 ---
-
 # PowerPointInfo{#powerpointinfo}
 
 PowerPoint file options.
@@ -19,4 +19,3 @@ PowerPoint file options.
 |  `*`originalPath`*`  | `xsd:string`  | File path.  |
 |  `*`originalFile`*`  | `xsd:string`  | File name.  |
 |  `*`fileSize`*`  | `xsd:int`  | File size.  |
-

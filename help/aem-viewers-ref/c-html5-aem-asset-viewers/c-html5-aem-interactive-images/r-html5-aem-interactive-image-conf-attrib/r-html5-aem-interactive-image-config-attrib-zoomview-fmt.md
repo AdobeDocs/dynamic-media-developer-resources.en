@@ -7,8 +7,8 @@ title: ZoomView.fmt
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,Business Practitioner
+exl-id: 6a023abb-71c7-4db5-8d05-bf0a4b1fc3a0
 ---
-
 # ZoomView.fmt{#zoomview-fmt}
 
 Specifies the image format that the component uses for loading images from Image Server.
@@ -34,4 +34,4 @@ Optional.
 
 ## Example {#section-bce98c31f08a4a0ab262fab7f95ba020}
 
-`fmt=png-alpha` 
+`fmt=png-alpha`

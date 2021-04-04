@@ -4,8 +4,8 @@ solution: Experience Manager
 title: General
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: 3e4079e7-6def-4938-bb5b-c8122502712d
 ---
-
 # General{#general}
 
 General Server Settings
@@ -36,4 +36,4 @@ Set to false to disallow requests which do not include a valid catalog id in the
 
 ## PS::saveToFile.saveTimeout - File Save Timeout {#section-d22afd8ad86144b28684ed95a59db40e}
 
-Default timeout value for `req=saveToFile` when `timeout=`is not specified. `msec`. An error will be returned if the save operation is not completed within the specified amount of time. 
+Default timeout value for `req=saveToFile` when `timeout=`is not specified. `msec`. An error will be returned if the save operation is not completed within the specified amount of time.

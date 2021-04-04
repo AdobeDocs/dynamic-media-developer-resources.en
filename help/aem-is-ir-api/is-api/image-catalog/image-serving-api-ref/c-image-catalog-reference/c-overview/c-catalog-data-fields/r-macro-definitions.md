@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Macro definitions
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 0d95d288-8bd5-4ba8-a673-2a84f39a5dc6
 ---
-
 # Macro definitions{#macro-definitions}
 
 The following fields are recognized in macro definition files.
@@ -20,4 +20,3 @@ The following fields are recognized in macro definition files.
   <td class="stentry"> <p>Macro definition. </p></td> 
  </tr> 
 </table>
-

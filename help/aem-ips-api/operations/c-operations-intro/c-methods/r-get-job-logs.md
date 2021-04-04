@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getJobLogs
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 6239c3c4-bdbc-4e69-82d4-48a76f080eff
 ---
-
 # getJobLogs{#getjoblogs}
 
 Gets specified job logs for the selected company. You can sort by characters, direction, start and end dates, and number of rows.
@@ -79,4 +79,3 @@ This code sample returns IPS job logs for a specific company. You can also use i
    </jobLogArray>
 </getJobLogsReturn>
 ```
-

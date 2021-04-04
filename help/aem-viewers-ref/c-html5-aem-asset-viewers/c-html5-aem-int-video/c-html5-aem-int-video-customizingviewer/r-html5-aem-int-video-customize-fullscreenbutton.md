@@ -7,8 +7,8 @@ title: Full screen button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: ed9c9d37-f871-4094-9c6e-931d0f6edff1
 ---
-
 # Full screen button{#full-screen-button}
 
 The full screen button causes the video player to enter or exit full screen mode when a user clicks it.
@@ -104,4 +104,3 @@ background-image:url(images/exitFullBtn_down.png);
 background-image:url(images/exitFullBtn_disabled.png); } 
 }
 ```
-

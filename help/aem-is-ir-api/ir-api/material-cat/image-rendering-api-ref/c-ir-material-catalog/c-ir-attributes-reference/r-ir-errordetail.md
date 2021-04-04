@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ErrorDetail
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 39d7fc44-7605-4f93-b2f9-0a6e8bc76ec7
 ---
-
 # ErrorDetail{#errordetail}
 
 Error message detail. Specifies the level of detail for error messages returned via HTTP as the error.message value.
@@ -47,4 +47,4 @@ Inherited from `default::ErrorDetail` if not specified or if empty.
 
 ## See also {#section-474e71922d194c7ca06f2aad3b30e025}
 
-[attribute::ErrorImage](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-errorimage.md#reference-b58bdaba96074c52802ca8dc54bfe2f0) 
+[attribute::ErrorImage](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-errorimage.md#reference-b58bdaba96074c52802ca8dc54bfe2f0)

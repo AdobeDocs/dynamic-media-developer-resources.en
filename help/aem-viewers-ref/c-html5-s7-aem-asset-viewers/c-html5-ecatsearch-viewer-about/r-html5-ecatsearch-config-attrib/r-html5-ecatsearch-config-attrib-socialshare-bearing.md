@@ -5,8 +5,8 @@ title: SocialShare.bearing
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: fa094d84-927b-48f2-9c82-61f2a446158b
 ---
-
 # SocialShare.bearing{#socialshare-bearing}
 
  [!DNL `[SocialShare.|<containerId>_socialShare.]bearing= up|down|left|right|fit-vertical|fit-lateral`]
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-b48f9881aca44bb5a30866d905d98035}
 
-[!DNL `bearing=left`] 
+[!DNL `bearing=left`]

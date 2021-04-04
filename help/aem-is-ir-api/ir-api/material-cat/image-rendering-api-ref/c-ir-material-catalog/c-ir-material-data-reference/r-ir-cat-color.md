@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Color
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: af472ded-d9df-48d5-a237-c359b68bebe2
 ---
-
 # Color{#color}
 
 Material color. The principal color for solid color materials and the additive color for colorized texture materials.
@@ -20,4 +20,4 @@ None.
 
 ## See also {#section-5e7e4a3cd0f745ab99a061db6f9bdfc7}
 
-[color=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-http-color.md#reference-ea3cba9edfe94dbab86d8f123a9ed0aa) 
+[color=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-http-color.md#reference-ea3cba9edfe94dbab86d8f123a9ed0aa)

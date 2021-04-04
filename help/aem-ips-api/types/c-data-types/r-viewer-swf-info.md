@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ViewerSwfInfo
 feature: Dynamic Media Classic,SDK/API,Viewers
 role: Developer,Administrator
+exl-id: 55d5cd83-7c7d-42a5-84ab-35e0c410a8ef
 ---
-
 # ViewerSwfInfo{#viewerswfinfo}
 
 Properties of a viewer SWF file asset.
@@ -19,4 +19,3 @@ Properties of a viewer SWF file asset.
 |  `*`originalPath`*`  | `xsd:string`  | Relative path to the originally uploaded viewer SWF file.  |
 |  `*`originalFile`*`  | `xsd:string`  | File name of the original viewer SWF file.  |
 |  `*`fileSize`*`  | `xsd:int`  | File size.  |
-

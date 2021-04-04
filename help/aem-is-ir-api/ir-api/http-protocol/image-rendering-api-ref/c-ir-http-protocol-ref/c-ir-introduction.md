@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Introduction
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: c185e45b-a56c-4576-b05d-22cc0025a7c4
 ---
-
 # Introduction{#introduction}
 
 This document describes the HTTP protocol for Dynamic Media Image Rendering.
@@ -91,4 +91,4 @@ It is assumed that the reader is familiar with Dynamic Media Image Authoring and
 
 ** *`MSS`* ** Material Specification Segment: a set of material attributes between two selection commands in the request.
 
-** *`vignette`* ** An image prepared in Dynamic Media Image Authoring for use with Image Rendering. 
+** *`vignette`* ** An image prepared in Dynamic Media Image Authoring for use with Image Rendering.

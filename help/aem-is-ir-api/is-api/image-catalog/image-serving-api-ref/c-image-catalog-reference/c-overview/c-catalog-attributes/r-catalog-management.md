@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Catalog management
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: c29858a7-6695-4c40-a818-4161a2e97ff5
 ---
-
 # Catalog management{#catalog-management}
 
 Catalog attribute files recognize these catalog management attributes.
@@ -80,4 +80,3 @@ Catalog attribute files recognize these catalog management attributes.
   <td class="stentry"> <p>Enable synthetic bold/italic styles. </p></td> 
  </tr> 
 </table>
-

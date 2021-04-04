@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Alert thresholds
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: 1ae76692-2688-4902-82a0-d0751408eee7
 ---
-
 # Alert thresholds{#alert-thresholds}
 
 Use these server settings to configure alert thresholds.
@@ -42,4 +42,4 @@ Integer value 1 or larger. Typical range is 20 to 50, depending on the cache hit
 
 Specifies the number of seconds a request must be pending before it is considered locked or hung. A locked request alert is issued if at the end of an averaging interval at least one request has been pending for longer than the specified time period. Positive integer value in msec.
 
-To account for complex render requests and requests that involve obtaining data from foreign HTTP servers, it is recommended to set this value to at least 30 seconds (unless such a condition is to be detected by this alert). 
+To account for complex render requests and requests that involve obtaining data from foreign HTTP servers, it is recommended to set this value to at least 30 seconds (unless such a condition is to be detected by this alert).

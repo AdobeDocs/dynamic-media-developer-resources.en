@@ -4,8 +4,8 @@ solution: Experience Manager
 title: removeGroupMembers
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 8a9b7d54-d11b-41a8-9783-573a316e0ac6
 ---
-
 # removeGroupMembers{#removegroupmembers}
 
 Removes company users from a specific group.
@@ -53,4 +53,4 @@ This code sample removes a user from the specified company. Remove multiple user
 
 **Response**
 
-None. 
+None.

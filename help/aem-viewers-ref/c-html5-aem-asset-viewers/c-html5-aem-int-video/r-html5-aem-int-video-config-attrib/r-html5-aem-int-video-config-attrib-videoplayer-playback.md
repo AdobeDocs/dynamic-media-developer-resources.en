@@ -7,8 +7,8 @@ title: VideoPlayer.playback
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: fa49e025-1a46-4be7-ad1e-eda3b31bdc8d
 ---
-
 # VideoPlayer.playback{#videoplayer-playback}
 
 Configuration attribute for Interactive Video Viewer.
@@ -34,4 +34,4 @@ Optional.
 
 ## Example {#section-bce98c31f08a4a0ab262fab7f95ba020}
 
-`playback=progressive` 
+`playback=progressive`

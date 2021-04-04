@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Uploading assets by way of HTTP POSTs to the UploadFile Servlet
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: e40293be-d00f-44c1-8ae7-521ce3312ca8
 ---
-
 # Uploading assets by way of HTTP POSTs to the UploadFile Servlet{#uploading-assets-by-way-of-http-posts-to-the-uploadfile-servlet}
 
 Uploading assets into Dynamic Media Classic involves one or more HTTP POST requests that set up a job to coordinate all the log activity associated with the uploaded files.
@@ -198,4 +198,3 @@ Server: Unknown
 <?xml version='1.0' encoding='UTF-8'?><tns:authenticationFault xmlns:tns="http://www.scene7.com/IpsApi/xsd"><tns:code>10001</tns:code><tns:reason>Invalid username/password</tns:reason></tns:authenticationFault> 
  
 ```
-

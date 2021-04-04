@@ -4,8 +4,8 @@ solution: Experience Manager
 title: qlt
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 8801a650-303c-47a3-8136-c8b2b7a80e9d
 ---
-
 # qlt{#qlt}
 
 Jpeg quality. Specifies JPEG encoding attributes to control the compression level. This in turn varies the file size (amount of the reply data), and, indirectly, the visual quality of the resultant image.
@@ -33,4 +33,4 @@ Set the `chroma` flag to disable the RGB chromaticity down-sampling employed by 
 
 ## Example {#section-a6c263f15c29424a86ef267c96a6630a}
 
-[!DNL http://server/is/agm/myRootId/myImageId?fmt=jpg&qlt=80] 
+[!DNL http://server/is/agm/myRootId/myImageId?fmt=jpg&qlt=80]

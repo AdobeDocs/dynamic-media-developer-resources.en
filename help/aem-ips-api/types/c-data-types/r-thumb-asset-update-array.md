@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ThumbAssetUpdateArray
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: 58893b74-9a32-47f6-9c97-80db67ae1739
 ---
-
 # ThumbAssetUpdateArray{#thumbassetupdatearray}
 
 An metadata updates for thumb assets.
@@ -17,4 +17,3 @@ An metadata updates for thumb assets.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:ThumbAssetUpdates`  | An array of thumb asset updates.  |
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ImageFieldUpdateArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: efba86d2-8a78-4cb6-b74c-e927b7812997
 ---
-
 # ImageFieldUpdateArray{#imagefieldupdatearray}
 
 An array of image field updates.
@@ -17,4 +17,3 @@ An array of image field updates.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:ImageFieldUpdate`  | Array of image field updates.  |
-

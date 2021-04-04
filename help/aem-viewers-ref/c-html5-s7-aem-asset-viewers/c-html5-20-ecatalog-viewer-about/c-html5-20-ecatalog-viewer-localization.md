@@ -7,8 +7,8 @@ title: Localization of user interface elements
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: 1d7e9eba-b30c-4f85-b551-6842f73dc22c
 ---
-
 # Localization of user interface elements{#localization-of-user-interface-elements}
 
 Certain content that the eCatalog Viewer displays is subject to localization, including zoom buttons, page change buttons, thumbnail button, full screen button, close button, and scroll bar buttons.
@@ -407,4 +407,3 @@ The following SYMBOLs are supported (assuming containerId is theID of the viewer
   </tr> 
  </tbody> 
 </table>
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: setAssetPermissions
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: 1e73c305-cda5-4c30-9380-ec4cd8309933
 ---
-
 # setAssetPermissions{#setassetpermissions}
 
 Sets the permissions of a single asset by using a permission asset.
@@ -55,4 +55,4 @@ This code sample sets permissions on an asset. It contains the company and asset
 
 **Response**
 
-None. 
+None.

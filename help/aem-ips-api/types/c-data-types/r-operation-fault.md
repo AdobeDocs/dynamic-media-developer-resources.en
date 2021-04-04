@@ -4,8 +4,8 @@ solution: Experience Manager
 title: OperationFault
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: e1fa7f66-f9d9-45cd-a9b3-d0ff344b137d
 ---
-
 # OperationFault{#operationfault}
 
 Detail message responding to one the URLs provided in the CDN invalidation request.
@@ -20,4 +20,3 @@ Detail message responding to one the URLs provided in the CDN invalidation reque
 |---|---|---|
 |  `*`code`*`  | `xsd:int`  | Error code provided from the CDN  |
 |  `*`reason`*`  | `xsd:string`  | Error message provided from the CDN  |
-

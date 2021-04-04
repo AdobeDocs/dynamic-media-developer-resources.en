@@ -4,8 +4,8 @@ solution: Experience Manager
 title: op_brightness
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 390ed812-87ae-41e7-8021-65dd95915ae8
 ---
-
 # op_brightness{#op-brightness}
 
 Adjust brightness. Decreases or increases the image brightness.
@@ -31,4 +31,4 @@ Layer command. Applies to the current layer or to the composite image if `layer=
 
 Darken the background of an image slightly to emphasize the foreground content:
 
-`http://server/myRootId/myImageId?wid=500&layer=0&maskUse=invert&op_brightness=-10&layer=1&src=myRootId/myImageId` 
+`http://server/myRootId/myImageId?wid=500&layer=0&maskUse=invert&op_brightness=-10&layer=1&src=myRootId/myImageId`

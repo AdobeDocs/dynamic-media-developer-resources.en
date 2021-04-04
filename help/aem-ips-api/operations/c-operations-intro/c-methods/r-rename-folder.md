@@ -4,8 +4,8 @@ solution: Experience Manager
 title: renameFolder
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: 2d4f1059-8018-4efb-a1ec-8eb560b1a58f
 ---
-
 # renameFolder{#renamefolder}
 
 Renames a folder.
@@ -62,4 +62,3 @@ This code sample renames a folder.
    <folderHandle>MyCompany/My Newly Renamed PDF Folder/</folderHandle>
 </renameFolderReturn>
 ```
-

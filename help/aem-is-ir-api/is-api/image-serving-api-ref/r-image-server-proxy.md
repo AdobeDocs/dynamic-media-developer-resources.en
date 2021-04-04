@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Image server proxy
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 0389a4af-a412-42eb-b7b4-716e47d623a0
 ---
-
 # Image server proxy{#image-server-proxy}
 
 An image server proxy can be used to resize images for Japanese phones.
@@ -41,4 +41,4 @@ If the device has a limit on the size of images that can be embedded on a web pa
 
 ## Backend processing {#section-bdf7c294b6824de9969c97fc1f8aa6d3}
 
-The proxy downloads, verifies, and loads the Device Atlas data file once a day. The verification pulls out different properties for different devices and compares them with expected values before accepting the new data. 
+The proxy downloads, verifies, and loads the Device Atlas data file once a day. The verification pulls out different properties for different devices and compares them with expected values before accepting the new data.

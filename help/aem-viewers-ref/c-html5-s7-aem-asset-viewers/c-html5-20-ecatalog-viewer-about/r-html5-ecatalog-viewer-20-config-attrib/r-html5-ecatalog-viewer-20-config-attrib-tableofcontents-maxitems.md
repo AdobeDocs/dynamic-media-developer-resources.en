@@ -5,8 +5,8 @@ title: TableOfContents.maxitems
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: d3196158-5eab-46de-8a29-8f08f4797185
 ---
-
 # TableOfContents.maxitems{#tableofcontents-maxitems}
 
 ` [TableOfContents.|<containerId>_tableOfContents.]maxitems= *`maxitems`*`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-3a1a91fac1614b6db464626f7b32771a}
 
-`maxitems=10` 
+`maxitems=10`

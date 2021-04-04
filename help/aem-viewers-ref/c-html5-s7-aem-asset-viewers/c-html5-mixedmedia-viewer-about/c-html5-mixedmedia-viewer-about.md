@@ -5,8 +5,8 @@ solution: Experience Manager
 title: Mixed Media
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 65a54308-f9db-4458-a9c3-ccb1433af43c
 ---
-
 # Mixed Media{#mixed-media}
 
 Mixed Media Viewer is a media viewer. It supports media sets that contain images, swatch sets, spin sets, videos, and Adaptive Video Sets.
@@ -424,4 +424,3 @@ mixedMediaViewer.init();
 </body> 
 </html>
 ```
-

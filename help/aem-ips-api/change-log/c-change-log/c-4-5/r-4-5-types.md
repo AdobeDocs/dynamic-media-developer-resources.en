@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Data Types  New and Modified
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 45024d75-8058-40f8-b3e3-9b28b4cdc3f7
 ---
-
 # Data Types: New and Modified{#data-types-new-and-modified}
 
 Describes new and changed data types for the IPS API version 4.5.
@@ -42,4 +42,3 @@ Describes new and changed data types for the IPS API version 4.5.
 
 * `MetadataUpdate` 
 * `UploadUrlsJob` requires a `urlArray` and adds an optional `numUrls` count
-

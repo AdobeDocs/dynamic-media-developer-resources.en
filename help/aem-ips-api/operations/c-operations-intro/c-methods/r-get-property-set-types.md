@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getPropertySetTypes
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 7686d30b-e071-4950-8af1-4dd25312ce4b
 ---
-
 # getPropertySetTypes{#getpropertysettypes}
 
 Gets the property set types associated with the specified company, or global property set types if no company is specified.
@@ -85,4 +85,3 @@ Gets the property set types associated with the specified company, or global pro
   </typeArray>
 </getPropertySetTypesReturn>
 ```
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: xlate
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: bf5b3cb7-9792-4eca-a1aa-55aa4089b4d4
 ---
-
 # xlate{#xlate}
 
 Available locale-specific versions. Returns a list of available locale-specific versions of the catalog id specified in the request path.
@@ -31,4 +31,4 @@ Requests that support JSONP response format lets you specify the name of the JS 
 
 `req=...,json [&handler = reqHandler ]`
 
-`<reqHandler>` is the name of the JS handler that is present in the JSONP response. Only a-z, A-Z, and 0-9 characters are allowed. Optional. Default is `s7jsonResponse`. 
+`<reqHandler>` is the name of the JS handler that is present in the JSONP response. Only a-z, A-Z, and 0-9 characters are allowed. Optional. Default is `s7jsonResponse`.

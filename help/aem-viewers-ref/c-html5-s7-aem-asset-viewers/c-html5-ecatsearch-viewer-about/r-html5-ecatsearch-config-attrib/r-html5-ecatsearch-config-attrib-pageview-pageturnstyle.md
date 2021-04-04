@@ -5,8 +5,8 @@ title: PageView.pageturnstyle
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: 2669c8e2-c942-420f-8262-9d76d5c499a2
 ---
-
 # PageView.pageturnstyle{#pageview-pageturnstyle}
 
  [!DNL `[PageView.|<containerId>_pageView.]pageturnstyle= *`dividerWidth`*, *`dividerColor`*, *`dividerOpacity`*, *`borderOnOff`*, *`borderColor`*, *`fillColor`*`]
@@ -52,4 +52,4 @@ Optional.
 
 ## Examples {#section-bb97b2aac37a43eba11d263ce7049363}
 
-[!DNL `pageturnstyle=20,FF0000,1,1,00FF00,0000FF`] 
+[!DNL `pageturnstyle=20,FF0000,1,1,00FF00,0000FF`]

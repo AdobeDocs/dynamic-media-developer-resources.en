@@ -7,8 +7,8 @@ title: InteractiveSwatches.maxloadradius
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: 16c9c70a-352d-4a21-bb14-2f9e266a83e8
 ---
-
 # InteractiveSwatches.maxloadradius{#interactiveswatches-maxloadradius}
 
 Configuration attribute for Interactive Video Viewer.
@@ -37,4 +37,3 @@ Optional.
 ```
 maxloadradius=-1
 ```
-

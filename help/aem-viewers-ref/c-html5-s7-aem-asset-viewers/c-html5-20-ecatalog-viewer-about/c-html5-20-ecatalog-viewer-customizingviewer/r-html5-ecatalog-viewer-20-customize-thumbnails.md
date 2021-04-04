@@ -7,8 +7,8 @@ title: Thumbnails
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: e3d3d33b-f6bb-4c5b-820c-028bfb6b2594
 ---
-
 # Thumbnails{#thumbnails}
 
 Thumbnails consist of a grid of thumbnail images with an optional scroll bar on the right side to allow vertical scrolling.
@@ -395,4 +395,3 @@ Example - to set up scroll buttons which are 28 x 32 pixels and have different a
  background-image:url(images/v2/ThumbnailScrollDownButton_dark_up.png); 
 }
 ```
-

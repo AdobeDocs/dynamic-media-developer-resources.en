@@ -7,8 +7,8 @@ title: Main viewer area
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: 854f5fa7-f46d-4c4f-9a44-886fec93f606
 ---
-
 # Main viewer area{#main-viewer-area}
 
 The main view area is the area occupied by the catalog image. It usually sets to fit the available device screen when no size is specified.
@@ -55,4 +55,3 @@ Example - to set up a viewer with a white background ( `#FFFFFF`) and make its s
  height: 288px;  
 }
 ```
-

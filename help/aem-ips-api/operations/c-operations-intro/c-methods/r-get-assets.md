@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getAssets
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: 3b63da9c-f10a-40bf-8e3c-4f0bfc53d74c
 ---
-
 # getAssets{#getassets}
 
 Returns assets from IPS.
@@ -101,5 +101,3 @@ Returns assets from IPS.
   </tr> 
  </tbody> 
 </table>
-
-

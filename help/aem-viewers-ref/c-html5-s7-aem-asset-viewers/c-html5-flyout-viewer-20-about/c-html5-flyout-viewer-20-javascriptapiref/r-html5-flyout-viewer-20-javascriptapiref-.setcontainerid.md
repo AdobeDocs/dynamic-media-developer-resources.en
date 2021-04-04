@@ -7,8 +7,8 @@ title: setContainerId
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,Business Practitioner
+exl-id: 5e07cbba-c1c1-4c85-af2b-ab2d84fbb709
 ---
-
 # setContainerId{#setcontainerid}
 
 JavaScript API reference for Flyout Viewer.
@@ -35,4 +35,3 @@ None.
 ```
 <instance>.setContainerId("s7viewer");
 ```
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: setCompanySettings
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: c6b72ceb-3c86-4b13-89e9-5f1bb9846b2c
 ---
-
 # setCompanySettings{#setcompanysettings}
 
 Sets various company-specific configuration values.
@@ -57,4 +57,4 @@ This code sample sets a company's configuration.
 
 **Response**
 
-None. 
+None.

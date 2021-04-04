@@ -4,8 +4,8 @@ solution: Experience Manager
 title: JobLogDetailAux
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 789736c5-d74d-4970-9665-b43e316aca69
 ---
-
 # JobLogDetailAux{#joblogdetailaux}
 
 Contains supplementary messages associated with the main job log message (JobDetail). Includes warnings and other details associated with the currently processed asset.
@@ -19,4 +19,3 @@ Contains supplementary messages associated with the main job log message (JobDet
 |  `*`logMessage`*`  | `xsd:string`  | An auxiliary message.  |
 |  `*`logType`*`  | `xsd:string`  |Log type: `IPSJobLog.gcUploadWarning` or `IPSJobLog.gcUploadError`.  |
 |  `*`dateCreated`*`  | `xsd:dateTime`  | Auxiliary job log creation date.  |
-

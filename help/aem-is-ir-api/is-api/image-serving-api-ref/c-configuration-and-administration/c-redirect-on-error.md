@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Redirect on error
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: c5541bf3-3296-4ce3-a2ff-9f6336f78ea9
 ---
-
 # Redirect on error{#redirect-on-error}
 
 IS servers can be configured to fail-over to alternate servers for requests which involve a source image which cannot be opened or read successfully.
@@ -37,4 +37,4 @@ Error redirect is enabled by setting `PS::errorRedirect.rootUrl` to the HTTP dom
 
 ## See also {#section-2e8bfc128b944baf8108279d16492f3f}
 
-[Error Redirection](../../../is-api/image-serving-api-ref/c-configuration-and-administration/c-server-settings/r-error-redirection.md#reference-268b1bf6ce1b44bb979727c6f5daf1ac) 
+[Error Redirection](../../../is-api/image-serving-api-ref/c-configuration-and-administration/c-server-settings/r-error-redirection.md#reference-268b1bf6ce1b44bb979727c6f5daf1ac)

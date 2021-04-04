@@ -7,8 +7,8 @@ title: Video scrubber
 
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
+exl-id: a0b89b4b-5f66-41d5-88b9-a01fddec437e
 ---
-
 # Video scrubber{#video-scrubber}
 
 The video scrubber is the horizontal slider control that lets a user dynamically seek to any time position within the currently playing video.
@@ -177,4 +177,3 @@ height:10px;
 background-color:#888888; 
 }
 ```
-

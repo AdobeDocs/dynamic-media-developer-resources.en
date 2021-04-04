@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Rule set reference
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: dfbb5f5e-d75a-496a-8b97-f102ad1a34d5
 ---
-
 # Rule set reference{#rule-set-reference}
 
 Image Serving supports a simple request preprocessing mechanism which is based on regular-expression match and substitution rules.
@@ -139,4 +139,4 @@ We can use substrings to restructure the request:
 
 ## See also {#section-9b748e7c5cff4759a70f96657bd43352}
 
-[package java.util.regex](https://www2.cs.duke.edu/csed/java/jdk1.4.2/docs/api/) 
+[package java.util.regex](https://www2.cs.duke.edu/csed/java/jdk1.4.2/docs/api/)

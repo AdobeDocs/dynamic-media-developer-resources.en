@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Request pre-processing *
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 79a358db-0fd6-4327-a305-b0b38ad62050
 ---
-
 # Request pre-processing *{#request-pre-processing}
 
 Image Rendering provides a simple request pre-processor based on regular-expression match and substitution rules.
@@ -22,4 +22,4 @@ Request pre-processing rules are suitable for a variety of applications, some of
 
 Detailed information about creating, using, and managing rule sets can be found in the Rule Set Reference.
 
-See also Rule Set Reference, attribute::RuleSetFile 
+See also Rule Set Reference, attribute::RuleSetFile

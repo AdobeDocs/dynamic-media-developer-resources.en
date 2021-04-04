@@ -4,8 +4,8 @@ solution: Experience Manager
 title: CacheValidationPolicy
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: d54a8ab9-d6b3-4eae-95c6-c4ab6f00ebde
 ---
-
 # CacheValidationPolicy{#cachevalidationpolicy}
 
 Server cache validation policy. Specifies when server-side cache entries are validated.
@@ -24,4 +24,4 @@ Inherited from `default::CacheValidationPolicy` if not defined or if empty.
 
 ## See also {#section-a0c922fa519641f2bce05e75e4eb51d0}
 
-[catalog::TimeStamp](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-svg-data-reference/r-timestamp-svg.md#reference-59a27b72f4cb4a53a3baba83214c4ded) 
+[catalog::TimeStamp](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-svg-data-reference/r-timestamp-svg.md#reference-59a27b72f4cb4a53a3baba83214c4ded)

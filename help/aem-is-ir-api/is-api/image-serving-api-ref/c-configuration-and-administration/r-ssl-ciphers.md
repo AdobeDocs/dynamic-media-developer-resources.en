@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Defining SSL ciphers
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: 7734ba02-4442-4a3d-acbf-e14d8ad66279
 ---
-
 # Defining SSL ciphers{#defining-ssl-ciphers}
 
 The Connector tag in server.xml supports a ciphers attribute to limit the ciphers that can be chosen for an SSL connection.
@@ -46,4 +46,4 @@ If any of the values is wrong, Tomcat will enable every single cipher. So it is 
 
 As an example the following configuration will enable only the "128-bit" cipher suites and above:
 
-`ciphers="SSL_DHE_DSS_WITH_3DES_EDE_CBC_SHA,SSL_DHE_DSS_WITH_DES_CBC_SHA,SSL_DHE_RSA_WITH_3DES_EDE_CBC_SHA,SSL_RSA_WITH_3DES_EDE_CBC_SHA,TLS_DHE_DSS_WITH_AES_128_CBC_SHA,TLS_DHE_RSA_WITH_AES_128_CBC_SHA,TLS_RSA_WITH_AES_128_CBC_SHA"` 
+`ciphers="SSL_DHE_DSS_WITH_3DES_EDE_CBC_SHA,SSL_DHE_DSS_WITH_DES_CBC_SHA,SSL_DHE_RSA_WITH_3DES_EDE_CBC_SHA,SSL_RSA_WITH_3DES_EDE_CBC_SHA,TLS_DHE_DSS_WITH_AES_128_CBC_SHA,TLS_DHE_RSA_WITH_AES_128_CBC_SHA,TLS_RSA_WITH_AES_128_CBC_SHA"`

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Image Serving HTTP encoding
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: aec8463f-f72a-4203-89ab-8a4f0ad9d6f9
 ---
-
 # Image Serving HTTP encoding{#image-serving-http-encoding}
 
 Command values must be http-encoded using %xx escape sequences, such that the value strings do not include the reserved characters '=', '&', and '%'.
@@ -177,4 +177,4 @@ If obfuscation is applied, encoding can be limited to remove '=', '&', and '%' c
 
 ## See also {#section-295476ec34c74973962d07dfa9eb2180}
 
-[Request Obfuscation](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-syntax-and-features/r-request-obfuscation.md#reference-895f65d6796c43bb9bad21a676ed714d), [HTTP/1.1 Specification (RFC 2616)](http://www.w3.org/Protocols/rfc2616/rfc2616.html) 
+[Request Obfuscation](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-syntax-and-features/r-request-obfuscation.md#reference-895f65d6796c43bb9bad21a676ed714d), [HTTP/1.1 Specification (RFC 2616)](http://www.w3.org/Protocols/rfc2616/rfc2616.html)

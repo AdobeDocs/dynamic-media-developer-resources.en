@@ -4,8 +4,8 @@ solution: Experience Manager
 title: glossmap
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 922fc527-be19-4d7a-b265-7bdb1de80990
 ---
-
 # glossmap{#glossmap}
 
 Gloss map image. Provides pixel-by-pixel control of the glossiness of a repeatable texture, wallpaper/border, or decal.
@@ -45,4 +45,4 @@ None.
 
 ## See also {#section-33953fc1be82452da37141f2e541e00c}
 
-[gloss=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-http-gloss.md#reference-325aef2ee51e4e1584a06047427340ca), [src=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-src.md#reference-62c98abad22149d68d405ed6aaff8272) 
+[gloss=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-http-gloss.md#reference-325aef2ee51e4e1584a06047427340ca), [src=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-src.md#reference-62c98abad22149d68d405ed6aaff8272)

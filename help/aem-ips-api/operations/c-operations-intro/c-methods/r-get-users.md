@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getUsers
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: dfdcbcdd-232f-4c73-9520-c7c958eedf54
 ---
-
 # getUsers{#getusers}
 
 Gets an array of users as specified by company, group, and user role handles. This operation lets you sort returned users and filter by character.
@@ -74,4 +74,3 @@ This code sample returns the array of users for several optional parameters. Use
    </userArray>
 </getUsersReturn>
 ```
-

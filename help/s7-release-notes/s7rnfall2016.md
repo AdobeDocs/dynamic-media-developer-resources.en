@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Scene7 Fall 2016 Release
 feature: Dynamic Media Classic
 role: Developer,Business Practitioner
+exl-id: 23091ef7-750a-4ec2-9d03-1d713f436991
 ---
-
 # Scene7 Fall 2016 Release{#scene-fall-release}
 
 The latest release notes for Adobe Scene7 Fall 2016 release–part of the Adobe Experience Manager solution in the Adobe Marketing Cloud.
@@ -343,4 +343,3 @@ The User Guide is located in the Adobe HTML5 Viewer SDK folder of the client ins
 
 * IC utility - `downsample2x2` flag is no longer supported. This flag was a poor quality 2x2 downsampler that is no longer used by IPS. 
 * CORS header - Currently, the CORS header is configured for `/is/content/` requests.
-

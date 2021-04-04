@@ -5,8 +5,8 @@ title: Support for Adobe Analytics tracking
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner,Data Engineer,Data Architect
+exl-id: 9e321684-4861-4d81-b55c-66c77635930e
 ---
-
 # Support for Adobe Analytics tracking{#support-for-adobe-analytics-tracking}
 
 ## Custom tracking {#section-cda48fc9730142d0bb3326bac7df3271}
@@ -61,4 +61,3 @@ The viewer tracks the following SDK user events:
   </tr> 
  </tbody> 
 </table>
-

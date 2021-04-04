@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getAssetMetadataFields
 feature: Dynamic Media Classic,SDK/API,Metadata,Asset Management
 role: Developer,Administrator
+exl-id: 5234d3ea-c333-4e35-91ae-ce3412919fda
 ---
-
 # getAssetMetadataFields{#getassetmetadatafields}
 
 Returns all metadata fields, grouped by asset type.
@@ -61,4 +61,3 @@ Returns all metadata fields, grouped by asset type.
    </assetFieldsArray>
 <getAssetMetadataFieldsReturn>
 ```
-

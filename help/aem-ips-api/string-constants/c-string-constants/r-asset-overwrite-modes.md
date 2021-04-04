@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Asset Overwrite Modes
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: 1a62026c-bad1-4459-8fe6-a94b87939ce1
 ---
-
 # Asset Overwrite Modes{#asset-overwrite-modes}
 
 Used by setCompanySettingsParam/overwriteMode.
@@ -18,4 +18,3 @@ Used by setCompanySettingsParam/overwriteMode.
 * [!DNL `OverwriteAnyExt`] 
 * [!DNL `OverwriteFullNameAnyFolder`] 
 * [!DNL `OverwriteAnyExtAnyFolder`]
-

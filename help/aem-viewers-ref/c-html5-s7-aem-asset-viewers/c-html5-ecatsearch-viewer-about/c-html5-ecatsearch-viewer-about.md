@@ -6,8 +6,8 @@ title: eCatalog Search
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: 915e628e-65e7-44c6-a2aa-d4ae7ed03b8e
 ---
-
 # eCatalog Search{#ecatalog-search}
 
 eCatalog Search Viewer is a catalog viewer that displays electronic brochures in a spread by spread or page by page manner, The eCatalog lets users navigate through the catalog using additional user interface elements or dedicated thumbnails mode. Users can also zoom in on every page for greater detail.
@@ -392,4 +392,3 @@ eCatalogSearchViewer.init();
 </body> 
 </html>
 ```
-

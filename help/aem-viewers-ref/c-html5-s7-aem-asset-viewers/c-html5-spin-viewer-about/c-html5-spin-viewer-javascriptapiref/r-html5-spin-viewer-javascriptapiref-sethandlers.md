@@ -7,8 +7,8 @@ title: setHandlers
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
+exl-id: f9e0b93e-fb27-4530-93cf-8246948423d9
 ---
-
 # setHandlers{#sethandlers}
 
 JavaScript API reference for Spin Viewer
@@ -41,4 +41,3 @@ None.
 } 
 })
 ```
-

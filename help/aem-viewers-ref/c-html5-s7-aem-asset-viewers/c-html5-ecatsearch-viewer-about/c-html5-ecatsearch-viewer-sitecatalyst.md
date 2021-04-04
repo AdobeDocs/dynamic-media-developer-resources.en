@@ -7,8 +7,8 @@ title: Support for Adobe Analytics tracking
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner,Data Engineer,Data Architect
+exl-id: b35e52f5-fa08-4945-aa52-9fdf41a6081a
 ---
-
 # Support for Adobe Analytics tracking{#support-for-adobe-analytics-tracking}
 
 The eCatalog Search Viewer supports Adobe Analytics tracking out of the box.
@@ -89,4 +89,3 @@ The viewer tracks the following SDK user events:
   </tr> 
  </tbody> 
 </table>
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: setUrlModifier
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 9e96ffc8-5a38-46b8-9ba8-956c86b32c7a
 ---
-
 # setUrlModifier{#seturlmodifier}
 
 Sets the Image Serving or Image Rendering protocol commands for the specified asset. These commands modify the representation of the asset without destroying it.
@@ -51,4 +51,4 @@ The IPS API does not return a response for this operation.
 
 **Response**
 
-None. 
+None.

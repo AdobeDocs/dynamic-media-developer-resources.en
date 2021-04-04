@@ -4,8 +4,8 @@ solution: Experience Manager
 title: TagFieldValues
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 94969a10-1317-4efa-abbe-a374a8d42c30
 ---
-
 # TagFieldValues{#tagfieldvalues}
 
 An array of values for a tag field.
@@ -18,4 +18,3 @@ An array of values for a tag field.
 |---|---|---|
 |  `*`fieldHandle`*`  | `xsd:string`  | Tag field handle.  |
 |  `*`valueArray`*`  | `xsd:StringArray`  | An array of values for a tag field.  |
-

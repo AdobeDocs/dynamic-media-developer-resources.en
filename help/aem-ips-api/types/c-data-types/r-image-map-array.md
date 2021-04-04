@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ImageMapArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: da823ee9-198f-4d52-b77f-ac7d21162fb5
 ---
-
 # ImageMapArray{#imagemaparray}
 
 An array of image maps.
@@ -17,4 +17,3 @@ An array of image maps.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:ImageMap`  | The image map array.  |
-

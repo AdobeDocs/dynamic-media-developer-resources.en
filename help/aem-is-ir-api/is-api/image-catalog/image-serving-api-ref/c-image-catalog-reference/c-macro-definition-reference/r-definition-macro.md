@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Definition
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 5b8815f5-c8e0-43e1-828c-2e389388cdde
 ---
-
 # Definition{#definition}
 
 Macro definition. An Image Serving protocol fragment consisting of one or more complete commands, separated by '&' characters.
@@ -18,4 +18,4 @@ Text string. Required.
 
 ## Default {#section-b6d0f8f010f34bec8f09134399b870c4}
 
-None. 
+None.

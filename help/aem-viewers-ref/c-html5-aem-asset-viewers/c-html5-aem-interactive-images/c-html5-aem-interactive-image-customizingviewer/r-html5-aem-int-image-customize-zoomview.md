@@ -7,8 +7,8 @@ title: Zoom view
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,Business Practitioner
+exl-id: e83d53a1-bee9-4e4d-8295-a3a350f3ff9c
 ---
-
 # Zoom view{#zoom-view}
 
 Main view consists of the static image.
@@ -45,4 +45,3 @@ Example - to make the main view transparent.
  background-color: transparent; 
 }
 ```
-

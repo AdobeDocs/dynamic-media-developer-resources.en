@@ -7,8 +7,8 @@ title: Spin view
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
+exl-id: d3274fe3-1a47-448e-acc6-6df77c6a4211
 ---
-
 # Spin view{#spin-view}
 
 Main view consists of the spin image.
@@ -45,4 +45,3 @@ Example - to make the main view transparent.
  background-color: transparent; 
 }
 ```
-

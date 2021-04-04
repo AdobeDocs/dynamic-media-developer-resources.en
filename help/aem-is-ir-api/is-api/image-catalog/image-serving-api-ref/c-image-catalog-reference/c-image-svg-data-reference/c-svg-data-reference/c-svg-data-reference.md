@@ -4,8 +4,8 @@ solution: Experience Manager
 title: SVG data reference
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 583c7bd1-8d97-444e-a49f-56a2f94829be
 ---
-
 # SVG data reference{#svg-data-reference}
 
 This section describes the SVG data attributes.

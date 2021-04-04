@@ -7,8 +7,8 @@ title: Embed share
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: 2ed2db55-824c-40b6-8747-6b9b8792f5db
 ---
-
 # Embed share{#embed-share}
 
 Embed share tool consists of a button added to the Social share panel and the modal dialog box that displays when the tool is activated. The position of the button is fully managed by the Social share tool.
@@ -1284,4 +1284,3 @@ background-image:url(images/sdk/scroll_up_up.png);
  background-image:url(images/sdk/scroll_down_disabled.png); 
 }
 ```
-

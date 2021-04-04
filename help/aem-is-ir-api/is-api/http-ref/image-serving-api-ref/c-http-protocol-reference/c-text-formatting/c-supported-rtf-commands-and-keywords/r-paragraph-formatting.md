@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Paragraph formatting
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: a2235082-714c-4ae3-ae06-c91ea2fb5abb
 ---
-
 # Paragraph formatting{#paragraph-formatting}
 
 The following paragraph formatting commands are supported.
@@ -101,4 +101,3 @@ The following paragraph formatting commands are supported.
   </tr> 
  </tbody> 
 </table>
-

@@ -7,8 +7,8 @@ title: SocialShare.bearing
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
+exl-id: 391efc4e-23f6-4159-8b03-ad1c9a887ec3
 ---
-
 # SocialShare.bearing{#socialshare-bearing}
 
 Configuration attribute for Video Viewer.
@@ -37,4 +37,3 @@ Optional.
 ```
 bearing=left
 ```
-

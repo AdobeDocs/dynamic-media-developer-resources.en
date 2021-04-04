@@ -4,8 +4,8 @@ solution: Experience Manager
 title: FontFieldUpdate
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 9e7b90d6-78da-48ff-8dff-9def3c32e3bc
 ---
-
 # FontFieldUpdate{#fontfieldupdate}
 
 Update information for font properties.
@@ -24,4 +24,3 @@ Update information for font properties.
 |  `*`style`*`  | `xsd:string`  | Font style (see Font Styles for values).  |
 |  `*`typeName`*`  | `xsd:string`  | Font type name.  |
 |  `*`type`*`  | `xsd:string`  | Font type (see Font Types for values).  |
-

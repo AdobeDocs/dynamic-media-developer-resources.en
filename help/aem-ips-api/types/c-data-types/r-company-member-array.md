@@ -4,8 +4,8 @@ solution: Experience Manager
 title: CompanyMemberArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 7f41ffa4-4077-4a27-baf6-e7b83449a868
 ---
-
 # CompanyMemberArray{#companymemberarray}
 
  Syntax 
@@ -15,4 +15,3 @@ role: Developer,Administrator
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:CompanyMember`  | |
-

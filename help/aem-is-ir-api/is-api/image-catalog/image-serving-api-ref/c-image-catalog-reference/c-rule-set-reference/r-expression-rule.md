@@ -4,8 +4,8 @@ solution: Experience Manager
 title: expression
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 84b0bb22-7462-4038-9d14-2707999b5548
 ---
-
 # expression{#expression}
 
 Regular expression pattern element. Optional in `<rule>` elements.
@@ -36,4 +36,4 @@ All characters between the `<expression>` and `</expression>` tags are passed to
 
 ## See also {#section-ca98548917d945f4b71f18208f0e6840}
 
-[java.util.regex](https://www2.cs.duke.edu/csed/java/jdk1.4.2/docs/api/) 
+[java.util.regex](https://www2.cs.duke.edu/csed/java/jdk1.4.2/docs/api/)

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: MPEvent
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 642c82d1-aea1-4430-a599-b526fdbc8091
 ---
-
 # MPEvent{#mpevent}
 
 A MediaPortal event.
@@ -37,4 +37,3 @@ A MediaPortal event.
 |  `*`float2`*`  | `xsd:double`  | Holder for float information (optional).  |
 |  `*`float3`*`  | `xsd:double`  | Holder for float information (optional).  |
 |  `*`time1`*`  | `xsd:dateTime`  | Holder for date/timestamp information (optional).  |
-

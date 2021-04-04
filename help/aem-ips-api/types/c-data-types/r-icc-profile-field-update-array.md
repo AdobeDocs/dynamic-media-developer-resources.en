@@ -4,8 +4,8 @@ solution: Experience Manager
 title: IccProfileFieldUpdateArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 665280fe-ec76-48ce-b104-d65440c0f1ac
 ---
-
 # IccProfileFieldUpdateArray{#iccprofilefieldupdatearray}
 
 An array of ICC profile field update items.
@@ -17,4 +17,3 @@ An array of ICC profile field update items.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:IccProfileUpdate`  | `IccProfileFieldUpdate` array item.  |
-

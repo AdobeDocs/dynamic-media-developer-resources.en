@@ -5,8 +5,8 @@ title: ThumbnailGridView.maxloadradius
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: e93de3b5-b42d-4db8-90b9-9e2aa53af775
 ---
-
 # ThumbnailGridView.maxloadradius{#thumbnailgridview-maxloadradius}
 
 ` [ThumbnailGridView.|<containerId>_pageView.]maxloadradius=-1|0| *`preloadnbr`*`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-472614b59e04430490a7f16c932bce89}
 
-`maxloadradius=0` 
+`maxloadradius=0`

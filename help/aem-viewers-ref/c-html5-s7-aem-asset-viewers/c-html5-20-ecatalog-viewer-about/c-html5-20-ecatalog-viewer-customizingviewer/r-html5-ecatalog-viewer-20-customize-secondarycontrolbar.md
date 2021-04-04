@@ -7,8 +7,8 @@ title: Secondary control bar
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: 2354c3a0-2df7-4a18-aac1-fac158a9b659
 ---
-
 # Secondary control bar{#secondary-control-bar}
 
 The secondary control bar is the rectangular area that contains First and Last Page buttons and a Page Indicator when made available in CSS.
@@ -54,4 +54,3 @@ Example - to set up a gray secondary control bar that is 72 pixels tall and is p
  height: 72px; 
 }
 ```
-

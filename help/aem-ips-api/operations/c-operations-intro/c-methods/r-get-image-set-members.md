@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getImageSetMembers
 feature: Dynamic Media Classic,SDK/API,Image Sets
 role: Developer,Administrator
+exl-id: 29ceef8b-127f-4460-8623-c3e26c959327
 ---
-
 # getImageSetMembers{#getimagesetmembers}
 
 Gets an array of members that are in an image set.
@@ -62,4 +62,3 @@ This code sample returns specific image set members. The response returns an emp
    <memberArray></memberArray>
 </getImageSetMembersReturn>
 ```
-

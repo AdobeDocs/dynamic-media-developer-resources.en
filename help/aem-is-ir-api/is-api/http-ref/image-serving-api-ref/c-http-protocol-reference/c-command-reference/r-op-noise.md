@@ -4,8 +4,8 @@ solution: Experience Manager
 title: op_noise
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: eeadd3ab-80ff-4f9b-b5b7-4f3da6feebde
 ---
-
 # op_noise{#op-noise}
 
 Add noise. Adds random noise to the foreground image data, or to the foreground of an effect layer.
@@ -41,4 +41,4 @@ Layer command. Applies to the current layer or to the composite image if `layer=
 
 ## Default {#section-d548868fa4b64a60bcb481cad1f8113e}
 
-`op_noise=0,uniform,0`, for no noise. 
+`op_noise=0,uniform,0`, for no noise.

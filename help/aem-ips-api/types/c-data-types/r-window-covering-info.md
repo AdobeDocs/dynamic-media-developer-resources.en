@@ -4,8 +4,8 @@ solution: Experience Manager
 title: WindowCoveringInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 43f7927d-6341-4d30-9a3c-de1d61b4d667
 ---
-
 # WindowCoveringInfo{#windowcoveringinfo}
 
 Properties of a window covering file.
@@ -23,4 +23,3 @@ Properties of a window covering file.
 |  `*`imageFile`*`  | `xsd:string`  | File name of the window covering image.  |
 |  `*`optimizedPath`*`  | `xsd:string`  | Optimized path to the file.  |
 |  `*`optimizedFile`*`  | `xsd:string`  | Optimized file name.  |
-

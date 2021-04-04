@@ -7,8 +7,8 @@ title: InteractiveSwatches.direction
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: 6f5ec9e3-9912-4f6a-b848-de0076c4b86f
 ---
-
 # InteractiveSwatches.direction{#interactiveswatches-direction}
 
 Configuration attribute for Interactive Video Viewer.
@@ -37,4 +37,3 @@ Optional.
 ```
 direction=right
 ```
-

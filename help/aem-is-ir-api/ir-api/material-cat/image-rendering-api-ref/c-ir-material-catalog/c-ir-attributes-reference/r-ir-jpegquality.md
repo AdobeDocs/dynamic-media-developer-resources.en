@@ -4,8 +4,8 @@ solution: Experience Manager
 title: JpegQuality
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 1a699a9e-dbf6-4e01-95aa-37a6eb83f4df
 ---
-
 # JpegQuality{#jpegquality}
 
 Default JPEG encoding quaility. Specifies the default quality setting for JPEG-encoded reply images.
@@ -20,4 +20,4 @@ Inherited from `default::JpegQuality` if not defined or if empty.
 
 ## See also {#section-8928a28fcbfe401cad4d4021a7a1c268}
 
-[qlt=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-qlt.md#reference-27b91c226eb241d0a14a29af3b3afdbd) 
+[qlt=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-qlt.md#reference-27b91c226eb241d0a14a29af3b3afdbd)

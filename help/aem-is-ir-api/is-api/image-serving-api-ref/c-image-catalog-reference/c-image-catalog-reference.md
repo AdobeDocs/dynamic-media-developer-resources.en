@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Image catalog reference
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: c41a0581-1025-4fad-a157-5e371a7d398a
 ---
-
 # Image catalog reference{#image-catalog-reference}
 
 Image catalogs provide information about images and supporting data such as fonts and ICC profiles, to the server.

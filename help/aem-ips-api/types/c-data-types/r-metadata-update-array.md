@@ -4,8 +4,8 @@ solution: Experience Manager
 title: MetadataUpdateArray
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
+exl-id: d6ff2ae9-0924-4155-81fb-282f808cc54f
 ---
-
 # MetadataUpdateArray{#metadataupdatearray}
 
 An array of metadata updates.
@@ -17,4 +17,3 @@ An array of metadata updates.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:MetadataUpdate`  | Array of metadata updates.  |
-

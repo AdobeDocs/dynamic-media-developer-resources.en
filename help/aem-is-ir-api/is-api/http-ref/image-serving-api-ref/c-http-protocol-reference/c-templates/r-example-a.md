@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Example A
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 7f731b41-994d-4f1d-b42d-e14db47e4d6c
 ---
-
 # Example A{#example-a}
 
 Create a fixed-size template with a static background image, a variable image which is aligned with the background at the left-center and scaled to not exceed 80% of the width and height of the background, and one text layer with vertical text centered at the right edge of the canvas.
@@ -46,4 +46,3 @@ Any image may be used for the background image and the layer 1 image. If the bac
 The following illustration shows the composite result for different aspect ratios of the layer 1 image and different text strings.
 
 ![](assets/exampleausing.png)
-

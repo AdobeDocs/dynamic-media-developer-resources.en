@@ -5,8 +5,8 @@ title: Operations  New and Modified
 
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 8f4fe698-afe8-4ce6-904d-42fa67dee4dd
 ---
-
 # Operations: New and Modified{#operations-new-and-modified}
 
 Describes new and changed operations methods for the IPS API version 3.8.
@@ -32,4 +32,3 @@ Describes new and changed operations methods for the IPS API version 3.8.
 **getJobLogs**
 
 * The optional `userHandle` parameter lets you retrieve job logs submitted by a specific user.
-

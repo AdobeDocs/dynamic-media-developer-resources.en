@@ -7,8 +7,8 @@ title: Hotspots and Image maps
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
+exl-id: 70517201-9d59-4d9c-986d-a6e9655b7956
 ---
-
 # Hotspots and Image maps{#hotspots-and-image-maps}
 
 The viewer displays hotspot icons over the main view in places where hotspots were originally authored in Dynamic Media of AEM Assets – on-demand.
@@ -102,4 +102,3 @@ Example - set up a transparent image map region with a one pixel black border:
  background: RGBA(0,0,0,0);  
 }
 ```
-

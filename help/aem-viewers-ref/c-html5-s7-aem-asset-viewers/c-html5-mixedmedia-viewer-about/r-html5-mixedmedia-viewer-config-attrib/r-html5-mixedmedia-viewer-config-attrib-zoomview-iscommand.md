@@ -5,8 +5,8 @@ title: ZoomView.iscommand
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: faa6344a-a0b5-4b27-818b-81e9e0b721b4
 ---
-
 # ZoomView.iscommand{#zoomview-iscommand}
 
  ` [ZoomView.|<containerId>_zoomView.]iscommand= *`isCommand`*`
@@ -36,4 +36,4 @@ When specified in the viewer URL:
 
 When specified in the config data:
 
-`iscommand=op_sharpen=1&op_colorize=0xff0000` 
+`iscommand=op_sharpen=1&op_colorize=0xff0000`

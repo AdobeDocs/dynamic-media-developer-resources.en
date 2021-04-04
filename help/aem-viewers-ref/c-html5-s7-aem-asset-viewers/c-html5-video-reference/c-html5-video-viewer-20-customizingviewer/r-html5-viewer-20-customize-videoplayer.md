@@ -7,8 +7,8 @@ title: Video player
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
+exl-id: 2741821f-78fe-44d4-8604-fee10086e0a0
 ---
-
 # Video player{#video-player}
 
 The video player is the rectangular area where the video content is displayed within the viewer.
@@ -137,4 +137,3 @@ Example - to set up a buffering animation to be 101 pixels wide, 29 pixels high:
  background-image: url(images/sdk/busyicon.gif); 
 }
 ```
-

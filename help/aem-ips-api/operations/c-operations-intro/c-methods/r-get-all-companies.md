@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getAllCompanies
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 0e339ecf-83b5-410c-8683-f3d73bd92339
 ---
-
 # getAllCompanies{#getallcompanies}
 
 Returns an array of all companies.
@@ -63,4 +63,3 @@ This code sample returns all companies in IPS in an array. Note, the sample resp
    </ns1:companyArray>
 </ns1:getAllCompaniesReturn>
 ```
-

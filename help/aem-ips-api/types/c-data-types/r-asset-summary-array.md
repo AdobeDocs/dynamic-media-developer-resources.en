@@ -4,8 +4,8 @@ solution: Experience Manager
 title: AssetSummaryArray
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: 6c38cd3f-10ec-4552-b2da-19a45068c7fa
 ---
-
 # AssetSummaryArray{#assetsummaryarray}
 
 An array of asset summaries.
@@ -17,4 +17,3 @@ An array of asset summaries.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:AssetSummary`  | Array of asset summaries.  |
-

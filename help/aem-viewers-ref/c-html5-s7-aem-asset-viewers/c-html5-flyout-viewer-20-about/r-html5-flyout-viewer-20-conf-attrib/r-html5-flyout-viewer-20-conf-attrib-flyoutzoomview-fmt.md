@@ -5,8 +5,8 @@ title: FlyoutZoomView.fmt
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,Business Practitioner
+exl-id: 4e1ce754-6967-492b-a617-764ee3ec3a55
 ---
-
 # FlyoutZoomView.fmt{#flyoutzoomview-fmt}
 
 `[FlyoutZoomView.|<containerId>_flyout.]fmt=jpg|jpeg|png|png-alpha|gif|gif-alpha`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-0338be21edd04ff1a3bed5c8319b61a4}
 
-`fmt=png-alpha` 
+`fmt=png-alpha`

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getZipEntries
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: eb052685-b750-4a12-b00e-28e676340e98
 ---
-
 # getZipEntries{#getzipentries}
 
 Returns Zip file data.
@@ -68,4 +68,3 @@ This code sample returns Zip file information, including compressed and uncompre
    </zipArray>
 </getZipEntriesReturn>
 ```
-

@@ -5,8 +5,8 @@ title: ThumbnailGridView.enabledragging
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: e3615e82-d8f0-427e-ab32-f7d0f2b6cbf3
 ---
-
 # ThumbnailGridView.enabledragging{#thumbnailgridview-enabledragging}
 
  ` [ThumbnailGridView.|<containerId>_gridView.]enabledragging=0|1[, *`overdragvalue`*]`
@@ -34,4 +34,4 @@ Optional.
 
 ## Example {#section-e67c8807762e471bb03d6a8fb20e19d4}
 
-`enabledragging=0` 
+`enabledragging=0`

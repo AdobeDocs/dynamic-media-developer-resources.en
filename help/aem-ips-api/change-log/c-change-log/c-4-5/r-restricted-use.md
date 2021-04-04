@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Restricted Use
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 6602c5bc-9f75-4885-ae14-cab14e6afa5e
 ---
-
 # Restricted Use{#restricted-use}
 
 These new or modified operations and data types available in the beta WSDL are not to be used outside of Dynamic Media developed applications.
@@ -100,4 +100,3 @@ These operations and types are subject to disabling, change or deprecation with 
 * Changed `setImageRenderingPublishSettings` to include an optional `contextHandle`parameter 
 
 * Changed `submitJob` to include an optional `createVideoSitemap` job type
-

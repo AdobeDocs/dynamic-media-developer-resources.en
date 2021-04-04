@@ -7,8 +7,8 @@ title: Last page button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: fa1ff52c-6fb1-47e7-b3d4-216fea02bbd8
 ---
-
 # Last page button{#last-page-button}
 
 Clicking or tapping on this button brings the user to the last page in the catalog. This button appears in the main control bar on desktop systems and tablets; on mobile phones it is added to a secondary control bar. You can size, skin, and position this button by using CSS.
@@ -92,4 +92,3 @@ background-image:url(images/v2/LastPageButton_dark_down.png);
 background-image:url(images/v2/LastPageButton_dark_disabled.png); 
 }
 ```
-

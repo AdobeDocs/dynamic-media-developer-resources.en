@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Notes on server behavior
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 88bc0ff2-604d-4065-9a53-0884457f0e14
 ---
-
 # Notes on server behavior{#notes-on-server-behavior}
 
 There are several server behavior matters that should be considered.

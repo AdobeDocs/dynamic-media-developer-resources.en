@@ -8,8 +8,8 @@ title: Customizing Spin Viewer
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
+exl-id: eb2ad4ee-933f-408d-955e-be9bb7484192
 ---
-
 # Customizing Spin Viewer{#customizing-spin-viewer}
 
 All visual customization and most behavior customization for the Spin Viewer is done by creating a custom CSS.
@@ -181,4 +181,4 @@ background-position: -0px -560px;
 
 ## Common User Interface Elements {#section-d6330c9be8c444aa9b2a07886e3dbc2a}
 
-The following is user interface elements reference documentation that applies to Mixed Media Viewer: 
+The following is user interface elements reference documentation that applies to Mixed Media Viewer:

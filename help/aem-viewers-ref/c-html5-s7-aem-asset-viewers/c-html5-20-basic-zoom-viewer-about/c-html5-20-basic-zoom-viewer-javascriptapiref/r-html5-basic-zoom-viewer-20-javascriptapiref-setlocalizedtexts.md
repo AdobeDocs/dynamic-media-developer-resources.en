@@ -7,8 +7,8 @@ title: setLocalizedTexts
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
+exl-id: 4472ac64-fdab-4f80-985a-29ed8537d235
 ---
-
 # setLocalizedTexts{#setlocalizedtexts}
 
 JavaScript API reference for Basic Zoom Viewer.
@@ -37,4 +37,3 @@ None.
 ```
 <instance>.setLocalizedTexts({"en":{"CloseButton.TOOLTIP":"Close"},"fr":{"CloseButton.TOOLTIP":"Fermer"},defaultLocale:"en"})
 ```
-

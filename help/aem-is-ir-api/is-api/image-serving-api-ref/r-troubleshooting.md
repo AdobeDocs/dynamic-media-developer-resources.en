@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Troubleshooting
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: b80d3c9a-a0c4-4944-9f91-e791a072cd5f
 ---
-
 # Troubleshooting{#troubleshooting}
 
 This section contains solutions to problems that have occasionally occurred with Image Serving.
@@ -49,4 +49,4 @@ It is recommended that you turn off scanning for Image Serving directories. Othe
 
 **Digimarc causes performance problems for zoom images**
 
-Do not use Digimarc on images that will be zoomed. The performance will not be acceptable. If necessary, create a separate catalog for images to be used for zooming and disable Digimarc for this catalog. 
+Do not use Digimarc on images that will be zoomed. The performance will not be acceptable. If necessary, create a separate catalog for images to be used for zooming and disable Digimarc for this catalog.

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: batchjobdetailedstatus
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: fd385327-29af-448c-9a25-75098b578272
 ---
-
 # batchjobdetailedstatus{#batchjobdetailedstatus}
 
 Retrieve detailed status of a submitted job.
@@ -25,4 +25,4 @@ Detailed status of job in XML format; error if `jobid` is invalid or job has bee
 
 ## Example {#section-55f463750afe4814b5fdbaa2f1aafab4}
 
-`http://scene7.adobe.com:8080/is/agm/AcmeCorp?req=batchjobdetailedstatus&jobid=1005907604914d8eb63126b98f7172n76a5` 
+`http://scene7.adobe.com:8080/is/agm/AcmeCorp?req=batchjobdetailedstatus&jobid=1005907604914d8eb63126b98f7172n76a5`

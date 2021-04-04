@@ -5,8 +5,8 @@ title: SearchPanel.textpos
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: 5422763c-68cd-4662-b2aa-9f45275ced6a
 ---
-
 # SearchPanel.textpos{#searchpanel-textpos}
 
  [!DNL `[SearchPanel.|<containerId>_searchPanel.]textpos=bottom|top|left|right|none|tooltip`]
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
-[!DNL `textpos=bottom`] 
+[!DNL `textpos=bottom`]

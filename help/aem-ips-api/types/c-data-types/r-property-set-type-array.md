@@ -4,8 +4,8 @@ solution: Experience Manager
 title: PropertySetTypeArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 56f0bcf6-0a8c-4976-88ab-45700d5d5e3d
 ---
-
 # PropertySetTypeArray{#propertysettypearray}
 
 Property set type array.
@@ -17,4 +17,3 @@ Property set type array.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:PropertySetType`  | The property set type array.  |
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: DiskUsageArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 8331041e-4b8e-42b4-8bda-e40ca9489704
 ---
-
 # DiskUsageArray{#diskusagearray}
 
 An array of disk usage.
@@ -17,4 +17,3 @@ An array of disk usage.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:DiskUsage`  | Array of disk usage.  |
-

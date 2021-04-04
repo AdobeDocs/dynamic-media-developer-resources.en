@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Response cache validation
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: d2baa6e6-2700-450f-af1e-88b6d33d0e0c
 ---
-
 # Response cache validation{#response-cache-validation}
 
 Cache entries are refreshed automatically using either catalog-based or expiration-based cache validation, as selected with attribute::CacheValidationPolicy (in default.ini or the .ini file of a specific image catalog).
@@ -22,4 +22,4 @@ Cache entries become invalid and are subject to re-generation when a catalog ent
 >
 >Dynamic Media pyramid TIFF (PTIFF) images maintain the file date internally in the file header for validation purposes. The file modification time maintained by the file system is used to check if a non-PTIFF file has changed.
 
-Only image files participate in the cache validation process. Changes to font files or ICC profile files do not cause automatic invalidation of cache entries. 
+Only image files participate in the cache validation process. Changes to font files or ICC profile files do not cause automatic invalidation of cache entries.

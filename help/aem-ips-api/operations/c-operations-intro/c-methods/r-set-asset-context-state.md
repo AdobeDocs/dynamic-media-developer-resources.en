@@ -4,8 +4,8 @@ solution: Experience Manager
 title: setAssetsContextState
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: 28d0a67b-3e36-43fc-800d-17c841dca3a0
 ---
-
 # setAssetsContextState{#setassetscontextstate}
 
 Set or update the publish state for one or more assets. You can set separate publish states for each publish context in a company.
@@ -109,4 +109,3 @@ This code sample sets the publication state of an asset using `NotMarkedForPubli
   <errorCount>0</errorCount>
 </setAssetsContextStateReturn>
 ```
-

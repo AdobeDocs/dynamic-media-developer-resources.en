@@ -4,8 +4,8 @@ solution: Experience Manager
 title: decal
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 0a1f80f5-5b49-4d2b-9bab-74d1e7c000a4
 ---
-
 # decal{#decal}
 
 Decal material selector. Starts a material specification segment (MSS) for a non-repeatable decal material.
@@ -29,4 +29,4 @@ None.
 
 ## See also {#section-9567d0d8f980430480c272315d70327e}
 
-[req=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-req.md#reference-792b1a663fb64261bd2de2a209b847fb) 
+[req=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-req.md#reference-792b1a663fb64261bd2de2a209b847fb)

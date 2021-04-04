@@ -4,8 +4,8 @@ solution: Experience Manager
 title: PublishContextArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 39ea8c8e-2e46-4b8f-ad30-5afe85ce98cb
 ---
-
 # PublishContextArray{#publishcontextarray}
 
 An array of publish contexts.
@@ -17,4 +17,3 @@ An array of publish contexts.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`PublishContextArray`*`  | `types:PublishContext`  | An array of publish contexts.  |
-

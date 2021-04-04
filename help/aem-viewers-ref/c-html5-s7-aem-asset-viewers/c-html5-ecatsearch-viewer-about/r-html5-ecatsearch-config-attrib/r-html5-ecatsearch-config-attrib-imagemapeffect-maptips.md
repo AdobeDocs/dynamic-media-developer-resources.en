@@ -5,8 +5,8 @@ title: ImageMapEffect.mapTips
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: 922649e9-865a-4b53-8507-a21611a6d0ac
 ---
-
 # ImageMapEffect.mapTips{#imagemapeffect-maptips}
 
 [!DNL `[ImageMapEffect.|<containerId>_imageMapEffect.]mapTips=0|1`]
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
-[!DNL `mapTips=1`] 
+[!DNL `mapTips=1`]

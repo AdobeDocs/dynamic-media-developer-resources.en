@@ -4,8 +4,8 @@ solution: Experience Manager
 title: deleteProject
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: b42be3ef-c935-4548-8f92-4fc33af321b5
 ---
-
 # deleteProject{#deleteproject}
 
 Deletes a project from a company. The links between the assets and the project are broken, but the assets are not deleted from IPS.
@@ -48,4 +48,4 @@ This code sample uses the company handle and the project handle as fields in the
 
 **Response**
 
-None. 
+None.

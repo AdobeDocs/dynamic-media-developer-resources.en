@@ -5,8 +5,8 @@ title: Print.printquality
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: fa6f074a-f0c4-455a-88ab-593f8dc3c68b
 ---
-
 # Print.printquality{#print-printquality}
 
 [!DNL `[Print.|<containerId>_print.]printquality= *`size`*`]
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
-[!DNL `printquality=800`] 
+[!DNL `printquality=800`]

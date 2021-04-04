@@ -4,8 +4,8 @@ solution: Experience Manager
 title: deleteImageFormat
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: bd717c08-6da4-47f1-8614-e4ba79d8176c
 ---
-
 # deleteImageFormat{#deleteimageformat}
 
 Deletes an image format. Get the image format handle from saveImageFormat.
@@ -51,4 +51,4 @@ None.
 
 **Related Topic:**
 
-[saveImageFormat](../../../operations/c-operations-intro/c-methods/r-save-image-format.md#reference-d15c27f533ef41e38b54a539a304bd1d) 
+[saveImageFormat](../../../operations/c-operations-intro/c-methods/r-save-image-format.md#reference-d15c27f533ef41e38b54a539a304bd1d)

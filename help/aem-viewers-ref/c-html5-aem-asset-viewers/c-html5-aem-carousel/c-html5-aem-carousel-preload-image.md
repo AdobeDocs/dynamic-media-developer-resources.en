@@ -7,8 +7,8 @@ title: Preload image
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
+exl-id: 8caf156f-d641-44e9-94f9-5ba3245061a3
 ---
-
 # Preload image{#preload-image}
 
 Preload image is a static asset preview image which loads right after calling init() method and shows while Viewer SDK libraries, asset and preset information is downloaded. The purpose of the preload image is to visually improve viewer load time and present content to the user quickly.
@@ -22,4 +22,4 @@ The feature, however, has certain limitations when other embedding methods or sp
 
 You may need to disable preload image feature using the `preloadImage` configuration attribute if you are using the viewer in one of the operation modes listed above.
 
-Also, preload image is not used-even if enabled in the configuration-if the viewer is embedded into the DOM element is hidden using `display:none` CSS setting or detached from the DOM tree. 
+Also, preload image is not used-even if enabled in the configuration-if the viewer is embedded into the DOM element is hidden using `display:none` CSS setting or detached from the DOM tree.

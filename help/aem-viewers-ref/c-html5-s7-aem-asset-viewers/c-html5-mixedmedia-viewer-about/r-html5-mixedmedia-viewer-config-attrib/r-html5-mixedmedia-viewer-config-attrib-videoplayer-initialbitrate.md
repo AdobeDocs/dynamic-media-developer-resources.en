@@ -5,8 +5,8 @@ title: VideoPlayer.initialbitrate
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: a5416488-d5fe-4f55-aee4-5aedc825ac04
 ---
-
 # VideoPlayer.initialbitrate{#videoplayer-initialbitrate}
 
  ` [VideoPlayer.|<containerId>_videoPlayer.]initialbitrate= *`value`*`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`initialbitrate=600` 
+`initialbitrate=600`

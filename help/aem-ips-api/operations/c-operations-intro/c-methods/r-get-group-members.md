@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getGroupMembers
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 81af79ee-be82-439f-9f42-a1ec09cd8ea0
 ---
-
 # getGroupMembers{#getgroupmembers}
 
 Gets the users that belong to a specific company and group.
@@ -55,4 +55,3 @@ This code sample returns a user handle array containing all users that belong to
    </userHandleArray>
 </getGroupMembersReturn>
 ```
-

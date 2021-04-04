@@ -5,8 +5,8 @@ title: SpinView.maxloadradius
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
+exl-id: 4adba865-0b03-469e-a88c-2c3982422a68
 ---
-
 # SpinView.maxloadradius{#spinview-maxloadradius}
 
  ` [SpinView.|<containerId>_spinView.]maxloadradius= *`value`*[, *`highRes`*]`
@@ -34,4 +34,4 @@ Optional.
 
 ## Example {#section-622348a84fbe4ff4b5dd7eb53b044d83}
 
-`maxloadradius=12,1` 
+`maxloadradius=12,1`

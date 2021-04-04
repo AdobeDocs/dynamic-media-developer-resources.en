@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Vignette Converter
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 9e2ad2d4-9061-41d1-941b-8be4c17a6c43
 ---
-
 # Vignette Converter{#vignette-converter}
 
 The Vignette Converter (vntc) is a command line utility used to prepare content created with Image Authoring for deployment with Image Rendering.
@@ -31,4 +31,4 @@ When generating production vignettes, the pixel width of the output vignette (or
 
 ## See also {#section-3c756bf17b634543904fdd928adeafb2}
 
-Image Authoring Documentation 
+Image Authoring Documentation

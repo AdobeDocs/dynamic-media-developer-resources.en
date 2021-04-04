@@ -4,8 +4,8 @@ solution: Experience Manager
 title: JobLogArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: e61f26c0-7a5d-4217-b940-0cfbb2ad96e9
 ---
-
 # JobLogArray{#joblogarray}
 
 An array of job logs.
@@ -17,4 +17,3 @@ An array of job logs.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:JobLog`  | The array of job logs.  |
-

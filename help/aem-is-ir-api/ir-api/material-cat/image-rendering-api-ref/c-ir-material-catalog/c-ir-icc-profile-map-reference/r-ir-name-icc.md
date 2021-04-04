@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Name
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 6ee166db-09a8-4804-926f-8b1ebddb3c77
 ---
-
 # Name{#name}
 
 Profile shortcut name. A shortcut name for the color profile.
@@ -20,4 +20,4 @@ None.
 
 ## See also {#section-71e698883b4e49779db0a6856d95fb22}
 
-[attribute::RootId](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-rootid.md#reference-54b42b7125824be593378c1accb70d5a) 
+[attribute::RootId](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-rootid.md#reference-54b42b7125824be593378c1accb70d5a)

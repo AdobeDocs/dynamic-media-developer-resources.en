@@ -7,8 +7,8 @@ title: Social share
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: b65b8846-3287-47ae-bdb6-6cac768cece0
 ---
-
 # Social share{#social-share}
 
 The social share tool appears in the top left corner by default. It consists of a button and a panel which expands when user clicks or taps on a button and contains individual sharing tools.
@@ -122,4 +122,3 @@ Example - set up a panel to have transparent color:
  background-color: transparent; 
 }
 ```
-

@@ -7,8 +7,8 @@ title: Thumbnails button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: 465d4320-14ea-4f07-97c0-41f53034a7df
 ---
-
 # Thumbnails button{#thumbnails-button}
 
 Clicking or tapping this button resets toggles the viewer between the main view and the thumbnails. This button appears in the main control bar. You can size, skin, and position this button by using CSS.
@@ -95,4 +95,3 @@ background-image:url(images/v2/ThumbnailPageButton_dark_over.png);
 background-image:url(images/v2/ThumbnailPageButton_dark_disabled.png); 
 }
 ```
-

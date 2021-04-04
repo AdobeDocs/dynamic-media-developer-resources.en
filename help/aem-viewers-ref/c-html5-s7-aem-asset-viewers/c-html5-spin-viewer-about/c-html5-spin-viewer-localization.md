@@ -7,8 +7,8 @@ title: Localization of user interface elements
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
+exl-id: f4c0f16b-dbb9-4505-a3f2-d504ae21c3f0
 ---
-
 # Localization of user interface elements{#localization-of-user-interface-elements}
 
 Certain content that the Spin Viewer displays is subject to localization, including zoom buttons and a full screen button.
@@ -95,4 +95,3 @@ The following SYMBOLs are supported:
   </tr> 
  </tbody> 
 </table>
-

@@ -5,8 +5,8 @@ title: stageSize
 
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,Business Practitioner
+exl-id: 3f93b479-f5da-47a0-b80c-c23c1460e8e1
 ---
-
 # stageSize{#stagesize}
 
 >[!NOTE]
@@ -34,4 +34,4 @@ None.
 
 ## Example {#section-f8a0c032979047a38041abfce3f7a70b}
 
-`stageSize=500,500` 
+`stageSize=500,500`

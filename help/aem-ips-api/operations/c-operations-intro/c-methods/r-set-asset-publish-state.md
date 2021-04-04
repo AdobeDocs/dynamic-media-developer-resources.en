@@ -4,8 +4,8 @@ solution: Experience Manager
 title: setAssetPublishState
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: 0dc195ee-9229-40a3-ad8b-8f00c2c9ff97
 ---
-
 # setAssetPublishState{#setassetpublishstate}
 
 Determines if an asset is ready to be published.
@@ -89,4 +89,4 @@ This code sample sets the publication state of an asset using `NotMarkedForPubli
 
 **Response**
 
-None. 
+None.

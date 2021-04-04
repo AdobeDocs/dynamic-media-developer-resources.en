@@ -4,8 +4,8 @@ solution: Experience Manager
 title: UploadUrlArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: af931740-48da-47c4-af03-349517f4e2a8
 ---
-
 # UploadUrlArray{#uploadurlarray}
 
 An array of URL for uploading assets.
@@ -17,4 +17,3 @@ An array of URL for uploading assets.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:UploadUrl`  | An array of URLs for uploading assets.  |
-

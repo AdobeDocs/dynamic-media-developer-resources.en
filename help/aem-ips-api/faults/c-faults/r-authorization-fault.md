@@ -4,8 +4,8 @@ solution: Experience Manager
 title: authorizationFault
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 76965735-92d8-46be-b589-67cad3b987dc
 ---
-
 # authorizationFault{#authorizationfault}
 
 Thrown when an authenticated user has insufficient permissions to accomplish a task.
@@ -33,4 +33,3 @@ Thrown when an authenticated user has insufficient permissions to accomplish a t
 |---|---|---|
 |  `code`  | `xsd:int`  | Fault ID  |
 |  `reason`  | `xsd:string`  | An informative message describing the fault.  |
-

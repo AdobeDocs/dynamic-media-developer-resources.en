@@ -4,8 +4,8 @@ solution: Experience Manager
 title: repeat
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 6cc82742-4ba0-4524-a87b-586539d7fe38
 ---
-
 # repeat{#repeat}
 
 Texture repeat mode. Specifies the repeat mode for repeatable texture materials.
@@ -107,4 +107,4 @@ Material attribute. Ignored by solid color, decal, and cabinet materials.
 
 ## See also {#section-ac99113b64654d75a3a86e41db546269}
 
-[catalog::Repeat](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-material-data-reference/r-ir-cat-repeat.md#reference-20e149211e1f4e8285db5ecb83c1902e) 
+[catalog::Repeat](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-material-data-reference/r-ir-cat-repeat.md#reference-20e149211e1f4e8285db5ecb83c1902e)

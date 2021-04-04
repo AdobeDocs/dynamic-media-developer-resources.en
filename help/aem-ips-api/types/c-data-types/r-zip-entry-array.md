@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ZipEntryArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 243449ab-423d-45e8-9011-8165300bc619
 ---
-
 # ZipEntryArray{#zipentryarray}
 
 An array of ZIP entries.
@@ -17,4 +17,3 @@ An array of ZIP entries.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:ZipEntry`  | An array of ZIP entries.  |
-

@@ -5,8 +5,8 @@ solution: Experience Manager
 title: eCatalog
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: 8e243fa5-e375-41ce-8b49-2571023130c1
 ---
-
 # eCatalog{#ecatalog}
 
 eCatalog Viewer is a catalog viewer that displays electronic brochures in a spread by spread or page by page manner, The eCatalog lets users navigate through the catalog using additional user interface elements or dedicated thumbnails mode. Users can also zoom in on every page for greater detail.
@@ -391,4 +391,3 @@ eCatalogViewer.init();
 </body> 
 </html>
 ```
-

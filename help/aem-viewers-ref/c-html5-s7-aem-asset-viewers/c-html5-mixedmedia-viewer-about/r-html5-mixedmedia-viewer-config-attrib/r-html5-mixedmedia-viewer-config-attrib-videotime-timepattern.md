@@ -5,8 +5,8 @@ title: VideoTime.timepattern
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 0c79b3e2-ac5a-43c3-ac52-8240e7ed3cc1
 ---
-
 # VideoTime.timepattern{#videotime-timepattern}
 
  `[VideoTime.|<containerId>_videoTime.]timepattern=[h:]m|mm:s|ss`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`timepattern=h:mm:ss` 
+`timepattern=h:mm:ss`

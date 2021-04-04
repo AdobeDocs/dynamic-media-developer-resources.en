@@ -7,8 +7,8 @@ title: VideoPlayer.loop
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 4945291d-0906-4f2d-b8d9-0bf542dc6804
 ---
-
 # VideoPlayer.loop{#videoplayer-loop}
 
 Configuration attribute for Mixed Media Video Viewer.
@@ -34,4 +34,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`loop=1` 
+`loop=1`

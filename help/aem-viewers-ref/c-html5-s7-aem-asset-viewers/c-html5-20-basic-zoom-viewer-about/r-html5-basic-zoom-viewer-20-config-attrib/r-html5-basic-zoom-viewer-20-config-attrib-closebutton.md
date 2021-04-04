@@ -5,8 +5,8 @@ title: closebutton
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
+exl-id: c9524089-4797-4555-8e31-44fe2cfd97ad
 ---
-
 # closebutton{#closebutton}
 
  `closebutton=0|1`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-96e69b70365f461dae4399e49044ea2f}
 
-`closebutton=1` 
+`closebutton=1`

@@ -7,8 +7,8 @@ title: init
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,Business Practitioner
+exl-id: e86f8c0f-c130-43c5-8c3a-07c6bc49e2f7
 ---
-
 # init{#init}
 
 JavaScript API reference for Flyout Viewer.
@@ -34,4 +34,3 @@ None.
 ```
 <instance>.init()
 ```
-

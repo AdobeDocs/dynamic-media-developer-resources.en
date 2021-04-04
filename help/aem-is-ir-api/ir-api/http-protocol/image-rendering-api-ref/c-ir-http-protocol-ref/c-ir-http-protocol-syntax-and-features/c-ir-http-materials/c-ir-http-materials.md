@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Materials
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 3fe5445e-de85-4f0c-8008-7716226ff966
 ---
-
 # Materials{#materials}
 
 Image Rendering applies materials to groups or objects in vignettes.

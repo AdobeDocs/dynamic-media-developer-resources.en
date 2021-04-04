@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ZoomTarget
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 08125f45-38cb-45bb-bc29-c767f4d0aed9
 ---
-
 # ZoomTarget{#zoomtarget}
 
 Properties of a Zoom target.
@@ -25,4 +25,3 @@ Properties of a Zoom target.
 |  `*`userData`*`  | `xsd:string`  | User data associated with the Zoom target.  |
 |  `*`position`*`  | `xsd:int`  | Allows Zoom targets associated with an asset to be ordered based on position  |
 |  `*`lastModified`*`  | `xsd:dateTime`  | Date of last modification.  |
-

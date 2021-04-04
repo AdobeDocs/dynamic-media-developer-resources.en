@@ -4,8 +4,8 @@ solution: Experience Manager
 title: SVG
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: 2863cc86-1f79-4db3-bd6f-a42839ef3439
 ---
-
 # SVG{#svg}
 
 The settings in this section need to be considered only if SVG rendering is required.
@@ -43,4 +43,3 @@ Configures the port on which the Image Server and the SVGRender component commun
 >[!NOTE]
 >
 >For correct functioning of the SVGRender component, the same port number must be specified for `SVG::SVGRender.port` and `IS::SVGTcpPort`.
-

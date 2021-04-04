@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ImageServerRegistry.xml
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: 4483c5e8-5123-4d0f-bf9a-4ef8d8cec5a9
 ---
-
 # ImageServerRegistry.xml{#imageserverregistry-xml}
 
 Contains Image Server configuration settings.
@@ -46,4 +46,4 @@ The following illustrates which elements can be changed. Other elements are pres
 
 ## Notes {#section-7217f011f69f41e7af4f3983d7776d6f}
 
-Multiple `<RootPath>` elements may be present (one for each source data file folder). Image Server searches the root paths in the order specified to find a particular source file. 
+Multiple `<RootPath>` elements may be present (one for each source data file folder). Image Server searches the root paths in the order specified to find a particular source file.

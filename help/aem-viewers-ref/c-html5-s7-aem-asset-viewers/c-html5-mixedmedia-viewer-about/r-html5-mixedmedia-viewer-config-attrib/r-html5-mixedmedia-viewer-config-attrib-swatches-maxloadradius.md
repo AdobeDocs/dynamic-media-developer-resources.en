@@ -5,8 +5,8 @@ title: Swatches.maxloadradius
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 06f493d7-18c9-4bb1-add6-a0dfd1a689bd
 ---
-
 # Swatches.maxloadradius{#swatches-maxloadradius}
 
 ` [Swatches.|<containerId>_swatches.]maxloadradius=-1|0| *`preloadnbr`*`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`maxloadradius=-1` 
+`maxloadradius=-1`

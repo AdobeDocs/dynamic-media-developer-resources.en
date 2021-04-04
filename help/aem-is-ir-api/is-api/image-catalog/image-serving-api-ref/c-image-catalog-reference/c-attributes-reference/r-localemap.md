@@ -4,8 +4,8 @@ solution: Experience Manager
 title: LocaleMap
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: c1d74154-721b-46cc-9f0b-8dae5647b179
 ---
-
 # LocaleMap{#localemap}
 
 ID translation map. Specifies the rules used for translating generic image ids to locale-specific IDs.
@@ -43,4 +43,4 @@ One or more items, separated with |, where each item consists of two or more, co
 
 ## See also {#section-19fba6d5be59439c8bf8ec7513c1a6da}
 
-Localization Support, [locale=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-locale.md#reference-8a846b2fbc004a12821b956ed3b25cfb), [attribute::LocaleStrMap](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-localestrmap.md#reference-98c42070a4bc4baf92537132be2b5b1e) 
+Localization Support, [locale=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-locale.md#reference-8a846b2fbc004a12821b956ed3b25cfb), [attribute::LocaleStrMap](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-localestrmap.md#reference-98c42070a4bc4baf92537132be2b5b1e)

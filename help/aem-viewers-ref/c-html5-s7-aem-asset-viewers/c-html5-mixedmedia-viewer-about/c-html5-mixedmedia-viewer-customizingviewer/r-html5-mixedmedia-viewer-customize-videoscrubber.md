@@ -7,8 +7,8 @@ title: Video scrubber
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 3e9c8800-fda2-41d1-8436-b2de7952652c
 ---
-
 # Video scrubber{#video-scrubber}
 
 The video scrubber is the horizontal slider control that lets a user dynamically seek to any time position within the currently playing video.
@@ -179,4 +179,3 @@ height:10px;
 background-color:#888888; 
 }
 ```
-

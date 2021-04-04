@@ -7,8 +7,8 @@ title: Print
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: 25057e72-f079-4221-91c2-760d99d30633
 ---
-
 # Print{#print}
 
 Print tool consists of a button added to the control bar and the modal dialog box that displays when the tool is activated.
@@ -818,4 +818,3 @@ Example - to set up a 430 pixel wide grey divider with a 10 pixel vertical paddi
     width: 430px; 
 }
 ```
-

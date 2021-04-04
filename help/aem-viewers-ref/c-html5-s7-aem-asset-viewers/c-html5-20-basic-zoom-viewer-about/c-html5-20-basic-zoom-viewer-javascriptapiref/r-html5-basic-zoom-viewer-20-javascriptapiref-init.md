@@ -7,8 +7,8 @@ title: init
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
+exl-id: cef585ae-44d7-406c-96f9-e03959a8e518
 ---
-
 # init{#init}
 
 JavaScript API reference for Basic Zoom Viewer.
@@ -34,4 +34,3 @@ None.
 ```
 <instance>.init()
 ```
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: userdata
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: b1d85ea6-0e12-49a8-b1dc-4c64a672770b
 ---
-
 # userdata{#userdata}
 
 User data from image catalog. Returns user data for the image catalog entry specified in the url path.
@@ -33,4 +33,4 @@ Requests that support JSONP response format lets you specify the name of the JS 
 
 `req=...,json [&handler = reqHandler ]`
 
-`<reqHandler>` is the name of the JS handler that is present in the JSONP response. Only a-z, A-Z, and 0-9 characters are allowed. Optional. Default is `s7jsonResponse`. 
+`<reqHandler>` is the name of the JS handler that is present in the JSONP response. Only a-z, A-Z, and 0-9 characters are allowed. Optional. Default is `s7jsonResponse`.

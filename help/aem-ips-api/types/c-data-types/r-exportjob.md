@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ExportJob
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: f0266b9f-c6e0-4843-b002-0bc068d43424
 ---
-
 # ExportJob{#exportjob}
 
 Job type to allow authorized export of previously uploaded files.
@@ -82,4 +82,3 @@ is_modifer = &fmt=png
 macro=$test$ 
 output_file = fileToExport.tiff
 ```
-

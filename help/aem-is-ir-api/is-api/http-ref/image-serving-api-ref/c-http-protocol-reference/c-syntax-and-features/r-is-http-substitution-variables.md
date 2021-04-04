@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Substitution variables
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 9fd73d16-e8bd-4fdb-a4e6-e86e5d219114
 ---
-
 # Substitution variables{#substitution-variables}
 
 Substitution variables are used to transfer values from the request URL to compositing templates stored in image catalogs. Variables can also be used to convey the same value to different places in a complex request.
@@ -97,4 +97,4 @@ See "Example A" in [Templates](../../../../../is-api/http-ref/image-serving-api-
 
 ## See also {#section-11b44cc824744f70b1705ebdd9ec4fe6}
 
-[Templates](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-templates/c-templates.md#concept-3cd2d2adae0e41b2979b9640244d4d3e), [template=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-template.md#reference-3beccaa462a64bf0ba867e5c8fd0bd14) 
+[Templates](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-templates/c-templates.md#concept-3cd2d2adae0e41b2979b9640244d4d3e), [template=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-template.md#reference-3beccaa462a64bf0ba867e5c8fd0bd14)

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getSystemProperties
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: b0ef16fd-1645-4e22-99bb-8c9269623168
 ---
-
 # getSystemProperties{#getsystemproperties}
 
 Retrieves all system properties in a single request.
@@ -63,4 +63,3 @@ This code sample returns an array of system properties. Response truncated for b
    </propertyArray> 
 </getSystemPropertiesReturn>
 ```
-

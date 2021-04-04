@@ -5,8 +5,8 @@ title: VideoPlayer.posterimage
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: bcbba4c5-b758-4049-b4c2-f1c48cc2de7e
 ---
-
 # VideoPlayer.posterimage{#videoplayer-posterimage}
 
  ` [VideoPlayer.|<containerId>_videoPlayer.]posterimage=none|[ *`image_id`*][? *`isCommands`*]`
@@ -35,4 +35,4 @@ None.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`posterimage=none` 
+`posterimage=none`

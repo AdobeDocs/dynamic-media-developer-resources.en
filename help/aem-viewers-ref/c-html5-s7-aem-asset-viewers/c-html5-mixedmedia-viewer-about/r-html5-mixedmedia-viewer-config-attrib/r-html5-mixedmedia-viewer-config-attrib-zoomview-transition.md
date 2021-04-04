@@ -5,8 +5,8 @@ title: ZoomView.transition
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: bb00a1c9-aa6f-428f-8d57-241ee1efa082
 ---
-
 # ZoomView.transition{#zoomview-transition}
 
  ` [ZoomView.|<containerId>_zoomView.]transition= *`time`*[, *`easing`*]`
@@ -42,4 +42,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`transition=2,2` 
+`transition=2,2`

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ActiveJob
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 3d878207-99e4-4c75-ab12-b38a37c82fb7
 ---
-
 # ActiveJob{#activejob}
 
 A job that runs on a server. Also, it is an instance of a scheduled job.
@@ -168,4 +168,3 @@ Specify a job type value to return the job type. You can return the following jo
   </tr> 
  </tbody> 
 </table>
-

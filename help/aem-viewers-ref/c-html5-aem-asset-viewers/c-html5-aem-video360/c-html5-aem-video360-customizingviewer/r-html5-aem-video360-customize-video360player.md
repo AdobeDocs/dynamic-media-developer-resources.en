@@ -7,8 +7,8 @@ title: Video360 player
 
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
+exl-id: 54ccf872-2d24-4d3f-9808-6d0e2558f5a5
 ---
-
 # Video360 player{#video-player}
 
 The video player is the rectangular area where the video content is displayed within the viewer.
@@ -98,4 +98,3 @@ Example - to set up a buffering animation to be 101 pixels wide, 29 pixels high:
  background-image: url(images/sdk/busyicon.gif); 
 }
 ```
-

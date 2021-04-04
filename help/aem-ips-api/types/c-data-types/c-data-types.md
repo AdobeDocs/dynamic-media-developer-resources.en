@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Data types
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: a8bc6fcc-fb94-4bc2-83b7-76788db15f3e
 ---
-
 # Data types{#data-types}
 
 + [AcoInfo](r-aco-info.md)

@@ -5,8 +5,8 @@ title: PageView.enableHD
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: f03762f2-87db-4284-ba59-9ece8caa0d09
 ---
-
 # PageView.enableHD{#pageview-enablehd}
 
  ` [PageView.|<containerId>_pageView.]enableHD=always|never|limit[, *`number`*]`
@@ -67,4 +67,3 @@ The following are the expected results when you use this configuration attribute
   </tr> 
  </tbody> 
 </table>
-

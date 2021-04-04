@@ -4,8 +4,8 @@ solution: Experience Manager
 title: mbrSet
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 0568a4a1-7d6a-453e-83bc-05c0cde0c0f8
 ---
-
 # mbrSet{#mbrset}
 
 Multi-bit rate data.
@@ -35,4 +35,4 @@ f4m responses only contain f4v files if any are present in the video set. If no 
 
 Bit rates that appear in f4m/m3u8 responses correspond to the values in `catalog::TotalStreamBitRate` (converted to appropriate units). If `catalog::TotalStreamBitRate` is not defined, the summation of `catalog::VideoBitRate` and `catalog::AudioBitRate` is used.
 
-The HTTP response is cacheable with the TTL based on `catalog::NonImgExpiration`. 
+The HTTP response is cacheable with the TTL based on `catalog::NonImgExpiration`.

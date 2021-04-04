@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Installing for the first time
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 4e34d78c-1b5b-45cf-acc5-ff12cbc6ed01
 ---
-
 # Installing for the first time{#installing-for-the-first-time}
 
 Use these steps to install Image Serving for the first time on Windows.

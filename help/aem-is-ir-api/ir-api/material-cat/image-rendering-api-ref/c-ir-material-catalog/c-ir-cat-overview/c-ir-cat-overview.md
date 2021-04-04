@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Material catalog overview *
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: d26371da-e992-4f63-a5be-190ce60eca2f
 ---
-
 # Material catalog overview *{#material-catalog-overview}
 
 Material catalogs provide information about vignettes, materials, and supporting data, such as ICC profiles, to the server.
@@ -35,4 +35,4 @@ For correct functioning of the Render Server the catalog attributes file for the
 
 **See also**
 
-`PlatformServer::ir.catalogRootPath` 
+`PlatformServer::ir.catalogRootPath`

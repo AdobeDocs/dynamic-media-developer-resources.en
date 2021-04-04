@@ -4,8 +4,8 @@ solution: Experience Manager
 title: generatePassword
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 80e7642f-4aec-4ff0-a090-e59b7a065c39
 ---
-
 # generatePassword{#generatepassword}
 
 Generates a new password.
@@ -54,4 +54,3 @@ This code sample generates a password. It is unusual because the request is simp
    <password>1\7aQRn]</password>
 </generatePasswordReturn>
 ```
-

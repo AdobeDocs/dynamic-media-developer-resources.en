@@ -7,8 +7,8 @@ title: Set indicator
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
+exl-id: 7d0827c5-f420-4804-983c-5298ee92b276
 ---
-
 # Set indicator{#set-indicator}
 
 Set indicator is a series of dots rendered at the bottom of the viewer. It shows the current position within the set.
@@ -150,4 +150,3 @@ Example - to set up set indicator in dotted mode for desktop systems to be posit
  border-radius:7px; 
 }
 ```
-

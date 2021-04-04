@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Request obfuscation
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 358d714b-703d-418b-90c0-5940f5388c7d
 ---
-
 # Request obfuscation{#request-obfuscation}
 
 The contents of the entire modifiers part of request string, including the optional lock suffix may be obscured by applying standard base64 encoding.
@@ -28,4 +28,4 @@ Any occurrences of '=', '&', and '%' in value strings must be escaped using '%xx
 
 ## See also {#section-7ea59724c97c4ee9a510dbbc1f79e564}
 
-[HTTP Encoding](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-syntax-and-features/r-http-encoding.md#reference-bb34dd13f316462695448acfa8f92df7), [Request Locking](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-syntax-and-features/r-request-locking.md#reference-4177193d20774daab0dbf206a927844c), [attribute::RequestObfuscation](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-requestobfuscation.md#reference-730a3330253343f893419ebd52baf0bd) 
+[HTTP Encoding](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-syntax-and-features/r-http-encoding.md#reference-bb34dd13f316462695448acfa8f92df7), [Request Locking](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-syntax-and-features/r-request-locking.md#reference-4177193d20774daab0dbf206a927844c), [attribute::RequestObfuscation](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-requestobfuscation.md#reference-730a3330253343f893419ebd52baf0bd)

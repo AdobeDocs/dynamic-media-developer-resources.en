@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Map
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: e9490b5c-0f85-4256-8590-0d6aa52a19d5
 ---
-
 # Map{#map}
 
 Image map data. None or more complete HTML `<AREA>` elements, sorted front-to-back.
@@ -24,4 +24,4 @@ None.
 
 ## See also {#section-d66a32e1f12f4cb0ad22ddd78be36ec4}
 
-[map=](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-map.md) , [req=map](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-req/r-req.md), [Text String Localization](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-syntax-and-features/r-text-string-localization.md) 
+[map=](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-map.md) , [req=map](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-req/r-req.md), [Text String Localization](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-syntax-and-features/r-text-string-localization.md)

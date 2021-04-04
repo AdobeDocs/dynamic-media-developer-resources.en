@@ -4,8 +4,8 @@ solution: Experience Manager
 title: pauseJob
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 010e969a-911e-49fc-8577-66c18cd4329c
 ---
-
 # pauseJob{#pausejob}
 
 Pauses an active job.
@@ -51,4 +51,4 @@ This code sample pauses an active job.
 
 **Response**
 
-None. 
+None.

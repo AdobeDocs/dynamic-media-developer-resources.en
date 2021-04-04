@@ -7,8 +7,8 @@ title: Swatches
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
+exl-id: 7eaa4a6e-98e8-477b-9f45-66f8a79dfd85
 ---
-
 # Swatches{#swatches}
 
 Swatches consist of a row of thumbnail images with optional scroll buttons on the left and right hand side. Scroll buttons are only visible on the desktop if all thumbnails cannot fit into the container width. On mobile devices, or if thumbnails can fit into the container width, the scroll buttons are not shown.
@@ -211,4 +211,3 @@ background-image:url(images/v2/ScrollRightButton_up.png);
  background-image:url(images/v2/ScrollRightButton_disabled.png); 
 }
 ```
-

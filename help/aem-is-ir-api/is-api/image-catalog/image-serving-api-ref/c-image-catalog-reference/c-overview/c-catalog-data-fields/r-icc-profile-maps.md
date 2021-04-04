@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ICC profile maps
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 3492f4f3-d93e-4b62-8ff6-ace228e0687e
 ---
-
 # ICC profile maps{#icc-profile-maps}
 
 The following fields are recognized in ICC color profile map files.
@@ -20,4 +20,3 @@ The following fields are recognized in ICC color profile map files.
   <td class="stentry"> <p>ICC color profile file path. </p></td> 
  </tr> 
 </table>
-

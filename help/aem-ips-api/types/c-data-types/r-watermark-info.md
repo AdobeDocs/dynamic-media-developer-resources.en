@@ -4,8 +4,8 @@ solution: Experience Manager
 title: WatermarkInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 38821d96-d0d2-4f3b-9c31-15d6a8d66e9e
 ---
-
 # WatermarkInfo{#watermarkinfo}
 
 Properties of a watermark asset.
@@ -19,4 +19,3 @@ Properties of a watermark asset.
 |  `*`url`*`  | `xsd:string`  | Image server URL that represents the template.  |
 |  `*`urlModifier`*`  | `xsd:string`  | |
 |  `*`urlPostApplyModifier`*`  | `xsd:string`  | |
-

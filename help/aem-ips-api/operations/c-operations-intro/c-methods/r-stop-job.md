@@ -4,8 +4,8 @@ solution: Experience Manager
 title: stopJob
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 90e61cf1-11f1-4504-8007-126ba4fe436a
 ---
-
 # stopJob{#stopjob}
 
 Stops a job in progress.
@@ -49,4 +49,4 @@ The IPS API does not return a response for this operation.
 
 **Response**
 
-None. 
+None.

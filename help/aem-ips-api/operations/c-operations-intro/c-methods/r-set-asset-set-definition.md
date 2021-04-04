@@ -4,8 +4,8 @@ solution: Experience Manager
 title: setAssetSetDefinition
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: f3fbe13b-e650-4a5d-9c46-a492b11fa13e
 ---
-
 # setAssetSetDefinition{#setassetsetdefinition}
 
 Updates the set definition for an existing Asset Set.
@@ -106,4 +106,4 @@ jcompany/myRenderSet;jcompany/myRenderSet;
 
 **Response**
 
-None. 
+None.

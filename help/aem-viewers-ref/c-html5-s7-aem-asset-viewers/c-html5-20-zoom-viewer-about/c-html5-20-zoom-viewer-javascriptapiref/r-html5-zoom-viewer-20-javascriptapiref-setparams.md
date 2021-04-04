@@ -7,8 +7,8 @@ title: setParams
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
+exl-id: af31b5eb-2051-4f4c-861d-67ada3248fd6
 ---
-
 # setParams{#setparams}
 
 JavaScript API reference for Video Viewer.
@@ -39,4 +39,3 @@ None.
 ```
 <instance>.setParams("ZoomView.zoomfactor=2,3&ZoomView.iscommand=op_sharpen%3d1")
 ```
-

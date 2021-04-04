@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Contents
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 5b03e68e-a4c2-4b4f-8579-d253d7c112de
 ---
-
 # Contents{#contents}
 
 After the installation, the folder hierarchy in install_root includes the files and folders listed below.
@@ -272,4 +272,3 @@ After the installation, the folder hierarchy in install_root includes the files 
   </tr> 
  </tbody> 
 </table>
-

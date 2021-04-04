@@ -4,8 +4,8 @@ solution: Experience Manager
 title: LayerViewInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 25199c86-1df0-41af-b210-e7668a60295e
 ---
-
 # LayerViewInfo{#layerviewinfo}
 
 Layer view properties.
@@ -19,4 +19,3 @@ Layer view properties.
 |  `*`url`*`  | `xsd:string`  |Image server URL that represents the template. Combines `urlModifier` and `urlPostAp- plyModifier` fields.  |
 |  `*`urlModifier`*`  | `xsd:string`  |Image serving protocol commands to apply prior to request or `urlPostApplyModifier` commands.  |
 |  `*`urlPostApplyModifier`*`  | `xsd:string`  |Image serving protocol commands to apply after `urlModifier` and request commands.  |
-

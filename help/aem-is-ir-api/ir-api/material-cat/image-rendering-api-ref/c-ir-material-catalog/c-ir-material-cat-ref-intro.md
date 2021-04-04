@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Introduction
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 1cdb9c45-329d-44df-92c3-8cba5b2b1339
 ---
-
 # Introduction{#introduction}
 
 This document describes the material catalog for Dynamic Media Image Rendering.
@@ -84,4 +84,3 @@ It is assumed that the reader is familiar with Dynamic Media Image Authoring and
   <td class="stentry"> <p>White space (spaces or tabs) is not allowed in HTTP requests. This document occasionally uses white space between syntactic elements for clarity only. </p> </td> 
  </tr> 
 </table>
-

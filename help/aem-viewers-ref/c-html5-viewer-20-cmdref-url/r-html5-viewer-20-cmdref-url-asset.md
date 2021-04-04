@@ -7,8 +7,8 @@ title: asset
 
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,Business Practitioner
+exl-id: edcd18b6-5292-44da-80be-b7f75ee4c48e
 ---
-
 # asset{#asset}
 
 Parameter common to all viewers.
@@ -217,4 +217,3 @@ asset=Scene7SharedAssets/Mixed_Media_Set_Sample%3Fop_sharpen%3D1
 ```
 asset=Viewers/Pluralist%3Fop_sharpen%3D1
 ```
-

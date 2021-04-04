@@ -4,8 +4,8 @@ solution: Experience Manager
 title: SystemFieldCondition
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: ebd12727-dbb3-40dc-b631-945415331be6
 ---
-
 # SystemFieldCondition{#systemfieldcondition}
 
 A system field search condition for the searchAssets operation.
@@ -42,4 +42,3 @@ A system field search condition for the searchAssets operation.
    </items>
 </systemFieldConditionArray>
 ```
-

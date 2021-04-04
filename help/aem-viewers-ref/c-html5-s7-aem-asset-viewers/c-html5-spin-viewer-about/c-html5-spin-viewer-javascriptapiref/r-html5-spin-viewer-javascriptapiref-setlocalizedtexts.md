@@ -7,8 +7,8 @@ title: setLocalizedTexts
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
+exl-id: 840c7e13-8998-4479-b0fc-f96a615a0a58
 ---
-
 # setLocalizedTexts{#setlocalizedtexts}
 
 JavaScript API reference for Spin Viewer.
@@ -37,4 +37,3 @@ None.
 ```
 <instance>.setLocalizedTexts({"en":{"CloseButton.TOOLTIP":"Close"},"fr":{"CloseButton.TOOLTIP":"Fermer"},defaultLocale:"en"})
 ```
-

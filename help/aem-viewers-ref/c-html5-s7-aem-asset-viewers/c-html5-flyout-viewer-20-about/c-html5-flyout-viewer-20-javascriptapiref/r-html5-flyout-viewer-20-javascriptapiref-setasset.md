@@ -7,8 +7,8 @@ title: setAsset
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,Business Practitioner
+exl-id: cd66267e-7b25-4af4-b83c-f7b7f768ea8c
 ---
-
 # setAsset{#setasset}
 
 JavaScript API reference for Flyout Viewer.
@@ -63,4 +63,3 @@ Sharpening modifier added to all images in the set:
 ```
 <instance>.setAsset("Scene7SharedAssets/Backpack_B,Scene7SharedAssets/Backpack_C?op_sharpen=1")
 ```
-

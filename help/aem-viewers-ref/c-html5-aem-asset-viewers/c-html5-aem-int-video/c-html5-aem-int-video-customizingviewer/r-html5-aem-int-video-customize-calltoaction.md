@@ -7,8 +7,8 @@ title: Call to action
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: 43e0ffb3-d650-4b79-ab48-2f32b313b832
 ---
-
 # Call to action{#call-to-action}
 
 The Call to action panel appears when the video ends and displays all interactive swatches associated with the particular video.
@@ -568,4 +568,3 @@ Disable scroll buttons by setting their size to 0 and hiding them:
  height: 0px; 
 }
 ```
-

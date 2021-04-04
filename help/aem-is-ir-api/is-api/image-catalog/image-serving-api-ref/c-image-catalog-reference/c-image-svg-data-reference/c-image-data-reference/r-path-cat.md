@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Path
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 9d5417df-3aa2-4620-a614-ca71a96e2069
 ---
-
 # Path{#path}
 
 Image file path.

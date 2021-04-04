@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Image Rendering HTTP protocol command overview
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 082fc1b6-f571-4613-b03a-318f0c80e924
 ---
-
 # Image Rendering HTTP protocol command overview{#image-rendering-http-protocol-command-overview}
 
 The commands supported by Image Rendering are listed below, grouped by category.

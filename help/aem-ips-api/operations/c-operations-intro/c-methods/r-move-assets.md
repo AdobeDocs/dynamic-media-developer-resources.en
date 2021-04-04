@@ -4,8 +4,8 @@ solution: Experience Manager
 title: moveAssets
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: e5bb2188-d262-4324-9f71-68634b6af654
 ---
-
 # moveAssets{#moveassets}
 
 Moves multiple assets independently of each other. It accomplishes this using the AssetMove type contained in the assetMoveArray. Each AssetMove field contains a destination folder.
@@ -116,4 +116,3 @@ This code sample moves assets to a specific location specified by the `assetMove
    <errorCount>0</errorCount>
 </moveAssetsReturn>
 ```
-

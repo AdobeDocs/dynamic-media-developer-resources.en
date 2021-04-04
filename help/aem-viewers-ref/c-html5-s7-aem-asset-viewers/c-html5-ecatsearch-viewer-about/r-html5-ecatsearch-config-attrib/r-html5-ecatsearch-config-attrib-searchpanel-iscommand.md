@@ -5,8 +5,8 @@ title: SearchPanel.iscommand
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: 4e843866-75a5-4543-a275-e134b3aee75a
 ---
-
 # SearchPanel.iscommand{#searchpanel-iscommand}
 
  [!DNL `[SearchPanel.|<containerId>_searchPanel.]iscommand= *`isCommand`*`]
@@ -36,4 +36,4 @@ When specified in the viewer URL.
 
 When specified in the config data.
 
-[!DNL `iscommand=op_sharpen=1&op_colorize=0xff0000`] 
+[!DNL `iscommand=op_sharpen=1&op_colorize=0xff0000`]

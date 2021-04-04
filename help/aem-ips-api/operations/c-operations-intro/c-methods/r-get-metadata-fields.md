@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getMetadataFields
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
+exl-id: 4d01e2e7-9b68-4dfa-9fe8-08a22cb4bfd5
 ---
-
 # getMetadataFields{#getmetadatafields}
 
 Gets the user-defined metadata fields associated with an asset.
@@ -66,4 +66,3 @@ This code sample returns metadata assets for the specified type and company. The
    </fieldArray>
 </getMetadataFieldsReturn>
 ```
-

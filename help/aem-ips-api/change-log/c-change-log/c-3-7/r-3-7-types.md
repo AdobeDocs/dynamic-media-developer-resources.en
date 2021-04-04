@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Data Types  New and Modified
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 0209f3aa-204a-47bd-98ff-430bd8f3ac0e
 ---
-
 # Data Types: New and Modified{#data-types-new-and-modified}
 
 Describes new and changed data types for the IPS API version 3.7.
@@ -27,4 +27,3 @@ Describes new and changed data types for the IPS API version 3.7.
 **Asset**
 
 * Added `ZipInfo`.
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: KnockoutBackgroundOptions
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: aed8cf2e-5a09-43ff-9420-0d0d54059515
 ---
-
 # KnockoutBackgroundOptions{#knockoutbackgroundoptions}
 
 Mask (knock-out) the background for selected images. This lets you overlay them in other layers with a transparency outside of subject image. An optional parameter that is off by default.
@@ -77,4 +77,3 @@ The `KnockoutBackgroundOptions` type is used by:
 * [UploadDirectoryJob](../../types/c-data-types/r-upload-directory-job.md#reference-e707ebf53b074c49ad983d1886e0bbb6) 
 * [UploadPostJob](../../types/c-data-types/r-upload-post-job.md#reference-bca2339b593f4637a687c33937215ef4) 
 * [UploadUrlsJob](../../types/c-data-types/r-upload-urls-job.md#reference-8e9bc895268c4321b233dbeadc990398)
-

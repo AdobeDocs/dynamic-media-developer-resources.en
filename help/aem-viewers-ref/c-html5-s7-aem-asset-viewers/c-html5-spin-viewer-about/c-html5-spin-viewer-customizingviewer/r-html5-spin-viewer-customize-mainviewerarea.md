@@ -7,8 +7,8 @@ title: Main viewer area
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
+exl-id: 6cd9c375-8890-4033-b187-b95b26dd6009
 ---
-
 # Main viewer area{#main-viewer-area}
 
 The main view area is the area occupied by the spin image. It usually sets to fit the available device screen when no size is specified.
@@ -55,4 +55,3 @@ Example - to set up a viewer with a white background ( `#FFFFFF`) and make its s
  height: 288px;  
 }
 ```
-

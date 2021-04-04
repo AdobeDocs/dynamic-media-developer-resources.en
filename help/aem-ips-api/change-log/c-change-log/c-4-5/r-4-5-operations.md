@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Operations  New and Modified
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 9033328a-d0ce-4ef2-b6ec-c6a81fbedf9d
 ---
-
 # Operations: New and Modified{#operations-new-and-modified}
 
 Describes new and changed operations methods for the IPS API version 4.5.
@@ -40,4 +40,3 @@ Describes new and changed operations methods for the IPS API version 4.5.
 * `searchAssets` 
 * 
 * The `renameFiles` parameter has been deprecated for prior releases and removed from the `renameAsset` operation. The virtual file path is changed to match the new asset name (preserving the file extension), while physical file paths are not affected. API clients need to remove references to this parameter when updating to the new API version.
-

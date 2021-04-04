@@ -4,8 +4,8 @@ solution: Experience Manager
 title: createVignettePublishFormat
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: d58e1290-8a79-4129-99ce-776b919dea13
 ---
-
 # createVignettePublishFormat{#createvignettepublishformat}
 
 Creates a new publish format for a vignette.
@@ -146,4 +146,3 @@ This code creates vignette publish format. The creation request specifies a name
    <vignetteFormatHandle>v|21|282</vignetteFormatHandle>
 </createVignettePublishFormatReturn>
 ```
-

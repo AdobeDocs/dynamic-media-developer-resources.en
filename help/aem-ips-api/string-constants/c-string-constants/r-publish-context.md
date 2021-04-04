@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Publish Context
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 2eaa6771-18e9-4758-bfa9-23cce278bee7
 ---
-
 # Publish Context{#publish-context}
 
 Used by getActivePublishContextsReturn/publishContext.
@@ -18,4 +18,3 @@ Used by getActivePublishContextsReturn/publishContext.
 * [!DNL `ImageRendering`] 
 * [!DNL `Video`] 
 * [!DNL `ServerDirectory`]
-

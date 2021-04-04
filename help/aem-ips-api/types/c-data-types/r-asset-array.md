@@ -4,8 +4,8 @@ solution: Experience Manager
 title: AssetArray
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: d63fa05d-fb98-476f-afbb-8a9ab3115daa
 ---
-
 # AssetArray{#assetarray}
 
 An array of assets.
@@ -17,4 +17,3 @@ An array of assets.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:Asset`  | Asset array.  |
-

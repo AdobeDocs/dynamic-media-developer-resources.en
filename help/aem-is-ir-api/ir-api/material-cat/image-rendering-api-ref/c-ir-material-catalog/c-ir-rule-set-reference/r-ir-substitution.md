@@ -4,8 +4,8 @@ solution: Experience Manager
 title: substitution
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: ea44d940-e8dd-4a25-a082-3ed3c0f57e45
 ---
-
 # substitution{#substitution}
 
 Substitution string element. Optional in `<rule>` elements.
@@ -32,4 +32,4 @@ If `<substitution>` is empty, the matched string or sub-string is removed. If `<
 
 The substitution string must not contain literal < and & characters. These reserved characters can be encoded with `&` and `<`, respectively, or the entire string can be enclosed in an XML `CDATA` section:
 
-`<substitution><![CDATA[&text=<Hello, world!>]]></ substitution>` 
+`<substitution><![CDATA[&text=<Hello, world!>]]></ substitution>`

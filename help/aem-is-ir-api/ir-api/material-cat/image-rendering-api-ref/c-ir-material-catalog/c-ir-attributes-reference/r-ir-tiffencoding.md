@@ -4,8 +4,8 @@ solution: Experience Manager
 title: TiffEncoding
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 6a6fa8f5-4497-438d-914c-3f6d4c08ef09
 ---
-
 # TiffEncoding{#tiffencoding}
 
 TIFF encoding format. Specifies the compression format for TIFF images (effectively the default for the third value of the fmt= command).
@@ -22,4 +22,4 @@ Inherited from `default::TiffEncoding` if not defined or if empty.
 
 ## See also {#section-1601425e5ac3486da4df8e7fa55981b2}
 
-[fmt=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-fmt.md#reference-4c743f67d56b47c5b774fcc900ff758c) 
+[fmt=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-fmt.md#reference-4c743f67d56b47c5b774fcc900ff758c)

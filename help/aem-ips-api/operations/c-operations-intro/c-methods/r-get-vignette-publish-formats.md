@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getVignettePublishFormats
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 6e56d68e-b5cf-4044-9c58-f8221fa4490f
 ---
-
 # getVignettePublishFormats{#getvignettepublishformats}
 
  Syntax 
@@ -57,4 +57,3 @@ This code sample returns two vignette publish formats associated with a specific
    </vignetteFormatArray>
 </getVignettePublishFormatsReturn>
 ```
-

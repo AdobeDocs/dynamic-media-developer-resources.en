@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getImageRenderingPublishSettings
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 152dfd61-2fba-47b4-8e69-fbbc8fb57f87
 ---
-
 # getImageRenderingPublishSettings{#getimagerenderingpublishsettings}
 
 For internal use only. See the Image Rendering Material Catalog Reference–Catalog Attributes section.
@@ -33,4 +33,3 @@ Syntax
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
 |  `*`publishSettingsArray`*`  | `type:ConfigSettingArray`  | Yes  | Image rendering publishing settings.  |
-

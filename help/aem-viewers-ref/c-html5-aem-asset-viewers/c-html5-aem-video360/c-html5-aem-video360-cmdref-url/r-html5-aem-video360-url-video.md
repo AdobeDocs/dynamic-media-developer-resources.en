@@ -7,8 +7,8 @@ title: video
 
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
+exl-id: 704097af-f108-42f7-92e7-5dd75916a045
 ---
-
 # video{#video}
 
 URL command for Video360 Viewer.
@@ -37,4 +37,3 @@ None.
 ```
 video=https://s7d9.scene7.com/is/content/Viewers/space_station_360-AVS
 ```
-

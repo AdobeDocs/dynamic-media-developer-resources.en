@@ -4,8 +4,8 @@ solution: Experience Manager
 title: TimeStamp
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: e36660bb-d2ec-464c-b578-fe862bca5c50
 ---
-
 # TimeStamp{#timestamp}
 
 If `attribute::UseLastModified` is set, the `catalog::TimeStamp` value is returned in the HTTP response as a Last-Modified HTTP header. The Last-Modified header is always returned for static contents, even if `attribute::UseLastModified` is not set.
@@ -34,4 +34,4 @@ All elements of string formatted date/time values must be present. If the date/t
 
 ## See also {#section-c42a427aa4794c548408dc4de028d578}
 
-[attribute::TimeStamp](../../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-timestamp.md#reference-4213c599a64942ee8cb9d80696b08296), [attribute::UseLastModified](../../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-uselastmodified.md#reference-73ecc421e6864a38aec5a4775f06b8e8), [attribute::CacheValidationPolicy](../../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-cachevalidationpolicy.md#reference-e55e52fd749041718a9af69fa2027b57) 
+[attribute::TimeStamp](../../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-timestamp.md#reference-4213c599a64942ee8cb9d80696b08296), [attribute::UseLastModified](../../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-uselastmodified.md#reference-73ecc421e6864a38aec5a4775f06b8e8), [attribute::CacheValidationPolicy](../../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-cachevalidationpolicy.md#reference-e55e52fd749041718a9af69fa2027b57)

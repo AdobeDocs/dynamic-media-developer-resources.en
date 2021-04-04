@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Watermarks
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: e744be3f-9753-4513-8f37-055fa03077cc
 ---
-
 # Watermarks{#watermarks}
 
 Image Serving implements a simple visual watermarking facility.
@@ -34,4 +34,4 @@ A typical watermark might consist of a simple RGBA image containing a logo or a 
 
 ## See also {#section-4d66713abacb42c7b6a0c93cbf966a97}
 
-[attribute::Watermark](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-watermark.md#reference-942b50acb2dd43a5ae498dc41ea9ac9b) 
+[attribute::Watermark](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-watermark.md#reference-942b50acb2dd43a5ae498dc41ea9ac9b)

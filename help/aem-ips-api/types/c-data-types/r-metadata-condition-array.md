@@ -4,8 +4,8 @@ solution: Experience Manager
 title: MetadataConditionArray
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
+exl-id: bcc7631b-cff3-4cbb-ae3e-f6e0fb670ee0
 ---
-
 # MetadataConditionArray{#metadataconditionarray}
 
 An array of metadata conditons.
@@ -17,4 +17,3 @@ An array of metadata conditons.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:MetadataCondition`  | The array of metadata conditons.  |
-

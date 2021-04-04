@@ -7,8 +7,8 @@ title: Carousel view
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
+exl-id: aa41b209-11c7-4744-aaa5-dc0b503607c6
 ---
-
 # Carousel view{#carousel-view}
 
 Main view consists of the banner image.
@@ -45,4 +45,3 @@ Example - to make the main view transparent.
  background-color: transparent; 
 }
 ```
-

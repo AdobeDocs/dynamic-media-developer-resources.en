@@ -7,8 +7,8 @@ title: Video360Player.mutevolume
 
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
+exl-id: 8f95c01f-e634-4d6c-a22f-c2285ee969c8
 ---
-
 # Video360Player.mutevolume{#video-player-mutevolume}
 
 Configuration attribute for Video360 Viewer.
@@ -34,4 +34,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`mutevolume=1` 
+`mutevolume=1`

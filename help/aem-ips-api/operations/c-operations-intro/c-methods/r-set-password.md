@@ -4,8 +4,8 @@ solution: Experience Manager
 title: setPassword
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: e8d95b55-0a97-4887-b711-7be99833c389
 ---
-
 # setPassword{#setpassword}
 
 Sets the password of a specific user or the default user to a specific value, depending on whether you specify a user handle.
@@ -93,4 +93,4 @@ This code sample creates a user password. The password never expires because `pa
 
 **Response**
 
-None. 
+None.

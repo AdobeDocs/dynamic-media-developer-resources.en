@@ -5,8 +5,8 @@ title: Event callbacks
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: af051437-28e5-416f-a61a-0abafb1814b2
 ---
-
 # Event callbacks{#event-callbacks}
 
 The viewer supports JavaScript event callbacks that the web page uses to track the viewer initialization process or runtime behavior.
@@ -29,4 +29,4 @@ Supported viewer events include the following:
     * `sku` { `String`} SKU value that is associated with the interactive swatch. 
     * `<additionalVariable>` { `String`} zero or more additional variables associated with the interactive swatch.
 
-See also [InteractiveVideoViewer](../../c-html5-aem-asset-viewers/c-html5-aem-int-video/c-html5-aem-int-video-javascriptapiref/r-html5-aem-int-video-javascriptapiref-interactivevideo.md#reference-bd16cadc0c054fafb0db4994741d47cd) and [setHandlers](../../c-html5-aem-asset-viewers/c-html5-aem-int-video/c-html5-aem-int-video-javascriptapiref/r-html5-aem-int-video-javascriptapiref-sethandlers.md#reference-d76f126ac4354dc282e56afd49a0c643). 
+See also [InteractiveVideoViewer](../../c-html5-aem-asset-viewers/c-html5-aem-int-video/c-html5-aem-int-video-javascriptapiref/r-html5-aem-int-video-javascriptapiref-interactivevideo.md#reference-bd16cadc0c054fafb0db4994741d47cd) and [setHandlers](../../c-html5-aem-asset-viewers/c-html5-aem-int-video/c-html5-aem-int-video-javascriptapiref/r-html5-aem-int-video-javascriptapiref-sethandlers.md#reference-d76f126ac4354dc282e56afd49a0c643).

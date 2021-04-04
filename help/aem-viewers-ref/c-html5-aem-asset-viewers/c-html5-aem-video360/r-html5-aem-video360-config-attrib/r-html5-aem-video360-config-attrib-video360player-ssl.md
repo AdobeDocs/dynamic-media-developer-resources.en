@@ -7,8 +7,8 @@ title: Video360Player.ssl
 
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
+exl-id: 44efa378-c911-4449-8a10-61212d4392c6
 ---
-
 # Video360Player.ssl{#video-player-ssl}
 
 Configuration attribute for Video360 Viewer.
@@ -44,4 +44,4 @@ ssl=on
 
 <!--<a id="section_5943AC73316749C68761FF7F74DA7547"></a>-->
 
-See also [Secure Video Delivery](../../../c-html5-aem-asset-viewers/c-html5-aem-video360/c-html5-aem-video360-securevideodelivery.md#concept-13f66fdd4a52494aa516cd0f36fdac27). 
+See also [Secure Video Delivery](../../../c-html5-aem-asset-viewers/c-html5-aem-video360/c-html5-aem-video360-securevideodelivery.md#concept-13f66fdd4a52494aa516cd0f36fdac27).

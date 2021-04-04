@@ -4,8 +4,8 @@ solution: Experience Manager
 title: SetPropertySetPermissions
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 6c009573-0ef3-4bc2-9f9f-ff6580b32df0
 ---
-
 # SetPropertySetPermissions{#setpropertysetpermissions}
 
  Syntax 
@@ -16,4 +16,3 @@ role: Developer,Administrator
 |---|---|---|
 |  `*`setHandle`*`  | `xsd:string`  | Handle to the property set.  |
 |  `*`permissionsArray`*`  | `types:PermissionUpdateArray`  | An array of permissions.  |
-

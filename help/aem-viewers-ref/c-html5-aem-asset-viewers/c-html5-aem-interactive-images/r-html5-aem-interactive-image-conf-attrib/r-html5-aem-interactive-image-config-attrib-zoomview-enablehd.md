@@ -5,8 +5,8 @@ title: ZoomView.enableHD
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,Business Practitioner
+exl-id: b3cc32ef-dd6c-47a3-9e55-86a43e874a84
 ---
-
 # ZoomView.enableHD{#zoomview-enablehd}
 
  ` [ZoomView.|<containerId>_zoomView.]enableHD=always|never|limit[, *`number`*]`
@@ -34,4 +34,4 @@ Optional.
 
 ## Example {#section-bce98c31f08a4a0ab262fab7f95ba020}
 
-`enableHD=always` 
+`enableHD=always`

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Basic character formatting
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: d3bd6d4d-d7bd-4c9b-bc9e-7edaaac6378e
 ---
-
 # Basic character formatting{#basic-character-formatting}
 
 Use the following commands for basic character formatting.
@@ -96,4 +96,3 @@ Use the following commands for basic character formatting.
   </tr> 
  </tbody> 
 </table>
-

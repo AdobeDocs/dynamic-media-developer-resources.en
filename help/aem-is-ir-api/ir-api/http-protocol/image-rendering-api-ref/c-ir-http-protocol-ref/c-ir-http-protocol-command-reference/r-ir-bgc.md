@@ -4,8 +4,8 @@ solution: Experience Manager
 title: bgc
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 9ac6517e-b9c3-48d9-97ac-d8aa65a8ba46
 ---
-
 # bgc{#bgc}
 
 Background color. Specifies the subtractive color for colorizable textures and decals.
@@ -41,4 +41,4 @@ Colorize an apparel fabric whose texture has the dominant RGB color 120,34,193:
 
 ## See also {#section-de9958dd63a742b4b5d780c59a57da33}
 
-[catalog::BaseColor](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-material-data-reference/r-ir-basecolor.md#reference-5f02371b1d8e444ab12d2614d9792de8) , [color=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-http-color.md#reference-ea3cba9edfe94dbab86d8f123a9ed0aa) 
+[catalog::BaseColor](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-material-data-reference/r-ir-basecolor.md#reference-5f02371b1d8e444ab12d2614d9792de8) , [color=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-http-color.md#reference-ea3cba9edfe94dbab86d8f123a9ed0aa)

@@ -7,8 +7,8 @@ title: Assistive technology support
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search,Accessibility
 role: Developer,Business Practitioner
+exl-id: fbfc9415-6ab8-466c-9a1f-d33565eff2a4
 ---
-
 # Assistive technology support{#assistive-technology-support}
 
 All viewer components support ARIA (Accessible Rich Internet Applications) roles and attributes to improve integration with assistive technologies such as screen readers.
@@ -29,4 +29,4 @@ Drop-down lists are activated by buttons with additional `aria-haspopup` attribu
 
 Search user interface is grouped in the element with the role `search`. Search input field has the role `searchbox` and references the informative label controlled by `SearchPanel.INFO_PROMPT` localization symbol with `aria-describedby` attribute.
 
-Modal dialog boxes have the role `dialog`. The dialog box's header element is referenced by the `aria-labelledby` attribute. 
+Modal dialog boxes have the role `dialog`. The dialog box's header element is referenced by the `aria-labelledby` attribute.

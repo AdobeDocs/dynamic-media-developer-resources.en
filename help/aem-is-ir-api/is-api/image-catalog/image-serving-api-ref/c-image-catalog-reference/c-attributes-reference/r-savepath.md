@@ -4,8 +4,8 @@ solution: Experience Manager
 title: SavePath
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 6e2814b9-898f-4cf4-8e4f-aa972d554213
 ---
-
 # SavePath{#savepath}
 
 Root path for saveToFile=. Relative path for the root folder to which images generated with req=saveToFile should be written.
@@ -22,4 +22,4 @@ Inherited from `default::SavePath` if not defined. Saving to files is disabled i
 
 ## See also {#section-b38b045bbf084ca5a4b24ea12c4877ae}
 
-[req=saveToFile](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-req/r-req.md#reference-907cdb4a97034db7ad94695f25552e76) 
+[req=saveToFile](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-req/r-req.md#reference-907cdb4a97034db7ad94695f25552e76)

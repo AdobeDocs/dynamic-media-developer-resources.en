@@ -4,8 +4,8 @@ solution: Experience Manager
 title: op_grow
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 4c5bef4e-f80e-454d-8e93-30bf33d7ec9e
 ---
-
 # op_grow{#op-grow}
 
 Dilate/erode image. Applies a morphological dilate (radius > 0) or erode (radius < 0) to the image data.
@@ -33,4 +33,4 @@ Layer attribute. Applies to the current layer or to the composite image if `laye
 
 ## See also {#section-ad3e5cecfc3448a38ea06093e015c88a}
 
-[Layer Effects](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-syntax-and-features/r-layer-effects.md#reference-82a6b5311b3d4471ad2799adb3b2201c) 
+[Layer Effects](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-syntax-and-features/r-layer-effects.md#reference-82a6b5311b3d4471ad2799adb3b2201c)

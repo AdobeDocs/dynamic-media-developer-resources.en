@@ -7,8 +7,8 @@ title: videoServerUrl
 
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,Business Practitioner
+exl-id: db0ce8c4-3754-4fef-9430-44ee8e5c5e80
 ---
-
 # videoServerUrl{#videoserverurl}
 
 Parameter common to all viewers.
@@ -41,4 +41,3 @@ Optional. Not needed for standard software as a service usage.
 ```
 videoServerUrl=http://s7d1.scene7.com/is/content/
 ```
-

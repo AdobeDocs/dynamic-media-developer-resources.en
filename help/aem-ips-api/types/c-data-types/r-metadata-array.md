@@ -4,8 +4,8 @@ solution: Experience Manager
 title: MetadataArray
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
+exl-id: 1833237d-4ef9-4899-8d14-317db350b223
 ---
-
 # MetadataArray{#metadataarray}
 
 An array of metadata.
@@ -30,4 +30,3 @@ An array of metadata.
   </tr> 
  </tbody> 
 </table>
-

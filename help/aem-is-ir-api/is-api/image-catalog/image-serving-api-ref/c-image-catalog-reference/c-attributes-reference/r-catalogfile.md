@@ -4,8 +4,8 @@ solution: Experience Manager
 title: CatalogFile
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 240a3884-68dd-474c-83a6-d79fc5b6c300
 ---
-
 # CatalogFile{#catalogfile}
 
 Image data file paths. Specifies the files that contain the image data for this catalog.
@@ -22,4 +22,4 @@ Empty, which indicates that this image catalog does not include any image data.
 
 ## See also {#section-910b67c5041d44d99a105ad43ff63a37}
 
-[Catalog Data Fields](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-overview/c-catalog-data-fields/c-catalog-data-fields.md#concept-b19581028ec44f98b9f5943624403d29) 
+[Catalog Data Fields](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-overview/c-catalog-data-fields/c-catalog-data-fields.md#concept-b19581028ec44f98b9f5943624403d29)

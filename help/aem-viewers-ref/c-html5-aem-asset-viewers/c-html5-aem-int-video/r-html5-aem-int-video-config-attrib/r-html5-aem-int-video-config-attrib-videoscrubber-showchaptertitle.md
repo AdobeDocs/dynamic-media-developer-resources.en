@@ -7,8 +7,8 @@ title: VideoScrubber.showchaptertitle
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: a687a025-37cc-42cf-8cf7-893179d399ac
 ---
-
 # VideoScrubber.showchaptertitle{#videoscrubber-showchaptertitle}
 
 Configuration attribute for Interactive Video Viewer.
@@ -37,4 +37,3 @@ Optional.
 ```
 showchaptertitle=0
 ```
-

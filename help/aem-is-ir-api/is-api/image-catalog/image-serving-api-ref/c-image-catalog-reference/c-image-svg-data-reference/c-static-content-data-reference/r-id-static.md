@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Id
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 818649dd-bcb7-4ff5-9308-6b5dc06f66e1
 ---
-
 # Id{#id}
 
  Typically a short and unique identifier, such as a SKU number, possibly with some sort of suffix, such as if a SKU has multiple images or has locale-specific variations. May also be a more complex string which looks more like a file path, to support easy retrofitting of web sites with Image Serving.
@@ -24,4 +24,4 @@ None.
 
 ## See also {#section-a258d818487d4ee6b7a99a65d18471a9}
 
-[attribute::RootId](../../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-rootid.md#reference-13653312925e4a08b90f99961d53f546)  
+[attribute::RootId](../../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-rootid.md#reference-13653312925e4a08b90f99961d53f546)

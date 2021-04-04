@@ -7,8 +7,8 @@ title: VideoPlayer.playback
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: accf2b56-d7bd-483d-9759-fa38246a0a8f
 ---
-
 # VideoPlayer.playback{#videoplayer-playback}
 
 Configuration attribute for Mixed Media Video Viewer.
@@ -34,4 +34,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`playback=progressive` 
+`playback=progressive`

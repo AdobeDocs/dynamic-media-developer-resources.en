@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Common layer commands
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: c95d198c-757f-405e-ba08-094cd402c929
 ---
-
 # Common layer commands{#common-layer-commands}
 
 These commands apply to image, text, and solid color layers. Most are not meaningful for the composite image and for simple, non-layered requests. They do not apply to effect layers.
@@ -56,4 +56,3 @@ These commands apply to image, text, and solid color layers. Most are not meanin
   <td class="stentry"> <p>Hide the layer. </p></td> 
  </tr> 
 </table>
-

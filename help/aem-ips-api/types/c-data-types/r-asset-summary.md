@@ -4,8 +4,8 @@ solution: Experience Manager
 title: AssetSummary
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: 25f16a2b-6cd8-485f-a6bd-2a9bc9b3243b
 ---
-
 # AssetSummary{#assetsummary}
 
 Metadata search results that contain summarized information about an asset.
@@ -28,4 +28,3 @@ Metadata search results that contain summarized information about an asset.
 |  `*`metadataArray`*`  | `types:MetadataArray`  | Array of metadata values associated with the asset.  |
 |  `*`score`*`  | `xsd:double`  | Defines the precision in case of a similarity search (0 = no match, 1 = exact match).  |
 |  `*`scoreDetail`*`  | `xsd:string`  | Holds detailed information about similar areas as a result of a similarity search.  |
-

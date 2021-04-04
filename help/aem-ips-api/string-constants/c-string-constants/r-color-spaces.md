@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Color Spaces
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: f2989963-e0d4-42b8-9807-a63d43728540
 ---
-
 # Color Spaces{#color-spaces}
 
 Used by IccProfileFieldUpdate/colorSpace and IccProfileFieldUpdate/pcsType.
@@ -38,4 +38,3 @@ Used by IccProfileFieldUpdate/colorSpace and IccProfileFieldUpdate/pcsType.
 * [!DNL `DCLR`] 
 * [!DNL `ECLR`] 
 * [!DNL `FCLR`]
-

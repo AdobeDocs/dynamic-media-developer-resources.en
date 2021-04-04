@@ -7,8 +7,8 @@ title: Compatibility notes
 
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,Business Practitioner
+exl-id: 7ad499b1-7da6-483b-ab11-cff2eb9271da
 ---
-
 # Compatibility notes{#compatibility-notes}
 
 <!-- Updated January 13,2021 from https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=scene7qa&title=s7Viewers%2C+S7SDK%2C+S7OnDemand+Release+Notes - Contact is Sasha -->

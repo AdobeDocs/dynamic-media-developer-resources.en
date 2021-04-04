@@ -4,8 +4,8 @@ solution: Experience Manager
 title: PdfSettingsInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 5bf316ec-7f92-4384-8a4e-b80610e5839b
 ---
-
 # PdfSettingsInfo{#pdfsettingsinfo}
 
 The properties of a PDF settings file asset.
@@ -19,4 +19,3 @@ The properties of a PDF settings file asset.
 |  `*`originalPath`*`  | `xsd:string`  | File path.  |
 |  `*`originalFile`*`  | `xsd:string`  | File name.  |
 |  `*`fileSize`*`  | `xsd:int`  | File size.  |
-

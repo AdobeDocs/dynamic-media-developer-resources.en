@@ -4,8 +4,8 @@ solution: Experience Manager
 title: PublishHistory
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: b287b822-7994-45af-8ffd-95f1dd12a782
 ---
-
 # PublishHistory{#publishhistory}
 
 Publication history of an asset.
@@ -20,4 +20,3 @@ Publication history of an asset.
 |  `*`contextName`*`  | `xsd:string`  | Publish history context name.  |
 |  `*`publishFormat`*`  | `xsd:string`  | Publish format.  |
 |  `*`lastPublished`*`  | `xsd:dateTime`  | Date and time the asset was last published.  |
-

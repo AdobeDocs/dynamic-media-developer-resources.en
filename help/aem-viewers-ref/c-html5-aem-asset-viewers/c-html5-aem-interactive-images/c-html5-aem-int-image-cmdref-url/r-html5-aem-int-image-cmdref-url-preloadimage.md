@@ -7,8 +7,8 @@ title: preloadimage
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,Business Practitioner
+exl-id: 5bb61804-8c61-473f-a8a7-aa30a410e22b
 ---
-
 # preloadimage{#preloadimage}
 
 URL command for Video Image Viewer.
@@ -37,4 +37,3 @@ Optional.
 ```
 preloadImage=0
 ```
-

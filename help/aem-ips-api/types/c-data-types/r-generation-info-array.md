@@ -4,8 +4,8 @@ solution: Experience Manager
 title: GenerationInfoArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 500a4ba3-57f1-4b51-afe3-91885be13d98
 ---
-
 # GenerationInfoArray{#generationinfoarray}
 
 An array of generation properties.
@@ -17,4 +17,3 @@ An array of generation properties.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:GenerationInfo`  | An array of generation properties.  |
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: GenerationAttribute
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 007fc4d8-e513-4936-a88d-4553a940cdb5
 ---
-
 # GenerationAttribute{#generationattribute}
 
 A name-value pair that contains information about an asset generation step. See getGenerationInfo.
@@ -18,4 +18,3 @@ A name-value pair that contains information about an asset generation step. See 
 |---|---|---|
 |  `*`name`*`  | `xsd:string`  | Attribute name.  |
 |  `*`value`*`  | `xsd:string`  | Attribute value.  |
-

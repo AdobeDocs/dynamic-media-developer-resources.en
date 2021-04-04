@@ -4,8 +4,8 @@ solution: Experience Manager
 title: vignette
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 8419d68d-7579-4e62-abbd-7dc0a736ae23
 ---
-
 # vignette{#vignette}
 
 Vignette file. Specifies the vignette to be used for this request.
@@ -43,4 +43,4 @@ None.
 
 ## See also {#section-dc2668cc2cd54a74b08cff68a12d4edd}
 
-[Material Catalogs](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-http-material-catalogs/c-ir-http-material-catalogs.md#concept-772742c1688f420a88a56f5136ad1db2), [Custom Variables](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-custom-variables/c-ir-custom-variables.md#concept-8a1d9a50d09a4b7b97b8c83365971f96) 
+[Material Catalogs](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-http-material-catalogs/c-ir-http-material-catalogs.md#concept-772742c1688f420a88a56f5136ad1db2), [Custom Variables](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-custom-variables/c-ir-custom-variables.md#concept-8a1d9a50d09a4b7b97b8c83365971f96)

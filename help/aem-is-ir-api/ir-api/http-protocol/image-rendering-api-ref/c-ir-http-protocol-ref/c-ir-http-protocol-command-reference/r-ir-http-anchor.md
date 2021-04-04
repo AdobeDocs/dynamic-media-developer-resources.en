@@ -4,8 +4,8 @@ solution: Experience Manager
 title: anchor
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: ea2c5dce-6eb1-4f05-80bd-7336deb08b9e
 ---
-
 # anchor{#anchor}
 
 Image anchor (hotspot). Specifies the texture anchor point (hotspot) of the repeatable texture or decal material.
@@ -41,4 +41,4 @@ A decal image is applied to a vignette object, so that the decal anchor point is
 
 ## See also {#section-b18bf0b035644ca5aedebbc64373718e}
 
-[catalog::Anchor](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-material-data-reference/r-ir-cat-anchor.md#reference-d9b1d49db1fc440686f64b84453297ab) , [align=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-align.md#reference-4d63baa522ce42f9b15167ba34c5c6a7) 
+[catalog::Anchor](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-material-data-reference/r-ir-cat-anchor.md#reference-d9b1d49db1fc440686f64b84453297ab) , [align=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-align.md#reference-4d63baa522ce42f9b15167ba34c5c6a7)

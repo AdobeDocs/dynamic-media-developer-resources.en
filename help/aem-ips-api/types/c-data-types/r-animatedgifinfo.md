@@ -4,8 +4,8 @@ solution: Experience Manager
 title: AnimatedGifInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: b50b39b4-3055-43e3-a8bb-50f8b2f0d1fc
 ---
-
 # AnimatedGifInfo{#animatedgifinfo}
 
 Properties of an Animated GIF file asset.
@@ -50,4 +50,3 @@ Properties of an Animated GIF file asset.
   </tr> 
  </tbody> 
 </table>
-

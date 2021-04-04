@@ -4,8 +4,8 @@ solution: Experience Manager
 title: rule
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 8f56012c-d01c-489c-9d18-91e256f72012
 ---
-
 # rule{#rule}
 
 Request rule element. One or more are optional in the `<ruleset>` element.
@@ -78,4 +78,4 @@ If `<expression>` is not specified, any path will match and `<substitution>` is 
 
 If `<substitution>` is not specified, the matched substring is removed.
 
-The `<addressfilter>` is applied only when a match occurs, and before query rules are applied. 
+The `<addressfilter>` is applied only when a match occurs, and before query rules are applied.

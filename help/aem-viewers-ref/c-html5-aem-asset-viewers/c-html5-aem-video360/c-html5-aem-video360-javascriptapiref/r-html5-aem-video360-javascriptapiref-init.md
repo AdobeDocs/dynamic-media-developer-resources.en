@@ -7,8 +7,8 @@ title: init
 
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
+exl-id: cb543620-e774-407b-bf33-bfd2261511c4
 ---
-
 # init{#init}
 
 JavaScript API reference for Video360 Viewer.
@@ -34,4 +34,3 @@ None.
 ```
 <instance>.init()
 ```
-

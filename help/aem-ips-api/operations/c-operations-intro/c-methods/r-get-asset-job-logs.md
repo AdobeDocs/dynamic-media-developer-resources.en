@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getAssetJobLogs
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: 88ec5cab-7eb4-48aa-914f-21311593e463
 ---
-
 # getAssetJobLogs{#getassetjoblogs}
 
 Gets the job logs for an asset. Items returned in the array contain detailed information about each entry in the job log for that asset. The logMessage response field is localized based on the authHeader field.
@@ -76,4 +76,3 @@ This code sample retrieves the job logs of a specific asset. The response return
    </jobLogArray>
 </getAssetJobLogsReturn>
 ```
-

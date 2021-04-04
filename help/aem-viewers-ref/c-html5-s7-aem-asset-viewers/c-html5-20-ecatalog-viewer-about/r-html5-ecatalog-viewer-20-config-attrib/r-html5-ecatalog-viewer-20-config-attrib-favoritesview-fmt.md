@@ -5,8 +5,8 @@ title: FavoritesView.fmt
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: d14f8a0c-5fb5-4315-ba8b-79add6d389b0
 ---
-
 # FavoritesView.fmt{#favoritesview-fmt}
 
 `[FavoritesView.|<containerId>_favoritesView.]fmt=jpg|jpeg|png|png-alpha|gif|gif-alpha`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
-`fmt=png-alpha` 
+`fmt=png-alpha`

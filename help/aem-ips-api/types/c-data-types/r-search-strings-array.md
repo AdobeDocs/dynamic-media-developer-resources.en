@@ -4,8 +4,8 @@ solution: Experience Manager
 title: SearchStringsArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 21033323-8a42-459b-a85b-97a6198dc5d4
 ---
-
 # SearchStringsArray{#searchstringsarray}
 
 An array of search strings.
@@ -17,4 +17,3 @@ An array of search strings.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:SearchStrings`  | An array of search strings.  |
-

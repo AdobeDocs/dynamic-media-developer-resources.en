@@ -4,8 +4,8 @@ solution: Experience Manager
 title: PublishStateUpdate
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: b1767e3c-7e77-44a3-9bd2-e7d7587c014f
 ---
-
 # PublishStateUpdate{#publishstateupdate}
 
 Parameters used to update the publish state of an asset.
@@ -18,4 +18,3 @@ Parameters used to update the publish state of an asset.
 |---|---|---|
 |  `*`assetHandle`*`  | `xsd:string`  | Asset handle.  |
 |  `*`publishState`*`  | `xsd:string`  | New publish state.  |
-

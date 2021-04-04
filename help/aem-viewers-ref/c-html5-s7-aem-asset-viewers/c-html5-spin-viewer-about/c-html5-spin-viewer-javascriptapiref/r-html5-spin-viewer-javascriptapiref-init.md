@@ -7,8 +7,8 @@ title: init
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
+exl-id: 5217a02a-6092-4cb9-b4fb-f959cdc85a6e
 ---
-
 # init{#init}
 
 JavaScript API reference for Spin Viewer.
@@ -34,4 +34,3 @@ None.
 ```
 <instance>.init()
 ```
-

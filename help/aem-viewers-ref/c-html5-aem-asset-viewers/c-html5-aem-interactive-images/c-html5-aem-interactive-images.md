@@ -7,8 +7,8 @@ title: Interactive Image
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,Business Practitioner
+exl-id: c7089ecd-6ff3-4fe9-9ee7-3b48c9201558
 ---
-
 # Interactive Image{#interactive-image}
 
 Interactive Image Viewer is a viewer that displays a single, non-zoomable image with clickable hotspots. The purpose of this viewer is to implement a "shoppable banner" experience. That is, the user can select a hotspot over the banner image and get redirected to a Quick View or product detail page on your website. It is designed to work on desktops and mobile devices.
@@ -346,4 +346,3 @@ interactiveImage.init();
 </html> 
 
 ```
-

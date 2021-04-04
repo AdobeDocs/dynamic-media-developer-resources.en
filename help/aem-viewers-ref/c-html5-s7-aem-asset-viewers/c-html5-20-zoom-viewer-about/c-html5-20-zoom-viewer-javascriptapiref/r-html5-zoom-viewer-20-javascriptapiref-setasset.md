@@ -7,8 +7,8 @@ title: setAsset
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
+exl-id: 4fc94f30-e330-4c8a-b6da-d870e4f8e4ab
 ---
-
 # setAsset{#setasset}
 
 JavaScript API reference for Video Viewer.
@@ -63,4 +63,3 @@ Sharpening modifier added to all images in the set:
 ```
  <instance>.setAsset("Scene7SharedAssets/ImageSet-Views-Sample?op_sharpen=1")
 ```
-

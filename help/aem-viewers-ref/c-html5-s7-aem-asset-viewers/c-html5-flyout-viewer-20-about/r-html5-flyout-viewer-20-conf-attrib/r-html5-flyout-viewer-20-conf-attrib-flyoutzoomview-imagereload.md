@@ -5,8 +5,8 @@ title: FlyoutZoomView.imagereload
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,Business Practitioner
+exl-id: 483fa64b-5196-4477-8ea6-0f32c6557f72
 ---
-
 # FlyoutZoomView.imagereload{#flyoutzoomview-imagereload}
 
  ` [FlyoutZoomView.|<containerId>_flyout.]imagereload=0|1[,breakpoint, *`width`*[; *`width`*]]`
@@ -34,4 +34,4 @@ Optional.
 
 ## Example {#section-0338be21edd04ff1a3bed5c8319b61a4}
 
-`imagereload=1,breakpoint,200;400;800;1600` 
+`imagereload=1,breakpoint,200;400;800;1600`

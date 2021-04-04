@@ -7,8 +7,8 @@ title: VideoPlayer.ssl
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: 16e17e2f-be98-4a5a-ba5e-5d18e7f76fa4
 ---
-
 # VideoPlayer.ssl{#videoplayer-ssl}
 
 Configuration attribute for Interactive Video Viewer.
@@ -44,4 +44,4 @@ ssl=on
 
 <!--<a id="section_5943AC73316749C68761FF7F74DA7547"></a>-->
 
-See also [Secure Video Delivery](../../../c-html5-aem-asset-viewers/c-html5-aem-int-video/c-html5-aem-int-video-securevideodelivery.md#concept-13f66fdd4a52494aa516cd0f36fdac27). 
+See also [Secure Video Delivery](../../../c-html5-aem-asset-viewers/c-html5-aem-int-video/c-html5-aem-int-video-securevideodelivery.md#concept-13f66fdd4a52494aa516cd0f36fdac27).

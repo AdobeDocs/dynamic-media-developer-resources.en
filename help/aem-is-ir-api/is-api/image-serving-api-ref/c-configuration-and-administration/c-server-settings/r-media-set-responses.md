@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Media set responses
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: e3833726-d345-4741-8096-d74f299ac9fc
 ---
-
 # Media set responses{#media-set-responses}
 
 The settings in this section apply to the media set responses obtained by req=set modifier.
@@ -20,4 +20,4 @@ The maximum nesting depth of any `req=set` response. If this depth is exceeded, 
 
 ## PS::fvctx.brochureLimit - Brochure Limit {#section-fe36e47db49244cea7f07e9dd3639440}
 
-The maximum number of e-catalog brochures in the `req=set` response which contains all associated metadata. Once this limit is exceeded, any private maps and user data associated with the brochure item are suppressed. 
+The maximum number of e-catalog brochures in the `req=set` response which contains all associated metadata. Once this limit is exceeded, any private maps and user data associated with the brochure item are suppressed.

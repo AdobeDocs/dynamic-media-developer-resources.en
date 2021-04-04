@@ -5,8 +5,8 @@ title: PageView.fmt
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: 07aec907-fb9d-41c8-9f32-a4886605db35
 ---
-
 # PageView.fmt{#pageview-fmt}
 
  `[PageView.|<containerId>_pageView.]fmt=jpg|jpeg|png|png-alpha|gif|gif-alpha`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-7de29e43bb3640e4aa1f8984b4afddad}
 
-`fmt=png-alpha` 
+`fmt=png-alpha`

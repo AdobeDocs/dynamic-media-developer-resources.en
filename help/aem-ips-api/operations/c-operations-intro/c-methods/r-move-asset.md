@@ -4,8 +4,8 @@ solution: Experience Manager
 title: moveAsset
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: c5357c1a-92ac-4f9c-957e-b62cb812796c
 ---
-
 # moveAsset{#moveasset}
 
 Moves an asset to a specific folder.
@@ -51,4 +51,4 @@ This code sample moves an asset to a folder.
 
 **Response**
 
-None. 
+None.

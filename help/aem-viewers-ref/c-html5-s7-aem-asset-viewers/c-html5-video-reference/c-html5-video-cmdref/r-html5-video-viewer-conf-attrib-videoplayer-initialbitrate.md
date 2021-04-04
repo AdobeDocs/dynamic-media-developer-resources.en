@@ -7,8 +7,8 @@ title: VideoPlayer.initialbitrate
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
+exl-id: 83f2af31-e2dc-430c-b9ae-563cdcd20954
 ---
-
 # VideoPlayer.initialbitrate{#videoplayer-initialbitrate}
 
 Configuration attribute for Video Viewer.
@@ -37,4 +37,3 @@ Optional.
 ```
 initialbitrate=600
 ```
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Color Management Modes
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 10e50e6b-7c20-4a31-8e1b-9fa48de74237
 ---
-
 # Color Management Modes{#color-management-modes}
 
 Used by ColorManagementOptions/colorManagement.
@@ -17,4 +17,3 @@ Used by ColorManagementOptions/colorManagement.
 * [!DNL `Default`] 
 * [!DNL `MaintainOriginal`] 
 * [!DNL `Convert`]
-

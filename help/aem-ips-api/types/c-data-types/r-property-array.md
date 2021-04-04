@@ -4,8 +4,8 @@ solution: Experience Manager
 title: PropertyArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 65a72938-dffe-4448-93f6-166dd0dfdb90
 ---
-
 # PropertyArray{#propertyarray}
 
 An array of properties.
@@ -17,4 +17,3 @@ An array of properties.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:Property`  | The property array.  |
-

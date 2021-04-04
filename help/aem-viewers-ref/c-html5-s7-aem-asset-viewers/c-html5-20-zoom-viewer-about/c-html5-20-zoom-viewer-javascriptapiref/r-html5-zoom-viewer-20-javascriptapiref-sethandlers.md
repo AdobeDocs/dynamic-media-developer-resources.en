@@ -7,8 +7,8 @@ title: setHandlers
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
+exl-id: cff331a9-bca1-4360-88fa-96812aa8ba62
 ---
-
 # setHandlers{#sethandlers}
 
 JavaScript API reference for Video Viewer
@@ -41,4 +41,3 @@ None.
 } 
 })
 ```
-

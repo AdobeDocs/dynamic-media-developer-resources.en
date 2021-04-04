@@ -7,8 +7,8 @@ title: Focus highlight
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,Business Practitioner
+exl-id: 2cb2e719-ee56-45e5-a509-7e13bb3c2165
 ---
-
 # Focus highlight{#focus-highlight}
 
 Input focus highlight displayed around focused viewer UI element is controlled with the CSS class selector.
@@ -45,4 +45,3 @@ Example - to disable the default browser focus highlight for all viewer user int
  outline: none; 
 }
 ```
-

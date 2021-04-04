@@ -7,8 +7,8 @@ title: Interactive swatches
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: c9ef02eb-f5db-474b-b234-c49508e2af35
 ---
-
 # Interactive swatches{#interactive-swatches}
 
 The interactive swatches panel appears next to the video content if interactive data was passed to the viewer in configuration. It consists of a banner at the top that renders text such as "Click to View", a column of one or more interactive swatches and two scroll buttons (available only on desktop systems).
@@ -331,4 +331,3 @@ To set up scroll up button that is 60 x 36 pixels, have different artwork for ea
 .s7interactivevideoviewer .s7interactiveswatches .s7scrollupbutton[state='down'] { background-position: -60px -648px; } 
 .s7interactivevideoviewer .s7interactiveswatches .s7scrollupbutton[state='disabled'] { background-position: -0px -648px; }
 ```
-

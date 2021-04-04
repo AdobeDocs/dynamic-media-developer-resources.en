@@ -7,8 +7,8 @@ title: Hotspots
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,Business Practitioner
+exl-id: ec1d9a91-e189-470a-abe2-4f33686905e7
 ---
-
 # Hotspots{#hotspots}
 
 The viewer displays hotspot icons over the main view in places where hotspots were originally authored in Dynamic Media of AEM Assets – on-demand.
@@ -62,4 +62,3 @@ Example - set up a 56 x 56 pixels hotspot icon that displays a different image f
  background-image: url(images/v2/imagemap/ImageMapEffect_icon1_light_over_touch.png); 
 }
 ```
-

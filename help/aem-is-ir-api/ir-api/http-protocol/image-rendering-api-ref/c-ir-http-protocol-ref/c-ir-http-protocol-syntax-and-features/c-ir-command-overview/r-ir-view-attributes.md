@@ -4,8 +4,8 @@ solution: Experience Manager
 title: View attributes
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 18e1ee40-fe34-435a-be97-849b08618d48
 ---
-
 # View attributes{#view-attributes}
 
 These commands are position-independent and may occur anywhere in a request.
@@ -64,4 +64,3 @@ These commands are position-independent and may occur anywhere in a request.
   <td class="stentry"> <p>Override the default response caching behavior. </p></td> 
  </tr> 
 </table>
-

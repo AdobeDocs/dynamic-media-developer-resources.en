@@ -4,8 +4,8 @@ solution: Experience Manager
 title: TagValueUpdateFaultArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 76622042-0fb4-4ec4-834b-d64d79af6a94
 ---
-
 # TagValueUpdateFaultArray{#tagvalueupdatefaultarray}
 
 An array of tag value update faults.
@@ -17,4 +17,3 @@ An array of tag value update faults.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:TagValueUpdateFault`  | An array of tag value update faults (error messages).  |
-

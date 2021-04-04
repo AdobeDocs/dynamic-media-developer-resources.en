@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getPropertySets
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: da6923c3-9b86-4595-8205-645fb10e03b0
 ---
-
 # getPropertySets{#getpropertysets}
 
 Gets property sets associated with a type handle.
@@ -79,4 +79,3 @@ This code sample returns property sets of their primary owner, specified by a ty
    </setArray>
 </getPropertySetsReturn>
 ```
-

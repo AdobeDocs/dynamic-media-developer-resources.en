@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getAssociatedAssets
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: cf49719f-5d79-4e64-a785-bf3b2fe200c7
 ---
-
 # getAssociatedAssets{#getassociatedassets}
 
 Gets assets associated with a specified asset and details about their relationship.
@@ -260,4 +260,4 @@ In this next example, a group is added to a company with `groupHandleArray`. Thi
 
 **Response**
 
-None. 
+None.

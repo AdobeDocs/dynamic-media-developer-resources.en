@@ -5,8 +5,8 @@ title: FavoritesView.textpos
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: c76c0386-0ccf-4551-8573-dad165359cba
 ---
-
 # FavoritesView.textpos{#favoritesview-textpos}
 
 [!DNL `[FavoritesView.|<containerId>_favoritesView.]textpos=bottom|top|left|right|none|tooltip`]
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
-[!DNL `textpos=top`] 
+[!DNL `textpos=top`]

@@ -5,8 +5,8 @@ title: FavoritesEffect.expiration
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: ef4880c5-045c-487c-a73a-e87e54717029
 ---
-
 # FavoritesEffect.expiration{#favoriteseffect-expiration}
 
 ` [FavoritesEffect.|<containerId>_favoritesEffect.]expiration= *`days`*`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
-`expiration=7` 
+`expiration=7`

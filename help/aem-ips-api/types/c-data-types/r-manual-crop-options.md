@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ManualCropOptions
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 829147b9-de78-4e8f-814c-ed44f714cb2e
 ---
-
 # ManualCropOptions{#manualcropoptions}
 
 Manual crop options for images.
@@ -20,4 +20,3 @@ Manual crop options for images.
 |  `*`right`*`  | `xsd:int`  | The right position of the manual crop in pixels.  |
 |  `*`top`*`  | `xsd:int`  | The top position of the manual crop in pixels.  |
 |  `*`bottom`*`  | `xsd:int`  | The bottom position of the manual crop in pixels.  |
-

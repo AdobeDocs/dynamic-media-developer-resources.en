@@ -4,8 +4,8 @@ solution: Experience Manager
 title: UserData *
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: e8ec11af-9448-4796-a43d-0fb9841469dd
 ---
-
 # UserData *{#userdata}
 
 User data. The server returns the contents of this field to the client in response to req=userdata.
@@ -22,4 +22,4 @@ None.
 
 ## See also {#section-f482adf424e44df1b817eb182040fa3a}
 
-`req=userdata` 
+`req=userdata`

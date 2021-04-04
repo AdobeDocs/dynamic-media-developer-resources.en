@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Trash State
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: f37d7380-127e-48ef-808f-5aa36bf2c665
 ---
-
 # Trash State{#trash-state}
 
 Used by searchAssetReturn/trashState.
@@ -17,4 +17,3 @@ Used by searchAssetReturn/trashState.
 * [!DNL `NotInTrash`] 
 * [!DNL `InTrash`] 
 * [!DNL `InEmptiedTrash`]
-

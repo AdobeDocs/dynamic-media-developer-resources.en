@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Image Rendering API
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: e7cf4b21-8020-436a-b084-b81e9c8a8b9b
 ---
-
 # Image Rendering API{#image-rendering-api}
 
 The Image Rendering API Reference contains information about setting up and using the Dynamic Media Image Rendering API.

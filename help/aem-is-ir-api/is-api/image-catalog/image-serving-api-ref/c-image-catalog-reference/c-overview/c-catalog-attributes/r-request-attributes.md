@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Request attributes
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: f1f2905f-f4e8-4944-8b27-469f09aa4bce
 ---
-
 # Request attributes{#request-attributes}
 
 Catalog attribute files recognize these request attributes.
@@ -74,4 +74,3 @@ Catalog attribute files recognize these request attributes.
   <td class="stentry"> <p>Client IP address filter. </p></td> 
  </tr> 
 </table>
-

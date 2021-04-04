@@ -5,8 +5,8 @@ title: Support for Adobe Analytics tracking
 
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner,Data Engineer,Data Architect
+exl-id: fb58a388-e4da-475d-b726-d5a32e99cce0
 ---
-
 # Support for Adobe Analytics tracking{#support-for-adobe-analytics-tracking}
 
 By default, the viewer sends a single tracking HTTP request to the configured Image Server with the viewer type and version information.
@@ -84,4 +84,3 @@ The viewer tracks the following SDK user events:
   </tr> 
  </tbody> 
 </table>
-

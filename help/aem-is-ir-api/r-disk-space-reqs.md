@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Disk space requirements and recommendations
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 35486f3f-f0aa-4b69-a1d2-4bc6b5e41c43
 ---
-
 # Disk space requirements and recommendations{#disk-space-requirements-and-recommendations}
 
 In addition to the space necessary to install the software, Image Serving has the following disk space requirements:
@@ -92,4 +92,4 @@ An Image Serving deployment expects to use 30,000 low-resolution legacy images, 
 
 *`total_space`* = 30,000 x (2k + 0.5k x 0.5k x 3 x 0.1) + 3 x 10,000 x (2k + 4k x 6k x 4 x 0.1) = 2.2 G + 268 GB = approximately 270 GB
 
-For guaranteed best quality, deflate (zip) compression could be employed. Assuming a *`p_factor`* of 0.4, the total amount of disk space required is approximately 4 times larger. In this case, slightly more than 1 TB. 
+For guaranteed best quality, deflate (zip) compression could be employed. Assuming a *`p_factor`* of 0.4, the total amount of disk space required is approximately 4 times larger. In this case, slightly more than 1 TB.

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getCompanyMembers
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: da5e5a48-2e0b-4ccc-a71e-b5b746484d4a
 ---
-
 # getCompanyMembers{#getcompanymembers}
 
 Returns the users of a company specified by a company handle.
@@ -65,4 +65,3 @@ This code sample returns all the members of a company in a user array. The respo
    </memberArray>
 </getCompanyMembersReturn>
 ```
-

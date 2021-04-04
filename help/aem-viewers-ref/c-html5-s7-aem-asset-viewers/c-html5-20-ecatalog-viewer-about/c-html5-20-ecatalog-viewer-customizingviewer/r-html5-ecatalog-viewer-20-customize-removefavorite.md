@@ -7,8 +7,8 @@ title: Remove Favorite button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: 9654ee6c-3b47-4a96-b6f0-87a0facf4523
 ---
-
 # Remove Favorite button{#remove-favorite-button}
 
 The position of the Remove Favorite button is fully managed by the Favorites menu.
@@ -82,4 +82,3 @@ background-image:url(images/v2/RemoveFavoriteButton_dark_over.png);
 background-image:url(images/v2/RemoveFavoriteButton_dark_disabled.png); 
 }
 ```
-

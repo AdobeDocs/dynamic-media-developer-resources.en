@@ -4,8 +4,8 @@ solution: Experience Manager
 title: deleteFolder
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: c042b87b-3f60-4608-8ed5-0fc031a66c03
 ---
-
 # deleteFolder{#deletefolder}
 
 Deletes a folder.
@@ -51,4 +51,4 @@ This sample code deletes a folder from the root of the company. It requires a fo
 </ns1:deleteFolderParam>
 ```
 
-None. 
+None.

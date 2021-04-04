@@ -5,8 +5,8 @@ title: VideoScrubber.timepattern
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 0536110e-a885-4fd4-baa8-742fcdba5cc9
 ---
-
 # VideoScrubber.timepattern{#videoscrubber-timepattern}
 
  `[VideoScrubber.|<containerId>_videoScrubber.]timepattern=[h:]m|mm:s|ss`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`timepattern=h:mm:ss` 
+`timepattern=h:mm:ss`

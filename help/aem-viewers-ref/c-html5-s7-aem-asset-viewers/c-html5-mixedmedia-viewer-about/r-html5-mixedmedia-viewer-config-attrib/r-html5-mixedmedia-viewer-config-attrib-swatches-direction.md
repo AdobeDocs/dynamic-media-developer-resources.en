@@ -5,8 +5,8 @@ title: Swatches.direction
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: bd01ff03-fea7-42ad-aa99-72273f55bda0
 ---
-
 # Swatches.direction{#swatches-direction}
 
  `[Swatches.|<containerId>_swatches.]direction=auto|left|right`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`direction=right` 
+`direction=right`

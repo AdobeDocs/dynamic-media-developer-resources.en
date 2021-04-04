@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Id
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 5c0c8788-ffe5-4b42-86f6-6b4683dd7c21
 ---
-
 # Id{#id}
 
 Vignette identifier. Index key value by which records in the vignette map file are looked up by the server.
@@ -22,4 +22,4 @@ None.
 
 ## See also {#section-19dce97a43a9461caf74ef3cdd560a3a}
 
-[attribute::RootId](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-rootid.md#reference-54b42b7125824be593378c1accb70d5a) 
+[attribute::RootId](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-rootid.md#reference-54b42b7125824be593378c1accb70d5a)

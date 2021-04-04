@@ -4,8 +4,8 @@ solution: Experience Manager
 title: catalog-server.conf
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: 55e55381-3828-4937-8746-a74e82d6ca38
 ---
-
 # catalog-server.conf{#catalog-server-conf}
 
 Contains settings related to managing image catalogs.
@@ -22,4 +22,4 @@ Only settings listed below may be changed in [!DNL catalog-service.conf]. If a p
 
 `catalog.modificationWaitTime=5000`
 
-`catalog.refreshInterval=10000` 
+`catalog.refreshInterval=10000`

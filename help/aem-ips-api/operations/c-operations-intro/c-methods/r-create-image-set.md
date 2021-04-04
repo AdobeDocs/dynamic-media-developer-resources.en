@@ -4,8 +4,8 @@ solution: Experience Manager
 title: createImageSet
 feature: Dynamic Media Classic,SDK/API,Image Sets
 role: Developer,Administrator
+exl-id: 01ccc705-97e4-4e75-a322-e24bb78cb496
 ---
-
 # createImageSet{#createimageset}
 
 Creates an image set.
@@ -66,4 +66,3 @@ This code sample creates an image set specified by company, folder, name, and ty
 </createImageSetReturn>
 
 ```
-

@@ -5,8 +5,8 @@ title: Swatches.fmt
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 043196c8-63ab-439e-a28f-b76d1467f26e
 ---
-
 # Swatches.fmt{#swatches-fmt}
 
  `[Swatches.|<containerId>_swatches.]fmt=jpg|jpeg|png|png-alpha|gif|gif-alpha`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`fmt-png-alpha` 
+`fmt-png-alpha`

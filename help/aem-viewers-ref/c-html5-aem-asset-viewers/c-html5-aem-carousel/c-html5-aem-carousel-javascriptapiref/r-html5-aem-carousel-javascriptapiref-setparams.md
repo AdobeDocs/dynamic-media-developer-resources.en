@@ -7,8 +7,8 @@ title: setParams
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
+exl-id: 4bf3f8f8-73fe-4ab1-8005-aa49e4ffaba6
 ---
-
 # setParams{#setparams}
 
 JavaScript API reference for Carousel Viewer.
@@ -41,4 +41,3 @@ None.
 ```
 <instance>.setParams("CarouselView.fmt=png&CarouselView.iscommand=op_sharpen%3d1")
 ```
-

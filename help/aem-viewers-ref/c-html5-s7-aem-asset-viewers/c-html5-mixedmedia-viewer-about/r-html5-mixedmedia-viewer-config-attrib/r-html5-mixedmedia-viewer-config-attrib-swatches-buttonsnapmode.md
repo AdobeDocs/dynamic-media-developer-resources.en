@@ -5,8 +5,8 @@ title: Swatches.buttonsnapmode
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 3be4a886-cc33-42f8-8f0a-e41d8dd5da33
 ---
-
 # Swatches.buttonsnapmode{#swatches-buttonsnapmode}
 
  `[Swatches.|<containerId>_swatches.]buttonsnapmode=snapin|snapout|overlay`
@@ -38,4 +38,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`buttonsnapmode=overlay` 
+`buttonsnapmode=overlay`

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Metadata Field Types
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
+exl-id: cbbe55f2-bd22-44f5-9440-f58fb45b8d9a
 ---
-
 # Metadata Field Types{#metadata-field-types}
 
 Used by MetadataField/type, saveMetadataFieldParam/fieldType, and createMetadataField/fieldType.
@@ -30,4 +30,3 @@ Used by MetadataField/type, saveMetadataFieldParam/fieldType, and createMetadata
 
 * [!DNL `SingleTag`]: Any single string value. 
 * [!DNL `String`]
-

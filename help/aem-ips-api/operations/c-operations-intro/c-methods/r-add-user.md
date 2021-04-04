@@ -4,8 +4,8 @@ solution: Experience Manager
 title: addUser
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: aed39e73-f528-4c26-8f62-c3d796e9101a
 ---
-
 # addUser{#adduser}
 
 Creates a user account and adds that account to one or more companies.
@@ -67,4 +67,3 @@ The IPS API returns a user handle element that specifies the new user.
    <ns1:userHandle>525s|juser@scene7.com</ns1:userHandle>
 </ns1:addUserReturn>
 ```
-

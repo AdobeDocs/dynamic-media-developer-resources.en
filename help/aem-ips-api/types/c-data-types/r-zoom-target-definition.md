@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ZoomTargetDefinition
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 57916dec-8676-41aa-834b-37775a0f6d02
 ---
-
 # ZoomTargetDefinition{#zoomtargetdefinition}
 
 Zoom target definition.
@@ -22,4 +22,3 @@ Zoom target definition.
 |  `*`width`*`  | `xsd:int`  | Zoom target width.  |
 |  `*`height`*`  | `xsd:int`  | Zoom target height.  |
 |  `*`userData`*`  | `xsd:string`  | Associated user data.  |
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getGroupMembership
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 847e4982-219d-47fd-b94c-f7d520ba1367
 ---
-
 # getGroupMembership{#getgroupmembership}
 
 Returns the members of a group.
@@ -57,4 +57,3 @@ This code sample returns all the members of a group. Because the company and use
       <items>
          <groupHandle>225</groupHandle><companyHandle>47</companyHandle><name>MyGroup</name><isSystemDefined>false</isSystemDefined></items></groupArray></getGroupMembershipReturn>
 ```
-

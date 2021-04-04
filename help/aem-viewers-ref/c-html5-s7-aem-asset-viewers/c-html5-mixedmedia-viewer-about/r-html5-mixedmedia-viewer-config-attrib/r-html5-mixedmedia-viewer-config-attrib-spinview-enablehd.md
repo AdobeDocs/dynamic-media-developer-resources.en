@@ -5,8 +5,8 @@ title: SpinView.enableHD
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 0a2abdc6-eae5-4dda-b749-599cd8a07a98
 ---
-
 # SpinView.enableHD{#spinview-enablehd}
 
  ` [SpinView.|<containerId>_spinView.]enableHD=always|never|limit[, *`number`*]`
@@ -34,4 +34,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`enableHD=always` 
+`enableHD=always`

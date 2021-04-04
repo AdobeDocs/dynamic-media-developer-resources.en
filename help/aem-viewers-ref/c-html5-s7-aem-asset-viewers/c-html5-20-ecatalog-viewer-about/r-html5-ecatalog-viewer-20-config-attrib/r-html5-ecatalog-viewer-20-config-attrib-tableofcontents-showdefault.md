@@ -5,8 +5,8 @@ title: TableOfContents.showdefault
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: 1c700d12-4bea-4b87-91c1-f615c3dceb79
 ---
-
 # TableOfContents.showdefault{#tableofcontents-showdefault}
 
 `[TableOfContents.|<containerId>_tableOfContents.]showdefault=0|1`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-41c69a5b36b84d8889b8f4fbd2d4cdad}
 
-`showdefault=0` 
+`showdefault=0`

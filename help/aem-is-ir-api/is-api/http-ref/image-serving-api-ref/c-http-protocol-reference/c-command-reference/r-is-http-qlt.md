@@ -4,8 +4,8 @@ solution: Experience Manager
 title: qlt
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: c2a611a8-f331-4e01-a262-34340ce67b21
 ---
-
 # qlt{#qlt}
 
 JPEG quality. Specifies JPEG encoding attributes to control the compression level. This in turn varies the file size (amount of the reply data), and, indirectly, the visual quality of the resultant image.
@@ -49,4 +49,4 @@ Increase quality for high-bandwidth connections:
 
 ## See also {#section-0074a060bb314ddfa7f4ed23be976507}
 
-[fmt=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-is-http-fmt.md#reference-cdf10043423b45ba9fe15157fb3ae37a) , [attribute::JpegQuality](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-jpegquality.md#reference-4a879e7c46024c8a898a9fd226f9eb09) 
+[fmt=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-is-http-fmt.md#reference-cdf10043423b45ba9fe15157fb3ae37a) , [attribute::JpegQuality](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-jpegquality.md#reference-4a879e7c46024c8a898a9fd226f9eb09)

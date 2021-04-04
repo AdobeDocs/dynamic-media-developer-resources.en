@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Solid color layer commands
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: e7a14c5f-9479-4df0-beef-c5792dcc5a25
 ---
-
 # Solid color layer commands{#solid-color-layer-commands}
 
 These commands apply to solid color layers, in addition to the common layer commands.
@@ -16,4 +16,3 @@ These commands apply to solid color layers, in addition to the common layer comm
   <td class="stentry"> <p>Specifies an optional layer mask. </p></td> 
  </tr> 
 </table>
-

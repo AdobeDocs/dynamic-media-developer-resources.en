@@ -4,8 +4,8 @@ solution: Experience Manager
 title: scale
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 89701a15-a0b6-460d-b0c1-5e25f3305380
 ---
-
 # scale{#scale}
 
 Scale image. Scales an image by factor relative to the full-resolution image.
@@ -25,4 +25,4 @@ If not specified, the image is used without scaling.
 
 ## Example {#section-d5526953d6434c58bb2388bd936c13b5}
 
-[!DNL http://server/is/agm/myRootId/myImageId?scale=.5] 
+[!DNL http://server/is/agm/myRootId/myImageId?scale=.5]

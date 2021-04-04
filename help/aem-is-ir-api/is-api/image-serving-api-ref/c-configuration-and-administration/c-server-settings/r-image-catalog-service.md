@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Image catalog service
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: c089ef35-47a1-4921-8a5e-1ca78f29794d
 ---
-
 # Image catalog service{#image-catalog-service}
 
 Use these server settings for the Image catalog service.
@@ -24,4 +24,4 @@ Time in msec the catalog service waits after a [!DNL catalog.ini] file is change
 
 ## CS::catalog.refreshInterval - Catalog File Check Frequency {#section-517fefc1d8784777a1026abec8630d58}
 
-Frequency at which the catalog service will check for changes to image catalogs. Integer value in msec. 
+Frequency at which the catalog service will check for changes to image catalogs. Integer value in msec.

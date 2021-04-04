@@ -4,8 +4,8 @@ solution: Experience Manager
 title: createDerivedAsset
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: a3b20a8a-ed0d-40be-9a8c-41ba09b1d724
 ---
-
 # createDerivedAsset{#createderivedasset}
 
 Creates a new asset derived from an existing primary source image asset.
@@ -72,4 +72,3 @@ The sample code creates a derived asset with an adjusted view and `urlModifier` 
    <assetHandle>a|944|10|2</assetHandle>
 </createDerivedAssetReturn>
 ```
-

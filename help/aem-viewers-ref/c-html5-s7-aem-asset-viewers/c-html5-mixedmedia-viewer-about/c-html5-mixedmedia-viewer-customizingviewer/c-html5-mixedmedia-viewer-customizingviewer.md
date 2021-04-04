@@ -8,8 +8,8 @@ title: Customizing Mixed Media Viewer
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 3bea8efb-faf8-4909-b51a-0b9964fcd735
 ---
-
 # Customizing Mixed Media Viewer{#customizing-mixed-media-viewer}
 
 All visual customization and most behavior customization for the Mixed Media Viewer is done by creating a custom CSS.
@@ -183,4 +183,4 @@ background-position: -0px -560px;
 
 ## Common User Interface Elements {#section-d6330c9be8c444aa9b2a07886e3dbc2a}
 
-The following is user interface elements reference documentation that applies to Mixed Media Viewer: 
+The following is user interface elements reference documentation that applies to Mixed Media Viewer:

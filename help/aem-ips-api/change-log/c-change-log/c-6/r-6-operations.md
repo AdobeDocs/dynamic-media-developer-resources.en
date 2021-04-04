@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Operations  New and Modified
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: fc7af77e-17fc-453a-8949-78c9c5c33b34
 ---
-
 # Operations: New and Modified{#operations-new-and-modified}
 
 Describes new and changed operations methods for the IPS API version 6.
@@ -79,4 +79,3 @@ Describes new and changed operations methods for the IPS API version 6.
 
 * Removed `getXMPPanelViewDefinition`. 
 * Removed `searchAssetsByFulltext` and `searchAssetsBySimilarity`.
-

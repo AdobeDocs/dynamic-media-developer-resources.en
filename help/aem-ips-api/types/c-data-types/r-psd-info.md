@@ -4,8 +4,8 @@ solution: Experience Manager
 title: PsdInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 620cf7a3-ae69-4d1e-af3d-64fe7f0302c8
 ---
-
 # PsdInfo{#psdinfo}
 
 Photoshop file properties.
@@ -21,4 +21,3 @@ Photoshop file properties.
 |  `*`optimizedPath`*`  | `xsd:string`  | File path.  |
 |  `*`optimizedFile`*`  | `xsd:string`  | File name.  |
 |  `*`fileSize`*`  | `xsd:int`  | File size.  |
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: PhotoshopLayerOptions
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: fae60e86-6ec5-4f19-a76f-7d179dfb5dba
 ---
-
 # PhotoshopLayerOptions{#photoshoplayeroptions}
 
 Photoshop image layer options.
@@ -21,4 +21,3 @@ Photoshop image layer options.
 |  `*`createTemplate`*`  | `xsd:boolean`  | Whether to create a template from Photoshop layers.  |
 |  `*`extractText`*`  | `xsd:boolean`  | Whether to extract text as text layers.  |
 |  `*`extendLayers`*`  | `xsd:boolean`  | Whether to extend layers to full size of background.  |
-

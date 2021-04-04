@@ -4,8 +4,8 @@ solution: Experience Manager
 title: setUserInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: d8f8fe53-a874-4b77-9084-9a369862a672
 ---
-
 # setUserInfo{#setuserinfo}
 
 Sets user attributes (e.g., name, email, role, etc.)
@@ -54,4 +54,4 @@ The IPS API does not return a response for this operation.
 
 **Response**
 
-None. 
+None.

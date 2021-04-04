@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Color handling
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 590ed0f1-8d78-4afc-ac9e-c28272cd24a6
 ---
-
 # Color handling{#color-handling}
 
 The RTF specification permits RGB color values specified with `\colortbl`. Each component is provided separately with the `\red`, `\green`, and `\blue` commands.
@@ -34,4 +34,4 @@ Color selections are ignored when rendering Photofonts.
 
 Allow three text colors to be controlled with variables, while still displaying the color default value when the RTF string is opened in a standard RTF text editor.
 
-`…&$c1=ff0000&$c2=00ff00&$c3=0000ff&textPs={{\*\iscolortbl;$c1$;$c2$;$c3$;}{\colortbl;\red255;\green0;\blue0;\red0;\green255;\blue0;\red0;\green0;\blue255;}…}…` 
+`…&$c1=ff0000&$c2=00ff00&$c3=0000ff&textPs={{\*\iscolortbl;$c1$;$c2$;$c3$;}{\colortbl;\red255;\green0;\blue0;\red0;\green255;\blue0;\red0;\green0;\blue255;}…}…`

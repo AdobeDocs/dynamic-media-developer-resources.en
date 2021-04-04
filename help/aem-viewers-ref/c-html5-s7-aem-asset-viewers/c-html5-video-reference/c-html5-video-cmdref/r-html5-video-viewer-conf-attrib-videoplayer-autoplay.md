@@ -7,8 +7,8 @@ title: VideoPlayer.autoplay
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
+exl-id: ec0bb98a-7c0b-4ed7-b47d-7c103b6a5943
 ---
-
 # VideoPlayer.autoplay{#videoplayer-autoplay}
 
 Configuration attribute for Video Viewer.
@@ -37,4 +37,3 @@ Optional.
 ```
 autoplay=1
 ```
-

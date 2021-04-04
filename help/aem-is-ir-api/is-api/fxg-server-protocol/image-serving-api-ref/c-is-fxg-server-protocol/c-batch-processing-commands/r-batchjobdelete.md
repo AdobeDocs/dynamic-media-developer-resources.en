@@ -4,8 +4,8 @@ solution: Experience Manager
 title: batchjobdelete
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 9aca6693-32ac-4abd-9595-95bce60050ec
 ---
-
 # batchjobdelete{#batchjobdelete}
 
 Delete the output of a job.
@@ -27,4 +27,4 @@ Status of job at the time the deletion request was received, error if `jobid` is
 
 ## Example {#section-e0df8fc8e6554ba58e1fa937b8241ecf}
 
-[!DNL http://scene7.adobe.com:8080/is/agm/AcmeCorp?req=batchjobdelete&jobid=1005907604914d8eb63126b98f7172n76a5] 
+[!DNL http://scene7.adobe.com:8080/is/agm/AcmeCorp?req=batchjobdelete&jobid=1005907604914d8eb63126b98f7172n76a5]

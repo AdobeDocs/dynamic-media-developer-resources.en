@@ -4,8 +4,8 @@ solution: Experience Manager
 title: pathAttr
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: fdf9274a-70d0-4692-a7a9-c108abb9ab84
 ---
-
 # pathAttr{#pathattr}
 
 Text-on-path attributes.
@@ -43,4 +43,4 @@ Layer attribute. Ignored if the layer does not include `textPs=` and `textPath=`
 
 ## See also {#section-b869745de1da4ef996dfda4af39ed14d}
 
-[textPath=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-textpath.md#reference-b09cc0902dff4725bdb54d5da4076ccd) , [textPs=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-textps.md#reference-4209a2a6169f44278da2647cfb0cd767) 
+[textPath=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-textpath.md#reference-b09cc0902dff4725bdb54d5da4076ccd) , [textPs=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-textps.md#reference-4209a2a6169f44278da2647cfb0cd767)

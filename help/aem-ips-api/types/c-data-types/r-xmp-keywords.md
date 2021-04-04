@@ -4,8 +4,8 @@ solution: Experience Manager
 title: XmpKeywords
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: f1ad16c8-cba2-4ef0-9558-6a4086c71393
 ---
-
 # XmpKeywords{#xmpkeywords}
 
 The extensible metadata platform keywords of an asset.
@@ -30,4 +30,3 @@ The extensible metadata platform keywords of an asset.
   </tr> 
  </tbody> 
 </table>
-

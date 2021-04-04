@@ -5,8 +5,8 @@ title: ZoomView.rgn
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
+exl-id: fa978c5f-2473-4c2c-ac3e-6273283825e3
 ---
-
 # ZoomView.rgn{#zoomview-rgn}
 
  ` [ZoomView.|<containerId>_zoomView.]rgn= *`x`*, *`y`*, *`w`*, *`h`*`
@@ -30,4 +30,4 @@ None.
 
 ## Example {#section-96e69b70365f461dae4399e49044ea2f}
 
-`rgn=0,0,500,500` 
+`rgn=0,0,500,500`

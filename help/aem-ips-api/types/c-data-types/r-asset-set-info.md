@@ -4,8 +4,8 @@ solution: Experience Manager
 title: AssetSetInfo
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: ca5e4d7d-24b3-4b4b-b350-ded83f94528b
 ---
-
 # AssetSetInfo{#assetsetinfo}
 
 Properties for AssetSet type assets.
@@ -17,4 +17,3 @@ Properties for AssetSet type assets.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`setDefinition`*`  | `xsd:string`  | Asset set definition formatted according to the requirements of the targeted IS Viewer. Can contain optional IPS substitution parameters.  |
-

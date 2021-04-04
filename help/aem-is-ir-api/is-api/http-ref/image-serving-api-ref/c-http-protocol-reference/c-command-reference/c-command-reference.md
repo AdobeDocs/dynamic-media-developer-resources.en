@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Command reference
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 959cb193-d0b7-4aa9-a747-fa17484f80c7
 ---
-
 # Command reference{#command-reference}
 
 This section describes the HTTP protocol commands.

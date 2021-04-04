@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Operation parameters
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 70ea84ce-10ec-4a89-bd0a-ab81b4e88f5c
 ---
-
 # Operation parameters{#operation-parameters}
 
 * [addCompany](r-add-company.md)

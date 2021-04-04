@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ClientAddressFilter
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 028cef35-2862-452c-872c-b953e8ccb195
 ---
-
 # ClientAddressFilter{#clientaddressfilter}
 
 Client IP address filter. Allows specification of one or more IP addresses or address ranges.
@@ -47,4 +47,4 @@ Grant access to a single IP address: `192.168.2.117` or `192.168.2.117/32`
 
 ## See also {#section-4ea89a7d82e14a4a800487d2d8801465}
 
-[addressfilter](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-rule-set-reference/r-addressfilter-rule.md#reference-48c369f56ecd4034b410da5a94a9dfd1) 
+[addressfilter](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-rule-set-reference/r-addressfilter-rule.md#reference-48c369f56ecd4034b410da5a94a9dfd1)

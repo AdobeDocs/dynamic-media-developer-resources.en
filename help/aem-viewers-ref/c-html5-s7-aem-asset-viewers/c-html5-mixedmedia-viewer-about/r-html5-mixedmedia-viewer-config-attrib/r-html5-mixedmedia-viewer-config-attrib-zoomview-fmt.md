@@ -5,8 +5,8 @@ title: ZoomView.fmt
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: f13faa03-3b69-4cae-aaf5-55edd4aa5c84
 ---
-
 # ZoomView.fmt{#zoomview-fmt}
 
  `[ZoomView.|<containerId>_zoomView.]fmt=jpg|jpeg|png|png-alpha|gif|gif-alpha`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`fmt=png-alpha` 
+`fmt=png-alpha`

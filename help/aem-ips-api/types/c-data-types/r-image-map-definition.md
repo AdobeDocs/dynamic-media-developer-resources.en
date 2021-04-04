@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ImageMapDefinition
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 58478e7c-e3a1-4dd5-8ff9-e9752301b93c
 ---
-
 # ImageMapDefinition{#imagemapdefinition}
 
 Target definition for a click action in the browser.
@@ -21,4 +21,3 @@ Target definition for a click action in the browser.
 |  `*`region`*`  | `xsd:string`  |Image map coordinates. The format is based on the HTML `<area>` tag attributes.  |
 |  `*`action`*`  | `xsd:string`  |Other attributes to include in the HTML `<area>` tag, including the `href` URL.  |
 |  `*`enabled`*`  | `xsd:boolean`  | True if the image map is enabled.  |
-

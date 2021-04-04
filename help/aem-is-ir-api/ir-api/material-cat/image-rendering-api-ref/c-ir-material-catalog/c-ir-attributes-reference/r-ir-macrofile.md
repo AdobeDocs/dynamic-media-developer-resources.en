@@ -4,8 +4,8 @@ solution: Experience Manager
 title: MacroFile
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 5b926246-54c5-40ca-a8d3-d1a1411d8931
 ---
-
 # MacroFile{#macrofile}
 
 Macro definitions file path. Specifies the file which contains the macro definitions for this material catalog.
@@ -20,4 +20,4 @@ Empty, which indicates that this material catalog does not have private macro de
 
 ## See also {#section-22638a9ff5e9493ea93222e5f49febde}
 
-[Macro Definitions](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-macro-definition-reference/c-ir-macro-definition-reference.md#concept-477b77fa187147bfa55fa67134d4a453) 
+[Macro Definitions](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-macro-definition-reference/c-ir-macro-definition-reference.md#concept-477b77fa187147bfa55fa67134d4a453)

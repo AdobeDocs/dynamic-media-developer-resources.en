@@ -7,8 +7,8 @@ title: Close button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
+exl-id: e2f8e45a-5b24-45fa-a009-fc3221a65c15
 ---
-
 # Close button{#close-button}
 
 Clicking or tapping this button closes the containing web page. This button only appears if the closebutton parameter is set to 1. You can size, skin, and position this button by using CSS.
@@ -94,4 +94,3 @@ background-image:url(images/v2/CloseButton_dark_down.png);
 background-image:url(images/v2/CloseButton_dark_disabled.png); 
 }
 ```
-

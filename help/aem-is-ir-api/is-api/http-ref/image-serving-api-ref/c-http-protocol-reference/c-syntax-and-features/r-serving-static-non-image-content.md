@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Serving static (non-image) content
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: e2c79bdc-5d70-46d9-85f4-ffebd7621944
 ---
-
 # Serving static (non-image) content{#serving-static-non-image-content}
 
 Image Serving provides a mechanism to manage non-image contents in catalogs and serve it via a separate `context /is/content`. The mechanism allows for configuring the TTL for each item separately.
@@ -111,4 +111,4 @@ This mechanism can help ensure that clients receive only contents appropriate fo
 
 ## See also {#section-91c7b686aacf4d3ca974f35a3fe3d6ec}
 
-[type=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-type.md#reference-89094fd1c50c444eb082cd266769cccb) , [req=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-req/r-req.md#reference-907cdb4a97034db7ad94695f25552e76), [Image Catalog Reference](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-overview/c-overview.md#concept-9ce2b6a133de45f783e95cabc5810ac3) 
+[type=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-type.md#reference-89094fd1c50c444eb082cd266769cccb) , [req=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-req/r-req.md#reference-907cdb4a97034db7ad94695f25552e76), [Image Catalog Reference](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-overview/c-overview.md#concept-9ce2b6a133de45f783e95cabc5810ac3)

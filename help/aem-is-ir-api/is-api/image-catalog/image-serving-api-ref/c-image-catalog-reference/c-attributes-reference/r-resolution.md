@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Resolution
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: ba55a3b6-9f8b-4b69-8604-f0893f56eb5d
 ---
-
 # Resolution{#resolution}
 
 Default object resolution. Provides a default object resolution in case a particular catalog record does not contain a valid catalog::Resolution value.
@@ -20,4 +20,4 @@ Inherited from `default::Resolution` if not defined or if empty.
 
 ## See also {#section-dffa1f318fd84833b74d08d09c24c974}
 
-[catalog::Resolution](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-resolution-cat.md#reference-de489f5f36b64bd0831749546f8728e1) 
+[catalog::Resolution](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-resolution-cat.md#reference-de489f5f36b64bd0831749546f8728e1)

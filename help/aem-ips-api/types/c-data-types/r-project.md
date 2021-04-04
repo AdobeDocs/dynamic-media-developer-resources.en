@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Project
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: be85f9b7-07a0-42e9-8391-45371a1ecaa6
 ---
-
 # Project{#project}
 
 Set of named assets.
@@ -18,4 +18,3 @@ Set of named assets.
 |---|---|---|
 |  `*`project Handle`*`  | `xsd:string`  | Project handle.  |
 |  `*`name`*`  | `xsd:string`  | Project name.  |
-

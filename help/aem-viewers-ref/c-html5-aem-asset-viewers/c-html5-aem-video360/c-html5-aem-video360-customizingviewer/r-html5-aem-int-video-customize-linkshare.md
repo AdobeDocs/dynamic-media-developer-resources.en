@@ -7,8 +7,8 @@ title: Link share
 
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
+exl-id: 9eb2ef38-9b86-4c60-90a2-6609cb3fcc39
 ---
-
 # Link share{#link-share}
 
 Link share tool consists of a button added to the Social share panel and the modal dialog box that displays when the tool is activated. The position of the button is fully managed by the Social share tool.
@@ -709,4 +709,3 @@ The share link itself is controlled with the following CSS class selector:
     width: 450px; 
 }
 ```
-

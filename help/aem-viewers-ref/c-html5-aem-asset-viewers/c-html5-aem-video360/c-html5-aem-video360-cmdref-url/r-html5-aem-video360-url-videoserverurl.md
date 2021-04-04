@@ -7,8 +7,8 @@ title: videoServerUrl
 
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
+exl-id: 76204d0a-449b-4fe5-a2aa-36739fab482f
 ---
-
 # videoServerUrl{#videoserverurl}
 
 URL command for Video360 Viewer.
@@ -37,4 +37,3 @@ Optional. Not needed for standard SaaS usage.
 ```
 videoServerUrl=http://s7d9.scene7.com/is/content/
 ```
-

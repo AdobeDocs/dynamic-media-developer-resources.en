@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Default request attributes
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: b706595d-8c3a-438a-8806-e3d85b1bdadb
 ---
-
 # Default request attributes{#default-request-attributes}
 
 Catalog attribute files recognize these default request attributes.
@@ -50,4 +50,3 @@ Catalog attribute files recognize these default request attributes.
   </tr> 
  </tbody> 
 </table>
-

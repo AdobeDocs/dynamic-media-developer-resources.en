@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getAutoCropRect
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: e291597a-b863-42dd-88dc-13398b734410
 ---
-
 # getAutoCropRect{#getautocroprect}
 
 Returns a cropped region for an image based on its background color or transparency.

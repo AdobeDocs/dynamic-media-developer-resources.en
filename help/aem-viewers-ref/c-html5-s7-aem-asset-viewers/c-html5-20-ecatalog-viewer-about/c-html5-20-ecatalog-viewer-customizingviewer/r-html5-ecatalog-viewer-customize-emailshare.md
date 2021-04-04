@@ -7,8 +7,8 @@ title: Email share
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: 4c72500b-9750-4fae-9447-96cf600b31c7
 ---
-
 # Email share{#email-share}
 
 Email share tool consists of a button added to the Social share panel and the modal dialog box which displays when the tool is activated. The position of the button is fully managed by the Social share tool.
@@ -1473,4 +1473,3 @@ background-image:url(images/sdk/scroll_up_up.png);
  background-image:url(images/sdk/scroll_down_disabled.png); 
 }
 ```
-

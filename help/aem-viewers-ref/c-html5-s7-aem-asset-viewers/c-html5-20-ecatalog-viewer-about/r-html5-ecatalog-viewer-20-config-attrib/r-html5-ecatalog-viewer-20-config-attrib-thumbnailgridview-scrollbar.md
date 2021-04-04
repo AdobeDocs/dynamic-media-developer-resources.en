@@ -5,8 +5,8 @@ title: ThumbnailGridView.scrollbar
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: 9185d752-1fd8-45c3-8361-e5ee803e87d5
 ---
-
 # ThumbnailGridView.scrollbar{#thumbnailgridview-scrollbar}
 
 `[ThumbnailGridView.|<containerId>_gridView.]scrollbar=0|1`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-f74d8ab01f9a487d88ecd69b7c287ddc}
 
-`scrollbar=0` 
+`scrollbar=0`

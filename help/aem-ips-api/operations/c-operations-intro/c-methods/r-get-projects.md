@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getProjects
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: d7262ed7-7419-4d6b-86ed-f3ad4657d654
 ---
-
 # getProjects{#getprojects}
 
 Gets projects for a group of related assets.
@@ -63,4 +63,3 @@ This code sample returns all project handles in a project array.
    </projectArray>
 </getProjectsReturn>
 ```
-

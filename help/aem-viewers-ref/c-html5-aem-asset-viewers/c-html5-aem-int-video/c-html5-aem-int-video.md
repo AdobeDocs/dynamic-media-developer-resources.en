@@ -7,8 +7,8 @@ title: Interactive Video
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: e54b0b1f-b015-4592-82e2-99f5080543e3
 ---
-
 # Interactive Video{#interactive-video}
 
 Interactive Video Viewer is a video player that plays streaming and progressive video encoded in the H.264 format.
@@ -383,4 +383,3 @@ interactiveVideoViewer.init();
 </body> 
 </html>
 ```
-

@@ -6,8 +6,8 @@ title: Localization of user interface elements
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,Business Practitioner
+exl-id: 19749c74-5c31-4dcf-ab07-0e7f10176a86
 ---
-
 # Localization of user interface elements{#localization-of-user-interface-elements}
 
 Certain content that the Interactive Image Viewer displays is subject to localization. This includes user interface element tool tips and an information message that is displayed by the flyout zoom view on load.
@@ -60,4 +60,3 @@ The following SYMBOLs are supported:
   </tr> 
  </tbody> 
 </table>
-

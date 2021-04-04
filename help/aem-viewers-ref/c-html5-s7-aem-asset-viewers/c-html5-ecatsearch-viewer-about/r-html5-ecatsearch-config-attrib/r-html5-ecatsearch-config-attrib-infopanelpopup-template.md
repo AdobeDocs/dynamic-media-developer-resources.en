@@ -5,8 +5,8 @@ title: InfoPanelPopup.template
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: b792cddb-f3d2-4609-95b7-105d76fb3d6f
 ---
-
 # InfoPanelPopup.template{#infopanelpopup-template}
 
 `[InfoPanelPopup.|<containerId>_infoPanelPopup.]template= *`template`*`

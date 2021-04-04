@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getGenerationInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: fa098e3c-8145-4238-a84c-c545f1c53341
 ---
-
 # getGenerationInfo{#getgenerationinfo}
 
 Returns 2 different types of information based on the parameters passed in. originatorHandle returns information about assets generated from the specified asset. generateHandle returns information about steps used to generate the specified asset or file.
@@ -71,4 +71,3 @@ This code sample returns information about assets generated from a specific asse
    </generationArray>
 </getGenerationInfoReturn>
 ```
-

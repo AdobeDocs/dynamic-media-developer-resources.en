@@ -7,8 +7,8 @@ title: createPropertySetType
 
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 1730ccbf-e8b0-4f92-9daf-da2fa047cbbd
 ---
-
 # createPropertySetType{#createpropertysettype}
 
 A property set type specifies various settings used to help manage property sets.
@@ -59,4 +59,3 @@ This code sample creates a property set with a name and type specified by the `P
 </createPropertySetTypeReturn>
 
 ```
-

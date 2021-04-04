@@ -5,8 +5,8 @@ title: Swatches.pagemode
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,Business Practitioner
+exl-id: 6d6aa024-2a31-4119-8bb3-feb02d838941
 ---
-
 # Swatches.pagemode{#swatches-pagemode}
 
  `[Swatches.|<containerId>_swatches.]pagemode=0|1`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-0338be21edd04ff1a3bed5c8319b61a4}
 
-`pagemode=1` 
+`pagemode=1`

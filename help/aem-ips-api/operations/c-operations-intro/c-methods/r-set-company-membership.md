@@ -4,8 +4,8 @@ solution: Experience Manager
 title: setCompanyMembership
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 43144c75-1d83-4e1d-8319-c3275d349a2f
 ---
-
 # setCompanyMembership{#setcompanymembership}
 
 Sets a user’s membership in one or more companies.
@@ -49,4 +49,4 @@ This code sample adds a user to a company. Specify multiple companies in the com
 
 **Response**
 
-None. 
+None.

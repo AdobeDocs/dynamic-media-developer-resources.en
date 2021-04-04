@@ -4,8 +4,8 @@ solution: Experience Manager
 title: saveToFile
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 10a8ea5c-7e64-4d99-a263-779f08ea6e37
 ---
-
 # saveToFile{#savetofile}
 
 Save image to file.
@@ -60,4 +60,4 @@ Important Saving to files must be enabled by specifying the path to an existing 
 
 *`file`* is required and must be a relative path which is combined with `attribute::SavePath`. Image Serving does not create folders. The target folder must exist on the server and have the appropriate permission settings for Image Serving to create files.
 
-`timeout=` is optional. The default timeout is 60,000 msec, or whichever value is configured with `PS::SaveTimeout`. 
+`timeout=` is optional. The default timeout is 60,000 msec, or whichever value is configured with `PS::SaveTimeout`.

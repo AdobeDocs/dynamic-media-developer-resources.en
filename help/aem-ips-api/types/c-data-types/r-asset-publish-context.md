@@ -4,8 +4,8 @@ solution: Experience Manager
 title: AssetPublishContexts
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: fa94e3ce-b210-4d0d-88f1-0b245d5a52b5
 ---
-
 # AssetPublishContexts{#assetpublishcontexts}
 
 Maps an asset to the PublishContexts in which an asset is marked for publication.
@@ -18,4 +18,3 @@ Maps an asset to the PublishContexts in which an asset is marked for publication
 |---|---|---|
 |  `*`assetHandle`*`  | `xsd:string`  | Handle to the asset.  |
 |  `*`publishContextArray`*`  | `types:PublishContextArray`  | An array of publish contexts in which the asset is marked for publication.  |
-

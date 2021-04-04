@@ -4,8 +4,8 @@ solution: Experience Manager
 title: PsName
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 8d48dead-e544-4fd1-8e8a-70933389b668
 ---
-
 # PsName{#psname}
 
 Postscript font face name. The Postscript font face name.
@@ -22,4 +22,4 @@ None.
 
 ## See also {#section-0051fb6bbdb14b47886dc44d61b78cf8}
 
-[font::Name](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-font-map-reference/r-name-font.md) 
+[font::Name](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-font-map-reference/r-name-font.md)

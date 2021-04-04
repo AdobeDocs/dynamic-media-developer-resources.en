@@ -7,8 +7,8 @@ title: InteractiveSwatches.autoscroll
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: 5a7272fe-e753-44cd-aaf0-0811a2662279
 ---
-
 # InteractiveSwatches.autoscroll{#interactiveswatches-autoscroll}
 
 Configuration attribute for Interactive Video Viewer.
@@ -37,4 +37,3 @@ Optional.
 ```
 autoscroll=0
 ```
-

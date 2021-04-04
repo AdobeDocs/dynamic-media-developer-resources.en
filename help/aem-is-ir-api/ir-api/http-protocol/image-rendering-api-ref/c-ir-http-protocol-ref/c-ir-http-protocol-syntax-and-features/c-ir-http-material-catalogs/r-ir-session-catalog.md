@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Session catalog
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 36e0571e-7451-423f-a1df-540680381902
 ---
-
 # Session catalog{#session-catalog}
 
 The session catalog is the material catalog which provides session attributes for the request, as well as a default catId value for all src=, vignette=, and icc= commands.
@@ -80,4 +80,3 @@ The session catalog provides the following session default values:
   </tr> 
  </tbody> 
 </table>
-

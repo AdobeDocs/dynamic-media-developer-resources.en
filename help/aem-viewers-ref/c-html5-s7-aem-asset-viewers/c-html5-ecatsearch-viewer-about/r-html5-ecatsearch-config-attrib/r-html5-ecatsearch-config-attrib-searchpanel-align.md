@@ -5,8 +5,8 @@ title: SearchPanel.align
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: 772b2789-4152-4320-893d-efc39689424b
 ---
-
 # SearchPanel.align{#searchpanel-align}
 
  [!DNL `[SearchPanel.|<containerId>_searchPanel.]align=left|center|right,top|center|bottom`]
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
-[!DNL `align=left,top`] 
+[!DNL `align=left,top`]

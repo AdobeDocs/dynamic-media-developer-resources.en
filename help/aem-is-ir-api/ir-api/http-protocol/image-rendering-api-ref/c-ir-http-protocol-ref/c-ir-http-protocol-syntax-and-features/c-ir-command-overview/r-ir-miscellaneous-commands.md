@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Miscellaneous commands
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: b77f30bf-6991-45e5-a0c0-43db7f4130bd
 ---
-
 # Miscellaneous commands{#miscellaneous-commands}
 
 These commands are also available.
@@ -27,4 +27,3 @@ These commands are also available.
   <td class="stentry"></td> 
  </tr> 
 </table>
-

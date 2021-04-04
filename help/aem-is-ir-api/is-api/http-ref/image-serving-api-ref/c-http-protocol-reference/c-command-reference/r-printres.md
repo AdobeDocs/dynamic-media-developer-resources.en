@@ -4,8 +4,8 @@ solution: Experience Manager
 title: printRes
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 81c4c3b8-946d-401b-a279-ba3f426ea5a4
 ---
-
 # printRes{#printres}
 
 Print resolution. Overrides the print resolution value embedded in the response image.
@@ -33,4 +33,4 @@ Request attribute. Applies regardless of the current layer setting.
 
 ## See also {#section-4c479b6d6ccd41fc9ce8b239a28e726d}
 
-[catalog::PrintResolution](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-printresolution-cat.md#reference-4ebb2e136995470b84b7c5e10cb8e5f5) 
+[catalog::PrintResolution](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-printresolution-cat.md#reference-4ebb2e136995470b84b7c5e10cb8e5f5)

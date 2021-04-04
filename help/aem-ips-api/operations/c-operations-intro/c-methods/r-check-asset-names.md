@@ -4,8 +4,8 @@ solution: Experience Manager
 title: checkAssetNames
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 0756c4fc-64ec-4022-a6aa-fcf1542b41b0
 ---
-
 # checkAssetNames{#checkassetnames}
 
 Checks for IPS ID conflicts by comparing asset names against all names a company's Image Serving/Image Rendering catalog namespace.
@@ -63,4 +63,3 @@ This sample code requests the asset names in use for a specified company. The re
    </inUseNameArray>
 </checkAssetNamesReturn>
 ```
-

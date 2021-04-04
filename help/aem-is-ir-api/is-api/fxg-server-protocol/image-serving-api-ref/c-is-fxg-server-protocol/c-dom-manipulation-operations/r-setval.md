@@ -4,8 +4,8 @@ solution: Experience Manager
 title: setVal
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 03ec2ffb-ad9a-4135-bc31-2d71284955f6
 ---
-
 # setVal{#setval}
 
 Set text node value for s7:elementID.
@@ -20,4 +20,4 @@ Assume a `s7:elementID="paragraph1"` attribute is defined for a `TextGraphic` no
 
 `&setVal.paragraph=Hello`
 
-This example sets the text value for the paragraph node to "Hello." 
+This example sets the text value for the paragraph node to "Hello."

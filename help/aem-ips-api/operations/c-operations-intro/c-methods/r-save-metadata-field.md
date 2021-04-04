@@ -4,8 +4,8 @@ solution: Experience Manager
 title: saveMetadataField
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
+exl-id: 56a45324-5027-4375-a790-c965f682e4b9
 ---
-
 # saveMetadataField{#savemetadatafield}
 
 Create or edit a metadata field. Omit the optional field handle to create a new metadata field.
@@ -115,4 +115,3 @@ This code sample creates a new metadata field constrained by the Asset Type and 
    <fieldHandle>47|ALL|Resolution</fieldHandle>
 </saveMetadataFieldReturn>
 ```
-

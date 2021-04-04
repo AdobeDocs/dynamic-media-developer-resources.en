@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Installing for the first time
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: f27e6b27-641c-4a88-9ed0-94ada9ba75a9
 ---
-
 # Installing for the first time{#installing-for-the-first-time}
 
 This procedure shows how to install Image Serving for the first time on Linux.
@@ -65,4 +65,4 @@ This procedure shows how to install Image Serving for the first time on Linux.
 
 >[!NOTE]
 >
->If the license is installed after installing Image Serving, the Image Server must be started manually before use. 
+>If the license is installed after installing Image Serving, the Image Server must be started manually before use.

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: TaskItemProgress
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 568a5601-b928-447d-8297-01139f36cf73
 ---
-
 # TaskItemProgress{#taskitemprogress}
 
 Task item progress information.
@@ -20,4 +20,3 @@ Task item progress information.
 |  `*`progress`*`  | `xsd:double`  | Progress complete %.  |
 |  `*`progressMessage`*`  | `xsd:string`  | Process message.  |
 |  `*`lastProgressUpdate`*`  | `xsd:dateTime`  | Time of last update.  |
-

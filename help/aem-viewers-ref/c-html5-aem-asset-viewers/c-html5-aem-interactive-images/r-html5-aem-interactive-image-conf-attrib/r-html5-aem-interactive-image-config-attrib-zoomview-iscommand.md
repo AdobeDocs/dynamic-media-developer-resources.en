@@ -7,8 +7,8 @@ title: ZoomView.iscommand
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,Business Practitioner
+exl-id: 1c24973e-1daf-4d9d-b97c-fb6a18f506ed
 ---
-
 # ZoomView.iscommand{#zoomview-iscommand}
 
 The Image Serving command string that is applied to zoom image.
@@ -40,4 +40,4 @@ When specified in the viewer URL:
 
 When specified in the config data:
 
-`iscommand=op_sharpen=1&op_colorize=0xff0000` 
+`iscommand=op_sharpen=1&op_colorize=0xff0000`

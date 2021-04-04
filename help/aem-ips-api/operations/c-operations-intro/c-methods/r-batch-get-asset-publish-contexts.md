@@ -4,8 +4,8 @@ solution: Experience Manager
 title: batchGetAssetPublishContexts
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: ba1f62a7-2698-4300-b6de-6d07ac764b0c
 ---
-
 # batchGetAssetPublishContexts{#batchgetassetpublishcontexts}
 
 Returns the publish contexts for assets marked for publication.
@@ -92,4 +92,3 @@ Returns the publish contexts for assets marked for publication.
   </assetPublishContextsArray>
 </batchGetAssetPublishContextsReturn>
 ```
-

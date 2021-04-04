@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Source data
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: d7e9c101-8d34-4241-b03c-131f31c25933
 ---
-
 # Source data{#source-data}
 
 Image Serving source data files include image and mask files, fonts, and ICC profiles.
@@ -41,4 +41,4 @@ All `*`rootPath`*` segments can be empty, relative, or absolute path segments.
 
 `Multiple IS::RootPath` values can be defined in ImageServerRegistry.xml (or by way of the admin interface). This allows source data files to be distributed across multiple file systems. The Image Server will try alternate paths in the order specified until the data file is found.
 
-New data files of any kind can be added anytime without stopping the server. 
+New data files of any kind can be added anytime without stopping the server.

@@ -7,8 +7,8 @@ title: Control bar
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
+exl-id: 2239307a-4a05-4392-b35c-a64ea6c938ad
 ---
-
 # Control bar{#control-bar}
 
 The control bar is the rectangular area that contains and sits behind all the UI controls available for the video viewer, such as the play/pause button, volume controls, and so on.
@@ -58,4 +58,3 @@ height: 30px;
 background-color: rgb(51, 51, 51); 
 }
 ```
-

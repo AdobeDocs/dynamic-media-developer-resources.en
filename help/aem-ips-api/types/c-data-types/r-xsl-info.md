@@ -4,8 +4,8 @@ solution: Experience Manager
 title: XslInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 39fc2c37-80e8-42f5-aef1-9dca57bf8cff
 ---
-
 # XslInfo{#xslinfo}
 
 Properties of an XML transformation file asset.
@@ -19,4 +19,3 @@ Properties of an XML transformation file asset.
 |  `*`originalPath`*`  | `xsd:string`  | File path.  |
 |  `*`originalFile`*`  | `xsd:string`  | File name.  |
 |  `*`fileSize`*`  | `xsd:int`  | File size.  |
-

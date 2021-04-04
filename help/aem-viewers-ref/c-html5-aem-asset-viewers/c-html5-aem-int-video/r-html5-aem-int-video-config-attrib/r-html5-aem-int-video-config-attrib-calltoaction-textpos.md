@@ -7,8 +7,8 @@ title: CallToAction.textpos
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: f2356eb1-2f71-49b6-bb40-6cd332e6785b
 ---
-
 # CallToAction.textpos{#calltoaction-textpos}
 
 Configuration attribute for Interactive Video Viewer.
@@ -37,4 +37,3 @@ Optional.
 ```
 textpos=top
 ```
-

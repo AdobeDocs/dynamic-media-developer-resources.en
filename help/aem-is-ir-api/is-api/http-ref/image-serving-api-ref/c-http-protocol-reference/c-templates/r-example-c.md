@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Example C
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 70232055-2a4c-4e56-8076-3cd56a9004c5
 ---
-
 # Example C{#example-c}
 
 Create a "paper doll" layering application.
@@ -45,4 +45,3 @@ http://server/myApp/mannequin.tif?&hei=400&qlt=90&
  layer= 1&scale=0.3423&anchor=345,225&src=myApp/images/tankTopGeneric.tif&colorize=240,122,17&
  layer=2&scale=0.8544&anchor=140,-157&src=myApp/images/skirt14a
 ```
-

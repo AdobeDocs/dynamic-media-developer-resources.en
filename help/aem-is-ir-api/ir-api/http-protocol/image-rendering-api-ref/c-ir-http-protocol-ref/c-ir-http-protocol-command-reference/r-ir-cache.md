@@ -4,8 +4,8 @@ solution: Experience Manager
 title: cache
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 4745197a-9f2d-4e33-8c0e-0067fbd65254
 ---
-
 # cache{#cache}
 
 Cache control. Allows selectively disabling client-side caching (browser, proxy servers, network caching systems) and caching in the internal Platform Server cache.
@@ -45,4 +45,4 @@ May occur anywhere in the request. Ignored when the request does not return a re
 
 ## See also {#section-2f5853751dab49579e97418fa766bdf9}
 
-[catalog::Expiration](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-material-data-reference/r-ir-expiration-dataref.md#reference-5e93943abff54c93bf85aae3b911a3ce), [req=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-req.md#reference-792b1a663fb64261bd2de2a209b847fb) 
+[catalog::Expiration](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-material-data-reference/r-ir-expiration-dataref.md#reference-5e93943abff54c93bf85aae3b911a3ce), [req=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-req.md#reference-792b1a663fb64261bd2de2a209b847fb)

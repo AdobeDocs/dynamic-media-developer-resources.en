@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Defaults for catalog fields
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 8d4e666c-468b-4907-911a-9df324f7d2bf
 ---
-
 # Defaults for catalog fields{#defaults-for-catalog-fields}
 
 Catalog fields use these defaults.
@@ -42,4 +42,3 @@ Catalog fields use these defaults.
   </tr> 
  </tbody> 
 </table>
-

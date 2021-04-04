@@ -7,8 +7,8 @@ title: Command reference – Configuration attributes
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: aa750941-0a2e-4591-bdff-5e71ecc342aa
 ---
-
 # Command reference – Configuration attributes{#command-reference-configuration-attributes}
 
 Configuration attributes documentation for Mixed Media Viewer.
@@ -25,4 +25,4 @@ which means that you can use this command as:
 * `ZoomView.zoomstep` (qualified with component class name) 
 * `cont_zoomView.zoomstep` (qualified with component ID, assuming `cont` is the ID of the container element)
 
-See also [Command reference common to all viewers - Configuration attributes](../../../r-html5-viewer-20-cmdref-configattrib/r-html5-viewer-20-cmdref-configattrib.md#concept-850e0f2c49b949deb7cfbfd330d329bd) 
+See also [Command reference common to all viewers - Configuration attributes](../../../r-html5-viewer-20-cmdref-configattrib/r-html5-viewer-20-cmdref-configattrib.md#concept-850e0f2c49b949deb7cfbfd330d329bd)

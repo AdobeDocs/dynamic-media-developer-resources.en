@@ -4,8 +4,8 @@ solution: Experience Manager
 title: TaskProgress
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 35e3be1e-ccc2-460c-98c1-bbefab1df699
 ---
-
 # TaskProgress{#taskprogress}
 
 Task progress information.
@@ -78,4 +78,3 @@ Task progress information.
   </tr> 
  </tbody> 
 </table>
-

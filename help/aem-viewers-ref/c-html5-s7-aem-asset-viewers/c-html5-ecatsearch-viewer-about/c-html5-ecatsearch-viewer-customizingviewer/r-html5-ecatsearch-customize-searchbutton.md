@@ -5,8 +5,8 @@ title: Search button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: ede7d887-526b-4e00-9885-166dc37627aa
 ---
-
 # Search button{#search-button}
 
 <!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
@@ -97,4 +97,3 @@ Example - to set up a Search button that is 28 x 28 pixels, and displays a diffe
  background-image:url(images/v2/Search_dark_disabled.png);  
 }
 ```
-

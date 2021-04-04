@@ -5,8 +5,8 @@ title: PageView.transition
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: e9db5c83-e6cf-4847-99b3-a1cf6a1fbe9f
 ---
-
 # PageView.transition{#pageview-transition}
 
  [!DNL `[PageView.|<containerId>_pageView.]transition= *`time`*[, *`easing`*]`]
@@ -42,4 +42,4 @@ Optional.
 
 ## Example {#section-cb6b8793ee9946b8bf1cfddab8612db5}
 
-[!DNL `transition=2,2`] 
+[!DNL `transition=2,2`]

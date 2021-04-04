@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getViewerConfigSettings
 feature: Dynamic Media Classic,SDK/API,Viewer Presets
 role: Developer,Administrator
+exl-id: c0438238-8aab-4478-926a-fc0e11732fc1
 ---
-
 # getViewerConfigSettings{#getviewerconfigsettings}
 
 Gets all viewer configuration settings associated with the specified asset.
@@ -34,4 +34,3 @@ Gets all viewer configuration settings associated with the specified asset.
 |---|---|---|---|
 |  `*`type`*`  | `xsd:string`  | Yes  | Viewer type to which the configuration settings apply.  |
 |  `*`configSettingsArray`*`  | `types:ConfigSettingsArray`  | Yes  | Array of viewer configuration settings.  |
-

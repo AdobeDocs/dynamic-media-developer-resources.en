@@ -4,8 +4,8 @@ solution: Experience Manager
 title: MasterVideoInfo
 feature: Dynamic Media Classic,SDK/API,Video
 role: Developer,Administrator
+exl-id: 7ca1ba11-56c0-4655-a144-7c9f6f17fc7c
 ---
-
 # MasterVideoInfo{#mastervideoinfo}
 
 File information for primary video assets.
@@ -19,4 +19,3 @@ File information for primary video assets.
 |  `*`originalPath`*`  | `xsd:string`  | File path.  |
 |  `*`originalFile`*`  | `xsd:string`  | File name.  |
 |  `*`fileSize`*`  | `xsd:int`  | File size.  |
-

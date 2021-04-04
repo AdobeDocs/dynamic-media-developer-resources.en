@@ -5,8 +5,8 @@ title: SpinView.autospin
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
+exl-id: 16276e07-5494-4fd9-bd77-e77a46c57fd1
 ---
-
 # SpinView.autospin{#spinview-autospin}
 
  ` [SpinView.|<containerId>_spinView.]maxloadradius=0|1[, *`duration`*][, *`direction`*][, *`spin_number`*]`
@@ -42,4 +42,4 @@ Optional.
 
 ## Example {#section-622348a84fbe4ff4b5dd7eb53b044d83}
 
-`autospin=1,2,-1,1` 
+`autospin=1,2,-1,1`

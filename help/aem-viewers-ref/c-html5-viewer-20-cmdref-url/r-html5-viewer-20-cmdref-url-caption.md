@@ -7,8 +7,8 @@ title: caption
 
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,Business Practitioner
+exl-id: 06ce5520-944b-4ab0-8f59-67c273bd8314
 ---
-
 # caption{#caption}
 
 Parameter common to all viewers.
@@ -99,4 +99,3 @@ None.
 ```
 caption=Scene7SharedAssets/adobe_qbc_final_cc,1
 ```
-

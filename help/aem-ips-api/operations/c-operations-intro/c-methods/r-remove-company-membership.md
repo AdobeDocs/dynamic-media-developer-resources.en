@@ -4,8 +4,8 @@ solution: Experience Manager
 title: removeCompanyMembership
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 1cb9a286-48a0-4542-a80a-c97fd973474e
 ---
-
 # removeCompanyMembership{#removecompanymembership}
 
 Removes a user from one or more companies.
@@ -49,4 +49,4 @@ This code sample removes a user from a company. Omit the optional user handle to
 
 **Response**
 
-None. 
+None.

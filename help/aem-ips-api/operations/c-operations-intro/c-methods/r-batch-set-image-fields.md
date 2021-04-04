@@ -5,8 +5,8 @@ solution: Experience Manager
 title: batchSetImageFields
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 8ea6dbb8-4d32-43e5-961f-31110f983663
 ---
-
 # batchSetImageFields{#batchsetimagefields}
 
 Sets image-specific fields for one or more image assets.
@@ -78,4 +78,3 @@ This example sets data in the fields of two images in an update array. In the ar
    <errorCount>0</errorCount>
 </batchSetImageFieldsReturn>
 ```
-

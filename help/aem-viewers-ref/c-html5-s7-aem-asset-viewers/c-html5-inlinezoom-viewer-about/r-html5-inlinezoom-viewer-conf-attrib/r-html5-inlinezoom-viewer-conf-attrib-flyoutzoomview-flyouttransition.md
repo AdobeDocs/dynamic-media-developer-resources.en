@@ -5,8 +5,8 @@ title: FlyoutZoomView.flyouttransition
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,Business Practitioner
+exl-id: 3199d4a3-4799-40a2-b0a5-0e1ee4744fbe
 ---
-
 # FlyoutZoomView.flyouttransition{#flyoutzoomview-flyouttransition}
 
  ` [FlyoutZoomView.|<containerId>_flyout.]flyouttransition=[none|slide|fade][, *`showtime`*[, *`showdelay`*[, *`hidetime`*[, *`hidedelay`*]]]]`
@@ -46,4 +46,4 @@ Optional.
 
 ## Example {#section-3a188ab955c445bcb2efa3c49722c10d}
 
-`flyouttransition=slide,1,1,2,1` 
+`flyouttransition=slide,1,1,2,1`

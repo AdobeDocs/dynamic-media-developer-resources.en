@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Catalog data files
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 1fb91795-f699-40b4-a6bc-6eab3e1ecd1d
 ---
-
 # Catalog data files{#catalog-data-files}
 
 Catalog data files can have any name and file suffix (except .ini).
@@ -28,4 +28,4 @@ Columns whose names start with '.' are ignored; this permits storing data in mat
 
 Field names may consist of any combination of ASCII letters, numbers, as well as "-" and "_".
 
-One or more columns may be used as index keys. If the same key occurs more than once in the same data file, the later instance will prevail. 
+One or more columns may be used as index keys. If the same key occurs more than once in the same data file, the later instance will prevail.

@@ -5,8 +5,8 @@ title: Hotspot support
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,Business Practitioner
+exl-id: 9b9ccdf4-4639-4ba8-988c-c68d81192619
 ---
-
 # Hotspot support{#hotspot-support}
 
 The viewer supports the rendering of hotspot icons on top of the main view. The appearance of hotspot icons is controlled through CSS as described in the Hotspots section.
@@ -21,4 +21,4 @@ These types of hotspots should be authored using the "Quick View" action type in
 
 ## Redirect to external web page {#section-ef820c71251e4215800bb99c0c9ebe16}
 
-Hotspots authored for the action type "Quick View" in Dynamic Media of AEM Assets - on demand redirects the user to an external URL. Depending on settings made during authoring, the URL opens in a new browser tab, in the same window, or in the named browser window. 
+Hotspots authored for the action type "Quick View" in Dynamic Media of AEM Assets - on demand redirects the user to an external URL. Depending on settings made during authoring, the URL opens in a new browser tab, in the same window, or in the named browser window.

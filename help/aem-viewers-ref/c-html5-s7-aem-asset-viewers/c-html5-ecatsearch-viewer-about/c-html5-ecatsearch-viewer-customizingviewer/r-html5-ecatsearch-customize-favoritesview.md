@@ -7,8 +7,8 @@ title: Favorites view
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: 8daf3d19-615b-4d62-a6f5-6a153d193b88
 ---
-
 # Favorites view{#favorites-view}
 
 Favorites view consist of a column of thumbnail images.
@@ -145,4 +145,3 @@ Example - to set up labels with a 14 pixel Helvetica font.
  font-size: 14px; 
 }
 ```
-

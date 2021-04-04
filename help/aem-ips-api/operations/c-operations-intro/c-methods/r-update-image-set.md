@@ -4,8 +4,8 @@ solution: Experience Manager
 title: updateImageSet
 feature: Dynamic Media Classic,SDK/API,Image Sets
 role: Developer,Administrator
+exl-id: d8d5fb80-17f1-424f-8a61-27189f87d603
 ---
-
 # updateImageSet{#updateimageset}
 
 Updates an image set.
@@ -60,4 +60,3 @@ Updates an image set.
 ```java
 <updateImageSetReturn xmlns="http://www.scene7.com/IpsApi/xsd/2014-04-03"/>
 ```
-

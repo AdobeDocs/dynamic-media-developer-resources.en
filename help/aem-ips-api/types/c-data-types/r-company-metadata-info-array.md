@@ -4,8 +4,8 @@ solution: Experience Manager
 title: CompanyMetadataInfoArray
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
+exl-id: 424a2f52-9cc2-46d6-817b-6ea64f46a229
 ---
-
 # CompanyMetadataInfoArray{#companymetadatainfoarray}
 
 An array of CompanyMetadataInfo elements.
@@ -18,4 +18,3 @@ An array of CompanyMetadataInfo elements.
 |---|---|---|
 |  `*`Code Phrase`*`  | `Code Phrase`  | |
 |  `*`Code Phrase`*`  | `Code Phrase`  | |
-

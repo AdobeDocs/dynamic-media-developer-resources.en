@@ -7,8 +7,8 @@ title: Video360Player.waiticon
 
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
+exl-id: 203dc041-c399-4668-b9f4-44241feb5a82
 ---
-
 # Video360Player.waiticon{#video-player-waiticon}
 
 Configuration attribute for Video360 Viewer.
@@ -37,4 +37,3 @@ Optional.
 ```
 waiticon=0
 ```
-

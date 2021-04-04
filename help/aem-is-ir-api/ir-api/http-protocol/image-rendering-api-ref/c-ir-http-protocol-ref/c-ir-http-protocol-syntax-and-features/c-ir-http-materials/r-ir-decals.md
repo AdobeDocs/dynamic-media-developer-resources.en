@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Decals
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 07190abd-9f6f-46b5-bf77-cd97c48fc9be
 ---
-
 # Decals{#decals}
 
 Decal materials include apparel constructs such as appliqués, t-shirt prints, and embroidered or printed logos, as well as non-repeatable, flat objects used in interior or exterior applications, such as area rugs, wall-hung art, signs, and so on.
@@ -62,4 +62,3 @@ A drop shadow is rendered if the decal material defines a thickness and the vign
   </tr> 
  </tbody> 
 </table>
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: About this release
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: f837191b-1151-4c29-8059-b4d3e09e304e
 ---
-
 # About this release{#about-this-release}
 
 This release—Image Serving 6.6.1 and Image Rendering 6.6.1—supersedes Image Serving 6.5.3 and Image Rendering 6.5.3.
@@ -25,4 +25,3 @@ This release—Image Serving 6.6.1 and Image Rendering 6.6.1—supersedes Image 
 ## Bug Fix {#section-58dff74d56f64edeadf8f8b97b7a4161}
 
 * Fixed issue where the `\qc` RTF option followed by a space caused a request to not render.
-

@@ -7,8 +7,8 @@ title: Favorites menu
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: e3c90320-b6fc-4a43-b75f-d39234b1e73c
 ---
-
 # Favorites menu{#favorites-menu}
 
 The Favorites menu drop-down list appears in the control bar. It consists of a button and a panel that expands when a user clicks or taps on a button. The panel contains individual Favorites tools.
@@ -123,4 +123,3 @@ Example - set up a panel to have a transparent color.
  background-color: transparent; 
 }
 ```
-

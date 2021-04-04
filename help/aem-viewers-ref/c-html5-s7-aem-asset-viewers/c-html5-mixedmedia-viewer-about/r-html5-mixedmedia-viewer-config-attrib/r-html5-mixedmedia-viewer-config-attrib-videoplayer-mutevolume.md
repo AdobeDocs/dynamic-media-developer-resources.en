@@ -7,8 +7,8 @@ title: VideoPlayer.mutevolume
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 13398ac5-7137-4345-88b8-5e4df09edb7b
 ---
-
 # VideoPlayer.mutevolume{#videoplayer-mutevolume}
 
 Configuration attribute for Mixed Media Video Viewer.
@@ -34,4 +34,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`mutevolume=1` 
+`mutevolume=1`

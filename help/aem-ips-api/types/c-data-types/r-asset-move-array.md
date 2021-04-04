@@ -4,8 +4,8 @@ solution: Experience Manager
 title: AssetMoveArray
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: 9d3f0c27-7414-46d9-888a-85226b0fbac6
 ---
-
 # AssetMoveArray{#assetmovearray}
 
 Array of asset moves.
@@ -17,4 +17,3 @@ Array of asset moves.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `type:AssetMove`  | Array of asset moves.  |
-

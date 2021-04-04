@@ -5,8 +5,8 @@ title: VideoPlayer.iconeffect
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 8371cb69-4cd9-457b-bd8c-e4167fc67600
 ---
-
 # VideoPlayer.iconeffect{#videoplayer-iconeffect}
 
  ` [VideoPlayer.|<containerId>_videoPlayer.]iconeffect= *`0|1`*[, *`count`*][, *`fade`*][, *`autoHide`*]`
@@ -42,4 +42,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`iconeffect=0` 
+`iconeffect=0`

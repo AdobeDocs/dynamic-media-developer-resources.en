@@ -7,8 +7,8 @@ title: SpinView.maxloadradius
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: e64fcd95-9660-4c1f-91b2-3ffc5a7493ce
 ---
-
 # SpinView.maxloadradius{#spinview-maxloadradius}
 
 Represents the maximum number of frames to preload in each direction when the SpinView is idle.
@@ -38,4 +38,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`maxloadradius=12,1` 
+`maxloadradius=12,1`

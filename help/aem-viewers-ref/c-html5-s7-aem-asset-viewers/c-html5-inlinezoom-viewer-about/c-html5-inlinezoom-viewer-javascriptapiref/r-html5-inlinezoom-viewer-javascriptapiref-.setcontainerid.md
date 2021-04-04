@@ -7,8 +7,8 @@ title: setContainerId
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,Business Practitioner
+exl-id: ab3359f0-0c58-4984-815a-e0246728100e
 ---
-
 # setContainerId{#setcontainerid}
 
 JavaScript API reference for Inline Zoom Viewer.
@@ -35,4 +35,3 @@ None.
 ```
 <instance>.setContainerId("s7viewer");
 ```
-

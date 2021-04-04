@@ -7,8 +7,8 @@ title: Video time
 
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
+exl-id: 78657fd2-e805-4047-be0a-592143025986
 ---
-
 # Video time{#video-time}
 
 The video time is the numeric display that shows the current time and duration of the currently playing video.
@@ -65,4 +65,3 @@ color:#BBBBBB;
 width:60px;  
 }
 ```
-

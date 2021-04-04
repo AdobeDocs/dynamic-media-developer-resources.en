@@ -4,8 +4,8 @@ solution: Experience Manager
 title: copyImage
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 059ebbca-2341-444b-850a-1ec9582692ec
 ---
-
 # copyImage{#copyimage}
 
 Creates a copy of an existing image asset. The specified Image Server protocol commands are applied to generate the new copy
@@ -112,4 +112,3 @@ The sample code copies an image specified by company, asset, folder handle, and 
    <assetHandle>a|943|1|580</assetHandle>
 </copyImageReturn>
 ```
-

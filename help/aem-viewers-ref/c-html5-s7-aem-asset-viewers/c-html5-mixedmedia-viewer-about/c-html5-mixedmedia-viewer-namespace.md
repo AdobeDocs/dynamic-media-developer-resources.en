@@ -5,8 +5,8 @@ title: Viewer SDK namespace
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 570f8eee-a7dd-40aa-b732-03f97d2544c0
 ---
-
 # Viewer SDK namespace{#viewer-sdk-namespace}
 
 The viewer is built of many Viewer SDK components. In most cases, the web page does not need to interact with SDK components API directly; all common needs are covered in the viewer API itself.
@@ -38,4 +38,3 @@ The same code for the viewer served from Dynamic Media Classic looks like the fo
 } 
 });
 ```
-

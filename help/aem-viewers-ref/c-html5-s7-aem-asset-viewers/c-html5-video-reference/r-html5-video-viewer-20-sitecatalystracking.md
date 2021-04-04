@@ -7,8 +7,8 @@ title: Support for Adobe Analytics tracking
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner,Data Engineer,Data Architect
+exl-id: 2cc7087d-ed02-4560-b9ce-533af2b11a24
 ---
-
 # Support for Adobe Analytics tracking{#support-for-adobe-analytics-tracking}
 
 The Video Viewer supports Adobe Analytics tracking out-of-the-box.
@@ -84,4 +84,3 @@ The viewer tracks the following SDK user events:
   </tr> 
  </tbody> 
 </table>
-

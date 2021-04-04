@@ -8,8 +8,8 @@ title: Basic Zoom
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
+exl-id: ee15ce21-20c4-428b-9512-050115e4c322
 ---
-
 # Basic Zoom{#basic-zoom}
 
 Basic Zoom Viewer is an image viewer that displays a single zoomable image. It has zoom tools, full screen support, and an optional close button. This viewer is the most lightweight. It is designed to work on desktops and mobile devices.
@@ -387,4 +387,3 @@ basicZoomViewer.init();
 </body> 
 </html>
 ```
-

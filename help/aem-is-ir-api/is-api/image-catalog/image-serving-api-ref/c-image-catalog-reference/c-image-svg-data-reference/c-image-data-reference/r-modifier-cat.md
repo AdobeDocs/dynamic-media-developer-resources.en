@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Modifier
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 6eef3159-c082-469b-b9dc-29acb28560d6
 ---
-
 # Modifier{#modifier}
 
 Prefix request modifier string. None or more Image Serving commands separated by '&' characters.
@@ -26,4 +26,4 @@ None.
 
 ## See also {#section-7a67803d141b442180c418c1f3cff029}
 
-[catalog::PostModifier](../../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-postmodifier-cat.md#reference-4bc3738a812b4e7c8a180e27bfbd770b) 
+[catalog::PostModifier](../../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-postmodifier-cat.md#reference-4bc3738a812b4e7c8a180e27bfbd770b)

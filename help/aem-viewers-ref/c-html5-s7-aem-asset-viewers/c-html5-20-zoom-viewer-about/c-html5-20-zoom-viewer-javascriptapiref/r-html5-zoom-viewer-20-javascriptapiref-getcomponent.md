@@ -7,8 +7,8 @@ title: getComponent
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
+exl-id: efdd5b9f-64bb-4fe4-bdf9-0f5e98e4f5fe
 ---
-
 # getComponent{#getcomponent}
 
 JavaScript API reference for Video Viewer
@@ -93,4 +93,3 @@ Refer to the Viewer SDK API documentation for more information about a particula
 } 
 })
 ```
-

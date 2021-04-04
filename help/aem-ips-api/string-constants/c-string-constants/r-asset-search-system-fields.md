@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Asset Search System Fields
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: 4ceba799-ff4d-4671-88cc-d85650d4995c
 ---
-
 # Asset Search System Fields{#asset-search-system-fields}
 
 Used by SystemFieldCondition/field.
@@ -26,4 +26,3 @@ Used by SystemFieldCondition/field.
 * [!DNL `CreateUser`] 
 * [!DNL `LastModifyUser`] 
 * [!DNL `FileName`]
-

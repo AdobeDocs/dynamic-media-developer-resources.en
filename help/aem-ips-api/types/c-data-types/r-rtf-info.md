@@ -4,8 +4,8 @@ solution: Experience Manager
 title: RTFInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: f30eae15-793f-4e2e-a0dc-1987f0949bd6
 ---
-
 # RTFInfo{#rtfinfo}
 
 Properties of an RTF file asset.
@@ -19,4 +19,3 @@ Properties of an RTF file asset.
 |  `*`originalPath`*`  | `xsd:string`  | File path.  |
 |  `*`originalFile`*`  | `xsd:string`  | File name.  |
 |  `*`fileSize`*`  | `xsd:int`  | File size.  |
-

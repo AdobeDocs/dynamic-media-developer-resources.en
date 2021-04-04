@@ -4,8 +4,8 @@ solution: Experience Manager
 title: op_sharpen
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 62e7d91c-935f-410f-a971-ffb3cfff31d6
 ---
-
 # op_sharpen{#op-sharpen}
 
 Sharpen image. Applies a basic sharpening filter to the layer or to the final view image, after all scaling, if layer=comp.
@@ -30,4 +30,4 @@ Compensate for the slight blurriness caused by image resampling. We also increas
 
 ## See also {#section-d659199fde0d4c9dadebf1f09802915d}
 
-[qlt=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-is-http-qlt.md#reference-f69ed0758c784b0385d979820546d352) , [op_usm=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-op-sharpen.md#reference-c32573230c6140f883efdaa201ea8541) 
+[qlt=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-is-http-qlt.md#reference-f69ed0758c784b0385d979820546d352) , [op_usm=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-op-sharpen.md#reference-c32573230c6140f883efdaa201ea8541)

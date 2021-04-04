@@ -4,8 +4,8 @@ solution: Experience Manager
 title: flip
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 451d8b4d-0f22-41f3-ac86-435797c23ea3
 ---
-
 # flip{#flip}
 
 Flip Layer. Flips the layer horizontally, vertically, or both, after applying crop= and before rotate= and extend=.
@@ -45,4 +45,4 @@ None.
 
 ## See also {#section-47f6484deccd420983df15ec163b4a83}
 
-[rotate=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-rotate.md#reference-12abb086635546ec9ec2e1a793dc1096) , [anchor=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-anchor.md#reference-6661e548ab284b82828d8d94c8ddeb7c) 
+[rotate=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-rotate.md#reference-12abb086635546ec9ec2e1a793dc1096) , [anchor=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-anchor.md#reference-6661e548ab284b82828d8d94c8ddeb7c)

@@ -7,8 +7,8 @@ title: Mutable volume
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
+exl-id: bd86af60-a9a0-4f2e-9d36-f7ee22bd8c8e
 ---
-
 # Mutable volume{#mutable-volume}
 
 The mutable volume control initially appears as a button that lets a user mute or unmute the video player sound.
@@ -239,4 +239,4 @@ The following is an example of how you can customize the video player so sound i
                 }
 ```
 
-In the code example above, the volume level is set to `0` on the `mutableVolume` component. Then, the same component is deactivated so it cannot be used by the end user. 
+In the code example above, the volume level is set to `0` on the `mutableVolume` component. Then, the same component is deactivated so it cannot be used by the end user.

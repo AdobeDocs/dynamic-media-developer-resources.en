@@ -5,8 +5,8 @@ title: ipsApiFault
 
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 48be47f6-4c1c-4f19-afa7-f643e504c287
 ---
-
 # ipsApiFault{#ipsapifault}
 
  Syntax 
@@ -26,4 +26,3 @@ role: Developer,Administrator
 |---|---|---|
 |  `code`  | `xsd:int`  | Fault ID  |
 |  `reason`  | `xsd:string`  | An informative message describing the fault.  |
-

@@ -7,8 +7,8 @@ title: Embed share
 
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
+exl-id: 08ba7a29-8b17-4167-a9f3-82aa4cf65556
 ---
-
 # Embed share{#embed-share}
 
 Embed share tool consists of a button added to the Social share panel and the modal dialog box that displays when the tool is activated. The position of the button is fully managed by the Social share tool.
@@ -1285,4 +1285,3 @@ background-image:url(images/sdk/scroll_up_up.png);
  background-image:url(images/sdk/scroll_down_disabled.png); 
 }
 ```
-

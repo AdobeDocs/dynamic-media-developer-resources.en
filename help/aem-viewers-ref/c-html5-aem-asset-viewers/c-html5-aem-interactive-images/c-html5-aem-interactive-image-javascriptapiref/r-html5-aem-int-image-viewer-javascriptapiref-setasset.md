@@ -7,8 +7,8 @@ title: setAsset
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,Business Practitioner
+exl-id: e5f88bc9-a880-45eb-9554-57e185937d29
 ---
-
 # setAsset{#setasset}
 
 JavaScript API reference for Video Image Viewer.
@@ -39,4 +39,3 @@ Single image reference:
 ```
 <instance>.setAsset("/content/dam/mac/aodmarketingna/shoppable-banner/shoppable-banner.jpg")
 ```
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ExcludeByproductArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 0d238e6a-175d-4efc-b8a9-6b8bc3b65c34
 ---
-
 # ExcludeByproductArray{#excludebyproductarray}
 
 Supports byproduct filtering in the searchAssets operation.
@@ -17,4 +17,3 @@ Supports byproduct filtering in the searchAssets operation.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:ExcludeByproductCondition`  | Item in the array.  |
-

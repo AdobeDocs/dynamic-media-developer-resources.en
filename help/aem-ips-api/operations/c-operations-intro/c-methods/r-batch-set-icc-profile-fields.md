@@ -4,8 +4,8 @@ solution: Experience Manager
 title: batchSetIccProfileFields
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: d10a30ca-afa7-4ef0-8cef-0329b0068bf3
 ---
-
 # batchSetIccProfileFields{#batchseticcprofilefields}
 
 Sets ICC profile metadata fields.
@@ -67,4 +67,3 @@ Sets ICC profile metadata fields.
    <errorCount>0</errorCount>
 </batchSetIccProfileFieldsReturn>
 ```
-

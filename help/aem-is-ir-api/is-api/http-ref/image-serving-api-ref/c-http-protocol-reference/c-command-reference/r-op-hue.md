@@ -4,8 +4,8 @@ solution: Experience Manager
 title: op_hue
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: b436bd31-12a9-42ed-9ad3-5ff91e3ccce9
 ---
-
 # op_hue{#op-hue}
 
 Adjust hue. Shifts the hue of each visible pixel of the layer or composite image by the specified amount.
@@ -27,4 +27,4 @@ Layer command. Applies to the current layer or to the composite image if `layer=
 
 ## Default {#section-7314580251f5456fa1f381ec9e99e0bb}
 
-`op_hue=0`, for no change in hue. 
+`op_hue=0`, for no change in hue.

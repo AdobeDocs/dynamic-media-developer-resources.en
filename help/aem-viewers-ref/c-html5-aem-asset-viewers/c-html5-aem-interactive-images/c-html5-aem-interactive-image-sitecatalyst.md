@@ -5,8 +5,8 @@ title: Support for analytics tracking
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,Business Practitioner,Data Engineer,Data Architect
+exl-id: 17e8937f-e328-46a4-b7d9-1fd39ab2e8bd
 ---
-
 # Support for analytics tracking{#support-for-analytics-tracking}
 
 ## Custom tracking {#section-cda48fc9730142d0bb3326bac7df3271}
@@ -57,4 +57,3 @@ The viewer tracks the following SDK user events:
   </tr> 
  </tbody> 
 </table>
-

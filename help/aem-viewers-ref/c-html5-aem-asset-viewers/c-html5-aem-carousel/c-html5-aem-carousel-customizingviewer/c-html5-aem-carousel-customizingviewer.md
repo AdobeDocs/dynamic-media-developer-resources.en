@@ -8,8 +8,8 @@ title: Customizing Carousel Viewer
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
+exl-id: f392d830-5c75-45dd-bab8-29a38218790d
 ---
-
 # Customizing Carousel Viewer{#customizing-carousel-viewer}
 
 All visual customization and most behavior customization for the Carousel Viewer is done by creating a custom CSS.
@@ -174,4 +174,4 @@ background-position: -0px -0px; width: 56px; height: 56px;
 
 ## Common user interface elements {#section-d6330c9be8c444aa9b2a07886e3dbc2a}
 
-The following is user interface elements reference documentation that applies to the Video Image Viewer: 
+The following is user interface elements reference documentation that applies to the Video Image Viewer:

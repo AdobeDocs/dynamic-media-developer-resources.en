@@ -4,8 +4,8 @@ solution: Experience Manager
 title: updateFolderPermissions
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 4e4f382e-4339-4b9d-a721-d33a4fa8be6b
 ---
-
 # updateFolderPermissions{#updatefolderpermissions}
 
 Update folder permissions.
@@ -55,4 +55,4 @@ The IPS API does not return a response for this operation.
 
 **Response**
 
-None. 
+None.

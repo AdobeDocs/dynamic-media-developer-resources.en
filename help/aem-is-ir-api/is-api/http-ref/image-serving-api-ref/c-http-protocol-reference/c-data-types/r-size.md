@@ -4,8 +4,8 @@ solution: Experience Manager
 title: size
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 644659a7-8f34-4de0-aa94-bc33909ff361
 ---
-
 # size{#size}
 
 Pixel Size. Used to specify image sizes or rectangle sizes in pixels.
@@ -21,4 +21,4 @@ Pixel Size. Used to specify image sizes or rectangle sizes in pixels.
  </tr> 
 </table>
 
-Both *`px`* and *`py`* must be greater than 0. `0,0` may indicate that a specific default value should be used. 
+Both *`px`* and *`py`* must be greater than 0. `0,0` may indicate that a specific default value should be used.

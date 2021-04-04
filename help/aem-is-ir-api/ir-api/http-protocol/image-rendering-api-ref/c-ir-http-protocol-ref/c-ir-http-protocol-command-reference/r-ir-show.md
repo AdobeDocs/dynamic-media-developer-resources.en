@@ -4,8 +4,8 @@ solution: Experience Manager
 title: show
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 4ab3dff7-c020-4088-9eb7-760f8e0a3f00
 ---
-
 # show{#show}
 
 Show overlap object. Makes visible all previously hidden overlap objects (including window coverings frame objects) in the current selection.
@@ -29,4 +29,4 @@ None, for no change in object visibility.
 
 ## See also {#section-2a1a37a35dfb41758897164e14f0105f}
 
-[hide=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-hide.md#reference-681b9782f90a45b18ed50292ab2c096c) 
+[hide=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-hide.md#reference-681b9782f90a45b18ed50292ab2c096c)

@@ -5,8 +5,8 @@ title: Data Types  New and Modified
 
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 6121c7a9-aebc-4aa5-970f-8b115f14c71e
 ---
-
 # Data Types: New and Modified{#data-types-new-and-modified}
 
 Describes new and changed data types for the IPS API version 3.8.
@@ -28,4 +28,3 @@ Fields added:
 
 * `name`
 * `userData`
-

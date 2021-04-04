@@ -7,8 +7,8 @@ title: Previous slide
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
+exl-id: f780e62e-7238-4cc6-b382-3a21043e1079
 ---
-
 # Previous slide{#previous-slide}
 
 Clicking or tapping on this button returns a user to the previous slide in the carousel set. This button is not displayed on touch devices. You can size, skin, and position this button using CSS.
@@ -97,4 +97,3 @@ Example - to set up a previous slide button that is 60 x 60 pixels, positioned 1
 .s7carouselviewer.s7mouseinput .s7panleftbutton[state='down'] { background-position: -0px -0px; } 
 .s7carouselviewer.s7mouseinput .s7panleftbutton[state='disabled'] { background-position: -0px -60px; }
 ```
-

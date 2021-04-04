@@ -4,8 +4,8 @@ solution: Experience Manager
 title: pos
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 531f1465-2bec-46b6-a41e-54d993cbf410
 ---
-
 # pos{#pos}
 
 Decal position. Defines the offset in inches from the anchor= point of the decal image to the decal origin point defined by the target vignette object.
@@ -29,4 +29,4 @@ Material attribute. Ignored by materials other than decals.
 
 ## See also {#section-7cd8139481334ed79704d628b5bbd236}
 
-[Scene Coordinates](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-vignettes/c-ir-scene-coordinates.md#concept-528507024fa640b19a2631357febf7f1), [anchor=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-http-anchor.md#reference-d53923d785c9442997dc7f2199524c26) 
+[Scene Coordinates](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/c-ir-vignettes/c-ir-scene-coordinates.md#concept-528507024fa640b19a2631357febf7f1), [anchor=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-http-anchor.md#reference-d53923d785c9442997dc7f2199524c26)

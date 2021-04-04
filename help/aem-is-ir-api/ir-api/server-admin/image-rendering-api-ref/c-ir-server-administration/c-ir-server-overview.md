@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Server administration overview
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: 294cd068-8676-4932-a3ad-1a3c5bfa691e
 ---
-
 # Server administration overview{#server-administration-overview}
 
 This documentation explains how to administer the Dynamic Media Image Rendering server.
@@ -21,4 +21,4 @@ Image Rendering shares many server facilities with Image Serving, and all option
 
 The Image Rendering install folder ( *[!DNL install_folder]*) is [!DNL *[!DNL install_root]*/ImageRendering]. On Windows, the default *[!DNL install_root]* is `C:\Program Files\Scene7`. A different folder may be specified during installation. On Linux, *[!DNL install_root]* must always be [!DNL /usr/local/scene7]. Symbolic links may be used.
 
-All file paths are case-sensitive on UNIX and case-insensitive on Windows. 
+All file paths are case-sensitive on UNIX and case-insensitive on Windows.

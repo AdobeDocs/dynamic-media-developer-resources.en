@@ -5,8 +5,8 @@ title: FavoritesView.fmt
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: 9ec5ed03-1d8f-4e67-a9a3-bdf160b105c5
 ---
-
 # FavoritesView.fmt{#favoritesview-fmt}
 
 [!DNL `[FavoritesView.|<containerId>_favoritesView.]fmt=jpg|jpeg|png|png-alpha|gif|gif-alpha`]

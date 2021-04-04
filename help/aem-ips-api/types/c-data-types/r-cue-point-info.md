@@ -4,8 +4,8 @@ solution: Experience Manager
 title: CuePointInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: d773cce9-837d-4ac1-99e6-1033eec93b55
 ---
-
 # CuePointInfo{#cuepointinfo}
 
 Properties of a CuePoint file asset.
@@ -19,4 +19,3 @@ Properties of a CuePoint file asset.
 |  `*`originalPath`*`  | `xsd:string`  | CuePoint file path.  |
 |  `*`originalFile`*`  | `xsd:string`  | CuePoint file name.  |
 |  `*`fileSize`*`  | `xsd:int`  | CuePoint file size.  |
-

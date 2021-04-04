@@ -7,8 +7,8 @@ title: getComponent
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 0dc6ad78-1044-4495-9414-53900302b8c0
 ---
-
 # getComponent{#getcomponent}
 
 JavaScript API reference for Mixed Media Viewer
@@ -133,4 +133,3 @@ See the Viewer SDK API documentation for more information about a particular com
 ```
 
 ```
-

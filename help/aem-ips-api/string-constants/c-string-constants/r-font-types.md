@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Font Types
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 3a127244-89b9-45ed-bf25-23395a89d20e
 ---
-
 # Font Types{#font-types}
 
 Used by FontFieldUpdate/type.
@@ -21,4 +21,3 @@ Used by FontFieldUpdate/type.
 * [!DNL `PFB`] 
 * [!DNL `TTC`] 
 * [!DNL `KERN`]
-

@@ -7,8 +7,8 @@ title: Main viewer area
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,Business Practitioner
+exl-id: c8005e7e-dff6-4f40-a94c-6fb6640e827f
 ---
-
 # Main viewer area{#main-viewer-area}
 
 The main view area is the area occupied by the zoom image. It is usually set to fit the available device screen when no size is specified.
@@ -55,4 +55,3 @@ Example - to set up a viewer with a white background ( `#FFFFFF`) and make its s
  height: 500px;  
 }
 ```
-

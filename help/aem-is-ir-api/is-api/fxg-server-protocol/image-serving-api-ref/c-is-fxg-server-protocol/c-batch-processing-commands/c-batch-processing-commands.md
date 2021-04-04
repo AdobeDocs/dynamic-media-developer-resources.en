@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Batch processing commands
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 40a5b597-3db2-4846-903e-1a47a999610b
 ---
-
 # Batch processing commands{#batch-processing-commands}
 
 The following commands comprise the batch processing API exposed by PlatformServer.

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: MaskArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: a0539a30-051c-4442-abae-99588bdfff10
 ---
-
 # MaskArray{#maskarray}
 
 An array of masks.
@@ -17,4 +17,3 @@ An array of masks.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:Mask`  | Array of masks.  |
-

@@ -7,8 +7,8 @@ title: Spin right button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
+exl-id: 312260ae-8604-49a1-9874-3650919d91ab
 ---
-
 # Spin right button{#spin-right-button}
 
 Clicking or tapping this button spins the image to the right in main view. This button is not displayed on mobile phones in order to save screen real estate. Also, the button is hidden when a multi-dimensional spin set is used. You can size, skin, and position the button using CSS.
@@ -136,4 +136,3 @@ background-image:url(images/v2/SpinRightButton_light_over.png);
  background-image:url(images/v2/SpinRightButton_light_disabled.png); 
 }
 ```
-

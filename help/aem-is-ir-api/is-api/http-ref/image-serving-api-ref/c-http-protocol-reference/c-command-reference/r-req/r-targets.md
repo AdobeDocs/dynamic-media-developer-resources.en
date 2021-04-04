@@ -4,8 +4,8 @@ solution: Experience Manager
 title: targets
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 58f7b1ad-8762-4d23-b320-6f69e75ecf63
 ---
-
 # targets{#targets}
 
 Zoom targets data from image catalog. Returns zoom target data for the image catalog entry specified in the URL path.
@@ -33,4 +33,4 @@ Requests that support JSONP response format lets you specify the name of the JS 
 
 `req=...,json [&handler = reqHandler ]`
 
-`<reqHandler>` is the name of the JS handler that is present in the JSONP response. Only a-z, A-Z, and 0-9 characters are allowed. Optional. Default is `s7jsonResponse`. 
+`<reqHandler>` is the name of the JS handler that is present in the JSONP response. Only a-z, A-Z, and 0-9 characters are allowed. Optional. Default is `s7jsonResponse`.

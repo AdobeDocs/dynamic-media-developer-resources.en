@@ -4,8 +4,8 @@ solution: Experience Manager
 title: deletePropertySet
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 72429030-200d-4e13-a537-10a728998a26
 ---
-
 # deletePropertySet{#deletepropertyset}
 
 Deletes a property set and all associated properties.
@@ -45,4 +45,4 @@ This code sample uses the set’s handle as a field in the `deletePropertySetPar
 
 **Response**
 
-None. 
+None.

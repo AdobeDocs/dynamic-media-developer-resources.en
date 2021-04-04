@@ -7,8 +7,8 @@ title: Close button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: 8dee7c56-ed60-44e5-a5c9-f404df03861e
 ---
-
 # Close button{#close-button}
 
 Clicking or tapping this button closes the containing web page. This button only appears if the closebutton parameter is set to 1. This button is not available on desktop systems. You can size, skin, and position this button by using CSS.
@@ -92,4 +92,3 @@ background-image:url(images/v2/CloseButton_dark_down.png);
 background-image:url(images/v2/CloseButton_dark_disabled.png); 
 }
 ```
-

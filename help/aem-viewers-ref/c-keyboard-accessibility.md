@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Keyboard accessibility and navigation
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,Business Practitioner
+exl-id: 0bdf172a-0bde-42d2-900f-f207538fe588
 ---
-
 # Keyboard accessibility and navigation{#keyboard-accessibility-and-navigation}
 
 All features exposed in the Basic Zoom, eCatalog, eCatalog Search, Flyout, Inline Zoom, Mixed Media, Spin, Video, Zoom, Carousel, Dimensional (3D), Interactive Image, Interactive Video, and Video360 viewer interface are keyboard accessible.
@@ -126,4 +126,3 @@ Keystrokes supported by individual viewer user interface elements are-in most ca
   </tr> 
  </tbody> 
 </table>
-

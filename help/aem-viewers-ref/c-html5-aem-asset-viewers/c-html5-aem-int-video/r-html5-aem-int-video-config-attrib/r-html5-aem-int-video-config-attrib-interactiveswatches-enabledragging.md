@@ -7,8 +7,8 @@ title: InteractiveSwatches.enabledragging
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: 91c5eb52-40d9-40f6-8687-e68cb40b634e
 ---
-
 # InteractiveSwatches.enabledragging{#interactiveswatches-enabledragging}
 
 Configuration attribute for Interactive Video Viewer.
@@ -41,4 +41,3 @@ Optional.
 ```
 enabledragging=0
 ```
-

@@ -5,8 +5,8 @@ title: CarouselView.maxloadradius
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
+exl-id: 8a3d3d32-7970-420c-8ad8-296c9ba1f08a
 ---
-
 # CarouselView.maxloadradius{#carouselview-maxloadradius}
 
 ` [CarouselView.|<containerId>_carouselView.]maxloadradius=-1|0| *`preloadnbr`*`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-bce98c31f08a4a0ab262fab7f95ba020}
 
-`maxloadradius=0` 
+`maxloadradius=0`

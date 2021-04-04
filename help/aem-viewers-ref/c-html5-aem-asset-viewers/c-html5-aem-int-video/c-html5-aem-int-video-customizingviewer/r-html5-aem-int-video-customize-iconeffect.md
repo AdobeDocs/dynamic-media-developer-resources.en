@@ -7,8 +7,8 @@ title: Icon effect
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: bbb35286-fdb6-4329-a837-17fe8f976276
 ---
-
 # Icon effect{#icon-effect}
 
 The play icon is overlaid on the main view area. It displays when the video is paused, or when the end of the video is reached, and it also depends on the iconeffect parameter.
@@ -61,4 +61,3 @@ background-image: url(images/playIcon.png);
 background-image: url(images/replayIcon.png); 
 }
 ```
-

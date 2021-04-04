@@ -7,8 +7,8 @@ title: VideoPlayer.waiticon
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
+exl-id: c5061a5c-44d7-4b42-a062-5ee622829429
 ---
-
 # VideoPlayer.waiticon{#videoplayer-waiticon}
 
 Configuration attribute for Video Viewer.
@@ -37,4 +37,3 @@ Optional.
 ```
 waiticon=0
 ```
-

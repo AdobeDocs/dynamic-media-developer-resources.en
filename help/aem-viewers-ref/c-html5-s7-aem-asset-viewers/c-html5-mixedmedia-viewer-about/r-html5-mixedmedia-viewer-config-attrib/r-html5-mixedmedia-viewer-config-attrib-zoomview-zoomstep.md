@@ -5,8 +5,8 @@ title: ZoomView.zoomstep
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 5d978d21-7942-4bd6-b742-9bf4b6fd3ebe
 ---
-
 # ZoomView.zoomstep{#zoomview-zoomstep}
 
  ` [ZoomView.|<containerId>_zoomView.]zoomstep= *`step`*[, *`limit`*]`
@@ -34,4 +34,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`zoomstep=2,3` 
+`zoomstep=2,3`

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: deleteMetadataField
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 1922fc1b-2abc-4d31-985a-65c788af4d46
 ---
-
 # deleteMetadataField{#deletemetadatafield}
 
 Deletes a company's metadata field.
@@ -46,4 +46,4 @@ This code sample deletes a company's metadata field. It uses the company handle 
 
 **Response**
 
-None.0 
+None.0

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Viewer SDK namespace
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,Business Practitioner
+exl-id: 62b61a17-f9ae-4e71-bd78-276674193044
 ---
-
 # Viewer SDK namespace{#viewer-sdk-namespace}
 
 The viewer is built of many Viewer SDK components. In most cases, the web page does not need to interact with SDK components API directly; all common needs are covered in the viewer API itself.
@@ -39,4 +39,3 @@ The same code for viewer served from Dynamic Media Classic will look like this:
 } 
 });
 ```
-

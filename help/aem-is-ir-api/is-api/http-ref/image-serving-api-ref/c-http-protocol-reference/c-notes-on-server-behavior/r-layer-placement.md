@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Layer placement
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 1ce7bef3-a0f8-44fc-a146-7e819c30eee8
 ---
-
 # Layer placement{#layer-placement}
 
 Layers are positioned by aligning the layer origin (origin=) with the background layer origin at an offset specified by pos=.
@@ -17,4 +17,3 @@ Layers are positioned by aligning the layer origin (origin=) with the background
 1. If no image anchor is defined, the layer origin is placed at the center of the layer rectangle (after applying `extend=`).
 
 ![](assets/layerplacement.png)
-

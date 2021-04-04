@@ -4,8 +4,8 @@ solution: Experience Manager
 title: saveImageMap
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 91e40549-9b26-41f2-a3ab-7e9bec8f9ba7
 ---
-
 # saveImageMap{#saveimagemap}
 
 Create a new image map or edit an existing map.
@@ -128,4 +128,3 @@ This code sample creates a new image map for an asset. It uses a shape type dete
    <imageMapHandle>34191|8|554</imageMapHandle> 
 </saveImageMapReturn>
 ```
-

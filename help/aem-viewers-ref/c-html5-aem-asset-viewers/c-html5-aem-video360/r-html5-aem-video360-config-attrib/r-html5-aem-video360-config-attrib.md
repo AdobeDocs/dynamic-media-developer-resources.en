@@ -7,8 +7,8 @@ title: Command reference – Configuration attributes
 
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
+exl-id: 75a9e83a-2f6e-4bfa-8881-52f8fe06f2fd
 ---
-
 # Command reference – Configuration attributes{#command-reference-configuration-attributes}
 
 Configuration attributes documentation for Video360 Viewer.
@@ -25,4 +25,4 @@ which means that you can use this command as:
 * `VideoPlayer.playback` (qualified with component class name) 
 * `cont_videoPlayer.playback` (qualified with component ID, assuming `cont` is the ID of the container element)
 
-See also [Command reference common to all viewers - Configuration attributes](../../../r-html5-viewer-20-cmdref-configattrib/r-html5-viewer-20-cmdref-configattrib.md#concept-850e0f2c49b949deb7cfbfd330d329bd) 
+See also [Command reference common to all viewers - Configuration attributes](../../../r-html5-viewer-20-cmdref-configattrib/r-html5-viewer-20-cmdref-configattrib.md#concept-850e0f2c49b949deb7cfbfd330d329bd)

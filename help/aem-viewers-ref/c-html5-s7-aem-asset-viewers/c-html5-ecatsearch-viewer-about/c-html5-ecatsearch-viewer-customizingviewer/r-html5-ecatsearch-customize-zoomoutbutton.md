@@ -7,8 +7,8 @@ title: Zoom out button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: a4c2eb32-819c-45a1-ac03-44e78ebd042b
 ---
-
 # Zoom out button{#zoom-out-button}
 
 Clicking or tapping this button zooms out on an image in the main view. This button does not display on mobile phones to save screen real estate. You can size, skin, and position this button by using CSS.
@@ -92,4 +92,3 @@ background-image:url(images/v2/ZoomOutButton_dark_down.png);
 background-image:url(images/v2/ZoomOutButton_dark_disabled.png); 
 }
 ```
-

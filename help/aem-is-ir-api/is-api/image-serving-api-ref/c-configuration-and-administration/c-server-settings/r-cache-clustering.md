@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Cache clustering
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: bd0267e7-ebf5-4995-b55e-89cb1a58de6d
 ---
-
 # Cache clustering{#cache-clustering}
 
 Use these server settings for cache clustering.
@@ -24,4 +24,4 @@ When requesting a cache entry from peer servers, the server will wait until one 
 
 ## PS::cacheCluster.fetchTimeout - Fetch Timeout {#section-41c42a29a26f43dc9cff50ad9fae1f14}
 
-Specifies the maximum number of msec the server will wait for the actual cache data to be delivered from the peer server. If the full data has not been delivered before the timeout expires, the server assumes that the peer has become unavailable. The cache entry is then generated locally. 
+Specifies the maximum number of msec the server will wait for the actual cache data to be delivered from the peer server. If the full data has not been delivered before the timeout expires, the server assumes that the peer has become unavailable. The cache entry is then generated locally.

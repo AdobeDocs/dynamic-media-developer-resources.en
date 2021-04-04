@@ -4,8 +4,8 @@ solution: Experience Manager
 title: batchSetThumbAsset
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: f7d7ddd9-a3c3-47c4-8da6-d693851d0d7f
 ---
-
 # batchSetThumbAsset{#batchsetthumbasset}
 
 Sets the thumbnail image for one or more assets.
@@ -78,4 +78,3 @@ Allowed thumbnail asset types consist of the following:
    <errorCount>0</errorCount>
 </batchSetThumbAssetReturn>
 ```
-

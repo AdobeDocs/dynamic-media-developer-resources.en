@@ -5,8 +5,8 @@ title: ThumbnailGridView.align
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: 1d7dd7f5-a5b4-43aa-9682-61f22a078f88
 ---
-
 # ThumbnailGridView.align{#thumbnailgridview-align}
 
 [!DNL `[ThumbnailGridView.|<containerId>_gridView.]align=left|center|right`]
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-6867c2975b7747cd8aa023c2a20c794f}
 
-[!DNL `align=center`] 
+[!DNL `align=center`]

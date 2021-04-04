@@ -4,8 +4,8 @@ solution: Experience Manager
 title: perspective
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 2e0297b0-c9a4-4bbd-9f06-368f722288d4
 ---
-
 # perspective{#perspective}
 
 Perspective transform. Apply a perspective transform to the layer source image to fill the region specified with the quadrilateral. Other areas of the layer remain transparent.
@@ -90,4 +90,4 @@ Layer command. Applies to the current layer or to layer 0 if `layer=comp`. Ignor
 
 ## See also {#section-e5b71ac4a0724df6bf678dd354cfa51a}
 
-[size=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-data-types/r-size.md#reference-04d383f32c7b4003bed9978cb854747b) , [scale=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-is-http-scale.md#reference-098c30cea1764f189e6f7c7e400cc065), [pos=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-pos.md#reference-65de948f4b404f1182b22119ca332143), [textAttr=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-textattr.md#reference-ff00484fa3244286abeff34911f7ec0d) 
+[size=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-data-types/r-size.md#reference-04d383f32c7b4003bed9978cb854747b) , [scale=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-is-http-scale.md#reference-098c30cea1764f189e6f7c7e400cc065), [pos=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-pos.md#reference-65de948f4b404f1182b22119ca332143), [textAttr=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-textattr.md#reference-ff00484fa3244286abeff34911f7ec0d)

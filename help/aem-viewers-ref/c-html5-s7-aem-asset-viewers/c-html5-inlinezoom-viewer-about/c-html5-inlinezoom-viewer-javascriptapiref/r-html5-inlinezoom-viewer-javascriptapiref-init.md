@@ -7,8 +7,8 @@ title: init
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,Business Practitioner
+exl-id: c4419728-1e1a-4e11-88fe-24eb0c968c5c
 ---
-
 # init{#init}
 
 JavaScript API reference for Inline Zoom Viewer.
@@ -34,4 +34,3 @@ None.
 ```
 <instance>.init()
 ```
-

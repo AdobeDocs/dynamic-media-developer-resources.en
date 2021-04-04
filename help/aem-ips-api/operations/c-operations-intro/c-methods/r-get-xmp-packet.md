@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getXMPPacket
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 76e595bd-e598-40e8-aba3-b270fcf4d800
 ---
-
 # getXMPPacket{#getxmppacket}
 
 Retrieves an XMP Metadata packet for the specified asset.
@@ -61,4 +61,3 @@ Retrieves an XMP Metadata packet for the specified asset.
    </compressedPacket>
 </getXMPPacketReturn>
 ```
-

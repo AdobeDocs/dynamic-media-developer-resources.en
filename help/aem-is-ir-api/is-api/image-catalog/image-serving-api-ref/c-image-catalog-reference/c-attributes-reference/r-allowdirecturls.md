@@ -4,8 +4,8 @@ solution: Experience Manager
 title: AllowDirectUrls
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: e160101a-9bb7-452f-b892-c2aa65e26e94
 ---
-
 # AllowDirectUrls{#allowdirecturls}
 
 Allow absolute URLs as image sources.
@@ -22,4 +22,4 @@ Inherited from `default::AllowDirectUrls` if not defined or if empty.
 
 ## See also {#section-604f9500749c4e1a968b260b9a3812b2}
 
-[src=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-src.md#reference-f6506637778c4c69bf106a7924a91ab1) , [mask=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-mask.md#reference-922254e027404fb890b850e2723ee06e), [attribute::RootUrl](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-rooturl.md#reference-3b0e43881020409cbe642366913cf137) 
+[src=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-src.md#reference-f6506637778c4c69bf106a7924a91ab1) , [mask=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-mask.md#reference-922254e027404fb890b850e2723ee06e), [attribute::RootUrl](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-rooturl.md#reference-3b0e43881020409cbe642366913cf137)

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Image maps
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 9a685f9d-205d-43b3-b5fe-3ae324fe153e
 ---
-
 # Image maps{#image-maps}
 
 IS provides mechanisms to simplify use of HTML image maps. The JAVA-based and Flash-based viewers in IS also include limited support for image maps.
@@ -49,4 +49,4 @@ Layer transparency is not considered for map processing. A fully transparent lay
 
 ## See also {#see-also}
 
-[map=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-map.md#reference-8f96545f196b4b7caa616e15c2363f06) , [catalog::Map](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-map-cat.md), [HTML 4.01 Specification](http://www.w3.org/TR/html401/) 
+[map=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-map.md#reference-8f96545f196b4b7caa616e15c2363f06) , [catalog::Map](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-map-cat.md), [HTML 4.01 Specification](http://www.w3.org/TR/html401/)

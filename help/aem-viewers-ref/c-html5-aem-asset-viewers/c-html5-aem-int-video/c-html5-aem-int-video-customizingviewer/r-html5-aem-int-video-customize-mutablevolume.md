@@ -7,8 +7,8 @@ title: Mutable volume
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: ecef47c1-e659-4930-bfb1-cc5e7c059094
 ---
-
 # Mutable volume{#mutable-volume}
 
 The mutable volume control initially appears as a button that lets a user mute or unmute the video player sound.
@@ -227,4 +227,3 @@ left:9px;
 background-image:url(images/volumeKnob.png); 
 }
 ```
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getPhotoshopPathNames
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 11d4c0d0-a3a3-4324-a4a6-1dd7b7e673da
 ---
-
 # getPhotoshopPathNames{#getphotoshoppathnames}
 
 Returns an array of Photoshop path names for the given image.
@@ -58,4 +58,3 @@ Returns an array of Photoshop path names for the given image.
   </pathNameArray>
 </getPhotoshopPathNamesReturn>
 ```
-

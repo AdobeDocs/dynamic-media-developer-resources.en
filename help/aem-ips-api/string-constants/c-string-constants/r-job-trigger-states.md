@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Job Trigger States
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 86f99fe5-fd0d-4c38-8952-9ad230ccde38
 ---
-
 # Job Trigger States{#job-trigger-states}
 
 Used by ScheduledJob/triggerState.
@@ -24,4 +24,3 @@ Used by ScheduledJob/triggerState.
 * [!DNL `MetadataUpload`] 
 * [!DNL `ImageOptimization`] 
 * [!DNL `Cleanup`]
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Image Rendering color management *
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: fa772ab2-8a32-4c1a-9ee3-c1cf4a0b3095
 ---
-
 # Image Rendering color management *{#image-rendering-color-management}
 
 Image Rendering supports color space conversions based on color space profiles conforming to the ICC (International Color Consortium) specification.
@@ -68,4 +68,4 @@ All color profiles used by the server must conform to the ICC specification. ICC
 
 While output profiles can be specified by file path/name in the `icc=` command, it is recommended to register all profile files in the ICC Profile Map of the default catalog or a specific material catalog and use shortcut identifiers ( `icc::Name`) instead of file paths.
 
-Working profiles must be registered in the ICC Profile Map of the material catalog or the default catalog. 
+Working profiles must be registered in the ICC Profile Map of the material catalog or the default catalog.

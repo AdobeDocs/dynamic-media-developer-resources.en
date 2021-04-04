@@ -7,8 +7,8 @@ title: Link share
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: 638ca6c2-375c-4162-b640-68aed6a8a9c6
 ---
-
 # Link share{#link-share}
 
 Link share tool consists of a button added to the Social share panel and the modal dialog box that displays when the tool is activated. The position of the button is fully managed by the Social share tool.

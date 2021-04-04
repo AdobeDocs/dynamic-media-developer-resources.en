@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Viewer SDK Tutorial
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,Business Practitioner
+exl-id: 3a798595-6c65-4a12-983d-3cdc53830d28
 ---
-
 # Viewer SDK Tutorial{#viewer-sdk-tutorial}
 
 The Viewer SDK provides a set of JavaScript-based components for custom viewer development. The viewers are web-based applications that allow for rich media content served by Adobe Dynamic Media to be embedded in web pages.
@@ -384,4 +384,3 @@ You will now add zoom in, zoom out, and zoom reset buttons to your viewer.
    Your basic zoom viewer is now complete.
 
    This viewer tutorial touches on the fundamentals of what the Dynamic Media Viewer SDK provides. As you work with the SDK you can use the various standard components to easily build and style rich viewing experiences for your target audiences.
-

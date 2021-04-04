@@ -7,8 +7,8 @@ title: setParams
 
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
+exl-id: 3c228b84-fbad-434f-96b4-d52485711844
 ---
-
 # setParams{#setparams}
 
 JavaScript API reference for Video360 Viewer.
@@ -41,4 +41,3 @@ None.
 ```
 <instance>.setParams("style=customStyle.css&VideoPlayer.playback=progressive")
 ```
-

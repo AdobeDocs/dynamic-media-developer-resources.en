@@ -5,8 +5,8 @@ title: EmailShare.emailurl
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: 074b8a74-9df9-4f0b-9196-a61783dda14b
 ---
-
 # EmailShare.emailurl{#emailshare-emailurl}
 
 ` [EmailShare.|<containerId>_emailShare.]emailurl= *`emailurl`*`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
-`emailurl=http://s7d1.scene7.com/s7/emailFriend` 
+`emailurl=http://s7d1.scene7.com/s7/emailFriend`

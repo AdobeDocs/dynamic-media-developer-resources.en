@@ -4,8 +4,8 @@ solution: Experience Manager
 title: replaceImage
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: bf8c1f5c-7829-4750-b5b7-b8b20d115d17
 ---
-
 # replaceImage{#replaceimage}
 
 Replaces image data for an image asset.
@@ -58,4 +58,3 @@ This code sample replaces an image and and applies a `urlModifier` with a comman
    <assetHandle>a|140626|1|102524</assetHandle>
 </replaceImageReturn>
 ```
-

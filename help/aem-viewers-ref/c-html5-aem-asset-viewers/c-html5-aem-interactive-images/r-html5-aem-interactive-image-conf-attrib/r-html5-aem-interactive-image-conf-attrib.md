@@ -7,8 +7,8 @@ title: Command reference – Configuration attributes
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,Business Practitioner
+exl-id: 53c4b304-3b45-4ff0-91aa-a14f39ab1e94
 ---
-
 # Command reference – Configuration attributes{#command-reference-configuration-attributes}
 
 Configuration attributes documentation for Interactive Image Viewer.
@@ -25,4 +25,4 @@ which means that you can use this command as:
 * `ZoomView.fmt` (qualified with component class name) 
 * `cont_zoomView.fmt` (qualified with component ID, assuming `cont` is the ID of the container element)
 
-See also [Command reference common to all viewers - Configuration attributes](../../../r-html5-viewer-20-cmdref-configattrib/r-html5-viewer-20-cmdref-configattrib.md#concept-850e0f2c49b949deb7cfbfd330d329bd) 
+See also [Command reference common to all viewers - Configuration attributes](../../../r-html5-viewer-20-cmdref-configattrib/r-html5-viewer-20-cmdref-configattrib.md#concept-850e0f2c49b949deb7cfbfd330d329bd)

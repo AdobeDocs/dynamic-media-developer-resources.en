@@ -7,8 +7,8 @@ title: zoomMode
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: a399ed5e-acc3-4c45-9c84-9fa572667489
 ---
-
 # zoomMode{#zoommode}
 
 Sets the type of zoom interaction.
@@ -34,4 +34,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`zoomMode=auto` 
+`zoomMode=auto`

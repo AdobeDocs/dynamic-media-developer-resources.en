@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Example B
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 90ef96fc-c12f-4fc8-b465-6520b71f4e7b
 ---
-
 # Example B{#example-b}
 
 Similar requirements as Example A, but use a solid color background and allow the height of the composite to vary, to accommodate images with different aspect ratios.
@@ -30,4 +30,3 @@ The origins for both layer 0 and layer 1 are placed at the center-right of the c
 The following illustration shows the composite result for different aspect ratios of the image and different text strings.
 
 ![](assets/exampleb.png)
-

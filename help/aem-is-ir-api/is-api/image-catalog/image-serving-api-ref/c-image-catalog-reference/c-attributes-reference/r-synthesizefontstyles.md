@@ -4,8 +4,8 @@ solution: Experience Manager
 title: SynthesizeFontStyles
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 08f20748-71c7-4b9f-9b45-70352f9abf35
 ---
-
 # SynthesizeFontStyles{#synthesizefontstyles}
 
 Enable synthesized font variations. Controls whether the server should generate an error response or synthesize a bold, italic, or bold/italic font style if such a style is requested but cannot be found in the font map.
@@ -24,4 +24,4 @@ Inherited from `default::SynthesizeFontStyles` if not defined or if empty.
 
 ## See also {#section-47a79659cc844272b6d5f36c946e12ac}
 
-[Font Map Reference](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-font-map-reference/c-font-map-reference.md#concept-f81f319d03c646c5a8ef87b3277dd37d) 
+[Font Map Reference](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-font-map-reference/c-font-map-reference.md#concept-f81f319d03c646c5a8ef87b3277dd37d)

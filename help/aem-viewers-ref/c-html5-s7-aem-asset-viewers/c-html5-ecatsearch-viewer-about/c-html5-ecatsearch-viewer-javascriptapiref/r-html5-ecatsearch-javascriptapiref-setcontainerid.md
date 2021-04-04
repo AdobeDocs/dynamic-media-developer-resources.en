@@ -7,8 +7,8 @@ title: setContainerId
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: f1491091-f109-4836-b7f1-ad0619b72dce
 ---
-
 # setContainerId{#setcontainerid}
 
 JavaScript API reference for eCatalog Viewer.
@@ -37,4 +37,3 @@ None.
 ```
 <instance>.setContainerId("s7viewer");
 ```
-

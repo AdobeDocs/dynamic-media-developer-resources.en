@@ -4,8 +4,8 @@ solution: Experience Manager
 title: FXG server protocol reference
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: a3b3d5d9-d7c9-44a6-97a5-8e3e2c4abef0
 ---
-
 # FXG server protocol reference{#fxg-server-protocol-reference}
 
 This document provides information about FXG server protocols and their syntax.

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: AllowDirectURLs
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: f9ab0c0e-989c-42ce-b9dd-4ca2f6b382d2
 ---
-
 # AllowDirectURLs{#allowdirecturls}
 
 Allow absolute source URLs.
@@ -22,4 +22,4 @@ Inherited from `default::AllowDirectUrls` if not defined or if empty.
 
 ## See also {#section-66e0c597a8b04155b40538385312b389}
 
-[src=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-src.md#reference-62c98abad22149d68d405ed6aaff8272) , [attribute::RootUrl](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-rooturl.md#reference-b8d706a573814802bd6794223cc78402) 
+[src=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-src.md#reference-62c98abad22149d68d405ed6aaff8272) , [attribute::RootUrl](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-rooturl.md#reference-b8d706a573814802bd6794223cc78402)

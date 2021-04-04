@@ -5,8 +5,8 @@ title: Swatches.align
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 4f25112b-9e51-4a0e-9500-1b5ab0f4de87
 ---
-
 # Swatches.align{#swatches-align}
 
  `[Swatches.|<containerId>_swatches.]align=left|center|right,top|center|bottom`
@@ -36,4 +36,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`align=left,top` 
+`align=left,top`

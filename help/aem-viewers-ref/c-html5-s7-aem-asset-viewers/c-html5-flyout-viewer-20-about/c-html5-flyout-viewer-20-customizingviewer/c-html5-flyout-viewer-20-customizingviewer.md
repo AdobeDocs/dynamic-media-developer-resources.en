@@ -6,8 +6,8 @@ title: Customizing Flyout Viewer
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,Business Practitioner
+exl-id: b7898044-5178-4cdf-ab52-9996a61a3a35
 ---
-
 # Customizing Flyout Viewer{#customizing-flyout-viewer}
 
 All visual customization and most behavior customization is done by creating a custom CSS.

@@ -5,8 +5,8 @@ solution: Experience Manager
 title: Video
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
+exl-id: fa9727dc-f9e2-4d91-b500-445693dfb6aa
 ---
-
 # Video{#video}
 
 The Video Viewer is a video player that plays streaming and progressive video encoded in the H.264 format. It is delivered from Dynamic Media Classic or AEM Dynamic Media.
@@ -386,4 +386,3 @@ videoViewer.init();
 </html> 
 
 ```
-

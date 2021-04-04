@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Property data
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 86278720-ece0-4e67-8fb1-443355f878b7
 ---
-
 # Property data{#property-data}
 
 Property data consists of a text string representing one or more properties.
@@ -16,4 +16,4 @@ Multiple properties are separated by line separators, which may be either `??` o
 
 Property values must not include line separators.
 
-See [Text String](../../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-overview/c-common-data-types/r-text-string.md#reference-ae0a9e181b0e40c6bcdb43af7f481d63) for additional rules applied to Property Data. 
+See [Text String](../../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-overview/c-common-data-types/r-text-string.md#reference-ae0a9e181b0e40c6bcdb43af7f481d63) for additional rules applied to Property Data.

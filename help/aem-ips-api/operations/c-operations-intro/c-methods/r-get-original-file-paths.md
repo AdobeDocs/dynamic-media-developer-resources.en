@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getOriginalFilePaths
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 81d06a8c-55c1-47d5-adc9-928ab30199c6
 ---
-
 # getOriginalFilePaths{#getoriginalfilepaths}
 
 Gets the original file paths of a company’s assets.
@@ -67,4 +67,3 @@ This code sample returns the file paths of assets specified with unique asset ha
    </originalFileArray>
 </getOriginalFilePathsReturn>
 ```
-

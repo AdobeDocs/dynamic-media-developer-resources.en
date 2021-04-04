@@ -4,8 +4,8 @@ solution: Experience Manager
 title: SystemFieldConditionArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: bc6fd6c6-acb9-4a90-830b-e964af04abd2
 ---
-
 # SystemFieldConditionArray{#systemfieldconditionarray}
 
 An system field condition array.
@@ -17,4 +17,3 @@ An system field condition array.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:SystemFieldConditions`  | An array of system field conditions.  |
-

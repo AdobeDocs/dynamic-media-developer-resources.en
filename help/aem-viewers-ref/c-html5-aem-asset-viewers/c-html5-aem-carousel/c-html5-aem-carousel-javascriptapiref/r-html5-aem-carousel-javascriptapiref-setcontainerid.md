@@ -7,8 +7,8 @@ title: setContainerId
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
+exl-id: 32636cf9-3dc7-4299-a7b7-cf803ca36514
 ---
-
 # setContainerId{#setcontainerid}
 
 JavaScript API reference for Carousel Viewer.
@@ -39,4 +39,3 @@ None.
 ```
 <instance>.setContainerId("s7viewer");
 ```
-

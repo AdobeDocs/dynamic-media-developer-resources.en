@@ -5,8 +5,8 @@ title: PageView.maxloadradius
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: 02925e09-f1ab-4afb-a900-d216efd323fe
 ---
-
 # PageView.maxloadradius{#pageview-maxloadradius}
 
 ` [PageView.|<containerId>_pageView.]maxloadradius=-1|0| *`preloadnbr`*`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-4e27dfc1e2ce4dd7a4996dc575ab7a93}
 
-`maxloadradius=0` 
+`maxloadradius=0`

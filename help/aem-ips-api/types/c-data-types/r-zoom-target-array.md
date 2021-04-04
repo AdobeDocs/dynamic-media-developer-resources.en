@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ZoomTargetArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: eb397fdc-39e3-4fa2-8891-4c692cbaa9a3
 ---
-
 # ZoomTargetArray{#zoomtargetarray}
 
 An array of Zoom targets.
@@ -17,4 +17,3 @@ An array of Zoom targets.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:ZoomTarget`  | Array of Zoom targets.  |
-

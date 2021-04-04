@@ -4,8 +4,8 @@ solution: Experience Manager
 title: updateAssetSet
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: af7899c4-a95f-42c8-858e-ed1592c6f5b6
 ---
-
 # updateAssetSet{#updateassetset}
 
 Updates an asset set.
@@ -47,4 +47,3 @@ Updates an asset set.
 ```java
 <updateAssetSetReturn xmlns="http://www.scene7.com/IpsApi/xsd/2014-04-03"/>
 ```
-

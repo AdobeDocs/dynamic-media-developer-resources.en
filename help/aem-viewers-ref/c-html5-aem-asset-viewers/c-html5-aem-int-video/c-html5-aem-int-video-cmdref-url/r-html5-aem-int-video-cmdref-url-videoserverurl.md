@@ -7,8 +7,8 @@ title: videoServerUrl
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: 2bcbe117-14a3-42c8-bdd3-790b32bb757c
 ---
-
 # videoServerUrl{#videoserverurl}
 
 URL command for Video Viewer.
@@ -37,4 +37,3 @@ Optional.
 ```
 videoServerUrl=https://gateway-na.assetsadobe.com/DMGateway/public/aodmarketingna
 ```
-

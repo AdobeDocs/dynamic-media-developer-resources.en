@@ -4,8 +4,8 @@ solution: Experience Manager
 title: convertTextToOutlines
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: b9bff788-f859-4817-9e29-b9edc579eee7
 ---
-
 # convertTextToOutlines{#converttexttooutlines}
 
 Convert text in a PDF file to outlines.
@@ -19,4 +19,4 @@ Convert text in a PDF file to outlines.
 
 Use the URL command `convertTextToOutlines=1` to change all text in a PDF file to outlined paths.
 
-When any effect is applied to text in a PDF file, such as converting text to outlines, the final rendered image is reduced or "flattened" in size. 
+When any effect is applied to text in a PDF file, such as converting text to outlines, the final rendered image is reduced or "flattened" in size.

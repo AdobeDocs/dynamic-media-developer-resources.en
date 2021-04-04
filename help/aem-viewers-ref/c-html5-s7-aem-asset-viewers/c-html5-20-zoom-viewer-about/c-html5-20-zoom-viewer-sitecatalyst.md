@@ -5,8 +5,8 @@ title: Support for Adobe Analytics tracking
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner,Data Engineer,Data Architect
+exl-id: 5f927a4b-b9c8-4750-9d1c-c252d87fd236
 ---
-
 # Support for Adobe Analytics tracking{#support-for-adobe-analytics-tracking}
 
 ## Out-of-the-box tracking {#section-ba994f079d0343c8ae48adffaa3195a3}
@@ -73,4 +73,3 @@ The viewer tracks the following SDK user events:
   </tr> 
  </tbody> 
 </table>
-

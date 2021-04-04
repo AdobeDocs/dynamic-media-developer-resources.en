@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Monitoring and alerting system
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: fe672d1b-93e5-466a-a329-3032095c6ba8
 ---
-
 # Monitoring and alerting system{#monitoring-and-alerting-system}
 
 Use these server settings to configure the monitoring and alerting system.
@@ -40,4 +40,4 @@ Minimum time after an heap space alert before another one will be emitted. Inter
 
 ## AS::monitorAlertGenerator.minTrafficForAlerts - Minimum Traffic to Enable Alerting {#section-8b4db2d6f96642309ca35c49eb3ab230}
 
-Requests per second. No response time and error alerts will be emitted if traffic falls below this threshold. Set to 0 to send response time and error alerts regardless of the traffic volume. Real value 0 or larger. 
+Requests per second. No response time and error alerts will be emitted if traffic falls below this threshold. Set to 0 to send response time and error alerts regardless of the traffic volume. Real value 0 or larger.

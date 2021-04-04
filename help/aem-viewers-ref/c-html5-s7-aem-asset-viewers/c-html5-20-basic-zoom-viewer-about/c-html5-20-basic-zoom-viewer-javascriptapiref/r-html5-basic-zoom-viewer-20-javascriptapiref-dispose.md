@@ -7,8 +7,8 @@ title: dispose
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
+exl-id: 49c353f7-deab-43a7-84dd-21fda7864574
 ---
-
 # dispose{#dispose}
 
 JavaScript API reference for Basic Zoom Viewer.
@@ -36,4 +36,3 @@ None.
 ```
 <instance>.dispose()
 ```
-

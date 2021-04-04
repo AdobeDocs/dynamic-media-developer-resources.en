@@ -5,8 +5,8 @@ title: FlyoutZoomView.tip
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,Business Practitioner
+exl-id: df73235b-547e-4d47-aa76-1d2bd4aead9b
 ---
-
 # FlyoutZoomView.tip{#flyoutzoomview-tip}
 
  ` [FlyoutZoomView.|<containerId>_flyout.]tip= *`duration`*[, *`count`*][, *`fade`*]`
@@ -38,4 +38,4 @@ Optional.
 
 ## Example {#section-3a188ab955c445bcb2efa3c49722c10d}
 
-`tip=1,-1,0` 
+`tip=1,-1,0`

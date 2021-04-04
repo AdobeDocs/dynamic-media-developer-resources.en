@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Data Types  New and Modified
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: d3bcd718-cf27-4d31-850f-a3205564be60
 ---
-
 # Data Types: New and Modified{#data-types-new-and-modified}
 
 Describes new and changed types for the IPS API version 6.
@@ -65,4 +65,3 @@ Describes new and changed types for the IPS API version 6.
 * In `Folder`, changed `permissions` to `permissionsSetHandle`. 
 
 * In `AssetSummary`, `type` and `name` are now optional.
-

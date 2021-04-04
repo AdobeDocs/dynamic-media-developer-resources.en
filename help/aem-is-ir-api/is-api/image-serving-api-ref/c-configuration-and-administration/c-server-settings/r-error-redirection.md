@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Error redirection
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: a184e113-9708-412f-9b71-d75a35629adf
 ---
-
 # Error redirection{#error-redirection}
 
 Use these server settings to redirect errors.
@@ -24,4 +24,4 @@ Maximum time (in msec) the server will wait for a connection with the secondary 
 
 ## PS::errorRedirect.socketTimeout - Redirect Response Timeout {#section-69d8579f748d4044bca99dfb64dd523c}
 
-Maximum time (in msec) the server will wait for the secondary server to return data before abandoning the redirect request and returning an error to the client. 
+Maximum time (in msec) the server will wait for the secondary server to return data before abandoning the redirect request and returning an error to the client.

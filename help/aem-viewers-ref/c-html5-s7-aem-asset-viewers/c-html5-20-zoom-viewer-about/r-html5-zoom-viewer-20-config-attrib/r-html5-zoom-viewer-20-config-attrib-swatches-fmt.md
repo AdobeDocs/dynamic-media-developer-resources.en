@@ -5,8 +5,8 @@ title: Swatches.fmt
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
+exl-id: 8b47839a-ef3b-45ae-8e8d-5c9391d71d44
 ---
-
 # Swatches.fmt{#swatches-fmt}
 
  `[Swatches.|<containerId>_swatches.]fmt=jpg|jpeg|png|png-alpha|gif|gif-alpha`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-bce98c31f08a4a0ab262fab7f95ba020}
 
-`fmt-png-alpha` 
+`fmt-png-alpha`

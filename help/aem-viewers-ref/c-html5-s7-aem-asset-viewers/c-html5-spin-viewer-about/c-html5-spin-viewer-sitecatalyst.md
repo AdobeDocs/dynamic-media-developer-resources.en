@@ -7,8 +7,8 @@ title: Support for Adobe Analytics tracking
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner,Data Engineer,Data Architect
+exl-id: 30762700-6d69-4299-9492-57893232abe1
 ---
-
 # Support for Adobe Analytics tracking{#support-for-adobe-analytics-tracking}
 
 The Spin Viewer supports Adobe Analytics tracking out of the box.
@@ -79,4 +79,3 @@ The viewer tracks the following SDK user events:
   </tr> 
  </tbody> 
 </table>
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: User Sort Fields
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 23d98e61-2873-41ed-8835-89b218cd89f3
 ---
-
 # User Sort Fields{#user-sort-fields}
 
 Used by getUsersParam/sortBy.
@@ -21,4 +21,3 @@ Used by getUsersParam/sortBy.
 * [!DNL `Role`] 
 * [!DNL `Valid`] 
 * [!DNL `PasswordExpiration`]
-

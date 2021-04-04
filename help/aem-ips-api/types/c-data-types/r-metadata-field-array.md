@@ -4,8 +4,8 @@ solution: Experience Manager
 title: MetadataFieldArray
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
+exl-id: 56373ff9-99a5-4fcb-9704-4ff2d4781736
 ---
-
 # MetadataFieldArray{#metadatafieldarray}
 
 An array of metadata fields
@@ -17,4 +17,3 @@ An array of metadata fields
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:MetadataField`  | Metadata field array.  |
-

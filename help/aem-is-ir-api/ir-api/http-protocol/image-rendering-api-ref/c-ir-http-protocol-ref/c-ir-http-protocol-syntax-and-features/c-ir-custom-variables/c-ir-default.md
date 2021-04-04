@@ -4,10 +4,10 @@ solution: Experience Manager
 title: Default
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: a78f44fc-d5ec-485d-a7b5-a8baf06f50a5
 ---
-
 # Default{#default}
 
 There is no default.
 
-Only variables which have been defined will be substituted by the server. Any occurrences of `$ *[!DNL name]*$` that do not match any defined custom variable remain literal. 
+Only variables which have been defined will be substituted by the server. Any occurrences of `$ *[!DNL name]*$` that do not match any defined custom variable remain literal.

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: PlatformServer.conf
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: 00d55453-e7e6-4242-be83-7efa12764e5d
 ---
-
 # PlatformServer.conf{#platformserver-conf}
 
 Contains Platform Server settings.
@@ -38,4 +38,3 @@ Only settings listed below may be changed in [!DNL PlatformServer.conf]. If a pa
   <td class="stentry"> <p> <span class="codeph"> fvctx.useCatalogRecordValidation=false </span> </p> <p> <span class="codeph"> fvctx.nestingLimit=10 </span> </p> <p> <span class="codeph"> fvctx.brochureLimit=20 </span> </p> </td> 
  </tr> 
 </table>
-

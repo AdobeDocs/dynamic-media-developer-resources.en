@@ -4,8 +4,8 @@ solution: Experience Manager
 title: setGroupMembers
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 81348da7-6733-4da9-8a0a-376fccf791ea
 ---
-
 # setGroupMembers{#setgroupmembers}
 
 Sets the group membership of users that belong to a specific company.
@@ -50,4 +50,4 @@ This code sample sets group membership for a single user.
 
 **Response**
 
-None. 
+None.

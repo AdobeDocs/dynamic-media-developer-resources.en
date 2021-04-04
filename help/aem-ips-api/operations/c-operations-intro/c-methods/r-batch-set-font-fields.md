@@ -4,8 +4,8 @@ solution: Experience Manager
 title: batchSetFontFields
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: f38aa861-2a81-4663-967e-72611122f51b
 ---
-
 # batchSetFontFields{#batchsetfontfields}
 
 Sets font metadata fields.
@@ -67,4 +67,3 @@ Sets font metadata fields.
    <errorCount>0</errorCount>
 </batchSetFontFieldsReturn>
 ```
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Image Rendering HTTP encoding
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: a1efc4ce-a170-4bdb-8584-407e07113272
 ---
-
 # Image Rendering HTTP encoding{#image-rendering-http-encoding}
 
 Command values must be http-encoded using %xx escape sequences, such that the value strings do not include the reserved characters '=', '&', and '%'.
@@ -24,4 +24,4 @@ The above request fragment must be encoded as follows:
 
 ## See also {#section-d31268a02fe345e3abf0a4eb95a1dac5}
 
-[HTTP/1.1 Specification (RFC 2616)](https://www.w3.org/Protocols/rfc2616/rfc2616.html)  
+[HTTP/1.1 Specification (RFC 2616)](https://www.w3.org/Protocols/rfc2616/rfc2616.html)

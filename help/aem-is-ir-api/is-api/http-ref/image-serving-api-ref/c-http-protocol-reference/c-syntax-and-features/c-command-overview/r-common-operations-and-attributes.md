@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Common operations
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: f30a9653-7aed-4233-8361-18ca6561d420
 ---
-
 # Common operations{#common-operations}
 
 These commands apply to image, text and solid color layers. They are also generally useful for composite images and simple, non-layered image requests.
@@ -76,4 +76,3 @@ These commands apply to image, text and solid color layers. They are also genera
   <td class="stentry"> <p>Specifies inverted clip shape(s) for the layer. </p></td> 
  </tr> 
 </table>
-

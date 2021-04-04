@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ReprocessAssetsJob
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: b6078246-54e1-4119-b4f8-ba6a28577cff
 ---
-
 # ReprocessAssetsJob{#reprocessassetsjob}
 
 Job type to allow reprocessing of previously uploaded primary files, including reripping PDFs and reoptimizing images.
@@ -164,4 +164,3 @@ Choices for `*PublishJob` include:
 * `postImageServingPublishJob` 
 * `postImageRenderingPublishJob` 
 * `postVideoPublishJob`
-

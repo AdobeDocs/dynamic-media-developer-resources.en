@@ -7,8 +7,8 @@ title: ZoomViewer
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
+exl-id: fa52a017-0748-4e4f-8d91-ad1529fbfbdb
 ---
-
 # ZoomViewer{#zoomviewer}
 
 JavaScript API reference for Zoom Viewer.
@@ -63,4 +63,3 @@ defaultLocale:"en"
 } 
 });
 ```
-

@@ -5,8 +5,8 @@ title: closebutton
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 32e888ea-52d7-4ec3-8b59-e513033a73b8
 ---
-
 # closebutton{#closebutton}
 
  `closebutton=0|1`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`closebutton=1` 
+`closebutton=1`

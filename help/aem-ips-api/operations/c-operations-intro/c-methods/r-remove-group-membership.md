@@ -4,8 +4,8 @@ solution: Experience Manager
 title: removeGroupMembership
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 892ee01c-e07b-4321-b0b7-5bb606036340
 ---
-
 # removeGroupMembership{#removegroupmembership}
 
 Removes users from an array of groups.
@@ -51,4 +51,4 @@ This code sample removes a user from a group.
 
 **Response**
 
-None. 
+None.

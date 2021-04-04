@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Image Rendering HTTP protocol basic syntax
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 8bf5920a-7ada-4db5-9796-05c5a17532c8
 ---
-
 # Image Rendering HTTP protocol basic syntax{#image-rendering-http-protocol-basic-syntax}
 
 This section describes the basic syntax of the Dynamic Media Image Rendering HTTP protocol.
@@ -77,4 +77,4 @@ Comments may be embedded into request strings anywhere and are identified by a p
 
 **HTTP decoding**
 
-Image Rendering first extracts *`object`* and *`modifiers`* from the incoming request. *`object`* is then separated into path elements which are individually HTTP-decoded. The *`modifiers`* string is separated into *`command`*= *`value`* pairs, and *`value`* is then HTTP-decoded before command-specific processing. 
+Image Rendering first extracts *`object`* and *`modifiers`* from the incoming request. *`object`* is then separated into path elements which are individually HTTP-decoded. The *`modifiers`* string is separated into *`command`*= *`value`* pairs, and *`value`* is then HTTP-decoded before command-specific processing.

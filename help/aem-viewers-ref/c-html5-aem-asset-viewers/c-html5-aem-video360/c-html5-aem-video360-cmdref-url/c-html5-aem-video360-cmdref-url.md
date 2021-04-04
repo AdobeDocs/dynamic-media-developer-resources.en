@@ -7,8 +7,8 @@ title: Command reference – URL
 
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
+exl-id: eb7026cf-f28b-4426-ba64-b3472946d5d4
 ---
-
 # Command reference – URL{#command-reference-url}
 
 Command reference documentation for Video360 Viewer.
@@ -27,4 +27,4 @@ which means that this command is used in the following manner:
 * `Video360Player.playback` (qualified with component class name) 
 * `cont_video360Player.playback` (qualified with component ID, assuming that `cont` is the ID of the container element)
 
-See [Command reference common to all viewers - Configuration attributes](../../../r-html5-viewer-20-cmdref-configattrib/r-html5-viewer-20-cmdref-configattrib.md#concept-850e0f2c49b949deb7cfbfd330d329bd) and [Command reference common to all Viewers - URL](../../../c-html5-viewer-20-cmdref-url/c-html5-viewer-20-cmdref-url.md#concept-9b337f349b7b406b8c33c7ee96b3e226) 
+See [Command reference common to all viewers - Configuration attributes](../../../r-html5-viewer-20-cmdref-configattrib/r-html5-viewer-20-cmdref-configattrib.md#concept-850e0f2c49b949deb7cfbfd330d329bd) and [Command reference common to all Viewers - URL](../../../c-html5-viewer-20-cmdref-url/c-html5-viewer-20-cmdref-url.md#concept-9b337f349b7b406b8c33c7ee96b3e226)

@@ -7,8 +7,8 @@ title: init
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
+exl-id: d46a9c8b-064a-4928-b30e-885b12d287ab
 ---
-
 # init{#init}
 
 JavaScript API reference for Video Viewer.
@@ -34,4 +34,3 @@ None.
 ```
 <instance>.init()
 ```
-

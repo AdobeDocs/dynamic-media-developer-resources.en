@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getImageServingPublishSettings
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: ab7b5df6-58fb-4111-be9c-76901534d167
 ---
-
 # getImageServingPublishSettings{#getimageservingpublishsettings}
 
 For internal use only. Users should refer to the Image Serving Image Catalog Reference – Attribute Reference section.
@@ -33,4 +33,3 @@ For internal use only. Users should refer to the Image Serving Image Catalog Ref
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
 |  `*`publishSettingArray`*`  | `xsd:string`  | Yes  | Array of image server publish settings.  |
-

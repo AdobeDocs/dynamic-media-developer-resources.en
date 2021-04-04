@@ -4,8 +4,8 @@ solution: Experience Manager
 title: appendElement
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: f93bc31e-c0ae-4375-bb6a-eba6f11945b2
 ---
-
 # appendElement{#appendelement}
 
 Append XML to a s7:elementID.
@@ -20,4 +20,4 @@ Assume a `s7:elementID="group1"` attribute is defined for a Group node then the 
 
 `&appendElement.group1=<TextGraphic+fontFamily%3D"DefaultFont"+fontSize%3D"50"+x%3D"20"+y%3D"500" ><content><p><span>New+Text+Graphic+Tag+For+Demo<%2Fspan><%2Fp><%2Fcontent><%2FTextGraphic>`
 
-This example appends a text graphic child to `group1`. 
+This example appends a text graphic child to `group1`.

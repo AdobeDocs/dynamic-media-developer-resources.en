@@ -7,8 +7,8 @@ title: setHandlers
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: ece8d2ba-30ef-4616-81a6-6028e5f3c66f
 ---
-
 # setHandlers{#sethandlers}
 
 JavaScript API reference for Interactive Video Viewer
@@ -41,4 +41,3 @@ None.
 } 
 })
 ```
-

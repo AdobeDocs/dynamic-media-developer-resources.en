@@ -8,8 +8,8 @@ title: Customizing eCatalog Search Viewer
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: 32b55fb1-1408-4264-92fa-b3a73f31df1d
 ---
-
 # Customizing eCatalog Search Viewer{#customizing-ecatalog-search-viewer}
 
 All visual customization and most behavior customization for the eCatalog Search Viewer is done by creating a custom CSS.
@@ -218,4 +218,3 @@ The following is user interface elements reference documentation that applies to
 * [Zoom in button](r-html5-ecatsearch-customize-zoominbutton.md)
 * [Zoom out button](r-html5-ecatsearch-customize-zoomoutbutton.md)
 * [Zoom reset button](r-html5-ecatsearch-customize-zoomresetbutton.md)
-

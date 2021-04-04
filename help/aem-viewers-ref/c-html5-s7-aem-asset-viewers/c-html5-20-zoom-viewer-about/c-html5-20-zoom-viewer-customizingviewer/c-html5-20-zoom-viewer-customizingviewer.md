@@ -8,8 +8,8 @@ title: Customizing Zoom Viewer
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
+exl-id: 336bf68c-6110-4ce8-85b4-28d7397044c2
 ---
-
 # Customizing Zoom Viewer{#customizing-zoom-viewer}
 
 All visual customization and most behavior customization for the Zoom Viewer is done by creating a custom CSS.
@@ -181,4 +181,4 @@ background-position: -0px -560px;
 
 ## Common User Interface Elements {#section-d6330c9be8c444aa9b2a07886e3dbc2a}
 
-The following is user interface elements reference documentation that applies to Video Viewer: 
+The following is user interface elements reference documentation that applies to Video Viewer:

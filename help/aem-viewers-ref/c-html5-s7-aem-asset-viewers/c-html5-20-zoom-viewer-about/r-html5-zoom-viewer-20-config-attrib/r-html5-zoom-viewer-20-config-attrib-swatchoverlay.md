@@ -5,8 +5,8 @@ title: swatchoverlay
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
+exl-id: a4e187d9-b920-4d0d-adaa-ea369c5694fe
 ---
-
 # swatchoverlay{#swatchoverlay}
 
  `swatchoverlay=0|1`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`swatchoverlay=0` 
+`swatchoverlay=0`

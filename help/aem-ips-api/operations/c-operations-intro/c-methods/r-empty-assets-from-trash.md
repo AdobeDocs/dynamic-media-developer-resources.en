@@ -4,8 +4,8 @@ solution: Experience Manager
 title: emptyAssetsFromTrash
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: 36866dc8-6a16-4445-942f-d0ea3c168272
 ---
-
 # emptyAssetsFromTrash{#emptyassetsfromtrash}
 
 Empties assets from the IPS trash.
@@ -66,4 +66,3 @@ This code sample uses the company’s handle and an asset handle array that cont
    <errorCount>0</errorCount>
 </emptyAssetsFromTrashReturn>
 ```
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: props
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 9933d1dc-ae16-4d17-80ca-a1068cd73b0c
 ---
-
 # props{#props}
 
 Response data properties. Evaluates the current request as if it were an image request (req=img), but instead of returning the image, the server returns selected properties of the reply image.
@@ -150,4 +150,3 @@ The following properties are returned for `/is/content` requests:
   </tr> 
  </tbody> 
 </table>
-

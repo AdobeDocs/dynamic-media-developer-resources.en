@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Server logging
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: 5be30dd6-e540-4189-9379-7465ac7198ce
 ---
-
 # Server logging{#server-logging}
 
 All log files are written to the same log folder specified with TC::directory.
@@ -24,4 +24,4 @@ Other Image Serving components and certain other Dynamic Media packages, such as
 
 ## See also {#section-5ff5e46031b1461c92de24e632610d6d}
 
-[Access Logging](../../../../is-api/image-serving-api-ref/c-configuration-and-administration/c-server-settings/r-access-logging.md#reference-5d175921c12a48a6be7f722517615d0f), [Debug/Trace Logging](../../../../is-api/image-serving-api-ref/c-configuration-and-administration/c-server-settings/r-debug-trace-logging.md#reference-4b372f81001849f5b495457da7af8e82) 
+[Access Logging](../../../../is-api/image-serving-api-ref/c-configuration-and-administration/c-server-settings/r-access-logging.md#reference-5d175921c12a48a6be7f722517615d0f), [Debug/Trace Logging](../../../../is-api/image-serving-api-ref/c-configuration-and-administration/c-server-settings/r-debug-trace-logging.md#reference-4b372f81001849f5b495457da7af8e82)

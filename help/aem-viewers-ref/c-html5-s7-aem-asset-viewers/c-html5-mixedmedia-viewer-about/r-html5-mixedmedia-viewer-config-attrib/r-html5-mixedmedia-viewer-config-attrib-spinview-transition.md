@@ -5,8 +5,8 @@ title: SpinView.transition
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: fcffe282-65a5-4093-8838-71a64085b387
 ---
-
 # SpinView.transition{#spinview-transition}
 
  ` [SpinView.|<containerId>_spinView.]transition= *`time`*[, *`easing`*]`
@@ -42,4 +42,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`transition=2,2` 
+`transition=2,2`

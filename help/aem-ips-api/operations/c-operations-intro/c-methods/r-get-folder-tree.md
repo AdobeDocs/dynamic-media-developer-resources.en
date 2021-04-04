@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getFolderTree
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 1afe63ca-d11a-4fa5-a26b-90a23bee1b68
 ---
-
 # getFolderTree{#getfoldertree}
 
 Returns folders and subfolders in a hierarchical tree structure. The getFolderTree response is limited to a maximum of 100,000 folders
@@ -127,4 +127,3 @@ This code sample uses a company handle and a depth parameter to determine the le
 </getFolderTreeReturn>
 
 ```
-

@@ -5,8 +5,8 @@ title: FavoritesView.maxloadradius
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: 6bbf75f1-96e7-496d-9f5c-6f449f76bfdd
 ---
-
 # FavoritesView.maxloadradius{#favoritesview-maxloadradius}
 
 ` [FavoritesView.|<containerId>_favoritesView.]maxloadradius=-1|0| *`preloadnbr`*`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
-`maxloadradius=0` 
+`maxloadradius=0`

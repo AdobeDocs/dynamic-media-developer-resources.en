@@ -7,8 +7,8 @@ title: navigation
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: 9852e723-fd1f-4ade-921b-cfb92bf9f2ad
 ---
-
 # navigation{#navigation}
 
 URL command for Interactive Video Viewer.
@@ -39,4 +39,3 @@ None.
 ```
 navigation=is/content/content/dam/mac/aodmarketingna/_VTT/dm-viewers-content/video/Glacier.mp4.navigation.vtt,1
 ```
-

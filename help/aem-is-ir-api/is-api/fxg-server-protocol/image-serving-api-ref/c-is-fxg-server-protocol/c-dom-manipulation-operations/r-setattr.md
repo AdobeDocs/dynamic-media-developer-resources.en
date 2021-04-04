@@ -4,8 +4,8 @@ solution: Experience Manager
 title: setAttr
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: e4a51b97-ba5f-42a9-8d7b-8dc42ad5fe24
 ---
-
 # setAttr{#setattr}
 
 Set any attribute for a given s7:elementID.
@@ -20,4 +20,4 @@ Assume a `s7:elementID="Group1"` attribute is defined for a `BitmapGraphic` node
 
 `&setAttr.Group1={x=250%26y=170%26rotation=90%26scaleX=1%26scaleY=0.5}`
 
-This example sets the *[!DNL x]*, *[!DNL y]*, *[!DNL rotation]*, *[!DNL scaleX]*, and *[!DNL scaleY]* for the `BitmapGraphic` and overrides any existing values. 
+This example sets the *[!DNL x]*, *[!DNL y]*, *[!DNL rotation]*, *[!DNL scaleX]*, and *[!DNL scaleY]* for the `BitmapGraphic` and overrides any existing values.

@@ -7,8 +7,8 @@ title: Video360Player.iconeffect
 
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
+exl-id: 818ea14b-4dab-4447-9645-46f2ba82547b
 ---
-
 # Video360Player.iconeffect{#video-player-iconeffect}
 
 Configuration attribute for Video360 Viewer.
@@ -46,4 +46,4 @@ Optional.
 
 ## Example {#section-bce98c31f08a4a0ab262fab7f95ba020}
 
-`iconeffect=0` 
+`iconeffect=0`

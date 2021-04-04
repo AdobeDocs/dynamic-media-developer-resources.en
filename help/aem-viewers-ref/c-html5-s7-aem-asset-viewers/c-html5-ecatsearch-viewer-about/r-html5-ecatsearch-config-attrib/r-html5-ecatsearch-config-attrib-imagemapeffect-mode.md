@@ -5,8 +5,8 @@ title: ImageMapEffect.mode
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: 3772ff80-3a51-4dd9-85a7-12242518080c
 ---
-
 # ImageMapEffect.mode{#imagemapeffect-mode}
 
  [!DNL `[ImageMapEffect.|<containerId>_imageMapEffect.]mode=icon|region|auto|none`]
@@ -36,4 +36,4 @@ Optional.
 
 ## Example {#section-319450f834e5406fb1bca77372e03b4b}
 
-[!DNL `mode=auto`] 
+[!DNL `mode=auto`]

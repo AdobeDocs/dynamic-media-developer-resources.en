@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Verifying the installation
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 3fcb1f20-8334-497e-8b3e-9097751ca5c1
 ---
-
 # Verifying the installation{#verifying-the-installation}
 
 After you install Dynamic Media Image Serving, you should verify the installation.
@@ -20,5 +20,4 @@ After you install Dynamic Media Image Serving, you should verify the installatio
 [!DNL  http:// *[!DNL server:port]*/ir/render]
 
    Check for the presence of " `imageServer.`" items in the response, which indicate that the Image Server is listening. 
->Additional verification can be performed using the sample pages of the Documentation and Demo packages, if installed. 
-
+>Additional verification can be performed using the sample pages of the Documentation and Demo packages, if installed.

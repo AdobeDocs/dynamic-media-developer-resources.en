@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Bfc
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 407d36ae-ea45-4580-9ca2-16d073d1edad
 ---
-
 # Bfc{#bfc}
 
 Browser Format Conversion. Specifies whether browser format conversion functionality is turned on or off.
@@ -23,4 +23,4 @@ Browser Format Conversion. Specifies whether browser format conversion functiona
 
 ## Default {#section-9c2c5794b82a4ef89a09551f08d03dbc}
 
-`Bfc=false` 
+`Bfc=false`

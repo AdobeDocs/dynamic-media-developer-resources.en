@@ -4,8 +4,8 @@ solution: Experience Manager
 title: SupervisorRegistry.xml
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: cc6a16fb-fd70-431f-aad6-adb99d4da062
 ---
-
 # SupervisorRegistry.xml{#supervisorregistry-xml}
 
 Contains server supervisor configuration settings.
@@ -62,4 +62,3 @@ Restart Image Serving after editing this file to ensure that your changes take e
 </supervisor>
 
 ```
-

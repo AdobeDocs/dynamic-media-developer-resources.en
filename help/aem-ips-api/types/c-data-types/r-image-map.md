@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ImageMap
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 123eba56-2a59-44c5-93f0-205c362d071d
 ---
-
 # ImageMap{#imagemap}
 
 Target for a click action in the browser.
@@ -24,4 +24,3 @@ Target for a click action in the browser.
 |  `*`position`*`  | `xsd:string`  |Position in the format of the HTML `<area>` element’s [!DNL coords] attribute. For example: `coords ="0,0,84,128"`.  |
 |  `*`enabled`*`  | `xsd:boolean`  | True if image map is enabled.  |
 |  `*`lastModified`*`  | `xsd:dateTime`  | Date and time the image map was last modified.  |
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: addGroupMembership
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: c5b5e155-d285-4304-98bc-1d938793e2c0
 ---
-
 # addGroupMembership{#addgroupmembership}
 
 Adds a user to an array of groups.
@@ -66,4 +66,4 @@ This example adds a group to a company with `*`groupHandleArray`*`. This example
 
 **Response**
 
-None. 
+None.

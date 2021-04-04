@@ -4,8 +4,8 @@ solution: Experience Manager
 title: wid
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 5edd045c-600e-4295-9672-04a5c3bc651d
 ---
-
 # wid{#wid}
 
 View width. Specifies the width of the reply image (view image).
@@ -41,4 +41,3 @@ Unless a format is specified, the image is rendered as a SWF file. In this case,
 * GIF-alpha 
 * TIF-alpha 
 * PNG-alpha
-

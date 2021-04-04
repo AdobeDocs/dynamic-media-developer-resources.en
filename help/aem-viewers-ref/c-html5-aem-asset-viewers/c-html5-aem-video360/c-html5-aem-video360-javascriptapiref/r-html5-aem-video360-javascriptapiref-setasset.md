@@ -7,8 +7,8 @@ title: setAsset
 
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
+exl-id: 1fcd7dbe-d122-4501-92f4-3ce93a94a933
 ---
-
 # setAsset{#setasset}
 
 JavaScript API reference for Video360 Viewer.
@@ -37,4 +37,3 @@ None.
 ```
 <instance>.setAsset("Viewers/space_station_360-AVS")
 ```
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: JavaScript™ properties
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 12e69221-4a2c-4ec6-b38b-0a8d98d3c4a6
 ---
-
 # JavaScript™ properties{#javascript-properties}
 
 If JavaScript™ is specified as the response format, the reply data is formatted to be parsed as a JavaScript™ include file.
@@ -34,4 +34,3 @@ src='http://myServer/is/image/myImage?req=props,javascript'>
 <script> alert("Size: " + image.width + " , " + 
 image.height); </script>
 ```
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Examples
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 85f11642-e1ff-4bf0-bd21-d419805cff4a
 ---
-
 # Examples{#examples}
 
 This example uses Image Serving to colorize an object and apply a decal containing custom text in one of a set of vignettes.
@@ -26,4 +26,4 @@ The following request specifies certain content to render:
 
 [!DNL `https://server/myCat/template?$vig=specialCup&$text=Happy%20Birthday!\line%20Pauline&$color=230,20,20`]
 
-Refer to Image Serving Documentation for details about the Image Serving `text=` command. 
+Refer to Image Serving Documentation for details about the Image Serving `text=` command.

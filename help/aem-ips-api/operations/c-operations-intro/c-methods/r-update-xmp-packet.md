@@ -4,8 +4,8 @@ solution: Experience Manager
 title: updateXMPPacket
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 04d85dba-cc86-4069-ab5d-9a5b3fe542c9
 ---
-
 # updateXMPPacket{#updatexmppacket}
 
 Sets or updates an XMP metadata packet for an asset.
@@ -62,4 +62,3 @@ C8bO5sugbVa5/4Hnd05blc9y1zmGCCI0zcO50PyK40+q4LbWPt3IqGmykqnONnVgUUYNvsdfOH6wzN6C
    <success>true</success>
 </updateXMPPacketReturn>
 ```
-

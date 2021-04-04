@@ -4,8 +4,8 @@ solution: Experience Manager
 title: String Constants  New and Modified
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: c62cb98f-d87f-4273-bc51-30e4845d6540
 ---
-
 # String Constants: New and Modified{#string-constants-new-and-modified}
 
 Describes new and changed string constants for the IPS API version 3.7.
@@ -33,4 +33,3 @@ Describes new and changed string constants for the IPS API version 3.7.
 **Asset Types**
 
 * Added `Zip`.
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ImageFormatArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: daf6049f-24e8-4a4b-a9b3-c7f4f2e56f81
 ---
-
 # ImageFormatArray{#imageformatarray}
 
 Array of image formats.
@@ -17,4 +17,3 @@ Array of image formats.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:ImageFormat`  | Array of image formats.  |
-

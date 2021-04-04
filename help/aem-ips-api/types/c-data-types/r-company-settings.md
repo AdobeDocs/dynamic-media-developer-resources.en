@@ -4,8 +4,8 @@ solution: Experience Manager
 title: CompanySettings
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 82e6362d-beab-47ff-bb20-11047f0d8787
 ---
-
 # CompanySettings{#companysettings}
 
 Company-specific configuration settings.
@@ -25,4 +25,3 @@ Company-specific configuration settings.
 |  `*`diskSpaceWarningMin`*`  | `xsd:int`  | Minimum amount of image directory free disk space before a warning is sent out.  |
 |  `*`emailTrashCleanupWarning`*`  | `xsd:boolean`  | Determines whether to send emails before items placed into the trash can are automatically deleted.  |
 |  `*`javascriptUploadEnabled`*`  | `types:Asset`  | Determines whether to upload JavaScript files. This is a potential security risk, so use this option with care.  |
-

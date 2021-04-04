@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Templates
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: ef49cf8a-4621-4114-aae5-5178f6a5160d
 ---
-
 # Templates{#templates}
 
 Templates may be used to reduce the length and complexity of requests which composite multiple image layers or which include rtf-formatted text.

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: setProjectAssets
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: b6e6e9bd-5ee2-4750-9182-49e7a3e3486c
 ---
-
 # setProjectAssets{#setprojectassets}
 
 Assign or update assets in a project.
@@ -62,4 +62,3 @@ This code sample assigns an asset to a project. The request returns a success co
    <errorCount>0</errorCount>
 </setProjectAssetsReturn>
 ```
-

@@ -5,8 +5,8 @@ title: ZoomView.frametransition
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
+exl-id: f57a8a2e-63a1-4a59-9a25-b435d0ac39dc
 ---
-
 # ZoomView.frametransition{#zoomview-frametransition}
 
  ` [ZoomView.|<containerId>_zoomView.]frametransition=none|fade|slide[, *`duration`*[, *`spacing`*]`
@@ -38,4 +38,4 @@ None.
 
 ## Example {#section-bce98c31f08a4a0ab262fab7f95ba020}
 
-`frametransition=fade,1` 
+`frametransition=fade,1`

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Job Log Sort Fields
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: a84452b5-c464-4df6-b34b-1f912f89c7c7
 ---
-
 # Job Log Sort Fields{#job-log-sort-fields}
 
 Used by getJobLogsParam/sortBy
@@ -23,4 +23,3 @@ Used by getJobLogsParam/sortBy
 * [!DNL `FileErrorCount`] 
 * [!DNL `FileWarningCount`] 
 * [!DNL `FileSuccessCount`]
-

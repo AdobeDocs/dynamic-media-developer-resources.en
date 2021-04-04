@@ -5,8 +5,8 @@ title: ZoomView.doubleclick
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: e87981f8-8174-432a-89ea-fae74d0584ad
 ---
-
 # ZoomView.doubleclick{#zoomview-doubleclick}
 
  `[ZoomView.|<containerId>_zoomView.]doubleclick=none|zoom|reset|zoomReset`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`doubleclick=zoom` 
+`doubleclick=zoom`

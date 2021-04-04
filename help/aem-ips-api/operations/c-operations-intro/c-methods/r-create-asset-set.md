@@ -4,8 +4,8 @@ solution: Experience Manager
 title: createAssetSet
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: 4565eb4f-eeb7-4b98-bfef-1a59e9a931af
 ---
-
 # createAssetSet{#createassetset}
 
 Creates a generic asset set with a raw set definition string to be published to an Image Server.
@@ -129,4 +129,3 @@ jcompany/myRenderSet;jcompany/myRenderSet;1,jcompany/Videos/Somebodys_N08275_flv
    <assetHandle>a|1801|44|1801</assetHandle> 
 </createAssetSetReturn>
 ```
-

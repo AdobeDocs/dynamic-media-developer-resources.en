@@ -4,8 +4,8 @@ solution: Experience Manager
 title: System requirements and prerequisites
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: ea2dfec9-0a42-4ccb-8442-6f7c4a39eda1
 ---
-
 # System requirements and prerequisites{#system-requirements-and-prerequisites}
 
 Before using Dynamic Media Image Serving, make sure your system meets the system requirements.
@@ -63,4 +63,3 @@ Dynamic Media Image Serving requires the following server software.
 **Note:** To use Image Serving on Windows, you must install the Microsoft Visual Studio 2010 redistributable. The redistributable is available at the following location:
 
 [http://www.microsoft.com/en-us/download/details.aspx?id=13523](http://www.microsoft.com/en-us/download/details.aspx?id=13523)
-

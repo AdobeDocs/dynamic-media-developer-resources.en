@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Properties
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: a27ec5e4-7499-44ac-8db1-bf5d67f59632
 ---
-
 # Properties{#properties}
 
 Property data is returned in response to the following req= types: imageprops and props.
@@ -26,4 +26,4 @@ String values may contain JAVA-style escape characters, such as `\n`, `\t`, `\:`
 
 **See also**
 
-[req=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-req.md#reference-792b1a663fb64261bd2de2a209b847fb) 
+[req=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-req.md#reference-792b1a663fb64261bd2de2a209b847fb)

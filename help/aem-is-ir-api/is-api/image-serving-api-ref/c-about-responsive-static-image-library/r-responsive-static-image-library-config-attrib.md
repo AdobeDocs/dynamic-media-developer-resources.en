@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Command reference – Configuration attributes
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 8cc645f8-03fe-4ac7-b23f-36536b60fdf6
 ---
-
 # Command reference – Configuration attributes{#command-reference-configuration-attributes}
 
 Configuration attributes are defined as attributes directly on an IMG element that the Responsive Image library manages. Each image can have its own set of attributes.
@@ -93,4 +93,3 @@ The associated image element dispatches a `s7responsiveViewer` event during runt
            } 
         });
 ```
-

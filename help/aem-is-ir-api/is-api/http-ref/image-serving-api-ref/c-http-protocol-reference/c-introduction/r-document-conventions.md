@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Document conventions
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: e93de3fa-dde1-4d79-93aa-9ad800840cfc
 ---
-
 # Document conventions{#document-conventions}
 
 This document uses the following conventions.
@@ -80,4 +80,3 @@ This document uses the following conventions.
   <td class="stentry"> <p>White space (spaces or tabs) is not allowed in HTTP requests. This document occasionally uses white space between syntactic elements for clarity only. </p> </td> 
  </tr> 
 </table>
-

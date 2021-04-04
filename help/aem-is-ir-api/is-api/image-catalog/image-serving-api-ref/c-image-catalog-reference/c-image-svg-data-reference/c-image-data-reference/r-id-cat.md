@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Id
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 37945115-c93d-4f59-b3d3-a2c4ee7fc990
 ---
-
 # Id {#id}
 
 Index key value by which records in the image data file are looked up by the Platform Server.

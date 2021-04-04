@@ -5,8 +5,8 @@ title: PageView.singleclick
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: 96896145-f8d9-4fee-abfe-7f9193776993
 ---
-
 # PageView.singleclick{#pageview-singleclick}
 
  `[PageView.|<containerId>_pageView.]singleclick=none|zoom|reset|zoomReset`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-5f63781afec94e0189e135995f686c20}
 
-`singleclick=zoom` 
+`singleclick=zoom`

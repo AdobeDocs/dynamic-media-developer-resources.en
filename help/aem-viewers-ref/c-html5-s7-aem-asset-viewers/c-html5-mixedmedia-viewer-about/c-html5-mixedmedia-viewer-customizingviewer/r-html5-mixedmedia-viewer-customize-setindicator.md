@@ -7,8 +7,8 @@ title: Set indicator
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 53ee058a-cb8c-4b1f-bb9b-caaecc12c947
 ---
-
 # Set indicator{#set-indicator}
 
 Set indicator is a series of dots rendered on top of main swatches when a viewer is used on a touch device. The dots help users to navigate through pages of thumbnails when scroll buttons are not available.
@@ -114,4 +114,3 @@ Example - to set up set indicator dot to be 15 x 15 pixels, with two pixels hori
  background-color:#939393;  
 }
 ```
-

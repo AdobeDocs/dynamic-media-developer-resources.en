@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Output
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 48b15fc2-19c2-4ff8-8059-ba3478a4eec2
 ---
-
 # Output{#output}
 
 vntc generates text data which is sent either to stderr or the log file.
@@ -136,4 +136,3 @@ The following properties are generated:
   <td class="stentry"> <p>Warning message (such as when <span class="codeph"> -imagemap</span> is specified but no map data is found in the vignette). </p></td> 
  </tr> 
 </table>
-

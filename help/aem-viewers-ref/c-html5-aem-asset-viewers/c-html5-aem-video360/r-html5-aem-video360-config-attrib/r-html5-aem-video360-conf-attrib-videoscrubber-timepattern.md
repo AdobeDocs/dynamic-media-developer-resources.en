@@ -7,8 +7,8 @@ title: VideoScrubber.timepattern
 
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
+exl-id: f438a06b-6cf4-4bcd-9c4a-ed56f6a9c639
 ---
-
 # VideoScrubber.timepattern{#videoscrubber-timepattern}
 
 Configuration attribute for Video360 Viewer.
@@ -37,4 +37,3 @@ Optional.
 ```
 timepattern=h:mm:ss
 ```
-

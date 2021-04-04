@@ -7,8 +7,8 @@ title: Zoom reset button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: d5aa9e9d-4d7e-428c-a43f-d2b4c9e59777
 ---
-
 # Zoom reset button{#zoom-reset-button}
 
 Clicking or tapping this button resets an image in the main view. This button appears in the main control bar on desktop systems and tablets. On mobile phones, this button shows in the bottom center over the image. However, it is not displayed when the image is in a reset state. You can size, skin, and position this button by using CSS.
@@ -92,4 +92,3 @@ background-image:url(images/v2/ZoomResetButton_dark_down.png);
 background-image:url(images/v2/ZoomResetButton_dark_disabled.png); 
 }
 ```
-

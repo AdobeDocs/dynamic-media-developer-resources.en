@@ -4,8 +4,8 @@ solution: Experience Manager
 title: PropertySetType
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: f0c51e67-6927-4b9f-9935-222e6a194c13
 ---
-
 # PropertySetType{#propertysettype}
 
 Valid values for the PropertySetType and createPropertySetTypeParam fields.
@@ -54,4 +54,3 @@ Valid values for the PropertySetType and createPropertySetTypeParam fields.
   </tr> 
  </tbody> 
 </table>
-

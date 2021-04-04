@@ -5,8 +5,8 @@ title: VideoPlayer.autoplay
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 75ac93b4-fd76-4a2c-ba6a-c99baefaecec
 ---
-
 # VideoPlayer.autoplay{#videoplayer-autoplay}
 
  ` [VideoPlayer.|<containerId>_videoPlayer.]autoplay= *`0|1`*`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`autoplay=1` 
+`autoplay=1`

@@ -7,8 +7,8 @@ title: Main viewer area
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
+exl-id: bdac54f5-79e3-4d3d-9c7e-d9a7cec61c73
 ---
-
 # Main viewer area{#main-viewer-area}
 
 The main view area is the area occupied by the carousel banner image. It is usually set to fit the available device screen when no size is specified.
@@ -55,4 +55,3 @@ Example - to set up a viewer with a white background ( `#FFFFFF`) and make its s
  height: 500px;  
 }
 ```
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getPropertySetType
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: ff9c3d24-577c-4a9c-8820-60c2a33773bc
 ---
-
 # getPropertySetType{#getpropertysettype}
 
 Gets a property set type using a handle to a company and the name of the property set type. It gets a type structure with the handle to the type as well as the property type.
@@ -83,4 +83,3 @@ This code sample returns a property set type by name.
       <allowMultiple>false</allowMultiple></type>
 </getPropertySetTypeReturn>
 ```
-

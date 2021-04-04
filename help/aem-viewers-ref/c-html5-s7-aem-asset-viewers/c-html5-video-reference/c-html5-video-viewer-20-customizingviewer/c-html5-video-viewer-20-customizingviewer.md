@@ -6,8 +6,8 @@ title: Customizing Video Viewer
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
+exl-id: 90dc93ee-fdd0-41c9-9eef-4c9952198356
 ---
-
 # Customizing Video Viewer{#customizing-video-viewer}
 
 All visual customization and most behavior customization is done by creating a custom CSS.
@@ -211,4 +211,4 @@ background-position: -0px -1120px;
 
 ## Common User Interface Elements {#section-d6330c9be8c444aa9b2a07886e3dbc2a}
 
-The following is user interface elements reference documentation that applies to Video Viewer: 
+The following is user interface elements reference documentation that applies to Video Viewer:

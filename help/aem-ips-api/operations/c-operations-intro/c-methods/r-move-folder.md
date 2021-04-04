@@ -4,8 +4,8 @@ solution: Experience Manager
 title: moveFolder
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: fa31c2d8-912c-4965-8535-cae42f4fcfd9
 ---
-
 # moveFolder{#movefolder}
 
 Move a folder to a new location.
@@ -56,4 +56,3 @@ Move a folder to a new location.
    <folderHandle>f|test/DestFolder/MoveTest/</folderHandle>
 </moveFolderReturn>
 ```
-

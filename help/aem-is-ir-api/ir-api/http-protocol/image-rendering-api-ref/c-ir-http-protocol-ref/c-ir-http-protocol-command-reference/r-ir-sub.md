@@ -4,8 +4,8 @@ solution: Experience Manager
 title: sub
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: c9968fbb-c38b-4180-81be-19992fa8f347
 ---
-
 # sub{#sub}
 
 Sub selection. Permits applying different materials to different areas of the selected object or group, as well as removing previously applied materials.
@@ -53,4 +53,4 @@ Selection command; MSS delimiter.
 
 ## See also {#section-1a993ee24f144d4fb8baef0cc431b53b}
 
-[obj=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-obj.md#reference-31e7dac7931b4e0eb3c7589f120a1e6a) 
+[obj=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-obj.md#reference-31e7dac7931b4e0eb3c7589f120a1e6a)

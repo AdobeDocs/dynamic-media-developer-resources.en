@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Default catalog
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: db42fb67-aa6f-4217-bc69-45b01bbd0b10
 ---
-
 # Default catalog{#default-catalog}
 
 The default catalog provides default values for all catalog attributes for all image catalogs.
@@ -19,4 +19,3 @@ For correct functioning of the Platform Server the catalog attributes file for t
 >[!NOTE]
 >
 >All catalog attribute files except [!DNL default.ini] must contain a unique `attribute::RootId` value. `attribute::RootId` in [!DNL default.ini] must be empty.
-

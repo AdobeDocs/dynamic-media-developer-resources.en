@@ -5,8 +5,8 @@ title: EmbedShare.embedsizes
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: 68103754-1cbb-4e8d-b2b5-2770a7658140
 ---
-
 # EmbedShare.embedsizes{#embedshare-embedsizes}
 
  [!DNL ` [EmbedShare.|<containerId>_embedShare.]embedsizes= *`width`*, *`height`*[,0|1][; *`width`*, *`height`*[,0|1]]`]
@@ -38,4 +38,4 @@ Optional.
 
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
-[!DNL `embedsizes=800,600;640,480,1`] 
+[!DNL `embedsizes=800,600;640,480,1`]

@@ -7,8 +7,8 @@ title: Main viewer area
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,Business Practitioner
+exl-id: ab1653a3-38e6-49bb-97b7-005304349ec9
 ---
-
 # Main viewer area{#main-viewer-area}
 
 The main view area is the area occupied by the flyout view and swatches.
@@ -55,4 +55,3 @@ Example - to set up a flyout viewer with white background ( `#FFFFFF`) and make 
  height: 500px;  
 }
 ```
-

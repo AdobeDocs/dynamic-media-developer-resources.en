@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Server caches
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: 6a8d44d3-ecac-4fe0-9f81-28b1cd55e7e1
 ---
-
 # Server caches{#server-caches}
 
 Use these server settings for server caches.
@@ -41,4 +41,3 @@ The Server Supervisor occasionally needs to save intermediate data to disk. The 
 >[!NOTE]
 >
 >The new folder must be created before changing this setting. Make sure the access permissions are set so that the Server Supervisor has full control of the folder.
-

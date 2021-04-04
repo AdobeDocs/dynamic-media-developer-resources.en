@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Source image operations
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 2024e193-3c46-4c51-971d-c7d335657ac8
 ---
-
 # Source image operations{#source-image-operations}
 
 These commands apply to source images used either in simple requests or in image layers, as well as to masks attached to solid color layers.
@@ -36,4 +36,3 @@ These commands apply to source images used either in simple requests or in image
   <td class="stentry"> <p>Scales the source image using scale factor. </p></td> 
  </tr> 
 </table>
-

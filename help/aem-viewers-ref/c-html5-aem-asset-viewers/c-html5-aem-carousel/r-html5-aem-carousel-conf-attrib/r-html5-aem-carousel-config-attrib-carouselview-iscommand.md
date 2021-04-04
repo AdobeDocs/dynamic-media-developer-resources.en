@@ -5,8 +5,8 @@ title: CarouselView.iscommand
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
+exl-id: 848eaed7-c150-4537-96a4-f2614162d58f
 ---
-
 # CarouselView.iscommand{#carouselview-iscommand}
 
  ` [CarouselView.|<containerId>_carouselView.]iscommand= *`isCommand`*`
@@ -36,4 +36,4 @@ When specified in the viewer URL:
 
 When specified in the config data:
 
-`iscommand=op_sharpen=1&op_colorize=0xff0000` 
+`iscommand=op_sharpen=1&op_colorize=0xff0000`

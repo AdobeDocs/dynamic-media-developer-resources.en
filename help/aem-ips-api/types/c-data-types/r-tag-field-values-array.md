@@ -4,8 +4,8 @@ solution: Experience Manager
 title: TagFieldValuesArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 68762d4c-b006-4a1a-ab0b-dafde2ab0a80
 ---
-
 # TagFieldValuesArray{#tagfieldvaluesarray}
 
 An array of tag field values.
@@ -17,4 +17,3 @@ An array of tag field values.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:TagFieldValues`  | An array of tag field values.  |
-

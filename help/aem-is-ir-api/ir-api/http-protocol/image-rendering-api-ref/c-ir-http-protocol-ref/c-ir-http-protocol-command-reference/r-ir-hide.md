@@ -4,8 +4,8 @@ solution: Experience Manager
 title: hide
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 70c96b62-d6bd-4f12-9ee8-abac5d97e876
 ---
-
 # hide{#hide}
 
 Hide overlap object. Hides all overlap objects or window coverings applied to window coverings frames in the current selection.
@@ -29,4 +29,4 @@ If not specified, the current visibility of the selected overlap objects is reta
 
 ## See also {#section-72c5e811b45347acacc64c6df85c7ef2}
 
-[show=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-show.md#reference-f1824e1a501144bc9a6ae28de8e6bcb9) 
+[show=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-show.md#reference-f1824e1a501144bc9a6ae28de8e6bcb9)

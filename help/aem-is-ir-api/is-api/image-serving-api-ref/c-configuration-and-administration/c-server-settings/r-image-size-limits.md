@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Image size limits
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: 75ec58ee-8c98-46cb-96b2-79d1c32e576f
 ---
-
 # Image size limits{#image-size-limits}
 
 Use these server settings to set image size limits.
@@ -29,4 +29,3 @@ The maximum size (in Mpixels) of images which are not PTIFFs that the Image Serv
 >[!NOTE]
 >
 >Setting this value too high may cause the Image Server to be starved of memory and result in failures, including crashes.
-

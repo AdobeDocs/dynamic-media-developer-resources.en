@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Text formatting
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 2c120ed1-b556-4caf-a30e-63ae48cc2104
 ---
-
 # Text formatting{#text-formatting}
 
 Image Serving provides several alternatives to render text, accessible with the text= and textPs= commands.

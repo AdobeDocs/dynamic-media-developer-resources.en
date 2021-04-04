@@ -5,8 +5,8 @@ title: ZoomView.enableHD
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
+exl-id: 340a9614-b9dd-4aee-bd73-b99f6576930e
 ---
-
 # ZoomView.enableHD{#zoomview-enablehd}
 
  ` [ZoomView.|<containerId>_zoomView.]enableHD=always|never|limit[, *`number`*]`
@@ -67,4 +67,3 @@ The following are the expected results when you use this configuration attribute
   </tr> 
  </tbody> 
 </table>
-

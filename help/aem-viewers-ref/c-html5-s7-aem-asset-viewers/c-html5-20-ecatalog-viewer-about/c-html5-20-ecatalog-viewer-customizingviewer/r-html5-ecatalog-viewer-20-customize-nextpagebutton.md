@@ -7,8 +7,8 @@ title: Next page button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: 70051b97-cdc2-4006-b792-4b96a065dbb7
 ---
-
 # Next page button{#next-page-button}
 
 Clicking or tapping on this button brings the user to the next page in the catalog. This button appears in the main control bar. This button is not displayed on mobile phones to save screen real estate. You can size, skin, and position this button by using CSS.
@@ -92,4 +92,3 @@ background-image:url(images/v2/ToolBarRightButton_dark_down.png);
 background-image:url(images/v2/ToolBarRightButton_dark_disabled.png); 
 }
 ```
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: deleteAsset
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: dacea36e-3d40-4aaf-94fd-f0709830caf9
 ---
-
 # deleteAsset{#deleteasset}
 
 Deletes an asset.
@@ -53,4 +53,4 @@ This sample code deletes any type of asset from a specific company. It requires 
 
 **Response**
 
-None. 
+None.

@@ -5,8 +5,8 @@ title: FlyoutZoomView.preloadtiles
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 041df5c7-9391-4dde-8988-a83272c7c438
 ---
-
 # FlyoutZoomView.preloadtiles{#flyoutzoomview-preloadtiles}
 
  `[FlyoutZoomView.|<containerId>_flyout.]preloadtiles=0|1`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`preloadtiles=1` 
+`preloadtiles=1`

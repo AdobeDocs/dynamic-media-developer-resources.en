@@ -4,8 +4,8 @@ solution: Experience Manager
 title: addressfilter
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 0da9299b-fe14-4a69-8567-2d79ad2ce0bd
 ---
-
 # addressfilter{#addressfilter}
 
 Address filter element. Optional in `<rule>` elements. Overrides attribute::ClientAddressFilter when the rule is applied.
@@ -30,4 +30,4 @@ If the `<expression>` in the `<rule>` element is absent or empty, the `<addressf
 
 ## SeeaAlso {#section-02056065e0c042e1b155b2f3e5b84ef7}
 
-[attribute::ClientAddressFilter](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-clientaddressfilter.md#reference-52a541cec0b0424faf263d1fb4946b5f) 
+[attribute::ClientAddressFilter](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-clientaddressfilter.md#reference-52a541cec0b0424faf263d1fb4946b5f)

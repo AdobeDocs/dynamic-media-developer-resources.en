@@ -5,8 +5,8 @@ title: ThumbnailGridView.fmt
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: 916ee5d1-e398-4923-9107-96f649033298
 ---
-
 # ThumbnailGridView.fmt{#thumbnailgridview-fmt}
 
  `[ThumbnailGridView.|<containerId>_gridView.]fmt=jpg|jpeg|png|png-alpha|gif|gif-alpha`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-5cde7b856ba646c293cfd3d79e47c507}
 
-`fmt-png-alpha` 
+`fmt-png-alpha`

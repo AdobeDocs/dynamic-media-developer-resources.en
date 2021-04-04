@@ -8,8 +8,8 @@ title: Zoom
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
+exl-id: 81a74026-fb15-4f57-a4c7-1ab005950245
 ---
-
 # Zoom{#zoom}
 
 Zoom Viewer is an image viewer that displays a zoomable image. This viewer works with image sets and navigation is done by using swatches. It has zoom tools, full screen support, swatches, and an optional close button. It is designed to work on desktops and mobile devices.
@@ -416,4 +416,3 @@ zoomViewer.init();
 </html> 
 
 ```
-

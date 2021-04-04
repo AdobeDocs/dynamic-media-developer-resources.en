@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Illum
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 5e74b3e8-6289-4114-aa11-a6f91671363e
 ---
-
 # Illum{#illum}
 
 Illumination map selector. Allows explicit selection of the illumination map to be used when rendering this material.
@@ -22,4 +22,4 @@ Set to 0, 1, or 2 to select illumination map A, B, or C. The renderer will choos
 
 ## See also {#section-d9db8507a5e54692b84f54b3f84b782a}
 
-[attribute::Gloss](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-material-data-reference/r-ir-cat-gloss.md#reference-5277f62a67e2408ab94699aa712f1eeb) 
+[attribute::Gloss](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-material-data-reference/r-ir-cat-gloss.md#reference-5277f62a67e2408ab94699aa712f1eeb)

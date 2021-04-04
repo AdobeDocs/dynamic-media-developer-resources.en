@@ -5,8 +5,8 @@ title: ControlBar.transition
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: c8792f02-ae15-4b47-8727-089691d5316a
 ---
-
 # ControlBar.transition{#controlbar-transition}
 
  ` [ControlBar.|<containerId>_controls.]transition=none|fade[, *`delaytohide`*[, *`duration`*]`
@@ -38,4 +38,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`transition=none` 
+`transition=none`

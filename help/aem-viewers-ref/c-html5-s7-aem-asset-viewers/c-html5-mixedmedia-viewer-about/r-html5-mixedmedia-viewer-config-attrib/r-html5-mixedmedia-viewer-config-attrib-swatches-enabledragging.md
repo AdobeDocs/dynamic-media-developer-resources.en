@@ -5,8 +5,8 @@ title: Swatches.enabledragging
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: fd432573-677f-4c46-9cc1-88089496ce75
 ---
-
 # Swatches.enabledragging{#swatches-enabledragging}
 
  ` [Swatches.|<containerId>_swatches.]enabledragging=0|1[, *`overdragvalue`*]`
@@ -34,4 +34,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`enabledragging=0` 
+`enabledragging=0`

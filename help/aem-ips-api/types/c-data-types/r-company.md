@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Company
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: e831a081-145a-4fb4-a617-7eecea8d40ed
 ---
-
 # Company{#company}
 
 Represents a company.
@@ -20,4 +20,3 @@ Represents a company.
 |  `*`name`*`  | `xsd:string`  | Company name.  |
 |  `*`rootPath`*`  | `xsd:string`  | Root path of the company.  |
 |  `*`expires`*`  | `xsd:dateTime`  | Date and time the company expires.  |
-

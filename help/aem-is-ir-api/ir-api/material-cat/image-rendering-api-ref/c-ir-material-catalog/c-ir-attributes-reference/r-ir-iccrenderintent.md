@@ -4,8 +4,8 @@ solution: Experience Manager
 title: IccRenderIntent
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 86cc907d-556c-40ec-a104-2f0dcf9ed1ce
 ---
-
 # IccRenderIntent{#iccrenderintent}
 
 Color conversion rendering intent. Provides the default rendering intent for color conversions when the render intent is not specified with icc=.
@@ -20,4 +20,4 @@ Inherited from `default::IccRenderIntent`if not defined. If empty, 'relative col
 
 ## See also {#section-e77bcdfef6d2486ebd545631ccb40ebd}
 
-[attribute::IccProfile*](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-iccprofilecmyk.md#reference-55aead2d924847ffbd1be4c46add7127) , [attribute::IccBlackPointCompensation](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-iccblackpointcompensation.md#reference-d939b0cdf6564baaa88deb1059e3b7f0), [icc=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-icc.md#reference-86a2fff3cef24982ad2063d977a16e06) 
+[attribute::IccProfile*](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-iccprofilecmyk.md#reference-55aead2d924847ffbd1be4c46add7127) , [attribute::IccBlackPointCompensation](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-iccblackpointcompensation.md#reference-d939b0cdf6564baaa88deb1059e3b7f0), [icc=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-icc.md#reference-86a2fff3cef24982ad2063d977a16e06)

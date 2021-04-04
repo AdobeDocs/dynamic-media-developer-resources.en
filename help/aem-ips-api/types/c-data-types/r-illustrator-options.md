@@ -4,8 +4,8 @@ solution: Experience Manager
 title: IllustratorOptions
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: f6c06fe3-5dfa-4885-9083-c6c41ae0e0ea
 ---
-
 # IllustratorOptions{#illustratoroptions}
 
 Options for an Adobe Illustrator file.
@@ -20,4 +20,3 @@ Options for an Adobe Illustrator file.
 |  `*`resolution`*`  | `xsd:string`  | File resolution.  |
 |  `*`colorSpace`*`  | `xsd:string`  | Target color space.  |
 |  `*`alpha`*`  | `xsd:boolean`  | Whether to rasterize the file into an image. If so, create a transparent background if the original file is defined in this way for creating overlaying logos.  |
-

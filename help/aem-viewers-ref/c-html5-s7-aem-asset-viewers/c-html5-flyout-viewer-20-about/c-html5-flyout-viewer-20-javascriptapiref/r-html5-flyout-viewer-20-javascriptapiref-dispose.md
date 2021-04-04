@@ -7,8 +7,8 @@ title: dispose
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,Business Practitioner
+exl-id: bf38d481-d8cc-400c-9017-bcb3471f2a10
 ---
-
 # dispose{#dispose}
 
 JavaScript API reference for Flyout Viewer.
@@ -36,4 +36,3 @@ None.
 ```
 <instance>.dispose()
 ```
-

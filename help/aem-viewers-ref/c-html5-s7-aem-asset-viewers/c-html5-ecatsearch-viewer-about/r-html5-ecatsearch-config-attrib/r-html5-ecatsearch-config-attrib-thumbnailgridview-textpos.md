@@ -5,8 +5,8 @@ title: ThumbnailGridView.textpos
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: a79aa5c7-5691-4695-ac6d-d461ce0b1206
 ---
-
 # ThumbnailGridView.textpos{#thumbnailgridview-textpos}
 
  [!DNL `[ThumbnailGridView.|<containerId>_gridView.]textpos=bottom|top|left|right|none|tooltip`]
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-4996ba7ba96347f78817c2295b71116a}
 
-[!DNL `textpos=top`] 
+[!DNL `textpos=top`]

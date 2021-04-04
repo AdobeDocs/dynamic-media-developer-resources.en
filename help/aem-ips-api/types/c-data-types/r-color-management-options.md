@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ColorManagementOptions
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 55535bb0-544d-4a93-9ff4-235f22b8d45a
 ---
-
 # ColorManagementOptions{#colormanagementoptions}
 
 Options specified during upload. Affects how color is managed for the upload.
@@ -19,4 +19,3 @@ Options specified during upload. Affects how color is managed for the upload.
 |  `*`colorManagement`*`  | `xsd:string`  | Color management mode choice.  |
 |  `*`sourceProfileHandle`*`  | `xsd:string`  | Source profile handle.  |
 |  `*`outputProfileHandle`*`  | `xsd:string`  | Output profile handle.  |
-

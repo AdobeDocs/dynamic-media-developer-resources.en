@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getAllUsers
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: db1fd5c9-80f5-463a-870f-be3e38c21bab
 ---
-
 # getAllUsers{#getallusers}
 
 Gets all users in an array.
@@ -83,4 +83,3 @@ This code sample returns all users. The response is truncated for brevity.
    </ns1:userArray>
 <ns1:getAllUsersReturn>
 ```
-

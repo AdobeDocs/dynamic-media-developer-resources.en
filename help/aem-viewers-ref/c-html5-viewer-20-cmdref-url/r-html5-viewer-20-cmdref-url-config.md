@@ -7,8 +7,8 @@ title: config
 
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,Business Practitioner
+exl-id: 503a1fc6-7a6b-4f55-bad1-11f22435276f
 ---
-
 # config{#config}
 
 Parameter common to all viewers.
@@ -132,4 +132,3 @@ This is equivalent to the following commands specified explicitly in the URL:
 ```
 style= etc/dam/presets/css/html5_carouselviewer_dotted_light.css
 ```
-

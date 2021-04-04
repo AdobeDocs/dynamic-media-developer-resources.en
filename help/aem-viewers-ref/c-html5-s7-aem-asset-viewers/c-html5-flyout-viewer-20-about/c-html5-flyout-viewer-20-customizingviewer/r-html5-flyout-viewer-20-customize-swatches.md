@@ -7,8 +7,8 @@ title: Swatches
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,Business Practitioner
+exl-id: 7040edf2-4356-4493-b886-8c5694f5863a
 ---
-
 # Swatches{#swatches}
 
 Swatches consist of a row of thumbnail images with optional scroll buttons on the left and right hand side.
@@ -220,4 +220,3 @@ background-image:url(images/v2/ScrollRightButton_up.png);
  background-image:url(images/v2/ScrollRightButton_disabled.png); 
 }
 ```
-

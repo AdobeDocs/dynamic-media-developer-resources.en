@@ -7,8 +7,8 @@ title: Page indicator
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: 38241e96-ee7f-4dc1-a2a6-4a76e25b00dc
 ---
-
 # Page indicator{#page-indicator}
 
 Page indicator displays current page index and total page count. It appears in main control bar on desktop systems and tablet, on mobile phones it is added to secondary control bar. Page indicator can be sized, skinned, and positioned by CSS.
@@ -78,4 +78,3 @@ Example - to set up a page indicator that is 56 x 28 pixels, horizontally center
  font-size:14px; 
 }
 ```
-

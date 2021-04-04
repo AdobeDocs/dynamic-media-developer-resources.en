@@ -4,8 +4,8 @@ solution: Experience Manager
 title: op_growMask
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 322d97af-bb1b-44bb-90f1-cda9984b78b5
 ---
-
 # op_growMask{#op-growmask}
 
 Dilate/erode image. Applies a morphological dilate (radius > 0) or erode (radius < 0) to the mask data.
@@ -35,4 +35,4 @@ Applies to the current layer or to layer `0` if `layer=comp`.
 
 [op_grow](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-op-grow.md#reference-f95f3291c78c42b9a34b1b7e177e739a)
 
-[op_growMaskR](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-op-growmaskr.md#reference-8092864159ae43c490821b9590d7709a) 
+[op_growMaskR](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-op-growmaskr.md#reference-8092864159ae43c490821b9590d7709a)

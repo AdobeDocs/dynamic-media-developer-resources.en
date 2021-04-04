@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Image data reference
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 91454a49-2bb4-46f7-ace9-8e53fbbb4ea5
 ---
-
 # Image data reference{#image-data-reference}
 
 This section describes the image data attributes.

@@ -7,8 +7,8 @@ title: setParam
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
+exl-id: 0829933f-a90b-4066-9904-748f2a727169
 ---
-
 # setParam{#setparam}
 
 JavaScript API reference for Carousel Viewer.
@@ -45,4 +45,3 @@ None.
 ```
 <instance>.setParam("style", "etc/dam/presets/css/html5_carouselviewer_dotted_light.css")
 ```
-

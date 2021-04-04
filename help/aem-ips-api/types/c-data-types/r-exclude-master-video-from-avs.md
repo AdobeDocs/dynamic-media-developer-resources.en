@@ -3,8 +3,8 @@ description: Excludes the primary video from the adaptive video set.
 title: ExcludeMasterVideoFromAVS
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: e73eab03-fbda-435c-be3c-98781f8630a5
 ---
-
 # ExcludeMasterVideoFromAVS{#excludemastervideofromavs}
 
 Excludes the primary video from the adaptive video set.
@@ -29,4 +29,3 @@ Excludes the primary video from the adaptive video set.
   </tr> 
  </tbody> 
 </table>
-

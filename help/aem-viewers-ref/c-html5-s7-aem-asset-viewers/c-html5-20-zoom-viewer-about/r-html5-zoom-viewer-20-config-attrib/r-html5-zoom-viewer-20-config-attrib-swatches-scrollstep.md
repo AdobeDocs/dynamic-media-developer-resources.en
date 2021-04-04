@@ -5,8 +5,8 @@ title: Swatches.scrollstep
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
+exl-id: 94774bc1-c490-4341-b223-8823699b6c1e
 ---
-
 # Swatches.scrollstep{#swatches-scrollstep}
 
  ` [Swatches.|<containerId>_swatches.]scrollstep= *`hStep`*, *`vStep`*`
@@ -36,4 +36,4 @@ Optional.
 
 ## Example {#section-bce98c31f08a4a0ab262fab7f95ba020}
 
-`scrollstep=1,1` 
+`scrollstep=1,1`

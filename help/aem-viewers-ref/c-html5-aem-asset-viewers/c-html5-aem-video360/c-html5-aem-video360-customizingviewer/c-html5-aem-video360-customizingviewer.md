@@ -8,8 +8,8 @@ title: Customizing Video360 Viewer
 
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
+exl-id: c9dda4e8-2781-4870-9ccb-707823c56490
 ---
-
 # Customizing Video360 Viewer{#customizing-video-viewer}
 
 All visual customization and most behavior customization for the Video360 Viewer is done by creating a custom CSS.
@@ -215,4 +215,4 @@ background-position: -0px -1120px;
 
 ## Common User Interface Elements {#section-d6330c9be8c444aa9b2a07886e3dbc2a}
 
-The following is user interface elements reference documentation that applies to Video360 Viewer: 
+The following is user interface elements reference documentation that applies to Video360 Viewer:

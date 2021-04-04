@@ -7,8 +7,8 @@ title: Support for Adobe Analytics tracking
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner,Data Engineer,Data Architect
+exl-id: 3b28c853-3747-4805-a141-3cce1398d783
 ---
-
 # Support for Adobe Analytics tracking{#support-for-adobe-analytics-tracking}
 
 The Mixed Media Viewer supports Adobe Analytics tracking out-of-the-box.
@@ -98,4 +98,3 @@ The viewer tracks the following SDK user events:
   </tr> 
  </tbody> 
 </table>
-

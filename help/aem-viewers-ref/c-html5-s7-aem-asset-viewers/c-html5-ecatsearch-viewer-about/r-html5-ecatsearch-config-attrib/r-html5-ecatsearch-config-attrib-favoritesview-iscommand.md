@@ -7,8 +7,8 @@ title: FavoritesView.iscommand
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: 114cc5b7-32b9-4d16-ab93-a66f3ec666e0
 ---
-
 # FavoritesView.iscommand{#favoritesview-iscommand}
 
 The Image Serving command string that is applied to all thumbnails.
@@ -40,4 +40,4 @@ When specified in the viewer URL.
 
 When specified in the config data.
 
-[!DNL `iscommand=op_sharpen=1&op_colorize=0xff0000`] 
+[!DNL `iscommand=op_sharpen=1&op_colorize=0xff0000`]

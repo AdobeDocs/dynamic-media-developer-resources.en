@@ -7,8 +7,8 @@ title: InteractiveSwatches.fmt
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: 9a751b91-aeff-4ee1-b2fe-9bec416884ab
 ---
-
 # InteractiveSwatches.fmt{#interactiveswatches-fmt}
 
 Configuration attribute for Interactive Video Viewer.
@@ -37,4 +37,3 @@ Optional.
 ```
 fmt=png-alpha
 ```
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: updateVignettePublishFormat
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 7f199ed4-375f-4451-b66a-e50bcd55bf23
 ---
-
 # updateVignettePublishFormat{#updatevignettepublishformat}
 
 Updates the vignette publish format settings. 
@@ -74,4 +74,3 @@ This code sample updates a vignette publish format and returns the handle to the
    <vignetteFormatHandle>v|21|283</vignetteFormatHandle>
 </updateVignettePublishFormatReturn>
 ```
-

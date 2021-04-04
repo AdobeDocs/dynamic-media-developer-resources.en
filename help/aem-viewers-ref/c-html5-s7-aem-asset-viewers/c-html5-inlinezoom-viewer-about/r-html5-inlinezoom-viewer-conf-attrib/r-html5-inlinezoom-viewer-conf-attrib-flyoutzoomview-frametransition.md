@@ -5,8 +5,8 @@ title: FlyoutZoomView.frametransition
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,Business Practitioner
+exl-id: 39cb629a-3940-4206-91cd-fe9a9f4d9f75
 ---
-
 # FlyoutZoomView.frametransition{#flyoutzoomview-frametransition}
 
 ` [FlyoutZoomView.|<containerId>_flyout.]frametransition=none|fade[, *`duration`*]`
@@ -34,4 +34,4 @@ None.
 
 ## Example {#section-3a188ab955c445bcb2efa3c49722c10d}
 
-`frametransition=fade,1` 
+`frametransition=fade,1`

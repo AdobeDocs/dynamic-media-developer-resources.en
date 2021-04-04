@@ -7,8 +7,8 @@ title: Zoom in button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: b9d037fd-7ae3-424e-b9c7-c46a7d219127
 ---
-
 # Zoom in button{#zoom-in-button}
 
 Clicking or tapping this button zooms in on an image in the main view. This button appears in the main control bar. This button is not displayed on mobile phones to save screen real estate. You can size, skin, and position this button by using CSS.
@@ -92,4 +92,3 @@ background-image:url(images/v2/ZoomInButton_dark_down.png);
 background-image:url(images/v2/ZoomInButton_dark_disabled.png); 
 }
 ```
-

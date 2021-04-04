@@ -4,8 +4,8 @@ solution: Experience Manager
 title: align
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 0b76f173-809b-4b41-bf39-6b85f77ab2db
 ---
-
 # align{#align}
 
 Texture render alignment. Specifies which of the origin points defined by the selected vignette object is to be used.
@@ -49,4 +49,4 @@ Material attribute. Ignored if a wall, cabinet, appliance, or window coverings f
 
 ## See also {#section-945d1ce275df487d9d564d4043156c79}
 
-[catalog::Alignment](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-material-data-reference/r-ir-alignment.md#reference-e52152e8dc244d0aa13b40c615d0f399) , [anchor=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-http-anchor.md#reference-d53923d785c9442997dc7f2199524c26) 
+[catalog::Alignment](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-material-data-reference/r-ir-alignment.md#reference-e52152e8dc244d0aa13b40c615d0f399) , [anchor=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-http-anchor.md#reference-d53923d785c9442997dc7f2199524c26)

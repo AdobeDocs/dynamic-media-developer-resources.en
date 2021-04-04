@@ -5,8 +5,8 @@ title: SpinView.zoomstep
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: afc2018f-b222-4fd5-b9dc-88655793efd4
 ---
-
 # SpinView.zoomstep{#spinview-zoomstep}
 
  ` [SpinView.|<containerId>_spinView.]zoomstep= *`step`*[, *`limit`*]`
@@ -34,4 +34,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`zoomstep=2,3` 
+`zoomstep=2,3`

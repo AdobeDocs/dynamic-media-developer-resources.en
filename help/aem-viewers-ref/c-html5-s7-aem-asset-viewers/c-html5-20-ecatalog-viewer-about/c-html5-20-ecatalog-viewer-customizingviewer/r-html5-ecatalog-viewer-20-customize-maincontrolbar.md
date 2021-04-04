@@ -7,8 +7,8 @@ title: Main control bar
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: 4db16599-ede0-47ae-bb5a-840655d3620b
 ---
-
 # Main control bar{#main-control-bar}
 
 The main control bar is the rectangular area on desktop systems and tablets that contain all user interface controls (except Large Page buttons) available for the eCatalog viewer.
@@ -180,4 +180,3 @@ The button tool tip can be localized. See [Localization of user interface elemen
  background-image:url(images/v2/ControlBarRightButton_dark_disabled_touch.png); 
 }
 ```
-

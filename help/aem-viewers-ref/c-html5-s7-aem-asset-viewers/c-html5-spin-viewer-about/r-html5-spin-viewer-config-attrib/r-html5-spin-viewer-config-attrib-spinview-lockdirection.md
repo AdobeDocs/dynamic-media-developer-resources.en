@@ -5,8 +5,8 @@ title: SpinView.lockdirection
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
+exl-id: e29ba926-9e0e-4ddd-9f76-408f8ab3b4ca
 ---
-
 # SpinView.lockdirection{#spinview-lockdirection}
 
  `[SpinView.|<containerId>_spinView.]lockdirection=0|1`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`lockdirection=1` 
+`lockdirection=1`

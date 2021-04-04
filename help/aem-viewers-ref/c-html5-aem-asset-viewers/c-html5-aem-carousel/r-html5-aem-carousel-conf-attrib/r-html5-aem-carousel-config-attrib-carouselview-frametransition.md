@@ -5,8 +5,8 @@ title: CarouselView.frametransition
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
+exl-id: 771395fb-775d-462e-86dc-0600cfecb345
 ---
-
 # CarouselView.frametransition{#carouselview-frametransition}
 
  ` [CarouselView.|<containerId>_carouselView.]frametransition=none|fade|slide[, *`duration`*[, *`spacing`*]`
@@ -38,4 +38,4 @@ None.
 
 ## Example {#section-bce98c31f08a4a0ab262fab7f95ba020}
 
-`frametransition=fade,0.3` 
+`frametransition=fade,0.3`

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: pathEmbed
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: a3b305eb-0313-4c58-bd47-4f87e09d0e0b
 ---
-
 # pathEmbed{#pathembed}
 
 Embed paths data. Specifies whether Photoshop paths from the layer 0 source image file should be included in the response image.
@@ -28,4 +28,4 @@ Open Photoshop paths (paths which do not form closed loops) are not supported fo
 
 ## See also {#section-9c20adb4147e45758ab109a543cc5862}
 
-[fmt=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-is-http-fmt.md#reference-cdf10043423b45ba9fe15157fb3ae37a) 
+[fmt=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-is-http-fmt.md#reference-cdf10043423b45ba9fe15157fb3ae37a)

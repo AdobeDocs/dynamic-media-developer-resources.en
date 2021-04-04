@@ -7,8 +7,8 @@ title: Play/Pause button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
+exl-id: 174ddf15-e6be-4a65-8c82-5c9edf061a6c
 ---
-
 # Play/Pause button{#play-pause-button}
 
 The play/pause button causes the video player to play or pause the video content when a user clicks it.
@@ -118,4 +118,3 @@ background-image:url(images/replayBtn_down.png);
 background-image:url(images/replayBtn_disabled.png); 
 }
 ```
-

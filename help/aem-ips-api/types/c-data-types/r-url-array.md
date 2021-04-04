@@ -4,8 +4,8 @@ solution: Experience Manager
 title: UrlArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 61225fb2-7c25-4f9c-82c9-02bf69995028
 ---
-
 # UrlArray{#urlarray}
 
 An array of URLS for invalidating CDN cache.
@@ -32,4 +32,3 @@ An array of URLS for invalidating CDN cache.
   </tr> 
  </tbody> 
 </table>
-

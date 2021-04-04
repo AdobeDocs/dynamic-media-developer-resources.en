@@ -4,8 +4,8 @@ solution: Experience Manager
 title: saveImageFormat
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: cafbd715-237b-4454-920e-643f0c84e208
 ---
-
 # saveImageFormat{#saveimageformat}
 
 Creates an image format.
@@ -61,4 +61,3 @@ This code sample creates an image format. In this example, `urlModifier` was det
    <imageFormatHandle>47|301</imageFormatHandle> 
 </saveImageFormatReturn>
 ```
-

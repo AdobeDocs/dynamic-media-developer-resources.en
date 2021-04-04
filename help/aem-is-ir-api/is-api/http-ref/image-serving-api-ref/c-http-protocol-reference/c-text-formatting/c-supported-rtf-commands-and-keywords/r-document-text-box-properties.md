@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Document (text box) properties
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: e9d21a39-4d98-4115-8179-ab5acf713c80
 ---
-
 # Document (text box) properties{#document-text-box-properties}
 
 The following document properties are supported in text boxes.
@@ -121,4 +121,3 @@ The following document properties are supported in text boxes.
   </tr> 
  </tbody> 
 </table>
-

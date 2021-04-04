@@ -7,8 +7,8 @@ title: Localization of user interface elements
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
+exl-id: 4748d04e-7f9d-413f-9e9a-a0fad129c5fc
 ---
-
 # Localization of user interface elements{#localization-of-user-interface-elements}
 
 Certain content that the Video Viewer displays is subject to localization. This content includes user interface element tool tips and an error message that is displayed when the video cannot be played.
@@ -263,4 +263,3 @@ The following SYMBOLs are supported:
   </tr> 
  </tbody> 
 </table>
-

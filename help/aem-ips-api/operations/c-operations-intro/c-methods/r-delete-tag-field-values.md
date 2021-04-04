@@ -4,8 +4,8 @@ solution: Experience Manager
 title: deleteTagFieldValues
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 2694bd6d-b1ba-4146-a155-12829d9dfa47
 ---
-
 # deleteTagFieldValues{#deletetagfieldvalues}
 
 Removes tag field values from the dictionary of a tag field.
@@ -47,4 +47,4 @@ deleteTagFieldValuesParam xmlns="http://www.scene7.com/IpsApi/xsd/2010-01-31">
 
 **Response**
 
-None. 
+None.

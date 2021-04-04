@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Restrictions and known issues
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: fd32456b-9d99-4e82-a61c-2fc4d7030630
 ---
-
 # Restrictions and known issues{#restrictions-and-known-issues}
 
 There are some restrictions and known issues that should be considered when using Dynamic Media Image Serving.
@@ -146,4 +146,4 @@ The Digimarc library refuses to apply a Digimarc watermark to an image if one is
 
 ## Restrictions applicable only to utilities {#section-906a6b2378154b3da122b2332983f7a5}
 
-`ImageConvert`sometimes crashes with a segmentation fault when stopped with a `control-c`. 
+`ImageConvert`sometimes crashes with a segmentation fault when stopped with a `control-c`.

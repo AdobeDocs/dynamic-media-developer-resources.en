@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Publish Types
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 2bf45005-c1ad-4df9-9042-d3557b7b028c
 ---
-
 # Publish Types{#publish-types}
 
 Used by ImageServingPublishJob/publishType.
@@ -17,4 +17,3 @@ Used by ImageServingPublishJob/publishType.
 * [!DNL `Full`] 
 * [!DNL `FullWithSearch`] 
 * [!DNL `Incremental`]
-

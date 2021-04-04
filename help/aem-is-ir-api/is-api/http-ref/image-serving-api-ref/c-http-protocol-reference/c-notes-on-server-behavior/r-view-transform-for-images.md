@@ -4,8 +4,8 @@ solution: Experience Manager
 title: View transform for images
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: fc20cbc2-9d66-4c52-80c2-9ba7c3b54744
 ---
-
 # View transform for images{#view-transform-for-images}
 
 The image returned to the client in response to a `req=img` request is derived from the composite image by considering the following values: `wid=`, `hei=`, `fit=`, `scl=`, `rgn=`, `attribute::DefaultPix`, `attribute::MaxPix`, and the size of the composite image.
@@ -20,4 +20,4 @@ To guarantee that the view image is returned without any further scaling, specif
 
 If `rgn=` is specified, the reply image is then cropped accordingly to arrive at the final reply image size. This size is compared with `attribute::MaxPix` (if defined), and an error is generated if the reply image is larger in either dimension.
 
-If `fmt=` specifies data without alpha, any transparent areas in the reply image are filled with `bgc=` or `attribute::BkgColor`. 
+If `fmt=` specifies data without alpha, any transparent areas in the reply image are filled with `bgc=` or `attribute::BkgColor`.

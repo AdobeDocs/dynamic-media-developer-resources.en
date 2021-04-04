@@ -7,8 +7,8 @@ title: setParam
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
+exl-id: 16d1d2cd-f58f-4ac3-b89f-f2f12fee231d
 ---
-
 # setParam{#setparam}
 
 JavaScript API reference for Spin Viewer.
@@ -43,4 +43,3 @@ None.
 ```
 <instance>.setParam("style", "customStyle.css")
 ```
-

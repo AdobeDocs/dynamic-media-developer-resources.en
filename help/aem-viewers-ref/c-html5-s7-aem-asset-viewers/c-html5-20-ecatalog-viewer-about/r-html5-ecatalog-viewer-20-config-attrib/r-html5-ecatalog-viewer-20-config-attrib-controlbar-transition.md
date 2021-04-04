@@ -5,8 +5,8 @@ title: ControlBar.transition
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: abe8affb-cbcd-4072-b2ed-91a398b1d678
 ---
-
 # ControlBar.transition{#controlbar-transition}
 
  ` [ControlBar.|<containerId>_controls.]transition=none|fade[, *`delaytohide`*[, *`duration`*]`
@@ -38,4 +38,4 @@ Optional. This command is ignored on touch devices, where the control bar auto-h
 
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
-`transition=none` 
+`transition=none`

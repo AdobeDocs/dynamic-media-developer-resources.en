@@ -4,8 +4,8 @@ solution: Experience Manager
 title: map
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 7c1fbb50-98ec-4d9a-b608-93d60d687069
 ---
-
 # map{#map}
 
 Image Map Data. Provides image map data for this layer. Overrides any data from catalog::Map for this layer.
@@ -49,4 +49,4 @@ An `AREA` element with (mostly) default attributes is used to insert the map are
 
 ## See also {#section-bc1d946fdf4b47bf9742a986800aa9b5}
 
-[Image Maps](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-syntax-and-features/r-image-maps.md#reference-ff7d1bac2a064104b0c508a81316fdab), [req=map](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-req/r-req.md#reference-907cdb4a97034db7ad94695f25552e76) 
+[Image Maps](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-syntax-and-features/r-image-maps.md#reference-ff7d1bac2a064104b0c508a81316fdab), [req=map](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-req/r-req.md#reference-907cdb4a97034db7ad94695f25552e76)

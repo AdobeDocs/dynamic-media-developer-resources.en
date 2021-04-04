@@ -4,8 +4,8 @@ solution: Experience Manager
 title: SearchStrings
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 3f67ba8a-12dd-4698-9502-7cbdec9cb25d
 ---
-
 # SearchStrings{#searchstrings}
 
 Search string record extracted from a PDF file.
@@ -25,4 +25,3 @@ Search string record extracted from a PDF file.
 |  `*`height`*`  | `xsd:int`  | Search string height.  |
 |  `*`fontName`*`  | `xsd:string`  | Name of the font used in the search string.  |
 |  `*`pointSize`*`  | `xsd:string`  | Font size.  |
-

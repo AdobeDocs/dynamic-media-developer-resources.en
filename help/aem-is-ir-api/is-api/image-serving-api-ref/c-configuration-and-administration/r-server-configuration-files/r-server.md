@@ -4,8 +4,8 @@ solution: Experience Manager
 title: server.xml
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: 72b343ba-0d4b-405a-ace3-d44c4d4c44b0
 ---
-
 # server.xml{#server-xml}
 
 Contains platform server settings.
@@ -34,4 +34,3 @@ The following diagram illustrates which settings may be changed in this file. Re
    </Service>
 </Server>
 ```
-

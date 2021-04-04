@@ -4,8 +4,8 @@ solution: Experience Manager
 title: setZoomTargets
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 1b4ac729-00cf-4ea2-9098-60b4af3c7e6d
 ---
-
 # setZoomTargets{#setzoomtargets}
 
 Sets the zoom target associated with an asset image. It overwrites existing zoom targets.
@@ -76,4 +76,3 @@ This code sample defines an array of zoom targets by name, position (x and y axi
    </zoomTargetHandleArray>
 </setZoomTargetsReturn>
 ```
-

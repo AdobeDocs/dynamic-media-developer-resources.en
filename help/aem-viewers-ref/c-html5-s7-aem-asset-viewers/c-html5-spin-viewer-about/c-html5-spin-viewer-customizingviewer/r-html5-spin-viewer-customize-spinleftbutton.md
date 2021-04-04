@@ -7,8 +7,8 @@ title: Spin left button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
+exl-id: 2dba30d5-d257-4427-9476-ab695b6603aa
 ---
-
 # Spin left button{#spin-left-button}
 
 Clicking or tapping this button spins the image to the left in main view. This button is not displayed on mobile phones in order to save screen real estate. Also, the button is hidden when a multi-dimensional spin set is used. You can size, skin, and position the button using CSS.
@@ -136,4 +136,3 @@ background-image:url(images/v2/SpinLeftButton_light_down.png);
 background-image:url(images/v2/SpinLeftButton_light_disabled.png); 
 }
 ```
-

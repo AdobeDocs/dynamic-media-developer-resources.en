@@ -5,8 +5,8 @@ title: SearchPanel.maxloadradius
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: c2bbcb99-eeef-4793-a132-d0bd1fefb534
 ---
-
 # SearchPanel.maxloadradius{#searchpanel-maxloadradius}
 
  [!DNL `[SearchPanel.|<containerId>_searchPanel.]maxloadradius=-1|0| *`preloadnbr`*`]
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-4e27dfc1e2ce4dd7a4996dc575ab7a93}
 
-[!DNL `maxloadradius=0`] 
+[!DNL `maxloadradius=0`]

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: FontFieldUpdateArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 1ed5562a-90f6-483c-98ef-96bc5a5131ed
 ---
-
 # FontFieldUpdateArray{#fontfieldupdatearray}
 
 An array of font field updates.
@@ -17,4 +17,3 @@ An array of font field updates.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:FontFieldUpdate`  | An item in the font field update array.  |
-

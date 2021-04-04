@@ -5,8 +5,8 @@ title: HTTP video delivery
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
+exl-id: 33907e22-107b-4345-82bb-cad47cb7a839
 ---
-
 # HTTP video delivery{#http-video-delivery}
 
 >[!NOTE]
@@ -53,4 +53,3 @@ Depending on the method of publishing Dynamic Media video that you use in AEM, t
   ```
 
   See also [Embedding the Video on a Web Page](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/linking-urls-to-yourwebapplication.html#dynamic).
-

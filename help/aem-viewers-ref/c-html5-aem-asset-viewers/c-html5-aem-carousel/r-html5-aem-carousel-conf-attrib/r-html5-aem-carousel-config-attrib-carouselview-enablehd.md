@@ -5,8 +5,8 @@ title: CarouselView.enableHD
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
+exl-id: c94ac151-3115-42ac-8a76-13b8769293cb
 ---
-
 # CarouselView.enableHD{#carouselview-enablehd}
 
  ` [CarouselView.|<containerId>_carouselView.]enableHD=always|never|limit[, *`number`*]`
@@ -34,4 +34,4 @@ Optional.
 
 ## Example {#section-bce98c31f08a4a0ab262fab7f95ba020}
 
-`enableHD=always` 
+`enableHD=always`

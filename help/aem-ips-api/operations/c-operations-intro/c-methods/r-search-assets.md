@@ -4,8 +4,8 @@ solution: Experience Manager
 title: searchAssets
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: 58bd80e4-e9eb-43e4-8508-04e330f0ad26
 ---
-
 # searchAssets{#searchassets}
 
 Search for assets based on your specified criteria.
@@ -265,4 +265,3 @@ This code sample searches for image assets that belong to a specific company. Th
     </assetArray>
 </searchAssetsReturn>
 ```
-

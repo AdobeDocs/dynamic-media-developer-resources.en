@@ -4,8 +4,8 @@ solution: Experience Manager
 title: bfc
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: d3fa2a11-339f-4c8e-9735-439c5464ab84
 ---
-
 # bfc{#bfc}
 
 Browser Format Conversion. Specifies whether browser format conversion functionality is turned on or off.
@@ -29,4 +29,4 @@ Request attribute. Has no effect if not requesting a JPEG or PNG file.
 
 ## See also {#section-64b3f153c6d94ab58f46e77324697818}
 
-[Bfc](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-bfc.md#reference-5217a41d9d7447d6b0624077eb38d3de) 
+[Bfc](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-bfc.md#reference-5217a41d9d7447d6b0624077eb38d3de)

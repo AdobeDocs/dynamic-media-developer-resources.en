@@ -4,8 +4,8 @@ solution: Experience Manager
 title: createMetadataField
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
+exl-id: eac7fa54-ebe2-4f42-a478-d9a6fb54d1b6
 ---
-
 # createMetadataField{#createmetadatafield}
 
 Lets administrators create new metadata fields to coordinate with content management systems or for template operations. Examples of created metadata fields include keywords, information about the author of the image, or copyright holder information.
@@ -111,4 +111,3 @@ This code sample creates a string type metadata field called `createMetadataFiel
    <fieldHandle>m|21|IMAGE|createMetadataField</fieldHandle>
 </createMetadataFieldReturn>
 ```
-

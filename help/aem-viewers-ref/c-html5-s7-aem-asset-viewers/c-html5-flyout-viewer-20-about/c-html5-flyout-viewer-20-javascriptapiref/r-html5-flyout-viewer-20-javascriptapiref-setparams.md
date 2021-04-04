@@ -7,8 +7,8 @@ title: setParams
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,Business Practitioner
+exl-id: bd26292d-f9c6-4e67-8cc1-c74336d50860
 ---
-
 # setParams{#setparams}
 
 JavaScript API reference for Flyout Viewer.
@@ -37,4 +37,3 @@ None.
 ```
 <instance>.setParams("FlyoutZoomView.zoomfactor=2,3&Swatches.iscommand=op_sharpen%3d1")
 ```
-

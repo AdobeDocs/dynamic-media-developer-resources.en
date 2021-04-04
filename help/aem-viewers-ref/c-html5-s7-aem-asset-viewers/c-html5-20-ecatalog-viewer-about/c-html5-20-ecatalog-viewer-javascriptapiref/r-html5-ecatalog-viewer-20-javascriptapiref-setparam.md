@@ -7,8 +7,8 @@ title: setParam
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: 781982f6-488d-452c-8168-604c708ae6ce
 ---
-
 # setParam{#setparam}
 
 JavaScript API reference for eCatalog Viewer.
@@ -43,4 +43,3 @@ None.
 ```
 <instance>.setParam("style", "customStyle.css")
 ```
-

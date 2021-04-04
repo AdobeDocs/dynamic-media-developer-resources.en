@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getUserInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 1981f25f-779e-4434-ab6b-0debb40521fe
 ---
-
 # getUserInfo{#getuserinfo}
 
 Gets information about a user. Use the email address and the password of a system user as credentials for authorizing the request. Otherwise, the operation gets information about the default user.
@@ -64,4 +64,3 @@ This code sample returns information for the default IPS user.
    </ns1:userInfo> 
 </ns1:getUserInfoReturn>
 ```
-

@@ -7,8 +7,8 @@ title: config2
 
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,Business Practitioner
+exl-id: dbbec03a-077d-46b0-bfc6-e09436fa850a
 ---
-
 # config2{#config}
 
 Parameter common to all viewers.
@@ -41,4 +41,3 @@ None.
 ```
 config2=companypreset
 ```
-

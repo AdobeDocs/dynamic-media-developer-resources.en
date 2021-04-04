@@ -4,8 +4,8 @@ solution: Experience Manager
 title: color
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: eba88ff0-877d-432e-bbd6-9172f5b460e9
 ---
-
 # color{#color}
 
 Color Values. You can specify color values using either hexadecimal notation, a comma-separated list of component values, or decimals.
@@ -167,4 +167,4 @@ Some examples of valid color specifiers, and their corresponding pixel type, col
  </tbody> 
 </table>
 
-The output color space specified with `icc=` applies instead of the default color space when the pixel type of an output color corresponds to the pixel type of the output image. 
+The output color space specified with `icc=` applies instead of the default color space when the pixel type of an output color corresponds to the pixel type of the output image.

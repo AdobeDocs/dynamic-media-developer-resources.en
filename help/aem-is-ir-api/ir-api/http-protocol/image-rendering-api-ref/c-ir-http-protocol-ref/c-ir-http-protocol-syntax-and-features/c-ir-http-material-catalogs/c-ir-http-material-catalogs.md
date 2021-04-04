@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Material catalogs *
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 502f80f5-fdd1-468b-89a9-64cc9128d655
 ---
-
 # Material catalogs *{#material-catalogs}
 
 Material catalogs offer several features.
@@ -28,4 +28,4 @@ Vignettes and ICC profiles can be itemized in material catalogs similar to the m
 
 **See also**
 
-Material Catalog Reference, [ `src=`](../../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-src.md#reference-62c98abad22149d68d405ed6aaff8272), `attribute::RootId`, `attribute::RootPath`, `attribute::VignettePath` 
+Material Catalog Reference, [ `src=`](../../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-src.md#reference-62c98abad22149d68d405ed6aaff8272), `attribute::RootId`, `attribute::RootPath`, `attribute::VignettePath`

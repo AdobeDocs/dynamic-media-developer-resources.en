@@ -4,8 +4,8 @@ solution: Experience Manager
 title: updateAssetPermissons
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: 12972a52-7b70-405c-9c73-e5ce6ab7dd9b
 ---
-
 # updateAssetPermissons{#updateassetpermissons}
 
 Updates asset permissions.
@@ -53,4 +53,4 @@ The IPS API does not return a response for this operation.
 
 **Response**
 
-None. 
+None.

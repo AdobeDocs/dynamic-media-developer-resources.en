@@ -4,8 +4,8 @@ solution: Experience Manager
 title: rotate
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 355d9691-c04b-44a6-9563-5bef185cfa7e
 ---
-
 # rotate{#rotate}
 
 Material rotation angle. Defines the rotation angle for materials.
@@ -37,4 +37,4 @@ Material attribute. Ignored by solid color, wallpaper, cabinet, and window treat
 
 ## See also {#section-f73c00e9368b478dac1fd15bb4367a12}
 
-[anchor=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-http-anchor.md#reference-d53923d785c9442997dc7f2199524c26) 
+[anchor=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-http-anchor.md#reference-d53923d785c9442997dc7f2199524c26)

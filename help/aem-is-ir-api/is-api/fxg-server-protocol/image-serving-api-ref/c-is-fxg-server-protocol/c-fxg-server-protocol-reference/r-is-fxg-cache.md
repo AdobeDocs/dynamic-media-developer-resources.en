@@ -4,8 +4,8 @@ solution: Experience Manager
 title: cache
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 622c36fa-c209-4149-a7db-85067215b5e5
 ---
-
 # cache{#cache}
 
 Cache control. Allows selectively disabling client-side caching (browser, proxy servers, network caching systems) and caching in the internal Platform Server cache.
@@ -33,4 +33,4 @@ If only one *`cacheControl`* value is specified, it is applied to both client an
 
 Request attribute. Ignored when the request does not return a reply image. *`clientControl`* is ignored when client-side caching is disabled by the image catalog (if `catalog::Expiration` has a negative value).
 
-Defaults to `cache=on,on`. 
+Defaults to `cache=on,on`.

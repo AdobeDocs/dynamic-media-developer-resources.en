@@ -4,8 +4,8 @@ solution: Experience Manager
 title: xmpEmbed
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 353b6ac4-1141-4f17-a3ad-ad48b321b36f
 ---
-
 # xmpEmbed{#xmpembed}
 
 Embed XMP metadata. Specifies whether XMP metadata should be included in the response image.
@@ -28,4 +28,4 @@ Ignored if the output image format does not support XMP embedding. Refer to the 
 
 ## See also {#section-0b5b7d0a19564101ba7102e667e29828}
 
-[fmt=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-is-http-fmt.md#reference-cdf10043423b45ba9fe15157fb3ae37a) 
+[fmt=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-is-http-fmt.md#reference-cdf10043423b45ba9fe15157fb3ae37a)

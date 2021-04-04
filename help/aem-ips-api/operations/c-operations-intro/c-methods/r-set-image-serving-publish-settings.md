@@ -4,8 +4,8 @@ solution: Experience Manager
 title: setImageServingPublishSettings
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 75ba94b3-41d2-4c09-b444-42b3e83614b4
 ---
-
 # setImageServingPublishSettings{#setimageservingpublishsettings}
 
 For Scene 7 developers only. Refer to the Image Rendering Material Catalog Reference–Catalog Attributes section.
@@ -21,4 +21,3 @@ For Scene 7 developers only. Refer to the Image Rendering Material Catalog Refer
 |  `*`CompanyHandle`*`  | `xsd:string`  | Yes  | Company handle.  |
 |  `*`publishSettingsArray`*`  | `types:ConfigSettingArray`  | Yes  | For Scene 7 developers only.  |
 |  `*`contextHandle`*`  | `xsd:string`  | No  | Handle to the publish context.  |
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Options for cabinet style files
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: f1b72d65-fd91-4a83-8314-eab90fe64301
 ---
-
 # Options for cabinet style files{#options-for-cabinet-style-files}
 
 The following options control the processing of cabinet style files. They are ignored if sourceFile is not a cabinet style file or if -info is specified.
@@ -16,4 +16,3 @@ The following options control the processing of cabinet style files. They are ig
   <td class="stentry"> <p>Specifies the target resolution for cabinet style files. Real value in pixels per inch. If not specified, the production cabinet style file will have the same resolution as the source file. </p></td> 
  </tr> 
 </table>
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ZipInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: a19f0047-3219-4929-a850-93bc5757f004
 ---
-
 # ZipInfo{#zipinfo}
 
 Properties of a ZIP archive asset.
@@ -19,4 +19,3 @@ Properties of a ZIP archive asset.
 |  `*`originalPath`*`  | `xsd:string`  | File path.  |
 |  `*`originalFile`*`  | `xsd:string`  | File name.  |
 |  `*`fileSize`*`  | `xsd:int`  | File size.  |
-

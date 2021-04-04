@@ -4,8 +4,8 @@ solution: Experience Manager
 title: BaseColor
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 57de25f9-ed99-4d4c-ac0e-08d382e8a36f
 ---
-
 # BaseColor{#basecolor}
 
 Dominant image color. Subtractive color, used for texture colorizing. Should be the average dominant color in the texture image.
@@ -22,4 +22,4 @@ Color. Ignored by solid color and cabinet materials.
 
 ## See also {#section-befd1fb832c447579185b62ac39df67b}
 
-[bgc=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-bgc.md#reference-3f5c78cea01c4a85aa582076d23aebb0) 
+[bgc=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-bgc.md#reference-3f5c78cea01c4a85aa582076d23aebb0)

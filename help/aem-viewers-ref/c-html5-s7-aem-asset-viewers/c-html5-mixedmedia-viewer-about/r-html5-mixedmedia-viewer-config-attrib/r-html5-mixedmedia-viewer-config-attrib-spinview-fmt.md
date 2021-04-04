@@ -5,8 +5,8 @@ title: SpinView.fmt
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 4bb6c242-9f1a-440f-9fca-bf26e66e4114
 ---
-
 # SpinView.fmt{#spinview-fmt}
 
  `[SpinView.|<containerId>_spinView.]fmt=jpg|jpeg|png|png-alpha|gif|gif-alpha`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`fmt=png-alpha` 
+`fmt=png-alpha`

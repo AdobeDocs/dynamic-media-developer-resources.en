@@ -5,8 +5,8 @@ title: FlyoutZoomView.iscommand
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,Business Practitioner
+exl-id: b23918b5-5fc6-4038-b6f5-519198a96f86
 ---
-
 # FlyoutZoomView.iscommand{#flyoutzoomview-iscommand}
 
  ` [FlyoutZoomView.|<containerId>_flyout.]iscommand= *`isCommand`*`
@@ -36,4 +36,4 @@ When specified in the viewer URL:
 
 When specified in the configuration data:
 
-`iscommand=op_sharpen=1&op_colorize=0xff0000` 
+`iscommand=op_sharpen=1&op_colorize=0xff0000`

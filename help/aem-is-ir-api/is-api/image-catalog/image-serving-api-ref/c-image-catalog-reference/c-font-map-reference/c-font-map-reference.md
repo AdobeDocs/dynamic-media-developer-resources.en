@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Font map reference
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: b04e89ee-ae69-41c0-bd62-0929d21980c0
 ---
-
 # Font map reference{#font-map-reference}
 
 If a font map is required for an image catalog, the relative or absolute path of the font map file must be specified in attribute::FontMapFile.

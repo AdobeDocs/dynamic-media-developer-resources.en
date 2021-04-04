@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ThumbRes
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 0abb680e-8944-4ad8-9b6c-d0a7559fdd1b
 ---
-
 # ThumbRes{#thumbres}
 
 Default thumbnail resolution. Provides a default for the thumbnail object resolution in case a particular catalog record does not contain a valid catalog::ThumbRes value.
@@ -22,4 +22,4 @@ Inherited from `default::ThumbRes` if not defined or if empty.
 
 ## See also {#section-a6d2cce2e404441a996dba98a95c8e16}
 
-[catalog::ThumbRes](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-thumbres-cat.md#reference-eedb9991397347c3bed5bd0a785c4c69) 
+[catalog::ThumbRes](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-thumbres-cat.md#reference-eedb9991397347c3bed5bd0a785c4c69)

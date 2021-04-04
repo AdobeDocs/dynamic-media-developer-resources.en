@@ -4,8 +4,8 @@ solution: Experience Manager
 title: setImageSetMembers
 feature: Dynamic Media Classic,SDK/API,Image Sets
 role: Developer,Administrator
+exl-id: c30df5fe-e355-45d4-8c06-e396caca0d58
 ---
-
 # setImageSetMembers{#setimagesetmembers}
 
 Sets the list of assets associated with an image set.
@@ -85,4 +85,4 @@ This code sample uses a member array to set the members of an image set.
 
 **Response**
 
-None. 
+None.

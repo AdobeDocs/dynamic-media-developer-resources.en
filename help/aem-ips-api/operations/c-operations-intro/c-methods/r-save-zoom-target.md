@@ -4,8 +4,8 @@ solution: Experience Manager
 title: saveZoomTarget
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 595fd5c8-4e98-4c1a-b396-c8e170aaf454
 ---
-
 # saveZoomTarget{#savezoomtarget}
 
 Create or edit a zoom target.
@@ -69,4 +69,3 @@ This code sample saves a zoom target. The response returns the zoom target handl
    <zoomTargetHandle>34194|9|301</zoomTargetHandle>
 </saveZoomTargetReturn>
 ```
-

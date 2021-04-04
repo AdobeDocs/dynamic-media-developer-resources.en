@@ -4,8 +4,8 @@ solution: Experience Manager
 title: VideoPublishJob
 feature: Dynamic Media Classic,SDK/API,Video
 role: Developer,Administrator
+exl-id: 4b295025-6e8d-4329-87c1-63633bf26129
 ---
-
 # VideoPublishJob{#videopublishjob}
 
 Publishes files to the configured video publish servers.
@@ -19,4 +19,3 @@ Publishes files to the configured video publish servers.
 |  `*`emailSetting`*`  | `xsd:string`  | Choice of email settings.  |
 |  `*`httpCompletionUrl`*`  | `xsd:string`  | URL to send a completion notice.  |
 |  `*`contextHandle`*`  | `xsd:string`  | Handle to the publish context.  |
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: RootId
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 9224f06d-28a9-4a23-9a3a-735b2b9f87ff
 ---
-
 # RootId{#rootid}
 
 Catalog identifier. The HTTP path element to be used to identifies this catalog in a request's image object specifier.
@@ -20,4 +20,4 @@ None. Each catalog must have a unique `attribute::RootId` value. [!DNL default.i
 
 ## See also {#section-5297eaaf736b4db5901e0b37e7cb8bbe}
 
-[catalog::Id](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-id-cat.md) , [src=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-src.md#reference-f6506637778c4c69bf106a7924a91ab1) 
+[catalog::Id](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-id-cat.md) , [src=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-src.md#reference-f6506637778c4c69bf106a7924a91ab1)

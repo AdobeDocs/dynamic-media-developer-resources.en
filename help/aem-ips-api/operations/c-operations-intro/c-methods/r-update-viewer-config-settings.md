@@ -4,8 +4,8 @@ solution: Experience Manager
 title: updateViewerConfigSettings
 feature: Dynamic Media Classic,SDK/API,Viewer Presets
 role: Developer,Administrator
+exl-id: 04565e2b-bda3-4ad0-afc1-2df01e455490
 ---
-
 # updateViewerConfigSettings{#updateviewerconfigsettings}
 
 Updates SWF viewer configuration settings.
@@ -31,4 +31,4 @@ Updates SWF viewer configuration settings.
 
 **Output (updateViewerConfigSettingsReturn)**
 
-The IPS API does not return a response for this operation. 
+The IPS API does not return a response for this operation.

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Serving static (non-image) contents
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: adc3d972-b02d-40db-992e-acaa06b848ff
 ---
-
 # Serving static (non-image) contents{#serving-static-non-image-contents}
 
 You can use Image Serving to manage non-image content in catalogs and serve it via a separate /is/content context.
@@ -125,4 +125,4 @@ See [www.json.org](http://www.json.org) for more information about the JSON form
 
 ## See also {#section-7b28631016044a22a3a6762fd64771e9}
 
-[type=](../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-type.md#reference-89094fd1c50c444eb082cd266769cccb) , [req=](../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-req/r-req.md#reference-907cdb4a97034db7ad94695f25552e76), [Image Catalog Reference](../../is-api/image-serving-api-ref/c-image-catalog-reference/c-image-catalog-reference.md#concept-e23d45ea3abe43119d5144e01c14b0b5) 
+[type=](../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-type.md#reference-89094fd1c50c444eb082cd266769cccb) , [req=](../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-req/r-req.md#reference-907cdb4a97034db7ad94695f25552e76), [Image Catalog Reference](../../is-api/image-serving-api-ref/c-image-catalog-reference/c-image-catalog-reference.md#concept-e23d45ea3abe43119d5144e01c14b0b5)

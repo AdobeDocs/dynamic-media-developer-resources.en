@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Viewer Type
 feature: Dynamic Media Classic,SDK/API,Viewer
 role: Developer,Administrator
+exl-id: 35a11828-d188-4025-8133-154437ba2466
 ---
-
 # Viewer Type{#viewer-type}
 
 Used by ViewerPresetInfo.
@@ -20,4 +20,3 @@ Used by ViewerPresetInfo.
 * [!DNL `AdvancedZoom`] 
 * [!DNL `Spin`] 
 * [!DNL `All custom types`]
-

@@ -8,8 +8,8 @@ title: Spin
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
+exl-id: 4c802d42-ea5b-4f28-b6ef-2689aa16839d
 ---
-
 # Spin{#spin}
 
 Spin Viewer is an image viewer that provides a 360-degree view of the image or even multi-dimensional view if appropriate spin set is being used. It has zoom and spin tools, full screen support, and an optional close button. It is designed to work on desktops and mobile devices.
@@ -390,4 +390,3 @@ spinViewer.init();
 </body> 
 </html>
 ```
-

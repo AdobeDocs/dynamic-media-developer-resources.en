@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Using Responsive Image library
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 2542b9f3-c398-4dbf-afa3-1671fc4fe72a
 ---
-
 # Using Responsive Image library{#using-responsive-image-library}
 
 To add Responsive Image library to a web page and manage existing images with the library, complete the following steps.

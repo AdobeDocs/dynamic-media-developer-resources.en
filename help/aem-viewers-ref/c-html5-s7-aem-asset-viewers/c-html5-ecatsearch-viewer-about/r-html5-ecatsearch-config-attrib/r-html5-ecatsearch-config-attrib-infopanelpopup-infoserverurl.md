@@ -4,8 +4,8 @@ solution: Experience Manager
 title: InfoPanelPopup.infoServerUrl
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: f4bb0087-1e49-47e2-84b4-44b92fade36a
 ---
-
 # InfoPanelPopup.infoServerUrl{#infopanelpopup-infoserverurl}
 
  [!DNL `[InfoPanelPopup.|<containerId>_infoPanelPopup.]infoServerUrl= *`infoserverurl`*`]
@@ -33,4 +33,4 @@ None.
 
 ## Example {#section-4f70fa4705c54452893c72c9da7e998a}
 
-[!DNL `infoServerUrl= http://s7info1.scene7.com/s7info/s7/$3$/$4$/$1$`] 
+[!DNL `infoServerUrl= http://s7info1.scene7.com/s7info/s7/$3$/$4$/$1$`]

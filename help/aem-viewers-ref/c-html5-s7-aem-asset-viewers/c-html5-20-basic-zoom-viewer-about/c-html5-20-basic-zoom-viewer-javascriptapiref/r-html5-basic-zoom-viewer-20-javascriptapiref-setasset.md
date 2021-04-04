@@ -7,8 +7,8 @@ title: setAsset
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
+exl-id: 71525aac-b8ca-4f5a-a770-268857ddae4f
 ---
-
 # setAsset{#setasset}
 
 JavaScript API reference for Basic Zoom Viewer.
@@ -45,4 +45,3 @@ Sharpening modifier added to all images in the set:
 ```
 <instance>.setAsset("Scene7SharedAssets/Backpack_B?op_sharpen=1")
 ```
-

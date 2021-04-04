@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ThumbAssetUpdate
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: ef51d01c-1434-40ac-a383-b07ef49c3bab
 ---
-
 # ThumbAssetUpdate{#thumbassetupdate}
 
 Thumbnail image update.
@@ -18,4 +18,3 @@ Thumbnail image update.
 |---|---|---|
 |  `*`assetHandle`*`  | `xsd:string`  | Asset handle.  |
 |  `*`thumbAssetHandle`*`  | `xsd:string`  | Thumb asset handle.  |
-

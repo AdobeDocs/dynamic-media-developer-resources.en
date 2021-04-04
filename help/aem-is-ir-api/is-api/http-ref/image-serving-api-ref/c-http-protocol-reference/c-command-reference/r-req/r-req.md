@@ -4,8 +4,8 @@ solution: Experience Manager
 title: req
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 546b8b3f-9e37-4e8d-bf0c-db8c12696b2b
 ---
-
 # req{#req}
 
 Request type. Specifies the type of request.
@@ -37,4 +37,4 @@ Unless otherwise noted in the detailed descriptions, the server returns `text` r
 
 Unless otherwise noted, responses format the response as a set of `name=value` pairs.
 
-See [Properties](../../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-response-data/c-properties/c-properties.md#concept-49c609fd6de942cab422ee412353c9d9). 
+See [Properties](../../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-response-data/c-properties/c-properties.md#concept-49c609fd6de942cab422ee412353c9d9).

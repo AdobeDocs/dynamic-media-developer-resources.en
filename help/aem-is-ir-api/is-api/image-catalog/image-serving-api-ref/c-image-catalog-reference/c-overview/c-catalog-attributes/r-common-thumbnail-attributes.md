@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Common thumbnail attributes
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 1289f251-61f0-4355-9dd2-f9b0690e355c
 ---
-
 # Common thumbnail attributes{#common-thumbnail-attributes}
 
 Catalog attribute files recognize these common thumbnail attributes.
@@ -24,4 +24,3 @@ Catalog attribute files recognize these common thumbnail attributes.
   <td class="stentry"> <p>Vertical alignment for thumbnails. </p></td> 
  </tr> 
 </table>
-

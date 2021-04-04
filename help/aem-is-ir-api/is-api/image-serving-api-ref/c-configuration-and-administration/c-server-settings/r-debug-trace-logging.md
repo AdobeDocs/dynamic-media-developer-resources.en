@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Debug_trace logging
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: fe1fc984-3c6b-4bd1-b5ba-630860ac7319
 ---
-
 # Debug_trace logging{#debug-trace-logging}
 
 Use these server settings to debug trace logging.
@@ -50,4 +50,4 @@ Level 3 and 4 should be used for debug purposes only, as the log files can becom
 
 ## IS::TraceStatsInterval - Image Server Statistics Log Interval {#section-1d8df96d61044e33a5b2b2b0309c2d59}
 
-The Image Server writes memory statistics to its trace log file at the interval specified by this setting. Valid range is 5 to 86,400 seconds. 
+The Image Server writes memory statistics to its trace log file at the interval specified by this setting. Valid range is 5 to 86,400 seconds.

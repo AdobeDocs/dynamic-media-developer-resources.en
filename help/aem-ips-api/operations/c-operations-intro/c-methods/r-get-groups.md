@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getGroups
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: d98c08a6-4c20-4538-9598-c905078ab7de
 ---
-
 # getGroups{#getgroups}
 
 Returns company groups.
@@ -56,4 +56,3 @@ This code returns an array that contains all the groups that belong to a specifi
    </groupArray>
 </getGroupsReturn>
 ```
-

@@ -7,8 +7,8 @@ title: VideoTime.timepattern
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: de071adf-6c3c-4702-8950-8246b8ee459e
 ---
-
 # VideoTime.timepattern{#videotime-timepattern}
 
 Configuration attribute for Interactive Video Viewer.
@@ -37,4 +37,3 @@ Optional.
 ```
 timepattern=h:mm:ss
 ```
-

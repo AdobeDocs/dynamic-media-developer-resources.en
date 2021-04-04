@@ -4,8 +4,8 @@ solution: Experience Manager
 title: AssetPublishContextArray
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: 9eefcc8a-4779-4d03-8290-d1482fa09f58
 ---
-
 # AssetPublishContextArray{#assetpublishcontextarray}
 
  Syntax 
@@ -15,4 +15,3 @@ role: Developer,Administrator
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`AssetPublishContextArray`*`  | `types:AssetPublishContext`  | An array of asset publish contexts.  |
-

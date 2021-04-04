@@ -4,8 +4,8 @@ solution: Experience Manager
 title: PermissonSet
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 39146b70-ecd8-42ce-a171-0fb7ac7dd025
 ---
-
 # PermissonSet{#permissonset}
 
  Syntax 
@@ -16,4 +16,3 @@ role: Developer,Administrator
 |---|---|---|
 |  `*`PermissionSetHandle`*`  | `xsd:string`  | Handle to a permissions set.  |
 |  `*`permissionArray`*`  | `types:PermissionArray`  | An array of permissions.  |
-

@@ -5,8 +5,8 @@ title: FlyoutZoomView.zoomfactor
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,Business Practitioner
+exl-id: 150968d2-aece-4d2a-b5a8-31b03dae25bb
 ---
-
 # FlyoutZoomView.zoomfactor{#flyoutzoomview-zoomfactor}
 
  ` [FlyoutZoomView.|<containerId>_flyout.]zoomfactor= *`primaryFactor`*[,[ *`secondaryFactor`*][, *`upscale`*]]`
@@ -38,4 +38,4 @@ Optional.
 
 ## Example {#section-0338be21edd04ff1a3bed5c8319b61a4}
 
-`zoomfactor=2,3,0` 
+`zoomfactor=2,3,0`

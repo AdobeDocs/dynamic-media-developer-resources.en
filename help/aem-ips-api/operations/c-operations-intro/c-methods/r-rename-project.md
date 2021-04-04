@@ -4,8 +4,8 @@ solution: Experience Manager
 title: renameProject
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: 1bf74ebf-1fce-408b-9953-7fdf2ae9d10b
 ---
-
 # renameProject{#renameproject}
 
 Renames a project.
@@ -58,4 +58,3 @@ This code sample renames a project and returns the project handle.
    <projectHandle>p|6|ProjectTestAPI</projectHandle>
 </renameProjectReturn>
 ```
-

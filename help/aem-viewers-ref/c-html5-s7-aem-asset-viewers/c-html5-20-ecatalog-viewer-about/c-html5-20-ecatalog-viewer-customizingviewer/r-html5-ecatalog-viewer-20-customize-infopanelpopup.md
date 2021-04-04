@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Info panel popup
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: c29f085e-8093-44d2-8f98-9341d780cca8
 ---
-
 # Info panel popup{#info-panel-popup}
 
 Info Panel Popup displays in the middle of the viewer area when a user activates an image map that has a rollover_key property defined in Dynamic Media Classic, and if info panel feature is properly configured for the viewer.
@@ -193,4 +193,3 @@ background-image:url(images/v2/InfoPanelPopup_CloseButton_dark_up.png);
 background-image:url(images/v2/InfoPanelPopup_CloseButton_dark_up.png); 
 }
 ```
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ImageSetMemberUpdateArray
 feature: Dynamic Media Classic,SDK/API,Image Sets
 role: Developer,Administrator
+exl-id: a0b0f94a-7b45-4780-9b28-1eb449c3b831
 ---
-
 # ImageSetMemberUpdateArray{#imagesetmemberupdatearray}
 
 An array of image set member updates.
@@ -17,4 +17,3 @@ An array of image set member updates.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:ImageSetMemberUpdate`  | The array of image set member updates.  |
-

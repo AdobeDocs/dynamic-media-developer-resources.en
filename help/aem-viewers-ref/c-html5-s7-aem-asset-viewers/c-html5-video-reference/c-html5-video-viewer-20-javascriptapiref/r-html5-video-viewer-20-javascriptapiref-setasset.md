@@ -7,8 +7,8 @@ title: setAsset
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
+exl-id: e5d71393-fcae-4bd4-8e78-a451b2f05ffc
 ---
-
 # setAsset{#setasset}
 
 JavaScript API reference for Video Viewer.
@@ -48,4 +48,3 @@ None.
 ```
 <instance>.setAsset("Scene7SharedAssets/Glacier_Climber_MP4")
 ```
-

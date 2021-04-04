@@ -4,8 +4,8 @@ solution: Experience Manager
 title: MaxPix
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 0fd990cf-a54f-4574-8328-8988368d5875
 ---
-
 # MaxPix{#maxpix}
 
 Reply image size limit. Maximum reply image width and height that may be returned to the client.
@@ -22,4 +22,4 @@ Inherited from `default::MaxPix` if not defined or if empty.
 
 ## See also {#section-7385697a1b86482bba19db894f7af95b}
 
-[wid=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-is-http-wid.md#reference-bfeadcb67bf4485f851eb21345527e47) , [hei=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-is-http-hei.md#reference-6d6f556ccc0e4b98a815e8a5c1944a96) 
+[wid=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-is-http-wid.md#reference-bfeadcb67bf4485f851eb21345527e47) , [hei=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-is-http-hei.md#reference-6d6f556ccc0e4b98a815e8a5c1944a96)

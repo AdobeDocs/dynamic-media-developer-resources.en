@@ -4,8 +4,8 @@ solution: Experience Manager
 title: opac
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 7acd50b2-5c0c-492e-b5a8-105dc027ebcc
 ---
-
 # opac{#opac}
 
 Opacity. Specifies material opacity.
@@ -33,4 +33,4 @@ Material attribute. Ignored if the current object selection or the material does
 
 ## Default {#section-bd45105b1e614f96ad5d521e3ef65736}
 
-`opac=100`, for a fully opaque material (if the image does not include an alpha channel). 
+`opac=100`, for a fully opaque material (if the image does not include an alpha channel).

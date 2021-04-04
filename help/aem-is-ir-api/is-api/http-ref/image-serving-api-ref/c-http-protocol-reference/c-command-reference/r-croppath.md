@@ -4,8 +4,8 @@ solution: Experience Manager
 title: cropPathE
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 78e9f994-d638-49a7-ac42-3146e47210e3
 ---
-
 # cropPathE{#croppathe}
 
 Lets you crop to the bounding box of an embedded named path. This cropping, in turn, changes the size of the image.
@@ -33,4 +33,4 @@ None, for no additional cropping of the layer.
 
 ## See also {#section-a60f6e37ebf14e458519fcc4d2cc911d}
 
-[crop](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-crop.md#reference-6fd0f6399966446ab4425ce050572eab), [clipPathE](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-clippath.md#reference-8139b1b52dc54749b51b109521ddf83d) 
+[crop](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-crop.md#reference-6fd0f6399966446ab4425ce050572eab), [clipPathE](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-clippath.md#reference-8139b1b52dc54749b51b109521ddf83d)

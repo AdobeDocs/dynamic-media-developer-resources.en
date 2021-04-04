@@ -7,8 +7,8 @@ title: Next slide
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
+exl-id: c64889bb-bcbe-49c6-a0be-b4013ead7b90
 ---
-
 # Next slide{#next-slide}
 
 Clicking or tapping the Next slide button moves a user to the next slide in the carousel set.
@@ -99,4 +99,3 @@ Example - to set up a previous slide button that is 60 x 60 pixels, positioned 1
 .s7carouselviewer.s7mouseinput .s7panrightbutton[state='down'] { background-position: -0px -0px; } 
 .s7carouselviewer.s7mouseinput .s7panrightbutton[state='disabled'] { background-position: -0px -60px; }
 ```
-

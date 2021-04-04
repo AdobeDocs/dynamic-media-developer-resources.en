@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Text string localization
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: f105c7f2-b544-4c08-bb91-4916e485572d
 ---
-
 # Text string localization{#text-string-localization}
 
 Text string localization allows image catalogs to contain multiple locale-specific representations for the same string value.
@@ -149,4 +149,3 @@ The following table describes the output for some representative *`stringElement
   </tr> 
  </tbody> 
 </table>
-

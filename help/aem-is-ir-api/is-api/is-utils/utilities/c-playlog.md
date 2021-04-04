@@ -4,8 +4,8 @@ solution: Experience Manager
 title: The 'playlog' utility
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: e0213978-3a1d-44b4-82bf-4527b980b29e
 ---
-
 # The 'playlog' utility{#the-playlog-utility}
 
 The playlog utility can be used to pre-generate contents for the HTTP response cache.
@@ -73,4 +73,4 @@ The following example plays back all requests from an access log file created by
 
 The following command plays back all requests found in a trace log file created by Image Serving on Windows:
 
-`> "\Program Files\Scene7\ImageServing\bin\playlog.bat" d:\logs/access-2006-09-01.log` 
+`> "\Program Files\Scene7\ImageServing\bin\playlog.bat" d:\logs/access-2006-09-01.log`

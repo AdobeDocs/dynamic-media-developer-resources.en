@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Asset
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: 943e653a-ed30-4c75-9bad-6ef5b72f5219
 ---
-
 # Asset{#asset}
 
 An object or container in the folder hierarchy.
@@ -305,4 +305,3 @@ An object or container in the folder hierarchy.
   </tr> 
  </tbody> 
 </table>
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ResMode
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: a604e61e-be38-4819-b5c3-a79843c1678f
 ---
-
 # ResMode{#resmode}
 
 Default resampling mode. Specifies the default resampling and interpolation attributes to be used for scaling image data.
@@ -22,4 +22,4 @@ Inherited from `default::ResMode` if not defined or if empty.
 
 ## See also {#section-6c86322b52e9418093d189e9b29dbb75}
 
-[resMode=](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-is-cat-resmode.md#reference-609095ef568743a086f28d87c54dafa2) 
+[resMode=](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-is-cat-resmode.md#reference-609095ef568743a086f28d87c54dafa2)

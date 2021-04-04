@@ -4,8 +4,8 @@ solution: Experience Manager
 title: OperationFaultArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: b9b92686-a378-4ba0-814b-3354344aa6d2
 ---
-
 # OperationFaultArray{#operationfaultarray}
 
 An array of messages responding to one the URL provided in the CDN invalidation request.
@@ -32,4 +32,3 @@ An array of messages responding to one the URL provided in the CDN invalidation 
   </tr> 
  </tbody> 
 </table>
-

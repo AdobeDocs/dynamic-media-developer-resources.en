@@ -5,8 +5,8 @@ title: ZoomView.singleclick
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 0fcc1f5c-a735-430d-be0c-c00ed08830df
 ---
-
 # ZoomView.singleclick{#zoomview-singleclick}
 
  `[ZoomView.|<containerId>_zoomView.]singleclick=none|zoom|reset|zoomReset`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 
-`singleclick=zoom` 
+`singleclick=zoom`

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: updateMetadataField
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Administrator
+exl-id: 67506e76-aa23-46a7-a900-03d89b4266fd
 ---
-
 # updateMetadataField{#updatemetadatafield}
 
 Update field metadata.
@@ -105,4 +105,3 @@ This code sample updates assigns a new name and default value to a metadata fiel
    <fieldHandle>m|21|IMAGE|updateMetadataField</fieldHandle>
 </updateMetadataFieldReturn>
 ```
-

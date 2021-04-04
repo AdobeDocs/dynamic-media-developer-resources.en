@@ -4,8 +4,8 @@ solution: Experience Manager
 title: deleteAssets
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: 487f83e6-f713-40e9-a442-e1179b30012c
 ---
-
 # deleteAssets{#deleteassets}
 
 Deletes multiple assets.
@@ -121,4 +121,3 @@ This code sample sends a handle to a company and an array of asset handles in a 
 </deleteAssetsReturn>
 
 ```
-

@@ -7,8 +7,8 @@ title: InteractiveSwatches.textpos
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: 875d36cc-7372-454e-9a04-32492a2e558e
 ---
-
 # InteractiveSwatches.textpos{#interactiveswatches-textpos}
 
 Configuration attribute for Interactive Video Viewer.
@@ -37,4 +37,3 @@ Optional.
 ```
 textpos=top
 ```
-

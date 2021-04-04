@@ -5,8 +5,8 @@ title: PageView.doubleclick
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: e6baef83-b4a8-4bef-bb13-263f3875030d
 ---
-
 # PageView.doubleclick{#pageview-doubleclick}
 
  [!DNL `[PageView.|<containerId>_pageView.]doubleclick=none|zoom|reset|zoomReset`]
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-986e7672f3694b7aa7572fb4428172ca}
 
-[!DNL `doubleclick=zoom`] 
+[!DNL `doubleclick=zoom`]

@@ -5,8 +5,8 @@ title: InitialFrame
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: 28b6b981-94f6-4136-b322-992e18d154db
 ---
-
 # InitialFrame{#initialframe}
 
  ` initialFrame= *`frame`*`
@@ -35,4 +35,3 @@ When specified in the viewer URL.
 ```
 initialFrame=2
 ```
-

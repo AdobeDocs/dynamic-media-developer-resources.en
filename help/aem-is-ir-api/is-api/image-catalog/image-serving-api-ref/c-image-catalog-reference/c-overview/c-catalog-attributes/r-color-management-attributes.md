@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Color management attributes
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: ded6bfe7-3e39-4e45-83f0-21e9bf92895f
 ---
-
 # Color management attributes{#color-management-attributes}
 
 Catalog attribute files recognize these color management attributes.
@@ -48,4 +48,3 @@ Catalog attribute files recognize these color management attributes.
   <td class="stentry"> <p>Enable/disable color conversion dithering. </p></td> 
  </tr> 
 </table>
-

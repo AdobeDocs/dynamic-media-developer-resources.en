@@ -7,8 +7,8 @@ title: Video360Player.playback
 
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
+exl-id: e5a56195-c3ca-4748-aef6-e1f143ac254d
 ---
-
 # Video360Player.playback{#video-player-playback}
 
 Configuration attribute for Video360 Viewer.
@@ -36,4 +36,4 @@ See [External video support](../../../c-html5-aem-asset-viewers/c-html5-aem-vide
 
 ## Example {#section-bce98c31f08a4a0ab262fab7f95ba020}
 
-`playback=progressive` 
+`playback=progressive`

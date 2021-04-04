@@ -7,8 +7,8 @@ title: setHandlers
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,Business Practitioner
+exl-id: 233fadf5-4b09-406d-959b-c2c9c4524021
 ---
-
 # setHandlers{#sethandlers}
 
 JavaScript API reference for Inline Zoom Viewer.
@@ -41,4 +41,3 @@ None.
 } 
 })
 ```
-

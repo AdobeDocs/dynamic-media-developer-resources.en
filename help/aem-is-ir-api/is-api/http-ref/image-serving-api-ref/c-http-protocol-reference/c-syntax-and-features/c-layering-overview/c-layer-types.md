@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Layer types
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 9819a73d-1108-414a-831f-37ba94c3feb9
 ---
-
 # Layer types{#layer-types}
 
 Four types of layers are supported.
@@ -24,4 +24,4 @@ Solid color layers are often used for layer 0 in templates, so that the size of 
 
 ## Effect layers {#section-dd3b628bc6734077af4c0ddcebcee05f}
 
-Photoshop-style layer effects, such as drop shadows and glow effects, are implemented by IS using special sub-layers which can be attached to image, text, and solid color layers. These effect layers inherit the parent layer mask and position from the parent layer, and are limited in functionality. 
+Photoshop-style layer effects, such as drop shadows and glow effects, are implemented by IS using special sub-layers which can be attached to image, text, and solid color layers. These effect layers inherit the parent layer mask and position from the parent layer, and are limited in functionality.

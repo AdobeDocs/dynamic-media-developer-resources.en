@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Font maps
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: e01f5883-6b55-4316-a103-b77f363ebcea
 ---
-
 # Font maps{#font-maps}
 
 The following fields are recognized in font map files.

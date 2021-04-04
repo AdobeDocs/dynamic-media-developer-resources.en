@@ -4,8 +4,8 @@ solution: Experience Manager
 title: batchjobgetoutput
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 3fb48c39-b15a-45b7-9aca-ed33f9c46c93
 ---
-
 # batchjobgetoutput{#batchjobgetoutput}
 
 Retrieve the output of a submitted job.
@@ -25,4 +25,4 @@ PDF output of the job is streamed in response; error if `jobid` is invalid or jo
 
 ## Example {#section-0319e615fa254132a9dab59351b4c252}
 
-[!DNL http://scene7.adobe.com:8080/is/agm/AcmeCorp?req=batchjobgetoutput&jobid=1005907604914d8eb63126b98f7172n76a5] 
+[!DNL http://scene7.adobe.com:8080/is/agm/AcmeCorp?req=batchjobgetoutput&jobid=1005907604914d8eb63126b98f7172n76a5]

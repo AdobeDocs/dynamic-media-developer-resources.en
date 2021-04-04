@@ -7,8 +7,8 @@ title: setContainerId
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: 47fbfd39-a1f4-4deb-b064-306ca9fd3ae7
 ---
-
 # setContainerId{#setcontainerid}
 
 JavaScript API reference for Interactive Video Viewer.
@@ -39,4 +39,3 @@ None.
 ```
 <instance>.setContainerId("s7viewer");
 ```
-

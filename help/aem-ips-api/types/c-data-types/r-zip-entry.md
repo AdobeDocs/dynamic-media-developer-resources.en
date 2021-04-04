@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ZipEntry
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: f71f57db-6717-4a27-b275-19bc4cf59ea4
 ---
-
 # ZipEntry{#zipentry}
 
 An entry in a ZIP file.
@@ -21,4 +21,3 @@ An entry in a ZIP file.
 |  `*`lastModified`*`  | `xsd:dateTime`  | Date and time of last modification.  |
 |  `*`compressedSize`*`  | `xsd:long`  | Compressed size.  |
 |  `*`uncompressedSize`*`  | `xsd:long`  | Uncompressed size.  |
-

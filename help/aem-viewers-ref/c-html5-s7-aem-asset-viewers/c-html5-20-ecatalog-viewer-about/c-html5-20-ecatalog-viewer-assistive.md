@@ -7,8 +7,8 @@ title: Assistive technology support
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog,Accessibility
 role: Developer,Business Practitioner
+exl-id: 46ccea4e-4314-453e-a987-68644467ab12
 ---
-
 # Assistive technology support{#assistive-technology-support}
 
 All viewer components support ARIA (Accessible Rich Internet Applications) roles and attributes to improve integration with assistive technologies such as screen readers.
@@ -27,4 +27,4 @@ Components that display swatches have the role `listbox` with `aria-label` attri
 
 Drop-down lists are activated by buttons with additional `aria-haspopup` attribute set to `true` and the `aria-controls` attribute referencing the actual drop-down panel element. The drop-down panel itself has the role `menu` with sub-elements having the role `menuitem`. Each menu item has the `aria-label` attribute specified.
 
-Modal dialog boxes have the role `dialog`. The dialog box's header element is referenced by the `aria-labelledby` attribute. 
+Modal dialog boxes have the role `dialog`. The dialog box's header element is referenced by the `aria-labelledby` attribute.

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: SVG support
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 60e40195-710f-4f03-b152-52eaa10c5b21
 ---
-
 # SVG support{#svg-support}
 
 Image Serving supports Scalable Vector Graphics (SVG) files as source data. Conformance with SVG 1.1 is required.
@@ -68,4 +68,4 @@ ICC profile-based color specifications are not supported at this time.
 
 ## See also {#section-901dd1775fd24154a766dcfbe5032b67}
 
-[src=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-src.md#reference-f6506637778c4c69bf106a7924a91ab1) , [mask=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-mask.md#reference-922254e027404fb890b850e2723ee06e), [SVG 1.1 Specification](http://www.w3.org/TR/SVG11/) 
+[src=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-src.md#reference-f6506637778c4c69bf106a7924a91ab1) , [mask=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-mask.md#reference-922254e027404fb890b850e2723ee06e), [SVG 1.1 Specification](http://www.w3.org/TR/SVG11/)

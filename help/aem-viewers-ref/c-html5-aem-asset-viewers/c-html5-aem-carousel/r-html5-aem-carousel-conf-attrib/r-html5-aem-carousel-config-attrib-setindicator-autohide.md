@@ -5,8 +5,8 @@ title: SetIndicator.autohide
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
+exl-id: 75521239-a0be-4aa0-b65d-9a1f7d902cf2
 ---
-
 # SetIndicator.autohide{#setindicator-autohide}
 
 ` [SetIndicator.|<containerId>_setIndicator.]autohide=0|1[, *`limit`*]`
@@ -34,4 +34,4 @@ Optional.
 
 ## Example {#section-bce98c31f08a4a0ab262fab7f95ba020}
 
-`autohide=0` 
+`autohide=0`

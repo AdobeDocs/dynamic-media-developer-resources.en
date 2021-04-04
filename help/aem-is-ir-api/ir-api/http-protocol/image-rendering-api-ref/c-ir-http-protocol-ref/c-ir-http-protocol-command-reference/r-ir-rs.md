@@ -4,8 +4,8 @@ solution: Experience Manager
 title: rs
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 419baeb7-e06e-4753-a487-a1f407845f6d
 ---
-
 # rs{#rs}
 
 Advanced render settings. Specifies an advanced render settings, to be applied when rendering the current selection.
@@ -37,4 +37,4 @@ After some experimentation in Image Authoring, it is determined that unsharp-mas
 
 ## See also {#section-930116e735024a008c994547ba36ee40}
 
-[catalog::RenderSettings](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-material-data-reference/r-ir-rendersettings-dataref.md#reference-9ce753ae4096455eadcc12ac064de711) 
+[catalog::RenderSettings](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-material-data-reference/r-ir-rendersettings-dataref.md#reference-9ce753ae4096455eadcc12ac064de711)

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: TagValueUpdateFault
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 8225b3c7-626d-41b0-acd8-a20170427292
 ---
-
 # TagValueUpdateFault{#tagvalueupdatefault}
 
 The error thrown when a tag value update fails.
@@ -19,4 +19,3 @@ The error thrown when a tag value update fails.
 |  `*`value`*`  | `xsd:string`  | Tag value for which the update failed.  |
 |  `*`code`*`  | `xsd:int`  | Error code number.  |
 |  `*`reason`*`  | `xsd:string`  | Error message (plain-text).  |
-

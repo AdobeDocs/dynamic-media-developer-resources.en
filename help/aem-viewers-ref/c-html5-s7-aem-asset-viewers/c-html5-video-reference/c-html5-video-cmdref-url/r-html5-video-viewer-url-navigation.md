@@ -7,8 +7,8 @@ title: navigation
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
+exl-id: 0b42d354-2ef7-4255-8a71-c9bb9b496afd
 ---
-
 # navigation{#navigation}
 
 URL command for Video Viewer.
@@ -39,4 +39,3 @@ None.
 ```
 navigation=Scene7SharedAssets/adobe_qbc_final_nc
 ```
-

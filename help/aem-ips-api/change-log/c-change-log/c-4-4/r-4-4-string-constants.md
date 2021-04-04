@@ -4,8 +4,8 @@ solution: Experience Manager
 title: String Constants  New and Modified
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: c675db4c-0027-4ecc-851d-91fb2a896aed
 ---
-
 # String Constants: New and Modified{#string-constants-new-and-modified}
 
 Describes new and changed data types for the IPS API version 4.4.
@@ -24,4 +24,3 @@ Describes new and changed data types for the IPS API version 4.4.
 <!--
 Note: Can't tell from original docs if these are new or changes. Calling 'em new by default.
 -->
-

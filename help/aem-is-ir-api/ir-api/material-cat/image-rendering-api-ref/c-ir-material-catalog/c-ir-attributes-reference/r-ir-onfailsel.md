@@ -4,8 +4,8 @@ solution: Experience Manager
 title: OnFailSel
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: d5485569-def8-4e16-9f0e-7dd30d38439d
 ---
-
 # OnFailSel{#onfailsel}
 
 Pick selection error handling. Specifies the action to be taken if the sel= command fails because the specified pixel location is not within the mask area of a selectable object.
@@ -43,4 +43,4 @@ Inherited from `default::OnFailSel` if not defined.
 
 ## See also {#section-f8b15dd64c674c5484d190dd9e3016af}
 
-[sel=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-sel.md#reference-01322c58d414481385c29fcdd27a090b) , [attribute::OnFailObj](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-onfailobj.md#reference-4c6ba90418e84da5831f8573bbbf2c8d) 
+[sel=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-sel.md#reference-01322c58d414481385c29fcdd27a090b) , [attribute::OnFailObj](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-onfailobj.md#reference-4c6ba90418e84da5831f8573bbbf2c8d)

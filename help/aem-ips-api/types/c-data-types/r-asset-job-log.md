@@ -4,8 +4,8 @@ solution: Experience Manager
 title: AssetJobLog
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: 2c8ebec2-a664-46cd-b843-9893bfa0a9d1
 ---
-
 # AssetJobLog{#assetjoblog}
 
 The details of a job log entry associated with a particular asset. Data returned by getAssetJobLogs.
@@ -60,4 +60,3 @@ The details of a job log entry associated with a particular asset. Data returned
   </tr> 
  </tbody> 
 </table>
-

@@ -7,8 +7,8 @@ title: Video full screen button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 45811efa-95f6-4b6d-96f8-9e5437a55f0e
 ---
-
 # Video full screen button{#video-full-screen-button}
 
 The full screen button causes the viewer to enter or exit full screen mode when clicked by the user. It is used when the viewer is displaying video and is located in the control bar. This button is not displayed if the viewer works in pop-up mode and the system does not support native full screen.
@@ -104,4 +104,3 @@ background-image:url(images/exitFullBtn_down.png);
 background-image:url(images/exitFullBtn_disabled.png); } 
 }
 ```
-

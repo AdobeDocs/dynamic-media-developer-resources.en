@@ -7,8 +7,8 @@ title: setAsset
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
 role: Developer,Business Practitioner
+exl-id: 3ad78de9-17a6-40c9-b389-a1f7eed11635
 ---
-
 # setAsset{#setasset}
 
 JavaScript API reference for Mixed Media Viewer.
@@ -71,4 +71,3 @@ Sharpening modifier added to all images in the set:
 ```
 <instance>.setAsset("Scene7SharedAssets/Mixed_Media_Set_Sample?op_sharpen=1")
 ```
-

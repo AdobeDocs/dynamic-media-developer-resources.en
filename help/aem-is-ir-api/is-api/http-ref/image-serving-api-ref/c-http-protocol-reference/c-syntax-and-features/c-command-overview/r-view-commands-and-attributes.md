@@ -4,8 +4,8 @@ solution: Experience Manager
 title: View commands
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: c1dcabd3-d2bc-4ca1-a909-fcfe0d2feff6
 ---
-
 # View commands{#view-commands}
 
 These commands apply regardless of where in the request they appear.
@@ -44,4 +44,3 @@ These commands apply regardless of where in the request they appear.
   <td class="stentry"> <p>Sets the view width. </p></td> 
  </tr> 
 </table>
-

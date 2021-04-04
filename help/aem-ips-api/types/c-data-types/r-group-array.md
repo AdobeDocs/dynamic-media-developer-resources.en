@@ -4,8 +4,8 @@ solution: Experience Manager
 title: GroupArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: b3ddc10f-e153-4498-afeb-c97d7371e3d3
 ---
-
 # GroupArray{#grouparray}
 
 Array of groups.
@@ -17,4 +17,3 @@ Array of groups.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:Group`  | Array of groups.  |
-

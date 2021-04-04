@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Substitution Variables
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 539d8863-e94d-45dc-bb8c-3db7bead0051
 ---
-
 # Substitution Variables{#substitution-variables}
 
 Substitution variable are used to transfer values from the request URL to FXG templates stored on the server.
@@ -27,4 +27,3 @@ Substitution variable are used to transfer values from the request URL to FXG te
 * Variables are defined as above, similar to other IS commands; the leading '$' identifies the command as a variable definition. 
 * The variable name `*`var`*` is case-sensitive and may consist of any combination of letters, numbers, '-', and '_'. 
 * Important value must be single-pass URL-encoded for safe HTTP transmission.
-

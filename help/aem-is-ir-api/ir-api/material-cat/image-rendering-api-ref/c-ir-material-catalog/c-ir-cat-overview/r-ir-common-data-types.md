@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Common data types
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 9af44474-0512-452a-af9e-48918e9da6ca
 ---
-
 # Common data types{#common-data-types}
 
 Catalog attributes and fields may contain data of one of the following types.
@@ -32,4 +32,4 @@ Signed floating point value (e.g. `0, 12.5, 245 , -2.34e4`). 0 or negative value
 
 **Text string**
 
-String delimiters are optional, unless the string contains any `<CR>`, `<LF>`, or `<TAB>` characters. Either single and double quotation marks may be used as delimiters. If quotation marks are used, any such quotation mark embedded within the string must be escaped by using two consecutive quotation marks (e.g. ' `This month''s Special`'). 
+String delimiters are optional, unless the string contains any `<CR>`, `<LF>`, or `<TAB>` characters. Either single and double quotation marks may be used as delimiters. If quotation marks are used, any such quotation mark embedded within the string must be escaped by using two consecutive quotation marks (e.g. ' `This month''s Special`').

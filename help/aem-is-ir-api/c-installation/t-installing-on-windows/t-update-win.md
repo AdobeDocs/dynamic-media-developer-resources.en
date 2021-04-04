@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Updating from IS 4.7.4 or later
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: e0781f19-4aa8-46f7-a586-4724ff8a2e68
 ---
-
 # Updating from IS 4.7.4 or later{#updating-from-is-or-later}
 
 Use this procedure when upgrading Dynamic Media Image Serving.
@@ -34,4 +34,4 @@ Use this procedure when upgrading Dynamic Media Image Serving.
 
 During an update, the [!DNL ImageServing/conf/server.xml] file is updated to the latest settings. If you have changed or added any values you should save your existing [!DNL server.xml] and reimplement your changes after the upgrade. 
 
-After an update install, consider warming up the HTTP response cache prior to taking the server live. Refer to the description of the `playlog` utility for details. 
+After an update install, consider warming up the HTTP response cache prior to taking the server live. Refer to the description of the `playlog` utility for details.

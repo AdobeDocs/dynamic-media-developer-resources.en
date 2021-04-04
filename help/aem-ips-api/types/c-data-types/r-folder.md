@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Folder
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 74b44b1a-a92e-4c97-a93b-0cd4552f78ec
 ---
-
 # Folder{#folder}
 
 Hierarchical file or asset storage object. Folders can contain one (or more) subfolders.
@@ -23,4 +23,3 @@ Hierarchical file or asset storage object. Folders can contain one (or more) sub
 |  `*`permissionsSetHandle`*`  | `xsd:string`  | Folder permissions handle.  |
 |  `*`hasSubfolder`*`  | `types:Boolean`  | Determines if a folder has subfolders.  |
 |  `*`subfolderArray`*`  | `types:FolderArray`  | An array of subfolders in a folder.  |
-

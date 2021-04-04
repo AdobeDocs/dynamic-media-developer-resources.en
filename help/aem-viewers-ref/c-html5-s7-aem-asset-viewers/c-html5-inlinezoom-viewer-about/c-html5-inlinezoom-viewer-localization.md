@@ -7,8 +7,8 @@ title: Localization of user interface elements
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,Business Practitioner
+exl-id: 49795aa1-07c7-4f2e-bfd9-51d6581898ed
 ---
-
 # Localization of user interface elements{#localization-of-user-interface-elements}
 
 Certain content that the Flyout Viewer displays is subject to localization. This content includes user interface element tool tips and information messages that are displayed by the flyout zoom view on load.
@@ -87,4 +87,3 @@ The following SYMBOLs are supported:
   </tr> 
  </tbody> 
 </table>
-

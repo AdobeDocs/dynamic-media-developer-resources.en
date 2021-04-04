@@ -7,8 +7,8 @@ title: Video360Player.singleclick
 
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
+exl-id: dfb44ed5-5f4f-4a2c-a3b4-d49502556399
 ---
-
 # Video360Player.singleclick{#video-player-singleclick}
 
 Configuration attribute for Video360 Viewer.
@@ -37,4 +37,3 @@ Optional.
 ```
 singleclick=none
 ```
-

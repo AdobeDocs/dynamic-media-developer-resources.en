@@ -4,8 +4,8 @@ solution: Experience Manager
 title: resMode
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 63c1c028-0378-4a38-8018-e358491786d8
 ---
-
 # resMode{#resmode}
 
 Resampling mode. Chooses the resampling and/or interpolation algorithm to be used for scaling image data. Also applies to rotation of text layers and resizing of composite images during the view transform.
@@ -49,4 +49,4 @@ Retrieve a best-quality rendition of a layered image stored in an image catalog.
 
 ## See also {#section-5f7b17f66bc940d197f8e77e6b4f9657}
 
-[attribute::ResMode](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-is-cat-resmode.md#reference-609095ef568743a086f28d87c54dafa2) 
+[attribute::ResMode](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-is-cat-resmode.md#reference-609095ef568743a086f28d87c54dafa2)

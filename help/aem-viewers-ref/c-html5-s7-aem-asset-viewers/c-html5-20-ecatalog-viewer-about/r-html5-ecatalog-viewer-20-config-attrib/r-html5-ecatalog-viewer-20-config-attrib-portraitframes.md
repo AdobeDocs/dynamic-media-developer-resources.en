@@ -5,8 +5,8 @@ title: portraitFrames
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: 050388f8-45a9-4f09-a957-f94bead17eca
 ---
-
 # portraitFrames{#portraitframes}
 
  `portraitFrames=split|solid`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-798e4fc8dd9b4b059171b41a608a96ce}
 
-`portraitFrames=solid` 
+`portraitFrames=solid`

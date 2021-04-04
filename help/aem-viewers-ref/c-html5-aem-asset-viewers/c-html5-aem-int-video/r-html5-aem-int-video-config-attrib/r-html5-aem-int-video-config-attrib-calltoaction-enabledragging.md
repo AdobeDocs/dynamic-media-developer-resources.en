@@ -7,8 +7,8 @@ title: CallToAction.enabledragging
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: 21db58df-b76e-4a78-afc4-5e0188cb8896
 ---
-
 # CallToAction.enabledragging{#calltoaction-enabledragging}
 
 Configuration attribute for Interactive Video Viewer.
@@ -41,4 +41,3 @@ Optional.
 ```
 enabledragging=0
 ```
-

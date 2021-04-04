@@ -7,8 +7,8 @@ title: setAsset
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: 04b6bf4d-5c42-49e9-b585-de75ebf6c89f
 ---
-
 # setAsset{#setasset}
 
 JavaScript API reference for Video Viewer.
@@ -57,4 +57,3 @@ Sharpening modifier added to all images in the set:
 ```
  <instance>.setAsset("Viewers/Pluralist?op_sharpen=1")
 ```
-

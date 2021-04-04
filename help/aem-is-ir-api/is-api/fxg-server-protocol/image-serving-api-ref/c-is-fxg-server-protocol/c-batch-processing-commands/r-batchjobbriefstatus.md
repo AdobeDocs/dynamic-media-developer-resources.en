@@ -4,8 +4,8 @@ solution: Experience Manager
 title: batchjobbriefstatus
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 1b31bdbb-3c2c-4f7f-ba95-d3e710270be0
 ---
-
 # batchjobbriefstatus{#batchjobbriefstatus}
 
 Retrieve summarized status of a submitted job.
@@ -25,4 +25,4 @@ Brief status of job in XML format; error if jobid is invalid or job has been del
 
 ## Example {#section-806460949bb043438ad4dd4e7ab74145}
 
-[!DNL http://scene7.adobe.com:8080/is/agm/AcmeCorp?req=batchjobbriefstatus&jobid=1005907604914d8eb63126b98f7172n76a5] 
+[!DNL http://scene7.adobe.com:8080/is/agm/AcmeCorp?req=batchjobbriefstatus&jobid=1005907604914d8eb63126b98f7172n76a5]

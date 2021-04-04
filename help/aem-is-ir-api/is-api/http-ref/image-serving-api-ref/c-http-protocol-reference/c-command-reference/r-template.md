@@ -4,8 +4,8 @@ solution: Experience Manager
 title: template
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 56ebf2a1-f2c3-4b3f-8d0a-9383f1411440
 ---
-
 # template{#template}
 
 Compositing template. Lets you specify a compositing template in a catalog other than the main catalog.
@@ -41,4 +41,4 @@ See the examples in [Templates](../../../../../is-api/http-ref/image-serving-api
 
 ## See also {#section-067587444f774469931ecafd5a39834c}
 
-[object](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-data-types/r-object.md#reference-2591bd24548d462782c68d138ef795a0), [Templates](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-templates/c-templates.md#concept-3cd2d2adae0e41b2979b9640244d4d3e), [Predefined Path Variable](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-syntax-and-features/r-is-http-substitution-variables.md#reference-90dc01aba44940e4acdd0c6476e7aa5a) 
+[object](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-data-types/r-object.md#reference-2591bd24548d462782c68d138ef795a0), [Templates](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-templates/c-templates.md#concept-3cd2d2adae0e41b2979b9640244d4d3e), [Predefined Path Variable](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-syntax-and-features/r-is-http-substitution-variables.md#reference-90dc01aba44940e4acdd0c6476e7aa5a)

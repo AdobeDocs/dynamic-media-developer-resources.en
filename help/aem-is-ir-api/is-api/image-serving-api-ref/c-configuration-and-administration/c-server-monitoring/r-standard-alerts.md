@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Standard alerts
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: eb691988-9f03-463f-bed5-2c230431f537
 ---
-
 # Standard alerts{#standard-alerts}
 
 Standard alerts are sent with a consolidated email message at the end of the configured averaging interval.
@@ -48,4 +48,3 @@ The following table describes each type of standard alert.
   </tr> 
  </tbody> 
 </table>
-

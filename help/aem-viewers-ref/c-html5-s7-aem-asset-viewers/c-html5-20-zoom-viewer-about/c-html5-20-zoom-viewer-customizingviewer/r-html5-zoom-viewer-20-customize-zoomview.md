@@ -7,8 +7,8 @@ title: Zoom view
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,Business Practitioner
+exl-id: ae6c7f6f-5d71-49b5-adbb-782520961acf
 ---
-
 # Zoom view{#zoom-view}
 
 Main view consists of the zoomable image.
@@ -71,4 +71,3 @@ On desktop systems the component supports `cursortype` attribute selector which 
 * `slide`
 
   Displayed when the user performs image swap by doing a horizontal swipe or flick.
-

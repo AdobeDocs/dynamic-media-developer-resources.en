@@ -4,8 +4,8 @@ solution: Experience Manager
 title: TagConditionArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 9f5a1d4a-aa23-4761-b21f-0cf16fd2c584
 ---
-
 # TagConditionArray{#tagconditionarray}
 
 An array of tag conditions.
@@ -17,4 +17,3 @@ An array of tag conditions.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:TagCondition`  | An array of tag conditions.  |
-

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: CompanyMembershipUpdate
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: c88202f3-df21-4026-aa92-212d3c05f242
 ---
-
 # CompanyMembershipUpdate{#companymembershipupdate}
 
  Syntax 
@@ -17,4 +17,3 @@ role: Developer,Administrator
 |  `*`companyHandle`*`  | `xsd:string`  | Handle to the company.  |
 |  `*`role`*`  | `xsd:string`  | The role a user has for each company they belong to.  |
 |  `*`isActive`*`  | `xsd:boolean`  | Sets the user's status for each company they belong to.  |
-

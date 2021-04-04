@@ -4,8 +4,8 @@ solution: Experience Manager
 title: blendMode
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 8f0b8b0a-a8ac-4932-986c-5d14d3311f1b
 ---
-
 # blendMode{#blendmode}
 
 Blend Mode. Specifies the type of blending used when the layer is composited. Simulates commonly used blend modes available in Photoshop. Refer to Photoshop documentation for details.
@@ -28,4 +28,4 @@ Layer Attribute. Ignored by `layer=0` and `layer=comp`.
 
 ## See also {#section-bc7ccdfcb310441c938c0bde3e00d7b3}
 
-[opac=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-opac.md#reference-d2269b51aca34599a08d0a46ee5c27e5) 
+[opac=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-opac.md#reference-d2269b51aca34599a08d0a46ee5c27e5)

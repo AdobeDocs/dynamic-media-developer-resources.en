@@ -4,8 +4,8 @@ solution: Experience Manager
 title: imageset
 feature: Dynamic Media Classic,SDK/API,Image Sets
 role: Developer,Business Practitioner
+exl-id: 730e7db9-47f0-4e96-8948-18b8185a5b7a
 ---
-
 # imageset{#imageset}
 
 Image set data from image catalog. Returns image set data for the image catalog entry specified in the URL path.
@@ -31,4 +31,4 @@ Requests that support JSONP response format lets you specify the name of the JS 
 
 `req=...,json [&handler = reqHandler ]`
 
-`<reqHandler>` is the name of the JS handler that is present in the JSONP response. Only a-z, A-Z, and 0-9 characters are allowed. Optional. Default is `s7jsonResponse`. 
+`<reqHandler>` is the name of the JS handler that is present in the JSONP response. Only a-z, A-Z, and 0-9 characters are allowed. Optional. Default is `s7jsonResponse`.

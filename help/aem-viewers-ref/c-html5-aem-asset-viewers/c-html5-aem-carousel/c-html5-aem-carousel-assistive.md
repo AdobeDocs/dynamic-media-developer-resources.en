@@ -7,8 +7,8 @@ title: Assistive technology support
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners,Accesibility
 role: Developer,Business Practitioner
+exl-id: 3ed943e8-4695-4561-9be0-1b6ed30294f8
 ---
-
 # Assistive technology support{#assistive-technology-support}
 
 All viewer components support ARIA (Accessible Rich Internet Applications) roles and attributes to improve integration with assistive technologies such as screen readers.
@@ -21,4 +21,4 @@ Buttons which let you navigate through carousel slides have labels that update i
 
 The main view has role `application`. A brief description of the main view is provided in `aria-roledescription`, with the value defined by the `ROLE_DESCRIPTION` localization symbol of the corresponding main view component. Navigation hints for keyboard users are provided using `aria-describedby`, the text for the usage hint comes from the `USAGE_HINT` localization symbol. If an asset has a label defined in the UserData field, the `aria-label` attribute is set with the value of such label.
 
-Hot spots, regions, and image maps have the role `button` and descriptive text set with `aria-label` attribute, with the value of the hot spot or image map label. When the user puts a focus on hot spots or image maps, navigation hints for keyboard users are provided using `aria-describedby`, with the text for the usage hint coming from the `USAGE_HINT` localization symbol. 
+Hot spots, regions, and image maps have the role `button` and descriptive text set with `aria-label` attribute, with the value of the hot spot or image map label. When the user puts a focus on hot spots or image maps, navigation hints for keyboard users are provided using `aria-describedby`, with the text for the usage hint coming from the `USAGE_HINT` localization symbol.

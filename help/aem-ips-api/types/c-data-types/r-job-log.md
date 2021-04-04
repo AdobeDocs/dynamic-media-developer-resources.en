@@ -4,8 +4,8 @@ solution: Experience Manager
 title: JobLog
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 80ae6669-6fe7-45a6-9a1d-f8544dd4f878
 ---
-
 # JobLog{#joblog}
 
 The job log after the job has run.
@@ -38,4 +38,3 @@ The job log after the job has run.
 |  `*`fatalError`*`  | `xsd:boolean`  | Whether the job generated a fatal error.  |
 |  `*`detailTotalRows`*`  | `xsd:int`  |The total number of rows matching the query, which may be larger than the size of `detailArray` due to page size limits.  |
 |  `*`detailArray`*`  | `types:JobLogDetailArray`  | The array of details about the logged job.  |
-

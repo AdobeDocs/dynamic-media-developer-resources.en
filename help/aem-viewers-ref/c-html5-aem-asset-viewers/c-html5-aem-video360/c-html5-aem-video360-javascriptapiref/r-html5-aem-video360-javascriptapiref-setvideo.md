@@ -7,8 +7,8 @@ title: setVideo
 
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
+exl-id: e1894d96-6f37-4e34-a709-5b0121bd0696
 ---
-
 # setVideo{#setvideo}
 
 JavaScript API reference for Video360 Viewer
@@ -39,4 +39,3 @@ None.
 ```
 <instance>.setVideo("https://s7d9.scene7.com/is/content/Viewers/space_station_360")
 ```
-

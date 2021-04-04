@@ -7,8 +7,8 @@ title: caption
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: 8eb2aa50-52b9-4b63-9789-87e492f34a22
 ---
-
 # caption{#caption}
 
 URL command for Interactive Video Viewer.
@@ -82,4 +82,3 @@ None.
 ```
 caption=is/content/content/dam/mac/aodmarketingna/_VTT/dm-viewers-content/video/Glacier.mp4.caption.vtt,1
 ```
-

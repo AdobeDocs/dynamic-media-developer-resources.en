@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getDiskUsage
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 06fdd9f5-5021-4f0b-b312-4465df9bda25
 ---
-
 # getDiskUsage{#getdiskusage}
 
 Returns information about a company's structure (number of files, etc.).
@@ -58,4 +58,3 @@ The name of this request is misleading. Rather than returning merely a scalar va
    </diskUsageArray>
 </getDiskUsageReturn>
 ```
-

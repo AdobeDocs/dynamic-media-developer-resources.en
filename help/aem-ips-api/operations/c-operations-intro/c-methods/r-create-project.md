@@ -4,8 +4,8 @@ solution: Experience Manager
 title: createProject
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: dd9c07df-9a8f-4b67-9838-31dd96fd127b
 ---
-
 # createProject{#createproject}
 
 Creates a new project.
@@ -55,4 +55,3 @@ This code sample creates a project called `ApiTestProject` in a company specifie
    <projectHandle>p|6|ApiTestProject</projectHandle>
 </createProjectReturn>
 ```
-

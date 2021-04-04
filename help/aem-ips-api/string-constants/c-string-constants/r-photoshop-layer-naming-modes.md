@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Photoshop Layer Naming Modes
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 9f5d6319-010f-4915-91c0-c90ceba969c0
 ---
-
 # Photoshop Layer Naming Modes{#photoshop-layer-naming-modes}
 
 Used by PhotoshopOptions/layerNaming.
@@ -18,4 +18,3 @@ Used by PhotoshopOptions/layerNaming.
 * [!DNL `AppendNumber`] 
 * [!DNL `AppendName`] 
 * [!DNL `Folders`]
-

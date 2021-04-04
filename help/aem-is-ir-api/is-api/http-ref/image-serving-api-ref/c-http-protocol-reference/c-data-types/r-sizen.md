@@ -4,8 +4,8 @@ solution: Experience Manager
 title: sizeN
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 58c2d7da-31fc-49d1-a404-2e4a66ff0e56
 ---
-
 # sizeN{#sizen}
 
 Normalized Size. Used to specify image sizes or rectangle sizes, normalized relative to the size of layer 0 or some other image.
@@ -21,4 +21,4 @@ Normalized Size. Used to specify image sizes or rectangle sizes, normalized rela
  </tr> 
 </table>
 
-Both *nx* and *ny* must be greater than 0. 0,0 may indicate that a specific default size should be used. 1,1 specifies a size equal to the reference image. 
+Both *nx* and *ny* must be greater than 0. 0,0 may indicate that a specific default size should be used. 1,1 specifies a size equal to the reference image.

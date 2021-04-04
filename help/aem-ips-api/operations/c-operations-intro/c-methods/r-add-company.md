@@ -4,8 +4,8 @@ solution: Experience Manager
 title: addCompany
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 2f834fe8-a621-4a41-9473-8ef53294b348
 ---
-
 # addCompany{#addcompany}
 
 Adds a company to the system.
@@ -94,4 +94,3 @@ This example demonstrates a request to add a company to the IPS system and the r
    </ns1:companyInfo>
 </ns1:addCompanyReturn>
 ```
-

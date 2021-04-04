@@ -7,8 +7,8 @@ title: Command reference – URL
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
+exl-id: 1ed78e0d-9b93-4c66-b558-fac15c51e944
 ---
-
 # Command reference – URL{#command-reference-url}
 
 Command reference documentation for Video Viewer.
@@ -29,4 +29,4 @@ which means that this command is used in the following manner:
 
 See also [Command reference common to all viewers - Configuration attributes](../../../r-html5-viewer-20-cmdref-configattrib/r-html5-viewer-20-cmdref-configattrib.md#concept-850e0f2c49b949deb7cfbfd330d329bd).
 
-See also [Command reference common to all Viewers - URL](../../../c-html5-viewer-20-cmdref-url/c-html5-viewer-20-cmdref-url.md#concept-9b337f349b7b406b8c33c7ee96b3e226). 
+See also [Command reference common to all Viewers - URL](../../../c-html5-viewer-20-cmdref-url/c-html5-viewer-20-cmdref-url.md#concept-9b337f349b7b406b8c33c7ee96b3e226).

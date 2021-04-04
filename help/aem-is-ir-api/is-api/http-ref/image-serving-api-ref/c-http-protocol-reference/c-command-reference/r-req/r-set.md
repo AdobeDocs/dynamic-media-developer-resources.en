@@ -4,8 +4,8 @@ solution: Experience Manager
 title: set
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: bc69f094-ff21-4dd7-9e10-daddb3de0c65
 ---
-
 # set{#set}
 
 Media set info.
@@ -35,4 +35,4 @@ Requests that support JSON response format lets you specify the name of the JS c
 
 `req=...,json [&handler = reqHandler ]`
 
-`<reqHandler>` is the name of JS handler present in the JSONP response. Only a-z, A-Z, and 0-9 characters are allowed. Optional. Default is `s7jsonResponse`. 
+`<reqHandler>` is the name of JS handler present in the JSONP response. Only a-z, A-Z, and 0-9 characters are allowed. Optional. Default is `s7jsonResponse`.

@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getCompanySettings
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: b9f41405-8a45-416c-acec-ef22c2ee119e
 ---
-
 # getCompanySettings{#getcompanysettings}
 
 Returns IPS settings for a specific company.
@@ -72,4 +72,3 @@ This code sample returns all IPS settings for a specific company.
    </settings>
 </getCompanySettingsReturn>
 ```
-

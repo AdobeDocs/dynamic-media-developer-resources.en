@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Photoshop Anchor Modes
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 69edbec2-b646-4527-9ee3-a0e710996230
 ---
-
 # Photoshop Anchor Modes{#photoshop-anchor-modes}
 
 used by PhotoshopOptions/anchor.
@@ -23,4 +23,3 @@ used by PhotoshopOptions/anchor.
 * [!DNL `Southeast`] 
 * [!DNL `East`] 
 * [!DNL `Northeast`]
-

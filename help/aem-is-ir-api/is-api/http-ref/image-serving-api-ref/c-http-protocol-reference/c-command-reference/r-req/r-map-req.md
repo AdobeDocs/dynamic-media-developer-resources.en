@@ -4,8 +4,8 @@ solution: Experience Manager
 title: map
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 3330f49a-934e-492a-804c-ace4d147c65a
 ---
-
 # map{#map}
 
 Image map data.
@@ -41,4 +41,4 @@ Requests that support JSONP response format lets you specify the name of the JS 
 
 `<reqHandler>` is the name of the JS handler that is present in the JSONP response. Only a-z, A-Z, and 0-9 characters are allowed. Optional. Default is `s7jsonResponse`.
 
-See [Image Maps](../../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-syntax-and-features/r-image-maps.md#reference-ff7d1bac2a064104b0c508a81316fdab). 
+See [Image Maps](../../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-syntax-and-features/r-image-maps.md#reference-ff7d1bac2a064104b0c508a81316fdab).

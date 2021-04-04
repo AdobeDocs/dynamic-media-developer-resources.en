@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Operations  New and Modified
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: f51bb85e-5585-49ad-87c6-57c5e62531c7
 ---
-
 # Operations: New and Modified{#operations-new-and-modified}
 
 Describes new and changed operations methods for the IPS API version 4.4.
@@ -29,4 +29,3 @@ Parameters added:
 * `assetSubtypeArray`
 * `excludeByproductArray`
 * `strictSubTypeCheck`
-

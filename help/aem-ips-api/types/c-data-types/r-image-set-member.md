@@ -4,8 +4,8 @@ solution: Experience Manager
 title: ImageSetMember
 feature: Dynamic Media Classic,SDK/API,Image Sets
 role: Developer,Administrator
+exl-id: f0857d98-be79-40a6-8a84-c2c7b4c423c5
 ---
-
 # ImageSetMember{#imagesetmember}
 
 Assets that belong to an image set.
@@ -18,4 +18,3 @@ Assets that belong to an image set.
 |---|---|---|
 |  `*`asset`*`  | `type:Asset`  | Assets in the image set array.  |
 |  `*`pageReset`*`  | `xsd:boolean`  |Starts a new page. Setting is ignored and value is forced to `true` for `eCatalog` and `RenderSet` sets.  |
-

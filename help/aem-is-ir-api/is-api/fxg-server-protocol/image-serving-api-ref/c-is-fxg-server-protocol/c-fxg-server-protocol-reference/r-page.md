@@ -4,8 +4,8 @@ solution: Experience Manager
 title: page
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 7c72ceff-30d9-4e0b-8b4f-6cb0039d389e
 ---
-
 # page{#page}
 
 Retrieve page. Retrieves a specific page in a multi-page FXG.
@@ -21,4 +21,4 @@ Retrieve page. Retrieves a specific page in a multi-page FXG.
 
 ## Default {#section-3fd7fcc525b947c7a95457e50414ac9e}
 
-If `page` is not specified then the first page is returned for raster output and all pages for PDF output. 
+If `page` is not specified then the first page is returned for raster output and all pages for PDF output.

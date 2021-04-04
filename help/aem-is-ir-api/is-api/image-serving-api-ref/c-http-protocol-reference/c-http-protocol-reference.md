@@ -4,8 +4,8 @@ solution: Experience Manager
 title: HTTP protocol reference
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: b80d10a8-3b10-4daa-8559-dc36f7a54382
 ---
-
 # HTTP protocol reference{#http-protocol-reference}
 
 This document describes the HTTP protocol for Dynamic Media Image Serving.

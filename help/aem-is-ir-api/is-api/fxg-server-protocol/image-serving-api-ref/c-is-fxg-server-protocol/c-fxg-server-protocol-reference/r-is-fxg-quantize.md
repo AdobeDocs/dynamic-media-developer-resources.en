@@ -4,8 +4,8 @@ solution: Experience Manager
 title: quantize
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 67247016-a038-4ed4-90ed-751eaf9c4881
 ---
-
 # quantize{#quantize}
 
 Color quantization. Specifies color-quantization attributes for GIF output conversion.
@@ -43,4 +43,4 @@ Generate a GIF thumbnail using the ' `web`' palette and no dithering:
 
 Convert image to a bi-tonal GIF with key-color transparency and force colors to black and white:
 
-[!DNL http://server/is/agm/myRootId/myImageId?fmt=gif-alpha&wid=100&quantize=adaptive,off,2,000000,ffffff] 
+[!DNL http://server/is/agm/myRootId/myImageId?fmt=gif-alpha&wid=100&quantize=adaptive,off,2,000000,ffffff]

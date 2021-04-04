@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Image Serving HTTP protocol basic syntax
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: ac75d6d0-a71e-45a0-89ee-b952a0202793
 ---
-
 # Image Serving HTTP protocol basic syntax{#image-serving-http-protocol-basic-syntax}
 
 The HTTP protocol basic syntax is as follows:
@@ -79,4 +79,4 @@ Comments can be embedded into request strings anywhere and are identified by a p
 
 ## See also {#section-d0b836568c31454b8dbeb136e6bbe0f0}
 
-[Data Types](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-data-types/c-data-types.md#concept-49455c12df954bb5919cdd8d5ccc85fa), [HTTP/1.1 Specification](http://www.w3.org/Protocols/rfc2616/rfc2616.html) 
+[Data Types](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-data-types/c-data-types.md#concept-49455c12df954bb5919cdd8d5ccc85fa), [HTTP/1.1 Specification](http://www.w3.org/Protocols/rfc2616/rfc2616.html)

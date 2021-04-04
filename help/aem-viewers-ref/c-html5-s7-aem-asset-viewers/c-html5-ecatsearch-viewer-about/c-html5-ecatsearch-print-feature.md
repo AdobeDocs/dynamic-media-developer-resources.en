@@ -7,8 +7,8 @@ title: Print feature
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: eadcc105-4a86-40f7-867a-3b09a5599a41
 ---
-
 # Print feature{#print-feature}
 
 The viewer lets you output the catalog content to a printer.
@@ -20,4 +20,3 @@ The quality of the print can be adjusted using the `printquality` configuration 
 >[!NOTE]
 >
 >The Print feature is only available on desktop systems, except Internet Explorer 9.
-

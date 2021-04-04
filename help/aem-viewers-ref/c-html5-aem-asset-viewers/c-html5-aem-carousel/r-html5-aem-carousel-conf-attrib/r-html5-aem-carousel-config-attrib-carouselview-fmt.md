@@ -5,8 +5,8 @@ title: CarouselView.fmt
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
+exl-id: a43ca095-2a59-4a0c-a460-f465cbd4ed5f
 ---
-
 # CarouselView.fmt{#carouselview-fmt}
 
  `[CarouselView.|<containerId>_carouselView.]fmt=jpg|jpeg|png|png-alpha|gif|gif-alpha`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-bce98c31f08a4a0ab262fab7f95ba020}
 
-`fmt=png-alpha` 
+`fmt=png-alpha`

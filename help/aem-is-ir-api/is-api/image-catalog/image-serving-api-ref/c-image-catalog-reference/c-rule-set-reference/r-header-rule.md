@@ -4,8 +4,8 @@ solution: Experience Manager
 title: header
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 40849602-16b2-471b-9128-14653e84a45a
 ---
-
 # header{#header}
 
 HTTP response header element. Optional in `<rule>` elements.
@@ -40,4 +40,4 @@ The following rule applies a custom header when the header value is specified in
 
 This rule is triggered by the following request, setting the HTTP response header `Edge-Control::no-store`:
 
-`http://server/is/image/cat/id?$Edge-Control=no-store` 
+`http://server/is/image/cat/id?$Edge-Control=no-store`

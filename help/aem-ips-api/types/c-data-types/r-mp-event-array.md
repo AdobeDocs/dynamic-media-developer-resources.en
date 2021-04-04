@@ -4,8 +4,8 @@ solution: Experience Manager
 title: MPEventArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 6af68714-bdba-485c-89c4-51b79d93405a
 ---
-
 # MPEventArray{#mpeventarray}
 
 An array of MediaPortal events.
@@ -17,4 +17,3 @@ An array of MediaPortal events.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  `*`items`*`  | `types:MPEvent`  | MediaPortal event array.  |
-

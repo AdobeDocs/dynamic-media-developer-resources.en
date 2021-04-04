@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Layer transforms
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 5758d07c-bb84-4ab1-bf77-f59cf93f5e90
 ---
-
 # Layer transforms{#layer-transforms}
 
 Transforms are applied to source images and text layers.
@@ -27,4 +27,4 @@ The following transforms are applied to text layers:
 1. Apply `extend=`, if specified. 
 1. Position the layer in the canvas based on `origin=` and `pos=`(see below).
 
-For both image and text layers, the last step-positioning the layer in the canvas-does not apply to layer 0, since layer 0 effectively constitutes the canvas. 
+For both image and text layers, the last step-positioning the layer in the canvas-does not apply to layer 0, since layer 0 effectively constitutes the canvas.

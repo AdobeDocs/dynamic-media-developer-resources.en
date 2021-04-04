@@ -7,8 +7,8 @@ title: EmbedShare.embedsizes
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
+exl-id: cf075711-1275-4eb2-8cb6-fb2609711c7a
 ---
-
 # EmbedShare.embedsizes{#embedshare-embedsizes}
 
 Configuration attribute for Video Viewer.
@@ -47,4 +47,3 @@ Optional.
 ```
 embedsizes=800,600;640,480,1
 ```
-

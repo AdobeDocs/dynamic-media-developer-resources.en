@@ -7,8 +7,8 @@ title: setParams
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,Business Practitioner
+exl-id: 61d5b791-12bd-444a-add1-5537c71881fe
 ---
-
 # setParams{#setparams}
 
 JavaScript API reference for Spin Viewer.
@@ -39,4 +39,3 @@ None.
 ```
 <instance>.setParams("SpinView.zoomstep=2,3&SpinView.iscommand=op_sharpen%3d1")
 ```
-

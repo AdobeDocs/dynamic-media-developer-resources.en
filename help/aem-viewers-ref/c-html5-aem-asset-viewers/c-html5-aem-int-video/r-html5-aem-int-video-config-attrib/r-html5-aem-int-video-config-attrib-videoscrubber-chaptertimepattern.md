@@ -7,8 +7,8 @@ title: VideoScrubber.chaptertimepattern
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: 93c1d38c-1f45-4794-8084-f520f9caf257
 ---
-
 # VideoScrubber.chaptertimepattern{#videoscrubber-chaptertimepattern}
 
 Configuration attribute for Interactive Video Viewer.
@@ -37,4 +37,3 @@ Optional.
 ```
 chaptertimepattern=h:mm:ss
 ```
-

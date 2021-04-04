@@ -7,8 +7,8 @@ title: interactivedata
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: f9f5aa7a-3e0a-434a-8623-b439c9b6f18b
 ---
-
 # interactivedata{#interactivedata}
 
 URL command for Interactive Video Viewer.
@@ -39,4 +39,3 @@ None.
 ```
 interactivedata=is/content/content/dam/mac/aodmarketingna/_VTT/dm-viewers-content/video/Glacier.mp4.svideo.vtt
 ```
-

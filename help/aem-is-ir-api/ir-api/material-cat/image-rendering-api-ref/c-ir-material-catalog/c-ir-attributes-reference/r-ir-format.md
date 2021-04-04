@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Format
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 393264e0-4b2d-42d7-b95c-8d20770687e7
 ---
-
 # Format{#format}
 
 Default reply image format. Specifies the default format for reply images.
@@ -22,4 +22,4 @@ Inherited from `default::Format` if not defined or if empty.
 
 ## See also {#section-d6dc53ae28ab4133a9f8f9ec0bc159a6}
 
-[fmt=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-fmt.md#reference-4c743f67d56b47c5b774fcc900ff758c) 
+[fmt=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-fmt.md#reference-4c743f67d56b47c5b774fcc900ff758c)

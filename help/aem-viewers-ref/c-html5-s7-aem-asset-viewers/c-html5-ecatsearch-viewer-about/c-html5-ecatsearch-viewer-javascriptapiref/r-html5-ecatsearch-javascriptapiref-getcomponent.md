@@ -7,8 +7,8 @@ title: getComponent
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: cb988fbc-2496-4844-984a-0980b0548441
 ---
-
 # getComponent{#getcomponent}
 
 JavaScript API reference for eCatalog Viewer
@@ -221,4 +221,3 @@ See the *Viewer SDK API* documentation for more information about a particular c
 } 
 })
 ```
-

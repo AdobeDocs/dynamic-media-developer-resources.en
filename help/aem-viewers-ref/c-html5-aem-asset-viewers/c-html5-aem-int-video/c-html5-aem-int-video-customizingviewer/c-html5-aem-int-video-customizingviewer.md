@@ -8,8 +8,8 @@ title: Customizing Interactive Video Viewer
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: c428c3e6-81be-4708-b064-f9d794183209
 ---
-
 # Customizing Interactive Video Viewer{#customizing-interactive-video-viewer}
 
 All visual customization and most behavior customization for the Interactive Video Viewer is done by creating a custom CSS.
@@ -233,4 +233,4 @@ background-position: -0px -1120px;
 
 ## Common User Interface Elements {#section-d6330c9be8c444aa9b2a07886e3dbc2a}
 
-The following is user interface elements reference documentation that applies to Interactive Video Viewer: 
+The following is user interface elements reference documentation that applies to Interactive Video Viewer:

@@ -7,8 +7,8 @@ title: contentUrl
 
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,Business Practitioner
+exl-id: cab3c3fe-1a64-4a50-8559-57cadb31f689
 ---
-
 # contentUrl{#contenturl}
 
 Parameter common to all viewers.
@@ -45,4 +45,3 @@ contentUrl=http://aodmarketingna.assetsadobe.com/
 ```
 contentUrl=https://demos-pub.assetsadobe.com/
 ```
-

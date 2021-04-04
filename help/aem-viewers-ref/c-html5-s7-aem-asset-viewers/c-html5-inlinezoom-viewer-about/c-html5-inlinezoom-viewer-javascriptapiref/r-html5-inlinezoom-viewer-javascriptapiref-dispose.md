@@ -7,8 +7,8 @@ title: dispose
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,Business Practitioner
+exl-id: 7e525bc1-6986-414c-acc0-e011dfd7b84b
 ---
-
 # dispose{#dispose}
 
 JavaScript API reference for Inline Zoom Viewer.
@@ -36,4 +36,3 @@ None.
 ```
 <instance>.dispose()
 ```
-

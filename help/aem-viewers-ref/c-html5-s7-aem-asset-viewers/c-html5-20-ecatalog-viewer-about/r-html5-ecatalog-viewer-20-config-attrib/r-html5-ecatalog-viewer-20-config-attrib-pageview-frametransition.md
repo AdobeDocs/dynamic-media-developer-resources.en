@@ -5,8 +5,8 @@ title: PageView.frametransition
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,Business Practitioner
+exl-id: 026c2fc5-0460-481c-aca9-ddd25371779c
 ---
-
 # PageView.frametransition{#pageview-frametransition}
 
  ` [PageView.|<containerId>_pageView.]frametransition=slide|turn|auto[, *`duration`*]`
@@ -39,4 +39,4 @@ Optional.
 
 ## Example {#section-b877011e5f6240718e9451be8f622c02}
 
-`frametransition=auto,1` 
+`frametransition=auto,1`

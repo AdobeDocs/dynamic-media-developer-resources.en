@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Image Server examples
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 17c933f1-5f61-4f22-88d4-6295a2d13a01
 ---
-
 # Image Server examples{#image-server-examples}
 
 This page links to several Image Server examples.
@@ -24,4 +24,3 @@ This page links to several Image Server examples.
 * [text](http://crc.scene7.com/is-docs/examples/text.htm) 
 * [view-quality](http://crc.scene7.com/is-docs/examples/view-quality.htm) 
 * [view-size](http://crc.scene7.com/is-docs/examples/view-size.htm)
-

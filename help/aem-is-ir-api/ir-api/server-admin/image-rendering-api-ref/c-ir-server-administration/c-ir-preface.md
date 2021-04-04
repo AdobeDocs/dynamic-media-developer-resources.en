@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Server administration preface
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator,Business Practitioner
+exl-id: 65fc3510-3d47-4650-bf89-322b517dc004
 ---
-
 # Server administration preface{#server-administration-preface}
 
 This documentation discusses server administration issues and describes configuration settings for Dynamic Media Image Rendering.
@@ -44,4 +44,3 @@ Items described in this documentation are often prefixed by the following item t
   <td class="stentry"> <p>A name prefixed with 'default::' refers to an attribute of the default image catalog. </p></td> 
  </tr> 
 </table>
-

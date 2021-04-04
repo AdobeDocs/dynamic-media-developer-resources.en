@@ -4,8 +4,8 @@ solution: Experience Manager
 title: Window coverings
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: ce6543a1-2438-4661-95bf-ff3d956013bc
 ---
-
 # Window coverings{#window-coverings}
 
 Window covering materials include both soft window coverings (drapes, valances, café curtains), as well as hard window coverings (shades and blinds).
@@ -57,4 +57,3 @@ Window covering materials can only be applied to Window Covering Frame Objects, 
   </tr> 
  </tbody> 
 </table>
-

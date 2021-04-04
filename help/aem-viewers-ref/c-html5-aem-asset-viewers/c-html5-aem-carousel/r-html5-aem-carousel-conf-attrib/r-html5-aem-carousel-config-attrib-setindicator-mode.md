@@ -5,8 +5,8 @@ title: SetIndicator.mode
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
+exl-id: f228cf05-8b74-4f85-a02e-3bc084581529
 ---
-
 # SetIndicator.mode{#setindicator-mode}
 
 `[SetIndicator.|<containerId>_setIndicator.]mode=numeric|dotted`
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-bce98c31f08a4a0ab262fab7f95ba020}
 
-`mode=numeric` 
+`mode=numeric`

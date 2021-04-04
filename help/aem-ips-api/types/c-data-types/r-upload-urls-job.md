@@ -4,8 +4,8 @@ solution: Experience Manager
 title: UploadUrlsJob
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 28bca473-670f-4588-93fb-a6d6a692ce30
 ---
-
 # UploadUrlsJob{#uploadurlsjob}
 
 Uploads URLs from the location where you want to get files.
@@ -179,4 +179,3 @@ For `PublishJob`, you can choose only one of the following:
 * `postImageServingPublishJob` 
 * `postImageRenderingPublishJob` 
 * `postvideoPublishJob`
-

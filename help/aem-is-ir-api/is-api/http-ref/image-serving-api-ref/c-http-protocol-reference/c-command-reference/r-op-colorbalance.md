@@ -4,8 +4,8 @@ solution: Experience Manager
 title: op_colorbalance
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 93476778-97b0-4ad5-b22a-093239e845f0
 ---
-
 # op_colorbalance{#op-colorbalance}
 
 Adjust color balance. Adjusts the value of each RGB color component separately.
@@ -41,4 +41,4 @@ Layer command. Applies to the current layer or to the composite image if `layer=
 
 Push the color balance towards red:
 
-… `&op_colorBalance=100,0,0&`… 
+… `&op_colorBalance=100,0,0&`…

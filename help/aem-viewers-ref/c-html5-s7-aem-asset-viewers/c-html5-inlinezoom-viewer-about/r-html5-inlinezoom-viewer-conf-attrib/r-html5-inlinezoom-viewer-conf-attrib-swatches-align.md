@@ -5,8 +5,8 @@ title: Swatches.align
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,Business Practitioner
+exl-id: d9db34f3-66df-45c2-9727-bdcdf09773db
 ---
-
 # Swatches.align{#swatches-align}
 
 `[Swatches.|<containerId>_swatches.]align=left|center|right,top|center|bottom`
@@ -36,4 +36,4 @@ Optional.
 
 ## Example {#section-3a188ab955c445bcb2efa3c49722c10d}
 
-`align=left,top` 
+`align=left,top`

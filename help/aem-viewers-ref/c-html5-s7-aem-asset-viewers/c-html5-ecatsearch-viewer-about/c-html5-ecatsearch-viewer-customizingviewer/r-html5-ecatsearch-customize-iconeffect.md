@@ -7,8 +7,8 @@ title: Icon effect
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: 90877e39-04ac-4c6c-b7c9-98ffda9355f2
 ---
-
 # Icon effect{#icon-effect}
 
 The zoom indicator is overlaid on the main view area. It is displayed when the image is in a reset state and it also depends on iconeffect parameter.
@@ -68,4 +68,3 @@ Example - to set up a 100 x 100 pixel zoom indicator with different art for desk
  background-image:url(images/v2/IconEffect_pinch.png); 
 }
 ```
-

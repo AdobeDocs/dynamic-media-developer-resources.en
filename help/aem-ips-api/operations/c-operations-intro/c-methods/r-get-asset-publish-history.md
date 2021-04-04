@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getAssetPublishHistory
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: f337e7f9-1af6-4164-b9bd-e697548e2850
 ---
-
 # getAssetPublishHistory{#getassetpublishhistory}
 
 Returns the publish history for an asset.
@@ -59,4 +59,3 @@ This code sample returns the publish history of an asset. An asset has never bee
    <pubHistoryArray/>
 </getAssetPublishHistoryReturn>
 ```
-

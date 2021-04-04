@@ -5,8 +5,8 @@ title: setLocalizedTexts
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
+exl-id: 3bb1d277-e057-4a5d-9498-2adbca8f12b2
 ---
-
 # setLocalizedTexts{#setlocalizedtexts}
 
  ` setLocalizedTexts( *`localizationInfo`*)`
@@ -33,4 +33,3 @@ None.
 ```
 <instance>.setLocalizedTexts({"en":{"VideoPlayer.ERROR":"Your Browser does not support HTML5 Video tag or the video cannot be played."},"fr":{"VideoPlayer.ERROR":"Votre navigateur ne prend pas en charge la vidéo HTML5 tag ou la vidéo ne peuvent pas être lus."},defaultLocale:"en"})
 ```
-

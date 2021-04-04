@@ -7,8 +7,8 @@ title: VideoPlayer.iconeffect
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: 690dc488-2db0-4166-a308-f1f3438c480a
 ---
-
 # VideoPlayer.iconeffect{#videoplayer-iconeffect}
 
 Configuration attribute for Interactive Video Viewer.
@@ -46,4 +46,4 @@ Optional.
 
 ## Example {#section-bce98c31f08a4a0ab262fab7f95ba020}
 
-`iconeffect=0` 
+`iconeffect=0`

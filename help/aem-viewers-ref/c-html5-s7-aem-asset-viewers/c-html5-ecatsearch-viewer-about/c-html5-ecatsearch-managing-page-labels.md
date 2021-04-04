@@ -5,8 +5,8 @@ title: Managing page labels
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: 73c3904f-678f-47c4-b895-86671402df79
 ---
-
 # Managing page labels{#managing-page-labels}
 
 There are two places in the viewer user interface where page labels are shown: thumbnails mode and the table of contents drop-down.
@@ -25,4 +25,4 @@ Labels defined in Dynamic Media Classic are stored in the UserData record of ind
 
 Automatically generated labels are sequential numbers assigned to all pages in the ecatalog. Automatically generated labels are ignored for the given spread if it has SYMBOL-based labels defined or Dynamic Media Classic labels defined.
 
-In the table of contents, it is possible to disable the display of automatically generated labels using `showdefault` parameter. 
+In the table of contents, it is possible to disable the display of automatically generated labels using `showdefault` parameter.

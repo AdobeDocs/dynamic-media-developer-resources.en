@@ -4,8 +4,8 @@ solution: Experience Manager
 title: RenderSettings
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 01af15a0-3c7c-47e3-be9b-49e045d856ba
 ---
-
 # RenderSettings{#rendersettings}
 
 Default advanced render settings. Default for catalog::RenderSettings.
@@ -20,4 +20,4 @@ Text string. If specified, it must be a valid render settings string, as defined
 
 ## See also {#section-f35d7772f4b744d1846331e19ea99173}
 
-[rs=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-rs.md#reference-d20cefaaa6cd4f449d1591c87959b4cf) , [catalog::RenderSettings](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-rendersettings.md#reference-f3ae5e18095d40b2a8edef957dd82fbd) 
+[rs=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-rs.md#reference-d20cefaaa6cd4f449d1591c87959b4cf) , [catalog::RenderSettings](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-rendersettings.md#reference-f3ae5e18095d40b2a8edef957dd82fbd)

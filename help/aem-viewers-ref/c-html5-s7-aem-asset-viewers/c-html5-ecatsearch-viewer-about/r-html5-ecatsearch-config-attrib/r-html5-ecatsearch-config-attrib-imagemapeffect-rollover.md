@@ -5,8 +5,8 @@ title: ImageMapEffect.rollover
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,Business Practitioner
+exl-id: 29ca3d4d-6953-4148-9b1e-01e94d1da7df
 ---
-
 # ImageMapEffect.rollover{#imagemapeffect-rollover}
 
 [!DNL `[ImageMapEffect.|<containerId>_imageMapEffect.]rollover=0|1`]
@@ -30,4 +30,4 @@ Optional.
 
 ## Example {#section-b548ed09b52b4b65888ac891af08d725}
 
-[!DNL `rollover=1`] 
+[!DNL `rollover=1`]

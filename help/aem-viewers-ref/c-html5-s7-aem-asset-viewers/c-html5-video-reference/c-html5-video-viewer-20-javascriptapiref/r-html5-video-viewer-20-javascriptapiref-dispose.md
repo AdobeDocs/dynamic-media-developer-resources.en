@@ -7,8 +7,8 @@ title: dispose
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,Business Practitioner
+exl-id: c4bcccdc-6f23-4213-a1d1-03c5c62ba484
 ---
-
 # dispose{#dispose}
 
 JavaScript API reference for Video Viewer.
@@ -36,4 +36,3 @@ None.
 ```
 <instance>.dispose()
 ```
-

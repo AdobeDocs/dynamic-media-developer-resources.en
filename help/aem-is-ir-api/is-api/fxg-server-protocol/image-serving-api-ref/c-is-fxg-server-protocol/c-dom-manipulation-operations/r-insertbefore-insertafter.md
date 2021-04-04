@@ -4,8 +4,8 @@ solution: Experience Manager
 title: insertBefore,insertAfter
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 20d27fa7-e98a-4f85-9e48-5fa9ad3102b7
 ---
-
 # insertBefore,insertAfter{#insertbefore-insertafter}
 
 Set XML before or after a node.
@@ -32,4 +32,4 @@ results in:
 
 results in:
 
-`<Group s7:elementID="inner_shape" visible="true"> <Rect ai:knockout="0" d:userLabel="Background" height="392.581" visible="true" width="319.953" x="0.75" y="0.75"> <fill><SolidColor color="#ffffff" s7:cmykColor="#00000000"/></fill> </Rect>` 
+`<Group s7:elementID="inner_shape" visible="true"> <Rect ai:knockout="0" d:userLabel="Background" height="392.581" visible="true" width="319.953" x="0.75" y="0.75"> <fill><SolidColor color="#ffffff" s7:cmykColor="#00000000"/></fill> </Rect>`

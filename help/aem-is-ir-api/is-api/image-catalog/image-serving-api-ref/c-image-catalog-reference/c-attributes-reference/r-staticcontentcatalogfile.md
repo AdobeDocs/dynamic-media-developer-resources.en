@@ -4,8 +4,8 @@ solution: Experience Manager
 title: StaticContentCatalogFile
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: ff6f0ad8-189f-4172-89cb-f138d2df8fe4
 ---
-
 # StaticContentCatalogFile{#staticcontentcatalogfile}
 
 Static content catalog data file paths. Specifies the files that contain the static content data for this catalog.
@@ -22,4 +22,4 @@ Empty, which indicates that this image catalog does not include any static conte
 
 ## See also {#section-13d78d475fff40e7a4edf9a9c73f3c15}
 
-[Catalog Data](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-overview/c-catalog-data-fields/c-catalog-data-fields.md#concept-b19581028ec44f98b9f5943624403d29) 
+[Catalog Data](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-overview/c-catalog-data-fields/c-catalog-data-fields.md#concept-b19581028ec44f98b9f5943624403d29)

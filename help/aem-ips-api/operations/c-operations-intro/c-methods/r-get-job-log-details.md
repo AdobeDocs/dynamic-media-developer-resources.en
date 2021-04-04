@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getJobLogDetails
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: d2e4eea6-041b-4a80-beda-cbb8d74cd50b
 ---
-
 # getJobLogDetails{#getjoblogdetails}
 
 Gets the details of a company job log.
@@ -145,4 +145,3 @@ This code sample returns all the job log details for a specific company. The fir
    </jobLogArray>
 </getJobLogDetailsReturn>
 ```
-

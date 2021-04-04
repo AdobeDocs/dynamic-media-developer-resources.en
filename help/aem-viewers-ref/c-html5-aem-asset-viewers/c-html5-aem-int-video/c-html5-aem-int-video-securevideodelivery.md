@@ -5,8 +5,8 @@ title: HTTPS video delivery
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
+exl-id: 68d37b5d-5015-4a98-84b8-8911ace327ed
 ---
-
 # HTTPS video delivery{#https-video-delivery}
 
 >[!NOTE]
@@ -73,4 +73,3 @@ Depending on the method of publishing Dynamic Media video that you use in AEM, t
   ```
 
   See also [Embedding the Video on a Web Page](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/linking-urls-to-yourwebapplication.html#dynamic).
-

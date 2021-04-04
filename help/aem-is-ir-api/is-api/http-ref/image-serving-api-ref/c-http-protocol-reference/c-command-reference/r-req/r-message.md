@@ -4,8 +4,8 @@ solution: Experience Manager
 title: message
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Business Practitioner
+exl-id: 47e51181-714c-4b25-a375-f3b2238cd534
 ---
-
 # message{#message}
 
 Client message. Provides a mechanism for clients to insert short text messages into the server log.
@@ -19,4 +19,4 @@ Client message. Provides a mechanism for clients to insert short text messages i
  </tr> 
 </table>
 
-The HTTP response is not cacheable. An empty response is returned with MIME type `text/plain`. 
+The HTTP response is not cacheable. An empty response is returned with MIME type `text/plain`.

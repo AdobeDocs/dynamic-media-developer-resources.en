@@ -4,8 +4,8 @@ solution: Experience Manager
 title: getFolders
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
+exl-id: 71fe3343-2560-4d74-8ec3-1229d83a62e1
 ---
-
 # getFolders{#getfolders}
 
 Returns all folders and subfolders, starting at the folder path. The getFolders response returns a maximum of 100,000 folders.
@@ -87,4 +87,3 @@ This code sample returns an array that contains all the folders for a company al
    </folderArray>
 </getFoldersReturn>
 ```
-
