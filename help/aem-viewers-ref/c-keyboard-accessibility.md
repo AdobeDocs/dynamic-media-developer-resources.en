@@ -4,6 +4,7 @@ solution: Experience Manager
 title: Keyboard accessibility and navigation
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,Business Practitioner
+exl-id: 0bdf172a-0bde-42d2-900f-f207538fe588
 ---
 # Keyboard accessibility and navigation{#keyboard-accessibility-and-navigation}
 
