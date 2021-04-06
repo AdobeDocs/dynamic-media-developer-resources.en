@@ -4,7 +4,6 @@ solution: Experience Manager
 title: Keyboard accessibility and navigation
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,Business Practitioner
-exl-id: 0bdf172a-0bde-42d2-900f-f207538fe588
 ---
 # Keyboard accessibility and navigation{#keyboard-accessibility-and-navigation}
 
@@ -18,9 +17,9 @@ All features exposed in the Basic Zoom, eCatalog, eCatalog Search, Flyout, Inlin
 
 An end user can navigate between viewer user interface elements using **[!UICONTROL Tab]** and **[!UICONTROL Shift+Tab]** keystrokes. Using **[!UICONTROL Tab]** advances input focus to the next user interface element in the tabbing order; using **[!UICONTROL Shift+Tab]** brings input focus back to the previous user interface element. The focus traversal follows the natural user interface element location on the screen and moves in a left-to-right, then top-to-bottom order.
 
-Depending on the operating system and web browser settings, the user interface element that has input focus may receive a visual focus indication. For example, the visual indicator can be a thin border rendered around the user interface element.
+Depending on the operating system and web browser settings, the user interface element that has input focus receives a visual focus indication. For example, the visual indicator can be a thin border rendered around the user interface element.
 
-It is possible to disable or customize such focus highlight in the viewer CSS. In the table of contents of this Help system, under a specific viewer name (for example, Basic Zoom or Interactive Video), click **Customizing*name of viewer*** > **Focus highlight**.
+It is possible to disable or customize such focus highlight in the viewer CSS. In the table of contents of this Help system, under a specific viewer name (for example, Basic Zoom or Interactive Video), click **Customizing *name of viewer*** > **Focus highlight**.
 
 Keystrokes supported by individual viewer user interface elements are-in most cases-obvious and easy to discover.
 
@@ -49,7 +48,7 @@ Keystrokes supported by individual viewer user interface elements are-in most ca
    <td colname="col2"> <p>Up, down, left, or right arrow key. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Spinning a 360 degree image </p> </td> 
+   <td colname="col1"> <p>Spinning a 360-degree image </p> </td> 
    <td colname="col2"> <p>Use arrow keys when the image is in a reset state. </p> <p>Use up or down arrow key when working with multi-dimensional spin sets. </p> </td> 
   </tr> 
   <tr> 
@@ -89,7 +88,7 @@ Keystrokes supported by individual viewer user interface elements are-in most ca
    <td colname="col2"> <p>Left or right arrow key. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Carousel, hotspot selection and hotspot activation </p> </td> 
+   <td colname="col1"> <p>Carousel, hotspot selection, and hotspot activation </p> </td> 
    <td colname="col2"> <p>Hotspot selection: up, down, left, or right arrow key </p> <p>Hotspot activation: Space or Enter key. </p> </td> 
   </tr> 
   <tr> 
