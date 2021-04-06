@@ -1,10 +1,7 @@
 ---
 description: Certain content that is displayed by the viewer is subject to localization. This includes user interface element tool tips and an error message displayed when the video cannot play.
-
-
 solution: Experience Manager
 title: Localization of user interface elements
-
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
 exl-id: d54fd841-2246-4d2e-8bf9-7da56f2487f3

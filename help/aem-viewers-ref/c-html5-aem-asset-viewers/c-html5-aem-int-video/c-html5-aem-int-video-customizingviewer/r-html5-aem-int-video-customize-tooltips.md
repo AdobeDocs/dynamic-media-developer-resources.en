@@ -1,10 +1,7 @@
 ---
 description: On desktop systems some user interface elements such as buttons have tooltips that are displayed on mouse hover.
-
-
 solution: Experience Manager
 title: Tooltips
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
 exl-id: 430809d8-3d51-49b7-b6bf-c3c3c77501ff

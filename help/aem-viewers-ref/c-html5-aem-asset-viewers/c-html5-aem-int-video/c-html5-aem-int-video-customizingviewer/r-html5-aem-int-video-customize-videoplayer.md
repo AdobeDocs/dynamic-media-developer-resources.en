@@ -1,10 +1,7 @@
 ---
 description: The video player is the rectangular area where the video content is displayed within the viewer.
-
-
 solution: Experience Manager
 title: Video player
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
 exl-id: 9cfeceff-f6bd-42d9-9b85-456bbaa278fd

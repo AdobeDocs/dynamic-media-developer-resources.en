@@ -1,10 +1,7 @@
 ---
 description: Configuration attributes documentation for Carousel Viewer.
-
-
 solution: Experience Manager
 title: Command reference – Configuration attributes
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
 exl-id: 71c2c973-d711-4d37-b778-381a7ec71527

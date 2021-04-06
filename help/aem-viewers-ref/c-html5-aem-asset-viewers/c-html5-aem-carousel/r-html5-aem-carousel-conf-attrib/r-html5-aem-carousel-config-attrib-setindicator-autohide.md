@@ -2,7 +2,6 @@
 description: SetIndicator.autohide
 solution: Experience Manager
 title: SetIndicator.autohide
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
 exl-id: 75521239-a0be-4aa0-b65d-9a1f7d902cf2

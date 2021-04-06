@@ -1,10 +1,7 @@
 ---
 description: JavaScript API reference for Video360 Viewer.
-
-
 solution: Experience Manager
 title: dispose
-
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
 exl-id: 4e6ad465-36df-49e2-8c9e-722e8aa9063e

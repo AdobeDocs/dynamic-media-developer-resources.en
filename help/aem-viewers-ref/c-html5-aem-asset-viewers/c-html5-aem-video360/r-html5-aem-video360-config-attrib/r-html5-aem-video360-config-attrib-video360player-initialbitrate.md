@@ -1,10 +1,7 @@
 ---
 description: Configuration attribute for Video360 Viewer.
-
-
 solution: Experience Manager
 title: Video360Player.initialbitrate
-
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
 exl-id: f36eb82a-e545-4063-8bc4-6315ed17758f

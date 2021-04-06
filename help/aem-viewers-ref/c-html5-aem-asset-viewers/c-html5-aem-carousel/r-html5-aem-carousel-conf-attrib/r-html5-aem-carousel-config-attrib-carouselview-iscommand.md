@@ -2,7 +2,6 @@
 description: CarouselView.iscommand
 solution: Experience Manager
 title: CarouselView.iscommand
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
 exl-id: 848eaed7-c150-4537-96a4-f2614162d58f

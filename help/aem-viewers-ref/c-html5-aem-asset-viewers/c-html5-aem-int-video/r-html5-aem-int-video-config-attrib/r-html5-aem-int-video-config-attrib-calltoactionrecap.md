@@ -1,10 +1,7 @@
 ---
 description: Configuration attribute for Interactive Video Viewer.
-
-
 solution: Experience Manager
 title: callToActionRecap
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
 exl-id: a91c957f-5ad2-4022-afde-de129b060576

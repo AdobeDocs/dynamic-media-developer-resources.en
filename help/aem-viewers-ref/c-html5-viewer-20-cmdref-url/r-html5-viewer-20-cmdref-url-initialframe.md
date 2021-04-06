@@ -1,10 +1,7 @@
 ---
 description: Parameter common to all viewers.
-
-
 solution: Experience Manager
 title: initialFrame
-
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,Business Practitioner
 exl-id: db77edf0-e223-4f44-b83b-b6dbe5c1abd6

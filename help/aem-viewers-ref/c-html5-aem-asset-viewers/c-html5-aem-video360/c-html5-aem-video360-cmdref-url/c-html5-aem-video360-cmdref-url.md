@@ -1,10 +1,7 @@
 ---
 description: Command reference documentation for Video360 Viewer.
-
-
 solution: Experience Manager
 title: Command reference – URL
-
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
 exl-id: eb7026cf-f28b-4426-ba64-b3472946d5d4

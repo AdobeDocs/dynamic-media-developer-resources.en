@@ -1,10 +1,7 @@
 ---
 description: Specifies the image format that the component uses for loading images from Image Server.
-
-
 solution: Experience Manager
 title: ZoomView.fmt
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,Business Practitioner
 exl-id: 6a023abb-71c7-4db5-8d05-bf0a4b1fc3a0

@@ -1,10 +1,7 @@
 ---
 description: Clicking or tapping on this button returns a user to the previous slide in the carousel set. This button is not displayed on touch devices. You can size, skin, and position this button using CSS.
-
-
 solution: Experience Manager
 title: Previous slide
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
 exl-id: f780e62e-7238-4cc6-b382-3a21043e1079

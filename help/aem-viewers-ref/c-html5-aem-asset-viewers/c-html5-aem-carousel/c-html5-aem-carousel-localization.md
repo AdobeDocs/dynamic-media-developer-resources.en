@@ -1,10 +1,7 @@
 ---
 description: Certain content that the Carousel Viewer displays is subject to localization. This includes slide navigation buttons.
-
-
 solution: Experience Manager
 title: Localization of user interface elements
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
 exl-id: 05f5abe0-1124-4114-864d-440699bcdc39

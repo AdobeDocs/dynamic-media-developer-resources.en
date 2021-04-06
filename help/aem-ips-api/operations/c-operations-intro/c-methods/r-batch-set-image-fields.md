@@ -1,6 +1,5 @@
 ---
 description: Sets image-specific fields for one or more image assets.
-
 solution: Experience Manager
 title: batchSetImageFields
 feature: Dynamic Media Classic,SDK/API

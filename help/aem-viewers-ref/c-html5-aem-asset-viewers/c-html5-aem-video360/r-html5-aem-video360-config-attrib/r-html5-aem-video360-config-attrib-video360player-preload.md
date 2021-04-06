@@ -1,10 +1,7 @@
 ---
 description: Indicates whether the viewer begins loading video content before the playback starts.
-
-
 solution: Experience Manager
 title: Video360Player.preload
-
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
 exl-id: 33c28ed3-cdb3-4b14-8cc7-90f77ec9a3bb

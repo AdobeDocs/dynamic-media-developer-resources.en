@@ -1,10 +1,7 @@
 ---
 description: JavaScript API reference for Video Image Viewer.
-
-
 solution: Experience Manager
 title: setParam
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,Business Practitioner
 exl-id: ef307acb-2ff0-46df-a06b-8dbac2e412f9

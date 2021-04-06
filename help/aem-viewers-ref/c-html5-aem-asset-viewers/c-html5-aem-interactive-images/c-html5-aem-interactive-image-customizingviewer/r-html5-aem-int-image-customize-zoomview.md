@@ -1,10 +1,7 @@
 ---
 description: Main view consists of the static image.
-
-
 solution: Experience Manager
 title: Zoom view
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,Business Practitioner
 exl-id: e83d53a1-bee9-4e4d-8295-a3a350f3ff9c

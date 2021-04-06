@@ -2,7 +2,6 @@
 description: Hotspot support
 solution: Experience Manager
 title: Hotspot support
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,Business Practitioner
 exl-id: 9b9ccdf4-4639-4ba8-988c-c68d81192619

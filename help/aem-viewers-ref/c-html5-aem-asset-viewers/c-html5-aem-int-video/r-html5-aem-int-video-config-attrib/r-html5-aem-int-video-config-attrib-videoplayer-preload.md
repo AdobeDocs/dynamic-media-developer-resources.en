@@ -1,10 +1,7 @@
 ---
 description: Indicates whether the viewer begins loading video content before the playback starts.
-
-
 solution: Experience Manager
 title: VideoPlayer.preload
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
 exl-id: afabbfde-e003-4fee-a4ef-0fc4c43fd960

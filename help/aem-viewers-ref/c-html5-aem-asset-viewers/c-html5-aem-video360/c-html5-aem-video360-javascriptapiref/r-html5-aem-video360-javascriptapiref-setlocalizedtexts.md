@@ -1,10 +1,7 @@
 ---
 description: JavaScript API reference for Video360 Viewer.
-
-
 solution: Experience Manager
 title: setLocalizedTexts
-
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
 exl-id: b0434886-defa-47d4-9853-bfd73c64d036

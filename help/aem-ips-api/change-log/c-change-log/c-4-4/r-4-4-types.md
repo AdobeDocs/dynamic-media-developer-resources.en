@@ -4,7 +4,6 @@ solution: Experience Manager
 title: Data Types  New and Modified
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Administrator
-exl-id: d8800b15-b9a3-4497-8b6b-fd318458ab5a
 ---
 # Data Types: New and Modified{#data-types-new-and-modified}
 

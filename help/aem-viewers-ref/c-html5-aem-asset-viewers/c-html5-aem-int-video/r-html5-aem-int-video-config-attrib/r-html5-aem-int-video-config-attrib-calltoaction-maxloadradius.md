@@ -1,10 +1,7 @@
 ---
 description: Configuration attribute for Interactive Video Viewer.
-
-
 solution: Experience Manager
 title: CallToAction.maxloadradius
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
 exl-id: db04133e-bb23-4d94-b91d-fcf34576c03f

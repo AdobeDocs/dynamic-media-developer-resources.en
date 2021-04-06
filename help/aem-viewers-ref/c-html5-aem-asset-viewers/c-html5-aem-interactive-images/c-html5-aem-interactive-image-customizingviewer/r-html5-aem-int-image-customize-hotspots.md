@@ -1,10 +1,7 @@
 ---
 description: The viewer displays hotspot icons over the main view in places where hotspots were originally authored in Dynamic Media of AEM Assets – on-demand.
-
-
 solution: Experience Manager
 title: Hotspots
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,Business Practitioner
 exl-id: ec1d9a91-e189-470a-abe2-4f33686905e7

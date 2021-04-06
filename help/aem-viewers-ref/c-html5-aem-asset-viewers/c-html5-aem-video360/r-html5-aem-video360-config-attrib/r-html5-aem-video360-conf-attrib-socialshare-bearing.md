@@ -1,10 +1,7 @@
 ---
 description: Configuration attribute for Video360 Viewer.
-
-
 solution: Experience Manager
 title: SocialShare.bearing
-
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
 exl-id: f00b2539-3159-487a-b0fa-9589b694c2e6
