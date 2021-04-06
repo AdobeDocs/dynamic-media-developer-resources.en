@@ -4,6 +4,7 @@ solution: Experience Manager
 title: Compatibility notes
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,Business Practitioner
+exl-id: 7ad499b1-7da6-483b-ab11-cff2eb9271da
 ---
 # Compatibility notes{#compatibility-notes}
 
