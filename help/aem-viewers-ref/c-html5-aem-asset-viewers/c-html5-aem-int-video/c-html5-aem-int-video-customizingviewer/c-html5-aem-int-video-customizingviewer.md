@@ -1,11 +1,8 @@
 ---
 description: All visual customization and most behavior customization for the Interactive Video Viewer is done by creating a custom CSS.
 keywords: responsive
-
-
 solution: Experience Manager
 title: Customizing Interactive Video Viewer
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
 exl-id: c428c3e6-81be-4708-b064-f9d794183209

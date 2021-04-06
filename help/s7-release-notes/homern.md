@@ -1,8 +1,6 @@
 ---
 title: Adobe Dynamic Media Classic release notes
-
 description: Adobe Dynamic Media Classic release notes
-
 ---
 
 # Dynamic Media Release Notes{#dynamic-media-release-notes}

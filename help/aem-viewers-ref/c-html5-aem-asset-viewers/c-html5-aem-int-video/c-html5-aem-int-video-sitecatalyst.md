@@ -1,10 +1,7 @@
 ---
 description: The HTML5 Video360 Viewer supports Adobe Analytics tracking out-of-the-box.
-
-
 solution: Experience Manager
 title: Support for Adobe Analytics tracking
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner,Data Engineer,Data Architect
 exl-id: 74a69d01-fa58-4d36-8598-992baf6ae11d

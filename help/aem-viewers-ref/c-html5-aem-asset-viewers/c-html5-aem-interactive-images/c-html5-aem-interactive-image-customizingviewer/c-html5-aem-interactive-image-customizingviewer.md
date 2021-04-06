@@ -1,11 +1,8 @@
 ---
 description: All visual customization and most behavior customization for the Interactive Image Viewer is done by creating a custom CSS.
 keywords: responsive
-
-
 solution: Experience Manager
 title: Customizing Interactive Image Viewer
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,Business Practitioner
 exl-id: bb3cfe4a-ec60-4c10-82fe-9e4f8f7c586f

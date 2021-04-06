@@ -1,10 +1,7 @@
 ---
 description: Configuration attribute for Video360 Viewer.
-
-
 solution: Experience Manager
 title: Video360Player.loop
-
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
 exl-id: c91f33bd-92d5-4b00-8910-572f08255f8c

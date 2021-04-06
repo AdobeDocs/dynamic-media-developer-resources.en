@@ -1,10 +1,7 @@
 ---
 description: Configuration attributes documentation for Video360 Viewer.
-
-
 solution: Experience Manager
 title: Command reference – Configuration attributes
-
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
 exl-id: 75a9e83a-2f6e-4bfa-8881-52f8fe06f2fd

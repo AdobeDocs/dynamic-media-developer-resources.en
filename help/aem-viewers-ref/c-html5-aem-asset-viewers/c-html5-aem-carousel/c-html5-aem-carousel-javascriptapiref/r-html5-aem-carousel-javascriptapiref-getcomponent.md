@@ -1,10 +1,7 @@
 ---
 description: JavaScript API reference for Carousel Viewer.
-
-
 solution: Experience Manager
 title: getComponent**
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
 exl-id: 088d99d0-600d-4e47-85ea-a9769938b88b

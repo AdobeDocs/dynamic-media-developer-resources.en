@@ -1,10 +1,7 @@
 ---
 description: Parameter common to all viewers.
-
-
 solution: Experience Manager
 title: config
-
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,Business Practitioner
 exl-id: 503a1fc6-7a6b-4f55-bad1-11f22435276f

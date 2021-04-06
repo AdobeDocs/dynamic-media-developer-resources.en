@@ -1,10 +1,7 @@
 ---
 description: JavaScript API reference for Interactive Video Viewer.
-
-
 solution: Experience Manager
 title: setLocalizedTexts
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
 exl-id: 2fd557ad-088a-4ddc-8c00-b3cf3d2d9a2f

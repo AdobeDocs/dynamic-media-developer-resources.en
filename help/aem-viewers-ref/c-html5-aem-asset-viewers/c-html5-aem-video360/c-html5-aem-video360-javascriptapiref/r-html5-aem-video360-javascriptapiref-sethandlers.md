@@ -1,10 +1,7 @@
 ---
 description: JavaScript API reference for Video360 Viewer
-
-
 solution: Experience Manager
 title: setHandlers
-
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
 exl-id: 90775d4a-386b-4b56-b75e-8afafe749645

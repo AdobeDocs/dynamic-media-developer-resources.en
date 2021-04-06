@@ -1,10 +1,7 @@
 ---
 description: Configuration attribute for Interactive Video Viewer.
-
-
 solution: Experience Manager
 title: CallToAction.fmt
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
 exl-id: 38ca592f-329c-4fd4-8dbc-a49000663e55

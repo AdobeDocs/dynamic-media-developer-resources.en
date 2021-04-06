@@ -2,7 +2,6 @@
 description: Viewer SDK namespace
 solution: Experience Manager
 title: Viewer SDK namespace
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
 exl-id: 1712f08c-70e6-483e-a4e5-614448f35374

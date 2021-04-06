@@ -1,10 +1,7 @@
 ---
 description: Set indicator is a series of dots rendered at the bottom of the viewer. It shows the current position within the set.
-
-
 solution: Experience Manager
 title: Set indicator
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
 exl-id: 7d0827c5-f420-4804-983c-5298ee92b276

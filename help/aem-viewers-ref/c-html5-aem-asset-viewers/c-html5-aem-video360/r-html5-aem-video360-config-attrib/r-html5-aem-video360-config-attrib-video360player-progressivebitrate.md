@@ -1,10 +1,7 @@
 ---
 description: Configuration attribute for Video360 Viewer.
-
-
 solution: Experience Manager
 title: Video360Player.progressivebitrate
-
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
 exl-id: a253ef01-19ae-4de4-a4fc-b10b28e72c00

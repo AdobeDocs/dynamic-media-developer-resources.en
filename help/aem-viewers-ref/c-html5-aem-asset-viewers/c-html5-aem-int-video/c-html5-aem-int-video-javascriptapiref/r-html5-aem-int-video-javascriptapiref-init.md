@@ -1,10 +1,7 @@
 ---
 description: JavaScript API reference for Interactive Video Viewer.
-
-
 solution: Experience Manager
 title: init
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
 exl-id: 5fcc7dcd-a9a8-4a87-9c8d-42717ced8ae9

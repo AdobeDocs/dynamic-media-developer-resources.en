@@ -2,7 +2,6 @@
 description: Support for analytics tracking
 solution: Experience Manager
 title: Support for analytics tracking
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,Business Practitioner,Data Engineer,Data Architect
 exl-id: 17e8937f-e328-46a4-b7d9-1fd39ab2e8bd

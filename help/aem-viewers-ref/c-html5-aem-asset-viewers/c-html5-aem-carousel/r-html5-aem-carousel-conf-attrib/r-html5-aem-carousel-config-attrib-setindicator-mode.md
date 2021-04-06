@@ -2,7 +2,6 @@
 description: SetIndicator.mode
 solution: Experience Manager
 title: SetIndicator.mode
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,Business Practitioner
 exl-id: f228cf05-8b74-4f85-a02e-3bc084581529

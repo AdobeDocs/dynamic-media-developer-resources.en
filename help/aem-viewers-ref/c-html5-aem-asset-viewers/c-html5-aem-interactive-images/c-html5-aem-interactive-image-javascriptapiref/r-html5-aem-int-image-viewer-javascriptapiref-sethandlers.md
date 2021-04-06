@@ -1,10 +1,7 @@
 ---
 description: JavaScript API reference for Interactive Image Viewer
-
-
 solution: Experience Manager
 title: setHandlers
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,Business Practitioner
 exl-id: a5e42842-dc88-454b-8229-33a65c01bf88

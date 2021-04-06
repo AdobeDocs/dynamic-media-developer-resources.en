@@ -1,10 +1,7 @@
 ---
 description: The video scrubber is the horizontal slider control that lets a user dynamically seek to any time position within the currently playing video.
-
-
 solution: Experience Manager
 title: Video scrubber
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
 exl-id: 9d11f2e9-315c-44d8-beb1-530d2b316604

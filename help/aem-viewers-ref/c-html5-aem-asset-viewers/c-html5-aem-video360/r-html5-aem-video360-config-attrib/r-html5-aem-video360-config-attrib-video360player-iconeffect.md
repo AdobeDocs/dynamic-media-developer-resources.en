@@ -1,10 +1,7 @@
 ---
 description: Configuration attribute for Video360 Viewer.
-
-
 solution: Experience Manager
 title: Video360Player.iconeffect
-
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,Business Practitioner
 exl-id: 818ea14b-4dab-4447-9645-46f2ba82547b

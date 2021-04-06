@@ -16,15 +16,15 @@ Resampling mode. Chooses the resampling and/or interpolation algorithm to be use
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> bilin </span> </p> </td> 
-   <td colname="col2"> <p>Selects standard bi-linear interpolation. Fastest resampling method; some aliasing artifacts may be noticeable. </p> </td> 
+   <td colname="col2"> <p>Selects standard bi-linear interpolation. Fastest resampling method; some aliasing artifacts are noticeable. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> bicub </span> </p> </td> 
-   <td colname="col2"> <p>Selects bi-cubic interpolation. More CPU-intensive than bi-linear interpolation, but will yield sharper images with less noticeable aliasing artifacts. </p> </td> 
+   <td colname="col2"> <p>Selects bi-cubic interpolation. More CPU-intensive than bi-linear interpolation, but yields sharper images with less noticeable aliasing artifacts. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> sharp2 </span> </p> </td> 
-   <td colname="col2"> <p>Selects a modified Lanczos Window function as an interpolation algorithm. May produce slightly sharper results than bi-cubic at a higher CPU cost. <span class="codeph"> sharp </span> has been replaced by <span class="codeph"> sharp2 </span>, which has a lesser likelihood of causing aliasing artifacts (Moiré). </p> </td> 
+   <td colname="col2"> <p>Selects a modified Lanczos Window function as an interpolation algorithm. Can produce slightly sharper results than bi-cubic at a higher CPU cost. <span class="codeph"> sharp </span> has been replaced by <span class="codeph"> sharp2 </span>, which has a lesser likelihood of causing aliasing artifacts (Moiré). </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> bisharp </span> </p> </td> 
@@ -32,6 +32,12 @@ Resampling mode. Chooses the resampling and/or interpolation algorithm to be use
   </tr> 
  </tbody> 
 </table>
+
+>[!IMPORTANT]
+>
+>To maintain the aspect ratio of an image when you use both `resMode=bisharp` and `fit=stretch`, it is best practice to use either the width parameter or the height parameter. If both parameters must be defined, you can wrap them in a different layer as shown in the following example:
+>
+>`/is/image/is/image/companyname?layer=0&src=is(companyname/imagename?wid=30&hei=30&fit=stretch)&resmode=bisharp`
 
 ## Properties {#section-a171bacf4ddf43c782e46b86a16d443e}
 
@@ -43,7 +49,7 @@ Request attribute. Applies to all scaling operations involved in creating the fi
 
 ## Example {#section-ee8c3e5a2e3845fe81de5073a8ab7efe}
 
-Retrieve a best-quality rendition of a layered image stored in an image catalog. The image might include text. We expect to further process in an image editing application, and thus request an alpha-channel with the image.
+Retrieve a best-quality rendition of a layered image stored in an image catalog. The image can include text. The image will be further processed in an image editing application, and thus request an alpha-channel with the image.
 
 ` http:// *`server`*/myLayeredImage?fmt=tif-alpha,,lzw&resMode=sharp2&wid=1800`
 

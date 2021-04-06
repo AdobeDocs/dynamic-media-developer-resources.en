@@ -1,10 +1,7 @@
 ---
 description: JavaScript API reference for Interactive Video Viewer.
-
-
 solution: Experience Manager
 title: setParams
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
 exl-id: 32d26999-7815-4c71-ad4c-b7db99ec3d3b

@@ -1,10 +1,7 @@
 ---
 description: The Call to action panel appears when the video ends and displays all interactive swatches associated with the particular video.
-
-
 solution: Experience Manager
 title: Call to action
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
 exl-id: 43e0ffb3-d650-4b79-ab48-2f32b313b832

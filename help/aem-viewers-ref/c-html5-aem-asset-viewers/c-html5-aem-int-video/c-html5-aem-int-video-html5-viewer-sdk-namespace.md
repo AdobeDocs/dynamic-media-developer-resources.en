@@ -2,7 +2,6 @@
 description: Viewer SDK namespace
 solution: Experience Manager
 title: Viewer SDK namespace
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,Business Practitioner
 exl-id: 4a4d821e-9351-4efa-8849-968e746911f3
