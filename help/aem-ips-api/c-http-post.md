@@ -4,6 +4,7 @@ solution: Experience Manager
 title: Uploading assets by way of HTTP POSTs to the UploadFile Servlet
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Administrator
+exl-id: e40293be-d00f-44c1-8ae7-521ce3312ca8
 ---
 # Uploading assets by way of HTTP POSTs to the UploadFile Servlet{#uploading-assets-by-way-of-http-posts-to-the-uploadfile-servlet}
 
