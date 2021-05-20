@@ -37,7 +37,7 @@ Response Image Format.
 | `png8` | 8-bit lossless PNG |
 | `swf-alpha` | Lossy JPEG and a deflate-compressed mask embedded into an Adobe AS2 swf file |
 | `swf`| Lossy JPEG embedded into an Adobe AS2 swf file |
-| `swf3-alpha` | Lossy JPEG and a deflate-compressed mask embedded into an Adobe AS3 swf file. **Note:** swf and swf-alpha formats are best used for ActionScript 2 applications (Flash Player 8 and earlier). swf3 and swf3-alpha is recommended for use for ActionScript3 applications (Flash Player 9 and later) |
+| `swf3-alpha` | Lossy JPEG and a deflate-compressed mask embedded into an Adobe AS3 swf file. **Note:** swf and swf-alpha formats are best used for ActionScript 2 applications (Flash Player 8 and earlier). The formats swf3 and swf3-alpha are recommended for use for ActionScript3 applications (Flash Player 9 and later) |
 | `swf3` | Lossy JPEG embedded into an Adobe AS3 swf file |
 | `tif-alpha` | TIFF with alpha channel |
 | `tif` | TIFF |
@@ -184,7 +184,7 @@ Request attribute. Applies regardless of current layer setting if `req=img` (def
 
 ## Examples {#section-b93222e652df404a84c69025247f07df}
 
-**Request a small, low quality preview image in JPEG format (default):**
+**Request a small, low-quality preview image in JPEG format (default):**
 
 ` http:// *`server`*/myRootId/myImageId?qlt=60&wid=200`
 
@@ -192,7 +192,7 @@ Request attribute. Applies regardless of current layer setting if `req=img` (def
 
 ` http:// *`server`*/myRootId/myImageId?fmt=jpeg,gray&qlt=60&wid=200`
 
-**Request the same image in a loss-less format with alpha channel and at high-resolution:**
+**Request the same image in a loss-less format with alpha channel and at high resolution:**
 
 ` http:// *`server`*/myRootId/myImageId?fmt=png-alpha&wid=300`
 
