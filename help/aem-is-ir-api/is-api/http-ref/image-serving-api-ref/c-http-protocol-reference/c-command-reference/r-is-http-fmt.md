@@ -12,53 +12,54 @@ Response Image Format.
 
 `fmt=format[,` `[`*`pixelType`*`]`,`[`*`compression`*`]]`
 
-*`format`* &mdash; jpeg | jpg | pjpeg | png | png8 | png-alpha | png8-alpha | tif | tif-alpha | swf | swf-alpha | swf3 | swf3-alpha | eps | gif | gif-alpha | m3u8 | f4m | web | webp-alpha | jpeg2000 | jpeg2000-alpha | jpegxr | jpegxr-alpha
+*`format`* &ndash; avif-alpha | avif | eps | f4m | gif-alpha | gif | jpeg | jpeg2000-alpha | jpeg2000 | jpegxr-alpha | jpegxr | jpg | m3u8 | pdf | pjpeg | png-alpha | png | png8-alpha | png8 | swf-alpha | swf | swf3-alpha | swf3 | tif-alpha | tif | web-alpha | webp
 
 |*`format`*| Description |
-|---|---| 
-| `jpeg` | Lossy JPEG |
-| `jpg` | Lossy JPG |
-| `pjpeg` | Progressive JPEG |
-| `png` | 24-bit lossless PNG |
-| `png8` | 8-bit lossless PNG |
-| `png-alpha` | 24-bit lossless PNG with alpha channel |
-| `png8-alpha` | 8-bit lossless PNG with alpha channel |
-| `tif` | TIFF |
-| `tif-alpha` | TIFF with alpha channel |
-| `pdf` | Image embedded in PDF |
+|---|---|
+| `avif-alpha` | Lossy and lossless AVIF with alpha channel<br><br>*Release timeline for this format:* <br><b>North America</b> - Available now<br><b>Europe, Middle East, Africa</b> - May 24, 2021<br><b>Asia-Pacific</b> - June 24, 2021 |
+| `avif` | Lossy and lossless AVIF<br><br>*Release timeline for this format:*<br><b>North America</b> - Available now<br><b>Europe, Middle East, Africa</b> - May 24, 2021<br><b>Asia-Pacific</b> - June 24, 2021  |
 | `eps` | Uncompressed binary Encapsulated PostScript |
-| `gif` | GIF with 2 to 256 colors |
-| `gif-alpha` | GIF with 2 to 255 colors plus key-color transparency |
-| `swf`| Lossy JPEG embedded into an Adobe AS2 swf file |
-| `swf-alpha` | Lossy JPEG and a deflate-compressed mask embedded into an Adobe AS2 swf file |
-| `swf3` | Lossy JPEG embedded into an Adobe AS3 swf file |
-| `swf3-alpha` | Lossy JPEG and a deflate-compressed mask embedded into an Adobe AS3 swf file. **Note**: swf and swf-alpha formats are best used for ActionScript 2 applications (Flash Player 8 and earlier). swf3 and swf3-alpha is recommended for use for ActionScript3 applications (Flash Player 9 and later) |
-| `m3u8` | Apple Streaming Server manifest format |
 | `f4m` | Flash Streaming Server manifest format |
-| `webp` | Lossy and lossless WebP |
-| `webp-alpha` | Lossy and lossless WebP with alpha channel |
-| `jpeg2000` | Lossy and lossless JPEG 2000 |
+| `gif-alpha` | GIF with 2 to 255 colors plus key-color transparency |
+| `gif` | GIF with 2 to 256 colors |
+| `jpeg` | Lossy JPEG |
 | `jpeg2000-alpha` | Lossy and lossless JPEG 2000 with alpha channel |
-| `jpegxr` | Lossy and lossless JPEG XR |
+| `jpeg2000` | Lossy and lossless JPEG 2000 |
 | `jpegxr-alpha` | Lossy and lossless JPEG XR with alpha channel |
+| `jpegxr` | Lossy and lossless JPEG XR |
+| `jpg` | Lossy JPG |
+| `m3u8` | Apple Streaming Server manifest format |
+| `pdf` | Image embedded in PDF |
+| `pjpeg` | Progressive JPEG |
+| `png-alpha` | 24-bit lossless PNG with alpha channel |
+| `png` | 24-bit lossless PNG |
+| `png8-alpha` | 8-bit lossless PNG with alpha channel |
+| `png8` | 8-bit lossless PNG |
+| `swf-alpha` | Lossy JPEG and a deflate-compressed mask embedded into an Adobe AS2 swf file |
+| `swf`| Lossy JPEG embedded into an Adobe AS2 swf file |
+| `swf3-alpha` | Lossy JPEG and a deflate-compressed mask embedded into an Adobe AS3 swf file. **Note:** swf and swf-alpha formats are best used for ActionScript 2 applications (Flash Player 8 and earlier). The formats swf3 and swf3-alpha are recommended for use for ActionScript3 applications (Flash Player 9 and later) |
+| `swf3` | Lossy JPEG embedded into an Adobe AS3 swf file |
+| `tif-alpha` | TIFF with alpha channel |
+| `tif` | TIFF |
+| `webp-alpha` | Lossy and lossless WebP with alpha channel |
+| `webp` | Lossy and lossless WebP |
 
-
-*`pixelType`* &mdash; rgb | gray | cmyk
+*`pixelType`* &ndash; rgb | gray | cmyk
 | *`pixelType`* | Description | 
 |---|---|
-| `rgb` | Return RGB image data. |
-| `gray` | Return gray-scale image data. |
 | `cmyk` | Return CMYK image data. |
+| `gray` | Return gray-scale image data. |
+| `rgb` | Return RGB image data. |
 
-*`compression`* &mdash; none | lzw | zip | jpeg | lossy | lossless
+*`compression`* &ndash; none | lzw | zip | jpeg | lossy | lossless
 | *`compression`* | Description | 
 |---|---|
-| `none` | Uncompressed |
-| `lzw` | LZW (Lempel-Ziv-Welch) compression (lossless) |
-| `zip` | "Deflate" compression (lossless) |
 | `jpeg` | JPEG compression (lossy) |
 | `lossy` | WebP, JPEG 2000, and JPEG XR compression (lossy) |
 | `lossless` | WebP, JPEG 2000, and JPEG XR compression (lossless) |
+| `lzw` | LZW (Lempel-Ziv-Welch) compression (lossless) |
+| `none` | Uncompressed |
+| `zip` | "Deflate" compression (lossless) |
 
 * *`format`* specifies the image encoding format for image data sent to the client and the corresponding response MIME type for the HTTP response header. 
 * *`pixelType`* can be used to effect output color space conversion when `icc=` is not specified.
@@ -141,7 +142,7 @@ The following table lists the valid combinations of *`format`*and *`pixelType`*,
    <td colname="col5"> <p> <span class="codeph"> quantize= </span> </p> </td> 
   </tr> 
   <tr valign="top"> 
-   <td> <p>web, webp-alpha </p> </td> 
+   <td> <p>webp, webp-alpha </p> </td> 
    <td> <p>rgb </p> </td> 
    <td> <p> <span class="codeph"> &lt;image/webp&gt; </span> </p> </td> 
    <td> <p>No </p> </td> 
@@ -160,6 +161,13 @@ The following table lists the valid combinations of *`format`*and *`pixelType`*,
    <td> <p> <span class="codeph"> &lt;image/vnd.ms-photo&gt; </span> </p> </td> 
    <td> <p>No </p> </td> 
    <td> <p>Same as above. </p> </td> 
+  </tr>
+  <tr valign="top"> 
+   <td> <p> avif, avif-alpha </p> </td> 
+   <td> <p>rgb</p> </td> 
+   <td> <p> <span class="codeph"> &lt;image/avif&gt; </span> </p> </td> 
+   <td> <p>No </p> </td> 
+   <td> <p>Same as above. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -176,7 +184,7 @@ Request attribute. Applies regardless of current layer setting if `req=img` (def
 
 ## Examples {#section-b93222e652df404a84c69025247f07df}
 
-**Request a small, low quality preview image in JPEG format (default):**
+**Request a small, low-quality preview image in JPEG format (default):**
 
 ` http:// *`server`*/myRootId/myImageId?qlt=60&wid=200`
 
@@ -184,7 +192,7 @@ Request attribute. Applies regardless of current layer setting if `req=img` (def
 
 ` http:// *`server`*/myRootId/myImageId?fmt=jpeg,gray&qlt=60&wid=200`
 
-**Request the same image in a loss-less format with alpha channel and at high-resolution:**
+**Request the same image in a loss-less format with alpha channel and at high resolution:**
 
 ` http:// *`server`*/myRootId/myImageId?fmt=png-alpha&wid=300`
 
