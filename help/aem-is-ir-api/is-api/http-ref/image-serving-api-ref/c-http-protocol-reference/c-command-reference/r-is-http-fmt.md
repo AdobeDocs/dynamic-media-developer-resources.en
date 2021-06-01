@@ -16,8 +16,8 @@ Response Image Format.
 
 |*`format`*| Description |
 |---|---|
-| `avif-alpha` | Lossy and lossless AVIF with alpha channel<br><br>*Release timeline for this format:* <br><b>North America</b> - Available now<br><b>Europe, Middle East, Africa</b> - May 24, 2021<br><b>Asia-Pacific</b> - June 24, 2021 |
-| `avif` | Lossy and lossless AVIF<br><br>*Release timeline for this format:*<br><b>North America</b> - Available now<br><b>Europe, Middle East, Africa</b> - May 24, 2021<br><b>Asia-Pacific</b> - June 24, 2021  |
+| `avif-alpha` | Lossy and lossless AVIF with alpha channel<br><br>*Release timeline for this format:* <br><b>North America</b> - Available now<br><b>Europe, Middle East, Africa</b> - June 28, 2021<br><b>Asia-Pacific</b> - June 29, 2021 |
+| `avif` | Lossy and lossless AVIF<br><br>*Release timeline for this format:*<br><b>North America</b> - Available now<br><b>Europe, Middle East, Africa</b> - June 28, 2021<br><b>Asia-Pacific</b> - June 29, 2021  |
 | `eps` | Uncompressed binary Encapsulated PostScript |
 | `f4m` | Flash Streaming Server manifest format |
 | `gif-alpha` | GIF with 2 to 255 colors plus key-color transparency |
