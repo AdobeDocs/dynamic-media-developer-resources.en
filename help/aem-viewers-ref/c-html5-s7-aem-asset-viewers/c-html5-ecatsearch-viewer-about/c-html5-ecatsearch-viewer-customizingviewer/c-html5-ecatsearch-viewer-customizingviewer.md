@@ -202,7 +202,7 @@ The following is user interface elements reference documentation that applies to
 * [Page indicator](r-html5-ecatsearch-customize-pageindicator.md)
 * [Page view](r-html5-ecatsearch-customize-pageview.md)
 * [Previous page button](r-html5-ecatsearch-customize-previouspagebutton.md)
-* [Print](r-html5-ecatalog-viewer-20-customize-print.md)
+* [Print](r-html5-ecatsearch-customize-print.md)
 * [Remove Favorite button](r-html5-ecatsearch-customize-removefavorite.md)
 * [Search button](r-html5-ecatsearch-customize-searchbutton.md)
 * [Search effect](r-html5-ecatsearch-customize-searcheffect.md)
