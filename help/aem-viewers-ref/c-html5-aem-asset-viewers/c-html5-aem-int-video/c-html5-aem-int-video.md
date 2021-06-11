@@ -10,7 +10,7 @@ exl-id: e54b0b1f-b015-4592-82e2-99f5080543e3
 
 Interactive Video Viewer is a video player that plays streaming and progressive video encoded in the H.264 format.
 
-The viewer viewer also shows interactive product swatches next to the video content. Both single video and Adaptive Video Sets are supported. It is designed to work on both desktop and mobile Web browsers that support HTML5 video. The viewer supports optional closed captions displayed on top of video content, video chapter navigation, and social sharing tools. The purpose of this viewer is to help you implement a "shoppable video" experience. That is, users can select a swatch associated with a particular video time region and get redirected to a Quick View or a product detail page on the customer's website.
+The viewer also shows interactive product swatches next to the video content. Both single video and Adaptive Video Sets are supported. It is designed to work on both desktop and mobile Web browsers that support HTML5 video. The viewer supports optional closed captions displayed on top of video content, video chapter navigation, and social sharing tools. The purpose of this viewer is to help you implement a "shoppable video" experience. That is, users can select a swatch associated with a particular video time region and get redirected to a Quick View or a product detail page on the customer's website.
 
 Viewer type is 510.
 
@@ -18,7 +18,7 @@ Viewer type is 510.
 
 [https://marketing.adobe.com/resources/help/en_US/dm/shoppable-video/glacier/InteractiveVideoViewerDemo.html](https://marketing.adobe.com/resources/help/en_US/dm/shoppable-video/glacier/InteractiveVideoViewerDemo.html)
 
-and
+And
 
 [https://marketing.adobe.com/resources/help/en_US/dm/shoppable-video/AXIS/index.html](https://marketing.adobe.com/resources/help/en_US/dm/shoppable-video/AXIS/index.html)
 
@@ -28,11 +28,11 @@ See [System requirements](../../c-system-requirements-and-prerequisites.md#conce
 
 ## Using Interactive Video Viewer {#section-e6c68406ecdc4de781df182bbd8088b4}
 
-Interactive Video Viewer represent a main JavaScript file and a set of helper files (a single JavaScript include with all Viewer SDK components used by this particular viewer, assets, and CSS) downloaded by the viewer in runtime.
+Interactive Video Viewer represents a main JavaScript file and a set of helper files downloaded by the viewer in runtime. A single JavaScript is included with all Viewer SDK components used by this particular viewer, assets, and CSS.
 
 Interactive Video Viewer can be used in pop-up mode using production-ready HTML page provided with Image Serving Viewers. It can also be used in embedded mode, where it is integrated into the targeted web page using the documented API.
 
-Configuration and skinning is similar to that of the other viewers described in this guide. All skinning is achieved by way of custom (CSS) Cascading Style Sheets.
+Configuring and skinning are similar to that of the other viewers described in this guide. All skinning is achieved by way of custom (CSS) Cascading Style Sheets.
 
 See [Command reference common to all viewers - Configuration attributes](../../r-html5-viewer-20-cmdref-configattrib/r-html5-viewer-20-cmdref-configattrib.md#concept-850e0f2c49b949deb7cfbfd330d329bd) and [Command reference common to all Viewers - URL](../../c-html5-viewer-20-cmdref-url/c-html5-viewer-20-cmdref-url.md#concept-9b337f349b7b406b8c33c7ee96b3e226)
 
@@ -40,21 +40,21 @@ See [Command reference common to all viewers - Configuration attributes](../../r
 
 Interactive Video Viewer provides a set of standard user interface controls for video playback, such as a Play/Pause button, video scrubber, video time bubble, played time/total time indicator, volume control, full-screen button, and closed caption toggle. All of these controls are grouped into a control bar directly under the main view.
 
-Note that on touch devices the volume control is hidden from the user interface, because it is only possible to control the volume using the device's hardware buttons.
+On touch devices, the volume control is hidden from the user interface, because it is only possible to control the volume using the device's hardware buttons.
 
 When the viewer operates in pop-up mode, a full-screen button is not available in the user interface.
 
-The viewer shows a panel with interactive swatches to the right of the video viewing area. The list of swatches automatically advances as the video plays, so that swatches corresponding to the current video region are shown. Clicking or tapping on a swatch triggers an action that was associated with such swatch during author time. Depending on how you set it up, the trigger may redirect to a different page on the web site, or pass product information back to the web page logic, which in turn can trigger the opening of a Quick View that shows related product content.
+The viewer shows a panel with interactive swatches to the right of the video viewing area. The list of swatches automatically advances as the video plays, so that swatches corresponding to the current video region are shown. Clicking or tapping on a swatch triggers an action that was associated with such swatch during author time. Depending on how you set it up, the trigger may redirect to a different page on the web site. Or, it may pass product information back to the web page logic, which in turn can trigger the opening of a Quick View that shows related product content.
 
-It is possible to navigate through the video content quickly when video chaptering is activated. Video chapters are displayed as markers in the video scrubber track and show the chapter title and description on roll over (or on a single tap on touch systems). The customer can "seek" to a particular chapter by clicking a chapter marker or tapping a chapter description bubble.
+It is possible to navigate through the video content quickly when video chaptering is activated. Video chapters are displayed as markers in the video scrubber track and show the chapter title and description on rollover (or on a single tap on touch systems). The customer can "seek" to a particular chapter by clicking a chapter marker or tapping a chapter description bubble.
 
-The viewer also supports a variety of social media sharing tools. They are available as a single button in the user interface which expands into a sharing toolbar when the user clicks or taps on it. The sharing toolbar contains an icon for each type of sharing channel supported such as Facebook, Twitter, email share, embed code share, and link share. When email share, embed share, or link share tools are activated, the viewer displays a modal dialog box with a corresponding data entry form. When Facebook or Twitter are called, the viewer redirects the user to a standard sharing dialog box from a social media service. Also, when a sharing tool is activated video playback is paused automatically. Sharing tools are not available in full-screen mode because of web browser security restrictions.
+The viewer also supports various social media sharing tools. They are available as a single button in the user interface which expands into a sharing toolbar when the user clicks or taps on it. The sharing toolbar contains an icon for each type of sharing channel supported such as Facebook, Twitter, email share, embed code share, and link share. When email share, embed share, or link share tools are activated, the viewer displays a modal dialog box with a corresponding data entry form. When Facebook or Twitter are called, the viewer redirects the user to a standard sharing dialog box from a social media service. Also, when a sharing tool is activated video playback is paused automatically. Sharing tools are not available in full-screen mode because of web browser security restrictions.
 
 The viewer is fully keyboard accessible. See [Keyboard accessibility and navigation](../../c-keyboard-accessibility.md#topic-f5650e9493404e55a3627c8d1366b861).
 
 ## Embedding Interactive Video Viewer {#section-6bb5d3c502544ad18a58eafe12a13435}
 
-Interactive Video Viewer is designed to be embedded into the hosting page. Such a web page may have a static layout, or it may be "responsive" and display differently on different devices or for different browser window sizes.
+Interactive Video Viewer is embedded into the hosting page. Such a web page may have a static layout, or it may be "responsive" and display differently on different devices or for different browser window sizes.
 
 To accommodate these needs, the viewer supports two primary operation modes: fixed size embedding and responsive embedding.
 
@@ -64,11 +64,11 @@ In the embedded mode, the viewer is added to the existing web page, which may al
 
 The primary use cases are web pages oriented for desktops or tablet devices, and also responsive designed pages that adjust layout automatically depending on the device type.
 
-Fixed size embedding is used when the viewer does not change its size after initial load. This is the best choice for web pages that have a static layout.
+Fixed size embedding is used when the viewer does not change its size after initial load. This functionality is the best choice for web pages that have a static layout.
 
-Responsive design embedding assumes that the viewer may need to resize at runtime in response to the size change of its container `DIV`. The most common use case is adding a viewer to a web page that uses a flexible page layout.
+Responsive design embedding assumes that the viewer needs resizing at runtime in response to the size change of its container `DIV`. The most common use case is adding a viewer to a web page that uses a flexible page layout.
 
-In responsive design embedding mode, the viewer behaves differently depending on the way web page sizes its container `DIV`. If the web page sets only the width of the container `DIV`, leaving its height unrestricted, the viewer automatically chooses its height according to the aspect ratio of the asset that is used. This functionality ensures that the asset fits perfectly into the view without any padding on the sides. This use case is the most common for web pages using responsive web design layout frameworks like Bootstrap, Foundation, and so on.
+In responsive design embedding mode, the viewer behaves differently depending on the way web page sizes its container `DIV`. If the web page sets only the width of the container `DIV`, leaving its height unrestricted, the viewer automatically chooses its height according to the aspect ratio of the asset that is used. This functionality ensures that the asset fits perfectly into the view without any padding on the sides. This use case is the most common for web pages using responsive web design layout frameworks like Bootstrap and Foundation.
 
 Otherwise, if the web page sets both the width and the height for the viewer's container `DIV`, the viewer fills just that area and follows the size that the web page layout provides. A good example is embedding the viewer into a modal overlay, where the overlay is sized according to web browser window size.
 
@@ -97,7 +97,7 @@ You add the viewer to a web page by doing the following:
 
    >[!NOTE]
    >
-   >You should only reference the main viewer JavaScript `include` file on your page. You should not reference any additional JavaScript files in the web page code which might be downloaded by the viewer's logic in runtime. In particular, do not directly reference HTML5 SDK `Utils.js` library loaded by the viewer from `/s7viewers` context path (so-called consolidated SDK `include`). The reason is that the location of `Utils.js` or similar runtime viewer libraries is fully managed by the viewer's logic and the location changes between viewer releases. Adobe does not keep older versions of secondary viewer `includes` on the server. 
+   >Only reference the main viewer JavaScript `include` file on your page. Do not reference any additional JavaScript files in the web page code which might be downloaded by the viewer's logic in runtime. In particular, do not directly reference HTML5 SDK `Utils.js` library loaded by the viewer from `/s7viewers` context path (so-called consolidated SDK `include`). The reason is that the location of `Utils.js` or similar runtime viewer libraries is fully managed by the viewer's logic and the location changes between viewer releases. Adobe does not keep older versions of secondary viewer `includes` on the server. 
    >
    >
    >As a result, putting a direct reference to any secondary JavaScript `include` used by the viewer on the page breaks the viewer functionality in the future when a new product version is deployed.
@@ -120,7 +120,7 @@ You add the viewer to a web page by doing the following:
 
    You can set the static size for the viewer by either declaring it for `.s7interactivevideoviewer` top-level CSS class in absolute units, or by using `stagesize` modifier.
 
-   You can put sizing in CSS directly on the HTML page, or in a custom viewer CSS file, which is then later assigned to a viewer preset record in AEM Assets - on-demand, or passed explicitly using `style` command.
+   You can put sizing in CSS directly on the HTML page. Or, you can put it in a custom viewer CSS file, which is then later assigned to a viewer preset record in AEM Assets - on-demand, or passed explicitly using `style` command.
 
    See [Customizing Interactive Video Viewer](../../c-html5-aem-asset-viewers/c-html5-aem-int-video/c-html5-aem-int-video-customizingviewer/c-html5-aem-int-video-customizingviewer.md#concept-73a8546acdb444a387c49969ceca57d0) for more information about styling the viewer with CSS.
 
@@ -145,11 +145,11 @@ You add the viewer to a web page by doing the following:
 
    When you have completed the steps above, you create an instance of `s7viewers.InteractiveVideoViewer` class, pass all configuration information to its constructor, and call `init()` method on a viewer instance. Configuration information is passed to the constructor as a JSON object. At minimum, this object should have `containerId` field which holds the name of the viewer container ID and nested `params` JSON object with configuration parameters supported by the viewer.
 
-   In this case, the `params` object must have at least the Image Serving URL passed as `serverUrl` property, and the initial asset as `asset` parameter. The JSON-based initialization API lets you create and start the viewer with a single line of code, video server URL passed as `videoserverurl` property, initial asset as `asset` parameter and interactive data as `interactivedata` property. JSON-based initialization API lets you create and start the viewer with single line of code.
+   In this case, the `params` object must have at least the Image Serving URL passed as `serverUrl` property, and the initial asset as `asset` parameter. The JSON-based initialization API lets you create and start the viewer with a single line of code, video server URL passed as `videoserverurl` property, initial asset as `asset` parameter, and interactive data as `interactivedata` property. JSON-based initialization API lets you create and start the viewer with single line of code.
 
    It is important to have the viewer container added to the DOM so that the viewer code can find the container element by its ID. Some browsers delay building DOM until the end of the web page. For maximum compatibility, call the `init()` method just before the closing `BODY` tag, or on the body `onload()` event.
 
-   At the same, the container element should not necessarily be part of the web page layout just yet. For example, it may be hidden using `display:none` style assigned to it. In this case, the viewer delays its initialization process until the moment when the web page brings the container element back to the layout. What that happens, the viewer load automatically resumes.
+   At the same, the container element is not necessarily part of the web page layout yet. For example, it may be hidden using `display:none` style assigned to it. In this case, the viewer delays its initialization process until the moment when the web page brings the container element back to the layout. What that happens, the viewer load automatically resumes.
 
    The following is an example of creating a viewer instance, passing the minimum necessary configuration options to the constructor and calling the `init()` method. The example assumes the following:
 
@@ -278,7 +278,7 @@ The following examples page illustrates more real-life uses of responsive design
 
 **Responsive Embedding with Width and Height Defined**
 
-In case of responsive embedding with width and height defined, the web page styling is different. It provides both sizes to the `"holder"` DIV and center it in the browser window. Also, the web page sets the size of the `HTML` and `BODY` element to 100 percent.
+If there is responsive embedding with width and height defined, the web page styling is different. It provides both sizes to the `"holder"` DIV and center it in the browser window. Also, the web page sets the size of the `HTML` and `BODY` element to 100 percent.
 
 ```
 <!DOCTYPE html> 
