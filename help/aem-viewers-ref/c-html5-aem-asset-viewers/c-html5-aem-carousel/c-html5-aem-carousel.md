@@ -18,7 +18,7 @@ Viewer type is 511.
 
 ## Demo URL {#section-c0ad383db6a444979dc7eeb1ec4cf54d}
 
-[https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/samples/CarouselViewerDemo.html](https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/samples/CarouselViewerDemo.html)
+[https://experienceleague.adobe.com/tools/dynamic-media-demo/viewers-ref/carousel/CarouselViewerDemo.html](https://experienceleague.adobe.com/tools/dynamic-media-demo/viewers-ref/carousel/CarouselViewerDemo.html)
 
 ## System Requirements {#section-b7270cc4290043399681dc504f043609}
 
@@ -256,7 +256,7 @@ var carouselViewer = new s7viewers.CarouselViewer({
 
 The following examples page illustrates more real-life uses of responsive design embedding with unrestricted height:
 
-[https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/samples/CarouselViewer-responsive-unrestricted-height.html](https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/samples/CarouselViewer-responsive-unrestricted-height.html)
+[https://experienceleague.adobe.com/tools/dynamic-media-demo/viewers-ref/carousel/CarouselViewer-responsive-unrestricted-height.html](https://experienceleague.adobe.com/tools/dynamic-media-demo/viewers-ref/carousel/CarouselViewer-responsive-unrestricted-height.html)
 
 **Flexible size Embedding with Width and Height Defined**
 

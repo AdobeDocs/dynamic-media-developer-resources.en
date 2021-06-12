@@ -28,7 +28,7 @@ This tutorial includes the following order of tasks to help you create a basic z
 
 ## Download the latest Viewer SDK from Adobe Developer Connection {#section-84dc74c9d8e24a2380b6cf8fc28d7127}
 
-1. Download the latest Viewer SDK from Adobe Developer Connection [here](https://marketing.adobe.com/developer/devcenter/scene7/show).
+1. Download the latest Viewer SDK from Adobe Developer Connection <!-- SDK NO LONGER AVAILABLE TO DOWNLOAD;DOUBLE CHECK WITH AMIT. THIS ENTIRE TOPIC IS LIKELY OBSOLETE. [here](https://marketing.adobe.com/developer/devcenter/scene7/show) -->.
 
    >[!NOTE]
    >

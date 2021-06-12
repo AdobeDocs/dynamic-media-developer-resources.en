@@ -176,7 +176,7 @@ You add the viewer to a web page by doing the following:
 
    You can see the behavior with a fixed outer viewer in the following example. Notice that when you switch between sets, the outer viewer size does not change:
 
-   [https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/samples/ZoomViewer-fixed-outer-area.html](https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/samples/ZoomViewer-fixed-outer-area.html)
+   [https://experienceleague.adobe.com/tools/dynamic-media-demo/viewers-ref/zoom/ZoomViewer-fixed-outer-area.html](https://experienceleague.adobe.com/tools/dynamic-media-demo/viewers-ref/zoom/ZoomViewer-fixed-outer-area.html)
 
    To make the main view dimensions static, define the viewer size in absolute units for the inner `Container` SDK component using the `.s7zoomviewer` `.s7container` CSS selector, or by using `stagesize` modifier.
 
@@ -191,7 +191,7 @@ You add the viewer to a web page by doing the following:
 
    The following demo page shows the viewer behavior with a fixed main view size. Notice that when you switch between sets, the main view remains static and the web page content moves vertically.
 
-   [https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/samples/ZoomViewer-fixed-main-view.html](https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/samples/ZoomViewer-fixed-main-view.html)
+   [https://experienceleague.adobe.com/tools/dynamic-media-demo/viewers-ref/zoom/ZoomViewer-fixed-main-view.html](https://experienceleague.adobe.com/tools/dynamic-media-demo/viewers-ref/zoom/ZoomViewer-fixed-main-view.html)
 
    You can set the `stagesize` modifier either in the viewer preset record in Dynamic Media Classic, or you can pass it explicitly with the viewer initialization code with the `params` collection or as an API call as described in the Command Reference section of this Help, as in the following:
 

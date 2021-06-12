@@ -16,11 +16,11 @@ Viewer type is 510.
 
 ## Demo URLs {#section-c0ad383db6a444979dc7eeb1ec4cf54d}
 
-[https://marketing.adobe.com/resources/help/en_US/dm/shoppable-video/glacier/InteractiveVideoViewerDemo.html](https://marketing.adobe.com/resources/help/en_US/dm/shoppable-video/glacier/InteractiveVideoViewerDemo.html)
+[https://experienceleague.adobe.com/tools/dynamic-media-demo/shoppable-video/glacier/InteractiveVideoViewerDemo.html](https://experienceleague.adobe.com/tools/dynamic-media-demo/shoppable-video/glacier/InteractiveVideoViewerDemo.html)
 
 And
 
-[https://marketing.adobe.com/resources/help/en_US/dm/shoppable-video/AXIS/index.html](https://marketing.adobe.com/resources/help/en_US/dm/shoppable-video/AXIS/index.html)
+[https://experienceleague.adobe.com/tools/dynamic-media-demo/shoppable-video/AXIS/index.html](https://experienceleague.adobe.com/tools/dynamic-media-demo/shoppable-video/AXIS/index.html)
 
 ## System Requirements {#section-b7270cc4290043399681dc504f043609}
 
@@ -272,9 +272,9 @@ var interactiveVideoViewer = new s7viewers.InteractiveVideoViewer({
 
 The following examples page illustrates more real-life uses of responsive design embedding with unrestricted height:
 
-[Live Demos](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html)
+[Live demos](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html)
 
-<!-- OLD DEMO LOCATION-KEEP (https://marketing.adobe.com/resources/help/en_US/s7/vlist/vlist.html) -->
+[Alternate demo location](https://experienceleague.adobe.com/tools/vlist/vlist.html)
 
 **Responsive Embedding with Width and Height Defined**
 
