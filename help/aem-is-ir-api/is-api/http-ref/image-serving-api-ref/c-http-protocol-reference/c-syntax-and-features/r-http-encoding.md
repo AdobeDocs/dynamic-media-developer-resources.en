@@ -92,7 +92,7 @@ Otherwise, standard HTTP encoding rules apply. The HTTP specification requires e
    <td colname="col3"> <p>93 </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>` </p> </td> 
+   <td colname="col1"> <p>&grave; </p> </td> 
    <td colname="col2"> <p>60 </p> </td> 
    <td colname="col3"> <p>96 </p> </td> 
   </tr> 
