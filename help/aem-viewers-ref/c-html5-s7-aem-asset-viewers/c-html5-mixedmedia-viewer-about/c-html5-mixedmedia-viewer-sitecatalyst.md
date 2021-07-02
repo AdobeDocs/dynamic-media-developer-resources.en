@@ -1,11 +1,8 @@
 ---
 description: The Mixed Media Viewer supports Adobe Analytics tracking out-of-the-box.
-
-
 solution: Experience Manager
 title: Support for Adobe Analytics tracking
-
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner,Data Engineer,Data Architect
 exl-id: 3b28c853-3747-4805-a141-3cce1398d783
 ---

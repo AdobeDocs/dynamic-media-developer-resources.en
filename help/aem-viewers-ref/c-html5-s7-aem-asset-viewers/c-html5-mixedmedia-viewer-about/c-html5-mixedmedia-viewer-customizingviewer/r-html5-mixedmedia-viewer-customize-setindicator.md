@@ -1,11 +1,8 @@
 ---
 description: Set indicator is a series of dots rendered on top of main swatches when a viewer is used on a touch device. The dots help users to navigate through pages of thumbnails when scroll buttons are not available.
-
-
 solution: Experience Manager
 title: Set indicator
-
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: 53ee058a-cb8c-4b1f-bb9b-caaecc12c947
 ---

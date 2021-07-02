@@ -5,7 +5,7 @@ description: Configuration attribute for Mixed Media Video Viewer.
 solution: Experience Manager
 title: VideoPlayer.ssl
 
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: 5fd3aa39-edb0-4434-aa5f-e511c84cf950
 ---

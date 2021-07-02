@@ -3,7 +3,7 @@ description: ZoomView.fmt
 solution: Experience Manager
 title: ZoomView.fmt
 
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: f13faa03-3b69-4cae-aaf5-55edd4aa5c84
 ---

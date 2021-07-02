@@ -5,7 +5,7 @@ description: Represents the maximum number of frames to preload in each directio
 solution: Experience Manager
 title: SpinView.maxloadradius
 
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: e64fcd95-9660-4c1f-91b2-3ffc5a7493ce
 ---

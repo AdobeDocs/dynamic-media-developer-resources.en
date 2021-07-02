@@ -3,7 +3,7 @@ description: Swatches.direction
 solution: Experience Manager
 title: Swatches.direction
 
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: bd01ff03-fea7-42ad-aa99-72273f55bda0
 ---

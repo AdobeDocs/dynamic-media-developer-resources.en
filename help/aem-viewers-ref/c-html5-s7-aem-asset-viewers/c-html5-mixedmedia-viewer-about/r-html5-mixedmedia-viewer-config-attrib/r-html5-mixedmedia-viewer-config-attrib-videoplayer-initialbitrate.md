@@ -3,7 +3,7 @@ description: VideoPlayer.initialbitrate
 solution: Experience Manager
 title: VideoPlayer.initialbitrate
 
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: a5416488-d5fe-4f55-aee4-5aedc825ac04
 ---

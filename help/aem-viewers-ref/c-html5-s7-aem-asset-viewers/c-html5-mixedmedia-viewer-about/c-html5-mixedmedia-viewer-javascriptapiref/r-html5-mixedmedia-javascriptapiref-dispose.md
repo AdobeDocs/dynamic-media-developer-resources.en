@@ -1,11 +1,8 @@
 ---
 description: JavaScript API reference for Mixed Media Viewer.
-
-
 solution: Experience Manager
 title: dispose
-
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: e09f73a9-a961-4188-b092-f7bbcae4946d
 ---

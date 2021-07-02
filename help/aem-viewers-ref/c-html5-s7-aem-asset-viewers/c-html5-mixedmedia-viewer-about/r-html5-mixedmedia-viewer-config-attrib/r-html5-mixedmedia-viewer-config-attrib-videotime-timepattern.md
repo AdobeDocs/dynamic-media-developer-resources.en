@@ -3,7 +3,7 @@ description: VideoTime.timepattern
 solution: Experience Manager
 title: VideoTime.timepattern
 
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: 0c79b3e2-ac5a-43c3-ac52-8240e7ed3cc1
 ---

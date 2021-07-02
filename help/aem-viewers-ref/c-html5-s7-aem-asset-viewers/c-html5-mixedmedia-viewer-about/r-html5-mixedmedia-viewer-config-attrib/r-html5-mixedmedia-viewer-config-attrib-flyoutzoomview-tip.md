@@ -3,7 +3,7 @@ description: FlyoutZoomView.tip
 solution: Experience Manager
 title: FlyoutZoomView.tip
 
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: 03a04bba-85ae-4c30-91fa-dfc6b732a9ac
 ---

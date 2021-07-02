@@ -1,11 +1,8 @@
 ---
 description: Certain content that the Mixed Media Viewer displays is subject to localization. This includes zoom buttons, spin buttons, video controls, close button full screen button and swatch scroll buttons.
-
-
 solution: Experience Manager
 title: Localization of user interface elements
-
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: 119d8dde-145b-4762-a1ab-882a29e0f6a6
 ---

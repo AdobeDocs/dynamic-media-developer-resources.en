@@ -3,7 +3,7 @@ description: VideoScrubber.timepattern
 solution: Experience Manager
 title: VideoScrubber.timepattern
 
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: 0536110e-a885-4fd4-baa8-742fcdba5cc9
 ---

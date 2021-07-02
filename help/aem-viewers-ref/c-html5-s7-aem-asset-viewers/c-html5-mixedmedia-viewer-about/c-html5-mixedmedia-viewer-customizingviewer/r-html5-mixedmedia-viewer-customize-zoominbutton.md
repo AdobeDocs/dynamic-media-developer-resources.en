@@ -1,11 +1,8 @@
 ---
 description: Clicking or tapping this button zooms in on an image in the main view. This button does not display on mobile phones in order to save screen real estate. You can size, skin, and position this button by using CSS.
-
-
 solution: Experience Manager
 title: Zoom in button
-
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: 663f9bb5-c432-4b34-ac76-a62826994a81
 ---

@@ -3,7 +3,7 @@ description: swatchoverlay
 solution: Experience Manager
 title: swatchoverlay
 
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: cf9ad105-8851-49f5-ba6c-96d588f4fd58
 ---

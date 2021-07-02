@@ -1,11 +1,8 @@
 ---
 description: The main view area is the area occupied by the main view and swatches. It is usually set to fit the available device screen when no size is specified.
-
-
 solution: Experience Manager
 title: Main viewer area
-
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: fe8b748c-5318-4fcd-9f3a-d50523bb3f8f
 ---

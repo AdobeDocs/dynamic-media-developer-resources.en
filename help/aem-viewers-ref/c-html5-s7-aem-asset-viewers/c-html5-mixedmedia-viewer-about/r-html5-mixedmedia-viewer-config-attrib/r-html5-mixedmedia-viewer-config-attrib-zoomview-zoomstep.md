@@ -3,7 +3,7 @@ description: ZoomView.zoomstep
 solution: Experience Manager
 title: ZoomView.zoomstep
 
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: 5d978d21-7942-4bd6-b742-9bf4b6fd3ebe
 ---

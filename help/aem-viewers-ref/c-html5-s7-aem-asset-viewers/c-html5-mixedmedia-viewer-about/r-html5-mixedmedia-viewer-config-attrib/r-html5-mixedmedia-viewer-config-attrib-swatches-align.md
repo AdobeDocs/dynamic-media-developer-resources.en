@@ -3,7 +3,7 @@ description: Swatches.align
 solution: Experience Manager
 title: Swatches.align
 
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: 4f25112b-9e51-4a0e-9500-1b5ab0f4de87
 ---

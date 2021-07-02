@@ -5,7 +5,7 @@ description: Configuration attribute for Mixed Media Video Viewer.
 solution: Experience Manager
 title: VideoPlayer.playback
 
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: accf2b56-d7bd-483d-9759-fa38246a0a8f
 ---

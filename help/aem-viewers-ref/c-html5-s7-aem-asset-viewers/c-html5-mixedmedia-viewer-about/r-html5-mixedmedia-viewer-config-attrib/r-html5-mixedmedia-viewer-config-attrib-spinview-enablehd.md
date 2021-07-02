@@ -3,7 +3,7 @@ description: SpinView.enableHD
 solution: Experience Manager
 title: SpinView.enableHD
 
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: 0a2abdc6-eae5-4dda-b749-599cd8a07a98
 ---

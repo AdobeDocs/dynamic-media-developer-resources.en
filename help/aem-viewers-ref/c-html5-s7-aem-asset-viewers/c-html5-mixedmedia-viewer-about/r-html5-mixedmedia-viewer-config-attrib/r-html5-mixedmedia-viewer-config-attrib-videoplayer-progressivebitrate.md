@@ -3,7 +3,7 @@ description: VideoPlayer.progressivebitrate
 solution: Experience Manager
 title: VideoPlayer.progressivebitrate
 
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: b156d3f4-c4d3-45fe-b3d3-b7ed38f6eb4d
 ---

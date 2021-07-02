@@ -1,11 +1,8 @@
 ---
 description: Main view consists of the spin image when the current asset is a spin set.
-
-
 solution: Experience Manager
 title: Spin view
-
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: aafc1299-b09a-4379-bd8f-b564066175bd
 ---
