@@ -3,7 +3,7 @@ description: SpinView.sensitivity
 solution: Experience Manager
 title: SpinView.sensitivity
 
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: 68df87db-b3c7-4a42-9ab6-742d96261ecd
 ---

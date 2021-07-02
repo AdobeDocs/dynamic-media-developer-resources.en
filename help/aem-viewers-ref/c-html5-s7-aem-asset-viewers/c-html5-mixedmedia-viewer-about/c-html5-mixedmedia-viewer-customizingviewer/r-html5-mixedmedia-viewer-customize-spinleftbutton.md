@@ -1,11 +1,8 @@
 ---
 description: Clicking or tapping this button spins the image to the left in main view. This button is not displayed on mobile phones in order to save screen real estate. Also, the button is hidden when a multi-dimensional spin set is used. You can size, skin, and position the button using CSS.
-
-
 solution: Experience Manager
 title: Spin left button
-
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: 0c7ca422-f4ac-4ad1-ab51-8521b4d4b20e
 ---

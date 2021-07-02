@@ -3,7 +3,7 @@ description: Swatches.maxloadradius
 solution: Experience Manager
 title: Swatches.maxloadradius
 
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: 06f493d7-18c9-4bb1-add6-a0dfd1a689bd
 ---

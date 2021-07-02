@@ -1,12 +1,9 @@
 ---
 description: All visual customization and most behavior customization for the Mixed Media Viewer is done by creating a custom CSS.
 keywords: responsive
-
-
 solution: Experience Manager
 title: Customizing Mixed Media Viewer
-
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: 3bea8efb-faf8-4909-b51a-0b9964fcd735
 ---

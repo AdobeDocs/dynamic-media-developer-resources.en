@@ -3,7 +3,7 @@ description: VideoPlayer.posterimage
 solution: Experience Manager
 title: VideoPlayer.posterimage
 
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: bcbba4c5-b758-4049-b4c2-f1c48cc2de7e
 ---

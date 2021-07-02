@@ -3,7 +3,7 @@ description: ZoomView.doubleclick
 solution: Experience Manager
 title: ZoomView.doubleclick
 
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: e87981f8-8174-432a-89ea-fae74d0584ad
 ---

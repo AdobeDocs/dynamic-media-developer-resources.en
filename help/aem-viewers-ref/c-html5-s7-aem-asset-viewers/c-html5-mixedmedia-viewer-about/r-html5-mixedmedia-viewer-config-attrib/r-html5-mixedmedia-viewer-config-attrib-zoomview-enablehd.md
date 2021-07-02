@@ -3,7 +3,7 @@ description: ZoomView.enableHD
 solution: Experience Manager
 title: ZoomView.enableHD
 
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: f6b25105-7b70-48f7-b3d6-e53110fd628b
 ---

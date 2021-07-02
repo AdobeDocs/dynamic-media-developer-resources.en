@@ -3,7 +3,7 @@ description: SpinView.singleclick
 solution: Experience Manager
 title: SpinView.singleclick
 
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: 18c5c21d-af31-4b1c-ab8b-c04d08650123
 ---

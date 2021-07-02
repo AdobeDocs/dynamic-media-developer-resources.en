@@ -1,11 +1,8 @@
 ---
 description: Main Swatches consist of a row of thumbnail images with optional scroll buttons on the left and right side. Scroll buttons are only visible on the desktop if all thumbnails cannot fit into the width of the container. On mobile devices, or if thumbnails can fit into the container width, scroll buttons are not shown.
-
-
 solution: Experience Manager
 title: Main swatches
-
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: e6ff32bf-f85a-4288-a0e5-34487229a9d9
 ---

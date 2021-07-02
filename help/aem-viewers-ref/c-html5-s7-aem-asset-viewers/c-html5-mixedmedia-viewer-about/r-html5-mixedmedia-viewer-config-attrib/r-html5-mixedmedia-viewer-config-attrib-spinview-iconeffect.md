@@ -3,7 +3,7 @@ description: SpinView.iconeffect
 solution: Experience Manager
 title: SpinView.iconeffect
 
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: 473207d2-7e26-4ea3-940e-5a21f29a2b91
 ---

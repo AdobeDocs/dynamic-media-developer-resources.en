@@ -1,11 +1,8 @@
 ---
 description: In inline zoom mode main view consists of the static image, zoomed image shown in the flyout view over the static image and the tip message shown on top of static image.
-
-
 solution: Experience Manager
 title: Flyout Zoom View
-
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: 46c91d1f-5809-4270-a06d-5068d20a6341
 ---

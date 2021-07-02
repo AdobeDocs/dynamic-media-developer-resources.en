@@ -5,7 +5,7 @@ description: Configuration attribute for Mixed Media Video Viewer.
 solution: Experience Manager
 title: VideoPlayer.mutevolume
 
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: 13398ac5-7137-4345-88b8-5e4df09edb7b
 ---

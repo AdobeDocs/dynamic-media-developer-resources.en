@@ -5,7 +5,7 @@ description: Configures how the component fetches new images for the main and fl
 solution: Experience Manager
 title: FlyoutZoomView.imagereload
 
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: 1bb57c89-4ceb-40d6-8054-d51c1573431c
 ---

@@ -3,7 +3,7 @@ description: SpinView.lockdirection
 solution: Experience Manager
 title: SpinView.lockdirection
 
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: c2aeb45f-879b-4a53-b571-744fc73d04fd
 ---

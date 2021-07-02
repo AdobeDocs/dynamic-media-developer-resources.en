@@ -3,7 +3,7 @@ description: ZoomView.reset
 solution: Experience Manager
 title: ZoomView.reset
 
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: 95bf90d1-071e-467a-87aa-122911125233
 ---

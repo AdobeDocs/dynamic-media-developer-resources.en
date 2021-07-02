@@ -1,11 +1,8 @@
 ---
 description: Clicking or tapping this button zooms out on an image in the main view. This button does not display on mobile phones in order to save screen real estate. You can size, skin, and position this button by using CSS.
-
-
 solution: Experience Manager
 title: Zoom out button
-
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: 3e464e02-bcff-4ddc-b47c-84d0eee7f779
 ---

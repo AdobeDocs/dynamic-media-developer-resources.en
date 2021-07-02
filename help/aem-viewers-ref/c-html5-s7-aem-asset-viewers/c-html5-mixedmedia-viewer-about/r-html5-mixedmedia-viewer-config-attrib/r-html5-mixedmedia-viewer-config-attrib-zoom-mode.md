@@ -5,7 +5,7 @@ description: Sets the type of zoom interaction.
 solution: Experience Manager
 title: zoomMode
 
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: a399ed5e-acc3-4c45-9c84-9fa572667489
 ---

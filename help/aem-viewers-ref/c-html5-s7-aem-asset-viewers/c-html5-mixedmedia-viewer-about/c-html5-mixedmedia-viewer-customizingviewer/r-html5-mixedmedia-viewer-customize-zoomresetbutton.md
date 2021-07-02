@@ -1,11 +1,8 @@
 ---
 description: Clicking or tapping this button resets an image in the main view. You can size, skin, and position this button by using CSS.
-
-
 solution: Experience Manager
 title: Zoom reset button
-
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: 2ec91f8f-d1e7-454a-8792-9525895527af
 ---

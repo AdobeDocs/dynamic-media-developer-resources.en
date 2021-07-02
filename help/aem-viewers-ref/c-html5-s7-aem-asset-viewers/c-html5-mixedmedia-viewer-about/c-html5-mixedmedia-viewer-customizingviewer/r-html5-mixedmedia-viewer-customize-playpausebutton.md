@@ -1,11 +1,8 @@
 ---
 description: The play/pause button causes the video player to play or pause the video content when a user clicks it.
-
-
 solution: Experience Manager
 title: Play/Pause button
-
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: 8312645f-5704-499f-b66a-cf51dd8c1ec7
 ---

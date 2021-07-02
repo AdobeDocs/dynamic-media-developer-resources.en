@@ -3,7 +3,7 @@ description: VideoPlayer.iconeffect
 solution: Experience Manager
 title: VideoPlayer.iconeffect
 
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: 8371cb69-4cd9-457b-bd8c-e4167fc67600
 ---

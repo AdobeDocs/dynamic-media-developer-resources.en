@@ -3,7 +3,7 @@ description: ControlBar.transition
 solution: Experience Manager
 title: ControlBar.transition
 
-feature: Dynamic Media Classic,Viewers,SDK/API,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,Business Practitioner
 exl-id: c8792f02-ae15-4b47-8727-089691d5316a
 ---
