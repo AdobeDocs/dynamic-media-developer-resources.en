@@ -3,7 +3,7 @@ description: On desktop systems some user interface elements such as buttons hav
 solution: Experience Manager
 title: Tooltips
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 051bfbed-103e-4fcf-9f01-93f03730397a
 ---
 # Tooltips{#tooltips}

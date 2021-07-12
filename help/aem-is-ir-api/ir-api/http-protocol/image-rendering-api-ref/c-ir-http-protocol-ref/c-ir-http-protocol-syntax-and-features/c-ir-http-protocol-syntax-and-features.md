@@ -3,7 +3,7 @@ description: This section describes the HTTP protocol syntax and featuring for D
 solution: Experience Manager
 title: HTTP protocol syntax and features
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 62707e37-0bf0-4e72-807c-8a68dfe0067e
 ---
 # HTTP protocol syntax and features{#http-protocol-syntax-and-features}

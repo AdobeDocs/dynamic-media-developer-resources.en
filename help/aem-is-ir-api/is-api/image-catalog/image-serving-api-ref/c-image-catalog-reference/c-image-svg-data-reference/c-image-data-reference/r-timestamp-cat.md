@@ -3,7 +3,7 @@ description: TimeStamp
 solution: Experience Manager
 title: TimeStamp
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 5532b182-cc8c-4a51-844f-e70c758f80a1
 ---
 # TimeStamp{#timestamp}

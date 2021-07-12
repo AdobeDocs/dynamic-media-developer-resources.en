@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Embed share
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 2ed2db55-824c-40b6-8747-6b9b8792f5db
 ---
 # Embed share{#embed-share}

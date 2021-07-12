@@ -4,7 +4,7 @@ solution: Experience Manager
 title: ZoomView.rgn
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: b5ac5c43-3a02-4163-8683-db08e988223b
 ---
 # ZoomView.rgn{#zoomview-rgn}

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Mutable volume
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: bd86af60-a9a0-4f2e-9d36-f7ee22bd8c8e
 ---
 # Mutable volume{#mutable-volume}

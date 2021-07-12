@@ -3,7 +3,7 @@ description: Data file path. Relative path and name for non-image data files ass
 solution: Experience Manager
 title: AuxPath
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 55f82596-72f0-48c4-9b3a-f10ea5f610f1
 ---
 # AuxPath{#auxpath}

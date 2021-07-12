@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Full screen support
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 8f2b6c66-4074-40b6-b8ab-cbced744440e
 ---
 # Full screen support{#full-screen-support}

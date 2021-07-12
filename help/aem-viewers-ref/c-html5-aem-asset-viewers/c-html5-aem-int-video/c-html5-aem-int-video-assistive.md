@@ -3,7 +3,7 @@ description: All viewer components support ARIA (Accessible Rich Internet Applic
 solution: Experience Manager
 title: Assistive technology support
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos,Accessibility
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 3d9f6389-e73c-4d31-a7c1-b321f065ce8c
 ---
 # Assistive technology support{#assistive-technology-support}

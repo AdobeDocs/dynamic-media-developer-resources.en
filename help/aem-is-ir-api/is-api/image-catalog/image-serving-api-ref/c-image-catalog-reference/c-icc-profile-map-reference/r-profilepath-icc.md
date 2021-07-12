@@ -3,7 +3,7 @@ description: Profile file path. Path and name of the ICC color profile file, inc
 solution: Experience Manager
 title: ProfilePath
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: a7acf07c-3d46-4912-8926-38ca184b6475
 ---
 # ProfilePath{#profilepath}

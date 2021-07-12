@@ -3,7 +3,7 @@ description: Configuration attribute for Video360 Viewer.
 solution: Experience Manager
 title: Video360Player.ssl
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 44efa378-c911-4449-8a10-61212d4392c6
 ---
 # Video360Player.ssl{#video-player-ssl}

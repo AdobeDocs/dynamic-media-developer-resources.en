@@ -3,7 +3,7 @@ description: Download
 solution: Experience Manager
 title: Download
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 661b19fb-5d18-46e9-8658-a5df567a3eff
 ---
 # Download{#download}

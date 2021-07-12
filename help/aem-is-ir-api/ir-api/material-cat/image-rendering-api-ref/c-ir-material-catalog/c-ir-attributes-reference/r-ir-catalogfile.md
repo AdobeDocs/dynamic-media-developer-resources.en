@@ -3,7 +3,7 @@ description: Catalog data file path. Specifies the file which contains the mater
 solution: Experience Manager
 title: CatalogFile
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ab6879cf-c32e-4e88-a269-2ddcffa61b8f
 ---
 # CatalogFile{#catalogfile}

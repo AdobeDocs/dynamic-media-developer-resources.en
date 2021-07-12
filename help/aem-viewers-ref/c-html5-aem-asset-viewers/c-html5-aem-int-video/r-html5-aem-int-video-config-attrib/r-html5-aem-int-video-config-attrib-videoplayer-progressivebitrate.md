@@ -3,7 +3,7 @@ description: Configuration attribute for Interactive Video Viewer.
 solution: Experience Manager
 title: VideoPlayer.progressivebitrate
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 69f3c4c0-00d9-46ef-aebb-3116a0d83c85
 ---
 # VideoPlayer.progressivebitrate{#videoplayer-progressivebitrate}

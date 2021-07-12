@@ -3,7 +3,7 @@ description: The following paragraph formatting commands are supported.
 solution: Experience Manager
 title: Paragraph formatting
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: a2235082-714c-4ae3-ae06-c91ea2fb5abb
 ---
 # Paragraph formatting{#paragraph-formatting}

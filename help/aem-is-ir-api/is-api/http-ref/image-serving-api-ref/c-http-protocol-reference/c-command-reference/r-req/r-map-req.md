@@ -3,7 +3,7 @@ description: Image map data.
 solution: Experience Manager
 title: map
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 3330f49a-934e-492a-804c-ace4d147c65a
 ---
 # map{#map}

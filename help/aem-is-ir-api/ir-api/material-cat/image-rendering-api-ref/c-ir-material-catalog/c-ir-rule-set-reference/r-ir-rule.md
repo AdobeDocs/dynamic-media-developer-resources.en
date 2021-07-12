@@ -3,7 +3,7 @@ description: Request rule element. One or more are optional in the <ruleset> ele
 solution: Experience Manager
 title: rule
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 8f56012c-d01c-489c-9d18-91e256f72012
 ---
 # rule{#rule}

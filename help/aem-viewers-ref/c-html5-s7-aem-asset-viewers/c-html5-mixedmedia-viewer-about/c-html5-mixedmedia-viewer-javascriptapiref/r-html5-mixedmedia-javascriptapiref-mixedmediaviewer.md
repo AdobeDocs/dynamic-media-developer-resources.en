@@ -3,7 +3,7 @@ description: JavaScript API reference for Mixed Media Viewer.
 solution: Experience Manager
 title: MixedMediaViewer
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: b7f09f51-409e-4dfa-9041-b82767d4e35f
 ---
 # MixedMediaViewer{#mixedmediaviewer}

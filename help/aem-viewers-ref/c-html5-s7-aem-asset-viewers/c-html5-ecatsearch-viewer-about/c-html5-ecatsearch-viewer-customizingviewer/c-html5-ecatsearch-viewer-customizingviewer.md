@@ -7,7 +7,7 @@ solution: Experience Manager
 title: Customizing eCatalog Search Viewer
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 32b55fb1-1408-4264-92fa-b3a73f31df1d
 ---
 # Customizing eCatalog Search Viewer{#customizing-ecatalog-search-viewer}

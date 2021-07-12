@@ -3,7 +3,7 @@ description: Image Rendering is embedded into Image Serving's Image Server and P
 solution: Experience Manager
 title: Starting and stopping the server
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: 79ec6e27-4964-41bc-b8ae-fc50cc59e728
 ---
 # Starting and stopping the server{#starting-and-stopping-the-server}

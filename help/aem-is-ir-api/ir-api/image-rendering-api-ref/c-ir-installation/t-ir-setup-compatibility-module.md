@@ -3,7 +3,7 @@ description: You must set up and configure the IR 3.x compatibility module.
 solution: Experience Manager
 title: Setup and configure IR 3.x compatibility module
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 44fbc6be-7681-402a-936a-0511e138365c
 ---
 # Setup and configure IR 3.x compatibility module{#setup-and-configure-ir-x-compatibility-module}

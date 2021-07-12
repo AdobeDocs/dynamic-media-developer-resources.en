@@ -3,7 +3,7 @@ description: Digimarc user info. Specifies the user information for Digimarc emb
 solution: Experience Manager
 title: DigimarcId
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ac09c8cd-cb68-4b70-b1b4-9d4ca0166c7f
 ---
 # DigimarcId{#digimarcid}

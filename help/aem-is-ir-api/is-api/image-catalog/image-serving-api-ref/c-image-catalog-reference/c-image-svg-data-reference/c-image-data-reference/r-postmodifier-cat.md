@@ -3,7 +3,7 @@ description: Postfix request modifier string. None or more Image Serving command
 solution: Experience Manager
 title: PostModifier
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 7d6c9408-1f09-464d-8a69-eabdf7c0117d
 ---
 # PostModifier{#postmodifier}

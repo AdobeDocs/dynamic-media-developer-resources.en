@@ -3,7 +3,7 @@ description: The playlog utility can be used to pre-generate contents for the HT
 solution: Experience Manager
 title: The 'playlog' utility
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e0213978-3a1d-44b4-82bf-4527b980b29e
 ---
 # The 'playlog' utility{#the-playlog-utility}

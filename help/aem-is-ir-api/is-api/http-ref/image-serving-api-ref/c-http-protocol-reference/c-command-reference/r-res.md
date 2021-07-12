@@ -3,7 +3,7 @@ description: Resolution-based image scaling. Scales the image to the requested r
 solution: Experience Manager
 title: res
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e8ed7b00-7bb3-463e-9aaa-47f77bd4b45e
 ---
 # res{#res}

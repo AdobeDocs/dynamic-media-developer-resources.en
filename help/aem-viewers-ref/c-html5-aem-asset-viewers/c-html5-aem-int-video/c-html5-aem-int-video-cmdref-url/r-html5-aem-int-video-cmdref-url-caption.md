@@ -3,7 +3,7 @@ description: URL command for Interactive Video Viewer.
 solution: Experience Manager
 title: caption
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 8eb2aa50-52b9-4b63-9789-87e492f34a22
 ---
 # caption{#caption}

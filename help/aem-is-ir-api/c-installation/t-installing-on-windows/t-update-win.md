@@ -3,7 +3,7 @@ description: Use this procedure when upgrading Dynamic Media Image Serving.
 solution: Experience Manager
 title: Updating from IS 4.7.4 or later
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e0781f19-4aa8-46f7-a586-4724ff8a2e68
 ---
 # Updating from IS 4.7.4 or later{#updating-from-is-or-later}

@@ -3,7 +3,7 @@ description: Default render image size. The server constrains reply images to be
 solution: Experience Manager
 title: DefaultPix
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: d60f2b8c-5213-42ad-8ec9-7e7797d74e09
 ---
 # DefaultPix{#defaultpix}

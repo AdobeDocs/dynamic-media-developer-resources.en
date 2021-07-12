@@ -4,7 +4,7 @@ solution: Experience Manager
 title: FavoritesView.textpos
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 3bfd7f84-6136-4db7-80a5-56f84179f3ce
 ---
 # FavoritesView.textpos{#favoritesview-textpos}

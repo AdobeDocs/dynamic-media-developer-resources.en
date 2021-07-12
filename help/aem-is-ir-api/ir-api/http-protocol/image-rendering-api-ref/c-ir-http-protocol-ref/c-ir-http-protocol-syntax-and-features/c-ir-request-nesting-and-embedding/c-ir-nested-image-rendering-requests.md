@@ -3,7 +3,7 @@ description: For advanced applications it is possible to use the result of a ren
 solution: Experience Manager
 title: Nested Image Rendering requests
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 52c12786-bbe7-4410-87bb-6245d782a68c
 ---
 # Nested Image Rendering requests{#nested-image-rendering-requests}

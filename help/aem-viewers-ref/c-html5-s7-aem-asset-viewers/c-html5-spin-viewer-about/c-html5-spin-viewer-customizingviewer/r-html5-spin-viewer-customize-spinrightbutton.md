@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Spin right button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 312260ae-8604-49a1-9874-3650919d91ab
 ---
 # Spin right button{#spin-right-button}

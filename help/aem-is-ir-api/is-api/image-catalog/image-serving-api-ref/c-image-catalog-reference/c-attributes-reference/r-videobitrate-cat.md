@@ -3,7 +3,7 @@ description: Video bit rate. Allows specification of a bit rate associated with 
 solution: Experience Manager
 title: VideoBitRate
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e94d7338-5831-476b-b905-5c9419849c3f
 ---
 # VideoBitRate{#videobitrate}

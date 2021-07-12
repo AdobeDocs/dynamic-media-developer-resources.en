@@ -4,7 +4,7 @@ solution: Experience Manager
 title: Viewer SDK namespace
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c5286e1f-1f43-4cb8-b876-dc843f8112f5
 ---
 # Viewer SDK namespace{#viewer-sdk-namespace}

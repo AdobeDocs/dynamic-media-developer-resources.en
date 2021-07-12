@@ -3,7 +3,7 @@ description: Image mask. Requests the mask (alpha channel) data.
 solution: Experience Manager
 title: mask
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 0e743fe5-a623-4f5f-bc61-536ed70532bf
 ---
 # mask{#mask}

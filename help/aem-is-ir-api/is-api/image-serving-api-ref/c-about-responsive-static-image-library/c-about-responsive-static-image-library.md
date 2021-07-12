@@ -3,7 +3,7 @@ description: Responsive Image Library is a JavaScript module that dynamically ad
 solution: Experience Manager
 title: About Responsive Image library
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: f853b9b4-917c-4744-b2a5-25fde2532356
 ---
 # About Responsive Image library{#about-responsive-image-library}

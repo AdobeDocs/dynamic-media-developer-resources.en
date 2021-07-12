@@ -3,7 +3,7 @@ description: Scale image. Scales an image by factor relative to the full-resolut
 solution: Experience Manager
 title: scale
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 89701a15-a0b6-460d-b0c1-5e25f3305380
 ---
 # scale{#scale}

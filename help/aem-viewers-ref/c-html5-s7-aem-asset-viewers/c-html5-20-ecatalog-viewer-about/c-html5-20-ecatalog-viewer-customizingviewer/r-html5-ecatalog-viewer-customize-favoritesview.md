@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Favorites view
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 10536242-1015-49ff-ae27-59671f30d886
 ---
 # Favorites view{#favorites-view}

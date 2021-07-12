@@ -3,7 +3,7 @@ description: There are some restrictions and known issues that should be conside
 solution: Experience Manager
 title: Restrictions and known issues
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: fd32456b-9d99-4e82-a61c-2fc4d7030630
 ---
 # Restrictions and known issues{#restrictions-and-known-issues}

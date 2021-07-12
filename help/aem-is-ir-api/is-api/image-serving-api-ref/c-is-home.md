@@ -3,7 +3,7 @@ description: The Image Serving API Guide contains information about setting up a
 solution: Experience Manager
 title: Image Serving API
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c2bc6728-e8c4-43f6-a3e7-33c9336774b2
 ---
 # Image Serving API{#image-serving-api}

@@ -4,7 +4,7 @@ solution: Experience Manager
 title: FlyoutZoomView.highlightmode
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: b35285a2-7319-4ed7-9681-12a6acda8fa5
 ---
 # FlyoutZoomView.highlightmode{#flyoutzoomview-highlightmode}

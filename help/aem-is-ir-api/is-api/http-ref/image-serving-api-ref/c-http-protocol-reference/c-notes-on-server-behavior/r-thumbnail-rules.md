@@ -3,7 +3,7 @@ description: Be aware of these thumbnail rules.
 solution: Experience Manager
 title: Thumbnail rules
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: d81dc4ad-dd59-4235-996e-58996f009d88
 ---
 # Thumbnail rules{#thumbnail-rules}

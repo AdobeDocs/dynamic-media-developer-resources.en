@@ -3,7 +3,7 @@ description: Allow absolute source URLs.
 solution: Experience Manager
 title: AllowDirectURLs
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: f9ab0c0e-989c-42ce-b9dd-4ca2f6b382d2
 ---
 # AllowDirectURLs{#allowdirecturls}

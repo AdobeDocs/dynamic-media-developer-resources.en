@@ -3,7 +3,7 @@ description: JavaScript API reference for Interactive Video Viewer.
 solution: Experience Manager
 title: getComponent
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: a760bc86-b700-4ffe-9983-ef55d88677d6
 ---
 # getComponent{#getcomponent}

@@ -3,7 +3,7 @@ description: An image server proxy can be used to resize images for Japanese pho
 solution: Experience Manager
 title: Image server proxy
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 0389a4af-a412-42eb-b7b4-716e47d623a0
 ---
 # Image server proxy{#image-server-proxy}

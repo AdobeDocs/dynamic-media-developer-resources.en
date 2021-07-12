@@ -3,7 +3,7 @@ description: Decal materials include apparel constructs such as appliqués, t-sh
 solution: Experience Manager
 title: Decals
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 07190abd-9f6f-46b5-bf77-cd97c48fc9be
 ---
 # Decals{#decals}

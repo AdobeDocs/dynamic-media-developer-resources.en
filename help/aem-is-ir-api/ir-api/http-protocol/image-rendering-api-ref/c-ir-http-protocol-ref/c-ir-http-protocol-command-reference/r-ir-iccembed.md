@@ -3,7 +3,7 @@ description: Embed ICC Profile. Specifies whether the working ICC color profile 
 solution: Experience Manager
 title: iccEmbed
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c0f28a87-c168-4c6b-bbe1-af6b98e9f52f
 ---
 # iccEmbed{#iccembed}

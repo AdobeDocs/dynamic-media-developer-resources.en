@@ -3,7 +3,7 @@ description: The Connector tag in server.xml supports a ciphers attribute to lim
 solution: Experience Manager
 title: Defining SSL ciphers
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: 7734ba02-4442-4a3d-acbf-e14d8ad66279
 ---
 # Defining SSL ciphers{#defining-ssl-ciphers}

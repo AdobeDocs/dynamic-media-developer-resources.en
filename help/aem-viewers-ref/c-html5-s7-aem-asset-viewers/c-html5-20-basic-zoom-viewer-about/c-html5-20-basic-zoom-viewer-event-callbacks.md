@@ -4,7 +4,7 @@ solution: Experience Manager
 title: Event callbacks
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 14b317ab-82fb-4f55-babe-72c24e6afc2c
 ---
 # Event callbacks{#event-callbacks}

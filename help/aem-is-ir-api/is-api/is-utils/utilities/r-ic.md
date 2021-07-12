@@ -3,7 +3,7 @@ description: Image Conversion utility.
 solution: Experience Manager
 title: ic
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ab653aae-532b-4f3d-8541-f6296fbf9172
 ---
 # ic {#ic}

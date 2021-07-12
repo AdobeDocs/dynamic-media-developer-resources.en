@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Email share
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 4c72500b-9750-4fae-9447-96cf600b31c7
 ---
 # Email share{#email-share}

@@ -4,7 +4,7 @@ solution: Experience Manager
 title: PageView.pageturnstyle
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 2669c8e2-c942-420f-8262-9d76d5c499a2
 ---
 # PageView.pageturnstyle{#pageview-pageturnstyle}

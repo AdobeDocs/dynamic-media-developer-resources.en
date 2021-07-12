@@ -3,7 +3,7 @@ description: RGB default input color profile. Specifies the name of the ICC colo
 solution: Experience Manager
 title: IccProfileSrcRgb
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: dfcbd9fe-e696-46e3-abbf-497dc55fe855
 ---
 # IccProfileSrcRgb{#iccprofilesrcrgb}

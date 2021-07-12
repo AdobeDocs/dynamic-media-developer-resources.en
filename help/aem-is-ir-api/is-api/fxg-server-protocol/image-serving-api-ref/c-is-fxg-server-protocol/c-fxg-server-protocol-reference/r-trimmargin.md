@@ -3,7 +3,7 @@ description: Set trim margin. Sets the trim margin that is set in the PDF file.
 solution: Experience Manager
 title: trimMargin
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: dc6e31f8-d3be-44d3-8342-a4ef4b3fd61b
 ---
 # trimMargin{#trimmargin}

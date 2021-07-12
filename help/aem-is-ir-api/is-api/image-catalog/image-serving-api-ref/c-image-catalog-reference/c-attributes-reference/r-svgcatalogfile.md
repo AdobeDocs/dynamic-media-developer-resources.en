@@ -3,7 +3,7 @@ description: SVG data file paths. Specifies the files containing the SVG data fo
 solution: Experience Manager
 title: SvgCatalogFile
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 654579a2-33ff-4633-a6d0-3c03ec8d5aed
 ---
 # SvgCatalogFile{#svgcatalogfile}

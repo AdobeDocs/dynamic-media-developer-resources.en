@@ -4,7 +4,7 @@ solution: Experience Manager
 title: TableOfContents.showdefault
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 1c700d12-4bea-4b87-91c1-f615c3dceb79
 ---
 # TableOfContents.showdefault{#tableofcontents-showdefault}

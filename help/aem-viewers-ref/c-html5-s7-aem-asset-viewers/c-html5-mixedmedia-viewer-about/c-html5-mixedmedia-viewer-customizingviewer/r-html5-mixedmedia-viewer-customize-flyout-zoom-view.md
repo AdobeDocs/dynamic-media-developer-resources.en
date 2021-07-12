@@ -3,7 +3,7 @@ description: In inline zoom mode main view consists of the static image, zoomed 
 solution: Experience Manager
 title: Flyout Zoom View
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 46c91d1f-5809-4270-a06d-5068d20a6341
 ---
 # Flyout Zoom View{#flyout-zoom-view}

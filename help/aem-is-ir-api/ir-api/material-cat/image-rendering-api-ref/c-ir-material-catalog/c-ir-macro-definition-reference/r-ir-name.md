@@ -3,7 +3,7 @@ description: Macro name. Macro names may consist of any combination of alpha, di
 solution: Experience Manager
 title: Name
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ea50ddab-2a37-4f09-a9d7-ed19829dd0e6
 ---
 # Name{#name}

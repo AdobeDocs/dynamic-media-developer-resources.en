@@ -3,7 +3,7 @@ description: Rules container element. A valid rule set file contains one <rulese
 solution: Experience Manager
 title: ruleset
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 06ef3504-0317-4b02-8457-6b6052c7fd05
 ---
 # ruleset{#ruleset}

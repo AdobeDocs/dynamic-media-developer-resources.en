@@ -6,7 +6,7 @@ solution: Experience Manager
 title: getComponent
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 86f0802c-a53e-426d-9f64-21d8002b8b69
 ---
 # getComponent{#getcomponent}

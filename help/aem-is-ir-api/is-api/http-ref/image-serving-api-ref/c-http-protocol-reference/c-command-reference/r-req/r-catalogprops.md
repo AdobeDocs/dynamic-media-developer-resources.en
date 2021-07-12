@@ -3,7 +3,7 @@ description: Image catalog properties. Returns common attributes of the image ca
 solution: Experience Manager
 title: catalogprops
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 28bf68e8-d424-418e-99a7-5298a1d83341
 ---
 # catalogprops{#catalogprops}

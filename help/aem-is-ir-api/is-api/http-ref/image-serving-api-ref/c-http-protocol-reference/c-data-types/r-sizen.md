@@ -3,7 +3,7 @@ description: Normalized Size. Used to specify image sizes or rectangle sizes, no
 solution: Experience Manager
 title: sizeN
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 58c2d7da-31fc-49d1-a404-2e4a66ff0e56
 ---
 # sizeN{#sizen}

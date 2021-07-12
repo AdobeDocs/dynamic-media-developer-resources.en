@@ -4,7 +4,7 @@ keywords: responsive
 solution: Experience Manager
 title: Inline Zoom
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 33e661b0-be5e-4d37-af88-47f7bc433c01
 ---
 # Inline Zoom{#inline-zoom}

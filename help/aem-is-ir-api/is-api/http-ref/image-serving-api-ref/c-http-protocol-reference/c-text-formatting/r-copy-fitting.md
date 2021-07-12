@@ -3,7 +3,7 @@ description: textPs= implements a proprietary copy-fitting algorithm which will 
 solution: Experience Manager
 title: Copy-fitting
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: d1a560f3-f92c-4143-b80a-e1674c8a4207
 ---
 # Copy-fitting{#copy-fitting}

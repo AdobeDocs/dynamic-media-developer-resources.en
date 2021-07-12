@@ -3,7 +3,7 @@ description: Image set data. Provides a mechanism to define sorted sets of image
 solution: Experience Manager
 title: ImageSet
 feature: Dynamic Media Classic,SDK/API,Image Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: eacf0553-8cec-4a1d-80a5-6fe37b92b5bf
 ---
 # ImageSet{#imageset}

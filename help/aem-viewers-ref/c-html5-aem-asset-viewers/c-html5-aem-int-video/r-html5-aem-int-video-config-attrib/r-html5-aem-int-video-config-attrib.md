@@ -3,7 +3,7 @@ description: Configuration attributes documentation for Interactive Video Viewer
 solution: Experience Manager
 title: Command reference – Configuration attributes
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 80b7971c-82dc-47a2-adde-9e061a0f856d
 ---
 # Command reference – Configuration attributes{#command-reference-configuration-attributes}

@@ -3,7 +3,7 @@ description: Default image mode. Selects how the default image is applied when i
 solution: Experience Manager
 title: DefaultImageMode
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: b30ce72f-7c74-407c-bd4a-042b84c469e9
 ---
 # DefaultImageMode{#defaultimagemode}

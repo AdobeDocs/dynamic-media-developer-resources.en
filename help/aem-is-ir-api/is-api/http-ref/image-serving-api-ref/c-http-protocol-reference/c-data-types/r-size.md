@@ -3,7 +3,7 @@ description: Pixel Size. Used to specify image sizes or rectangle sizes in pixel
 solution: Experience Manager
 title: size
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 644659a7-8f34-4de0-aa94-bc33909ff361
 ---
 # size{#size}

@@ -3,7 +3,7 @@ description: Default image file suffix. Appended to the catalog Path (or catalog
 solution: Experience Manager
 title: DefaultExt
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 43b3e5b8-6374-458d-8503-8e04c8c84233
 ---
 # DefaultExt{#defaultext}

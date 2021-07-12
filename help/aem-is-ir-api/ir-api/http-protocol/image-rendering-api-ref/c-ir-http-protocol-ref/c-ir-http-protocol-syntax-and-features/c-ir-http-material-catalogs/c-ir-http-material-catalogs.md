@@ -3,7 +3,7 @@ description: Material catalogs offer several features.
 solution: Experience Manager
 title: Material catalogs *
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 502f80f5-fdd1-468b-89a9-64cc9128d655
 ---
 # Material catalogs *{#material-catalogs}

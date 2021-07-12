@@ -4,7 +4,7 @@ solution: Experience Manager
 title: InfoPanelPopup.template
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 20618017-2f73-4951-baa9-2063a0f4efcb
 ---
 # InfoPanelPopup.template{#infopanelpopup-template}

@@ -3,7 +3,7 @@ description: Modification time stamp. Specifies the date/time this vignette was 
 solution: Experience Manager
 title: TimeStamp
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 6a163727-9ac6-43ca-9afd-169ac6306124
 ---
 # TimeStamp{#timestamp}

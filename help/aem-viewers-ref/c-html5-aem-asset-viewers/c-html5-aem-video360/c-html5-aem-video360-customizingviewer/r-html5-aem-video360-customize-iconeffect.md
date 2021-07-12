@@ -3,7 +3,7 @@ description: The play icon is overlaid on the main view area. It displays when t
 solution: Experience Manager
 title: Icon effect
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e25a3b9d-88ef-4214-9b6b-2527ebf0f145
 ---
 # Icon effect{#icon-effect}

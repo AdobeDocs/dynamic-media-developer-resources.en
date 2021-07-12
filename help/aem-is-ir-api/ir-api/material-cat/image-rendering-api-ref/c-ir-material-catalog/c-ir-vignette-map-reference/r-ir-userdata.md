@@ -3,7 +3,7 @@ description: User data. The server returns the contents of this field to the cli
 solution: Experience Manager
 title: UserData *
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e8ec11af-9448-4796-a43d-0fb9841469dd
 ---
 # UserData *{#userdata}

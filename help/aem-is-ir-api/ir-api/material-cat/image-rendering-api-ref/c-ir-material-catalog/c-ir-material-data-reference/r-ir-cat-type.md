@@ -3,7 +3,7 @@ description: Material Type. Surface type of the material. Used in conjunction wi
 solution: Experience Manager
 title: Type
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 912e2535-9980-4174-bca7-f44789eb39b4
 ---
 # Type{#type}

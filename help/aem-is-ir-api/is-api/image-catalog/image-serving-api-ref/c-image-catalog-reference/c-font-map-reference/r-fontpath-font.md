@@ -3,7 +3,7 @@ description: Font file path. Path and name for the principal font file, includin
 solution: Experience Manager
 title: FontPath
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 251ded53-47db-4855-a40b-7078dfc24d87
 ---
 # FontPath{#fontpath}

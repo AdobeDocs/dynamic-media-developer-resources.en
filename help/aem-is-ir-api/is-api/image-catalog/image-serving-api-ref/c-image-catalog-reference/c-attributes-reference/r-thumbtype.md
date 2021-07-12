@@ -3,7 +3,7 @@ description: Default thumbnail type. Provides a default for the thumbnail type i
 solution: Experience Manager
 title: ThumbType
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ac29ac3a-8c6b-4c87-954f-37d1ddec76f5
 ---
 # ThumbType{#thumbtype}

@@ -3,7 +3,7 @@ description: Specifies the image format that the component uses for loading imag
 solution: Experience Manager
 title: ZoomView.fmt
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 6a023abb-71c7-4db5-8d05-bf0a4b1fc3a0
 ---
 # ZoomView.fmt{#zoomview-fmt}

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: setParam
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 16d1d2cd-f58f-4ac3-b89f-f2f12fee231d
 ---
 # setParam{#setparam}

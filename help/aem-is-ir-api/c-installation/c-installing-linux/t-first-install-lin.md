@@ -3,7 +3,7 @@ description: This procedure shows how to install Image Serving for the first tim
 solution: Experience Manager
 title: Installing for the first time
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: f27e6b27-641c-4a88-9ed0-94ada9ba75a9
 ---
 # Installing for the first time{#installing-for-the-first-time}

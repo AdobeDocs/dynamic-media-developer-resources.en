@@ -3,7 +3,7 @@ description: Rule set definitions file path. Specifies the file which contains t
 solution: Experience Manager
 title: RuleSetFile
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 66c211e7-1c40-47f1-b850-4b7ee6255a84
 ---
 # RuleSetFile{#rulesetfile}

@@ -4,7 +4,7 @@ solution: Experience Manager
 title: PageView.iscommand
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: d1b05fe7-901b-4030-9b71-e4e0e5191abf
 ---
 # PageView.iscommand{#pageview-iscommand}

@@ -3,7 +3,7 @@ description: Retrieve page. Retrieves a specific page in a multi-page FXG.
 solution: Experience Manager
 title: page
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 7c72ceff-30d9-4e0b-8b4f-6cb0039d389e
 ---
 # page{#page}

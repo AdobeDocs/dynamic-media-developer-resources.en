@@ -3,7 +3,7 @@ title: Installing multiple Dynamic Media viewers on the same server
 description: Instructions for installing the Dynamic Media Viewers API.
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 7a8d7205-d3bf-4ca8-b80a-9072436a3df5
 ---
 # Installing multiple viewers on the same server{#installing-multiple-viewers-on-the-same-server}

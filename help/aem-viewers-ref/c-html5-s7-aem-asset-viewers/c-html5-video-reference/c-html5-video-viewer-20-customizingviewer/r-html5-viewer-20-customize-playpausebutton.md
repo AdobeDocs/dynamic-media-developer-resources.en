@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Play/Pause button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 174ddf15-e6be-4a65-8c82-5c9edf061a6c
 ---
 # Play/Pause button{#play-pause-button}

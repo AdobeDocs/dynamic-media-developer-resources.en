@@ -3,7 +3,7 @@ description: Print resolution. Overrides the print resolution value embedded in 
 solution: Experience Manager
 title: printRes
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 81c4c3b8-946d-401b-a279-ba3f426ea5a4
 ---
 # printRes{#printres}

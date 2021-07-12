@@ -3,7 +3,7 @@ description: This example uses Image Serving to colorize an object and apply a d
 solution: Experience Manager
 title: Examples
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 85f11642-e1ff-4bf0-bd21-d419805cff4a
 ---
 # Examples{#examples}

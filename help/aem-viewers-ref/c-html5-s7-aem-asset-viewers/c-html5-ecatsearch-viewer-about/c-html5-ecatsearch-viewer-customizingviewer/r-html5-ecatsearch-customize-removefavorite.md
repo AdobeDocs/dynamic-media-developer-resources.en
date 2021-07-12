@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Remove Favorite button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 4bf4b055-598c-41b9-bc98-c51926c4785f
 ---
 # Remove Favorite button{#remove-favorite-button}

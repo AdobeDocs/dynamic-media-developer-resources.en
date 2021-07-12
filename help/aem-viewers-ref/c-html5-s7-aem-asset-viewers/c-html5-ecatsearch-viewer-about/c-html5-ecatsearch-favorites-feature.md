@@ -4,7 +4,7 @@ solution: Experience Manager
 title: Search feature
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: d9bee7a6-332f-481b-b0aa-9caa0b6d982c
 ---
 # Search feature{#search-feature}

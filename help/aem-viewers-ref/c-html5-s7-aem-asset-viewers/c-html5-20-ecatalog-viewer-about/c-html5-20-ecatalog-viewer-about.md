@@ -4,7 +4,7 @@ keywords: responsive
 solution: Experience Manager
 title: eCatalog
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 8e243fa5-e375-41ce-8b49-2571023130c1
 ---
 # eCatalog{#ecatalog}

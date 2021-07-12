@@ -3,7 +3,7 @@ description: Configuration attribute for Interactive Video Viewer.
 solution: Experience Manager
 title: VideoPlayer.initialbitrate
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 75ee2c74-21c4-41b6-9d0f-15aa8432f177
 ---
 # VideoPlayer.initialbitrate{#videoplayer-initialbitrate}

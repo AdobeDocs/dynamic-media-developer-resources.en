@@ -3,7 +3,7 @@ description: ID translation map. Specifies the rules used for translating generi
 solution: Experience Manager
 title: LocaleMap
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c1d74154-721b-46cc-9f0b-8dae5647b179
 ---
 # LocaleMap{#localemap}

@@ -4,7 +4,7 @@ solution: Experience Manager
 title: Download
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: eb26ffaa-3c2c-4cee-9a18-f6c5299828c4
 ---
 # Download{#download}

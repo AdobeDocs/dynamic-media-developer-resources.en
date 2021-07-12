@@ -3,7 +3,7 @@ description: The Interactive Video Viewer supports rendering interactive swatche
 solution: Experience Manager
 title: Interactive data support
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 9118bf02-16ae-4dab-92e4-17347e866cc9
 ---
 # Interactive data support{#interactive-data-support}

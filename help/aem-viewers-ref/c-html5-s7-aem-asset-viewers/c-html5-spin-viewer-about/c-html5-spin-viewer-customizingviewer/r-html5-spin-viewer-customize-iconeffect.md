@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Icon effect
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 1ded69eb-62cd-49da-ab53-124348359a58
 ---
 # Icon effect{#icon-effect}

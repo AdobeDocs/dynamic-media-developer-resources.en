@@ -3,7 +3,7 @@ description: Four types of layers are supported.
 solution: Experience Manager
 title: Layer types
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 9819a73d-1108-414a-831f-37ba94c3feb9
 ---
 # Layer types{#layer-types}

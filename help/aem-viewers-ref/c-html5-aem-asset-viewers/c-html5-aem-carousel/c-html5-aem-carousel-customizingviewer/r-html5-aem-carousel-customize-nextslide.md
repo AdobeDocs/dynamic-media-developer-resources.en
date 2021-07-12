@@ -3,7 +3,7 @@ description: Clicking or tapping the Next slide button moves a user to the next 
 solution: Experience Manager
 title: Next slide
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c64889bb-bcbe-49c6-a0be-b4013ead7b90
 ---
 # Next slide{#next-slide}

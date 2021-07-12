@@ -3,7 +3,7 @@ description: The features and syntax of image catalogs are described in this sec
 solution: Experience Manager
 title: Image catalogs
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 54c83ad2-a932-4df2-92ff-ab34d4a5b1a7
 ---
 # Image catalogs{#image-catalogs}

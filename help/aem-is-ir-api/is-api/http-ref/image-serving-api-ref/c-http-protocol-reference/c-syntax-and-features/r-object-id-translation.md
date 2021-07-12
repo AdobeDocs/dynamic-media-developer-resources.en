@@ -3,7 +3,7 @@ description: Image Serving provides a mechanism to translate external object ids
 solution: Experience Manager
 title: Object ID translation
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 7a3bd6a1-2ad4-4da2-944c-489b7d18fdc1
 ---
 # Object ID translation{#object-id-translation}

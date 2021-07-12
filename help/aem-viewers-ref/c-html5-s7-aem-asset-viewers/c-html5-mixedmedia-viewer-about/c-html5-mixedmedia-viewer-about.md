@@ -4,7 +4,7 @@ keywords: responsive
 solution: Experience Manager
 title: Mixed Media
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 65a54308-f9db-4458-a9c3-ccb1433af43c
 ---
 # Mixed Media{#mixed-media}

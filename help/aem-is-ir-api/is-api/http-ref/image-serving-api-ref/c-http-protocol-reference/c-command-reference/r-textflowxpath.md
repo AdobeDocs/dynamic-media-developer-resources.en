@@ -3,7 +3,7 @@ description: Text flow exclusion area. Specifies one or more regions to exclude 
 solution: Experience Manager
 title: textFlowXPath
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 2430ab43-c032-4c2f-93c3-225e8116f100
 ---
 # textFlowXPath{#textflowxpath}

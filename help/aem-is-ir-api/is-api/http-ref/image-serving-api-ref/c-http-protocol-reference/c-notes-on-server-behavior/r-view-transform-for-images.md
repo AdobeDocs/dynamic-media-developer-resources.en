@@ -3,7 +3,7 @@ description: View transform for images
 solution: Experience Manager
 title: View transform for images
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: fc20cbc2-9d66-4c52-80c2-9ba7c3b54744
 ---
 # View transform for images{#view-transform-for-images}

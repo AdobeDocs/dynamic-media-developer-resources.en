@@ -3,7 +3,7 @@ description: Address filter element. Optional in <rule> elements. Overrides attr
 solution: Experience Manager
 title: addressfilter
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 0da9299b-fe14-4a69-8567-2d79ad2ce0bd
 ---
 # addressfilter{#addressfilter}

@@ -3,7 +3,7 @@ description: Default material sharpening. Sets the default material sharpening m
 solution: Experience Manager
 title: Sharp
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: fe8f7662-bfa1-43bf-ab66-5de5598edcd4
 ---
 # Sharp{#sharp}

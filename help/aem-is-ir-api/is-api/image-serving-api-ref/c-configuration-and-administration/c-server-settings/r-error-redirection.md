@@ -3,7 +3,7 @@ description: Use these server settings to redirect errors.
 solution: Experience Manager
 title: Error redirection
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: a184e113-9708-412f-9b71-d75a35629adf
 ---
 # Error redirection{#error-redirection}

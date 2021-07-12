@@ -3,7 +3,7 @@ description: Event callbacks
 solution: Experience Manager
 title: Event callbacks
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 1a7b51c1-baa7-4ae3-b6b7-17478055a605
 ---
 # Event callbacks{#event-callbacks}

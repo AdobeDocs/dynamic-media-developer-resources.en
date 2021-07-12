@@ -4,7 +4,7 @@ solution: Experience Manager
 title: Viewers for AEM Assets and Dynamic Media Classic
 
 feature: Dynamic Media Classic,Viewers,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 553e9be6-2737-4d78-bbda-87e866003b2e
 ---
 # Viewers for AEM Assets and Dynamic Media Classic{#viewers-for-aem-assets-and-dynamic-media-classic}

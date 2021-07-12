@@ -3,7 +3,7 @@ description: The zoom indicator is overlaid on the zoom view area. It is display
 solution: Experience Manager
 title: Zoom view icon effect
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: f2db0259-f1cf-41bc-86fd-97a40d01db16
 ---
 # Zoom view icon effect{#zoom-view-icon-effect}

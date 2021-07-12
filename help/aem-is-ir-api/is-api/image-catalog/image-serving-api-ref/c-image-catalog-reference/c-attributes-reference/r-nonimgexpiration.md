@@ -3,7 +3,7 @@ description: Client cache TTL for non-image responses. Provides the expiration i
 solution: Experience Manager
 title: NonImgExpiration
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c61e2781-dfaa-4f3d-958d-5ffa755a3e4d
 ---
 # NonImgExpiration{#nonimgexpiration}

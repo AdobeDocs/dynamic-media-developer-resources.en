@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Video time
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 83491281-aff4-411a-a5a2-42e2454fd375
 ---
 # Video time{#video-time}

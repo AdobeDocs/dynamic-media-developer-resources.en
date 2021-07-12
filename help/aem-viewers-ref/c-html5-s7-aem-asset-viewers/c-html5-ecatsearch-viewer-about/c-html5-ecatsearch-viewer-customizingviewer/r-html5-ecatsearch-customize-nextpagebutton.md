@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Next page button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 6b94e583-fb2a-4010-bfc6-4fa901252e4e
 ---
 # Next page button{#next-page-button}

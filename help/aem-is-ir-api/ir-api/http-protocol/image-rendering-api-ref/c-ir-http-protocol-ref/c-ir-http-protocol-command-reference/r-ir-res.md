@@ -3,7 +3,7 @@ description: Material resolution. Specifies the resolution of the repeatable tex
 solution: Experience Manager
 title: res
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: f207355d-5819-47fc-bda5-27a411449569
 ---
 # res{#res}

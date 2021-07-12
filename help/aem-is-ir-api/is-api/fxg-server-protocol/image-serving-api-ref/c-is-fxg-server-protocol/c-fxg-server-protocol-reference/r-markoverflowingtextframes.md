@@ -3,7 +3,7 @@ description: Display overset text frames with plus sign. A text overflow indicat
 solution: Experience Manager
 title: markOverflowingTextFrames
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: d1e2a3d4-ef1f-4d5e-be9c-eeec36f46603
 ---
 # markOverflowingTextFrames{#markoverflowingtextframes}

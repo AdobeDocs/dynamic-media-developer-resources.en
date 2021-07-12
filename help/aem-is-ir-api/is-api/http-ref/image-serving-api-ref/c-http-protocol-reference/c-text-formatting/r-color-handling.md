@@ -3,7 +3,7 @@ description: The RTF specification permits RGB color values specified with &bsol
 solution: Experience Manager
 title: Color handling
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 590ed0f1-8d78-4afc-ac9e-c28272cd24a6
 ---
 # Color handling{#color-handling}

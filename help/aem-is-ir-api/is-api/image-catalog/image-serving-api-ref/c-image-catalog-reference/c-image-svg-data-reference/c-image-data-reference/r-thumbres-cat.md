@@ -3,7 +3,7 @@ description: Thumbnail resolution. Specifies the object resolution for the thumb
 solution: Experience Manager
 title: ThumbRes
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 1b462b7e-076d-433e-a5d2-e254396c4659
 ---
 # ThumbRes{#thumbres}

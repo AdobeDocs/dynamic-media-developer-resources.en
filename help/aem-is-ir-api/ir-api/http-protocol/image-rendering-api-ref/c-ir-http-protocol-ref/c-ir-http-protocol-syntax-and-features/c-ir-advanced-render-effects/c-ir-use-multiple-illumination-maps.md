@@ -3,7 +3,7 @@ description: Some applications may require a different illumination map for diff
 solution: Experience Manager
 title: Using multiple illumination maps
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: a6e0be23-8b8a-4b60-aac1-c692319a0bce
 ---
 # Using multiple illumination maps{#using-multiple-illumination-maps}

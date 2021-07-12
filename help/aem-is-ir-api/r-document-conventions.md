@@ -3,7 +3,7 @@ description: This document uses the following conventions.
 solution: Experience Manager
 title: Document conventions
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: cc334766-544b-4d77-aa0e-4e509525cbaa
 ---
 # Document conventions{#document-conventions}

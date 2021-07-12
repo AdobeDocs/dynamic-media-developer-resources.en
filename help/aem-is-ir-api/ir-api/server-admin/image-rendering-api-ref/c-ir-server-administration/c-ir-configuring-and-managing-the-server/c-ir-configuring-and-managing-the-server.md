@@ -3,7 +3,7 @@ description: This section contains information to help you set up and manage the
 solution: Experience Manager
 title: Configuring and managing the server
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: 357e5660-1e62-4aa0-91c2-696cacac8f86
 ---
 # Configuring and managing the server{#configuring-and-managing-the-server}

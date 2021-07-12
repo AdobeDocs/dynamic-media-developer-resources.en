@@ -3,7 +3,7 @@ description: Certain content that is displayed by the viewer is subject to local
 solution: Experience Manager
 title: Localization of user interface elements
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: d54fd841-2246-4d2e-8bf9-7da56f2487f3
 ---
 # Localization of user interface elements{#localization-of-user-interface-elements}

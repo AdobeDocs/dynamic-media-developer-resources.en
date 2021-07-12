@@ -3,7 +3,7 @@ description: All catalog attributes are optional, except catalog RootId.
 solution: Experience Manager
 title: Attributes reference
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: d0c8e808-d887-4bad-bbb5-f36a19ab4df2
 ---
 # Attributes reference{#attributes-reference}

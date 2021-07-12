@@ -3,7 +3,7 @@ description: A material is considered a wall border when it is specified in a wa
 solution: Experience Manager
 title: Wall borders
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e11c38d0-8255-4363-ae60-f47be37a1495
 ---
 # Wall borders{#wall-borders}

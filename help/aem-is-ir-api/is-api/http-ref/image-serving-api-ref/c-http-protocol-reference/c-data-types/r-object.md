@@ -3,7 +3,7 @@ description: Source Object Specifier. Image, SVG, and ICC profile objects may be
 solution: Experience Manager
 title: object
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 64846f8f-ebc6-446c-8277-04c45111dc24
 ---
 # object{#object}

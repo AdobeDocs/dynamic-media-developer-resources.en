@@ -3,7 +3,7 @@ description: The main view area is the area occupied by the main view and swatch
 solution: Experience Manager
 title: Main viewer area
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: fe8b748c-5318-4fcd-9f3a-d50523bb3f8f
 ---
 # Main viewer area{#main-viewer-area}

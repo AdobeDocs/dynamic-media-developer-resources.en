@@ -4,7 +4,7 @@ solution: Experience Manager
 title: SearchPanel.textpos
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 5422763c-68cd-4662-b2aa-9f45275ced6a
 ---
 # SearchPanel.textpos{#searchpanel-textpos}

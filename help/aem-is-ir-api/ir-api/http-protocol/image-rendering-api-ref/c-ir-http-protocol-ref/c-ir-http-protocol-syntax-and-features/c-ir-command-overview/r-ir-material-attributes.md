@@ -3,7 +3,7 @@ description: These attributes define materials to be applied to the selected obj
 solution: Experience Manager
 title: Material attributes
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 77801376-5bc5-4fd4-95d6-8c80b31c779d
 ---
 # Material attributes{#material-attributes}

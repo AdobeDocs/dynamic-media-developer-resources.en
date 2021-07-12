@@ -3,7 +3,7 @@ description: Configuration attribute for Video360 Viewer.
 solution: Experience Manager
 title: Video360Player.mutevolume
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 8f95c01f-e634-4d6c-a22f-c2285ee969c8
 ---
 # Video360Player.mutevolume{#video-player-mutevolume}

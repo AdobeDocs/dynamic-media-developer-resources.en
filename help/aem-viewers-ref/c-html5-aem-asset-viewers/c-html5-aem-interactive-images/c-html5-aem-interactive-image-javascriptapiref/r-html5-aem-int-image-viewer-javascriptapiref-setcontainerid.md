@@ -3,7 +3,7 @@ description: JavaScript API reference for Video Image Viewer.
 solution: Experience Manager
 title: setContainerId
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 2b9b89e6-50ea-458f-9da2-6fda1884935c
 ---
 # setContainerId{#setcontainerid}

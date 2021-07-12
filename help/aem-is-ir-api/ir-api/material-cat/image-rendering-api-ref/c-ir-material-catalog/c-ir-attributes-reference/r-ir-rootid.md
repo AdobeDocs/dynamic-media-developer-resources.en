@@ -3,7 +3,7 @@ description: Catalog identifier. The HTTP path element to be used to identifies 
 solution: Experience Manager
 title: RootId
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: cc34087a-8a19-4ead-b510-f2466efc44a9
 ---
 # RootId{#rootid}

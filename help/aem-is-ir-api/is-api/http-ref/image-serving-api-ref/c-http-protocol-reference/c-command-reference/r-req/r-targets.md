@@ -3,7 +3,7 @@ description: Zoom targets data from image catalog. Returns zoom target data for 
 solution: Experience Manager
 title: targets
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 58f7b1ad-8762-4d23-b320-6f69e75ecf63
 ---
 # targets{#targets}

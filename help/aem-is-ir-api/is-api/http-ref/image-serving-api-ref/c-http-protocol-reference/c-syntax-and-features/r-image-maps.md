@@ -3,7 +3,7 @@ description: IS provides mechanisms to simplify use of HTML image maps. The JAVA
 solution: Experience Manager
 title: Image maps
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 9a685f9d-205d-43b3-b5fe-3ae324fe153e
 ---
 # Image maps{#image-maps}

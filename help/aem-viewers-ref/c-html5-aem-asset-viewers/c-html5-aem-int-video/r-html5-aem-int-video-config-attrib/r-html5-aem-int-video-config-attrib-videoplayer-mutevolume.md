@@ -3,7 +3,7 @@ description: Configuration attribute for Interactive Video Viewer.
 solution: Experience Manager
 title: VideoPlayer.mutevolume
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 84deb0d4-ac7e-4ba0-884f-675a0dcc827b
 ---
 # VideoPlayer.mutevolume{#videoplayer-mutevolume}

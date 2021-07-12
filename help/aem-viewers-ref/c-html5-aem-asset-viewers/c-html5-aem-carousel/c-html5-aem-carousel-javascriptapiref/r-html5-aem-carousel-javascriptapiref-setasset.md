@@ -3,7 +3,7 @@ description: JavaScript API reference for Carousel Viewer.
 solution: Experience Manager
 title: setAsset
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e8aaee4e-56d5-46e4-8499-d5c9a6ba5d3b
 ---
 # setAsset{#setasset}

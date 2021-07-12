@@ -3,7 +3,7 @@ description: Image Serving supports a simple request preprocessing mechanism whi
 solution: Experience Manager
 title: Rule set reference
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: dfbb5f5e-d75a-496a-8b97-f102ad1a34d5
 ---
 # Rule set reference{#rule-set-reference}

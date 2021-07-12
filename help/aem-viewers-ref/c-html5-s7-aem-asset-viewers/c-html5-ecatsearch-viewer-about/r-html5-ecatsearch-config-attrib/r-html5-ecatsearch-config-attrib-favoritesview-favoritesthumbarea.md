@@ -4,7 +4,7 @@ solution: Experience Manager
 title: FavoritesView.favoritesThumbView
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 3a0a7482-315f-4192-aa6d-e9cc1415194f
 ---
 # FavoritesView.favoritesThumbView{#favoritesview-favoritesthumbview}

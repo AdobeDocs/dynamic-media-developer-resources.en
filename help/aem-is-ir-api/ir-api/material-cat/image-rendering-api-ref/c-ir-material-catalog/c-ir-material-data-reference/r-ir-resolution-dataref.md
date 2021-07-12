@@ -3,7 +3,7 @@ description: Resolution. "Real-world" image resolution, typically expressed as p
 solution: Experience Manager
 title: Resolution
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 45b12324-3148-4530-82cd-0ee32e9f98f8
 ---
 # Resolution{#resolution}

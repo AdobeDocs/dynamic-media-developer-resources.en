@@ -3,7 +3,7 @@ description: Facebook share tool consists of a button added to the Social share 
 solution: Experience Manager
 title: Facebook share
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 343cde8b-796a-420f-abb7-268b3791a684
 ---
 # Facebook share{#facebook-share}

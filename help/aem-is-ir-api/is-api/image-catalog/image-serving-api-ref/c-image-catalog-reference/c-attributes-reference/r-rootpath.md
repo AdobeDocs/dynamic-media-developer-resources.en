@@ -3,7 +3,7 @@ description: Source data root path. Absolute or relative path for the root folde
 solution: Experience Manager
 title: RootPath
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 06662b27-fb10-41d0-a14c-48025d7e9137
 ---
 # RootPath{#rootpath}

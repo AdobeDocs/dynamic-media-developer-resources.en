@@ -3,7 +3,7 @@ description: Color conversion rendering intent. Provides the default rendering i
 solution: Experience Manager
 title: IccRenderIntent
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 86cc907d-556c-40ec-a104-2f0dcf9ed1ce
 ---
 # IccRenderIntent{#iccrenderintent}

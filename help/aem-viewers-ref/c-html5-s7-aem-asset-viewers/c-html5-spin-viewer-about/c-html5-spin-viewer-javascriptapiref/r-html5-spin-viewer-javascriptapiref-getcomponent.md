@@ -6,7 +6,7 @@ solution: Experience Manager
 title: getComponent
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: f0cb5a99-814f-4c4d-bfe3-bb670c8f9926
 ---
 # getComponent{#getcomponent}

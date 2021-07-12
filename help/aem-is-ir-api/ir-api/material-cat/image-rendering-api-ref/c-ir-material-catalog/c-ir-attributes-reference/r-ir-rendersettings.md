@@ -3,7 +3,7 @@ description: Default advanced render settings. Default for catalog RenderSetting
 solution: Experience Manager
 title: RenderSettings
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 01af15a0-3c7c-47e3-be9b-49e045d856ba
 ---
 # RenderSettings{#rendersettings}

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Tooltips
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 829fdb7f-d9b1-449a-ad2d-88aa435fcaa2
 ---
 # Tooltips{#tooltips}

@@ -3,7 +3,7 @@ description: Several DOM manipulation operations are supported.
 solution: Experience Manager
 title: FXG DOM manipulation operations
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 99325deb-2eb2-4c3b-ba5e-1ed64f36ba23
 ---
 # FXG DOM manipulation operations{#fxg-dom-manipulation-operations}

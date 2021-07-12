@@ -3,7 +3,7 @@ description: Grayscale default color space. Specifies the name of the ICC color 
 solution: Experience Manager
 title: IccProfileGray
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 21f37090-a68c-4d86-a807-bda243a8f99e
 ---
 # IccProfileGray{#iccprofilegray}

@@ -3,7 +3,7 @@ description: The main class of the Interactive Image Viewer is InteractiveImage.
 solution: Experience Manager
 title: JavaScript API reference for Interactive Image Viewer
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 40a3554c-633f-418e-b365-2cae4eebe878
 ---
 # JavaScript API reference for Interactive Image Viewer{#javascript-api-reference-for-interactive-image-viewer}

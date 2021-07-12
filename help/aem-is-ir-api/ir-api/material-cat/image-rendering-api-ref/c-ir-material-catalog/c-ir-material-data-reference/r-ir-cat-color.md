@@ -3,7 +3,7 @@ description: Material color. The principal color for solid color materials and t
 solution: Experience Manager
 title: Color
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: af472ded-d9df-48d5-a237-c359b68bebe2
 ---
 # Color{#color}

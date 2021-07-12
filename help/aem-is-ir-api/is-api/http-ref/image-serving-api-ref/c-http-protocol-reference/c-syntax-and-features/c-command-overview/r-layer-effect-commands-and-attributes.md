@@ -3,7 +3,7 @@ description: These commands can be used to define layer effects, such as drop sh
 solution: Experience Manager
 title: Layer effect commands
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 483b1f24-9cd2-45e0-9d18-0dc0fbe8abcf
 ---
 # Layer effect commands{#layer-effect-commands}

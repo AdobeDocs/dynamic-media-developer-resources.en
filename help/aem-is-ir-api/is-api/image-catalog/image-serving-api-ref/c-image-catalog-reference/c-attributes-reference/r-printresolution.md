@@ -3,7 +3,7 @@ description: Default print resolution. Provides a default print resolution in ca
 solution: Experience Manager
 title: PrintResolution
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: b61c63c4-09ca-43fe-b711-8b06d766aefb
 ---
 # PrintResolution{#printresolution}

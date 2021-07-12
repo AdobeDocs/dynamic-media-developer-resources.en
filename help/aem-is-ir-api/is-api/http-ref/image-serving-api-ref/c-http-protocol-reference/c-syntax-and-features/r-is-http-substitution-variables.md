@@ -3,7 +3,7 @@ description: Substitution variables are used to transfer values from the request
 solution: Experience Manager
 title: Substitution variables
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 9fd73d16-e8bd-4fdb-a4e6-e86e5d219114
 ---
 # Substitution variables{#substitution-variables}

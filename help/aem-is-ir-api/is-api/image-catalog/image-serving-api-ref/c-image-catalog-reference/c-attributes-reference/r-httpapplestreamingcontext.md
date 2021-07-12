@@ -3,7 +3,7 @@ description: Apple streaming server URL prefix. The Apple Streaming Server URL p
 solution: Experience Manager
 title: HttpAppleStreamingContext
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 339dada7-064b-4cdc-bd34-76b6053b9965
 ---
 # HttpAppleStreamingContext{#httpapplestreamingcontext}

@@ -3,7 +3,7 @@ description: To use Image Serving, a Dynamic Media Image Serving license key is 
 solution: Experience Manager
 title: Licensing
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: dea93601-28f4-439d-9443-267bb8d8eefc
 ---
 # Licensing{#licensing}

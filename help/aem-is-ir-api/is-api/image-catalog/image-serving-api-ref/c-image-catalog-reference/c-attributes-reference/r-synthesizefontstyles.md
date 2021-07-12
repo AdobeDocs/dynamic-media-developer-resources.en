@@ -3,7 +3,7 @@ description: Enable synthesized font variations. Controls whether the server sho
 solution: Experience Manager
 title: SynthesizeFontStyles
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 08f20748-71c7-4b9f-9b45-70352f9abf35
 ---
 # SynthesizeFontStyles{#synthesizefontstyles}

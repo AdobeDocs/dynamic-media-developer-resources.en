@@ -4,7 +4,7 @@ solution: Experience Manager
 title: ZoomView.frametransition
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: f57a8a2e-63a1-4a59-9a25-b435d0ac39dc
 ---
 # ZoomView.frametransition{#zoomview-frametransition}

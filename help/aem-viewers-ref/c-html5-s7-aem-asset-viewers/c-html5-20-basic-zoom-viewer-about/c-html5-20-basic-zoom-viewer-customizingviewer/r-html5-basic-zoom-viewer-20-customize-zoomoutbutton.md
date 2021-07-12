@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Zoom out button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: fc808c7e-fca1-47b1-844d-7a412a826a1f
 ---
 # Zoom out button{#zoom-out-button}

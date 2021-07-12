@@ -3,7 +3,7 @@ description: Optionally applies the final mask on effect layers to mask out the 
 solution: Experience Manager
 title: ApplyEffectMask
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 51965151-03c9-4dbf-ba03-80bfa495439e
 ---
 # ApplyEffectMask{#applyeffectmask}

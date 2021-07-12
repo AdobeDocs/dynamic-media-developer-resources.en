@@ -3,7 +3,7 @@ description: Some restrictions apply for nesting and embedding.
 solution: Experience Manager
 title: Restrictions
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ac2fd40b-a2f6-4f6f-9d10-3da3d701042b
 ---
 # Restrictions{#restrictions}

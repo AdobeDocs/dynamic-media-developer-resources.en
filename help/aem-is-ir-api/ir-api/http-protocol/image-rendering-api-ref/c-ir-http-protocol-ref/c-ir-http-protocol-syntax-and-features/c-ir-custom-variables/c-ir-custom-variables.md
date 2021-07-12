@@ -3,7 +3,7 @@ description: The query portion of requests and vignette Modifier strings may inc
 solution: Experience Manager
 title: Custom variables
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 8d26b797-5099-49fb-b7e0-46747f35ab84
 ---
 # Custom variables{#custom-variables}

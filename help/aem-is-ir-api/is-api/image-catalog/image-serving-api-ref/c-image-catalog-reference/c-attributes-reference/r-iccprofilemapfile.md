@@ -3,7 +3,7 @@ description: ICC profile map file path. Specifies the file which contains the IC
 solution: Experience Manager
 title: IccProfileMapFile
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 3a84dc64-3167-4419-a25d-c2f475552f07
 ---
 # IccProfileMapFile{#iccprofilemapfile}

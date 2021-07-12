@@ -3,7 +3,7 @@ description: Print tool consists of a button added to the control bar and the mo
 solution: Experience Manager
 title: Print
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 ---
 # Print{#print}
 

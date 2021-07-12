@@ -3,7 +3,7 @@ description: Request obfuscation mode. Specifies the type of obfuscation that mu
 solution: Experience Manager
 title: RequestObfuscation
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c330c8de-9539-442f-a52a-786f882873cf
 ---
 # RequestObfuscation{#requestobfuscation}

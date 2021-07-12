@@ -3,7 +3,7 @@ description: Thumbnail image. Requests image data formatted and sized using cata
 solution: Experience Manager
 title: tmb
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 9bdcc1c4-fe2b-4316-a472-07a533f105a0
 ---
 # tmb{#tmb}

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: FlyoutZoomView.fmt
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 6e3bf609-eae7-4db9-b922-cba3a9f7634b
 ---
 # FlyoutZoomView.fmt{#flyoutzoomview-fmt}

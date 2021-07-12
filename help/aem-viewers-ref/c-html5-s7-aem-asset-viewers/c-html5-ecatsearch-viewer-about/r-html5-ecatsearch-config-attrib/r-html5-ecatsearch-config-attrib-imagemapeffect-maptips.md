@@ -4,7 +4,7 @@ solution: Experience Manager
 title: ImageMapEffect.mapTips
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 922649e9-865a-4b53-8507-a21611a6d0ac
 ---
 # ImageMapEffect.mapTips{#imagemapeffect-maptips}

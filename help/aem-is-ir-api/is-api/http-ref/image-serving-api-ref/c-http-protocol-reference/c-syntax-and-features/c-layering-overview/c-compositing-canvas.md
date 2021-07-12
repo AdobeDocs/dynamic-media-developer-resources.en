@@ -3,7 +3,7 @@ description: Layers are composited in the order specified by the layer= command,
 solution: Experience Manager
 title: The compositing canvas
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 2455d07f-a158-4335-a14c-213f8b3dd265
 ---
 # The compositing canvas{#the-compositing-canvas}

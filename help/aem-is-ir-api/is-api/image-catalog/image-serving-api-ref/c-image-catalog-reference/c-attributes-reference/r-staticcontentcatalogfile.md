@@ -3,7 +3,7 @@ description: Static content catalog data file paths. Specifies the files that co
 solution: Experience Manager
 title: StaticContentCatalogFile
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ff6f0ad8-189f-4172-89cb-f138d2df8fe4
 ---
 # StaticContentCatalogFile{#staticcontentcatalogfile}

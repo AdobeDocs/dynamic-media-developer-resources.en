@@ -4,7 +4,7 @@ solution: Experience Manager
 title: SearchPanel.iscommand
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 4e843866-75a5-4543-a275-e134b3aee75a
 ---
 # SearchPanel.iscommand{#searchpanel-iscommand}

@@ -3,7 +3,7 @@ description: Default response image. Specifies the image or catalog entry to be 
 solution: Experience Manager
 title: DefaultImage
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 2044b447-0ee1-4964-b751-8637c5e115d1
 ---
 # DefaultImage{#defaultimage}

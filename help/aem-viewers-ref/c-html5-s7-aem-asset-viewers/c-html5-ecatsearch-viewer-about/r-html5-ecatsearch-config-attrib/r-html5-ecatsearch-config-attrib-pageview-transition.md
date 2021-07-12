@@ -4,7 +4,7 @@ solution: Experience Manager
 title: PageView.transition
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e9db5c83-e6cf-4847-99b3-a1cf6a1fbe9f
 ---
 # PageView.transition{#pageview-transition}

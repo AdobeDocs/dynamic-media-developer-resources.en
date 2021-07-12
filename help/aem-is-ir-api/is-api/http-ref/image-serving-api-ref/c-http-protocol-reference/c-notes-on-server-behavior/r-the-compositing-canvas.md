@@ -3,7 +3,7 @@ description: If req=img, the size of the compositing canvas is determined entire
 solution: Experience Manager
 title: The compositing canvas
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 38b2349f-714a-4304-bd33-5ce171b6d3a1
 ---
 # The compositing canvas{#the-compositing-canvas}

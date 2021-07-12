@@ -3,7 +3,7 @@ description: Catalog attribute files recognize these catalog management attribut
 solution: Experience Manager
 title: Catalog management
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c29858a7-6695-4c40-a818-4161a2e97ff5
 ---
 # Catalog management{#catalog-management}

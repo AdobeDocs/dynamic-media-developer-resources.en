@@ -3,7 +3,7 @@ description: To reduce opportunity for tampering with requests, a simple locking
 solution: Experience Manager
 title: Request locking
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 7ac727ef-3775-4884-b9db-bfae171a0f9d
 ---
 # Request locking{#request-locking}

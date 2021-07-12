@@ -3,7 +3,7 @@ description: Color values for color= and bgc= attributes may be specified using 
 solution: Experience Manager
 title: Color values
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 608ff0f1-4fbd-4e32-af07-3a62569d14c7
 ---
 # Color values{#color-values}

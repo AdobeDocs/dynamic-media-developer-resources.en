@@ -3,7 +3,7 @@ description: The Viewer SDK provides a set of JavaScript-based components for cu
 solution: Experience Manager
 title: Viewer SDK Tutorial
 feature: Dynamic Media Classic,Viewers,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 3a798595-6c65-4a12-983d-3cdc53830d28
 ---
 # Viewer SDK Tutorial{#viewer-sdk-tutorial}

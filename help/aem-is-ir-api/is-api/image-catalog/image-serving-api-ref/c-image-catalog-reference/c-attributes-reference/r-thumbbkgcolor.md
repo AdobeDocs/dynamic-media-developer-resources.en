@@ -3,7 +3,7 @@ description: Default background color for thumbnails. RGB value used to fill the
 solution: Experience Manager
 title: ThumbBkgColor
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 88acf5ad-2973-42f9-9aaa-901e66b07f53
 ---
 # ThumbBkgColor{#thumbbkgcolor}

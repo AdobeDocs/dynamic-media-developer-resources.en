@@ -4,7 +4,7 @@ solution: Experience Manager
 title: VideoScrubber.showtime
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: cd141d46-9d73-417e-b789-4d2f0bc6a9eb
 ---
 # VideoScrubber.showtime{#videoscrubber-showtime}

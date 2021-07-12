@@ -3,7 +3,7 @@ description: Layer Color. Specifies the foreground color and opacity of solid co
 solution: Experience Manager
 title: color
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: b937e699-8e1e-4211-86a6-fdc155a0e3ed
 ---
 # color{#color}

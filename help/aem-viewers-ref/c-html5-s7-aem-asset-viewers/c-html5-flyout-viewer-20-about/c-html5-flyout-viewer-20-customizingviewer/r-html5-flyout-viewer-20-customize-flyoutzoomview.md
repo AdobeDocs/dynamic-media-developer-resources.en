@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Flyout zoom view
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c04c4b8f-4e63-4e84-98c0-aa0781608130
 ---
 # Flyout zoom view{#flyout-zoom-view}

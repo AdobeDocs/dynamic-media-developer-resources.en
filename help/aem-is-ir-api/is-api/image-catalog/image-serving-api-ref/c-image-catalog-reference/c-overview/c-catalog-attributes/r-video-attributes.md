@@ -3,7 +3,7 @@ description: Catalog attribute files recognize these video attributes.
 solution: Experience Manager
 title: Video attributes
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c6bf2736-df10-41a2-b3ec-c930d6881f20
 ---
 # Video attributes{#video-attributes}

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Set indicator
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: b1e6734e-a341-45d7-b771-daeb0527cd00
 ---
 # Set indicator{#set-indicator}

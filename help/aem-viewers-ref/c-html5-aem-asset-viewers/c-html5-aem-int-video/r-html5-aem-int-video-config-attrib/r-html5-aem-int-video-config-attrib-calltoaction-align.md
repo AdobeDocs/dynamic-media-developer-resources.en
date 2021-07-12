@@ -3,7 +3,7 @@ description: Configuration attribute for Interactive Video Viewer.
 solution: Experience Manager
 title: CallToAction.align
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e0a92c4a-3757-4811-87b8-68fb367ea94d
 ---
 # CallToAction.align{#calltoaction-align}

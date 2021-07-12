@@ -3,7 +3,7 @@ description: Adjust contrast. Adjusts the image contrast by increasing the brigh
 solution: Experience Manager
 title: op_contrast
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 0216f22e-a3b3-4dda-89c2-9c6c2c81cab3
 ---
 # op_contrast{#op-contrast}

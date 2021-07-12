@@ -3,7 +3,7 @@ description: Flash Streaming Server URL prefix. Flash Streaming Server URL prefi
 solution: Experience Manager
 title: HttpFlashStreamingContext
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 1052e14d-2906-4be5-a13c-f5f34cd46d89
 ---
 # HttpFlashStreamingContext{#httpflashstreamingcontext}

@@ -3,7 +3,7 @@ description: Image Serving control script. This script is used to start, stop, o
 solution: Experience Manager
 title: ImageServing
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 252e12d9-703e-4fbb-a156-8dcdc3bc4f2e
 ---
 # ImageServing{#imageserving}

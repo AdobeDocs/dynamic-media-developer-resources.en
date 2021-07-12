@@ -3,7 +3,7 @@ description: Real number data type.
 solution: Experience Manager
 title: Real number
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 04534c0f-12b7-4560-974b-918b081164ce
 ---
 # Real number{#real-number}

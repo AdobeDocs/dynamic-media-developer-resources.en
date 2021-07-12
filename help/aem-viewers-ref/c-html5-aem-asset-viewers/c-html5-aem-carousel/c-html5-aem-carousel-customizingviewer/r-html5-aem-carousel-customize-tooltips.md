@@ -3,7 +3,7 @@ description: On desktop systems some user interface elements like buttons have t
 solution: Experience Manager
 title: Tooltips
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: b4604528-93f6-440c-b676-7b4c89fff6c8
 ---
 # Tooltips{#tooltips}

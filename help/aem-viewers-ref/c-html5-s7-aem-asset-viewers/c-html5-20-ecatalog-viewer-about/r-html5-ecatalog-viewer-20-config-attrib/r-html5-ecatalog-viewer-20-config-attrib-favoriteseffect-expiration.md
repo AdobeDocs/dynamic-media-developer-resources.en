@@ -4,7 +4,7 @@ solution: Experience Manager
 title: FavoritesEffect.expiration
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ef4880c5-045c-487c-a73a-e87e54717029
 ---
 # FavoritesEffect.expiration{#favoriteseffect-expiration}

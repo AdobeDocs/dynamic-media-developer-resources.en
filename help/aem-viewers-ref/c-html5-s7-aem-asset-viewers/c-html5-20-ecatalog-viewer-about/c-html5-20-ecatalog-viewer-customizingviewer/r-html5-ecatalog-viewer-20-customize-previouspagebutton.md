@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Previous page button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: cc0e8c18-f9c1-4451-9fbe-3b082f78a7ec
 ---
 # Previous page button{#previous-page-button}

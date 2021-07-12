@@ -3,7 +3,7 @@ description: Advanced render settings. Specifies an advanced render settings, to
 solution: Experience Manager
 title: rs
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 419baeb7-e06e-4753-a487-a1f407845f6d
 ---
 # rs{#rs}

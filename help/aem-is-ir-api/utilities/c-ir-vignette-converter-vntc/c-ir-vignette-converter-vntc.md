@@ -3,7 +3,7 @@ description: Vignette converter (vntc)
 solution: Experience Manager
 title: Vignette converter (vntc)
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: dfcd031b-cbaa-4377-af9e-569c1017d592
 ---
 # Vignette converter (vntc){#vignette-converter-vntc}

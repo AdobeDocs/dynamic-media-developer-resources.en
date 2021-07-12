@@ -3,7 +3,7 @@ description: Catalog attribute files can have any name, but must have an .ini fi
 solution: Experience Manager
 title: Catalog attribute files
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 8b5afb99-3201-4e43-93e7-e8998354204f
 ---
 # Catalog attribute files{#catalog-attribute-files}

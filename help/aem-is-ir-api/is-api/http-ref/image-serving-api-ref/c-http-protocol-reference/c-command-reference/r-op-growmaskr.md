@@ -3,7 +3,7 @@ description: Dilate/erode image. Applies a morphological dilate (radius > 0) or 
 solution: Experience Manager
 title: op_growMaskR
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 7abfbccf-8bcf-44d4-b50a-eca7a3f11360
 ---
 # op_growMaskR{#op-growmaskr}

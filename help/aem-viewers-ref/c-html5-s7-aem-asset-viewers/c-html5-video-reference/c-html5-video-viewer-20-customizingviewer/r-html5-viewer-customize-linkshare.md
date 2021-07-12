@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Link share
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: a80b47fd-0399-4d0a-8c11-cfa4acc5a713
 ---
 # Link share{#link-share}

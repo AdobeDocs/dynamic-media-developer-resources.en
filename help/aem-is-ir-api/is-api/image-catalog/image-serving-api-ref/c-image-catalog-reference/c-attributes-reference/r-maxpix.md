@@ -3,7 +3,7 @@ description: Reply image size limit. Maximum reply image width and height that m
 solution: Experience Manager
 title: MaxPix
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 0fd990cf-a54f-4574-8328-8988368d5875
 ---
 # MaxPix{#maxpix}

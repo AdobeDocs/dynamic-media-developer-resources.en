@@ -3,7 +3,7 @@ description: Use these server settings to configure your server.
 solution: Experience Manager
 title: Server
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: 10970ca8-b209-4adf-b027-6eb8d7a15db6
 ---
 # Server{#server}

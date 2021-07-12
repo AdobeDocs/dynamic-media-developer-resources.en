@@ -3,7 +3,7 @@ description: Background color. Specifies the subtractive color for colorizable t
 solution: Experience Manager
 title: bgc
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 9ac6517e-b9c3-48d9-97ac-d8aa65a8ba46
 ---
 # bgc{#bgc}

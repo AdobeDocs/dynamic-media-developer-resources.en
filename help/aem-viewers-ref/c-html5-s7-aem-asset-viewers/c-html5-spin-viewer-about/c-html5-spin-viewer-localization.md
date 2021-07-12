@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Localization of user interface elements
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: f4c0f16b-dbb9-4505-a3f2-d504ae21c3f0
 ---
 # Localization of user interface elements{#localization-of-user-interface-elements}

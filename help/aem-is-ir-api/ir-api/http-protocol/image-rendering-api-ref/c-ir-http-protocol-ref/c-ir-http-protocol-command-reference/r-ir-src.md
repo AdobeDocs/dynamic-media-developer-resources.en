@@ -3,7 +3,7 @@ description: Material file. Specifies material data, either in form of a single 
 solution: Experience Manager
 title: src
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: aff45f0f-e672-40da-9cc8-db83cf3922ff
 ---
 # src{#src}

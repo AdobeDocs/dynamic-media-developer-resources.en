@@ -3,7 +3,7 @@ description: Use the information in this section to configure and administer you
 solution: Experience Manager
 title: Configuration and administration
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: fa02b6f7-777f-4c4d-a959-0f0d0fc96774
 ---
 # Configuration and administration{#configuration-and-administration}

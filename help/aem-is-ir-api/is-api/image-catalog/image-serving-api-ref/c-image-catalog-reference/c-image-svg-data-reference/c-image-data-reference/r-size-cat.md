@@ -3,7 +3,7 @@ description: Image size. Pixel size of the full-resolution image referenced by c
 solution: Experience Manager
 title: Size
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 46f06cbb-d70f-4334-966c-624b49c3bb9b
 ---
 # Size{#size}

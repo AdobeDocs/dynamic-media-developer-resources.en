@@ -3,7 +3,7 @@ description: XMP metadata. Returns the XMP metadata associated with the image sp
 solution: Experience Manager
 title: xmp
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 91e252dd-22e2-4c4e-bc92-67762114c2ce
 ---
 # xmp{#xmp}

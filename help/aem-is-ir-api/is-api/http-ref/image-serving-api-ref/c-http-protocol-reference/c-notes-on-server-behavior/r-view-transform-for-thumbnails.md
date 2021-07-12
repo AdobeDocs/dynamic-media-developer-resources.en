@@ -3,7 +3,7 @@ description: The image returned to the client in response to a req=tmb request i
 solution: Experience Manager
 title: View transform for thumbnails
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 7db6736f-0b49-4c4f-89c5-e89d4752f339
 ---
 # View transform for thumbnails{#view-transform-for-thumbnails}

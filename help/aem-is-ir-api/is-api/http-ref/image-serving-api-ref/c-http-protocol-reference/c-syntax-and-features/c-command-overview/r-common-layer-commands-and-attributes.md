@@ -3,7 +3,7 @@ description: These commands apply to image, text, and solid color layers. Most a
 solution: Experience Manager
 title: Common layer commands
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c95d198c-757f-405e-ba08-094cd402c929
 ---
 # Common layer commands{#common-layer-commands}

@@ -3,7 +3,7 @@ description: These commands apply to image, text and solid color layers. They ar
 solution: Experience Manager
 title: Common operations
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: f30a9653-7aed-4233-8361-18ca6561d420
 ---
 # Common operations{#common-operations}

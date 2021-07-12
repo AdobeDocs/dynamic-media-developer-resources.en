@@ -3,7 +3,7 @@ description: Link share tool consists of a button added to the Social share pane
 solution: Experience Manager
 title: Link share
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 9eb2ef38-9b86-4c60-90a2-6609cb3fcc39
 ---
 # Link share{#link-share}

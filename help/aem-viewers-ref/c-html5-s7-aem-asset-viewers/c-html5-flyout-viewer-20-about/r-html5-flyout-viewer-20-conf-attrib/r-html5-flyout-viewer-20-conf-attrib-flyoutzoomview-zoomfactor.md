@@ -4,7 +4,7 @@ solution: Experience Manager
 title: FlyoutZoomView.zoomfactor
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 150968d2-aece-4d2a-b5a8-31b03dae25bb
 ---
 # FlyoutZoomView.zoomfactor{#flyoutzoomview-zoomfactor}

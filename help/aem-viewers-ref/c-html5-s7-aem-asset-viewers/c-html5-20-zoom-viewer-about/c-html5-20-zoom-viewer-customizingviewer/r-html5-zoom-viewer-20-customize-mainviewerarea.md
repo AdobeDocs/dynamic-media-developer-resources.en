@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Main viewer area
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 62cbb3e6-e766-40a3-9c01-d22ade82b604
 ---
 # Main viewer area{#main-viewer-area}

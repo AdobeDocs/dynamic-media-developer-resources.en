@@ -3,7 +3,7 @@ description: Configuration attributes documentation for Mixed Media Viewer.
 solution: Experience Manager
 title: Command reference – Configuration attributes
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: aa750941-0a2e-4591-bdff-5e71ecc342aa
 ---
 # Command reference – Configuration attributes{#command-reference-configuration-attributes}

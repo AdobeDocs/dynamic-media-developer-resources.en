@@ -3,7 +3,7 @@ description: Configuration attribute for Video360 Viewer.
 solution: Experience Manager
 title: EmbedShare.embedsizes
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 3a6c23dd-5e2c-4149-aa24-37d445128125
 ---
 # EmbedShare.embedsizes{#embedshare-embedsizes}

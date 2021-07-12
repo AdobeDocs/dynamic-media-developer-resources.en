@@ -3,7 +3,7 @@ description: Depending on the value of the mode parameter, the viewer displays i
 solution: Experience Manager
 title: Image map effect
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 873fc387-1d2a-4d74-b85e-fcbb13b691c5
 ---
 # Image map effect{#image-map-effect}

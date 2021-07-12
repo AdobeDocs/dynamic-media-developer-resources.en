@@ -4,7 +4,7 @@ solution: Experience Manager
 title: TableOfContents.bearing
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: d8b88ea2-38fe-41b8-89cb-c3603c513142
 ---
 # TableOfContents.bearing{#tableofcontents-bearing}

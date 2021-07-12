@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Interactive Image
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c7089ecd-6ff3-4fe9-9ee7-3b48c9201558
 ---
 # Interactive Image{#interactive-image}

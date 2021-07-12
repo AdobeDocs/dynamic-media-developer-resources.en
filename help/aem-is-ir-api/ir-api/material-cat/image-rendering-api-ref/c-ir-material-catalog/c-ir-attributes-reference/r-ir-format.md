@@ -3,7 +3,7 @@ description: Default reply image format. Specifies the default format for reply 
 solution: Experience Manager
 title: Format
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 393264e0-4b2d-42d7-b95c-8d20770687e7
 ---
 # Format{#format}

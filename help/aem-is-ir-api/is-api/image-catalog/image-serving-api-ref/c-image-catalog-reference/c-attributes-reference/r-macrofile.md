@@ -3,7 +3,7 @@ description: Macro definitions file path. Specifies the file which contains the 
 solution: Experience Manager
 title: MacroFile
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 36ac95db-691b-4d11-b6ce-24860c9b194c
 ---
 # MacroFile{#macrofile}

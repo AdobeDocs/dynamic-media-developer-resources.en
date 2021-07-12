@@ -4,7 +4,7 @@ solution: Experience Manager
 title: ThumbnailGridView.scrollbar
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 9185d752-1fd8-45c3-8361-e5ee803e87d5
 ---
 # ThumbnailGridView.scrollbar{#thumbnailgridview-scrollbar}

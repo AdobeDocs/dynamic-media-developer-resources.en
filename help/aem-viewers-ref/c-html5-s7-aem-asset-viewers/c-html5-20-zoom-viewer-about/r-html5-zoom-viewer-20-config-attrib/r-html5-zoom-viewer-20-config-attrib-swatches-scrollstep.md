@@ -4,7 +4,7 @@ solution: Experience Manager
 title: Swatches.scrollstep
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 94774bc1-c490-4341-b223-8823699b6c1e
 ---
 # Swatches.scrollstep{#swatches-scrollstep}

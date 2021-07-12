@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Secondary control bar
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e5d6abe8-0ae9-4ccd-b311-5895e09310b2
 ---
 # Secondary control bar{#secondary-control-bar}

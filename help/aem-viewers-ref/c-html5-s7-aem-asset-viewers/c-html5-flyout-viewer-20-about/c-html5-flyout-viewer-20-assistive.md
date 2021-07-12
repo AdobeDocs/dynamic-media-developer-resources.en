@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Assistive technology support
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout,Accessibility
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 0f96939b-0ecc-4d4d-a084-60b023b2a5f2
 ---
 # Assistive technology support{#assistive-technology-support}

@@ -3,7 +3,7 @@ description: Catalog attribute files recognize these common thumbnail attributes
 solution: Experience Manager
 title: Common thumbnail attributes
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 1289f251-61f0-4355-9dd2-f9b0690e355c
 ---
 # Common thumbnail attributes{#common-thumbnail-attributes}

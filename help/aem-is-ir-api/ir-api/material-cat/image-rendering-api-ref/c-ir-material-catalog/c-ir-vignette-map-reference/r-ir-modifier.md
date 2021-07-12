@@ -3,7 +3,7 @@ description: Request modifier string. None or more Image Rendering commands sepa
 solution: Experience Manager
 title: Modifier
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 19b6dd5d-847d-46a2-8138-2b35d2e9b930
 ---
 # Modifier{#modifier}

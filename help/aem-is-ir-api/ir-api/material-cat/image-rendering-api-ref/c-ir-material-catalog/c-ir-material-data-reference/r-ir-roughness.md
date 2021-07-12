@@ -3,7 +3,7 @@ description: Surface roughness. Specifies the relative glossiness of the materia
 solution: Experience Manager
 title: Roughness
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 61d956ec-62dd-4879-877e-2ac422396e2e
 ---
 # Roughness{#roughness}

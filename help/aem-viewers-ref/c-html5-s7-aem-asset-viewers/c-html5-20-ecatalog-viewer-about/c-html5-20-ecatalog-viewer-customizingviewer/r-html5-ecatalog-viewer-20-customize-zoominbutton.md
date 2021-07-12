@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Zoom in button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 6eda6e0f-f588-43b9-b135-3b78fc40b8b3
 ---
 # Zoom in button{#zoom-in-button}

@@ -3,7 +3,7 @@ description: Transforms are applied to source images and text layers.
 solution: Experience Manager
 title: Layer transforms
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 5758d07c-bb84-4ab1-bf77-f59cf93f5e90
 ---
 # Layer transforms{#layer-transforms}

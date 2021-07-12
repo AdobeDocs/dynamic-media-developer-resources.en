@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Search effect
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 3591edb0-4b0a-4761-af87-c372132c5138
 ---
 # Search effect{#search-effect}

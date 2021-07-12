@@ -3,7 +3,7 @@ description: Use this procedure when upgrading Dynamic Media Image Serving on Li
 solution: Experience Manager
 title: Updating from IS 4.7.4 or later
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 54733fcc-c4e3-4501-8a3d-000778678bdb
 ---
 # Updating from IS 4.7.4 or later{#updating-from-is-or-later}

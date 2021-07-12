@@ -3,7 +3,7 @@ description: JavaScript API reference for Interactive Video Viewer
 solution: Experience Manager
 title: setHandlers
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ece8d2ba-30ef-4616-81a6-6028e5f3c66f
 ---
 # setHandlers{#sethandlers}

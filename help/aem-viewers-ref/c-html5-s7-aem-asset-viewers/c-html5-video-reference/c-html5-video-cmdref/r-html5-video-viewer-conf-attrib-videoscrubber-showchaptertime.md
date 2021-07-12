@@ -6,7 +6,7 @@ solution: Experience Manager
 title: VideoScrubber.showchaptertime
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 60d36054-7b60-4ab1-8220-b183390e5d84
 ---
 # VideoScrubber.showchaptertime{#videoscrubber-showchaptertime}

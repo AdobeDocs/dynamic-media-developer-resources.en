@@ -3,7 +3,7 @@ description: Digimarc image info. Enables Digimarc embedding and specifies the t
 solution: Experience Manager
 title: DigimarcInfo
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 87f4d8f0-02b9-4511-9151-89c58116c78d
 ---
 # DigimarcInfo{#digimarcinfo}

@@ -3,7 +3,7 @@ description: Multi-bit rate data.
 solution: Experience Manager
 title: mbrSet
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 0568a4a1-7d6a-453e-83bc-05c0cde0c0f8
 ---
 # mbrSet{#mbrset}

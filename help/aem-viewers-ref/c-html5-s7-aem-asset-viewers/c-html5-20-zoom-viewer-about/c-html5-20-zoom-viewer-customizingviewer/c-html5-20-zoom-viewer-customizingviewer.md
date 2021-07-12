@@ -7,7 +7,7 @@ solution: Experience Manager
 title: Customizing Zoom Viewer
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 336bf68c-6110-4ce8-85b4-28d7397044c2
 ---
 # Customizing Zoom Viewer{#customizing-zoom-viewer}

@@ -4,7 +4,7 @@ solution: Experience Manager
 title: ImageMapEffect.rollover
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 3d5eb17d-668a-4ad8-9f84-5684941d450d
 ---
 # ImageMapEffect.rollover{#imagemapeffect-rollover}

@@ -3,7 +3,7 @@ description: Use the following to contact technical support.
 solution: Experience Manager
 title: Technical support
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 14d0c190-5b12-43d4-9e88-09f47b17d85e
 ---
 # Technical support{#technical-support}

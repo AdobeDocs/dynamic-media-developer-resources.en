@@ -4,7 +4,7 @@ solution: Experience Manager
 title: EmailShare.emailurl
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 074b8a74-9df9-4f0b-9196-a61783dda14b
 ---
 # EmailShare.emailurl{#emailshare-emailurl}

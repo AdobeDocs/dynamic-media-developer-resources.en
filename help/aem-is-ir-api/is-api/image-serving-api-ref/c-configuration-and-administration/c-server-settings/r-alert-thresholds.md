@@ -3,7 +3,7 @@ description: Use these server settings to configure alert thresholds.
 solution: Experience Manager
 title: Alert thresholds
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: 1ae76692-2688-4902-82a0-d0751408eee7
 ---
 # Alert thresholds{#alert-thresholds}

@@ -3,7 +3,7 @@ description: Mask file path. Relative or absolute path and name for a mask image
 solution: Experience Manager
 title: MaskPath
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: b67e0b62-d2cc-4b05-bd09-65b206466df5
 ---
 # MaskPath{#maskpath}

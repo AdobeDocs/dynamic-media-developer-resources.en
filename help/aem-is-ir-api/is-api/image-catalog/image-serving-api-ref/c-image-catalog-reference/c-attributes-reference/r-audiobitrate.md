@@ -3,7 +3,7 @@ description: Audio bit rate. Long value that represents the audio bit rate for t
 solution: Experience Manager
 title: AudioBitRate
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 7aa411e9-3f26-4f2a-b908-546993adf743
 ---
 # AudioBitRate{#audiobitrate}

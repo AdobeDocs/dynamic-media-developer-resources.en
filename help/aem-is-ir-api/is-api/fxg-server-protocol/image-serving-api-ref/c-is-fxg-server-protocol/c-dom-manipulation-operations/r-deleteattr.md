@@ -3,7 +3,7 @@ description: Delete any attribute for a given s7 elementID.
 solution: Experience Manager
 title: deleteAttr
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 7cecd0aa-c928-4652-a92f-f21ebcf83304
 ---
 # deleteAttr{#deleteattr}

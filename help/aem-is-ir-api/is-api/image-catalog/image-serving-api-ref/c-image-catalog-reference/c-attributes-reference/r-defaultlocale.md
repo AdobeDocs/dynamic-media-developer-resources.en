@@ -3,7 +3,7 @@ description: Default locale ID. Locale ID to be used for localization/translatio
 solution: Experience Manager
 title: DefaultLocale
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: a7f40099-c89c-4653-aa50-f0475257a82b
 ---
 # DefaultLocale{#defaultlocale}

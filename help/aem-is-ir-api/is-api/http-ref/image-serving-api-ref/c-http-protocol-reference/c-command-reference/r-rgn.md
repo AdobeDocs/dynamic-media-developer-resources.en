@@ -3,7 +3,7 @@ description: Region-of-interest. Specifies a rectangular region-of-interest (ROI
 solution: Experience Manager
 title: rgn
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 4fa597ba-f949-47f2-bb0f-5c078b5c7524
 ---
 # rgn{#rgn}

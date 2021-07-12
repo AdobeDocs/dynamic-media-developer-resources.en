@@ -3,7 +3,7 @@ description: Reply image width. Specifies scaling of the rendered image so that 
 solution: Experience Manager
 title: wid
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: a77b71c3-8600-4d7a-ba52-e158cf9668eb
 ---
 # wid{#wid}

@@ -3,7 +3,7 @@ description: Response data properties. Evaluates the current request as if it we
 solution: Experience Manager
 title: props
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 9933d1dc-ae16-4d17-80ca-a1068cd73b0c
 ---
 # props{#props}

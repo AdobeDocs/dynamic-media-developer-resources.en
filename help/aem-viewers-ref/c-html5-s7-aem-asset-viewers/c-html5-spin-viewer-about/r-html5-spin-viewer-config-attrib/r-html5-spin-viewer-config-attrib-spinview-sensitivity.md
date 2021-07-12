@@ -4,7 +4,7 @@ solution: Experience Manager
 title: SpinView.sensitivity
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 256cffae-d284-4f46-a2dc-4618ea7eda57
 ---
 # SpinView.sensitivity{#spinview-sensitivity}

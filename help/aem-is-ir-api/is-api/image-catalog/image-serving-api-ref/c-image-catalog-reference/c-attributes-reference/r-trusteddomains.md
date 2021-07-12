@@ -3,7 +3,7 @@ description: Flash application web domains. Adobe Flash applications may require
 solution: Experience Manager
 title: TrustedDomains
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 925ac9d1-203c-4814-a701-71060bf47c20
 ---
 # TrustedDomains{#trusteddomains}

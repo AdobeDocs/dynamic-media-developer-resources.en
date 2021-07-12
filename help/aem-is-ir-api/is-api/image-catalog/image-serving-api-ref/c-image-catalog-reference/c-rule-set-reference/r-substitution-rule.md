@@ -3,7 +3,7 @@ description: Substitution string element. Optional in <rule> elements.
 solution: Experience Manager
 title: substitution
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: d0f1c558-b745-41dc-bf65-1bf1fdcb88d3
 ---
 # substitution{#substitution}

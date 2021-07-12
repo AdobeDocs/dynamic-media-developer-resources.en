@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Javascript API reference for eCatalog Viewer
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e7c1575f-a3f0-478d-8cc2-9bace5eb6106
 ---
 # Javascript API reference for eCatalog Viewer{#javascript-api-reference-for-ecatalog-viewer}

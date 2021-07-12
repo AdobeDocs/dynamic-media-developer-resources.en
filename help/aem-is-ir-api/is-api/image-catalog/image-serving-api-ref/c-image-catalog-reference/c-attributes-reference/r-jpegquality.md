@@ -3,7 +3,7 @@ description: Default JPEG encoding attributes. Specifies the default attributes 
 solution: Experience Manager
 title: JpegQuality
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c2a7f7f9-0c2c-4421-9dbc-d5c1e936f0f1
 ---
 # JpegQuality{#jpegquality}

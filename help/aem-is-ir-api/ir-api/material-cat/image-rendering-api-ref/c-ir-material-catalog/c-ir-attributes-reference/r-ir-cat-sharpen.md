@@ -3,7 +3,7 @@ description: Default reply image sharpening. Specifies whether to sharpen reply 
 solution: Experience Manager
 title: Sharpen
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 9a540b86-4d00-47db-8a1d-1d2b186ce87b
 ---
 # Sharpen{#sharpen}

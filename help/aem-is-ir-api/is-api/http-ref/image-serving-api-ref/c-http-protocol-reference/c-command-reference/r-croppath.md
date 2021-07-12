@@ -3,7 +3,7 @@ description: Lets you crop to the bounding box of an embedded named path. This c
 solution: Experience Manager
 title: cropPathE
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 78e9f994-d638-49a7-ac42-3146e47210e3
 ---
 # cropPathE{#croppathe}

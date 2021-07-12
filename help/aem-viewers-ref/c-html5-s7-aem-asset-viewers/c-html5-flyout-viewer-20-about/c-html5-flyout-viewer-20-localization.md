@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Localization of user interface elements
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 57941e90-1462-43e6-80db-6b111e004f9b
 ---
 # Localization of user interface elements{#localization-of-user-interface-elements}

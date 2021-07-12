@@ -3,7 +3,7 @@ description: List of paths, delimited by semi-colons, serve as roots for all dat
 solution: Experience Manager
 title: Resource root folders (ir.resourceRootPaths)
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: 49fd45da-1af9-4016-8fc6-6ec17b7e553b
 ---
 # Resource root folders (ir.resourceRootPaths){#resource-root-folders-ir-resourcerootpaths}

@@ -3,7 +3,7 @@ description: Catalog data files can have any name and file suffix (except .ini).
 solution: Experience Manager
 title: Catalog data files
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 4aa20abe-4f84-470b-b5a1-3d9246ab1792
 ---
 # Catalog data files{#catalog-data-files}

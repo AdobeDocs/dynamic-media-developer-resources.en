@@ -3,7 +3,7 @@ description: Pixel Coordinates. Used to specify image coordinates, such as image
 solution: Experience Manager
 title: coord
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 12ca4002-a540-4eb9-bb11-824d7cb41d30
 ---
 # coord{#coord}

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: FavoritesView.iscommand
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 114cc5b7-32b9-4d16-ab93-a66f3ec666e0
 ---
 # FavoritesView.iscommand{#favoritesview-iscommand}

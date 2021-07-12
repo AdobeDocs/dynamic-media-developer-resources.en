@@ -3,7 +3,7 @@ description: Rotate image. Rotates the image, text, or solid color layer by the 
 solution: Experience Manager
 title: rotate
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 9f1b2d6f-4e67-4530-9ec6-870b97687ce0
 ---
 # rotate{#rotate}

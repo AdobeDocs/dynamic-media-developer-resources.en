@@ -4,7 +4,7 @@ solution: Experience Manager
 title: Search button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ede7d887-526b-4e00-9885-166dc37627aa
 ---
 # Search button{#search-button}

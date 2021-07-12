@@ -3,7 +3,7 @@ description: Pick selection error handling. Specifies the action to be taken if 
 solution: Experience Manager
 title: OnFailSel
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: d5485569-def8-4e16-9f0e-7dd30d38439d
 ---
 # OnFailSel{#onfailsel}

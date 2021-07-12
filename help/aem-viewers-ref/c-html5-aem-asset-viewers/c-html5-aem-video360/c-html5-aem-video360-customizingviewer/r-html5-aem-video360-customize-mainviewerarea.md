@@ -3,7 +3,7 @@ description: The main view area is the area occupied by the 360 video. It is usu
 solution: Experience Manager
 title: Main viewer area
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 912cb4b3-6409-48ed-9b9c-968b63718a1b
 ---
 # Main viewer area{#main-viewer-area}

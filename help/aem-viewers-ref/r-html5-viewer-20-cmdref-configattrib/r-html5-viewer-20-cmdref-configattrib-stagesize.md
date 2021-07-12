@@ -4,7 +4,7 @@ solution: Experience Manager
 title: stageSize
 
 feature: Dynamic Media Classic,Viewers,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 3f93b479-f5da-47a0-b80c-c23c1460e8e1
 ---
 # stageSize{#stagesize}

@@ -4,7 +4,7 @@ solution: Experience Manager
 title: ImageMapEffect.mode
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 3772ff80-3a51-4dd9-85a7-12242518080c
 ---
 # ImageMapEffect.mode{#imagemapeffect-mode}

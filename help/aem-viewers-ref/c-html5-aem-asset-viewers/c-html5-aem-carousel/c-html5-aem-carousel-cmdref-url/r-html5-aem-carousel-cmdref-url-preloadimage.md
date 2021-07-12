@@ -3,7 +3,7 @@ description: URL command for Carousel Viewer.
 solution: Experience Manager
 title: preloadimage**
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: d4cfd11d-9bd3-4133-ae28-c375b6b3c2ab
 ---
 # preloadimage**{#preloadimage}

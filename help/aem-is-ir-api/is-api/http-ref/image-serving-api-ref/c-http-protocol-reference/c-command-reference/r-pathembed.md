@@ -3,7 +3,7 @@ description: Embed paths data. Specifies whether Photoshop paths from the layer 
 solution: Experience Manager
 title: pathEmbed
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: a3b305eb-0313-4c58-bd47-4f87e09d0e0b
 ---
 # pathEmbed{#pathembed}

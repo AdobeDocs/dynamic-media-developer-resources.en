@@ -6,7 +6,7 @@ solution: Experience Manager
 title: VideoPlayer.waiticon
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 1adc823a-07d6-447f-9560-c737d3963eb9
 ---
 # VideoPlayer.waiticon{#videoplayer-waiticon}

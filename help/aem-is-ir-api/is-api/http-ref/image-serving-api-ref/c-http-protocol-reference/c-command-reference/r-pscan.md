@@ -3,7 +3,7 @@ description: Progressive JPEG scan. Progressive JPEG displays an image in such a
 solution: Experience Manager
 title: pscan
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 1afd3a60-e0b6-47d1-b7e4-98a3145782a2
 ---
 # pscan{#pscan}

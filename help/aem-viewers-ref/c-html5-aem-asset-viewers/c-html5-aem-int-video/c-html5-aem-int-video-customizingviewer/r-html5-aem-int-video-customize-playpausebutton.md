@@ -3,7 +3,7 @@ description: The play/pause button causes the video player to play or pause the 
 solution: Experience Manager
 title: Play/Pause button
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: bbf34037-b571-4dc9-be52-070aef014c31
 ---
 # Play/Pause button{#play-pause-button}

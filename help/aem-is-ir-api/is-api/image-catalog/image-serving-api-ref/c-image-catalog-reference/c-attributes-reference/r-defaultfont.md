@@ -3,7 +3,7 @@ description: Default font face name. Specifies which font should be used if no f
 solution: Experience Manager
 title: DefaultFont
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 6ca7f540-a01a-483d-99b7-50e2915861cf
 ---
 # DefaultFont{#defaultfont}

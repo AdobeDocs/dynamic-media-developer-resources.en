@@ -3,7 +3,7 @@ description: Image mask. Specifies a separate mask image to be used as an unasso
 solution: Experience Manager
 title: mask
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 5785844b-945b-4dd0-ac59-efbf1360b7cd
 ---
 # mask{#mask}

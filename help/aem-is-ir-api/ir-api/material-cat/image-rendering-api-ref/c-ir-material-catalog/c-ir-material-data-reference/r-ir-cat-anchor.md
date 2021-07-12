@@ -3,7 +3,7 @@ description: Image anchor. Specifies the anchor point (hotspot) of a repeatable 
 solution: Experience Manager
 title: Anchor
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 1336330e-86e5-418d-bea3-0c09368e3528
 ---
 # Anchor{#anchor}

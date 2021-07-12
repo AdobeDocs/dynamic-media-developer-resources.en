@@ -6,7 +6,7 @@ solution: Experience Manager
 title: init
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 9e83b773-c059-45c6-a249-ef0ed2799a05
 ---
 # init{#init}

@@ -3,7 +3,7 @@ description: Surface glossiness Specifies the relative glossiness of the materia
 solution: Experience Manager
 title: Gloss
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 72c5d2f9-a7e6-4ad3-aebe-6a1b1fa5453f
 ---
 # Gloss{#gloss}

@@ -4,7 +4,7 @@ solution: Experience Manager
 title: Swatches.iscommand
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: b5b0acab-4e11-4f6a-8cb1-be6d683d7384
 ---
 # Swatches.iscommand{#swatches-iscommand}

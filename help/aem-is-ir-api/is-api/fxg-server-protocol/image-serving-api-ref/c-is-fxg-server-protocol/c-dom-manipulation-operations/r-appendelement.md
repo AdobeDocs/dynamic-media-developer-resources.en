@@ -3,7 +3,7 @@ description: Append XML to a s7 elementID.
 solution: Experience Manager
 title: appendElement
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: f93bc31e-c0ae-4375-bb6a-eba6f11945b2
 ---
 # appendElement{#appendelement}

@@ -3,7 +3,7 @@ description: Inverted Layer Clip Path. Specifies an exclusion clip path for the 
 solution: Experience Manager
 title: clipXPath
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 7d7e92f5-856f-4d62-a5d3-4726d7b43792
 ---
 # clipXPath{#clipxpath}

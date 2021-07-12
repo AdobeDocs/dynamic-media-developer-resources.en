@@ -6,7 +6,7 @@ solution: Experience Manager
 title: VideoPlayer.loop
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 4945291d-0906-4f2d-b8d9-0bf542dc6804
 ---
 # VideoPlayer.loop{#videoplayer-loop}

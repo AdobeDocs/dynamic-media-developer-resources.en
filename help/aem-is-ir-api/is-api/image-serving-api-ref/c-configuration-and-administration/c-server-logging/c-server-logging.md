@@ -3,7 +3,7 @@ description: All log files are written to the same log folder specified with TC 
 solution: Experience Manager
 title: Server logging
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: 5be30dd6-e540-4189-9379-7465ac7198ce
 ---
 # Server logging{#server-logging}

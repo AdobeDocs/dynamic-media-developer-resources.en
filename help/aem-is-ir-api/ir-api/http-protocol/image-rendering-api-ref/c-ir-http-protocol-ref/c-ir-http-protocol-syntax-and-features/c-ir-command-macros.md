@@ -3,7 +3,7 @@ description: Command macros provide named shortcuts for sets of commands.
 solution: Experience Manager
 title: Command macros *
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 00f6d27e-9f6b-4eea-8f42-833fbc0f1c38
 ---
 # Command macros *{#command-macros}

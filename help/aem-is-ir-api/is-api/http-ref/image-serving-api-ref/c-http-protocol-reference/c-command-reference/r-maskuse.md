@@ -3,7 +3,7 @@ description: Image mask usage. Specifies how the mask or alpha channel of the im
 solution: Experience Manager
 title: maskUse
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e99101a1-1747-454c-b0c0-3af3335c0497
 ---
 # maskUse{#maskuse}

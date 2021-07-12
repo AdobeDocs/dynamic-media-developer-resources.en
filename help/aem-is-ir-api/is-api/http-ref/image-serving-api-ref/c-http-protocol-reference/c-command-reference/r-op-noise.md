@@ -3,7 +3,7 @@ description: Add noise. Adds random noise to the foreground image data, or to th
 solution: Experience Manager
 title: op_noise
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: eeadd3ab-80ff-4f9b-b5b7-4f3da6feebde
 ---
 # op_noise{#op-noise}

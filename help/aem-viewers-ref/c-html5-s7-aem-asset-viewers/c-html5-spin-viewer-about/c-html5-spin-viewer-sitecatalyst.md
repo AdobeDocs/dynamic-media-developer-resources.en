@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Support for Adobe Analytics tracking
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
-role: Developer,Business Practitioner,Data Engineer,Data Architect
+role: Developer,User,Data Engineer,Data Architect
 exl-id: 30762700-6d69-4299-9492-57893232abe1
 ---
 # Support for Adobe Analytics tracking{#support-for-adobe-analytics-tracking}

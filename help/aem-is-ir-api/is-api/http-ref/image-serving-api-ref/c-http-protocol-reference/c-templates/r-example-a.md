@@ -3,7 +3,7 @@ description: Create a fixed-size template with a static background image, a vari
 solution: Experience Manager
 title: Example A
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 7f731b41-994d-4f1d-b42d-e14db47e4d6c
 ---
 # Example A{#example-a}

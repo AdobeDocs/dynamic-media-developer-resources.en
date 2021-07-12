@@ -4,7 +4,7 @@ description: System requirements for Dynamic Media HTML5 viewers.
 solution: Experience Manager
 contentOwner: Rick Brough
 feature: Dynamic Media Classic,Viewers,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e4543358-92a6-4acc-a8a2-227e1daea722
 ---
 # Dynamic Media HTML5 viewers system requirements{#system-requirements}

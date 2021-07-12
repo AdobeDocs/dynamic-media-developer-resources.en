@@ -3,7 +3,7 @@ description: Watermark selector. Specifies the catalog Id of the catalog record 
 solution: Experience Manager
 title: Watermark
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 54c27ea0-e87f-41ce-ae8d-71c9fabe412e
 ---
 # Watermark{#watermark}

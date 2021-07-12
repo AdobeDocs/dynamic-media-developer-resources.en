@@ -4,7 +4,7 @@ solution: Experience Manager
 title: SearchPanel.align
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 772b2789-4152-4320-893d-efc39689424b
 ---
 # SearchPanel.align{#searchpanel-align}

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Spin view
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: d3274fe3-1a47-448e-acc6-6df77c6a4211
 ---
 # Spin view{#spin-view}

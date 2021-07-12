@@ -3,7 +3,7 @@ description: Blackpoint compensation. Specifies whether blackpoint compensation 
 solution: Experience Manager
 title: IccBlackPointCompensation
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 9d075434-5ef0-4b6a-ad24-1ef9c57e3e47
 ---
 # IccBlackPointCompensation{#iccblackpointcompensation}

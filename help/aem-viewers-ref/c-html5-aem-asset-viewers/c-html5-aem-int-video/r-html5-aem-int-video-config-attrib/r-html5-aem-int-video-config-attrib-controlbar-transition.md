@@ -3,7 +3,7 @@ description: Configuration attribute for Interactive Video Viewer.
 solution: Experience Manager
 title: ControlBar.transition
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: a8bb32b4-0fd9-4887-98ef-31c3426092b6
 ---
 # ControlBar.transition{#controlbar-transition}

@@ -3,7 +3,7 @@ description: The social share tool appears in the top right corner by default. I
 solution: Experience Manager
 title: Social share
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ad544a12-d2a4-45c9-9e76-e0bf96901725
 ---
 # Social share{#social-share}

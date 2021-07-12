@@ -3,7 +3,7 @@ description: Horizontal alignment for thumbnails. Specifies the horizontal align
 solution: Experience Manager
 title: ThumbHorizAlign
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 9a51f92a-ffb9-4460-a910-9f2fefe3eae5
 ---
 # ThumbHorizAlign{#thumbhorizalign}

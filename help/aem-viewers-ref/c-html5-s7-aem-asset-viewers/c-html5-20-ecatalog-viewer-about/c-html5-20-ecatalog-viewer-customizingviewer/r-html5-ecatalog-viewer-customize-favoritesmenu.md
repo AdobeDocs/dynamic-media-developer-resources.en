@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Favorites menu
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e3c90320-b6fc-4a43-b75f-d39234b1e73c
 ---
 # Favorites menu{#favorites-menu}

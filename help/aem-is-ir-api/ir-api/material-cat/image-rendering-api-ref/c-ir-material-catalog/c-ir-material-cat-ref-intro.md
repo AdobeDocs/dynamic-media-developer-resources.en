@@ -3,7 +3,7 @@ description: This document describes the material catalog for Dynamic Media Imag
 solution: Experience Manager
 title: Introduction
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 1cdb9c45-329d-44df-92c3-8cba5b2b1339
 ---
 # Introduction{#introduction}

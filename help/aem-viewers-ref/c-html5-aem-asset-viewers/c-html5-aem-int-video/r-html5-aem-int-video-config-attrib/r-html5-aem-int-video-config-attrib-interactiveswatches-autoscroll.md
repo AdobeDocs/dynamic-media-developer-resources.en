@@ -3,7 +3,7 @@ description: Configuration attribute for Interactive Video Viewer.
 solution: Experience Manager
 title: InteractiveSwatches.autoscroll
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 5a7272fe-e753-44cd-aaf0-0811a2662279
 ---
 # InteractiveSwatches.autoscroll{#interactiveswatches-autoscroll}

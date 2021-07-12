@@ -3,7 +3,7 @@ description: Submit a new batch job.
 solution: Experience Manager
 title: batchjobsubmit
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 4ab2f6e4-cd68-4f1e-ab54-6f5e9bfc87cb
 ---
 # batchjobsubmit{#batchjobsubmit}

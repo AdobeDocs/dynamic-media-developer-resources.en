@@ -3,7 +3,7 @@ description: Sharpen texture. Specifies the sharpening to be applied when render
 solution: Experience Manager
 title: sharp
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 7921ceba-e249-4aab-823e-c54705c4a7c3
 ---
 # sharp{#sharp}

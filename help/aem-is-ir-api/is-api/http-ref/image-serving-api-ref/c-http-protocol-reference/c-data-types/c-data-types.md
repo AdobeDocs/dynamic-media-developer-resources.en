@@ -3,7 +3,7 @@ description: This section described the variables used to specify data types.
 solution: Experience Manager
 title: Data types
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 9e6666bf-0b35-4ca2-a1e8-1fd2bf4cdcb1
 ---
 # Data types{#data-types}

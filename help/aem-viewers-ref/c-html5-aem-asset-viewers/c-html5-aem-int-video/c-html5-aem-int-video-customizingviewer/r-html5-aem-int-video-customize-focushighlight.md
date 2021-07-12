@@ -3,7 +3,7 @@ description: Input focus highlight displayed around focused viewer user interfac
 solution: Experience Manager
 title: Focus highlight
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: cb5231ed-106a-444f-aac7-06dd1a84a665
 ---
 # Focus highlight{#focus-highlight}

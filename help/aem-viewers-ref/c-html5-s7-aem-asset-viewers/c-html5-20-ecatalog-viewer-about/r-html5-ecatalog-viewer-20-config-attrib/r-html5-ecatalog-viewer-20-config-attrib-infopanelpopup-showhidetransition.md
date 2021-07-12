@@ -4,7 +4,7 @@ solution: Experience Manager
 title: InfoPanelPopup.showhidetransition
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 5f7ce5e7-7351-42e0-88ce-6783b5c2e507
 ---
 # InfoPanelPopup.showhidetransition{#infopanelpopup-showhidetransition}

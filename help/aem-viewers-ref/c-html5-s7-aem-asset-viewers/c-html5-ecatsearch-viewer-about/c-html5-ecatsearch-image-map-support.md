@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Image map support
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 58e7523f-1615-4da4-bb09-a995bf427bfc
 ---
 # Image map support{#image-map-support}

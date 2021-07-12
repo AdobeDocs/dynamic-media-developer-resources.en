@@ -3,7 +3,7 @@ description: Material surface roughness. Specifies the relative roughness of the
 solution: Experience Manager
 title: rough
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 8903b51c-c7d4-460f-8f28-00053eac9d6e
 ---
 # rough{#rough}

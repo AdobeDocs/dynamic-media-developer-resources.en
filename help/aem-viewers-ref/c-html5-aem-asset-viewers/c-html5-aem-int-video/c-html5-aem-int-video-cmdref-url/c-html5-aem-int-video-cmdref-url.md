@@ -3,7 +3,7 @@ description: Command reference documentation for Interactive Video Viewer.
 solution: Experience Manager
 title: Command reference – URL
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e0a9e269-4826-4518-9222-6a833d11746b
 ---
 # Command reference – URL{#command-reference-url}

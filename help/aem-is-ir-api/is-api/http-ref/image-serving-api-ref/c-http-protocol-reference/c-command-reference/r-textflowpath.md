@@ -3,7 +3,7 @@ description: Text flow area. Specifies one or more regions into which text speci
 solution: Experience Manager
 title: textFlowPath
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: b5575d17-150b-421c-b298-077b577eb95c
 ---
 # textFlowPath{#textflowpath}

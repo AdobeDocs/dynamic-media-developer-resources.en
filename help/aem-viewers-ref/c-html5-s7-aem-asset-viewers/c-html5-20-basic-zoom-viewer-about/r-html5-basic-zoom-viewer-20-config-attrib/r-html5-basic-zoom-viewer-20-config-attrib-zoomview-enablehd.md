@@ -4,7 +4,7 @@ solution: Experience Manager
 title: ZoomView.enableHD
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 321ca7e2-e3f9-4b0e-8bde-41d8478e1a0b
 ---
 # ZoomView.enableHD{#zoomview-enablehd}

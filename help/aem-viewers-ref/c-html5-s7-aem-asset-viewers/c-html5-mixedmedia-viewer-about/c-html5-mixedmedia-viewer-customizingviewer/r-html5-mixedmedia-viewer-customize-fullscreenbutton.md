@@ -3,7 +3,7 @@ description: This button causes the viewer to enter or exit full screen mode whe
 solution: Experience Manager
 title: Full screen button
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 1df99614-9493-4c8a-bc51-4426b8c5467a
 ---
 # Full screen button{#full-screen-button}

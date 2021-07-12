@@ -3,7 +3,7 @@ description: The following fields are supported for static (non-image) content c
 solution: Experience Manager
 title: Static contents data
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: df47cbb2-0ed6-4fbd-988e-be5b7a7ad657
 ---
 # Static contents data{#static-contents-data}

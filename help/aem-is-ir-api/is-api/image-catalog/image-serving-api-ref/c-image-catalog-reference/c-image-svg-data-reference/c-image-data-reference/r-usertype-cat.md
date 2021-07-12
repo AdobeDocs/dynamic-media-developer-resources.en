@@ -3,7 +3,7 @@ description: Static content user type. Allows assigning a user-specified type to
 solution: Experience Manager
 title: UserType
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: a97837be-ffc3-4759-8167-81a24dd54947
 ---
 # UserType{#usertype}

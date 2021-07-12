@@ -3,7 +3,7 @@ description: URL command for Interactive Video Viewer.
 solution: Experience Manager
 title: interactivedata
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: f9f5aa7a-3e0a-434a-8623-b439c9b6f18b
 ---
 # interactivedata{#interactivedata}

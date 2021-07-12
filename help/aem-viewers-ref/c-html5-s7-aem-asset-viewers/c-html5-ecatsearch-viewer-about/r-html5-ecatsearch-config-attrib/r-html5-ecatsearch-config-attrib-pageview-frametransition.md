@@ -4,7 +4,7 @@ solution: Experience Manager
 title: PageView.frametransition
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 19239fa8-65a8-487f-9370-42bb93d862d5
 ---
 # PageView.frametransition{#pageview-frametransition}

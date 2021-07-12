@@ -4,7 +4,7 @@ solution: Experience Manager
 title: FlyoutZoomView.imagereload
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 483fa64b-5196-4477-8ea6-0f32c6557f72
 ---
 # FlyoutZoomView.imagereload{#flyoutzoomview-imagereload}

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Video scrubber
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 404e39d4-565e-4dde-b2bd-fa83a895d001
 ---
 # Video scrubber{#video-scrubber}

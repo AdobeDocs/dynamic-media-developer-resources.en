@@ -3,7 +3,7 @@ description: Grayscale default output color profile. Specifies the name of the I
 solution: Experience Manager
 title: IccProfileGray
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 4964c3b3-799d-40cb-bc5f-d08acfd41ed9
 ---
 # IccProfileGray{#iccprofilegray}

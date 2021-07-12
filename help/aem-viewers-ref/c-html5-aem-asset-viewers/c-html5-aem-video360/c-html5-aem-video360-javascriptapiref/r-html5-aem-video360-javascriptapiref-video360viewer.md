@@ -3,7 +3,7 @@ description: JavaScript API reference for Video360 Viewer.
 solution: Experience Manager
 title: Video360Viewer
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ab22ff22-45a7-490e-932d-7c885ff5c3a9
 ---
 # Video360Viewer{#video-viewer}

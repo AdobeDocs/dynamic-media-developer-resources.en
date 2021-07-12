@@ -4,7 +4,7 @@ solution: Experience Manager
 title: portraitFrames
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 050388f8-45a9-4f09-a957-f94bead17eca
 ---
 # portraitFrames{#portraitframes}

@@ -3,7 +3,7 @@ description: The Vignette Authoring Tool (part of the Dynamic Media Image Author
 solution: Experience Manager
 title: Advanced Render settings
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 0ad8f4b4-dd9c-43f5-aacc-67a564e34d92
 ---
 # Advanced Render settings{#advanced-render-settings}

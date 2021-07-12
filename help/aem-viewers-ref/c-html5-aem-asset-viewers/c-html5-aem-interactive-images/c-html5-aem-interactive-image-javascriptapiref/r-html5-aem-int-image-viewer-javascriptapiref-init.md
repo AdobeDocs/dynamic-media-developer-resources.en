@@ -3,7 +3,7 @@ description: JavaScript API reference for Interactive Image Viewer.
 solution: Experience Manager
 title: init
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 675031ab-21bb-49a5-abbc-eca8d2619e49
 ---
 # init{#init}

@@ -3,7 +3,7 @@ description: The play icon is overlaid on the video view area. It displays when 
 solution: Experience Manager
 title: Video player icon effect
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 1e0bd97f-20e9-41e6-95fc-d693644152da
 ---
 # Video player icon effect{#video-player-icon-effect}

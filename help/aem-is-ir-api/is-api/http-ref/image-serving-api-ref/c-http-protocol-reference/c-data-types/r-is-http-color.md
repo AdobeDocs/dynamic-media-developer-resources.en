@@ -3,7 +3,7 @@ description: Color Values. You can specify color values using either hexadecimal
 solution: Experience Manager
 title: color
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: eba88ff0-877d-432e-bbd6-9172f5b460e9
 ---
 # color{#color}

@@ -3,7 +3,7 @@ description: Text-on-path attributes.
 solution: Experience Manager
 title: pathAttr
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: fdf9274a-70d0-4692-a7a9-c108abb9ab84
 ---
 # pathAttr{#pathattr}

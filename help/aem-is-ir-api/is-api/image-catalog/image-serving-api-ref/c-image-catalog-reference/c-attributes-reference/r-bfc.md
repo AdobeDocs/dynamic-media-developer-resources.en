@@ -3,7 +3,7 @@ description: Browser Format Conversion. Specifies whether browser format convers
 solution: Experience Manager
 title: Bfc
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 407d36ae-ea45-4580-9ca2-16d073d1edad
 ---
 # Bfc{#bfc}

@@ -3,7 +3,7 @@ description: JavaScript API reference for Mixed Media Viewer.
 solution: Experience Manager
 title: setAsset
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 3ad78de9-17a6-40c9-b389-a1f7eed11635
 ---
 # setAsset{#setasset}

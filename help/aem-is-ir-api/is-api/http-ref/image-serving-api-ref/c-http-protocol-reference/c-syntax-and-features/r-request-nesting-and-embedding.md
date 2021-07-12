@@ -3,7 +3,7 @@ description: Image Serving supports unlimited nesting of Image Serving requests,
 solution: Experience Manager
 title: Request nesting and embedding
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: b9c9d241-5a3d-4637-a90a-d8cdf29cc968
 ---
 # Request nesting and embedding{#request-nesting-and-embedding}

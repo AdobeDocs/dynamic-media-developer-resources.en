@@ -4,7 +4,7 @@ solution: Experience Manager
 title: ZoomView.zoomstep
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ded8168e-08f7-4bc0-bb8a-624bac82759e
 ---
 # ZoomView.zoomstep{#zoomview-zoomstep}

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: JavaScript API reference for Inline Zoom Viewer
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 0bebc7a8-c98c-4c85-a1d6-fccecccd53e0
 ---
 # JavaScript API reference for Inline Zoom Viewer{#javascript-api-reference-for-inline-zoom-viewer}

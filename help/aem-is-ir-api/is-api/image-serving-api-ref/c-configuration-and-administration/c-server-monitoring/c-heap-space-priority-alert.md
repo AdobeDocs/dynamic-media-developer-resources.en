@@ -3,7 +3,7 @@ description: A priority alert is sent when the free Java heap space is below the
 solution: Experience Manager
 title: Heap space priority alert
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: 32951003-386f-4ea2-a5a0-f4d2e6d95ba5
 ---
 # Heap space priority alert{#heap-space-priority-alert}

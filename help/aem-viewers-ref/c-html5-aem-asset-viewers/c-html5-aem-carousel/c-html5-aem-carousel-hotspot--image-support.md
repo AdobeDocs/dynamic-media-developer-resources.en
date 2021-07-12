@@ -3,7 +3,7 @@ description: Hotspot and Image maps support
 solution: Experience Manager
 title: Hotspot and Image maps support
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: b441e241-809e-47cf-a309-57283bd0532b
 ---
 # Hotspot and Image maps support{#hotspot-and-image-maps-support}

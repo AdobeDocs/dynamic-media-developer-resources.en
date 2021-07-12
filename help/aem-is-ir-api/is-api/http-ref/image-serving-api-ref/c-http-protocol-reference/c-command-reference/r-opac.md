@@ -3,7 +3,7 @@ description: Adjust image opacity. Allows decreasing the foreground opacity of a
 solution: Experience Manager
 title: opac
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 38e0e1dc-46c0-48a4-b676-f7e6d262392f
 ---
 # opac{#opac}

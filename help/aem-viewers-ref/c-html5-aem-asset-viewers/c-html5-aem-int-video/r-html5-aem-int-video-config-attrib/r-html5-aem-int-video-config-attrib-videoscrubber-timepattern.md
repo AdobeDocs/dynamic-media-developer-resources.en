@@ -3,7 +3,7 @@ description: Configuration attribute for Interactive Video Viewer.
 solution: Experience Manager
 title: VideoScrubber.timepattern
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: d39ddf38-9157-412a-83a4-c1af4944a904
 ---
 # VideoScrubber.timepattern{#videoscrubber-timepattern}

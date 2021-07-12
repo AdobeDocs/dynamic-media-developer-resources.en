@@ -4,7 +4,7 @@ solution: Experience Manager
 title: PageView.singleclick
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 96896145-f8d9-4fee-abfe-7f9193776993
 ---
 # PageView.singleclick{#pageview-singleclick}

@@ -3,7 +3,7 @@ description: Color conversion dithering. Specifies whether dithering should be u
 solution: Experience Manager
 title: IccDither
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: bb1bec31-3f7c-48c8-9456-6359b739a657
 ---
 # IccDither{#iccdither}

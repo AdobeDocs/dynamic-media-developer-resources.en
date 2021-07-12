@@ -3,7 +3,7 @@ description: The spin indicator is overlaid on the spin view area. It is display
 solution: Experience Manager
 title: Spin view icon effect
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 1c5c73f9-c32a-4bca-93f0-c5a95756355b
 ---
 # Spin view icon effect{#spin-view-icon-effect}

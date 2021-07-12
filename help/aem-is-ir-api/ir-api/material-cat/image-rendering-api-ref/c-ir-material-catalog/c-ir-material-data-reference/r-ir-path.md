@@ -3,7 +3,7 @@ description: Image file path. Relative path and name of a texture or decal image
 solution: Experience Manager
 title: Path *
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 28758709-26ae-4261-b11e-34e37b9d1b8c
 ---
 # Path *{#path}

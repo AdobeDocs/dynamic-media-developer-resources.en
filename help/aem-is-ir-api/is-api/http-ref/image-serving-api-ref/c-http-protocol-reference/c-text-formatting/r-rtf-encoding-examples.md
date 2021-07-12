@@ -3,7 +3,7 @@ description: The following examples show a sample of text commands and how they 
 solution: Experience Manager
 title: RTF encoding examples
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 54c35aa7-aa8b-49af-a9ea-4bc704e4eebd
 ---
 # RTF encoding examples{#rtf-encoding-examples}

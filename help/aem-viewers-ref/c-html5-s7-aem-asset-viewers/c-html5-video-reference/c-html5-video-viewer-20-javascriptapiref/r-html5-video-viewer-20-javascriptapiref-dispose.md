@@ -6,7 +6,7 @@ solution: Experience Manager
 title: dispose
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c4bcccdc-6f23-4213-a1d1-03c5c62ba484
 ---
 # dispose{#dispose}

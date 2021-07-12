@@ -6,7 +6,7 @@ solution: Experience Manager
 title: setLocalizedTexts
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 4472ac64-fdab-4f80-985a-29ed8537d235
 ---
 # setLocalizedTexts{#setlocalizedtexts}

@@ -3,7 +3,7 @@ description: Default client cache time to live. Provides a default expiration in
 solution: Experience Manager
 title: Expiration
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c9dccf8d-56b3-4608-ac05-9c17babc609e
 ---
 # Expiration{#expiration}

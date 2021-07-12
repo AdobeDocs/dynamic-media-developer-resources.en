@@ -3,7 +3,7 @@ description: Parameter common to all viewers.
 solution: Experience Manager
 title: serverUrl
 feature: Dynamic Media Classic,Viewers,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c9da3d5b-492d-4e1f-8fdc-3255b2b40fc6
 ---
 # serverUrl{#serverurl}

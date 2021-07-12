@@ -3,7 +3,7 @@ description: This topic describes vntc usage syntax.
 solution: Experience Manager
 title: Usage
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: b892fe86-1b7c-4a49-a1cd-473f51d04d10
 ---
 # Usage{#usage}

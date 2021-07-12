@@ -4,7 +4,7 @@ solution: Experience Manager
 title: Swatches.buttonsnapmode
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 3be4a886-cc33-42f8-8f0a-e41d8dd5da33
 ---
 # Swatches.buttonsnapmode{#swatches-buttonsnapmode}

@@ -3,7 +3,7 @@ description: RGB default output color profile. Specifies the name of the ICC col
 solution: Experience Manager
 title: IccProfileRgb
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 861c7b54-6d18-47c8-a08d-970f29b63962
 ---
 # IccProfileRgb{#iccprofilergb}

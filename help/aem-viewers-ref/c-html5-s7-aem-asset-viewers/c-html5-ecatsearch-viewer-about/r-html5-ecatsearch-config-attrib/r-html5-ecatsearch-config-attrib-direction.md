@@ -4,7 +4,7 @@ solution: Experience Manager
 title: direction
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 0f78a835-9057-4c79-843a-52b33a1bdd3f
 ---
 # direction{#direction}

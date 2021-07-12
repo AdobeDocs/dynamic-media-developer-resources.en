@@ -4,7 +4,7 @@ solution: Experience Manager
 title: Swatches.buttonsnapmode
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 3d59bff0-8517-44c7-8c57-da806bb27e27
 ---
 # Swatches.buttonsnapmode{#swatches-buttonsnapmode}

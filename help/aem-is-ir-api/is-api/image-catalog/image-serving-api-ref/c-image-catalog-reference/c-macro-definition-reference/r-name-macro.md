@@ -3,7 +3,7 @@ description: Macro name.
 solution: Experience Manager
 title: Name
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 054dbbff-0989-4fa2-8a44-e6d3ee9e5ec9
 ---
 # Name{#name}

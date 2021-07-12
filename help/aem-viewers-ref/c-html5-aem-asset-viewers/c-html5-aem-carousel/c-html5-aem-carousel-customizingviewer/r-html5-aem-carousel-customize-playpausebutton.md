@@ -3,7 +3,7 @@ description: The Play/Pause button lets a user pause or resume carousel autoplay
 solution: Experience Manager
 title: PlayPause button
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 1b48aa7f-d1c8-4367-94c2-689991b90942
 ---
 # PlayPause button{#playpause-button}

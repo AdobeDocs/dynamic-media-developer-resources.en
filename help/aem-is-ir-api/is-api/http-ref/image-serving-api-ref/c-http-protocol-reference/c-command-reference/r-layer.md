@@ -3,7 +3,7 @@ description: Select Layer. Selects a layer and starts a new layer definition seg
 solution: Experience Manager
 title: layer
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: f1200d86-d88c-4990-ae36-2ce96ae94343
 ---
 # layer{#layer}

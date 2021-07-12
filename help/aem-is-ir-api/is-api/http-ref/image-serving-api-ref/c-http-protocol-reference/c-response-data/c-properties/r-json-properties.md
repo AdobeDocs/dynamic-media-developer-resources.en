@@ -3,7 +3,7 @@ description: If jsonp is specified as the response format, the reply data is for
 solution: Experience Manager
 title: JSONP properties
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 2294eb37-b362-438f-94bc-eb24ca641752
 ---
 # JSONP properties{#jsonp-properties}

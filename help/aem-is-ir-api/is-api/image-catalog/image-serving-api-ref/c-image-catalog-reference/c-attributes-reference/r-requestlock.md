@@ -3,7 +3,7 @@ description: Request locking mode. Specifies the type of request lock which must
 solution: Experience Manager
 title: RequestLock
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 7a2b2529-4e8f-44aa-800e-87bdd6fe2519
 ---
 # RequestLock{#requestlock}

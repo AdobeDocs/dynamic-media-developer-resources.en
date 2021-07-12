@@ -3,7 +3,7 @@ description: Set text node value for s7 elementID.
 solution: Experience Manager
 title: setVal
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 03ec2ffb-ad9a-4135-bc31-2d71284955f6
 ---
 # setVal{#setval}

@@ -4,7 +4,7 @@ solution: Experience Manager
 title: SpinView.lockdirection
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e29ba926-9e0e-4ddd-9f76-408f8ab3b4ca
 ---
 # SpinView.lockdirection{#spinview-lockdirection}

@@ -3,7 +3,7 @@ description: Hide overlap object. Hides all overlap objects or window coverings 
 solution: Experience Manager
 title: hide
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 70c96b62-d6bd-4f12-9ee8-abac5d97e876
 ---
 # hide{#hide}

@@ -3,7 +3,7 @@ description: Font metrics file path. Path and name of a font metrics file, inclu
 solution: Experience Manager
 title: MetricsPath
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 0f1f98a5-b53b-4e20-b4c8-e70482b01a04
 ---
 # MetricsPath{#metricspath}

@@ -3,7 +3,7 @@ description: After you install Image Serving on Linux, verify the installation.
 solution: Experience Manager
 title: Verifying the installation
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 273478ab-f245-48ef-a125-fb738054484e
 ---
 # Verifying the installation{#verifying-the-installation}

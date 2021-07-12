@@ -4,7 +4,7 @@ solution: Experience Manager
 title: ThumbnailGridView.fmt
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ff57762e-05f5-41c1-956f-39280941eeb1
 ---
 # ThumbnailGridView.fmt{#thumbnailgridview-fmt}

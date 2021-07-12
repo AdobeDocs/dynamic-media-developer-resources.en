@@ -3,7 +3,7 @@ description: Before using Dynamic Media Image Serving, make sure your system mee
 solution: Experience Manager
 title: System requirements and prerequisites
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ea2dfec9-0a42-4ccb-8442-6f7c4a39eda1
 ---
 # System requirements and prerequisites{#system-requirements-and-prerequisites}

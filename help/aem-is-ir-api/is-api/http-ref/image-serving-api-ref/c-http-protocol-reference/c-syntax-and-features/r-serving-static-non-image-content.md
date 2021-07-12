@@ -3,7 +3,7 @@ description: Serving static (non-image) content
 solution: Experience Manager
 title: Serving static (non-image) content
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e2c79bdc-5d70-46d9-85f4-ffebd7621944
 ---
 # Serving static (non-image) content{#serving-static-non-image-content}

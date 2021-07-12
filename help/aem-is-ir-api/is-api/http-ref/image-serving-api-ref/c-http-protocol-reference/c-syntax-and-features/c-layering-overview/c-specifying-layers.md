@@ -3,7 +3,7 @@ description: In the URL or catalog Modifier command sequence, a layer definition
 solution: Experience Manager
 title: Specifying layers
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: bedd5dac-7577-4c8a-9dc3-43aa4438e53a
 ---
 # Specifying layers{#specifying-layers}

@@ -3,7 +3,7 @@ description: Sharpen image. Applies a basic sharpening filter to the layer or to
 solution: Experience Manager
 title: op_sharpen
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 62e7d91c-935f-410f-a971-ffb3cfff31d6
 ---
 # op_sharpen{#op-sharpen}

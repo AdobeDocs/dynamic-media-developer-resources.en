@@ -3,7 +3,7 @@ description: HTTPS video delivery
 solution: Experience Manager
 title: HTTPS video delivery
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 68d37b5d-5015-4a98-84b8-8911ace327ed
 ---
 # HTTPS video delivery{#https-video-delivery}

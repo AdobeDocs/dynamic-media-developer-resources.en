@@ -4,7 +4,7 @@ solution: Experience Manager
 title: PageView.doubleclick
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: d53a8723-d710-4722-b1a7-c88d3b9d270b
 ---
 # PageView.doubleclick{#pageview-doubleclick}

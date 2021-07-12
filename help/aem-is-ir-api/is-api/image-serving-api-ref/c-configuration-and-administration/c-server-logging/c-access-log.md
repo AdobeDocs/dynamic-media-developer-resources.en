@@ -3,7 +3,7 @@ description: This is the primary log which keeps track of all HTTP requests made
 solution: Experience Manager
 title: Access log
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: e7f9d935-cb98-404c-8922-6420a4217733
 ---
 # Access log{#access-log}

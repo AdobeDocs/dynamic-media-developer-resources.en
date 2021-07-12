@@ -3,7 +3,7 @@ description: Contains settings for the monitoring/alerting system.
 solution: Experience Manager
 title: monitor.conf
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: 09c30680-dd9f-4744-b5ec-105721058883
 ---
 # monitor.conf{#monitor-conf}

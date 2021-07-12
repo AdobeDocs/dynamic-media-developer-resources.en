@@ -3,7 +3,7 @@ description: The full screen button causes the video player to enter or exit ful
 solution: Experience Manager
 title: Full screen button
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 0cb2b1bd-154e-41d8-bd9f-69a1cfc72902
 ---
 # Full screen button{#full-screen-button}

@@ -4,7 +4,7 @@ solution: Experience Manager
 title: VideoPlayer.posterimage
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: bcbba4c5-b758-4049-b4c2-f1c48cc2de7e
 ---
 # VideoPlayer.posterimage{#videoplayer-posterimage}

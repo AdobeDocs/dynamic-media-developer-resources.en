@@ -3,7 +3,7 @@ description: Catalog attributes and fields may contain data of one of the follow
 solution: Experience Manager
 title: Common data types
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 9af44474-0512-452a-af9e-48918e9da6ca
 ---
 # Common data types{#common-data-types}

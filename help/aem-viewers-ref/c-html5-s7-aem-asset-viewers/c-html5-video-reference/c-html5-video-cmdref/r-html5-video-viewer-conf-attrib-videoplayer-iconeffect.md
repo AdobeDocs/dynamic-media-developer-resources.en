@@ -6,7 +6,7 @@ solution: Experience Manager
 title: VideoPlayer.iconeffect
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: b283b495-ee28-4f9d-ad4d-b14ac2f9a1a2
 ---
 # VideoPlayer.iconeffect{#videoplayer-iconeffect}

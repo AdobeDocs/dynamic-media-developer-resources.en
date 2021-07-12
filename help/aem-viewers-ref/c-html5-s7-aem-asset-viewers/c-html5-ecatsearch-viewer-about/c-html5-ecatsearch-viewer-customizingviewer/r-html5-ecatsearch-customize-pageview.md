@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Page view
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: d98babad-96c7-419a-abf2-3b6657d550eb
 ---
 # Page view{#page-view}

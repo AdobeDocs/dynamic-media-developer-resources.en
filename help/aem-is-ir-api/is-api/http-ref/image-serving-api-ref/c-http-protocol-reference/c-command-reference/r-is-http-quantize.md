@@ -3,7 +3,7 @@ description: Color quantization. Specifies color-quantization attributes for GIF
 solution: Experience Manager
 title: quantize
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 71d59961-848e-4d78-875e-066e842ac1bf
 ---
 # quantize{#quantize}

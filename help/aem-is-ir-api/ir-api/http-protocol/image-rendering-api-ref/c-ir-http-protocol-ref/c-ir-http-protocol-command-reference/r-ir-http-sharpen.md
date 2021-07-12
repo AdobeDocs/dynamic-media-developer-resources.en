@@ -3,7 +3,7 @@ description: Sharpen reply image. Optional sharpening may be applied after the r
 solution: Experience Manager
 title: sharpen
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 0c831ea7-fc64-484d-b3a4-4cb713b5d873
 ---
 # sharpen{#sharpen}

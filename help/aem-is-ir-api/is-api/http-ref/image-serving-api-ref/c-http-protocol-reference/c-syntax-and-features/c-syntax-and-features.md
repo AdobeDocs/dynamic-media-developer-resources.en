@@ -3,7 +3,7 @@ description: Topics in this section describe the syntax and features of the HTTP
 solution: Experience Manager
 title: Syntax and features
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 44981754-017b-4293-9d44-7611b7a470c4
 ---
 # Syntax and features{#syntax-and-features}

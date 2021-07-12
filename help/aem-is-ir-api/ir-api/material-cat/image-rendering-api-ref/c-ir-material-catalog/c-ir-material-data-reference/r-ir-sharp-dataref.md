@@ -3,7 +3,7 @@ description: Sharpening. Sharpening attribute, determines when the material is s
 solution: Experience Manager
 title: Sharp
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ce08ed97-33b7-4d28-8f7f-3f3ef8598ad6
 ---
 # Sharp{#sharp}

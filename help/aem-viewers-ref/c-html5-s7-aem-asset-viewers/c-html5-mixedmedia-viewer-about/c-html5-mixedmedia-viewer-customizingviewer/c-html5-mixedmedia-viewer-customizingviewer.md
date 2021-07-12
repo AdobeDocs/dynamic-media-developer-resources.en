@@ -4,7 +4,7 @@ keywords: responsive
 solution: Experience Manager
 title: Customizing Mixed Media Viewer
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 3bea8efb-faf8-4909-b51a-0b9964fcd735
 ---
 # Customizing Mixed Media Viewer{#customizing-mixed-media-viewer}

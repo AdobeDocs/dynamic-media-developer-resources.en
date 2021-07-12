@@ -3,7 +3,7 @@ description: These commands apply regardless of where in the request they appear
 solution: Experience Manager
 title: View commands
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c1dcabd3-d2bc-4ca1-a909-fcfe0d2feff6
 ---
 # View commands{#view-commands}

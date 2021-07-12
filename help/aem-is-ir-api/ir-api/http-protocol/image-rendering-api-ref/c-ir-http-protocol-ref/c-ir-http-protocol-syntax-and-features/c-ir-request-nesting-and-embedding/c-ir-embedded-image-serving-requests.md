@@ -3,7 +3,7 @@ description: An Image Server (IS) request can be used as a material image.
 solution: Experience Manager
 title: Embedded Image Server requests
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 4ece9738-45e0-43c0-ba1c-2a05ef1f39be
 ---
 # Embedded Image Server requests{#embedded-image-server-requests}

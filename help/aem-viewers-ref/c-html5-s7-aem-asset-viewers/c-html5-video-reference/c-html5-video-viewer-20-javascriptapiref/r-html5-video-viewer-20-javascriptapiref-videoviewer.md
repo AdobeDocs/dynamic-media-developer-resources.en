@@ -6,7 +6,7 @@ solution: Experience Manager
 title: VideoViewer
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 4ba152e6-b5a9-4e81-b9f8-aa987a1c31f9
 ---
 # VideoViewer{#videoviewer}

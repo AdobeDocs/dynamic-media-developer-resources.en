@@ -3,7 +3,7 @@ description: Client message. Provides a mechanism for clients to insert short te
 solution: Experience Manager
 title: message
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 47e51181-714c-4b25-a375-f3b2238cd534
 ---
 # message{#message}

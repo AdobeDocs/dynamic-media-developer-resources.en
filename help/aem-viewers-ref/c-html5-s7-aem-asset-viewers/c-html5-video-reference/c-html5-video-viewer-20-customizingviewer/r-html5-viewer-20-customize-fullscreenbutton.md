@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Full screen button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 120f0ee9-e76b-48d5-8ea7-8be5a8f52edc
 ---
 # Full screen button{#full-screen-button}

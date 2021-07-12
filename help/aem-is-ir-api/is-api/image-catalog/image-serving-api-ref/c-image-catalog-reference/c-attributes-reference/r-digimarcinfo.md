@@ -3,7 +3,7 @@ description: Default Digimarc image info. Provides a default value for catalog D
 solution: Experience Manager
 title: DigimarcInfo
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 2c46a563-d1e1-44c9-9bde-22128d023828
 ---
 # DigimarcInfo{#digimarcinfo}

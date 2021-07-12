@@ -3,7 +3,7 @@ description: Carousel Viewer is a viewer that displays a carousel of non-zoomabl
 solution: Experience Manager
 title: Carousel
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: d506dc6e-8929-4f7f-a205-1683e77681f1
 ---
 # Carousel{#carousel}

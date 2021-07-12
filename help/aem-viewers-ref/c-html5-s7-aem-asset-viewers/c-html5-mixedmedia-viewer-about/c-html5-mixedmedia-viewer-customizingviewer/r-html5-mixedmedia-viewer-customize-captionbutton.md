@@ -3,7 +3,7 @@ description: Toggles the closed caption display on and off. It is not visible if
 solution: Experience Manager
 title: Caption button
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 62809036-f158-402d-a8b2-2b9335e8c079
 ---
 # Caption button{#caption-button}

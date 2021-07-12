@@ -3,7 +3,7 @@ description: Final view rectangle. Allows the final view image to be disassemble
 solution: Experience Manager
 title: rect
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 1870001b-7904-470f-9582-984d453509ca
 ---
 # rect{#rect}

@@ -4,7 +4,7 @@ solution: Experience Manager
 title: SearchPanel.maxloadradius
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c2bbcb99-eeef-4793-a132-d0bd1fefb534
 ---
 # SearchPanel.maxloadradius{#searchpanel-maxloadradius}

@@ -4,7 +4,7 @@ solution: Experience Manager
 title: PageView.maxloadradius
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 02925e09-f1ab-4afb-a900-d216efd323fe
 ---
 # PageView.maxloadradius{#pageview-maxloadradius}

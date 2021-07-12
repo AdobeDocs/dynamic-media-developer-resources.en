@@ -3,7 +3,7 @@ description: Enable last-modified response headers. Enables or disables inclusio
 solution: Experience Manager
 title: UseLastModified
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 31dfbc55-0efd-417b-be4a-67c878772388
 ---
 # UseLastModified{#uselastmodified}

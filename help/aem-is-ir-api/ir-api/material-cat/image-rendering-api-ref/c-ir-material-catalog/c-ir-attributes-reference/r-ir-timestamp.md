@@ -3,7 +3,7 @@ description: Default modification time stamp. Provides a default value for catal
 solution: Experience Manager
 title: TimeStamp
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 0b6d8fa6-0ad9-4f72-8d6d-1427e5d59df3
 ---
 # TimeStamp{#timestamp}

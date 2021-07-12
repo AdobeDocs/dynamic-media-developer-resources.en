@@ -3,7 +3,7 @@ description: Set XML before or after a node.
 solution: Experience Manager
 title: insertBefore,insertAfter
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 20d27fa7-e98a-4f85-9e48-5fa9ad3102b7
 ---
 # insertBefore,insertAfter{#insertbefore-insertafter}

@@ -3,7 +3,7 @@ description: "The latest release notes for Adobe Scene7 Fall 2016 release, part 
 solution: Experience Manager
 title: Scene7 Fall 2016 Release
 feature: Dynamic Media Classic
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 23091ef7-750a-4ec2-9d03-1d713f436991
 ---
 # Scene7 Fall 2016 Release{#scene-fall-release}

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Command reference – Configuration attributes
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 15e7881f-ec4f-4e44-9833-1cf965800760
 ---
 # Command reference – Configuration attributes{#command-reference-configuration-attributes}

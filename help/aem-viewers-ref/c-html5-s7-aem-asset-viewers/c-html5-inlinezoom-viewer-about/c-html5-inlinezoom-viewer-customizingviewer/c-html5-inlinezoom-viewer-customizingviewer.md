@@ -5,7 +5,7 @@ solution: Experience Manager
 title: Customizing Inline Zoom Viewer
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 8818bee3-dcdb-4a36-bddb-14dd10d0ea52
 ---
 # Customizing Inline Zoom Viewer{#customizing-inline-zoom-viewer}

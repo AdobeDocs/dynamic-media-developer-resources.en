@@ -3,7 +3,7 @@ description: Select Effect Layer. Selects an effect layer and starts a new layer
 solution: Experience Manager
 title: effect
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: d1eaa38d-cfd3-44d4-92b1-04d72333f867
 ---
 # effect{#effect}

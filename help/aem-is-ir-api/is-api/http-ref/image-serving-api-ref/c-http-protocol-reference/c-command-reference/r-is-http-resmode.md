@@ -3,7 +3,7 @@ description: Resampling mode. Chooses the resampling and/or interpolation algori
 solution: Experience Manager
 title: resMode
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 63c1c028-0378-4a38-8018-e358491786d8
 ---
 # resMode{#resmode}

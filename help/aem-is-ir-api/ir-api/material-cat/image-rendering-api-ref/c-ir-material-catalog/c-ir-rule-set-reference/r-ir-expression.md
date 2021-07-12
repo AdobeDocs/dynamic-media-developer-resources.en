@@ -3,7 +3,7 @@ description: Regular-expression pattern element. Optional in <rule> elements.
 solution: Experience Manager
 title: expression
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 5fb95e93-cf14-4042-a338-d9d7df6e3b58
 ---
 # expression{#expression}

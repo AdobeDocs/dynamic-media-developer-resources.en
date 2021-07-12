@@ -4,7 +4,7 @@ solution: Experience Manager
 title: SpinView.autospin
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 16276e07-5494-4fd9-bd77-e77a46c57fd1
 ---
 # SpinView.autospin{#spinview-autospin}

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Search results panel
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ffbbc2ae-60da-4c3d-a350-6dbcb64e189d
 ---
 # Search results panel{#search-results-panel}

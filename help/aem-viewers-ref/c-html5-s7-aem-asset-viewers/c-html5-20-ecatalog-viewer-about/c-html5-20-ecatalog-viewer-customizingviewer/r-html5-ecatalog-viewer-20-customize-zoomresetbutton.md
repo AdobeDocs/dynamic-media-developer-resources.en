@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Zoom reset button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 6f0e22cd-12bd-4997-b874-539962504d3e
 ---
 # Zoom reset button{#zoom-reset-button}

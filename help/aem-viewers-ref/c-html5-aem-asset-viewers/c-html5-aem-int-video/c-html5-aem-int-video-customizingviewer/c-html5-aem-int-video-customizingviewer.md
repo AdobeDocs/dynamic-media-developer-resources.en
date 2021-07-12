@@ -4,7 +4,7 @@ keywords: responsive
 solution: Experience Manager
 title: Customizing Interactive Video Viewer
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c428c3e6-81be-4708-b064-f9d794183209
 ---
 # Customizing Interactive Video Viewer{#customizing-interactive-video-viewer}

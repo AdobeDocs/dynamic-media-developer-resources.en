@@ -3,7 +3,7 @@ description: Root path for saveToFile=. Relative path for the root folder to whi
 solution: Experience Manager
 title: SavePath
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 6e2814b9-898f-4cf4-8e4f-aa972d554213
 ---
 # SavePath{#savepath}

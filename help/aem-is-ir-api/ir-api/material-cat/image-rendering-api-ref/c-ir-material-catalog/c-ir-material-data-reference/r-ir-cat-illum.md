@@ -3,7 +3,7 @@ description: Illumination map selector. Allows explicit selection of the illumin
 solution: Experience Manager
 title: Illum
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 5e74b3e8-6289-4114-aa11-a6f91671363e
 ---
 # Illum{#illum}

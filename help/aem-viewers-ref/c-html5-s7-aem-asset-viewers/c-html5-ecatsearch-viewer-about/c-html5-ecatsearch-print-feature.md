@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Print feature
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: eadcc105-4a86-40f7-867a-3b09a5599a41
 ---
 # Print feature{#print-feature}

@@ -3,7 +3,7 @@ description: Prefix request modifier string. None or more Image Serving commands
 solution: Experience Manager
 title: Modifier
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 6eef3159-c082-469b-b9dc-29acb28560d6
 ---
 # Modifier{#modifier}

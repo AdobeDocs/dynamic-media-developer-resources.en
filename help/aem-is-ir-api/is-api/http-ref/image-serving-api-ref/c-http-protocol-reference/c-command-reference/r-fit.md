@@ -3,7 +3,7 @@ description: Response Image Fit Mode. Specifies how the scale factor is calculat
 solution: Experience Manager
 title: fit
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: d2939f86-5dab-471d-ba59-70d91ae1e4fd
 ---
 # fit{#fit}

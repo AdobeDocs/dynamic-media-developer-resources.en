@@ -3,7 +3,7 @@ description: Property data consists of a text string representing one or more pr
 solution: Experience Manager
 title: Property data
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 86278720-ece0-4e67-8fb1-443355f878b7
 ---
 # Property data{#property-data}

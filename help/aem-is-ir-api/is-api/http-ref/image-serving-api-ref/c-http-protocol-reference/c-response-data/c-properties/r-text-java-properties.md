@@ -3,7 +3,7 @@ description: If text is specified as the response format, the reply data is form
 solution: Experience Manager
 title: Text (Java) properties
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 46f5dbc8-fbdc-4204-a6a0-60f34378c3e1
 ---
 # Text (Java) properties{#text-java-properties}

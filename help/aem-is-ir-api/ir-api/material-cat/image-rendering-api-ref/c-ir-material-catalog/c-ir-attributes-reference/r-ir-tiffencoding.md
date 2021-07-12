@@ -3,7 +3,7 @@ description: TIFF encoding format. Specifies the compression format for TIFF ima
 solution: Experience Manager
 title: TiffEncoding
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 6a6fa8f5-4497-438d-914c-3f6d4c08ef09
 ---
 # TiffEncoding{#tiffencoding}

@@ -3,7 +3,7 @@ description: JavaScript API reference for Interactive Video Viewer.
 solution: Experience Manager
 title: setAsset
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 24d8d11d-4688-4ca0-92ae-824a5e984a10
 ---
 # setAsset{#setasset}

@@ -3,7 +3,7 @@ description: CMYK default output color profile. Specifies the name of the ICC co
 solution: Experience Manager
 title: IccProfileCmyk
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 2bf83cf5-3fc9-42aa-a143-4b56e43ee4d1
 ---
 # IccProfileCmyk{#iccprofilecmyk}

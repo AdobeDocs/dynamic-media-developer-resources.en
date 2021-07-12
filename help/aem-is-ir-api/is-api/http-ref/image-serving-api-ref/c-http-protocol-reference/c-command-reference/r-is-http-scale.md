@@ -3,7 +3,7 @@ description: Scale image. Scales a layer source image by factor relative to the 
 solution: Experience Manager
 title: scale
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c2cd37de-f81e-4b08-9a3e-ff05a72c363c
 ---
 # scale{#scale}

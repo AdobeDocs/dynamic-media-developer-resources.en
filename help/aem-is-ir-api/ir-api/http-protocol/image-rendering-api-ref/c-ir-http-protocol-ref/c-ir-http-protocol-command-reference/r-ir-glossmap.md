@@ -3,7 +3,7 @@ description: Gloss map image. Provides pixel-by-pixel control of the glossiness 
 solution: Experience Manager
 title: glossmap
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 922fc527-be19-4d7a-b265-7bdb1de80990
 ---
 # glossmap{#glossmap}

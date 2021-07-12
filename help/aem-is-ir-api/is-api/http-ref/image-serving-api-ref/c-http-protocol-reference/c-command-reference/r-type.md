@@ -3,7 +3,7 @@ description: Static content type filter. Specifies a filter string for static co
 solution: Experience Manager
 title: type
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 9015d5f4-e42c-43e0-af85-fc9c278448e7
 ---
 # type{#type}

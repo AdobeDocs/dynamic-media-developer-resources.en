@@ -3,7 +3,7 @@ description: Select object by name. Selects the specified vignette group by name
 solution: Experience Manager
 title: obj
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 17387203-f7a7-4876-a15b-2084894f981d
 ---
 # obj{#obj}

@@ -4,7 +4,7 @@ solution: Experience Manager
 title: Swatches.maxloadradius
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: b02f033d-be84-4cd0-b4bb-3ae9e424680c
 ---
 # Swatches.maxloadradius{#swatches-maxloadradius}

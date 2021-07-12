@@ -3,7 +3,7 @@ description: Default view size.
 solution: Experience Manager
 title: DefaultPix
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 709fb2a1-1b9d-421e-9a65-5f5c74390ce3
 ---
 # DefaultPix{#defaultpix}

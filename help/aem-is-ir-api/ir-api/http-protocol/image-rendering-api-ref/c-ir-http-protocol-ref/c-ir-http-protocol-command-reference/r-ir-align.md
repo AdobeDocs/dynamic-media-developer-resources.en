@@ -3,7 +3,7 @@ description: Texture render alignment. Specifies which of the origin points defi
 solution: Experience Manager
 title: align
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 0b76f173-809b-4b41-bf39-6b85f77ab2db
 ---
 # align{#align}

@@ -3,7 +3,7 @@ description: If JavaScript™ is specified as the response format, the reply dat
 solution: Experience Manager
 title: JavaScript™ properties
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 12e69221-4a2c-4ec6-b38b-0a8d98d3c4a6
 ---
 # JavaScript™ properties{#javascript-properties}

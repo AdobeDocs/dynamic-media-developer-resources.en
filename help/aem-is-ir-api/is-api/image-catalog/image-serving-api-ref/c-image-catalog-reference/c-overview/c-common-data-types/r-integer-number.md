@@ -3,7 +3,7 @@ description: Integer number data type.
 solution: Experience Manager
 title: Integer number
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 5a4e0acc-bbc5-4cbe-9210-391ea957965e
 ---
 # Integer number{#integer-number}

@@ -3,7 +3,7 @@ description: If a request cannot be completed successfully, the server will eith
 solution: Experience Manager
 title: Errors
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e45e3968-3659-470b-a88a-fe7ba73d8207
 ---
 # Errors{#errors}

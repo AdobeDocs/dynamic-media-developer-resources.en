@@ -3,7 +3,7 @@ description: If it ever becomes necessary, you can uninstall Image Rendering.
 solution: Experience Manager
 title: Uninstalling Image Rendering
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: d9a874ee-4d12-42f3-962b-832fb0ec2727
 ---
 # Uninstalling Image Rendering{#uninstalling-image-rendering}

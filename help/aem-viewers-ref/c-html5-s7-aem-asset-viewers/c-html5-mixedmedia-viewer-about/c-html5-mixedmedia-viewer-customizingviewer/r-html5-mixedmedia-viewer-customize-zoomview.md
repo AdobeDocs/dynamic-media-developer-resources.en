@@ -3,7 +3,7 @@ description: In continuous zoom mode, main view consists of the zoomable image w
 solution: Experience Manager
 title: Zoom view
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 0252436b-ba96-4273-b796-d1772fc093b0
 ---
 # Zoom view{#zoom-view}

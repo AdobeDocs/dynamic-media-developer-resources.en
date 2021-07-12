@@ -3,7 +3,7 @@ description: Apply PDF job options. A job options file or PDF preset is a file g
 solution: Experience Manager
 title: joboption
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 8e7224e7-d801-4550-b95e-24d15734043a
 ---
 # joboption{#joboption}

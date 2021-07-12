@@ -3,7 +3,7 @@ description: Foreground color. Specifies the color of solid color materials or t
 solution: Experience Manager
 title: color
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 6086a7ca-d3cf-4cec-967b-83347293ea0a
 ---
 # color{#color}

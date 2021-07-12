@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Social share
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: b65b8846-3287-47ae-bdb6-6cac768cece0
 ---
 # Social share{#social-share}

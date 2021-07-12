@@ -3,7 +3,7 @@ description: Several mechanisms exist to start/stop the Image Server and Platfor
 solution: Experience Manager
 title: Starting or stopping on Windows
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 9c7dc74a-5965-428f-9146-6b39c46b318f
 ---
 # Starting or stopping on Windows{#starting-or-stopping-on-windows}

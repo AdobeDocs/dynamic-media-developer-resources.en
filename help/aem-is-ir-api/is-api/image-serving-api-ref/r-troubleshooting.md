@@ -3,7 +3,7 @@ description: This section contains solutions to problems that have occasionally 
 solution: Experience Manager
 title: Troubleshooting
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: b80d3c9a-a0c4-4944-9f91-e791a072cd5f
 ---
 # Troubleshooting{#troubleshooting}

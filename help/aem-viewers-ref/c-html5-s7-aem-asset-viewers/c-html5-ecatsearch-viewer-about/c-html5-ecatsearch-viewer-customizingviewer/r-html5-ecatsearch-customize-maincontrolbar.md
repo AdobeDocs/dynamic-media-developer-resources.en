@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Main control bar
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: cee6a4d4-4099-4bc8-9d67-00a1e963a139
 ---
 # Main control bar{#main-control-bar}

@@ -3,7 +3,7 @@ description: Image anchor. Origin point when this image is used as a layer in a 
 solution: Experience Manager
 title: Anchor
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c54b8bb2-af4f-4c05-be7b-4326dd08993a
 ---
 # Anchor{#anchor}

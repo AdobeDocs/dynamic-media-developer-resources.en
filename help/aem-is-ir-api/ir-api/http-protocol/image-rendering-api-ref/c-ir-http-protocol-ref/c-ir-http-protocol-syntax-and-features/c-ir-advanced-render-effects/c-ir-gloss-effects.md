@@ -3,7 +3,7 @@ description: If so enabled in the vignette, the renderer will vary the illuminat
 solution: Experience Manager
 title: Gloss effects
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e8fb5966-ed77-47af-a500-b9bd1604e7d1
 ---
 # Gloss effects{#gloss-effects}

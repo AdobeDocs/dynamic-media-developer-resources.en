@@ -3,7 +3,7 @@ description: Configuration attribute for Interactive Video Viewer.
 solution: Experience Manager
 title: VideoPlayer.iconeffect
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 690dc488-2db0-4166-a308-f1f3438c480a
 ---
 # VideoPlayer.iconeffect{#videoplayer-iconeffect}

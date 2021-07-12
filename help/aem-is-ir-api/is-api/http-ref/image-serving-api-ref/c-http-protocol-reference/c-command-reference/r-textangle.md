@@ -3,7 +3,7 @@ description: Text render direction. Specifies the angle at which text specified 
 solution: Experience Manager
 title: textAngle
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 102dbdc0-77b8-4c60-b456-6cf693e0b38b
 ---
 # textAngle{#textangle}

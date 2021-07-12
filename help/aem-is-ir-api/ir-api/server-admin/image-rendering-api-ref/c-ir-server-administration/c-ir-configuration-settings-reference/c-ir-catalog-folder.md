@@ -3,7 +3,7 @@ description: Location of the material catalog folder (where all catalog.ini file
 solution: Experience Manager
 title: Catalog folder (ir.catalogRootPath)
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: 0eb64a65-e3b6-47b2-8456-39f8f8e077e1
 ---
 # Catalog folder (ir.catalogRootPath){#catalog-folder-ir-catalogrootpath}

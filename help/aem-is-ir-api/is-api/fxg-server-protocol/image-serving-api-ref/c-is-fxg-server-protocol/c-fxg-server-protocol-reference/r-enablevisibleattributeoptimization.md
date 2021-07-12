@@ -3,7 +3,7 @@ description: Enables the optimization of FXG.
 solution: Experience Manager
 title: enableVisibleAttributeOptimization
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: a643694e-f6a2-424e-8f6e-3dbb4cdc41b3
 ---
 # enableVisibleAttributeOptimization{#enablevisibleattributeoptimization}

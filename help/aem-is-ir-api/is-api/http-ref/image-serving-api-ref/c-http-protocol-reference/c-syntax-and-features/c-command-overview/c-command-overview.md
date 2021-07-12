@@ -3,7 +3,7 @@ description: The commands supported by Image Serving are listed below, grouped b
 solution: Experience Manager
 title: Image Serving HTTP protocol command overview
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: bfbbd70e-4b63-4dde-8d1e-a1b143b0e034
 ---
 # Image Serving HTTP protocol command overview{#image-serving-http-protocol-command-overview}

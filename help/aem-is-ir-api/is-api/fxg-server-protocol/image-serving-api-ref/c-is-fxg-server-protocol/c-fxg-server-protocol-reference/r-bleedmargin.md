@@ -3,7 +3,7 @@ description: Set bleed margin. Sets the bleed margin that is set in the PDF file
 solution: Experience Manager
 title: bleedmargin
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: badb8ca5-52ba-4b44-b53f-fb302626adc4
 ---
 # bleedmargin{#bleedmargin}

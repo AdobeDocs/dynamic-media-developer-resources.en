@@ -3,7 +3,7 @@ description: These commands are used to select vignette groups, objects, sub-are
 solution: Experience Manager
 title: Selection commands
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 43f6ec6e-e4eb-468d-9c66-841af5e0a8a5
 ---
 # Selection commands{#selection-commands}

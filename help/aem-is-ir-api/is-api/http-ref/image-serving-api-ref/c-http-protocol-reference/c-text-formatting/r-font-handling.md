@@ -3,7 +3,7 @@ description: All fonts referenced in the RTF string must be available in the fon
 solution: Experience Manager
 title: Font handling
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: f24edd53-4b21-4147-9b50-95e616279aa8
 ---
 # Font handling{#font-handling}

@@ -3,7 +3,7 @@ description: Font face name. The font face name, exactly as specified in the RTF
 solution: Experience Manager
 title: Name
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: cf3bc6ca-ffe2-4417-8ce8-ec68c7039365
 ---
 # Name{#name}

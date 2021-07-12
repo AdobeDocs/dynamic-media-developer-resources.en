@@ -4,7 +4,7 @@ solution: Experience Manager
 title: ControlBar.transition
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: abe8affb-cbcd-4072-b2ed-91a398b1d678
 ---
 # ControlBar.transition{#controlbar-transition}

@@ -3,7 +3,7 @@ description: Static content source data files are accessed only by the Platform 
 solution: Experience Manager
 title: Static content source data
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: 3cf01fc2-c925-4039-8e03-cb909cca6a51
 ---
 # Static content source data{#static-content-source-data}

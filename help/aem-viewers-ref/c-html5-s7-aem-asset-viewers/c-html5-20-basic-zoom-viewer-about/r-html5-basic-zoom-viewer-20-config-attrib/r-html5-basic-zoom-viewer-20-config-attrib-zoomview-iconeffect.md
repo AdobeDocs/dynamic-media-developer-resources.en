@@ -4,7 +4,7 @@ solution: Experience Manager
 title: ZoomView.iconeffect
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: faec00b3-b981-4831-bc97-dff442389133
 ---
 # ZoomView.iconeffect{#zoomview-iconeffect}

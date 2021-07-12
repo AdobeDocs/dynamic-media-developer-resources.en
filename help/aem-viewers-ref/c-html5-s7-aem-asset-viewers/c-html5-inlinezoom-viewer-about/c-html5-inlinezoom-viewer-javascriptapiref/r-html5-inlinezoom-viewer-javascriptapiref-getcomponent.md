@@ -6,7 +6,7 @@ solution: Experience Manager
 title: getComponent
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 72ae83e4-b879-4b3b-a5d9-38ed0fc2969d
 ---
 # getComponent{#getcomponent}

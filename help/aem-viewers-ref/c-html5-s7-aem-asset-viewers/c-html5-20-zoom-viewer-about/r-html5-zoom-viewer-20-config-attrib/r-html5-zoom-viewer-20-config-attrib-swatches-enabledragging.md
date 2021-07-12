@@ -4,7 +4,7 @@ solution: Experience Manager
 title: Swatches.enabledragging
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 6ae18f94-7a0f-429e-9684-eff43f523b1d
 ---
 # Swatches.enabledragging{#swatches-enabledragging}

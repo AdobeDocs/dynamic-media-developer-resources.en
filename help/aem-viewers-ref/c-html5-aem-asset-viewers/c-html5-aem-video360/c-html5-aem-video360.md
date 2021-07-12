@@ -3,7 +3,7 @@ description: The HTML5 Video360 Viewer is a 360-degree video player that plays s
 solution: Experience Manager
 title: Video360
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 74dca3f6-ce89-4c5b-8459-c2c4ca8ed27c
 ---
 # Video360{#video}

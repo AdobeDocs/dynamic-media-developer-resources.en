@@ -4,7 +4,7 @@ solution: Experience Manager
 title: style
 
 feature: Dynamic Media Classic,Viewers,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: a0547ada-3d8f-4ec2-a7e4-424fd1a78a28
 ---
 # style{#style}

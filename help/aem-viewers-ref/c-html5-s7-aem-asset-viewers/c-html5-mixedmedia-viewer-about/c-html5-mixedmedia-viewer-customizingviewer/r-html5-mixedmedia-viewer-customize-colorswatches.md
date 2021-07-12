@@ -3,7 +3,7 @@ description: Color swatches consist of a row of thumbnail images with optional s
 solution: Experience Manager
 title: Color swatches
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 0a73d1c9-362d-48a5-96c9-3d543e68ebec
 ---
 # Color swatches{#color-swatches}

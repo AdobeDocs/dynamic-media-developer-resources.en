@@ -3,7 +3,7 @@ description: Name of command macro.
 solution: Experience Manager
 title: name
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: b5aa907b-aa95-4573-bc05-65d84c173f25
 ---
 # name{#name}

@@ -4,7 +4,7 @@ solution: Experience Manager
 title: PageView.enableHD
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 394b79cd-0611-4496-86e3-366a2ffc6ca7
 ---
 # PageView.enableHD{#pageview-enablehd}

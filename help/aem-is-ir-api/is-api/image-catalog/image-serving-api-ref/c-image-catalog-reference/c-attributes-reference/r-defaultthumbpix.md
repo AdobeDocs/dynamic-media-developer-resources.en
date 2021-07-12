@@ -3,7 +3,7 @@ description: Default thumbnail size. Used instead of attribute DefaultPix for th
 solution: Experience Manager
 title: DefaultThumbPix
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c1413da0-a68d-4345-928f-b532991966a8
 ---
 # DefaultThumbPix{#defaultthumbpix}

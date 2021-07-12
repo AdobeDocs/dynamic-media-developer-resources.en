@@ -3,7 +3,7 @@ description: Material surface type. Specifies the surface type of the material.
 solution: Experience Manager
 title: type
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 333b8954-e256-4ba1-8055-c4d625470673
 ---
 # type{#type}

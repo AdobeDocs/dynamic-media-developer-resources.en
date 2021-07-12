@@ -3,7 +3,7 @@ description: Source image properties. Returns selected properties of the image f
 solution: Experience Manager
 title: imageprops
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: b4337c20-8e47-4d61-b234-19434f5c5216
 ---
 # imageprops{#imageprops}

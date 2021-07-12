@@ -3,7 +3,7 @@ description: The following fields are recognized in ICC color profile map files.
 solution: Experience Manager
 title: ICC profile maps
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 3492f4f3-d93e-4b62-8ff6-ace228e0687e
 ---
 # ICC profile maps{#icc-profile-maps}

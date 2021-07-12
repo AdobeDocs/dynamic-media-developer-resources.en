@@ -4,7 +4,7 @@ solution: Experience Manager
 title: SpinView.maxloadradius
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 4adba865-0b03-469e-a88c-2c3982422a68
 ---
 # SpinView.maxloadradius{#spinview-maxloadradius}

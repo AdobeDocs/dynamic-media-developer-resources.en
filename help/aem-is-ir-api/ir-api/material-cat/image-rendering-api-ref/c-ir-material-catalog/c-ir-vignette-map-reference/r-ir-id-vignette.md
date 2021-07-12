@@ -3,7 +3,7 @@ description: Vignette identifier. Index key value by which records in the vignet
 solution: Experience Manager
 title: Id
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 5c0c8788-ffe5-4b42-86f6-6b4683dd7c21
 ---
 # Id{#id}

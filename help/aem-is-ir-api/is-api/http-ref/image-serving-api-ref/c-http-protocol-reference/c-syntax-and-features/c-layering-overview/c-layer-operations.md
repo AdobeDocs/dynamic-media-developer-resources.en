@@ -3,7 +3,7 @@ description: In addition to sizing (size=) and positioning (pos=) layers relativ
 solution: Experience Manager
 title: Layer operations
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 0b167c74-cb1f-45f1-8b15-cb1fcbc8f734
 ---
 # Layer operations{#layer-operations}

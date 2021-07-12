@@ -3,7 +3,7 @@ description: Intermediate image data produced by nested/embedded Image Serving a
 solution: Experience Manager
 title: Auxiliary data caches
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: 39906c86-fd9e-4961-a8ba-2ac44c4214a2
 ---
 # Auxiliary data caches{#auxiliary-data-caches}

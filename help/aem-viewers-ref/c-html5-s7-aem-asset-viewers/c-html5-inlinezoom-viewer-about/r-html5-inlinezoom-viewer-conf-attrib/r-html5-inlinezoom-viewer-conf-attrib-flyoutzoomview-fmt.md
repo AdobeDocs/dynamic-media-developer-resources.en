@@ -4,7 +4,7 @@ solution: Experience Manager
 title: FlyoutZoomView.fmt
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 6a9a5530-dbde-4090-8545-36bbd7322927
 ---
 # FlyoutZoomView.fmt{#flyoutzoomview-fmt}

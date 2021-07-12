@@ -3,7 +3,7 @@ description: Image data is returned if a request successfully completes, and if 
 solution: Experience Manager
 title: Images
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 089aaf9d-f414-4ca4-9d6d-7f429de2531e
 ---
 # Images{#images}

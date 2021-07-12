@@ -3,7 +3,7 @@ description: JavaScript API reference for Carousel Viewer.
 solution: Experience Manager
 title: setParam
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 0829933f-a90b-4066-9904-748f2a727169
 ---
 # setParam{#setparam}

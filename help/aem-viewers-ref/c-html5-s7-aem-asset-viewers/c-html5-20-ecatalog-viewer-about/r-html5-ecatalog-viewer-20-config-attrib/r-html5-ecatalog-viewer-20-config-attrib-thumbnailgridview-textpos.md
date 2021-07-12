@@ -4,7 +4,7 @@ solution: Experience Manager
 title: ThumbnailGridView.textpos
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 916bc2a7-df21-459c-bf89-4daee9333479
 ---
 # ThumbnailGridView.textpos{#thumbnailgridview-textpos}

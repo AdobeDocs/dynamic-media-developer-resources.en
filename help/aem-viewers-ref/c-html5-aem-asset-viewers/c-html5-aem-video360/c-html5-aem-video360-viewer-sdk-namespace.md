@@ -3,7 +3,7 @@ description: Viewer SDK namespace
 solution: Experience Manager
 title: Viewer SDK namespace
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 3360a3bd-8a4a-4bf9-98bf-ada7c35c58f4
 ---
 # Viewer SDK namespace{#viewer-sdk-namespace}

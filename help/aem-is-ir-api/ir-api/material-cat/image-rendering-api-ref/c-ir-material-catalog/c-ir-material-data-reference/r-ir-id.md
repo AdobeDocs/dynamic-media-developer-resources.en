@@ -3,7 +3,7 @@ description: Catalog record identifier. Key value by which material records are 
 solution: Experience Manager
 title: Id
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 2525a9c9-8acb-45a4-b6d1-80d08f63f9f8
 ---
 # Id{#id}

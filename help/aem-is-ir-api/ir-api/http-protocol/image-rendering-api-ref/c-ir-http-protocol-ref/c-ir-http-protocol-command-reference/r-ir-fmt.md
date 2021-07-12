@@ -3,7 +3,7 @@ description: Reply image format. Specifies the image encoding format for image d
 solution: Experience Manager
 title: fmt
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 691c5421-0754-45ce-b454-dd0ceff47a58
 ---
 # fmt{#fmt}

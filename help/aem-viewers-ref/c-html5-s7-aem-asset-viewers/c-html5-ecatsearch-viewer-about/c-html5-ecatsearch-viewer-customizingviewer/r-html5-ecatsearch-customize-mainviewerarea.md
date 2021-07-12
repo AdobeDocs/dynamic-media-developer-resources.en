@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Main viewer area
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 854f5fa7-f46d-4c4f-9a44-886fec93f606
 ---
 # Main viewer area{#main-viewer-area}

@@ -3,7 +3,7 @@ description: This document describes the HTTP protocol for Dynamic Media Image S
 solution: Experience Manager
 title: HTTP protocol reference
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: b80d10a8-3b10-4daa-8559-dc36f7a54382
 ---
 # HTTP protocol reference{#http-protocol-reference}

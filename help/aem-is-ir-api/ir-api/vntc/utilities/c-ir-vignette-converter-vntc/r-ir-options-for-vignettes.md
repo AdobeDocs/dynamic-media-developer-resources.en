@@ -3,7 +3,7 @@ description: The following options control the processing of vignette files. The
 solution: Experience Manager
 title: Options for vignettes
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 7f9c2b43-9264-46a4-9519-64148aebf258
 ---
 # Options for vignettes{#options-for-vignettes}

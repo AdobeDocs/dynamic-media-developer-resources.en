@@ -3,7 +3,7 @@ description: Source data root path. Text string value. Absolute path or relative
 solution: Experience Manager
 title: RootPath *
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 0eecb125-8147-4115-883a-cb6c38333270
 ---
 # RootPath *{#rootpath}

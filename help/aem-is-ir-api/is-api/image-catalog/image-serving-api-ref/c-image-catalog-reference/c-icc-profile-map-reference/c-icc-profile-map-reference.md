@@ -3,7 +3,7 @@ description: If an ICC profile map is required for an image catalog, the relativ
 solution: Experience Manager
 title: ICC profile map reference
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: f6b75a15-55b4-44e7-a409-2eaed4e752c5
 ---
 # ICC profile map reference{#icc-profile-map-reference}

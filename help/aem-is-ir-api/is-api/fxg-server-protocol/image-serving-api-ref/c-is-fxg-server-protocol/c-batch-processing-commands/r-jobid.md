@@ -3,7 +3,7 @@ description: Job ID of batch job.
 solution: Experience Manager
 title: jobid
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c00b7191-f162-4c51-bcfb-fe27f9253ca8
 ---
 # jobid{#jobid}

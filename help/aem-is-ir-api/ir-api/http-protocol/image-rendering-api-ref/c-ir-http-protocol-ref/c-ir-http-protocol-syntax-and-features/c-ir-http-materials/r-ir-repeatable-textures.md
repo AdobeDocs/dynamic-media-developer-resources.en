@@ -3,7 +3,7 @@ description: Repeatable textures include interior and exterior materials, such a
 solution: Experience Manager
 title: Repeatable textures
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 3693498b-994a-460a-8b2e-780a1482d37a
 ---
 # Repeatable textures{#repeatable-textures}

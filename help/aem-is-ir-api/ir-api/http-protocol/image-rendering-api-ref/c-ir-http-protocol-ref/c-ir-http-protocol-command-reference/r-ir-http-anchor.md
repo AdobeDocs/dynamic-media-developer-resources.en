@@ -3,7 +3,7 @@ description: Image anchor (hotspot). Specifies the texture anchor point (hotspot
 solution: Experience Manager
 title: anchor
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ea2c5dce-6eb1-4f05-80bd-7336deb08b9e
 ---
 # anchor{#anchor}

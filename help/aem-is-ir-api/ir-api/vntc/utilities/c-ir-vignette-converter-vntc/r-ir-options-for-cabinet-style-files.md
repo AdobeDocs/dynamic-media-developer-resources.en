@@ -3,7 +3,7 @@ description: The following options control the processing of cabinet style files
 solution: Experience Manager
 title: Options for cabinet style files
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: f1b72d65-fd91-4a83-8314-eab90fe64301
 ---
 # Options for cabinet style files{#options-for-cabinet-style-files}

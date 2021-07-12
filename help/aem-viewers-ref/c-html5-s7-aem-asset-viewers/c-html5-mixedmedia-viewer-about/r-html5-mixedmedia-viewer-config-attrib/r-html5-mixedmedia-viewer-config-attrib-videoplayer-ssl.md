@@ -6,7 +6,7 @@ solution: Experience Manager
 title: VideoPlayer.ssl
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 5fd3aa39-edb0-4434-aa5f-e511c84cf950
 ---
 # VideoPlayer.ssl{#videoplayer-ssl}

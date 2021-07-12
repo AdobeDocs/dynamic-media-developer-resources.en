@@ -3,7 +3,7 @@ description: To manipulate a graphic, you can use reference points similar to co
 solution: Experience Manager
 title: FXG server protocol
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 57d9ba37-819e-455f-9b22-bd7aabffe007
 ---
 # FXG server protocol{#fxg-server-protocol}

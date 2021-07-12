@@ -3,7 +3,7 @@ description: Image Serving source data files include image and mask files, fonts
 solution: Experience Manager
 title: Source data
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: d7e9c101-8d34-4241-b03c-131f31c25933
 ---
 # Source data{#source-data}

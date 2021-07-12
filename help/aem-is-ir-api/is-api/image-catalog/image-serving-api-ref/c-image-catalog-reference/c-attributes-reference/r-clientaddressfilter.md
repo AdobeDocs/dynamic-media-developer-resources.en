@@ -3,7 +3,7 @@ description: Client IP address filter. Allows specification of one or more IP ad
 solution: Experience Manager
 title: ClientAddressFilter
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 028cef35-2862-452c-872c-b953e8ccb195
 ---
 # ClientAddressFilter{#clientaddressfilter}

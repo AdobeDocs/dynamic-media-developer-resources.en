@@ -4,7 +4,7 @@ solution: Experience Manager
 title: FavoritesView.fmt
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 9ec5ed03-1d8f-4e67-a9a3-bdf160b105c5
 ---
 # FavoritesView.fmt{#favoritesview-fmt}

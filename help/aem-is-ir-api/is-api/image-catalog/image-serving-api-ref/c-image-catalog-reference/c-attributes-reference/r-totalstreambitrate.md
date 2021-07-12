@@ -3,7 +3,7 @@ description: Total stream bit rate. Long value representing the total stream bit
 solution: Experience Manager
 title: TotalStreamBitRate
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 476da561-e067-49ec-aefc-eda11c35b814
 ---
 # TotalStreamBitRate{#totalstreambitrate}

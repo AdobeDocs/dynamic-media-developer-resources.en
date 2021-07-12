@@ -6,7 +6,7 @@ solution: Experience Manager
 title: setParam
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 5a34ad67-3a4c-408c-8e20-bbab87bbd470
 ---
 # setParam{#setparam}

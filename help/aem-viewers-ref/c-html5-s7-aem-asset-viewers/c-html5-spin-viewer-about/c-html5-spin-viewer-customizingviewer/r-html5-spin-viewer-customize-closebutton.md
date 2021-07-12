@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Close button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e2f8e45a-5b24-45fa-a009-fc3221a65c15
 ---
 # Close button{#close-button}

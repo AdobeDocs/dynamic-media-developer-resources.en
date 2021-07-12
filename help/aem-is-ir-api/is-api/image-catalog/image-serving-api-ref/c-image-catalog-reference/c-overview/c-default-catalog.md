@@ -3,7 +3,7 @@ description: The default catalog provides default values for all catalog attribu
 solution: Experience Manager
 title: Default catalog
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: db42fb67-aa6f-4217-bc69-45b01bbd0b10
 ---
 # Default catalog{#default-catalog}

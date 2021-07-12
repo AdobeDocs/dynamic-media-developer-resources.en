@@ -3,7 +3,7 @@ description: If xml is specified as the response format, the reply data is forma
 solution: Experience Manager
 title: XML properties
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 84cae0cd-d13b-409e-bd65-71c7e973d4b8
 ---
 # XML properties{#xml-properties}

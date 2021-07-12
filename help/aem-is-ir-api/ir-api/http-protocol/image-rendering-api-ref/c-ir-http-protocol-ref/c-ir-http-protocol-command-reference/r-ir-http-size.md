@@ -3,7 +3,7 @@ description: Decal size. Specifies the size of a decal material.
 solution: Experience Manager
 title: size
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 756d8b9f-076a-48d6-95c9-e0d6caeed3dd
 ---
 # size{#size}

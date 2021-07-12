@@ -4,7 +4,7 @@ solution: Experience Manager
 title: VideoPlayer.initialbitrate
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: a5416488-d5fe-4f55-aee4-5aedc825ac04
 ---
 # VideoPlayer.initialbitrate{#videoplayer-initialbitrate}

@@ -3,7 +3,7 @@ description: Configuration attribute for Video360 Viewer.
 solution: Experience Manager
 title: Video360Player.playback
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e5a56195-c3ca-4748-aef6-e1f143ac254d
 ---
 # Video360Player.playback{#video-player-playback}

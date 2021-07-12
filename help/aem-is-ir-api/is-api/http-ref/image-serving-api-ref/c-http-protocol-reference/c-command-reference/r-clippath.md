@@ -3,7 +3,7 @@ description: Layer Clip Path. Specifies a clip path for the current layer.
 solution: Experience Manager
 title: clipPath
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 86c87cd1-6e08-40cb-80e6-35a9f49b6572
 ---
 # clipPath{#clippath}

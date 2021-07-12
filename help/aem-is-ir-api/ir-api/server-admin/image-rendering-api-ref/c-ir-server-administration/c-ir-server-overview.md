@@ -3,7 +3,7 @@ description: This documentation explains how to administer the Dynamic Media Ima
 solution: Experience Manager
 title: Server administration overview
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: 294cd068-8676-4932-a3ad-1a3c5bfa691e
 ---
 # Server administration overview{#server-administration-overview}

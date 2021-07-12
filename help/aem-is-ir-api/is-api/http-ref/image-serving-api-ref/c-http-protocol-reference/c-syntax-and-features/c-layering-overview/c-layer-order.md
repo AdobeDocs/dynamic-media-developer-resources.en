@@ -3,7 +3,7 @@ description: The layer number also determines the z-order.
 solution: Experience Manager
 title: Layer order
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 3a8fdd55-6ac1-4bc9-935d-188ee60946d9
 ---
 # Layer order{#layer-order}

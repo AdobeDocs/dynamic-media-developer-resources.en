@@ -3,7 +3,7 @@ description: Clicking or tapping this button closes the containing web page. Thi
 solution: Experience Manager
 title: Close button
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: aaa74d26-7876-491c-96c9-1f9405f50a6e
 ---
 # Close button{#close-button}

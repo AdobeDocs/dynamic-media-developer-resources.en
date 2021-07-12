@@ -3,7 +3,7 @@ description: Main view consists of the spin image when the current asset is a sp
 solution: Experience Manager
 title: Spin view
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: aafc1299-b09a-4379-bd8f-b564066175bd
 ---
 # Spin view{#spin-view}

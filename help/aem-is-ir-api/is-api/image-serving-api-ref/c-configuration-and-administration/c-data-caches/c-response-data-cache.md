@@ -3,7 +3,7 @@ description: The Platform Server caches all reply image and certain text data to
 solution: Experience Manager
 title: Response data cache
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: f09e596d-2b85-4950-8515-d54a2c2e86ae
 ---
 # Response data cache{#response-data-cache}

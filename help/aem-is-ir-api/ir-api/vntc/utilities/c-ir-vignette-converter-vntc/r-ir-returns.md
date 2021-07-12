@@ -3,7 +3,7 @@ description: vntc returns the following values, depending on whether an error is
 solution: Experience Manager
 title: Returns
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 822707f5-62aa-4006-bee9-12a8d12f9633
 ---
 # Returns{#returns}

@@ -3,7 +3,7 @@ description: Set indicator is a series of dots rendered at the bottom of the vie
 solution: Experience Manager
 title: Set indicator
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 7d0827c5-f420-4804-983c-5298ee92b276
 ---
 # Set indicator{#set-indicator}

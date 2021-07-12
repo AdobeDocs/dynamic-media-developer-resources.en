@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Command reference – Configuration attributes
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 2ac199ce-5dd5-4d2f-80c2-9bc370500cc4
 ---
 # Command reference – Configuration attributes{#command-reference-configuration-attributes}

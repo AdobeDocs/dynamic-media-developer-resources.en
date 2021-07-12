@@ -3,7 +3,7 @@ description: vntc generates text data which is sent either to stderr or the log 
 solution: Experience Manager
 title: Output
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 48b15fc2-19c2-4ff8-8059-ba3478a4eec2
 ---
 # Output{#output}

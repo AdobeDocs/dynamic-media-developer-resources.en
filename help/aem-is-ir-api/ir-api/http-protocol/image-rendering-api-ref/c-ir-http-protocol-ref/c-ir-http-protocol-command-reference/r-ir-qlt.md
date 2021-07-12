@@ -3,7 +3,7 @@ description: Jpeg quality. Specifies JPEG encoding attributes to control the com
 solution: Experience Manager
 title: qlt
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 49af2620-081f-4bcc-8245-5aa6bab89a05
 ---
 # qlt{#qlt}

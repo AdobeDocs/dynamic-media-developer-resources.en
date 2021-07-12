@@ -3,7 +3,7 @@ description: Configuration attributes are defined as attributes directly on an I
 solution: Experience Manager
 title: Command reference – Configuration attributes
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 8cc645f8-03fe-4ac7-b23f-36536b60fdf6
 ---
 # Command reference – Configuration attributes{#command-reference-configuration-attributes}

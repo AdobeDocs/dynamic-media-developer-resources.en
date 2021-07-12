@@ -3,7 +3,7 @@ description: Image Rendering supports color space conversions based on color spa
 solution: Experience Manager
 title: Image Rendering color management *
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: fa772ab2-8a32-4c1a-9ee3-c1cf4a0b3095
 ---
 # Image Rendering color management *{#image-rendering-color-management}

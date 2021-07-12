@@ -3,7 +3,7 @@ description: This section lists characters that are reserved for specific purpos
 solution: Experience Manager
 title: Reserved characters
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 76483f3f-f98b-471d-9c5d-49fa22eaf8a3
 ---
 # Reserved characters{#reserved-characters}

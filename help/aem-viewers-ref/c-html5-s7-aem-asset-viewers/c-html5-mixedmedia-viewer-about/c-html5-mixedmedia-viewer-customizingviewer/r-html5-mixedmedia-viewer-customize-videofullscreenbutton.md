@@ -3,7 +3,7 @@ description: The full screen button causes the viewer to enter or exit full scre
 solution: Experience Manager
 title: Video full screen button
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 45811efa-95f6-4b6d-96f8-9e5437a55f0e
 ---
 # Video full screen button{#video-full-screen-button}

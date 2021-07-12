@@ -3,7 +3,7 @@ description: Standard alerts are sent with a consolidated email message at the e
 solution: Experience Manager
 title: Standard alerts
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: eb691988-9f03-463f-bed5-2c230431f537
 ---
 # Standard alerts{#standard-alerts}

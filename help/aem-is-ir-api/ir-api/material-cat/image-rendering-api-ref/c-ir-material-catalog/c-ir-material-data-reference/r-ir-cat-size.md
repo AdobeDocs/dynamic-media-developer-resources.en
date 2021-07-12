@@ -3,7 +3,7 @@ description: Decal size. Width, height, and thickness of a decal material object
 solution: Experience Manager
 title: Size
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 964cb4c1-5256-40eb-94ea-761916174b79
 ---
 # Size{#size}

@@ -3,7 +3,7 @@ description: Vertical alignment for thumbnails. Specifies the vertical alignment
 solution: Experience Manager
 title: ThumbVertAlign
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: bb1aa398-5638-4109-bf05-bc51ace4146d
 ---
 # ThumbVertAlign{#thumbvertalign}

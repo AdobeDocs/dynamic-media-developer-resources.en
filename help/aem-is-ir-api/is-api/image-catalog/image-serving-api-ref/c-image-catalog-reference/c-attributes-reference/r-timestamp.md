@@ -3,7 +3,7 @@ description: Default image modification time stamp. Provides a default value for
 solution: Experience Manager
 title: TimeStamp
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e137f795-e0f7-4b72-b7e8-188e254bbb45
 ---
 # TimeStamp{#timestamp}

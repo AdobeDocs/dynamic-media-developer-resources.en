@@ -3,7 +3,7 @@ description: Error response image. Image Rendering normally returns an error sta
 solution: Experience Manager
 title: ErrorImage *
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ed48482f-79b0-4c81-b5cd-cf997f27d3ab
 ---
 # ErrorImage *{#errorimage}

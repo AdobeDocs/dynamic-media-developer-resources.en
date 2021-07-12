@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Zoom view
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 286b9df4-88db-4e5d-aab4-9cbe01195e57
 ---
 # Zoom view{#zoom-view}

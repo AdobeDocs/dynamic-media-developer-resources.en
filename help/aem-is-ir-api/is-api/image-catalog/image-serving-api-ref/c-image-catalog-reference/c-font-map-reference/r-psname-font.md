@@ -3,7 +3,7 @@ description: Postscript font face name. The Postscript font face name.
 solution: Experience Manager
 title: PsName
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 8d48dead-e544-4fd1-8e8a-70933389b668
 ---
 # PsName{#psname}

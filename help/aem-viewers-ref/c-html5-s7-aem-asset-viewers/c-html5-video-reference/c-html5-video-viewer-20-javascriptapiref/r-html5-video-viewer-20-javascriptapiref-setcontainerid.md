@@ -6,7 +6,7 @@ solution: Experience Manager
 title: setContainerId
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 9f2857a4-108d-4689-9c39-cb2635405d0d
 ---
 # setContainerId{#setcontainerid}

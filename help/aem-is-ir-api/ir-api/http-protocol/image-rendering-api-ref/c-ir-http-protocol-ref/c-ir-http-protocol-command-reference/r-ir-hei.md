@@ -3,7 +3,7 @@ description: Reply image height. Specifies scaling of the rendered image so that
 solution: Experience Manager
 title: hei
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 8e93aa32-b38e-46e4-be52-abd81222cfc3
 ---
 # hei{#hei}

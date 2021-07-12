@@ -3,7 +3,7 @@ description: The interactive swatches panel appears next to the video content if
 solution: Experience Manager
 title: Interactive swatches
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c9ef02eb-f5db-474b-b234-c49508e2af35
 ---
 # Interactive swatches{#interactive-swatches}

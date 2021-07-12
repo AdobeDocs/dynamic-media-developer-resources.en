@@ -3,7 +3,7 @@ description: All catalog files are plain text files.
 solution: Experience Manager
 title: File formats
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 973bdda4-76ca-487d-ba3f-afe8a80aa1d2
 ---
 # File formats{#file-formats}

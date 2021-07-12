@@ -3,7 +3,7 @@ description: The Image Serving utilities guide contains information about utilit
 solution: Experience Manager
 title: Image Serving utilities
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: afca4d90-546f-4725-85b4-25bd487d50f6
 ---
 # Image Serving utilities{#image-serving-utilities}

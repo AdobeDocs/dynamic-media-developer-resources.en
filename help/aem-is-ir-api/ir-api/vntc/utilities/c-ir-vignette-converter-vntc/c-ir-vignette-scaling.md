@@ -3,7 +3,7 @@ description: Four general types of production vignettes are supported.
 solution: Experience Manager
 title: Vignette scaling
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: f9f92254-41d8-4d22-a168-78b49dd55478
 ---
 # Vignette scaling{#vignette-scaling}

@@ -3,7 +3,7 @@ description: Use the following commands for encoding characters.
 solution: Experience Manager
 title: Character encoding
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: a03f08f7-e9cc-458f-9ff0-7721f1dbc4cc
 ---
 # Character encoding{#character-encoding}

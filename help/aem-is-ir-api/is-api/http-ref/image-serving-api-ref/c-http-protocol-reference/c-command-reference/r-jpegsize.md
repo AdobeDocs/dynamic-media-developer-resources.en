@@ -3,7 +3,7 @@ description: Jpeg Size in KiloBytes. Specifies the maximum size of the JPEG resp
 solution: Experience Manager
 title: jpegSize
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 08cecb09-100f-4671-b335-d59c88b0e1ef
 ---
 # jpegSize{#jpegsize}

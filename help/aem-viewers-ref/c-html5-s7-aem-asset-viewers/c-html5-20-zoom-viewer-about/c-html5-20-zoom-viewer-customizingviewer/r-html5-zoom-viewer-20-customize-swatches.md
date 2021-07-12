@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Swatches
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 7eaa4a6e-98e8-477b-9f45-66f8a79dfd85
 ---
 # Swatches{#swatches}

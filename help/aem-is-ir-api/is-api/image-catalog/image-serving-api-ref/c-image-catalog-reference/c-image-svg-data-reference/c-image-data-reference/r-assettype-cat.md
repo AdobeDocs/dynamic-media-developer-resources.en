@@ -3,7 +3,7 @@ description: Asset type. Used to identify the type of set published to catalog I
 solution: Experience Manager
 title: AssetType
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 84530842-4d2a-402a-b94b-45356cec5dc1
 ---
 # AssetType{#assettype}

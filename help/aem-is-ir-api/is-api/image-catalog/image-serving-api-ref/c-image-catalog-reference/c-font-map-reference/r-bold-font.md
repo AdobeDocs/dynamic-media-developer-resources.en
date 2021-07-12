@@ -3,7 +3,7 @@ description: Boldface flag. Specifies whether the font file referenced by this f
 solution: Experience Manager
 title: Bold
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 3a39bb3b-e518-400e-8e24-0ebfb55777c4
 ---
 # Bold{#bold}

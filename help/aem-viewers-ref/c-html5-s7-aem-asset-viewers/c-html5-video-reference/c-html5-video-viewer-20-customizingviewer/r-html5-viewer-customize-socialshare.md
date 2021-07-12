@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Social share
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 82b482f9-b117-4529-a422-cdb0eead0031
 ---
 # Social share{#social-share}

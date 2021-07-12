@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Twitter share
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 31b6f36d-e4bc-44e9-88a1-6aff6f2254ef
 ---
 # Twitter share{#twitter-share}

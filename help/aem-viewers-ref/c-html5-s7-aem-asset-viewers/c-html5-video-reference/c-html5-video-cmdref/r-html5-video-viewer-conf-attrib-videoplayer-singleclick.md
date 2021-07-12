@@ -6,7 +6,7 @@ solution: Experience Manager
 title: VideoPlayer.singleclick
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 2fd83645-16d4-45ce-8fa8-d97dc254691f
 ---
 # VideoPlayer.singleclick{#videoplayer-singleclick}

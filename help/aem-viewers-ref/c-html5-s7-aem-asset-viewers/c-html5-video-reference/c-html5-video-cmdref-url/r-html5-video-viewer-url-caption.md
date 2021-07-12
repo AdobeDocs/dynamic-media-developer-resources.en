@@ -6,7 +6,7 @@ solution: Experience Manager
 title: caption
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: a9af3335-ae18-4399-9014-47ec0306a087
 ---
 # caption{#caption}

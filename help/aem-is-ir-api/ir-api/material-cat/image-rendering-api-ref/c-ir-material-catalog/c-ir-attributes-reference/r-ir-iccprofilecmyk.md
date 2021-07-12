@@ -3,7 +3,7 @@ description: CMYK default color space. Specifies the name of the ICC color profi
 solution: Experience Manager
 title: IccProfileCmyk
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c36ea45d-dc91-4afa-825a-7af49738101c
 ---
 # IccProfileCmyk{#iccprofilecmyk}

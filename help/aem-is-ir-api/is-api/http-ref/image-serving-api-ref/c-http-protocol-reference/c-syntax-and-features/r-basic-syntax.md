@@ -3,7 +3,7 @@ description: The HTTP protocol basic syntax is as follows.
 solution: Experience Manager
 title: Image Serving HTTP protocol basic syntax
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ac75d6d0-a71e-45a0-89ee-b952a0202793
 ---
 # Image Serving HTTP protocol basic syntax{#image-serving-http-protocol-basic-syntax}

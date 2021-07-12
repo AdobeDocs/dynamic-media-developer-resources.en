@@ -3,7 +3,7 @@ description: JavaScript API reference for Carousel Viewer.
 solution: Experience Manager
 title: CarouselViewer
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 890d869d-dbf2-4c24-88d1-34c439ab1e3a
 ---
 # CarouselViewer{#carouselviewer}

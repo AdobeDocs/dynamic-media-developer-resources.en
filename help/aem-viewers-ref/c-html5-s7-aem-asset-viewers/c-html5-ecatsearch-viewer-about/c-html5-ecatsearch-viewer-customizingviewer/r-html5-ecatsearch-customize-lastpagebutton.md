@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Last page button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: fa1ff52c-6fb1-47e7-b3d4-216fea02bbd8
 ---
 # Last page button{#last-page-button}

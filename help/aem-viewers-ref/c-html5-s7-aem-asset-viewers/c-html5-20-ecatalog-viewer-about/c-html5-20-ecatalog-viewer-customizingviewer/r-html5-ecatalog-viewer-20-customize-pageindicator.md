@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Page indicator
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c63af583-274c-4052-8186-604119a368af
 ---
 # Page indicator{#page-indicator}

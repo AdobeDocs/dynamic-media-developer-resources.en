@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Caption button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 47d4a33b-e2bc-4a32-be45-5320d3de1955
 ---
 # Caption button{#caption-button}

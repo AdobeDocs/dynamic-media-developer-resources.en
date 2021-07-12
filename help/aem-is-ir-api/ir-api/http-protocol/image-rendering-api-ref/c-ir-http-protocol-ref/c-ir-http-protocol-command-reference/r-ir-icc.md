@@ -3,7 +3,7 @@ description: Output color profile.
 solution: Experience Manager
 title: icc
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 39b25f7c-ed3c-4132-8241-e7f3aab07b00
 ---
 # icc{#icc}

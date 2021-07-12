@@ -4,7 +4,7 @@ solution: Experience Manager
 title: Swatches.iscommand
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ed587082-3306-4914-916f-db37a823e199
 ---
 # Swatches.iscommand{#swatches-iscommand}

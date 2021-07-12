@@ -3,7 +3,7 @@ description: The Image Rendering API Reference contains information about settin
 solution: Experience Manager
 title: Image Rendering API
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e7cf4b21-8020-436a-b084-b81e9c8a8b9b
 ---
 # Image Rendering API{#image-rendering-api}

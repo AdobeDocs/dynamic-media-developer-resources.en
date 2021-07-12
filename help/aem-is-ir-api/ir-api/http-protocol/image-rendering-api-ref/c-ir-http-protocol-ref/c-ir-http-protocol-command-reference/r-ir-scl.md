@@ -3,7 +3,7 @@ description: Scale view. Scales the rendered image by the specified scale factor
 solution: Experience Manager
 title: scl
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e36db25c-af45-4256-b982-b7b06b87f5f9
 ---
 # scl{#scl}

@@ -3,7 +3,7 @@ description: The attributes described in this section are recognized in catalog 
 solution: Experience Manager
 title: Catalog attributes
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 591dbbbf-770b-4566-9dc2-9f1eefe438e4
 ---
 # Catalog attributes{#catalog-attributes}

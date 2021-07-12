@@ -3,7 +3,7 @@ description: Configuration attributes documentation for Interactive Image Viewer
 solution: Experience Manager
 title: Command reference – Configuration attributes
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 53c4b304-3b45-4ff0-91aa-a14f39ab1e94
 ---
 # Command reference – Configuration attributes{#command-reference-configuration-attributes}

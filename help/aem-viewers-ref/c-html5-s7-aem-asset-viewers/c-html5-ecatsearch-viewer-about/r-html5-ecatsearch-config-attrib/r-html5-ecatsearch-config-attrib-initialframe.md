@@ -4,7 +4,7 @@ solution: Experience Manager
 title: InitialFrame
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 15241738-a1b6-4723-b6fc-ebc8f7dedb03
 ---
 # InitialFrame{#initialframe}

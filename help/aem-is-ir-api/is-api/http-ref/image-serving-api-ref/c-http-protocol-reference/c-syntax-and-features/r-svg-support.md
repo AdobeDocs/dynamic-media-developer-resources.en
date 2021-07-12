@@ -3,7 +3,7 @@ description: Image Serving supports Scalable Vector Graphics (SVG) files as sour
 solution: Experience Manager
 title: SVG support
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 60e40195-710f-4f03-b152-52eaa10c5b21
 ---
 # SVG support{#svg-support}

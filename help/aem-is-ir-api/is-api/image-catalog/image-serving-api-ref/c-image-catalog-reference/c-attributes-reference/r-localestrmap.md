@@ -3,7 +3,7 @@ description: String translation map. Refers to a locId that can be mapped to any
 solution: Experience Manager
 title: LocaleStrMap
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 48a1c71c-78a9-43db-8b1a-4189d34b0982
 ---
 # LocaleStrMap{#localestrmap}

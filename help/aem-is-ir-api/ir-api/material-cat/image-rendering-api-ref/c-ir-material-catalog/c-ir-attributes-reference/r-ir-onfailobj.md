@@ -3,7 +3,7 @@ description: Object selection error handling. Specifies the action to be taken i
 solution: Experience Manager
 title: OnFailObj
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 0ed04daf-1797-4c12-ae6d-a9a008de9d1d
 ---
 # OnFailObj{#onfailobj}

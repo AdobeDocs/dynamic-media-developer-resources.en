@@ -3,7 +3,7 @@ description: Invert colors. Inverts each color component for a negative image ef
 solution: Experience Manager
 title: op_invert
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 1bcee775-32cb-4aa8-9f33-2f075e589940
 ---
 # op_invert{#op-invert}

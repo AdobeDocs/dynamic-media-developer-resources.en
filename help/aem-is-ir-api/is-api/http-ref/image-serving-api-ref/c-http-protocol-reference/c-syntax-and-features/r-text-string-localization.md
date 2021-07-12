@@ -3,7 +3,7 @@ description: Text string localization allows image catalogs to contain multiple 
 solution: Experience Manager
 title: Text string localization
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: f105c7f2-b544-4c08-bb91-4916e485572d
 ---
 # Text string localization{#text-string-localization}

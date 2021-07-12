@@ -4,7 +4,7 @@ solution: Experience Manager
 title: SpinView.singleclick
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 92a497dc-c6b5-4b2d-8095-08bc6ad3d189
 ---
 # SpinView.singleclick{#spinview-singleclick}

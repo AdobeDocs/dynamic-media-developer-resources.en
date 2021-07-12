@@ -3,7 +3,7 @@ description: Configuration attribute for Carousel Viewer.
 solution: Experience Manager
 title: CarouselView.autoplay
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 43b5c169-0ef6-4a12-a777-d36c1a8d1771
 ---
 # CarouselView.autoplay{#carouselview-autoplay}

@@ -4,7 +4,7 @@ solution: Experience Manager
 title: VideoScrubber.timepattern
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 0536110e-a885-4fd4-baa8-742fcdba5cc9
 ---
 # VideoScrubber.timepattern{#videoscrubber-timepattern}

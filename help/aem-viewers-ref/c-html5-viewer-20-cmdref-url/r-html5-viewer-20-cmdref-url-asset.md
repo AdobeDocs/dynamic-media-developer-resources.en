@@ -3,7 +3,7 @@ description: Parameter common to all viewers.
 solution: Experience Manager
 title: asset
 feature: Dynamic Media Classic,Viewers,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: edcd18b6-5292-44da-80be-b7f75ee4c48e
 ---
 # asset{#asset}

@@ -3,7 +3,7 @@ description: Client cache time to live. Number of hours until expiration. Used t
 solution: Experience Manager
 title: Expiration
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 5717d568-467e-495b-b963-9b3d42e866a6
 ---
 # Expiration{#expiration}

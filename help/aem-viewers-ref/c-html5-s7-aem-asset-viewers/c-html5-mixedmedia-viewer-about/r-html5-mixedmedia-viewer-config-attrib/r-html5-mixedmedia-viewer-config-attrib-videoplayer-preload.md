@@ -6,7 +6,7 @@ solution: Experience Manager
 title: VideoPlayer.preload
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 90fb988a-255c-46fe-b05a-39c95ae8b95d
 ---
 # VideoPlayer.preload{#videoplayer-preload}

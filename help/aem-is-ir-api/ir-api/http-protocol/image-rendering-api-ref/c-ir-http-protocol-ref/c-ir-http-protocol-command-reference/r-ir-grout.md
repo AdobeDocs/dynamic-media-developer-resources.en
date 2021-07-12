@@ -3,7 +3,7 @@ description: Tile grout color and thickness. Simulates grout for ceramic and nat
 solution: Experience Manager
 title: grout
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 6647b459-11d2-47e4-9033-3a740f01a623
 ---
 # grout{#grout}

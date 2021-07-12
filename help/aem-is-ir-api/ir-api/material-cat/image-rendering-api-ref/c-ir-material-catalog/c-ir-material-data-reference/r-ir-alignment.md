@@ -3,7 +3,7 @@ description: Texture alignment. Alignment of the texture when applied to vignett
 solution: Experience Manager
 title: Alignment
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 19f94b45-5412-46d5-9a01-d7536bc92e00
 ---
 # Alignment{#alignment}

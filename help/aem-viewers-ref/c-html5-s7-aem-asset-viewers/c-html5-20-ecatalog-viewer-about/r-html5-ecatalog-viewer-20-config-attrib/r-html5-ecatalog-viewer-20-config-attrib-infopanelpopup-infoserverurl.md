@@ -4,7 +4,7 @@ solution: Experience Manager
 title: InfoPanelPopup.infoServerUrl
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 83abaecb-cc85-4918-98ed-2770b4ca407b
 ---
 # InfoPanelPopup.infoServerUrl{#infopanelpopup-infoserverurl}

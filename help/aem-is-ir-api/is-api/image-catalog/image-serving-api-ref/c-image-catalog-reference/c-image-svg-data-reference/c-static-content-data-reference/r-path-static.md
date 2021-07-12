@@ -3,7 +3,7 @@ description: Path
 solution: Experience Manager
 title: Path
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 9f273f32-1699-4bc3-8dd0-f1dfefaa6e27
 ---
 # Path{#path}

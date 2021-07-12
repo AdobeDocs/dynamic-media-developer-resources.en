@@ -3,7 +3,7 @@ description: This documentation discusses server administration issues and descr
 solution: Experience Manager
 title: Server administration preface
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: 65fc3510-3d47-4650-bf89-322b517dc004
 ---
 # Server administration preface{#server-administration-preface}

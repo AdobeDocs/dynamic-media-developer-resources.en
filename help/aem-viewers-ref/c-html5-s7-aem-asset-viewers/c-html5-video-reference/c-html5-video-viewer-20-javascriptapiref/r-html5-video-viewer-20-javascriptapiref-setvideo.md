@@ -6,7 +6,7 @@ solution: Experience Manager
 title: setVideo
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c89099f6-09f7-4d81-939e-90ffa2764c8c
 ---
 # setVideo{#setvideo}

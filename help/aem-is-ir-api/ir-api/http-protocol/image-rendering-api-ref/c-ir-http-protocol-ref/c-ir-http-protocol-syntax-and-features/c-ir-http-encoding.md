@@ -3,7 +3,7 @@ description: Command values must be http-encoded using %xx escape sequences, suc
 solution: Experience Manager
 title: Image Rendering HTTP encoding
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: a1efc4ce-a170-4bdb-8584-407e07113272
 ---
 # Image Rendering HTTP encoding{#image-rendering-http-encoding}

@@ -3,7 +3,7 @@ description: Clicking or tapping this button spins the image to the right in mai
 solution: Experience Manager
 title: Spin right button
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 2e70ad27-9fce-4a18-b856-08aa6dbec3f2
 ---
 # Spin right button{#spin-right-button}

@@ -3,7 +3,7 @@ description: Layers are positioned by aligning the layer origin (origin=) with t
 solution: Experience Manager
 title: Layer placement
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 1ce7bef3-a0f8-44fc-a146-7e819c30eee8
 ---
 # Layer placement{#layer-placement}

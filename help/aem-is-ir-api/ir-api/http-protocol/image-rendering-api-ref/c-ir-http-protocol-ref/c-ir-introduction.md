@@ -3,7 +3,7 @@ description: This document describes the HTTP protocol for Dynamic Media Image R
 solution: Experience Manager
 title: Introduction
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c185e45b-a56c-4576-b05d-22cc0025a7c4
 ---
 # Introduction{#introduction}

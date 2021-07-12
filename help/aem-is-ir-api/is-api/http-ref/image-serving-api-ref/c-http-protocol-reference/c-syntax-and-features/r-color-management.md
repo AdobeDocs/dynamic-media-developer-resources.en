@@ -3,7 +3,7 @@ description: Image Serving supports color space conversions based on color space
 solution: Experience Manager
 title: Image Serving color management
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 0c9a489c-36e0-4934-b9c5-33414a9ce0b8
 ---
 # Image Serving color management{#image-serving-color-management}

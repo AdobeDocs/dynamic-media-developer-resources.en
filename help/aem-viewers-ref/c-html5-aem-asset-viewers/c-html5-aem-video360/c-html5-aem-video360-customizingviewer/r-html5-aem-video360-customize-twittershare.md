@@ -3,7 +3,7 @@ description: Twitter share tool consists of a button added to the Social share p
 solution: Experience Manager
 title: Twitter share
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: a90a4c82-b51a-4fb0-9196-44ae4ba8e0cd
 ---
 # Twitter share{#twitter-share}

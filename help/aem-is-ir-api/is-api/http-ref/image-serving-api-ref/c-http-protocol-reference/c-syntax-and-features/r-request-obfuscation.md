@@ -3,7 +3,7 @@ description: The contents of the entire modifiers part of request string, includ
 solution: Experience Manager
 title: Request obfuscation
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 358d714b-703d-418b-90c0-5940f5388c7d
 ---
 # Request obfuscation{#request-obfuscation}

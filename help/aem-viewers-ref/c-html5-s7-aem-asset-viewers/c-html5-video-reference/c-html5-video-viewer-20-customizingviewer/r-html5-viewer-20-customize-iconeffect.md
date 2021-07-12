@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Icon effect
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: f4bf343a-4a78-470b-abe5-94e2d608f45d
 ---
 # Icon effect{#icon-effect}

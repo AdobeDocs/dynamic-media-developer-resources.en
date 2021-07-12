@@ -4,7 +4,7 @@ solution: Experience Manager
 title: ZoomView.iscommand
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: d1f54ef2-4ed4-4fb6-9913-98bf194f9afc
 ---
 # ZoomView.iscommand{#zoomview-iscommand}

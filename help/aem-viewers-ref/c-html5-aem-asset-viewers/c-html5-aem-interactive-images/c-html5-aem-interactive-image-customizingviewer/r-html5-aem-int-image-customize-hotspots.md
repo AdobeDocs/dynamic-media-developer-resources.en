@@ -3,7 +3,7 @@ description: The viewer displays hotspot icons over the main view in places wher
 solution: Experience Manager
 title: Hotspots
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ec1d9a91-e189-470a-abe2-4f33686905e7
 ---
 # Hotspots{#hotspots}

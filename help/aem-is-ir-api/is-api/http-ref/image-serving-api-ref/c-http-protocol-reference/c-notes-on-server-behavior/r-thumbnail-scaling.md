@@ -3,7 +3,7 @@ description: Step 2 of the image layer transforms is modified as follows for thu
 solution: Experience Manager
 title: Thumbnail scaling
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 08290258-4fc8-4a6a-ba8f-6bdcd969fa3c
 ---
 # Thumbnail scaling{#thumbnail-scaling}

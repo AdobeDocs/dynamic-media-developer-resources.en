@@ -3,7 +3,7 @@ description: Default background color. RGB value used to fill in any area of a r
 solution: Experience Manager
 title: BkgColor
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: f008c834-30fb-4a49-8e6c-1110e55af280
 ---
 # BkgColor{#bkgcolor}

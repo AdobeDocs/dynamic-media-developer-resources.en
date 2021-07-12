@@ -3,7 +3,7 @@ description: Perspective transform. Apply a perspective transform to the layer s
 solution: Experience Manager
 title: perspective
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 2e0297b0-c9a4-4bbd-9f06-368f722288d4
 ---
 # perspective{#perspective}

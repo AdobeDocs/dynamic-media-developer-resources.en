@@ -3,7 +3,7 @@ description: This release—Image Serving 6.6.1 and Image Rendering 6.6.1—supe
 solution: Experience Manager
 title: About this release
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: f837191b-1151-4c29-8059-b4d3e09e304e
 ---
 # About this release{#about-this-release}

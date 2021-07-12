@@ -3,7 +3,7 @@ description: Cabinets materials specify a cabinet style file (.vnc file extensio
 solution: Experience Manager
 title: Cabinets
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: cdb3ed5e-c396-483d-aea0-2b3f24efe56e
 ---
 # Cabinets{#cabinets}

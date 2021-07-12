@@ -4,7 +4,7 @@ solution: Experience Manager
 title: ZoomView.reset
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 89407f4d-ff83-46e5-89f0-4fc3547c700b
 ---
 # ZoomView.reset{#zoomview-reset}

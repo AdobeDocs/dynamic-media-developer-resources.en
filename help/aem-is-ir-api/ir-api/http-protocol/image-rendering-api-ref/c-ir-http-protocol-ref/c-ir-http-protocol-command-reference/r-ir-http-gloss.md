@@ -3,7 +3,7 @@ description: Material surface glossiness. Specifies the relative glossiness of t
 solution: Experience Manager
 title: gloss
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 6df6cd05-9462-4c1e-a7ac-efac3461cf11
 ---
 # gloss{#gloss}

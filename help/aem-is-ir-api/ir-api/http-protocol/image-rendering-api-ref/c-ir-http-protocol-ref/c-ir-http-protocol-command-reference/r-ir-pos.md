@@ -3,7 +3,7 @@ description: Decal position. Defines the offset in inches from the anchor= point
 solution: Experience Manager
 title: pos
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 531f1465-2bec-46b6-a41e-54d993cbf410
 ---
 # pos{#pos}

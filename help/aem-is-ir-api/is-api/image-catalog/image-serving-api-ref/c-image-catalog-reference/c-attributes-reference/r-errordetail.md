@@ -3,7 +3,7 @@ description: Error message detail. Specifies the level of detail for error messa
 solution: Experience Manager
 title: ErrorDetail
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 08a363d0-918d-48e9-aef0-5a8554c2708a
 ---
 # ErrorDetail{#errordetail}

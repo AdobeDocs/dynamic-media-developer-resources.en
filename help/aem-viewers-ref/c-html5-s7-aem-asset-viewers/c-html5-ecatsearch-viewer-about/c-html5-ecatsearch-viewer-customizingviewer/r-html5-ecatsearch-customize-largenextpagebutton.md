@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Large next page button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 5d1bee54-ec16-40fe-9653-ba7e02774cbb
 ---
 # Large next page button{#large-next-page-button}

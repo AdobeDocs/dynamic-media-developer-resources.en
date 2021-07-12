@@ -4,7 +4,7 @@ solution: Experience Manager
 title: Swatches.align
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: d9db34f3-66df-45c2-9727-bdcdf09773db
 ---
 # Swatches.align{#swatches-align}

@@ -4,7 +4,7 @@ solution: Experience Manager
 title: FavoritesView.align
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 1cc46e3d-c9c7-4946-b957-ba4eff20dee0
 ---
 # FavoritesView.align{#favoritesview-align}

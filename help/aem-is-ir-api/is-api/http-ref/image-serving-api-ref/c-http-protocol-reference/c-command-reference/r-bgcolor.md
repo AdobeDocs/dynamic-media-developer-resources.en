@@ -3,7 +3,7 @@ description: Layer Background Color. Specifies the background color and opacity 
 solution: Experience Manager
 title: bgColor
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 22c957e6-1a82-43a7-8467-871a150e7453
 ---
 # bgColor{#bgcolor}

@@ -3,7 +3,7 @@ description: Cache control. Allows selectively disabling client-side caching (br
 solution: Experience Manager
 title: cache
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 622c36fa-c209-4149-a7db-85067215b5e5
 ---
 # cache{#cache}

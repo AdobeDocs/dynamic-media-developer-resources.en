@@ -3,7 +3,7 @@ description: Create a "paper doll" layering application.
 solution: Experience Manager
 title: Example C
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 70232055-2a4c-4e56-8076-3cd56a9004c5
 ---
 # Example C{#example-c}

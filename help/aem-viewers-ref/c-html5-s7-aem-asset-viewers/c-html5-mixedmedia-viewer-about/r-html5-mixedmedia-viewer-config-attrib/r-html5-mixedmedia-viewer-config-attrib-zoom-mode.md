@@ -6,7 +6,7 @@ solution: Experience Manager
 title: zoomMode
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: a399ed5e-acc3-4c45-9c84-9fa572667489
 ---
 # zoomMode{#zoommode}

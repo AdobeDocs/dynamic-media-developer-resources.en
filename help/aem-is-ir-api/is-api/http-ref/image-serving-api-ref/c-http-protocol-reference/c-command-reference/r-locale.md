@@ -3,7 +3,7 @@ description: Translation Locale Id. Specifies the locale id for the request.
 solution: Experience Manager
 title: locale
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: d937dfa5-95dd-49fd-ac23-e77e07b0642c
 ---
 # locale{#locale}

@@ -3,7 +3,7 @@ description: JavaScript API reference for Carousel Viewer.
 solution: Experience Manager
 title: setLocalizedTexts
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 8ffb8960-187a-43ab-8081-7dfd95d4c75d
 ---
 # setLocalizedTexts{#setlocalizedtexts}

@@ -4,7 +4,7 @@ solution: Experience Manager
 title: ZoomView.fmt
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 7cb75d38-a577-4e06-b679-c4e00db5059a
 ---
 # ZoomView.fmt{#zoomview-fmt}

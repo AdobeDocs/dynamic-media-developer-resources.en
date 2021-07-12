@@ -6,7 +6,7 @@ solution: Experience Manager
 title: setAsset
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 71525aac-b8ca-4f5a-a770-268857ddae4f
 ---
 # setAsset{#setasset}

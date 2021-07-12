@@ -3,7 +3,7 @@ description: Image Serving provides a mechanism for fetching a hierarchial text 
 solution: Experience Manager
 title: Media set requests
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 71efed33-6248-4d23-ab4e-2caec3449171
 ---
 # Media set requests{#media-set-requests}

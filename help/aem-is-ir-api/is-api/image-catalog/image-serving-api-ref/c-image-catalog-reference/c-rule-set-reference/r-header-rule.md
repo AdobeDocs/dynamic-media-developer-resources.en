@@ -3,7 +3,7 @@ description: HTTP response header element. Optional in <rule> elements.
 solution: Experience Manager
 title: header
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 40849602-16b2-471b-9128-14653e84a45a
 ---
 # header{#header}

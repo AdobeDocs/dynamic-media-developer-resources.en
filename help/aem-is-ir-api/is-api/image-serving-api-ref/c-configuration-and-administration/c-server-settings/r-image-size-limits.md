@@ -3,7 +3,7 @@ description: Use these server settings to set image size limits.
 solution: Experience Manager
 title: Image size limits
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: 75ec58ee-8c98-46cb-96b2-79d1c32e576f
 ---
 # Image size limits{#image-size-limits}

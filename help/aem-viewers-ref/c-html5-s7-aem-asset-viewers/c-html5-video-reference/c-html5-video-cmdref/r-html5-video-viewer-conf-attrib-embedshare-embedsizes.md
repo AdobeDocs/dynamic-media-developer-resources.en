@@ -6,7 +6,7 @@ solution: Experience Manager
 title: EmbedShare.embedsizes
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: cf075711-1275-4eb2-8cb6-fb2609711c7a
 ---
 # EmbedShare.embedsizes{#embedshare-embedsizes}

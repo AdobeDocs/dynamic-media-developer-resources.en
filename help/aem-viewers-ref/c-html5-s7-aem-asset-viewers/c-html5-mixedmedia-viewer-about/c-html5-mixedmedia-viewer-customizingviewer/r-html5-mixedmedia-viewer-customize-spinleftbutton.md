@@ -3,7 +3,7 @@ description: Clicking or tapping this button spins the image to the left in main
 solution: Experience Manager
 title: Spin left button
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 0c7ca422-f4ac-4ad1-ab51-8521b4d4b20e
 ---
 # Spin left button{#spin-left-button}

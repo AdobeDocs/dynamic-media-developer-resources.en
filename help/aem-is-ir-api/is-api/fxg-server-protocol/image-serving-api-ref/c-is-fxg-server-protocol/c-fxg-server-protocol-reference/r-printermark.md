@@ -3,7 +3,7 @@ description: Display printer marks. Specifies how to display the printer marks.
 solution: Experience Manager
 title: printerMark
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: f61c7311-a2e9-4eb7-ae05-276a4eec980b
 ---
 # printerMark{#printermark}

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: VideoPlayer.playback
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: accf2b56-d7bd-483d-9759-fa38246a0a8f
 ---
 # VideoPlayer.playback{#videoplayer-playback}

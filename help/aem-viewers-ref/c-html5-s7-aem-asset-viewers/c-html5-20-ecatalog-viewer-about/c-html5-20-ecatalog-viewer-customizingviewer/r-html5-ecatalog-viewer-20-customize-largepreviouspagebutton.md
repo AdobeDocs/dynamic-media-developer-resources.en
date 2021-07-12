@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Large previous page button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 51c2fe1a-c14e-4a87-887b-f97546a517a4
 ---
 # Large previous page button{#large-previous-page-button}

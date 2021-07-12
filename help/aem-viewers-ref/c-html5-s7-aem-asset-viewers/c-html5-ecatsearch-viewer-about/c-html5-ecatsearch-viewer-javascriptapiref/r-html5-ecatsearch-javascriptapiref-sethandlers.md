@@ -6,7 +6,7 @@ solution: Experience Manager
 title: setHandlers
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 33779874-2ab9-490a-8eaf-726adaa76327
 ---
 # setHandlers{#sethandlers}

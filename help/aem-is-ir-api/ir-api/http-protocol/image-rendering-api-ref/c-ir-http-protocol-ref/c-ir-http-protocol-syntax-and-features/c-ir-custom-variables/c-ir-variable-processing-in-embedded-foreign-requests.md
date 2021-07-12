@@ -3,7 +3,7 @@ description: $var$ references occurring anywhere within the curly braces of an e
 solution: Experience Manager
 title: Variable processing in embedded foreign requests
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: a87bb2a0-0554-4978-982d-b6617925cd53
 ---
 # Variable processing in embedded foreign requests{#variable-processing-in-embedded-foreign-requests}

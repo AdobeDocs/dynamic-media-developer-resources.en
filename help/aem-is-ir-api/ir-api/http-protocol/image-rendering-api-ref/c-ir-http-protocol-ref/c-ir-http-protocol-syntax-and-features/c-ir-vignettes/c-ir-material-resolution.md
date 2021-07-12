@@ -3,7 +3,7 @@ description: The resolution value of a repeatable texture or other material defi
 solution: Experience Manager
 title: Material resolution
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 8a02e555-87cf-47a8-823d-d6833c0fd9c7
 ---
 # Material resolution{#material-resolution}

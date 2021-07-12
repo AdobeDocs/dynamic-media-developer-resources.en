@@ -3,7 +3,7 @@ description: Flip Layer. Flips the layer horizontally, vertically, or both, afte
 solution: Experience Manager
 title: flip
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 451d8b4d-0f22-41f3-ac86-435797c23ea3
 ---
 # flip{#flip}

@@ -3,7 +3,7 @@ description: Use these server settings for SSL.
 solution: Experience Manager
 title: SSL
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: 4a5c52cc-de47-48e0-ac92-6ee66a58a7ea
 ---
 # SSL{#ssl}

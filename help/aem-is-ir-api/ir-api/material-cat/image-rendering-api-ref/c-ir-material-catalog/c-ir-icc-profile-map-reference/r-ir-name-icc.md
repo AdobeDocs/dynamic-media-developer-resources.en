@@ -3,7 +3,7 @@ description: Profile shortcut name. A shortcut name for the color profile.
 solution: Experience Manager
 title: Name
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 6ee166db-09a8-4804-926f-8b1ebddb3c77
 ---
 # Name{#name}

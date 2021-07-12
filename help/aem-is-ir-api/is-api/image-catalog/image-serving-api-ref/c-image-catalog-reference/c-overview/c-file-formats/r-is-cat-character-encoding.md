@@ -3,7 +3,7 @@ description: Image Serving supports image catalogs with ISO‑8859‑1 and UTF�
 solution: Experience Manager
 title: Character encoding
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e6e50c2a-53d3-4776-a3f6-4a9d3407e562
 ---
 # Character encoding{#character-encoding}

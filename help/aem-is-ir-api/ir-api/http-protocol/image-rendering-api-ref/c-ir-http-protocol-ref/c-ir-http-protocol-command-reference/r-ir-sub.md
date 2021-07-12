@@ -3,7 +3,7 @@ description: Sub selection. Permits applying different materials to different ar
 solution: Experience Manager
 title: sub
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c9968fbb-c38b-4180-81be-19992fa8f347
 ---
 # sub{#sub}

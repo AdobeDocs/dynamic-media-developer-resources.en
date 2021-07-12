@@ -3,7 +3,7 @@ description: The Vignette Converter (vntc) is a command line utility used to pre
 solution: Experience Manager
 title: Vignette Converter
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 9e2ad2d4-9061-41d1-941b-8be4c17a6c43
 ---
 # Vignette Converter{#vignette-converter}

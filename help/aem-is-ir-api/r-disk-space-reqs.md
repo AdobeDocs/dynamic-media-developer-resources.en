@@ -3,7 +3,7 @@ description: In addition to the space necessary to install the software, Image S
 solution: Experience Manager
 title: Disk space requirements and recommendations
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 35486f3f-f0aa-4b69-a1d2-4bc6b5e41c43
 ---
 # Disk space requirements and recommendations{#disk-space-requirements-and-recommendations}

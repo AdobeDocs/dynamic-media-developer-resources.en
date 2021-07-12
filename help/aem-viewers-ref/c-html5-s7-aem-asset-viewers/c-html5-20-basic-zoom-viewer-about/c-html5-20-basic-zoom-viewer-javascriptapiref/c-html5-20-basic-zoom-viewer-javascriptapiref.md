@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Javascript API reference for Basic Zoom Viewer
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: d01c2efc-34f3-4719-ad7a-8da35dfa06ef
 ---
 # Javascript API reference for Basic Zoom Viewer{#javascript-api-reference-for-basic-zoom-viewer}

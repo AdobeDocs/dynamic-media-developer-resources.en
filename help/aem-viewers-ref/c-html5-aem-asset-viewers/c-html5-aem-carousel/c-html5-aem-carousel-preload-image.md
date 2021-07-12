@@ -3,7 +3,7 @@ description: Preload image is a static asset preview image which loads right aft
 solution: Experience Manager
 title: Preload image
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 8caf156f-d641-44e9-94f9-5ba3245061a3
 ---
 # Preload image{#preload-image}

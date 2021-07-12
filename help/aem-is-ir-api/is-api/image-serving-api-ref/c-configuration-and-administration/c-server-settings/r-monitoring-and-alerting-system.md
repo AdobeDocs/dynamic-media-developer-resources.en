@@ -3,7 +3,7 @@ description: Use these server settings to configure the monitoring and alerting 
 solution: Experience Manager
 title: Monitoring and alerting system
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: fe672d1b-93e5-466a-a329-3032095c6ba8
 ---
 # Monitoring and alerting system{#monitoring-and-alerting-system}

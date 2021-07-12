@@ -4,7 +4,7 @@ solution: Experience Manager
 title: FavoritesView.maxloadradius
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 440f147e-865c-4615-8d83-ea6431271612
 ---
 # FavoritesView.maxloadradius{#favoritesview-maxloadradius}

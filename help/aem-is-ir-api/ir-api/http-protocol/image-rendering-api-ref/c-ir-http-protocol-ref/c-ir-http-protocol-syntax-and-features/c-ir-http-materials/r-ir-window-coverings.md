@@ -3,7 +3,7 @@ description: Window covering materials include both soft window coverings (drape
 solution: Experience Manager
 title: Window coverings
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ce6543a1-2438-4661-95bf-ff3d956013bc
 ---
 # Window coverings{#window-coverings}

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Focus highlight
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 5849dc2f-d4df-40a2-82c9-454284308a04
 ---
 # Focus highlight{#focus-highlight}

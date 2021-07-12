@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Command reference – URL
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 1ed78e0d-9b93-4c66-b558-fac15c51e944
 ---
 # Command reference – URL{#command-reference-url}

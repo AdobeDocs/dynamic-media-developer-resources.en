@@ -3,7 +3,7 @@ description: JavaScript API reference for Mixed Media Viewer.
 solution: Experience Manager
 title: setHandlers
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e30f1b73-1dba-4d4c-9e90-f343ca404550
 ---
 # setHandlers{#sethandlers}

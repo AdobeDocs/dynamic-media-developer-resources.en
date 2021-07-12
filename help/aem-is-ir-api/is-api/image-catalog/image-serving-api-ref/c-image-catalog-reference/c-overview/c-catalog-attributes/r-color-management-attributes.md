@@ -3,7 +3,7 @@ description: Catalog attribute files recognize these color management attributes
 solution: Experience Manager
 title: Color management attributes
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ded6bfe7-3e39-4e45-83f0-21e9bf92895f
 ---
 # Color management attributes{#color-management-attributes}

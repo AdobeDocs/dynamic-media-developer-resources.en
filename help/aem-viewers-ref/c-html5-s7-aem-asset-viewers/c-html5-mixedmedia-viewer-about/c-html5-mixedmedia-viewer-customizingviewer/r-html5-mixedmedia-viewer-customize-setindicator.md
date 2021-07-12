@@ -3,7 +3,7 @@ description: Set indicator is a series of dots rendered on top of main swatches 
 solution: Experience Manager
 title: Set indicator
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 53ee058a-cb8c-4b1f-bb9b-caaecc12c947
 ---
 # Set indicator{#set-indicator}

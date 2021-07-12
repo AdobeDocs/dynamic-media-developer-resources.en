@@ -4,7 +4,7 @@ solution: Experience Manager
 title: PageView.zoomstep
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 64cce312-c13b-49c7-af85-3349ff5c4322
 ---
 # PageView.zoomstep{#pageview-zoomstep}

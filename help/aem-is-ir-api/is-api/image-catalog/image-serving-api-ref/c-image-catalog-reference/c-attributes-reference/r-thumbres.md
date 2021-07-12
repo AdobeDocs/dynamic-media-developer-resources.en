@@ -3,7 +3,7 @@ description: Default thumbnail resolution. Provides a default for the thumbnail 
 solution: Experience Manager
 title: ThumbRes
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 0abb680e-8944-4ad8-9b6c-d0a7559fdd1b
 ---
 # ThumbRes{#thumbres}

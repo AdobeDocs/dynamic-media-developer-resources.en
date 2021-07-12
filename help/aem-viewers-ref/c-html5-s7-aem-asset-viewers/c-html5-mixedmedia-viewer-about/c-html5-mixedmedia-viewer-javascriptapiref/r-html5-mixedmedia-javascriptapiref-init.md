@@ -3,7 +3,7 @@ description: JavaScript API reference for Mixed Media Viewer.
 solution: Experience Manager
 title: init
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 4fb40cec-172a-41b3-98fc-927da88c7cb9
 ---
 # init{#init}

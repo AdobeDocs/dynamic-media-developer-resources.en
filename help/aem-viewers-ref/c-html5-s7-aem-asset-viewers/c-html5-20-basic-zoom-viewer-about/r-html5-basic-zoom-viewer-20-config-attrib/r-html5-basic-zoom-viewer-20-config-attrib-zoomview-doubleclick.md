@@ -4,7 +4,7 @@ solution: Experience Manager
 title: ZoomView.doubleclick
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 38c90d7f-ddbc-4123-b90d-02f9cabd785c
 ---
 # ZoomView.doubleclick{#zoomview-doubleclick}

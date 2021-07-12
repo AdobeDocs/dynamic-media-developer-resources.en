@@ -4,7 +4,7 @@ solution: Experience Manager
 title: Swatches.partialswatches
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c689102d-360f-4529-9f17-27835dd4e21e
 ---
 # Swatches.partialswatches{#swatches-partialswatches}

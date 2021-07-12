@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Spin left button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 2dba30d5-d257-4427-9476-ab695b6603aa
 ---
 # Spin left button{#spin-left-button}

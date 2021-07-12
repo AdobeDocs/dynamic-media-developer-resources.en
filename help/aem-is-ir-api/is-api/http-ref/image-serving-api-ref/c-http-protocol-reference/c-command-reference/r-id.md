@@ -3,7 +3,7 @@ description: Image/Metadata Version. When working with content that changes freq
 solution: Experience Manager
 title: id
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 3cdd27e4-14d2-42ef-aedb-9c1f7c39b4c6
 ---
 # id{#id}

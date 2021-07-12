@@ -3,7 +3,7 @@ description: Dominant image color. Subtractive color, used for texture colorizin
 solution: Experience Manager
 title: BaseColor
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 57de25f9-ed99-4d4c-ac0e-08d382e8a36f
 ---
 # BaseColor{#basecolor}

@@ -3,7 +3,7 @@ description: Scene 7 Image Serving consists of the following components
 solution: Experience Manager
 title: Image Serving components
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 67dd37f3-b11e-42d6-b308-7c1e76a8f2a9
 ---
 # Image Serving components{#image-serving-components}

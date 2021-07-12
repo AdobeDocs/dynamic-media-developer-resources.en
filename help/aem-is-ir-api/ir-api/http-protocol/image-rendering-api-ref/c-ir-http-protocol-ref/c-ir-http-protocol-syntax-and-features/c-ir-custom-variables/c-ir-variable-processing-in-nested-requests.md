@@ -3,7 +3,7 @@ description: $var$ references may occur anywhere within the curly braces of a ne
 solution: Experience Manager
 title: Variable processing in nested requests
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: fa82ec48-aeec-4cd9-8d2e-cf9c913c67a7
 ---
 # Variable processing in nested requests{#variable-processing-in-nested-requests}

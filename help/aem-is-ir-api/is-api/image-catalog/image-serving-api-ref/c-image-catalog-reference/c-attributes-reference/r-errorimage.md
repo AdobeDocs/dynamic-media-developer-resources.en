@@ -3,7 +3,7 @@ description: Error response image. Image Serving normally returns an error statu
 solution: Experience Manager
 title: ErrorImage
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: f412a379-525e-42fc-97bf-b10e00da6a20
 ---
 # ErrorImage{#errorimage}

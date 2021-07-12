@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Thumbnails button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ddd976ca-6043-4930-8ce6-f58fad226ff3
 ---
 # Thumbnails button{#thumbnails-button}

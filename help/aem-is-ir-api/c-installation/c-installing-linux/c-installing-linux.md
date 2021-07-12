@@ -3,7 +3,7 @@ description: Image Serving can be installed on Linux.
 solution: Experience Manager
 title: Installing on Linux
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: dec2d67d-fd2c-4856-9cb7-085d668d42fb
 ---
 # Installing on Linux{#installing-on-linux}

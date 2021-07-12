@@ -4,7 +4,7 @@ solution: Experience Manager
 title: SpinView.transition
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: fcffe282-65a5-4093-8838-71a64085b387
 ---
 # SpinView.transition{#spinview-transition}

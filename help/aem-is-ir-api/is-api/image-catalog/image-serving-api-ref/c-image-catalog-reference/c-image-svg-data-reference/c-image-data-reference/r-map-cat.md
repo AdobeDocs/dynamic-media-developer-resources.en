@@ -3,7 +3,7 @@ description: Image map data. None or more complete HTML <AREA> elements, sorted 
 solution: Experience Manager
 title: Map
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e9490b5c-0f85-4256-8590-0d6aa52a19d5
 ---
 # Map{#map}

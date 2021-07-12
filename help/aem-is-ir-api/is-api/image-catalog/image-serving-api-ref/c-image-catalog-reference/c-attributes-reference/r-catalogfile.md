@@ -3,7 +3,7 @@ description: Image data file paths. Specifies the files that contain the image d
 solution: Experience Manager
 title: CatalogFile
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 240a3884-68dd-474c-83a6-d79fc5b6c300
 ---
 # CatalogFile{#catalogfile}

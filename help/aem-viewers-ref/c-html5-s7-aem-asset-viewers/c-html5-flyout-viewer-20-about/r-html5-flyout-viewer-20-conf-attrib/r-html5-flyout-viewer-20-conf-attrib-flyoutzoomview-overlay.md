@@ -4,7 +4,7 @@ solution: Experience Manager
 title: FlyoutZoomView.overlay
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 7fbf24c6-900f-4e94-b879-3a8f95dc5c08
 ---
 # FlyoutZoomView.overlay{#flyoutzoomview-overlay}

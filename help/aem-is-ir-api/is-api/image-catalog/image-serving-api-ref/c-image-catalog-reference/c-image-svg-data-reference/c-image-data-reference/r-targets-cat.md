@@ -3,7 +3,7 @@ description: Zoom target data. None or more zoom target properties, which may be
 solution: Experience Manager
 title: Targets
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: b882ba01-a1ef-4179-95c7-964c2578aad1
 ---
 # Targets{#targets}

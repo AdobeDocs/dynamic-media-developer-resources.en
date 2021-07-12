@@ -4,7 +4,7 @@ solution: Experience Manager
 title: SearchPanel.fmt
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: a713b8f1-e834-457d-b038-eb30b25f905f
 ---
 # SearchPanel.fmt{#searchpanel-fmt}

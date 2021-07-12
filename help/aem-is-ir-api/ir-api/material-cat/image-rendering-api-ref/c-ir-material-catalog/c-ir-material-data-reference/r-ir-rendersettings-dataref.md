@@ -3,7 +3,7 @@ description: Advanced render settings. Advanced render settings are used to cont
 solution: Experience Manager
 title: RenderSettings
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 37b806f8-e314-4532-a28c-1cc4ab939f09
 ---
 # RenderSettings{#rendersettings}

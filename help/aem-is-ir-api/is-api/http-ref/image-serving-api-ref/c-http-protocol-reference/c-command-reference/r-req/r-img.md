@@ -3,7 +3,7 @@ description: Image (default). Requests standard image data.
 solution: Experience Manager
 title: img
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 5338358e-755b-41d6-a941-8754d0deb9aa
 ---
 # img{#img}

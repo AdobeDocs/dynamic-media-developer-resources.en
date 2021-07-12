@@ -3,7 +3,7 @@ description: The viewer supports playing video hosted outside of Dynamic Media C
 solution: Experience Manager
 title: External video support
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: b42e67cb-6959-4eea-8d45-49481e0e9d80
 ---
 # External video support{#external-video-support}

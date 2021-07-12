@@ -7,7 +7,7 @@ solution: Experience Manager
 title: Customizing Spin Viewer
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: eb2ad4ee-933f-408d-955e-be9bb7484192
 ---
 # Customizing Spin Viewer{#customizing-spin-viewer}

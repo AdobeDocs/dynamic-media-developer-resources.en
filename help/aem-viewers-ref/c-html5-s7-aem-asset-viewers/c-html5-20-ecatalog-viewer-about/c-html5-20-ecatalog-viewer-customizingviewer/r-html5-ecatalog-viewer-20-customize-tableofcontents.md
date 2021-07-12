@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Table of contents
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 9b61e269-201d-4083-9c47-0b73d55aa6ed
 ---
 # Table of contents{#table-of-contents}

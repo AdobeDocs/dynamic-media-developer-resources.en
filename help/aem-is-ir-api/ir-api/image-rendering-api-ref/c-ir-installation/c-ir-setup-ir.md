@@ -3,7 +3,7 @@ description: Image Rendering is configured with the fileinstall_folder/conf/Imag
 solution: Experience Manager
 title: Setup and configure Image Rendering
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 126833bf-16db-40f1-8179-7775e9063081
 ---
 # Setup and configure Image Rendering{#setup-and-configure-image-rendering}

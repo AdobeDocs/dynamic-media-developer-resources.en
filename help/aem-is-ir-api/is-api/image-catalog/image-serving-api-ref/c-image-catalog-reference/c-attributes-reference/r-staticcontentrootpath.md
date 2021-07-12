@@ -3,7 +3,7 @@ description: Static content data root path. Absolute path or relative path segme
 solution: Experience Manager
 title: StaticContentRootPath
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 55ca44cd-4330-47e6-94cc-58c078d34bbd
 ---
 # StaticContentRootPath{#staticcontentrootpath}

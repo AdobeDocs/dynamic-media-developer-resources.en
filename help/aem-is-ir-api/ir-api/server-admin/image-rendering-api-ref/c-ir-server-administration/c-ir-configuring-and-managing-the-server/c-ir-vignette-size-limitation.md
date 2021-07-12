@@ -3,7 +3,7 @@ description: Image Rendering enforces a two Megapixel size limitation for non-py
 solution: Experience Manager
 title: Vignette size limitation
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: 69116b7f-45c0-42ed-9114-d01db3ce16be
 ---
 # Vignette size limitation{#vignette-size-limitation}

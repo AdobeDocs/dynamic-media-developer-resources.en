@@ -3,7 +3,7 @@ description: Use these server settings for cache clustering.
 solution: Experience Manager
 title: Cache clustering
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: bd0267e7-ebf5-4995-b55e-89cb1a58de6d
 ---
 # Cache clustering{#cache-clustering}

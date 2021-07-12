@@ -3,7 +3,7 @@ description: Layer position.
 solution: Experience Manager
 title: pos
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c2e9a1f3-7216-4ab0-9c37-57f083119cef
 ---
 # pos{#pos}

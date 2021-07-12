@@ -3,7 +3,7 @@ description: Certain content that the Interactive Video Viewer displays is subje
 solution: Experience Manager
 title: Localization of user interface elements
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: d293c385-d355-4d9e-9fe9-8ef35fef60bf
 ---
 # Localization of user interface elements{#localization-of-user-interface-elements}

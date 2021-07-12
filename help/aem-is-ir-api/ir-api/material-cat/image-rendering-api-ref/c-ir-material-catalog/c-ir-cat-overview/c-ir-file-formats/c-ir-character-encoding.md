@@ -3,7 +3,7 @@ description: Image Rendering supports material catalogs with ISO‑8859‑1 and 
 solution: Experience Manager
 title: Character encoding
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ee7b33fd-7607-4bff-867b-6e7a837a9ed4
 ---
 # Character encoding{#character-encoding}

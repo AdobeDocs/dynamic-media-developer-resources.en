@@ -3,7 +3,7 @@ description: Text string data type.
 solution: Experience Manager
 title: Text string
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 7e5d5741-292f-43fd-8ba0-7a333f350a40
 ---
 # Text string{#text-string}

@@ -3,7 +3,7 @@ description: Catalog attribute files recognize these request attributes.
 solution: Experience Manager
 title: Request attributes
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: f1f2905f-f4e8-4944-8b27-469f09aa4bce
 ---
 # Request attributes{#request-attributes}

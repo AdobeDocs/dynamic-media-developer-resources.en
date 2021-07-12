@@ -4,7 +4,7 @@ solution: Experience Manager
 title: ThumbnailGridView.maxloadradius
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e93de3b5-b42d-4db8-90b9-9e2aa53af775
 ---
 # ThumbnailGridView.maxloadradius{#thumbnailgridview-maxloadradius}

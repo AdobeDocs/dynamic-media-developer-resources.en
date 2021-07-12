@@ -3,7 +3,7 @@ description: View width. Specifies the width of the response image (view image) 
 solution: Experience Manager
 title: wid
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ba22c79b-da59-4993-aa1c-2c990a0c4be5
 ---
 # wid{#wid}

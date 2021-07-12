@@ -3,7 +3,7 @@ description: Client cache TTL for default image responses. Provides the expirati
 solution: Experience Manager
 title: DefaultExpiration
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 99103681-c00c-4648-8dee-2314e7e614af
 ---
 # DefaultExpiration{#defaultexpiration}

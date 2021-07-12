@@ -3,7 +3,7 @@ description: These commands apply regardless of where in the request they appear
 solution: Experience Manager
 title: Request commands
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 3f794f46-e7f0-4899-90fa-898a698dd629
 ---
 # Request commands{#request-commands}

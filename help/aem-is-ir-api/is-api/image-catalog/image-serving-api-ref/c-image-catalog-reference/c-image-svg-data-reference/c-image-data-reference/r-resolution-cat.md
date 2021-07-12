@@ -3,7 +3,7 @@ description: Object resolution. Object resolution for the full-size image.
 solution: Experience Manager
 title: Resolution
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 0f9430ce-65b9-44be-8d0e-58dbb529c5c2
 ---
 # Resolution{#resolution}

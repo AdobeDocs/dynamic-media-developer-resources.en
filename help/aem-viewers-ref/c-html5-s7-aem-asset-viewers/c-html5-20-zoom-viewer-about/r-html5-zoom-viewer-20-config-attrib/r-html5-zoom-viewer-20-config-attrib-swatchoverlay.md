@@ -4,7 +4,7 @@ solution: Experience Manager
 title: swatchoverlay
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: a4e187d9-b920-4d0d-adaa-ea369c5694fe
 ---
 # swatchoverlay{#swatchoverlay}

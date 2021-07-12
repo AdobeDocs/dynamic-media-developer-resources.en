@@ -3,7 +3,7 @@ description: Adjust brightness. Decreases or increases the image brightness.
 solution: Experience Manager
 title: op_brightness
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 390ed812-87ae-41e7-8021-65dd95915ae8
 ---
 # op_brightness{#op-brightness}

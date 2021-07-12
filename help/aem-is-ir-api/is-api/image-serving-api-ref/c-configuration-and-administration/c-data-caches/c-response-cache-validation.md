@@ -3,7 +3,7 @@ description: Cache entries are refreshed automatically using either catalog-base
 solution: Experience Manager
 title: Response cache validation
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: d2baa6e6-2700-450f-af1e-88b6d33d0e0c
 ---
 # Response cache validation{#response-cache-validation}

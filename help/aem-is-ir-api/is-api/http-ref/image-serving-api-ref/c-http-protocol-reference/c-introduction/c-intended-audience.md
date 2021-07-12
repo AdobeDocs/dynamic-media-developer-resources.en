@@ -3,7 +3,7 @@ description: Experienced programmers and website developers who want to leverage
 solution: Experience Manager
 title: Intended audience
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 7fea6da0-2cb4-4d49-9b1d-60d2cf56a3a0
 ---
 # Intended audience{#intended-audience}

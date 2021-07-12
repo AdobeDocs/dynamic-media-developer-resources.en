@@ -3,7 +3,7 @@ description: Image Rendering provides a simple request pre-processor based on re
 solution: Experience Manager
 title: Request pre-processing *
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 79a358db-0fd6-4327-a305-b0b38ad62050
 ---
 # Request pre-processing *{#request-pre-processing}

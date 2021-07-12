@@ -4,7 +4,7 @@ solution: Experience Manager
 title: HTTP video delivery
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 33907e22-107b-4345-82bb-cad47cb7a839
 ---
 # HTTP video delivery{#http-video-delivery}

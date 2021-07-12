@@ -3,7 +3,7 @@ description: Request validation.
 solution: Experience Manager
 title: validate
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 88424371-45a0-43bb-af49-2e8568b7b44c
 ---
 # validate{#validate}

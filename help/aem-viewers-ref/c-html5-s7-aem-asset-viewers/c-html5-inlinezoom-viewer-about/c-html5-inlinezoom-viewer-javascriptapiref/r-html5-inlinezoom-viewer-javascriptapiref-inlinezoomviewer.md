@@ -6,7 +6,7 @@ solution: Experience Manager
 title: FlyoutViewer
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 366deb3d-061e-454c-bcd1-e31965613a5c
 ---
 # FlyoutViewer{#flyoutviewer}

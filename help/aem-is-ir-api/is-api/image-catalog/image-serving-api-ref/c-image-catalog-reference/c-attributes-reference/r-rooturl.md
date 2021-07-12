@@ -3,7 +3,7 @@ description: Root URL for relative image URLs. Specifies the root URL for relati
 solution: Experience Manager
 title: RootUrl
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 72560180-53e5-4293-9dd3-c0cd196551dc
 ---
 # RootUrl{#rooturl}

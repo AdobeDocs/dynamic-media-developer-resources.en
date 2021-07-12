@@ -3,7 +3,7 @@ description: Material rotation angle. Defines the rotation angle for materials.
 solution: Experience Manager
 title: rotate
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 355d9691-c04b-44a6-9563-5bef185cfa7e
 ---
 # rotate{#rotate}

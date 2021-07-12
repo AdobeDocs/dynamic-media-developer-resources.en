@@ -6,7 +6,7 @@ solution: Experience Manager
 title: videoServerUrl
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 945c32e0-a67b-4c27-b661-26510615d757
 ---
 # videoServerUrl{#videoserverurl}

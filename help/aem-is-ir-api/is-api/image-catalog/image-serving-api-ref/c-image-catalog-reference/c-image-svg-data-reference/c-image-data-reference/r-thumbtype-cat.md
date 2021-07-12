@@ -3,7 +3,7 @@ description: Thumbnail type. Describes how a thumbnail for this image is to be g
 solution: Experience Manager
 title: ThumbType
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: a90b587d-6893-44e4-8dce-7676bc7eebe3
 ---
 # ThumbType{#thumbtype}

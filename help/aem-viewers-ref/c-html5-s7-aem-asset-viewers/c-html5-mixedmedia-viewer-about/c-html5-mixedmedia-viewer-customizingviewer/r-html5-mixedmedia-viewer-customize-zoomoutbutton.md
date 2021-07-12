@@ -3,7 +3,7 @@ description: Clicking or tapping this button zooms out on an image in the main v
 solution: Experience Manager
 title: Zoom out button
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 3e464e02-bcff-4ddc-b47c-84d0eee7f779
 ---
 # Zoom out button{#zoom-out-button}

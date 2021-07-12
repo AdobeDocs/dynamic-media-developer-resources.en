@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Facebook share
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 0525bfd0-ce38-4fd1-a5cc-e6b5acab1651
 ---
 # Facebook share{#facebook-share}

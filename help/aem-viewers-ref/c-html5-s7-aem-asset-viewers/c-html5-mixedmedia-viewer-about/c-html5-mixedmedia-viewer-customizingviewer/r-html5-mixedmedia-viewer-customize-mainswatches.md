@@ -3,7 +3,7 @@ description: Main Swatches consist of a row of thumbnail images with optional sc
 solution: Experience Manager
 title: Main swatches
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e6ff32bf-f85a-4288-a0e5-34487229a9d9
 ---
 # Main swatches{#main-swatches}

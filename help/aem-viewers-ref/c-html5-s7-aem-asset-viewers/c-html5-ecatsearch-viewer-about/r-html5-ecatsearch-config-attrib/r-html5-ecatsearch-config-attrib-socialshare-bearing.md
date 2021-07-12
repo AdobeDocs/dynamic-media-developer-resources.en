@@ -4,7 +4,7 @@ solution: Experience Manager
 title: SocialShare.bearing
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: fa094d84-927b-48f2-9c82-61f2a446158b
 ---
 # SocialShare.bearing{#socialshare-bearing}

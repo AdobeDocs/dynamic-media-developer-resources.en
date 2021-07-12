@@ -3,7 +3,7 @@ description: Debug request. This debug command parses and preprocesses the reque
 solution: Experience Manager
 title: resolve
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ef357c19-e725-4904-b635-102e75ff7518
 ---
 # resolve{#resolve}

@@ -3,7 +3,7 @@ description: Configuration attribute for Interactive Video Viewer.
 solution: Experience Manager
 title: VideoPlayer.loop
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 13b11e9c-00c5-4c1d-b1af-90afaabc389e
 ---
 # VideoPlayer.loop{#videoplayer-loop}

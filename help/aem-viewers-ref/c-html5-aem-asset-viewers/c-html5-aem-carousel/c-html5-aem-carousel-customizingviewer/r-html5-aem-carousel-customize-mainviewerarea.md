@@ -3,7 +3,7 @@ description: The main view area is the area occupied by the carousel banner imag
 solution: Experience Manager
 title: Main viewer area
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: bdac54f5-79e3-4d3d-9c7e-d9a7cec61c73
 ---
 # Main viewer area{#main-viewer-area}

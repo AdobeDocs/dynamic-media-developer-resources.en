@@ -3,7 +3,7 @@ description: Catalog record identifier
 solution: Experience Manager
 title: Id
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 37945115-c93d-4f59-b3d3-a2c4ee7fc990
 ---
 # Id {#id}

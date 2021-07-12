@@ -3,7 +3,7 @@ description: The server can be configured to send email alerts when certain perf
 solution: Experience Manager
 title: Server monitoring
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: c751d653-da5d-4573-99fd-fb9113977160
 ---
 # Server monitoring{#server-monitoring}

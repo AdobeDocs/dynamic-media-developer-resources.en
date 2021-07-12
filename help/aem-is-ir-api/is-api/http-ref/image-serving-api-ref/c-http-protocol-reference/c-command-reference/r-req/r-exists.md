@@ -3,7 +3,7 @@ description: Image exists.
 solution: Experience Manager
 title: exists
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 810453f0-7b35-4eed-8b23-6b59a8300c50
 ---
 # exists{#exists}

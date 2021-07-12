@@ -3,7 +3,7 @@ description: There are two options for starting or stopping Image Serving on Lin
 solution: Experience Manager
 title: Starting or stopping on Linux
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: eb4c60b2-5491-40e9-b105-d4b05006a9ca
 ---
 # Starting or stopping on Linux{#starting-or-stopping-on-linux}

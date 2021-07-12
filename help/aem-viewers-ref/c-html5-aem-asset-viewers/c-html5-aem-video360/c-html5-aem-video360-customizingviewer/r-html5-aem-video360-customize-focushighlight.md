@@ -3,7 +3,7 @@ description: Input focus highlight displayed around focused viewer user interfac
 solution: Experience Manager
 title: Focus highlight
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 05ac1a70-c20d-4ddf-942c-181f101cb1d8
 ---
 # Focus highlight{#focus-highlight}

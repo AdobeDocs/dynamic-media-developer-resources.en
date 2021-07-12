@@ -3,7 +3,7 @@ description: Configuration attribute for Video360 Viewer.
 solution: Experience Manager
 title: ControlBar.transition
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 950b1230-5c4b-4222-87e2-d069287fc3ff
 ---
 # ControlBar.transition{#controlbar-transition}

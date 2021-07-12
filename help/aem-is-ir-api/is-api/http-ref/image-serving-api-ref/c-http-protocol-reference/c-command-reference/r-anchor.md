@@ -3,7 +3,7 @@ description: Image Anchor. Defines the anchor point of the image, solid color, o
 solution: Experience Manager
 title: anchor
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: f62ae048-0dcc-4e93-a9f1-2e4db6bef51f
 ---
 # anchor{#anchor}

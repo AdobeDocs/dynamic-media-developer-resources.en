@@ -4,7 +4,7 @@ solution: Experience Manager
 title: ThumbnailGridView.align
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e26ee733-263d-4a6b-a37b-65b9fa1376c8
 ---
 # ThumbnailGridView.align{#thumbnailgridview-align}

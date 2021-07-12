@@ -3,7 +3,7 @@ description: Image Rendering configuration settings are stored in the Platform S
 solution: Experience Manager
 title: Configuration files
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: 44ffebae-4933-455b-a902-4f6e7bb69184
 ---
 # Configuration files{#configuration-files}

@@ -3,7 +3,7 @@ description: Media set info.
 solution: Experience Manager
 title: set
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: bc69f094-ff21-4dd7-9e10-daddb3de0c65
 ---
 # set{#set}

@@ -3,7 +3,7 @@ description: The mutable volume control initially appears as a button that lets 
 solution: Experience Manager
 title: Mutable volume
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: eb30ea49-e0ae-4ef4-a5b3-e245d96ce0db
 ---
 # Mutable volume{#mutable-volume}

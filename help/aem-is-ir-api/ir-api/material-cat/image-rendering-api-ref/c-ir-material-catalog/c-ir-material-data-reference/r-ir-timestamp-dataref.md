@@ -3,7 +3,7 @@ description: File modification time stamp. Specifies the date/time the image and
 solution: Experience Manager
 title: TimeStamp
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ecc7617c-c390-4f82-905d-45b825d0176d
 ---
 # TimeStamp{#timestamp}

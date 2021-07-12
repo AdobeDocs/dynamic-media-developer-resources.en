@@ -4,7 +4,7 @@ keywords: responsive
 solution: Experience Manager
 title: Customizing Carousel Viewer
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: f392d830-5c75-45dd-bab8-29a38218790d
 ---
 # Customizing Carousel Viewer{#customizing-carousel-viewer}

@@ -4,7 +4,7 @@ solution: Experience Manager
 title: Closebutton
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 253dad70-c46c-4d37-8d0c-2a97a5f53f13
 ---
 # Closebutton{#closebutton}

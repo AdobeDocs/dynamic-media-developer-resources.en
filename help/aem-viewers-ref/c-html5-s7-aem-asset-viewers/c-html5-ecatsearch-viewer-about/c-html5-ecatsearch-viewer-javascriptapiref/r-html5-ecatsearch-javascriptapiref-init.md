@@ -6,7 +6,7 @@ solution: Experience Manager
 title: init
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 4d71062c-fee7-4339-bd7f-1b7f778465c4
 ---
 # init{#init}

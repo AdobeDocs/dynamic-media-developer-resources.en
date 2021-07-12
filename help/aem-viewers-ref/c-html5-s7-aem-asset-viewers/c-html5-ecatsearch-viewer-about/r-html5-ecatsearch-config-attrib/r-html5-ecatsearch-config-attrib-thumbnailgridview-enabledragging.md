@@ -4,7 +4,7 @@ solution: Experience Manager
 title: ThumbnailGridView.enabledragging
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 011ef772-6760-4794-819e-2a822fbae1b5
 ---
 # ThumbnailGridView.enabledragging{#thumbnailgridview-enabledragging}

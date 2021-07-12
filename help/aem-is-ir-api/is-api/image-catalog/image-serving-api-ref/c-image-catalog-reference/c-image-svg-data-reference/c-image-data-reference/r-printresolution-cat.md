@@ -3,7 +3,7 @@ description: Print resolution. Print resolution for the full-size image.
 solution: Experience Manager
 title: PrintResolution
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 2168d72a-1f2b-4833-9e6e-ba3d2ddb6d2b
 ---
 # PrintResolution{#printresolution}

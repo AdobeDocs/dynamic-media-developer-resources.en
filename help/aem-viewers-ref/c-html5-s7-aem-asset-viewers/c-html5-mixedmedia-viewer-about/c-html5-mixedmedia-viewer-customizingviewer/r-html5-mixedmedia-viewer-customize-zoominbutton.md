@@ -3,7 +3,7 @@ description: Clicking or tapping this button zooms in on an image in the main vi
 solution: Experience Manager
 title: Zoom in button
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 663f9bb5-c432-4b34-ac76-a62826994a81
 ---
 # Zoom in button{#zoom-in-button}

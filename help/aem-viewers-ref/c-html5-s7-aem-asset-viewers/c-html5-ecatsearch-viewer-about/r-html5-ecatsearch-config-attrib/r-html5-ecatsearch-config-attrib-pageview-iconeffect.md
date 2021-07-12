@@ -4,7 +4,7 @@ solution: Experience Manager
 title: PageView.iconEffect
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: eb2196cb-b771-4828-8390-cd9e3fe6c57e
 ---
 # PageView.iconEffect{#pageview-iconeffect}

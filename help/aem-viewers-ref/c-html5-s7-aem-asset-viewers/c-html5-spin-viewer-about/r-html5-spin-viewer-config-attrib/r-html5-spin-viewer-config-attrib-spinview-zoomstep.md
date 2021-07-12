@@ -4,7 +4,7 @@ solution: Experience Manager
 title: SpinView.zoomstep
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 919477d0-87d9-4cf7-a7c8-0fbb68c6ff96
 ---
 # SpinView.zoomstep{#spinview-zoomstep}

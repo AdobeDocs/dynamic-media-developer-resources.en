@@ -7,7 +7,7 @@ solution: Experience Manager
 title: Customizing eCatalog Viewer
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 3c451400-4f44-4887-a045-46b064570b01
 ---
 # Customizing eCatalog Viewer{#customizing-ecatalog-viewer}

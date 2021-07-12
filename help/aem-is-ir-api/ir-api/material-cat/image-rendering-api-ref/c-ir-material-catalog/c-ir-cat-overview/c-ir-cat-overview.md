@@ -3,7 +3,7 @@ description: Material catalogs provide information about vignettes, materials, a
 solution: Experience Manager
 title: Material catalog overview *
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: d26371da-e992-4f63-a5be-190ce60eca2f
 ---
 # Material catalog overview *{#material-catalog-overview}

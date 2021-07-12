@@ -4,7 +4,7 @@ solution: Experience Manager
 title: SpinView.doubleclick
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 65e2f2c9-ee2c-45a8-9935-a33089b8c379
 ---
 # SpinView.doubleclick{#spinview-doubleclick}

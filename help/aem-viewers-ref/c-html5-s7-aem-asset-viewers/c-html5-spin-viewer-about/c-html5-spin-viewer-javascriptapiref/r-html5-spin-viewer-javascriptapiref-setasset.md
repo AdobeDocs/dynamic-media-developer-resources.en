@@ -6,7 +6,7 @@ solution: Experience Manager
 title: setAsset
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c94c8db4-d448-4c1c-875a-3a33a03f7dd8
 ---
 # setAsset{#setasset}

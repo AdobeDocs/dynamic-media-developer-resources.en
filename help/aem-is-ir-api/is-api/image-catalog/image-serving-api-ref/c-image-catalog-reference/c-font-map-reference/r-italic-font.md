@@ -3,7 +3,7 @@ description: Italics flag.
 solution: Experience Manager
 title: Italic
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 46575243-4472-44fe-89ce-30d9c875c7d2
 ---
 # Italic{#italic}

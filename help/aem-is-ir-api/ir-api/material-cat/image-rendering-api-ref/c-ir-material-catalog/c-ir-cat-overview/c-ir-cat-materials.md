@@ -3,7 +3,7 @@ description: For information on materials used by Image Rendering see Materials 
 solution: Experience Manager
 title: Materials
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 6c1b8a9b-ac32-42df-a59a-05933b614907
 ---
 # Materials{#materials}

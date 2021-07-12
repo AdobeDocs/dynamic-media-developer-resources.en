@@ -3,7 +3,7 @@ description: Image catalogs are used to provide information about images and sup
 solution: Experience Manager
 title: Overview
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 36cdd833-6fcb-4be6-a4f8-ba8d20580f29
 ---
 # Overview{#overview}

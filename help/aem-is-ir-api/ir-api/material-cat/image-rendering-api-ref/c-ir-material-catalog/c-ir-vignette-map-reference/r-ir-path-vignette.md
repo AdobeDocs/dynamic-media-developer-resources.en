@@ -3,7 +3,7 @@ description: Vignette file path. Relative path and name of a vignette file.
 solution: Experience Manager
 title: Path
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 5562b0e0-0476-4dd0-acce-058601b9af0a
 ---
 # Path{#path}

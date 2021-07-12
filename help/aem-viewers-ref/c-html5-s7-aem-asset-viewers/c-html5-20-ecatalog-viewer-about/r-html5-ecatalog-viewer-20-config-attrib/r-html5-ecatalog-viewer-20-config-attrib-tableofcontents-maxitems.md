@@ -4,7 +4,7 @@ solution: Experience Manager
 title: TableOfContents.maxitems
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: d3196158-5eab-46de-8a29-8f08f4797185
 ---
 # TableOfContents.maxitems{#tableofcontents-maxitems}

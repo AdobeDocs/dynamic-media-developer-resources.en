@@ -3,7 +3,7 @@ description: Color data type.
 solution: Experience Manager
 title: Color
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: b47f772e-a15c-4277-b0d4-9147efb70156
 ---
 # Color{#color}

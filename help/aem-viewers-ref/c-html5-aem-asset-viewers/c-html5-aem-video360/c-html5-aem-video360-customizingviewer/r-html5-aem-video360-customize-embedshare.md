@@ -3,7 +3,7 @@ description: Embed share tool consists of a button added to the Social share pan
 solution: Experience Manager
 title: Embed share
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 08ba7a29-8b17-4167-a9f3-82aa4cf65556
 ---
 # Embed share{#embed-share}

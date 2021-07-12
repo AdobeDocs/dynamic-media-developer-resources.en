@@ -6,7 +6,7 @@ solution: Experience Manager
 title: VideoPlayer.mutevolume
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 8f644a40-7fd9-4edd-be29-698635b46507
 ---
 # VideoPlayer.mutevolume{#videoplayer-mutevolume}

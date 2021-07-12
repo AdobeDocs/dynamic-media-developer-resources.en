@@ -3,7 +3,7 @@ description: Save image to file.
 solution: Experience Manager
 title: saveToFile
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 10a8ea5c-7e64-4d99-a263-779f08ea6e37
 ---
 # saveToFile{#savetofile}

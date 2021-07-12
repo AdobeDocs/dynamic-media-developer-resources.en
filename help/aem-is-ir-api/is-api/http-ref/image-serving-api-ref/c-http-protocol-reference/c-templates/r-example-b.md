@@ -3,7 +3,7 @@ description: Similar requirements as Example A, but use a solid color background
 solution: Experience Manager
 title: Example B
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 90ef96fc-c12f-4fc8-b465-6520b71f4e7b
 ---
 # Example B{#example-b}

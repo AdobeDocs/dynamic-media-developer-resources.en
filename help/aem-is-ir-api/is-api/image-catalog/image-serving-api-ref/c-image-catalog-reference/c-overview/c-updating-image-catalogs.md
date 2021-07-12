@@ -3,7 +3,7 @@ description: The server continuously monitors the catalog folder and automatical
 solution: Experience Manager
 title: Updating image catalogs
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: b520b4f3-6717-4768-99e2-78a76d1ede24
 ---
 # Updating image catalogs{#updating-image-catalogs}

@@ -3,7 +3,7 @@ description: Available locale-specific versions. Returns a list of available loc
 solution: Experience Manager
 title: xlate
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: bf5b3cb7-9792-4eca-a1aa-55aa4089b4d4
 ---
 # xlate{#xlate}

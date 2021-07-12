@@ -3,7 +3,7 @@ description: Video size. Allows specification of a size associated with each vid
 solution: Experience Manager
 title: VideoSize
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e70db18f-a8fd-4e47-85e3-a0f1f9a945d9
 ---
 # VideoSize{#videosize}

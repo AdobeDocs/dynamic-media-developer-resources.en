@@ -6,7 +6,7 @@ solution: Experience Manager
 title: FavoritesMenu.bearing
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: f08545fd-f039-41a1-ad0b-430ce7c1bdd1
 ---
 # FavoritesMenu.bearing{#favoritesmenu-bearing}

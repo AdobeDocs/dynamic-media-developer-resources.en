@@ -4,7 +4,7 @@ solution: Experience Manager
 title: Swatches.fmt
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 8b47839a-ef3b-45ae-8e8d-5c9391d71d44
 ---
 # Swatches.fmt{#swatches-fmt}

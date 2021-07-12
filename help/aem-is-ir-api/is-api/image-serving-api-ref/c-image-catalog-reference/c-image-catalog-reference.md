@@ -3,7 +3,7 @@ description: Image catalogs provide information about images and supporting data
 solution: Experience Manager
 title: Image catalog reference
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c41a0581-1025-4fad-a157-5e371a7d398a
 ---
 # Image catalog reference{#image-catalog-reference}

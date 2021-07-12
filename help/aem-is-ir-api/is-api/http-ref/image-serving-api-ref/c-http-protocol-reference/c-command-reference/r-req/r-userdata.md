@@ -3,7 +3,7 @@ description: User data from image catalog. Returns user data for the image catal
 solution: Experience Manager
 title: userdata
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: b1d85ea6-0e12-49a8-b1dc-4c64a672770b
 ---
 # userdata{#userdata}

@@ -3,7 +3,7 @@ description: Use the following special entities when formatting text.
 solution: Experience Manager
 title: Special text entities
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 3798dd83-897a-441c-a7c4-ef7325b20f16
 ---
 # Special text entities{#special-text-entities}

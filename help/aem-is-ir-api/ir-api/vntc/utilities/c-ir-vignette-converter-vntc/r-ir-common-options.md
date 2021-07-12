@@ -3,7 +3,7 @@ description: The following options can be applied regardless of the type of sour
 solution: Experience Manager
 title: Common options
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 1237aaf7-4585-4240-b227-c34413165dd4
 ---
 # Common options{#common-options}

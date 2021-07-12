@@ -4,7 +4,7 @@ solution: Experience Manager
 title: Managing page labels
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 73c3904f-678f-47c4-b895-86671402df79
 ---
 # Managing page labels{#managing-page-labels}

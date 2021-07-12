@@ -3,7 +3,7 @@ description: The session catalog is the material catalog which provides session 
 solution: Experience Manager
 title: Session catalog
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 36e0571e-7451-423f-a1df-540680381902
 ---
 # Session catalog{#session-catalog}

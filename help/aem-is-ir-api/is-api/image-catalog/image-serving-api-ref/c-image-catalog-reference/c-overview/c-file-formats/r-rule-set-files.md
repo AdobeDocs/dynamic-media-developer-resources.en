@@ -3,7 +3,7 @@ description: Rule set files are XML-formatted text files and must adhere to the 
 solution: Experience Manager
 title: Rule set files
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 7f3d700f-1941-4220-b91d-54e78fae6aaf
 ---
 # Rule set files{#rule-set-files}

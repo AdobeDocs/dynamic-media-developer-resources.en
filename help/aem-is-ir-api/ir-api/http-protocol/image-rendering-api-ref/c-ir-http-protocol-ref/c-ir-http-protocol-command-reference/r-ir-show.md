@@ -3,7 +3,7 @@ description: Show overlap object. Makes visible all previously hidden overlap ob
 solution: Experience Manager
 title: show
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 4ab3dff7-c020-4088-9eb7-760f8e0a3f00
 ---
 # show{#show}

@@ -3,7 +3,7 @@ description: Clicking or tapping on this button returns a user to the previous s
 solution: Experience Manager
 title: Previous slide
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: f780e62e-7238-4cc6-b382-3a21043e1079
 ---
 # Previous slide{#previous-slide}

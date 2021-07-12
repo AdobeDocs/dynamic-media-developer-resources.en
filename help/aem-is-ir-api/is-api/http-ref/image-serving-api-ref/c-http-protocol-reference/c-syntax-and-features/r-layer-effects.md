@@ -3,7 +3,7 @@ description: Photoshop-style layer shadow and glow effects are implemented using
 solution: Experience Manager
 title: Layer effects
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 8f99bb3d-c5d6-4215-a76b-58ba7689ff02
 ---
 # Layer effects{#layer-effects}

@@ -3,7 +3,7 @@ description: Layer size. Specifies the size or maximum layer size for a layer, b
 solution: Experience Manager
 title: size
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 55feeb32-b69d-4b95-80fb-c77f2612d255
 ---
 # size{#size}

@@ -4,7 +4,7 @@ solution: Experience Manager
 title: Swatches.direction
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: bdc3e5a8-e7cc-4e7b-98e7-30c0d4496abe
 ---
 # Swatches.direction{#swatches-direction}

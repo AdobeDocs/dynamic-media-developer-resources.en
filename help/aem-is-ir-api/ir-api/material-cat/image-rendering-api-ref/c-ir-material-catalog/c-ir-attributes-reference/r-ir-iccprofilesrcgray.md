@@ -3,7 +3,7 @@ description: Grayscale default input color profile. Specifies the name of the IC
 solution: Experience Manager
 title: IccProfileSrcGray
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 8c89f0bb-4912-4838-a9e2-fb5d2f255eae
 ---
 # IccProfileSrcGray{#iccprofilesrcgray}

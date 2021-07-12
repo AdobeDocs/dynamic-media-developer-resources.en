@@ -3,7 +3,7 @@ description: Font map file path. Specifies the file which contains the font map 
 solution: Experience Manager
 title: FontMapFile
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e922d51b-f92e-4cbc-a7c1-5e54e44afd50
 ---
 # FontMapFile{#fontmapfile}

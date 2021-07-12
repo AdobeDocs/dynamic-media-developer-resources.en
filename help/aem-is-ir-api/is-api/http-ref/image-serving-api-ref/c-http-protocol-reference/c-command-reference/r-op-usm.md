@@ -3,7 +3,7 @@ description: Unsharp-mask. Unsharp masks the layer or the final view image, afte
 solution: Experience Manager
 title: op_usm
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: a83d6326-9029-4c5c-a069-92bc81120866
 ---
 # op_usm{#op-usm}

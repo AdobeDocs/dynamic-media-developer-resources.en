@@ -4,7 +4,7 @@ solution: Experience Manager
 title: Swatches.pagemode
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 7ba10df0-9e3e-4c31-9bd6-4d0e6feb7e75
 ---
 # Swatches.pagemode{#swatches-pagemode}

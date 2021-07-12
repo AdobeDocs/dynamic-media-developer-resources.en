@@ -6,7 +6,7 @@ solution: Experience Manager
 title: setParams
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: cbd7987b-5e47-4ac0-8235-a217e5e6dee9
 ---
 # setParams{#setparams}

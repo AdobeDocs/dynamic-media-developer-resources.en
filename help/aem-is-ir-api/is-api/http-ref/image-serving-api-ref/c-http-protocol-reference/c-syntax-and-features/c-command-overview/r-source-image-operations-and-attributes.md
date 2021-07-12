@@ -3,7 +3,7 @@ description: These commands apply to source images used either in simple request
 solution: Experience Manager
 title: Source image operations
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 2024e193-3c46-4c51-971d-c7d335657ac8
 ---
 # Source image operations{#source-image-operations}

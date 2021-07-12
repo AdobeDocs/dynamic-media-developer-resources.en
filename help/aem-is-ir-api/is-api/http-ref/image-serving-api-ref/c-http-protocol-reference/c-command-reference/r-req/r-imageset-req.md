@@ -3,7 +3,7 @@ description: Image set data from image catalog. Returns image set data for the i
 solution: Experience Manager
 title: imageset
 feature: Dynamic Media Classic,SDK/API,Image Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 730e7db9-47f0-4e96-8948-18b8185a5b7a
 ---
 # imageset{#imageset}

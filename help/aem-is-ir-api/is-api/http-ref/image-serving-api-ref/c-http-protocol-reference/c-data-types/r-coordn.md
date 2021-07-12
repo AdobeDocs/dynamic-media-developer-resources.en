@@ -3,7 +3,7 @@ description: Normalized Coordinates. Used to specify relative positions within a
 solution: Experience Manager
 title: coordN
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 3a97a520-5049-4b26-826e-ae913f0ac511
 ---
 # coordN{#coordn}

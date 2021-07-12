@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Javascript API reference for Spin Viewer
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c32cccf8-fbaa-4fed-a95f-0f052141f312
 ---
 # Javascript API reference for Spin Viewer{#javascript-api-reference-for-spin-viewer}

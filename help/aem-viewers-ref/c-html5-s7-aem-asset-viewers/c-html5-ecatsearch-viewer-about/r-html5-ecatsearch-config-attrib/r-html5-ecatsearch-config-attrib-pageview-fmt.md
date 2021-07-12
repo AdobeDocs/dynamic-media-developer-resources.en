@@ -4,7 +4,7 @@ solution: Experience Manager
 title: PageView.fmt
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 690aed79-c242-402d-86c0-470a91fbb034
 ---
 # PageView.fmt{#pageview-fmt}

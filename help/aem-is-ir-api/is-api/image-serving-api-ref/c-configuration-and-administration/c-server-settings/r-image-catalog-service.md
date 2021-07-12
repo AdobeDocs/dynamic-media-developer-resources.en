@@ -3,7 +3,7 @@ description: Use these server settings for the Image catalog service.
 solution: Experience Manager
 title: Image catalog service
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: c089ef35-47a1-4921-8a5e-1ca78f29794d
 ---
 # Image catalog service{#image-catalog-service}

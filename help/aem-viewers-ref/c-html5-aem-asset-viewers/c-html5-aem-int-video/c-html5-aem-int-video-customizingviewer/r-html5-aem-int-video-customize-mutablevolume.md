@@ -3,7 +3,7 @@ description: The mutable volume control initially appears as a button that lets 
 solution: Experience Manager
 title: Mutable volume
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ecef47c1-e659-4930-bfb1-cc5e7c059094
 ---
 # Mutable volume{#mutable-volume}

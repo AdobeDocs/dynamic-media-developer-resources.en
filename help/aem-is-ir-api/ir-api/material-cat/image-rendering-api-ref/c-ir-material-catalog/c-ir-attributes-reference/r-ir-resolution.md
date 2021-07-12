@@ -3,7 +3,7 @@ description: Default resolution. Provides a default resolution in case a particu
 solution: Experience Manager
 title: Resolution
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: cd47f41a-b527-4c78-afb5-b9e9af0868cc
 ---
 # Resolution{#resolution}

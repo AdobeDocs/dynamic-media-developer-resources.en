@@ -3,7 +3,7 @@ description: Colorize image. Colorizes the image data while preserving shadows a
 solution: Experience Manager
 title: op_colorize
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 1abbde32-867a-4596-a46b-12ec50d59170
 ---
 # op_colorize{#op-colorize}

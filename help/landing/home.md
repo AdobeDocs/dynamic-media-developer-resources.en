@@ -4,7 +4,7 @@ title: Adobe Dynamic Media developer resources
 description: Adobe Dynamic Media developer resources
 
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: be0763ba-f343-4dd0-8146-1facb4cd5b0b
 ---
 # Dynamic Media Developer Resources{#dynamic-media-developer-resource}

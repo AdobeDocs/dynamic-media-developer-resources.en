@@ -3,7 +3,7 @@ description: Layer origin.
 solution: Experience Manager
 title: origin
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 5ea8eb18-d169-4255-b4b1-dda849246485
 ---
 # origin{#origin}

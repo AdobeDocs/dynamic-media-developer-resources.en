@@ -6,7 +6,7 @@ solution: Experience Manager
 title: View All Favorites button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: d048ffc4-7819-4897-8ea3-8b678365d5e9
 ---
 # View All Favorites button{#view-all-favorites-button}

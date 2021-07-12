@@ -3,7 +3,7 @@ description: Resampling mode. Default for resMode=. Specifies the resampling and
 solution: Experience Manager
 title: ResMode
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c57932a0-529c-4f31-b60e-a38de6fe277f
 ---
 # ResMode{#resmode}

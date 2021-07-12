@@ -4,7 +4,7 @@ solution: Experience Manager
 title: ZoomView.singleclick
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c2292b5b-5b4e-4368-9495-9108042ec2f1
 ---
 # ZoomView.singleclick{#zoomview-singleclick}

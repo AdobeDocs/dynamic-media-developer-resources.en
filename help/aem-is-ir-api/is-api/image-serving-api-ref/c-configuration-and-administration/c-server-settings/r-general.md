@@ -3,7 +3,7 @@ description: General Server Settings
 solution: Experience Manager
 title: General
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: 3e4079e7-6def-4938-bb5b-c8122502712d
 ---
 # General{#general}

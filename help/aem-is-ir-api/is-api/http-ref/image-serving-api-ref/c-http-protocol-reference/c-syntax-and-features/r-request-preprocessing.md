@@ -3,7 +3,7 @@ description: Image Serving provides a simple request preprocessor based on regul
 solution: Experience Manager
 title: Request preprocessing
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: f855c36f-29f2-4ada-a103-1eb9b7b0c1a0
 ---
 # Request preprocessing{#request-preprocessing}

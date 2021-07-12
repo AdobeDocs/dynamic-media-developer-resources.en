@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Add Favorite button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 3602fa7b-d654-4976-a62d-d959898cb530
 ---
 # Add Favorite button{#add-favorite-button}

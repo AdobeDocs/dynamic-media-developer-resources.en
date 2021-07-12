@@ -5,7 +5,7 @@ solution: Experience Manager
 title: Customizing Video Viewer
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 90dc93ee-fdd0-41c9-9eef-4c9952198356
 ---
 # Customizing Video Viewer{#customizing-video-viewer}

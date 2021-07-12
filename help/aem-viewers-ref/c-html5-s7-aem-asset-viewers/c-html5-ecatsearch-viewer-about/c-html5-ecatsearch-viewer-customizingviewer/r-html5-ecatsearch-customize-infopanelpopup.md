@@ -3,7 +3,7 @@ description: Info Panel Popup displays in the middle of the viewer area when a u
 solution: Experience Manager
 title: Info panel popup
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 907b7bd5-3f87-4918-ad62-8a28249ea023
 ---
 # Info panel popup{#info-panel-popup}

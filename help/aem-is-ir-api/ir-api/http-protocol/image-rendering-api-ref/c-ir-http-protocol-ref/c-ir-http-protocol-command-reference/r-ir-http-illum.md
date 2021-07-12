@@ -3,7 +3,7 @@ description: Illumination map selector. Specifies the illumination map this mate
 solution: Experience Manager
 title: illum
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: e1af2397-8eae-4b77-abb1-61ba8cb866f3
 ---
 # illum{#illum}

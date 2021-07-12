@@ -3,7 +3,7 @@ description: Parameter common to all viewers.
 solution: Experience Manager
 title: caption
 feature: Dynamic Media Classic,Viewers,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 06ce5520-944b-4ab0-8f59-67c273bd8314
 ---
 # caption{#caption}

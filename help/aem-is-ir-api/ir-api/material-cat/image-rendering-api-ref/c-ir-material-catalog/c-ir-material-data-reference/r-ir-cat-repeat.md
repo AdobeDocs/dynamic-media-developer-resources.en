@@ -3,7 +3,7 @@ description: Texture repeat mode. Specifies how texture images are tiled to fill
 solution: Experience Manager
 title: Repeat
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 6d6946b0-a827-4ee6-963b-84529ad35ee9
 ---
 # Repeat{#repeat}

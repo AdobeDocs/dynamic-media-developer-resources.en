@@ -4,7 +4,7 @@ keywords: responsive
 solution: Experience Manager
 title: Flyout
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 9b60330f-5348-431d-9682-cf97aace3679
 ---
 # Flyout{#flyout}

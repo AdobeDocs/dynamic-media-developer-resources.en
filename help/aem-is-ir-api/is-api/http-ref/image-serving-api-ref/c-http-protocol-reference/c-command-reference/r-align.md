@@ -3,7 +3,7 @@ description: Align Image with View. Aligns the composite image (possibly after s
 solution: Experience Manager
 title: align
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 01001cc6-1a60-4d6b-a27f-ea5822be6d11
 ---
 # align{#align}

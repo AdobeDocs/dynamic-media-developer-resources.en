@@ -3,7 +3,7 @@ description: View Height. Specifies the height of the response image (view image
 solution: Experience Manager
 title: hei
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: c812c7f0-4ac1-42cb-be47-7baebd8caf60
 ---
 # hei{#hei}

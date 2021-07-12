@@ -3,7 +3,7 @@ description: Texture repeat mode. Specifies the repeat mode for repeatable textu
 solution: Experience Manager
 title: repeat
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 6cc82742-4ba0-4524-a87b-586539d7fe38
 ---
 # repeat{#repeat}

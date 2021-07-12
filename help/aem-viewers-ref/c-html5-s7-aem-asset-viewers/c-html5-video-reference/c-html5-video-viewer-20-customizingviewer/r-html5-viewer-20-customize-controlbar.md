@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Control bar
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 2239307a-4a05-4392-b35c-a64ea6c938ad
 ---
 # Control bar{#control-bar}

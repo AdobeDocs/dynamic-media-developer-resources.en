@@ -3,7 +3,7 @@ description: JavaScript API reference for Mixed Media Viewer.
 solution: Experience Manager
 title: setContainerId
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: b6e191dc-3172-45ba-b6f6-258cfbd5855d
 ---
 # setContainerId{#setcontainerid}

@@ -3,7 +3,7 @@ description: Image Rendering supports a simple request pre-processing mechanism 
 solution: Experience Manager
 title: Rule set reference
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 194600d0-72d9-47fb-8525-598beb2ce17d
 ---
 # Rule set reference{#rule-set-reference}

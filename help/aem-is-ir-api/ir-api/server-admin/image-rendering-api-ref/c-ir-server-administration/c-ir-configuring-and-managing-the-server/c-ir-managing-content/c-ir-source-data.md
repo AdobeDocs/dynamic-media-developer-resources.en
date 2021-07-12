@@ -3,7 +3,7 @@ description: Image Rendering source data files include vignette files, material 
 solution: Experience Manager
 title: Source data
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,Business Practitioner
+role: Developer,Administrator,User
 exl-id: de2d8fa2-6793-49ba-b873-adf723369cce
 ---
 # Source data{#source-data}

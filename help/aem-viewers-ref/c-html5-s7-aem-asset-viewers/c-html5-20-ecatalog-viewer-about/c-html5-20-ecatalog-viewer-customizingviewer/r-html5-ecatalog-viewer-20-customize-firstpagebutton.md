@@ -6,7 +6,7 @@ solution: Experience Manager
 title: First page button
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 50ebf51f-aa51-4778-8956-f969c30443aa
 ---
 # First page button{#first-page-button}

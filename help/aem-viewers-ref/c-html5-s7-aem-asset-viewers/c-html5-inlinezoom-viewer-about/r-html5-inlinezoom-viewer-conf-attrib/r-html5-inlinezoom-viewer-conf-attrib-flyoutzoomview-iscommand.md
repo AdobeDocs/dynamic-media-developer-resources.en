@@ -4,7 +4,7 @@ solution: Experience Manager
 title: FlyoutZoomView.iscommand
 
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 2ae17dc8-2728-4ee5-ba88-45d78a0f4d9a
 ---
 # FlyoutZoomView.iscommand{#flyoutzoomview-iscommand}

@@ -3,7 +3,7 @@ description: Image Serving supports access to source images on foreign HTTP and 
 solution: Experience Manager
 title: Foreign image sources
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 90f96a76-e9f3-4ad0-84af-bc0d093acf19
 ---
 # Foreign image sources{#foreign-image-sources}

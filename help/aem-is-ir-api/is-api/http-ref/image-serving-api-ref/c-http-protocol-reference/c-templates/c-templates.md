@@ -3,7 +3,7 @@ description: Templates may be used to reduce the length and complexity of reques
 solution: Experience Manager
 title: Templates
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: ef49cf8a-4621-4114-aae5-5178f6a5160d
 ---
 # Templates{#templates}

@@ -3,7 +3,7 @@ description: Configuration attribute for Interactive Video Viewer.
 solution: Experience Manager
 title: VideoPlayer.playback
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: fa49e025-1a46-4be7-ad1e-eda3b31bdc8d
 ---
 # VideoPlayer.playback{#videoplayer-playback}

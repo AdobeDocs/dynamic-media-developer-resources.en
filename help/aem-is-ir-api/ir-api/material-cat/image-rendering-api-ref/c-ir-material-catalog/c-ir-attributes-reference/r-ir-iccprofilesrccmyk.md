@@ -3,7 +3,7 @@ description: CMYK default input color profile. Specifies the name of the ICC col
 solution: Experience Manager
 title: IccProfileSrcCmyk
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 09be34c8-facc-40c3-ba15-c48bd93b3be1
 ---
 # IccProfileSrcCmyk{#iccprofilesrccmyk}

@@ -3,7 +3,7 @@ description: Catalog matching option.
 solution: Experience Manager
 title: FullMatch
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 1a267c48-a8eb-426a-a70a-bdb9f5f20efb
 ---
 # FullMatch{#fullmatch}

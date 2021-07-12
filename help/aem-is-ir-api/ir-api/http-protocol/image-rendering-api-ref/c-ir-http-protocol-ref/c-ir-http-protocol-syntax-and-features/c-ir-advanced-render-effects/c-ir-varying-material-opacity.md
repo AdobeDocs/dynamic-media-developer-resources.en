@@ -3,7 +3,7 @@ description: Variable opacity is supported for solid color and repeatable textur
 solution: Experience Manager
 title: Varying material opacity
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 65f4b578-0c64-4515-8184-2908b317a983
 ---
 # Varying material opacity{#varying-material-opacity}

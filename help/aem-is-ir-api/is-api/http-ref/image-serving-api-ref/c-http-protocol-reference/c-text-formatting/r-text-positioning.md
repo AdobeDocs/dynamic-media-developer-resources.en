@@ -3,7 +3,7 @@ description: The text= renderer positions text fundamentally different than the 
 solution: Experience Manager
 title: Text positioning
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 092444bf-9964-4d97-b06e-3add033da284
 ---
 # Text positioning{#text-positioning}

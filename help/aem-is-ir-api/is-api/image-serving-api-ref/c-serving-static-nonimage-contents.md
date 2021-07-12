@@ -3,7 +3,7 @@ description: You can use Image Serving to manage non-image content in catalogs a
 solution: Experience Manager
 title: Serving static (non-image) contents
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: adc3d972-b02d-40db-992e-acaa06b848ff
 ---
 # Serving static (non-image) contents{#serving-static-non-image-contents}

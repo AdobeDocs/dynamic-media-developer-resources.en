@@ -3,7 +3,7 @@ description: The layer= command allows assigning a name to a layer and later ref
 solution: Experience Manager
 title: Named layers
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 23eab9c7-7a16-4902-920e-6ee3e78daa18
 ---
 # Named layers{#named-layers}

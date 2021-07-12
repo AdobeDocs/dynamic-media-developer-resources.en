@@ -3,7 +3,7 @@ description: Blend Mode. Specifies the type of blending used when the layer is c
 solution: Experience Manager
 title: blendMode
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 8f0b8b0a-a8ac-4932-986c-5d14d3311f1b
 ---
 # blendMode{#blendmode}

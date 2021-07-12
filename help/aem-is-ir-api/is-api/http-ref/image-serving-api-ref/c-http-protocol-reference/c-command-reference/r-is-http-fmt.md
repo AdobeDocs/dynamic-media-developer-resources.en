@@ -3,7 +3,7 @@ description: Response Image Format.
 solution: Experience Manager
 title: fmt
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: 67f8a58d-88f5-4993-9749-41a3c530adba
 ---
 # fmt{#fmt}

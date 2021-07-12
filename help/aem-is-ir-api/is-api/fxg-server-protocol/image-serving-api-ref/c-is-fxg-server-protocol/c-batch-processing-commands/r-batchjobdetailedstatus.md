@@ -3,7 +3,7 @@ description: Retrieve detailed status of a submitted job.
 solution: Experience Manager
 title: batchjobdetailedstatus
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Business Practitioner
+role: Developer,User
 exl-id: fd385327-29af-448c-9a25-75098b578272
 ---
 # batchjobdetailedstatus{#batchjobdetailedstatus}
