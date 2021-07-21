@@ -3,7 +3,7 @@ description: Contains server supervisor configuration settings.
 solution: Experience Manager
 title: SupervisorRegistry.xml
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,User
+role: Developer,Admin,User
 exl-id: cc6a16fb-fd70-431f-aad6-adb99d4da062
 ---
 # SupervisorRegistry.xml{#supervisorregistry-xml}

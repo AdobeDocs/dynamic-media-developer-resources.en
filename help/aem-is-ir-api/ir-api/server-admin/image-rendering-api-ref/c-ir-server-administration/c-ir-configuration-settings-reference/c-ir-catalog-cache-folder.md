@@ -3,7 +3,7 @@ description: The root folder for the catalog system cache.
 solution: Experience Manager
 title: Catalog cache folder (ir.catalogCacheRoot)
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,User
+role: Developer,Admin,User
 exl-id: 060c8b49-f9d9-498a-a07a-5ecd61af2677
 ---
 # Catalog cache folder (ir.catalogCacheRoot){#catalog-cache-folder-ir-catalogcacheroot}

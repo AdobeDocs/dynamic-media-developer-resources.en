@@ -3,7 +3,7 @@ description: Contains settings related to managing image catalogs.
 solution: Experience Manager
 title: catalog-server.conf
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,User
+role: Developer,Admin,User
 exl-id: 55e55381-3828-4937-8746-a74e82d6ca38
 ---
 # catalog-server.conf{#catalog-server-conf}

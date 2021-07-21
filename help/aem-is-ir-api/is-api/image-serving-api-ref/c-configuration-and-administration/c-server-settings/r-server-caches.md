@@ -3,7 +3,7 @@ description: Use these server settings for server caches.
 solution: Experience Manager
 title: Server caches
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,User
+role: Developer,Admin,User
 exl-id: 6a8d44d3-ecac-4fe0-9f81-28b1cd55e7e1
 ---
 # Server caches{#server-caches}

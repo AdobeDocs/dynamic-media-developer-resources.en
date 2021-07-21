@@ -3,7 +3,7 @@ description: Use these server settings for logging access.
 solution: Experience Manager
 title: Access logging
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,User
+role: Developer,Admin,User
 exl-id: e677a617-115d-4f6e-9eb5-bdc14ad7ff24
 ---
 # Access logging{#access-logging}

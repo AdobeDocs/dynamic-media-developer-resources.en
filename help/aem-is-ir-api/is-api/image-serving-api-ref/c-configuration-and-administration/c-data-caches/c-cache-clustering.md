@@ -3,7 +3,7 @@ description: Cache clustering allows multiple load-balanced servers to exchange 
 solution: Experience Manager
 title: Cache clustering
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,User
+role: Developer,Admin,User
 exl-id: d1bea565-ac4e-4717-a53f-cbe706664598
 ---
 # Cache clustering{#cache-clustering}

@@ -3,7 +3,7 @@ description: IS servers can be configured to fail-over to alternate servers for 
 solution: Experience Manager
 title: Redirect on error
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,User
+role: Developer,Admin,User
 exl-id: c5541bf3-3296-4ce3-a2ff-9f6336f78ea9
 ---
 # Redirect on error{#redirect-on-error}

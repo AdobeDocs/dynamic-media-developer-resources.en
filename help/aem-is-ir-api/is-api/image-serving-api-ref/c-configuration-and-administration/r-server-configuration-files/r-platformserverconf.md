@@ -3,7 +3,7 @@ description: Contains Platform Server settings.
 solution: Experience Manager
 title: PlatformServer.conf
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,User
+role: Developer,Admin,User
 exl-id: 00d55453-e7e6-4242-be83-7efa12764e5d
 ---
 # PlatformServer.conf{#platformserver-conf}

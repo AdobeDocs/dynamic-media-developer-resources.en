@@ -3,7 +3,7 @@ description: The settings in this section apply to the media set responses obtai
 solution: Experience Manager
 title: Media set responses
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,User
+role: Developer,Admin,User
 exl-id: e3833726-d345-4741-8096-d74f299ac9fc
 ---
 # Media set responses{#media-set-responses}

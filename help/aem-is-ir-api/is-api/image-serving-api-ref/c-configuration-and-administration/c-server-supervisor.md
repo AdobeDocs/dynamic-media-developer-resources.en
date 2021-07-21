@@ -3,7 +3,7 @@ description: Image Serving components are managed by the Server Supervisor, whic
 solution: Experience Manager
 title: Server supervisor
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,User
+role: Developer,Admin,User
 exl-id: 83b6a63f-6bb8-4a14-b8d5-389d23fae57c
 ---
 # Server supervisor{#server-supervisor}

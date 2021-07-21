@@ -3,7 +3,7 @@ description: Contains Image Server configuration settings.
 solution: Experience Manager
 title: ImageServerRegistry.xml
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,User
+role: Developer,Admin,User
 exl-id: 4483c5e8-5123-4d0f-bf9a-4ef8d8cec5a9
 ---
 # ImageServerRegistry.xml{#imageserverregistry-xml}

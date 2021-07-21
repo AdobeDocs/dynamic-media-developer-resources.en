@@ -3,7 +3,7 @@ description: Use these server settings for content data folders.
 solution: Experience Manager
 title: Content data folders
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,User
+role: Developer,Admin,User
 exl-id: 9aa4121f-25f8-49d0-a304-7ae756c046f5
 ---
 # Content data folders{#content-data-folders}

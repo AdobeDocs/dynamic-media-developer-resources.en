@@ -3,7 +3,7 @@ description: Material catalogs provide many Image Rendering configuration settin
 solution: Experience Manager
 title: Material catalogs
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,User
+role: Developer,Admin,User
 exl-id: c0b030b7-bcfb-4e6d-b74a-4533bdb801bf
 ---
 # Material catalogs{#material-catalogs}

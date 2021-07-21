@@ -3,7 +3,7 @@ description: All configuration files are located in install_folder/conf and are 
 solution: Experience Manager
 title: Server configuration files
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,User
+role: Developer,Admin,User
 exl-id: 6261844c-b63d-477b-8a48-963be868aa22
 ---
 # Server configuration files{#server-configuration-files}

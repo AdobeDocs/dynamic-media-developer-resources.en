@@ -3,7 +3,7 @@ description: Image Rendering sends log messages to the Image Serving log mechani
 solution: Experience Manager
 title: Server logging
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,User
+role: Developer,Admin,User
 exl-id: 83114821-4799-4d7f-93e8-5748a3707931
 ---
 # Server logging{#server-logging}

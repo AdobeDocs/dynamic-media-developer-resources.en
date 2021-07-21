@@ -3,7 +3,7 @@ description: You can configure data caches.
 solution: Experience Manager
 title: Data caches
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,User
+role: Developer,Admin,User
 exl-id: 778a6236-09f5-420c-ab31-a72063eb5326
 ---
 # Data caches{#data-caches}

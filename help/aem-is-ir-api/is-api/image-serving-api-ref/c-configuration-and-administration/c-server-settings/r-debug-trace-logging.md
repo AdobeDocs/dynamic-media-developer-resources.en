@@ -3,7 +3,7 @@ description: Use these server settings to debug trace logging.
 solution: Experience Manager
 title: Debug_trace logging
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,User
+role: Developer,Admin,User
 exl-id: fe1fc984-3c6b-4bd1-b5ba-630860ac7319
 ---
 # Debug_trace logging{#debug-trace-logging}

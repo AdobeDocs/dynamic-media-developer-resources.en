@@ -3,7 +3,7 @@ description: The settings in this section need to be considered only if SVG rend
 solution: Experience Manager
 title: SVG
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,User
+role: Developer,Admin,User
 exl-id: 2863cc86-1f79-4db3-bd6f-a42839ef3439
 ---
 # SVG{#svg}

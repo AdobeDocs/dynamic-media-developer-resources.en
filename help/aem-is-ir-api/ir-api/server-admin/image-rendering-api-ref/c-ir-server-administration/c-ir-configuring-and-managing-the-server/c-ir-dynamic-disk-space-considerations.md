@@ -3,7 +3,7 @@ description: Image Rendering consumes disk space for caching and logging purpose
 solution: Experience Manager
 title: Dynamic disk space considerations
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,User
+role: Developer,Admin,User
 exl-id: 7d335c1e-416e-4790-9a33-cd31ed112f82
 ---
 # Dynamic disk space considerations{#dynamic-disk-space-considerations}

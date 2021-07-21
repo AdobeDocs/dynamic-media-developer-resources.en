@@ -3,7 +3,7 @@ description: The amount of memory used by Image Rendering can vary widely and de
 solution: Experience Manager
 title: Memory considerations
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,User
+role: Developer,Admin,User
 exl-id: 62eaa41c-a61c-4bcd-8dd9-9c3423bf82ef
 ---
 # Memory considerations{#memory-considerations}

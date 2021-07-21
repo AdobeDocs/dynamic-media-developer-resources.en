@@ -3,7 +3,7 @@ description: Vignette files can be replaced or deleted while the server is live 
 solution: Experience Manager
 title: Deleting or replacing source data files
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,User
+role: Developer,Admin,User
 exl-id: 9daf8534-a844-4f4a-8e99-8dc751acd550
 ---
 # Deleting or replacing source data files{#deleting-or-replacing-source-data-files}
