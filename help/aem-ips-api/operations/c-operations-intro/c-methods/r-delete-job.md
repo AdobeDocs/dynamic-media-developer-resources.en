@@ -3,7 +3,7 @@ description: Deletes a current or scheduled job.
 solution: Experience Manager
 title: deleteJob
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: d38dd1e2-668e-4956-b854-54bf466d6d45
 ---
 # deleteJob{#deletejob}

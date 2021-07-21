@@ -3,7 +3,7 @@ description: Set or update the publish state for one or more assets. You can set
 solution: Experience Manager
 title: setAssetsContextState
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 28d0a67b-3e36-43fc-800d-17c841dca3a0
 ---
 # setAssetsContextState{#setassetscontextstate}

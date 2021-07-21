@@ -3,7 +3,7 @@ description: Properties of an Animated GIF file asset.
 solution: Experience Manager
 title: AnimatedGifInfo
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: b50b39b4-3055-43e3-a8bb-50f8b2f0d1fc
 ---
 # AnimatedGifInfo{#animatedgifinfo}

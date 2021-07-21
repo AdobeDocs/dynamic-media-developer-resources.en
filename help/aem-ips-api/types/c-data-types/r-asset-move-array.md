@@ -3,7 +3,7 @@ description: Array of asset moves.
 solution: Experience Manager
 title: AssetMoveArray
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 9d3f0c27-7414-46d9-888a-85226b0fbac6
 ---
 # AssetMoveArray{#assetmovearray}

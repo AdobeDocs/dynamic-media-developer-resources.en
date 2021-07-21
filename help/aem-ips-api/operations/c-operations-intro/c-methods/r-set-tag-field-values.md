@@ -3,7 +3,7 @@ description: Sets tag dictionary values for an existing tag field.
 solution: Experience Manager
 title: setTagFieldValues
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 50f437d6-fec5-4961-884e-fdb75d201ab7
 ---
 # setTagFieldValues{#settagfieldvalues}

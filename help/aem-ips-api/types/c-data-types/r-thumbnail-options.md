@@ -3,7 +3,7 @@ description: An optional type that lets you choose a particular video frame to u
 solution: Experience Manager
 title: ThumbnailOptions
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 7d84590d-2227-4d9a-9cb0-0f4b1fcabd8e
 ---
 # ThumbnailOptions{#thumbnailoptions}

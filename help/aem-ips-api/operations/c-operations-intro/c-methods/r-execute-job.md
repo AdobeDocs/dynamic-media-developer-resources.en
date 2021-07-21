@@ -3,7 +3,7 @@ description: Runs a specific job.
 solution: Experience Manager
 title: executeJob
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 4b2a2a14-d785-43bd-b1fc-2812d9f21964
 ---
 # executeJob{#executejob}

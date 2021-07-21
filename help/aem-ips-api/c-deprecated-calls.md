@@ -3,7 +3,7 @@ title: Deprecated calls
 description: Image Production System API calls and their associated parameters that are no longer used in Dynamic Media.
 solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: f6711780-9a96-4a61-9066-8d83316758c3
 ---
 # Deprecated calls{#deprecated-calls}

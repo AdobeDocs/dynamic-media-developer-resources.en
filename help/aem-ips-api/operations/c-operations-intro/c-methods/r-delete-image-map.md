@@ -3,7 +3,7 @@ description: Deletes an image map.
 solution: Experience Manager
 title: deleteImageMap
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: f9942a4a-d258-4e2a-8910-44fa502d97bd
 ---
 # deleteImageMap{#deleteimagemap}

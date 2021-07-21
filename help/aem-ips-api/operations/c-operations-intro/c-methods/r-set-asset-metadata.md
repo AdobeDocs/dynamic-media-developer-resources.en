@@ -3,7 +3,7 @@ description: Sets metadata values for an asset. Works with an array of metadata 
 solution: Experience Manager
 title: setAssetMetadata
 feature: Dynamic Media Classic,SDK/API,Metadata,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 811e44e1-774a-49bd-a2bd-a7504e5f7f5f
 ---
 # setAssetMetadata{#setassetmetadata}

@@ -3,7 +3,7 @@ description: For uploading assets via URL.
 solution: Experience Manager
 title: UploadUrl
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: f13fc27c-a91f-4823-8d65-664854af98ae
 ---
 # UploadUrl{#uploadurl}

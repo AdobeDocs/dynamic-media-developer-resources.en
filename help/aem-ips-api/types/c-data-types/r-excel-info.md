@@ -3,7 +3,7 @@ description: Properties of a Microsoft Excel file.
 solution: Experience Manager
 title: ExcelInfo
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: eec7405f-58fd-4103-95ff-c35c6e86c60f
 ---
 # ExcelInfo{#excelinfo}

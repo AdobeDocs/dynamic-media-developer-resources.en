@@ -3,7 +3,7 @@ description: Describes new and changed string constants for the IPS API version 
 solution: Experience Manager
 title: String Constants  New and Modified
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 38f28e0f-edda-4786-9627-c0ef49645237
 ---
 # String Constants: New and Modified{#string-constants-new-and-modified}

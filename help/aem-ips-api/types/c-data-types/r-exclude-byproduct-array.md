@@ -3,7 +3,7 @@ description: Supports byproduct filtering in the searchAssets operation.
 solution: Experience Manager
 title: ExcludeByproductArray
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 0d238e6a-175d-4efc-b8a9-6b8bc3b65c34
 ---
 # ExcludeByproductArray{#excludebyproductarray}

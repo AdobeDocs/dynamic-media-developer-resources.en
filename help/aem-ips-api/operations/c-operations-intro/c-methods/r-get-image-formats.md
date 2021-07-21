@@ -3,7 +3,7 @@ description: Returns image formats, such as PDF, EPS, SWF, and others.
 solution: Experience Manager
 title: getImageFormats
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: c2fa4cdd-fb4f-4e6a-8197-8f64c986c3a0
 ---
 # getImageFormats{#getimageformats}

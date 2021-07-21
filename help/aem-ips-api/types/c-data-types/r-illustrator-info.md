@@ -3,7 +3,7 @@ description: Properties of an Adobe Illustrator file.
 solution: Experience Manager
 title: IllustratorInfo
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 4ff75141-4de4-4280-9f7a-901bdfc060fb
 ---
 # IllustratorInfo{#illustratorinfo}

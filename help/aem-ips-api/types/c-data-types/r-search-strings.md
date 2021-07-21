@@ -3,7 +3,7 @@ description: Search string record extracted from a PDF file.
 solution: Experience Manager
 title: SearchStrings
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 3f67ba8a-12dd-4698-9502-7cbdec9cb25d
 ---
 # SearchStrings{#searchstrings}

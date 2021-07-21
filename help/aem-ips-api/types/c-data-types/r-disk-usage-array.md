@@ -3,7 +3,7 @@ description: An array of disk usage.
 solution: Experience Manager
 title: DiskUsageArray
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 8331041e-4b8e-42b4-8bda-e40ca9489704
 ---
 # DiskUsageArray{#diskusagearray}

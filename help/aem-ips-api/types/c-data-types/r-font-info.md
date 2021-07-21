@@ -3,7 +3,7 @@ description: Font asset properties.
 solution: Experience Manager
 title: FontInfo
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 1ad2c3b4-32b1-4f39-869e-85ff5a0c734c
 ---
 # FontInfo{#fontinfo}

@@ -3,7 +3,7 @@ description: Returns all metadata fields, grouped by asset type.
 solution: Experience Manager
 title: getAssetMetadataFields
 feature: Dynamic Media Classic,SDK/API,Metadata,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 5234d3ea-c333-4e35-91ae-ce3412919fda
 ---
 # getAssetMetadataFields{#getassetmetadatafields}

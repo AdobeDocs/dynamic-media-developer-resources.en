@@ -3,7 +3,7 @@ description: An array of handles.
 solution: Experience Manager
 title: HandleArray
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 7dd58b31-8337-4ffc-9f58-ca7a8d16abb9
 ---
 # HandleArray{#handlearray}

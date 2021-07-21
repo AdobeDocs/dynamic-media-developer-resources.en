@@ -3,7 +3,7 @@ description: Gets the job logs for an asset. Items returned in the array contain
 solution: Experience Manager
 title: getAssetJobLogs
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 88ec5cab-7eb4-48aa-914f-21311593e463
 ---
 # getAssetJobLogs{#getassetjoblogs}

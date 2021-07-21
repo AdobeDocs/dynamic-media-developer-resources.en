@@ -3,7 +3,7 @@ description: Removes permissions from selected assets.
 solution: Experience Manager
 title: removeAssetPermissions
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: c47d9853-91b1-45fe-b8ff-aaa1239ca0d1
 ---
 # removeAssetPermissions{#removeassetpermissions}

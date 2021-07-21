@@ -3,7 +3,7 @@ description: Properties of an audio file asset.
 solution: Experience Manager
 title: AudioInfo
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 51d09533-2964-4b46-b45b-cc65e178ee0a
 ---
 # AudioInfo{#audioinfo}

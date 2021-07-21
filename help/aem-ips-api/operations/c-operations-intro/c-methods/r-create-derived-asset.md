@@ -3,7 +3,7 @@ description: Creates a new asset derived from an existing primary source image a
 solution: Experience Manager
 title: createDerivedAsset
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: a3b20a8a-ed0d-40be-9a8c-41ba09b1d724
 ---
 # createDerivedAsset{#createderivedasset}

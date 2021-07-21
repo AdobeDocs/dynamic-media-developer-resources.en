@@ -3,7 +3,7 @@ description: Properties of an CSS file asset.
 solution: Experience Manager
 title: CssInfo
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: b3a65c0c-b2c9-48da-9233-5fbcdd55d986
 ---
 # CssInfo{#cssinfo}

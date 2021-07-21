@@ -3,7 +3,7 @@ description: For Scene 7 developers only. Refer to the Image Rendering Material 
 solution: Experience Manager
 title: setImageServingPublishSettings
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 75ba94b3-41d2-4c09-b444-42b3e83614b4
 ---
 # setImageServingPublishSettings{#setimageservingpublishsettings}

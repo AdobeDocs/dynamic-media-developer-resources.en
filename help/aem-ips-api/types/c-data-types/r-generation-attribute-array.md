@@ -3,7 +3,7 @@ description: Array of generation attributes.
 solution: Experience Manager
 title: GenerationAttributeArray
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 8b771155-5cd7-4cf2-9552-4efb114556de
 ---
 # GenerationAttributeArray{#generationattributearray}

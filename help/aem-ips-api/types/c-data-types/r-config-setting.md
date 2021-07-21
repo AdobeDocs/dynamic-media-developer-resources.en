@@ -3,7 +3,7 @@ description: Used by Dynamic Media developers only.
 solution: Experience Manager
 title: ConfigSetting
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 6d6421ce-1933-4310-b691-817392631969
 ---
 # ConfigSetting{#configsetting}

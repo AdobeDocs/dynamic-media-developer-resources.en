@@ -3,7 +3,7 @@ description: Sets the list of assets associated with an image set.
 solution: Experience Manager
 title: setImageSetMembers
 feature: Dynamic Media Classic,SDK/API,Image Sets
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: c30df5fe-e355-45d4-8c06-e396caca0d58
 ---
 # setImageSetMembers{#setimagesetmembers}

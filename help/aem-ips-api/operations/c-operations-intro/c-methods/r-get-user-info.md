@@ -3,7 +3,7 @@ description: Gets information about a user. Use the email address and the passwo
 solution: Experience Manager
 title: getUserInfo
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 1981f25f-779e-4434-ab6b-0debb40521fe
 ---
 # getUserInfo{#getuserinfo}

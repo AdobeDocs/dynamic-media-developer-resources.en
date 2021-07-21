@@ -3,7 +3,7 @@ description: Gets all tag dictionary values defined for one or more tag fields.
 solution: Experience Manager
 title: getTagFieldValues
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 12836783-4f9d-41d3-9b42-6e25238d7ed5
 ---
 # getTagFieldValues{#gettagfieldvalues}

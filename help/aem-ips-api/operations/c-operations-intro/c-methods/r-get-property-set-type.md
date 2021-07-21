@@ -3,7 +3,7 @@ description: Gets a property set type using a handle to a company and the name o
 solution: Experience Manager
 title: getPropertySetType
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: ff9c3d24-577c-4a9c-8820-60c2a33773bc
 ---
 # getPropertySetType{#getpropertysettype}

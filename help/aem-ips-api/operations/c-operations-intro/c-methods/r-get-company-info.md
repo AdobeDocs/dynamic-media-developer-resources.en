@@ -3,7 +3,7 @@ description: Returns information about the specified company including the compa
 solution: Experience Manager
 title: getCompanyInfo
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 72bd223b-c99a-48a3-9c0a-d1af392d904c
 ---
 # getCompanyInfo{#getcompanyinfo}

@@ -3,7 +3,7 @@ description: Properties of an SWC file asset.
 solution: Experience Manager
 title: SwcInfo
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 585b044e-740f-4bd9-b01d-873418366662
 ---
 # SwcInfo{#swcinfo}

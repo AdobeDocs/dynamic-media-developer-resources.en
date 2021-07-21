@@ -3,7 +3,7 @@ description: Job type to allow authorized export of previously uploaded files.
 solution: Experience Manager
 title: ExportJob
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: f0266b9f-c6e0-4843-b002-0bc068d43424
 ---
 # ExportJob{#exportjob}

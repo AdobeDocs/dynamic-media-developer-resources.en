@@ -3,7 +3,7 @@ description: Defines search conditions for tag fields.
 solution: Experience Manager
 title: TagCondition
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: ab1ac4b3-e91e-4c42-8b77-6e4c1d129b1a
 ---
 # TagCondition{#tagcondition}

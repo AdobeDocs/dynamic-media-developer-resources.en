@@ -3,7 +3,7 @@ description: Restarts a paused job.
 solution: Experience Manager
 title: resumeJob
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: ba8818ff-3040-463c-80d3-b7cfd1e01f77
 ---
 # resumeJob{#resumejob}

@@ -3,7 +3,7 @@ description: Retrieves all system properties in a single request.
 solution: Experience Manager
 title: getSystemProperties
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: b0ef16fd-1645-4e22-99bb-8c9269623168
 ---
 # getSystemProperties{#getsystemproperties}

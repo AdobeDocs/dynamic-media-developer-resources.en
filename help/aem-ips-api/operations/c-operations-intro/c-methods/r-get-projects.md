@@ -3,7 +3,7 @@ description: Gets projects for a group of related assets.
 solution: Experience Manager
 title: getProjects
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: d7262ed7-7419-4d6b-86ed-f3ad4657d654
 ---
 # getProjects{#getprojects}

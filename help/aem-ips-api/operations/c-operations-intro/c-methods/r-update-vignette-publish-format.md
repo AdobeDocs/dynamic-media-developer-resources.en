@@ -3,7 +3,7 @@ description: Updates the vignette publish format settings.
 solution: Experience Manager
 title: updateVignettePublishFormat
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 7f199ed4-375f-4451-b66a-e50bcd55bf23
 ---
 # updateVignettePublishFormat{#updatevignettepublishformat}

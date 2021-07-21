@@ -3,7 +3,7 @@ description: Gets the property set types associated with the specified company, 
 solution: Experience Manager
 title: getPropertySetTypes
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 7686d30b-e071-4950-8af1-4dd25312ce4b
 ---
 # getPropertySetTypes{#getpropertysettypes}

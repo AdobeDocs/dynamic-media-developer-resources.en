@@ -3,7 +3,7 @@ description: Type and value for a property set.
 solution: Experience Manager
 title: PropertySet
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 8515d07b-354f-46c9-b528-fa1c380e66af
 ---
 # PropertySet{#propertyset}

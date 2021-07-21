@@ -3,7 +3,7 @@ description: An system field condition array.
 solution: Experience Manager
 title: SystemFieldConditionArray
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: bc6fd6c6-acb9-4a90-830b-e964af04abd2
 ---
 # SystemFieldConditionArray{#systemfieldconditionarray}

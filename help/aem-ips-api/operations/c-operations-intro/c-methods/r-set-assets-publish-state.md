@@ -3,7 +3,7 @@ description: Determines if a batch of assets are ready to be published.
 solution: Experience Manager
 title: setAssetsPublishState
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: dce324e4-cf86-4a65-ab00-8cd2bba20f8f
 ---
 # setAssetsPublishState{#setassetspublishstate}

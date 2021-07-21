@@ -3,7 +3,7 @@ description: An array of properties.
 solution: Experience Manager
 title: PropertyArray
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 65a72938-dffe-4448-93f6-166dd0dfdb90
 ---
 # PropertyArray{#propertyarray}

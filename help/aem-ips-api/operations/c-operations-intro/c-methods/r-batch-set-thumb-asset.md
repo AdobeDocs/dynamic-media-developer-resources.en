@@ -3,7 +3,7 @@ description: Sets the thumbnail image for one or more assets.
 solution: Experience Manager
 title: batchSetThumbAsset
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: f7d7ddd9-a3c3-47c4-8da6-d693851d0d7f
 ---
 # batchSetThumbAsset{#batchsetthumbasset}

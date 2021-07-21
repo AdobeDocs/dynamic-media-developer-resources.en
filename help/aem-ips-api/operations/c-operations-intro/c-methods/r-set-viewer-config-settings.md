@@ -3,7 +3,7 @@ description: Attaches viewer configuration settings to an asset. These can be a 
 solution: Experience Manager
 title: setViewerConfigSettings
 feature: Dynamic Media Classic,SDK/API,Viewer Presets
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 6b70f2c3-c98b-455f-b453-bb797744dadc
 ---
 # setViewerConfigSettings{#setviewerconfigsettings}

@@ -3,7 +3,7 @@ description: Create or edit a metadata field. Omit the optional field handle to 
 solution: Experience Manager
 title: saveMetadataField
 feature: Dynamic Media Classic,SDK/API,Metadata
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 56a45324-5027-4375-a790-c965f682e4b9
 ---
 # saveMetadataField{#savemetadatafield}

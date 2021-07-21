@@ -3,7 +3,7 @@ description: Checks if a user with a specific company (identified by handle), em
 solution: Experience Manager
 title: checkLogin
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 1f96f376-574c-464b-9c89-c215f6454b81
 ---
 # checkLogin{#checklogin}

@@ -3,7 +3,7 @@ description: A name and value pair.
 solution: Experience Manager
 title: Property
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 7c7675e5-d85c-4320-8b7a-a49af24ac4ff
 ---
 # Property{#property}

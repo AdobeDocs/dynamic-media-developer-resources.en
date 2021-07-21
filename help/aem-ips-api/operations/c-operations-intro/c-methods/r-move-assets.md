@@ -3,7 +3,7 @@ description: Moves multiple assets independently of each other. It accomplishes 
 solution: Experience Manager
 title: moveAssets
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: e5bb2188-d262-4324-9f71-68634b6af654
 ---
 # moveAssets{#moveassets}

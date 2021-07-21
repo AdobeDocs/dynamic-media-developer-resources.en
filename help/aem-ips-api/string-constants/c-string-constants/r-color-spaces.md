@@ -3,7 +3,7 @@ description: Used by IccProfileFieldUpdate/colorSpace and IccProfileFieldUpdate/
 solution: Experience Manager
 title: Color Spaces
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: f2989963-e0d4-42b8-9807-a63d43728540
 ---
 # Color Spaces{#color-spaces}

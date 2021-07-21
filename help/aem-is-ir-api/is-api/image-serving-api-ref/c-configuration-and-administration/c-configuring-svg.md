@@ -3,7 +3,7 @@ description: The SvgRender component is an independent Java application.
 solution: Experience Manager
 title: Configuring SVG
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,User
+role: Developer,Admin,User
 exl-id: 9013e13f-818f-41b4-80b6-2615d9a8742f
 ---
 # Configuring SVG{#configuring-svg}

@@ -3,7 +3,7 @@ description: Used by AutoCropColorOptions/corner.
 solution: Experience Manager
 title: AutoCrop Corner
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: a9ed9cfa-a11e-4e71-9e46-9589451cdad9
 ---
 # AutoCrop Corner{#autocrop-corner}

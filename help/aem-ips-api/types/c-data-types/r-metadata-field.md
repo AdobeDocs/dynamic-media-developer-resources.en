@@ -3,7 +3,7 @@ description: User-defined field definitions for specific assets.
 solution: Experience Manager
 title: MetadataField
 feature: Dynamic Media Classic,SDK/API,Metadata
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 97175076-9078-4bc4-b3ea-73c3ea772f6a
 ---
 # MetadataField{#metadatafield}

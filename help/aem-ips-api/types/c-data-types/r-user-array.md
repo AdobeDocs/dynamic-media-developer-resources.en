@@ -3,7 +3,7 @@ description: An array of users.
 solution: Experience Manager
 title: UserArray
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 0b06cc8e-5bc7-4d0f-bfdc-24d53cb5deea
 ---
 # UserArray{#userarray}

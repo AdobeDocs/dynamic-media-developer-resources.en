@@ -3,7 +3,7 @@ description: Returns coordinates for the quadrilateral enclosing the named Photo
 solution: Experience Manager
 title: getPhotoshopPath
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 46d88547-bb60-4370-9c79-bd281b40ba28
 ---
 # getPhotoshopPath{#getphotoshoppath}

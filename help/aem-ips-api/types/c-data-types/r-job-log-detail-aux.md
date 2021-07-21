@@ -3,7 +3,7 @@ description: Contains supplementary messages associated with the main job log me
 solution: Experience Manager
 title: JobLogDetailAux
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 789736c5-d74d-4970-9665-b43e316aca69
 ---
 # JobLogDetailAux{#joblogdetailaux}

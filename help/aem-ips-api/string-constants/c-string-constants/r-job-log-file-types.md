@@ -3,7 +3,7 @@ description: Used by JobLogDetial/assetType.
 solution: Experience Manager
 title: Job Log File Types
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: a6dce340-0dc4-4ecf-9aa1-0ed8f446fb8c
 ---
 # Job Log File Types{#job-log-file-types}

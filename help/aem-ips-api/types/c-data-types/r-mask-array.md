@@ -3,7 +3,7 @@ description: An array of masks.
 solution: Experience Manager
 title: MaskArray
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: a0539a30-051c-4442-abae-99588bdfff10
 ---
 # MaskArray{#maskarray}

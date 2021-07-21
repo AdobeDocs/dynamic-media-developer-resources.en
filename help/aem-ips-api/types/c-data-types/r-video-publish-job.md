@@ -3,7 +3,7 @@ description: Publishes files to the configured video publish servers.
 solution: Experience Manager
 title: VideoPublishJob
 feature: Dynamic Media Classic,SDK/API,Video
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 4b295025-6e8d-4329-87c1-63633bf26129
 ---
 # VideoPublishJob{#videopublishjob}

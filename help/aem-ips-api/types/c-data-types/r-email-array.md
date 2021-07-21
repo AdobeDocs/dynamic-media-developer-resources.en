@@ -3,7 +3,7 @@ description: An array used to designate the originator or a list of up to 5 emai
 solution: Experience Manager
 title: EmailArray
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 599cf951-f3b2-4f39-bca4-0c18784f7d56
 ---
 # EmailArray{#emailarray}

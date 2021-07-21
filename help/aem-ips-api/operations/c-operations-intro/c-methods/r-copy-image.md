@@ -3,7 +3,7 @@ description: Creates a copy of an existing image asset. The specified Image Serv
 solution: Experience Manager
 title: copyImage
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 059ebbca-2341-444b-850a-1ec9582692ec
 ---
 # copyImage{#copyimage}

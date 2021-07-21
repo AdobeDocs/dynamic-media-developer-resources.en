@@ -3,7 +3,7 @@ description: Creates a folder.
 solution: Experience Manager
 title: createFolder
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 569130ae-5515-4b14-a410-2bd6f9fc7638
 ---
 # [!DNL createFolder]{#createfolder}

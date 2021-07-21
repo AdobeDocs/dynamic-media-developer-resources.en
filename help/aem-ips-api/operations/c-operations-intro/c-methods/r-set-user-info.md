@@ -3,7 +3,7 @@ description: Sets user attributes (e.g., name, email, role, etc.)
 solution: Experience Manager
 title: setUserInfo
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: d8f8fe53-a874-4b77-9084-9a369862a672
 ---
 # setUserInfo{#setuserinfo}

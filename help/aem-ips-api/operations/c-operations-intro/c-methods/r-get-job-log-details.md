@@ -3,7 +3,7 @@ description: Gets the details of a company job log.
 solution: Experience Manager
 title: getJobLogDetails
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: d2e4eea6-041b-4a80-beda-cbb8d74cd50b
 ---
 # getJobLogDetails{#getjoblogdetails}

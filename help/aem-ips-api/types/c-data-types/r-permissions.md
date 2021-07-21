@@ -3,7 +3,7 @@ description: Manages rights to access, modify, create, or delete assets by group
 solution: Experience Manager
 title: Permission
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 18e5f8f6-3cbe-4d36-b02a-5a3002e4498c
 ---
 # Permission{#permission}

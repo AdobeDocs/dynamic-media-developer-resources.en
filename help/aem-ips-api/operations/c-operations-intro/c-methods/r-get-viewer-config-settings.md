@@ -3,7 +3,7 @@ description: Gets all viewer configuration settings associated with the specifie
 solution: Experience Manager
 title: getViewerConfigSettings
 feature: Dynamic Media Classic,SDK/API,Viewer Presets
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: c0438238-8aab-4478-926a-fc0e11732fc1
 ---
 # getViewerConfigSettings{#getviewerconfigsettings}

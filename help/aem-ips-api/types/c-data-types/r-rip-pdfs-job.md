@@ -3,7 +3,7 @@ description: A process that re-rips an existing PDF asset.
 solution: Experience Manager
 title: RipPdfsJob
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 7a787b45-3cda-44f2-8357-8b6217b679e0
 ---
 # RipPdfsJob{#rippdfsjob}

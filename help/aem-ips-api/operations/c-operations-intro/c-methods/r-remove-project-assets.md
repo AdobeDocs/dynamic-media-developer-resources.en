@@ -3,7 +3,7 @@ description: Removes assets from a project. Does not destroy the assets.
 solution: Experience Manager
 title: removeProjectAssets
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 6bf169ec-c724-4ac0-a2bf-67af2ebba21a
 ---
 # removeProjectAssets{#removeprojectassets}

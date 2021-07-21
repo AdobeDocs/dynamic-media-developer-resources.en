@@ -3,7 +3,7 @@ description: Layer view properties.
 solution: Experience Manager
 title: LayerViewInfo
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 25199c86-1df0-41af-b210-e7668a60295e
 ---
 # LayerViewInfo{#layerviewinfo}

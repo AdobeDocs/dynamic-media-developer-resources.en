@@ -3,7 +3,7 @@ description: Used by JobLogDetail/logType and JobLog/logType.
 solution: Experience Manager
 title: Job Log Types
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 34b1bac0-c338-437a-9d44-09dbf75088ee
 ---
 # Job Log Types{#job-log-types}

@@ -3,7 +3,7 @@ description: Mask (knock-out) the background for selected images. This lets you 
 solution: Experience Manager
 title: KnockoutBackgroundOptions
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: aed8cf2e-5a09-43ff-9420-0d0d54059515
 ---
 # KnockoutBackgroundOptions{#knockoutbackgroundoptions}

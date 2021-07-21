@@ -3,7 +3,7 @@ description: An array of job logs.
 solution: Experience Manager
 title: JobLogArray
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: e61f26c0-7a5d-4217-b940-0cfbb2ad96e9
 ---
 # JobLogArray{#joblogarray}

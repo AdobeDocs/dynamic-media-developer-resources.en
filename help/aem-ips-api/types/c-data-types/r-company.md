@@ -3,7 +3,7 @@ description: Represents a company.
 solution: Experience Manager
 title: Company
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: e831a081-145a-4fb4-a617-7eecea8d40ed
 ---
 # Company{#company}

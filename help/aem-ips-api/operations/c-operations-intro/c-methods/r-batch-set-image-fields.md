@@ -3,7 +3,7 @@ description: Sets image-specific fields for one or more image assets.
 solution: Experience Manager
 title: batchSetImageFields
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 8ea6dbb8-4d32-43e5-961f-31110f983663
 ---
 # batchSetImageFields{#batchsetimagefields}

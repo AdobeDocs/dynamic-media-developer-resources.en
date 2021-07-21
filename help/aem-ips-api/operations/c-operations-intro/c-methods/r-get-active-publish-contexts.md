@@ -3,7 +3,7 @@ description: Gets a list of active publish contexts for the specified company. A
 solution: Experience Manager
 title: getActivePublishContext
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 9f450263-6877-4b32-a71a-8f67b0537a69
 ---
 # getActivePublishContext{#getactivepublishcontext}

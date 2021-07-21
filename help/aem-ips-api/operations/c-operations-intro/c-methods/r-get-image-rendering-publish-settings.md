@@ -3,7 +3,7 @@ description: For internal use only. See the Image Rendering Material Catalog Ref
 solution: Experience Manager
 title: getImageRenderingPublishSettings
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 152dfd61-2fba-47b4-8e69-fbbc8fb57f87
 ---
 # getImageRenderingPublishSettings{#getimagerenderingpublishsettings}

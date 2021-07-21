@@ -3,7 +3,7 @@ description: A task progress array. Contains information about video transcoding
 solution: Experience Manager
 title: TaskProgressArray
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: ac86ddcb-dc10-44b8-b007-4f54f7367c41
 ---
 # TaskProgressArray{#taskprogressarray}

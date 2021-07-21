@@ -3,7 +3,7 @@ description: An array of keywords.
 solution: Experience Manager
 title: KeywordsArray
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: ec87de9e-f3d0-404e-b16f-4c5d373e5a6f
 ---
 # KeywordsArray{#keywordsarray}

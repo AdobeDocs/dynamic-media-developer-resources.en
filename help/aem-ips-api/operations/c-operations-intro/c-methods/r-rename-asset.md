@@ -3,7 +3,7 @@ description: Renames an asset.
 solution: Experience Manager
 title: renameAsset
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: f3fff3c1-1b48-4d86-8a81-f75be00fc329
 ---
 # renameAsset{#renameasset}

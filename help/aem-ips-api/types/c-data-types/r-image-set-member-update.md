@@ -3,7 +3,7 @@ description: Within this type, the pageReset field is meaningful for RenderSet a
 solution: Experience Manager
 title: ImageSetMemberUpdate
 feature: Dynamic Media Classic,SDK/API,Image Sets
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 4c598afb-a80c-4fac-997f-ef1c7175430c
 ---
 # ImageSetMemberUpdate{#imagesetmemberupdate}

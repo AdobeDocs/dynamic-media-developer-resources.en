@@ -3,7 +3,7 @@ description: Sets the group membership of users that belong to a specific compan
 solution: Experience Manager
 title: setGroupMembers
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 81348da7-6733-4da9-8a0a-376fccf791ea
 ---
 # setGroupMembers{#setgroupmembers}

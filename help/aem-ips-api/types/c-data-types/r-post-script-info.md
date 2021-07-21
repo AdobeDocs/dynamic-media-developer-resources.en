@@ -3,7 +3,7 @@ description: PostScriptInfo
 solution: Experience Manager
 title: PostScriptInfo
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 9d226927-3b00-4e11-b279-e866aa649477
 ---
 # PostScriptInfo{#postscriptinfo}

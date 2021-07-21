@@ -3,7 +3,7 @@ description: Properties of an image asset.
 solution: Experience Manager
 title: ImageInfo
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 058c74b2-634c-49b9-88ab-ab72a030983c
 ---
 # ImageInfo{#imageinfo}

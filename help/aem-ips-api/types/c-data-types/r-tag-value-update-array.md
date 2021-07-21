@@ -3,7 +3,7 @@ description: An array of tag value updates.
 solution: Experience Manager
 title: TagValueUpdateArray
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: e1f6a6bf-6c27-4465-98bf-6bfba3482b54
 ---
 # TagValueUpdateArray{#tagvalueupdatearray}

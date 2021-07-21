@@ -3,7 +3,7 @@ description: Options for an Adobe Illustrator file.
 solution: Experience Manager
 title: IllustratorOptions
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: f6c06fe3-5dfa-4885-9083-c6c41ae0e0ea
 ---
 # IllustratorOptions{#illustratoroptions}

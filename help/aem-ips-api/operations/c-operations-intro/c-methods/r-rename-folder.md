@@ -3,7 +3,7 @@ description: Renames a folder.
 solution: Experience Manager
 title: renameFolder
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 2d4f1059-8018-4efb-a1ec-8eb560b1a58f
 ---
 # renameFolder{#renamefolder}

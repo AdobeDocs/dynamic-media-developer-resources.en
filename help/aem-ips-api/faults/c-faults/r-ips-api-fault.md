@@ -3,7 +3,7 @@ description: ipsApiFault
 solution: Experience Manager
 title: ipsApiFault
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 48be47f6-4c1c-4f19-afa7-f643e504c287
 ---
 # ipsApiFault{#ipsapifault}

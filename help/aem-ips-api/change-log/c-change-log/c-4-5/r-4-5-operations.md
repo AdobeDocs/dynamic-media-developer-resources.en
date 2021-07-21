@@ -3,7 +3,7 @@ description: Describes new and changed operations methods for the IPS API versio
 solution: Experience Manager
 title: Operations  New and Modified
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 9033328a-d0ce-4ef2-b6ec-c6a81fbedf9d
 ---
 # Operations: New and Modified{#operations-new-and-modified}

@@ -3,7 +3,7 @@ description: Removes folder permissions.
 solution: Experience Manager
 title: removeFolderPermissions
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 10830980-d504-4610-96c9-730937453256
 ---
 # removeFolderPermissions{#removefolderpermissions}

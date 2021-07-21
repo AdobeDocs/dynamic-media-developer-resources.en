@@ -3,7 +3,7 @@ description: Sets various company-specific configuration values.
 solution: Experience Manager
 title: setCompanySettings
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: c6b72ceb-3c86-4b13-89e9-5f1bb9846b2c
 ---
 # setCompanySettings{#setcompanysettings}

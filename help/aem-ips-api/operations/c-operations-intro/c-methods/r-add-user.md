@@ -3,7 +3,7 @@ description: Creates a user account and adds that account to one or more compani
 solution: Experience Manager
 title: addUser
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: aed39e73-f528-4c26-8f62-c3d796e9101a
 ---
 # addUser{#adduser}

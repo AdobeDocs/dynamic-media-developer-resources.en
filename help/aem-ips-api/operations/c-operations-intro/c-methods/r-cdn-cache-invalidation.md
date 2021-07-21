@@ -3,7 +3,7 @@ description: Forwards the supplied list of URLs to the Dynamic Media CDN (Conten
 solution: Experience Manager
 title: cdnCacheInvalidation
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 65b758f2-b49a-4616-b657-a64808c9202a
 ---
 # cdnCacheInvalidation{#cdncacheinvalidation}

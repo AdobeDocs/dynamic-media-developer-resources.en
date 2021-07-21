@@ -2,7 +2,7 @@
 description: Video caption properties
 title: VideoCaptionInfo
 feature: Dynamic Media Classic,SDK/API,Video
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 75788ce3-7b89-4c7a-81b0-d36b13a89463
 ---
 # VideoCaptionInfo{#videocaptioninfo}

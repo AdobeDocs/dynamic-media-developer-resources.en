@@ -3,7 +3,7 @@ description: Gets a list of the characters used in a particular field.
 solution: Experience Manager
 title: getUserChars
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: d6b79c06-0e90-406f-bac8-3b8c2bae5480
 ---
 # getUserChars{#getuserchars}

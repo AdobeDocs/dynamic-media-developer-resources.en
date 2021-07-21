@@ -3,7 +3,7 @@ description: Creates an image format.
 solution: Experience Manager
 title: saveImageFormat
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: cafbd715-237b-4454-920e-643f0c84e208
 ---
 # saveImageFormat{#saveimageformat}

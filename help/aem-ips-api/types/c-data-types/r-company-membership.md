@@ -3,7 +3,7 @@ description: CompanyMembership
 solution: Experience Manager
 title: CompanyMembership
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 10a1cd09-5cd8-48e6-93cf-da8d04d9941a
 ---
 # CompanyMembership{#companymembership}

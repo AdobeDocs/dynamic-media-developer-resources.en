@@ -3,7 +3,7 @@ description: Gets string values of system properties related to Image Portal.
 solution: Experience Manager
 title: getProperty
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 2297b785-28c7-49c6-8891-00986f35ea88
 ---
 # getProperty{#getproperty}

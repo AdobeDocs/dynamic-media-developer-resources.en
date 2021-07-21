@@ -3,7 +3,7 @@ description: An array of scheduled jobs.
 solution: Experience Manager
 title: ScheduledJobArray
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 2bc145ca-3cee-4832-908c-e45e124a2b6f
 ---
 # ScheduledJobArray{#scheduledjobarray}

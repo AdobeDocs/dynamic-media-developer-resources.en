@@ -3,7 +3,7 @@ description: Creates an image set.
 solution: Experience Manager
 title: createImageSet
 feature: Dynamic Media Classic,SDK/API,Image Sets
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 01ccc705-97e4-4e75-a322-e24bb78cb496
 ---
 # createImageSet{#createimageset}

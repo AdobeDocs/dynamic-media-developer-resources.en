@@ -3,7 +3,7 @@ description: Gets assets associated with a specified asset and details about the
 solution: Experience Manager
 title: getAssociatedAssets
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: cf49719f-5d79-4e64-a785-bf3b2fe200c7
 ---
 # getAssociatedAssets{#getassociatedassets}

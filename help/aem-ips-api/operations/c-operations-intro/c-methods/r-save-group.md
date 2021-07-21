@@ -3,7 +3,7 @@ description: Create or edit a group.
 solution: Experience Manager
 title: saveGroup
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 1dd980e7-eb38-4c90-b4fc-83327d4a95f5
 ---
 # saveGroup{#savegroup}

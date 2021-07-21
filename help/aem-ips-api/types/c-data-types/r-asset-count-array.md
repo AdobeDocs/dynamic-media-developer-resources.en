@@ -3,7 +3,7 @@ description: An array of asset counts.
 solution: Experience Manager
 title: AssetCountArray
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 6dca378c-d90d-4871-a5a6-77c3b0362a09
 ---
 # AssetCountArray{#assetcountarray}

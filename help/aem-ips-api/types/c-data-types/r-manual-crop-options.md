@@ -3,7 +3,7 @@ description: Manual crop options for images.
 solution: Experience Manager
 title: ManualCropOptions
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 829147b9-de78-4e8f-814c-ed44f714cb2e
 ---
 # ManualCropOptions{#manualcropoptions}

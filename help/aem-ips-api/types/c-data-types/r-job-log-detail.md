@@ -3,7 +3,7 @@ description: Job log information.
 solution: Experience Manager
 title: JobLogDetail
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: fe41a48a-4671-4179-a128-aadc7bc0683b
 ---
 # JobLogDetail{#joblogdetail}

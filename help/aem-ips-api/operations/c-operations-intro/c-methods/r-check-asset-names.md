@@ -3,7 +3,7 @@ description: Checks for IPS ID conflicts by comparing asset names against all na
 solution: Experience Manager
 title: checkAssetNames
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 0756c4fc-64ec-4022-a6aa-fcf1542b41b0
 ---
 # checkAssetNames{#checkassetnames}

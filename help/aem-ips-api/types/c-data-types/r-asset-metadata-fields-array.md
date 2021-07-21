@@ -3,7 +3,7 @@ description: An array of AssetMetadataFields. Used by getAssetMetadataFields to 
 solution: Experience Manager
 title: AssetMetadataFieldsArray
 feature: Dynamic Media Classic,SDK/API,Metadata,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 6353afd0-c564-4866-84ee-d29a5e2d8a86
 ---
 # AssetMetadataFieldsArray{#assetmetadatafieldsarray}

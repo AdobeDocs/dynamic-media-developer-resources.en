@@ -3,7 +3,7 @@ description: Options specified during upload. Affects how color is managed for t
 solution: Experience Manager
 title: ColorManagementOptions
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 55535bb0-544d-4a93-9ff4-235f22b8d45a
 ---
 # ColorManagementOptions{#colormanagementoptions}

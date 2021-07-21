@@ -3,7 +3,7 @@ description: Returns the users of a company specified by a company handle.
 solution: Experience Manager
 title: getCompanyMembers
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: da5e5a48-2e0b-4ccc-a71e-b5b746484d4a
 ---
 # getCompanyMembers{#getcompanymembers}

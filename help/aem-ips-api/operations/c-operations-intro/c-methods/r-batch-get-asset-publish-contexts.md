@@ -3,7 +3,7 @@ description: Returns the publish contexts for assets marked for publication.
 solution: Experience Manager
 title: batchGetAssetPublishContexts
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: ba1f62a7-2698-4300-b6de-6d07ac764b0c
 ---
 # batchGetAssetPublishContexts{#batchgetassetpublishcontexts}

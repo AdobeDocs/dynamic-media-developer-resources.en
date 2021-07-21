@@ -3,7 +3,7 @@ description: Resets the publish status for one or more assets to force the asset
 solution: Experience Manager
 title: forceRepublishAssets
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 4c75af38-4791-4f21-8d1b-4855fcdfd4b1
 ---
 # forceRepublishAssets{#forcerepublishassets}

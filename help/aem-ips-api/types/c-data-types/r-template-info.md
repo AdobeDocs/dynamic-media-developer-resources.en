@@ -3,7 +3,7 @@ description: The properties of a template asset.
 solution: Experience Manager
 title: TemplateInfo
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 90d7f116-936d-4e04-b54f-ec9ba37d5477
 ---
 # TemplateInfo{#templateinfo}

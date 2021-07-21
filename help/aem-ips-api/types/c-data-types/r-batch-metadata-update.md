@@ -3,7 +3,7 @@ description: Updates metadata in batch mode.
 solution: Experience Manager
 title: BatchMetadataUpdate
 feature: Dynamic Media Classic,SDK/API,Metadata
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 07998708-f7c2-42bc-b128-c81f86fd1760
 ---
 # BatchMetadataUpdate{#batchmetadataupdate}

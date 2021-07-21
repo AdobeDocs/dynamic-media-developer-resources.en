@@ -3,7 +3,7 @@ description: Generates a new password.
 solution: Experience Manager
 title: generatePassword
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 80e7642f-4aec-4ff0-a090-e59b7a065c39
 ---
 # generatePassword{#generatepassword}

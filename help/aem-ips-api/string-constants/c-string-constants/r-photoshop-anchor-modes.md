@@ -3,7 +3,7 @@ description: used by PhotoshopOptions/anchor.
 solution: Experience Manager
 title: Photoshop Anchor Modes
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 69edbec2-b646-4527-9ee3-a0e710996230
 ---
 # Photoshop Anchor Modes{#photoshop-anchor-modes}

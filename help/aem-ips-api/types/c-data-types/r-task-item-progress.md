@@ -3,7 +3,7 @@ description: Task item progress information.
 solution: Experience Manager
 title: TaskItemProgress
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 568a5601-b928-447d-8297-01139f36cf73
 ---
 # TaskItemProgress{#taskitemprogress}

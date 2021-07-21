@@ -3,7 +3,7 @@ description: Contains information about warning or error conditions generated du
 solution: Experience Manager
 title: AssetOperationFault
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: c97fc35b-76f8-4ff7-a1ae-e5f9749f376c
 ---
 # AssetOperationFault{#assetoperationfault}

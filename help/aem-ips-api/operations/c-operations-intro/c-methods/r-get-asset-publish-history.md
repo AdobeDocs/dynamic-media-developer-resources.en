@@ -3,7 +3,7 @@ description: Returns the publish history for an asset.
 solution: Experience Manager
 title: getAssetPublishHistory
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: f337e7f9-1af6-4164-b9bd-e697548e2850
 ---
 # getAssetPublishHistory{#getassetpublishhistory}

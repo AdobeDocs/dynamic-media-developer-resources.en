@@ -3,7 +3,7 @@ description: Describes the common operation parameters handled by the IPS Web Se
 solution: Experience Manager
 title: Operations methods
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 020c8e63-ad4e-4c0d-8da6-b51efb2b89a5
 ---
 # Operations methods{#operations-methods}

@@ -3,7 +3,7 @@ description: Pauses an active job.
 solution: Experience Manager
 title: pauseJob
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 010e969a-911e-49fc-8577-66c18cd4329c
 ---
 # pauseJob{#pausejob}

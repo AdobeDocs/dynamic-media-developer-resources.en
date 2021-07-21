@@ -3,7 +3,7 @@ description: Photoshop file properties.
 solution: Experience Manager
 title: PsdInfo
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 620cf7a3-ae69-4d1e-af3d-64fe7f0302c8
 ---
 # PsdInfo{#psdinfo}

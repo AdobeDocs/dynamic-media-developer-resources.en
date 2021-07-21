@@ -3,7 +3,7 @@ description: Gets the assets and the number of assets associated with a specific
 solution: Experience Manager
 title: getAssetCounts
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 21cb8023-d6fe-416a-b16f-636df8a37958
 ---
 # getAssetCounts{#getassetcounts}

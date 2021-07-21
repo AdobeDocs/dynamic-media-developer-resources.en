@@ -3,7 +3,7 @@ description: An entry in a ZIP file.
 solution: Experience Manager
 title: ZipEntry
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: f71f57db-6717-4a27-b275-19bc4cf59ea4
 ---
 # ZipEntry{#zipentry}

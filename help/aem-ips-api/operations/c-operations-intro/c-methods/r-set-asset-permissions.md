@@ -3,7 +3,7 @@ description: Sets the permissions of a single asset by using a permission asset.
 solution: Experience Manager
 title: setAssetPermissions
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 1e73c305-cda5-4c30-9380-ec4cd8309933
 ---
 # setAssetPermissions{#setassetpermissions}

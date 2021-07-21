@@ -3,7 +3,7 @@ description: Sets the Image Serving or Image Rendering protocol commands for the
 solution: Experience Manager
 title: setUrlModifier
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 9e96ffc8-5a38-46b8-9ba8-956c86b32c7a
 ---
 # setUrlModifier{#seturlmodifier}

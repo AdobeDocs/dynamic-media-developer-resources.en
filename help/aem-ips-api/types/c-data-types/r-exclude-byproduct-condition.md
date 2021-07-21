@@ -3,7 +3,7 @@ description: Determines which generation engine and generated asset type to excl
 solution: Experience Manager
 title: ExcludeByproductCondition
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 5b37e01b-9e9c-4d34-9d39-1f9bfe356e53
 ---
 # ExcludeByproductCondition{#excludebyproductcondition}

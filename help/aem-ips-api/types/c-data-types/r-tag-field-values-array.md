@@ -3,7 +3,7 @@ description: An array of tag field values.
 solution: Experience Manager
 title: TagFieldValuesArray
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 68762d4c-b006-4a1a-ab0b-dafde2ab0a80
 ---
 # TagFieldValuesArray{#tagfieldvaluesarray}

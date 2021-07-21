@@ -3,7 +3,7 @@ description: Publishes files to the image servers.
 solution: Experience Manager
 title: ImageServingPublishJob
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: dad6ca6b-6bfe-4788-8ba7-f6cb2a734800
 ---
 # ImageServingPublishJob{#imageservingpublishjob}

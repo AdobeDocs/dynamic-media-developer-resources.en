@@ -3,7 +3,7 @@ description: Properties for AssetSet type assets.
 solution: Experience Manager
 title: AssetSetInfo
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: ca5e4d7d-24b3-4b4b-b350-ded83f94528b
 ---
 # AssetSetInfo{#assetsetinfo}

@@ -3,7 +3,7 @@ description: Sets the zoom target associated with an asset image. It overwrites 
 solution: Experience Manager
 title: setZoomTargets
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 1b4ac729-00cf-4ea2-9098-60b4af3c7e6d
 ---
 # setZoomTargets{#setzoomtargets}

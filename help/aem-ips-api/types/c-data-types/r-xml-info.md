@@ -3,7 +3,7 @@ description: Properties of an XML file asset.
 solution: Experience Manager
 title: XmlInfo
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 1cf9bea9-6279-4b2a-a0cc-81cc71fb601d
 ---
 # XmlInfo{#xmlinfo}

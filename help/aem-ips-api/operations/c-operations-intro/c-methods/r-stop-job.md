@@ -3,7 +3,7 @@ description: Stops a job in progress.
 solution: Experience Manager
 title: stopJob
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 90e61cf1-11f1-4504-8007-126ba4fe436a
 ---
 # stopJob{#stopjob}

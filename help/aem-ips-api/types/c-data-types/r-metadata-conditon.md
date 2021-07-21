@@ -3,7 +3,7 @@ description: Adds a search term for use with searchAssets.
 solution: Experience Manager
 title: MetadataCondition
 feature: Dynamic Media Classic,SDK/API,Metadata
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 9226fb81-b3ff-41e4-a3cd-d5a40f359be6
 ---
 # MetadataCondition{#metadatacondition}

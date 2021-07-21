@@ -3,7 +3,7 @@ description: An array of asset operation faults.
 solution: Experience Manager
 title: AssetOperationFaultArray
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 8bc6bfaa-eecf-4346-af57-25df2a471a1f
 ---
 # AssetOperationFaultArray{#assetoperationfaultarray}

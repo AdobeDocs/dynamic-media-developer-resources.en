@@ -3,7 +3,7 @@ description: Holds information about a company metadata object like ID, name, an
 solution: Experience Manager
 title: CompanyMetadataInfo
 feature: Dynamic Media Classic,SDK/API,Metadata
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: a3d4dd67-07df-47bf-b9e7-1379290654ff
 ---
 # CompanyMetadataInfo{#companymetadatainfo}

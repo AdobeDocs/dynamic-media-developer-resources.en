@@ -3,7 +3,7 @@ description: Describes values used by various parameters. See the list in this a
 solution: Experience Manager
 title: User Roles
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: f94443ba-7715-4790-bd2a-120e0cb8848e
 ---
 # User Roles{#user-roles}

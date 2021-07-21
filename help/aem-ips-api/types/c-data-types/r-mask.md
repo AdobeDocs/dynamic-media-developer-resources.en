@@ -3,7 +3,7 @@ description: Masks part of an image. The mask is always associated with the imag
 solution: Experience Manager
 title: Mask
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 0e18096c-0666-400b-a562-b6d183bd3334
 ---
 # Mask{#mask}

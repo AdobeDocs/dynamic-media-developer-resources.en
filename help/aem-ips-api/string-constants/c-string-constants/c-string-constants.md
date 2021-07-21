@@ -3,7 +3,7 @@ description: String constants
 solution: Experience Manager
 title: String constants
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 06c381f6-5896-4d9b-b6f4-a907b3774d08
 ---
 # String constants{#string-constants}

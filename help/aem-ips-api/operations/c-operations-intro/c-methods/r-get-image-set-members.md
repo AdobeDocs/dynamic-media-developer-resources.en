@@ -3,7 +3,7 @@ description: Gets an array of members that are in an image set.
 solution: Experience Manager
 title: getImageSetMembers
 feature: Dynamic Media Classic,SDK/API,Image Sets
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 29ceef8b-127f-4460-8623-c3e26c959327
 ---
 # getImageSetMembers{#getimagesetmembers}

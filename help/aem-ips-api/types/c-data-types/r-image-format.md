@@ -3,7 +3,7 @@ description: Unstructured named set of image output settings.
 solution: Experience Manager
 title: ImageFormat
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 570ada53-17d0-4c8a-8843-ace29de92bf3
 ---
 # ImageFormat{#imageformat}

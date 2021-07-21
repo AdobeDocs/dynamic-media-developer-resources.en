@@ -3,7 +3,7 @@ description: An array of strings.
 solution: Experience Manager
 title: StringArray
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 1d380460-6634-4a63-a853-5a23e54b3f67
 ---
 # StringArray{#stringarray}

@@ -3,7 +3,7 @@ description: Hierarchical file or asset storage object. Folders can contain one 
 solution: Experience Manager
 title: Folder
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 74b44b1a-a92e-4c97-a93b-0cd4552f78ec
 ---
 # Folder{#folder}

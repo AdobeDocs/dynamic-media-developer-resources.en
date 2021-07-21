@@ -3,7 +3,7 @@ description: Adds one or more assets to a project.
 solution: Experience Manager
 title: addProjectAssets
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 60aa2846-b41e-4131-b465-82aa832434f7
 ---
 # addProjectAssets{#addprojectassets}

@@ -3,7 +3,7 @@ description: An array of URLS for invalidating CDN cache.
 solution: Experience Manager
 title: UrlArray
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 61225fb2-7c25-4f9c-82c9-02bf69995028
 ---
 # UrlArray{#urlarray}

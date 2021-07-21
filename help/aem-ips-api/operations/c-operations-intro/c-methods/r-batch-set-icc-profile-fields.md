@@ -3,7 +3,7 @@ description: Sets ICC profile metadata fields.
 solution: Experience Manager
 title: batchSetIccProfileFields
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: d10a30ca-afa7-4ef0-8cef-0329b0068bf3
 ---
 # batchSetIccProfileFields{#batchseticcprofilefields}

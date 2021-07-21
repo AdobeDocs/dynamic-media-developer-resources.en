@@ -3,7 +3,7 @@ description: Used by searchAssetsParam/sortBy.
 solution: Experience Manager
 title: Asset Sort Fields
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 6652fe0e-4042-40b0-b5ec-e8533ee42aa2
 ---
 # Asset Sort Fields{#asset-sort-fields}

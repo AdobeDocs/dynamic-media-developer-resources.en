@@ -3,7 +3,7 @@ description: Properties of a CuePoint file asset.
 solution: Experience Manager
 title: CuePointInfo
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: d773cce9-837d-4ac1-99e6-1033eec93b55
 ---
 # CuePointInfo{#cuepointinfo}

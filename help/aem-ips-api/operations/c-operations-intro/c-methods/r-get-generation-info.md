@@ -3,7 +3,7 @@ description: Returns 2 different types of information based on the parameters pa
 solution: Experience Manager
 title: getGenerationInfo
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: fa098e3c-8145-4238-a84c-c545f1c53341
 ---
 # getGenerationInfo{#getgenerationinfo}

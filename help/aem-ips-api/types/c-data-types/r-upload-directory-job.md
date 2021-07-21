@@ -3,7 +3,7 @@ description: Uploads files from specified server directories on a recurring basi
 solution: Experience Manager
 title: UploadDirectoryJob
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: a23f1bc2-aa6a-4c1d-aab5-7f6dbd08682c
 ---
 # UploadDirectoryJob{#uploaddirectoryjob}

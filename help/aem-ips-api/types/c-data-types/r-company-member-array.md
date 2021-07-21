@@ -3,7 +3,7 @@ description: CompanyMemberArray
 solution: Experience Manager
 title: CompanyMemberArray
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 7f41ffa4-4077-4a27-baf6-e7b83449a868
 ---
 # CompanyMemberArray{#companymemberarray}

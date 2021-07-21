@@ -3,7 +3,7 @@ description: Submits a job to the system.
 solution: Experience Manager
 title: submitJob
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: b1dc7a0e-da9a-4086-822b-5274bd62eadf
 ---
 # submitJob{#submitjob}

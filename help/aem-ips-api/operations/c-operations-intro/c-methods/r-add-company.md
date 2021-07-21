@@ -3,7 +3,7 @@ description: Adds a company to the system.
 solution: Experience Manager
 title: addCompany
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 2f834fe8-a621-4a41-9473-8ef53294b348
 ---
 # addCompany{#addcompany}

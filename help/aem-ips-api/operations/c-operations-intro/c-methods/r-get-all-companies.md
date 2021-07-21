@@ -3,7 +3,7 @@ description: Returns an array of all companies.
 solution: Experience Manager
 title: getAllCompanies
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 0e339ecf-83b5-410c-8683-f3d73bd92339
 ---
 # getAllCompanies{#getallcompanies}

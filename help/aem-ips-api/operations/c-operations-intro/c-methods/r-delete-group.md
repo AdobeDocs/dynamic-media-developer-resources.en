@@ -3,7 +3,7 @@ description: Deletes a group.
 solution: Experience Manager
 title: deleteGroup
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 0de188de-b4b6-4f48-9918-bcf962fa9482
 ---
 # deleteGroup{#deletegroup}

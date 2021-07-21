@@ -3,7 +3,7 @@ description: Creates a layered image that can have multiple text and image layer
 solution: Experience Manager
 title: createTemplate
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 228b4228-8c42-4e42-9fb1-d6aea61b9c4a
 ---
 # createTemplate{#createtemplate}

@@ -3,7 +3,7 @@ description: Properties of a watermark asset.
 solution: Experience Manager
 title: WatermarkInfo
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 38821d96-d0d2-4f3b-9c31-15d6a8d66e9e
 ---
 # WatermarkInfo{#watermarkinfo}

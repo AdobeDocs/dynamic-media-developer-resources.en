@@ -3,7 +3,7 @@ description: An array of tag value update faults.
 solution: Experience Manager
 title: TagValueUpdateFaultArray
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 76622042-0fb4-4ec4-834b-d64d79af6a94
 ---
 # TagValueUpdateFaultArray{#tagvalueupdatefaultarray}

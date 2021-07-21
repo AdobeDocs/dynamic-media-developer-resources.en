@@ -3,7 +3,7 @@ description: Detail message responding to one the URLs provided in the CDN inval
 solution: Experience Manager
 title: OperationFault
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: e1fa7f66-f9d9-45cd-a9b3-d0ff344b137d
 ---
 # OperationFault{#operationfault}

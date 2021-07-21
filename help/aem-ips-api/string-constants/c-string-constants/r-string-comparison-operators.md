@@ -3,7 +3,7 @@ description: Used by SystemFieldCondition/op and MetadataCondition/op.
 solution: Experience Manager
 title: String Comparison Operators
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 97256368-aaf8-437f-9c2a-8265249f87dd
 ---
 # String Comparison Operators{#string-comparison-operators}

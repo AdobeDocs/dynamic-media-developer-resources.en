@@ -3,7 +3,7 @@ description: A metadata field returned by searchAssets.
 solution: Experience Manager
 title: Metadata
 feature: Dynamic Media Classic,SDK/API,Metadata
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 62e3e215-31ea-49fd-937e-d136fdf84aff
 ---
 # Metadata{#metadata}

@@ -3,7 +3,7 @@ description: Searches the metadata index repository for the given search terms. 
 solution: Experience Manager
 title: searchAssetsByMetadata
 feature: Dynamic Media Classic,SDK/API,Metadata,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: a0e01edb-c52b-436d-a166-e24cc6861c49
 ---
 # searchAssetsByMetadata{#searchassetsbymetadata}

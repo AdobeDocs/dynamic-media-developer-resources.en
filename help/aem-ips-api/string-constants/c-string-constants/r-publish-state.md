@@ -3,7 +3,7 @@ description: Used by searchAssetsParam/publishState, setAssetPublishStateParam/p
 solution: Experience Manager
 title: Publish State
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 0be4ef1b-f1d3-4698-a5ed-d721c328291a
 ---
 # Publish State{#publish-state}

@@ -3,7 +3,7 @@ description: Create a new image map or edit an existing map.
 solution: Experience Manager
 title: saveImageMap
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 91e40549-9b26-41f2-a3ab-7e9bec8f9ba7
 ---
 # saveImageMap{#saveimagemap}

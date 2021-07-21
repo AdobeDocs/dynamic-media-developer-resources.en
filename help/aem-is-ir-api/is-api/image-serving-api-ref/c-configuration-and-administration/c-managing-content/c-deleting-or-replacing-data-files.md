@@ -3,7 +3,7 @@ description: While adding new data files is simple and straight-forward, special
 solution: Experience Manager
 title: Deleting or replacing data files
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,User
+role: Developer,Admin,User
 exl-id: 1624e1b5-ba79-45db-8309-457a44fddab8
 ---
 # Deleting or replacing data files{#deleting-or-replacing-data-files}

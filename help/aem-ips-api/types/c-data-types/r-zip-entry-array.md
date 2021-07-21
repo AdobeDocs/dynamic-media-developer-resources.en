@@ -3,7 +3,7 @@ description: An array of ZIP entries.
 solution: Experience Manager
 title: ZipEntryArray
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 243449ab-423d-45e8-9011-8165300bc619
 ---
 # ZipEntryArray{#zipentryarray}

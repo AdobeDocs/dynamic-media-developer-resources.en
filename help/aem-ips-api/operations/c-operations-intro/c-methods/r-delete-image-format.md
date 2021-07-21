@@ -3,7 +3,7 @@ description: Deletes an image format. Get the image format handle from saveImage
 solution: Experience Manager
 title: deleteImageFormat
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: bd717c08-6da4-47f1-8614-e4ba79d8176c
 ---
 # deleteImageFormat{#deleteimageformat}

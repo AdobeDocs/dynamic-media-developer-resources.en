@@ -3,7 +3,7 @@ description: Removes company users from a specific group.
 solution: Experience Manager
 title: removeGroupMembers
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 8a9b7d54-d11b-41a8-9783-573a316e0ac6
 ---
 # removeGroupMembers{#removegroupmembers}

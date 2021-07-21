@@ -3,7 +3,7 @@ description: Gets an array of users as specified by company, group, and user rol
 solution: Experience Manager
 title: getUsers
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: dfdcbcdd-232f-4c73-9520-c7c958eedf54
 ---
 # getUsers{#getusers}

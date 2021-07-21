@@ -3,7 +3,7 @@ description: Creates a preset view that determines what a user can see. The view
 solution: Experience Manager
 title: createViewerPreset
 feature: Dynamic Media Classic,SDK/API,Viewer Presets
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: b24536d9-df66-4c94-8467-6f46e66a1b36
 ---
 # createViewerPreset{#createviewerpreset}

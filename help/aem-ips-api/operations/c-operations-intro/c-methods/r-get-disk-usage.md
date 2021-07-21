@@ -3,7 +3,7 @@ description: Returns information about a company's structure (number of files, e
 solution: Experience Manager
 title: getDiskUsage
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 06fdd9f5-5021-4f0b-b312-4465df9bda25
 ---
 # getDiskUsage{#getdiskusage}

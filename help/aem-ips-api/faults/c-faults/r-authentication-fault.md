@@ -3,7 +3,7 @@ description: Thrown when a user cannot be authenticated.
 solution: Experience Manager
 title: authenticationFault
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: fce5c227-9291-4d17-801f-4ef4b8d43eb4
 ---
 # authenticationFault{#authenticationfault}

@@ -3,7 +3,7 @@ description: Returns the members of a group.
 solution: Experience Manager
 title: getGroupMembership
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 847e4982-219d-47fd-b94c-f7d520ba1367
 ---
 # getGroupMembership{#getgroupmembership}

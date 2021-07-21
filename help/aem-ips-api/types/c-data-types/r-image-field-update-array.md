@@ -3,7 +3,7 @@ description: An array of image field updates.
 solution: Experience Manager
 title: ImageFieldUpdateArray
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: efba86d2-8a78-4cb6-b74c-e927b7812997
 ---
 # ImageFieldUpdateArray{#imagefieldupdatearray}

@@ -3,7 +3,7 @@ description: Used by ActiveJob/type and ScheduledJob/type.
 solution: Experience Manager
 title: Job Types
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: c833c6f7-0f72-485d-8ad1-3620db7c320a
 ---
 # Job Types{#job-types}

@@ -3,7 +3,7 @@ description: An array of information about a task item.
 solution: Experience Manager
 title: TaskItemProgressArray
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: deba612e-34ea-4892-8ee7-a2d5acb96299
 ---
 # TaskItemProgressArray{#taskitemprogressarray}

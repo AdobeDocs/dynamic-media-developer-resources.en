@@ -3,7 +3,7 @@ description: For internal use only. Users should refer to the Image Serving Imag
 solution: Experience Manager
 title: getImageServingPublishSettings
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: ab7b5df6-58fb-4111-be9c-76901534d167
 ---
 # getImageServingPublishSettings{#getimageservingpublishsettings}

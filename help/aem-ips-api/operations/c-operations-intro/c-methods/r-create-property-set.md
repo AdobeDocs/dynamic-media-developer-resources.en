@@ -3,7 +3,7 @@ description: Property sets are application-specific sets of name-value pairs tha
 solution: Experience Manager
 title: createPropertySet
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: e9f85e65-4a2f-4b82-b7b8-d0d60b8345cd
 ---
 # createPropertySet{#createpropertyset}

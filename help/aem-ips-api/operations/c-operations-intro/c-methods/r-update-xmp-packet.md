@@ -3,7 +3,7 @@ description: Sets or updates an XMP metadata packet for an asset.
 solution: Experience Manager
 title: updateXMPPacket
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 04d85dba-cc86-4069-ab5d-9a5b3fe542c9
 ---
 # updateXMPPacket{#updatexmppacket}

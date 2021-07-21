@@ -3,7 +3,7 @@ description: Assets that belong to an image set.
 solution: Experience Manager
 title: ImageSetMember
 feature: Dynamic Media Classic,SDK/API,Image Sets
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: f0857d98-be79-40a6-8a84-c2c7b4c423c5
 ---
 # ImageSetMember{#imagesetmember}

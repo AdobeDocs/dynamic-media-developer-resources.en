@@ -3,7 +3,7 @@ description: Updates an image set.
 solution: Experience Manager
 title: updateImageSet
 feature: Dynamic Media Classic,SDK/API,Image Sets
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: d8d5fb80-17f1-424f-8a61-27189f87d603
 ---
 # updateImageSet{#updateimageset}

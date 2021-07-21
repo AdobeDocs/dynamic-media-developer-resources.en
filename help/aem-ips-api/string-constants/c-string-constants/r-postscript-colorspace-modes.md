@@ -3,7 +3,7 @@ description: Used by PostScriptOptions/colorspace.
 solution: Experience Manager
 title: PostScript Colorspace Modes
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 1083ee53-f9ba-4afe-a62f-98db11c74137
 ---
 # PostScript Colorspace Modes{#postscript-colorspace-modes}

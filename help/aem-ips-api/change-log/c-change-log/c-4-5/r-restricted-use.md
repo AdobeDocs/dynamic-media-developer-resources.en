@@ -3,7 +3,7 @@ description: These new or modified operations and data types available in the be
 solution: Experience Manager
 title: Restricted Use
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 6602c5bc-9f75-4885-ae14-cab14e6afa5e
 ---
 # Restricted Use{#restricted-use}

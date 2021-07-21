@@ -3,7 +3,7 @@ description: PostScript file options.
 solution: Experience Manager
 title: PostScriptOptions
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: fd2093b5-9856-4f31-8853-1027194a71df
 ---
 # PostScriptOptions{#postscriptoptions}

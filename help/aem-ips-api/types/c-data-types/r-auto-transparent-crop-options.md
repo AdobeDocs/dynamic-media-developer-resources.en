@@ -3,7 +3,7 @@ description: Options used when automatically cropping images based on transparen
 solution: Experience Manager
 title: AutoTransparentCropOptions
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 351f63a4-cc1b-4db9-93df-c21acd02e12a
 ---
 # AutoTransparentCropOptions{#autotransparentcropoptions}

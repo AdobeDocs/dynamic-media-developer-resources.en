@@ -3,7 +3,7 @@ description: An array of asset summaries.
 solution: Experience Manager
 title: AssetSummaryArray
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 6c38cd3f-10ec-4552-b2da-19a45068c7fa
 ---
 # AssetSummaryArray{#assetsummaryarray}

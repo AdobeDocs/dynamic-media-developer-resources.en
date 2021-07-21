@@ -3,7 +3,7 @@ description: Properties of a viewer preset asset.
 solution: Experience Manager
 title: ViewerPresetInfo
 feature: Dynamic Media Classic,SDK/API,Viewer Presets
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: fe57499a-00c0-4dab-b163-ea24ea6998e8
 ---
 # ViewerPresetInfo{#viewerpresetinfo}

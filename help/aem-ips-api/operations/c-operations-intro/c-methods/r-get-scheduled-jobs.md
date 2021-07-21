@@ -3,7 +3,7 @@ description: Gets jobs scheduled to run.
 solution: Experience Manager
 title: getScheduledJobs
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 7920637e-b289-410c-ae5c-e67cd7b21aba
 ---
 # getScheduledJobs{#getscheduledjobs}

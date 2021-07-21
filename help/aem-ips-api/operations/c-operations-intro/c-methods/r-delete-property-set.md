@@ -3,7 +3,7 @@ description: Deletes a property set and all associated properties.
 solution: Experience Manager
 title: deletePropertySet
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 72429030-200d-4e13-a537-10a728998a26
 ---
 # deletePropertySet{#deletepropertyset}

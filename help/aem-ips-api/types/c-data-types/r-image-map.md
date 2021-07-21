@@ -3,7 +3,7 @@ description: Target for a click action in the browser.
 solution: Experience Manager
 title: ImageMap
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 123eba56-2a59-44c5-93f0-205c362d071d
 ---
 # ImageMap{#imagemap}

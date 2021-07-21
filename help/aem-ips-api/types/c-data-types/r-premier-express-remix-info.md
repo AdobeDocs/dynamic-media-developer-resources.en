@@ -3,7 +3,7 @@ description: Properties of a PremierExpressRemix file asset.
 solution: Experience Manager
 title: PremierExpressRemixInfo
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 725612b5-6e60-4c43-b33a-11c6fccb3c1d
 ---
 # PremierExpressRemixInfo{#premierexpressremixinfo}

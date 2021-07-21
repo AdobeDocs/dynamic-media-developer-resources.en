@@ -3,7 +3,7 @@ description: Describes values used by various input parameters. See the list in 
 solution: Experience Manager
 title: Asset Types
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: efbdf214-403e-4dc8-90c1-97e6fd113265
 ---
 # Asset Types{#asset-types}

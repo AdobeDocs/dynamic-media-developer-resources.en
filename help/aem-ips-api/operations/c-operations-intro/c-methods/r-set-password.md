@@ -3,7 +3,7 @@ description: Sets the password of a specific user or the default user to a speci
 solution: Experience Manager
 title: setPassword
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: e8d95b55-0a97-4887-b711-7be99833c389
 ---
 # setPassword{#setpassword}

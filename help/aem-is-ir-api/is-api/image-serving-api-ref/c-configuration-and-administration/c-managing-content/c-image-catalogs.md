@@ -3,7 +3,7 @@ description: Image catalogs provide many server configuration settings, as well 
 solution: Experience Manager
 title: Image catalogs
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator,User
+role: Developer,Admin,User
 exl-id: 70ec4566-a937-464e-8219-b7eda3ab66c1
 ---
 # Image catalogs{#image-catalogs}

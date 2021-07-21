@@ -3,7 +3,7 @@ description: Valid values for the PropertySetType and createPropertySetTypeParam
 solution: Experience Manager
 title: PropertySetType
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: f0c51e67-6927-4b9f-9935-222e6a194c13
 ---
 # PropertySetType{#propertysettype}

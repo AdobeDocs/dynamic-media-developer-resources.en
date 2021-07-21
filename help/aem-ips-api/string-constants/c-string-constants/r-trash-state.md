@@ -3,7 +3,7 @@ description: Used by searchAssetReturn/trashState.
 solution: Experience Manager
 title: Trash State
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: f37d7380-127e-48ef-808f-5aa36bf2c665
 ---
 # Trash State{#trash-state}

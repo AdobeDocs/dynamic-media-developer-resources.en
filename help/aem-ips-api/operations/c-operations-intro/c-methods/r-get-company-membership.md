@@ -3,7 +3,7 @@ description: Gets a user’s memberships in a company array.
 solution: Experience Manager
 title: getCompanyMembership
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 53af8a97-208c-4c44-93d6-aa36a459af51
 ---
 # getCompanyMembership{#getcompanymembership}

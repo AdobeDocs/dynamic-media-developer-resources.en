@@ -3,7 +3,7 @@ description: Named set of users used for assigning permissions.
 solution: Experience Manager
 title: Group
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 843b3fa5-93d3-43db-b6c7-194e7fa4d31a
 ---
 # Group{#group}

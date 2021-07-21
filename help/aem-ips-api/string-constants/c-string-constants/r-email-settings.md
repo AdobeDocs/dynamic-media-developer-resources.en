@@ -3,7 +3,7 @@ description: Describes values used by various input parameters. See the list in 
 solution: Experience Manager
 title: Email Settings
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: f6fb7d58-968a-41c8-b0a8-ccab37e98801
 ---
 # Email Settings{#email-settings}

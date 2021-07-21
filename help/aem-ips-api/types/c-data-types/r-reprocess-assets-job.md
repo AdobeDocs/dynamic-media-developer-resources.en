@@ -3,7 +3,7 @@ description: Job type to allow reprocessing of previously uploaded primary files
 solution: Experience Manager
 title: ReprocessAssetsJob
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: b6078246-54e1-4119-b4f8-ba6a28577cff
 ---
 # ReprocessAssetsJob{#reprocessassetsjob}

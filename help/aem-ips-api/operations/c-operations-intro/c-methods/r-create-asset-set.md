@@ -3,7 +3,7 @@ description: Creates a generic asset set with a raw set definition string to be 
 solution: Experience Manager
 title: createAssetSet
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 4565eb4f-eeb7-4b98-bfef-1a59e9a931af
 ---
 # createAssetSet{#createassetset}

@@ -3,7 +3,7 @@ description: An array of generation properties.
 solution: Experience Manager
 title: GenerationInfoArray
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 500a4ba3-57f1-4b51-afe3-91885be13d98
 ---
 # GenerationInfoArray{#generationinfoarray}

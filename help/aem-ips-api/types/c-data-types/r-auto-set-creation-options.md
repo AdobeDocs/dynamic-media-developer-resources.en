@@ -3,7 +3,7 @@ description: Automatic set generation script list for upload jobs. Assumes that 
 solution: Experience Manager
 title: AutoSetCreationOptions
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: e6e969be-0410-4be7-88d6-491d715fd137
 ---
 # AutoSetCreationOptions{#autosetcreationoptions}

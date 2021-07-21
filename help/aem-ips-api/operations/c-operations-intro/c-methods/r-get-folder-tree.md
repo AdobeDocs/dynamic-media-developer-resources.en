@@ -3,7 +3,7 @@ description: Returns folders and subfolders in a hierarchical tree structure. Th
 solution: Experience Manager
 title: getFolderTree
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 1afe63ca-d11a-4fa5-a26b-90a23bee1b68
 ---
 # getFolderTree{#getfoldertree}

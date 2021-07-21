@@ -3,7 +3,7 @@ description: The IPS Web Service is supported by a set of WSDL (Web Services Des
 solution: Experience Manager
 title: IPS Web Service WSDL versions
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: d7a6079e-286e-4e62-b2ff-551ef4a5815c
 ---
 # IPS Web Service WSDL versions{#ips-web-service-wsdl-versions}

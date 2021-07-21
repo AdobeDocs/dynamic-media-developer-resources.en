@@ -3,7 +3,7 @@ description: Describes new and changed data types for the IPS API version 4.2.
 solution: Experience Manager
 title: Data Types  New and Modified
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 3917e778-bd28-4047-b9f8-3063f136e492
 ---
 # Data Types: New and Modified{#data-types-new-and-modified}

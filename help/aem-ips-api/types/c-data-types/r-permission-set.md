@@ -3,7 +3,7 @@ description: PermissonSet
 solution: Experience Manager
 title: PermissonSet
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 39146b70-ecd8-42ce-a171-0fb7ac7dd025
 ---
 # PermissonSet{#permissonset}

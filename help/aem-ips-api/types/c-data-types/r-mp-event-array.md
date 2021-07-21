@@ -3,7 +3,7 @@ description: An array of MediaPortal events.
 solution: Experience Manager
 title: MPEventArray
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 6af68714-bdba-485c-89c4-51b79d93405a
 ---
 # MPEventArray{#mpeventarray}

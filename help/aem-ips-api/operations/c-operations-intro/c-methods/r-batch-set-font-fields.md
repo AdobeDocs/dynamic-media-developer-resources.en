@@ -3,7 +3,7 @@ description: Sets font metadata fields.
 solution: Experience Manager
 title: batchSetFontFields
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: f38aa861-2a81-4663-967e-72611122f51b
 ---
 # batchSetFontFields{#batchsetfontfields}

@@ -3,7 +3,7 @@ description: Used by FontFieldUpdate/type.
 solution: Experience Manager
 title: Font Types
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 3a127244-89b9-45ed-bf25-23395a89d20e
 ---
 # Font Types{#font-types}

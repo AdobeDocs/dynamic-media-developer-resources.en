@@ -3,7 +3,7 @@ description: Metadata search results that contain summarized information about a
 solution: Experience Manager
 title: AssetSummary
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 25f16a2b-6cd8-485f-a6bd-2a9bc9b3243b
 ---
 # AssetSummary{#assetsummary}

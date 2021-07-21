@@ -3,7 +3,7 @@ description: Creates a video site map.
 solution: Experience Manager
 title: CreateVideoSitemapJob
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 2af7c949-46cf-4570-9043-1b6296a2e467
 ---
 # CreateVideoSitemapJob{#createvideositemapjob}

@@ -3,7 +3,7 @@ description: Replaces image data for an image asset.
 solution: Experience Manager
 title: replaceImage
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: bf8c1f5c-7829-4750-b5b7-b8b20d115d17
 ---
 # replaceImage{#replaceimage}

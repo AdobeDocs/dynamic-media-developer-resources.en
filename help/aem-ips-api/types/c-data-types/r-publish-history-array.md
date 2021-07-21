@@ -3,7 +3,7 @@ description: An array of publish histories.
 solution: Experience Manager
 title: PublishHistoryArray
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: a3c5c523-0157-449d-b03c-56b23501e822
 ---
 # PublishHistoryArray{#publishhistoryarray}

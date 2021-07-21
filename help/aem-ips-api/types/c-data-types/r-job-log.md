@@ -3,7 +3,7 @@ description: The job log after the job has run.
 solution: Experience Manager
 title: JobLog
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 80ae6669-6fe7-45a6-9a1d-f8544dd4f878
 ---
 # JobLog{#joblog}

@@ -3,7 +3,7 @@ description: Used by getGenerationInfo/engine.
 solution: Experience Manager
 title: Generation Info
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 0293d28e-a023-4a79-9a3b-fc7b5cfbc98a
 ---
 # Generation Info{#generation-info}

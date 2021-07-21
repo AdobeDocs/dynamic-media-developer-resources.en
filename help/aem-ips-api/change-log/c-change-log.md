@@ -3,7 +3,7 @@ description: Change log
 solution: Experience Manager
 title: Change log
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 15228b48-90a8-4d45-ade3-d5c6962549eb
 ---
 # Change log{#change-log}

@@ -3,7 +3,7 @@ description: Properties of a Flash file.
 solution: Experience Manager
 title: FlashInfo
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: df49d1b9-aedd-4c72-b727-682cea74317e
 ---
 # FlashInfo{#flashinfo}

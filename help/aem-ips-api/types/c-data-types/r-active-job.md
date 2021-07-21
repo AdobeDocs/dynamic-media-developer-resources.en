@@ -3,7 +3,7 @@ description: A job that runs on a server. Also, it is an instance of a scheduled
 solution: Experience Manager
 title: ActiveJob
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 3d878207-99e4-4c75-ab12-b38a37c82fb7
 ---
 # ActiveJob{#activejob}

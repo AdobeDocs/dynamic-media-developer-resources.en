@@ -3,7 +3,7 @@ description: PDF file properties.
 solution: Experience Manager
 title: PdfInfo
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 033bdcf2-ddb2-48c2-97ab-2f72cc7780c8
 ---
 # PdfInfo{#pdfinfo}

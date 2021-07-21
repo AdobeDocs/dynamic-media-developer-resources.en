@@ -3,7 +3,7 @@ description: Returns Zip file data.
 solution: Experience Manager
 title: getZipEntries
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: eb052685-b750-4a12-b00e-28e676340e98
 ---
 # getZipEntries{#getzipentries}

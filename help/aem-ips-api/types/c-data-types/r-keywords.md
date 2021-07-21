@@ -3,7 +3,7 @@ description: Keywords
 solution: Experience Manager
 title: Keywords
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 5eb9ca70-5971-412d-92d1-4e9898d556fd
 ---
 # Keywords{#keywords}

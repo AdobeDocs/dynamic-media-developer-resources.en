@@ -3,7 +3,7 @@ description: An array of permissions.
 solution: Experience Manager
 title: PermissionArray
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 2d96a0ac-038a-4813-97b2-bdf3f3f0c6e2
 ---
 # PermissionArray{#permissionarray}

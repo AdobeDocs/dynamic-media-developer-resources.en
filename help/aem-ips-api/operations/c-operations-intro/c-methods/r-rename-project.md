@@ -3,7 +3,7 @@ description: Renames a project.
 solution: Experience Manager
 title: renameProject
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 1bf74ebf-1fce-408b-9953-7fdf2ae9d10b
 ---
 # renameProject{#renameproject}

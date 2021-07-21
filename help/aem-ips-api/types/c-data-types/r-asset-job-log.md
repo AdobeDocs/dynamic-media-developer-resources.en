@@ -3,7 +3,7 @@ description: The details of a job log entry associated with a particular asset. 
 solution: Experience Manager
 title: AssetJobLog
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 2c8ebec2-a664-46cd-b843-9893bfa0a9d1
 ---
 # AssetJobLog{#assetjoblog}

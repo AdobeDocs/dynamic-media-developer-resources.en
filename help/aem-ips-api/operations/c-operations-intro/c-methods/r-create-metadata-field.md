@@ -3,7 +3,7 @@ description: Lets administrators create new metadata fields to coordinate with c
 solution: Experience Manager
 title: createMetadataField
 feature: Dynamic Media Classic,SDK/API,Metadata
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: eac7fa54-ebe2-4f42-a478-d9a6fb54d1b6
 ---
 # createMetadataField{#createmetadatafield}

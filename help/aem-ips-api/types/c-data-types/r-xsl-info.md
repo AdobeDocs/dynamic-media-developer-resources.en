@@ -3,7 +3,7 @@ description: Properties of an XML transformation file asset.
 solution: Experience Manager
 title: XslInfo
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 39fc2c37-80e8-42f5-aef1-9dca57bf8cff
 ---
 # XslInfo{#xslinfo}

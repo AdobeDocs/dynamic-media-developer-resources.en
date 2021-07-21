@@ -3,7 +3,7 @@ description: Updates the set definition for an existing Asset Set.
 solution: Experience Manager
 title: setAssetSetDefinition
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: f3fbe13b-e650-4a5d-9c46-a492b11fa13e
 ---
 # setAssetSetDefinition{#setassetsetdefinition}

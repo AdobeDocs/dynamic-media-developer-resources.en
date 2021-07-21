@@ -3,7 +3,7 @@ description: Filters that help you define search criteria to make searches more 
 solution: Experience Manager
 title: SearchFilter
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: b3a26966-33c9-48ca-b0ed-d05fc0e2050f
 ---
 # SearchFilter{#searchfilter}

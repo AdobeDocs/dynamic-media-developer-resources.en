@@ -3,7 +3,7 @@ description: Maps an asset to the PublishContexts in which an asset is marked fo
 solution: Experience Manager
 title: AssetPublishContexts
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: fa94e3ce-b210-4d0d-88f1-0b245d5a52b5
 ---
 # AssetPublishContexts{#assetpublishcontexts}

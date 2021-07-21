@@ -3,7 +3,7 @@ description: Used by getUsersParam and getUserCharsParam/charField.
 solution: Experience Manager
 title: User Char Filter Fields
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: 40ba507b-6859-4b37-b801-c6f21d12e98e
 ---
 # User Char Filter Fields{#user-char-filter-fields}

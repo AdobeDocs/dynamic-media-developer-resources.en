@@ -3,7 +3,7 @@ description: Image location coordinates returned by the getPhotoshopPath operati
 solution: Experience Manager
 title: PerspectiveQuad
 feature: Dynamic Media Classic,SDK/API
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: dae44565-083d-47f5-8a08-2567590315a4
 ---
 # PerspectiveQuad{#perspectivequad}

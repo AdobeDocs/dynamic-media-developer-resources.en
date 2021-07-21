@@ -3,7 +3,7 @@ description: Deletes an asset.
 solution: Experience Manager
 title: deleteAsset
 feature: Dynamic Media Classic,SDK/API,Asset Management
-role: Developer,Administrator
+role: Developer,Admin
 exl-id: dacea36e-3d40-4aaf-94fd-f0709830caf9
 ---
 # deleteAsset{#deleteasset}
