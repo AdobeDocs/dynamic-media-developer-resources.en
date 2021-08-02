@@ -16,33 +16,33 @@ Response Image Format.
 
 |*`format`*| Description |
 |---|---|
-| `avif-alpha` | Lossy and lossless AVIF with alpha channel<br><br>*Release timeline for this format:* <br><b>North America</b> - Available now<br><b>Europe, Middle East, Africa</b> - August 13, 2021<br><b>Asia-Pacific</b> - Available now |
-| `avif` | Lossy and lossless AVIF<br><br>*Release timeline for this format:*<br><b>North America</b> - Available now<br><b>Europe, Middle East, Africa</b> - August 13, 2021<br><b>Asia-Pacific</b> - Available now |
-| `eps` | Uncompressed binary Encapsulated PostScript |
-| `f4m` | Flash Streaming Server manifest format |
-| `gif-alpha` | GIF with 2 to 255 colors plus key-color transparency |
-| `gif` | GIF with 2 to 256 colors |
-| `jpeg` | Lossy JPEG |
-| `jpeg2000-alpha` | Lossy and lossless JPEG 2000 with alpha channel |
-| `jpeg2000` | Lossy and lossless JPEG 2000 |
-| `jpegxr-alpha` | Lossy and lossless JPEG XR with alpha channel |
-| `jpegxr` | Lossy and lossless JPEG XR |
-| `jpg` | Lossy JPG |
-| `m3u8` | Apple Streaming Server manifest format |
-| `pdf` | Image embedded in PDF |
-| `pjpeg` | Progressive JPEG |
-| `png-alpha` | 24-bit lossless PNG with alpha channel |
-| `png` | 24-bit lossless PNG |
-| `png8-alpha` | 8-bit lossless PNG with alpha channel |
-| `png8` | 8-bit lossless PNG |
-| `swf-alpha` | Lossy JPEG and a deflate-compressed mask embedded into an Adobe AS2 swf file |
-| `swf`| Lossy JPEG embedded into an Adobe AS2 swf file |
-| `swf3-alpha` | Lossy JPEG and a deflate-compressed mask embedded into an Adobe AS3 swf file. **Note:** swf and swf-alpha formats are best used for ActionScript 2 applications (Flash Player 8 and earlier). The formats swf3 and swf3-alpha are recommended for use for ActionScript3 applications (Flash Player 9 and later) |
-| `swf3` | Lossy JPEG embedded into an Adobe AS3 swf file |
-| `tif-alpha` | TIFF with alpha channel |
-| `tif` | TIFF |
-| `webp-alpha` | Lossy and lossless WebP with alpha channel |
-| `webp` | Lossy and lossless WebP |
+| `avif-alpha` | Lossy and lossless AVIF with alpha channel. |
+| `avif` | Lossy and lossless AVIF. |
+| `eps` | Uncompressed binary Encapsulated PostScript. |
+| `f4m` | Flash Streaming Server manifest format. |
+| `gif-alpha` | GIF with 2 to 255 colors plus key-color transparency. |
+| `gif` | GIF with 2 to 256 colors. |
+| `jpeg` | Lossy JPEG. |
+| `jpeg2000-alpha` | Lossy and lossless JPEG 2000 with alpha channel. |
+| `jpeg2000` | Lossy and lossless JPEG 2000. |
+| `jpegxr-alpha` | Lossy and lossless JPEG XR with alpha channel. |
+| `jpegxr` | Lossy and lossless JPEG XR. |
+| `jpg` | Lossy JPG. |
+| `m3u8` | Apple Streaming Server manifest format. |
+| `pdf` | Image embedded in PDF. |
+| `pjpeg` | Progressive JPEG. |
+| `png-alpha` | 24-bit lossless PNG with alpha channel. |
+| `png` | 24-bit lossless PNG. |
+| `png8-alpha` | 8-bit lossless PNG with alpha channel. |
+| `png8` | 8-bit lossless PNG. |
+| `swf-alpha` | Lossy JPEG and a deflate-compressed mask embedded into an Adobe AS2 swf file. |
+| `swf`| Lossy JPEG embedded into an Adobe AS2 swf file. |
+| `swf3-alpha` | Lossy JPEG and a deflate-compressed mask embedded into an Adobe AS3 swf file. **Note:** swf and swf-alpha formats are best used for ActionScript 2 applications (Flash Player 8 and earlier). The formats swf3 and swf3-alpha are recommended for use for ActionScript3 applications (Flash Player 9 and later). |
+| `swf3` | Lossy JPEG embedded into an Adobe AS3 swf file. |
+| `tif-alpha` | TIFF with alpha channel. |
+| `tif` | TIFF. |
+| `webp-alpha` | Lossy and lossless WebP with alpha channel. |
+| `webp` | Lossy and lossless WebP. |
 
 *`pixelType`* &ndash; rgb | gray | cmyk
 | *`pixelType`* | Description | 
@@ -54,12 +54,12 @@ Response Image Format.
 *`compression`* &ndash; none | lzw | zip | jpeg | lossy | lossless
 | *`compression`* | Description | 
 |---|---|
-| `jpeg` | JPEG compression (lossy) |
-| `lossy` | WebP, JPEG 2000, and JPEG XR compression (lossy) |
-| `lossless` | WebP, JPEG 2000, and JPEG XR compression (lossless) |
-| `lzw` | LZW (Lempel-Ziv-Welch) compression (lossless) |
-| `none` | Uncompressed |
-| `zip` | "Deflate" compression (lossless) |
+| `jpeg` | JPEG compression (lossy). |
+| `lossy` | WebP, JPEG 2000, and JPEG XR compression (lossy). |
+| `lossless` | WebP, JPEG 2000, and JPEG XR compression (lossless). |
+| `lzw` | LZW (Lempel-Ziv-Welch) compression (lossless). |
+| `none` | Uncompressed. |
+| `zip` | "Deflate" compression (lossless). |
 
 * *`format`* specifies the image encoding format for image data sent to the client and the corresponding response MIME type for the HTTP response header. 
 * *`pixelType`* can be used to effect output color space conversion when `icc=` is not specified.
