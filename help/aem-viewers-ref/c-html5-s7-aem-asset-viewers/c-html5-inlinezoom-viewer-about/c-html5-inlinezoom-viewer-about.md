@@ -72,9 +72,9 @@ Different web pages have different needs for viewer behavior. Sometimes a web pa
 
 **Pop-up**
 
-In the pop-up mode the viewer is opened in a separate web browser window or tab. It takes the entire browser window area and adjusts when the browser window is resized or the device orientation is changed.
+In the pop-up mode, the viewer is opened in a separate web browser window or tab. It takes the entire browser window area and adjusts when the browser window is resized or the device orientation is changed.
 
-This mode is the most common for mobile devices. The web page loads the viewer using `window.open()` JavaScript call, properly configured `A` HTML element or any other suitable way.
+This mode is the most common for mobile devices. The web page loads the viewer using `window.open()` JavaScript call, properly configured `A` HTML element, or any other suitable way.
 
 It is recommended that you use the out-of-the-box HTML page for pop-up mode called `FlyoutViewer.html`. It is located under the [!DNL html5/] subfolder of your standard Image Serving-Viewers deployment:
 
@@ -92,15 +92,15 @@ The following is an HTML code example that opens the viewer in a new window:
 
 In the embedded mode the viewer is added to the existing web page, which may already have some customer content not related to the viewer. The viewer normally occupies only a part of web page real estate.
 
-The primary use case are web pages oriented for desktops or tablet devices, and also responsive web pages which adjust layout automatically depending on the device type.
+The primary use cases are web pages oriented for desktops or tablet devices, and also responsive web pages which adjust layout automatically depending on the device type.
 
 Fixed size embedding mode is used when the viewer does not change its size after its initial load. This choice is best for web pages that have a static page layout.
 
-Responsive design embedding mode assumes that the viewer may need to resize during runtime in response to the size change of its container `DIV`. The most common use case is adding a viewer to a web page that uses a flexible page layout.
+Responsive design embedding mode assumes that the viewer must resize during runtime in response to the size change of its container `DIV`. The most common use case is adding a viewer to a web page that uses a flexible page layout.
 
 When using responsive design embedding mode with the Inline Zoom Viewer, make sure that you specify explicit breakpoints for the main view image using the `imagereload` parameter. Ideally, match your breakpoints with the viewer width breakpoints as dictated by the web page CSS.
 
-In responsive design embedding mode the viewer behaves differently depending on the way a web page sizes its container `DIV`. If the web page sets only the width of the container `DIV`, leaving its height unrestricted, then the viewer automatically chooses its height according to the aspect ratio of the asset that is used. This means that the asset fits perfectly into the view without any padding on the sides. This particular use case is the most common for web pages that use responsive design layout frameworks like Bootstrap, Foundation, and so forth.
+In responsive design embedding mode, the viewer behaves differently depending on the way a web page container `DIV` is sized. If the web page sets only the width of the container `DIV`, leaving its height unrestricted, then the viewer automatically chooses its height according to the aspect ratio of the asset that is used. This functionality means that the asset fits perfectly into the view without any padding on the sides. This particular use case is the most common for web pages that use responsive design layout frameworks like Bootstrap or Foundation.
 
 Otherwise, if the web page sets both the width and the height for the viewer's container `DIV`, then the viewer fills only that area and follows the size provided by the web page layout. A good use case example is embedding the viewer into a modal overlay, where the overlay is sized according to web browser window size.
 
@@ -115,7 +115,7 @@ You add the viewer to a web page by doing the following:
 
 1. Adding the viewer JavaScript file to your web page.
 
-   Creating a viewer requires that you add a script tag in the HTML head. Before you can use the viewer API, be sure that you include `FlyoutViewer.js`. `FlyoutViewer.js` is located in the following [!DNL html5/js/] subfolder of your standard IS-Viewers deployment:
+   Creating a viewer requires that you add a script tag in the HTML head. Before you can use the viewer API, be sure that you include `FlyoutViewer.js`. `FlyoutViewer.js` is in the following [!DNL html5/js/] subfolder of your standard IS-Viewers deployment:
 
 [!DNL <s7viewers_root>/html5/js/FlyoutViewer.js]
 
@@ -129,7 +129,7 @@ You add the viewer to a web page by doing the following:
 
    >[!NOTE]
    >
-   >You should only reference the main viewer JavaScript `include` file on your page. You should not reference any additional JavaScript files in the web page code which might be downloaded by the viewer's logic in runtime. In particular, do not directly reference HTML5 SDK `Utils.js` library loaded by the viewer from `/s7viewers` context path (so-called consolidated SDK `include`). The reason is that the location of `Utils.js` or similar runtime viewer libraries is fully managed by the viewer's logic and the location changes between viewer releases. Adobe does not keep older versions of secondary viewer `includes` on the server. 
+   >Only reference the main viewer JavaScript `include` file on your page. Do not reference any additional JavaScript files in the web page code which might be downloaded by the viewer's logic in runtime. In particular, do not directly reference HTML5 SDK `Utils.js` library loaded by the viewer from `/s7viewers` context path (so-called consolidated SDK `include`). The reason is that the location of `Utils.js` or similar runtime viewer libraries is fully managed by the viewer's logic and the location changes between viewer releases. Adobe does not keep older versions of secondary viewer `includes` on the server. 
    >
    >
    >As a result, putting a direct reference to any secondary JavaScript `include` used by the viewer on the page breaks the viewer functionality in the future when a new product version is deployed.
@@ -151,9 +151,9 @@ You add the viewer to a web page by doing the following:
 
 1. Setting the viewer size.
 
-   This viewer displays thumbnails when working with multi-item sets. On desktop systems, thumbnails are placed below the main view. At the same time, the viewer allows the swapping of the main asset during runtime using `setAsset()` API. As a developer, you have control over how the viewer manages the thumbnails area in the bottom area when the new asset has only one item. It is possible to keep the outer viewer size intact and let the main view increase its height and occupy the thumbnails area. Or, you can keep the main view size static and collapse the outer viewer area, thereby letting web page content to move up, and then use the free page real estate left from the thumbnails.
+   This viewer displays thumbnails when working with multi-item sets. On desktop systems, thumbnails are placed below the main view. At the same time, the viewer allows the swapping of the main asset during runtime using `setAsset()` API. As a developer, you have control over how the viewer manages the thumbnails area in the bottom area when the new asset has only one item. It is possible to keep the outer viewer size intact and let the main view increase its height and occupy the thumbnails area. Or, you can keep the main view size static and collapse the outer viewer area, letting web page content to move up, and then use the free page real estate left from the thumbnails.
 
-   To keep the outer viewer bounds intact define the size for `.s7flyoutviewer` top-level CSS class in absolute units. Sizing in CSS can be put right on the HTML page, or in a custom viewer CSS file, which is later assigned to a viewer preset record in Dynamic Media Classic, or passed explicitly using style command.
+   To keep the outer viewer bounds intact, define the size for `.s7flyoutviewer` top-level CSS class in absolute units. Sizing in CSS can be put right on the HTML page, or in a custom viewer CSS file, and later assigned to a viewer preset record in Dynamic Media Classic, or passed explicitly using style command.
 
    See [Customizing Inline Zoom Viewer](../../c-html5-s7-aem-asset-viewers/c-html5-inlinezoom-viewer-about/c-html5-inlinezoom-viewer-customizingviewer/c-html5-inlinezoom-viewer-customizingviewer.md#concept-82f8c71adbe54680a0c2f83f81e5f451) for more information about styling the viewer with CSS.
 
@@ -189,15 +189,15 @@ You add the viewer to a web page by doing the following:
 
    [https://experienceleague.adobe.com/tools/dynamic-media-demo/viewers-ref/inlinezoom/InlineZoom-fixed-main-view.html](https://experienceleague.adobe.com/tools/dynamic-media-demo/viewers-ref/inlinezoom/InlineZoom-fixed-main-view.html)
 
-   Also, note that the default viewer CSS provides a fixed size for its outer area out-of-the-box. 
+   Also, the default viewer CSS provides a fixed size for its outer area out-of-the-box. 
 
 1. Creating and initializing the viewer.
 
-   When you have completed the steps above, you create an instance of `s7viewers.FlyoutViewer` class, pass all configuration information to its constructor and call `init()` method on a viewer instance. Configuration information is passed to the constructor as a JSON object. At minimum, this object should have the `containerId` field which holds the name of viewer container ID and nested `params` JSON object with configuration parameters that the viewer supports. In this case, the `params` object must have at least the Image Serving URL passed as `serverUrl` property, the initial asset as `asset` parameter, base path for loading CSS as `contentUrl` parameter, and preset name as `config` parameter.. JSON-based initialization API lets you create and start the viewer with single line of code.
+   When you have completed the steps above, you create an instance of `s7viewers.FlyoutViewer` class, pass all configuration information to its constructor and call `init()` method on a viewer instance. Configuration information is passed to the constructor as a JSON object. At minimum, this object should have the `containerId` field which holds the name of viewer container ID and nested `params` JSON object with configuration parameters that the viewer supports. In this case, the `params` object must have at least the Image Serving URL passed as `serverUrl` property; the initial asset as `asset` parameter, base path for loading CSS as `contentUrl` parameter, and preset name as `config` parameter. JSON-based initialization API lets you create and start the viewer with single line of code.
 
    It is important to have the viewer container added to the DOM so that the viewer code can find the container element by its ID. Some browsers delay building DOM until the end of the web page. For maximum compatibility, call the `init()` method just before the closing `BODY` tag, or on the body `onload()` event.
 
-   At the same time, the container element should not necessarily be part of the web page layout just yet. For example, it may be hidden using `display:none` style assigned to it. In this case, the viewer delays its initialization process until the moment when the web page brings the container element back to the layout. When this happens, the viewer load automatically resumes.
+   At the same time, the container element should not necessarily be part of the web page layout yet. For example, it may be hidden using `display:none` style assigned to it. In this case, the viewer delays its initialization process until the moment when the web page brings the container element back to the layout. When this action happens, the viewer load automatically resumes.
 
    The following is an example of creating a viewer instance, passing the minimum necessary configuration options to the constructor and calling the `init()` method. The example assumes `inlineZoomViewer` is the viewer instance; `s7viewer` is the name of placeholder `DIV`; `http://s7d1.scene7.com/is/image/` is the Image Serving URL; and `Scene7SharedAssets/ImageSet-Views-Sample` is the asset:
 
@@ -265,7 +265,7 @@ With responsive design embedding, the web page normally has some kind of flexibl
 </html>
 ```
 
-Adding the viewer to such a page is similar to the steps for fixed size embedding. The only difference is that you need to override the fixed sizing from the default viewer CSS with the size set in relative units.
+Adding the viewer to such a page is similar to the steps for fixed size embedding. The only difference is that you must override the fixed sizing from the default viewer CSS with the size set in relative units.
 
 1. Adding the viewer JavaScript file to your web page. 
 1. Defining the container `DIV`. 
@@ -326,11 +326,11 @@ The following examples page illustrates more real-life uses of responsive design
 
 [Live demos](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html)
 
-[Alternate demo location](https://experienceleague.adobe.com/tools/vlist/vlist.html)
+[Alternate demo location](https://experienceleague.adobe.com/tools/dynamic-media-demo/vlist/vlist.html)
 
 ## Flexible size embedding with width and height defined {#section-0a329016f9414d199039776645c693de}
 
-In case of flexible-size embedding with width and height defined, the web page styling is different. It provides both sizes to the `"holder"` DIV and centers it in the browser window. Also, the web page sets the size of the `HTML` and `BODY` element to 100 percent.
+If there is flexible-size embedding with width and height defined, the web page styling is different. It provides both sizes to the `"holder"` DIV and centers it in the browser window. Also, the web page sets the size of the `HTML` and `BODY` element to 100 percent.
 
 ```
 <!DOCTYPE html> 
