@@ -11,7 +11,7 @@ exl-id: 65a54308-f9db-4458-a9c3-ccb1433af43c
 
 Mixed Media Viewer is a media viewer. It supports media sets that contain images, swatch sets, spin sets, videos, and Adaptive Video Sets.
 
-A thumbnail at the bottom of the viewer represents each media set element, along with its asset type indicator. When a swatch set element is selected, a secondary row of swatches appears to allow the selection of color variation within the swatch set. Images and swatch set elements support zooming in continuous or inline mode; spin sets support both zooming and spinning. Videos and Adaptive Video Sets support all basic playback controls as long as any optional closed captions are displayed on top of the video content. A user can switch to full screen any time by clicking the full screen button. The viewer has optional close button. It is designed to work on desktops and mobile devices.
+A thumbnail at the bottom of the viewer represents each media set element, along with its asset type indicator. When a swatch set element is selected, a secondary row of swatches appears to allow the selection of color variation within the swatch set. Images and swatch set elements support zooming in continuous or inline mode; spin sets support both zooming and spinning. Videos and Adaptive Video Sets support all basic playback controls as long as any optional closed captions are displayed on top of the video content. A user can switch to full screen anytime by clicking the full screen button. The viewer has optional close button. It is designed to work on desktops and mobile devices.
 
 The Mixed Media Viewer uses HTML5 streaming video playback in HLS format in its default configuration whenever the underlying system supports that. On systems that do not support HTML5 streaming the viewer falls back to HTML5 progressive video delivery.
 
@@ -39,7 +39,7 @@ See [Command reference common to all viewers - Configuration attributes](../../r
 
 ## Interacting with Mixed Media Viewer {#section-ab66eb6955aa4a8aa6d14a3b3acfed3f}
 
-Mixed Media Viewer supports single-touch and multi-touch gestures that are common in other mobile applications. When the viewer cannot process a user's swipe gesture it forwards the event to the web browser to perform a native page scroll. This functionality lets a user navigate through the page even if the viewer occupies most of the device screen area.
+Mixed Media Viewer supports single-touch and multi-touch gestures that are common in other mobile applications. When the viewer cannot process a user's swipe gesture, it forwards the event to the web browser to perform a native page scroll. This functionality lets a user navigate through the page even if the viewer occupies most of the device screen area.
 
 <table id="table_ED747CC7178448919C34A4FCD18922D0"> 
  <thead> 
@@ -110,11 +110,11 @@ In the embedded mode, the viewer is added to the existing web page, which may al
 
 The primary use cases are web pages oriented for desktops or tablet devices, and also responsive design pages that adjust layout automatically depending on the device type.
 
-Fixed size embedding is used when the viewer does not change its size after initial load. This is the best choice for web pages that have a static layout.
+Fixed size embedding is used when the viewer does not change its size after initial load. This action is the best choice for web pages that have a static layout.
 
-Responsive design embedding assumes that the viewer may need to resize at runtime in response to the size change of its container `DIV`. The most common use case is adding a viewer to a web page that uses a flexible page layout.
+Responsive design embedding assumes that the viewer must resize at runtime in response to the size change of its container `DIV`. The most common use case is adding a viewer to a web page that uses a flexible page layout.
 
-In responsive design embedding mode, the viewer behaves differently depending on the way web page sizes its container `DIV`. If the web page sets only the width of the container `DIV`, leaving its height unrestricted, the viewer automatically chooses its height according to the aspect ratio of the asset that is used. This functionality ensures that the asset fits perfectly into the view without any padding on the sides. This use case is the most common for web pages using responsive design layout frameworks like Bootstrap, Foundation, and so on.
+In responsive design embedding mode, the viewer behaves differently depending on the way web page sizes its container `DIV`. If the web page sets only the width of the container `DIV`, leaving its height unrestricted, the viewer automatically chooses its height according to the aspect ratio of the asset that is used. This functionality ensures that the asset fits perfectly into the view without any padding on the sides. This use case is the most common for web pages using responsive design layout frameworks like Bootstrap or Foundation.
 
 Otherwise, if the web page sets both the width and the height for the viewer's container `DIV`, the viewer fills just that area and follows the size that the web page layout provides. A good example is embedding the viewer into a modal overlay, where the overlay is sized according to web browser window size.
 
@@ -143,7 +143,7 @@ You add the viewer to a web page by doing the following:
 
    >[!NOTE]
    >
-   >You should only reference the main viewer JavaScript `include` file on your page. You should not reference any additional JavaScript files in the web page code which might be downloaded by the viewer's logic in runtime. In particular, do not directly reference HTML5 SDK `Utils.js` library loaded by the viewer from `/s7viewers` context path (so-called consolidated SDK `include`). The reason is that the location of `Utils.js` or similar runtime viewer libraries is fully managed by the viewer's logic and the location changes between viewer releases. Adobe does not keep older versions of secondary viewer `includes` on the server. 
+   >Only reference the main viewer JavaScript `include` file on your page. Do not reference any additional JavaScript files in the web page code which might be downloaded by the viewer's logic in runtime. In particular, do not directly reference HTML5 SDK `Utils.js` library loaded by the viewer from `/s7viewers` context path (so-called consolidated SDK `include`). The reason is that the location of `Utils.js` or similar runtime viewer libraries is fully managed by the viewer's logic and the location changes between viewer releases. Adobe does not keep older versions of secondary viewer `includes` on the server. 
    >
    >
    >As a result, putting a direct reference to any secondary JavaScript `include` used by the viewer on the page breaks the viewer functionality in the future when a new product version is deployed.
@@ -165,9 +165,9 @@ You add the viewer to a web page by doing the following:
 
 1. Setting the viewer size
 
-   This viewer displays thumbnails when working with multi-item sets. On desktop systems, thumbnails are placed below the main view. At the same time, the viewer allows the swapping of the main asset during runtime using `setAsset()` API. As a developer, you have control over how the viewer manages the thumbnails area at the bottom when the new asset has only one item. It is possible to keep the outer viewer size intact and let the main view increase its height and occupy the thumbnails area. Or, you can keep the main view size static and collapse the outer viewer area, letting web page content to move up, and then use the free page real estate that is left from the thumbnails.
+   This viewer displays thumbnails when working with multi-item sets. On desktop systems, thumbnails are placed below the main view. At the same time, the viewer allows the swapping of the main asset during runtime using `setAsset()` API. As a developer, you have control over how the viewer manages the thumbnails area at the bottom when the new asset has only one item. It is possible to keep the outer viewer size intact and let the main view increase its height and occupy the thumbnails area. Or, you can keep the main view size static and collapse the outer viewer area, letting web page content to move up. Then, use the free page real estate that is left from the thumbnails.
 
-   To keep the outer viewer bounds intact define the size for `.s7mixedmediaviewer` top-level CSS class in absolute units. Sizing in CSS can be put right on the HTML page, or in a custom viewer CSS file, which is later assigned to a viewer preset record in Dynamic Media Classic, or passed explicitly using style command.
+   To keep the outer viewer bounds intact, define the size for `.s7mixedmediaviewer` top-level CSS class in absolute units. Sizing in CSS can be put right on the HTML page, or in a custom viewer CSS file, and later assigned to a viewer preset record in Dynamic Media Classic, or passed explicitly using style command.
 
    See [Customizing Mixed Media Viewer](../../c-html5-s7-aem-asset-viewers/c-html5-mixedmedia-viewer-about/c-html5-mixedmedia-viewer-customizingviewer/c-html5-mixedmedia-viewer-customizingviewer.md#concept-61b3410f187c4bf3af09ec813c649bf4) for more information about styling the viewer with CSS.
 
@@ -199,7 +199,7 @@ You add the viewer to a web page by doing the following:
 
    [https://experienceleague.adobe.com/tools/dynamic-media-demo/viewers-ref/mixedmedia/MixedMediaViewer-fixed-main-view.html](https://experienceleague.adobe.com/tools/dynamic-media-demo/viewers-ref/mixedmedia/MixedMediaViewer-fixed-main-view.html)
 
-   You can set the `stagesize` modifier either in the viewer preset record in Dynamic Media Classic, or pass it explicitly with the viewer initialization code with `params` collection, or as an API call as described in the Command Reference section of this Help, as in the following:
+   You can set the `stagesize` modifier either in the viewer preset record in Dynamic Media Classic, or pass it explicitly with the viewer initialization code with `params` collection. Or, as an API call as described in the Command Reference section of this Help, as in the following:
 
    ```
    mixedMediaViewer.setParam("stagesize", "640,480");
@@ -209,11 +209,11 @@ You add the viewer to a web page by doing the following:
 
 1. Creating and initializing the viewer.
 
-   When you have completed the steps above, you create an instance of `s7viewers.MixedMediaViewer` class, pass all configuration information to its constructor and call `init()` method on a viewer instance. Configuration information is passed to the constructor as a JSON object. At minimum, this object should have the `containerId` field which holds the name of viewer container ID and nested `params` JSON object with configuration parameters that the viewer supports. In this case, the `params` object must have at least the Image Serving URL passed as `serverUrl` property, the video server URL passed as `videoserverurl` property and initial asset as `asset` parameter. JSON-based initialization API lets you create and start the viewer with single line of code.
+   When you have completed the steps above, you create an instance of `s7viewers.MixedMediaViewer` class, pass all configuration information to its constructor and call `init()` method on a viewer instance. Configuration information is passed to the constructor as a JSON object. At minimum, this object should have the `containerId` field which holds the name of viewer container ID and nested `params` JSON object with configuration parameters that the viewer supports. In this case, the `params` object must have at least the Image Serving URL passed as `serverUrl` property, the video server URL passed as `videoserverurl` property, and initial asset as `asset` parameter. JSON-based initialization API lets you create and start the viewer with single line of code.
 
    It is important to have the viewer container added to the DOM so that the viewer code can find the container element by its ID. Some browsers delay building DOM until the end of the web page. For maximum compatibility, call the `init()` method just before the closing `BODY` tag, or on the body `onload()` event.
 
-   At the same time, the container element should not necessarily be part of the web page layout just yet. For example, it may be hidden using `display:none` style assigned to it. In this case, the viewer delays its initialization process until the moment when the web page brings the container element back to the layout. When this occurs, the viewer load automatically resumes.
+   At the same time, the container element should not necessarily be part of the web page layout yet. For example, it may be hidden using `display:none` style assigned to it. In this case, the viewer delays its initialization process until the moment when the web page brings the container element back to the layout. When this action occurs, the viewer load automatically resumes.
 
    The following is an example of creating a viewer instance, passing the minimum necessary configuration options to the constructor, and calling the `init()` method. The example assumes `mixedMediaViewer` is the viewer instance; `s7viewer` is the name of placeholder `DIV`; [!DNL http://s7d1.scene7.com/is/image/] is the Image Serving URL; [!DNL http://s7d1.scene7.com/is/content/] is the video server URL; and [!DNL Scene7SharedAssets/Mixed_Media_Set_Sample] is the asset:
 
@@ -324,11 +324,11 @@ The following examples page illustrates more real-life uses of responsive design
 
 [Live demos](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html)
 
-[Alternate demo location](https://experienceleague.adobe.com/tools/vlist/vlist.html)
+[Alternate demo location](https://experienceleague.adobe.com/tools/dynamic-media-demo/vlist/vlist.html)
 
 ## Flexible size embedding with width and height defined {#section-0a329016f9414d199039776645c693de}
 
-In case of flexible-size embedding with width and height defined, the web page styling is different. It provides both sizes to the `"holder"` DIV and centers it in the browser window. Also, the web page sets the size of the `HTML` and `BODY` element to 100 percent.
+If there is flexible-size embedding with width and height defined, the web page styling is different. It provides both sizes to the `"holder"` DIV and centers it in the browser window. Also, the web page sets the size of the `HTML` and `BODY` element to 100 percent.
 
 ```
 <!DOCTYPE html> 

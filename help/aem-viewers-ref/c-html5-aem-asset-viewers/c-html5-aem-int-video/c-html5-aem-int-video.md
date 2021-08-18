@@ -10,7 +10,7 @@ exl-id: e54b0b1f-b015-4592-82e2-99f5080543e3
 
 Interactive Video Viewer is a video player that plays streaming and progressive video encoded in the H.264 format.
 
-The viewer also shows interactive product swatches next to the video content. Both single video and Adaptive Video Sets are supported. It is designed to work on both desktop and mobile Web browsers that support HTML5 video. The viewer supports optional closed captions displayed on top of video content, video chapter navigation, and social sharing tools. The purpose of this viewer is to help you implement a "shoppable video" experience. That is, users can select a swatch associated with a particular video time region and get redirected to a Quick View or a product detail page on the customer's website.
+The viewer also shows interactive product swatches next to the video content. Both single video and Adaptive Video Sets are supported. It is designed to work on both desktop and mobile Web browsers that support HTML5 video. The viewer supports optional closed captions displayed on top of video content, video chapter navigation, and social sharing tools. The purpose of this viewer is to help you implement a "shoppable video" experience. That is, users can select a swatch associated with a particular video time region and get redirected to a Quickview or a product detail page on the customer's website.
 
 Viewer type is 510.
 
@@ -44,9 +44,9 @@ On touch devices, the volume control is hidden from the user interface, because 
 
 When the viewer operates in pop-up mode, a full-screen button is not available in the user interface.
 
-The viewer shows a panel with interactive swatches to the right of the video viewing area. The list of swatches automatically advances as the video plays, so that swatches corresponding to the current video region are shown. Clicking or tapping on a swatch triggers an action that was associated with such swatch during author time. Depending on how you set it up, the trigger may redirect to a different page on the web site. Or, it may pass product information back to the web page logic, which in turn can trigger the opening of a Quick View that shows related product content.
+The viewer shows a panel with interactive swatches to the right of the video viewing area. The list of swatches automatically advances as the video plays, so that swatches corresponding to the current video region are shown. Clicking or tapping on a swatch triggers an action that was associated with such swatch during author time. Depending on how you set it up, the trigger may redirect to a different page on the web site. Or, it may pass product information back to the web page logic, which in turn can trigger the opening of a Quickview that shows related product content.
 
-It is possible to navigate through the video content quickly when video chaptering is activated. Video chapters are displayed as markers in the video scrubber track and show the chapter title and description on rollover (or on a single tap on touch systems). The customer can "seek" to a particular chapter by clicking a chapter marker or tapping a chapter description bubble.
+It is possible to navigate through the video content quickly when video chapter is activated. Video chapters are displayed as markers in the video scrubber track and show the chapter title and description on rollover (or on a single tap on touch systems). The customer can "seek" to a particular chapter by clicking a chapter marker or tapping a chapter description bubble.
 
 The viewer also supports various social media sharing tools. They are available as a single button in the user interface which expands into a sharing toolbar when the user clicks or taps on it. The sharing toolbar contains an icon for each type of sharing channel supported such as Facebook, Twitter, email share, embed code share, and link share. When email share, embed share, or link share tools are activated, the viewer displays a modal dialog box with a corresponding data entry form. When Facebook or Twitter are called, the viewer redirects the user to a standard sharing dialog box from a social media service. Also, when a sharing tool is activated video playback is paused automatically. Sharing tools are not available in full-screen mode because of web browser security restrictions.
 
@@ -274,7 +274,7 @@ The following examples page illustrates more real-life uses of responsive design
 
 [Live demos](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html)
 
-[Alternate demo location](https://experienceleague.adobe.com/tools/vlist/vlist.html)
+[Alternate demo location](https://experienceleague.adobe.com/tools/dynamic-media-demo/vlist/vlist.html)
 
 **Responsive Embedding with Width and Height Defined**
 

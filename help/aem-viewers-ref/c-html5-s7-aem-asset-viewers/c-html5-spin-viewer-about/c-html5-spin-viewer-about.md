@@ -38,7 +38,7 @@ See [Command reference common to all viewers - Configuration attributes](../../r
 
 ## Interacting with Spin Viewer {#section-642e66ca38cd4032992840ec6c0b0cd2}
 
-Spin Viewer supports the following touch gestures that are common in other mobile applications. When the viewer cannot process a user's swipe gesture it forwards the event to the web browser to perform a native page scroll. This allows the user to navigate through the page even if the viewer occupies most of the device screen area.
+Spin Viewer supports the following touch gestures that are common in other mobile applications. When the viewer cannot process a user's swipe gesture, it forwards the event to the web browser to perform a native page scroll. This functionality lets the user navigate through the page even if the viewer occupies most of the device screen area.
 
 <table id="table_ED747CC7178448919C34A4FCD18922D0"> 
  <thead> 
@@ -58,11 +58,11 @@ Spin Viewer supports the following touch gestures that are common in other mobil
   </tr> 
   <tr> 
    <td colname="col1"> <p>Horizontal swipe or flick </p> </td> 
-   <td colname="col2"> <p> If the image is in a reset state it spins through the set horizontally. </p> <p> If the image is zoomed in, it moves the image horizontally. If image is moved to the view edge and a swipe is still done in that direction, the gesture performs a native page scroll. </p> </td> 
+   <td colname="col2"> <p> If the image is in a reset state, it spins through the set horizontally. </p> <p> If the image is zoomed in, it moves the image horizontally. If image is moved to the view edge and a swipe is still done in that direction, the gesture performs a native page scroll. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Vertical swipe or flick </p> </td> 
-   <td colname="col2"> <p> If the image is in a reset state it changes the vertical view angle in case a multi-dimensional spin set is used. In a one-dimensional spin set, or when a multi-dimensional spin set is on the last or the first axis, so that the vertical swipe does not result in a vertical view angle change, the gesture performs a native page scroll. </p> <p> If the image is zoomed in, it moves the image vertically. If image is moved to the view edge and a swipe is still done in that direction, the gesture performs a native page scroll. </p> </td> 
+   <td colname="col2"> <p> If the image is in a reset state, it changes the vertical view angle in case a multi-dimensional spin set is used. In a one-dimensional spin set, the gesture performs a native page scroll. Or, when a multi-dimensional spin set is on the last or the first axis so that the vertical swipe does not result in a vertical view angle change, the gesture also performs a native page scroll. </p> <p> If the image is zoomed in, it moves the image vertically. If image is moved to the view edge and a swipe is still done in that direction, the gesture performs a native page scroll. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -105,11 +105,11 @@ In the embedded mode, the viewer is added to the existing web page, which may al
 
 The primary use cases are web pages oriented for desktops or tablet devices, and also responsive design pages that adjust layout automatically depending on the device type.
 
-Fixed size embedding is used when the viewer does not change its size after initial load. This is the best choice for web pages that have a static layout.
+Fixed size embedding is used when the viewer does not change its size after initial load. This action is the best choice for web pages that have a static layout.
 
-Responsive design embedding assumes that the viewer may need to resize at runtime in response to the size change of its container `DIV`. The most common use case is adding a viewer to a web page that uses a flexible page layout.
+Responsive design embedding assumes that the viewer must resize at runtime in response to the size change of its container `DIV`. The most common use case is adding a viewer to a web page that uses a flexible page layout.
 
-In responsive design embedding mode, the viewer behaves differently depending on the way web page sizes its container `DIV`. If the web page sets only the width of the container `DIV`, leaving its height unrestricted, the viewer automatically chooses its height according to the aspect ratio of the asset that is used. This functionality ensures that the asset fits perfectly into the view without any padding on the sides. This use case is the most common for web pages using responsive design layout frameworks like Bootstrap, Foundation, and so on.
+In responsive design embedding mode, the viewer behaves differently depending on the way web page sizes its container `DIV`. If the web page sets only the width of the container `DIV`, leaving its height unrestricted, the viewer automatically chooses its height according to the aspect ratio of the asset that is used. This functionality ensures that the asset fits perfectly into the view without any padding on the sides. This use case is the most common for web pages using responsive design layout frameworks like Bootstrap or Foundation.
 
 Otherwise, if the web page sets both the width and the height for the viewer's container `DIV`, the viewer fills just that area and follows the size that the web page layout provides. A good example may be embedding the viewer into a modal overlay, where the overlay is sized according to web browser window size.
 
@@ -138,7 +138,7 @@ You add the Spin Viewer to a web page by doing the following:
 
    >[!NOTE]
    >
-   >You should only reference the main viewer JavaScript `include` file on your page. You should not reference any additional JavaScript files in the web page code which might be downloaded by the viewer's logic in runtime. In particular, do not directly reference HTML5 SDK `Utils.js` library loaded by the viewer from `/s7viewers` context path (so-called consolidated SDK `include`). The reason is that the location of `Utils.js` or similar runtime viewer libraries is fully managed by the viewer's logic and the location changes between viewer releases. Adobe does not keep older versions of secondary viewer `includes` on the server. 
+   >Only reference the main viewer JavaScript `include` file on your page. Do not reference any additional JavaScript files in the web page code which might be downloaded by the viewer's logic in runtime. In particular, do not directly reference HTML5 SDK `Utils.js` library loaded by the viewer from `/s7viewers` context path (so-called consolidated SDK `include`). The reason is that the location of `Utils.js` or similar runtime viewer libraries is fully managed by the viewer's logic and the location changes between viewer releases. Adobe does not keep older versions of secondary viewer `includes` on the server. 
    >
    >
    >As a result, putting a direct reference to any secondary JavaScript `include` used by the viewer on the page breaks the viewer functionality in the future when a new product version is deployed.
@@ -159,7 +159,7 @@ You add the Spin Viewer to a web page by doing the following:
 
    You can set the static size for the viewer by either declaring it for `.s7spinviewer` top-level CSS class in absolute units, or by using `stagesize` modifier.
 
-   You can put sizing in CSS directly on the HTML page, or in a custom viewer CSS file, which is then later assigned to a viewer preset record in Dynamic Media Classic, or passed explicitly using a style command.
+   You can put sizing in CSS directly on the HTML page, or in a custom viewer CSS file. It is later assigned to a viewer preset record in Dynamic Media Classic, or passed explicitly using a style command.
 
    See [Customizing Spin Viewer](../../c-html5-s7-aem-asset-viewers/c-html5-spin-viewer-about/c-html5-spin-viewer-customizingviewer/c-html5-spin-viewer-customizingviewer.md#concept-464f3bfa55764bc09c92d8c7480b0b55) for more information about styling the viewer with CSS.
 
@@ -172,7 +172,7 @@ You add the Spin Viewer to a web page by doing the following:
    }
    ```
 
-   You can set the `stagesize` modifier either in the viewer preset record in Dynamic Media Classic, or pass it explicitly with the viewer initialization code with `params` collection, or as an API call as described in the Command Reference section, like the following:
+   You can set the `stagesize` modifier either in the viewer preset record in Dynamic Media Classic. Or, you can pass it explicitly with the viewer initialization code with `params` collection, or as an API call as described in the Command Reference section, like the following:
 
    ```
     spinViewer.setParam("stagesize", 
@@ -187,7 +187,7 @@ You add the Spin Viewer to a web page by doing the following:
 
    It is important to have the viewer container added to the DOM so that the viewer code can find the container element by its ID. Some browsers delay building DOM until the end of the web page. For maximum compatibility, call the `init()` method just before the closing `BODY` tag, or on the body `onload()` event.
 
-   At the same time, the container element should not necessarily be a part of the web page layout just yet. For example, it may be hidden using the `display:none` style assigned to it. In this case, the viewer delays its initialization process until the moment when the web page brings the container element back to the layout. When this action occurs, the viewer load automatically resumes.
+   At the same time, the container element should not necessarily be a part of the web page layout yet. For example, it may be hidden using the `display:none` style assigned to it. In this case, the viewer delays its initialization process until the moment when the web page brings the container element back to the layout. When this action occurs, the viewer load automatically resumes.
 
    The following is an example of creating a viewer instance, passing the minimum necessary configuration options to the constructor and calling the `init()` method. The example assumes `spinViewer` is the viewer instance, `s7viewer` is the name of placeholder `DIV`, [!DNL http://s7d1.scene7.com/is/image/] is the Image Serving URL, and [!DNL Scene7SharedAssets/SpinSet_Sample] is the asset.
 
@@ -292,11 +292,11 @@ The following examples page illustrates more real-life use cases of responsive d
 
 [Live demos](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html)
 
-[Alternate demo location](https://experienceleague.adobe.com/tools/vlist/vlist.html)
+[Alternate demo location](https://experienceleague.adobe.com/tools/dynamic-media-demo/vlist/vlist.html)
 
 **Flexible size embedding with width and height defined**
 
-In case of flexible-size embedding with width and height defined, the web page styling is different. That is, it provides both sizes to the " holder" `DIV` and centers it in the browser window. Also, the web page sets the size of the `HTML` and `BODY` element to 100%:
+If there is flexible-size embedding with width and height defined, the web page styling is different. That is, it provides both sizes to the " holder" `DIV` and centers it in the browser window. Also, the web page sets the size of the `HTML` and `BODY` element to 100%:
 
 ```
 <!DOCTYPE html> 
