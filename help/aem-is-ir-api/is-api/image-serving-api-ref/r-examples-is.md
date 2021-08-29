@@ -9,6 +9,7 @@ exl-id: 17c933f1-5f61-4f22-88d4-6295a2d13a01
 # Image Server examples{#image-server-examples}
 
 This page links to several Image Server examples.
+<!-- As of August 29 (and likely months or years before this date), none of the links below work anymore! -->
 
 * [adjust1](http://crc.scene7.com/is-docs/examples/adjust1.htm) 
 * [adjust2](http://crc.scene7.com/is-docs/examples/adjust2.htm) 

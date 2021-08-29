@@ -60,6 +60,4 @@ Dynamic Media Image Serving requires the following server software.
 * Red Hat® Enterprise 5 or CentOS 5.5 and later, with latest fix patches. 
 * 64-bit operating system.
 
-**Note:** To use Image Serving on Windows, you must install the Microsoft Visual Studio 2010 redistributable. The redistributable is available at the following location:
-
-[http://www.microsoft.com/en-us/download/details.aspx?id=13523](http://www.microsoft.com/en-us/download/details.aspx?id=13523)
+**Note:** To use Image Serving on Windows, you must install the Microsoft Visual Studio 2010 redistributable.
