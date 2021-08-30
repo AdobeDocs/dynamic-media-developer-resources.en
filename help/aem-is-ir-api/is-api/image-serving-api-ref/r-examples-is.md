@@ -14,7 +14,7 @@ This page links to several Image Server examples.
 * [adjust1](http://crc.scene7.com/is-docs/examples/adjust1.htm) 
 * [adjust2](http://crc.scene7.com/is-docs/examples/adjust2.htm) 
 * [advanced](http://crc.scene7.com/is-docs/examples/advanced.htm) 
-* [anchors](http://crc.scene7.com/is-docs/examples/anchors.htm) 
+<!-- * [anchors](http://crc.scene7.com/is-docs/examples/anchors.htm) --> 
 * [catalog1](http://crc.scene7.com/is-docs/examples/catalog1.htm) 
 * [colorize](http://crc.scene7.com/is-docs/examples/colorize.htm) 
 * [layering1](http://crc.scene7.com/is-docs/examples/layering1.htm) 
