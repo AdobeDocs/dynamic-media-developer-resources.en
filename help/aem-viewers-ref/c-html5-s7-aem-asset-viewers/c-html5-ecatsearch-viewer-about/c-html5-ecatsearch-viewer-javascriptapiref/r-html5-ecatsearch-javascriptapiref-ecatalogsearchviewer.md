@@ -1,10 +1,7 @@
 ---
 description: JavaScript API reference for eCatalog SearchViewer.
-
-
 solution: Experience Manager
 title: eCatalogSearchViewer
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: a7289d23-b2f6-4730-99fa-331174968e05
@@ -45,8 +42,8 @@ var eCatalogSearchViewer = new s7viewers.eCatalogSearchViewer({
  "containerId":"s7viewer", 
 "params":{ 
  "asset":"Viewers/Pluralist", 
- "serverurl":"http://s7d1.scene7.com/is/image/", 
- "searchserverurl":"http://s7search1.scene7.com/s7search/" 
+ "serverurl":"https://s7d1.scene7.com/is/image/", 
+ "searchserverurl":"https://s7search1.scene7.com/s7search/" 
 }, 
 "handlers":{ 
  "initComplete":function() { 

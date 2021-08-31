@@ -177,4 +177,4 @@ If obfuscation is applied, encoding can be limited to remove '=', '&', and '%' c
 
 ## See also {#section-295476ec34c74973962d07dfa9eb2180}
 
-[Request Obfuscation](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-syntax-and-features/r-request-obfuscation.md#reference-895f65d6796c43bb9bad21a676ed714d), [HTTP/1.1 Specification (RFC 2616)](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
+[Request Obfuscation](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-syntax-and-features/r-request-obfuscation.md#reference-895f65d6796c43bb9bad21a676ed714d), [HTTP/1.1 Specification (RFC 2616)](https://www.w3.org/Protocols/rfc2616/rfc2616.html)

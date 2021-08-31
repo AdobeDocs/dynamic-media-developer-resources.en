@@ -95,7 +95,7 @@ The following is an example of HTML code that opens the viewer in a new window:
 
 ```
 <a 
-href="http://s7d1.scene7.com/s7viewers/html5/SpinViewer.html?asset=Scene7SharedAssets/SpinSet_Sample&stagesize=500,400" 
+href="https://s7d1.scene7.com/s7viewers/html5/SpinViewer.html?asset=Scene7SharedAssets/SpinSet_Sample&stagesize=500,400" 
 target="_blank">Open popup viewer</a>
 ```
 

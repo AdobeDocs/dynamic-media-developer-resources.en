@@ -79,4 +79,4 @@ Comments can be embedded into request strings anywhere and are identified by a p
 
 ## See also {#section-d0b836568c31454b8dbeb136e6bbe0f0}
 
-[Data Types](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-data-types/c-data-types.md#concept-49455c12df954bb5919cdd8d5ccc85fa), [HTTP/1.1 Specification](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
+[Data Types](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-data-types/c-data-types.md#concept-49455c12df954bb5919cdd8d5ccc85fa), [HTTP/1.1 Specification](https://www.w3.org/Protocols/rfc2616/rfc2616.html)

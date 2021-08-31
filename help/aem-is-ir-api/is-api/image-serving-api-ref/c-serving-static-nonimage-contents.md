@@ -119,9 +119,9 @@ You can encapsulate video caption files (WebVTT), CSS, or any text file in JSONP
 
 You can also use tracks for other kinds of timed metadata. The source data for each track element is a text file made up of a list of timed cues. Cues can include data in formats such as JSON or CSV.
 
-See [http://en.wikipedia.org/wiki/JSONP](http://en.wikipedia.org/wiki/JSONP) for more information about the JSONP format.
+See [https://en.wikipedia.org/wiki/JSONP](https://en.wikipedia.org/wiki/JSONP) for more information about the JSONP format.
 
-See [www.json.org](http://www.json.org) for more information about the JSON format.
+See [www.json.org](https://www.json.org) for more information about the JSON format.
 
 ## See also {#section-7b28631016044a22a3a6762fd64771e9}
 

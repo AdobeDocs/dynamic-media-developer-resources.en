@@ -1,10 +1,7 @@
 ---
 description: JavaScript API reference for Video Viewer.
-
-
 solution: Experience Manager
 title: setAsset
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: 5fd80f8d-321e-47f4-9fb2-65e7bd63be58

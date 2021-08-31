@@ -135,7 +135,7 @@ To process a request, set the SOAPAction HTTP header to the name of the requeste
 
 **Message format**
 
-The document/literal style is used for all input and output messages with types based on the XML Schema definition language ( [http://www.w3.org/TR/xmlschema-0/](http://www.w3.org/TR/xmlschema-0/)) and specified in the WSDL file. All types require qualified names using the target namespace value specified in the WSDL file.
+The document/literal style is used for all input and output messages with types based on the XML Schema definition language ( [https://www.w3.org/TR/xmlschema-0/](https://www.w3.org/TR/xmlschema-0/)) and specified in the WSDL file. All types require qualified names using the target namespace value specified in the WSDL file.
 
 **Request authentication**
 

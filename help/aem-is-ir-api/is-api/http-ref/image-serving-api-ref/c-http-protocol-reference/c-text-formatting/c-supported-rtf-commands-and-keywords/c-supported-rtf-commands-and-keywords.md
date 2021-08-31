@@ -10,7 +10,7 @@ exl-id: a63bc7f1-34a9-485d-aadd-c65e3e26034a
 
 Following is the list of keywords and commands supported by the Scene 7 Image Serving text engine.
 
-Refer to the published [RTF 1.6 Specification](http://msdn.microsoft.com/en-us/library/aa140277%28v=office.10%29.aspx) for details about each keyword or command.
+Refer to the published [RTF 1.6 Specification](https://msdn.microsoft.com/en-us/library/aa140277%28v=office.10%29.aspx) for details about each keyword or command.
 
 RTF commands not listed below are ignored by the parser. 
 
