@@ -49,8 +49,8 @@ Requests that support JSONP response format lets you specify the name of the JS 
 
 The Dynamic Media Image Serving Viewers package includes a utility to request and parse JSONP-formatted data from Image Serving.
 
-See [http://en.wikipedia.org/wiki/JSONP](http://en.wikipedia.org/wiki/JSONP) for more information about the JSONP format.
+See [https://en.wikipedia.org/wiki/JSONP](https://en.wikipedia.org/wiki/JSONP) for more information about the JSONP format.
 
-See [www.json.org](http://www.json.org) for more information about the JSON format.
+See [www.json.org](https://www.json.org) for more information about the JSON format.
 
 See also [req](../../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-req/r-req.md#reference-907cdb4a97034db7ad94695f25552e76).

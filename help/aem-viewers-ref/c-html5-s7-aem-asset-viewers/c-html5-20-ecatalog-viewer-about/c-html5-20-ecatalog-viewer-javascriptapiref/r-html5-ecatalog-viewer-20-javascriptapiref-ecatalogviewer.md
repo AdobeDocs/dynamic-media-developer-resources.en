@@ -1,10 +1,7 @@
 ---
 description: JavaScript API reference for eCatalog Viewer.
-
-
 solution: Experience Manager
 title: eCatalogViewer
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: 111699a3-8a70-4caf-b7da-7b594b785f7c
@@ -45,7 +42,7 @@ var eCatalogViewer = new s7viewers.eCatalogViewer({
  "containerId":"s7viewer", 
 "params":{ 
  "asset":"Viewers/Pluralist", 
- "serverurl":"http://s7d1.scene7.com/is/image/" 
+ "serverurl":"https://s7d1.scene7.com/is/image/" 
 }, 
 "handlers":{ 
  "initComplete":function() { 

@@ -1,10 +1,7 @@
 ---
 description: The eCatalog Search Viewer supports Adobe Analytics tracking out of the box.
-
-
 solution: Experience Manager
 title: Support for Adobe Analytics tracking
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User,Data Engineer,Data Architect
 exl-id: b35e52f5-fa08-4945-aa52-9fdf41a6081a
@@ -28,7 +25,7 @@ var eCatalogSearchViewer = new s7viewers.eCatalogSearchViewer({
  "containerId":"s7viewer", 
 "params":{ 
  "asset":"Viewers/Pluralist", 
- "serverurl":"http://s7d1.scene7.com/is/image/" 
+ "serverurl":"https://s7d1.scene7.com/is/image/" 
 }, 
 "handlers":{ 
  "trackEvent":function(objID, compClass, instName, timeStamp, eventInfo) { 
