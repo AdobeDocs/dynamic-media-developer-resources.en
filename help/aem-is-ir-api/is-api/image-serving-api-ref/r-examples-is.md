@@ -5,6 +5,7 @@ solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 17c933f1-5f61-4f22-88d4-6295a2d13a01
+hidefromtoc: yes
 ---
 # Image Server examples{#image-server-examples}
 
