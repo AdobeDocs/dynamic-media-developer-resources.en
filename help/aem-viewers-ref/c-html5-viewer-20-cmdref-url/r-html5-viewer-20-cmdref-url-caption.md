@@ -1,7 +1,7 @@
 ---
+title: caption
 description: Parameter common to all viewers.
 solution: Experience Manager
-title: caption
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,User
 exl-id: 06ce5520-944b-4ab0-8f59-67c273bd8314
@@ -63,18 +63,18 @@ This viewer supports closed captioning by way of hosted WebVTT files. Captions s
    <td colname="col1"> <p> <span class="codeph"> L </span> </p> </td> 
    <td colname="col2"> <p>line position </p> </td> 
    <td colname="col3"> <p> 0%-100%|integer </p> </td> 
-   <td colname="col4"> <p> Determines the line position on the page. </p> <p>If it is expressed as an integer with no percent sign, then it is the number of lines from the top where the text is displayed. </p> <p>If it is expressed as a percentage-the percent sign is the last character- then the caption text is displayed that percent down the display area. </p> <p>Default is <span class="codeph"> 100% </span>. </p> </td> 
+   <td colname="col4"> <p> Determines the line position on the page. </p> <p>If it is expressed as an integer with no percent sign, then it is the number of lines from the top where the text is displayed. </p> <p>If it is expressed as a percentage - the percent sign is the last character - then the caption text is displayed that percent down the display area. </p> <p>Default is <span class="codeph"> 100% </span>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
 
-Be aware that if there are any other WebVTT features present within the WebVTT file, they are not supported; however, they will not disrupt captioning.
+If there are any other WebVTT features present within the WebVTT file, they are not supported; however, they do not disrupt captioning.
 
 <table id="table_CB7B4DFC6B654AECA1AF6594E3FD5C46"> 
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> file </span> </span> </p> </td> 
-   <td colname="col2"> <p> Specifies an URL or path to WebVTT caption content. The WebVTT file is served by Image Serving. </p> </td> 
+   <td colname="col2"> <p> Specifies a URL or path to WebVTT caption content. The WebVTT file is served by Image Serving. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> 0|1 </span> </p> </td> 

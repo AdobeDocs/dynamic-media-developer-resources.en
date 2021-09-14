@@ -1,7 +1,7 @@
 ---
+title: asset
 description: Parameter common to all viewers.
 solution: Experience Manager
-title: asset
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,User
 exl-id: edcd18b6-5292-44da-80be-b7f75ee4c48e
@@ -52,7 +52,7 @@ or
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> imageListWithModifiers </span> </span> </p> </td> 
-   <td colname="col2"> <p> Specifies an explicit image set where each frame has its own Image Serving modifiers. In this case, the list of frames are wrapped within parentheses. Make sure you apply double HTTP encoding to any comma that is present in the frame-specific Image Serving modifier. </p> <p> <p>Note:  This feature is supported in Adobe Dynamic Media Classic; it is not supported in Adobe Experience Manager Assets. </p> </p> </td> 
+   <td colname="col2"> <p> Specifies an explicit image set where each frame has its own Image Serving modifiers. In this case, the list of frames is wrapped within parentheses. Make sure you apply double HTTP encoding to any comma that is present in the frame-specific Image Serving modifier. </p> <p> <p>Note:  This feature is supported in Adobe Dynamic Media Classic; it is not supported in Adobe Experience Manager Assets. </p> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> multiDimensionalSpinSet </span> </span> </p> </td> 

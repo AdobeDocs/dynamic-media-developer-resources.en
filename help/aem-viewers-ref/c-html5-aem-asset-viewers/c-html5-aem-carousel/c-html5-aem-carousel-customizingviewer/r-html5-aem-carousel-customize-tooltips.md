@@ -1,14 +1,14 @@
 ---
-description: On desktop systems some user interface elements like buttons have tool tips that display on mouse hover.
-solution: Experience Manager
 title: Tooltips
+description: On desktop systems, some user interface elements like buttons have tool tips that display on mouse hover.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,User
 exl-id: b4604528-93f6-440c-b676-7b4c89fff6c8
 ---
 # Tooltips{#tooltips}
 
-On desktop systems some user interface elements like buttons have tool tips that display on mouse hover.
+On desktop systems, some user interface elements like buttons have tool tips that display on mouse hover.
 
 <!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
@@ -57,9 +57,9 @@ The appearance of tool tips is controlled with the following CSS class selector:
 
 >[!NOTE]
 >
->In case tool tip styles are customized from within the embedding web page, all properties have to contain `!IMPORTANT` rule. This is not necessary if tool tips are customized in the viewer's CSS file.
+>In case tool tip styles are customized from within the embedding web page, all properties have to contain `!IMPORTANT` rule. This step is not necessary if tool tips are customized in the viewer's CSS file.
 
-Example - to set up tool tips that have a gray border with a 3 pixel corner radius, black background, and white text in Arial, 11 pixels size:
+Example - to set up tool tips that have a gray border with a 3 pixel corner radius, black background, and white text in Arial®, 11 pixels size:
 
 ```
 .s7tooltip { 

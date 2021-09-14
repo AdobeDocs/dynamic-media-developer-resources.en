@@ -1,14 +1,14 @@
 ---
+title: Previous slide
 description: Clicking or tapping on this button returns a user to the previous slide in the carousel set. This button is not displayed on touch devices. You can size, skin, and position this button using CSS.
 solution: Experience Manager
-title: Previous slide
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,User
 exl-id: f780e62e-7238-4cc6-b382-3a21043e1079
 ---
 # Previous slide{#previous-slide}
 
-Clicking or tapping on this button returns a user to the previous slide in the carousel set. This button is not displayed on touch devices. You can size, skin, and position this button using CSS.
+Selecting this button returns a user to the previous slide in the carousel set. This button is not displayed on touch devices. You can size, skin, and position this button using CSS.
 
 <!--<a id="section_6C008EE11212461FA744F2540D38C295"></a>-->
 
@@ -71,7 +71,7 @@ The appearance of the button is controlled with the following CSS class selector
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-aem-asset-viewers/c-html5-aem-carousel/c-html5-aem-carousel-localization.md) for more information.
 
-Example - to set up a previous slide button that is 60 x 60 pixels, positioned 10 pixels from the left viewer border and vertically centered, and displays a different image for each of the four different button states.
+As an example, suppose you want to set up a previous slide button that is 60 x 60 pixels. You want it positioned ten pixels from the left viewer border and vertically centered. And, you want it to display a different image for each of the four different button states.
 
 ```
 .s7carouselviewer .s7panleftbutton { 

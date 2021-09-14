@@ -1,7 +1,7 @@
 ---
+title: PlayPause button
 description: The Play/Pause button lets a user pause or resume carousel autoplay behavior.
 solution: Experience Manager
-title: PlayPause button
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,User
 exl-id: 1b48aa7f-d1c8-4367-94c2-689991b90942
@@ -73,7 +73,7 @@ The appearance of the button is controlled with the following CSS class selector
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-aem-asset-viewers/c-html5-aem-carousel/c-html5-aem-carousel-localization.md) for more information.
 
-Example - to set up a play pause button that is 28 x 28 pixels, that is positioned 17 pixels from the bottom and 12 pixels from the left edge of the viewer, and that displays a different image for each of the four different button states when selected or not selected.
+As an example, suppose you want to set up a play pause button that is 28 x 28 pixels. You want the button positioned 17 pixels from the bottom and 12 pixels from the left edge of the viewer. And, you want it to display a different image for each of the four different button states when selected or not selected.
 
 ```
 .s7carouselviewer .s7playpausebutton { 

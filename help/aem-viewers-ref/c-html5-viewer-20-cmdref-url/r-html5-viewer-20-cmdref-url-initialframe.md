@@ -1,7 +1,7 @@
 ---
+title: initialFrame
 description: Parameter common to all viewers.
 solution: Experience Manager
-title: initialFrame
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,User
 exl-id: db77edf0-e223-4f44-b83b-b6dbe5c1abd6
@@ -24,7 +24,7 @@ Parameter common to all viewers.
   </tr> 
   <tr> 
    <td colname="col1"> <p><span class="codeph"><span class="varname"> pageIdx</span></span> </p> </td> 
-   <td colname="col2"> <p>A zero-based index of the page within the spread when the device is in portrait orientation. In a "left-to-right" environment <span class="codeph"> 0</span> means "left page" and <span class="codeph"> 1</span> means "right page". In "right-to-left" it is opposite: <span class="codeph"> 0</span> means "right page" and <span class="codeph"> 1</span> means "left page". </p> <p>If not specified, <span class="codeph"> 0</span> is assumed by default. Ignored when device is in landscape orientation. </p> </td> 
+   <td colname="col2"> <p>A zero-based index of the page within the spread when the device is in portrait orientation. For a "left-to-right" environment, <span class="codeph"> 0</span> means "left page" and <span class="codeph"> 1</span> means "right page". For a "right-to-left" environment, it is opposite: <span class="codeph"> 0</span> means "right page" and <span class="codeph"> 1</span> means "left page". </p> <p>If not specified, <span class="codeph"> 0</span> is assumed by default. Ignored when device is in landscape orientation. </p> </td> 
   </tr> 
  </tbody> 
 </table>

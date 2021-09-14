@@ -1,7 +1,7 @@
 ---
+title: Focus highlight
 description: Input focus highlight displayed around focused viewer user interface element is controlled with the CSS class selector.
 solution: Experience Manager
-title: Focus highlight
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,User
 exl-id: f9343055-9fd9-4b19-bba3-1f742acb6193

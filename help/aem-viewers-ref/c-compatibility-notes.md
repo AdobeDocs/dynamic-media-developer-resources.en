@@ -50,7 +50,7 @@ Compatibility notes for operating systems, browsers, and mobile devices.
 * `IntialBitRate` modifier is only supported with software HLS and Flash HDS playback. It does not work when playback is using the native player.
 * OGG and WebM progressive playback not supported.
 * Browser scaling causes the video player to display at an incorrect size (include Windows® Control Panel Display settings).
-* Video seek using HLS streaming on Safari is inconsistent.
+* Video seeks using HLS streaming on Safari is inconsistent.
 
 ## Internet Explorer {#section-a18e8df396954f0b807017787c00aac7}
 
@@ -65,5 +65,5 @@ Compatibility notes for operating systems, browsers, and mobile devices.
 ## Safari {#section-f8de598293d349188aa02c82cd3af8b6}
 
 * Safari 6.1 or later: Internet Plug-in settings prevent Flash video playback.
-* Video seek using HLS streaming on Safari is inconsistent.
+* Video seeks using HLS streaming on Safari is inconsistent.
 * Unable to seek to end of video on Safari 6 using HLS streaming.

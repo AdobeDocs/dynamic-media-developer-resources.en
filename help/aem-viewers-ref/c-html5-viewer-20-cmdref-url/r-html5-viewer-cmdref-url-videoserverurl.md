@@ -1,7 +1,7 @@
 ---
+title: videoServerUrl
 description: Parameter common to all viewers.
 solution: Experience Manager
-title: videoServerUrl
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,User
 exl-id: db0ce8c4-3754-4fef-9430-44ee8e5c5e80

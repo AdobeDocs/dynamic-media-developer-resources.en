@@ -1,7 +1,7 @@
 ---
+title: contentUrl
 description: Parameter common to all viewers.
 solution: Experience Manager
-title: contentUrl
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,User
 exl-id: cab3c3fe-1a64-4a50-8559-57cadb31f689

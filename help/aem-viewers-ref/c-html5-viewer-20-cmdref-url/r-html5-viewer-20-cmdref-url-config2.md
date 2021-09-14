@@ -1,7 +1,7 @@
 ---
+title: config2
 description: Parameter common to all viewers.
 solution: Experience Manager
-title: config2
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,User
 exl-id: dbbec03a-077d-46b0-bfc6-e09436fa850a
