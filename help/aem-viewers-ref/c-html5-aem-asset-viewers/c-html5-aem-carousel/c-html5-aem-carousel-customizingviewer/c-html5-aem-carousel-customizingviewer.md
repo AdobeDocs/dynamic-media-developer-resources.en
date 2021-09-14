@@ -1,8 +1,8 @@
 ---
+title: Customizing Carousel Viewer
 description: All visual customization and most behavior customization for the Carousel Viewer is done by creating a custom CSS.
 keywords: responsive
 solution: Experience Manager
-title: Customizing Carousel Viewer
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,User
 exl-id: f392d830-5c75-45dd-bab8-29a38218790d
@@ -29,23 +29,23 @@ Custom CSS file must contain the same class declarations as the default one. If 
 
 An alternative way to provide custom CSS rules is to use embedded styles directly on the web page or in one of linked external CSS rules.
 
-When creating custom CSS keep in mind that the viewer assigns `.s7carouselviewer` class to its container DOM element. If you are using an external CSS file passed with the `style=` command, use `.s7carouselviewer` class as parent class in descendant selector for your CSS rules. If you are adding embedded styles on the web page, additionally qualify this selector with an ID of the container DOM element as follows:
+When creating custom CSS, keep in mind that the viewer assigns `.s7carouselviewer` class to its container DOM element. If you are using an external CSS file passed with the `style=` command, use `.s7carouselviewer` class as parent class in descendant selector for your CSS rules. If you are adding embedded styles on the web page, also qualify this selector with an ID of the container DOM element as follows:
 
 `#<containerId>.s7carouselviewer`
 
 ## Building responsive designed CSS {#section-0bb49aca42d242d9b01879d5ba59d33b}
 
-It is possible to target different devices and embedding sizes in CSS to make your content display differently, depending on a user's device or a particular web page layout. This includes, but is not limited to, different layouts, user interface element sizes, and artwork resolution.
+It is possible to target different devices and embedding sizes in CSS to make your content display differently, depending on a user's device or a particular web page layout. This technique includes, but is not limited to, different layouts, user interface element sizes, and artwork resolution.
 
-The viewer supports two mechanisms of creating responsive designed CSS: CSS markers and standard CSS media queries. You can use these independently or together.
+The viewer supports two mechanisms of creating responsive designed CSS: CSS markers and standard CSS media queries. You can use these two mechanisms independently or together.
 
 **CSS markers**
 
-To assist in creating responsive designed CSS, the viewer supports CSS markers. These are special CSS classes that are dynamically assigned to the top-level viewer container element. They are based on the runtime viewer size and the input type used on the current device.
+To help with creating responsive designed CSS, the viewer supports CSS markers. These markers are special CSS classes that are dynamically assigned to the top-level viewer container element. They are based on the runtime viewer size and the input type used on the current device.
 
 The first group of CSS markers contains `.s7size_large`, `.s7size_medium`, and `.s7size_small` classes. They are applied based on the runtime area of the viewer container. For example, if the viewer area is equal or bigger than the size of a common desktop monitor, use `.s7size_large`. If the area is close to a common tablet device, assign `.s7size_medium`. For areas similar to mobile phone screens, use `.s7size_small`. The primary purpose of these CSS markers is to create different user interface layouts for different screens and viewer sizes.
 
-The second group of CSS markers contains `.s7mouseinput` and `.s7touchinput`. The CSS marker `.s7touchinput` is set if the current device is capable of touch input. Otherwise, `.s7mouseinput` is used. These markers are mostly intended to create user interface input elements with different screen sizes for different input types, because normally touch input requires larger elements.
+The second group of CSS markers contains `.s7mouseinput` and `.s7touchinput`. The CSS marker `.s7touchinput` is set if the current device is touch input. Otherwise, `.s7mouseinput` is used. These markers are mostly intended to create user interface input elements with different screen sizes for different input types, because normally touch input requires larger elements.
 
 The following sample CSS sets the zoom in button size to 28 x 28 pixels on systems with mouse input and to 56 x 56 pixels on touch input devices. If the viewer is sized even smaller, it is set to 20 x 20 pixels.
 
@@ -64,7 +64,7 @@ The following sample CSS sets the zoom in button size to 28 x 28 pixels on syste
 }
 ```
 
-To target devices with different pixel density you need to use CSS media queries. The following media query block would contain CSS specific to high-density screens:
+To target devices with different pixel density, you must use CSS media queries. The following media query block would contain CSS specific to high-density screens:
 
 ```
 @media screen and (-webkit-min-device-pixel-ratio: 1.5) 
@@ -144,7 +144,7 @@ background-image: url(images/v2/imagemap/ImageMapEffect_icon1_light_over_touch.p
 
 The drawback to this approach is that the end user experiences flickering or delayed user interface response when the element is interacted with for the first time. This action occurs because the image artwork for the new element state is not yet downloaded. Also, this approach may have a slight negative impact on performance because of an increase in the number of HTTP calls to the server.
 
-CSS sprites is a different approach where image artwork for all element states is combined into a single PNG file called a "sprite". Such "sprite" has all visual states for the given element positioned one after another. When styling a user interface element with sprites the same sprite image is referenced for all different states in the CSS. Also, the `background-position` property is used for each state to specify which part of the "sprite" image is used. You can structure a "sprite" image in any suitable way. Viewers normally have it vertically stacked.
+CSS sprites is a different approach where image artwork for all element states is combined into a single PNG file called a "sprite". Such "sprite" has all visual states for the given element positioned one after another. When styling a user interface element with sprites, the same sprite image is referenced for all different states in the CSS. Also, the `background-position` property is used for each state to specify which part of the "sprite" image is used. You can structure a "sprite" image in any suitable way. Viewers normally have it vertically stacked.
 
 The following is a "sprite"-based example of styling the same hot spot icon:
 
@@ -160,7 +160,7 @@ background-position: -0px -0px; width: 56px; height: 56px;
 
 ## General styling notes and advice {#section-95855dccbbc444e79970f1aaa3260b7b}
 
-* When customizing the viewer user interface with CSS the use of the `!IMPORTANT` rule is not supported to style viewer elements. In particular, `!IMPORTANT` rule should not be used to override any default or runtime styling provided by the viewer or Viewer SDK. The reason for this is that it may affect the behavior of proper components. Instead, you should use CSS selectors with the proper specificity to set CSS properties that are documented in this Viewers Reference guide. 
+* When customizing the viewer user interface with CSS, the use of the `!IMPORTANT` rule is not supported to style viewer elements. In particular, `!IMPORTANT` rule should not be used to override any default or runtime styling provided by the viewer or Viewer SDK. The reason for this is that it may affect the behavior of proper components. Instead, you should use CSS selectors with the proper specificity to set CSS properties that are documented in this Viewers Reference guide. 
 * All paths to external assets within CSS are resolved against the CSS location, not the viewer HTML page location. Be aware of this rule when you copy the default CSS to a different location. Either copy the default assets as well or update all the paths within the custom CSS. 
 * The preferred format for bitmap artwork is PNG. 
 * Bitmap artwork is assigned to user interface elements using the `background-image` property. 

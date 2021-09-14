@@ -1,8 +1,7 @@
 ---
+title: title
 description: title command
 solution: Experience Manager
-title: title
-
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,User
 exl-id: 2aea6b2b-052d-4360-9284-68b8563da6a1

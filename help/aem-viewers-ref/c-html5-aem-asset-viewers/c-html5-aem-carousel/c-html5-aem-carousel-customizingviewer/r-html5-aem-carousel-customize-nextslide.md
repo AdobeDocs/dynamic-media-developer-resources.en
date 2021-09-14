@@ -1,14 +1,14 @@
 ---
-description: Clicking or tapping the Next slide button moves a user to the next slide in the carousel set.
-solution: Experience Manager
 title: Next slide
+description: Selecting the Next slide button moves a user to the next slide in the carousel set.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,User
 exl-id: c64889bb-bcbe-49c6-a0be-b4013ead7b90
 ---
 # Next slide{#next-slide}
 
-Clicking or tapping the Next slide button moves a user to the next slide in the carousel set.
+Selecting the Next slide button moves a user to the next slide in the carousel set.
 
 <!--<a id="section_6C008EE11212461FA744F2540D38C295"></a>-->
 
@@ -73,7 +73,7 @@ The appearance of the button is controlled with the following CSS class selector
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-aem-asset-viewers/c-html5-aem-carousel/c-html5-aem-carousel-localization.md) for more information.
 
-Example - to set up a previous slide button that is 60 x 60 pixels, positioned 10 pixels from the right viewer border and vertically centered, and displays a different image for each of the four different button states.
+As an example, suppose you want to set up a previous slide button that is 60 x 60 pixels. You want the button positioned ten pixels from the right viewer border and vertically centered. And, you want it to display a different image for each of the four different button states.
 
 ```
 .s7carouselviewer .s7panrightbutton{ 

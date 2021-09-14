@@ -1,7 +1,7 @@
 ---
+title: config
 description: Parameter common to all viewers.
 solution: Experience Manager
-title: config
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,User
 exl-id: 503a1fc6-7a6b-4f55-bad1-11f22435276f
@@ -45,7 +45,7 @@ Load the viewer with the following command:
 config=2020/preset-oct
 ```
 
-This is equivalent to the following commands specified explicitly in the URL:
+This example is equivalent to the following command specified explicitly in the URL:
 
 ```
 style=customStyle.css
@@ -66,7 +66,7 @@ Load the viewer with the following command:
 config=2019/spin-oct
 ```
 
-This is equivalent to the following commands specified explicitly in the URL:
+This example is equivalent to the following command specified explicitly in the URL:
 
 ```
 zoomStep=3&maxZoom=200
@@ -86,7 +86,7 @@ Load the viewer with the following command:
 config=/etc/dam/presets/viewer/Shoppable_Banner
 ```
 
-This is equivalent to the following commands specified explicitly in the URL:
+This example is equivalent to the following commands specified explicitly in the URL:
 
 `style=etc/dam/presets/css/html5_interactiveimage.css`
 
@@ -104,7 +104,7 @@ Load the viewer with the following command:
 config=/etc/dam/presets/viewer/Shoppable_Video_Dark
 ```
 
-This is equivalent to the following commands specified explicitly in the URL:
+This example is equivalent to the following commands specified explicitly in the URL:
 
 ```
 style=etc/dam/presets/css/html5_interactivevideo_dark.css
@@ -124,7 +124,7 @@ Load the viewer with the following command:
 config=/etc/dam/presets/viewer/Carousel_Dotted_light
 ```
 
-This is equivalent to the following commands specified explicitly in the URL:
+This example is equivalent to the following commands specified explicitly in the URL:
 
 ```
 style= etc/dam/presets/css/html5_carouselviewer_dotted_light.css

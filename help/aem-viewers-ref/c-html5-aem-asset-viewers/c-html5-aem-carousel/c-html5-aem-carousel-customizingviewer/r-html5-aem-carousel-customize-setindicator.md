@@ -1,7 +1,7 @@
 ---
+title: Set indicator
 description: Set indicator is a series of dots rendered at the bottom of the viewer. It shows the current position within the set.
 solution: Experience Manager
-title: Set indicator
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,User
 exl-id: 7d0827c5-f420-4804-983c-5298ee92b276
@@ -39,7 +39,7 @@ The appearance of the set indicator container is controlled with the following C
 >
 >Set indicator supports the mode attribute selector, which you can use to apply different styles for dotted and numeric operation modes. In particular, `mode="numeric"` corresponds to the numeric operation mode; `mode="dotted"` corresponds to the default dot state.
 
-Example - to set up set indicator with a white background:
+As an example, suppose you want to set up a set indicator with a white background:
 
 ```
 .s7carouselviewer .s7setindicator { 
@@ -118,7 +118,7 @@ The appearance of an individual set indicator dot is controlled with the CSS cla
 >
 >Set indicator items support the `state` attribute selector, which can be used to apply different skins to different thumbnail states. In particular, `state="selected"` corresponds to the current element in the set; `state="unselected"` corresponds to the default item state.
 
-Example - to set up set indicator in dotted mode for desktop systems to be positioned 20 pixels from the bottom of the viewer. Unselected dots are black with 50% transparency, 15 x 15 pixels with 7 pixels rounded corners. Selected dots are black with 90% transparency, 18 x 18 pixels with 9 pixels rounded corners. Spacing between dots is 5 pixels.
+As an example, suppose you want to set up a set indicator in dotted mode for desktop systems. You want it to be positioned 20 pixels from the bottom of the viewer. And, you want unselected dots to be black with 50% transparency, 15 x 15 pixels with seven pixels rounded corners. Selected dots are black with 90% transparency, 18 x 18 pixels with nine pixels rounded corners. Spacing between dots is five pixels.
 
 ```
 .s7carouselviewer.s7mouseinput .s7setindicator { 
