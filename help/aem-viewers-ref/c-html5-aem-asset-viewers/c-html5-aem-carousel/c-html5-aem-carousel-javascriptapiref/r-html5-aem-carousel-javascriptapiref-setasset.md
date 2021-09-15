@@ -1,7 +1,7 @@
 ---
+title: setAsset
 description: JavaScript API reference for Carousel Viewer.
 solution: Experience Manager
-title: setAsset
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,User
 exl-id: e8aaee4e-56d5-46e4-8499-d5c9a6ba5d3b
@@ -20,9 +20,9 @@ See also [init](../../../c-html5-aem-asset-viewers/c-html5-aem-carousel/c-html5-
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> asset</span> </span> </p> </td> 
-   <td colname="col2"> <p>{<span class="codeph"> String</span>} new asset ID. </p> <p>Images which use IR (Image Rendering) or UGC (User-Generated Content) are not supported by this viewer. </p> </td> 
-  </tr> 
- </tbody> 
+   <td colname="col2"> <p>{<span class="codeph"> String</span>} new asset ID. </p> <p>Images which use IR (Image Rendering) or UGC (User-Generated Content) are not supported by this viewer. </p> </td>
+  </tr>
+ </tbody>
 </table>
 
 ## Returns {#section-1d3cf85bc7cc4dfe9670e038d02b9101}
@@ -36,3 +36,4 @@ Single image reference:
 ```
 <instance>.setAsset("/content/dam/dm-public-facing-live-demo-page/04_shoppable_carousel/05_shoppable_banner")
 ```
+

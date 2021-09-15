@@ -1,7 +1,7 @@
 ---
+title: setParam
 description: JavaScript API reference for Carousel Viewer.
 solution: Experience Manager
-title: setParam
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,User
 exl-id: 0829933f-a90b-4066-9904-748f2a727169
@@ -23,14 +23,14 @@ See also [xref](../../../c-html5-aem-asset-viewers/c-html5-aem-carousel/c-html5-
 <table id="table_896DFF34A68A403DB93A6D597461A573"> 
  <tbody> 
   <tr> 
-   <td colname="col1"> <p> <span class="codeph"> <span class="varname"> name </span> </span> </p> </td> 
-   <td colname="col2"> <p> <span class="codeph"> {string} </span> name of parameter. </p> </td> 
-  </tr> 
+   <td colname="col1"> <p> <span class="codeph"> <span class="varname"> name </span> </span> </p> </td>
+   <td colname="col2"> <p> <span class="codeph"> {string} </span> name of parameter. </p> </td>
+  </tr>
   <tr> 
-   <td colname="col1"> <p> <span class="codeph"> <span class="varname"> value </span> </span> </p> </td> 
-   <td colname="col2"> <p> <span class="codeph"> {string} </span> value of parameter. The value cannot be percent-encoded. </p> </td> 
-  </tr> 
- </tbody> 
+   <td colname="col1"> <p> <span class="codeph"> <span class="varname"> value </span> </span> </p> </td>
+   <td colname="col2"> <p> <span class="codeph"> {string} </span> value of parameter. The value cannot be percent-encoded. </p> </td>
+  </tr>
+ </tbody>
 </table>
 
 ## Returns {#section-1d3cf85bc7cc4dfe9670e038d02b9101}
