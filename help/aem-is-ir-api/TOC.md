@@ -8,7 +8,7 @@ user-guide-description: View documentation about IS (Image Serving) and IR (Imag
 
 # Dynamic Media Image Serving and Rendering API {#image-serving-api}
 
-+ [Dynamic Media Image Serving and Image Rendering API Home](homeisir.md)<!-- (https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/home.html?lang=en) -->
++ [Dynamic Media Image Serving and Image Rendering API Home](homeisir.md)<!-- (https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/homeisir.html) -->
 + [About this release](r-about-this-release.md)
 + [System requirements and prerequisites](r-requirements-and-prerequisites.md)
 + [Disk space requirements and recommendations](r-disk-space-reqs.md)

@@ -52,7 +52,7 @@ For complete documentation, see [https://experienceleague.adobe.com/docs/dynamic
 
 ## Viewers (Image Serving 5.5.3) {#section-1d59bcd5825d487b80b59a6d1a08ed30}
 
-For complete documentation, see [Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/home.html).
+For complete documentation, see [Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/homeviewers.html?lang=en).
 
 **Bug fixes for Image Serving 5.5.3**
 
@@ -62,7 +62,7 @@ For complete documentation, see [Viewers Reference Guide](https://experienceleag
 
 ## Viewers (Image Serving 5.5.2) {#section-9932c988cfee45749594af481dfc6476}
 
-For complete documentation, see [Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/home.html).
+For complete documentation, see [Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/homeviewers.html?lang=en).
 
 **Bug fixes for Image Serving 5.5.2**
 
@@ -71,7 +71,7 @@ For complete documentation, see [Viewers Reference Guide](https://experienceleag
 
 ## Viewers (Image Serving 5.5.1) {#section-833ab92c91c941d2bfdc27f233f582ad}
 
-For complete documentation, see [Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/home.html).
+For complete documentation, see [Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/homeviewers.html?lang=en).
 
 **New features, enhancements, and bug fixes for Image Serving 5.5.1**
 
