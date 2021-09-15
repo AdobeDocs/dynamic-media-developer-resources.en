@@ -1,7 +1,7 @@
 ---
+title: setContainerId
 description: JavaScript API reference for Carousel Viewer.
 solution: Experience Manager
-title: setContainerId
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,User
 exl-id: 32636cf9-3dc7-4299-a7b7-cf803ca36514
