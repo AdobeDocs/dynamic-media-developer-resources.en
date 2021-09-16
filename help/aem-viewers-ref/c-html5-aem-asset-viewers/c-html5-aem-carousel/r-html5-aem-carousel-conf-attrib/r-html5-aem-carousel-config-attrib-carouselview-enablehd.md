@@ -1,7 +1,7 @@
 ---
+title: CarouselView.enableHD
 description: CarouselView.enableHD
 solution: Experience Manager
-title: CarouselView.enableHD
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,User
 exl-id: c94ac151-3115-42ac-8a76-13b8769293cb
@@ -14,7 +14,7 @@ exl-id: c94ac151-3115-42ac-8a76-13b8769293cb
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> always|never|limit</span> </p> </td> 
-   <td colname="col2"> <p> Enable, limit or disable optimization for devices where <span class="codeph"> devicePixelRatio</span> is greater than <span class="codeph"> 1</span>, that is devices with high-density display like iPhone4 and similar devices. </p> <p>If active then the component limits the size of the IS image request as if the device only had a pixel ratio of <span class="codeph"> 1</span> and that way reducing the bandwidth. </p> <p>See example below. </p> </td> 
+   <td colname="col2"> <p> Enable, limit, or disable optimization for devices where <span class="codeph"> devicePixelRatio</span> is greater than <span class="codeph"> 1</span>, that is devices with high-density display like iPhone4 and similar devices. </p> <p>If active then the component limits the size of the IS image request as if the device only had a pixel ratio of <span class="codeph"> 1</span> and that way reducing the bandwidth. </p> <p>See example below. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"><span class="varname"> number</span></span> </p> </td> 

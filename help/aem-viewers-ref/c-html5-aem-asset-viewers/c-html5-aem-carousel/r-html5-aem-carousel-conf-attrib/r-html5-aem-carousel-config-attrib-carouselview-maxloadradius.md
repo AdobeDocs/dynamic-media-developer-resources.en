@@ -1,7 +1,7 @@
 ---
+title: CarouselView.maxloadradius
 description: CarouselView.maxloadradius
 solution: Experience Manager
-title: CarouselView.maxloadradius
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,User
 exl-id: 8a3d3d32-7970-420c-8ad8-296c9ba1f08a
@@ -14,7 +14,7 @@ exl-id: 8a3d3d32-7970-420c-8ad8-296c9ba1f08a
  <tbody> 
   <tr> 
    <td> <p> <span class="codeph"> -1|0|<span class="varname"> preloadnbr</span></span> </p> </td> 
-   <td> <p>Specifies the component preload behavior. </p> <p>When set to <span class="codeph"> -1</span> the component will preload all carousel frames when in an idle state. </p> <p>When set to <span class="codeph"> 0</span> the component loads only the frame that is currently visible, previous, and next frame. </p> <p><span class="codeph"><span class="varname"> preloadnbr</span></span>defines how many invisible frames around the currently displayed frame are preloaded when in an idle state. </p> </td> 
+   <td> <p>Specifies the component preload behavior. </p> <p>When set to <span class="codeph"> -1</span> the component preloads all carousel frames when in an idle state. </p> <p>When set to <span class="codeph"> 0</span> the component loads only the frame that is currently visible, previous, and next frame. </p> <p><span class="codeph"><span class="varname"> preloadnbr</span></span>defines how many invisible frames around the currently displayed frame are preloaded when in an idle state. </p> </td> 
   </tr> 
  </tbody> 
 </table>
