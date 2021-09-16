@@ -1,7 +1,7 @@
 ---
+title: ControlBar.transition
 description: Configuration attribute for Carousel Viewer.
 solution: Experience Manager
-title: ControlBar.transition
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,User
 exl-id: 260a1767-e49a-46e3-9c3d-23efa5c3228e

@@ -1,7 +1,7 @@
 ---
+title: CarouselView.fmt
 description: CarouselView.fmt
 solution: Experience Manager
-title: CarouselView.fmt
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,User
 exl-id: a43ca095-2a59-4a0c-a460-f465cbd4ed5f

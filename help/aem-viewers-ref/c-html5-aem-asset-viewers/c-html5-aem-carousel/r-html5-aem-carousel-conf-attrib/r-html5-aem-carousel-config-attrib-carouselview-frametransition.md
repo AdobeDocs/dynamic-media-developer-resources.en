@@ -1,7 +1,7 @@
 ---
+title: CarouselView.frametransition
 description: CarouselView.frametransition
 solution: Experience Manager
-title: CarouselView.frametransition
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,User
 exl-id: 771395fb-775d-462e-86dc-0600cfecb345
@@ -14,7 +14,7 @@ exl-id: 771395fb-775d-462e-86dc-0600cfecb345
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> none|fade|slide </span> </p> </td> 
-   <td colname="col2"> <p>Specifies the type of the effect applied on frame change. <span class="codeph"> none </span> stands for no transition; frame change happens instantly. </p> <p> <span class="codeph"> fade </span> means cross-fade transition between old and new frames. </p> <p> <span class="codeph"> slide </span> activates transition where the old frame slides out of the view and the new frame slides in. </p> </td> 
+   <td colname="col2"> <p>Specifies the type of the effect applied on frame change. For example, <span class="codeph"> none </span> stands for no transition; frame change happens instantly. And, </p> <p> <span class="codeph"> fade </span> means cross-fade transition between old and new frames. Finally, </p> <p> <span class="codeph"> slide </span> activates transition where the old frame slides out of the view and the new frame slides in. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> duration </span> </span> </p> </td> 
@@ -22,7 +22,7 @@ exl-id: 771395fb-775d-462e-86dc-0600cfecb345
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> spacing </span> </span> </p> </td> 
-   <td colname="col2"> <p>The spacing between adjacent frames in <span class="codeph"> slide </span> transition, has the range between <span class="codeph"> 0 </span> and <span class="codeph"> 1 </span> and is relative to component's width. </p> </td> 
+   <td colname="col2"> <p>The spacing between adjacent frames in <span class="codeph"> slide </span> transition, has the range from <span class="codeph"> 0 </span> through <span class="codeph"> 1 </span> and is relative to component's width. </p> </td> 
   </tr> 
  </tbody> 
 </table>

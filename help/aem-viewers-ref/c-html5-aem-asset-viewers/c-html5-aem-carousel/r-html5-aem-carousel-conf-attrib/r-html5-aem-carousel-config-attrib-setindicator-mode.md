@@ -1,7 +1,7 @@
 ---
+title: SetIndicator.mode
 description: SetIndicator.mode
 solution: Experience Manager
-title: SetIndicator.mode
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,User
 exl-id: f228cf05-8b74-4f85-a02e-3bc084581529
@@ -14,7 +14,7 @@ exl-id: f228cf05-8b74-4f85-a02e-3bc084581529
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> numeric|dotted</span> </p> </td> 
-   <td colname="col2"> <p> Configures the rendering style of the set indicator. </p> <p>When set to <span class="codeph"> dotted</span> the component renders identical indicators for all pages. </p> <p>When set to <span class="codeph"> numeric</span> it puts a 1-based page number inside each indicator element. </p> <p>The <span class="codeph"> numeric</span> operation mode is not supported on devices that are capable of touch input. Instead, the component uses <span class="codeph"> dotted</span> on such devices. </p> </td> 
+   <td colname="col2"> <p> Configures the rendering style of the set indicator. </p> <p>When set to <span class="codeph"> dotted </span>, the component renders identical indicators for all pages. </p> <p>When set to <span class="codeph"> numeric</span> it puts a 1-based page number inside each indicator element. </p> <p>The <span class="codeph"> numeric</span> operation mode is not supported on devices that have touch input. Instead, the component uses <span class="codeph"> dotted</span> on such devices. </p> </td> 
   </tr> 
  </tbody> 
 </table>
