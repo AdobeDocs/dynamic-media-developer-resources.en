@@ -1,7 +1,7 @@
 ---
+title: Event callbacks
 description: Event callbacks
 solution: Experience Manager
-title: Event callbacks
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,User
 exl-id: e87b2a84-735c-4412-a4dd-97b18474a1d2
@@ -39,7 +39,7 @@ Supported viewer events include the following:
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> quickViewActivate </span> </p> </td> 
-   <td colname="col2"> <p> Triggers when the user activates a hotspot with Quick View data associated with it. The callback handler takes the following argument: </p> <p> 
+   <td colname="col2"> <p> Triggers when the user activates a hotspot with Quickview data associated with it. The callback handler takes the following argument: </p> <p> 
      <ul id="ul_171110934BD54839B371FAD8D2AD467B"> 
       <li id="li_7B14C3BA432B43E392AC103926807E88"> <p> <span class="codeph"> data {Object} </span> - a JSON object containing data from the hotspot definition. The field <span class="codeph"> sku </span> is mandatory while other fields are optional and depend on the source hotspot definition. </p> </li> 
      </ul> </p> </td> 
