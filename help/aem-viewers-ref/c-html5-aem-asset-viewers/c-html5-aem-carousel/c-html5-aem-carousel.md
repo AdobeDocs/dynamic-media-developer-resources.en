@@ -1,14 +1,14 @@
 ---
-description: Carousel Viewer is a viewer that displays a carousel of non-zoomable banner images with clickable hotspots or regions. The purpose of this viewer is to implement a "shoppable carousel" experience where users can select a hotspot or a region over the banner image and get redirected to a Quickview or product detail page on the customer's website. It is designed to work on desktops and mobile devices.
-solution: Experience Manager
 title: Carousel
+description: Carousel Viewer is a viewer that displays a carousel of non-zoomable banner images with clickable hotspots or regions. This viewer can help you implement a "shoppable carousel" experience where users can select a hotspot or a region over the banner image. They can get redirected to a Quickview or product detail page on the customer's website. It is designed to work on desktops and mobile devices.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,User
 exl-id: d506dc6e-8929-4f7f-a205-1683e77681f1
 ---
 # Carousel{#carousel}
 
-Carousel Viewer is a viewer that displays a carousel of non-zoomable banner images with clickable hotspots or regions. The purpose of this viewer is to implement a "shoppable carousel" experience where users can select a hotspot or a region over the banner image and get redirected to a Quickview or product detail page on the customer's website. It is designed to work on desktops and mobile devices.
+Carousel Viewer is a viewer that displays a carousel of non-zoomable banner images with clickable hotspots or regions. This viewer can help you implement a "shoppable carousel" experience where users can select a hotspot or a region over the banner image. They can get redirected to a Quickview or product detail page on the customer's website. It is designed to work on desktops and mobile devices.
 
 >[!NOTE]
 >
@@ -72,11 +72,11 @@ In the embedded mode, the viewer is added to the existing web page. This web pag
 
 The primary use cases are web pages oriented for desktops or tablet devices, and responsive designed pages that adjust layout automatically depending on the device type.
 
-Fixed size embedding is used when the viewer does not change its size after initial load. This is the best choice for web pages that have a static layout.
+Fixed size embedding is used when the viewer does not change its size after initial load. This method is the best choice for web pages that have a static layout.
 
-Responsive design embedding assumes that the viewer may need to resize at runtime in response to the size change of its container `DIV`. The most common use case is adding a viewer to a web page that uses a flexible page layout.
+Responsive design embedding assumes that the viewer must resize at runtime in response to the size change of its container `DIV`. The most common use case is adding a viewer to a web page that uses a flexible page layout.
 
-In responsive design embedding mode, the viewer behaves differently depending on the way web page sizes its container `DIV`. If the web page sets only the width of the container `DIV`, leaving its height unrestricted, the viewer automatically chooses its height according to the aspect ratio of the asset used. This functionality ensures that the asset fits perfectly into the view without any padding on the sides. This use case is the most common for web pages using responsive web design layout frameworks like Bootstrap, Foundation, and so on.
+In responsive design embedding mode, the viewer behaves differently depending on the way web page sizes its container `DIV`. If the web page sets only the width of the container `DIV`, leaving its height unrestricted, the viewer automatically chooses its height according to the aspect ratio of the asset used. This functionality ensures that the asset fits perfectly into the view without any padding on the sides. This use case is the most common for web pages using responsive web design layout frameworks like Bootstrap and Foundation.
 
 Otherwise, if the web page sets both the width and the height for the viewer's container `DIV`, the viewer fills just that area. It also follows the size that the web page layout provides. A good example is embedding the viewer into a modal overlay, where the overlay is sized according to web browser window size.
 
@@ -105,7 +105,7 @@ You add the viewer to a web page by doing the following:
 
    >[!NOTE]
    >
-   >You should only reference the main viewer JavaScript `include` file on your page. You should not reference any additional JavaScript files in the web page code which might be downloaded by the viewer's logic in runtime. In particular, do not directly reference HTML5 SDK `Utils.js` library loaded by the viewer from `/s7viewers` context path (so-called consolidated SDK `include`). The reason is that the location of `Utils.js` or similar runtime viewer libraries is fully managed by the viewer's logic and the location changes between viewer releases. Adobe does not keep older versions of secondary viewer `includes` on the server. 
+   >Only reference the main viewer JavaScript `include` file on your page. Do not reference any additional JavaScript files in the web page code which might be downloaded by the viewer's logic in runtime. In particular, do not directly reference HTML5 SDK `Utils.js` library loaded by the viewer from `/s7viewers` context path (so-called consolidated SDK `include`). The reason is that the location of `Utils.js` or similar runtime viewer libraries is fully managed by the viewer's logic and the location changes between viewer releases. Adobe does not keep older versions of secondary viewer `includes` on the server. 
    >
    >
    >As a result, putting a direct reference to any secondary JavaScript `include` used by the viewer on the page breaks the viewer functionality in the future when a new product version is deployed.
@@ -126,7 +126,7 @@ You add the viewer to a web page by doing the following:
 
    You can set the static size for the viewer by either declaring it for `.s7carouselviewer` top-level CSS class in absolute units, or by using `stagesize` modifier.
 
-   You can put sizing in CSS directly on the HTML page, or in a custom viewer CSS file, which is then later assigned to a viewer preset record in AEM Assets - on-demand, or passed explicitly using the `style` command.
+   You can put sizing in CSS directly on the HTML page. Or, you can put sizing in a custom viewer CSS file, which is then later assigned to a viewer preset record in AEM Assets - On-demand, or passed explicitly using the `style` command.
 
    See [Customizing Carousel Viewer](../../c-html5-aem-asset-viewers/c-html5-aem-carousel/c-html5-aem-carousel-customizingviewer/c-html5-aem-carousel-customizingviewer.md#concept-73a8546acdb444a387c49969ceca57d0) for more information about styling the viewer with CSS.
 
@@ -153,7 +153,7 @@ You add the viewer to a web page by doing the following:
 
    It is important to have the viewer container added to the DOM so that the viewer code can find the container element by its ID. Some browsers delay building DOM until the end of the web page. For maximum compatibility, call the `init()` method just before the closing `BODY` tag, or on the body `onload()` event.
 
-   At the same time, the container element should not necessarily be part of the web page layout just yet. For example, it may be hidden using `display:none` style assigned to it. In this case, the viewer delays its initialization process until the moment when the web page brings the container element back to the layout. When this happens, the viewer load automatically resumes.
+   At the same time, the container element should not necessarily be part of the web page layout yet. For example, it may be hidden using `display:none` style assigned to it. In this case, the viewer delays its initialization process until the moment when the web page brings the container element back to the layout. When this functionality occurs, the viewer load automatically resumes.
 
    The following is an example of creating a viewer instance, passing minimum necessary configuration options to the constructor and calling the `init()` method. The example assumes `carouselViewer` is the viewer instance; `s7viewer` is the name of placeholder `DIV`; `https://adobedemo62-h.assetsadobe.com/is/image` is the Image Serving URL, and `/content/dam/dm-public-facing-live-demo-page/04_shoppable_carousel/05_shoppable_banner` is the asset:
 
@@ -260,7 +260,7 @@ The following examples page illustrates more real-life uses of responsive design
 
 **Flexible size Embedding with Width and Height Defined**
 
-In case of flexible-size embedding with width and height defined, the web page styling is different. It provides both sizes to the `"holder"` DIV and center it in the browser window. Also, the web page sets the size of the `HTML` and `BODY` element to 100 percent.
+In flexible-size embedding with width and height defined, the web page styling is different. It provides both sizes to the `"holder"` DIV and center it in the browser window. Also, the web page sets the size of the `HTML` and `BODY` element to 100 percent.
 
 ```
 <!DOCTYPE html> 

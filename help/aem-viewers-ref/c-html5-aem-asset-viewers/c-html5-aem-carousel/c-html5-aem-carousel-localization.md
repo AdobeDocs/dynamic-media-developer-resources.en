@@ -1,16 +1,16 @@
 ---
-description: Certain content that the Carousel Viewer displays is subject to localization. This includes slide navigation buttons.
-solution: Experience Manager
 title: Localization of user interface elements
+description: Certain content that the Carousel Viewer displays is subject to localization. This content includes slide navigation buttons.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,User
 exl-id: 05f5abe0-1124-4114-864d-440699bcdc39
 ---
 # Localization of user interface elements{#localization-of-user-interface-elements}
 
-Certain content that the Carousel Viewer displays is subject to localization. This includes slide navigation buttons.
+Certain content that the Carousel Viewer displays is subject to localization. This content includes slide navigation buttons.
 
-Every textual content in the viewer that can be localized is represented by the special Viewer SDK identifier called SYMBOL. Any SYMBOL has a default associated text value for an English locale ( `"en"`) supplied with the out-of-the-box viewer, and also may have user-defined values set for as many locales as needed.
+Every textual content in the viewer that can be localized is represented by the special Viewer SDK identifier called SYMBOL. Any SYMBOL has a default associated text value for an English locale ( `"en"`) supplied with the out-of-the-box viewer, and may also have user-defined values set for as many locales as needed.
 
 When the viewer starts, it checks the current locale to see if there is a user-defined value for each supported SYMBOL for such locale. If there is, it uses the user-defined value; otherwise, it falls back to the out-of-the-box default text.
 
@@ -60,7 +60,7 @@ The following SYMBOLs are supported:
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> Container.LABEL </span> </p> </td> 
-   <td colname="col2"> <p> ARIA label for top level viewer element. </p> </td> 
+   <td colname="col2"> <p> ARIA label for top-level viewer element. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> CarouselView.ROLE_DESCRIPTION </span> </p> </td> 

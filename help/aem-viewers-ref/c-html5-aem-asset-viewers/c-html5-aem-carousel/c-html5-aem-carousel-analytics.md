@@ -1,7 +1,7 @@
 ---
+title: Support for Adobe Analytics tracking
 description: Support for Adobe Analytics tracking
 solution: Experience Manager
-title: Support for Adobe Analytics tracking
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,User,Data Engineer,Data Architect
 exl-id: 9e321684-4861-4d81-b55c-66c77635930e
