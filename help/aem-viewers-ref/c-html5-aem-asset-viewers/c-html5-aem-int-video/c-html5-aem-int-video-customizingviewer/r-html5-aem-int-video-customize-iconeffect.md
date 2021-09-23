@@ -1,7 +1,7 @@
 ---
+title: Icon effect
 description: The play icon is overlaid on the main view area. It displays when the video is paused, or when the end of the video is reached, and it also depends on the iconeffect parameter.
 solution: Experience Manager
-title: Icon effect
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: bbb35286-fdb6-4329-a837-17fe8f976276
@@ -41,11 +41,11 @@ The appearance of the play icon is controlled with the following CSS class selec
  </tbody> 
 </table>
 
-Icon effect supports the `state` attribute selector. `state="play"` is used when the video is paused in the middle of playback, and `state="replay"` is used when the play head is in the end of the stream.
+Icon effect supports the `state` attribute selector. The attribute `state="play"` is used when the video is paused in the middle of playback, and `state="replay"` is used when the play head is in the end of the stream.
 
 ## Example {#section-e8caea0a303c425a8a637c2a47c06355}
 
-Setup a 100 x 100 pixel play icon.
+Set up a 100 x 100 pixel play icon.
 
 ```
 .s7interactivevideoviewer .s7videoplayer .s7iconeffect { 

@@ -1,7 +1,7 @@
 ---
+title: Call to action
 description: The Call to action panel appears when the video ends and displays all interactive swatches associated with the particular video.
 solution: Experience Manager
-title: Call to action
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: 43e0ffb3-d650-4b79-ab48-2f32b313b832
@@ -181,11 +181,11 @@ The following CSS class selector controls the appearance of the close button in 
 
 >[!NOTE]
 >
->This button support the `state` attribute selector, which can be used to apply different skins to different button states.
+>This button supports the `state` attribute selector, which can be used to apply different skins to different button states.
 
 ## Example {#example-3}
 
-To set up a replay button that is 28 x 28 pixels; positioned 20 pixels from the top and from the right edge of the header; displays a different image for each of the four different button states; takes the artwork from the component's sprite image:
+To set up a replay button that is 28 x 28 pixels. The button must be positioned 20 pixels from the top and from the right edge of the header. And, it must display a different image for each of the four different button states; takes the artwork from the component's sprite image:
 
 ```
 .s7interactivevideoviewer .s7calltoaction .s7closebutton { 
@@ -249,7 +249,7 @@ The following CSS class selector controls the appearance of the thumb cell in th
 .s7interactivevideoviewer .s7calltoaction .s7thumbcell
 ```
 
-## CSS properties of the thumbcell in the call to action panel: {#css-properties-of-the-thumbcell-in-the-call-to-action-panel}
+## CSS properties of the thumb cell in the call to action panel: {#css-properties-of-the-thumbcell-in-the-call-to-action-panel}
 
 <table id="table_9CEBEF6FC7024F02840A581AEEF612B4"> 
  <tbody> 
@@ -348,7 +348,7 @@ The following CSS class selector controls the appearance of the thumbnail label 
 
 ## Example {#example-7}
 
-To set up labels that use a white color, be center-aligned 15 pixels, and use an Arial font:
+To set up labels that use a white color, be center-aligned 15 pixels, and use an Arial® font:
 
 ```
 .s7interactivevideoviewer .s7calltoaction .s7label { 

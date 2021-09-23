@@ -1,7 +1,7 @@
 ---
+title: Interactive swatches
 description: The interactive swatches panel appears next to the video content if interactive data was passed to the viewer in configuration. It consists of a banner at the top that renders text such as "Click to View", a column of one or more interactive swatches and two scroll buttons (available only on desktop systems).
 solution: Experience Manager
-title: Interactive swatches
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: c9ef02eb-f5db-474b-b234-c49508e2af35
@@ -34,7 +34,7 @@ The following CSS class selector controls the location and orientation of the in
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> top </span> </p> </td> 
-   <td colname="col2"> <p>Top position of he interactive swatches panel. </p> </td> 
+   <td colname="col2"> <p>Top position of the interactive swatches panel. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> bottom </span> </p> </td> 
@@ -56,11 +56,11 @@ The run-time location and orientation of the interactive swatches panel is defin
 * To render interactive swatches horizontally at the bottom of the viewer, set the height to an absolute pixel value; left and bottom to 0px; width, right, and top to auto. 
 * To render interactive swatches vertically to the right of the video content, set the width to an absolute pixel; right and top to 0px; height, left and bottom to auto.
 
-It is possible to use CSS markers in conjunction with this styling to achieve adaptive placement of the interactive swatches panel.
+It is possible to use CSS markers with this styling to achieve adaptive placement of the interactive swatches panel.
 
 ## Example {#example}
 
-To set up an interactive swatches panel to render horizontally at the bottom of the viewer on touch devices in landscape orientation and to show vertically to the right of the video content in all other cases:
+To set up an interactive swatches panel to render horizontally at the bottom of the viewer on touch devices in landscape orientation. And, to show it vertically to the right of the video content in all other cases:
 
 ```
 .s7interactivevideoviewer.s7touchinput.s7device_landscape .s7interactiveswatches, 
@@ -186,7 +186,7 @@ The following CSS class selector controls the spacing between swatch thumbnails:
 
 ## Example {#section-39fb270b7e494a9d99e6e8f6890ec53c}
 
-To set up vertical spacing to be 10 pixels:
+To set up vertical spacing to be ten pixels:
 
 ```
 .s7interactivevideoviewer .s7interactiveswatches .s7swatches .s7thumbcell { 
@@ -261,7 +261,7 @@ The following CSS class selector controls the appearance of the thumbnail label:
 
 ## Example {#section-eb141eb6c1154183baa69796edb90536}
 
-To set up labels to use left-aligned, white, 12 pixels, in Helvetica font, and a bottom border:
+To set up labels to use left-aligned, white, 12 pixels, in Helvetica® font, and a bottom border:
 
 ```
 .s7interactivevideoviewer .s7interactiveswatches .s7swatches .s7label { 
