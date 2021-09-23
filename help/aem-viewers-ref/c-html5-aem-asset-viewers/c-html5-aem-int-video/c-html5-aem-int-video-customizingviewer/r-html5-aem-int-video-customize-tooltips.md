@@ -1,14 +1,14 @@
 ---
-description: On desktop systems some user interface elements such as buttons have tooltips that are displayed on mouse hover.
-solution: Experience Manager
 title: Tooltips
+description: On desktop systems, some user interface elements such as buttons have tooltips that are displayed on mouse hover.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: 430809d8-3d51-49b7-b6bf-c3c3c77501ff
 ---
 # Tooltips{#tooltips}
 
-On desktop systems some user interface elements such as buttons have tooltips that are displayed on mouse hover.
+On desktop systems, some user interface elements such as buttons have tooltips that are displayed on mouse hover.
 
 <!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
@@ -57,11 +57,11 @@ The appearance of tooltips is controlled with the following CSS class selector:
 
 >[!NOTE]
 >
->In case tooltip styles are customized from within the embedding web page, all properties must contain the `!IMPORTANT` rule. This is not necessary if tooltips are customized within the viewer's CSS file.
+>In case tooltip styles are customized from within the embedding web page, all properties must contain the `!IMPORTANT` rule. This note is not necessary if tooltips are customized within the viewer's CSS file.
 
 ## Example {#section-59e009fd05b14019936aba04d7ca779d}
 
-To set up tooltips that have a grey border with a three pixel corner radius, black background, and white text in Arial, 11 pixels:
+To set up tooltips that have a grey border with a three pixel corner radius, black background, and white text in Arial®, 11 pixels:
 
 ```
 .s7tooltip { 

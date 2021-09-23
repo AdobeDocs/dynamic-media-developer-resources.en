@@ -1,8 +1,8 @@
 ---
+title: Customizing Interactive Video Viewer
 description: All visual customization and most behavior customization for the Interactive Video Viewer is done by creating a custom CSS.
 keywords: responsive
 solution: Experience Manager
-title: Customizing Interactive Video Viewer
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: c428c3e6-81be-4708-b064-f9d794183209
@@ -25,25 +25,25 @@ Custom CSS file must contain the same class declarations as the default one. If 
 
 An alternative way to provide custom CSS rules is to use embedded styles directly on the web page or in one of linked external CSS rules.
 
-When creating custom CSS keep in mind that the viewer assigns `.s7interactivevideoviewer` class to its container DOM element. If you are using external CSS file passed with `style=` command, use `.s7interactivevideoviewer` class as parent class in descendant selector for your CSS rules. If you are doing embedded styles on the web page, additionally qualify this selector with an ID of the container DOM element as follows:
+When creating custom CSS, keep in mind that the viewer assigns `.s7interactivevideoviewer` class to its container DOM element. If you are using external CSS file passed with `style=` command, use `.s7interactivevideoviewer` class as parent class in descendant selector for your CSS rules. If you are doing embedded styles on the web page, qualify this selector with an ID of the container DOM element as follows:
 
 `#<containerId>.s7interactivevideoviewer`
 
 ## Building responsive designed CSS {#section-0bb49aca42d242d9b01879d5ba59d33b}
 
-It is possible to target different devices and embedding sizes in CSS to make your content display differently depending on a user's device or a particular web page layout. This includes, but is not limited to, different layouts, user interface element sizes, and artwork resolution.
+It is possible to target different devices and embedding sizes in CSS to make your content display differently depending on a user's device or a particular web page layout. This method includes, but is not limited to, different layouts, user interface element sizes, and artwork resolution.
 
-The viewer supports two mechanisms of creating responsive designed CSS: CSS markers and standard CSS media queries. You can use these independently or together.
+The viewer supports two mechanisms of creating responsive designed CSS: CSS markers and standard CSS media queries. You can use these mechanisms independently or together.
 
 **CSS markers**
 
-To assist in creating responsive designed CSS, the viewer supports CSS markers. These are special CSS classes that are dynamically assigned to the top-level viewer container element based on the run-time viewer size and the input type used on the current device.
+To help with creating responsive designed CSS, the viewer supports CSS markers. These markers are special CSS classes. They are dynamically assigned to the top-level viewer container element based on the run-time viewer size and the input type used on the current device.
 
-The first group of CSS markers includes `.s7size_large`, `.s7size_medium`, and `.s7size_small` classes. They are applied based on the run-time area of the viewer container. If the viewer area is equal or bigger than the size of a common desktop monitor then `.s7size_large` is used; if the area is close to a common tablet device then `.s7size_medium` is assigned. For areas similar to mobile phone screens then `.s7size_small` is set. The primary purpose of these CSS markers is to create different user interface layouts for different screens and viewer sizes.
+The first group of CSS markers includes `.s7size_large`, `.s7size_medium`, and `.s7size_small` classes. They are applied based on the run-time area of the viewer container. If the viewer area is equal to or bigger than the size of a common desktop monitor, then `.s7size_large` is used; if the area is close to a common tablet device then `.s7size_medium` is assigned. For areas similar to mobile phone screens, `.s7size_small` is set. The primary purpose of these CSS markers is to create different user interface layouts for different screens and viewer sizes.
 
-The second group of CSS Markers contains `.s7mouseinput` and `.s7touchinput`. `.s7touchinput` is set if the current device has touch input capabilities; otherwise, `.s7mouseinput` is used. These markers are mostly intended to create user interface input elements with different screen sizes for different input types, because normally touch input requires larger elements.
+The second group of CSS Markers contains `.s7mouseinput` and `.s7touchinput`. The marker `.s7touchinput` is set if the current device has touch input capabilities; otherwise, `.s7mouseinput` is used. These markers are mostly intended to create user interface input elements with different screen sizes for different input types, because normally touch input requires larger elements.
 
-The third group of CSS Markers contains `.s7device_landscape` and `.s7device_portrait`. `.s7device_landscape` is set if the touch device is in landscape orientation; `.s7device_portrait` is used when the touch device is rotated to portrait orientation. These CSS markers are intended for use on desktop systems only.
+The third group of CSS Markers contains `.s7device_landscape` and `.s7device_portrait`. The marker `.s7device_landscape` is set if the touch device is in landscape orientation; `.s7device_portrait` is used when the touch device is rotated to portrait orientation. These CSS markers are intended for use on desktop systems only.
 
 The following sample CSS sets the play/pause button size to 28x28 pixels on systems with mouse input and 56x56 pixels on touch devices. In addition, it hides the button completely if the viewer size is reduced significantly:
 
@@ -61,7 +61,7 @@ The following sample CSS sets the play/pause button size to 28x28 pixels on syst
 }
 ```
 
-In this next example, the video control bar is position 138 pixels above the bottom of the viewer if the touch device is in portrait orientation, and move it to the very bottom of the viewer in all other cases:
+In this next example, the video control bar is position 138 pixels above the bottom of the viewer if the touch device is in portrait orientation. It is moved to the bottom of the viewer in all other cases:
 
 ```
 .s7interactivevideoviewer.s7touchinput.s7device_landscape .s7controlbar, 
@@ -73,7 +73,7 @@ In this next example, the video control bar is position 138 pixels above the bot
 }
 ```
 
-To target devices with different pixel density you need to use CSS media queries. The following media query block would contain CSS specific to high-density screens:
+To target devices with different pixel density, you must use CSS media queries. The following media query block would contain CSS specific to high-density screens:
 
 ```
 @media screen and (-webkit-min-device-pixel-ratio: 1.5) 
@@ -102,7 +102,7 @@ When applied to Mobile Viewers use four CSS media queries, defined in your CSS, 
    }
    ```
 
-1. Contains only rules specific for tablets with high resolution screens.
+1. Contains only rules specific for tablets with high-resolution screens.
 
    ```
    @media only screen and (max-device-width:13.5in) and (max-device-height:13.5in) and (max-device-width:799px) and (-webkit-min-device-pixel-ratio:1.5), 
@@ -119,7 +119,7 @@ When applied to Mobile Viewers use four CSS media queries, defined in your CSS, 
    }
    ```
 
-1. Contains only rules specific for mobile phones with high resolution screens.
+1. Contains only rules specific for mobile phones with high-resolution screens.
 
    ```
    @media only screen and (max-device-width:9in) and (max-device-height:9in) and (-webkit-min-device-pixel-ratio: 1.5), 
@@ -138,7 +138,7 @@ There is no need to duplicate the entire viewer CSS in each media query. Only pr
 
 ## CSS Sprites {#section-9b6d8d601cb441d08214dada7bb4eddc}
 
-Many viewer user interface elements are styled using bitmap artwork and have more than one distinct visual state. A good example is a button that normally has at least 3 different states: "up", "over", and "down". Each state requires its own bitmap artwork assigned.
+Many viewer user interface elements are styled using bitmap artwork and have more than one distinct visual state. A good example is a button that normally has at least three different states: "up", "over", and "down". Each state requires its own bitmap artwork assigned.
 
 With a classic approach to styling, the CSS would have a separate reference to individual image file on the server for each state of the user interface element. The following is a sample CSS for styling a full-screen button:
 
@@ -183,7 +183,7 @@ background-image:url(images/v2/ReplayButton_disabled.png);
 
 The drawback to this approach is that the end user experiences flickering or delayed user interface response when the element is interacted with for the first time. This action occurs because the image artwork for the new element state is not yet downloaded. Also, this approach may have a slight negative impact on performance because of an increase in the number of HTTP calls to the server.
 
-CSS sprites is a different approach where image artwork for all element states is combined into a single PNG file called a "sprite". Such "sprite" has all visual states for the given element positioned one after another. When styling a user interface element with sprites the same sprite image is referenced for all different states in the CSS. Also, the `background-position` property is used for each state to specify which part of the "sprite" image is used. You can structure a "sprite" image in any suitable way. Viewers normally have it vertically stacked. Below is a "sprite"-based example of styling the same full-screen button earlier:
+CSS sprites is a different approach where image artwork for all element states is combined into a single PNG file called a "sprite". Such "sprite" has all visual states for the given element positioned one after another. When styling a user interface element with sprites, the same sprite image is referenced for all different states in the CSS. Also, the `background-position` property is used for each state to specify which part of the "sprite" image is used. You can structure a "sprite" image in any suitable way. Viewers normally have it vertically stacked. Below is a "sprite"-based example of styling the same full-screen button earlier:
 
 ```
 .s7interactivevideoviewer .s7fullscreenbutton[state][selected]{ 
@@ -217,7 +217,7 @@ background-position: -0px -1120px;
 
 ## General styling notes and advice {#section-95855dccbbc444e79970f1aaa3260b7b}
 
-* When customizing the viewer user interface with CSS the use of the `!IMPORTANT` rule is not supported to style viewer elements. In particular, `!IMPORTANT` rule should not be used to override any default or run-time styling provided by the viewer or Viewer SDK. The reason is that it may affect the behavior of proper components. Instead, you should use CSS selectors with the proper specificity to set CSS properties that are documented in this reference guide. 
+* When customizing the viewer user interface with CSS, the use of the `!IMPORTANT` rule is not supported to style viewer elements. In particular, `!IMPORTANT` rule should not be used to override any default or run-time styling provided by the viewer or Viewer SDK. The reason is that it may affect the behavior of proper components. Instead, you should use CSS selectors with the proper specificity to set CSS properties that are documented in this reference guide. 
 
 * All paths to external assets within CSS are resolved against the CSS location, not the viewer HTML page location. Be aware of this rule when you copy the default CSS to a different location. Either copy the default assets as well or update paths within the custom CSS. 
 * The preferred format for bitmap artwork is PNG. 

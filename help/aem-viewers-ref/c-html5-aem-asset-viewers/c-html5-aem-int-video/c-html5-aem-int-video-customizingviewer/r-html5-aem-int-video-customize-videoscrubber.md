@@ -1,7 +1,7 @@
 ---
+title: Video scrubber
 description: The video scrubber is the horizontal slider control that lets a user dynamically seek to any time position within the currently playing video.
 solution: Experience Manager
-title: Video scrubber
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: 9d11f2e9-315c-44d8-beb1-530d2b316604
@@ -12,7 +12,7 @@ The video scrubber is the horizontal slider control that lets a user dynamically
 
 <!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
-The scrubber 'knob' also moves as the video plays to indicate the current time position of the video during playback. The video scrubber always takes the whole width of the control bar. It is possible to skin the video scrubber. change its height and vertical position, by CSS.
+The scrubber 'knob' also moves as the video plays to indicate the current time position of the video during playback. The video scrubber always takes the whole width of the control bar. It is possible to skin the video scrubber and change its height and vertical position, by CSS.
 
 The general appearance of the video scrubber is controlled with the following CSS class selector:
 
@@ -152,7 +152,7 @@ The following CSS class selector controls the time played bubble:
 
 The video scrubber tool tip can be localized. See [Localization of user interface elements](../../../c-html5-aem-asset-viewers/c-html5-aem-int-video/c-html5-aem-int-video-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
 
-**Example** - To set up a video viewer with a video scrubber with custom track colors that is 10 pixels tall, and positioned 10 pixels and 35 pixels from the top and left edges of the control bar.
+**Example** - To set up a video viewer with a video scrubber and with custom track colors that are ten pixels tall. Position it ten pixels and 35 pixels from the top and left edges of the control bar.
 
 ```
 .s7interactivevideoviewer .s7videoscrubber  { 
@@ -175,7 +175,7 @@ background-color:#888888;
 }
 ```
 
-When video chaptering is enabled with the `navigation` parameter, chapter locations are displayed as markers on top of the video scrubber track.
+When video chapter marker is enabled with the `navigation` parameter, chapter locations are displayed as markers on top of the video scrubber track.
 
 The video chapter marker is controlled by the following CSS class selector:
 
@@ -424,7 +424,7 @@ The video chapter description is controlled by the following CSS class selector:
  </tbody> 
 </table>
 
-**Example** - To set up video chapter description using a dark gray, 11 pixel Verdana font, with a light gray background; 5 pixel line height, 12 pixel horizontal padding, 12 pixel top padding, and 9 pixel bottom padding.
+**Example** - To set up video chapter description using a dark gray, 11 pixel Verdana font, with a light gray background. A five pixel line height, 12 pixel horizontal padding, 12 pixel top padding, and nine pixel bottom padding.
 
 ```
 .s7interactivevideoviewer .s7videoscrubber .s7chapter .s7description { 
@@ -449,7 +449,7 @@ The wedge connector within the bottom of the chapter bubble is controlled by the
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> border-color </span> </p> </td> 
-   <td colname="col2"> <p>Wedge connector color. </p> <p>Defined as <span class="codeph"> &lt;color&gt; transparent transparent </span> so that only the top border color is defined and the remaining borders are left transparent. </p> </td> 
+   <td colname="col2"> <p>Wedge connector color. </p> <p>Defined as <span class="codeph"> &lt;color&gt; transparent </span> so that only the top border color is defined and the remaining borders are left transparent. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> border-width </span> </p> </td> 
@@ -457,7 +457,7 @@ The wedge connector within the bottom of the chapter bubble is controlled by the
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> margin </span> </p> </td> 
-   <td colname="col2"> <p> Defines a negative bottom margin only. It should have the same value as that of <span class="codeph"> border-width </span>. </p> </td> 
+   <td colname="col2"> <p> Defines a negative bottom margin only. It should have the same value as <span class="codeph"> border-width </span>. </p> </td> 
   </tr> 
  </tbody> 
 </table>

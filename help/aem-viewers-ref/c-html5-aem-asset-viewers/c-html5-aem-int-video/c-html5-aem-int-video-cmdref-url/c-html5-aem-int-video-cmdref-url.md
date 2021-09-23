@@ -1,7 +1,7 @@
 ---
+title: Command reference – URL
 description: Command reference documentation for Interactive Video Viewer.
 solution: Experience Manager
-title: Command reference – URL
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: e0a9e269-4826-4518-9222-6a833d11746b
@@ -18,7 +18,7 @@ You can prefix some configuration commands with the class name or the instance n
 [VideoPlayer.|<containerId>_videoPlayer].playback
 ```
 
-which means that this command is used in the following manner:
+Which means that this command is used in the following way
 
 * `playback` (short syntax) 
 * `VideoPlayer.playback` (qualified with component class name) 

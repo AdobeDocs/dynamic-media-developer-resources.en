@@ -1,7 +1,7 @@
 ---
+title: Link share
 description: Link share tool consists of a button added to the Social share panel and the modal dialog box that displays when the tool is activated. The position of the button is fully managed by the Social share tool.
 solution: Experience Manager
-title: Link share
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: 638ca6c2-375c-4162-b640-68aed6a8a9c6
@@ -70,7 +70,7 @@ background-image:url(images/v2/LinkShare_dark_disabled.png);
 }
 ```
 
-The background overlay that covers the web page when the dialog box is active is controlled with the following CSS class selector:
+The background overlay that covers the web page when the active dialog box is controlled with the following CSS class selector:
 
 ```
 .s7video360viewer .s7linkdialog .s7backoverlay
@@ -156,7 +156,7 @@ The dialog box header consists of an icon, a title text, and a close button. The
  </tbody> 
 </table>
 
-The icon and the title text are wrapped into an additional container controlled with the following CSS class selector:
+The icon and the title text are wrapped into an extra container controlled with the following CSS class selector:
 
 ```
 .s7video360viewer .s7linkdialog .s7dialogheader .s7dialogline
@@ -278,7 +278,7 @@ Close button is controlled with the following CSS class selector:
 
 The Close button tool tip and the dialog box title can be localized. See [Localization of user interface elements](../../../c-html5-aem-asset-viewers/c-html5-aem-video360/c-html5-aem-video360-localization.md#concept-16262b8096474d6c9c018c3e99110dd1).
 
-**Example** - to set up a dialog box header with padding, 22 x 12 pixels icon, bold 16 point title, and a 28 x 28 pixel Close button that is positioned two pixels from the top and two pixels from the right of the dialog box container:
+**Example** - to set up a dialog box header with padding, 22 x 12 pixels icon, with a bold 16 point title. And finally, a 28 x 28 pixel Close button that is positioned two pixels from the top and two pixels from the right of the dialog box container:
 
 ```
 .s7video360viewer .s7linkdialog .s7dialogheader { 
@@ -420,7 +420,7 @@ The Cancel button is controlled with the following CSS class selector:
 >
 >This button supports the `state` attribute selector, which can be used to apply different skins to different button states.
 
-In addition, both buttons share the same common CSS class which can contain CSS settings that are the same for other dialog box buttons:
+In addition, both buttons share a common CSS class which can contain CSS settings that are the same for other dialog box buttons:
 
 ```
 .s7video360viewer .s7linkdialog .s7dialogfooter .s7button
@@ -554,7 +554,7 @@ The main dialog area (between the header and the footer) contains dialog content
 }
 ```
 
-All form content-such as labels and input fields-resides inside a container controlled with the following CSS class selector:
+All form content &ndash; such as labels and input fields &ndash; resides inside a container controlled with the following CSS class selector:
 
 ```
 .s7video360viewer .s7linkdialog .s7dialogbody
@@ -571,7 +571,7 @@ All form content-such as labels and input fields-resides inside a container cont
  </tbody> 
 </table>
 
-**Example** - to set up form content to have 10 pixel padding:
+**Example** - to set up form content to have ten pixel padding:
 
 ```
 .s7interactivevideoviewer .s7linkdialog .s7dialogbody { 
@@ -628,7 +628,7 @@ The size of the text copy displayed on top of the link is controlled with the fo
 .s7video360viewer .s7linkdialog .s7dialoginputwide
 ```
 
-**CSS properties of the dialog box input wide field** 
+**CSS properties of the dialog box input-wide field** 
 
 <table id="table_7275B4365DFA4C0386FA2BDB7204A517"> 
  <tbody> 

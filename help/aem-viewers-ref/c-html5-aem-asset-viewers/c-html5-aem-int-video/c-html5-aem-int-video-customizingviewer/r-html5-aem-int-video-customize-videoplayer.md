@@ -1,7 +1,7 @@
 ---
+title: Video player
 description: The video player is the rectangular area where the video content is displayed within the viewer.
 solution: Experience Manager
-title: Video player
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: 9cfeceff-f6bd-42d9-9b85-456bbaa278fd
@@ -76,7 +76,7 @@ Closed captions are put into an internal container inside the video player. The 
 
 ## Example {#section-5b82913ff3c44b7b8187969cb15e9560}
 
-To set up closed caption text to be 14 pixels, light gray, Arial, on a semi-transparent black background:
+To set up closed caption text to be 14 pixels, light gray, Arial®, on a semi-transparent black background:
 
 ```
 .s7interactivevideoviewer .s7videoplayer .s7caption { 

@@ -1,7 +1,7 @@
 ---
+title: navigation
 description: URL command for Interactive Video Viewer.
 solution: Experience Manager
-title: navigation
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: 9852e723-fd1f-4ade-921b-cfb92bf9f2ad

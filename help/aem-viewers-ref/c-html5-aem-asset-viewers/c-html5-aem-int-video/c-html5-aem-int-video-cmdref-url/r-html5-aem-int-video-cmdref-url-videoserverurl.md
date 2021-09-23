@@ -1,7 +1,7 @@
 ---
+title: videoServerUrl
 description: URL command for Video Viewer.
 solution: Experience Manager
-title: videoServerUrl
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: 2bcbe117-14a3-42c8-bdd3-790b32bb757c

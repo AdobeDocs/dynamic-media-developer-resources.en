@@ -1,7 +1,7 @@
 ---
+title: Caption button
 description: This button toggles closed caption display on and off. It is not visible if the caption parameter is not specified.
 solution: Experience Manager
-title: Caption button
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: 322062a5-1741-45ce-96d7-8710a8246cd6
@@ -67,7 +67,7 @@ The button tool tip can be localized. See [Localization of user interface elemen
 
 ## Example {#section-e8caea0a303c425a8a637c2a47c06355}
 
-To set up a closed caption button that is 28 x 28 pixels, positioned four pixels from the top and 68 pixels from the right edge of the control bar, and displays a different image for each of the four different button states when selected or not selected.
+To set up a closed caption button that is 28 x 28 pixels. The button must be positioned four pixels from the top and 68 pixels from the right edge of the control bar. And, it must display a different image for each of the four different button states when selected or not selected.
 
 ```
 .s7interactivevideoviewer .s7closedcaptionbutton { 
