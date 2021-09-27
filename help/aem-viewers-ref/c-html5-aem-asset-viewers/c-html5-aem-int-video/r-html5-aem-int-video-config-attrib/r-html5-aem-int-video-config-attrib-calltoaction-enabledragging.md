@@ -1,7 +1,7 @@
 ---
+title: CallToAction.enabledragging
 description: Configuration attribute for Interactive Video Viewer.
 solution: Experience Manager
-title: CallToAction.enabledragging
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: 21db58df-b76e-4a78-afc4-5e0188cb8896
@@ -20,7 +20,7 @@ Configuration attribute for Interactive Video Viewer.
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> overdragvalue </span> </span> </p> </td> 
-   <td colname="col2"> <p> Is in the <span class="codeph"> 0-1 </span> range and it is a percent value for the movement in the wrong direction of the actual speed. </p> <p>If set to <span class="codeph"> 1 </span> it moves with the mouse. </p> <p>If set to <span class="codeph"> 0 </span> it does not let you move in the wrong direction. </p> </td> 
+   <td colname="col2"> <p> Is in the <span class="codeph"> 0-1 </span> range and it is a percent value for the movement in the wrong direction of the actual speed. </p> <p>If set to <span class="codeph"> 1 </span>, it moves with the mouse. </p> <p>If set to <span class="codeph"> 0 </span>, it does not let you move in the wrong direction. </p> </td> 
   </tr> 
  </tbody> 
 </table>

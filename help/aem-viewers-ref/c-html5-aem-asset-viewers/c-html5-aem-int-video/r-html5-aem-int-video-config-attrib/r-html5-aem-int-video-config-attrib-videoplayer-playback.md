@@ -1,7 +1,7 @@
 ---
+title: VideoPlayer.playback
 description: Configuration attribute for Interactive Video Viewer.
 solution: Experience Manager
-title: VideoPlayer.playback
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: fa49e025-1a46-4be7-ad1e-eda3b31bdc8d
@@ -16,7 +16,7 @@ Configuration attribute for Interactive Video Viewer.
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> auto|progressive</span> </p> </td> 
-   <td colname="col2"> <p> Sets the type of playback used by the viewer. </p> <p>When <span class="codeph"> auto</span> is set, in most desktop browsers and all iOS devices the viewer uses HTML5 streaming video in HLS format, and falls back to progressive HTML5 playback on certain systems like older Internet Explorer and Android. </p> <p>When <span class="codeph"> progressive</span> is set, the viewer relies only on HTML5 playback as natively supported by browsers and plays video progressively on all systems. </p> <p>For more information on the playback selection in <span class="codeph"> auto</span> and <span class="codeph"> progressive</span> native modes, see the HTML5 Viewers SDK User Guide. </p> </td> 
+   <td colname="col2"> <p> Sets the type of playback used by the viewer. </p> <p>When <span class="codeph"> auto</span> is set, in most desktop browsers and all iOS devices, the viewer uses HTML5 streaming video in HLS format. And, it falls back to progressive HTML5 playback on certain systems like older Internet Explorer and Android™. </p> <p>When <span class="codeph"> progressive</span> is set, the viewer relies only on HTML5 playback as natively supported by browsers and plays video progressively on all systems. </p> <p>For more information on the playback selection in <span class="codeph"> auto</span> and <span class="codeph"> progressive</span> native modes, see the HTML5 Viewers SDK User Guide. </p> </td> 
   </tr> 
  </tbody> 
 </table>

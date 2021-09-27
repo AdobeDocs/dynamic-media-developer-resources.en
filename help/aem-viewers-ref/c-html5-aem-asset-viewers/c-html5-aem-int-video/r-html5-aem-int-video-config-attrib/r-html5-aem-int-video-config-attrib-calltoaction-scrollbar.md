@@ -1,7 +1,7 @@
 ---
+title: CallToAction.scrollbar
 description: Configuration attribute for Interactive Video Viewer.
 solution: Experience Manager
-title: CallToAction.scrollbar
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: 9d39b43f-9621-4f6f-89a1-ab621fe5592a

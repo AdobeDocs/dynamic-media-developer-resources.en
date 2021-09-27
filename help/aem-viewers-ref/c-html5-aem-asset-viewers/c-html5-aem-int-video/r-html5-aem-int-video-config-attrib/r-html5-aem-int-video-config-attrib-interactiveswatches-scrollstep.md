@@ -1,7 +1,7 @@
 ---
+title: InteractiveSwatches.scrollstep
 description: Configuration attribute for Interactive Video Viewer.
 solution: Experience Manager
-title: InteractiveSwatches.scrollstep
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: 15bf7af8-428b-4c1c-b7ad-004563347d7c

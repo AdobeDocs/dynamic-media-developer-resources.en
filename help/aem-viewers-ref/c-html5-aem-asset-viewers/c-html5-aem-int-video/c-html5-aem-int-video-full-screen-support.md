@@ -1,7 +1,7 @@
 ---
+title: Full screen support
 description: The viewer supports full-screen operation mode.
 solution: Experience Manager
-title: Full screen support
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: 6a3d4a58-c3aa-4663-a848-ee5c1285ff75
