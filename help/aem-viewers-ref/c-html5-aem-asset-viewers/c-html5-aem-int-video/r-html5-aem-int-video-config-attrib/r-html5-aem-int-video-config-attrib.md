@@ -1,7 +1,7 @@
 ---
+title: Command reference – Configuration attributes
 description: Configuration attributes documentation for Interactive Video Viewer.
 solution: Experience Manager
-title: Command reference – Configuration attributes
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: 80b7971c-82dc-47a2-adde-9e061a0f856d
@@ -16,7 +16,7 @@ Some configuration commands may be prefixed with the class name or instance name
 
 `[VideoPlayer.|<containerId>_videoPlayer].playback`
 
-which means that you can use this command as:
+And means that you can use the following command as:
 
 * `playback` (short syntax) 
 * `VideoPlayer.playback` (qualified with component class name) 

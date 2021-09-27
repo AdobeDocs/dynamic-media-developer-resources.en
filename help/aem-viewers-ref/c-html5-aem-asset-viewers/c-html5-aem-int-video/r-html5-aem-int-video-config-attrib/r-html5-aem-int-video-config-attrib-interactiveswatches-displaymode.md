@@ -1,7 +1,7 @@
 ---
+title: InteractiveSwatches.displaymode
 description: Configuration attribute for Interactive Video Viewer.
 solution: Experience Manager
-title: InteractiveSwatches.displaymode
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: 9ddec664-80b5-49b6-b525-9e72b233c804

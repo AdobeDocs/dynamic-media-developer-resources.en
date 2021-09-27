@@ -1,7 +1,7 @@
 ---
+title: VideoPlayer.mutevolume
 description: Configuration attribute for Interactive Video Viewer.
 solution: Experience Manager
-title: VideoPlayer.mutevolume
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: 84deb0d4-ac7e-4ba0-884f-675a0dcc827b
@@ -16,7 +16,7 @@ Configuration attribute for Interactive Video Viewer.
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> 0|1 </span> </p> </td> 
-   <td colname="col2"> <p> Sets muted mode for video playback on initial load. If set to <span class="codeph"> 1 </span> the volume is muted; otherwise, the video plays with sound. On certain devices muting video playback on load also allows the video to auto play. </p> </td> 
+   <td colname="col2"> <p> Sets muted mode for video playback on initial load. If set to <span class="codeph"> 1 </span> the volume is muted; otherwise, the video plays with sound. On certain devices, muting video playback on load also allows the video to auto play. </p> </td> 
   </tr> 
  </tbody> 
 </table>

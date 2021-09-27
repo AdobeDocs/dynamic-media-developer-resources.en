@@ -1,7 +1,7 @@
 ---
+title: VideoPlayer.autoplay
 description: Configuration attribute for Interactive Video Viewer.
 solution: Experience Manager
-title: VideoPlayer.autoplay
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: 0b4fb87f-f8c6-4da8-b12a-0cde5f62fa60
@@ -16,7 +16,7 @@ Configuration attribute for Interactive Video Viewer.
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> 0|1 </span> </p> </td> 
-   <td colname="col2"> <p> Indicates whether the viewer starts playing the video on load. Note that some systems-such as certain mobile devices-may not support autoplay. </p> </td> 
+   <td colname="col2"> <p> Indicates whether the viewer starts playing the video on load. Some systems, such as certain mobile devices, may not support autoplay. </p> </td> 
   </tr> 
  </tbody> 
 </table>

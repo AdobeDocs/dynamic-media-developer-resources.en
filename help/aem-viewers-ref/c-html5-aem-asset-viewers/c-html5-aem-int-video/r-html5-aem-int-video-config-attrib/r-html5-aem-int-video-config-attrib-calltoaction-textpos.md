@@ -1,7 +1,7 @@
 ---
+title: CallToAction.textpos
 description: Configuration attribute for Interactive Video Viewer.
 solution: Experience Manager
-title: CallToAction.textpos
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: f2356eb1-2f71-49b6-bb40-6cd332e6785b

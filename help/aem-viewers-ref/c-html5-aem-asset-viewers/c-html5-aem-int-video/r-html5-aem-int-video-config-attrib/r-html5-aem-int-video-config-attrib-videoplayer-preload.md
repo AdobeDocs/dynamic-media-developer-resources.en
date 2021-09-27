@@ -1,7 +1,7 @@
 ---
+title: VideoPlayer.preload
 description: Indicates whether the viewer begins loading video content before the playback starts.
 solution: Experience Manager
-title: VideoPlayer.preload
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: afabbfde-e003-4fee-a4ef-0fc4c43fd960
@@ -16,7 +16,7 @@ Indicates whether the viewer begins loading video content before the playback st
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> 0|1 </span> </p> </td> 
-   <td colname="col2"> <p> If set to <span class="codeph"> 1 </span> the video begins to download right after the asset is set; otherwise, preload starts only after the playback is initiated by the end user or an API call. </p> <p>If set to <span class="codeph"> 0 </span> certain features may not work until playback starts; specifically, the seek operation will not update the video frame. If poster image is disabled, the viewer shows as an empty area instead of the first video frame. </p> <p>Be aware that disabling video preload may be ignored on certain versions of Internet Explorer 11 and Edge browsers. </p> </td> 
+   <td colname="col2"> <p> If set to <span class="codeph"> 1 </span> the video begins to download right after the asset is set; otherwise, preload starts only after the playback is initiated by the end user or an API call. </p> <p>If set to <span class="codeph"> 0 </span> certain features may not work until playback starts; specifically, the seek operation does not update the video frame. If poster image is disabled, the viewer shows as an empty area instead of the first video frame. </p> <p>Disabling video preload may be ignored on certain versions of Internet Explorer 11 and Edge browsers. </p> </td> 
   </tr> 
  </tbody> 
 </table>

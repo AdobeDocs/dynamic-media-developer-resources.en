@@ -1,7 +1,7 @@
 ---
+title: InteractiveSwatches.textpos
 description: Configuration attribute for Interactive Video Viewer.
 solution: Experience Manager
-title: InteractiveSwatches.textpos
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: 875d36cc-7372-454e-9a04-32492a2e558e

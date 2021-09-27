@@ -1,7 +1,7 @@
 ---
+title: InteractiveSwatches.fmt
 description: Configuration attribute for Interactive Video Viewer.
 solution: Experience Manager
-title: InteractiveSwatches.fmt
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: 9a751b91-aeff-4ee1-b2fe-9bec416884ab
@@ -16,7 +16,7 @@ Configuration attribute for Interactive Video Viewer.
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> jpg|jpeg|png|png-alpha|gif|gif-alpha</span> </p> </td> 
-   <td colname="col2"> <p> Specifies the image format that the component uses for loading images from Image Server. </p> <p>If the specified format ends with "<span class="codeph"> -alpha</span>", the component renders the images as transparent content. For all other image formats the component treats the images as opaque. Note that the component has a white background by default. Therefore, to make it completely transparent set the <span class="codeph"> background-color</span> CSS property to <span class="codeph"> transparent</span>. </p> </td> 
+   <td colname="col2"> <p> Specifies the image format that the component uses for loading images from Image Server. </p> <p>If the specified format ends with "<span class="codeph"> -alpha</span>", the component renders the images as transparent content. For all other image formats the component treats the images as opaque. The component has a white background by default. Therefore, to make it transparent set the <span class="codeph"> background-color</span> CSS property to <span class="codeph"> transparent</span>. </p> </td> 
   </tr> 
  </tbody> 
 </table>

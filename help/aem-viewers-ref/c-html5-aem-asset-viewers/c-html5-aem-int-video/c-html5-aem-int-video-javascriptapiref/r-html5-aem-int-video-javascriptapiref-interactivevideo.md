@@ -1,7 +1,7 @@
 ---
+title: InteractiveVideoViewer
 description: JavaScript API reference for Interactive Video Viewer.
 solution: Experience Manager
-title: InteractiveVideoViewer
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: efd0ffea-482c-4af4-ac77-ac1b7f326ce9
@@ -12,7 +12,7 @@ JavaScript API reference for Interactive Video Viewer.
 
  `InteractiveVideoViewer([config])`
 
-Constructor, creates a new Interactive Video Viewer instance.
+Constructor, creates an Interactive Video Viewer instance.
 
 ## Parameters {#section-4fb77a645fdd45b3aaa5079c31e3bb05}
 

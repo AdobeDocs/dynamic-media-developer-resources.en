@@ -1,7 +1,7 @@
 ---
+title: VideoPlayer.posterimage
 description: Configuration attribute for Interactive Video Viewer.
 solution: Experience Manager
-title: VideoPlayer.posterimage
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: 17c1220d-f2a4-4729-84e2-b9f6f5732423
@@ -21,7 +21,7 @@ Configuration attribute for Interactive Video Viewer.
       <li id="li_E7AE1BDAC17E49E0B7ACF89C5C0529F0"> <p> <span class="codeph"> ?</span> as <span class="codeph"> %3F</span> </p> </li> 
       <li id="li_391CCF067F734480B2B4AFC9760C479A"> <p> <span class="codeph"> &amp;</span> as <span class="codeph"> %26</span> </p> </li> 
       <li id="li_6824B66A55554C5A8B12874DCF5BFAEE"> <p> <span class="codeph"> =</span> as <span class="codeph"> %3D</span> </p> </li> 
-     </ul> </p> <p>If the <span class="codeph"><span class="varname"> image_id</span></span> value is omitted, the component attempts to use the default poster image for that asset instead. </p> <p>When the video is specified as a path, the default poster images catalog id is derived from the video path as the <span class="codeph"> catalog_id/image_id</span> pair where <span class="codeph"> catalog_id</span> corresponds to the first token in the path and <span class="codeph"> image_id</span> is the name of the video with the extension removed. If the image with that ID does not exist, the poster image is not shown. </p> <p>To prevent the display of the default poster image, specify <span class="codeph"> none</span> as the poster image value. If only the <span class="codeph"><span class="varname"> isCommands</span></span> are specified the commands are applied to the default poster image before the image is displayed. </p> </td> 
+     </ul> </p> <p>If the <span class="codeph"><span class="varname"> image_id</span></span> value is omitted, the component attempts to use the default poster image for that asset instead. </p> <p>When the video is specified as a path, the default poster images catalog ID is derived from the video path as the <span class="codeph"> catalog_id/image_id</span> pair where <span class="codeph"> catalog_id</span> corresponds to the first token in the path. And, <span class="codeph"> image_id</span> is the name of the video with the extension removed. If the image with that ID does not exist, the poster image is not shown. </p> <p>To prevent the display of the default poster image, specify <span class="codeph"> none</span> as the poster image value. If only the <span class="codeph"><span class="varname"> isCommands</span></span> are specified, the commands are applied to the default poster image before the image is displayed. </p> </td> 
   </tr> 
  </tbody> 
 </table>

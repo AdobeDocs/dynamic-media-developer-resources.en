@@ -1,7 +1,7 @@
 ---
+title: ControlBar.transition
 description: Configuration attribute for Interactive Video Viewer.
 solution: Experience Manager
-title: ControlBar.transition
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: a8bb32b4-0fd9-4887-98ef-31c3426092b6
@@ -16,7 +16,7 @@ Configuration attribute for Interactive Video Viewer.
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> none|fade</span> </p> </td> 
-   <td colname="col2"> <p> Specifies the effect type which will be used to show/hide the control bar and its content. </p> <p>Set to <span class="codeph"> none</span> for instant show/hide. </p> <p>Set to <span class="codeph"> fade</span> to provide a gradual fade in/out effect. Not supported on Internet Explorer 8. </p> </td> 
+   <td colname="col2"> <p> Specifies the effect type which is used to show/hide the control bar and its content. </p> <p>Set to <span class="codeph"> none</span> for instant show/hide. </p> <p>Set to <span class="codeph"> fade</span> to provide a gradual fade in/out effect. Not supported on Internet Explorer 8. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p><span class="codeph"><span class="varname"> delaytohide</span></span> </p> </td> 

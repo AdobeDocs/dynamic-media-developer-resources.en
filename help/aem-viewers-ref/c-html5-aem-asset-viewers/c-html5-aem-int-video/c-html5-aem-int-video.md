@@ -1,7 +1,7 @@
 ---
+title: Interactive Video
 description: Interactive Video Viewer is a video player that plays streaming and progressive video encoded in the H.264 format.
 solution: Experience Manager
-title: Interactive Video
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: e54b0b1f-b015-4592-82e2-99f5080543e3
@@ -120,7 +120,7 @@ You add the viewer to a web page by doing the following:
 
    You can set the static size for the viewer by either declaring it for `.s7interactivevideoviewer` top-level CSS class in absolute units, or by using `stagesize` modifier.
 
-   You can put sizing in CSS directly on the HTML page. Or, you can put it in a custom viewer CSS file, which is then later assigned to a viewer preset record in AEM Assets - on-demand, or passed explicitly using `style` command.
+   You can put sizing in CSS directly on the HTML page. Or, you can put it in a custom viewer CSS file, which is then later assigned to a viewer preset record in Adobe Experience Manager Assets - On-demand, or passed explicitly using `style` command.
 
    See [Customizing Interactive Video Viewer](../../c-html5-aem-asset-viewers/c-html5-aem-int-video/c-html5-aem-int-video-customizingviewer/c-html5-aem-int-video-customizingviewer.md#concept-73a8546acdb444a387c49969ceca57d0) for more information about styling the viewer with CSS.
 
@@ -133,7 +133,7 @@ You add the viewer to a web page by doing the following:
    }
    ```
 
-   You can set the `stagesize` modifier in the viewer preset record in AEM Assets - on-demand. Or, you can pass it explicitly with the viewer initialization code with `params` collection, or as an API call as described in the Command Reference section, like this:
+   You can set the `stagesize` modifier in the viewer preset record in Experience Manager Assets - On-demand. Or, you can pass it explicitly with the viewer initialization code with `params` collection, or as an API call as described in the Command Reference section, like this:
 
    ```
    interactivevideoviewer.setParam("stagesize", "640,640");
