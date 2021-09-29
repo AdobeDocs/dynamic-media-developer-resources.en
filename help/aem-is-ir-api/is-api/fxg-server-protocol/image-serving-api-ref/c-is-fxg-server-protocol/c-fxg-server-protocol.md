@@ -1,7 +1,7 @@
 ---
+title: FXG server protocol
 description: To manipulate a graphic, you can use reference points similar to compass points.
 solution: Experience Manager
-title: FXG server protocol
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 57d9ba37-819e-455f-9b22-bd7aabffe007
@@ -10,14 +10,14 @@ exl-id: 57d9ba37-819e-455f-9b22-bd7aabffe007
 
 To manipulate a graphic, you can use reference points similar to compass points.
 
-Using reference points, you can rotate, scale, or resize a graphic relative to a particular reference point. The reference points are `northWest`, `north`, `northEast`, `west`, `center`, `east`, `southWest`, `south`, and `southeast`. For example, by using the center reference point, you can rotate a graphic by 45 degrees on its center. This illustration shows where the reference points are located, a graphic, the graphic rotated 20 degrees from its `northWest` reference point, and the graphic rotated 20 degrees from its `east` reference point.
+Using reference points, you can rotate, scale, or resize a graphic relative to a particular reference point. The reference points are `northWest`, `north`, `northEast`, `west`, `center`, `east`, `southWest`, `south`, and `southeast`. For example, by using the center reference point, you can rotate a graphic by 45° on its center. The following image shows where the reference points are located, a graphic, the graphic rotated 20° from its `northWest` reference point, and the graphic rotated 20° from its `east` reference point.
 
-![](assets/wp_ref_points.png)
+![Reference points image](assets/wp_ref_points.png)
 
-* A. Reference point locations 
-* B. A graphic 
-* C. The graphic rotated 20 degrees from its `northWest` reference point 
-* D. The graphic rotated 20 degrees from its `east` reference point
+* A. Reference point locations
+* B. A graphic
+* C. The graphic rotated 20° from its `northWest` reference point
+* D. The graphic rotated 20° from its `east` reference point
 
 The syntax is:
 

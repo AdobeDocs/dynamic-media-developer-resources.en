@@ -1,7 +1,7 @@
 ---
+title: Viewer SDK Tutorial
 description: The Viewer SDK provides a set of JavaScript-based components for custom viewer development. The viewers are web-based applications that allow for rich media content served by Adobe Dynamic Media to be embedded in web pages.
 solution: Experience Manager
-title: Viewer SDK Tutorial
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,User
 exl-id: 3a798595-6c65-4a12-983d-3cdc53830d28
@@ -12,9 +12,9 @@ The Viewer SDK provides a set of JavaScript-based components for custom viewer d
 
 For example, the SDK provides interactive zooming and panning. It also provides 360° view and video playback of assets that were uploaded to Adobe Dynamic Media through the backend application called Dynamic Media Classic.
 
-Even though the components rely on HTML5 functionality, they are designed to work on Android and Apple iOS devices, and desktops, including Internet Explorer and later. This kind of experience means that you are able to provide a single workflow for all supported platforms.
+Even though the components rely on HTML5 functionality, they are designed to work on Android™ and Apple iOS devices, and desktops, including Internet Explorer and later. This kind of experience means that you are able to provide a single workflow for all supported platforms.
 
-The SDK consists of UI Components that make up viewer content. You can style these components through CSS, and non-UI components that have some kind of supporting role, like set definition fetching and parsing or tracking. All component behaviors are customizable through modifiers that you can specify in a number of ways, for example, as `name=value` pairs in the URL.
+The SDK consists of UI Components that make up viewer content. You can style these components through CSS, and non-UI components that have some kind of supporting role, like set definition fetching and parsing or tracking. All component behaviors are customizable through modifiers that you can specify in various ways, for example, as `name=value` pairs in the URL.
 
 This tutorial includes the following order of tasks to help you create a basic zoom viewer:
 
@@ -32,13 +32,13 @@ This tutorial includes the following order of tasks to help you create a basic z
 
    >[!NOTE]
    >
-   >You can complete this tutorial without the need to download the Viewer SDK package because the SDK is actually loaded remotely. However, the Viewer package includes additional examples and an API reference guide that you will find helpful when you create your own viewers.
+   >You can complete this tutorial without the need to download the Viewer SDK package because the SDK is loaded remotely. However, the Viewer package includes additional examples and an API reference guide that can help you create your own viewers.
 
 ## Load the Viewer SDK {#section-98596c276faf4cf79ccf558a9f4432c6}
 
 1. Start by setting up a fresh page to develop the basic zoom viewer that you are going to create.
 
-   Consider this the bootstrap—or loader—code to set up an empty SDK application. Open your favorite text editor and paste the following HTML markup into it:
+   Consider this fresh page the Bootstrap &ndash; or loader &ndash; code that you use to set up an empty SDK application. Open your favorite text editor and paste the following HTML markup into it:
 
    ```
    <!DOCTYPE html> 
@@ -73,7 +73,7 @@ This tutorial includes the following order of tasks to help you create a basic z
    </html>
    ```
 
-   Add the following JavaScript code inside the `script` tag to initialize the `ParameterManager`. This helps you prepare to create and instantiate SDK components inside the `initViewer` function:
+   Add the following JavaScript code inside the `script` tag so it initializes the `ParameterManager`. Doing so helps you prepare to create and instantiate SDK components inside the `initViewer` function:
 
    ```
    /* We create a self-running anonymous function to encapsulate variable scope. Placing code inside such 
@@ -109,9 +109,9 @@ This tutorial includes the following order of tasks to help you create a basic z
 
 1. Save the file as an empty template. You can use any filename you want.
 
-   You will use this empty template file as a reference when creating any new viewers in the future. This template works locally and when served from a web server.
+   You will use this empty template file as a reference when you create any viewers in the future. This template works locally and when served from a web server.
 
-You will now add style to your viewer.
+Now add style to your viewer.
 
 ## Adding style to your viewer {#section-3783125360a1425eae5a5a334867cc32}
 
@@ -136,7 +136,7 @@ You will now add style to your viewer.
    </style>
    ```
 
-You will now include the components `Container` and `ZoomView`.
+Now include the components `Container` and `ZoomView`.
 
 ## Including Container and ZoomView {#section-1a01730663154a508b88cc40c6f35539}
 
@@ -163,7 +163,7 @@ You will now include the components `Container` and `ZoomView`.
    var container, zoomView;
    ```
 
-1. Insert the following inside the `initViewer` function to define some modifiers and instantiate the respective components:
+1. Insert the following inside the `initViewer` function so you can define some modifiers and instantiate the respective components:
 
    ```
    /* Modifiers can be added directly to ParameterManager instance */ 
@@ -199,11 +199,11 @@ You will now include the components `Container` and `ZoomView`.
    }
    ```
 
-1. Preview the page so you can see what you have created. You page will look like the following:
+1. Preview the page so you can see what you have created. Your page should look like the following:
 
-   ![](assets/viewer-1.jpg)
+   ![Viewer example one image](assets/viewer-1.jpg)
 
-You will now add the components `MediaSet` and `Swatches` to your viewer.
+Now add the components `MediaSet` and `Swatches` to your viewer.
 
 ## Adding MediaSet and Swatches components to your viewer {#section-02b8c21dd842400e83eae2a48ec265b7}
 
@@ -282,9 +282,9 @@ You will now add the components `MediaSet` and `Swatches` to your viewer.
 
    Your viewer now looks like the following image. Try resizing the browser window of the viewer and notice the resulting behavior.
 
-   ![](assets/viewer-2.jpg)
+   ![Viewer example two image](assets/viewer-2.jpg)
 
-You will now add zoom in, zoom out, and zoom reset buttons to your viewer.
+Now add zoom in, zoom out, and zoom reset buttons to your viewer.
 
 ## Adding buttons to your viewer {#section-1fc334fa0d2b47eb9cdad461725c07be}
 
@@ -344,17 +344,17 @@ You will now add zoom in, zoom out, and zoom reset buttons to your viewer.
     }
    ```
 
-1. Preview your viewer. It will look like the following:
+1. Preview your viewer. It should look like the following:
 
-   ![](assets/viewer-3.jpg)
+   ![Viewer example three image](assets/viewer-3.jpg)
 
-   You will now configure the Swatches so that they are aligned vertically on the right.
+   Now configure the Swatches so that they are aligned vertically on the right.
 
 ## Configuring the Swatches vertically {#section-91a8829d5b5a4d45a35b7faeb097fcc9}
 
 1. You can configure modifiers directly on the `ParameterManager` instance.
 
-   Add the following to the top of the `initViewer` function to configure the `Swatches` thumb layout as a single row:
+   Add the following to the top of the `initViewer` function so you can configure the `Swatches` thumb layout as a single row:
 
    ```
    params.push("Swatches.tmblayout", "1,0");
@@ -377,10 +377,10 @@ You will now add zoom in, zoom out, and zoom reset buttons to your viewer.
    }
    ```
 
-1. Preview your viewer. It will look like the following:
+1. Preview your viewer. It looks like the following:
 
-   ![](assets/viewer-4.jpg)
+   ![Viewer example four image](assets/viewer-4.jpg)
 
    Your basic zoom viewer is now complete.
 
-   This viewer tutorial touches on the fundamentals of what the Dynamic Media Viewer SDK provides. As you work with the SDK you can use the various standard components to easily build and style rich viewing experiences for your target audiences.
+   This viewer tutorial touches on the fundamentals of what the Dynamic Media Viewer SDK provides. As you work with the SDK, you can use the various standard components to easily build and style rich viewing experiences for your target audiences.

@@ -1,7 +1,7 @@
 ---
+title: Embed share
 description: Embed share tool consists of a button added to the Social share panel and the modal dialog box that displays when the tool is activated. The position of the button is fully managed by the Social share tool.
 solution: Experience Manager
-title: Embed share
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,User
 exl-id: 08ba7a29-8b17-4167-a9f3-82aa4cf65556
@@ -49,7 +49,7 @@ It is possible to remove the button from the Social share panel by setting `disp
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-aem-asset-viewers/c-html5-aem-video360/c-html5-aem-video360-localization.md#concept-16262b8096474d6c9c018c3e99110dd1) for more information.
 
-**Example** - to set up a embed share button that is 28 x 28 pixels, and displays a different image for each of the four different button states:
+**Example** - To set up an embed share button that is 28 x 28 pixels, and displays a different image for each of the four different button states:
 
 ```
 .s7video360viewer .s7embedshare { 
@@ -70,7 +70,7 @@ background-image:url(images/v2/EmbedShare_dark_disabled.png);
 }
 ```
 
-The background overlay that covers the web page when the dialog box is active is controlled with the following CSS class selector:
+The background overlay that covers the web page when the dialog box is active, is controlled with the following CSS class selector:
 
 ```
 .s7video360viewer .s7embeddialog .s7backoverlay
@@ -156,7 +156,7 @@ Dialog box header consists of an icon, a title text, and a close button. The hea
  </tbody> 
 </table>
 
-The icon and the title text are wrapped into an additional container controlled with the following:
+The icon and the title text are wrapped into an extra container controlled with the following:
 
 ```
 .s7video360viewer .s7embeddialog .s7dialogheader .s7dialogline
@@ -278,7 +278,7 @@ Close button is controlled with the following CSS class selector:
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-aem-asset-viewers/c-html5-aem-video360/c-html5-aem-video360-localization.md#concept-16262b8096474d6c9c018c3e99110dd1) for more information.
 
-**Example** - to set up dialog header with padding, 24 x 14 pixels icon, bold 16 point title, and 28 x 28 pixels close button, positioned two pixels from the top, and two pixels from the right of dialog container:
+**Example** - To set up dialog header with padding, 24 x 14 pixels icon, and a bold, 16 point title. And finally, a 28 x 28 pixels Close button, positioned two pixels from the top, and two pixels from the right of dialog container:
 
 ```
 .s7video360viewer .s7embeddialog .s7dialogheader { 
@@ -420,7 +420,7 @@ Cancel button is controlled with the following CSS class selector:
 >
 >This button supports the `state` attribute selector, which can be used to apply different skins to different button states.
 
-In addition, both buttons share the same common CSS class which can contain CSS settings that are the same for other dialog box buttons:
+In addition, both buttons share common CSS class which can contain CSS settings that are the same for other dialog box buttons:
 
 ```
 .s7video360viewer .s7embeddialog .s7dialogfooter .s7button
@@ -631,7 +631,7 @@ The size of the text copy displayed on top of the embed code is controlled with 
 .s7video360viewer .s7embeddialog .s7dialoginputwide
 ```
 
-**CSS properties of the dialog box input wide field** 
+**CSS properties of the dialog box input-wide field** 
 
 <table id="table_7275B4365DFA4C0386FA2BDB7204A517"> 
  <tbody> 
@@ -707,7 +707,7 @@ The actual embed code text is controlled with the following CSS class selector:
  </tbody> 
 </table>
 
-**Example** - to set up embed code to use `break-word` word wrapping:
+**Example** - To configure embed code to use `break-word` word wrapping:
 
 ```
 .s7video360viewer .s7embeddialog .s7dialogmessage { 
@@ -715,7 +715,7 @@ The actual embed code text is controlled with the following CSS class selector:
 }
 ```
 
-Embed size label and drop-down are located in the bottom of the dialog box and put into a container controlled with the following CSS class selector:
+Embed size label and drop-down are in the bottom of the dialog box and put into a container controlled with the following CSS class selector:
 
 ```
 .s7video360viewer .s7embeddialog .s7dialogembedsizepanel
@@ -789,7 +789,7 @@ The width of the embed size combo box is controlled with the following CSS class
 
 >[!NOTE]
 >
->The combo box supports the `expanded` attribute selector with possible values of `true` and `false`. `true` is used when combo box displays one of pre-defined embed sizes, thus should take all available width. `false` is used when custom size option is selected in the combo box, so it should shrink to allow space for custom width and height input fields.
+>The combo box supports the `expanded` attribute selector with possible values of `true` and `false`. The `true` value is used when combo box displays one of pre-defined embed sizes, thus should take all available width. The `false` value is used when the custom size option is selected in the combo box, so it should shrink to allow space for custom width and height input fields.
 
 **Example** - to set the embed size combo box to be 300 pixels wide when showing a pre-defined item and 110 pixels wide when showing a custom size:
 
@@ -889,7 +889,7 @@ The combo box has a "drop-down" button on the right and it is controlled with th
 }
 ```
 
-The panel with the list of embed sizes displayed when combo box is opened is controlled with the following CSS class selector:
+The panel with the list of embed sizes displayed when combo box is opened, is controlled with the following CSS class selector:
 
 ```
 .s7video360viewer .s7embeddialog .s7comboboxdropdown
@@ -980,7 +980,7 @@ A check mark displayed to the left of the selected item inside the combo box pan
 }
 ```
 
-When "Custom Size" option is selected in the embed size combo box the dialog box displays two extra input fields to the right to allow the user to enter a custom embed size. Those fields are wrapped in a container that is controlled with the following CSS class selector:
+When "Custom Size" option is selected in the embed size combo box, the dialog box displays two extra input fields to the right to allow the user to enter a custom embed size. Those fields are wrapped in a container that is controlled with the following CSS class selector:
 
 ```
 .s7video360viewer .s7embeddialog .s7dialogcustomsizepanel
@@ -1034,7 +1034,7 @@ Each custom size input field is wrapped in a container that renders a border and
  </tbody> 
 </table>
 
-**Example** - to set the custom size input fields to have a one pixel grey border, margin, padding and be 70 pixels wide:
+**Example** - To set the custom size input fields to have a one pixel grey border, margin, padding, and be 70 pixels wide:
 
 ```
 .s7video360viewer .s7embeddialog .s7dialogcustomsize { 

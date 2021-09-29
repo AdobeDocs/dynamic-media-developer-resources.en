@@ -1,7 +1,7 @@
 ---
+title: ZoomView.enableHD
 description: ZoomView.enableHD
 solution: Experience Manager
-title: ZoomView.enableHD
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,User
 exl-id: b3cc32ef-dd6c-47a3-9e55-86a43e874a84
@@ -14,7 +14,7 @@ exl-id: b3cc32ef-dd6c-47a3-9e55-86a43e874a84
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> always|never|limit</span> </p> </td> 
-   <td colname="col2"> <p> Enable, limit, or disable optimization for devices where <span class="codeph"> devicePixelRatio</span> is greater than <span class="codeph"> 1</span>. Affects devices with high-density display like iPhone4 and similar devices. If active, the component limits the size of the IS image request as if the device had a pixel ratio of <span class="codeph"> 1</span>, thereby reducing the bandwidth. </p> </td> 
+   <td colname="col2"> <p> Enable, limit, or disable optimization for devices where <span class="codeph"> devicePixelRatio</span> is greater than <span class="codeph"> 1</span>. Affects devices with high-density display like iPhone4 and similar devices. If active, the component limits the size of the IS image request as if the device had a pixel ratio of <span class="codeph"> 1</span>, reducing the bandwidth. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"><span class="varname"> number</span></span> </p> </td> 

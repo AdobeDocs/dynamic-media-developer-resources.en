@@ -1,7 +1,7 @@
 ---
+title: preloadimage
 description: URL command for Video Image Viewer.
 solution: Experience Manager
-title: preloadimage
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,User
 exl-id: 5bb61804-8c61-473f-a8a7-aa30a410e22b

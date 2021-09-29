@@ -21,12 +21,12 @@ Similar requirements as Example A, but use a solid color background and allow th
  </tr> 
 </table>
 
-The image is placed in layer 0, and the height value of `size=` is set to 0, which causes the actual height to be determined by the height of the image after scaling it to 800 pixels wide.
+The image is placed in layer 0, and the height value of `size=` is set to 0. This setting causes the actual height to be determined by the height of the image after scaling it to 800 pixels wide.
 
-`extend=` adds 100 pixels to the top and bottom, and 200 pixels to the right.
+The variable `extend=` adds 100 pixels to the top and bottom, and 200 pixels to the right.
 
 The origins for both layer 0 and layer 1 are placed at the center-right of the compositing area, to achieve the desired text position.
 
-The following illustration shows the composite result for different aspect ratios of the image and different text strings.
+The following image shows the composite result for different aspect ratios of the image and different text strings.
 
-![](assets/exampleb.png)
+![Example B image](assets/exampleb.png)

@@ -1,7 +1,7 @@
 ---
+title: getComponent
 description: JavaScript API reference for Video Image Viewer.
 solution: Experience Manager
-title: getComponent
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,User
 exl-id: 5f2514a9-bbd0-436d-ad96-b89778604f8a
@@ -49,13 +49,13 @@ Returns a reference to the Viewer SDK component that is used by the viewer. The 
  </tbody> 
 </table>
 
-When working with SDK APIs it is important to use the correct fully qualified SDK namespace as described in [Viewer SDK namespace](../../../c-html5-aem-asset-viewers/c-html5-aem-interactive-images/c-html5-aem-interactive-image-namespace.md#concept-00a31b9bc7eb4014b28c1ba661fe5265).
+When working with SDK APIs, it is important to use the correct fully qualified SDK namespace as described in [Viewer SDK namespace](../../../c-html5-aem-asset-viewers/c-html5-aem-interactive-images/c-html5-aem-interactive-image-namespace.md#concept-00a31b9bc7eb4014b28c1ba661fe5265).
 
 Refer to the Viewer SDK API documentation for more information about a particular component.
 
 ## Returns {#section-1d3cf85bc7cc4dfe9670e038d02b9101}
 
-`{Object}` a reference to Viewer SDK component. The method returns `null` if the `componentId` is not a supported viewer component or if the component was not yet created by the viewer logic.
+`{Object}` A reference to Viewer SDK component. The method returns `null` if the `componentId` is not a supported viewer component or if the component was not yet created by the viewer logic.
 
 ## Example {#section-9e9332aa86b74a5fb321375c03fdc5b3}
 

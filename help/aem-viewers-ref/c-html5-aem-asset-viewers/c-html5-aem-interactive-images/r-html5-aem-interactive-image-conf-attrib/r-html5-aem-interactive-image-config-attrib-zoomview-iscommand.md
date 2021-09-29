@@ -1,7 +1,7 @@
 ---
+title: ZoomView.iscommand
 description: The Image Serving command string that is applied to zoom image.
 solution: Experience Manager
-title: ZoomView.iscommand
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,User
 exl-id: 1c24973e-1daf-4d9d-b97c-fb6a18f506ed

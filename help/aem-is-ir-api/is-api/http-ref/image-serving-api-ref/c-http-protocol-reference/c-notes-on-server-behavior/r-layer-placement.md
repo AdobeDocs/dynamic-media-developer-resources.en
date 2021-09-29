@@ -1,7 +1,7 @@
 ---
-description: Layers are positioned by aligning the layer origin (origin=) with the background layer origin at an offset specified by pos=.
-solution: Experience Manager
 title: Layer placement
+escription: Layers are positioned by aligning the layer origin (origin=) with the background layer origin at an offset specified by pos=.
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 1ce7bef3-a0f8-44fc-a146-7e819c30eee8
@@ -16,4 +16,4 @@ Layers are positioned by aligning the layer origin (origin=) with the background
 1. If the image anchor is defined, apply the layer transforms and `extend=` to convert it to an origin= value. 
 1. If no image anchor is defined, the layer origin is placed at the center of the layer rectangle (after applying `extend=`).
 
-![](assets/layerplacement.png)
+![Layer placement image](assets/layerplacement.png)

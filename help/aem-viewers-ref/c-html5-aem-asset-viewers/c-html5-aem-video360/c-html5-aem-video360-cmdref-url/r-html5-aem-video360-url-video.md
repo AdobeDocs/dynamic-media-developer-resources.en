@@ -1,7 +1,7 @@
 ---
+title: video
 description: URL command for Video360 Viewer.
 solution: Experience Manager
-title: video
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,User
 exl-id: 704097af-f108-42f7-92e7-5dd75916a045
