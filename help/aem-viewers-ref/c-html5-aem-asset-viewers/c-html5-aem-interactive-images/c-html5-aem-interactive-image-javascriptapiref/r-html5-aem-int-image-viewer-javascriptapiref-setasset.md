@@ -1,7 +1,7 @@
 ---
+title: setAsset
 description: JavaScript API reference for Video Image Viewer.
 solution: Experience Manager
-title: setAsset
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,User
 exl-id: e5f88bc9-a880-45eb-9554-57e185937d29

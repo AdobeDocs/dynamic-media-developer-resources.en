@@ -1,7 +1,7 @@
 ---
+title: Command reference – Configuration attributes
 description: Configuration attributes documentation for Interactive Image Viewer.
 solution: Experience Manager
-title: Command reference – Configuration attributes
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,User
 exl-id: 53c4b304-3b45-4ff0-91aa-a14f39ab1e94
@@ -16,7 +16,7 @@ Some configuration commands may be prefixed with the class name or instance name
 
 `[ZoomView.|<containerId>_zoomView].fmt`
 
-which means that you can use this command as:
+Meaning that you can use this command as:
 
 * `fmt` (short syntax) 
 * `ZoomView.fmt` (qualified with component class name) 
