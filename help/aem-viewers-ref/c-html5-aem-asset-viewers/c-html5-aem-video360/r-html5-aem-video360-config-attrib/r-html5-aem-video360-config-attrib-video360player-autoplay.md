@@ -1,7 +1,7 @@
 ---
+title: Video360Player.autoplay
 description: Configuration attribute for Video360 Viewer.
 solution: Experience Manager
-title: Video360Player.autoplay
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,User
 exl-id: 12b15969-c633-4593-9674-dbb9ef36ca60
@@ -16,7 +16,7 @@ Configuration attribute for Video360 Viewer.
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> 0|1 </span> </p> </td> 
-   <td colname="col2"> <p> Indicates whether the viewer starts playing the video on load. Note that some systems-such as certain mobile devices-may not support autoplay. </p> </td> 
+   <td colname="col2"> <p> Indicates whether the viewer starts playing the video on load. Some systems, such as certain mobile devices, may not support autoplay. </p> </td> 
   </tr> 
  </tbody> 
 </table>

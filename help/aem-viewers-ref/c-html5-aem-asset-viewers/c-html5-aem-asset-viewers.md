@@ -1,7 +1,7 @@
 ---
+title: Viewers for AEM Assets only
 description: Viewers for AEM Assets only
 solution: Experience Manager
-title: Viewers for AEM Assets only
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: f0668991-8619-4670-bc69-85a7a96893dd

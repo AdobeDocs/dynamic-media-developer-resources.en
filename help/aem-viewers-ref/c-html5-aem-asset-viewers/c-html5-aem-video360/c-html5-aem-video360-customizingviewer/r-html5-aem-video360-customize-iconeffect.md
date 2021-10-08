@@ -1,7 +1,7 @@
 ---
+title: Icon effect
 description: The play icon is overlaid on the main view area. It displays when the video is paused, or when the end of the video is reached, and it also depends on the iconeffect parameter.
 solution: Experience Manager
-title: Icon effect
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,User
 exl-id: e25a3b9d-88ef-4214-9b6b-2527ebf0f145
@@ -41,7 +41,7 @@ The appearance of the play icon is controlled with the following CSS class selec
  </tbody> 
 </table>
 
-Icon effect supports the `state` attribute selector. `state="play"` is used when the video is paused in the middle of playback, and `state="replay"` is used when the play head is in the end of the stream.
+Icon effect supports the `state` attribute selector. The attribute selector `state="play"` is used when the video is paused in the middle of playback, and `state="replay"` is used when the play head is in the end of the stream.
 
 **Example** - Setup a 100 x 100 pixel play icon.
 

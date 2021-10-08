@@ -1,7 +1,7 @@
 ---
+title: Video time
 description: The video time is the numeric display that shows the current time and duration of the currently playing video.
 solution: Experience Manager
-title: Video time
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,User
 exl-id: 78657fd2-e805-4047-be0a-592143025986

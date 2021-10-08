@@ -1,7 +1,7 @@
 ---
+title: setVideo
 description: JavaScript API reference for Video360 Viewer
 solution: Experience Manager
-title: setVideo
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,User
 exl-id: e1894d96-6f37-4e34-a709-5b0121bd0696

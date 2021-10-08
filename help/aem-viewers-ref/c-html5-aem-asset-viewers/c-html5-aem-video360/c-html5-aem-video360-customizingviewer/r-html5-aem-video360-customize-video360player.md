@@ -1,7 +1,7 @@
 ---
+title: Video360 player
 description: The video player is the rectangular area where the video content is displayed within the viewer.
 solution: Experience Manager
-title: Video360 player
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,User
 exl-id: 54ccf872-2d24-4d3f-9808-6d0e2558f5a5
