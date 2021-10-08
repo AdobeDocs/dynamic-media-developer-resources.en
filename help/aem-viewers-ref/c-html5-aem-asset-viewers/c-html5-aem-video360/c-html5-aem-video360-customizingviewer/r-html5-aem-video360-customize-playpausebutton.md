@@ -1,7 +1,7 @@
 ---
+title: Play/Pause button
 description: The play/pause button causes the video player to play or pause the video content when a user clicks it.
 solution: Experience Manager
-title: Play/Pause button
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,User
 exl-id: 5f8741a4-d286-4b2d-8a11-23bce119209a
@@ -63,11 +63,11 @@ The following CSS class selector controls the appearance of the button:
 >
 >This button supports both the `state`, `selected`, and `replay` attribute selectors, which can be used to apply different skins to different button states. In particular, `selected='true'` corresponds to the "play" state and `selected='false'` corresponds to the "pause" state; 
 >
->`replay='true'` is set when the video has reached the end and clicking on the button restarts playback from the beginning.
+>The attribute selector `replay='true'` is set when the video has reached the end and selecting the button restarts playback from the beginning.
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-aem-asset-viewers/c-html5-aem-video360/c-html5-aem-video360-localization.md#concept-16262b8096474d6c9c018c3e99110dd1) for more information.
 
-**Example** - To set up a play/pause button that is 32 x 32 pixels; it is positioned six pixels from the top and left edge of the control bar, and displays a different image for each of the four different button states when selected or not selected.
+**Example** - To set up a play/pause button that is 32 x 32 pixels. Have it positioned six pixels from the top and left edge of the control bar. And finally, displays a different image for each of the four different button states when selected or not selected.
 
 ```
 .s7video360viewer .s7playpausebutton { 

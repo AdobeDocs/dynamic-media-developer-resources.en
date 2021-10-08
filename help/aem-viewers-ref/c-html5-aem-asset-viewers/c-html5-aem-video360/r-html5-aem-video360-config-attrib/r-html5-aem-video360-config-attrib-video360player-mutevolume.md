@@ -1,7 +1,7 @@
 ---
+title: Video360Player.mutevolume
 description: Configuration attribute for Video360 Viewer.
 solution: Experience Manager
-title: Video360Player.mutevolume
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,User
 exl-id: 8f95c01f-e634-4d6c-a22f-c2285ee969c8
@@ -16,7 +16,7 @@ Configuration attribute for Video360 Viewer.
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> 0|1 </span> </p> </td> 
-   <td colname="col2"> <p> Sets muted mode for video playback on initial load. If set to <span class="codeph"> 1 </span> the volume is muted; otherwise, the video plays with sound. On certain devices muting video playback on load also allows the video to auto play. </p> </td> 
+   <td colname="col2"> <p> Sets muted mode for video playback on initial load. If set to <span class="codeph"> 1 </span> the volume is muted; otherwise, the video plays with sound. On certain devices, muting video playback on load also lets the video auto play. </p> </td> 
   </tr> 
  </tbody> 
 </table>

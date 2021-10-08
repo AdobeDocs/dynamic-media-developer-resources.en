@@ -1,7 +1,7 @@
 ---
+title: Video360Player.playback
 description: Configuration attribute for Video360 Viewer.
 solution: Experience Manager
-title: Video360Player.playback
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,User
 exl-id: e5a56195-c3ca-4748-aef6-e1f143ac254d
@@ -16,7 +16,7 @@ Configuration attribute for Video360 Viewer.
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> auto|progressive</span> </p> </td> 
-   <td colname="col2"> <p> Sets the type of playback used by the viewer. </p> <p>When <span class="codeph"> auto</span> is set, in most desktop browsers and all iOS devices the viewer uses HTML5 streaming video in HLS format, and falls back to progressive HTML5 playback on certain systems like older Internet Explorer and Android. </p> <p>When <span class="codeph"> progressive</span> is set, the viewer relies only on HTML5 playback as natively supported by browsers and plays video progressively on all systems. </p> <p>For more information on the playback selection in <span class="codeph"> auto</span> and <span class="codeph"> progressive</span> native modes, see the HTML5 Viewers SDK User Guide. </p> </td> 
+   <td colname="col2"> <p> Sets the type of playback used by the viewer. </p> <p>When <span class="codeph"> auto</span> is set, in most desktop browsers and all iOS devices, the viewer uses HTML5 streaming video in HLS format. And, it falls back to progressive HTML5 playback on certain systems like older Internet Explorer and Android™. </p> <p>When <span class="codeph"> progressive</span> is set, the viewer relies only on HTML5 playback as natively supported by browsers and plays video progressively on all systems. </p> <p>For more information on the playback selection in <span class="codeph"> auto</span> and <span class="codeph"> progressive</span> native modes, see the HTML5 Viewers SDK User Guide. </p> </td> 
   </tr> 
  </tbody> 
 </table>

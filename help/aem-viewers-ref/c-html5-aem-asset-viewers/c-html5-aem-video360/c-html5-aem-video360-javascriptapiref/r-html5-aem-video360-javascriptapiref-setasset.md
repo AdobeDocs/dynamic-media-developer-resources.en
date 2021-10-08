@@ -1,7 +1,7 @@
 ---
+title: setAsset
 description: JavaScript API reference for Video360 Viewer.
 solution: Experience Manager
-title: setAsset
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,User
 exl-id: 1fcd7dbe-d122-4501-92f4-3ce93a94a933

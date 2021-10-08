@@ -1,7 +1,7 @@
 ---
+title: VideoTime.timepattern
 description: Configuration attribute for Video360 Viewer.
 solution: Experience Manager
-title: VideoTime.timepattern
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,User
 exl-id: a3a4f3f9-b6ef-4ee2-b006-578b743698ad

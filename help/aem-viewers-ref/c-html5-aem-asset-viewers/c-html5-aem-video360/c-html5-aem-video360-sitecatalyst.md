@@ -1,7 +1,7 @@
 ---
+title: Support for Adobe Analytics tracking
 description: Support for Adobe Analytics tracking
 solution: Experience Manager
-title: Support for Adobe Analytics tracking
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,User,Data Engineer,Data Architect
 exl-id: fb58a388-e4da-475d-b726-d5a32e99cce0
@@ -12,7 +12,7 @@ By default, the viewer sends a single tracking HTTP request to the configured Im
 
 ## Custom tracking {#section-cda48fc9730142d0bb3326bac7df3271}
 
-To integrate with third-party analytics systems it is necessary to listen to the `trackEvent` viewer callback and process the `eventInfo` argument of the callback function as necessary. The following code is an example of such handler function:
+To integrate with third-party analytics systems, it is necessary to listen to the `trackEvent` viewer callback and process the `eventInfo` argument of the callback function as necessary. The following code is an example of such handler function:
 
 ```
 var interactiveVideoViewer = new s7viewers.InteractiveVideoViewer({ 

@@ -1,7 +1,7 @@
 ---
+title: Mutable volume
 description: The mutable volume control initially appears as a button that lets a user mute or unmute the video player sound.
 solution: Experience Manager
-title: Mutable volume
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,User
 exl-id: eb30ea49-e0ae-4ef4-a5b3-e245d96ce0db

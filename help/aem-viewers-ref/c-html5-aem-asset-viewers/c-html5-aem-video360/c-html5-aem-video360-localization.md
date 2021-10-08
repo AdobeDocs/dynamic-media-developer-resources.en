@@ -1,14 +1,14 @@
 ---
-description: Certain content that is displayed by the viewer is subject to localization. This includes user interface element tool tips and an error message displayed when the video cannot play.
-solution: Experience Manager
 title: Localization of user interface elements
+description: Certain content that is displayed by the viewer is subject to localization. Such content includes user interface element tool tips and an error message displayed when the video cannot play.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,User
 exl-id: d54fd841-2246-4d2e-8bf9-7da56f2487f3
 ---
 # Localization of user interface elements{#localization-of-user-interface-elements}
 
-Certain content that is displayed by the viewer is subject to localization. This includes user interface element tool tips and an error message displayed when the video cannot play.
+Certain content that is displayed by the viewer is subject to localization. Such content includes user interface element tool tips and an error message displayed when the video cannot play.
 
 Every textual content in the viewer that can be localized is represented by a special Viewer SDK identifier called SYMBOL. Any SYMBOL has a default associated text value for the English locale ( `"en"`) supplied with the out-of-the-box viewer. It may also have user-defined values set for as many locales as needed.
 
@@ -48,7 +48,7 @@ The following SYMBOLs are supported:
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> Container.LABEL </span> </p> </td> 
-   <td colname="col2"> <p>ARIA label for top level viewer element. </p> </td> 
+   <td colname="col2"> <p>ARIA label for top-level viewer element. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> PlayPauseButton.TOOLTIP_SELECTED </span> </p> </td> 

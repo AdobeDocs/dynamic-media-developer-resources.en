@@ -1,7 +1,7 @@
 ---
+title: Video360Player.posterimage
 description: Configuration attribute for Video360 Viewer.
 solution: Experience Manager
-title: Video360Player.posterimage
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,User
 exl-id: fffd0976-0aeb-4e61-981f-b84e9076f35f
@@ -21,7 +21,7 @@ Configuration attribute for Video360 Viewer.
       <li id="li_E7AE1BDAC17E49E0B7ACF89C5C0529F0"> <p> <span class="codeph"> ?</span> as <span class="codeph"> %3F</span> </p> </li> 
       <li id="li_391CCF067F734480B2B4AFC9760C479A"> <p> <span class="codeph"> &amp;</span> as <span class="codeph"> %26</span> </p> </li> 
       <li id="li_6824B66A55554C5A8B12874DCF5BFAEE"> <p> <span class="codeph"> =</span> as <span class="codeph"> %3D</span> </p> </li> 
-     </ul> </p> <p> This modifier works for the video content hosted on Dynamic Media Classic or AEM Dynamic Media. </p> <p>To prevent the display of the default poster image, specify <span class="codeph"> none</span> as the poster image value. </p> </td> 
+     </ul> </p> <p> This modifier works for the video content hosted on Dynamic Media Classic or Adobe Experience Manager, Dynamic Media. </p> <p>To prevent the display of the default poster image, specify <span class="codeph"> none</span> as the poster image value. </p> </td> 
   </tr> 
  </tbody> 
 </table>

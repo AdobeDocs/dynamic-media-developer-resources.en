@@ -1,7 +1,7 @@
 ---
+title: JavaScript API reference for Video360 Viewer
 description: The main class of the Video360Viewer is Video360Viewer. It is declared in the s7viewers namespace. This JavaScript API covers constructor, methods, and callbacks of this particular class.
 solution: Experience Manager
-title: JavaScript API reference for Video360 Viewer
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,User
 exl-id: b4feada6-c12a-4c44-b560-286f87d88d2c

@@ -1,7 +1,7 @@
 ---
+title: Command reference – Configuration attributes
 description: Configuration attributes documentation for Video360 Viewer.
 solution: Experience Manager
-title: Command reference – Configuration attributes
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,User
 exl-id: 75a9e83a-2f6e-4bfa-8881-52f8fe06f2fd
@@ -16,7 +16,7 @@ Some configuration commands may be prefixed with the class name or instance name
 
 `[VideoPlayer.|<containerId>_videoPlayer].playback`
 
-which means that you can use this command as:
+Meaning that you can use this command in the following:
 
 * `playback` (short syntax) 
 * `VideoPlayer.playback` (qualified with component class name) 

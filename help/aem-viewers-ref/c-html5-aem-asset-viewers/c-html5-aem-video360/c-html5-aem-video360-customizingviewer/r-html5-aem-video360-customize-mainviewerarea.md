@@ -1,14 +1,14 @@
 ---
-description: The main view area is the area occupied by the 360 video. It is usually set to fit the available device screen when no size is specified.
-solution: Experience Manager
 title: Main viewer area
+description: The main view area is the area occupied by the 360 video. It is set to fit the available device screen when no size is specified.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,User
 exl-id: 912cb4b3-6409-48ed-9b9c-968b63718a1b
 ---
 # Main viewer area{#main-viewer-area}
 
-The main view area is the area occupied by the 360 video. It is usually set to fit the available device screen when no size is specified.
+The main view area is the area occupied by the 360 video. It is set to fit the available device screen when no size is specified.
 
 <!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 

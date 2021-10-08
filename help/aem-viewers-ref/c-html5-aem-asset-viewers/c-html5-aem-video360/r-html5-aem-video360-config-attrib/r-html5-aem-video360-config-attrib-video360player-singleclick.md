@@ -1,7 +1,7 @@
 ---
+title: Video360Player.singleclick
 description: Configuration attribute for Video360 Viewer.
 solution: Experience Manager
-title: Video360Player.singleclick
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,User
 exl-id: dfb44ed5-5f4f-4a2c-a3b4-d49502556399
@@ -16,7 +16,7 @@ Configuration attribute for Video360 Viewer.
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> none|playPause</span> </p> </td> 
-   <td colname="col2"> <p> Configures the mapping of single-click/tap to toggle play/pause. Setting to <span class="codeph"> none</span> disables single-click/tap to play/pause. If set to <span class="codeph"> playPause</span> then clicking on the video toggles between playing and pausing the video. On some devices you can use native controls. In this case, a <span class="codeph"> singleclick</span> behavior is disabled. </p> </td> 
+   <td colname="col2"> <p> Configures the mapping of single-click/tap to toggle play/pause. Setting to <span class="codeph"> none</span> disables single-click/tap to play/pause. If set to <span class="codeph"> playPause</span>, then selecting the video toggles between playing and pausing the video. On some devices, you can use native controls. In this case, a <span class="codeph"> singleclick</span> behavior is disabled. </p> </td> 
   </tr> 
  </tbody> 
 </table>

@@ -1,7 +1,7 @@
 ---
+title: Video360Player.waiticon
 description: Configuration attribute for Video360 Viewer.
 solution: Experience Manager
-title: Video360Player.waiticon
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,User
 exl-id: 203dc041-c399-4668-b9f4-44241feb5a82
