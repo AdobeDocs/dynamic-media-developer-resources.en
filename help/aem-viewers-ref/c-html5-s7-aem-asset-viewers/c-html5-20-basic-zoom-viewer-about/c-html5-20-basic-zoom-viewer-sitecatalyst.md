@@ -1,10 +1,7 @@
 ---
-description: The Basic Zoom Viewer supports Adobe Analytics tracking out of the box.
-
-
-solution: Experience Manager
 title: Support for Adobe Analytics tracking
-
+description: The Basic Zoom Viewer supports Adobe Analytics tracking out of the box.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User,Data Engineer,Data Architect
 exl-id: 5b9d871d-9f37-4908-900e-3f0ecc98bc0c
@@ -21,7 +18,7 @@ The viewer also sends a single tracking HTTP request to the configured Image Ser
 
 ## Custom tracking {#section-cda48fc9730142d0bb3326bac7df3271}
 
-To integrate with third-party analytics systems it is necessary to listen to the `trackEvent` viewer callback and process the `eventInfo` argument of the callback function as necessary. The following code is an example of such handler function:
+To integrate with third-party analytics systems, it is necessary to listen to the `trackEvent` viewer callback and process the `eventInfo` argument of the callback function as necessary. The following code is an example of such handler function:
 
 ```
 var basicZoomViewer = new s7viewers.BasicZoomViewer({ 

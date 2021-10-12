@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Basic Zoom Viewer.
-
-
-solution: Experience Manager
 title: setAsset
-
+description: JavaScript API reference for Basic Zoom Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: 71525aac-b8ca-4f5a-a770-268857ddae4f

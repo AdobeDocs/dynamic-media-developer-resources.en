@@ -1,10 +1,7 @@
 ---
-description: Clicking or tapping this button zooms out on an image in the main view. This button does not display on mobile phones in order to save screen real estate. You can size, skin, and position this button by using CSS.
-
-
-solution: Experience Manager
 title: Zoom out button
-
+description: Clicking or tapping this button zooms out on an image in the main view. This button does not display on mobile phones in order to save screen real estate. You can size, skin, and position this button by using CSS.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: fc808c7e-fca1-47b1-844d-7a412a826a1f
@@ -72,7 +69,7 @@ The appearance of the button is controlled with the following CSS class selector
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-20-basic-zoom-viewer-about/c-html5-20-basic-zoom-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
 
-Example - to set up a zoom out button that is 32 x 32 pixels, positioned six pixels from the top and right edge of the viewer, and displays a different image for each of the four different button states.
+Example - to set up a zoom out button that is 32 x 32 pixels and positioned six pixels from the top and right edge of the viewer. It must display a different image for each of the four different button states.
 
 ```
 .s7basiczoomviewer .s7zoomoutbutton { 

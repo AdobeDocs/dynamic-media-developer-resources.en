@@ -1,8 +1,7 @@
 ---
+title: ZoomView.rgnN
 description: ZoomView.rgnN
 solution: Experience Manager
-title: ZoomView.rgnN
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: b7346f72-5fe9-4608-8ea0-27012b73b696

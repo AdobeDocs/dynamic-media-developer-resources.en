@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Basic Zoom Viewer.
-
-
-solution: Experience Manager
 title: setParam
-
+description: JavaScript API reference for Basic Zoom Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: 5a34ad67-3a4c-408c-8e20-bbab87bbd470
