@@ -1,8 +1,8 @@
 ---
+title: Smart Crop Video
 description: The Smart Crop Video Viewer is a video player that plays streaming and progressive video encoded in the H.264 format with the addition of smart crop support. It is delivered from Dynamic Media Classic or Adobe Experience Manager with Dynamic Media.
 keywords: responsive
 solution: Experience Manager
-title: Smart Crop Video
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
 role: Developer,User
 exl-id: fa9727dc-f9e2-4d91-b500-445693dfb6aa
@@ -35,7 +35,16 @@ See [Command reference common to all viewers - Configuration attributes](../../r
 
 ## Interacting with Smart Crop Video Viewer {#section-ab66eb6955aa4a8aa6d14a3b3acfed3f}
 
-Smart Crop Video Viewer provides a set of standard user interface controls for video playback, like a play/pause button, video scrubber video time bubble, played time/total time indicator, volume control, full screen button, and closed caption toggle. All these controls are grouped into a control bar at the bottom of the viewer user interface.
+Smart Crop Video Viewer provides a set of standard user interface controls for video playback, such as:
+
+* A Play/Pause button.
+* Video scrubber video time bubble.
+* Played time/total time indicator.
+* Volume control.
+* Full screen button.
+* Closed caption toggle.
+
+All these controls are grouped into a control bar at the bottom of the viewer user interface.
 
 On touch devices, volume control is hidden from the user interface, because it is only possible to control volume using the hardware buttons.
 

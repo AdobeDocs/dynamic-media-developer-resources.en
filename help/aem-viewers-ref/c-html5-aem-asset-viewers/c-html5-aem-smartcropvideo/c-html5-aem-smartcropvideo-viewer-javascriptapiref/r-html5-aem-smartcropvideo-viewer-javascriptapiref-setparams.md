@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Smart Crop Video Viewer.
-
-
-solution: Experience Manager
 title: setParams
-
+description: JavaScript API reference for Smart Crop Video Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
 role: Developer,User
 exl-id: 76bad894-bfb8-4d79-b3ff-c2497c68e5e8
@@ -15,7 +12,7 @@ JavaScript API reference for Smart Crop Video Viewer.
 
  ` setParams( *`params`*)`
 
-Sets one or more parameters to a given value. The method argument syntax is identical to a URL query string. That is, it represents name=value pairs separated with `&`. The same as in a query string, names and values are percent-encoded using UTF8. Before you call `init()`, this parameter must be called.
+Sets one or more parameters to a given value. The method argument syntax is identical to a URL query string. That is, it represents name=value pairs separated with `&`. The same as in a query string, names, and values are percent-encoded using UTF8. Before you call `init()`, this parameter must be called.
 
 This method is optional if the viewer configuration information is passed with `config` JSON object to the constructor.
 

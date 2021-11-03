@@ -1,10 +1,7 @@
 ---
-description: Configuration attribute for Smart Crop Video Viewer.
-
-
-solution: Experience Manager
 title: SmartCropVideoPlayer.mutevolume
-
+description: Configuration attribute for Smart Crop Video Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
 role: Developer,User
 exl-id: 8f644a40-7fd9-4edd-be29-698635b46507
@@ -19,7 +16,7 @@ Configuration attribute for Smart Crop Video Viewer.
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> 0|1 </span> </p> </td> 
-   <td colname="col2"> <p> Sets muted mode for video playback on initial load. If set to <span class="codeph"> 1 </span> the volume is muted; otherwise, the video plays with sound. On certain devices muting video playback on load also allows the video to auto play. </p> </td> 
+   <td colname="col2"> <p> Sets muted mode for video playback on initial load. If set to <span class="codeph"> 1 </span> the volume is muted; otherwise, the video plays with sound. On certain devices, muting video playback on load also allows the video to auto play. </p> </td> 
   </tr> 
  </tbody> 
 </table>

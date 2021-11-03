@@ -1,10 +1,7 @@
 ---
-description: Configuration attribute for Smart Crop Video Viewer.
-
-
-solution: Experience Manager
 title: SmartCropVideoPlayer.playback
-
+description: Configuration attribute for Smart Crop Video Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
 role: Developer,User
 exl-id: 54a10b30-ebf5-4f1e-aa4a-b09055453c4e
@@ -19,7 +16,7 @@ Configuration attribute for Smart Crop Video Viewer.
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> auto|progressive</span> </p> </td> 
-   <td colname="col2"> <p> Sets the type of playback used by the viewer. When <span class="codeph"> auto</span> is set, on most desktop browsers and all iOS devices, the viewer uses HTML5 streaming video in HLS format. It falls back to progressive HTML5 playback on certain systems like older Internet Explorer and Android. </p> <p>If <span class="codeph"> progressive</span> is specified, the viewer relies only on HTML5 playback as natively supported by browsers and plays video progressively on all systems. </p> <p>For more information on the playback selection in auto and progressive modes please consult the Viewer SDK User Guide. </p> </td> 
+   <td colname="col2"> <p> Sets the type of playback used by the viewer. When <span class="codeph"> auto</span> is set, on most desktop browsers and all iOS devices, the viewer uses HTML5 streaming video in HLS format. It falls back to progressive HTML5 playback on certain systems like older Internet Explorer and Android™. </p> <p>If <span class="codeph"> progressive</span> is specified, the viewer relies only on HTML5 playback as natively supported by browsers and plays video progressively on all systems. </p> <p>For more information on the playback selection in auto and progressive modes, consult the Viewer SDK User Guide. </p> </td> 
   </tr> 
  </tbody> 
 </table>

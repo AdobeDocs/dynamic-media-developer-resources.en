@@ -1,10 +1,7 @@
 ---
-description: Command reference documentation for Smart Crop Video Viewer.
-
-
-solution: Experience Manager
 title: Command reference – URL
-
+description: Command reference documentation for Smart Crop Video Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
 role: Developer,User
 exl-id: 1ed78e0d-9b93-4c66-b558-fac15c51e944
@@ -21,7 +18,7 @@ You can prefix some configuration commands with the class name or the instance n
 [SmartCropVideoPlayer.|<containerId>_smartCropVideoPlayer].playback
 ```
 
-which means that this command is used in the following manner:
+Which means that this command is used in the following manner:
 
 * `playback` (short syntax) 
 * `SmartCropVideoPlayer.playback` (qualified with component class name) 

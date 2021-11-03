@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Smart Crop Video Viewer.
-
-
-solution: Experience Manager
 title: dispose
-
+description: JavaScript API reference for Smart Crop Video Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
 role: Developer,User
 exl-id: c4bcccdc-6f23-4213-a1d1-03c5c62ba484
@@ -19,9 +16,9 @@ Disposes this viewer instance by releasing all resources used by the viewer logi
 
 The web page code should also delete the viewer instance variable as well to completely remove the viewer from the web browser memory.
 
-If the web page code has registered event listeners directly on Viewer SDK components used by the viewer-or stored external references to such components-such listeners must be explicitly unregistered by the web page code, and such external component references must be deleted prior to calling `dispose()`.
+If the web page code has registered event listeners directly on Viewer SDK components used by the viewer &ndash; or stored external references to such components &ndash; such listeners must be explicitly unregistered by the web page code. And, such external component references must be deleted before calling `dispose()`.
 
-Do not access the Viewer API any more after `dispose()` is called.
+Do not access the Viewer API anymore after `dispose()` is called.
 
 ## Parameters {#section-ad069aaaf4f145f2b50ae5ac89ca1ed2}
 

@@ -1,10 +1,7 @@
 ---
-description: Configuration attribute for Smart Crop Video Viewer.
-
-
-solution: Experience Manager
 title: SmartCropVideoPlayer.progressivebitrate
-
+description: Configuration attribute for Smart Crop Video Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
 role: Developer,User
 exl-id: 7f9f1bfe-c68f-4ad4-a4a3-e0a8952e07af
@@ -19,7 +16,7 @@ Configuration attribute for Smart Crop Video Viewer.
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> value</span> </p> </td> 
-   <td colname="col2"> <p> Specifies (in kbits per seconds or kbps) the desired video bit rate to play from an Adaptive Video Set in case the current system does not support adaptive video playback. </p> <p>The component picks up the video stream with the closest possible (but not exceeding) bitrate to the specified value. If all video streams in the Adaptive Video Set have higher quality than the specified value, the logic chooses the bitrate with the lowest quality. </p> </td> 
+   <td colname="col2"> <p> Specifies the desired video bit rate &ndash; in kilobits per second or Kbps &ndash; to play from an Adaptive Video Set in case the current system does not support adaptive video playback. </p> <p>The component picks up the video stream with the closest possible (but not exceeding) bitrate to the specified value. If all video streams in the Adaptive Video Set have higher quality than the specified value, the logic chooses the bitrate with the lowest quality. </p> </td> 
   </tr> 
  </tbody> 
 </table>

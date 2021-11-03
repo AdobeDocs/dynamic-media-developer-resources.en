@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Smart Crop Video Viewer.
-
-
-solution: Experience Manager
 title: setParam
-
+description: JavaScript API reference for Smart Crop Video Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
 role: Developer,User
 exl-id: b28ffb51-1091-4f2e-b12d-904218daf117

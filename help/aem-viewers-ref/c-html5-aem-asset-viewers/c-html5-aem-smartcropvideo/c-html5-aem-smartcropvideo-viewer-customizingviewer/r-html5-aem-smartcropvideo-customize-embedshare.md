@@ -1,10 +1,7 @@
 ---
-description: Embed share tool consists of a button added to the Social share panel and the modal dialog box that displays when the tool is activated. The position of the button is fully managed by the Social share tool.
-
-
-solution: Experience Manager
 title: Embed share
-
+description: Embed share tool consists of a button added to the Social share panel and the modal dialog box that displays when the tool is activated. The position of the button is fully managed by the Social share tool.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
 role: Developer,User
 exl-id: e29a81b8-67f3-4367-b21c-d5902420bc85
@@ -52,7 +49,7 @@ It is possible to remove the button from the Social share panel by setting `disp
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-aem-asset-viewers/c-html5-aem-smartcropvideo/r-html5-aem-smartcropvideo-viewer-localization.md#concept-1d5ca2d8480f4064a51eddba13940aad) for more information.
 
-Example - to set up a embed share button that is 28 x 28 pixels, and displays a different image for each of the four different button states:
+Example - To set up an Embed Share button that is 28 x 28 pixels, and displays a different image for each of the four different button states:
 
 ```
 .s7smartcropvideoviewer .s7embedshare { 
@@ -73,7 +70,7 @@ background-image:url(images/v2/EmbedShare_dark_disabled.png);
 }
 ```
 
-The background overlay that covers the web page when the dialog box is active is controlled with the following CSS class selector:
+The background overlay that covers the web page when the dialog box is active, is controlled with the following CSS class selector:
 
 ```
 .s7smartcropvideoviewer .s7embeddialog .s7backoverlay
@@ -159,7 +156,7 @@ Dialog box header consists of an icon, a title text, and a close button. The hea
  </tbody> 
 </table>
 
-The icon and the title text are wrapped into an additional container controlled with
+The icon and the title text are wrapped into an extra container controlled with
 
 ```
 .s7smartcropvideoviewer .s7embeddialog .s7dialogheader .s7dialogline
@@ -281,7 +278,7 @@ Close button is controlled with the following CSS class selector:
 
 The Close button tool tip and the dialog box title can be localized. See [Localization of user interface elements](../../../c-html5-aem-asset-viewers/c-html5-aem-smartcropvideo/r-html5-aem-smartcropvideo-viewer-localization.md#concept-1d5ca2d8480f4064a51eddba13940aad) for more information.
 
-Example - to set up dialog header with padding, 24 x 14 pixels icon, bold 16 point title, and 28 x 28 pixels close button, positioned two pixels from the top, and two pixels from the right of dialog container:
+Example - To set up a dialog box header with padding, 24 x 14 pixels icon, bold 16-point title, and a 28 x 28 pixel Close button. Finally, have it positioned two pixels from the top, and two pixels from the right of dialog box container:
 
 ```
 .s7smartcropvideoviewer .s7embeddialog .s7dialogheader { 
@@ -423,7 +420,7 @@ Cancel button is controlled with the following CSS class selector:
 >
 >The cancel button supports the `state` attribute selector, which can be used to apply different skins to different button states.
 
-In addition, both buttons share the same common CSS class which can contain CSS settings that are the same for other dialog box buttons:
+In addition, both buttons share common CSS class which can contain CSS settings that are the same for other dialog box buttons:
 
 ```
 .s7smartcropvideoviewer .s7embeddialog .s7dialogfooter .s7button
@@ -576,7 +573,7 @@ If the height of this container appears to be bigger than the main dialog box ar
  </tbody> 
 </table>
 
-Example - to set up form content to have ten pixel padding:
+Example - To set up form content to have ten pixel padding:
 
 ```
 .s7smartcropvideoviewer .s7embeddialog .s7dialogbody { 
@@ -633,7 +630,7 @@ The size of the text copy displayed on top of the embed code is controlled with 
 .s7smartcropvideoviewer .s7embeddialog .s7dialoginputwide
 ```
 
-**CSS properties of the dialog box input wide field** 
+**CSS properties of the dialog box input-wide field** 
 
 <table id="table_7275B4365DFA4C0386FA2BDB7204A517"> 
  <tbody> 
@@ -709,7 +706,7 @@ The actual embed code text is controlled with the following CSS class selector:
  </tbody> 
 </table>
 
-Example - to set up embed code to use `break-word` word wrapping:
+Example - To set up the embed code to use `break-word` word wrapping:
 
 ```
 .s7smartcropvideoviewer .s7embeddialog .s7dialogmessage { 
@@ -717,7 +714,7 @@ Example - to set up embed code to use `break-word` word wrapping:
 }
 ```
 
-Embed size label and drop-down are located in the bottom of the dialog box and put into a container controlled with the following CSS class selector:
+Embed size label and drop-down are at the bottom of the dialog box and put into a container controlled with the following CSS class selector:
 
 ```
 .s7smartcropvideoviewer .s7embeddialog .s7dialogembedsizepanel
@@ -791,7 +788,7 @@ The width of the embed size combo box is controlled with the following CSS class
 
 >[!NOTE]
 >
->The combo box supports the `expanded` attribute selector with possible values of `true` and `false`. `true` is used when combo box displays one of pre-defined embed sizes, thus should take all available width. `false` is used when custom size option is selected in the combo box, so it should shrink to allow space for custom width and height input fields.
+>The combo box supports the `expanded` attribute selector with possible values of `true` and `false`. The `true` value is used when combo box displays one of pre-defined embed sizes, thus should take all available width. The `false` value is used when custom size option is selected in the combo box, so it should shrink to allow space for custom width and height input fields.
 
 Example - to set the embed size combo box to be 300 pixels wide when showing a pre-defined item and 110 pixels wide when showing a custom size:
 
@@ -889,7 +886,7 @@ Example - to set a "drop down" button to 28 x 28 pixels and have a separate imag
 }
 ```
 
-The panel with the list of embed sizes displayed when combo box is opened is controlled with the following CSS class selector:
+The panel with the list of embed sizes displayed when the combo box is opened, is controlled with the following CSS class selector:
 
 ```
 .s7smartcropvideoviewer .s7embeddialog .s7comboboxdropdown
@@ -980,7 +977,7 @@ Example - to set the check mark icon to 25 x 25 pixels:
 }
 ```
 
-When "Custom Size" option is selected in the embed size combo box the dialog box displays two extra input fields to the right to allow the user to enter a custom embed size. Those fields are wrapped in a container that is controlled with the following CSS class selector:
+When the "Custom Size" option is selected in the embed size combo box, the dialog box displays two extra input fields to the right to allow the user to enter a custom embed size. Those fields are wrapped in a container that is controlled with the following CSS class selector:
 
 ```
 .s7smartcropvideoviewer .s7embeddialog .s7dialogcustomsizepanel
@@ -1034,7 +1031,7 @@ Each custom size input field is wrapped in a container that renders a border and
  </tbody> 
 </table>
 
-Example - to set the custom size input fields to have a one pixel grey border, margin, padding and be 70 pixels wide:
+Example - to set the custom size input fields to have a one pixel grey border, margin, padding, and be 70 pixels wide:
 
 ```
 .s7smartcropvideoviewer .s7embeddialog .s7dialogcustomsize { 
