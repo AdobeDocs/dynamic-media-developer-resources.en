@@ -1,5 +1,5 @@
 ---
-description: Twitter share tool consists of a button added to the Social share panel. When the button is clicked the user is redirected to a sharing dialog box that is provided by a social service. The position of the button is fully managed by the Social share tool.
+description: Twitter share tool consists of a button added to the Social share panel. When the button is selected the user is redirected to a sharing dialog box that is provided by a social service. The position of the button is fully managed by the Social share tool.
 
 
 solution: Experience Manager
@@ -11,7 +11,7 @@ exl-id: 1db2600d-d13f-4563-b40a-098485e0ddf9
 ---
 # Twitter share{#twitter-share}
 
-Twitter share tool consists of a button added to the Social share panel. When the button is clicked the user is redirected to a sharing dialog box that is provided by a social service. The position of the button is fully managed by the Social share tool.
+Twitter share tool consists of a button added to the Social share panel. When the button is selected the user is redirected to a sharing dialog box that is provided by a social service. The position of the button is fully managed by the Social share tool.
 
 <!--<a id="section_ADDF98E91AF24F618289D1682A5FB13A"></a>-->
 
