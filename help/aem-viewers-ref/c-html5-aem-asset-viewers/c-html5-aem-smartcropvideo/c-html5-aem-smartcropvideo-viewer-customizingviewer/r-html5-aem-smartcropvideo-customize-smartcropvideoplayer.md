@@ -4,7 +4,7 @@ description: The smart crop video player is the rectangular area where the video
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: 2741821f-78fe-44d4-8604-fee10086e0a0
+exl-id: 
 ---
 # Video player{#video-player}
 

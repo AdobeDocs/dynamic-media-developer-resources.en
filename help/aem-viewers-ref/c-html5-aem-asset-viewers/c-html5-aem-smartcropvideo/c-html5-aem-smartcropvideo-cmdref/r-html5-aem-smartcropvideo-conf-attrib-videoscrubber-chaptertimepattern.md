@@ -4,7 +4,7 @@ description: Configuration attribute for Smart Crop Video Viewer.
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: a159153a-c082-4415-9515-7b480282a31f
+exl-id: 
 ---
 # VideoScrubber.chaptertimepattern{#videoscrubber-chaptertimepattern}
 

@@ -4,7 +4,7 @@ description: The social share tool appears in the top-right corner by default. I
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: 82b482f9-b117-4529-a422-cdb0eead0031
+exl-id: 
 ---
 # Social share{#social-share}
 

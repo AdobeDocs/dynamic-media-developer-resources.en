@@ -4,7 +4,7 @@ description: Embed share tool consists of a button added to the Social share pan
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: e29a81b8-67f3-4367-b21c-d5902420bc85
+exl-id: 
 ---
 # Embed share{#embed-share}
 

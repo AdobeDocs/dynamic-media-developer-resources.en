@@ -4,7 +4,7 @@ description: Configuration attribute for Smart Crop Video Viewer.
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: 133717c7-38d9-47b6-86bb-e23ebd8f147a
+exl-id:
 ---
 # ControlBar.transition{#controlbar-transition}
 

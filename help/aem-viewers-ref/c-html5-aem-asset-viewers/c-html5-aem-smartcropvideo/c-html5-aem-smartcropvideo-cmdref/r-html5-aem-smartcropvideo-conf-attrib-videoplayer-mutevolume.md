@@ -4,7 +4,7 @@ description: Configuration attribute for Smart Crop Video Viewer.
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: 8f644a40-7fd9-4edd-be29-698635b46507
+exl-id:
 ---
 # SmartCropVideoPlayer.mutevolume{#smartcropvideoplayer-mutevolume}
 

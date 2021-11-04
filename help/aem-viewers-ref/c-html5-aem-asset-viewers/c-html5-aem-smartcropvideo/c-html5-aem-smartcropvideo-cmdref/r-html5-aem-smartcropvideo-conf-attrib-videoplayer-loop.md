@@ -4,7 +4,7 @@ description: Configuration attribute for Smart Crop Video Viewer.
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: 92d22f5d-0ba8-4ea2-bba6-2275efdd1fe0
+exl-id:
 ---
 # SmartCropVideoPlayer.loop{#smartcropvideoplayer-loop}
 

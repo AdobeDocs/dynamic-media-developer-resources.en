@@ -4,7 +4,7 @@ description: The video scrubber is the horizontal slider control that lets a use
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: 404e39d4-565e-4dde-b2bd-fa83a895d001
+exl-id: 
 ---
 # Video scrubber{#video-scrubber}
 
