@@ -2,7 +2,7 @@
 title: Control bar
 description: The control bar is the rectangular area that contains and sits behind all the UI controls available for the Smart Crop Video viewer, such as the play/pause button and volume controls.
 solution: Experience Manager
-feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
+feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 exl-id: 2239307a-4a05-4392-b35c-a64ea6c938ad
 ---

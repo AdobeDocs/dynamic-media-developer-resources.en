@@ -2,7 +2,7 @@
 title: SmartCropVideoPlayer.progressivebitrate
 description: Configuration attribute for Smart Crop Video Viewer.
 solution: Experience Manager
-feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
+feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 exl-id: 7f9f1bfe-c68f-4ad4-a4a3-e0a8952e07af
 ---

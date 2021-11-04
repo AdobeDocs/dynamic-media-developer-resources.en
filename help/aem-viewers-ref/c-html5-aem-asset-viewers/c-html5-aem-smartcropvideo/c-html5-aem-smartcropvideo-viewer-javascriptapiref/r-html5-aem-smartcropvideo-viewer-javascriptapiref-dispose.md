@@ -2,7 +2,7 @@
 title: dispose
 description: JavaScript API reference for Smart Crop Video Viewer.
 solution: Experience Manager
-feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
+feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 exl-id: c4bcccdc-6f23-4213-a1d1-03c5c62ba484
 ---

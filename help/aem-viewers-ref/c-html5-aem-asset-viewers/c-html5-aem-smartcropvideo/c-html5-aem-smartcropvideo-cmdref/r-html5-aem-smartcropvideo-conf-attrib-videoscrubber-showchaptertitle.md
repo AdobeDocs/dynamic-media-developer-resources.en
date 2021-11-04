@@ -2,7 +2,7 @@
 title: VideoScrubber.showchaptertitle
 description: Configuration attribute for Smart Crop Video Viewer.
 solution: Experience Manager
-feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
+feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 exl-id: a1bdea01-ca59-4922-a20f-862ca387d1b5
 ---

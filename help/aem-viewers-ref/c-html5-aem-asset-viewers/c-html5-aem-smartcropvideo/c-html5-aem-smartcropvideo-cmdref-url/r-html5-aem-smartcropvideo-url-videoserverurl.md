@@ -2,7 +2,7 @@
 title: videoServerUrl
 description: URL command for Smart Crop Video Viewer.
 solution: Experience Manager
-feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
+feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 exl-id: 945c32e0-a67b-4c27-b661-26510615d757
 ---

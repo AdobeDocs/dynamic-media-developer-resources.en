@@ -2,7 +2,7 @@
 title: Full screen button
 description: The full screen button causes the Smart Crop Video player to enter or exit full screen mode when a user clicks it.
 solution: Experience Manager
-feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
+feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 exl-id: 120f0ee9-e76b-48d5-8ea7-8be5a8f52edc
 ---

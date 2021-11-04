@@ -2,7 +2,7 @@
 title: init
 description: JavaScript API reference for Smart Crop Video Viewer.
 solution: Experience Manager
-feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
+feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 exl-id: d46a9c8b-064a-4928-b30e-885b12d287ab
 ---

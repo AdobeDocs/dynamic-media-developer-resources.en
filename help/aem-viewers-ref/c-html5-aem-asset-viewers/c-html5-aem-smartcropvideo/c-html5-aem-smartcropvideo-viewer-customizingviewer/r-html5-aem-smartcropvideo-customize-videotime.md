@@ -2,7 +2,7 @@
 title: Video time
 description: The video time is the numeric display that shows the current time and duration of the currently playing video.
 solution: Experience Manager
-feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
+feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 exl-id: 83491281-aff4-411a-a5a2-42e2454fd375
 ---

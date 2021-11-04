@@ -2,7 +2,7 @@
 title: SmartCropVideoPlayer.playback
 description: Configuration attribute for Smart Crop Video Viewer.
 solution: Experience Manager
-feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
+feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 exl-id: 54a10b30-ebf5-4f1e-aa4a-b09055453c4e
 ---

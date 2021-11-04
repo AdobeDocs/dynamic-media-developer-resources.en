@@ -2,7 +2,7 @@
 title: Twitter share
 description: Twitter share tool consists of a button added to the Social share panel. When the button is selected, the user is redirected to a sharing dialog box that is provided by a social service. The position of the button is fully managed by the Social share tool.
 solution: Experience Manager
-feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
+feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 exl-id: 1db2600d-d13f-4563-b40a-098485e0ddf9
 ---

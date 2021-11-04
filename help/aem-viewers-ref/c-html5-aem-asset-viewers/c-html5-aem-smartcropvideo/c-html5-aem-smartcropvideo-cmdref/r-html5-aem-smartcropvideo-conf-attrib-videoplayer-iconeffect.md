@@ -2,7 +2,7 @@
 title: SmartCropVideoPlayer.iconeffect
 description: Configuration attribute for Smart Crop Video Viewer.
 solution: Experience Manager
-feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
+feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 exl-id: b283b495-ee28-4f9d-ad4d-b14ac2f9a1a2
 ---
