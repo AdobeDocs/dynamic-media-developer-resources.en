@@ -2,9 +2,9 @@
 title: video
 description: URL command for Smart Crop Video Viewer.
 solution: Experience Manager
-feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
+feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: 03347280-64f8-47da-b33b-0fa1ba2bc59a
+exl-id: 
 ---
 # video{#video}
 

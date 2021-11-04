@@ -3,9 +3,9 @@ title: Customizing Smart Crop Video Viewer
 description: Customizing Smart Crop Video Viewer
 keywords: responsive
 solution: Experience Manager
-feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
+feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: 90dc93ee-fdd0-41c9-9eef-4c9952198356
+exl-id: 
 ---
 # Customizing Smart Crop Video Viewer{#customizing-smartcrop-video-viewer}
 

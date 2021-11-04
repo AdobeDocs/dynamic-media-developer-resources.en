@@ -2,9 +2,9 @@
 title: SmartCropVideoPlayer.initialbitrate
 description: Configuration attribute for Smart Crop Video Viewer.
 solution: Experience Manager
-feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
+feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: 83f2af31-e2dc-430c-b9ae-563cdcd20954
+exl-id:
 ---
 # SmartCropVideoPlayer.initialbitrate{#smartcropvideoplayer-initialbitrate}
 

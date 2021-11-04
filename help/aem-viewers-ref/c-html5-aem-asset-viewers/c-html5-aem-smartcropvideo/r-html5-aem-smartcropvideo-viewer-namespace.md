@@ -2,9 +2,9 @@
 title: Viewer SDK namespace
 description: Viewer SDK namespace
 solution: Experience Manager
-feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
+feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: d1f12c9d-9b00-44ee-bd91-76a4d882fecf
+exl-id: 
 ---
 # Viewer SDK namespace{#viewer-sdk-namespace}
 

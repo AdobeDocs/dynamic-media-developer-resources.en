@@ -2,9 +2,9 @@
 title: Link share
 description: Link share tool consists of a button added to the Social share panel and the modal dialog box that displays when the tool is activated. The position of the button is fully managed by the Social share tool.
 solution: Experience Manager
-feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
+feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: a80b47fd-0399-4d0a-8c11-cfa4acc5a713
+exl-id: 
 ---
 # Link share{#link-share}
 

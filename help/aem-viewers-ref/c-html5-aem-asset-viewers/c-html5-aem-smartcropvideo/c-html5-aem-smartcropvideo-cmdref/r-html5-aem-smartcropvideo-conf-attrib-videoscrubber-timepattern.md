@@ -2,9 +2,9 @@
 title: VideoScrubber.timepattern
 description: Configuration attribute for Smart Crop Video Viewer.
 solution: Experience Manager
-feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
+feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: e0956a0b-4d82-475f-8990-8b059014233a
+exl-id: 
 ---
 # VideoScrubber.timepattern{#videoscrubber-timepattern}
 

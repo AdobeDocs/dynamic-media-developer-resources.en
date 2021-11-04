@@ -2,9 +2,9 @@
 title: getComponent
 description: JavaScript API reference for Smart Crop Video Viewer
 solution: Experience Manager
-feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
+feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: 2f02371c-39c7-46fd-95a6-909efacac72c
+exl-id: 
 ---
 # getComponent{#getcomponent}
 

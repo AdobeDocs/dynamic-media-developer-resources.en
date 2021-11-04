@@ -2,9 +2,9 @@
 title: SmartCropVideoPlayer.waiticon
 description: Configuration attribute for Smart Crop Video Viewer.
 solution: Experience Manager
-feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
+feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: c5061a5c-44d7-4b42-a062-5ee622829429
+exl-id: 
 ---
 # SmartCropVideoPlayer.waiticon{#smartcropvideoplayer-waiticon}
 

@@ -1,5 +1,5 @@
 ---
-description: This button causes the viewer to enter or exit full screen mode when clicked by the user. This button is not display if the viewer works in pop-up mode and the system does not support native full screen. You can size, skin, and position this button by using CSS.
+description: This button causes the viewer to enter or exit full screen mode when selected by the user. This button is not display if the viewer works in pop-up mode and the system does not support native full screen. You can size, skin, and position this button by using CSS.
 
 
 solution: Experience Manager
@@ -11,7 +11,7 @@ exl-id: c57f42e1-93c0-44fa-9734-9599786ee246
 ---
 # Full screen button{#full-screen-button}
 
-This button causes the viewer to enter or exit full screen mode when clicked by the user. This button is not display if the viewer works in pop-up mode and the system does not support native full screen. You can size, skin, and position this button by using CSS.
+This button causes the viewer to enter or exit full screen mode when selected by the user. This button is not display if the viewer works in pop-up mode and the system does not support native full screen. You can size, skin, and position this button by using CSS.
 
 <!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 

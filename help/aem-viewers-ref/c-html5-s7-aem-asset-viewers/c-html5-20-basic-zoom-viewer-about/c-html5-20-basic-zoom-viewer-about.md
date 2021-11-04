@@ -77,7 +77,7 @@ See [Keyboard accessibility and navigation](../../c-keyboard-accessibility.md#to
 
 ## Embedding Basic Zoom Viewer {#section-6bb5d3c502544ad18a58eafe12a13435}
 
-Different web pages have different needs for viewer behavior. Sometimes a web page provides a link that, when clicked, opens the viewer in a separate browser window. In other cases, it is necessary to embed the viewer right in the hosting page. In the latter case, the web page may have a static page layout, or use responsive design that displays differently on different devices or for different browser window sizes. To accommodate these needs, the viewer supports three primary operation modes: pop-up, fixed size embedding, and responsive design embedding.
+Different web pages have different needs for viewer behavior. Sometimes a web page provides a link that, when selected, opens the viewer in a separate browser window. In other cases, it is necessary to embed the viewer right in the hosting page. In the latter case, the web page may have a static page layout, or use responsive design that displays differently on different devices or for different browser window sizes. To accommodate these needs, the viewer supports three primary operation modes: pop-up, fixed size embedding, and responsive design embedding.
 
 **About pop-up mode**
 

@@ -2,9 +2,9 @@
 title: Embed share
 description: Embed share tool consists of a button added to the Social share panel and the modal dialog box that displays when the tool is activated. The position of the button is fully managed by the Social share tool.
 solution: Experience Manager
-feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
+feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: e29a81b8-67f3-4367-b21c-d5902420bc85
+exl-id: 
 ---
 # Embed share{#embed-share}
 

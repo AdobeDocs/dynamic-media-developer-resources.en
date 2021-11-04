@@ -2,9 +2,9 @@
 title: setLocalizedTexts
 description: setLocalizedTexts
 solution: Experience Manager
-feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
+feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: 3bb1d277-e057-4a5d-9498-2adbca8f12b2
+exl-id: 
 ---
 # setLocalizedTexts{#setlocalizedtexts}
 

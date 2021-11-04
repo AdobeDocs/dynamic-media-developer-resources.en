@@ -2,9 +2,9 @@
 title: Command reference – URL
 description: Command reference documentation for Smart Crop Video Viewer.
 solution: Experience Manager
-feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop Video
+feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: 1ed78e0d-9b93-4c66-b558-fac15c51e944
+exl-id: 
 ---
 # Command reference – URL{#command-reference-url}
 

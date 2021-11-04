@@ -1,5 +1,5 @@
 ---
-description: Facebook share tool consists of a button added to the Social share panel. When the button is clicked the user is redirected to a sharing dialog box that is provided by a social service. The position of the button is fully managed by the Social share tool.
+description: Facebook share tool consists of a button added to the Social share panel. When the button is selected the user is redirected to a sharing dialog box that is provided by a social service. The position of the button is fully managed by the Social share tool.
 
 
 solution: Experience Manager
@@ -11,7 +11,7 @@ exl-id: 0525bfd0-ce38-4fd1-a5cc-e6b5acab1651
 ---
 # Facebook share{#facebook-share}
 
-Facebook share tool consists of a button added to the Social share panel. When the button is clicked the user is redirected to a sharing dialog box that is provided by a social service. The position of the button is fully managed by the Social share tool.
+Facebook share tool consists of a button added to the Social share panel. When the button is selected the user is redirected to a sharing dialog box that is provided by a social service. The position of the button is fully managed by the Social share tool.
 
 <!--<a id="section_ADDF98E91AF24F618289D1682A5FB13A"></a>-->
 

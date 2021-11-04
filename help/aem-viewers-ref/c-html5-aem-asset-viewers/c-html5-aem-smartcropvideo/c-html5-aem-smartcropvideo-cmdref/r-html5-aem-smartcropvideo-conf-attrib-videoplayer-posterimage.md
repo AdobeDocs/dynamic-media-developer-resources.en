@@ -2,9 +2,9 @@
 title: SmartCropVideoPlayer.posterimage
 description: Configuration attribute for Smart Crop Video Viewer.
 solution: Experience Manager
-feature: Dynamic Media Classic,Viewers,SDK/API,Video
+feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: c09884e2-60a1-4fce-997a-29747b4ccb7b
+exl-id:
 ---
 # SmartCropVideoPlayer.posterimage{#smartcropvideoplayer-posterimage}
 
