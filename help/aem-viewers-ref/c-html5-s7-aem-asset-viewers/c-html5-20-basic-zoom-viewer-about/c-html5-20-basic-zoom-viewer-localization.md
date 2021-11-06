@@ -1,10 +1,7 @@
 ---
-description: Certain content that the Basic Zoom Viewer displays is subject to localization, including zoom buttons and a full screen button.
-
-
-solution: Experience Manager
 title: Localization of user interface elements
-
+description: Certain content that the Basic Zoom Viewer displays is subject to localization, including zoom buttons and a full screen button.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: 8c399b64-e278-41bc-a9eb-692812979fea
@@ -13,7 +10,7 @@ exl-id: 8c399b64-e278-41bc-a9eb-692812979fea
 
 Certain content that the Basic Zoom Viewer displays is subject to localization, including zoom buttons and a full screen button.
 
-Every textual content in the viewer that can be localized is represented by a special Viewer SDK identifier called SYMBOL. Any SYMBOL has a default associated text value for the English locale ( `"en"`) supplied with the out-of-the-box viewer, and also may have user-defined values set for as many locales as needed.
+Every textual content in the viewer that can be localized is represented by a special Viewer SDK identifier called SYMBOL. Any SYMBOL has a default associated text value for the English locale ( `"en"`) supplied with the out-of-the-box viewer, and may also have user-defined values set for as many locales as needed.
 
 When the viewer starts, it checks the current locale to see if there is a user-defined value for each supported SYMBOL in the locale. If there is, it uses the user-defined value; otherwise, it falls back to the out-of-the-box default text.
 

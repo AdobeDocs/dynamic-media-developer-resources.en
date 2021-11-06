@@ -1,8 +1,7 @@
 ---
+title: ZoomView.enableHD
 description: ZoomView.enableHD
 solution: Experience Manager
-title: ZoomView.enableHD
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: 321ca7e2-e3f9-4b0e-8bde-41d8478e1a0b
@@ -15,7 +14,7 @@ exl-id: 321ca7e2-e3f9-4b0e-8bde-41d8478e1a0b
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> always|never|limit</span> </p> </td> 
-   <td colname="col2"> <p> Enable, limit or disable optimization for devices where <span class="codeph"> devicePixelRatio</span> is greater than <span class="codeph"> 1</span>, that is devices with high-density display like iPhone4 and similar devices. If active then the component limits the size of the IS image request as if the device only had a pixel ratio of <span class="codeph"> 1</span> and that way reducing the bandwidth. </p> <p>See example below. </p> </td> 
+   <td colname="col2"> <p> Enable, limit, or disable optimization for devices where <span class="codeph"> devicePixelRatio</span> is greater than <span class="codeph"> 1</span>, that is devices with high-density display like iPhone4 and similar devices. If active then the component limits the size of the IS image request as if the device only had a pixel ratio of <span class="codeph"> 1</span> and that way reducing the bandwidth. </p> <p>See example below. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> number</span> </span> </p> </td> 
@@ -46,7 +45,7 @@ The following are the expected results when you use this configuration attribute
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> always</span> </p> </td> 
-   <td colname="col2"> <p>The pixel density of the screen/device is always taken into account. </p> <p> 
+   <td colname="col2"> <p>The pixel density of the screen/device is always accounted for. </p> <p> 
      <ul id="ul_D8F31FDFCDB74B75A3B1BFBEE33AF2E2"> 
       <li id="li_8A1C6DCCE10545349C73029729211BB2"> <p>If the screen pixel density = 1, then the requested image is 1000 x 1000. </p> </li> 
       <li id="li_884156A34AC64B4E9B3ACC4C25EB710F"> <p>If the screen pixel density = 1.5, then the requested image is 1500 x 1500. </p> </li> 
@@ -63,7 +62,7 @@ The following are the expected results when you use this configuration attribute
      <ul id="ul_CEC06B2280164951BA1A0ADED99E8050"> 
       <li id="li_CA7A0980ACC54690A4F212DF53E2DC8A"> <p>If the limit number is 1600, and the pixel density is 1.5, then the 1500 x 1500 image is served. </p> </li> 
       <li id="li_A4AAD7FBFA0347B082789511CA6768A5"> <p>If the limit number is 1600, and the pixel density is 2, then the 1000 x 1000 image is served because the 2000 x 2000 image exceeds the limit. </p> </li> 
-     </ul> </p> <p> <b>Best practice</b>: The limit number needs to work in conjunction with the company setting for maximum size image. Therefore, set the limit number to equal the company maximum image size setting. </p> </td> 
+     </ul> </p> <p> <b>Best practice</b>: The limit number must work with the company setting for maximum size image. Therefore, set the limit number to equal the company maximum image size setting. </p> </td> 
   </tr> 
  </tbody> 
 </table>

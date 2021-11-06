@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Basic Zoom Viewer.
-
-
-solution: Experience Manager
 title: setLocalizedTexts
-
+description: JavaScript API reference for Basic Zoom Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: 4472ac64-fdab-4f80-985a-29ed8537d235

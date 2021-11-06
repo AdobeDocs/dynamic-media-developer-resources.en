@@ -1,10 +1,7 @@
 ---
-description: Configuration attributes documentation for Basic Zoom Viewer.
-
-
-solution: Experience Manager
 title: Command reference – Configuration attributes
-
+description: Configuration attributes documentation for Basic Zoom Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: fa38a9bf-37fc-479a-9fbc-c91076b15f91

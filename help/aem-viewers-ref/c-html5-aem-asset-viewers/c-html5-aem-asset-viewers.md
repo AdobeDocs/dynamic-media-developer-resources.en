@@ -13,4 +13,5 @@ The following viewers work exclusively under Adobe Experience Manager Assets.
 * [Carousel](c-html5-aem-carousel/c-html5-aem-carousel.md)
 * [Interactive Image](c-html5-aem-interactive-images/c-html5-aem-interactive-images.md)
 * [Interactive Video](c-html5-aem-int-video/c-html5-aem-int-video.md)
+* [Smart Crop Video](c-html5-aem-smartcropvideo/c-html5-aem-smartcropvideo-viewer-reference.md)
 * [Video360](c-html5-aem-video360/c-html5-aem-video360.md)

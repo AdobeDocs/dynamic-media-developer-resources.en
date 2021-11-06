@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Basic Zoom Viewer.
-
-
-solution: Experience Manager
 title: setParams
-
+description: JavaScript API reference for Basic Zoom Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: f142dd72-5e45-44f6-a79b-3eaf6a310bde
@@ -15,7 +12,7 @@ JavaScript API reference for Basic Zoom Viewer.
 
  ` setParams( *`params`*)`
 
-Sets one or more parameters to a given value. The method argument syntax is identical to a URL query string. That is, it represents name=value pairs separated with `&`. Just as in a query string, the names and values are percent-encoded using UTF8. Before you call `init()`, this parameter must be called.
+Sets one or more parameters to a given value. The method argument syntax is identical to a URL query string. That is, it represents name=value pairs separated with `&`. As in a query string, the names and values are percent-encoded using UTF8. Before you call `init()`, this parameter must be called.
 
 This method is optional if the viewer configuration information was passed with `config` JSON object to constructor.
 

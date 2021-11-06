@@ -1,17 +1,14 @@
 ---
-description: Clicking or tapping this button zooms in on an image in the main view. This button does not display on mobile phones in order to save screen real estate. You can size, skin, and position this button by using CSS.
-
-
-solution: Experience Manager
 title: Zoom in button
-
+description: Clicking or tapping this button zooms in on an image in the main view. This button does not display on mobile phones in order to save screen real estate. You can size, skin, and position this button by using CSS.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: 4900ab1e-1a68-4fc3-ae73-905f050d70e2
 ---
 # Zoom in button{#zoom-in-button}
 
-Clicking or tapping this button zooms in on an image in the main view. This button does not display on mobile phones in order to save screen real estate. You can size, skin, and position this button by using CSS.
+Selecting or tapping this button zooms in on an image in the main view. This button does not display on mobile phones in order to save screen real estate. You can size, skin, and position this button by using CSS.
 
 <!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
@@ -72,7 +69,7 @@ The appearance of the button is controlled with the following CSS class selector
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-20-basic-zoom-viewer-about/c-html5-20-basic-zoom-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
 
-Example - to set up a zoom in button that is 32 x 32 pixels, positioned six pixels from the top and right edge of the viewer, and displays a different image for each of the four different button states.
+Example - To set up a zoom in button that is 32 x 32 pixels and is positioned six pixels from the top and right edge of the viewer. And finally, displays a different image for each of the four different button states.
 
 ```
 .s7basiczoomviewer .s7zoominbutton { 
