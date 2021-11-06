@@ -1,10 +1,7 @@
 ---
-description: Input focus highlight displayed around focused viewer use interface element is controlled with the CSS class selector.
-
-
-solution: Experience Manager
 title: Focus highlight
-
+description: Input focus highlight displayed around focused viewer use interface element is controlled with the CSS class selector.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: 74ff9669-d56b-4731-9d4a-dda7c831e162

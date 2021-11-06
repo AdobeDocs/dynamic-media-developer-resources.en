@@ -1,10 +1,7 @@
 ---
-description: Main view consists of the zoomable image.
-
-
-solution: Experience Manager
 title: Zoom view
-
+description: Main view consists of the zoomable image.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: 286b9df4-88db-4e5d-aab4-9cbe01195e57
@@ -50,7 +47,7 @@ Example - to make the main view transparent.
 }
 ```
 
-On desktop systems the component supports the `cursortype` attribute selector which can be applied to the `.s7zoomview` class and controls the cursor type based on the component state and user action. The following `cursortype` values are supported:
+On desktop systems, the component supports the `cursortype` attribute selector which can be applied to the `.s7zoomview` class and controls the cursor type based on the component state and user action. The following `cursortype` values are supported:
 
 <table id="table_BC9FC40DA27B4A85995F4E9431AABF33"> 
  <thead> 
