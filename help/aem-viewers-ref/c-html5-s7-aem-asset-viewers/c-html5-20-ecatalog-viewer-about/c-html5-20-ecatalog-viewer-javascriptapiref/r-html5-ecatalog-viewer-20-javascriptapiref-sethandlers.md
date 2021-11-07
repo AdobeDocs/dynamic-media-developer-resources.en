@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for eCatalog Viewer.
-
-
-solution: Experience Manager
 title: setHandlers
-
+description: JavaScript API reference for eCatalog Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: a6709da7-1fa2-421b-8c99-a4ccea83c600

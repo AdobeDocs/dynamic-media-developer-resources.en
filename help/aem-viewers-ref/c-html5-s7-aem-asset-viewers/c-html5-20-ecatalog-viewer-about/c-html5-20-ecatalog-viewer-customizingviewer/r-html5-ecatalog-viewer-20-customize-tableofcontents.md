@@ -1,17 +1,14 @@
 ---
-description: Table of contents is a button located in the main control bar. When activated, a drop-down panel appears with a list of page indexes and labels.
-
-
-solution: Experience Manager
 title: Table of contents
-
+description: Table of contents is a button positioned in the main control bar. When activated, a drop-down panel appears with a list of page indexes and labels.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: 9b61e269-201d-4083-9c47-0b73d55aa6ed
 ---
 # Table of contents{#table-of-contents}
 
-Table of contents is a button located in the main control bar. When activated, a drop-down panel appears with a list of page indexes and labels.
+Table of contents is a button positioned in the main control bar. When activated, a drop-down panel appears with a list of page indexes and labels.
 
 <!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
@@ -33,7 +30,7 @@ The position and size of the table of contents button in the viewer user interfa
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> margin-left </span> </p> </td> 
-   <td colname="col2"> <p> The distance to the next button on the left, or the left side of the control bar if this is the first button in a row. </p> </td> 
+   <td colname="col2"> <p> The distance to the next button on the left, or the left side of the control bar, if it is the first button in a row. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> width </span> </p> </td> 
@@ -60,7 +57,7 @@ The position and size of the table of contents button in the viewer user interfa
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-20-ecatalog-viewer-about/c-html5-20-ecatalog-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
 
-Example - set up a table of contents button that is positioned 4 pixels from the bottom and 43 pixels from the left of the main control bar; size is 28 x 28 pixels and a different image is displayed for each of the four different button states:
+Example - To set up a table of contents button that is positioned 4 pixels from the bottom and 43 pixels from the left of the main control bar. The size is 28 x 28 pixels, and a different image is displayed for each of the four different button states:
 
 ```
 .s7ecatalogviewer .s7tableofcontents { 
@@ -121,7 +118,7 @@ Example - set up a drop-down panel that has a semi-transparent black background,
 }
 ```
 
-The individual item look and feel is controlled with the following CSS class selector:
+The look and feel of the individual item is controlled with the following CSS class selector:
 
 ```
  .s7ecatalogviewer .s7tableofcontents .s7panel .s7item
@@ -154,7 +151,7 @@ The individual item look and feel is controlled with the following CSS class sel
 >
 >Drop-down list item supports the `state` attribute selector, which can be used to apply different skins to hover and selected item states.
 
-Example - set up a drop-down item with a Helvetica 14 pixel font and 19 pixel high. An item has a dark gray background on hover and a light gray background when selected:
+Example - set up a drop-down item with a Helvetica® 14 pixel font and 19 pixel high. An item has a dark gray background on hover and a light gray background when selected:
 
 ```
 .s7ecatalogviewer .s7tableofcontents .s7panel .s7item { 
@@ -247,7 +244,7 @@ max-width: 240px;
 }
 ```
 
-In case there are more items than can fit vertically within the drop-down panel and the system is a desktop, the component renders a vertical scroll bar on the right side of the panel. The appearance of the scroll bar area is controlled with the following CSS class selector:
+If here are more items than can fit vertically within the drop-down panel, and the system is a desktop, the component renders a vertical scroll bar on the right side of the panel. The appearance of the scroll bar area is controlled with the following CSS class selector:
 
 ```
 .s7ecatalogviewer .s7tableofcontents .s7scrollbar

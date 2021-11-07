@@ -1,17 +1,14 @@
 ---
-description: Clicking or tapping on this button brings the user to the first page in the catalog. This button appears in the main control bar on desktop systems and tablets; on mobile phones it is added to a secondary control bar. You can size, skin, and position this button by using CSS.
-
-
-solution: Experience Manager
 title: First page button
-
+description: Clicking or tapping on this button brings the user to the first page in the catalog. This button appears in the main control bar on desktop systems and tablets; on mobile phones it is added to a secondary control bar. You can size, skin, and position this button by using CSS.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: 50ebf51f-aa51-4778-8956-f969c30443aa
 ---
 # First page button{#first-page-button}
 
-Clicking or tapping on this button brings the user to the first page in the catalog. This button appears in the main control bar on desktop systems and tablets; on mobile phones it is added to a secondary control bar. You can size, skin, and position this button by using CSS.
+Selecting or tapping on this button brings the user to the first page in the catalog. This button appears in the main control bar on desktop systems and tablets; on mobile phones it is added to a secondary control bar. You can size, skin, and position this button by using CSS.
 
 <!--<a id="section_6C008EE11212461FA744F2540D38C295"></a>-->
 
@@ -70,7 +67,7 @@ The appearance of the button is controlled with the following CSS class selector
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-20-ecatalog-viewer-about/c-html5-20-ecatalog-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
 
-Example - to set up a first page button that is 28 x 28 pixels, positioned 4 pixels from the bottom and 220 pixels from the left edge of the main control bar, and displays a different image for each of the four different button states.
+Example - To set up a first page button that is 28 x 28 pixels and is positioned 4 pixels from the bottom and 220 pixels from the left edge of the main control bar. And finally, displays a different image for each of the four different button states.
 
 ```
 .s7ecatalogviewer .s7firstpagebutton .s7panleftbutton { 

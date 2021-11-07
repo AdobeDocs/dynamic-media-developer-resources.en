@@ -24,7 +24,7 @@ Info panel background covers entire viewer area and is controlled with the follo
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> background-image </span> </p> </td> 
-   <td colname="col2"> <p>Info panel background fill. </p> </td> 
+   <td colname="col2"> <p>Info panel fill background. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> background-position </span> </p> </td> 
@@ -96,7 +96,7 @@ The info panel dialog is displayed by default in the middle of the viewer area. 
  </tbody> 
 </table>
 
-Example - set up 300 x 200 pixels info panel dialog that is centered in the viewer area; has 40 pixels padding at the top and 10 pixels padding on all other sides, a light gray background, and a 10 pixel border radius and drop shadow.
+Example - To set up 300 x 200 pixels info panel dialog box that is centered in the viewer area. It has 40 pixels padding at the top and 10 pixels padding on all other sides, a light gray background, and a 10 pixel border radius and drop shadow.
 
 ```
 .s7ecatalogviewer .s7infopanelpopup .s7overlay { 
@@ -171,7 +171,7 @@ The appearance of this button is controlled with the following CSS class selecto
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-20-ecatalog-viewer-about/c-html5-20-ecatalog-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
 
-Example - to set up a dialog close button that is 28 x 28 pixels, positioned 5 pixels from the top and right edge of the info panel dialog, and displays a different image for each of the four different button states.
+Example - To set up a dialog box Close button that is 28 x 28 pixels and is positioned 5 pixels from the top and right edge of the info panel dialog. And finally, displays a different image for each of the four different button states.
 
 ```
 .s7ecatalogviewer .s7infopanelpopup .s7closebutton { 

@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for eCatalog Viewer.
-
-
-solution: Experience Manager
 title: setContainerId
-
+description: JavaScript API reference for eCatalog Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: 32e75d36-cc9a-42df-95e8-5b48456296e9

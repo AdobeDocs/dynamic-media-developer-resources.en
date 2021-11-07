@@ -1,10 +1,7 @@
 ---
-description: Input focus highlight displayed around the focused viewer user interface element.
-
-
-solution: Experience Manager
 title: Focus highlight
-
+description: Input focus highlight displayed around the focused viewer user interface element.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: 3d5737d7-1295-46a9-9b84-c43269e5a914
@@ -32,7 +29,7 @@ The appearance of the focus highlight is controlled with the following CSS class
  </tbody> 
 </table>
 
-Example - to disable the default browser focus highlight for all viewer user interface elements add the following CSS selector to the viewer's style sheet:
+Example - To disable the default browser focus highlight for all viewer user interface elements add the following CSS selector to the viewer's style sheet:
 
 ```
 .s7ecatalogviewer *:focus { 
