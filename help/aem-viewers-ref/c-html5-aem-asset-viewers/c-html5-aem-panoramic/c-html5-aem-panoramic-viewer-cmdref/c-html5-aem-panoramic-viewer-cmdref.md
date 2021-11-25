@@ -20,9 +20,9 @@ Some configuration commands may be prefixed with the class name or instance name
 
 Which means that this command is used in the following manner:
 
-*	`vrrender` (short syntax)
-*	`PanoramicView.vrrender` (qualified with component class name)
-*	`cont_panoramicView.vrrender` (qualified with component ID, assuming cont is the ID of the container element)
+* `vrrender` (short syntax)
+* `PanoramicView.vrrender` (qualified with component class name)
+* `cont_panoramicView.vrrender` (qualified with component ID, assuming cont is the ID of the container element)
 
 
 See [Command reference common to all viewers - Configuration attributes](../../../r-html5-viewer-20-cmdref-configattrib/r-html5-viewer-20-cmdref-configattrib.md#concept-850e0f2c49b949deb7cfbfd330d329bd)
