@@ -72,6 +72,7 @@ It is recommended that you use an out-of-box HTML page for pop-up operation mode
 Visual customization can be achieved by applying custom CSS.
 
 Here is an example of HTML code which opens the viewer in the new window:
+
 ```
 <a href="http://s7d1.scene7.com/s7viewers/html5/PanoramicViewer.html?asset=Scene7SharedAssets/PanoramicImage-Sample" target="_blank">Open popup viewer</a>
 ```
@@ -140,17 +141,20 @@ You add the viewer to a web page by doing the following:
    You can set the static size for the viewer by either declaring it for `.s7panoramicviewer` top-level CSS class in absolute units, or by using the modifier `stagesize`.
 
    Sizing in CSS can be put right on the HTML page, or in custom viewer CSS file, which is later assigned to a viewer preset record in AOD or passed explicitly using style command. Refer to Customizing the Viewer section for more information about styling the viewer with CSS. Below is an example of defining static viewer size in HTML page:
+   
    ```
    #s7viewer.s7panoramicviewer {
-	width: 1024px;
-	height: 512px;
+     width: 1024px;
+     height: 512px;
    }
    ```
    
    `stagesize` modifier can be passed explicitly with the viewer initialization code with params collection or as an API call as described in the Command Reference section, like this:
+   
    ```
    panoramicViewer.setParam("stagesize", "512,256");
    ```
+   
    CSS-based approach is recommended and will be used in this example.
 
 
@@ -169,8 +173,8 @@ You add the viewer to a web page by doing the following:
    var panoramicViewer = new s7viewers.PanoramicViewer({ 
     "containerId":"s7viewer", 
    "params":{ 
-	"asset":"Scene7SharedAssets/PanoramicImage-Sample",
-	"serverurl":"http://s7d1.scene7.com/is/image/"
+     "asset":"Scene7SharedAssets/PanoramicImage-Sample",
+     "serverurl":"http://s7d1.scene7.com/is/image/"
    } 
    }).init(); 
    </script> 
