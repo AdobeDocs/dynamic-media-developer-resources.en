@@ -31,11 +31,15 @@ Optional.
 No default.
 
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
+
 When specified in the viewer URL.
+
 ```
 iscommand=op_sharpen%3d1%26op_colorize%3d0xff0000
 ```
+
 When specified in the config data.
+
 ```
 iscommand=op_sharpen=1&op_colorize=0xff0000
 ```
