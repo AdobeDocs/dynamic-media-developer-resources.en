@@ -58,6 +58,7 @@ Applicable CSS properties include:
 
 Example:
 To set up a viewer with size 1024 x 512 pixels.
+
 ```
 .s7panoramicviewer {
 	width: 1024px;
@@ -83,6 +84,7 @@ Applicable CSS properties include:
 
 Example:
 To make main view transparent:
+
 ```
 .s7panoramicviewer .s7panoramicview {
 	background-color: transparent;
