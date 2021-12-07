@@ -4,6 +4,7 @@ description: Configuration attribute for Smart Crop Video Viewer.
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
+exl-id: ef45ba40-661c-4898-a4df-6293ad799a79
 ---
 # SocialShare.bearing{#socialshare-bearing}
 

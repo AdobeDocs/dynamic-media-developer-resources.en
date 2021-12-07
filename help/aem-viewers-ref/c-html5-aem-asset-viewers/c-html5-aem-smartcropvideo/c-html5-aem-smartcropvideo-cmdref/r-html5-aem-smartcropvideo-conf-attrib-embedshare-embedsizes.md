@@ -4,6 +4,7 @@ description: Configuration attribute for Smart Crop Video Viewer.
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
+exl-id: c638d9fd-39bb-4baa-9b3a-99d9bc0307b5
 ---
 # EmbedShare.embedsizes{#embedshare-embedsizes}
 
