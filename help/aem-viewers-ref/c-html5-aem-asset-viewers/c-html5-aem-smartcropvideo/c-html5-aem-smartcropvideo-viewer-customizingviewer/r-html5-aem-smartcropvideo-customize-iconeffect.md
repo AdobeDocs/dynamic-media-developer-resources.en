@@ -4,7 +4,6 @@ description: The play icon is overlaid on the main view area. It displays when t
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: 
 ---
 # Icon effect{#icon-effect}
 

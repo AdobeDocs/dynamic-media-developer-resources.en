@@ -4,7 +4,6 @@ description: Facebook share tool consists of a button added to the Social share 
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: 
 ---
 # Facebook share{#facebook-share}
 

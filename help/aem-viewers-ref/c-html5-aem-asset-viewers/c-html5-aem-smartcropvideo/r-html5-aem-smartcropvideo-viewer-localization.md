@@ -4,7 +4,6 @@ description: Certain content that the Smart Crop Video Viewer displays is subjec
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: 
 ---
 # Localization of user interface elements{#localization-of-user-interface-elements}
 

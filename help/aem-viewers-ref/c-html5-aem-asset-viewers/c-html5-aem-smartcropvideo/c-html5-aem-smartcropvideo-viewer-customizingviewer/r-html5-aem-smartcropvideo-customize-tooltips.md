@@ -4,7 +4,6 @@ description: On desktop systems, some user interface elements like buttons have 
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: 
 ---
 # Tooltips{#tooltips}
 

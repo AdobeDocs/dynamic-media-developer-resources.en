@@ -4,7 +4,6 @@ description: The main class of the Smart Crop Video Viewer is SmartCropVideoView
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: 
 ---
 # JavaScript API reference for Smart Crop Video Viewer{#javascript-api-reference-for-smartcrop-video-viewer}
 

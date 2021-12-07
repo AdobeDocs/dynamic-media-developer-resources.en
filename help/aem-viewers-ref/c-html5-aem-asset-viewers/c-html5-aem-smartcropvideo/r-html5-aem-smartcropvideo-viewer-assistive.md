@@ -4,7 +4,6 @@ description: All viewer components support ARIA (Accessible Rich Internet Applic
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video,Accessibility
 role: Developer,User
-exl-id: 
 ---
 # Assistive technology support{#assistive-technology-support}
 

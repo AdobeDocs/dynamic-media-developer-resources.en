@@ -4,7 +4,6 @@ description: The main class of the HTML5 Panoramic Viewer is PanoramicViewer. It
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Panoramic
 role: Developer,User
-exl-id: 
 ---
 # JavaScript API reference for Panoramic Viewer{#javascript-api-reference-for-panoramic-viewer}
 

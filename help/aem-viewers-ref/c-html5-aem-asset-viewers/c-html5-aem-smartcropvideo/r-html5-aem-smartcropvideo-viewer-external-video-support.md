@@ -4,7 +4,6 @@ description: The viewer supports playing video hosted outside of Dynamic Media C
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: 
 ---
 # External video support{#external-video-support}
 

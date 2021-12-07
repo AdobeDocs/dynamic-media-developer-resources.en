@@ -4,7 +4,6 @@ description: Specifies the image format used by the component for loading images
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Panoramic
 role: Developer,User
-exl-id: 
 ---
 # PanoramicView.fmt{#panoramicview-fmt}
 

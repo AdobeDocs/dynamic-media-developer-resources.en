@@ -4,7 +4,6 @@ description: Constructor, creates a new HTML5 Carousel Viewer instance.
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Panoramic
 role: Developer,User
-exl-id: 
 ---
 # PanoramicViewer{#panoramicviewer}
 

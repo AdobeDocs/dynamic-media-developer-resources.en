@@ -4,7 +4,6 @@ description: The full screen button causes the Smart Crop Video player to enter 
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: 
 ---
 # Full screen button{#full-screen-button}
 

@@ -4,7 +4,6 @@ description: The main view area is occupied by the smart crop video. It usually 
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: 
 ---
 # Main viewer area{#main-viewer-area}
 

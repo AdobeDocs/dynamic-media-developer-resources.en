@@ -4,7 +4,6 @@ description: Input focus highlight displayed around focused viewer UI element is
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: 
 ---
 # Focus highlight{#focus-highlight}
 

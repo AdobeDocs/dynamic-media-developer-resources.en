@@ -5,7 +5,6 @@ keywords: responsive
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Panoramic
 role: Developer,User
-exl-id: 
 ---
 # Panoramic{#panoramic}
 

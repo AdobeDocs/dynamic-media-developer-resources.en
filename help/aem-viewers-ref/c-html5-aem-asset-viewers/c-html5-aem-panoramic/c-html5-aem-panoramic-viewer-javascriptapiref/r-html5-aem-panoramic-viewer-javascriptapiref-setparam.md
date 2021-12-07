@@ -4,7 +4,6 @@ description: JavaScript API reference for Panoramic Viewer.
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Panoramic
 role: Developer,User
-exl-id: 
 ---
 # setParam{#setparam}
 
