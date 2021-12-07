@@ -4,7 +4,6 @@ description: Configuration attributes documentation for Smart Crop Video Viewer.
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id:
 ---
 # Command reference – Configuration attributes{#command-reference-configuration-attributes}
 
