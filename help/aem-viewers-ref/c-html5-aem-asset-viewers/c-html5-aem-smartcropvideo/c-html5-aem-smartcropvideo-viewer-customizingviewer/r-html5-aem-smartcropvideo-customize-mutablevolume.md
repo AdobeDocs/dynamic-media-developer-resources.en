@@ -4,6 +4,7 @@ description: The mutable volume control initially appears as a button that lets 
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
+exl-id: e0a3e849-842b-4137-acc2-34301e89518f
 ---
 # Mutable volume{#mutable-volume}
 

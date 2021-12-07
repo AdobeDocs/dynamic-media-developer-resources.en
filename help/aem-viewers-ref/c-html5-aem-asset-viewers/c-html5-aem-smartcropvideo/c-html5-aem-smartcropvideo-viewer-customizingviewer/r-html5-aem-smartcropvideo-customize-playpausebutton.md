@@ -4,6 +4,7 @@ description: The play/pause button causes the smart crop video player to play or
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
+exl-id: 03b819cc-a709-496a-9edb-29813b13e979
 ---
 # Play/Pause button{#play-pause-button}
 

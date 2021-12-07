@@ -4,6 +4,7 @@ description: The Smart Crop Video Viewer supports Adobe Analytics tracking out-o
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User,Data Engineer,Data Architect
+exl-id: 0d91ca94-79fc-40de-8095-0252688ebe76
 ---
 # Support for Adobe Analytics tracking{#support-for-adobe-analytics-tracking}
 

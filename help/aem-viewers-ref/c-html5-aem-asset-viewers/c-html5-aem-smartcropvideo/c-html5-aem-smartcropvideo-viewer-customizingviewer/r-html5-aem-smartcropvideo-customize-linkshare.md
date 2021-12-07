@@ -4,6 +4,7 @@ description: Link share tool consists of a button added to the Social share pane
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
+exl-id: 6f2b832f-e627-428a-8673-129bfa58c7e2
 ---
 # Link share{#link-share}
 

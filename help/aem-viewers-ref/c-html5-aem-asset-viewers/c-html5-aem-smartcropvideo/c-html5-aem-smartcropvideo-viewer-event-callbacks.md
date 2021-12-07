@@ -4,6 +4,7 @@ description: Event callbacks
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
+exl-id: 21962c01-f224-408d-8072-1c7f5d78ac4b
 ---
 # Event callbacks{#event-callbacks}
 

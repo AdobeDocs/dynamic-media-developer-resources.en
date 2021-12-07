@@ -4,6 +4,7 @@ description: The video time is the numeric display that shows the current time a
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
+exl-id: 0ef09f06-c2d5-4c84-8ff9-4e94e9e54d40
 ---
 # Video time{#video-time}
 

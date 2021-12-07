@@ -4,6 +4,7 @@ description: Indicates whether the viewer begins loading video content before th
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
+exl-id: 7a83a02e-7b75-4f15-b8c1-aa7b64e6d3bd
 ---
 # SmartCropVideoPlayer.preload{#smartcropvideoplayer-preload}
 

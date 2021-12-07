@@ -4,6 +4,7 @@ description: HTTP video delivery
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
+exl-id: b809a11f-3c2d-4abd-b317-fabb36245b1b
 ---
 # HTTP video delivery{#http-video-delivery}
 
