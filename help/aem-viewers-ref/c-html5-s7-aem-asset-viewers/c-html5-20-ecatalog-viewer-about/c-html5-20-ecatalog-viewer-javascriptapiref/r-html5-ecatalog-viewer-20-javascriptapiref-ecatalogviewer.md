@@ -1,7 +1,7 @@
 ---
+title: eCatalogViewer
 description: JavaScript API reference for eCatalog Viewer.
 solution: Experience Manager
-title: eCatalogViewer
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: 111699a3-8a70-4caf-b7da-7b594b785f7c
@@ -12,7 +12,7 @@ JavaScript API reference for eCatalog Viewer.
 
  `eCatalogViewer([config])`
 
-Constructor, creates a new eCatalog Viewer instance.
+Constructor, creates a eCatalog Viewer instance.
 
 ## Parameters {#section-4fb77a645fdd45b3aaa5079c31e3bb05}
 

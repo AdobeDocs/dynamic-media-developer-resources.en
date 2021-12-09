@@ -1,10 +1,7 @@
 ---
-description: The main control bar is the rectangular area on desktop systems and tablets that contain all user interface controls (except Large Page buttons) available for the eCatalog viewer.
-
-
-solution: Experience Manager
 title: Main control bar
-
+description: The main control bar is the rectangular area on desktop systems and tablets that contain all user interface controls (except Large Page buttons) available for the eCatalog viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: 4db16599-ede0-47ae-bb5a-840655d3620b
@@ -56,7 +53,7 @@ The appearance of the main control bar is controlled with the following CSS clas
 }
 ```
 
-The main control bar supports an optional scroll feature. It is activated if the viewer width is too small and there is not enough space to fit all the buttons preset in the control bar. In this case, a two-state arrow button appears in the right-hand side of the control bar. Clicking or tapping on this button scrolls all the control bar elements to the left or to the right, depending on the scroll button state. The primary use case for this feature are mobile devices with small screens in portrait orientation.
+The main control bar supports an optional scroll feature. It is activated if the viewer width is too small and there is not enough space to fit all the buttons preset in the control bar. In this case, a two-state arrow button appears in the right-hand side of the control bar. Clicking or tapping on this button scrolls all the control bar elements to the left or to the right, depending on the scroll button state. The primary use case for this feature is mobile devices with small screens in portrait orientation.
 
 The scroll feature is enabled for the main control bar, and is disabled for the secondary control bar. The feature is turned on and off using the following CSS class selector:
 
@@ -77,7 +74,7 @@ The scroll feature is enabled for the main control bar, and is disabled for the 
  </tbody> 
 </table>
 
-The scroll button is added to a special container element that positions the button properly and lets you style the area around the button differently from the rest of the control bar background in case the height of the scroll button is smaller than the control bar height.
+The scroll button is added to a special container element that positions the button properly. It lets you style the area around the button differently from the rest of the control bar background in case the height of the scroll button is smaller than the control bar height.
 
 The appearance of this scroll button container is controlled with the following CSS class selector:
 
@@ -137,11 +134,11 @@ The appearance of this button is controlled with the following CSS class selecto
 
 >[!NOTE]
 >
->This button supports the `state` and `selected` attribute selectors, which can be used to apply different skins to different button states. In particular, `state="selected"` corresponds to the initial scroll button state when it is possible to scroll control bar contents to the left; `state="default"` corresponds to the state when the content is scrolled all the way to the left and the scroll button suggests to return it to the initial state.
+>This button supports the `state` and `selected` attribute selectors, which can be used to apply different skins to different button states. In particular, `state="selected"` corresponds to the initial scroll button state when it is possible to scroll control bar contents to the left. The attribute `state="default"` corresponds to the state when the content is scrolled all the way to the left and the scroll button suggests returning it to the initial state.
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-20-ecatalog-viewer-about/c-html5-20-ecatalog-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
 
-**Example** - to enable the scroll feature in the main control bar for mobile phones, and set up a scroll button that is 64 x 64 pixels that displays a different image for each of the 4 different button states when selected or not selected:
+**Example** - To enable the scroll feature in the main control bar for mobile phones. And, set up a scroll button that is 64 x 64 pixels that displays a different image for each of the 4 different button states when selected or not selected:
 
 ```
 .s7ecatalogviewer.s7size_small .s7controlbar .s7innercontrolbarcontainer { 

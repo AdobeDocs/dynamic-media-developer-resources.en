@@ -1,10 +1,7 @@
 ---
-description: Email share tool consists of a button added to the Social share panel and the modal dialog box which displays when the tool is activated. The position of the button is fully managed by the Social share tool.
-
-
-solution: Experience Manager
 title: Email share
-
+description: Email share tool consists of a button added to the Social share panel and the modal dialog box which displays when the tool is activated. The position of the button is fully managed by the Social share tool.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: 4c72500b-9750-4fae-9447-96cf600b31c7
@@ -52,7 +49,7 @@ It is possible to remove the button from the Social share panel by setting `disp
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-20-ecatalog-viewer-about/c-html5-20-ecatalog-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
 
-Example - to set up a email share button that is 28 x 28 pixels, and that displays a different image for each of the four different button states.
+Example - To set up an email share button that is 28 x 28 pixels, and displays a different image for each of the four different button states.
 
 ```
 .s7ecatalogviewer .s7emailshare { 
@@ -73,7 +70,7 @@ background-image:url(images/v2/EmailShare_dark_disabled.png);
 }
 ```
 
-The background overlay which covers web page when the dialog is active is controlled with the following CSS class selector:
+The background overlay which covers web page when the dialog box is active, is controlled with the following CSS class selector:
 
 ```
 .s7ecatalogviewer .s7emaildialog .s7backoverlay
@@ -142,7 +139,7 @@ background-color: #ffffff;
 }
 ```
 
-The dialog box header consists of an icon, a title text and a close button. The header container is controlled with the following CSS class selector
+The dialog box header consists of an icon, a title text, and a Close button. The header container is controlled with the following CSS class selector
 
 ```
 .s7ecatalogviewer .s7emaildialog .s7dialogheader
@@ -159,7 +156,7 @@ The dialog box header consists of an icon, a title text and a close button. The 
  </tbody> 
 </table>
 
-The icon and the title text are wrapped into an additional container controlled with
+The icon and the title text are wrapped into an extra container controlled with
 
 ```
 .s7ecatalogviewer .s7emaildialog .s7dialogheader .s7dialogline
@@ -281,7 +278,7 @@ Close button is controlled with the following CSS class selector:
 
 The Close button tool tip and the dialog box title can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-20-ecatalog-viewer-about/c-html5-20-ecatalog-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
 
-Example - to set up dialog header with padding, 24 x 17 pixels icon, bold 16 point title, and a 28 x 28 pixel Close button positioned two pixels from the top and two pixels from the right of dialog box container:
+Example - To set up dialog box header with padding, 24 x 17 pixels icon, and a bold 16 point title. And finally, a 28 x 28 pixel Close button that is positioned two pixels from the top and two pixels from the right of dialog box container:
 
 ```
 .s7ecatalogviewer .s7emaildialog .s7dialogheader { 
@@ -421,7 +418,7 @@ Send email button is controlled with the following CSS class selector:
 >
 >This button supports the `state` attribute selector, which can be used to apply different skins to different button states.
 
-In addition, both buttons share the same common CSS class which can contain CSS settings that are the same for other dialog box buttons:
+In addition, both buttons share common CSS class which can contain CSS settings that are the same for other dialog box buttons:
 
 ```
 .s7ecatalogviewer .s7emaildialog .s7dialogfooter .s7button
@@ -458,9 +455,9 @@ In addition, both buttons share the same common CSS class which can contain CSS 
  </tbody> 
 </table>
 
-This buttons tool tips can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-20-ecatalog-viewer-about/c-html5-20-ecatalog-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
+This button's tool tips can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-20-ecatalog-viewer-about/c-html5-20-ecatalog-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
 
-Example - to set up a dialog box footer with 64 x 34 Cancel button and a 82 x 34 send email button, with the text color and background color different for each button state:
+Example - To set up a dialog box footer with 64 x 34 Cancel button and an 82 x 34 send email button. The text color and background color are different for each button state:
 
 ```
 .s7ecatalogviewer .s7emaildialog .s7dialogfooter { 
@@ -697,7 +694,7 @@ Example - to set up input field labels to be 50 pixels width, right-aligned, hav
 }
 ```
 
-Each form input field is wrapped into the container which lets you apply a custom border around the input field. It is controlled with the following CSS class selector::
+Each form input field is wrapped into the container which lets you apply a custom border around the input field. It is controlled with the following CSS class selector:
 
 ```
 .s7ecatalogviewer .s7emaildialog .s7dialoginputcontainer
@@ -728,7 +725,7 @@ Most input fields that spread from the label on the left up to the right edge of
 .s7ecatalogviewer .s7emaildialog .s7dialoginputwide
 ```
 
-**CSS properties of the dialog box input wide field** 
+**CSS properties of the dialog box input-wide field** 
 
 <table id="table_7275B4365DFA4C0386FA2BDB7204A517"> 
  <tbody> 
@@ -756,7 +753,7 @@ The To field is narrower because it allocates space for the Remove email button 
  </tbody> 
 </table>
 
-Example - to set up a form to have a one pixel grey border with nine pixels of padding around all input fields; to have the same border in red color for fields which fail validation, to have 250 pixels wide To field, and the rest of the input fields 300 pixels wide:
+Example - To set up a form to have a one pixel grey border with nine pixels of padding around all input fields. To have the same border in red color for fields which fail validation. To have 250 pixels wide To field. And finally, the rest of the input fields 300 pixels wide:
 
 ```
 .s7ecatalogviewer .s7emaildialog .s7dialoginputcontainer { 
@@ -774,7 +771,7 @@ Example - to set up a form to have a one pixel grey border with nine pixels of p
 }
 ```
 
-Email message input field is additionally controlled with:
+Email message input field is also controlled with:
 
 ```
 .s7ecatalogviewer .s7emaildialog .s7dialogmessage
@@ -1162,7 +1159,7 @@ Example - to set up a content description to have a ten pixel margin and use a n
 }
 ```
 
-When a user enters incorrect input data and inline validation fails, or when the dialog box needs to render an error or a confirmation message when the form is submitted, a message is displayed in the top of the dialog box body. It is controlled with the following CSS class selector:
+When a user enters incorrect input data, and inline validation fails. Or, when the dialog box must render an error or a confirmation message when the form is submitted, a message is displayed in the top of the dialog box body. It is controlled with the following CSS class selector:
 
 ```
 .s7ecatalogviewer .s7emaildialog .s7dialogerrormessage
@@ -1209,11 +1206,11 @@ When a user enters incorrect input data and inline validation fails, or when the
 
 >[!NOTE]
 >
->This message supports the `state` attribute selector with the following possible values: `verifyerror`, `senderror`, and `sendsuccess`. `verifyerror` is set when a message is displayed due to an inline input validation failure; `senderror` is set when a backend email service reports an error; `sendsuccess` is set when email is sent successfully. This way it is possible to style the message differently depending on the dialog box state.
+>This message supports the `state` attribute selector with the following possible values: `verifyerror`, `senderror`, and `sendsuccess`. The value `verifyerror` is set when a message is displayed due to an inline input validation failure. The value `senderror` is set when a backend email service reports an error. The value  `sendsuccess` is set when email is sent successfully. This way it is possible to style the message differently depending on the dialog box state.
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-20-ecatalog-viewer-about/c-html5-20-ecatalog-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
 
-Example - to set up a message to use a ten point bold font, have 25 pixels line height, 20 pixels padding on the left, use an exclamation mark icon, red text in case of an error, and no icon and green text in case of success:
+Example - To set up a message to use a ten point bold font, have 25 pixels line height, 20 pixels padding on the left, and use an exclamation mark icon. And finally, red text if there is an error, and no icon and green text if there is success:
 
 ```
 .s7ecatalogviewer .s7emaildialog .s7dialogerrormessage[state="verifyerror"] { 

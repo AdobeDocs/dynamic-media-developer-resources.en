@@ -1,10 +1,7 @@
 ---
-description: Link share tool consists of a button added to the Social share panel and the modal dialog box that displays when the tool is activated. The position of the button is fully managed by the Social share tool.
-
-
-solution: Experience Manager
 title: Link share
-
+description: Link share tool consists of a button added to the Social share panel and the modal dialog box that displays when the tool is activated. The position of the button is fully managed by the Social share tool.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: eeb5b2c7-688e-42a1-bfe6-3f29e509baed
@@ -52,7 +49,7 @@ It is possible to remove the button from the Social share panel by setting `disp
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-20-ecatalog-viewer-about/c-html5-20-ecatalog-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
 
-Example - to set up a link share button that is 28 x 28 pixels, and displays a different image for each of the four different button states:
+Example - To set up a link share button that is 28 x 28 pixels, and displays a different image for each of the four different button states:
 
 ```
 .s7ecatalogviewer .s7linkshare { 
@@ -73,7 +70,7 @@ background-image:url(images/v2/LinkShare_dark_disabled.png);
 }
 ```
 
-The background overlay that covers the web page when the dialog box is active is controlled with the following CSS class selector:
+The background overlay that covers the web page when the dialog box is active, is controlled with the following CSS class selector:
 
 ```
 .s7ecatalogviewer .s7linkdialog .s7backoverlay
@@ -94,7 +91,7 @@ The background overlay that covers the web page when the dialog box is active is
  </tbody> 
 </table>
 
-Example - to set up a background overlay to be gray with 70% opacity:
+Example - To set up a background overlay to be gray with 70% opacity:
 
 ```
 .s7ecatalogviewer .s7linkdialog .s7backoverlay { 
@@ -132,7 +129,7 @@ By default the modal dialog box is displayed centered in the screen on desktop s
  </tbody> 
 </table>
 
-Example - to set up the dialog box to use the entire browser window and have a white background on touch devices:
+Example - To set up the dialog box to use the entire browser window and have a white background on touch devices:
 
 ```
 .s7ecatalogviewer .s7touchinput .s7linkdialog .s7dialog { 
@@ -159,7 +156,7 @@ Dialog box header consists of an icon, a title text, and a close button. The hea
  </tbody> 
 </table>
 
-The icon and the title text are wrapped into an additional container controlled with
+The icon and the title text are wrapped into an extra container controlled with
 
 ```
 .s7ecatalogviewer .s7linkdialog .s7dialogheader .s7dialogline
@@ -281,7 +278,7 @@ Close button is controlled with the following CSS class selector:
 
 The Close button tool tip and the dialog box title can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-20-ecatalog-viewer-about/c-html5-20-ecatalog-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
 
-Example - to set up a dialog box header with padding, 22 x 12 pixels icon, bold 16 point title, and a 28 x 28 pixel Close button that is positioned two pixels from the top and two pixels from the right of the dialog box container:
+Example - To set up a dialog box header with padding, 22 x 12 pixels icon, and a bold 16 point title. And finally, a 28 x 28 pixel Close button that is positioned two pixels from the top and two pixels from the right of the dialog box container:
 
 ```
 .s7ecatalogviewer .s7linkdialog .s7dialogheader { 
@@ -423,7 +420,7 @@ Cancel button is controlled with the following CSS class selector:
 >
 >This button supports the `state` attribute selector, which can be used to apply different skins to different button states.
 
-In addition, both buttons share the same common CSS class which can contain CSS settings that are the same for other dialog box buttons:
+In addition, both buttons share common CSS class which can contain CSS settings that are the same for other dialog box buttons:
 
 ```
 .s7ecatalogviewer .s7linkdialog .s7dialogfooter .s7button
@@ -631,7 +628,7 @@ The size of the text copy displayed on top of the link is controlled with the fo
 .s7ecatalogviewer .s7linkdialog .s7dialoginputwide
 ```
 
-**CSS properties of the dialog box input wide field** 
+**CSS properties of the dialog box input-wide field** 
 
 <table id="table_7275B4365DFA4C0386FA2BDB7204A517"> 
  <tbody> 

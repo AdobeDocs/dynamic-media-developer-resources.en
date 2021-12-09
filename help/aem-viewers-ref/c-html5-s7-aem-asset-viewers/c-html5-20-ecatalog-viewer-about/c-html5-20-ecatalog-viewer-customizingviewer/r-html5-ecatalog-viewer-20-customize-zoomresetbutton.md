@@ -1,17 +1,14 @@
 ---
-description: Clicking or tapping this button resets an image in the main view. This button appears in the main control bar on desktop systems and tablets. On mobile phones, this button shows in the bottom center over the image. However, it is not displayed when the image is in a reset state. You can size, skin, and position this button by using CSS.
-
-
-solution: Experience Manager
 title: Zoom reset button
-
+description: Selecting or tapping this button resets an image in the main view. This button appears in the main control bar on desktop systems and tablets. On mobile phones, this button shows in the bottom center over the image. However, it is not displayed when the image is in a reset state. You can size, skin, and position this button by using CSS.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: 6f0e22cd-12bd-4997-b874-539962504d3e
 ---
 # Zoom reset button{#zoom-reset-button}
 
-Clicking or tapping this button resets an image in the main view. This button appears in the main control bar on desktop systems and tablets. On mobile phones, this button shows in the bottom center over the image. However, it is not displayed when the image is in a reset state. You can size, skin, and position this button by using CSS.
+Selecting or tapping this button resets an image in the main view. This button appears in the main control bar on desktop systems and tablets. On mobile phones, this button shows in the bottom center over the image. However, it is not displayed when the image is in a reset state. You can size, skin, and position this button by using CSS.
 
 <!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
@@ -70,7 +67,7 @@ The appearance of the button is controlled with the following CSS class selector
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-20-ecatalog-viewer-about/c-html5-20-ecatalog-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
 
-Example - to set up a zoom reset button that is 28 x 28 pixels, positioned (on desktop) 4 pixels from the bottom and 47 pixels from the right edge of the main control bar, and displays a different image for each of the four different button states.
+Example - To set up a zoom reset button that is 28 x 28 pixels and is positioned (on desktop) 4 pixels from the bottom and 47 pixels from the right edge of the main control bar. And finally, displays a different image for each of the four different button states.
 
 ```
 .s7ecatalogviewer .s7zoomresetbutton { 

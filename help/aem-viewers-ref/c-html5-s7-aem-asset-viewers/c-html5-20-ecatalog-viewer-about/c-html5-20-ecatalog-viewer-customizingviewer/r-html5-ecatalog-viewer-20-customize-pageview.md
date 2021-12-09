@@ -1,10 +1,7 @@
 ---
-description: Main view consists of the catalog image. It can be swiped to get to another page or zoomed.
-
-
-solution: Experience Manager
 title: Page view
-
+description: Main view consists of the catalog image. It can be swiped to get to another page or zoomed.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: d3368115-15e7-4d9d-a417-a3c82c9a8a64
@@ -50,7 +47,7 @@ Example - to make the main view transparent.
 }
 ```
 
-On desktop systems the component supports the `cursortype` attribute selector which can be applied to `.s7pageview` class and controls the type of the cursor based on component state and user action. The following `cursortype` values are supported:
+On desktop systems, the component supports the `cursortype` attribute selector which can be applied to `.s7pageview` class and controls the type of the cursor based on component state and user action. The following `cursortype` values are supported:
 
 <table id="table_45B83F6CCDE84C36B0E087CA9144BFE6"> 
  <thead> 
@@ -119,7 +116,7 @@ Example - to have 40 pixels wide page divider with semi-transparent image.
 >
 >When the `frametransition` modifier is set to `turn` or `auto` (on desktop systems), the appearance of the page divider is controlled with the `pageturnstyle` modifier and the `.s7pagedivider` CSS class is ignored.
 
-It is possible to configure the display of the custom mouse cursors over the main viewer area. This is controlled with the additional attribute selectors applied to `.s7ecatalogviewer .s7pageview` CSS class:
+It is possible to configure the display of the custom mouse cursors over the main viewer area. This functionality is controlled with the additional attribute selectors applied to `.s7ecatalogviewer .s7pageview` CSS class:
 
 <table id="table_908164DECF9347A19A9696A23BBDB1A2"> 
  <thead> 

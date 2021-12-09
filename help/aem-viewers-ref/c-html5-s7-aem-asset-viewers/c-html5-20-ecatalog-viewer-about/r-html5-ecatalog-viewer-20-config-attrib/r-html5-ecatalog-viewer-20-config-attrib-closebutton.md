@@ -1,8 +1,7 @@
 ---
-description: Closebutton
-solution: Experience Manager
 title: Closebutton
-
+description: The Close button
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: 253dad70-c46c-4d37-8d0c-2a97a5f53f13
@@ -15,7 +14,7 @@ exl-id: 253dad70-c46c-4d37-8d0c-2a97a5f53f13
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> 0-1 </span> </p> </td> 
-   <td colname="col2"> <p>Set to <span class="codeph"> 1 </span> to enable display of the close button. Or, set to <span class="codeph"> 0 </span> to hide the close button. </p> <p>The close button is supported only on touch devices; it cannot be displayed on desktop systems. </p> </td> 
+   <td colname="col2"> <p>Set to <span class="codeph"> 1 </span> to enable display of the Close button. Or, set to <span class="codeph"> 0 </span> to hide the Close button. </p> <p>The Close button is supported only on touch devices; it cannot be displayed on desktop systems. </p> </td> 
   </tr> 
  </tbody> 
 </table>

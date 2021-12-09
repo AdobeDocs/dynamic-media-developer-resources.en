@@ -1,8 +1,7 @@
 ---
-description: ControlBar.transition
-solution: Experience Manager
 title: ControlBar.transition
-
+description: Specifies the effect type that is used to show or hide the control bar and its content.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: abe8affb-cbcd-4072-b2ed-91a398b1d678
@@ -19,7 +18,7 @@ exl-id: abe8affb-cbcd-4072-b2ed-91a398b1d678
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> delaytohide </span> </span> </p> </td> 
-   <td colname="col2"> <p> Specifies the time in seconds between the last mouse/touch event that the control bar registers and the time control bar hides. </p> <p> If set to <span class="codeph"> -1 </span> the component never triggers its auto-hide effect and always stay visible on the screen. </p> </td> 
+   <td colname="col2"> <p> Specifies the time in seconds between the last mouse/touch event that the control bar registers and the hiding of the time control bar. </p> <p> If set to <span class="codeph"> -1 </span>, the component never triggers its auto-hide effect and always stay visible on the screen. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> duration </span> </span> </p> </td> 

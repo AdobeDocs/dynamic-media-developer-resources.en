@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for eCatalog Viewer.
-
-
-solution: Experience Manager
 title: setParams
-
+description: JavaScript API reference for eCatalog Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: a93c14e8-d322-4630-9334-1b4413f1e443
