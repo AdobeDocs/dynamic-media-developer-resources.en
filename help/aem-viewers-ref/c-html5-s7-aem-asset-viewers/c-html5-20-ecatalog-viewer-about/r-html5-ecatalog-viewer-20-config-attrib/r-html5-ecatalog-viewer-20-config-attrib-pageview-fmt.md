@@ -1,5 +1,6 @@
 ---
-title: PageView.fmtdescription: PageView.fmt
+title: PageView.fmt
+description: PageView.fmt
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User

@@ -1,5 +1,6 @@
 ---
-title: EmbedShare.embedsizesdescription: EmbedShare.embedsizes
+title: EmbedShare.embedsizes
+description: EmbedShare.embedsizes
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
