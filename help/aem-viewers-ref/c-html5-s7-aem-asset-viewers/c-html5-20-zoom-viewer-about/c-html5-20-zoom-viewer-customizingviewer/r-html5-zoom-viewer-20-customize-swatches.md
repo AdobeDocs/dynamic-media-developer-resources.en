@@ -1,17 +1,14 @@
 ---
-description: Swatches consist of a row of thumbnail images with optional scroll buttons on the left and right hand side. Scroll buttons are only visible on the desktop if all thumbnails cannot fit into the container width. On mobile devices, or if thumbnails can fit into the container width, the scroll buttons are not shown.
-
-
-solution: Experience Manager
 title: Swatches
-
+description: Swatches consist of a row of thumbnail images with optional scroll buttons on the left- and right-hand side. Scroll buttons are only visible on the desktop if all thumbnails cannot fit into the container width. On mobile devices, or if thumbnails can fit into the container width, the scroll buttons are not shown.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: 7eaa4a6e-98e8-477b-9f45-66f8a79dfd85
 ---
 # Swatches{#swatches}
 
-Swatches consist of a row of thumbnail images with optional scroll buttons on the left and right hand side. Scroll buttons are only visible on the desktop if all thumbnails cannot fit into the container width. On mobile devices, or if thumbnails can fit into the container width, the scroll buttons are not shown.
+Swatches consist of a row of thumbnail images with optional scroll buttons on the left- and right-hand side. Scroll buttons are only visible on the desktop if all thumbnails cannot fit into the container width. On mobile devices, or if thumbnails can fit into the container width, the scroll buttons are not shown.
 
  `.s7zoomviewer .s7swatches`
 

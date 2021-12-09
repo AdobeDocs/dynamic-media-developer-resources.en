@@ -1,8 +1,7 @@
 ---
+title: PageView.frametransition
 description: PageView.frametransition
 solution: Experience Manager
-title: PageView.frametransition
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: 026c2fc5-0460-481c-aca9-ddd25371779c

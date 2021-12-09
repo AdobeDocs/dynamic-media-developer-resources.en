@@ -1,8 +1,7 @@
 ---
+title: FavoritesView.maxloadradius
 description: FavoritesView.maxloadradius
 solution: Experience Manager
-title: FavoritesView.maxloadradius
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: 6bbf75f1-96e7-496d-9f5c-6f449f76bfdd

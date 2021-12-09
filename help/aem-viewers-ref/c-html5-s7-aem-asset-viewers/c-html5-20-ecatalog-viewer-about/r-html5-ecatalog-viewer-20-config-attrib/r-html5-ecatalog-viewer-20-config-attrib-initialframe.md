@@ -1,8 +1,7 @@
 ---
+title: InitialFrame
 description: InitialFrame
 solution: Experience Manager
-title: InitialFrame
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: 28b6b981-94f6-4136-b322-992e18d154db

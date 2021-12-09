@@ -1,10 +1,7 @@
 ---
-description: Main view consists of the zoomable image.
-
-
-solution: Experience Manager
 title: Zoom view
-
+description: Main view consists of the zoomable image.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: ae6c7f6f-5d71-49b5-adbb-782520961acf
@@ -42,7 +39,7 @@ The appearance of the viewing area is controlled with the following CSS class se
  </tbody> 
 </table>
 
-Example - to make the main view transparent.
+Example - To make the main view transparent.
 
 ```
 .s7zoomviewer .s7zoomview { 

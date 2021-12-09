@@ -1,8 +1,7 @@
 ---
+title: PageView.maxloadradius
 description: PageView.maxloadradius
 solution: Experience Manager
-title: PageView.maxloadradius
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: 02925e09-f1ab-4afb-a900-d216efd323fe
@@ -15,7 +14,7 @@ exl-id: 02925e09-f1ab-4afb-a900-d216efd323fe
  <tbody> 
   <tr> 
    <td colname="col1"> <p><span class="codeph">-1|0|<span class="varname"> preloadnbr</span></span> </p> </td> 
-   <td colname="col2"> <p>Specifies the component preload behavior. </p> <p>When set to <span class="codeph"> -1</span> the component preloads all the catalog frames when in an idle state. </p> <p> When set to <span class="codeph"> 0</span> the component loads only the frame that is currently visible, previous and next frame. </p> <p>Set <span class="codeph"><span class="varname"> preloadnbr</span></span> to define how many invisible frames around the currently displayed frame are preloaded in an idle state. </p> </td> 
+   <td colname="col2"> <p>Specifies the component preload behavior. </p> <p>When set to <span class="codeph"> -1</span> the component preloads all the catalog frames when in an idle state. </p> <p> When set to <span class="codeph"> 0</span> the component loads only the frame that is currently visible, previous, and next frame. </p> <p>Set <span class="codeph"><span class="varname"> preloadnbr</span></span> to define how many invisible frames around the currently displayed frame are preloaded in an idle state. </p> </td> 
   </tr> 
  </tbody> 
 </table>

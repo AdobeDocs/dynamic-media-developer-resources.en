@@ -1,8 +1,7 @@
 ---
+title: PageView.iconEffect
 description: PageView.iconEffect
 solution: Experience Manager
-title: PageView.iconEffect
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: cdd96e58-d805-47d6-bf26-9ebd90afd535

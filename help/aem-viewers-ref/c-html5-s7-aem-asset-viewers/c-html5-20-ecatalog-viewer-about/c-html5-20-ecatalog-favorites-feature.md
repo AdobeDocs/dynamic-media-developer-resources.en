@@ -1,8 +1,7 @@
 ---
+title: Favorites feature
 description: Favorites feature
 solution: Experience Manager
-title: Favorites feature
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: 7caf1111-9643-494c-8c9e-684edd1c27f8

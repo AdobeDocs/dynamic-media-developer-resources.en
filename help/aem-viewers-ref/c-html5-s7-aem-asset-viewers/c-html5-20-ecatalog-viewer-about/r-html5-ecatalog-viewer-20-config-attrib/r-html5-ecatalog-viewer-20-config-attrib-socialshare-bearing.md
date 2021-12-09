@@ -1,8 +1,7 @@
 ---
+title: SocialShare.bearing
 description: SocialShare.bearing
 solution: Experience Manager
-title: SocialShare.bearing
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: 026b5921-53ae-436f-bf82-dee2e699405f
@@ -15,7 +14,7 @@ exl-id: 026b5921-53ae-436f-bf82-dee2e699405f
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> up|down|left|right|fit-vertical|fit-lateral </span> </p> </td> 
-   <td colname="col2"> <p> Specifies the direction of slide animation for the buttons container. </p> <p> When set to <span class="codeph"> up </span>, <span class="codeph"> down </span>, <span class="codeph"> left </span>, or <span class="codeph"> right </span>, the panel rolls out in a specified direction without an additional bounds check. This behavior can result in panel clipping by an outside container. </p> <p>When set to <span class="codeph"> fit-vertical </span>, the component first shifts the base panel position to the bottom of SocialShare and try to roll out the panel either from the bottom, right, or left, from such base location. With each attempt the component checks to see if panel is clipped by an outside container. If all attempts fail, the component tries to shift the base panel position to the top and repeat the roll out attempts from the top, right, and left direction. </p> <p>When set to <span class="codeph"> fit-lateral </span>, the component uses a similar logic as with fit-vertical, but instead shifts the base to the right first-trying right, down, and up roll out directions-and then shifts the base to the left, trying left, down, and up roll out directions. </p> </td> 
+   <td colname="col2"> <p> Specifies the direction of slide animation for the buttons container. </p> <p> When set to <span class="codeph"> up </span>, <span class="codeph"> down </span>, <span class="codeph"> left </span>, or <span class="codeph"> right </span>, the panel rolls out in a specified direction without an extra bounds check. This behavior can result in panel clipping by an outside container. </p> <p>When set to <span class="codeph"> fit-vertical </span>, the component first shifts the base panel position to the bottom of SocialShare and try to roll out the panel either from the bottom, right, or left, from such base location. With each attempt, the component checks to see if panel is clipped by an outside container. If all attempts fail, the component tries to shift the base panel position to the top and repeat the rollout attempts from the top, right, and left direction. </p> <p>When set to <span class="codeph"> fit-lateral </span>, the component uses a similar logic as with fit-vertical. However, it shifts the base to the right first-trying right, down, and up roll out directions-and then shifts the base to the left, trying left, down, and up rollout directions. </p> </td> 
   </tr> 
  </tbody> 
 </table>

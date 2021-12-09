@@ -1,15 +1,15 @@
 ---
-description: eCatalog Viewer is a catalog viewer that displays electronic brochures in a spread by spread or page by page manner, The eCatalog lets users navigate through the catalog using additional user interface elements or dedicated thumbnails mode. Users can also zoom in on every page for greater detail.
+title: eCatalog
+description: eCatalog Viewer is a catalog viewer that displays electronic brochures in a spread by spread or page by page manner. The eCatalog lets users navigate through the catalog using additional user interface elements or dedicated thumbnails mode. Users can also zoom in on every page for greater detail.
 keywords: responsive
 solution: Experience Manager
-title: eCatalog
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: 8e243fa5-e375-41ce-8b49-2571023130c1
 ---
 # eCatalog{#ecatalog}
 
-eCatalog Viewer is a catalog viewer that displays electronic brochures in a spread by spread or page by page manner, The eCatalog lets users navigate through the catalog using additional user interface elements or dedicated thumbnails mode. Users can also zoom in on every page for greater detail.
+eCatalog Viewer is a catalog viewer that displays electronic brochures in a spread by spread or page by page manner. The eCatalog lets users navigate through the catalog using additional user interface elements or dedicated thumbnails mode. Users can also zoom in on every page for greater detail.
 
 >[!NOTE]
 >
@@ -78,7 +78,7 @@ This viewer is fully keyboard accessible as described in [Keyboard accessibility
 
 ## Social media sharing tools with eCatalog Viewer {#section-eb575084a99647c3a9591f439f40b412}
 
-The eCatalog Viewer supports social sharing tools They are available as a button in the main control bar which expands into a sharing tool bar when a user clicks or taps on it.
+The eCatalog Viewer supports social sharing tools. They are available as a button in the main control bar which expands into a sharing tool bar when a user clicks or taps on it.
 
 The sharing tool bar contains icons for each type of sharing channel supported which includes Facebook, Twitter, email share, embed code share, and link share. When email share, embed share, or link share tools are activated, the viewer displays a modal dialog box with a corresponding data entry form. When Facebook or Twitter is called, the viewer redirects the user to a standard sharing dialog from a social service. Sharing tools are not available in full screen mode because of web browser security restrictions.
 
@@ -110,11 +110,11 @@ In the embedded mode, the viewer is added to the existing web page, which may al
 
 The primary use cases are web pages oriented for desktops or tablet devices, and also responsive designed pages that adjust layout automatically depending on the device type.
 
-Fixed size embedding is used when the viewer does not change its size after initial load. This is the best choice for web pages that have a static layout.
+Fixed size embedding is used when the viewer does not change its size after initial load. This method is the best choice for web pages that have a static layout.
 
-Responsive design embedding assumes that the viewer may need to resize at runtime in response to the size change of its container `DIV`. The most common use case is adding a viewer to a web page that uses a flexible page layout.
+Responsive design embedding assumes that the viewer must resize at runtime in response to the size change of its container `DIV`. The most common use case is adding a viewer to a web page that uses a flexible page layout.
 
-In responsive design embedding mode, the viewer behaves differently depending on the way web page sizes its container `DIV`. If the web page sets only the width of the container `DIV`, leaving its height unrestricted, the viewer automatically chooses its height according to the aspect ratio of the asset that is used. This functionality ensures that the asset fits perfectly into the view without any padding on the sides. This use case is the most common for web pages using responsive layout frameworks like Bootstrap, Foundation, and so on.
+In responsive design embedding mode, the viewer behaves differently depending on the way web page sizes its container `DIV`. If the web page sets only the width of the container `DIV`, leaving its height unrestricted, the viewer automatically chooses its height according to the aspect ratio of the asset that is used. This functionality ensures that the asset fits perfectly into the view without any padding on the sides. This use case is the most common for web pages using responsive layout frameworks like Bootstrap and Foundation.
 
 Otherwise, if the web page sets both the width and the height for the viewer's container `DIV`, the viewer fills just that area and follows the size that the web page layout provides. A good example is embedding the viewer into a modal overlay, where the overlay is sized according to web browser window size.
 
@@ -143,7 +143,7 @@ You add the viewer to a web page by doing the following:
 
    >[!NOTE]
    >
-   >You should only reference the main viewer JavaScript `include` file on your page. You should not reference any additional JavaScript files in the web page code which might be downloaded by the viewer's logic in runtime. In particular, do not directly reference HTML5 SDK `Utils.js` library loaded by the viewer from `/s7viewers` context path (so-called consolidated SDK `include`). The reason is that the location of `Utils.js` or similar runtime viewer libraries is fully managed by the viewer's logic and the location changes between viewer releases. Adobe does not keep older versions of secondary viewer `includes` on the server. 
+   >Only reference the main viewer JavaScript `include` file on your page. Do not reference any additional JavaScript files in the web page code which might be downloaded by the viewer's logic in runtime. In particular, do not directly reference HTML5 SDK `Utils.js` library loaded by the viewer from `/s7viewers` context path (so-called consolidated SDK `include`). The reason is that the location of `Utils.js` or similar runtime viewer libraries is fully managed by the viewer's logic and the location changes between viewer releases. Adobe does not keep older versions of secondary viewer `includes` on the server. 
    >
    >
    >As a result, putting a direct reference to any secondary JavaScript `include` used by the viewer on the page breaks the viewer functionality in the future when a new product version is deployed.
@@ -164,7 +164,7 @@ You add the viewer to a web page by doing the following:
 
    You can set the static size for the viewer by either declaring it for `.s7ecatalogviewer` top-level CSS class in absolute units, or by using `stagesize` modifier.
 
-   You can put sizing in CSS directly on the HTML page, or in a custom viewer CSS file, which is then later assigned to a viewer preset record in Dynamic Media Classic, or passed explicitly using a style command.
+   You can put sizing in CSS directly on the HTML page. Or, put sizing in a custom viewer CSS file, which is then later assigned to a viewer preset record in Dynamic Media Classic, or passed explicitly using a style command.
 
    See [Customizing eCatalog Viewer](../../c-html5-s7-aem-asset-viewers/c-html5-20-ecatalog-viewer-about/c-html5-20-ecatalog-viewer-customizingviewer/c-html5-20-ecatalog-viewer-customizingviewer.md#concept-73a8546acdb444a387c49969ceca57d0) for more information about styling the viewer with CSS.
 
@@ -177,7 +177,7 @@ You add the viewer to a web page by doing the following:
    }
    ```
 
-   You can set the `stagesize` modifier either in the viewer preset record in Dynamic Media Classic, or pass it explicitly with the viewer initialization code with `params` collection, or as an API call as described in the Command Reference section, like the following:
+   You can set the `stagesize` modifier in the viewer preset record in Dynamic Media Classic. Or, you can pass it explicitly with the viewer initialization code with `params` collection, or as an API call as described in the Command Reference section, like the following:
 
    ```
    eCatalogViewer.setParam("stagesize", 
@@ -190,7 +190,7 @@ You add the viewer to a web page by doing the following:
 
    It is important to have the viewer container added to the DOM so that the viewer code can find the container element by its ID. Some browsers delay building DOM until the end of the web page. For maximum compatibility, however, call the `init()` method just before the closing `BODY` tag, or on the body `onload()` event.
 
-   At the same the container element should not necessarily be part of the web page layout just yet. For example, it may be hidden using `display:none` style assigned to it. In this case, the viewer delays its initialization process until the moment when the web page brings the container element back to the layout. When this happens, the viewer load automatically resumes.
+   At the same time, the container element should not necessarily be part of the web page layout yet. For example, it may be hidden using `display:none` style assigned to it. In this case, the viewer delays its initialization process until the moment when the web page brings the container element back to the layout. When this action occurs, the viewer load automatically resumes.
 
    The following is an example of creating a viewer instance, passing the minimum necessary configuration options to the constructor, and calling the `init()` method. The example assumes `eCatalogViewer` is the viewer instance; `s7viewer` is the name of placeholder `DIV`; `https://s7d1.scene7.com/is/image/` is the Image Serving URL, and `Viewers/Pluralist` is the asset:
 
@@ -297,7 +297,7 @@ The following examples page illustrates more real-life use cases of responsive d
 
 **Flexible size embedding with width and height defined**
 
-In case of flexible-size embedding with width and height defined, the web page styling is different. That is, it provides both sizes to the " holder" `DIV` and centers it in the browser window. Also, the web page sets the size of the `HTML` and `BODY` element to 100%:
+In flexible-size embedding with width and height defined, the web page styling is different. That is, it provides both sizes to the " holder" `DIV` and centers it in the browser window. Also, the web page sets the size of the `HTML` and `BODY` element to 100%:
 
 ```
 <!DOCTYPE html> 

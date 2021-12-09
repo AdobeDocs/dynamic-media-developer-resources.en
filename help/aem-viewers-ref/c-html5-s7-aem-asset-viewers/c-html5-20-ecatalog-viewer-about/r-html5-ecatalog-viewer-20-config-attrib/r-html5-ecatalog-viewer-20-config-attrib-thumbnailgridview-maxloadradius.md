@@ -1,8 +1,7 @@
 ---
+title: ThumbnailGridView.maxloadradius
 description: ThumbnailGridView.maxloadradius
 solution: Experience Manager
-title: ThumbnailGridView.maxloadradius
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: e93de3b5-b42d-4db8-90b9-9e2aa53af775

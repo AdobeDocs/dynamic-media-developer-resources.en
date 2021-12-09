@@ -1,8 +1,7 @@
 ---
+title: ImageMapEffect.mode
 description: ImageMapEffect.mode
 solution: Experience Manager
-title: ImageMapEffect.mode
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: 86a3f04f-6593-4778-a8a4-1ec19800ceeb
@@ -18,8 +17,8 @@ exl-id: 86a3f04f-6593-4778-a8a4-1ec19800ceeb
    <td colname="col2"> <p>Specifies the appearance of the image map. </p> <p> 
      <ul id="ul_DDA49C152718486E853213E6FC2182B2"> 
       <li id="li_18F86AB4D2F544319CCDF7BE376ABA53"> <p> <span class="codeph"> icon </span> map icons are statically shown on the desktop and touch devices. </p> </li> 
-      <li id="li_F8832681CDD6456E9147A37C99BAFFED"> <p> <span class="codeph"> region </span> renders image map regions; on desktop, they are shown on roll over and on touch devices they are always visible. </p> </li> 
-      <li id="li_9F7DD686E8104AEB944505363F433C0F"> <p> <span class="codeph"> auto </span> on desktop systems, image map regions are shown on roll over and on touch devices map icons are always visible. </p> </li> 
+      <li id="li_F8832681CDD6456E9147A37C99BAFFED"> <p> <span class="codeph"> region </span> renders image map regions; on desktop, they are shown on rollover and on touch devices they are always visible. </p> </li> 
+      <li id="li_9F7DD686E8104AEB944505363F433C0F"> <p> <span class="codeph"> auto </span> on desktop systems, image map regions are shown on rollover and on touch devices map icons are always visible. </p> </li> 
       <li id="li_7CB644F3A029480293B46F44FF8D03B6"> <p> <span class="codeph"> none </span> disables image maps. </p> </li> 
      </ul> </p> </td> 
   </tr> 

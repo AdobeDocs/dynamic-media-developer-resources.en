@@ -1,10 +1,7 @@
 ---
-description: The eCatalog Viewer supports the rendering of image map icons above the main view.
-
-
-solution: Experience Manager
 title: Image map support
-
+description: The eCatalog Viewer supports the rendering of image map icons above the main view.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: 7a2a58f9-852e-4205-96bc-08332507b6cd
@@ -29,7 +26,7 @@ In this example, the same URL is wrapped with the `loadProduct()` function:
 
 `href=javascript:loadProduct("http://www.adobe.com");void(0);`
 
-Be aware that when you add the JavaScript code into the `HREF` attribute of your image map, the code is run on the client’s computer. Therefore, make sure that the JavaScript code is secure.
+When you add the JavaScript code into the `HREF` attribute of your image map, the code is run on the client’s computer. Therefore, make sure that the JavaScript code is secure.
 
 ## Info Panel Popup activation {#section-7aa036420af646d1ad8cdc388add0b57}
 
@@ -39,15 +36,15 @@ Finally, be sure that the viewer configuration includes the appropriate values f
 
 >[!NOTE]
 >
->Be aware that when you configure Info Panel Popup, the HTML code and JavaScript code passed to the Info Panel runs on the client's computer. Therefore, make sure that such HTML code and JavaScript code are secure.
+>When you configure Info Panel Popup, the HTML code, and JavaScript code passed to the Info Panel runs on the client's computer. Therefore, make sure that such HTML code and JavaScript code are secure.
 
 ## Internal hyperlinks {#section-6afa4fb2fe564c429e0201f019a95849}
 
-Clicking on an image map performs an internal page swap inside the viewer. To use that feature, an `href` attribute in the image map has the following special format:
+Selecting an image map performs an internal page swap inside the viewer. To use that feature, an `href` attribute in the image map has the following special format:
 
 ` href=target: *`idx`*`
 
-where `*`idx`*` is a zero-based index of the catalog spread.
+Where `*`idx`*` is a zero-based index of the catalog spread.
 
 The following is an example of an `href` attribute for an image map that points to the 3D spread in the eCatalog:
 

@@ -1,8 +1,7 @@
 ---
+title: InfoPanelPopup.template
 description: InfoPanelPopup.template
 solution: Experience Manager
-title: InfoPanelPopup.template
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: 20618017-2f73-4951-baa9-2063a0f4efcb
@@ -31,7 +30,7 @@ exl-id: 20618017-2f73-4951-baa9-2063a0f4efcb
 
 >[!NOTE]
 >
->Be aware that when you configure Info Panel Popup, the HTML code and JavaScript code passed to the Info Panel runs on the client's computer. Therefore, make sure that such HTML code and JavaScript code are secure.
+>When you configure Info Panel Popup, the HTML code, and JavaScript code passed to the Info Panel runs on the client's computer. Therefore, make sure that such HTML code and JavaScript code are secure.
 
 ## Properties {#section-6dd7785357d740d095fa9f7fd0f67da4}
 
