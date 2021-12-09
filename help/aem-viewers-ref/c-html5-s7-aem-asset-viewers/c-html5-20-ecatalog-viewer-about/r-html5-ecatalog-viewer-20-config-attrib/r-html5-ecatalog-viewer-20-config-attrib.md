@@ -1,10 +1,7 @@
 ---
-description: Configuration attributes documentation for eCatalog Viewer.
-
-
-solution: Experience Manager
 title: Command reference – Configuration attributes
-
+description: Configuration attributes documentation for eCatalog Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: d15061db-8941-44aa-b90d-598c1ce58a67
@@ -15,11 +12,11 @@ Configuration attributes documentation for eCatalog Viewer.
 
 Any configuration command can be set in URL or using `setParam()`, or `setParams()`, or both, API methods. You can also specify any configuration attribute that is specified in the server-side configuration record.
 
-For some configuration commands you can prefix them with the class name or instance name of corresponding Viewer SDK component. An instance name of the component is dynamic and depends on the ID of the viewer container DOM element passed to `setContainerId()` API method. Documentation includes optional prefix for such commands. For example, `zoomstep` command is documented as follows:
+For some configuration commands, you can prefix them with the class name or instance name of corresponding Viewer SDK component. An instance name of the component is dynamic and depends on the ID of the viewer container DOM element passed to `setContainerId()` API method. Documentation includes optional prefix for such commands. For example, `zoomstep` command is documented as follows:
 
 `[PageView.|<containerId>_pageView].zoomstep`
 
-which means that you can use this command as:
+Which means that you can use this command as
 
 * `zoomstep` (short syntax) 
 * `PageView.zoomstep` (qualified with component class name) 

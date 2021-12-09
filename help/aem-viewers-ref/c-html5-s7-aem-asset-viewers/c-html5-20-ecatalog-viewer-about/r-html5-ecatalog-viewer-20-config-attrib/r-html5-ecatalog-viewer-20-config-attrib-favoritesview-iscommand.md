@@ -1,10 +1,7 @@
 ---
-description: The Image Serving command string that is applied to all thumbnails.
-
-
-solution: Experience Manager
 title: FavoritesView.iscommand
-
+description: The Image Serving command string that is applied to all thumbnails.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: 1b6198f4-367d-437a-b8b1-206519567af0

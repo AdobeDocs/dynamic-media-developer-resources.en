@@ -1,8 +1,7 @@
 ---
+title: InfoPanelPopup.infoServerUrl
 description: InfoPanelPopup.infoServerUrl
 solution: Experience Manager
-title: InfoPanelPopup.infoServerUrl
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: 83abaecb-cc85-4918-98ed-2770b4ca407b
@@ -22,7 +21,7 @@ exl-id: 83abaecb-cc85-4918-98ed-2770b4ca407b
 
 >[!NOTE]
 >
->Be aware that when you configure Info Panel Popup, the HTML code and JavaScript code passed to the Info Panel runs on the client's computer. Therefore, make sure that such HTML code and JavaScript code are secure.
+>When you configure Info Panel Popup, the HTML code, and JavaScript code passed to the Info Panel runs on the client's computer. Therefore, make sure that such HTML code and JavaScript code are secure.
 
 ## Properties {#section-71356e3c13244e62b0582980d9d05328}
 

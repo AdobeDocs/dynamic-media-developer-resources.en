@@ -1,8 +1,7 @@
 ---
+title: Print.printquality
 description: Print.printquality
 solution: Experience Manager
-title: Print.printquality
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: a6282054-e64a-4fb1-aa8d-2d8cb935d505

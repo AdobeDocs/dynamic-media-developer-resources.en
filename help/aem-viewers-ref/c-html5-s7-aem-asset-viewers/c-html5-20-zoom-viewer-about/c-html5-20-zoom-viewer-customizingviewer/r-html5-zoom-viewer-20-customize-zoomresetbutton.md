@@ -1,17 +1,14 @@
 ---
-description: Clicking or tapping this button resets an image in the main view. You can size, skin, and position this button by using CSS.
-
-
-solution: Experience Manager
 title: Zoom reset button
-
+description: Clicking or tapping this button resets an image in the main view. You can size, skin, and position this button by using CSS.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: 18663c1f-5645-41c7-bf26-241ad7c2c3b5
 ---
 # Zoom reset button{#zoom-reset-button}
 
-Clicking or tapping this button resets an image in the main view. You can size, skin, and position this button by using CSS.
+Selecting or tapping this button resets an image in the main view. You can size, skin, and position this button by using CSS.
 
 <!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
@@ -72,7 +69,7 @@ The appearance of the button is controlled with the following CSS class selector
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-20-zoom-viewer-about/c-html5-20-zoom-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74).
 
-Example - to set up a zoom reset button that is 32 x 32 pixels, positioned six pixels from the top and right edge of the viewer, and displays a different image for each of the four different button states.
+Example - To set up a zoom reset button that is 32 x 32 pixels, and positioned six pixels from the top and right edge of the viewer. And finally, displays a different image for each of the four different button states.
 
 ```
 .s7zoomviewer .s7zoomresetbutton { 

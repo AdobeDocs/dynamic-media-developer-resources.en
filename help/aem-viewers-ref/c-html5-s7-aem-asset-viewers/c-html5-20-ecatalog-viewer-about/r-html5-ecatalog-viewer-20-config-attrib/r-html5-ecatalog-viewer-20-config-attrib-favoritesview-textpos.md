@@ -1,8 +1,7 @@
 ---
+title: FavoritesView.textpos
 description: FavoritesView.textpos
 solution: Experience Manager
-title: FavoritesView.textpos
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: 3bfd7f84-6136-4db7-80a5-56f84179f3ce
@@ -15,7 +14,7 @@ exl-id: 3bfd7f84-6136-4db7-80a5-56f84179f3ce
  <tbody> 
   <tr> 
    <td colname="col1"> <p><span class="codeph"> bottom|top|left|right|none|tooltip</span> </p> </td> 
-   <td colname="col2"> <p> Specifies where the label is drawn relative to the thumbnail image. That is, the label is centered at the specified location relative to the thumbnail. </p> <p>When <span class="codeph"> tooltip</span> is specified, the label text is displayed as a floating tooltip over the thumbnail image. </p> <p>When set to <span class="codeph"> none</span>, it turns label display off. </p> </td> 
+   <td colname="col2"> <p> Specifies where the label is drawn relative to the thumbnail image. That is, the label is centered at the specified location relative to the thumbnail. </p> <p>When <span class="codeph"> tooltip</span> is specified, the label text is displayed as a floating tooltip over the thumbnail image. </p> <p>When set to <span class="codeph"> none</span>, it turns off label display. </p> </td> 
   </tr> 
  </tbody> 
 </table>

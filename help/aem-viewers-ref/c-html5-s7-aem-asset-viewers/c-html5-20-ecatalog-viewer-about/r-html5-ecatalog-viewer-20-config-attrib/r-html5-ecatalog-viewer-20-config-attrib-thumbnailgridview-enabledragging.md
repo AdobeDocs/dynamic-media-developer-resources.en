@@ -1,8 +1,7 @@
 ---
+title: ThumbnailGridView.enabledragging
 description: ThumbnailGridView.enabledragging
 solution: Experience Manager
-title: ThumbnailGridView.enabledragging
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: e3615e82-d8f0-427e-ab32-f7d0f2b6cbf3

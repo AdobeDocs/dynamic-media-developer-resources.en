@@ -1,8 +1,7 @@
 ---
+title: PageView.iscommand
 description: PageView.iscommand
 solution: Experience Manager
-title: PageView.iscommand
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: d1b05fe7-901b-4030-9b71-e4e0e5191abf

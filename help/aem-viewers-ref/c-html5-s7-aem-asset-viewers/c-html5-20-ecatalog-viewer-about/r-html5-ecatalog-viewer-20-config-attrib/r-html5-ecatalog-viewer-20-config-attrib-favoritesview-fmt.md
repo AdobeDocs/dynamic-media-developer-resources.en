@@ -1,8 +1,7 @@
 ---
+title: FavoritesView.fmt
 description: FavoritesView.fmt
 solution: Experience Manager
-title: FavoritesView.fmt
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: d14f8a0c-5fb5-4315-ba8b-79add6d389b0

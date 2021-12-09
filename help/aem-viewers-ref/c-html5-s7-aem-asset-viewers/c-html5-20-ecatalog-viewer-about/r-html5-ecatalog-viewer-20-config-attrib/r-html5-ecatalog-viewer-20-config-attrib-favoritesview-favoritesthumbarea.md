@@ -1,8 +1,7 @@
 ---
+title: FavoritesView.favoritesThumbView
 description: FavoritesView.favoritesThumbView
 solution: Experience Manager
-title: FavoritesView.favoritesThumbView
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: 5c57fcc8-be67-408a-9c4c-4e15d5fe6410

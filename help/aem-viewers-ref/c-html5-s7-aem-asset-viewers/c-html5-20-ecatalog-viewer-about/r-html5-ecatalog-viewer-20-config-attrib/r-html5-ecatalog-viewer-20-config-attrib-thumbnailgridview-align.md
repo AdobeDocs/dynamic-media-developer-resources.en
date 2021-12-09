@@ -1,8 +1,7 @@
 ---
+title: ThumbnailGridView.align
 description: ThumbnailGridView.align
 solution: Experience Manager
-title: ThumbnailGridView.align
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: e26ee733-263d-4a6b-a37b-65b9fa1376c8

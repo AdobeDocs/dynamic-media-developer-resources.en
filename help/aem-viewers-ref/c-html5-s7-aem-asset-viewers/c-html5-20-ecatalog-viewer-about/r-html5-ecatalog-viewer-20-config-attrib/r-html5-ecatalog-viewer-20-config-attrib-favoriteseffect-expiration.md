@@ -1,8 +1,7 @@
 ---
+title: FavoritesEffect.expiration
 description: FavoritesEffect.expiration
 solution: Experience Manager
-title: FavoritesEffect.expiration
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: ef4880c5-045c-487c-a73a-e87e54717029
@@ -15,7 +14,7 @@ exl-id: ef4880c5-045c-487c-a73a-e87e54717029
  <tbody> 
   <tr> 
    <td colname="col1"> <p><span class="codeph"><span class="varname"> days</span></span> </p> </td> 
-   <td colname="col2"> <p> Number of days the collection of favorites is kept on the client's system before they expire. Every time a user visits the catalog and makes a change to the favorites, such as adding or removing, the expiration timer is reset. </p> </td> 
+   <td colname="col2"> <p> Number of days the collection of favorites is kept on the client's system before they expire. Every time a user visits the catalog and changes a favorite, such as adding or removing, the expiration timer is reset. </p> </td> 
   </tr> 
  </tbody> 
 </table>
