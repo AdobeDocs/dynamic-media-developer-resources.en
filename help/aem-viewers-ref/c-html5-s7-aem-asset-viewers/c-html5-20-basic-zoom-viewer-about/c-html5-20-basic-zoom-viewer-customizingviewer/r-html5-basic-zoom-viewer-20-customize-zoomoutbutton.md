@@ -69,7 +69,7 @@ The appearance of the button is controlled with the following CSS class selector
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-20-basic-zoom-viewer-about/c-html5-20-basic-zoom-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
 
-Example - To set up a zoom out button that is 32 x 32 pixels and is positioned six pixels from the top and right edge of the viewer. And finally, displays a different image for each of the four different button states.
+Example - to set up a zoom out button that is 32 x 32 pixels and positioned six pixels from the top and right edge of the viewer. It must display a different image for each of the four different button states.
 
 ```
 .s7basiczoomviewer .s7zoomoutbutton { 

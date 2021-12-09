@@ -1,6 +1,6 @@
 ---
 title: Full screen button
-description: Causes the viewer to enter or exit full screen mode when selected by the user. This button does not display if the viewer works in pop-up mode and the system does not support native full screen. You can size, skin, and position this button by using CSS.
+description: Causes the viewer to enter or exit full screen mode when clicked by the user. This button does not display if the viewer works in pop-up mode and the system does not support native full screen. You can size, skin, and position this button by using CSS.
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
@@ -69,7 +69,7 @@ The appearance of the button is controlled with the following CSS class selector
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-20-basic-zoom-viewer-about/c-html5-20-basic-zoom-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
 
-Example - To set up a full screen button that is 32 x 32 pixels and is positioned six pixels from the top and right edge of the viewer. And finally, displays a different image for each of the four different button states when selected or not selected:
+Example - to set up a full screen button that is 32 x 32 pixels and positioned six pixels from the top and right edge of the viewer. It must display a different image for each of the four different button states when selected or not selected:
 
 ```
 .s7basiczoomviewer .s7fullscreenbutton { 

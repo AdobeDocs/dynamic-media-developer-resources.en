@@ -45,7 +45,7 @@ The following are the expected results when you use this configuration attribute
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> always</span> </p> </td> 
-   <td colname="col2"> <p>The pixel density of the screen/device is always accounted for. </p> <p> 
+   <td colname="col2"> <p>The pixel density of the screen/device is always accounted.</p> <p> 
      <ul id="ul_D8F31FDFCDB74B75A3B1BFBEE33AF2E2"> 
       <li id="li_8A1C6DCCE10545349C73029729211BB2"> <p>If the screen pixel density = 1, then the requested image is 1000 x 1000. </p> </li> 
       <li id="li_884156A34AC64B4E9B3ACC4C25EB710F"> <p>If the screen pixel density = 1.5, then the requested image is 1500 x 1500. </p> </li> 

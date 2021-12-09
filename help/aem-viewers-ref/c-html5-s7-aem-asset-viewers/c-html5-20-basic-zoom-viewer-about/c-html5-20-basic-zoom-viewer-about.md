@@ -25,7 +25,7 @@ See [System requirements and prerequisites](../../c-system-requirements-and-prer
 
 ## Using Basic Zoom Viewer {#section-e6c68406ecdc4de781df182bbd8088b4}
 
-Basic Zoom Viewer represents a main JavaScript file and a set of helper files. That is, a single JavaScript include with all the Viewer SDK components used by this particular viewer, assets, and CSS that the viewers download at runtime.
+Basic Zoom Viewer represents a JavaScript file and a set of helper files that the viewer downloads at runtime. Essentially, it is a single JavaScript include with all the Viewer SDK components used by this particular viewer, assets, and CSS.
 
 You can use Basic Zoom Viewer in pop-up mode using a production-ready HTML page provided with IS-Viewers or in embedded mode, where it is integrated into target web page using documented API.
 
@@ -154,7 +154,7 @@ You add the viewer to a web page by doing the following:
 
    You can set the static size for the viewer by either declaring it for `.s7basiczoomviewer` top-level CSS class in absolute units, or by using `stagesize` modifier.
 
-   You can put sizing in CSS directly on the HTML page, or in a custom viewer CSS file, which is then later assigned to a viewer preset record in Dynamic Media Classic. Or, passed explicitly using a style command.
+   Put sizing in CSS directly on the HTML page or in a custom viewer CSS file. It is then later assigned to a viewer preset record in Dynamic Media Classic, or passed explicitly using a style command.
 
    See [Customizing Basic Zoom Viewer](../../c-html5-s7-aem-asset-viewers/c-html5-20-basic-zoom-viewer-about/c-html5-20-basic-zoom-viewer-customizingviewer/c-html5-20-basic-zoom-viewer-customizingviewer.md#concept-73a8546acdb444a387c49969ceca57d0) for more information about styling the viewer with CSS.
 
@@ -167,7 +167,7 @@ You add the viewer to a web page by doing the following:
    }
    ```
 
-   You can set the `stagesize` modifier in either the viewer preset record in Dynamic Media Classic or pass it explicitly with the viewer initialization code with `params` collection. Or, pass it as an API call as described in the Command Reference section, like the following:
+   You can set `stagesize` modifier in the viewer preset record in Dynamic Media Classic. Or, you can pass it explicitly with the viewer initialization code with `params` collection or, as an API call as described in the Command Reference section, like the following:
 
    ```
    basicZoomViewer.setParam("stagesize", "640,480");

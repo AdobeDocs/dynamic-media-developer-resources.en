@@ -18,10 +18,10 @@ Supported viewer events include the following:
 
 * `trackEvent` - triggers each time an event occurs inside the viewer which may be handled by an event tracking system, such as Adobe Analytics. The callback handler takes the following arguments:
 
-  * `objID {String}` not currently used.
-  * `compClass {String}` not currently used.
-  * `instName {String}` an instance name of the Viewer SDK component that triggered the event.
-  * `timeStamp {Number}` event time stamp.
+  * `objID {String}` not currently used. 
+  * `compClass {String}` not currently used. 
+  * `instName {String}` an instance name of the Viewer SDK component that triggered the event. 
+  * `timeStamp {Number}` event time stamp. 
   * `eventInfo {String}` event payload.
 
 See also [BasicZoomViewer](../../c-html5-s7-aem-asset-viewers/c-html5-20-basic-zoom-viewer-about/c-html5-20-basic-zoom-viewer-javascriptapiref/r-html5-basic-zoom-viewer-20-javascriptapiref-basiczoomviewer.md#reference-bd16cadc0c054fafb0db4994741d47cd) and [setHandlers](../../c-html5-s7-aem-asset-viewers/c-html5-20-basic-zoom-viewer-about/c-html5-20-basic-zoom-viewer-javascriptapiref/r-html5-basic-zoom-viewer-20-javascriptapiref-sethandlers.md#reference-b748b29eaafa463a9d1723cb7b86f0d9).

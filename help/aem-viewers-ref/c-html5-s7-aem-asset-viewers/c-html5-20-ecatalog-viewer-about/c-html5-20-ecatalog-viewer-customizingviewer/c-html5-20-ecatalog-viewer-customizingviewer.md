@@ -27,15 +27,15 @@ When creating custom CSS, keep in mind that the viewer assigns `.s7ecatalogviewe
 
 ## Building responsive designed CSS {#section-c1e74f5114ad418884ca1c95f5ea5b63}
 
-It is possible to target different devices and embedding sizes in CSS to make your content display differently, depending on a user's device or a particular web page layout. This targeting includes, but is not limited to, different web page layouts, user interface element sizes, and artwork resolution.
+It is possible to target different devices and embedding sizes in CSS to make your content display differently, depending on a user's device or a particular web page layout. This target includes, but is not limited to, different web page layouts, user interface element sizes, and artwork resolution.
 
 The viewer supports two methods for creating responsive designed CSS: CSS markers and standard CSS media queries. You can use these methods independently or together.
 
 **CSS markers**
 
-To help create responsive designed CSS, the viewer supports CSS markers which special CSS classes dynamically assigned to the top-level viewer container element. The viewer container is based on the run-time viewer size and the input type used on the current device.
+To help in creating responsive designed CSS, the viewer supports CSS markers. Special CSS classes are dynamically assigned to the top-level viewer container element based on the run-time viewer size, and the input type used on the current device.
 
-The first group of CSS markers includes `.s7size_large`, `.s7size_medium`, and `.s7size_small` classes. They are applied based on the runtime area of the viewer container. That is, if the viewer area is equal to or bigger than the size of a common desktop monitor `.s7size_large` is used; if the area is close in size to a common tablet device `.s7size_medium` is assigned. For areas similar to mobile phone screens, the marker `.s7size_small` is set. The primary purpose of these CSS markers is to create different user interface layouts for different screens and viewer sizes.
+The first group of CSS markers includes `.s7size_large`, `.s7size_medium`, and `.s7size_small` classes. They are applied based on the runtime area of the viewer container. That is, if the viewer area is equal to or bigger than the size of a common desktop monitor `.s7size_large` is used; if the area is close in size to a common tablet device `.s7size_medium` is assigned. For areas similar to mobile phone screens, `.s7size_small` is set. The primary purpose of these CSS markers is to create different user interface layouts for different screens and viewer sizes.
 
 The second group of CSS Markers includes `.s7mouseinput` and `.s7touchinput`. The marker `.s7touchinput` is set if the current device has touch input capabilities; otherwise, `.s7mouseinput` is used. These markers are intended to create user interface input elements with different screen sizes for different input types, because normally touch input requires larger elements. In case the device has both mouse input and touch capabilities, `.s7touchinput` is set and the viewer renders a touch-friendly user interface.
 
@@ -63,7 +63,7 @@ To target devices with a different pixel density, use CSS media queries. The fol
 }
 ```
 
-Using CSS markers is the most flexible way of building responsive designed CSS. The reason is because it lets you target not only device screen size but actual viewer size, which may be useful for responsive designed page layouts.
+Using CSS markers is the most flexible way to build responsive designed CSS. It lets you target not only device screen size but actual viewer size, which may be useful for responsive designed page layouts.
 
 Use the default viewer CSS file as an example of a CSS markers approach.
 
