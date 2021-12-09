@@ -4,7 +4,7 @@ description: Twitter share tool consists of a button added to the Social share p
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: 
+exl-id: 5bcf6868-7ebb-43ec-971d-2be9e53650bb
 ---
 # Twitter share{#twitter-share}
 

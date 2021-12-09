@@ -4,7 +4,7 @@ description: Email share tool consists of a button added to the Social share pan
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: 
+exl-id: f2685d59-6b92-49cf-9359-dda602af4297
 ---
 # Email share{#email-share}
 

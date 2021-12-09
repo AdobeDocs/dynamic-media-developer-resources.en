@@ -5,7 +5,7 @@ keywords: responsive
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: 
+exl-id: 937be8a2-307e-47bb-9fc8-d354f780a214
 ---
 # Smart Crop Video{#smart-crop-video}
 

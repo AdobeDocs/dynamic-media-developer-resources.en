@@ -4,7 +4,7 @@ description: The control bar is the rectangular area that contains and sits behi
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: 
+exl-id: 8ea06e0a-705d-436a-9393-75a36381cba6
 ---
 # Control bar{#control-bar}
 

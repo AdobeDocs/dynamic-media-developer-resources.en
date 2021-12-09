@@ -4,7 +4,7 @@ description: This button toggles closed caption display on and off. It is not vi
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
-exl-id: 
+exl-id: 86b610e9-fea2-45b3-9b74-7ddd558fc267
 ---
 # Caption button{#caption-button}
 

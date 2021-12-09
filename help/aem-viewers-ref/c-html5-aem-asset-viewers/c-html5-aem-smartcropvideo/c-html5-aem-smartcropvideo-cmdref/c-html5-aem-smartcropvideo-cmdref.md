@@ -5,8 +5,9 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 mini-toc-levels: 3
-exl-id:
+exl-id: 698c03b1-bec0-44bf-9c79-c66e0192344a
 ---
+
 # Command reference – Configuration attributes{#command-reference-configuration-attributes}
 
 Configuration attributes documentation for Smart Crop Video Viewer.
