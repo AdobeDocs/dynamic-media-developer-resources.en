@@ -1,10 +1,7 @@
 ---
-description: Page indicator displays current page index and total page count. It appears in main control bar on desktop systems and tablet, on mobile phones it is added to secondary control bar. Page indicator can be sized, skinned, and positioned by CSS.
-
-
-solution: Experience Manager
 title: Page indicator
-
+description: Page indicator displays current page index and total page count. It appears in main control bar on desktop systems and tablet, on mobile phones it is added to secondary control bar. Page indicator can be sized, skinned, and positioned by CSS.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: c63af583-274c-4052-8186-604119a368af
@@ -64,7 +61,7 @@ The appearance of the page indicator is controlled with the following CSS class 
  </tbody> 
 </table>
 
-Example - to set up a page indicator that is 56 x 28 pixels, horizontally centered and positioned 4 pixels from the bottom of the main control bar, and use a 14 pixel Helvetica font.
+Example - to set up a page indicator that is 56 x 28 pixels, horizontally centered and positioned 4 pixels from the bottom of the main control bar, and use a 14 pixel Helvetica® font.
 
 ```
 .s7ecatalogviewer  .s7pageindicator { 

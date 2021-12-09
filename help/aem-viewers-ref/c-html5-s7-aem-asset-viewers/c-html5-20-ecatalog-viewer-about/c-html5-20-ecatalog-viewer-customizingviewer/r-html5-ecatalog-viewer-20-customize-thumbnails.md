@@ -1,10 +1,7 @@
 ---
-description: Thumbnails consist of a grid of thumbnail images with an optional scroll bar on the right side to allow vertical scrolling.
-
-
-solution: Experience Manager
 title: Thumbnails
-
+description: Thumbnails consist of a grid of thumbnail images with an optional scroll bar on the right side to allow vertical scrolling.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: e3d3d33b-f6bb-4c5b-820c-028bfb6b2594
@@ -167,7 +164,7 @@ The appearance of the thumbnail label is controlled with the following CSS class
  </tbody> 
 </table>
 
-Example - to set up labels to use 14 pixels Helvetica font.
+Example - to set up labels to use 14 pixels Helvetica® font.
 
 ```
 .s7ecatalogviewer .s7thumbnailgridview .s7label { 
@@ -176,7 +173,7 @@ Example - to set up labels to use 14 pixels Helvetica font.
 }
 ```
 
-In case there are more thumbnails than can fit vertically into the view, thumbnails renders the vertical scroll bar on the right side. The appearance of scroll bar area is controlled with the following CSS class selector:
+If there are more thumbnails than can fit vertically into the view, thumbnails render the vertical scroll bar on the right side. The appearance of scroll bar area is controlled with the following CSS class selector:
 
 `.s7ecatalogviewer .s7thumbnailgridview .s7scrollbar`
 

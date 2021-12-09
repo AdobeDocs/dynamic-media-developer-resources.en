@@ -1,10 +1,7 @@
 ---
-description: The Favorites menu drop-down list appears in the control bar. It consists of a button and a panel that expands when a user clicks or taps on a button. The panel contains individual Favorites tools.
-
-
-solution: Experience Manager
 title: Favorites menu
-
+description: The Favorites menu drop-down list appears in the control bar. It consists of a button and a panel that expands when a user clicks or taps on a button. The panel contains individual Favorites tools.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: e3c90320-b6fc-4a43-b75f-d39234b1e73c
@@ -44,7 +41,7 @@ The position and size of the Favorites menu in the viewer user interface is cont
  </tbody> 
 </table>
 
-Example - set up a Favorites menu that is positioned four pixels from the top of the control bar and ten pixels from the closest button to the left and sized 28 x 28 pixels.
+Example - To set up a Favorites menu that is positioned four pixels from the top of the control bar and ten pixels from the closest button to the left and sized 28 x 28 pixels:
 
 ```
 .s7ecatalogviewer .s7favoritesmenu { 
@@ -82,7 +79,7 @@ The appearance of the Favorites menu button is controlled with the following CSS
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-20-ecatalog-viewer-about/c-html5-20-ecatalog-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
 
-Example - set up a Favorites menu button that displays a different image for each of the four different button states.
+Example - To set up a Favorites menu button that displays a different image for each of the four different button states:
 
 ```
 .s7ecatalogviewer .s7favoritesmenu .s7favoritesbutton[state='up'] { 
@@ -116,7 +113,7 @@ The appearance of the panel that contains individual Favorites icons is controll
  </tbody> 
 </table>
 
-Example - set up a panel to have a transparent color.
+Example - To set up a panel to have a transparent color:
 
 ```
 .s7ecatalogviewer .s7favoritesmenu .s7favoritesmenupanel { 

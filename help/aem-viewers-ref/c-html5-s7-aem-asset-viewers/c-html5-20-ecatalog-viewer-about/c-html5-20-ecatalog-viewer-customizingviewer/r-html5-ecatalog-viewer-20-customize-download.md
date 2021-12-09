@@ -1,8 +1,7 @@
 ---
+title: Download
 description: Download
 solution: Experience Manager
-title: Download
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: fb01371b-0aa6-4591-8523-120c217cf45d
@@ -27,7 +26,7 @@ The appearance of the Download button is controlled with the following CSS class
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> margin-left </span> </p> </td> 
-   <td colname="col2"> <p> The distance to the next button on the left, or the left side of the control bar if this is the first button in a row. </p> </td> 
+   <td colname="col2"> <p> The distance to the next button on the left, or the left side of the control bar, if it is the first button in a row. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> width </span> </p> </td> 

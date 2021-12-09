@@ -1,5 +1,5 @@
 ---
-description: Depending on the value of the mode parameter, the viewer displays image map icons over the main view in places where maps are originally authored in Dynamic Media Classic or renders exact regions that match the shape of original image maps.
+description: Depending on the value of the mode parameter, the viewer displays image map icons over the main view in places where maps are originally authored in Dynamic Media Classic. Or, it renders exact regions that match the shape of original image maps.
 solution: Experience Manager
 title: Image map effect
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
@@ -8,7 +8,7 @@ exl-id: 3816118f-4eb7-4436-9f54-155dde077734
 ---
 # Image map effect{#image-map-effect}
 
-Depending on the value of the mode parameter, the viewer displays image map icons over the main view in places where maps are originally authored in Dynamic Media Classic or renders exact regions that match the shape of original image maps.
+Depending on the value of the mode parameter, the viewer displays image map icons over the main view in places where maps are originally authored in Dynamic Media Classic. Or, it renders exact regions that match the shape of original image maps.
 
 <!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
@@ -93,7 +93,7 @@ The appearance of the image map region is controlled with the following CSS clas
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> background-color </span> </p> </td> 
-   <td colname="col2"> <p> Image map region fill color. </p> <p>Specified in #RRGGBB, RGB(R,G,B) or RGBA(R,G,B,A) format. </p> </td> 
+   <td colname="col2"> <p> Image map region fill color. </p> <p>Specified in #RRGGBB, RGB(R,G,B), or RGBA(R,G,B,A) format. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> border </span> </p> </td> 

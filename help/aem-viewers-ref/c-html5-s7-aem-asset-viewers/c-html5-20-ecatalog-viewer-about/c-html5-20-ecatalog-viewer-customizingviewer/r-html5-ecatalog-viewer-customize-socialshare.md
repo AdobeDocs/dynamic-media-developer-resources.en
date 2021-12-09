@@ -1,17 +1,14 @@
 ---
-description: The social share tool appears in the top left corner by default. It consists of a button and a panel which expands when user clicks or taps on a button and contains individual sharing tools.
-
-
-solution: Experience Manager
 title: Social share
-
+description: The social share tool appears in the top-left corner by default. It consists of a button and a panel which expands when user clicks or taps on a button and contains individual sharing tools.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: b65b8846-3287-47ae-bdb6-6cac768cece0
 ---
 # Social share{#social-share}
 
-The social share tool appears in the top left corner by default. It consists of a button and a panel which expands when user clicks or taps on a button and contains individual sharing tools.
+The social share tool appears in the top-left corner by default. It consists of a button and a panel which expands when user clicks or taps on a button and contains individual sharing tools.
 
 <!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
@@ -31,7 +28,7 @@ The position and size of the social share tool in the viewer user interface is c
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> margin=left </span> </p> </td> 
-   <td colname="col2"> <p> The distance to the next button on the left, or the left side of the control bar if this is the first button in a row. </p> </td> 
+   <td colname="col2"> <p> The distance to the next button on the left, or the left side of the control bar if it is the first button in a row. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> width </span> </p> </td> 
@@ -44,7 +41,7 @@ The position and size of the social share tool in the viewer user interface is c
  </tbody> 
 </table>
 
-Example - set up a social sharing tool that is positioned four pixels from the top and five pixels from the right of viewer container and is sized to 28 x 28 pixels.
+Example - To set up a social sharing tool that is positioned four pixels from the top and five pixels from the right of viewer container and is sized to 28 x 28 pixels:
 
 ```
 .s7ecatalogviewer .s7socialshare { 
@@ -81,7 +78,7 @@ The appearance of the social share tool button is controlled with the following 
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-20-ecatalog-viewer-about/c-html5-20-ecatalog-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
 
-Example - set up a social sharing tool button that displays a different image for each of the four different button states.
+Example - To set up a social sharing tool button that displays a different image for each of the four different button states:
 
 ```
 .s7ecatalogviewer .s7socialshare .s7socialbutton[state='up'] { 
@@ -115,7 +112,7 @@ The appearance of the panel which contains the individual social sharing icons i
  </tbody> 
 </table>
 
-Example - set up a panel to have transparent color:
+Example - To set up a panel to have transparent color:
 
 ```
 .s7ecatalogviewer .s7socialshare .s7socialsharepanel { 

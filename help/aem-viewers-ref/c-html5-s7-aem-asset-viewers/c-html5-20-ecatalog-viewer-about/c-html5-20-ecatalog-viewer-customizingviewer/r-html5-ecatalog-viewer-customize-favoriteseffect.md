@@ -1,10 +1,7 @@
 ---
-description: The viewer displays Favorites icons over the main view in places where it was originally added by the user.
-
-
-solution: Experience Manager
 title: Favorites effect
-
+description: The viewer displays Favorites icons over the main view in places where it was originally added by the user.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: e87226cf-56bf-4d54-8df5-91295eae90a8
@@ -73,7 +70,7 @@ On desktop systems, the component supports the `cursortype` attribute selector w
  </tbody> 
 </table>
 
-Example - have different mouse cursors for each type of component state.
+Example - To have different mouse cursors for each type of component state.
 
 ```
 .s7ecatalogviewer .s7favoriteseffect[cursortype="mode_add"] { 

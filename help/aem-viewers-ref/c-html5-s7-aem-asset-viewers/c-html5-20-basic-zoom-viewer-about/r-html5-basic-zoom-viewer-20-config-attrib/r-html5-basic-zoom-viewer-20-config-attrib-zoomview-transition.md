@@ -15,7 +15,7 @@ exl-id: 3ae12e0a-0647-4cb1-9785-c854b4586c47
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> time</span> </span> </p> </td> 
    <td colname="col2"> <p> Specifies the time in seconds that the animation for a single zoom step action takes. </p> </td> 
-  </tr> 
+  </tr>
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> easing</span> </span> </p> </td> 
    <td colname="col2"> <p> Creates an illusion of acceleration or deceleration which makes the transition appear more natural. You can set easing to one of the following: </p> <p> 
