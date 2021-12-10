@@ -1,10 +1,7 @@
 ---
-description: Embed share tool consists of a button added to the Social share panel and the modal dialog box that displays when the tool is activated. The position of the button is fully managed by the Social share tool.
-
-
-solution: Experience Manager
 title: Embed share
-
+description: Embed share tool consists of a button added to the Social share panel and the modal dialog box that displays when the tool is activated. The position of the button is fully managed by the Social share tool.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: 82117b6e-c0be-4538-90ab-8def7521b49c
@@ -52,7 +49,7 @@ It is possible to remove the button from the Social share panel by setting `disp
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-ecatsearch-viewer-about/c-html5-ecatsearch-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
 
-Example - to set up a embed share button that is 28 x 28 pixels, and displays a different image for each of the four different button states:
+Example - To set up an embed Share button that is 28 x 28 pixels, and displays a different image for each of the four different button states:
 
 ```
 .s7ecatalogsearchviewer .s7embedshare { 
@@ -73,7 +70,7 @@ background-image:url(images/v2/EmbedShare_dark_disabled.png);
 }
 ```
 
-The background overlay that covers the web page when the dialog box is active is controlled with the following CSS class selector:
+The background overlay that covers the web page when the dialog box is active, is controlled with the following CSS class selector:
 
 ```
 .s7ecatalogsearchviewer .s7embeddialog .s7backoverlay
@@ -159,7 +156,7 @@ Dialog box header consists of an icon, a title text, and a close button. The hea
  </tbody> 
 </table>
 
-The icon and the title text are wrapped into an additional container controlled with
+The icon and the title text are wrapped into an extra container controlled with
 
 ```
 .s7ecatalogsearchviewer .s7embeddialog .s7dialogheader .s7dialogline
@@ -281,7 +278,7 @@ Close button is controlled with the following CSS class selector:
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-ecatsearch-viewer-about/c-html5-ecatsearch-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
 
-Example - to set up dialog header with padding, 24 x 14 pixels icon, bold 16 point title, and 28 x 28 pixels close button, positioned two pixels from the top, and two pixels from the right of dialog container:
+Example - To set up a dialog header with padding, 24 x 14 pixels icon, and a bold 16 point title. And finally, a 28 x 28 pixels Close button, positioned two pixels from the top, and two pixels from the right of dialog container:
 
 ```
 .s7ecatalogsearchviewer .s7embeddialog .s7dialogheader { 
@@ -423,7 +420,7 @@ Cancel button is controlled with the following CSS class selector:
 >
 >This button supports the `state` attribute selector, which can be used to apply different skins to different button states.
 
-In addition, both buttons share the same common CSS class which can contain CSS settings that are the same for other dialog box buttons:
+In addition, both buttons share common CSS class which can contain CSS settings that are the same for other dialog box buttons:
 
 ```
 .s7ecatalogsearchviewer .s7embeddialog .s7dialogfooter .s7button
@@ -462,7 +459,7 @@ In addition, both buttons share the same common CSS class which can contain CSS 
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-ecatsearch-viewer-about/c-html5-ecatsearch-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
 
-Example - to set up a dialog box footer with a 64 x 34 Cancel button, an 82 x 34 Select All button, and having a text color and background color that is different for each button state:
+Example - To set up a dialog box footer with a 64 x 34 Cancel button, an 82 x 34 Select All button, and having a text color and background color that is different for each button state:
 
 ```
 .s7ecatalogsearchviewer .s7embeddialog .s7dialogfooter { 
@@ -547,7 +544,7 @@ The main dialog area (between the header and the footer) contains scrollable dia
  </tbody> 
 </table>
 
-Example - to set up a main dialog box area to be 300 pixels height, have a ten pixel margin, and use a white background:
+Example - To set up a main dialog box area to be 300 pixels height, have a ten pixel margin, and use a white background:
 
 ```
 .s7ecatalogsearchviewer .s7embeddialog .s7dialogviewarea { 
@@ -633,7 +630,7 @@ The size of the text copy displayed on top of the embed code is controlled with 
 .s7ecatalogsearchviewer .s7embeddialog .s7dialoginputwide
 ```
 
-**CSS properties of the dialog box input wide field** 
+**CSS properties of the dialog box input-wide field** 
 
 <table id="table_7275B4365DFA4C0386FA2BDB7204A517"> 
  <tbody> 
@@ -709,7 +706,7 @@ The actual embed code text is controlled with the following CSS class selector:
  </tbody> 
 </table>
 
-Example - to set up embed code to use `break-word` word wrapping:
+Example - To set up the embed code to use `break-word` word wrapping:
 
 ```
 .s7ecatalogsearchviewer .s7embeddialog .s7dialogmessage { 
@@ -717,7 +714,7 @@ Example - to set up embed code to use `break-word` word wrapping:
 }
 ```
 
-Embed size label and drop-down are located in the bottom of the dialog box and put into a container controlled with the following CSS class selector:
+Embed size label and drop-down are at the bottom of the dialog box and put into a container controlled with the following CSS class selector:
 
 ```
 .s7ecatalogsearchviewer .s7embeddialog .s7dialogembedsizepanel
@@ -791,7 +788,7 @@ The width of the embed size combo box is controlled with the following CSS class
 
 >[!NOTE]
 >
->The combo box supports the `expanded` attribute selector with possible values of `true` and `false`. `true` is used when combo box displays one of pre-defined embed sizes, thus should take all available width. `false` is used when custom size option is selected in the combo box, so it should shrink to allow space for custom width and height input fields.
+>The combo box supports the `expanded` attribute selector with possible values of `true` and `false`. The value `true` is used when combo box displays one of pre-defined embed sizes, thus should take all available width. The value `false` is used when custom size option is selected in the combo box, so it should shrink to allow space for custom width and height input fields.
 
 Example - to set the embed size combo box to be 300 pixels wide when showing a pre-defined item and 110 pixels wide when showing a custom size:
 
@@ -891,7 +888,7 @@ Example - to set a drop-down button to 28 x 28 pixels and have a separate image 
 }
 ```
 
-The panel with the list of embed sizes displayed when combo box is opened is controlled with the following CSS class selector:
+The panel with the list of embed sizes displayed when combo box is opened, is controlled with the following CSS class selector:
 
 ```
 .s7ecatalogsearchviewer .s7embeddialog .s7comboboxdropdown
@@ -982,7 +979,7 @@ Example - to set the check mark icon to 25 x 25 pixels:
 }
 ```
 
-When "Custom Size" option is selected in the embed size combo box the dialog box displays two extra input fields to the right to allow the user to enter a custom embed size. Those fields are wrapped in a container that is controlled with the following CSS class selector:
+When "Custom Size" option is selected in the embed size combo box, the dialog box displays two extra input fields to the right to allow the user to enter a custom embed size. Those fields are wrapped in a container that is controlled with the following CSS class selector:
 
 ```
 .s7ecatalogsearchviewer .s7embeddialog .s7dialogcustomsizepanel
@@ -1036,7 +1033,7 @@ Each custom size input field is wrapped in a container that renders a border and
  </tbody> 
 </table>
 
-Example - to set the custom size input fields to have a one pixel grey border, margin, padding and be 70 pixels wide:
+Example - To set the custom size input fields to have a one pixel grey border, margin, padding, and be 70 pixels wide:
 
 ```
 .s7ecatalogsearchviewer .s7embeddialog .s7dialogcustomsize { 

@@ -1,10 +1,7 @@
 ---
-description: The Favorites menu drop-down list appears in the control bar. It consists of a button and a panel that expands when a user clicks or taps on a button. The panel contains individual Favorites tools.
-
-
-solution: Experience Manager
 title: Favorites menu
-
+description: The Favorites menu drop-down list appears in the control bar. It consists of a button and a panel that expands when a user clicks or taps on a button. The panel contains individual Favorites tools.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: 129a8451-f634-44ad-adb1-f30d2621cb29
@@ -31,7 +28,7 @@ The position and size of the Favorites menu in the viewer user interface is cont
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> margin-left </span> </p> </td> 
-   <td colname="col2"> <p> The distance to the next button on the left, or the left side of the control bar if this is the first button in a row. </p> </td> 
+   <td colname="col2"> <p> The distance to the next button on the left, or the left side of the control bar if this button is the first in a row. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> width </span> </p> </td> 

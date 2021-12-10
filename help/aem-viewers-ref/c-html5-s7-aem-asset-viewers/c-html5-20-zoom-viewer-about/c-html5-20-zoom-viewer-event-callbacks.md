@@ -1,8 +1,7 @@
 ---
+title: Event callbacks
 description: Event callbacks
 solution: Experience Manager
-title: Event callbacks
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: 68aa55da-5f6f-4c7d-8d3f-c25de9cc325c
@@ -15,14 +14,14 @@ Callback handlers are assigned by passing event names and corresponding handler 
 
 Supported viewer events include the following:
 
-* `initComplete` - triggers when viewer initialization is complete and all internal components are created, so that it is possible to use `getComponent()` API. The callback handler does not take any arguments. 
+* `initComplete` - triggers when viewer initialization is complete and all internal components are created, so that it is possible to use `getComponent()` API. The callback handler does not take any arguments.
 
 * `trackEvent` - triggers each time an event occurs inside the viewer which may be handled by an event tracking system, such as Adobe Analytics. The callback handler takes the following arguments:
 
-    * `objID {String}` not currently used. 
-    * `compClass {String}` not currently used. 
-    * `instName {String}` an instance name of the Viewer SDK component that triggered the event. 
-    * `timeStamp {Number}` event time stamp. 
-    * `eventInfo {String}` event payload.
+  * `objID {String}` not currently used.
+  * `compClass {String}` not currently used.
+  * `instName {String}` an instance name of the Viewer SDK component that triggered the event.
+  * `timeStamp {Number}` event time stamp.
+  * `eventInfo {String}` event payload
 
 See also [ZoomViewer](../../c-html5-s7-aem-asset-viewers/c-html5-20-zoom-viewer-about/c-html5-20-zoom-viewer-javascriptapiref/r-html5-zoom-viewer-20-javascriptapiref-zoomviewer.md#reference-bd16cadc0c054fafb0db4994741d47cd) and [setHandlers](../../c-html5-s7-aem-asset-viewers/c-html5-20-zoom-viewer-about/c-html5-20-zoom-viewer-javascriptapiref/r-html5-zoom-viewer-20-javascriptapiref-sethandlers.md#reference-d76f126ac4354dc282e56afd49a0c643).

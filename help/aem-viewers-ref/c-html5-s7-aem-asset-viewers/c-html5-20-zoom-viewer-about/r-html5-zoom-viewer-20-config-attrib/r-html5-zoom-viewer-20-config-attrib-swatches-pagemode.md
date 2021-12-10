@@ -1,8 +1,7 @@
 ---
+title: Swatches.pagemode
 description: Swatches.pagemode
 solution: Experience Manager
-title: Swatches.pagemode
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: 7ba10df0-9e3e-4c31-9bd6-4d0e6feb7e75
@@ -15,7 +14,7 @@ exl-id: 7ba10df0-9e3e-4c31-9bd6-4d0e6feb7e75
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> 0|1 </span> </p> </td> 
-   <td colname="col2"> <p> When toggled, the scroll buttons automatically cause the swatches to jump a full page length. </p> <p>Extra whitespace is shown on the last page if the swatches do not fit. Also, the last page has the same number of cells as any previous page. </p> <p>The scrollstep is ignored and mouse scrolling settles only on full pages. </p> </td> 
+   <td colname="col2"> <p> When toggled, the scroll buttons automatically cause the swatches to jump a full page length. </p> <p>Extra whitespace is shown on the last page if the swatches do not fit. Also, the last page has the same number of cells as any previous page. </p> <p>The scroll step is ignored and mouse scrolling settles only on full pages. </p> </td> 
   </tr> 
  </tbody> 
 </table>

@@ -1,8 +1,7 @@
 ---
+title: Support for Adobe Analytics tracking
 description: Support for Adobe Analytics tracking
 solution: Experience Manager
-title: Support for Adobe Analytics tracking
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User,Data Engineer,Data Architect
 exl-id: 5f927a4b-b9c8-4750-9d1c-c252d87fd236
@@ -17,7 +16,7 @@ The viewer also sends a single tracking HTTP request to the configured Image Ser
 
 ## Custom tracking {#section-cda48fc9730142d0bb3326bac7df3271}
 
-To integrate with third-party analytics systems it is necessary to listen to the `trackEvent` viewer callback and process the `eventInfo` argument of the callback function as necessary. The following code is an example of such handler function:
+To integrate with third-party analytics systems, it is necessary to listen to the `trackEvent` viewer callback and process the `eventInfo` argument of the callback function as necessary. The following code is an example of such handler function:
 
 ```
 var zoomViewer = new s7viewers.ZoomViewer({ 

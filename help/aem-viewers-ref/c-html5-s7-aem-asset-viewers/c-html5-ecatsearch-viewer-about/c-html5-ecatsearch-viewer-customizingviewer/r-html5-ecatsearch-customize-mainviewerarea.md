@@ -1,10 +1,7 @@
 ---
-description: The main view area is the area occupied by the catalog image. It usually sets to fit the available device screen when no size is specified.
-
-
-solution: Experience Manager
 title: Main viewer area
-
+description: The main view area is the area occupied by the catalog image. It usually sets to fit the available device screen when no size is specified.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: 854f5fa7-f46d-4c4f-9a44-886fec93f606

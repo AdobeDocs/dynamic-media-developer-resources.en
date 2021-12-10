@@ -1,10 +1,7 @@
 ---
-description: Input focus highlight displayed around the focused viewer user interface element.
-
-
-solution: Experience Manager
 title: Focus highlight
-
+description: Input focus highlight displayed around the focused viewer user interface element.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: 949b8a8b-5f59-415e-acc1-bf8cea77cbd9

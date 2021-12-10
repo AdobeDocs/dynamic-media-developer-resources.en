@@ -1,10 +1,7 @@
 ---
-description: The viewer displays search result regions over the main view to highlight words or phrases found in the catalog.
-
-
-solution: Experience Manager
 title: Search effect
-
+description: The viewer displays search result regions over the main view to highlight words or phrases found in the catalog.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: 3591edb0-4b0a-4761-af87-c372132c5138

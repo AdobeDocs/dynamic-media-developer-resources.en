@@ -1,10 +1,7 @@
 ---
-description: Configuration attributes documentation for Zoom Viewer.
-
-
-solution: Experience Manager
 title: Command reference – Configuration attributes
-
+description: Configuration attributes documentation for Zoom Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: 03982627-9298-4032-a15a-a5afe4ec1fb5
@@ -19,7 +16,7 @@ Some configuration commands may be prefixed with the class name or instance name
 
 `[ZoomView.|<containerId>_zoomView].zoomstep`
 
-which means that you can use this command as:
+Which means you can use the command as
 
 * `zoomstep` (short syntax) 
 * `ZoomView.zoomstep` (qualified with component class name) 

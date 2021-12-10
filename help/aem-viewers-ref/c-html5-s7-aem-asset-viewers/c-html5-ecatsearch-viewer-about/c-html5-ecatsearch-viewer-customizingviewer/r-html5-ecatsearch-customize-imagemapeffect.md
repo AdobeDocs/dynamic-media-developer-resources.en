@@ -1,7 +1,7 @@
 ---
+title: Image map effect
 description: Depending on the value of the mode parameter, the viewer displays image map icons over the main view in places where maps are originally authored in Dynamic Media Classic or renders exact regions that match the shape of original image maps.
 solution: Experience Manager
-title: Image map effect
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: 873fc387-1d2a-4d74-b85e-fcbb13b691c5
@@ -93,7 +93,7 @@ The appearance of the image map region is controlled with the following CSS clas
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> background-color </span> </p> </td> 
-   <td colname="col2"> <p> Image map region fill color. </p> <p>Specified in #RRGGBB, RGB(R,G,B) or RGBA(R,G,B,A) format. </p> </td> 
+   <td colname="col2"> <p> Image map region fill color. </p> <p>Specified in #RRGGBB, RGB(R,G,B), or RGBA(R,G,B,A) format. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> border </span> </p> </td> 

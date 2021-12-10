@@ -1,10 +1,7 @@
 ---
-description: The position of the Remove Favorite button is fully managed by the Favorites menu.
-
-
-solution: Experience Manager
 title: Remove Favorite button
-
+description: The position of the Remove Favorite button is fully managed by the Favorites menu.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: 4bf4b055-598c-41b9-bc98-c51926c4785f
@@ -46,7 +43,7 @@ The appearance of the Remove Favorite button is controlled with the following CS
 
 >[!NOTE]
 >
->This button supports both the `state` and `selected` attribute selectors, which can be used to apply different skins to different button states. In particular, `selected='true'` corresponds to the state when a user can add a new Favorite icon by clicking or tapping. `selected='false'` corresponds to the normal operation mode when a user can zoom, pan, and swap pages.
+>This button supports both the `state` and `selected` attribute selectors, which can be used to apply different skins to different button states. In particular, `selected='true'` corresponds to the state when a user can add a new Favorite icon by clicking or tapping. And `selected='false'` corresponds to the normal operation mode when a user can zoom, pan, and swap pages.
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-ecatsearch-viewer-about/c-html5-ecatsearch-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
 

@@ -1,8 +1,7 @@
 ---
-description: closebutton
-solution: Experience Manager
 title: closebutton
-
+description: Close button
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: 043d146f-8884-4d3f-965e-673cf5aeea1d
@@ -15,7 +14,7 @@ exl-id: 043d146f-8884-4d3f-965e-673cf5aeea1d
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> 0-1 </span> </p> </td> 
-   <td colname="col2"> <p> Set to <span class="codeph"> 1</span> to enable close button display, or set to <span class="codeph"> 0</span> to hide close button. </p> </td> 
+   <td colname="col2"> <p> Set to <span class="codeph"> 1</span> to enable Close button display, or set to <span class="codeph"> 0</span> to hide Close button. </p> </td> 
   </tr> 
  </tbody> 
 </table>

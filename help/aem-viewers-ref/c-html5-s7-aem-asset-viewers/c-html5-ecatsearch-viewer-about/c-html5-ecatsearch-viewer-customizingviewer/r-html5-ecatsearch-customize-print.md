@@ -1,7 +1,7 @@
 ---
+title: Print
 description: Print tool consists of a button added to the control bar and the modal dialog box that displays when the tool is activated.
 solution: Experience Manager
-title: Print
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: c5939cdc-fa4e-4f19-b2a9-21b389492c4f
@@ -28,7 +28,7 @@ The appearance of the print button is controlled with the following CSS class se
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> margin-left </span> </p> </td> 
-   <td colname="col2"> <p> The distance to the next button on the left, or the left side of the control bar if this is the first button in a row. </p> </td> 
+   <td colname="col2"> <p> The distance to the next button on the left, or the left side of the control bar if this button is the first in a row. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> width </span> </p> </td> 
@@ -78,7 +78,7 @@ background-image:url(images/v2/Print_dark_disabled.png);
 }
 ```
 
-The background overlay which covers the web page when the dialog box is active is controlled with the following CSS class selector:
+The background overlay which covers the web page when the dialog box is active, is controlled with the following CSS class selector:
 
 ```
 .s7ecatalogsearchviewer .s7printdialog .s7backoverlay
@@ -108,7 +108,7 @@ Example - to set up background overlay to be gray with 70% opacity:
 }
 ```
 
-By default the modal dialog is displayed centered in the screen on desktop systems. The positioning and sizing of the dialog box is managed by the component The dialog is controlled with the following CSS class selector:
+By default the modal dialog is displayed centered in the screen on desktop systems. The positioning and sizing of the dialog box is managed by the component. The dialog is controlled with the following CSS class selector:
 
 ```
 .s7ecatalogsearchviewer .s7kprintdialog .s7dialog
@@ -129,7 +129,7 @@ By default the modal dialog is displayed centered in the screen on desktop syste
  </tbody> 
 </table>
 
-Example - to set up a dialog box to have a grey background:
+Example - To set up a dialog box to have a grey background:
 
 ```
 .s7ecatalogsearchviewer .s7printdialog .s7dialog { 
@@ -154,7 +154,7 @@ The dialog box header consists of an icon, a title text, and a close button. The
  </tbody> 
 </table>
 
-The icon and the title text are wrapped into an additional container controlled with the following:
+The icon and the title text are wrapped into an extra container controlled with the following:
 
 ```
 .s7ecatalogsearchviewer .s7printdialog .s7dialogheader .s7dialogline
@@ -276,7 +276,7 @@ Close button is controlled with the following CSS class selector:
 
 The Close button tool tip and the dialog box title can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-ecatsearch-viewer-about/c-html5-ecatsearch-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
 
-Example - to set up dialog header with padding, 22 x 22 pixels icon, bold 16 point title, and a 28 x 28 pixel Close button positioned two pixels from the top and two pixels from the right of dialog box container:
+Example - To set up dialog header with padding, 22 x 22 pixels icon, and a bold 16 point title. And finally, a 28 x 28 pixel Close button positioned two pixels from the top and two pixels from the right of dialog box container:
 
 ```
 .s7ecatalogsearchviewer .s7printdialog .s7dialogheader { 
@@ -416,7 +416,7 @@ Send to Print button is controlled with the following CSS class selector:
 >
 >This button supports the `state` attribute selector, which can be used to apply different skins to different button states.
 
-In addition, both buttons share the same common CSS class which can contain CSS settings that are the same for other dialog box buttons:
+In addition, both buttons share common CSS class which can contain CSS settings that are the same for other dialog box buttons:
 
 ```
 .s7ecatalogsearchviewer .s7printdialog .s7dialogfooter .s7button
@@ -455,7 +455,7 @@ In addition, both buttons share the same common CSS class which can contain CSS 
 
 The button tool tips can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-ecatsearch-viewer-about/c-html5-ecatsearch-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
 
-Example - to set up a dialog box footer with 64 x 34 Cancel button and a 96 x 34 Send to Print button, with the text color and background color different for each button state:
+Example - To set up a dialog box footer with 64 x 34 Cancel button and a 96 x 34 Send to Print button, with the text color and background color different for each button state:
 
 ```
 .s7ecatalogsearchviewer .s7printdialog .s7dialogfooter { 
@@ -540,7 +540,7 @@ The main dialog area (between the header and the footer) contains dialog content
  </tbody> 
 </table>
 
-Example - to set up a main dialog area to have an automatically calculated height, have a ten pixel margin, and use a white background:
+Example - To set up a main dialog area to have an automatically calculated height, have a ten pixel margin, and use a white background:
 
 ```
 .s7ecatalogsearchviewer .s7printdialog .s7dialogviewarea { 
@@ -567,7 +567,7 @@ All form content (like labels and input fields) resides inside a container contr
  </tbody> 
 </table>
 
-Example - to set up form content to have ten pixel padding:
+Example - To set up form content to have ten pixel padding:
 
 ```
 .s7ecatalogsearchviewer .s7printdialog .s7dialogbody { 
@@ -592,7 +592,7 @@ Dialog box form is filled on line-by-line basis, where each line carries a part 
  </tbody> 
 </table>
 
-Example - to set up a dialog box form to have ten pixel padding for each line:
+Example - To set up a dialog box form to have ten pixel padding for each line:
 
 ```
 .s7ecatalogsearchviewer .s7emaildialog .s7dialogbody .s7dialogline { 
@@ -673,7 +673,7 @@ Example - to set up all labels to be gray, bold, with a nine pixel font:
 }
 ```
 
-Input controls are wrapped into the container and controlled with the following CSS class selector::
+Input controls are wrapped into the container and controlled with the following CSS class selector:
 
 ```
 .s7ecatalogsearchviewer .s7printdialog .s7dialoginputcontainer
@@ -804,7 +804,7 @@ The horizontal divider between the page range selection and the print layout sec
  </tbody> 
 </table>
 
-Example - to set up a 430 pixel wide grey divider with a 10 pixel vertical padding on both sides, and a ten pixel margin at the top:
+Example - to set up a 430 pixel-wide grey divider with a 10 pixel vertical padding on both sides, and a ten pixel margin at the top:
 
 ```
 .s7ecatalogsearchviewer .s7printdialog .s7horizontaldivider { 

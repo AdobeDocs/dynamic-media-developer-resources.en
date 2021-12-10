@@ -1,7 +1,7 @@
 ---
+title: Info panel popup
 description: Info Panel Popup displays in the middle of the viewer area when a user activates an image map that has a rollover_key property defined in Dynamic Media Classic, and if info panel feature is properly configured for the viewer.
 solution: Experience Manager
-title: Info panel popup
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: 907b7bd5-3f87-4918-ad62-8a28249ea023
@@ -28,12 +28,12 @@ Info panel background covers entire viewer area and is controlled with the follo
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> background-position </span> </p> </td> 
-   <td colname="col2"> <p> Position inside artwork sprite, if CSS sprites are used. </p> <p>See also <a href="../../../c-html5-s7-aem-asset-viewers/c-html5-ecatsearch-viewer-about/c-html5-ecatsearch-viewer-customizingviewer/c-html5-ecatsearch-viewer-customizingviewer.md#section-9d570f95eb2443aca74c1b02f6e89aff" format="dita" scope="local"> CSS Sprites </a>. </p> </td> 
+   <td colname="col2"> <p> Position inside artwork sprite, if CSS sprites are used.</p> <p>See also <a href="../../../c-html5-s7-aem-asset-viewers/c-html5-ecatsearch-viewer-about/c-html5-ecatsearch-viewer-customizingviewer/c-html5-ecatsearch-viewer-customizingviewer.md#section-9d570f95eb2443aca74c1b02f6e89aff" format="dita" scope="local"> CSS Sprites </a>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
 
-Example - set up the info panel popup to use a semi-transparent black background.
+Example - Set up the info panel popup to use a semi-transparent black background.
 
 ```
 .s7ecatalogsearchviewer .s7infopanelpopup .s7backoverlay { 

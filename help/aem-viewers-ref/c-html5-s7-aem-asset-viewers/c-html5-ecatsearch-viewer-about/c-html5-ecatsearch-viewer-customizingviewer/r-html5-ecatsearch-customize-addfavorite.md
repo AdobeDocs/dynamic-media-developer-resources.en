@@ -1,10 +1,7 @@
 ---
-description: The position of the Add Favorite button is fully managed by the Favorites menu.
-
-
-solution: Experience Manager
 title: Add Favorite button
-
+description: The position of the Add Favorite button is fully managed by the Favorites menu.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: 703b57c0-b764-44c0-a1c1-37f7dd8836f3
@@ -46,11 +43,11 @@ The appearance of the Add Favorite button is controlled with the following CSS c
 
 >[!NOTE]
 >
->This button supports both the `state` and `selected` attribute selectors, which can be used to apply different skins to different button states. In particular, `selected='true'` corresponds to the state when a user can add a new Favorite icon by clicking or tapping. `selected='false'` corresponds to the normal operation mode when a user can zoom, pan, and swap pages.
+>This button supports both the `state` and `selected` attribute selectors, which can be used to apply different skins to different button states. In particular, `selected='true'` corresponds to the state when a user can add a new Favorite icon by selecting or tapping. Whereas `selected='false'` corresponds to the normal operation mode when a user can zoom, pan, and swap pages.
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-ecatsearch-viewer-about/c-html5-ecatsearch-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
 
-Example - to set up a Add Favorite button that is 28 x 28 pixels, and displays a different image for each of the four different button states when selected or not selected.
+Example - To set up an Add Favorite button that is 28 x 28 pixels, and displays a different image for each of the four different button states when selected or not selected.
 
 ```
 .s7ecatalogsearchviewer .s7addfavoritebutton { 
