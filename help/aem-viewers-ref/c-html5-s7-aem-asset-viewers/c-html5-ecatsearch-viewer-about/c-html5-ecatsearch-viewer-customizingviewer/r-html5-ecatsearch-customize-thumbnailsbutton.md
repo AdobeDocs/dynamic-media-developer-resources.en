@@ -1,17 +1,14 @@
 ---
-description: Clicking or tapping this button resets toggles the viewer between the main view and the thumbnails. This button appears in the main control bar. You can size, skin, and position this button by using CSS.
-
-
-solution: Experience Manager
 title: Thumbnails button
-
+description: Selecting this button resets toggles the viewer between the main view and the thumbnails. This button appears in the main control bar. You can size, skin, and position this button by using CSS.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: 465d4320-14ea-4f07-97c0-41f53034a7df
 ---
 # Thumbnails button{#thumbnails-button}
 
-Clicking or tapping this button resets toggles the viewer between the main view and the thumbnails. This button appears in the main control bar. You can size, skin, and position this button by using CSS.
+Selecting this button resets toggles the viewer between the main view and the thumbnails. This button appears in the main control bar. You can size, skin, and position this button by using CSS.
 
 <!--<a id="section_6C008EE11212461FA744F2540D38C295"></a>-->
 
@@ -35,7 +32,7 @@ The appearance of the button is controlled with the following CSS class selector
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> margin-left </span> </p> </td> 
-   <td colname="col2"> <p> The distance to the next button on the left, or the left side of the control bar if this is the first button in a row. </p> </td> 
+   <td colname="col2"> <p> The distance to the next button on the left, or the left side of the control bar if this button is the first in a row. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> width </span> </p> </td> 
@@ -62,7 +59,7 @@ The appearance of the button is controlled with the following CSS class selector
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-ecatsearch-viewer-about/c-html5-ecatsearch-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
 
-Example - to set up thumbnails button that is 28 x 28 pixels, positioned 4 pixels from the bottom and 5 pixels from the left edge of the main control bar, and displays a different image for each of the four different button states when selected or not selected.
+Example - To set up a thumbnails button that is 28 x 28 pixels, and positioned 4 pixels from the bottom and 5 pixels from the left edge of the main control bar. And finally, displays a different image for each of the four different button states when selected or not selected.
 
 ```
 .s7ecatalogsearchviewer .s7thumbnailpagebutton{ 

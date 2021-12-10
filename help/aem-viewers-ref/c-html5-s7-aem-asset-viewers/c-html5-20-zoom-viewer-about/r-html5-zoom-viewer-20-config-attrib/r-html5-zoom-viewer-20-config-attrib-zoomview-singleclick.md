@@ -1,8 +1,7 @@
 ---
+title: ZoomView.singleclick
 description: ZoomView.singleclick
 solution: Experience Manager
-title: ZoomView.singleclick
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: 3fd5b907-faf6-4d36-8ee1-79f3ace781d4
@@ -26,7 +25,7 @@ Optional.
 
 ## Default {#section-71fb773f814649b2885aefee68073641}
 
-`zoomReset` on desktop computers; `none` on touch devices.
+`zoomReset` - On desktop computers; `none` on touch devices.
 
 ## Example {#section-bce98c31f08a4a0ab262fab7f95ba020}
 

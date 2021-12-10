@@ -1,17 +1,14 @@
 ---
-description: Clicking or tapping on this button brings the user to the previous page in the catalog. This button appears in the main control bar. This button is not displayed on mobile phones to save screen real estate. You can size, skin, and position this button by using CSS.
-
-
-solution: Experience Manager
 title: Previous page button
-
+description: Selecting this button brings the user to the previous page in the catalog. This button appears in the main control bar. This button is not displayed on mobile phones to save screen real estate. You can size, skin, and position this button by using CSS.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: af67b10c-6393-4032-a166-8f4232a79818
 ---
 # Previous page button{#previous-page-button}
 
-Clicking or tapping on this button brings the user to the previous page in the catalog. This button appears in the main control bar. This button is not displayed on mobile phones to save screen real estate. You can size, skin, and position this button by using CSS.
+Selecting this button brings the user to the previous page in the catalog. This button appears in the main control bar. This button is not displayed on mobile phones to save screen real estate. You can size, skin, and position this button by using CSS.
 
 <!--<a id="section_6C008EE11212461FA744F2540D38C295"></a>-->
 
@@ -70,7 +67,7 @@ The appearance of the button is controlled with the following CSS class selector
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-ecatsearch-viewer-about/c-html5-ecatsearch-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
 
-Example - to set up a previous page button that is 28 x 28 pixels, positioned 4 pixels from the bottom and 250 pixels from the right edge of the main control bar, and displays a different image for each of the four different button states.
+Example - To set up a previous page button that is 28 x 28 pixels, and positioned 4 pixels from the bottom and 250 pixels from the right edge of the main control bar. And finally, displays a different image for each of the four different button states.
 
 ```
 .s7ecatalogsearchviewer .s7toolbarleftbutton .s7panleftbutton { 

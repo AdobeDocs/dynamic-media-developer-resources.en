@@ -1,8 +1,7 @@
 ---
+title: Swatches.enabledragging
 description: Swatches.enabledragging
 solution: Experience Manager
-title: Swatches.enabledragging
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: 6ae18f94-7a0f-429e-9684-eff43f523b1d

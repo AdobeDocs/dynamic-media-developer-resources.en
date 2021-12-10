@@ -1,17 +1,14 @@
 ---
-description: The social share tool appears in the top left corner by default. It consists of a button and a panel which expands when user clicks or taps on a button and contains individual sharing tools.
-
-
-solution: Experience Manager
 title: Social share
-
+description: The social share tool appears in the top-left corner by default. It consists of a button and a panel which expands when user clicks or taps on a button and contains individual sharing tools.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: 5cac6c86-08fb-46fd-bab0-ab77154eb770
 ---
 # Social share{#social-share}
 
-The social share tool appears in the top left corner by default. It consists of a button and a panel which expands when user clicks or taps on a button and contains individual sharing tools.
+The social share tool appears in the top-left corner by default. It consists of a button and a panel which expands when user clicks or taps on a button and contains individual sharing tools.
 
 <!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
@@ -31,7 +28,7 @@ The position and size of the social share tool in the viewer user interface is c
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> margin=left </span> </p> </td> 
-   <td colname="col2"> <p> The distance to the next button on the left, or the left side of the control bar if this is the first button in a row. </p> </td> 
+   <td colname="col2"> <p> The distance to the next button on the left, or the left side of the control bar if this button is the first in a row. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> width </span> </p> </td> 

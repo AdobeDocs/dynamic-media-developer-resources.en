@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Zoom Viewer.
-
-
-solution: Experience Manager
 title: ZoomViewer
-
+description: JavaScript API reference for Zoom Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: fa52a017-0748-4e4f-8d91-ad1529fbfbdb
@@ -15,7 +12,7 @@ JavaScript API reference for Zoom Viewer.
 
  `ZoomViewer([config])`
 
-Constructor, creates a new Zoom Viewer instance.
+Constructor, creates a Zoom Viewer instance.
 
 ## Parameters {#section-4fb77a645fdd45b3aaa5079c31e3bb05}
 

@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Video Viewer
-
-
-solution: Experience Manager
 title: getComponent
-
+description: JavaScript API reference for Video Viewer
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: efdd5b9f-64bb-4fe4-bdf9-0f5e98e4f5fe
@@ -76,13 +73,13 @@ Returns a reference to the Viewer SDK component that is used by the viewer. The 
  </tbody> 
 </table>
 
-When working with SDK APIs it is important to use correct fully qualified SDK namespace as described in [Viewer SDK namespace](../../../c-html5-s7-aem-asset-viewers/c-html5-20-zoom-viewer-about/c-html5-20-zoom-viewer-namespace.md#concept-53e47e46d7954e2b9681d13d716fd1ca).
+When working with SDK APIs, it is important to use fully qualified SDK namespace as described in [Viewer SDK namespace](../../../c-html5-s7-aem-asset-viewers/c-html5-20-zoom-viewer-about/c-html5-20-zoom-viewer-namespace.md#concept-53e47e46d7954e2b9681d13d716fd1ca).
 
 Refer to the Viewer SDK API documentation for more information about a particular component.
 
 ## Returns {#section-1d3cf85bc7cc4dfe9670e038d02b9101}
 
-`{Object}` a reference to Viewer SDK component. The method returns `null` if the `componentId` is not a supported viewer component or if the component was not yet created by the viewer logic.
+`{Object}` - A reference to Viewer SDK component. The method returns `null` if the `componentId` is not a supported viewer component or if the component was not yet created by the viewer logic.
 
 ## Example {#section-9e9332aa86b74a5fb321375c03fdc5b3}
 

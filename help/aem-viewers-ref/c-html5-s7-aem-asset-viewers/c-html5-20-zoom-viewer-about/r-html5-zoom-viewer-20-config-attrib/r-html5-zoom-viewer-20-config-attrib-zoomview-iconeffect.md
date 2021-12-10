@@ -1,8 +1,7 @@
 ---
+title: ZoomView.iconeffect
 description: ZoomView.iconeffect
 solution: Experience Manager
-title: ZoomView.iconeffect
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: 59d71d3b-706f-4f77-8e75-e24c5654f6e3

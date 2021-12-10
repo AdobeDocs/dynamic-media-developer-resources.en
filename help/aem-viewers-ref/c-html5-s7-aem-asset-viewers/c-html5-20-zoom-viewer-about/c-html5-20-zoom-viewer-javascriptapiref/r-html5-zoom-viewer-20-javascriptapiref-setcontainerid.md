@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Video Viewer.
-
-
-solution: Experience Manager
 title: setContainerId
-
+description: JavaScript API reference for Video Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: 87f01c5f-0d2a-46d6-8026-e75e879532df

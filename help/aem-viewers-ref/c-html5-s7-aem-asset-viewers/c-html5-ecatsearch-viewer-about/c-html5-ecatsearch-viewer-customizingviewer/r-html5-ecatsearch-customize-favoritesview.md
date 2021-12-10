@@ -1,10 +1,7 @@
 ---
-description: Favorites view consist of a column of thumbnail images.
-
-
-solution: Experience Manager
 title: Favorites view
-
+description: Favorites view consist of a column of thumbnail images.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: 8daf3d19-615b-4d62-a6f5-6a153d193b88
@@ -64,7 +61,7 @@ The spacing between Favorites thumbnails is controlled with the following CSS cl
  </tbody> 
 </table>
 
-Example - to set up 10 pixel spacing.
+Example - To set up ten pixel spacing.
 
 ```
 .s7ecatalogsearchviewer .s7favoritesview .s7thumbcell { 
@@ -99,9 +96,9 @@ The appearance of individual thumbnail is controlled with the following CSS clas
 
 >[!NOTE]
 >
->Thumbnail supports the `state` attribute selector,which can be used to apply different skins to different thumbnail states. In particular, `state="selected"` corresponds to the thumbnail recently selected by the user. `state="default"` corresponds to the rest of the thumbnails. And `state="over"` is used on mouse hover.
+>Thumbnail supports the `state` attribute selector, which can be used to apply different skins to different thumbnail states. In particular, `state="selected"` corresponds to the thumbnail recently selected by the user. While `state="default"` corresponds to the rest of the thumbnails. And `state="over"` is used on mouse hover.
 
-Example - to set up thumbnails that are 75 x 75 pixels, have a light grey default border, and a dark grey selected border.
+Example - To set up thumbnails that are 75 x 75 pixels, have a light grey default border, and a dark grey selected border.
 
 ```
 .s7ecatalogsearchviewer .s7favoritesview .s7thumb { 
@@ -137,7 +134,7 @@ The appearance of the thumbnail label is controlled with the following CSS class
  </tbody> 
 </table>
 
-Example - to set up labels with a 14 pixel Helvetica font.
+Example - to set up labels with a 14 pixel Helvetica® font.
 
 ```
 .s7ecatalogsearchviewer .s7favoritesview .s7label { 

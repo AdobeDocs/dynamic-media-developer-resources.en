@@ -1,8 +1,7 @@
 ---
+title: swatchoverlay
 description: swatchoverlay
 solution: Experience Manager
-title: swatchoverlay
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: a4e187d9-b920-4d0d-adaa-ea369c5694fe
@@ -15,7 +14,7 @@ exl-id: a4e187d9-b920-4d0d-adaa-ea369c5694fe
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> 0-1 </span> </p> </td> 
-   <td colname="col2"> <p>Specifies the viewer layout on touch-enabled devices. When the parameter is set to <span class="codeph"> 1 </span>, the viewer shows swatches below the main view on the desktop; on touch-enabled devices, swatches are overlayed on top of the main view. </p> <p>When the parameter is set to <span class="codeph"> 0 </span>, swatches render below the main view on all device types. </p> </td> 
+   <td colname="col2"> <p>Specifies the viewer layout on touch-enabled devices. When the parameter is set to <span class="codeph"> 1 </span>, the viewer shows swatches below the main view on the desktop; on touch-enabled devices, swatches are overlaid on top of the main view. </p> <p>When the parameter is set to <span class="codeph"> 0 </span>, swatches render below the main view on all device types. </p> </td> 
   </tr> 
  </tbody> 
 </table>

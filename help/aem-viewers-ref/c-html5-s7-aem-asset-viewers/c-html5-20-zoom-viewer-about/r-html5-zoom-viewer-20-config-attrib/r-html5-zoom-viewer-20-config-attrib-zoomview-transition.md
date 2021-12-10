@@ -1,8 +1,7 @@
 ---
+title: ZoomView.transition
 description: ZoomView.transition
 solution: Experience Manager
-title: ZoomView.transition
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: f1b4faa3-14d1-4eef-acc2-214c7be4a5ab

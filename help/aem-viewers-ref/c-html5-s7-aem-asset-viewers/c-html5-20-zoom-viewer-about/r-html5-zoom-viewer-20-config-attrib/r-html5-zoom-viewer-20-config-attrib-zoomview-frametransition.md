@@ -1,8 +1,7 @@
 ---
+title: ZoomView.frametransition
 description: ZoomView.frametransition
 solution: Experience Manager
-title: ZoomView.frametransition
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: f57a8a2e-63a1-4a59-9a25-b435d0ac39dc
@@ -15,7 +14,7 @@ exl-id: f57a8a2e-63a1-4a59-9a25-b435d0ac39dc
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> none|fade|slide </span> </p> </td> 
-   <td colname="col2"> <p>Specifies the type of the effect applied on frame change. <span class="codeph"> none </span> stands for no transition;, frame change happens instantly. <span class="codeph"> fade </span> means cross-fade transition between old and new frames. <span class="codeph"> slide </span> activates transition where the old frame slides out of the view and the new frame slides in. </p> </td> 
+   <td colname="col2"> <p>Specifies the type of the effect applied on frame change. The attribute <span class="codeph"> none </span> stands for no transition; frame change happens instantly. The attribute <span class="codeph"> fade </span> means cross-fade transition between old and new frames. The attribute <span class="codeph"> slide </span> activates transition where the old frame slides out of the view and the new frame slides in. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> duration </span> </span> </p> </td> 
@@ -23,7 +22,7 @@ exl-id: f57a8a2e-63a1-4a59-9a25-b435d0ac39dc
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> spacing </span> </span> </p> </td> 
-   <td colname="col2"> <p>The spacing between adjacent frames in <span class="codeph"> slide </span> transition, has the range between <span class="codeph"> 0 </span> and <span class="codeph"> 1 </span> and is relative to component's width. </p> </td> 
+   <td colname="col2"> <p>The spacing between adjacent frames in <span class="codeph"> slide </span> transition, has the range from <span class="codeph"> 0 </span> through <span class="codeph"> 1 </span> and is relative to component's width. </p> </td> 
   </tr> 
  </tbody> 
 </table>

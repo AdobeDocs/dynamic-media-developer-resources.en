@@ -1,10 +1,7 @@
 ---
-description: The search results panel consists of the search input box at the top and the main area where informational messages or search results are displayed.
-
-
-solution: Experience Manager
 title: Search results panel
-
+description: The search results panel consists of the search input box at the top and the main area where informational messages or search results are displayed.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: ffbbc2ae-60da-4c3d-a350-6dbcb64e189d
@@ -17,7 +14,7 @@ The search results panel consists of the search input box at the top and the mai
 
 **CSS properties of the main viewer area**
 
-When the panel is active the viewer user interface is covered with a semi-transparent fill. The color and opacity of this fill is controlled with the following CSS class selector:
+When the panel is active, the viewer user interface is covered with a semi-transparent fill. The color and opacity of this fill is controlled with the following CSS class selector:
 
 ```
 .s7ecatalogviewer .s7searchpanel .s7backoverlay
@@ -42,7 +39,7 @@ When the panel is active the viewer user interface is covered with a semi-transp
  </tbody> 
 </table>
 
-The search results panel always occupies all available viewer height. However, you can configure the width. You can set the width to an absolute pixel value, which is a default setting for medium and large size breakpoints. Or, you can set the width to 100% to make the search results panel occupy the entire viewer area. The panel width is controlled by the following CSS class selector:
+The search results panel always occupies all available viewer height. However, you can configure the width. You can set the width to an absolute pixel value, which is a default setting for medium and large-size breakpoints. Or, you can set the width to 100% to make the search results panel occupy the entire viewer area. The panel width is controlled by the following CSS class selector:
 
 ```
 .s7ecatalogsearchviewer .s7searchpanel .s7searchresultspace
@@ -59,7 +56,7 @@ The search results panel always occupies all available viewer height. However, y
  </tbody> 
 </table>
 
-Example - to set up a 250 pixel wide search results panel on large and medium size breakpoints and use a full-size panel on a small size breakpoint:
+Example - to set up a 250 pixel-wide search results panel on large and medium size breakpoints and use a full-size panel on a small-size breakpoint:
 
 ```
 .s7ecatalogsearchviewer.s7size_large .s7searchpanel .s7searchresultspanel, .s7ecatalogsearchviewer.s7size_medium .s7searchpanel .s7searchresultspanel { 
@@ -167,7 +164,7 @@ The search button to the left of the search input field in form of the "looking 
  </tbody> 
 </table>
 
-Example - to set up a search button with 26 x 26 pixels "looking glass" icon; 30 pixels in size with a 1 pixel border:
+Example - To set up a search button with 26 x 26 pixels "looking glass" icon; 30 pixels in size with a 1 pixel border:
 
 ```
 .s7ecatalogsearchviewer .s7searchpanel .s7searchinputbutton { 
@@ -180,7 +177,7 @@ Example - to set up a search button with 26 x 26 pixels "looking glass" icon; 30
 }
 ```
 
-The search results panel may display a textual prompt when the feature is first called. It also shows the user a message when their search did not return any results. In all cases, text appears in the main part of the search results panel and is controlled by the following CSS class selector:
+The search results panel may display a textual prompt when the feature is first called. And, it also shows a message when a user's search did not return any results. In all cases, text appears in the main part of the search results panel and is controlled by the following CSS class selector:
 
 ```
 .s7ecatalogsearchviewer .s7searchpanel .s7searchinfo
@@ -211,11 +208,11 @@ The search results panel may display a textual prompt when the feature is first 
 
 >[!NOTE]
 >
->This text panel supports the `state` attribute selector, which can be used to apply different styles to different text messages. In particular, `state='prompt'` corresponds to the text prompt shown when the panel is called for the first time; `state='results'` corresponds to the text with information about search hits; and `state='no_results'` corresponds to the text shown when the search query did not return any results.
+>This text panel supports the `state` attribute selector, which can be used to apply different styles to different text messages. In particular, `state='prompt'` corresponds to the text prompt shown when the panel is called for the first time. The `state='results'` corresponds to the text with information about search hits. And finally, the `state='no_results'` corresponds to the text shown when the search query did not return any results.
 
 The message text can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-ecatsearch-viewer-about/c-html5-ecatsearch-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
 
-Example - to set up a text panel that uses a gray 18 pixel font:
+Example - To set up a text panel that uses a gray 18 pixel font:
 
 ```
 .s7ecatalogsearchviewer .s7searchpanel .s7searchinfo { 
@@ -241,7 +238,7 @@ Search results are rendered as a single column or single row of thumbnails for p
  </tbody> 
 </table>
 
-Example - to set up 10 pixel spacing:
+Example - To set up ten pixel spacing:
 
 ```
 .s7ecatalogsearchviewer .s7searchpanel .s7swatches .s7thumbcell { 
@@ -274,7 +271,7 @@ The appearance of individual thumbnails is controlled with the following CSS cla
  </tbody> 
 </table>
 
-Example - to set up thumbnails that are 215 x 129 pixels, have a light grey default border, and a dark grey selected border:
+Example - To set up thumbnails that are 215 x 129 pixels, have a light grey default border, and a dark grey selected border:
 
 ```
 .s7ecatalogsearchviewer .s7searchpanel .s7swatches .s7thumb { 
@@ -309,7 +306,7 @@ The appearance of the thumbnail label is controlled with the following CSS class
  </tbody> 
 </table>
 
-Example - to set up labels that use 12 pixel, grey, Helvetica font:
+Example - To set up labels that use 12 pixel, grey, Helvetica® font:
 
 ```
 .s7ecatalogsearchviewer .s7searchpanel .s7swatches .s7label { 
@@ -357,7 +354,7 @@ It is not possible to position scroll buttons using CSS top, left, bottom, and r
 
 The button tool tips can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-ecatsearch-viewer-about/c-html5-ecatsearch-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
 
-Example - to set up a scroll up button that is 125 x 35 pixels and has different artwork for each state:
+Example - To set up a scroll up button that is 125 x 35 pixels and has different artwork for each state:
 
 ```
 .s7ecatalogsearchviewer .s7searchpanel .s7scrollupbutton { 

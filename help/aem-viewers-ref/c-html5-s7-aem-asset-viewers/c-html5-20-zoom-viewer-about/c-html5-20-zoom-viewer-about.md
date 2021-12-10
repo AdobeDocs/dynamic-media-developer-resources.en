@@ -1,11 +1,8 @@
 ---
+title: Zoom
 description: Zoom Viewer is an image viewer that displays a zoomable image. This viewer works with image sets and navigation is done by using swatches. It has zoom tools, full screen support, swatches, and an optional close button. It is designed to work on desktops and mobile devices.
 keywords: responsive
-
-
 solution: Experience Manager
-title: Zoom
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: 81a74026-fb15-4f57-a4c7-1ab005950245
@@ -38,7 +35,7 @@ See [Command reference common to all viewers - Configuration attributes](../../r
 
 ## Interacting with Zoom Viewer {#section-642e66ca38cd4032992840ec6c0b0cd2}
 
-Zoom Viewer supports the following touch gestures that are common in other mobile applications. When the viewer cannot process user's swipe gesture it forwards the event to the web browser to perform native page scroll. This kind of functionality lets the user navigate through the page even if the viewer occupies most of the device screen area.
+Zoom Viewer supports the following touch gestures that are common in other mobile applications. When the viewer cannot process user's swipe gesture, it forwards the event to the web browser to perform native page scroll. This kind of functionality lets the user navigate through the page even if the viewer occupies most of the device screen area.
 
 <table id="table_ED747CC7178448919C34A4FCD18922D0"> 
  <thead> 
@@ -62,7 +59,7 @@ Zoom Viewer supports the following touch gestures that are common in other mobil
   </tr> 
   <tr> 
    <td colname="col1"> <p>Horizontal swipe or flick </p> </td> 
-   <td colname="col2"> <p> Scrolls through the list of swatches in the swatch bar. </p> <p> If the image is in a reset state and the <span class="codeph"> frametransition </span> parameter is set to slide, the asset is changed with the slide animation. For other <span class="codeph"> frametransition </span> modes the gesture performs native page scrolling. </p> <p> If the image is zoomed in, it moves the image horizontally. If image is moved to the view edge and a swipe is performed in the same direction, the gesture performs native page scrolling. </p> </td> 
+   <td colname="col2"> <p> Scrolls through the list of swatches in the swatch bar. </p> <p> If the image is in a reset state and the <span class="codeph"> frametransition </span> parameter is set to slide, the asset is changed with the slide animation. For other <span class="codeph"> frametransition </span> modes, the gesture performs native page scrolling. </p> <p> If the image is zoomed in, it moves the image horizontally. If image is moved to the view edge and a swipe is performed in the same direction, the gesture performs native page scrolling. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Vertical swipe </p> </td> 
@@ -111,7 +108,7 @@ Fixed size embedding is used when the viewer does not change its size after init
 
 Responsive design embedding mode assumes that the resizing of the viewer is necessary during runtime due to the size change of its container `DIV`. The most common use case is adding a viewer to a web page that uses a flexible layout.
 
-In responsive design embedding mode, the viewer behaves differently depending on the way web page sizes its container `DIV`. If the web page only sets the width of the container `DIV`, leaving its height unrestricted, the viewer automatically chooses its height according to the aspect ratio of the asset that is used. This logic ensures that the asset fits perfectly into the view without any padding on the sides. This use case is the most common for web pages that use responsive layout frameworks such as Bootstrap, Foundation, and so forth.
+In responsive design embedding mode, the viewer behaves differently depending on the way web page sizes its container `DIV`. If the web page only sets the width of the container `DIV`, leaving its height unrestricted, the viewer automatically chooses its height according to the aspect ratio of the asset that is used. This logic ensures that the asset fits perfectly into the view without any padding on the sides. This use case is the most common for web pages that use responsive layout frameworks such as Bootstrap and Foundation.
 
 If the web page sets both the width and the height for the viewer's container `DIV`, the viewer fills that area and follows the size that the web page provides. For example, embedding the viewer into a modal overlay, where the overlay is sized according to web browser window size.
 
@@ -140,7 +137,7 @@ You add the viewer to a web page by doing the following:
 
    >[!NOTE]
    >
-   >You should only reference the main viewer JavaScript `include` file on your page. You should not reference any additional JavaScript files in the web page code which might be downloaded by the viewer's logic in runtime. In particular, do not directly reference HTML5 SDK `Utils.js` library loaded by the viewer from `/s7viewers` context path (so-called consolidated SDK `include`). The reason is that the location of `Utils.js` or similar runtime viewer libraries is fully managed by the viewer's logic and the location changes between viewer releases. Adobe does not keep older versions of secondary viewer `includes` on the server. 
+   >Only reference the main viewer JavaScript `include` file on your page. Do not reference any additional JavaScript files in the web page code which might be downloaded by the viewer's logic in runtime. In particular, do not directly reference HTML5 SDK `Utils.js` library loaded by the viewer from `/s7viewers` context path (so-called consolidated SDK `include`). The reason is that the location of `Utils.js` or similar runtime viewer libraries is fully managed by the viewer's logic and the location changes between viewer releases. Adobe does not keep older versions of secondary viewer `includes` on the server. 
    >
    >
    >As a result, putting a direct reference to any secondary JavaScript `include` used by the viewer on the page breaks the viewer functionality in the future when a new product version is deployed.
@@ -161,7 +158,7 @@ You add the viewer to a web page by doing the following:
 
    This viewer displays thumbnails when working with multi-item sets, on desktop systems thumbnails are placed below the main view. At the same time, the viewer allows the swapping of the main asset in runtime using `setAsset()` API. As a Developer, you have control over how the viewer manages the thumbnails area at the bottom when the new asset has only one item. It is possible to keep the outer viewer size intact and let the main view increase its height and occupy thumbnails area. Or, you can keep the main view size static and collapse the outer viewer area, letting web page content to move up, and use free screen real estate leftover from the thumbnails.
 
-   To keep the outer viewer bounds intact, define the size for the `.s7zoomviewer` top-level CSS class in absolute units. Sizing in CSS can be put right on the HTML page, or in a custom viewer CSS file, which is later assigned to a viewer preset record in Dynamic Media Classic or passed explicitly using a style command.
+   To keep the outer viewer bounds intact, define the size for the `.s7zoomviewer` top-level CSS class in absolute units. Sizing in CSS can be put right on the HTML page. Or, it can be put in a custom viewer CSS file, which is later assigned to a viewer preset record in Dynamic Media Classic or passed explicitly using a style command.
 
    See [Customizing Zoom Viewer](../../c-html5-s7-aem-asset-viewers/c-html5-20-zoom-viewer-about/c-html5-20-zoom-viewer-customizingviewer/c-html5-20-zoom-viewer-customizingviewer.md#concept-73a8546acdb444a387c49969ceca57d0) for more information about styling the viewer with CSS.
 
@@ -193,7 +190,7 @@ You add the viewer to a web page by doing the following:
 
    [https://experienceleague.adobe.com/tools/dynamic-media-demo/viewers-ref/zoom/ZoomViewer-fixed-main-view.html](https://experienceleague.adobe.com/tools/dynamic-media-demo/viewers-ref/zoom/ZoomViewer-fixed-main-view.html)
 
-   You can set the `stagesize` modifier either in the viewer preset record in Dynamic Media Classic, or you can pass it explicitly with the viewer initialization code with the `params` collection or as an API call as described in the Command Reference section of this Help, as in the following:
+   You can set the `stagesize` modifier in the viewer preset record in Dynamic Media Classic. Or, you can pass it explicitly with the viewer initialization code with the `params` collection or as an API call as described in the Command Reference section of this Help, as in the following:
 
    ```
     zoomViewer.setParam("stagesize", 
@@ -210,7 +207,7 @@ You add the viewer to a web page by doing the following:
 
    It is important to have the viewer container added to the DOM so that the viewer code can find the container element by its ID. Some browsers delay building DOM until the end of the web page. For maximum compatibility, call the `init()` method just before the closing `BODY` tag, or on the body `onload()` event.
 
-   At the same time, the container element should not necessarily be part of the web page layout just yet. For example, it may be hidden using `display:none` style assigned to it. In this case, the viewer delays its initialization process until the moment when the web page brings the container element back to the layout. When this occurs, the viewer load automatically resumes.
+   At the same time, the container element should not necessarily be part of the web page layout yet. For example, it may be hidden using `display:none` style assigned to it. In this case, the viewer delays its initialization process until the moment when the web page brings the container element back to the layout. When this action occurs, the viewer load automatically resumes.
 
    The following is an example of creating a viewer instance, passing the minimum necessary configuration options to the constructor, and calling the `init()` method. This example assumes `zoomViewer` is the viewer instance, `s7viewer` is the name of placeholder DIV, `http://s7d1.scene7.com/is/image/` is the Image Serving URL, and `Scene7SharedAssets/ImageSet-Views-Sample` is the asset.
 
@@ -319,7 +316,7 @@ The following examples page illustrates more real-life uses of responsive design
 
 ## Flexible-size embedding with width and height defined {#section-3674e6c032594441a6576b7fb1de6e64}
 
-In case of flexible-size embedding with width and height defined, the web page styling is different. It provides both sizes to the `"holder"` DIV and center it in the browser window. Also, the web page sets the size of the `HTML` and `BODY` element to 100 percent.
+If there is flexible-size embedding with width and height defined, the web page styling is different. It provides both sizes to the `"holder"` DIV and center it in the browser window. Also, the web page sets the size of the `HTML` and `BODY` element to 100 percent.
 
 ```
 <!DOCTYPE html> 

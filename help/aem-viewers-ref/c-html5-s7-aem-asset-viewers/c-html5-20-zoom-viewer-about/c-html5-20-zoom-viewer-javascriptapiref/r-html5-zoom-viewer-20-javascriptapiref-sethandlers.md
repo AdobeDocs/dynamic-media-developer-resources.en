@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Video Viewer
-
-
-solution: Experience Manager
 title: setHandlers
-
+description: JavaScript API reference for Video Viewer
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: cff331a9-bca1-4360-88fa-96812aa8ba62

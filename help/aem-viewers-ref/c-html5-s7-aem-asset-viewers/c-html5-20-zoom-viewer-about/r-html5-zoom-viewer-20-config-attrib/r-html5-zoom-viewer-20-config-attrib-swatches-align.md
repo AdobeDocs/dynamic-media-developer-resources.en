@@ -1,8 +1,7 @@
 ---
+title: Swatches.align
 description: Swatches.align
 solution: Experience Manager
-title: Swatches.align
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: 3cb91483-de8c-4d5c-9b46-7026c5001f3a

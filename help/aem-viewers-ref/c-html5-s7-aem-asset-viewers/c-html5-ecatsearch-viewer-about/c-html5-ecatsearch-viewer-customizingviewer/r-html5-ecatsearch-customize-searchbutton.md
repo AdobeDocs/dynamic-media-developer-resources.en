@@ -1,8 +1,7 @@
 ---
+title: Search button
 description: Search button
 solution: Experience Manager
-title: Search button
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: ede7d887-526b-4e00-9885-166dc37627aa
@@ -39,7 +38,7 @@ The appearance of the button is controlled with the following CSS class selector
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> margin-left </span> </p> </td> 
-   <td colname="col2"> <p> The distance to the next button on the left, or the left side of the control bar if this is the first button in a row. </p> </td> 
+   <td colname="col2"> <p> The distance to the next button on the left, or the left side of the control bar if this button is the first in a row. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> background-image </span> </p> </td> 

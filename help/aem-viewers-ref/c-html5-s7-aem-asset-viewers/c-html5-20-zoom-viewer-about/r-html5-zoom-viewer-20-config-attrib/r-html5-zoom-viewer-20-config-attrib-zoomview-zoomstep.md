@@ -1,8 +1,7 @@
 ---
+title: ZoomView.zoomstep
 description: ZoomView.zoomstep
 solution: Experience Manager
-title: ZoomView.zoomstep
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: bcd153f3-7a87-4e8f-825b-fc4a136de1dc

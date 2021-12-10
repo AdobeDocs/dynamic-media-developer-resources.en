@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Video Viewer.
-
-
-solution: Experience Manager
 title: setParam
-
+description: JavaScript API reference for Video Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: d797a8be-582e-46f4-9068-db1d2757970d

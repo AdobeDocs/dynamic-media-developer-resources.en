@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Video Viewer.
-
-
-solution: Experience Manager
 title: setLocalizedTexts
-
+description: JavaScript API reference for Video Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: 8b471abe-df80-4601-bdcc-b7928418f351
