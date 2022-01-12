@@ -1,8 +1,7 @@
 ---
+title: FlyoutZoomView.zoomfactor
 description: FlyoutZoomView.zoomfactor
 solution: Experience Manager
-title: FlyoutZoomView.zoomfactor
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,User
 exl-id: 150968d2-aece-4d2a-b5a8-31b03dae25bb
@@ -23,7 +22,7 @@ exl-id: 150968d2-aece-4d2a-b5a8-31b03dae25bb
   </tr> 
   <tr> 
    <td colname="col1"> <p><span class="codeph"><span class="varname"> upscale</span></span> </p> </td> 
-   <td colname="col2"> <p>Specifies how the component handles small images. </p> <p>If set to <span class="codeph"> 1</span> the component upscales the main image so that it fits within the main view. Also, it upscales the zoom image so that it completely fills the configured flyout window area. </p> <p>If set to <span class="codeph"> 0</span> small images are displayed at their original resolution and display centered in the main view area and inside the flyout window. You can configure extra white space that appears around the image with a background or similar CSS property of the <span class="codeph"> s7flyoutzoomview</span> and <span class="codeph"> s7flyoutzoom</span> CSS classes in the main view and flyout window, respectively. </p> </td> 
+   <td colname="col2"> <p>Specifies how the component handles small images. </p> <p>If set to <span class="codeph"> 1</span> the component upscales the main image so that it fits within the main view. Also, it upscales the zoom image so that it completely fills the configured flyout window area. </p> <p>If set to <span class="codeph"> 0</span>, small images are displayed at their original resolution and display centered in the main view area and inside the flyout window. You can configure extra white space that appears around the image with a background or similar CSS property of the <span class="codeph"> s7flyoutzoomview</span> and <span class="codeph"> s7flyoutzoom</span> CSS classes in the main view and flyout window, respectively. </p> </td> 
   </tr> 
  </tbody> 
 </table>

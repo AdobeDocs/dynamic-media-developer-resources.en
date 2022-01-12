@@ -1,7 +1,7 @@
 ---
+title: Uploading assets by way of HTTP POSTs to the UploadFile Servlet
 description: Uploading assets into Dynamic Media Classic involves one or more HTTP POST requests that set up a job to coordinate all the log activity associated with the uploaded files.
 solution: Experience Manager
-title: Uploading assets by way of HTTP POSTs to the UploadFile Servlet
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Admin
 exl-id: e40293be-d00f-44c1-8ae7-521ce3312ca8
@@ -82,11 +82,11 @@ While you might assume that the `uploadParams` parameter can change for individu
 
 The initial POST request for a new upload job should specify the `jobName` parameter, preferably using a unique job name to simplify subsequent job status polling and job log queries. Additional POST requests for the same upload job should specify the `jobHandle` parameter instead of `jobName`, using the `jobHandle` value returned from the initial request.
 
-The final POST request for an upload job should set the `endJob` parameter to true so that no future files will be POSTed for this job. In turn, this allows the job to complete immediately after all POSTed files are ingested. Otherwise, the job times out if no additional POST requests are received within 30 minutes.
+The final POST request for an upload job should set the `endJob` parameter to true so that no future files are POSTed for this job. In turn, this allows the job to complete immediately after all POSTed files are ingested. Otherwise, the job times out if no additional POST requests are received within 30 minutes.
 
 ## UploadPOST response {#section-421df5cc04d44e23a464059aad86d64e}
 
-For a successful POST request, the response body will be an XML `uploadPostReturn` document, as the XSD specifies in the following:
+For a successful POST request, the response body is an XML `uploadPostReturn` document, as the XSD specifies in the following:
 
 ```
 <element name="uploadPostReturn"> 

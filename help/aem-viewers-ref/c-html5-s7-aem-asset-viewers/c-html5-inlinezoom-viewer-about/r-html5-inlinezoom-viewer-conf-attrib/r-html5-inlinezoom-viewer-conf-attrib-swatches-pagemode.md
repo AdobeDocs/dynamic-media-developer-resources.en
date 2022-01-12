@@ -1,8 +1,7 @@
 ---
+title: Swatches.pagemode
 description: Swatches.pagemode
 solution: Experience Manager
-title: Swatches.pagemode
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,User
 exl-id: 0d275efc-58da-449f-a782-0ddc152ca821

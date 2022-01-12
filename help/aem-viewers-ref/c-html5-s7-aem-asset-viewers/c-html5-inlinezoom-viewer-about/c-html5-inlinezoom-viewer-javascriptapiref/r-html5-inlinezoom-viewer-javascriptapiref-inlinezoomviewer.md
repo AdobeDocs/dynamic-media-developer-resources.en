@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Inline Zoom Viewer.
-
-
-solution: Experience Manager
 title: FlyoutViewer
-
+description: JavaScript API reference for Inline Zoom Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,User
 exl-id: 366deb3d-061e-454c-bcd1-e31965613a5c
@@ -15,7 +12,7 @@ JavaScript API reference for Inline Zoom Viewer.
 
  `FlyoutViewer([config])`
 
-Constructor; creates a new Inline Zoom Viewer instance.
+Constructor; creates an Inline Zoom Viewer instance.
 
 ## Parameters {#section-8bc3d1424c8444f193716fc8d9975765}
 

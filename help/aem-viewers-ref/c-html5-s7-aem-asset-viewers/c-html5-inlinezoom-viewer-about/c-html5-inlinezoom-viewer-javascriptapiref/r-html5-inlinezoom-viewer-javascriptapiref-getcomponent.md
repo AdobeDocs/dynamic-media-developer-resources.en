@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Inline Zoom Viewer
-
-
-solution: Experience Manager
 title: getComponent
-
+description: JavaScript API reference for Inline Zoom Viewer
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,User
 exl-id: 72ae83e4-b879-4b3b-a5d9-38ed0fc2969d
@@ -52,13 +49,13 @@ Returns a reference to the Viewer SDK component that is used by the viewer. The 
  </tbody> 
 </table>
 
-When working with SDK APIs it is important to use correct fully qualified SDK namespace as described in [Viewer SDK](../../../c-html5-s7-aem-asset-viewers/c-html5-inlinezoom-viewer-about/c-html5-inlinezoom-viewer-namespace.md#concept-5af3b472b320496d87735ea612edda80).
+When working with SDK APIs, it is important to correctly use fully qualified SDK namespace as described in [Viewer SDK](../../../c-html5-s7-aem-asset-viewers/c-html5-inlinezoom-viewer-about/c-html5-inlinezoom-viewer-namespace.md#concept-5af3b472b320496d87735ea612edda80).
 
 Refer to the Viewer SDK documentation for more information about a particular component.
 
 ## Returns {#section-1d3cf85bc7cc4dfe9670e038d02b9101}
 
-`{Object}` a reference to Viewer SDK component. The method returns `null` if the `componentId` is not a supported viewer component or if the component was not yet created by the viewer logic.
+`{Object}` A reference to Viewer SDK component. The method returns `null` if the `componentId` is not a supported viewer component or if the component was not yet created by the viewer logic.
 
 ## Example {#section-9e9332aa86b74a5fb321375c03fdc5b3}
 

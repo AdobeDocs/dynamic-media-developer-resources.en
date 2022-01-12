@@ -1,8 +1,7 @@
 ---
+title: FlyoutZoomView.iscommand
 description: FlyoutZoomView.iscommand
 solution: Experience Manager
-title: FlyoutZoomView.iscommand
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,User
 exl-id: b23918b5-5fc6-4038-b6f5-519198a96f86

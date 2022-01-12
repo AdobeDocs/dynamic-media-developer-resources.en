@@ -1,8 +1,7 @@
 ---
+title: FlyoutZoomView.flyouttransition
 description: FlyoutZoomView.flyouttransition
 solution: Experience Manager
-title: FlyoutZoomView.flyouttransition
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,User
 exl-id: 3199d4a3-4799-40a2-b0a5-0e1ee4744fbe

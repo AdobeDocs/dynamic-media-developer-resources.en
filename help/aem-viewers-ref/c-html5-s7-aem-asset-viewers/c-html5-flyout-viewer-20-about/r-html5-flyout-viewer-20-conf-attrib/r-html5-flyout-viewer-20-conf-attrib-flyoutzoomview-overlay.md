@@ -1,8 +1,7 @@
 ---
+title: FlyoutZoomView.overlay
 description: FlyoutZoomView.overlay
 solution: Experience Manager
-title: FlyoutZoomView.overlay
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,User
 exl-id: 7fbf24c6-900f-4e94-b879-3a8f95dc5c08
@@ -15,7 +14,7 @@ exl-id: 7fbf24c6-900f-4e94-b879-3a8f95dc5c08
  <tbody> 
   <tr> 
    <td colname="col1"> <p><span class="codeph"> 0|1</span> </p> </td> 
-   <td colname="col2"> <p> Controls the main view highlight appearance when the flyout is active. When set to <span class="codeph"> 0</span>, the area currently visible in the flyout window is highlighted using styles provided by either <span class="codeph"> .s7highlight</span> or <span class="codeph"> .s7cursor</span> CSS class names (depending on the value of <span class="codeph"> highlightmode</span> modifier). When set to <span class="codeph"> 1</span> component enters "inverse" mode where the currently viewed area is either fully transparent (in case <span class="codeph"> highlightmode</span> is set to <span class="codeph"> highlight</span>) or styled with <span class="codeph"> .s7cursor</span> CSS class name (in case <span class="codeph"> highlightmode</span> is set to <span class="codeph"> cursor</span>), but surrounding area is filled using styles provided by <span class="codeph"> .s7overlay</span> CSS class name. </p> </td> 
+   <td colname="col2"> <p> Controls the main view highlight appearance when the flyout is active. When set to <span class="codeph"> 0</span>, the area currently visible in the flyout window is highlighted using styles provided by <span class="codeph"> .s7highlight</span> or by <span class="codeph"> .s7cursor</span> CSS class names (depending on the value of <span class="codeph"> highlightmode</span> modifier). When set to <span class="codeph"> 1</span> component enters "inverse" mode where the currently viewed area is either fully transparent (in case <span class="codeph"> highlightmode</span> is set to <span class="codeph"> highlight</span>) or styled with <span class="codeph"> .s7cursor</span> CSS class name (in case <span class="codeph"> highlightmode</span> is set to <span class="codeph"> cursor</span>), but surrounding area is filled using styles provided by <span class="codeph"> .s7overlay</span> CSS class name. </p> </td> 
   </tr> 
  </tbody> 
 </table>

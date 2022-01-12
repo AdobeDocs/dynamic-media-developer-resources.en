@@ -1,10 +1,7 @@
 ---
-description: Configuration attributes documentation for Flyout Viewer
-
-
-solution: Experience Manager
 title: Command reference – Configuration attributes
-
+description: Configuration attributes documentation for Flyout Viewer
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,User
 exl-id: 2ac199ce-5dd5-4d2f-80c2-9bc370500cc4

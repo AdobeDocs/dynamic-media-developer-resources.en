@@ -1,8 +1,7 @@
 ---
+title: Swatches.pagemode
 description: Swatches.pagemode
 solution: Experience Manager
-title: Swatches.pagemode
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,User
 exl-id: 6d6aa024-2a31-4119-8bb3-feb02d838941

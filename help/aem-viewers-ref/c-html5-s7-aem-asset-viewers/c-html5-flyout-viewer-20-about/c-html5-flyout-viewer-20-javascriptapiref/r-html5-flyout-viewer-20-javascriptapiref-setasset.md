@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Flyout Viewer.
-
-
-solution: Experience Manager
 title: setAsset
-
+description: JavaScript API reference for Flyout Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,User
 exl-id: cd66267e-7b25-4af4-b83c-f7b7f768ea8c
@@ -19,7 +16,7 @@ JavaScript API reference for Flyout Viewer.
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> asset</span> </span> </p> </td> 
-   <td colname="col2"> <p>{<span class="codeph"> String</span>} new asset id, explicit image set or explicit image set with frame-specific Image Serving modifiers, with optional global Image Serving modifiers appended after <span class="codeph"> ?</span>. </p> <p> Images which use IR (Image Rendering) or UGC (User-Generated Content) are not supported by this viewer. </p> </td> 
+   <td colname="col2"> <p>{<span class="codeph"> String</span>} new asset id, explicit image set, or explicit image set with frame-specific Image Serving modifiers, with optional global Image Serving modifiers appended after <span class="codeph"> ?</span>. </p> <p> Images which use IR (Image Rendering) or UGC (User-Generated Content) are not supported by this viewer. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -46,7 +43,7 @@ Single reference to an image set that is defined in a catalog:
 <instance>.setAsset("Scene7SharedAssets/ImageSet-Views-Sample")
 ```
 
-Explicit image set:
+Explicit image set as follows:
 
 ```
 <instance>.setAsset("Scene7SharedAssets/Backpack_B,Scene7SharedAssets/Backpack_C")

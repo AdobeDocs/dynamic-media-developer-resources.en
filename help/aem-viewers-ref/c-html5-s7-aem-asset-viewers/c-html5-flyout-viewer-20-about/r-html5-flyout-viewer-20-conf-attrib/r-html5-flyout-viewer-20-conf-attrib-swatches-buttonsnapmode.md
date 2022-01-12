@@ -1,8 +1,7 @@
 ---
+title: Swatches.buttonsnapmode
 description: Swatches.buttonsnapmode
 solution: Experience Manager
-title: Swatches.buttonsnapmode
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,User
 exl-id: 06ff32fb-71a8-4e10-b82b-494cca05068d

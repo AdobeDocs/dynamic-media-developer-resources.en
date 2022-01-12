@@ -1,6 +1,6 @@
 ---
 title: Panoramic Viewer
-description: HTML5 Panoramic Viewer is an image viewer that displays a panoramic image. The purpose of this viewer is to display a spherical panorama, also known as equirectangular image. It supports auto-panning and panning by gyroscopic movement.  It is designed to work on desktops and mobile devices.  Virtual reality viewing mode is available on supporting mobile devices.
+description: HTML5 Panoramic Viewer is an image viewer that displays a panoramic image. The purpose of this viewer is to display a spherical panorama, also known as equirectangular image. It supports auto-panning and panning by gyroscopic movement. It is designed to work on desktops and mobile devices. Virtual reality viewing mode is available on supporting mobile devices.
 keywords: responsive
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Panoramic
@@ -8,7 +8,7 @@ role: Developer,User
 ---
 # Panoramic{#panoramic}
 
-HTML5 Panoramic Viewer is an image viewer that displays a panoramic image. The purpose of this viewer is to display a spherical panorama, also known as equirectangular image. It supports auto-panning and panning by gyroscopic movement.  It is designed to work on desktops and mobile devices.  Virtual reality viewing mode is available on supporting mobile devices.
+HTML5 Panoramic Viewer is an image viewer that displays a panoramic image. The purpose of this viewer is to display a spherical panorama, also known as equirectangular image. It supports auto-panning and panning by gyroscopic movement. It is designed to work on desktops and mobile devices. Virtual reality viewing mode is available on supporting mobile devices.
 
 See [System requirements and prerequisites](../../c-system-requirements-and-prerequisites.md#concept-9282e5b777de42cdaf72ef7ebd646842).
 
@@ -21,9 +21,9 @@ Viewer type 514.
 
 ## Using Panoramic Viewer {#section-f21ac23d3f6449ad9765588d69584772}
 
-HTML5 Panoramic Viewer represents a main JavaScript file and a set of helper files (a single JavaScript include with all HTML5 Viewer SDK components used by this particular viewer, assets, CSS) downloaded by the viewer in runtime.
+HTML5 Panoramic Viewer represents a main JavaScript file and a set of helper files downloaded by the viewer in runtime. The set of helper files is a single JavaScript include with all HTML5 Viewer SDK components used by this particular viewer, assets, CSS.
 HTML5 Panoramic Viewer can be used both in popup mode using production-ready HTML page provided with IS-Viewers or in embedded mode, where it is integrated into target web page using documented API.
-Configuration and skinning is similar to that of the other HTML5 viewers. All skinning can be achieved via custom CSS.
+Configuration and skinning are similar to that of the other HTML5 viewers. All skinning can be achieved via custom CSS.
 
 See [Command reference common to all viewers - Configuration attributes](../../r-html5-viewer-20-cmdref-configattrib/r-html5-viewer-20-cmdref-configattrib.md#concept-850e0f2c49b949deb7cfbfd330d329bd) and [Command reference common to all Viewers - URL](../../c-html5-viewer-20-cmdref-url/c-html5-viewer-20-cmdref-url.md#concept-9b337f349b7b406b8c33c7ee96b3e226)
 
@@ -52,17 +52,17 @@ HTML5 Panoramic Viewer supports auto-panning and navigation by drag or gyroscopi
 </table>
 
 The viewer supports both touch input and mouse input on Windows devices with touch screen and mouse, this support however is limited to Chrome, Internet Explorer 11 and Edge web browsers only.
-Panoramic Viewer has the ability to render panoramic images in Virtual Reality (VR) mode by specifying the vrrender modifier.  When vrrender is enabled, a panoramic image will be displayed in split screens.  A common use case would be serving the image in a mobile phone mounted in a virtual reality headset, providing separate images for each eye.  The viewer will respond the gyroscopic movement of the head and navigate through the image.
+Panoramic Viewer can render panoramic images in Virtual Reality (VR) mode by specifying the vrrender modifier. When vrrender is enabled, a panoramic image is displayed in split screens. A common use case would be serving the image in a mobile phone mounted in a virtual reality headset, providing separate images for each eye. The viewer responds to the gyroscopic movement of the head and navigate through the image.
 
 ## Embedding HTML5 Panoramic Viewer {#section-6bb5d3c502544ad18a58eafe12a13435}
 
-Different web pages have different needs for viewer behavior. Sometimes a web page will provide a link, and clicking on that link opens the viewer in a separate browser window. In other cases, it may be necessary to embed the viewer right in the hosting page. In the latter case the web page may have static layout, or be "responsive" and display differently on different devices or for different browser window sizes. To accommodate these needs, the viewer supports three primary operation modes: popup, fixed size embedding and responsive embedding.
+Different web pages have different needs for viewer behavior. Sometimes a web page provides a link. Selecting that link opens the viewer in a separate browser window. In other cases, it may be necessary to embed the viewer in the hosting page. In the latter case, the web page may have static layout, or be "responsive" and display differently on different devices or for different browser window sizes. To accommodate these needs, the viewer supports three primary operation modes: popup, fixed size embedding, and responsive embedding.
 
 **About pop-up mode**
 
-In the popup mode the viewer is opened in a separate web browser window or tab. It takes the whole browser window area and adjusts in case browser is resized or device orientation is changed.
+In the popup mode, the viewer is opened in a separate web browser window or tab. It takes the whole browser window area and adjusts in case browser is resized or device orientation is changed.
 
-This mode is the most common for mobile devices. The web page loads the viewer using window.open() JavaScript call, properly configured A HTML element or any other suitable way. 
+This mode is the most common for mobile devices. The web page loads the viewer using `window.open()` JavaScript call, properly configured A HTML element, or any other suitable way.
 
 It is recommended that you use an out-of-box HTML page for pop-up operation mode. It is called [!DNL PanoramicViewer.html] and it is located under the [!DNL html5/] subfolder of your standard IS-Viewers deployment:
 
@@ -80,24 +80,23 @@ Here is an example of HTML code which opens the viewer in the new window:
 
 In the embedded mode the viewer is added to the existing web page, which may already have some customer content not related to the viewer. The viewer normally occupies only a part of web page real estate.
 
-The primary use case are web pages oriented for desktops or tablet devices, and also responsive web pages which adjust layout automatically depending on device type.
+The primary use cases are web pages oriented for desktops or tablet devices, and also responsive web pages which adjust layout automatically depending on device type.
 
-Fixed size embedding is used when viewer does not change its size after initial load. This is the best choice for web pages which have static layout.
+Fixed size embedding is used when viewer does not change its size after initial load. This method is the best choice for web pages which have static layout.
 
-Responsive embedding assumes that the viewer may need to resize in run time in response to the size change of its container DIV. The most common use case is adding viewer to a web page which uses flexible layout.
+Responsive embedding assumes that the viewer must resize in run time in response to the size change of its container DIV. The most common use case is adding viewer to a web page which uses flexible layout.
 
-In responsive mode the viewer will behave differently depending on the way web page sizes its container DIV. If the web page sets only the width of the container DIV, leaving its height unrestricted, the viewer will automatically choose its height according to the aspect ratio of the asset being used; this will ensure the asset is perfectly fit into the view without any padding on the sides. This use case is the most common for web pages using responsive layout frameworks like Bootstrap, Foundation and such.
+In responsive mode, the viewer behaves differently depending on the way web page sizes its container DIV. If the web page sets only the width of the container DIV, leaving its height unrestricted, the viewer automatically chooses its height according to the aspect ratio of the asset used. This method ensures that the asset perfectly fits into the view without any padding on the sides. This use case is the most common for web pages using responsive layout frameworks like Bootstrap, Foundation and such.
 
-Otherwise, if the web page sets both the width and the height for the viewer's container DIV, the viewer will just fill that area and follow the size provided by web page layout. A good example may be embedding viewer into a modal overlay, where the overlay is sized according to web browser window size.
-
+Otherwise, if the web page sets both the width and the height for the viewer's container DIV, the viewer fills that area and follows the size provided by the web page layout. A good example is embedding the viewer into a modal overlay, where the overlay is sized according to the web browser window size.
 
 **Fixed size embedding**
 
 You add the viewer to a web page by doing the following:
 
-1. Adding the viewer JavaScript file to your web page. 
-1. Defining the container `DIV`. 
-1. Setting the viewer size. 
+1. Adding the viewer JavaScript file to your web page.
+1. Defining the container `DIV`.
+1. Setting the viewer size.
 1. Creating and initializing the viewer.
 
 1. Adding the viewer JavaScript file to your web page.
@@ -154,8 +153,7 @@ You add the viewer to a web page by doing the following:
    panoramicViewer.setParam("stagesize", "512,256");
    ```
    
-   CSS-based approach is recommended and will be used in this example.
-
+   CSS-based approach is recommended and is used in this example.
 
 1. Creating and initializing the viewer.
 
@@ -212,7 +210,7 @@ You add the viewer to a web page by doing the following:
 
 **Responsive design embedding with unrestricted height**
 
-With the responsive embedding the web page normally has some kind of flexible layout in place which dictates the run-time size of the viewer's container DIV. For the purposes of this example let's assume that the web page allows viewer's container DIV to take 80% of the web browser window size, leaving its height unrestricted. The web page HTML code could look like this:
+With the responsive embedding, the web page normally has some kind of flexible layout in place which dictates the run-time size of the viewer's container DIV. For the purposes of this example let's assume that the web page allows viewer's container DIV to take 80% of the web browser window size, leaving its height unrestricted. The web page HTML code could look like this:
 
 ```
 <!DOCTYPE html> 
@@ -231,7 +229,7 @@ With the responsive embedding the web page normally has some kind of flexible la
 
 ```
 
-Adding the viewer to such page is very similar to the fixed size embedding, with the only difference that you do not need to explicitly define viewer size:
+Adding the viewer to such page is similar to the fixed size embedding, with the only difference that you do not need to explicitly define the viewer size:
 
 1. Adding the viewer JavaScript file to your web page. 
 1. Defining the container DIV. 

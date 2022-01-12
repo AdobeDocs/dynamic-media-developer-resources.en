@@ -1,8 +1,7 @@
 ---
+title: FlyoutZoomView.frametransition
 description: FlyoutZoomView.frametransition
 solution: Experience Manager
-title: FlyoutZoomView.frametransition
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,User
 exl-id: 0b0a88a0-d736-4ab8-a25f-15d1689b0a48

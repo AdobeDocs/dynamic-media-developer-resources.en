@@ -1,8 +1,7 @@
 ---
+title: Swatches.partialswatches
 description: Swatches.partialswatches
 solution: Experience Manager
-title: Swatches.partialswatches
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,User
 exl-id: c689102d-360f-4529-9f17-27835dd4e21e

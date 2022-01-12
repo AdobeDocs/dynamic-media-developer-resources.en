@@ -1,17 +1,14 @@
 ---
-description: Swatches consist of a row of thumbnail images with optional scroll buttons on the left and right hand side.
-
-
-solution: Experience Manager
 title: Swatches
-
+description: Swatches consist of a row of thumbnail images with optional scroll buttons on the left and right-hand side.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,User
 exl-id: 7040edf2-4356-4493-b886-8c5694f5863a
 ---
 # Swatches{#swatches}
 
-Swatches consist of a row of thumbnail images with optional scroll buttons on the left and right hand side.
+Swatches consist of a row of thumbnail images with optional scroll buttons on the left and right-hand side.
 
 <!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
@@ -80,7 +77,7 @@ The spacing between swatch thumbnails is controlled with the CSS class selector:
  </tbody> 
 </table>
 
-Example - to set up spacing to be 10 pixels both vertically and horizontally:
+Example - to set up spacing to be ten pixels both vertically and horizontally:
 
 ```
 .s7flyoutviewer .s7swatches .s7thumbcell { 

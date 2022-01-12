@@ -1,8 +1,7 @@
 ---
+title: Swatches.scrollstep
 description: Swatches.scrollstep
 solution: Experience Manager
-title: Swatches.scrollstep
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,User
 exl-id: 89aafe05-a4d8-41c9-8621-9097f8dbc275

@@ -1,8 +1,7 @@
 ---
+title: FlyoutZoomView.preloadtiles
 description: FlyoutZoomView.preloadtiles
 solution: Experience Manager
-title: FlyoutZoomView.preloadtiles
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,User
 exl-id: f50ea45a-afd5-4e4f-967d-c45cecc5fb7b

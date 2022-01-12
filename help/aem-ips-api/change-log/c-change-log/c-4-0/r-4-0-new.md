@@ -1,7 +1,7 @@
 ---
+title: New Additions and Changes
 description: Describes new and implemented changes for the IPS API v4.0.
 solution: Experience Manager
-title: New Additions and Changes
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: f07562a8-71e9-4d98-9d0c-5bb32a7e0ef1
@@ -21,7 +21,7 @@ Added `VideoRootUrl` and `SwfRootUrl` properties for `getProperty` operation.
 
 Added optional `appName` and `appVersion` params to `authHeader` to track calling application. Added logging to `ipsApiService.log`.
 
-Added an optional `serviceUrl` param to the WSDL generation servlet. This is particularly useful for debug proxies. For example: `http://<server>/scene7/webservice/IpsApi-2008-01-15.wsdl?serviceUrl=http://localhost:8081`
+Added an optional `serviceUrl` param to the WSDL generation servlet. This param is useful for debug proxies. For example: `http://<server>/scene7/webservice/IpsApi-2008-01-15.wsdl?serviceUrl=http://localhost:8081`
 
 Implemented `getZipEntries` operation.
 
@@ -69,7 +69,7 @@ Added `setUrlModifier` operation and `urlModifier/urlPostApplyModifier` fields f
 
 Added `createDerivedAsset` operation. Currently the `ownerHandle` must reference an Image asset and the type may be `AdjustedView` or `LayerView`.
 
-Added `createTemplate` operation. Currently this can be called to create Template or Watermark assets.
+Added `createTemplate` operation. Call to create Template or Watermark assets.
 
 IPS company settings, `CompanySettings`, ported to Web services API.
 
@@ -105,13 +105,13 @@ Implemented `ViewerPreset` operations. The recognized types are:
 * `Spin` 
 * `Custom types`
 
-Viewer skins support two parameters: `skinFg` and `skinBg`. Backend code will do all the processing required to maintain backward compatibility.
+Viewer skins support two parameters: `skinFg` and `skinBg`. Backend code does all the processing required to maintain backward compatibility.
 
 Implemented `getAssociatedAssets` operation.
 
 Added `ReprocessAssets` job type to allow reprocessing of previously uploaded primary source files, including reripping PDFs and reoptimizing images.
 
-Renamed `PropertySetType` field type to `propertyType`. This affects the `createPropertySetType` parameter and `getPropertySetType/getPropertySetTypes` response.
+Renamed `PropertySetType` field type to `propertyType`. This renaming affects the `createPropertySetType` parameter and `getPropertySetType/getPropertySetTypes` response.
 
 Implemented `batchSetImageFields` operation to support setting image user data and other editable image fields.
 
@@ -154,13 +154,13 @@ Implemented `getSearchStrings` operation. It returns an array of search strings 
 
 Added locale parameters for jobs and a mechanism to set the locale for API operations. The locale string should be formatted as `<language_code>[-<country_code>]`. The language code is a lowercase, two-letter code as specified by ISO-639, and the optional country code is an uppercase, two-letter code as specified by ISO-3166.
 
-Added optional locale parameter to the `authHeader` SOAP header to set the locale for API operations. If this parameter is not present, the HTTP header `Accept-Language` will be used. If this header is also not present, the default locale for the IPS server will be used.
+Added optional locale parameter to the `authHeader` SOAP header to set the locale for API operations. If this parameter is not present, the HTTP header `Accept-Language` is used. If this header is also not present, the default locale for the IPS server is used.
 
 Added get/set support for strongly typed metadata fields.
 
 Implemented SOAP and HTTP header support for gzip response control.
 
-Added `gzipResponse` flag to `authHeader`. If it is not present, the API will also check the HTTP `Accept-Encoding` header.
+Added `gzipResponse` flag to `authHeader`. If it is not present, the API checks the HTTP `Accept-Encoding` header.
 
 Added support to searchAssets for strongly typed metadata field conditions.
 
@@ -173,10 +173,10 @@ Added support to searchAssets for strongly typed metadata field conditions.
 Added description, `jobSubType`, and `originalJobName` fields to `JobLog` type.
 
 * `originalJobName` is the job name submitted to `submitJob` (without any uniqueness suffixes or follow-on job names). 
-* `jobSubType` is currently only used by `ImageServingPublishJob` jobs (where it is one of `full`, `increment, fullwithsearch,` or `fulloverride`). 
-* `description` is currently an empty string for all job types, but will eventually contain summary job information, such as the upload path.
+* `jobSubType` is used only by `ImageServingPublishJob` jobs (where it is one of `full`, `increment, fullwithsearch,` or `fulloverride`). 
+* `description` is an empty string for all job types, but eventually contains summary job information, such as the upload path.
 
-In addition, the following fields are not included with both `getJobLogs` and `getJobLogDetails`. In prior versions they were only available with `getJobLogDetails`.
+In addition, the following fields are not included with both `getJobLogs` and `getJobLogDetails`. In prior versions, they were only available with `getJobLogDetails`.
 
 * `endDate` (if the job has completed). 
 * `fileDuplicateCount` (previously it was always `0` with `getJobLogs`) 
@@ -184,7 +184,7 @@ In addition, the following fields are not included with both `getJobLogs` and `g
 
 Added assetHandle field to `JobLogDetail` type.
 
-Added optional description parameter to `submitJob`. This is passed through for retrieval in `getScheduledJobs`, `getActiveJobs`, and `getJobLogs`.
+Added optional description parameter to `submitJob`. This parameter is passed through for retrieval in `getScheduledJobs`, `getActiveJobs`, and `getJobLogs`.
 
 Deprecated the SKU system field. The field is ignored if it is passed in as a `SystemFieldCondition` to `searchAssets`.
 
@@ -212,15 +212,15 @@ Added new Asset Types for management by IPS:
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> WordDoc </span> </p> </td> 
-   <td colname="col2"> <p>Microsoft Word document for files ending with .doc. </p> </td> 
+   <td colname="col2"> <p>Microsoft® Word document for files ending with .doc. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> ExcelDoc </span> </p> </td> 
-   <td colname="col2"> <p>Microsoft Excel document for files ending with .xls. </p> </td> 
+   <td colname="col2"> <p>Microsoft® Excel document for files ending with .xls. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> PowerPointDoc </span> </p> </td> 
-   <td colname="col2"> <p>Microsoft PowerPoint document for files ending with .ppt. </p> </td> 
+   <td colname="col2"> <p>Microsoft® PowerPoint document for files ending with .ppt. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> RTFDoc </span> </p> </td> 
@@ -229,7 +229,7 @@ Added new Asset Types for management by IPS:
  </tbody> 
 </table>
 
-Added additional options to `UploadDirectoryJob` and `UploadUrlsJob` to control processing of Postscript, Illustrator, and PDF files independently. All existing jobs will provide the necessary parameters to the each of the 3 processing pipelines so that they will function exactly as done today. The original `PostScriptOptions` block is used to set the processing for Illustrator and EPS/PS files. Optionally, specific file options blocks can be supplied to specify processing. The list of changes includes:
+Added additional options to `UploadDirectoryJob` and `UploadUrlsJob` to control processing of Postscript, Illustrator, and PDF files independently. All existing jobs provide the necessary parameters to each of the three processing pipelines so that they function exactly as done today. The original `PostScriptOptions` block is used to set the processing for Illustrator and EPS/PS files. Optionally, specific file options blocks can be supplied to specify processing. The list of changes includes:
 
 <table id="table_D4E5ACCB2D144D05A5FA0129AA5F9344"> 
  <thead> 
@@ -258,7 +258,7 @@ Added additional options to `UploadDirectoryJob` and `UploadUrlsJob` to control 
   <tr> 
    <td colname="col2"> <p> <span class="codeph"> alpha </span> </p> <p>Optional. </p> </td> 
    <td colname="col3"> <p> <span class="codeph"> &lt;boolean&gt; </span> </p> </td> 
-   <td colname="col4"> <p>Takes effect when rasterizing the file into an image. It will create a transparent back- ground if the original file is defined in this way for overlaying logos. </p> </td> 
+   <td colname="col4"> <p>Takes effect when rasterizing the file into an image. It creates a transparent background if the original file is defined in this way for overlaying logos. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1" morerows="3"> <p> <span class="codeph"> IllustratorOptions </span> </p> </td> 
@@ -287,7 +287,7 @@ Added additional options to `UploadDirectoryJob` and `UploadUrlsJob` to control 
   <tr> 
    <td colname="col2"> <p> <span class="codeph"> alpha </span> </p> <p>Optional. </p> </td> 
    <td colname="col3"> <p> </p> </td> 
-   <td colname="col4"> <p>Takes affect when rasterizing the file into an image. Creates a transparent background if the original file is defined in this way for creating overlaying logos. </p> </td> 
+   <td colname="col4"> <p>Takes effect when rasterizing the file into an image. Creates a transparent background if the original file is defined in this way for creating overlaying logos. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1" morerows="4"> <p> <span class="codeph"> PDFOptions </span> </p> </td> 

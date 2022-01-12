@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Inline Zoom Viewer.
-
-
-solution: Experience Manager
 title: setLocalizedTexts
-
+description: JavaScript API reference for Inline Zoom Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,User
 exl-id: a0d602f5-e698-4dad-af95-70ef5ef88af6

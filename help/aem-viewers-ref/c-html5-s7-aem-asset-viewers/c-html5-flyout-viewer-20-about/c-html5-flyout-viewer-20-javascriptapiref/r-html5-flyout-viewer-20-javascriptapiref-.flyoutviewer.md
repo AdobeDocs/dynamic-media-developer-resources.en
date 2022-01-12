@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Flyout Viewer.
-
-
-solution: Experience Manager
 title: FlyoutViewer
-
+description: JavaScript API reference for Flyout Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,User
 exl-id: b64f16c8-03bf-4603-972f-845a4c1e2b02
@@ -15,7 +12,7 @@ JavaScript API reference for Flyout Viewer.
 
  `FlyoutViewer([config])`
 
-Constructor; creates a new Flyout Viewer instance.
+Constructor; creates a Flyout Viewer instance.
 
 ## Parameters {#section-8bc3d1424c8444f193716fc8d9975765}
 
