@@ -1,10 +1,7 @@
 ---
-description: The Flyout Viewer supports Adobe Analytics tracking out of the box.
-
-
-solution: Experience Manager
 title: Support for Adobe Analytics tracking
-
+description: The Flyout Viewer supports Adobe Analytics tracking out of the box.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,User,Data Engineer,Data Architect
 exl-id: e5ffe8a8-6c25-4fc2-8c25-90bc7e0b416c
@@ -21,7 +18,7 @@ The viewer also sends a single tracking HTTP request to the configured Image Ser
 
 ## Custom tracking {#section-cda48fc9730142d0bb3326bac7df3271}
 
-To integrate with third-party analytics systems it is necessary to listen to the `trackEvent` viewer callback and process the `eventInfo` argument of the callback function as necessary. The following code is an example of such handler function:
+To integrate with third-party analytics systems, it is necessary to listen to the `trackEvent` viewer callback and process the `eventInfo` argument of the callback function as necessary. The following code is an example of such handler function:
 
 ```
 var inlineZoomViewer = new s7viewers.FlyoutViewer({ 

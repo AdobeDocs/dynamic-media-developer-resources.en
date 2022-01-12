@@ -1,10 +1,7 @@
 ---
-description: The main view area is the area occupied by the flyout view and swatches.
-
-
-solution: Experience Manager
 title: Main viewer area
-
+description: The main view area is the area occupied by the flyout view and swatches.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,User
 exl-id: bf928c22-23e9-4df3-b2d7-0841c64baf19

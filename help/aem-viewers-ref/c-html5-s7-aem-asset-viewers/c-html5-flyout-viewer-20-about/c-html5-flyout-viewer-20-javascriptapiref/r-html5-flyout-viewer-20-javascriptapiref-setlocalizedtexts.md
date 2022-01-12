@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Flyout Viewer.
-
-
-solution: Experience Manager
 title: setLocalizedTexts
-
+description: JavaScript API reference for Flyout Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,User
 exl-id: abe33346-303a-4121-b41b-db89ae106e31

@@ -1,17 +1,14 @@
 ---
-description: The main view consists of the static image, the zoomed image shown in the flyout view on top of the static image, and the tip message shown on top of static image.
-
-
-solution: Experience Manager
 title: Flyout zoom view
-
+description: The main view consists of the static image and the zoomed image shown in the flyout view on top of the static image. It also consists of the tip message shown on top of static image.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,User
 exl-id: 7b4b5cc9-68ad-4e7a-a2d9-3bbced929145
 ---
 # Flyout zoom view{#flyout-zoom-view}
 
-The main view consists of the static image, the zoomed image shown in the flyout view on top of the static image, and the tip message shown on top of static image.
+The main view consists of the static image and the zoomed image shown in the flyout view on top of the static image. It also consists of the tip message shown on top of static image.
 
 <!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
@@ -54,7 +51,7 @@ The appearance of the tip message is controlled with the following CSS class sel
 .s7flyoutviewer .s7flyoutzoomview .s7tip
 ```
 
-It is possible to configure font style, size appearance and vertical offset through CSS. However, horizontal alignment is managed by the viewer logic. Overriding it through CSS using `left` or `right` properties is not supported.
+It is possible to configure font style, size, appearance, and vertical offset through CSS. However, horizontal alignment is managed by the viewer logic. Overriding it through CSS using `left` or `right` properties is not supported.
 
 <table id="table_DCF6B69A9D8C4DB7A10C4572F7484799"> 
  <thead> 
@@ -103,7 +100,7 @@ The tip message can be localized. See [Localization of user interface elements](
 
 .
 
-Example - to set up semi-transparent tip message with white Arial 12px font, 50 pixels offset from the bottom of the main view, padding, and a rounded border:
+Example - to set up semi-transparent tip message with white Arial® 12-px font, 50 pixels offset from the bottom of the main view, padding, and a rounded border:
 
 ```
 .s7flyoutviewer .s7flyoutzoomview .s7tip { 

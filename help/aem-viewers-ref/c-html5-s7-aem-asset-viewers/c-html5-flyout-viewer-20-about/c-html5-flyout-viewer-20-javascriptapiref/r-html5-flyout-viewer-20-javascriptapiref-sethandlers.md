@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Flyout Viewer.
-
-
-solution: Experience Manager
 title: setHandlers
-
+description: JavaScript API reference for Flyout Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,User
 exl-id: 3a7b2aeb-2de5-4d4c-8974-47b6418140e6

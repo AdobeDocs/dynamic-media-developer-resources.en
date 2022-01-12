@@ -1,10 +1,7 @@
 ---
-description: Certain content that the Flyout Viewer displays is subject to localization. This content includes user interface element tool tips and information messages that are displayed by the flyout zoom view on load.
-
-
-solution: Experience Manager
 title: Localization of user interface elements
-
+description: Certain content that the Flyout Viewer displays is subject to localization. This content includes user interface element tool tips and information messages that are displayed by the flyout zoom view on load.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,User
 exl-id: 49795aa1-07c7-4f2e-bfd9-51d6581898ed
@@ -13,7 +10,7 @@ exl-id: 49795aa1-07c7-4f2e-bfd9-51d6581898ed
 
 Certain content that the Flyout Viewer displays is subject to localization. This content includes user interface element tool tips and information messages that are displayed by the flyout zoom view on load.
 
-Every textual content in the viewer that can be localized is represented by the special Viewer SDK identifier called SYMBOL. Any SYMBOL has a default associated text value for an English locale ( `"en"`) supplied with the out-of-the-box viewer, and also may have user-defined values set for as many locales as needed.
+Every textual content in the viewer that can be localized is represented by the special Viewer SDK identifier called SYMBOL. Any SYMBOL has a default associated text value for an English locale ( `"en"`) supplied with the out-of-the-box viewer, and may also have user-defined values set for as many locales as needed.
 
 When the viewer starts, it checks the current locale to see if there is a user-defined value for each supported SYMBOL for such locale. If there is, it uses the user-defined value; otherwise, it falls back to the out-of-the-box default text.
 
@@ -51,7 +48,7 @@ The following SYMBOLs are supported:
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> Container.LABEL </span> </p> </td> 
-   <td colname="col2"> <p>ARIA label for top level viewer element. </p> </td> 
+   <td colname="col2"> <p>ARIA label for top-level viewer element. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> FlyoutZoomView.ROLE_DESCRIPTION </span> </p> </td> 

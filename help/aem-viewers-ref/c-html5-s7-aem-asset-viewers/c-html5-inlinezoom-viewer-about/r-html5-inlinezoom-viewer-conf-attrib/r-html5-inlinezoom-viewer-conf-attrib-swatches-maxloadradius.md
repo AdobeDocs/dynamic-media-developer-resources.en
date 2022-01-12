@@ -1,8 +1,7 @@
 ---
+title: Swatches.maxloadradius
 description: Swatches.maxloadradius
 solution: Experience Manager
-title: Swatches.maxloadradius
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,User
 exl-id: 574cb37c-009a-43c7-ae55-8b26c0c096c5
@@ -15,7 +14,7 @@ exl-id: 574cb37c-009a-43c7-ae55-8b26c0c096c5
  <tbody> 
   <tr> 
    <td colname="col1"> <p><span class="codeph"> -1|0|<span class="varname"> preloadnbr</span></span> </p> </td> 
-   <td colname="col2"> <p> Specifies the component preload behavior. When set to <span class="codeph"> -1</span> all swatches will be loaded simultaneously when component is initialized or asset changed. When set to <span class="codeph"> 0</span> only visible swatches are loaded. </p> <p><span class="codeph"> <span class="varname"> preloadnbr</span></span> defines how many invisible rows/columns around the visible area will be preloaded. </p> </td> 
+   <td colname="col2"> <p> Specifies the component preload behavior. When set to <span class="codeph"> -1</span> all swatches are loaded simultaneously when component is initialized or asset changed. When set to <span class="codeph"> 0</span> only visible swatches are loaded. </p> <p><span class="codeph"> <span class="varname"> preloadnbr</span></span> defines how many invisible rows/columns around the visible area are preloaded. </p> </td> 
   </tr> 
  </tbody> 
 </table>

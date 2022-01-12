@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Inline Zoom Viewer.
-
-
-solution: Experience Manager
 title: setContainerId
-
+description: JavaScript API reference for Inline Zoom Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,User
 exl-id: ab3359f0-0c58-4984-815a-e0246728100e

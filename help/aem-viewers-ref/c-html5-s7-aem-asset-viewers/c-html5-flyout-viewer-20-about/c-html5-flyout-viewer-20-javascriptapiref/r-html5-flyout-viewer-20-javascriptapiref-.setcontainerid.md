@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Flyout Viewer.
-
-
-solution: Experience Manager
 title: setContainerId
-
+description: JavaScript API reference for Flyout Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,User
 exl-id: 5e07cbba-c1c1-4c85-af2b-ab2d84fbb709

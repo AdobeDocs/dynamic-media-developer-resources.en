@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Inline Zoom Viewer.
-
-
-solution: Experience Manager
 title: setHandlers
-
+description: JavaScript API reference for Inline Zoom Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,User
 exl-id: 233fadf5-4b09-406d-959b-c2c9c4524021

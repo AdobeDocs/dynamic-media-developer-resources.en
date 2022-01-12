@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Inline Zoom Viewer.
-
-
-solution: Experience Manager
 title: setAsset
-
+description: JavaScript API reference for Inline Zoom Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,User
 exl-id: 62b46ad5-90b7-49e1-a426-87fbe956f07e
@@ -19,7 +16,7 @@ JavaScript API reference for Inline Zoom Viewer.
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> asset</span> </span> </p> </td> 
-   <td colname="col2"> <p>{<span class="codeph"> String</span>} new asset id, explicit image set or explicit image set with frame-specific Image Serving modifiers, with optional global Image Serving modifiers appended after <span class="codeph"> ?</span>. </p> <p> Images which use IR (Image Rendering) or UGC (User-Generated Content) are not supported by this viewer. </p> </td> 
+   <td colname="col2"> <p>{<span class="codeph"> String</span>} new asset id, explicit image set, or explicit image set with frame-specific Image Serving modifiers, with optional global Image Serving modifiers appended after <span class="codeph"> ?</span>. </p> <p> Images which use IR (Image Rendering) or UGC (User-Generated Content) are not supported by this viewer. </p> </td> 
   </tr> 
  </tbody> 
 </table>

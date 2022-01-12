@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Flyout Viewer.
-
-
-solution: Experience Manager
 title: setParams
-
+description: JavaScript API reference for Flyout Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,User
 exl-id: bd26292d-f9c6-4e67-8cc1-c74336d50860
@@ -24,7 +21,7 @@ JavaScript API reference for Flyout Viewer.
  </tbody> 
 </table>
 
-Sets one or more parameters to a given value. The method argument syntax is identical to a URL query string. That is, it represents name=value pairs separated with `&`. The same as in a query string, names and values are percent-encoded using UTF8. Before you call `init()`, this parameter must be called. This method is optional if viewer configuration information is passed with `config` JSON object to the constructor.
+Sets one or more parameters to a given value. The method argument syntax is identical to a URL query string. That is, it represents name=value pairs separated with `&`. The same as in a query string, names, and values are percent-encoded using UTF8. Before you call `init()`, this parameter must be called. This method is optional if viewer configuration information is passed with `config` JSON object to the constructor.
 
 See also [init](../../../c-html5-s7-aem-asset-viewers/c-html5-flyout-viewer-20-about/c-html5-flyout-viewer-20-javascriptapiref/r-html5-flyout-viewer-20-javascriptapiref-init.md#reference-8651640683fc4a538bfb660709d1a463).
 

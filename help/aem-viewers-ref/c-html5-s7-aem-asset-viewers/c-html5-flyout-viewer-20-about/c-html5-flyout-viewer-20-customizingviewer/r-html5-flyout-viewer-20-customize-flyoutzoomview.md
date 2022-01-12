@@ -1,17 +1,14 @@
 ---
-description: The main view consists of the static image, the zoomed image shown in the flyout view, the highlight navigation area displayed over the static image and the tip message shown on top of static image.
-
-
-solution: Experience Manager
 title: Flyout zoom view
-
+description: The main view consists of the static image and the zoomed image shown in the flyout view. It also consists of the highlight navigation area that is displayed over the static image, and the tip message shown on top of the static image.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,User
 exl-id: c04c4b8f-4e63-4e84-98c0-aa0781608130
 ---
 # Flyout zoom view{#flyout-zoom-view}
 
-The main view consists of the static image, the zoomed image shown in the flyout view, the highlight navigation area displayed over the static image and the tip message shown on top of static image.
+The main view consists of the static image and the zoomed image shown in the flyout view. It also consists of the highlight navigation area that is displayed over the static image, and the tip message shown on top of the static image.
 
 <!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
@@ -66,11 +63,11 @@ The appearance of the flyout view is controlled with the following CSS class sel
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> left </span> </p> </td> 
-   <td colname="col2"> <p> The horizontal position of the flyout view, relative to top left corner of main view. </p> </td> 
+   <td colname="col2"> <p> The horizontal position of the flyout view, relative to top-left corner of main view. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> top </span> </p> </td> 
-   <td colname="col2"> <p> The vertical position of the flyout view, relative to top left corner of main view. </p> </td> 
+   <td colname="col2"> <p> The vertical position of the flyout view, relative to top-left corner of main view. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> width </span> </p> </td> 
@@ -106,7 +103,7 @@ The appearance of the highlight in the main view is controlled with the followin
 .s7flyoutviewer .s7flyoutzoomview .s7highlight
 ```
 
-It is possible to control background, border, transparency and similar attributes using CSS. However, the size and position of highlight DOM element is managed by the viewer logic. Overriding it through CSS is not supported.
+It is possible to control background, border, transparency, and similar attributes using CSS. However, the size and position of highlight DOM element is managed by the viewer logic. Overriding it through CSS is not supported.
 
 <table id="table_F957367566C542829E2F6D296F9DAAC5"> 
  <thead> 
@@ -218,7 +215,7 @@ The appearance of the tip message is controlled with the following CSS class sel
 .s7flyoutviewer .s7flyoutzoomview .s7tip
 ```
 
-It is possible to configure font style, size appearance and vertical offset through CSS. However, horizontal alignment is managed by the viewer logic. Overriding it through CSS using `left` or `right` properties is not supported.
+It is possible to configure font style, size, appearance, and vertical offset through CSS. However, horizontal alignment is managed by the viewer logic. Overriding it through CSS using `left` or `right` properties is not supported.
 
 <table id="table_DCF6B69A9D8C4DB7A10C4572F7484799"> 
  <thead> 
@@ -265,7 +262,7 @@ It is possible to configure font style, size appearance and vertical offset thro
 
 The tip message can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-flyout-viewer-20-about/c-html5-flyout-viewer-20-localization.md#concept-6c8e58c611934e93ae3f211f46e15c27) for more information.
 
-Example - to set up semi-transparent tip message with white Arial 12px font, 50 pixels offset from the bottom of the main view, padding, and a rounded border:
+Example - to set up semi-transparent tip message with white Arial® 12-px font, 50 pixels offset from the bottom of the main view, padding, and a rounded border:
 
 ```
 .s7flyoutviewer .s7flyoutzoomview .s7tip { 
