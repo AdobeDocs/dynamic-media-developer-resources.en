@@ -1,7 +1,7 @@
 ---
+title: Spin view
 description: Main view consists of the spin image when the current asset is a spin set.
 solution: Experience Manager
-title: Spin view
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: aafc1299-b09a-4379-bd8f-b564066175bd
@@ -35,7 +35,7 @@ The appearance of the viewing area is controlled with the following CSS class se
  </tbody> 
 </table>
 
-Example - to make the spin view transparent.
+Example - To make the spin view transparent.
 
 ```
 .s7mixedmediaviewer .s7spinview { 

@@ -1,14 +1,14 @@
 ---
-description: The play/pause button causes the video player to play or pause the video content when a user clicks it.
-solution: Experience Manager
 title: Play/Pause button
+description: The play/pause button causes the video player to play or pause the video content when a user selects it.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 8312645f-5704-499f-b66a-cf51dd8c1ec7
 ---
 # Play/Pause button{#play-pause-button}
 
-The play/pause button causes the video player to play or pause the video content when a user clicks it.
+The Play/Pause button causes the video player to play or pause the video content when a user selects it.
 
 <!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
@@ -63,13 +63,13 @@ The following CSS class selector controls the appearance of the button:
 >
 >This button supports both the `state`, `selected`, and `replay` attribute selectors, which can be used to apply different skins to different button states. In particular, `selected='true'` corresponds to the "play" state and `selected='false'` corresponds to the "pause" state; 
 >
->`replay='true'` is set when the video has reached the end and clicking on the button restarts playback from the beginning.
+>`replay='true'` This attribute is set when the video has reached the end and selecting the button restarts playback from the beginning.
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-mixedmedia-viewer-about/c-html5-mixedmedia-viewer-localization.md#concept-16262b8096474d6c9c018c3e99110dd1) for more information.
 
 ## Example {#section-e8caea0a303c425a8a637c2a47c06355}
 
-To set up a play/pause button that is 32 x 32 pixels; it is positioned six pixels from the top and left edge of the control bar, and displays a different image for each of the four different button states when selected or not selected.
+To set up a Play/Pause button that is 32 x 32 pixels and positioned six pixels from the top and left edge of the control bar. And finally, displays a different image for each of the four different button states when selected or not selected.
 
 ```
 .s7mixedmediaviewer .s7playpausebutton { 

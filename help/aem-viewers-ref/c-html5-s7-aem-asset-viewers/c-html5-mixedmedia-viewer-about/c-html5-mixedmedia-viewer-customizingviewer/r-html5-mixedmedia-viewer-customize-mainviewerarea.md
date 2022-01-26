@@ -1,14 +1,14 @@
 ---
-description: The main view area is the area occupied by the main view and swatches. It is usually set to fit the available device screen when no size is specified.
-solution: Experience Manager
 title: Main viewer area
+description: The main view area is the area occupied by the main view and swatches. It is set to fit the available device screen when no size is specified.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: fe8b748c-5318-4fcd-9f3a-d50523bb3f8f
 ---
 # Main viewer area{#main-viewer-area}
 
-The main view area is the area occupied by the main view and swatches. It is usually set to fit the available device screen when no size is specified.
+The main view area is the area occupied by the main view and swatches. It is set to fit the available device screen when no size is specified.
 
 <!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
@@ -43,7 +43,7 @@ The appearance of the viewing area is controlled with the following CSS class se
  </tbody> 
 </table>
 
-Example - to set up a viewer with a white background ( `#FFFFFF`) and make its size 512 x 288 pixels.
+Example - To set up a viewer with a white background ( `#FFFFFF`) and make its size 512 x 288 pixels.
 
 ```
 .s7mixedmediaviewer { 

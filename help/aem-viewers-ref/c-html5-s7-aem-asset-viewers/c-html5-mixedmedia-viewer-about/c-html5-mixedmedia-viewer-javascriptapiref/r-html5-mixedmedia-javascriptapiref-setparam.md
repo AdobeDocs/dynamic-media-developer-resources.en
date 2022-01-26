@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Mixed Media Viewer.
-
-
-solution: Experience Manager
 title: setParam
-
+description: JavaScript API reference for Mixed Media Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 610a5a7d-1314-48bc-a640-319139d64adc

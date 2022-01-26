@@ -1,14 +1,14 @@
 ---
+title: Spin left button
 description: Clicking or tapping this button spins the image to the left in main view. This button is not displayed on mobile phones in order to save screen real estate. Also, the button is hidden when a multi-dimensional spin set is used. You can size, skin, and position the button using CSS.
 solution: Experience Manager
-title: Spin left button
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 0c7ca422-f4ac-4ad1-ab51-8521b4d4b20e
 ---
 # Spin left button{#spin-left-button}
 
-Clicking or tapping this button spins the image to the left in main view. This button is not displayed on mobile phones in order to save screen real estate. Also, the button is hidden when a multi-dimensional spin set is used. You can size, skin, and position the button using CSS.
+Selecting this button spins the image to the left in main view. This button is not displayed on mobile phones in order to save screen real estate. Also, the button is hidden when a multi-dimensional spin set is used. You can size, skin, and position the button using CSS.
 
 <!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
@@ -110,7 +110,7 @@ The appearance of this button inside the container is controlled with the CSS cl
 
 The button tool tips can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-mixedmedia-viewer-about/c-html5-mixedmedia-viewer-localization.md#concept-16262b8096474d6c9c018c3e99110dd1) for more information.
 
-Example - to set up a spin left button that is 28 x 28 pixels, that is positioned on the left edge of inner container, and that displays a different image for each of the four different button states:
+Example - To set up a spin left button that is 28 x 28 pixels, and is positioned on the left edge of inner container. And finally, displays a different image for each of the four different button states:
 
 ```
 .s7mixedmediaviewer .s7spinbuttons .s7panleftbutton { 

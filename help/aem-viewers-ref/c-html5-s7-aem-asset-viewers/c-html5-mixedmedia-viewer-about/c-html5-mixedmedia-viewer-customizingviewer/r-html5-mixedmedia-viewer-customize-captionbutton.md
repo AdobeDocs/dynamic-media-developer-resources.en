@@ -1,7 +1,7 @@
 ---
+title: Caption button
 description: Toggles the closed caption display on and off. It is not visible if the caption parameter is not specified. You can use CSS to size, skin, and position this button relative to the control bar that contains it.
 solution: Experience Manager
-title: Caption button
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 62809036-f158-402d-a8b2-2b9335e8c079
@@ -69,7 +69,7 @@ The appearance of the button is controlled with the following CSS class selector
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-mixedmedia-viewer-about/c-html5-mixedmedia-viewer-localization.md#concept-16262b8096474d6c9c018c3e99110dd1) for more information.
 
-Example - to set up a closed caption button that is 28 x 28 pixels, positioned four pixels from the top and 68 pixels from the right edge of the control bar, and displays a different image for each of the four different button states when selected or not selected.
+Example - To set up a Closed Caption button that is 28 x 28 pixels, positioned four pixels from the top, and 68 pixels from the right edge of the control bar. And finally, displays a different image for each of the four different button states when selected or not selected.
 
 ```
 .s7mixedmediaviewer .s7closedcaptionbutton { 

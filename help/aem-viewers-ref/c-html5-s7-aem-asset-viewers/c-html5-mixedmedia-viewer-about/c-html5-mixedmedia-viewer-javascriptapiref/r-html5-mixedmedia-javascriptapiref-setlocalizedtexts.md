@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Mixed Media Viewer.
-
-
-solution: Experience Manager
 title: setLocalizedTexts
-
+description: JavaScript API reference for Mixed Media Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 19bc61be-4321-434a-ae2c-4576c7799c0a

@@ -1,7 +1,7 @@
 ---
+title: Spin view icon effect
 description: The spin indicator is overlaid on the spin view area. It is displayed when the image is in a reset state and it also depends on the iconeffect parameter.
 solution: Experience Manager
-title: Spin view icon effect
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 1c5c73f9-c32a-4bca-93f0-c5a95756355b
@@ -47,9 +47,9 @@ The appearance of the viewing area is controlled with the following CSS class se
  </tbody> 
 </table>
 
-Spin indicator supports the `state` attribute selector which is set to `spin_1D` in case of single-dimensional spin set and to `spin_2D` in case of multi-dimensional spin set.
+Spin indicator supports the `state` attribute selector which is set to `spin_1D` if there is a single-dimensional spin set and to `spin_2D` if there is a multi-dimensional spin set.
 
-Example - to set up a 100 x 100 pixels zoom indicator.
+Example - To set up a 100 x 100 pixels zoom indicator.
 
 ```
 .s7mixedmediaviewer .s7spinview .s7iconeffect { 

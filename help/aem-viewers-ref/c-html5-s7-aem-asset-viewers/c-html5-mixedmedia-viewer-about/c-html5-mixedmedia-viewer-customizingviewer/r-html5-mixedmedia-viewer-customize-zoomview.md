@@ -1,14 +1,14 @@
 ---
-description: In continuous zoom mode, main view consists of the zoomable image when the current asset is a single image..
-solution: Experience Manager
 title: Zoom view
+description: In continuous zoom mode, main view consists of the zoomable image when the current asset is a single image.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 0252436b-ba96-4273-b796-d1772fc093b0
 ---
 # Zoom view{#zoom-view}
 
-In continuous zoom mode, main view consists of the zoomable image when the current asset is a single image..
+In continuous zoom mode, main view consists of the zoomable image when the current asset is a single image.
 
 <!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
@@ -47,7 +47,7 @@ Example - to make the zoom view transparent.
 }
 ```
 
-On desktop systems the component supports `cursortype` attribute selector which can be applied to the `.s7zoomview` class. It controls the type of the cursor based on component state and user action. The following `cursortype` values are supported:
+On desktop systems, the component supports `cursortype` attribute selector which can be applied to the `.s7zoomview` class. It controls the type of the cursor based on component state and user action. The following `cursortype` values are supported:
 
 * `default`
 

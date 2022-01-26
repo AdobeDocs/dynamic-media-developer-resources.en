@@ -1,7 +1,7 @@
 ---
+title: Full screen button
 description: This button causes the viewer to enter or exit full screen mode when selected by the user. It is used when the viewer is displaying images or spin sets. This button is not displayed if the viewer works in pop-up mode and the system does not support native full screen. You can size, skin, and position this button by using CSS.
 solution: Experience Manager
-title: Full screen button
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 1df99614-9493-4c8a-bc51-4426b8c5467a
@@ -69,7 +69,7 @@ The appearance of the button is controlled with the following CSS class selector
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-mixedmedia-viewer-about/c-html5-mixedmedia-viewer-localization.md#concept-16262b8096474d6c9c018c3e99110dd1) for more information.
 
-Example - to set up a full screen button that is 32 x 32 pixels, positioned six pixels from the top and right edge of the viewer, and displays a different image for each of the four different button states when selected or not selected:
+Example - To set up a full screen button that is 32 x 32 pixels, and positioned six pixels from the top and right edge of the viewer. And finally, displays a different image for each of the four different button states when selected or not selected:
 
 ```
 .s7mixedmediaviewer .s7fullscreenbutton { 

@@ -1,7 +1,7 @@
 ---
+title: Video scrubber
 description: The video scrubber is the horizontal slider control that lets a user dynamically seek to any time position within the currently playing video.
 solution: Experience Manager
-title: Video scrubber
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 3e9c8800-fda2-41d1-8436-b2de7952652c
@@ -12,7 +12,7 @@ The video scrubber is the horizontal slider control that lets a user dynamically
 
 <!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
-The scrubber 'knob' also moves as the video plays to indicate the current time position of the video during playback. The video scrubber always takes the whole width of the control bar. It is possible to skin the video scrubber. change its height and vertical position, by CSS.
+The scrubber 'knob' also moves as the video plays to indicate the current time position of the video during playback. The video scrubber always takes the whole width of the control bar. It is possible to skin the video scrubber, and change its height and vertical position, by using CSS.
 
 The general appearance of the video scrubber is controlled with the following CSS class selector:
 
@@ -154,7 +154,7 @@ The video scrubber tool tip can be localized. See [Localization of user interfac
 
 ## Example {#section-e8caea0a303c425a8a637c2a47c06355}
 
-To set up a mixed media viewer with a video scrubber with custom track colors that is 10 pixels tall, and positioned 10 pixels and 35 pixels from the top and left edges of the control bar.
+Set up a mixed media viewer with a video scrubber with custom track colors that is 10 pixels tall, and positioned 10 pixels and 35 pixels from the top and left edges of the control bar.
 
 ```
 .s7mixedmediaviewer .s7videoscrubber  { 

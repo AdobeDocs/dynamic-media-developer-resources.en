@@ -1,7 +1,7 @@
 ---
+title: getComponent
 description: JavaScript API reference for Mixed Media Viewer
 solution: Experience Manager
-title: getComponent
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 0dc6ad78-1044-4495-9414-53900302b8c0
@@ -117,13 +117,13 @@ Returns a reference to the Viewer SDK component that is used by the viewer. The 
  </tbody> 
 </table>
 
-When working with SDK APIs it is important to use correct, fully qualified SDK namespace as described in [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-mixedmedia-viewer-about/c-html5-mixedmedia-viewer-localization.md#concept-16262b8096474d6c9c018c3e99110dd1).
+When working with SDK APIs, it is important to use correct and fully qualified SDK namespace as described in [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-mixedmedia-viewer-about/c-html5-mixedmedia-viewer-localization.md#concept-16262b8096474d6c9c018c3e99110dd1).
 
 See the Viewer SDK API documentation for more information about a particular component.
 
 ## Returns {#section-1d3cf85bc7cc4dfe9670e038d02b9101}
 
-`{Object}` a reference to Viewer SDK component. The method returns `null` if the `componentId` is not a supported viewer component or if the component was not yet created by the viewer logic.
+`{Object}` A reference to Viewer SDK component. The method returns `null` if the `componentId` is not a supported viewer component or if the component was not yet created by the viewer logic.
 
 ## Example {#section-9e9332aa86b74a5fb321375c03fdc5b3}
 
