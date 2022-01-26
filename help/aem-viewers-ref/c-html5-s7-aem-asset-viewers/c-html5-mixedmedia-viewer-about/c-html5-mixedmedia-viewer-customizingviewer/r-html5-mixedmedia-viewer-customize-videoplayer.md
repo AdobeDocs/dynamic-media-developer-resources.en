@@ -1,7 +1,7 @@
 ---
+title: Video player
 description: The video player is the rectangular area where the video content is displayed within the viewer.
 solution: Experience Manager
-title: Video player
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 2f92d76e-3104-4ad8-9426-662275492251
@@ -80,7 +80,7 @@ Captions are put into internal container inside the video player. The position o
  </tbody> 
 </table>
 
-Example - To set up caption text to be 14 pixel light gray Arial on a semi-transparent black background:
+Example - To set up caption text to be 14 pixel light gray Arial® on a semi-transparent black background:
 
 ```
 .s7mixedmediaviewer .s7videoplayer .s7caption { 

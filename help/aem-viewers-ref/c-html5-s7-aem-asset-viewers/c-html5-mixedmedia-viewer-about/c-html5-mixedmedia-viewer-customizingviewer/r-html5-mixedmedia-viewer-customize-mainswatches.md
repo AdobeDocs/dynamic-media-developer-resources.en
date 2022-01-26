@@ -1,7 +1,7 @@
 ---
+title: Main swatches
 description: Main Swatches consist of a row of thumbnail images with optional scroll buttons on the left and right side. Scroll buttons are only visible on the desktop if all thumbnails cannot fit into the width of the container. On mobile devices, or if thumbnails can fit into the container width, scroll buttons are not shown.
 solution: Experience Manager
-title: Main swatches
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: e6ff32bf-f85a-4288-a0e5-34487229a9d9
@@ -139,7 +139,7 @@ The type of the asset is displayed as an icon overlaid on top of thumbnail image
  </tbody> 
 </table>
 
-The overlay supports the `type` attribute selector with the following possible values: `image` (for single images), `swatchset` (for swatch sets), `spinset` (for spin sets) and `video` (for single videos or adaptive video sets).
+The overlay supports the `type` attribute selector with the following possible values: `image` (for single images), `swatchset` (for swatch sets), `spinset` (for spin sets), and `video` (for single videos or adaptive video sets).
 
 Example - to set up icon overlays for spin sets, swatch sets, and videos:
 

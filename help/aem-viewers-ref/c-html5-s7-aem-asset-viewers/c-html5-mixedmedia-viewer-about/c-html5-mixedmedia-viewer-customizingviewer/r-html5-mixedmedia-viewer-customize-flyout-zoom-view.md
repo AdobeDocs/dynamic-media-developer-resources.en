@@ -1,14 +1,14 @@
 ---
-description: In inline zoom mode main view consists of the static image, zoomed image shown in the flyout view over the static image and the tip message shown on top of static image.
-solution: Experience Manager
 title: Flyout Zoom View
+description: In inline zoom mode, the main view consists of the static image. It also consists of the zoomed image shown in the flyout view over the static image, and the tip message shown on top of static image.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 46c91d1f-5809-4270-a06d-5068d20a6341
 ---
 # Flyout Zoom View{#flyout-zoom-view}
 
-In inline zoom mode main view consists of the static image, zoomed image shown in the flyout view over the static image and the tip message shown on top of static image.
+In inline zoom mode, the main view consists of the static image. It also consists of the zoomed image shown in the flyout view over the static image, and the tip message shown on top of static image.
 
 <!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
@@ -100,7 +100,7 @@ It is possible to configure font style, size appearance, and vertical offset thr
 
 The tip message can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-mixedmedia-viewer-about/c-html5-mixedmedia-viewer-localization.md#concept-16262b8096474d6c9c018c3e99110dd1) for more information.
 
-Example - To set up semi-transparent tip message with white Arial 12px font, 50 pixels offset from the bottom of the main view, padding, and a rounded border:
+Example - To set up semi-transparent tip message with white Arial® 12-px font, 50 pixels offset from the bottom of the main view, padding, and a rounded border:
 
 ```
 .s7mixedmediaviewer .s7flyoutzoomview .s7tip { 

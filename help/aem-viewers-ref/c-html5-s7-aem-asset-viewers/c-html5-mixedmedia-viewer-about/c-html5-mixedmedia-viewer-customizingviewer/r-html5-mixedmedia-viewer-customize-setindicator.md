@@ -1,7 +1,7 @@
 ---
+title: Set indicator
 description: Set indicator is a series of dots rendered on top of main swatches when a viewer is used on a touch device. The dots help users to navigate through pages of thumbnails when scroll buttons are not available.
 solution: Experience Manager
-title: Set indicator
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 53ee058a-cb8c-4b1f-bb9b-caaecc12c947
@@ -35,7 +35,7 @@ The appearance of the set indicator container is controlled with the following C
  </tbody> 
 </table>
 
-Example - to set up set indicator with a white background:
+Example - To create a set indicator with a white background:
 
 ```
 .s7mixedmediaviewer .s7setindicator { 
@@ -94,7 +94,7 @@ The appearance of an individual set indicator dot is controlled with the CSS cla
 >
 >Set indicator dot supports the `state` attribute selector, which can be used to apply different skins to different thumbnail states. In particular, `state="selected"` corresponds to the current page of thumbnails, `state="unselected"` corresponds to the default dot state.
 
-Example - to set up set indicator dot to be 15 x 15 pixels, with two pixels horizontal margin, five pixels top margin, one pixel bottom margin, twelve pixels radius, #D5D3D3 default color, and #939393 active color:
+Example - To create a set indicator dot that is 15 x 15 pixels, with a two pixel horizontal margin, five pixel top margin, one pixel bottom margin, 12 pixels radius, #D5D3D3 default color, and #939393 active color:
 
 ```
 .s7mixedmediaviewer .s7setindicator .s7dot { 

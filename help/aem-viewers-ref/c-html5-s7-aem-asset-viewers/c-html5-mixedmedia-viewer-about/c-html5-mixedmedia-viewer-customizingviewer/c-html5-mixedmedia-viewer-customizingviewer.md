@@ -1,8 +1,8 @@
 ---
+title: Customizing Mixed Media Viewer
 description: All visual customization and most behavior customization for the Mixed Media Viewer is done by creating a custom CSS.
 keywords: responsive
 solution: Experience Manager
-title: Customizing Mixed Media Viewer
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 3bea8efb-faf8-4909-b51a-0b9964fcd735
@@ -25,25 +25,25 @@ Custom CSS file must contain the same class declarations as the default one. If 
 
 Alternative way to provide custom CSS rules is to use embedded styles directly on the web page or in one of linked external CSS rules.
 
-When creating custom CSS keep in mind that the viewer assigns `.s7mixedmediaviewer` class to its container DOM element. If you are using external CSS file passed with `style=` command, use `.s7mixedmediaviewer` class as parent class in descendant selector for your CSS rules. If you are doing embedded styles on the web page, additionally qualify this selector with an ID of the container DOM element as follows:
+When you create custom CSS, keep in mind that the viewer assigns `.s7mixedmediaviewer` class to its container DOM element. If you are using external CSS file passed with `style=` command, use `.s7mixedmediaviewer` class as parent class in descendant selector for your CSS rules. If you are doing embedded styles on the web page, also qualify this selector with an ID of the container DOM element as follows:
 
 `#<containerId>.s7mixedmediaviewer`
 
 ## Building responsive designed CSS {#section-0bb49aca42d242d9b01879d5ba59d33b}
 
-It is possible to target different devices and embedding sizes in CSS to make your content display differently, depending on a user's device or a particular web page layout. This includes, but is not limited to, different web page layouts, user interface element sizes, and artwork resolution.
+It is possible to target different devices and embedding sizes in CSS to make your content display differently, depending on a user's device or a particular web page layout. This method includes, but is not limited to, different web page layouts, user interface element sizes, and artwork resolution.
 
 The viewer supports two methods for creating responsive designed CSS: CSS markers and standard CSS media queries. You can use these methods independently or together.
 
 **CSS markers**
 
-To assist in creating responsive designed CSS, the viewer supports CSS markers which special CSS classes dynamically assigned to the top-level viewer container element based on the run-time viewer size and the input type used on the current device.
+To help you create responsive designed CSS, the viewer supports CSS markers which special CSS classes dynamically assigned to the top-level viewer container element. It does so based on the run-time viewer size and the input type used on the current device.
 
-The first group of CSS markers includes `.s7size_large`, `.s7size_medium`, and `.s7size_small` classes. They are applied based on the runtime area of the viewer container. That is, if the viewer area is equal to or bigger than the size of a common desktop monitor `.s7size_large` is used; if the area is close in size to a common tablet device `.s7size_medium` is assigned. For areas similar to mobile phone screens `.s7size_small` is set. The primary purpose of these CSS markers is to create different user interface layouts for different screens and viewer sizes.
+The first group of CSS markers includes `.s7size_large`, `.s7size_medium`, and `.s7size_small` classes. They are applied based on the runtime area of the viewer container. That is, if the viewer area is equal to or bigger than the size of a common desktop monitor `.s7size_large` is used; if the area is close in size to a common tablet device `.s7size_medium` is assigned. For areas similar to mobile phone screens, `.s7size_small` is set. The primary purpose of these CSS markers is to create different user interface layouts for different screens and viewer sizes.
 
-The second group of CSS Markers includes `.s7mouseinput` and `.s7touchinput`. `.s7touchinput` is set if the current device has touch input capabilities; otherwise, `.s7mouseinput` is used. These markers are intended to create user interface input elements with different screen sizes for different input types, because normally touch input requires larger elements. In case the device has both mouse input and touch capabilities, `.s7touchinput` is set and the viewer renders a touch-friendly user interface.
+The second group of CSS Markers includes `.s7mouseinput` and `.s7touchinput`. The `.s7touchinput` class is set if the current device has touch input capabilities; otherwise, `.s7mouseinput` is used. These markers are intended to create user interface input elements with different screen sizes for different input types, because normally touch input requires larger elements. In case the device has both mouse input and touch capabilities, `.s7touchinput` is set and the viewer renders a touch-friendly user interface.
 
-The following sample CSS sets the zoom in button size to 28 x 28 pixels on systems with mouse input, and 56 x 56 pixels on touch devices. In addition, it hides the button completely if the viewer size becomes really small:
+The following sample CSS sets the zoom in button size to 28 x 28 pixels on systems with mouse input, and 56 x 56 pixels on touch devices. In addition, it hides the button completely if the viewer size becomes small:
 
 ```
 .s7mixedmediaviewer.s7mouseinput .s7zoominbutton { 
@@ -59,7 +59,7 @@ The following sample CSS sets the zoom in button size to 28 x 28 pixels on syste
 }
 ```
 
-To target devices with a different pixel density, use CSS media queries. The following media query block would contain CSS that is specific to high density screens:
+To target devices with a different pixel density, use CSS media queries. The following media query block would contain CSS that is specific to high-density screens:
 
 ```
 @media screen and (-webkit-min-device-pixel-ratio: 1.5) 
@@ -67,7 +67,7 @@ To target devices with a different pixel density, use CSS media queries. The fol
 }
 ```
 
-Using CSS markers is the most flexible way of building responsive designed CSS as it allows you to target not only device screen size but actual viewer size, which may be useful for responsive design page layouts.
+Using CSS markers is the most flexible way of building responsive designed CSS. The reason is because it lets you target not only device screen size but actual viewer size, which may be useful for responsive design page layouts.
 
 Use the default viewer CSS file as an example of a CSS markers approach.
 
@@ -88,7 +88,7 @@ When applied to Mobile Viewers, use four CSS media queries, defined in your CSS 
    }
    ```
 
-1. Contains only rules specific for tablets with high resolution screens.
+1. Contains only rules specific for tablets with high-resolution screens.
 
    ```
    @media only screen and (max-device-width:13.5in) and (max-device-height:13.5in) and (max-device-width:799px) and (-webkit-min-device-pixel-ratio:1.5), 
@@ -105,7 +105,7 @@ When applied to Mobile Viewers, use four CSS media queries, defined in your CSS 
    }
    ```
 
-1. Contains only rules specific for mobile phones with high resolution screens.
+1. Contains only rules specific for mobile phones with high-resolution screens.
 
    ```
    @media only screen and (max-device-width:9in) and (max-device-height:9in) and (-webkit-min-device-pixel-ratio: 1.5), 
@@ -145,7 +145,7 @@ background-image:url(images/v2/ZoomInButton_dark_disabled.png);
 
 The drawback to this approach is that the end user experiences flickering or delayed user interface response when the element is interacted with for the first time. This action occurs because the image artwork for the new element state is not yet downloaded. Also, this approach may have a slight negative impact on performance because of an increase in the number of HTTP calls to the server.
 
-CSS sprites is a different approach where image artwork for all element states is combined into a single PNG file called a "sprite". Such "sprite" has all visual states for the given element positioned one after another. When styling a user interface element with sprites the same sprite image is referenced for all different states in the CSS. Also, the `background-position` property is used for each state to specify which part of the "sprite" image is used. You can structure a "sprite" image in any suitable way. Viewers normally have it vertically stacked. Below is a "sprite"-based example of styling the same zoom-in button from above:
+CSS sprites is a different approach where image artwork for all element states is combined into a single PNG file called a "sprite". Such "sprite" has all visual states for the given element positioned one after another. When styling a user interface element with sprites, the same sprite image is referenced for all different states in the CSS. Also, the `background-position` property is used for each state to specify which part of the "sprite" image is used. You can structure a "sprite" image in any suitable way. Viewers normally have it vertically stacked. Below is a "sprite"-based example of styling the same zoom-in button from above:
 
 ```
 .s7mixedmediaviewer .s7zoominbutton[state]  { 
@@ -176,7 +176,7 @@ background-position: -0px -560px;
 * To remove a button from the user interface, add `display:none` to its CSS class. 
 * You can use various formats for color value that CSS supports. If you need transparency, use the format `rgba(R,G,B,A)`. Otherwise, you can use the format `#RRGGBB`. 
 
-* When customizing the viewer user interface with CSS the use of the `!IMPORTANT` rule is not supported to style viewer elements. In particular, `!IMPORTANT` rule should not be used to override any default or run-time styling provided by the viewer or Viewer SDK. The reason is that it may affect the behavior of proper components. Instead, you should use CSS selectors with the proper specificity to set CSS properties that are documented in this reference guide.
+* When customizing the viewer user interface with CSS, the use of the `!IMPORTANT` rule is not supported to style viewer elements. In particular, `!IMPORTANT` rule should not be used to override any default or run-time styling provided by the viewer or Viewer SDK. The reason is that it may affect the behavior of proper components. Instead, you should use CSS selectors with the proper specificity to set CSS properties that are documented in this reference guide.
 
 ## Common User Interface Elements {#section-d6330c9be8c444aa9b2a07886e3dbc2a}
 

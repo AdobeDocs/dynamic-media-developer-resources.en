@@ -1,14 +1,14 @@
 ---
+title: Zoom out button
 description: Clicking or tapping this button zooms out on an image in the main view. This button does not display on mobile phones in order to save screen real estate. You can size, skin, and position this button by using CSS.
 solution: Experience Manager
-title: Zoom out button
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 3e464e02-bcff-4ddc-b47c-84d0eee7f779
 ---
 # Zoom out button{#zoom-out-button}
 
-Clicking or tapping this button zooms out on an image in the main view. This button does not display on mobile phones in order to save screen real estate. You can size, skin, and position this button by using CSS.
+Selecting this button zooms out on an image in the main view. This button does not display on mobile phones in order to save screen real estate. You can size, skin, and position this button by using CSS.
 
 <!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
@@ -69,7 +69,7 @@ The appearance of the button is controlled with the following CSS class selector
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-mixedmedia-viewer-about/c-html5-mixedmedia-viewer-localization.md#concept-16262b8096474d6c9c018c3e99110dd1) for more information.
 
-Example - to set up a zoom out button that is 32 x 32 pixels, positioned six pixels from the top and right edge of the viewer, and displays a different image for each of the four different button states.
+Example - To set up a zoom out button that is 32 x 32 pixels, and positioned six pixels from the top and right edge of the viewer. And finally, displays a different image for each of the four different button states.
 
 ```
 .s7mixedmediaviewer .s7zoomoutbutton { 
