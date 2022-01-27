@@ -1,10 +1,7 @@
 ---
-description: Configures how the component fetches new images for the main and flyout view during resize.
-
-
-solution: Experience Manager
 title: FlyoutZoomView.imagereload
-
+description: Configures how the component fetches new images for the main and flyout view during resize.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 1bb57c89-4ceb-40d6-8054-d51c1573431c
@@ -23,7 +20,7 @@ Configures how the component fetches new images for the main and flyout view dur
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> breakpoint, <span class="varname"> width </span>[; <span class="varname"> width </span>] </span> </p> </td> 
-   <td colname="col2"> <p>Width breakpoints for the image loaded into main view. The component will always use best fit size for the initial load. After resize it will ensure that the image in main view is always downloaded with the width equal to closest bigger breakpoint, and downscaled on the client. </p> </td> 
+   <td colname="col2"> <p>Width breakpoints for the image loaded into main view. The component always uses best fit size for the initial load. After resize it ensures that the image in main view is always downloaded with the width equal to closest bigger breakpoint, and downscaled on the client. </p> </td> 
   </tr> 
  </tbody> 
 </table>

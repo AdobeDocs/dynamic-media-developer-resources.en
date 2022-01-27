@@ -1,7 +1,7 @@
 ---
+title: VideoPlayer.ssl
 description: Configuration attribute for Mixed Media Video Viewer.
 solution: Experience Manager
-title: VideoPlayer.ssl
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 5fd3aa39-edb0-4434-aa5f-e511c84cf950
@@ -20,7 +20,7 @@ Configuration attribute for Mixed Media Video Viewer.
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> auto|on</span> </p> </td> 
-   <td colname="col2"> <p> Controls whether the video is delivered over a secure SSL connection (HTTPS) or an insecure connection(HTTP). </p> <p>When set to <span class="codeph"> auto</span> the video delivery protocol is inherited from the protocol of the embedding web page. If the web page is loaded over HTTPS, the video is also delivered over HTTPS, and vice versa. If the web page is on HTTP, the video is delivered over HTTP. </p> <p>When set to <span class="codeph"> on</span>, video delivery always occurs over a secure connection without regard to the web page protocol. </p> <p>Affects published video delivery only and is ignored for video preview in Author mode. </p> </td> 
+   <td colname="col2"> <p> Controls whether the video is delivered over a secure SSL connection (HTTPS) or an insecure connection(HTTP). </p> <p>When set to <span class="codeph"> auto</span> the video delivery protocol is inherited from the protocol of the embedding web page. If the web page is loaded over HTTPS, the video is also delivered over HTTPS, and conversely. If the web page is on HTTP, the video is delivered over HTTP. </p> <p>When set to <span class="codeph"> on</span>, video delivery always occurs over a secure connection without regard to the web page protocol. </p> <p>Affects published video delivery only and is ignored for video preview in Author mode. </p> </td> 
   </tr> 
  </tbody> 
 </table>

@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Spin Viewer.
-
-
-solution: Experience Manager
 title: setAsset
-
+description: JavaScript API reference for Spin Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,User
 exl-id: c94c8db4-d448-4c1c-875a-3a33a03f7dd8

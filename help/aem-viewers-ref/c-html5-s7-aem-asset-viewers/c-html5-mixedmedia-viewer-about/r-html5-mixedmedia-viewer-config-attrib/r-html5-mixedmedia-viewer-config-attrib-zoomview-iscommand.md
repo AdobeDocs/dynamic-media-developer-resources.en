@@ -1,8 +1,7 @@
 ---
+title: ZoomView.iscommand
 description: ZoomView.iscommand
 solution: Experience Manager
-title: ZoomView.iscommand
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: faa6344a-a0b5-4b27-818b-81e9e0b721b4

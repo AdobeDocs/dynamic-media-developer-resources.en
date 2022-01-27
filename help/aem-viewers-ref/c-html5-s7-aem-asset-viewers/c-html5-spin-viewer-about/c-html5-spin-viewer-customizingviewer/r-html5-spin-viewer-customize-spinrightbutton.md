@@ -1,10 +1,7 @@
 ---
-description: Clicking or tapping this button spins the image to the right in main view. This button is not displayed on mobile phones in order to save screen real estate. Also, the button is hidden when a multi-dimensional spin set is used. You can size, skin, and position the button using CSS.
-
-
-solution: Experience Manager
 title: Spin right button
-
+description: Clicking or tapping this button spins the image to the right in main view. This button is not displayed on mobile phones in order to save screen real estate. Also, the button is hidden when a multi-dimensional spin set is used. You can size, skin, and position the button using CSS.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,User
 exl-id: 312260ae-8604-49a1-9874-3650919d91ab
@@ -113,7 +110,7 @@ The appearance of this button inside the container is controlled with the CSS cl
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-spin-viewer-about/c-html5-spin-viewer-localization.md#concept-e35c15c9e82648328806cdc6aa255d98) for more information.
 
-Example - to set up a spin right button that is 28 x 28 pixels, that is positioned on the right edge of inner container, and that displays a different image for each of the four different button states:
+Example - To set up a spin right button that is 28 x 28 pixels, and positioned on the right edge of inner container. And finally, displays a different image for each of the four different button states:
 
 ```
 .s7spinviewer .s7spinbuttons .s7panrightbutton { 

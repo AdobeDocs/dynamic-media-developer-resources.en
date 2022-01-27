@@ -1,8 +1,7 @@
 ---
+title: VideoPlayer.singleclick
 description: VideoPlayer.singleclick
 solution: Experience Manager
-title: VideoPlayer.singleclick
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 2ec6d871-05d9-4d85-b031-e64386f5d2e9

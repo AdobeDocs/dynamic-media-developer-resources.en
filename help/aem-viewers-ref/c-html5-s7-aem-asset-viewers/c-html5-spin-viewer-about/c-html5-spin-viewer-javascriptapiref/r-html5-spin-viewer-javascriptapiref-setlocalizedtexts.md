@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Spin Viewer.
-
-
-solution: Experience Manager
 title: setLocalizedTexts
-
+description: JavaScript API reference for Spin Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,User
 exl-id: 840c7e13-8998-4479-b0fc-f96a615a0a58

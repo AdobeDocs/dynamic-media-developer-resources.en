@@ -1,8 +1,7 @@
 ---
+title: ZoomView.reset
 description: ZoomView.reset
 solution: Experience Manager
-title: ZoomView.reset
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 95bf90d1-071e-467a-87aa-122911125233
@@ -15,7 +14,7 @@ exl-id: 95bf90d1-071e-467a-87aa-122911125233
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> 0|1</span> </p> </td> 
-   <td colname="col2"> <p> Resets the view port when frame (image) changes. If set to <span class="codeph"> 0</span> it preserves the current view port with the best possible fit while preserving the aspect ratio of the newly set image. </p> </td> 
+   <td colname="col2"> <p> Resets the view port when frame (image) changes. If set to <span class="codeph"> 0</span>, it preserves the current view port with the best possible fit while preserving the aspect ratio of the newly set image. </p> </td> 
   </tr> 
  </tbody> 
 </table>

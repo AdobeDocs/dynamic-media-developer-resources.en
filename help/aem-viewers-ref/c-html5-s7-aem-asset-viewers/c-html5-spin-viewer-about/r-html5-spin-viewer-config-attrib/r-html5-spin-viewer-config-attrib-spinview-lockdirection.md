@@ -1,8 +1,7 @@
 ---
+title: SpinView.lockdirection
 description: SpinView.lockdirection
 solution: Experience Manager
-title: SpinView.lockdirection
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,User
 exl-id: e29ba926-9e0e-4ddd-9f76-408f8ab3b4ca
@@ -15,7 +14,7 @@ exl-id: e29ba926-9e0e-4ddd-9f76-408f8ab3b4ca
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> 0|1 </span> </p> </td> 
-   <td colname="col2"> <p> Specifies whether to allow a change in the spin direction in case of 2D spin set. </p> <p>When set to <span class="codeph"> 1 </span>, the component identifies the primary drag or swipe direction (horizontal versus vertical) at the start of the gesture. After that, it maintains that direction until the gesture ends. For example, if the user starts a horizontal spin and then decides to continue their drag gesture in a vertical direction, the component does not perform a vertical spin; instead, it considers only the horizontal movement of the mouse or swipe. </p> <p>A value of <span class="codeph"> 0 </span> lets a user change the spin direction at any time during the gesture progress. The setting has no affect if the spin set is 1D. </p> </td> 
+   <td colname="col2"> <p> Specifies whether to allow a change in the spin direction if there is 2D spin set. </p> <p>When set to <span class="codeph"> 1 </span>, the component identifies the primary drag or swipe direction (horizontal versus vertical) at the start of the gesture. After that, it maintains that direction until the gesture ends. For example, if the user starts a horizontal spin and then decides to continue their drag gesture in a vertical direction, the component does not perform a vertical spin. Instead, it considers only the horizontal movement of the mouse or swipe. </p> <p>A value of <span class="codeph"> 0 </span> lets a user change the spin direction at any time during the gesture progress. The setting has no effect if the spin set is 1D. </p> </td> 
   </tr> 
  </tbody> 
 </table>

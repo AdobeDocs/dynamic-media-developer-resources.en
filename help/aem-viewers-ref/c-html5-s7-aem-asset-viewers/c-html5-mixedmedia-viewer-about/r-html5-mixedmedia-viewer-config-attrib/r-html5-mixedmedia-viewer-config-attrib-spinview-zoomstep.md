@@ -1,8 +1,7 @@
 ---
+title: SpinView.zoomstep
 description: SpinView.zoomstep
 solution: Experience Manager
-title: SpinView.zoomstep
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: afc2018f-b222-4fd5-b9dc-88655793efd4

@@ -1,10 +1,7 @@
 ---
-description: Configuration attribute for Mixed Media Video Viewer.
-
-
-solution: Experience Manager
 title: VideoPlayer.loop
-
+description: Configuration attribute for Mixed Media Video Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 4945291d-0906-4f2d-b8d9-0bf542dc6804

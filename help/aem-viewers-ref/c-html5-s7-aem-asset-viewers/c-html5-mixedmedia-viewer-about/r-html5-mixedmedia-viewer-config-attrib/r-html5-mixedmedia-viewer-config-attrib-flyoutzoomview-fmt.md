@@ -1,10 +1,7 @@
 ---
-description: Specifies the image format that the component uses for loading images from Image Server.
-
-
-solution: Experience Manager
 title: FlyoutZoomView.fmt
-
+description: Specifies the image format that the component uses for loading images from Image Server.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 6e3bf609-eae7-4db9-b922-cba3a9f7634b
@@ -19,7 +16,7 @@ Specifies the image format that the component uses for loading images from Image
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> jpg|jpeg|png|png-alpha|gif|gif-alpha</span> </p> </td> 
-   <td colname="col2"> <p> If the specified format ends with <span class="codeph"> -alpha</span>, the component renders images as transparent content. For all other image formats, the component treats images as opaque. </p> <p>Note that the component has a white background by default. Therefore, to make it completely transparent, set the <span class="codeph"> background-color</span> CSS property to <span class="codeph"> transparent</span>. </p> </td> 
+   <td colname="col2"> <p> If the specified format ends with <span class="codeph"> -alpha</span>, the component renders images as transparent content. For all other image formats, the component treats images as opaque. </p> <p>The component has a white background by default. Therefore, to make it transparent, set the <span class="codeph"> background-color</span> CSS property to <span class="codeph"> transparent</span>. </p> </td> 
   </tr> 
  </tbody> 
 </table>

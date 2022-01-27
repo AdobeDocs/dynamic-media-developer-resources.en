@@ -1,14 +1,14 @@
 ---
-description: Certain content that the Mixed Media Viewer displays is subject to localization. This includes zoom buttons, spin buttons, video controls, close button full screen button and swatch scroll buttons.
-solution: Experience Manager
 title: Localization of user interface elements
+description: Certain content that the Mixed Media Viewer displays is subject to localization. This guideline includes zoom buttons, spin buttons, video controls, close button, full screen button, and swatch scroll buttons.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 119d8dde-145b-4762-a1ab-882a29e0f6a6
 ---
 # Localization of user interface elements{#localization-of-user-interface-elements}
 
-Certain content that the Mixed Media Viewer displays is subject to localization. This includes zoom buttons, spin buttons, video controls, close button full screen button and swatch scroll buttons.
+Certain content that the Mixed Media Viewer displays is subject to localization. This guideline includes zoom buttons, spin buttons, video controls, close button, full screen button, and swatch scroll buttons.
 
 Every textual content in the viewer that can be localized is represented by a special Viewer SDK identifier called SYMBOL. Any SYMBOL has a default associated text value for the English locale ( `"en"`) supplied with the out-of-the-box viewer. It may also have user-defined values set for as many locales as needed.
 
@@ -48,7 +48,7 @@ The following SYMBOLs are supported:
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> Container.LABEL </span> </p> </td> 
-   <td colname="col2"> <p>ARIA label for top level viewer element. </p> </td> 
+   <td colname="col2"> <p>ARIA label for top-level viewer element. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> ZoomView.ROLE_DESCRIPTION </span> </p> </td> 

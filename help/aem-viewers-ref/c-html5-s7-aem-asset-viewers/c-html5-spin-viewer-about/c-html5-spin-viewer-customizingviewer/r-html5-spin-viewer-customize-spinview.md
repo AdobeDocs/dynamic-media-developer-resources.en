@@ -1,10 +1,7 @@
 ---
-description: Main view consists of the spin image.
-
-
-solution: Experience Manager
 title: Spin view
-
+description: Main view consists of the spin image.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,User
 exl-id: d3274fe3-1a47-448e-acc6-6df77c6a4211
@@ -38,7 +35,7 @@ The appearance of the viewing area is controlled with the following CSS class se
  </tbody> 
 </table>
 
-Example - to make the main view transparent.
+Example - To make the main view transparent.
 
 ```
 .s7spinviewer .s7spinview { 

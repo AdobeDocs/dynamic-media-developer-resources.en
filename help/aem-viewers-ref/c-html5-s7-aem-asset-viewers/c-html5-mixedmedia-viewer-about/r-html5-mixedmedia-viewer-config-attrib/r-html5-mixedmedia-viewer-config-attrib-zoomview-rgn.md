@@ -1,8 +1,7 @@
 ---
+title: ZoomView.rgn
 description: ZoomView.rgn
 solution: Experience Manager
-title: ZoomView.rgn
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: b5ac5c43-3a02-4163-8683-db08e988223b
@@ -15,7 +14,7 @@ exl-id: b5ac5c43-3a02-4163-8683-db08e988223b
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> x</span>,<span class="codeph"> y</span>,<span class="codeph"> w</span>,<span class="codeph"> h</span> </p> </td> 
-   <td colname="col2"> <p> Initial region of interest in pixel coordinates. If this is not specified, the entire image is fit within the initial viewport. </p> </td> 
+   <td colname="col2"> <p> Initial region of interest in pixel coordinates. If this value is not specified, the entire image is fit within the initial viewport. </p> </td> 
   </tr> 
  </tbody> 
 </table>

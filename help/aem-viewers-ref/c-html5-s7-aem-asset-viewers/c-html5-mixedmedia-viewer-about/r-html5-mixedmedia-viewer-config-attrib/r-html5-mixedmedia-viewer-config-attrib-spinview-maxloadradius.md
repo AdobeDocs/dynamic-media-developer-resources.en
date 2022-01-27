@@ -1,10 +1,7 @@
 ---
-description: Represents the maximum number of frames to preload in each direction when the SpinView is idle.
-
-
-solution: Experience Manager
 title: SpinView.maxloadradius
-
+description: Represents the maximum number of frames to preload in each direction when the SpinView is idle.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: e64fcd95-9660-4c1f-91b2-3ffc5a7493ce
@@ -23,7 +20,7 @@ Represents the maximum number of frames to preload in each direction when the Sp
   </tr> 
   <tr> 
    <td colname="col1"> <p><span class="codeph"><span class="varname"> highRes</span></span> </p> </td> 
-   <td colname="col2"> <p> Controls the quality of preloaded frames. </p> <p>When set to <span class="codeph"> 1</span> the frames load in high-quality, matching the size of the component. </p> <p>When set to <span class="codeph"> 0</span> only the low-resolution preview tile is loaded. </p> <p>Preloading in high resolution improves end user experience, especially when auto-spin is enabled. At the same time, it results in slower start time and higher network consumption, so it should be used with care. When high-resolution preload is used, the preloaded frames are always in the original resolution at which the component was initially loaded. </p> </td> 
+   <td colname="col2"> <p> Controls the quality of preloaded frames. </p> <p>When set to <span class="codeph"> 1</span> the frames load in high-quality, matching the size of the component. </p> <p>When set to <span class="codeph"> 0</span> only the low-resolution preview tile is loaded.</p> <p>Preloading in high resolution improves a user's experience, especially when auto-spin is enabled. At the same time, it results in slower start time and higher network consumption, so it should be used with care. When high-resolution preload is used, the preloaded frames are always in the original resolution at which the component was initially loaded. </p> </td> 
   </tr> 
  </tbody> 
 </table>

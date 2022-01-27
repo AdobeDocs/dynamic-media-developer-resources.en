@@ -1,8 +1,7 @@
 ---
+title: SpinView.singleclick
 description: SpinView.singleclick
 solution: Experience Manager
-title: SpinView.singleclick
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 18c5c21d-af31-4b1c-ab8b-c04d08650123
@@ -26,7 +25,7 @@ Optional.
 
 ## Default {#section-bd374ffc5182484faa77a7a3c8fa70f2}
 
-`zoomReset` on desktop computers; `none` on touch devices.
+`zoomReset` On desktop computers; `none` on touch devices.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 

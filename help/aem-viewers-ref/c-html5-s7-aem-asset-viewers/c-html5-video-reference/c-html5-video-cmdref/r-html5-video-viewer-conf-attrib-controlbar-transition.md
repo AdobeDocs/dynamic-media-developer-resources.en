@@ -1,10 +1,7 @@
 ---
-description: Configuration attribute for Video Viewer.
-
-
-solution: Experience Manager
 title: ControlBar.transition
-
+description: Configuration attribute for Video Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,User
 exl-id: 133717c7-38d9-47b6-86bb-e23ebd8f147a
@@ -23,7 +20,7 @@ Configuration attribute for Video Viewer.
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> delaytohide</span> </span> </p> </td> 
-   <td colname="col2"> <p>Specifies the time in seconds between the last mouse/touch event that the control bar registers and the time control bar hides. </p> <p> If set to <span class="codeph"> -1</span> the component never triggers its auto-hide effect and always stays visible on the screen. </p> </td> 
+   <td colname="col2"> <p>Specifies the time in seconds between the last mouse/touch event that the control bar registers, and the time that the control bar hides. </p> <p> If set to <span class="codeph"> -1</span>, the component never triggers its auto-hide effect and always stays visible on the screen. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> duration</span> </span> </p> </td> 

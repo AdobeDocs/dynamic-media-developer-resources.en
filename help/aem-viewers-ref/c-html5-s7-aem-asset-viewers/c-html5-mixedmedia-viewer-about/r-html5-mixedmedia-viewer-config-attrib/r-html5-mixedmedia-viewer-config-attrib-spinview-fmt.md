@@ -1,8 +1,7 @@
 ---
+title: SpinView.fmt
 description: SpinView.fmt
 solution: Experience Manager
-title: SpinView.fmt
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 4bb6c242-9f1a-440f-9fca-bf26e66e4114

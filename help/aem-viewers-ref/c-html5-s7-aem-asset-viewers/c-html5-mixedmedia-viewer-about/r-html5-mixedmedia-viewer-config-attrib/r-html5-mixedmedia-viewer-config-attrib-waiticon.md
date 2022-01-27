@@ -1,10 +1,7 @@
 ---
-description: Configuration attribute for Mixed Media Video Viewer.
-
-
-solution: Experience Manager
 title: VideoPlayer.waiticon
-
+description: Configuration attribute for Mixed Media Video Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 1adc823a-07d6-447f-9560-c737d3963eb9

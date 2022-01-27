@@ -1,10 +1,7 @@
 ---
-description: Certain content that the Spin Viewer displays is subject to localization, including zoom buttons and a full screen button.
-
-
-solution: Experience Manager
 title: Localization of user interface elements
-
+description: Certain content that the Spin Viewer displays is subject to localization, including zoom buttons and a full screen button.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,User
 exl-id: f4c0f16b-dbb9-4505-a3f2-d504ae21c3f0
@@ -51,7 +48,7 @@ The following SYMBOLs are supported:
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> Container.LABEL </span> </p> </td> 
-   <td colname="col2"> <p>ARIA label for top level viewer element. </p> </td> 
+   <td colname="col2"> <p>ARIA label for top-level viewer element. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> SpinView.ROLE_DESCRIPTION </span> </p> </td> 
