@@ -1,10 +1,7 @@
 ---
-description: The main view area is the area occupied by the spin image. It usually sets to fit the available device screen when no size is specified.
-
-
-solution: Experience Manager
 title: Main viewer area
-
+description: The main view area is the area occupied by the spin image. It usually sets to fit the available device screen when no size is specified.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,User
 exl-id: 6cd9c375-8890-4033-b187-b95b26dd6009

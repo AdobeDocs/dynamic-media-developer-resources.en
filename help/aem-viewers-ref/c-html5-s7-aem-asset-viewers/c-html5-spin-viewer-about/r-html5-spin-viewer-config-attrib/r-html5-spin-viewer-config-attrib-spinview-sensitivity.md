@@ -1,8 +1,7 @@
 ---
+title: SpinView.sensitivity
 description: SpinView.sensitivity
 solution: Experience Manager
-title: SpinView.sensitivity
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,User
 exl-id: 256cffae-d284-4f46-a2dc-4618ea7eda57
@@ -15,7 +14,7 @@ exl-id: 256cffae-d284-4f46-a2dc-4618ea7eda57
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"><span class="varname"> xSensitivity</span>[, <span class="varname"> ySensitivity</span>]</span> </p> </td> 
-   <td colname="col2"> <p> Controls the sensitivity of the horizontal and vertical spin performed with a mouse drag or swipe. </p> <p> <span class="codeph"> xSensitivity</span> sets how many full horizontal product rotations are made if the user drags their mouse horizontally from one side of the view to the other. For example, three means that the user sees three complete spins for one full drag gesture. </p> <p>Likewise, <span class="codeph"> ySensitivity</span> controls the sensitivity of the vertical spin. A value of 1 means that one full vertical drag or swipe changes the view angle from the top-most spin plane to the bottom-most (or vice versa). </p> <p>Setting a negative value for <span class="codeph"> ySensitivity</span> reverses the direction of the vertical spin. </p> </td> 
+   <td colname="col2"> <p> Controls the sensitivity of the horizontal and vertical spin performed with a mouse drag or swipe. </p> <p> <span class="codeph"> xSensitivity</span> sets how many full horizontal product rotations are made if the user drags their mouse horizontally from one side of the view to the other. For example, three means that the user sees three complete spins for one full drag gesture. </p> <p>Likewise, <span class="codeph"> ySensitivity</span> controls the sensitivity of the vertical spin. A value of 1 means that one full vertical drag or swipe changes the view angle from the top-most spin plane to the bottom-most (or conversely). </p> <p>Setting a negative value for <span class="codeph"> ySensitivity</span> reverses the direction of the vertical spin. </p> </td> 
   </tr> 
  </tbody> 
 </table>

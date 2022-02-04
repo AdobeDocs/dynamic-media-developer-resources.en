@@ -1,10 +1,7 @@
 ---
-description: Configuration attribute for Video Viewer.
-
-
-solution: Experience Manager
 title: VideoScrubber.timepattern
-
+description: Configuration attribute for Video Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,User
 exl-id: e0956a0b-4d82-475f-8990-8b059014233a

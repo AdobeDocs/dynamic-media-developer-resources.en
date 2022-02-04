@@ -1,8 +1,7 @@
 ---
+title: ZoomView.doubleclick
 description: ZoomView.doubleclick
 solution: Experience Manager
-title: ZoomView.doubleclick
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: e87981f8-8174-432a-89ea-fae74d0584ad
@@ -26,7 +25,7 @@ Optional.
 
 ## Default {#section-bd374ffc5182484faa77a7a3c8fa70f2}
 
-`reset` on desktop computers; `zoomReset` on touch devices.
+`reset` On desktop computers; `zoomReset` on touch devices.
 
 ## Example {#section-bd6c4249bccf44aab13fee8552f5a8b3}
 

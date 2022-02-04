@@ -1,8 +1,7 @@
 ---
+title: ZoomView.singleclick
 description: ZoomView.singleclick
 solution: Experience Manager
-title: ZoomView.singleclick
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 0fcc1f5c-a735-430d-be0c-c00ed08830df

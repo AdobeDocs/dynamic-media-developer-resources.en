@@ -1,8 +1,7 @@
 ---
+title: Swatches.textpos
 description: Swatches.textpos
 solution: Experience Manager
-title: Swatches.textpos
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 4b3b91f9-e564-462a-a4f3-494dd5511c26

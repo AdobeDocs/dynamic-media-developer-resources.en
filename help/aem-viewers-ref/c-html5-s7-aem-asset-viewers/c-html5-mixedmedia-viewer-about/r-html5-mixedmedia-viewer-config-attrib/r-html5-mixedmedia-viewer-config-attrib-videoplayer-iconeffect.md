@@ -1,8 +1,7 @@
 ---
+title: VideoPlayer.iconeffect
 description: VideoPlayer.iconeffect
 solution: Experience Manager
-title: VideoPlayer.iconeffect
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 8371cb69-4cd9-457b-bd8c-e4167fc67600
@@ -15,7 +14,7 @@ exl-id: 8371cb69-4cd9-457b-bd8c-e4167fc67600
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> 0|1</span> </span> </p> </td> 
-   <td colname="col2"> <p> Enables the IconEffect to display on top of the video when the video is paused. On some devices native controls are used. In such case, the <span class="codeph"> iconeffect</span> modifier is ignored. </p> </td> 
+   <td colname="col2"> <p> Enables the IconEffect to display on top of the video when the video is paused. On some devices, native controls are used. In such case, the <span class="codeph"> iconeffect</span> modifier is ignored. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> count</span> </span> </p> </td> 

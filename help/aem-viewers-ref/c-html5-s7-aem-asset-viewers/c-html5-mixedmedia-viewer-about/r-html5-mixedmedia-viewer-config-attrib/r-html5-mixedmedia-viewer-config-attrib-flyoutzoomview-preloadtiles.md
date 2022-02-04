@@ -1,8 +1,7 @@
 ---
+title: FlyoutZoomView.preloadtiles
 description: FlyoutZoomView.preloadtiles
 solution: Experience Manager
-title: FlyoutZoomView.preloadtiles
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 041df5c7-9391-4dde-8988-a83272c7c438
@@ -15,7 +14,7 @@ exl-id: 041df5c7-9391-4dde-8988-a83272c7c438
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> 0|1</span> </p> </td> 
-   <td colname="col2"> <p> Set to <span class="codeph"> 1</span> to enable preloading of the zoomed image. </p> <p>Set to <span class="codeph"> 0</span> to load the zoom image incrementally, as needed. </p> <p> <p>Note:  Be aware that if you enable this option it can result in substantially higher bandwidth usage because the zoomed image must be loaded in its entirety—even if no zoom action is taken by the user. </p> </p> </td> 
+   <td colname="col2"> <p> Set to <span class="codeph"> 1</span> to enable preloading of the zoomed image. </p> <p>Set to <span class="codeph"> 0</span> to load the zoom image incrementally, as needed. </p> <p> <p>If you enable this option it can result in substantially higher bandwidth usage because the zoomed image must be loaded in its entirety, even if no zoom action is taken by the user. </p> </p> </td> 
   </tr> 
  </tbody> 
 </table>

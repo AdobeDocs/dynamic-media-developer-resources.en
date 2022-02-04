@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Spin Viewer
-
-
-solution: Experience Manager
 title: setHandlers
-
+description: JavaScript API reference for Spin Viewer
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,User
 exl-id: f9e0b93e-fb27-4530-93cf-8246948423d9

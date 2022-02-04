@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Spin Viewer
-
-
-solution: Experience Manager
 title: getComponent
-
+description: JavaScript API reference for Spin Viewer
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,User
 exl-id: f0cb5a99-814f-4c4d-bfe3-bb670c8f9926
@@ -82,7 +79,7 @@ See the Viewer SDK API documentation for more information about a particular com
 
 ## Returns {#section-1d3cf85bc7cc4dfe9670e038d02b9101}
 
-`{Object}` a reference to Viewer SDK component. The method returns `null` if the `componentId` is not a supported viewer component or if the component was not yet created by the viewer logic.
+`{Object}` A reference to Viewer SDK component. The method returns `null` if the `componentId` is not a supported viewer component or if the component was not yet created by the viewer logic.
 
 ## Example {#section-9e9332aa86b74a5fb321375c03fdc5b3}
 

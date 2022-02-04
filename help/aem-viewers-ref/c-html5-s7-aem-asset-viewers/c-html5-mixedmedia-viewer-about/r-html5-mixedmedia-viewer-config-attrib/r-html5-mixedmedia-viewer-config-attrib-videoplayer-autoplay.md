@@ -1,8 +1,7 @@
 ---
+title: VideoPlayer.autoplay
 description: VideoPlayer.autoplay
 solution: Experience Manager
-title: VideoPlayer.autoplay
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 75ac93b4-fd76-4a2c-ba6a-c99baefaecec

@@ -1,10 +1,7 @@
 ---
-description: Configuration attribute for Mixed Media Video Viewer.
-
-
-solution: Experience Manager
 title: VideoPlayer.mutevolume
-
+description: Configuration attribute for Mixed Media Video Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 13398ac5-7137-4345-88b8-5e4df09edb7b
@@ -19,7 +16,7 @@ Configuration attribute for Mixed Media Video Viewer.
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> 0|1 </span> </p> </td> 
-   <td colname="col2"> <p> Sets muted mode for video playback on initial load. If set to <span class="codeph"> 1 </span> the volume is muted; otherwise, the video plays with sound. On certain devices muting video playback on load also allows the video to auto play. </p> </td> 
+   <td colname="col2"> <p> Sets muted mode for video playback on initial load. If set to <span class="codeph"> 1 </span> the volume is muted; otherwise, the video plays with sound. On certain devices, muting video playback on load also allows the video to auto play. </p> </td> 
   </tr> 
  </tbody> 
 </table>

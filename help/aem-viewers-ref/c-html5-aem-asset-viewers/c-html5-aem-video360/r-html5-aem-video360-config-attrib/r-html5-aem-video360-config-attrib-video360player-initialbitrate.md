@@ -16,7 +16,7 @@ Configuration attribute for Video360 Viewer.
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> value</span> </p> </td> 
-   <td colname="col2"> <p> Sets the video bitrate (in kilobits per second or Kbps) that is used for initial playback of video on a desktop. </p> <p>If this bitrate value does not exist in the Adaptive Video Set, the video player starts with the video that has the next lower bitrate. </p> <p>If set to <span class="codeph"> 0</span>, the video player starts from the lowest possible bitrate. </p> <p>Applicable only for systems that do not have native support for HTML5 HLS video (such as Firefox, Chrome, and Internet Explorer 11 browsers on Windows 10), and when playback mode is set to auto. </p> </td> 
+   <td colname="col2"> <p> Sets the video bitrate (in kilobits per second or kbps) that is used for initial playback of video on a desktop. </p> <p>If this bitrate value does not exist in the Adaptive Video Set, the video player starts with the video that has the next lower bitrate. </p> <p>If set to <span class="codeph"> 0</span>, the video player starts from the lowest possible bitrate. </p> <p>Applicable only for systems that do not have native support for HTML5 HLS video (such as Firefox, Chrome, and Internet Explorer 11 browsers on Windows 10), and when playback mode is set to auto. </p> </td> 
   </tr> 
  </tbody> 
 </table>

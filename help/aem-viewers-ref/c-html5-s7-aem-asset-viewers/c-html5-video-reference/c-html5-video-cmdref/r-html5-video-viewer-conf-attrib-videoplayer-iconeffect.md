@@ -1,10 +1,7 @@
 ---
-description: Configuration attribute for Video Viewer.
-
-
-solution: Experience Manager
 title: VideoPlayer.iconeffect
-
+description: Configuration attribute for Video Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,User
 exl-id: b283b495-ee28-4f9d-ad4d-b14ac2f9a1a2
@@ -19,7 +16,7 @@ Configuration attribute for Video Viewer.
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> 0|1</span> </span> </p> </td> 
-   <td colname="col2"> <p> Enables the IconEffect to display on top of the video when the video is paused. On some devices native controls are used. In such case, the <span class="codeph"> iconeffect</span> modifier is ignored. </p> </td> 
+   <td colname="col2"> <p> Enables the IconEffect to display on top of the video when the video is paused. On some devices, native controls are used. In such case, the <span class="codeph"> iconeffect</span> modifier is ignored. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> count</span> </span> </p> </td> 

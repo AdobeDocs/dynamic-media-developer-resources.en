@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Spin Viewer.
-
-
-solution: Experience Manager
 title: setParam
-
+description: JavaScript API reference for Spin Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,User
 exl-id: 16d1d2cd-f58f-4ac3-b89f-f2f12fee231d

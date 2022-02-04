@@ -1,8 +1,7 @@
 ---
+title: SpinView.autospin
 description: SpinView.autospin
 solution: Experience Manager
-title: SpinView.autospin
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,User
 exl-id: 16276e07-5494-4fd9-bd77-e77a46c57fd1
@@ -15,7 +14,7 @@ exl-id: 16276e07-5494-4fd9-bd77-e77a46c57fd1
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> 0|1</span> </p> </td> 
-   <td colname="col2"> <p> Enables or disables the automatic spin animation. To achieve the best auto spin experience it is recommended that you preload all frames by setting <span class="codeph"> maxloadradius</span> to <span class="codeph"> -1</span>. Note, however, that this results in increased load time and higher bandwidth usage. </p> </td> 
+   <td colname="col2"> <p> Enables or disables the automatic spin animation. To achieve the best auto spin experience, it is recommended that you preload all frames by setting <span class="codeph"> maxloadradius</span> to <span class="codeph"> -1</span>. Note, however, that this setting results in increased load time and higher bandwidth usage. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p><span class="codeph"><span class="varname"> duration</span></span> </p> </td> 

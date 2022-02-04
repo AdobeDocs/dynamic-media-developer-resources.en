@@ -1,8 +1,7 @@
 ---
+title: SpinView.enableHD
 description: SpinView.enableHD
 solution: Experience Manager
-title: SpinView.enableHD
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 0a2abdc6-eae5-4dda-b749-599cd8a07a98
@@ -15,7 +14,7 @@ exl-id: 0a2abdc6-eae5-4dda-b749-599cd8a07a98
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> always|never|limit</span> </p> </td> 
-   <td colname="col2"> <p> Enable, limit or disable optimization for devices where <span class="codeph"> devicePixelRatio</span> is greater than <span class="codeph"> 1</span>, that is devices with a high-density display like iPhone4 and similar devices. If active then the component limits the size of the IS image request as if the device only had a pixel ratio of <span class="codeph"> 1</span> and therefore reducing the bandwidth. </p> </td> 
+   <td colname="col2"> <p> Enable, limit, or disable optimization for devices where <span class="codeph"> devicePixelRatio</span> is greater than <span class="codeph"> 1</span>, that is devices with a high-density display like iPhone4 and similar devices. If active then the component limits the size of the IS image request as if the device only had a pixel ratio of <span class="codeph"> 1</span> and therefore reducing the bandwidth. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"><span class="varname"> number</span></span> </p> </td> 

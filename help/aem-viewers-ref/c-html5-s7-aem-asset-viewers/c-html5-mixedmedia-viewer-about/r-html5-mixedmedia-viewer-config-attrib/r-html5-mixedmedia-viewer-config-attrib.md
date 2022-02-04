@@ -1,7 +1,7 @@
 ---
+title: Command reference – Configuration attributes
 description: Configuration attributes documentation for Mixed Media Viewer.
 solution: Experience Manager
-title: Command reference – Configuration attributes
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: aa750941-0a2e-4591-bdff-5e71ecc342aa
@@ -16,7 +16,7 @@ Some configuration commands may be prefixed with the class name or instance name
 
 `[ZoomView.|<containerId>_zoomView].zoomstep`
 
-which means that you can use this command as:
+Which means that you can use this command as follows
 
 * `zoomstep` (short syntax) 
 * `ZoomView.zoomstep` (qualified with component class name) 

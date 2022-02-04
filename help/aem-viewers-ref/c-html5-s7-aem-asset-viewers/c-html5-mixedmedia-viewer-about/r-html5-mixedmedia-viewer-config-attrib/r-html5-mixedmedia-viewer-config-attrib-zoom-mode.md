@@ -1,10 +1,7 @@
 ---
-description: Sets the type of zoom interaction.
-
-
-solution: Experience Manager
 title: zoomMode
-
+description: Sets the type of zoom interaction.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: a399ed5e-acc3-4c45-9c84-9fa572667489
@@ -19,7 +16,7 @@ Sets the type of zoom interaction.
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> continuous|inline|auto </span> </p> </td> 
-   <td colname="col2"> <p> <span class="codeph"> continuous </span> enables classic zoom where the image gradually zooms in as you click, double-tap, or pinch out in the main view. You need to explicitly zoom out or reset the zoom state to get back to the initial view. </p> <p> <span class="codeph"> inline </span> enables instant zoom, where the zoomed image instantly appears as you hover the main view on desktop or to touch and hold on a touch device; image automatically reverts to initial state once you move your mouse from the view or release your finger. Note that in <span class="codeph"> inline </span> mode nested image sets are flattened and displayed as individual thumbnails. <span class="codeph"> auto </span> activates inline mode on desktop and continuous mode on touch devices. </p> </td> 
+   <td colname="col2"> <p> <span class="codeph"> continuous </span> enables classic zoom where the image gradually zooms in as you click, double-tap, or pinch out in the main view. To get back to the initial view, zoom out or reset the zoom state. The class </p> <p> <span class="codeph"> inline </span> enables instant zoom, where the zoomed image instantly appears as you hover the main view on desktop or to touch and hold on a touch device. The image automatically reverts to initial state after you move your mouse from the view or release your finger. In <span class="codeph"> inline </span> mode, nested image sets are flattened and displayed as individual thumbnails. The class <span class="codeph"> auto </span> activates inline mode on desktop and continuous mode on touch devices. </p> </td> 
   </tr> 
  </tbody> 
 </table>

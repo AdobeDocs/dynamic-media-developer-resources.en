@@ -1,8 +1,7 @@
 ---
+title: VideoPlayer.initialbitrate
 description: VideoPlayer.initialbitrate
 solution: Experience Manager
-title: VideoPlayer.initialbitrate
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: a5416488-d5fe-4f55-aee4-5aedc825ac04
@@ -15,7 +14,7 @@ exl-id: a5416488-d5fe-4f55-aee4-5aedc825ac04
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> value </span> </span> </p> </td> 
-   <td colname="col2"> <p>Sets the video bitrate-in kbits per seconds or kbps-that is used for initial playback of video on desktops. </p> <p>If this bitrate value does not exist in the Adaptive Video Set, then the video player starts the video that has the next lowest bitrate. </p> <p>If set to <span class="codeph"> 0 </span> the video player starts from the lowest possible bitrate. Applicable only for systems that do not have native support for HTML5 HLS video (which are Firefox, Chrome and Internet Explorer 11 browsers on Windows 10), and when playback mode is set to <span class="codeph"> auto </span>. </p> </td> 
+   <td colname="col2"> <p>Sets the video bitrate (in kilobits per seconds or kbps) that is used for initial playback of video on desktops. </p> <p>If this bitrate value does not exist in the Adaptive Video Set, then the video player starts the video that has the next lowest bitrate. </p> <p>If set to <span class="codeph"> 0 </span>, the video player starts from the lowest possible bitrate. Applicable only for systems that do not have native support for HTML5 HLS video (which are Firefox, Chrome and Internet Explorer 11 browsers on Windows 10), and when playback mode is set to <span class="codeph"> auto </span>. </p> </td> 
   </tr> 
  </tbody> 
 </table>

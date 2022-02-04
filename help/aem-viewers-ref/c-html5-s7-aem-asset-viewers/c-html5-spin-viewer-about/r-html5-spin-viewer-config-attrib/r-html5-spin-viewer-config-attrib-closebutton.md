@@ -1,8 +1,7 @@
 ---
+title: closebutton
 description: closebutton
 solution: Experience Manager
-title: closebutton
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,User
 exl-id: a9219ccd-f645-4bdd-a400-8ed6b1e8feec

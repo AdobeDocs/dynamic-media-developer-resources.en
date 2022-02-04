@@ -1,10 +1,7 @@
 ---
-description: The spin indicator is overlaid on the main view area. It is displayed when the image is in a reset state and it also depends on the iconeffect parameter.
-
-
-solution: Experience Manager
 title: Icon effect
-
+description: The spin indicator is overlaid on the main view area. It is displayed when the image is in a reset state and it also depends on the iconeffect parameter.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,User
 exl-id: 1ded69eb-62cd-49da-ab53-124348359a58
@@ -50,7 +47,7 @@ The appearance of the viewing area is controlled with the following CSS class se
  </tbody> 
 </table>
 
-Spin indicator supports the `state` attribute selector which is set to `spin_1D` in case of single-dimensional spin set and to `spin_2D` in case of multi-dimensional spin set.
+Spin indicator supports the `state` attribute selector which is set to `spin_1D` if there is a single-dimensional spin set, and to `spin_2D` if there is a multi-dimensional spin set.
 
 Example - to set up a 100 x 100 pixels zoom indicator.
 

@@ -1,10 +1,7 @@
 ---
-description: Configuration attributes documentation for Spin Viewer.
-
-
-solution: Experience Manager
 title: Command reference – Configuration attributes
-
+description: Configuration attributes documentation for Spin Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,User
 exl-id: 60615258-4d20-4452-a4a3-94fb88a943d7
@@ -19,7 +16,7 @@ Some configuration commands may be prefixed with the class name or instance name
 
 `[SpinView.|<containerId>_spinView].zoomstep`
 
-which means that you can use this command as:
+Which means that you can use this command as follows
 
 * `zoomstep` (short syntax) 
 * `SpinView.zoomstep` (qualified with component class name) 

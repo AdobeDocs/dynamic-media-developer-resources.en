@@ -1,10 +1,7 @@
 ---
-description: URL command for Video Viewer.
-
-
-solution: Experience Manager
 title: navigation
-
+description: URL command for Video Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,User
 exl-id: 0b42d354-2ef7-4255-8a71-c9bb9b496afd

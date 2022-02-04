@@ -1,10 +1,7 @@
 ---
-description: Input focus highlight displayed around focused viewer UI element is controlled with the CSS class selector.
-
-
-solution: Experience Manager
 title: Focus highlight
-
+description: Input focus highlight displayed around focused viewer UI element is controlled with the CSS class selector.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,User
 exl-id: dc59e081-97cc-46fe-a8f7-0690833a8290
@@ -38,7 +35,7 @@ The appearance is controlled with the following CSS class selector:
  </tbody> 
 </table>
 
-Example - to disable the default browser focus highlight for all viewer user interface elements, add the following CSS selector to viewer's style sheet:
+Example - To disable the default browser focus highlight for all viewer user interface elements, add the following CSS selector to viewer's style sheet:
 
 ```
 .s7spinviewer *:focus { 

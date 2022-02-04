@@ -1,8 +1,7 @@
 ---
+title: VideoScrubber.showtime
 description: VideoScrubber.showtime
 solution: Experience Manager
-title: VideoScrubber.showtime
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: cd141d46-9d73-417e-b789-4d2f0bc6a9eb

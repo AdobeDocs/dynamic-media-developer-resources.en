@@ -1,10 +1,7 @@
 ---
-description: Configuration attribute for Video Viewer.
-
-
-solution: Experience Manager
 title: VideoPlayer.autoplay
-
+description: Configuration attribute for Video Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,User
 exl-id: ec0bb98a-7c0b-4ed7-b47d-7c103b6a5943

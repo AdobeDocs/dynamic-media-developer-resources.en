@@ -1,10 +1,7 @@
 ---
-description: Configuration attribute for Video Viewer.
-
-
-solution: Experience Manager
 title: EmailShare.emailurl
-
+description: Configuration attribute for Video Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,User
 exl-id: 6126d7de-5d5f-4a8a-898e-8a9bb5b37627

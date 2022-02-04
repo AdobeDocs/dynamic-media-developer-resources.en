@@ -1,10 +1,7 @@
 ---
-description: Configuration attribute for Video Viewer.
-
-
-solution: Experience Manager
 title: VideoScrubber.showchaptertime
-
+description: Configuration attribute for Video Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,User
 exl-id: 60d36054-7b60-4ab1-8220-b183390e5d84

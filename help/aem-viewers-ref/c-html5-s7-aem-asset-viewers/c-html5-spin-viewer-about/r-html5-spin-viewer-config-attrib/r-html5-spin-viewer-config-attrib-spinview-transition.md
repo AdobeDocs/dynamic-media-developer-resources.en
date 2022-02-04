@@ -1,8 +1,7 @@
 ---
+title: SpinView.transition
 description: SpinView.transition
 solution: Experience Manager
-title: SpinView.transition
-
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,User
 exl-id: 85dbd5cd-b212-4c77-8f5a-ffbdaca27fdb
