@@ -1,10 +1,7 @@
 ---
-description: The play/pause button causes the video player to play or pause the video content when a user clicks it.
-
-
-solution: Experience Manager
 title: Play/Pause button
-
+description: The play/pause button causes the video player to play or pause the video content when a user clicks it.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,User
 exl-id: 174ddf15-e6be-4a65-8c82-5c9edf061a6c
@@ -66,13 +63,13 @@ The following CSS class selector controls the appearance of the button:
 >
 >This button supports both the `state`, `selected`, and `replay` attribute selectors, which can be used to apply different skins to different button states. In particular, `selected='true'` corresponds to the "play" state and `selected='false'` corresponds to the "pause" state; 
 >
->`replay='true'` is set when the video has reached the end and clicking on the button restarts playback from the beginning.
+>The attribute selector `replay='true'` is set when the video has reached the end and selecting the button restarts playback from the beginning.
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-video-reference/r-html5-video-viewer-20-localization.md#concept-1d5ca2d8480f4064a51eddba13940aad) for more information.
 
 ## Example {#section-e8caea0a303c425a8a637c2a47c06355}
 
-To set up a play/pause button that is 32 x 32 pixels; it is positioned six pixels from the top and left edge of the control bar, and displays a different image for each of the four different button states when selected or not selected.
+To set up a play/pause button that is 32 x 32 pixels and positioned six pixels from the top and left edge of the control bar. And finally, displays a different image for each of the four different button states when selected or not selected.
 
 ```
 .s7videoviewer .s7playpausebutton { 
