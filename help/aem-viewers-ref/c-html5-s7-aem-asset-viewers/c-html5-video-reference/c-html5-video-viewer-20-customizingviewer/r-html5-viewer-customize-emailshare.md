@@ -1,10 +1,7 @@
 ---
-description: Email share tool consists of a button added to the Social share panel and the modal dialog box which displays when the tool is activated. The position of the button is fully managed by the Social share tool.
-
-
-solution: Experience Manager
 title: Email share
-
+description: Email share tool consists of a button added to the Social share panel and the modal dialog box which displays when the tool is activated. The position of the button is fully managed by the Social share tool.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,User
 exl-id: 1788e069-68dd-4960-bc49-34ffdf29991a
@@ -50,7 +47,7 @@ It is possible to remove the button from the Social share panel by setting `disp
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-video-reference/r-html5-video-viewer-20-localization.md#concept-1d5ca2d8480f4064a51eddba13940aad) for more information.
 
-Example - to set up a email share button that is 28 x 28 pixels, and that displays a different image for each of the four different button states.
+Example - to set up an email share button that is 28 x 28 pixels, and that displays a different image for each of the four different button states.
 
 ```
 .s7videoviewer .s7emailshare { 
@@ -71,7 +68,7 @@ background-image:url(images/v2/EmailShare_dark_disabled.png);
 }
 ```
 
-The background overlay which covers web page when the dialog is active is controlled with the following CSS class selector:
+The background overlay which covers web page when the dialog is active, is controlled with the following CSS class selector:
 
 ```
 .s7videoviewer .s7emaildialog .s7backoverlay
@@ -140,7 +137,7 @@ background-color: #ffffff;
 }
 ```
 
-The dialog box header consists of an icon, a title text and a close button. The header container is controlled with the following CSS class selector
+The dialog box header consists of an icon, a title text, and a close button. The header container is controlled with the following CSS class selector
 
 ```
 .s7videoviewer .s7emaildialog .s7dialogheader
@@ -157,7 +154,7 @@ The dialog box header consists of an icon, a title text and a close button. The 
  </tbody> 
 </table>
 
-The icon and the title text are wrapped into an additional container controlled with
+The icon and the title text are wrapped into an extra container controlled with
 
 ```
 .s7videoviewer .s7emaildialog .s7dialogheader .s7dialogline
@@ -279,7 +276,7 @@ Close button is controlled with the following CSS class selector:
 
 The Close button tool tip and the dialog box title can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-video-reference/r-html5-video-viewer-20-localization.md#concept-1d5ca2d8480f4064a51eddba13940aad) for more information.
 
-Example - to set up dialog header with padding, 24 x 17 pixels icon, bold 16 pt title and 28 x 28 pixels close button positioned 2 pixels from the top and 2 pixels from the right of dialog container:
+Example - To set up dialog header with padding, 24 x 17 pixels icon, bold 16 point title, and 28 x 28 pixels close button. And finally, position it two pixels from the top and two pixels from the right of dialog container:
 
 ```
 .s7videoviewer .s7emaildialog .s7dialogheader { 
@@ -419,7 +416,7 @@ Send email button is controlled with the following CSS class selector:
 >
 >This button supports the `state` attribute selector, which can be used to apply different skins to different button states.
 
-In addition, both buttons share the same common CSS class which can contain CSS settings that are the same for other dialog box buttons:
+In addition, both buttons share common CSS class which can contain CSS settings that are the same for other dialog box buttons:
 
 ```
 .s7videoviewer .s7emaildialog .s7dialogfooter .s7button
@@ -458,7 +455,7 @@ In addition, both buttons share the same common CSS class which can contain CSS 
 
 The button tool tips can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-video-reference/r-html5-video-viewer-20-localization.md#concept-1d5ca2d8480f4064a51eddba13940aad) for more information.
 
-Example - to set up a dialog box footer with 64 x 34 Cancel button and a 82 x 34 send email button, with the text color and background color different for each button state:
+Example - to set up a dialog box footer with 64 x 34 Cancel button and an 82 x 34 send email button, with the text color and background color different for each button state:
 
 ```
 .s7videoviewer .s7emaildialog .s7dialogfooter { 
@@ -695,7 +692,7 @@ Example - to set up input field labels to be 50 pixels width, right-aligned, hav
 }
 ```
 
-Each form input field is wrapped into the container which lets you apply a custom border around the input field. It is controlled with the following CSS class selector::
+Each form input field is wrapped into the container which lets you apply a custom border around the input field. It is controlled with the following CSS class selector:
 
 ```
 .s7videoviewer .s7emaildialog .s7dialoginputcontainer
@@ -726,7 +723,7 @@ Most input fields that spread from the label on the left up to the right edge of
 .s7videoviewer .s7emaildialog .s7dialoginputwide
 ```
 
-**CSS properties of the dialog box input wide field** 
+**CSS properties of the dialog box input-wide field** 
 
 <table id="table_7275B4365DFA4C0386FA2BDB7204A517"> 
  <tbody> 
@@ -754,7 +751,7 @@ Most input fields that spread from the label on the left up to the right edge of
  </tbody> 
 </table>
 
-Example - to set up a form to have a one pixel grey border with nine pixels of padding around all input fields; to have the same border in red color for fields which fail validation, to have 250 pixels wide "To" input field, and the rest of the input fields 300 pixels wide:
+Example - To set up a form to have a one pixel grey border with nine pixels of padding around all input fields. To have the same border in red color for fields which fail validation, to have 250 pixels wide "To" input field, and the rest of the input fields 300 pixels wide:
 
 ```
 .s7videoviewer .s7emaildialog .s7dialoginputcontainer { 
@@ -772,7 +769,7 @@ Example - to set up a form to have a one pixel grey border with nine pixels of p
 }
 ```
 
-Email message input field is additionally controlled with:
+Email message input field is also controlled with:
 
 ```
 .s7videoviewer .s7emaildialog .s7dialogmessage
@@ -786,7 +783,7 @@ This class lets you set specific properties for the underlying `TEXTAREA` elemen
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> height </span> </p> </td> 
-   <td colname="col2"> <p>Mesage height. </p> </td> 
+   <td colname="col2"> <p>Message height. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> word-wrap </span> </p> </td> 
@@ -1160,7 +1157,7 @@ Example - to set up a content description to have a ten pixel margin and use a n
 }
 ```
 
-When a user enters incorrect input data and inline validation fails, or when the dialog box needs to render an error or a confirmation message when the form is submitted, a message is displayed in the top of the dialog box body. It is controlled with the following CSS class selector:
+When a user enters incorrect input data and inline validation fails, or when the dialog box must render an error or a confirmation message when the form is submitted, a message is displayed in the top of the dialog box body. It is controlled with the following CSS class selector:
 
 ```
 .s7videoviewer .s7emaildialog .s7dialogerrormessage
@@ -1207,11 +1204,11 @@ When a user enters incorrect input data and inline validation fails, or when the
 
 >[!NOTE]
 >
->This message supports the `state` attribute selector with the following possible values: `verifyerror`, `senderror`, and `sendsuccess`. `verifyerror` is set when a message is displayed due to an inline input validation failure; `senderror` is set when a backend email service reports an error; `sendsuccess` is set when email is sent successfully. This way it is possible to style the message differently depending on the dialog box state.
+>This message supports the `state` attribute selector with the following possible values: `verifyerror`, `senderror`, and `sendsuccess`. The attribute selector `verifyerror` is set when a message is displayed due to an inline input validation failure; `senderror` is set when a backend email service reports an error; `sendsuccess` is set when email is sent successfully. This way it is possible to style the message differently depending on the dialog box state.
 
 The error message can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-video-reference/r-html5-video-viewer-20-localization.md#concept-1d5ca2d8480f4064a51eddba13940aad) for more information.
 
-Example - to set up a message to use a ten point bold font, have 25 pixels line height, 20 pixels padding on the left, use an exclamation mark icon, red text in case of an error, and no icon and green text in case of success:
+Example - To set up a message to use a ten point bold font. And, it must have 25 pixels line height, 20 pixels padding on the left, use an exclamation mark icon, red text if there is an error, and no icon and green text if there is success:
 
 ```
 .s7videoviewer .s7emaildialog .s7dialogerrormessage[state="verifyerror"] { 

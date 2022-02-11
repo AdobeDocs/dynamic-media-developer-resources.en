@@ -1,10 +1,7 @@
 ---
-description: The video scrubber is the horizontal slider control that lets a user dynamically seek to any time position within the currently playing video.
-
-
-solution: Experience Manager
 title: Video scrubber
-
+description: The video scrubber is the horizontal slider control that lets a user dynamically seek to any time position within the currently playing video
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,User
 exl-id: 404e39d4-565e-4dde-b2bd-fa83a895d001
@@ -15,7 +12,7 @@ The video scrubber is the horizontal slider control that lets a user dynamically
 
 <!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
-The scrubber 'knob' also moves as the video plays to indicate the current time position of the video during playback. The video scrubber always takes the whole width of the control bar. It is possible to skin the video scrubber. change its height and vertical position, by CSS.
+The scrubber 'knob' also moves as the video plays to indicate the current time position of the video during playback. The video scrubber always takes the whole width of the control bar. It is possible to skin the video scrubber and change its height and vertical position, by CSS.
 
 The general appearance of the video scrubber is controlled with the following CSS class selector:
 
@@ -155,7 +152,7 @@ The following CSS class selector controls the time played bubble:
 
 The video scrubber tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-video-reference/r-html5-video-viewer-20-localization.md#concept-1d5ca2d8480f4064a51eddba13940aad) for more information.
 
-**Example** - To set up a video viewer with a video scrubber with custom track colors that is 10 pixels tall, and positioned 10 pixels and 35 pixels from the top and left edges of the control bar.
+**Example** - To set up a video viewer with a video scrubber with custom track colors. The scrubber must be ten pixels tall, and positioned ten pixels and 35 pixels from the top and left edges of the control bar.
 
 ```
 .s7videoviewer .s7videoscrubber  { 
@@ -427,7 +424,7 @@ The video chapter description is controlled by the following CSS class selector:
  </tbody> 
 </table>
 
-**Example** - To set up video chapter description using a dark gray, 11 pixel Verdana font, with a light gray background; 5 pixel line height, 12 pixel horizontal padding, 12 pixel top padding, and 9 pixel bottom padding.
+**Example** - To set up video chapter description using a dark gray, 11 pixel Verdana font, with a light gray background. And finally, uses five pixel line height, 12 pixel horizontal padding, 12 pixel top padding, and nine pixel bottom padding.
 
 ```
 .s7videoviewer .s7videoscrubber .s7chapter .s7description { 
@@ -452,7 +449,7 @@ The wedge connector within the bottom of the chapter bubble is controlled by the
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> border-color </span> </p> </td> 
-   <td colname="col2"> <p>Wedge connector color. </p> <p>Defined as <span class="codeph"> &lt;color&gt; transparent transparent </span> so that only the top border color is defined and the remaining borders are left transparent. </p> </td> 
+   <td colname="col2"> <p>Wedge connector color. </p> <p>Defined as <span class="codeph"> &lt;color&gt; transparent </span> so that only the top border color is defined and the remaining borders are left transparent. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> border-width </span> </p> </td> 
@@ -460,7 +457,7 @@ The wedge connector within the bottom of the chapter bubble is controlled by the
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> margin </span> </p> </td> 
-   <td colname="col2"> <p> Defines a negative bottom margin only. It should have the same value as that of <span class="codeph"> border-width </span>. </p> </td> 
+   <td colname="col2"> <p> Defines a negative bottom margin only. It should have the same value as <span class="codeph"> border-width </span>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
