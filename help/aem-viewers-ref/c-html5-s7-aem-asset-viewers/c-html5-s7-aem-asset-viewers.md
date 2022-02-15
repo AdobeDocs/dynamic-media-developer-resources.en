@@ -19,5 +19,3 @@ The following viewers work under Adobe Experience Manager Assets and also under 
 * [Spin](c-html5-spin-viewer-about/c-html5-spin-viewer-about.md)
 * [Video](c-html5-video-reference/c-html5-video-reference.md)
 * [Zoom](c-html5-20-zoom-viewer-about/c-html5-20-zoom-viewer-about.md)
-
-<!--Add others. The TOC levels in the viewers TOC doesn't seem quite right RB: FIXED-->

@@ -1,10 +1,7 @@
 ---
-description: Certain content that the Video Viewer displays is subject to localization. This content includes user interface element tool tips and an error message that is displayed when the video cannot be played.
-
-
-solution: Experience Manager
 title: Localization of user interface elements
-
+description: Certain content that the Video Viewer displays is subject to localization. This content includes user interface element tool tips and an error message that is displayed when the video cannot be played.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,User
 exl-id: 4748d04e-7f9d-413f-9e9a-a0fad129c5fc
@@ -13,7 +10,7 @@ exl-id: 4748d04e-7f9d-413f-9e9a-a0fad129c5fc
 
 Certain content that the Video Viewer displays is subject to localization. This content includes user interface element tool tips and an error message that is displayed when the video cannot be played.
 
-Every textual content in the viewer that can be localized is represented by a special Viewer SDK identifier called SYMBOL. Any SYMBOL has a default associated text value for the English locale ( `"en"`) supplied with the out-of-the-box viewer. It also may have user-defined values set for as many locales as needed.
+Every textual content in the viewer that can be localized is represented by a special Viewer SDK identifier called SYMBOL. Any SYMBOL has a default associated text value for the English locale ( `"en"`) supplied with the out-of-the-box viewer. It may also have user-defined values set for as many locales as needed.
 
 When the viewer starts, it checks the current locale to see if there is a user-defined value for each supported SYMBOL for the locale. If there is, it uses the user-defined value; otherwise, it falls back to the out-of-the-box default text.
 
@@ -51,7 +48,7 @@ The following SYMBOLs are supported:
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> Container.LABEL </span> </p> </td> 
-   <td colname="col2"> <p> ARIA label for top level viewer element. </p> </td> 
+   <td colname="col2"> <p> ARIA label for top-level viewer element. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> PlayPauseButton.TOOLTIP_SELECTED </span> </p> </td> 

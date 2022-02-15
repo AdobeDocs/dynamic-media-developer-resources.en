@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Video Viewer.
-
-
-solution: Experience Manager
 title: VideoViewer
-
+description: JavaScript API reference for Video Viewer.
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,User
 exl-id: 4ba152e6-b5a9-4e81-b9f8-aa987a1c31f9

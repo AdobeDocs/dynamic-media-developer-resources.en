@@ -13,8 +13,8 @@ user-guide-description: Customize Dynamic Media viewers for use on desktop and t
 + [Installing multiple viewers on the same server](t-installing-the-viewers.md)
 + Viewers release notes {#viewers-release-notes}
   + [Viewers release notes (5.16.1)](c-release-notes/c-rn-04-06-21.md)
-  + [Viewers release notes (5.15.3)](c-release-notes/c-rn-01-13-21.md)
   + Archive {#archive}
+    + [Viewers release notes (5.15.3)](c-release-notes/c-archive/c-rn-01-13-21.md)
     + [Viewers release notes (5.14.1)](c-release-notes/c-archive/c-rn-06-03-20.md)
     + [Viewers release notes (5.13.1)](c-release-notes/c-archive/c-rn-07-08-19.md)
     + [Viewers release notes (5.12.1)](c-release-notes/c-archive/c-rn-04-01-19.md)
@@ -654,8 +654,8 @@ user-guide-description: Customize Dynamic Media viewers for use on desktop and t
       + [ZoomView.singleclick](c-html5-s7-aem-asset-viewers/c-html5-20-zoom-viewer-about/r-html5-zoom-viewer-20-config-attrib/r-html5-zoom-viewer-20-config-attrib-zoomview-singleclick.md)
       + [ZoomView.transition](c-html5-s7-aem-asset-viewers/c-html5-20-zoom-viewer-about/r-html5-zoom-viewer-20-config-attrib/r-html5-zoom-viewer-20-config-attrib-zoomview-transition.md)
       + [ZoomView.zoomstep](c-html5-s7-aem-asset-viewers/c-html5-20-zoom-viewer-about/r-html5-zoom-viewer-20-config-attrib/r-html5-zoom-viewer-20-config-attrib-zoomview-zoomstep.md)
-    + Javascript API reference for Zoom Viewer {#jsapi-zoom}
-      + [Javascript API reference for Zoom Viewer](c-html5-s7-aem-asset-viewers/c-html5-20-zoom-viewer-about/c-html5-20-zoom-viewer-javascriptapiref/c-html5-20-zoom-viewer-javascriptapiref.md)
+    + JavaScript API reference for Zoom Viewer {#jsapi-zoom}
+      + [JavaScript API reference for Zoom Viewer](c-html5-s7-aem-asset-viewers/c-html5-20-zoom-viewer-about/c-html5-20-zoom-viewer-javascriptapiref/c-html5-20-zoom-viewer-javascriptapiref.md)
       + [dispose](c-html5-s7-aem-asset-viewers/c-html5-20-zoom-viewer-about/c-html5-20-zoom-viewer-javascriptapiref/r-html5-zoom-viewer-20-javascriptapiref-dispose.md)
       + [getComponent](c-html5-s7-aem-asset-viewers/c-html5-20-zoom-viewer-about/c-html5-20-zoom-viewer-javascriptapiref/r-html5-zoom-viewer-20-javascriptapiref-getcomponent.md)
       + [init](c-html5-s7-aem-asset-viewers/c-html5-20-zoom-viewer-about/c-html5-20-zoom-viewer-javascriptapiref/r-html5-zoom-viewer-20-javascriptapiref-init.md)
