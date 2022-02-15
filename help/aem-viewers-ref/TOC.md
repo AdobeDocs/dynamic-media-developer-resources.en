@@ -14,7 +14,7 @@ user-guide-description: Customize Dynamic Media viewers for use on desktop and t
 + Viewers release notes {#viewers-release-notes}
   + [Viewers release notes (5.16.1)](c-release-notes/c-rn-04-06-21.md)
   + Archive {#archive}
-    + [Viewers release notes (5.15.3)](c-release-notes/c-rn-01-13-21.md)
+    + [Viewers release notes (5.15.3)](c-release-notes/c-archive/c-rn-01-13-21.md)
     + [Viewers release notes (5.14.1)](c-release-notes/c-archive/c-rn-06-03-20.md)
     + [Viewers release notes (5.13.1)](c-release-notes/c-archive/c-rn-07-08-19.md)
     + [Viewers release notes (5.12.1)](c-release-notes/c-archive/c-rn-04-01-19.md)
