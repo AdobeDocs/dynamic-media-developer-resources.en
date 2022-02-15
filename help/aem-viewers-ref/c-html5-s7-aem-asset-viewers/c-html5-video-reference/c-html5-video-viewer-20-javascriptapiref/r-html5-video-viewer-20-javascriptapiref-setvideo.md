@@ -1,10 +1,7 @@
 ---
-description: JavaScript API reference for Video Viewer
-
-
-solution: Experience Manager
 title: setVideo
-
+description: JavaScript API reference for Video Viewer
+solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
 role: Developer,User
 exl-id: c89099f6-09f7-4d81-939e-90ffa2764c8c
