@@ -1,7 +1,7 @@
 ---
+title: obj
 description: Select object by name. Selects the specified vignette group by name and starts a new MSS.
 solution: Experience Manager
-title: obj
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 17387203-f7a7-4876-a15b-2084894f981d
@@ -19,7 +19,7 @@ Select object by name. Selects the specified vignette group by name and starts a
  </tr> 
 </table>
 
-Sub-groups or individual objects may be selected using a fully qualified group path (i.e. by specifying the name of the target group or object preceded by all parent groups, separated by / (forward slashes).
+Subgroups or individual objects may be selected using a fully qualified group path (i.e. by specifying the name of the target group or object preceded by all parent groups, separated by / (forward slashes).
 
 If no group/object with the specified name is found, the action specified in `attribute::OnObjFail` is taken.
 

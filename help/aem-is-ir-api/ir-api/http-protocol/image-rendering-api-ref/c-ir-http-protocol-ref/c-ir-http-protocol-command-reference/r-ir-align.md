@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 0b76f173-809b-4b41-bf39-6b85f77ab2db
 ---
-# align{#align}
+# align {#align}
 
 Texture render alignment. Specifies which of the origin points defined by the selected vignette object is to be used.
 
@@ -33,9 +33,9 @@ Texture render alignment. Specifies which of the origin points defined by the se
 
 The renderer applies the texture to the object so that the texture anchor point ( `anchor=`) coincides with the specified origin point.
 
-Each object can define up to 6 origin points (0,1, 3, 4, 5, 6). If an `align` value is specified but the corresponding origin point is not defined by the vignette object, the default (center-match) origin point is used.
+Each object can define up to six origin points (0, 1, 3, 4, 5, 6). If an `align` value is specified but the corresponding origin point is not defined by the vignette object, the default (center-match) origin point is used.
 
-`align=2` specifies random texture alignment, in which case `anchor=` is effectively ignored.
+`align=2` Specifies random texture alignment, in which case `anchor=` is effectively ignored.
 
 Mostly used for upholstery materials, possibly for apparel fabrics, to manage the alignment of the texture between adjacent objects.
 

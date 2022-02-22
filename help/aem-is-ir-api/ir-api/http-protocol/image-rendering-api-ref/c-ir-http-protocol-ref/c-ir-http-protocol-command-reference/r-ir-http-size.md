@@ -1,7 +1,7 @@
 ---
+title: size
 description: Decal size. Specifies the size of a decal material.
 solution: Experience Manager
-title: size
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 756d8b9f-076a-48d6-95c9-e0d6caeed3dd
@@ -23,7 +23,7 @@ Decal size. Specifies the size of a decal material.
  </tr> 
 </table>
 
-If neither width nor height is 0, the image is scaled to the exact specified dimensions and the aspect ratio of the image is not preserved. Setting either value to 0 preserves the aspect ratio of the image.
+If neither width or height is 0, the image is scaled to the exact specified dimensions and the aspect ratio of the image is not preserved. Setting either value to 0 preserves the aspect ratio of the image.
 
 If *`thickness`* is specified, a drop shadow is rendered if the vignette object defines an appropriate light vector. Set *`thickness`* to 0 to disable drop-shadow rendering.
 

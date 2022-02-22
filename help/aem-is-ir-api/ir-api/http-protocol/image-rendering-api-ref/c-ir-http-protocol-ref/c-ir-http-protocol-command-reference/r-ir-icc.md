@@ -1,7 +1,7 @@
 ---
+title: icc
 description: Output color profile.
 solution: Experience Manager
-title: icc
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 39b25f7c-ed3c-4132-8241-e7f3aab07b00
@@ -27,15 +27,15 @@ icc= *`profile`*[, *`renderIntent`*[, *`blackpointComp`*]]
  </tr> 
 </table>
 
-*`profile`* specifies the output color space profile to which the rendered image should be converted if it is different than the working profile. *`profile`* must be either a valid `icc::Name` defined in the ICC profile map of an image catalog or default catalog, or a relative path to a profile file (typically with [!DNL .icc]or [!DNL .icm] suffix).
+*`profile`* Specifies the output color space profile to which the rendered image should be converted if it is different from the working profile. *`profile`* Must be either a valid `icc::Name` defined in the ICC profile map of an image catalog or default catalog, or a relative path to a profile file (typically with [!DNL `.icc`] or [!DNL `.icm`] suffix).
 
 >[!NOTE]
 >
->*`profile`* may not include ',' characters, even if HTTP-encoded.
+>*`profile`* May not include ',' characters, even if HTTP-encoded.
 
-*`renderIntent`* allows overriding the default rendering intent.
+*`renderIntent`* Allows overriding the default rendering intent.
 
-*`blackpointComp`* enables blackpoint compensation if the output profile supports this feature.
+*`blackpointComp`* Enables blackpoint compensation if the output profile supports this feature.
 
 >[!NOTE]
 >
@@ -45,13 +45,13 @@ icc= *`profile`*[, *`renderIntent`*[, *`blackpointComp`*]]
 
 May occur anywhere within the request. An error is returned if the image type is specified with `fmt=` does not match *`profile`*.
 
-*`renderIntent`* and *`blackpointComp`* are ignored if not compatible with the specified ICC profile.
+Both *`renderIntent`* and *`blackpointComp`* are ignored if not compatible with the specified ICC profile.
 
 CMYK output device profiles are more likely to support different rendering intents.
 
 ## Default {#section-bbd3206fdcac4dc48a08fc9eba14fc90}
 
-If color management is enabled and `icc=` is not specified, the server will deliver the image converted to the output profile ( `attribute::IccProfile*`) matching the image type specified with `fmt=`.
+If color management is enabled and `icc=` is not specified, the server delivers the image converted to the output profile ( `attribute::IccProfile*`) matching the image type specified with `fmt=`.
 
 If not specified, *`renderIntent`* is inherited from `attribute::IccRenderIntent`, and *`blackpointComp`* is inherited from `attribute::IccBlackPointCompensation`.
 

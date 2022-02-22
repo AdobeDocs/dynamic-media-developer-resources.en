@@ -1,12 +1,12 @@
 ---
+title: flags
 description: Apply flags. Specifies additional render options.
 solution: Experience Manager
-title: flags
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: d0c3f65e-2dec-4c35-8df4-8d111e81f3f0
 ---
-# flags{#flags}
+# flags {#flags}
 
 Apply flags. Specifies additional render options.
 
@@ -21,9 +21,9 @@ Apply flags. Specifies additional render options.
 
 Currently used only for cabinet materials.
 
-`flags=0` (default) renders upper cabinets with solid doors.
+`flags=0` (default) Renders upper cabinets with solid doors.
 
-`flags=1` renders upper cabinets with glass doors (if the vignette was authored with glass doors).
+`flags=1` Renders upper cabinets with glass doors (if the vignette was authored with glass doors).
 
 ## Properties {#section-a2b00d7bb15e449ea85178acb92d8285}
 
@@ -31,4 +31,4 @@ Material attribute. Ignored if not a cabinet material, or if the target cabinet 
 
 ## Default {#section-4c134b02a1da4ffb9841233f98f6e97c}
 
-`flags=0` for no glass doors.
+`flags=0` For no glass doors.

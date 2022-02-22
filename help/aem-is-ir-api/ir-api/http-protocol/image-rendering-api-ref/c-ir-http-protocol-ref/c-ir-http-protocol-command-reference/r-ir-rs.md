@@ -1,14 +1,14 @@
 ---
-description: Advanced render settings. Specifies an advanced render settings, to be applied when rendering the current selection.
-solution: Experience Manager
 title: rs
+description: Advanced render settings. Specifies advanced render settings to be applied when rendering the current selection.
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 419baeb7-e06e-4753-a487-a1f407845f6d
 ---
 # rs{#rs}
 
-Advanced render settings. Specifies an advanced render settings, to be applied when rendering the current selection.
+Advanced render settings. Specifies advanced render settings to be applied when rendering the current selection.
 
  `rs= *`val`*`
 
@@ -19,7 +19,7 @@ Advanced render settings. Specifies an advanced render settings, to be applied w
  </tr> 
 </table>
 
-Used for fine-tuning render appearance. Use the render feature of the Vignette Authoring Tool (part of the Dynamic Media Image Authoring package) to create render settings strings.
+Used for fine-tuning render appearance. To create render settings strings, use the render feature of the Vignette Authoring Tool (part of the Dynamic Media Image Authoring package).
 
 ## Properties {#section-9a2b2228789046658cb80eddf343af75}
 

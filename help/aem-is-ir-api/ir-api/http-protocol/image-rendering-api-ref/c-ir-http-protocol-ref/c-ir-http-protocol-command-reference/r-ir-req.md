@@ -1,7 +1,7 @@
 ---
+title: req
 description: Request type. Specifies the type of data requested.
 solution: Experience Manager
-title: req
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 1b4a78a1-4f03-47ce-b523-10975e83f0ea
@@ -59,7 +59,7 @@ Returns an XML representation of the object hierarchy in the vignette, including
 
 `img`
 
-Executes the specified commands and returns the rendered image. The reply data format and response type is determined by `fmt=`.
+Executes the specified commands and returns the rendered image. The reply data format and response type are determined by `fmt=`.
 
 `imageprops`
 
@@ -162,15 +162,15 @@ The map data is not scaled to `wid=` or `hei=` or otherwise modified. The respon
 
 The response data consists of a `<map>` element containing a set of `<area>` elements, similar to the HTML `<AREA>` tag.
 
-Each `<area>` element includes the standard `type=` and `coord=` attributes, as well as a `name=` attribute, specifying the vignette group name or name path. Multiple `<area>` elements with the same name will be present if the masks of the corresponding object group has discontinuous regions.
+Each `<area>` element includes the standard `type=` and `coord=` attributes, and a `name=` attribute, specifying the vignette group name or name path. Multiple `<area>` elements with the same name are present if the masks of the corresponding object group have discontinuous regions.
 
-In addition to the default attributes, vignettes can define additional attributes if so authored. Such custom attributes are defined as object group attributes. The names of custom attributes must begin with `map`. to be included in the `<area>` elements. For example, if the group attributes include `map.href=http://www.scene7.com`, the corresponding `<area>` element will include `href="http://www.scene7.com"`.
+In addition to the default attributes, vignettes can define additional attributes if so authored. Such custom attributes are defined as object group attributes. The names of custom attributes must begin with `map` to be included in the `<area>` elements. For example, if the group attributes include `map.href=http://www.scene7.com`, the corresponding `<area>` element includes `href="http://www.scene7.com"`.
 
 An XML document with an empty `<map>` element is returned if the vignette does not include map data.
 
 `object`
 
-Executes the specified commands and returns the rendered image masked by the residual object selection (the group or object selected with the last `sel=` or `obj=` command in the request). Typically used in conjunction with an image format which supports alpha (see [fmt=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-fmt.md#reference-4c743f67d56b47c5b774fcc900ff758c)). If an image format is used which does not support alpha, the areas outside the mask are black.
+Executes the specified commands and returns the rendered image masked by the residual object selection (the group or object selected with the last `sel=` or `obj=` command in the request). Typically used with an image format which supports alpha (see [fmt=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-fmt.md#reference-4c743f67d56b47c5b774fcc900ff758c)). If an image format is used which does not support alpha, the areas outside the mask are black.
 
 `props`
 
@@ -200,7 +200,7 @@ The following properties may be included in the response:
   <tr> 
    <td> <p> <span class="codeph"> image.iccEmbed </span> </p> </td> 
    <td> <p> Boolean </p> </td> 
-   <td> <p>True if the ICC profile will be embedded in the reply image (see <span class="codeph"> <a href="../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-iccembed.md#reference-47a433138c7c4b29b9b29871b2491a7f" type="reference" format="dita" scope="local"> iccEmbed= </a> </span>). </p> </td> 
+   <td> <p>True if the ICC profile is embedded in the reply image (see <span class="codeph"> <a href="../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-iccembed.md#reference-47a433138c7c4b29b9b29871b2491a7f" type="reference" format="dita" scope="local"> iccEmbed= </a> </span>). </p> </td> 
   </tr> 
   <tr> 
    <td> <p> <span class="codeph"> image.iccProfile </span> </p> </td> 
@@ -292,7 +292,7 @@ The following properties may be included in the response:
 
 `userdata`
 
-Returns the contents of `vignette::UserData`. The server will replace all occurrences of `'??'` in `vignette::UserData` with line terminators ( `<cr><lf>`). The reply is formatted as text data with the response MIME type set to <text/plain>.
+Returns the contents of `vignette::UserData`. The server replaces all occurrences of `'??'` in `vignette::UserData` with line terminators ( `<cr><lf>`). The reply is formatted as text data with the response MIME type set to <text/plain>.
 
 If the object specified in the URL path does not resolve to a valid vignette map entry, or if the `vignette::UserData` is empty, the reply will only contain a line terminator ( `CR/LF`).
 

@@ -1,11 +1,12 @@
 ---
-description: View the Dynamic Media Image Rendering API reference Help.
 title: Image Rendering API Reference
-feature:
-role: 
+description: View the Dynamic Media Image Rendering API reference Help.
+solution: Experience Manager
+feature: Dynamic Media Classic,SDK/API
+role: Developer,User
+
 ---
 
-# Image Rendering API Reference{#image-rendering-api-reference}
+# Image Rendering API Reference {#image-rendering-api-reference}
 
 View the Dynamic Media Image Rendering API reference Help.
-

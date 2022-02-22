@@ -1,7 +1,7 @@
 ---
+title: res
 description: Material resolution. Specifies the resolution of the repeatable texture or decal image.
 solution: Experience Manager
-title: res
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: f207355d-5819-47fc-bda5-27a411449569
@@ -19,7 +19,7 @@ Material resolution. Specifies the resolution of the repeatable texture or decal
  </tr> 
 </table>
 
-In case of a decal material, `size=` prevails if both `size=` and `res=` are specified.
+If there is a decal material, `size=` prevails if both `size=` and `res=` are specified.
 
 ## Properties {#section-6a458ddc202f46e0b668c9f040a65cef}
 

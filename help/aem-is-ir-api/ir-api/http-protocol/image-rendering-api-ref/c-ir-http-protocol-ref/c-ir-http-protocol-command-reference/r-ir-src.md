@@ -1,7 +1,7 @@
 ---
+title: src
 description: Material file. Specifies material data, either in form of a single material catalog reference, or as one or two image or material data files, separated with a comma.
 solution: Experience Manager
-title: src
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: aff45f0f-e672-40da-9cc8-db83cf3922ff
@@ -75,9 +75,9 @@ Window coverings materials require a window coverings style file ( [!DNL .vnw]),
 
 Image Rendering uses the same rules as Image Serving for looking up material catalogs, catalog entries, and data files. Refer to the description of the *`object`* Data Type in the Image Serving documentation for details.
 
-*`materialFile`* is a path relative to `attribute::RootPath`.
+*`materialFile`* Is a path relative to `attribute::RootPath`.
 
-*`foreignReq`* can either be a URL relative to `attribute::RootUrl`, or an absolute URL if `attribute::AllowDirectUrls` is set.
+*`foreignReq`* Can either be a URL relative to `attribute::RootUrl`, or an absolute URL if `attribute::AllowDirectUrls` is set.
 
 If *`catId`* is not specified, the session catalog is used.
 
@@ -87,13 +87,13 @@ If *`catId`* is not specified, the session catalog is used.
 
 Image Rendering supports the same source image formats as Dynamic Media Image Serving.
 
-Applications which require image data in multiple different resolutions will perform best when using the Scene7 pyramid TIFF (PTIFF) multi-resolution format. Image Serving includes the Image Converter (IC) utility which creates PTIFF images from any supported format.
+Applications which require image data in multiple different resolutions perform best when using the Scene7 pyramid TIFF (PTIFF) multi-resolution format. Image Serving includes the Image Converter (IC) utility which creates PTIFF images from any supported format.
 
 Refer to the description of the IC utility in the Image Serving documentation for a complete list of supported file formats.
 
 ## Properties {#section-e68d03788d534e2184147987d51dfd0f}
 
-Material attribute. Required for all materials except solid color (not permitted for solid color materials). All strings are case-sensitive. *`index`* must be 0 or larger.
+Material attribute. Required for all materials except solid color (not permitted for solid color materials). All strings are case-sensitive. *`index`* Must be 0 or larger.
 
 ## Default {#section-dde549c1917540dc8f9555962202da3c}
 
@@ -105,7 +105,7 @@ A MSS for a colorized cabinet with a separate repeatable texture:
 
 `…&obj=cabinets&src=cabs/maple02.vnc,cabs/maple.jpg&res=40&color=185,105,35&…`
 
-The same material could be located in a material catalog `'cat`' in record ' `12-3-2`':
+The same material could be in a material catalog `'cat`' in record ' `12-3-2`':
 
 `…&obj=cabinets&src=cat/12-3-2&…`
 

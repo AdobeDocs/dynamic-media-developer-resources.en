@@ -1,7 +1,7 @@
 ---
+title: anchor
 description: Image anchor (hotspot). Specifies the texture anchor point (hotspot) of the repeatable texture or decal material.
 solution: Experience Manager
-title: anchor
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: ea2c5dce-6eb1-4f05-80bd-7336deb08b9e
@@ -25,11 +25,11 @@ Image anchor (hotspot). Specifies the texture anchor point (hotspot) of the repe
  </tr> 
 </table>
 
-A repeatable texture is applied to a vignette object, so that the texture anchor point ( `anchor=`) is located at the object's texture origin point.
+A repeatable texture is applied to a vignette object, so that the texture anchor point ( `anchor=`) is at the object's texture origin point.
 
-A decal image is applied to a vignette object, so that the decal anchor point is located at the object's decal origin point. The decal position can be further adjusted using the `pos=` command.
+A decal image is applied to a vignette object, so that the decal anchor point is at the object's decal origin point. The decal position can be further adjusted using the `pos=` command.
 
-`anchorN=0,0` places the image anchor at the center of the source image. `anchorN=-0.5,-0.5` or `anchor=0,0` is at the top-left corner, and `anchorN=0.5,0.5` is at the bottom-right corner of the source image.
+`anchorN=0,0` Places the image anchor at the center of the source image. `anchorN=-0.5,-0.5` or `anchor=0,0` is at the top-left corner, and `anchorN=0.5,0.5` is at the bottom-right corner of the source image.
 
 ## Properties {#section-91f929d35cd745ab9e1eeecf45fcedae}
 

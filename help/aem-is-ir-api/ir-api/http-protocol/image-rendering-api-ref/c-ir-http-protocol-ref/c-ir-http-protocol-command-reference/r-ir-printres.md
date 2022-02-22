@@ -1,7 +1,7 @@
 ---
+title: printRes
 description: Print resolution. Overrides the print resolution value embedded in the response image.
 solution: Experience Manager
-title: printRes
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: de02d058-e538-4d67-9413-e2e47dd2fd67

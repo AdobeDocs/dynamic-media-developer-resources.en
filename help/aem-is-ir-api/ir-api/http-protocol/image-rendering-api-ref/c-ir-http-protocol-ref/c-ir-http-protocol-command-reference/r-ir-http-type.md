@@ -1,7 +1,7 @@
 ---
+title: type
 description: Material surface type. Specifies the surface type of the material.
 solution: Experience Manager
-title: type
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 333b8954-e256-4ba1-8055-c4d625470673
@@ -95,7 +95,7 @@ Material surface type. Specifies the surface type of the material.
  </tr> 
 </table>
 
-Used in conjunction with `gloss=` and `rough=` to control reflection and gloss effect behaviors. Different materials will produce different effects, even if `gloss=` and `rough=` are the same.
+Used with `gloss=` and `rough=` to control reflection and gloss effect behaviors. Different materials produce different effects, even if `gloss=` and `rough=` are the same.
 
 ## Properties {#section-2345b2508273426295ce8ac46182ea64}
 
@@ -103,7 +103,7 @@ Material attribute. Ignored if the vignette does not include 3-D reflection data
 
 ## Default {#section-0989055fb74a41a3b2f2a47fe7d90a42}
 
-`catalog::Type` if the material is based on a catalog entry. Otherwise `type=0`. If not specified, or if `type=0`, the server will select a suitable default depending on the target object and the other material attributes.
+`catalog::Type` If the material is based on a catalog entry. Otherwise `type=0`. If not specified, or if `type=0`, the server selects a suitable default depending on the target object and the other material attributes.
 
 ## See also {#section-7cf808b0bb3d4b4fbb7b9a850d5a038b}
 

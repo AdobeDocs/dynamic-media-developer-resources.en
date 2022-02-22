@@ -1,7 +1,7 @@
 ---
+title: illum
 description: Illumination map selector. Specifies the illumination map this material prefers to be rendered with.
 solution: Experience Manager
-title: illum
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: e1af2397-8eae-4b77-abb1-61ba8cb866f3
@@ -14,7 +14,7 @@ Illumination map selector. Specifies the illumination map this material prefers 
 
 If the specified illumination map is not available in the target vignette, the nearest available map is used instead.
 
-`illum=-1` specifies that the illumination map is selected automatically based on the `gloss=` value.
+`illum=-1` Specifies that the illumination map is selected automatically based on the `gloss=` value.
 
 ## Properties {#section-aace8466566e4cf1a0c5a6c0167245c9}
 

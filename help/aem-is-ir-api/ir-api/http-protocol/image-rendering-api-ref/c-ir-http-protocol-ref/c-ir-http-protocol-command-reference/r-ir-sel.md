@@ -1,7 +1,7 @@
 ---
+title: sel
 description: Select object by pixel location.
 solution: Experience Manager
-title: sel
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: fac33287-ebcc-4995-b968-ac377065fdd4
@@ -25,19 +25,19 @@ Select object by pixel location.
 
 Selects the group or object at the pixel coordinates specified by *`x, y`* and starts a new MSS. If no selectable object is at the pick location, or if the pick location is not valid, the action specified by `attribute::OnFailSel` is taken.
 
-*`level`* specifies whether to select the outermost group, or drill-down to a nested group or object. If *`level`* is not specified, the outermost group is selected. Set to 1 to select one group level below the outermost group. Set to a large number (such as 99) to select the innermost selectable object or group.
+*`level`* Specifies whether to select the outermost group, or drill-down to a nested group or object. If *`level`* is not specified, the outermost group is selected. Set to 1 to select one group level below the outermost group. Set to a large number (such as 99) to select the innermost selectable object or group.
 
 ## Properties {#section-8f27e84d88734a62a5e398e0c9972bdc}
 
 Selection command; MSS delimiter. The object selection is persistent until another object is selected, either with `obj=` or `sel=`.
 
-*`x, y`* must be in the range 0, 0 (top-left corner of the image) to *`wid`*-1, *`hei`*-1 (bottom, right corner of the image), where *`wid`* and *`hei`* is the size of the unscaled vignette view.
+*`x, y`* Must be in the range 0, 0 (top-left corner of the image) to *`wid`*-1, *`hei`*-1 (bottom, right corner of the image), where *`wid`* and *`hei`* is the size of the unscaled vignette view.
 
 If specified, *`level`* must be 0 or larger.
 
 ## Default {#section-e13c705a3e76468894b4ec190ed8a893}
 
-None for *`x, y`*. *`level`* defaults to 0.
+None for *`x, y`*. *`level`* Defaults to 0.
 
 ## See also {#section-486842570b4e4bf895f6ccc172ebd8b2}
 

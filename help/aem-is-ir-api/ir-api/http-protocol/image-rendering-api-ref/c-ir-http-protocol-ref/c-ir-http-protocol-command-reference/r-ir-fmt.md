@@ -1,12 +1,12 @@
 ---
+title: fmt
 description: Reply image format. Specifies the image encoding format for image data sent to the client and the corresponding response MIME type for the HTTP response header.
 solution: Experience Manager
-title: fmt
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 691c5421-0754-45ce-b454-dd0ceff47a58
 ---
-# fmt{#fmt}
+# fmt {#fmt}
 
 Reply image format. Specifies the image encoding format for image data sent to the client and the corresponding response MIME type for the HTTP response header.
 
@@ -110,11 +110,11 @@ Reply image format. Specifies the image encoding format for image data sent to t
  </tr> 
 </table>
 
-*`pixelType`* effects output color space conversion when `icc=` is not specified; the default color profile corresponding to *`pixelType`* is applied. If color management is disabled, naïve conversion is applied. *`pixelType`* is ignored when `icc=` is specified, which determines the output pixel type.
+*`pixelType`* Effects output color space conversion when `icc=` is not specified; the default color profile corresponding to *`pixelType`* is applied. If color management is disabled, naïve conversion is applied. *`pixelType`* Is ignored when `icc=` is specified, which determines the output pixel type.
 
-*`compression`* is permitted only if tif, tif-alpha, or PDF is specified as the *`format`*. Refer to the table below for the compression options supported for these image formats.
+*`compression`* Permitted only if tif, tif-alpha, or PDF is specified as the *`format`*. Refer to the table below for the compression options supported for these image formats.
 
-`qlt-` sets the JPEG encoding options for these formats: JPEG, TIFF with JPEG compression, PDF with JPEG compression, and SWF file. Use `quantize=` if `fmt=gif` or `fmt=gif-alpha`. Refer to the command descriptions for details. The other formats do not have settable options.
+`qlt-` Sets the JPEG encoding options for these formats: JPEG, TIFF with JPEG compression, PDF with JPEG compression, and SWF file. Use `quantize=` if `fmt=gif` or `fmt=gif-alpha`. Refer to the command descriptions for details. The other formats do not have settable options.
 
 Eight bits per pixel component are returned for all formats and pixel types.
 
@@ -192,7 +192,7 @@ The following table lists the valid combinations of *`format`* and *`pixelType`*
 
 Specifies encoding format for reply image data sent to the client and the corresponding response MIME type for the HTTP reply header.
 
-`png-alpha` returns unassociated alpha (that is, alpha does not pre-multiply the pixel values), while `tif-alpha`, and `swf-alpha` return associated alpha (that is, the alpha values are pre-multiplied with the alpha values). The alpha channel corresponds to the inverse of the vignette's background mask for `req=img`, and to the group or object mask if there is `req=object`. To apply alpha when using a nested IR request, add `fmt=` with the appropriate alpha file format to the embedded IR request and the main request. No alpha data is returned if a CMYK or grayscale ICC profile is specified with `icc=`.
+`png-alpha` Returns unassociated alpha (that is, alpha does not pre-multiply the pixel values), while `tif-alpha`, and `swf-alpha` return associated alpha (that is, the alpha values are pre-multiplied with the alpha values). The alpha channel corresponds to the inverse of the vignette's background mask for `req=img`, and to the group or object mask if there is `req=object`. To apply alpha when using a nested IR request, add `fmt=` with the appropriate alpha file format to the embedded IR request and the main request. No alpha data is returned if a CMYK or grayscale ICC profile is specified with `icc=`.
 
 ## Properties {#section-eb12a82c69d84622bcea153dd84d95b3}
 
@@ -200,7 +200,7 @@ Can occur anywhere in the request.
 
 ## Default {#section-d2c2af11fa974e1a84e0c6cb7fb646fe}
 
-*`format`* defaults to `attribute::Format`and *`tiffCompression`* defaults to `attribute::TiffEncoding`. *`pixelType`* defaults to `rgb` if `icc=` is not specified, otherwise it corresponds to the pixel type of the specified ICC profile.
+*`format`* Defaults to `attribute::Format`and *`tiffCompression`* defaults to `attribute::TiffEncoding`. *`pixelType`* Defaults to `rgb` if `icc=` is not specified, otherwise it corresponds to the pixel type of the specified ICC profile.
 
 ## See also {#section-c55efc881fc94c70bff91b870e026a7b}
 

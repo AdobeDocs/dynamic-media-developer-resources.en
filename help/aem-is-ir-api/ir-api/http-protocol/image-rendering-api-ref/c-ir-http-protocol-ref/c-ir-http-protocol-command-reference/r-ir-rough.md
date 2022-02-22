@@ -1,7 +1,7 @@
 ---
+title: rough
 description: Material surface roughness. Specifies the relative roughness of the material surface.
 solution: Experience Manager
-title: rough
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 8903b51c-c7d4-460f-8f28-00053eac9d6e
@@ -21,9 +21,9 @@ Material surface roughness. Specifies the relative roughness of the material sur
 
 Used to control the 3D reflection render effect. Lower roughness values typically produce smoother reflection effects; higher values cause randomization and scattering of the reflected image.
 
-Each material type ( `type=`) defines a minimum and a maximum reflection render effect based on roughness. For some material types (e.g. wall paper), `rough=` has hardly any impact on the appearance of the reflection, while for other material types (e.g. stone or ceramic), the effect is substantially more pronounced.
+Each material type ( `type=`) defines a minimum and a maximum reflection render effect based on roughness. For some material types (for example, wall paper), `rough=` has minimal any impact on the appearance of the reflection, while for other material types (for example, stone or ceramic), the effect is substantially more pronounced.
 
-`rough=-1` sets the roughness to a server-internal default value (40% for typical material types).
+`rough=-1` Sets the roughness to a server-internal default value (40% for typical material types).
 
 ## Properties {#section-515375758b254c80af576271bdb61bb8}
 
@@ -31,7 +31,7 @@ Material attribute. Ignored if the vignette has no 3D reflection capability, if 
 
 ## Default {#section-11861a5e6e8649ee988267d2707fd7cc}
 
-`catalog::Roughness` if the material is based on a catalog entry, otherwise approximately 40%.
+`catalog::Roughness` If the material is based on a catalog entry, otherwise approximately 40%.
 
 ## See also {#section-d232fff7237443cc95c4bb50cb3d32bb}
 
