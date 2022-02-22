@@ -1,14 +1,14 @@
 ---
-description: Sub selection. Permits applying different materials to different areas of the selected object or group, as well as removing previously applied materials.
-solution: Experience Manager
 title: sub
+description: Sub selection. Permits applying different materials to different areas of the selected object or group, and removing previously applied materials.
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: c9968fbb-c38b-4180-81be-19992fa8f347
 ---
 # sub{#sub}
 
-Sub selection. Permits applying different materials to different areas of the selected object or group, as well as removing previously applied materials.
+Sub selection. Permits applying different materials to different areas of the selected object or group, and removing previously applied materials.
 
  `sub=0|1|2|3|4|5`
 
@@ -39,9 +39,9 @@ Sub selection. Permits applying different materials to different areas of the se
  </tr> 
 </table>
 
-Currently supported only for wall objects. Terminates a preceding MSS and starts a new MSS for the material to be applied to the specified sub-selection.
+Currently supported only for wall objects. Terminates a preceding MSS and starts a new MSS for the material to be applied to the specified subselection.
 
-A material specified for either the upper or lower wall will apply to the entire wall unless a different material for the other half of the wall has been specified as well.
+A material specified for either the upper or lower wall applies to the entire wall unless a different material for the other half of the wall has been specified as well.
 
 ## Properties {#section-b202139d6d0847cc8d520a154104ab9d}
 

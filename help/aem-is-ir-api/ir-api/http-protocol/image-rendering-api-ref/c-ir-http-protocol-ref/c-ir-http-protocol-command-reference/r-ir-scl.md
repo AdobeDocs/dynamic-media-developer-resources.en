@@ -1,7 +1,7 @@
 ---
+title: scl
 description: Scale view. Scales the rendered image by the specified scale factor, relative to the full-resolution vignette.
 solution: Experience Manager
-title: scl
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: e36db25c-af45-4256-b982-b7b06b87f5f9
@@ -35,7 +35,7 @@ Resizing the image with `scl=` does not change the print resolution value embedd
 
 ## Default {#section-d47ab3fb5a7d486a9fc207904b3e70dd}
 
-If neither `wid=`, `hei=` nor `scl=` are specified, the reply image is scaled to fit within the size defined by `attribute::DefaultPix`. If `attribute::DefaultPix` is empty, the reply image has the same size as the vignette's view image.
+If `wid=`, `hei=`, or `scl=` are not specified, the reply image is scaled to fit within the size defined by `attribute::DefaultPix`. If `attribute::DefaultPix` is empty, the reply image has the same size as the vignette's view image.
 
 ## See also {#section-cc5002a1d49340bbb5c7a5864c297621}
 

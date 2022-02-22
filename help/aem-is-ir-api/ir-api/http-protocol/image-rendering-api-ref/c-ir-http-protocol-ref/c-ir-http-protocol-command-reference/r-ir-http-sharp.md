@@ -1,7 +1,7 @@
 ---
+title: sharp
 description: Sharpen texture. Specifies the sharpening to be applied when rendering this material.
 solution: Experience Manager
-title: sharp
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 7921ceba-e249-4aab-823e-c54705c4a7c3
@@ -31,7 +31,7 @@ Sharpen texture. Specifies the sharpening to be applied when rendering this mate
  </tr> 
 </table>
 
-`sharp=1` applies sharpening after the material is rendered; `sharp=2` applies sharpening after initial scaling of the texture, but before it is transformed into the scene; `sharp=3` applies sharpening both before and after the transform.
+`sharp=1` Applies sharpening after the material is rendered; `sharp=2` applies sharpening after initial scaling of the texture, but before it is transformed into the scene; `sharp=3` applies sharpening both before and after the transform.
 
 The sharpening algorithm and amount of sharpening and other USM (unsharp masking) parameters are controlled by the default material template provided by the vignette or with `rs=`.
 

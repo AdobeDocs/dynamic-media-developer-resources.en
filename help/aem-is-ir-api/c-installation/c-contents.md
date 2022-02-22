@@ -1,7 +1,7 @@
 ---
+title: Contents
 description: After the installation, the folder hierarchy in install_root includes the files and folders listed below.
 solution: Experience Manager
-title: Contents
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 5b03e68e-a4c2-4b4f-8579-d253d7c112de
@@ -12,7 +12,7 @@ After the installation, the folder hierarchy in install_root includes the files 
 
 >[!NOTE]
 >
->Additional files and folders are present and must not be modified.
+>Additional files and folders are present; do not change them.
 
 <table id="table_F9FE5E0622A54CCD88461078FD5EA3DC"> 
  <thead> 
@@ -28,7 +28,7 @@ After the installation, the folder hierarchy in install_root includes the files 
    <td colname="col1"> <p> <span class="filepath"> licenses </span> </p> </td> 
    <td colname="col2"> </td> 
    <td colname="col3"> </td> 
-   <td colname="col4"> <p>License files folder for Linux. </p> </td> 
+   <td colname="col4"> <p>License files folder for Linux®. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="filepath"> ImageServing/ </span> </p> </td> 
@@ -82,7 +82,7 @@ After the installation, the folder hierarchy in install_root includes the files 
    <td colname="col1"> </td> 
    <td colname="col2"> </td> 
    <td colname="col3"> <p> <span class="filepath"> Vntc (.exe) </span> </p> </td> 
-   <td colname="col4"> <p>Image Rendering vignette, cabinet and window covering converter utility. </p> </td> 
+   <td colname="col4"> <p>Image Rendering vignette, cabinet, and window covering converter utility. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> </td> 
@@ -220,7 +220,7 @@ After the installation, the folder hierarchy in install_root includes the files 
    <td colname="col1"> </td> 
    <td colname="col2"> <p> <span class="filepath"> webapps/ </span> </p> </td> 
    <td colname="col3"> </td> 
-   <td colname="col4"> <p>Deploy Java web applications here (including is-docs, ir-docs, and is-viewers). </p> </td> 
+   <td colname="col4"> <p>Deploy Java™ web applications here (including is-docs, ir-docs, and is-viewers). </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="filepath"> ImageRendering/ </span> </p> </td> 

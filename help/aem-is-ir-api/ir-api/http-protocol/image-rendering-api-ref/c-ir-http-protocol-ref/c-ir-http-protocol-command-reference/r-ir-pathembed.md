@@ -1,7 +1,7 @@
 ---
+title: pathEmbed
 description: Embed paths data. Specifies whether Photoshop paths embedded in the vignette should be included in the response image.
 solution: Experience Manager
-title: pathEmbed
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 66cc57ef-964e-4062-bb66-efeda15be744

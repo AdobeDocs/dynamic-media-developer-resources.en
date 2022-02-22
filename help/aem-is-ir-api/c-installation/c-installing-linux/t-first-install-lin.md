@@ -1,23 +1,23 @@
 ---
-description: This procedure shows how to install Image Serving for the first time on Linux.
-solution: Experience Manager
 title: Installing for the first time
+description: This procedure shows how to install Image Serving for the first time on Linux®.
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: f27e6b27-641c-4a88-9ed0-94ada9ba75a9
 ---
 # Installing for the first time{#installing-for-the-first-time}
 
-This procedure shows how to install Image Serving for the first time on Linux.
+This procedure shows how to install Image Serving for the first time on Linux®.
 
 1. Log in to your server host with root permissions.
 1. Create the folder [!DNL /usr/local/scene7/licenses].
 
-   If the Image Serving and/or Image Rendering license key file (with [!DNL .sc8] file suffix) is available, copy it to this folder. Otherwise, proceed with the installation and install the license key later. 
+   If the Image Serving and/or Image Rendering license key file (with [!DNL .sc8] file suffix) is available, copy it to this folder. Otherwise, proceed with the installation and install the license key later.
 1. Uncompress and untar the Image Serving distribution tar file.
-1. Run [!DNL ./install-is], located in the [!DNL Setup] folder, to launch the installation wizard.
+1. In the [!DNL Setup] folder, launch the installation wizard by running [!DNL ./install-is].
 
-   If no license key is found, instructions are displayed describing how to obtain a license file. Do so at this point or proceed with the Image Serving installation and install the license key later. 
+   If no license key is found, instructions are displayed describing how to obtain a license file. Do so at this point or proceed with the Image Serving installation and install the license key later.
 1. When the End User License Agreement (EULA) displays, read the license agreement and then enter `y` to proceed.
 
    The installer displays the prompts listed in the following table.
@@ -25,30 +25,30 @@ This procedure shows how to install Image Serving for the first time on Linux.
 <table id="table_0E7B673CAD8E4C5EB72F8283A0DDEFC8"> 
  <tbody> 
   <tr> 
-   <td colname="col1"> <p><span class="codeph"> Main Listening Port [8080]:</span> </p> </td> 
-   <td colname="col2"> <p>Main HTTP listening port for Image Serving and Image Rendering. </p> </td> 
+   <td colname="col1"> <p><span class="codeph"> Main Listening Port [8080]:</span> </p> </td>
+   <td colname="col2"> <p>Main HTTP listening port for Image Serving and Image Rendering. </p> </td>
   </tr> 
   <tr> 
    <td colname="col1"> <p><span class="codeph"> Admin Listening Port [8083]:</span> </p> </td> 
-   <td colname="col2"> <p>Admin listening port. </p> </td> 
+   <td colname="col2"> <p>Admin listening port. </p> </td>
   </tr> 
   <tr> 
    <td colname="col1"> <p><span class="codeph"> Maximum HTTP Cache Size (MB) [2000]:</span> </p> </td> 
-   <td colname="col2"> <p>Initial size of the main response cache. </p> </td> 
-  </tr> 
+   <td colname="col2"> <p>Initial size of the main response cache. </p> </td>
+  </tr>
   <tr> 
    <td colname="col1"> <p><span class="codeph"> Cache Root Folder [/usr/local/scene7/ImageServing/cache]:</span> </p> </td> 
    <td colname="col2"> <p>PS cache folder. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p><span class="codeph"> Image Server Owner ID [root]:</span> </p> </td> 
-   <td colname="col2"> <p>The user account under which Image Serving servers is to be installed. </p> </td> 
-  </tr> 
+   <td colname="col1"> <p><span class="codeph"> Image Server Owner ID [root]:</span> </p> </td>
+   <td colname="col2"> <p>The user account under which Image Serving server is to be installed. </p> </td>
+  </tr>
   <tr> 
-   <td colname="col1"> <p><span class="codeph"> Image Server Group ID [root]:</span> </p> </td> 
-   <td colname="col2"> <p>The group account under which Image Serving servers is to be installed. </p> </td> 
-  </tr> 
- </tbody> 
+   <td colname="col1"> <p><span class="codeph"> Image Server Group ID [root]:</span> </p> </td>
+   <td colname="col2"> <p>The group account under which Image Serving server is to be installed. </p> </td>
+  </tr>
+ </tbody>
 </table>
 
 1. Press **[!UICONTROL Enter]** to accept the default value or specify a different value.
@@ -57,11 +57,11 @@ This procedure shows how to install Image Serving for the first time on Linux.
 
    >[!IMPORTANT]
    >
-   >If an account other than root is specified, you must make sure that access permissions for all files and folders the Image Server needs to read and/or write are correctly set up when these folders are reconfigured in the configuration files.
+   >If an account other than root is specified, you must make sure that access permissions for all files and folders the Image Server needs to read and write, are correctly set up when these folders are reconfigured in the configuration files.
    >
    >Image Serving is now installed to [!DNL /usr/local/Scene7/ImageServing]. Certain Image Rendering contents are installed to [!DNL /usr/local/Scene7/ImageRendering].
    >
-   >Towards the end of the installation, the install wizard attempts to start Image Server. If no valid license key is found, the Image Server cannot start. If there is a valid license and Image Server is still not starting up, consult the log files. 
+   >Towards the end of the installation, the install wizard attempts to start Image Server. If no valid license key is found, the Image Server cannot start. If there is a valid license and Image Server is still not starting up, consult the log files.
 
 >[!NOTE]
 >

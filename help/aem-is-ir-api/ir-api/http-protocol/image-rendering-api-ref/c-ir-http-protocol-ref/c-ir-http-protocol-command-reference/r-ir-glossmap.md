@@ -1,12 +1,12 @@
 ---
+title: glossmap
 description: Gloss map image. Provides pixel-by-pixel control of the glossiness of a repeatable texture, wallpaper/border, or decal.
 solution: Experience Manager
-title: glossmap
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 922fc527-be19-4d7a-b265-7bdb1de80990
 ---
-# glossmap{#glossmap}
+# glossmap {#glossmap}
 
 Gloss map image. Provides pixel-by-pixel control of the glossiness of a repeatable texture, wallpaper/border, or decal.
 
@@ -31,9 +31,9 @@ Gloss map image. Provides pixel-by-pixel control of the glossiness of a repeatab
  </tr> 
 </table>
 
-Applicable for materials such as metallic paint effects, die-cut foil wallpapers and borders, metallic thread fabrics, and so forth.
+Applicable for materials such as metallic paint effects, die-cut foil wallpapers and borders, and metallic thread fabrics.
 
-The gloss map image must be 8-bit grayscale and have exactly the same size as the primary image specified with `src=`. Refer to the description of [ `gloss=`](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-http-gloss.md#reference-325aef2ee51e4e1584a06047427340ca) for additional information.
+The gloss map image must be 8-bit grayscale and have the same size as the primary image specified with `src=`. Refer to the description of [ `gloss=`](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-http-gloss.md#reference-325aef2ee51e4e1584a06047427340ca) for additional information.
 
 ## Properties {#section-26375672d69849be9b026cc93c3bc558}
 

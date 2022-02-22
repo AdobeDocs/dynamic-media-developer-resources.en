@@ -1,14 +1,14 @@
 ---
-description: Vignette file. Specifies the vignette to be used for this request.
-solution: Experience Manager
 title: vignette
+description: Vignette file. Specifies the vignette to use for the request.
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 8419d68d-7579-4e62-abbd-7dc0a736ae23
 ---
 # vignette{#vignette}
 
-Vignette file. Specifies the vignette to be used for this request.
+Vignette file. Specifies the vignette to use for the request.
 
  `vignette=[ *`catId`*/] *`recId`*|[catId/] *`file`*`
 
@@ -29,7 +29,7 @@ Vignette file. Specifies the vignette to be used for this request.
 
 Can either specify a vignette map entry or a vignette file. Remote URLs are not permitted.
 
-`vignette=` can be used as an alternative to specifying the vignette in the request URL path. Mainly used to specify vignettes via variables in templates.
+`vignette=` Can be used as an alternative to specifying the vignette in the request URL path. Used to specify vignettes via variables in templates.
 
 If *`catId`* is not specified, the session catalog is used.
 

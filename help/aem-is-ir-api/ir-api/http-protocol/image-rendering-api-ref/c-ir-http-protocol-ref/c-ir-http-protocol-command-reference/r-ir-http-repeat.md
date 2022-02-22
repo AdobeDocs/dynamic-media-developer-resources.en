@@ -1,7 +1,7 @@
 ---
+title: repeat
 description: Texture repeat mode. Specifies the repeat mode for repeatable texture materials.
 solution: Experience Manager
-title: repeat
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 6cc82742-4ba0-4524-a87b-586539d7fe38
@@ -67,7 +67,7 @@ Texture repeat mode. Specifies the repeat mode for repeatable texture materials.
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p>13 </p> </td> 
-  <td class="stentry"> <p>Mirror (bookmatch). </p> </td> 
+  <td class="stentry"> <p>Mirror (book match). </p> </td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p>14 </p> </td> 
@@ -95,7 +95,7 @@ Texture repeat mode. Specifies the repeat mode for repeatable texture materials.
  </tr> 
 </table>
 
-The random quilting modes (14…18) can be used to synthesize textures from images which are not readily repeatable; the algorithm will create fully random or partially random textures based on the original image.
+The random quilting modes (14…18) can be used to synthesize textures from images which are not readily repeatable; the algorithm creates fully random or partially random textures based on the original image.
 
 ## Properties {#section-262bf540930d4890b678ea00cefe1909}
 

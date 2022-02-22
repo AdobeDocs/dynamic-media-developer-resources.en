@@ -1,7 +1,7 @@
 ---
+title: gloss
 description: Material surface glossiness. Specifies the relative glossiness of the material surface. Used to select the illumination map and control rendering of gloss effects and 3D reflections.
 solution: Experience Manager
-title: gloss
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 6df6cd05-9462-4c1e-a7ac-efac3461cf11
@@ -19,19 +19,19 @@ Material surface glossiness. Specifies the relative glossiness of the material s
  </tr> 
 </table>
 
-Higher gloss values typically cause stronger, sharper reflections, and, if gloss effects are enabled in the vignette, strengthens specular highlights on the material surface, mostly by increasing the illumination contrast. Each material type ( `type=`) defines a minimum and a maximum render effect. For some material types (e.g. wall paper), `gloss=` has hardly any impact on the appearance of the render effect, while for other material types (e.g. stone or ceramic), the effect is substantially more pronounced.
+Higher gloss values typically cause stronger, sharper reflections, and, if gloss effects are enabled in the vignette, strengthens specular highlights on the material surface, mostly by increasing the illumination contrast. Each material type ( `type=`) defines a minimum and a maximum render effect. For some material types (for example, wall paper), `gloss=` has minimal any impact on the appearance of the render effect, while for other material types (for example, stone or ceramic), the effect is substantially more pronounced.
 
 If `illum=-1` and if the vignette defines multiple illumination maps, `gloss=` selects the illumination map used for the current render operation. The renderer chooses the illumination map whose gloss value is closest to the specified gloss.
 
-`gloss=-1` selects the reference gloss value of the selected illumination map, as defined in the view properties of the vignette. This ensures that the illumination map is used exactly as authored, without further modification, even if gloss effects are enabled. If `illum=-1` as well, then the reference gloss value of the first illumination map in the vignette view is used.
+`gloss=-1` Selects the reference gloss value of the selected illumination map, as defined in the view properties of the vignette. This value ensures that the illumination map is used exactly as authored, without further modification, even if gloss effects are enabled. If `illum=-1` then the reference gloss value of the first illumination map in the vignette view is used.
 
 ## Properties {#section-92c20c7890fc4aad8d1725d1a1f82da6}
 
-Material attribute. Ignored if the vignette does not define multiple illumination maps or if `illum=` is specified, if the vignette does not include 3D reflection data or if the current object does not support 3D reflections, or if gloss effects are disabled in the vignette.
+Material attribute. Ignored if the vignette does not define multiple illumination maps. Or, if `illum=` is specified, if the vignette does not include 3D reflection data. Or, if the current object does not support 3D reflections, or if gloss effects are disabled in the vignette.
 
 ## Default {#section-3722fb5f85c24bc29bdf9c92ce04e678}
 
-`attribute::Gloss` if the material is based on a catalog entry, otherwise the reference gloss value of the default illumination map or the illumination map specified by `illum=`.
+`attribute::Gloss` If the material is based on a catalog entry, otherwise the reference gloss value of the default illumination map or the illumination map specified by `illum=`.
 
 ## See also {#section-29f5b761481a4c52a499a2e16e63c70b}
 

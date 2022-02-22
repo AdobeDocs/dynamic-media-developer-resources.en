@@ -1,12 +1,12 @@
 ---
+title: bgc
 description: Background color. Specifies the subtractive color for colorizable textures and decals.
 solution: Experience Manager
-title: bgc
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 9ac6517e-b9c3-48d9-97ac-d8aa65a8ba46
 ---
-# bgc{#bgc}
+# bgc {#bgc}
 
 Background color. Specifies the subtractive color for colorizable textures and decals.
 
@@ -19,7 +19,7 @@ Background color. Specifies the subtractive color for colorizable textures and d
  </tr> 
 </table>
 
-Image Rendering's texture colorization algorithm is quite simple - the component values of `bgc=` are subtracted from those of the texture pixels, `color=` is added, and finally the result is clipped to `0,0,0` and `255,255,255`.
+Image Rendering's texture colorization algorithm is straightforward - the component values of `bgc=` are subtracted from the values of texture pixels; `color=` is added, and finally the result is clipped to `0,0,0` and `255,255,255`.
 
 For typical uses of texture colorization, the value for `bgc=` might be the most important or dominant color in the texture image. Dynamic Media Image Authoring provides semi-automatic tools which extract reasonable `bgc=` color values from textures images.
 
@@ -31,7 +31,7 @@ Material attribute. Ignored by solid color and cabinet materials.
 
 ## Default {#section-de10ef5985ee4ae1ba56d14ba8512b81}
 
-`catalog::BaseColor` if the material is based on a catalog entry, otherwise `bgc=808080` (neutral gray).
+`catalog::BaseColor` If the material is based on a catalog entry, otherwise `bgc=808080` (neutral gray).
 
 ## Example {#section-bf5f0f296bc448ed9d5a84afabcf81e6}
 

@@ -1,7 +1,7 @@
 ---
+title: qlt
 description: Jpeg quality. Specifies JPEG encoding attributes to control the compression level.
 solution: Experience Manager
-title: qlt
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 49af2620-081f-4bcc-8245-5aa6bab89a05
@@ -23,11 +23,11 @@ Jpeg quality. Specifies JPEG encoding attributes to control the compression leve
  </tr> 
 </table>
 
-Specifies JPEG encoding attributes to control the compression level. This in turn varies the file size (amount of the reply data), and, indirectly, the visual quality of the resultant image.
+Specifies JPEG encoding attributes to control the compression level. In turn, this varies the file size (amount of the reply data), and, indirectly, the visual quality of the resultant image.
 
 Higher *`quality`* values increase file size and quality, lower values decrease file sizes and reduce perceived image quality. Values above 90 often generate images indistinguishable from the uncompressed image.
 
-Set the *`chroma`* flag to disable the chromaticity down-sampling employed by typical JPEG encoders. This may increase the perceived sharpness of edges in an image when the edge is defined by a change in hue rather than brightness. Setting this flag may cause a slight increase in file size. Experiment with this setting if text seems slightly blurry.
+Set the *`chroma`* flag to disable the chromaticity down-sampling employed by typical JPEG encoders. This setting may increase the perceived sharpness of edges in an image when the edge is defined by a change in hue rather than brightness. Setting this flag may cause a slight increase in file size. Experiment with this setting if text seems slightly blurry.
 
 ## Properties {#section-897b61c786dd4230a2c5807f2f40e722}
 

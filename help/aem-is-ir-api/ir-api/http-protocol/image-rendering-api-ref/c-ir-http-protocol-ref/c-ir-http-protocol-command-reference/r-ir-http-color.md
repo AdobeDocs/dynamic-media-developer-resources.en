@@ -1,12 +1,12 @@
 ---
+title: color
 description: Foreground color. Specifies the color of solid color materials or the additive color for colorizable materials.
 solution: Experience Manager
-title: color
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 6086a7ca-d3cf-4cec-967b-83347293ea0a
 ---
-# color{#color}
+# color {#color}
 
 Foreground color. Specifies the color of solid color materials or the additive color for colorizable materials.
 
@@ -25,7 +25,7 @@ Material attribute. Required for solid color materials, optional for all other m
 
 ## Default {#section-ea8e1967674d426bb8f46abe365b6aca}
 
-`catalog::Color` if the material is based on a catalog entry. Otherwise, `none` for no colorizing.
+`catalog::Color` If the material is based on a catalog entry. Otherwise, `none` for no colorizing.
 
 ## See also {#section-5eb8f1c36634474bbfaa63d84e4c3c71}
 

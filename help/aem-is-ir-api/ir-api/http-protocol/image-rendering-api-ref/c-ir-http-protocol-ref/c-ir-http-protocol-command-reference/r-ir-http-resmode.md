@@ -1,14 +1,14 @@
 ---
+title: resMode
 description: Resampling mode. Selects the resampling and/or interpolation algorithm to be used for scaling the rendered image to the size specified with wid=, hei=, or scl=.
 solution: Experience Manager
-title: resMode
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 0926dcfe-881c-4b52-b08d-c56afa0ba04d
 ---
 # resMode{#resmode}
 
-Resampling mode. Selects the resampling and/or interpolation algorithm to be used for scaling the rendered image to the size specified with wid=, hei=, or scl=.
+Resampling mode. Selects the resampling and/or interpolation algorithm to use for scaling the rendered image to the size specified with `wid=`, `hei=`, or `scl=`.
 
  ` `resMode=bilin|bicub|sharp2|bisharp``
 
@@ -20,7 +20,7 @@ Resampling mode. Selects the resampling and/or interpolation algorithm to be use
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="+ topic/ph pr-d/codeph codeph"> bicub </span> </p> </td> 
-   <td colname="col2"> <p>Selects bicubic interpolation. More CPU-intensive than bilinear interpolation, but will yield sharper images with less noticeable aliasing artifacts. </p> </td> 
+   <td colname="col2"> <p>Selects bicubic interpolation. More CPU-intensive than bilinear interpolation, but yields sharper images with less noticeable aliasing artifacts. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="+ topic/ph pr-d/codeph codeph"> sharp2 </span> </p> </td> 

@@ -1,7 +1,7 @@
 ---
+title: wid
 description: Reply image width. Specifies scaling of the rendered image so that the reply image is no taller than the specified value, while maintaining the image's aspect ratio.
 solution: Experience Manager
-title: wid
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: a77b71c3-8600-4d7a-ba52-e158cf9668eb
@@ -19,7 +19,7 @@ Reply image width. Specifies scaling of the rendered image so that the reply ima
  </tr> 
 </table>
 
-The image is not padded if both `wid=` and `hei=` is specified and `wid`/ `hei` is different than the aspect ratio of the image.
+The image is not padded if both `wid=` and `hei=` is specified and `wid`/ `hei` is different from the aspect ratio of the image.
 
 `wid=` and `hei=` work together to define the size of the image that is returned by the server. If `scl=` comes after `wid=` or `hei=` in the URL, it cancels those commands and `scl=` defines the size of the image returned by the server.
 
@@ -35,7 +35,7 @@ May occur anywhere within the request. Resizing the image with `wid=`, `hei=`, o
 
 ## Default {#section-c7c6efa03d864592a3398b6f1de5a0b0}
 
-If neither `wid=`, `hei=`, nor `scl=` are specified, the reply image is scaled to fit within the size defined by `attribute::DefaultPix`. If `attribute::DefaultPix` is empty, the reply image will have the same size as the vignette's view image.
+If `wid=`, `hei=`, or `scl=` are not specified, the reply image is scaled to fit within the size defined by `attribute::DefaultPix`. If `attribute::DefaultPix` is empty, the reply image has the same size as the vignette's view image.
 
 ## See also {#section-450dfc12b1d440e2a3172a69d91db51f}
 

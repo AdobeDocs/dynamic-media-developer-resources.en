@@ -1,7 +1,7 @@
 ---
+title: rotate
 description: Material rotation angle. Defines the rotation angle for materials.
 solution: Experience Manager
-title: rotate
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 355d9691-c04b-44a6-9563-5bef185cfa7e
@@ -19,7 +19,7 @@ Material rotation angle. Defines the rotation angle for materials.
  </tr> 
 </table>
 
-Rotate repeatable texture materials (excluding wallpapers) by multiples of 45 degrees when applied to Flat Objects or Plane Objects.
+Rotate repeatable texture materials (excluding wallpapers) by multiples of 45° when applied to Flat Objects or Plane Objects.
 
 Rotate repeatable texture materials by arbitrary angles when applied to Flowline and Sketch Objects.
 
@@ -29,7 +29,7 @@ Positive angles rotate clockwise. The texture or decal is rotated around the anc
 
 ## Properties {#section-ad4d07897ca24f63af1a4062f8618e36}
 
-Material attribute. Ignored by solid color, wallpaper, cabinet, and window treatment materials. *`angle`* must be a multiple of 45 for repeatable textures, unless applied to Flowline or Sketch Objects.
+Material attribute. Ignored by solid color, wallpaper, cabinet, and window treatment materials. *`angle`* Must be a multiple of 45 for repeatable textures, unless applied to Flowline or Sketch Objects.
 
 ## Default {#section-14c991e71b74449db8ff18a775949b28}
 
