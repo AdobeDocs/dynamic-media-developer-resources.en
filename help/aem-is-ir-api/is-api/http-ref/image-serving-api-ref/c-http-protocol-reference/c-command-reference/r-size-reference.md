@@ -25,11 +25,11 @@ Layer size. Specifies the size or maximum layer size for a layer, before rotate=
  </tr> 
 </table>
 
-When specified for an image layer, size= constrains the layer image's width, or height, or both. The image will be scaled to be no larger than `size=`. If a normalized size is specified, it is relative to the size of layer 0. If both *`width`* and *`height`* are specified, the source image is scaled (after `crop=` is applied) so that neither dimension exceeds the specified size. The aspect ratio of the source rectangle is maintained in all cases. Either *`width`* or *`height`* may be set to 0; in this case the value is calculated by the server based on the aspect ratio of the image.
+When specified for an image layer, size= constrains the layer image's width, or height, or both. The image is scaled to be no larger than `size=`. If a normalized size is specified, it is relative to the size of layer 0. If both *`width`* and *`height`* are specified, the source image is scaled (after `crop=` is applied) so that neither dimension exceeds the specified size. The aspect ratio of the source rectangle is maintained in all cases. Either *`width`* or *`height`* may be set to 0; in this case the value is calculated by the server based on the aspect ratio of the image.
 
-When specified for a text layer, `size=` specifies the text box size. *`width`* is required; *`height`* may be set to 0, in which case the height of the laid out text is used as the layer height. By default, the text layout engines insert line breaks to ensure that text always fits horizontally into the available space. If *`height`* is specified, lines which do not fit into the available space will be clipped ( `text=`) or omitted ( `textPs=`). `text=` supports additional fit modes; refer to `textAttr=` for details.
+When specified for a text layer, `size=` specifies the text box size. *`width`* is required; *`height`* may be set to 0, in which case the height of the laid out text is used as the layer height. By default, the text layout engines insert line breaks to ensure that text always fits horizontally into the available space. If *`height`* is specified, lines which do not fit into the available space are clipped ( `text=`) or omitted ( `textPs=`). `text=` supports additional fit modes; refer to `textAttr=` for details.
 
-When specified for a solid color layer, `size=` defines the exact layer size; both values must be specified (unless a mask is provided). If `mask=` is also specified, the mask image will be sized to fit `size=` the same way images are scaled in image layers.
+When specified for a solid color layer, `size=` defines the exact layer size; both values must be specified (unless a mask is provided). If `mask=` is also specified, the mask image is sized to fit `size=` the same way images are scaled in image layers.
 
 ## Properties {#section-5f254b66fcba49bcb63f9c9ea40b230c}
 
@@ -37,7 +37,7 @@ Layer attribute. Applies to layer 0 if `layer=comp`. `sizeN=` is not permitted f
 
 ## Default {#section-43d129deba6a441da66a1fdb63d1c85c}
 
-`size=0,0`, the layer size is unconstrained. For image layers, the layer size is then determined based on the layer image size after any `crop=`, `scale=`, or `res=` operations have been applied. For text layers, if `size=` is not specified, the layer will be sized automatically to fit the rendered text.
+`size=0,0`, the layer size is unconstrained. For image layers, the layer size is then determined based on the layer image size after any `crop=`, `scale=`, or `res=` operations have been applied. For text layers, if `size=` is not specified, the layer is sized automatically to fit the rendered text.
 
 Solid color layers require either a fully specified `size=`, a `mask=`, or `clipPath=`.
 

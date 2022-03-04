@@ -1,12 +1,12 @@
 ---
+title: Command macros
 description: Command macros provide named shortcuts for sets of commands.
 solution: Experience Manager
-title: Command macros *
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 00f6d27e-9f6b-4eea-8f42-833fbc0f1c38
 ---
-# Command macros *{#command-macros}
+# Command macros{#command-macros}
 
 Command macros provide named shortcuts for sets of commands.
 
@@ -18,9 +18,9 @@ Macros are defined in separate macro definition files, which can be attached to 
 
 *[!DNL name]* is not case-sensitive and can consist of any combination of ASCII letters, numbers , '-', '_', and '.' characters.
 
-Invoke macros anywhere in a request after the '?', or anywhere within a `vignette::Modifier` field. Macros can only represent one or more complete Image Rendering commands and must be separated from other commands with '&' separators.
+Invoke macros anywhere in a request after the '?', or anywhere within a `vignette::Modifier` field. Macros can only represent one or more Image Rendering commands and must be separated from other commands with '&' separators.
 
-Macro invocations are replaced by their substitution strings early during parsing. Commands within macros override the same commands in the request if they occur before the macro invocation in the request. This is different from `vignette::Modifier`, where commands in the request string will always override commands in the `vignette::Modifier` string, regardless of the position in the request.
+Macro invocations are replaced by their substitution strings early during parsing. Commands within macros override the same commands in the request if they occur before the macro invocation in the request. This workflow is different from `vignette::Modifier`, where commands in the request string override commands in the `vignette::Modifier` string, regardless of the position in the request.
 
 Command macros cannot have argument values, but custom variables may be used to pass values from the request into the macro.
 
@@ -40,7 +40,7 @@ The macro would be used as follows:
 
 `http://server/ir/render/cat/vig0?$mat=matc&$render$ http://server/ir/render/cat/vig0?$mat=matc&$render$ http://server/ir/render/cat/vig0?$mat=matc&$render$&qlt=95`
 
-Since `qlt=` is different for the third request, we simply override the value after the macro is invoked (specifying `qlt=`*before* `$render$`would not have any effect).
+Because `qlt=` is different for the third request, the software overrides the value after the macro is invoked (specifying `qlt=` *before* `$render$`is ineffective).
 
 **See also**
 

@@ -34,13 +34,13 @@ The following examples assume that bodies of text are provided with variables na
 
 `{\fs10\copyfit100 $A${\fs20\copyfit200 $B$}$C$}`
 
-*[!DNL $B$]* will always be rendered twice as large as the rest of the text. When much text is specified, *[!DNL $A$]* and *[!DNL $C$]* will be rendered with `\fs10` and *[!DNL $B$]* with `\fs20`. With little text, *[!DNL $A$]* and *[!DNL $C$]* will use `\fs100` and *[!DNL $B$]* `\fs200`.
+*[!DNL $B$]* will always be rendered twice as large as the rest of the text. When much text is specified, *[!DNL $A$]* and *[!DNL $C$]* is rendered with `\fs10` and *[!DNL $B$]* with `\fs20`. With little text, *[!DNL $A$]* and *[!DNL $C$]* will use `\fs100` and *[!DNL $B$]* `\fs200`.
 
 **Converge to a common large font size if only a small amount of text is drawn:**
 
 `{\copyfit100\fs10 $A${\fs20 $B$}$C$}`
 
-At the smallest end of the range, *[!DNL $B$]* will be rendered with `\fs20`, twice as large as *[!DNL $A$]* and *[!DNL $C$]* at `\fs10`. All text will be drawn at `\fs100` (50 pts) at the opposite end of the range.
+At the smallest end of the range, *[!DNL $B$]* is rendered with `\fs20`, twice as large as *[!DNL $A$]* and *[!DNL $C$]* at `\fs10`. All text is drawn at `\fs100` (50 pts) at the opposite end of the range.
 
 **Converge to a common small font size if much text is to be rendered:**
 
@@ -58,6 +58,6 @@ The font size for *[!DNL $A$]* and *[!DNL $C$]* can vary between 10 and 100, whi
 
 `{\fs10\copyfit100 \copyfitlines1 $A$}`
 
-**Limit the output to a single line, even if more vertical space is available. If too much text is specified to fit into a single line at `\fs10` it will be truncated:**
+**Limit the output to a single line, even if more vertical space is available. If too much text is specified to fit into a single line at `\fs10` it is truncated:**
 
 `{\fs10\copyfit100 \copyfitmaxlines1 $A$}`

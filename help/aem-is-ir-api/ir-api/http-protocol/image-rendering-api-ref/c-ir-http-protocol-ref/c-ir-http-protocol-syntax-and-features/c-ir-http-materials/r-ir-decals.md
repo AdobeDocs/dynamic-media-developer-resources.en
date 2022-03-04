@@ -1,16 +1,16 @@
 ---
-description: Decal materials include apparel constructs such as appliqués, t-shirt prints, and embroidered or printed logos, as well as non-repeatable, flat objects used in interior or exterior applications, such as area rugs, wall-hung art, signs, and so on.
-solution: Experience Manager
 title: Decals
+description: Decal materials include apparel constructs such as appliqués, t-shirt prints, and embroidered or printed logos. It also includes non-repeatable, flat objects used in interior or exterior applications, such as area rugs, wall-hung art, and signs.
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 07190abd-9f6f-46b5-bf77-cd97c48fc9be
 ---
 # Decals{#decals}
 
-Decal materials include apparel constructs such as appliqués, t-shirt prints, and embroidered or printed logos, as well as non-repeatable, flat objects used in interior or exterior applications, such as area rugs, wall-hung art, signs, and so on.
+Decal materials include apparel constructs such as appliqués, t-shirt prints, and embroidered or printed logos. It also includes non-repeatable, flat objects used in interior or exterior applications, such as area rugs, wall-hung art, and signs.
 
-A material is considered a decal if it is specified in a decal MSS. A decal is typically a RGBA image, with the alpha channel defining the shape of the decal.
+A material is considered a decal if it is specified in a decal MSS. A decal is typically an RGBA image, with the alpha channel defining the shape of the decal.
 
 One decal can be applied to each flat, flowline, sketch, plane, or wall object (unless the 'No Texture' flag is set). Decals are applied to the object by aligning the decal's `anchor=` with the vignette object's decal origin point. The position can be further adjusted with `pos=`.
 

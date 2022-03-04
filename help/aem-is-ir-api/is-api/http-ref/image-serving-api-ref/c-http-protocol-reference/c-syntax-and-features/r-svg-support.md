@@ -28,7 +28,7 @@ See [Substitution Variables](../../../../../is-api/http-ref/image-serving-api-re
 
 Images may be inserted into SVG using the `<image>` element. Images referenced by the `xlink::href` attribute of the `<image>` element must be valid image serving requests. Foreign URLs are not permitted.
 
-Specify either a complete Image Serving request, starting with `http://`, or a relative url, starting with `/is/image`. If a full HTTP path is specified, the domain name will be removed from the path to convert to the relative format. Using a full HTTP path may be of advantage, as it allows the file to be previewed with a third-party SVG renderer.
+Specify either a complete Image Serving request, starting with `http://`, or a relative url, starting with `/is/image`. If a full HTTP path is specified, the domain name is removed from the path to convert to the relative format. Using a full HTTP path may be of advantage, as it allows the file to be previewed with a third-party SVG renderer.
 
 >[!NOTE]
 >
@@ -36,7 +36,7 @@ Specify either a complete Image Serving request, starting with `http://`, or a r
 
 >[!NOTE]
 >
->Images embedded in SVG are not resized automatically at this time. Make sure that all image hrefs include the necessary Image Serving commands to set the desired image size (e.g. `wid=`). If the image size is not set explicitly, `attribute::DefaultPix` will be applied.
+>Images embedded in SVG are not resized automatically at this time. Make sure that all image hrefs include the necessary Image Serving commands to set the desired image size (e.g. `wid=`). If the image size is not set explicitly, `attribute::DefaultPix` is applied.
 
 ## Color management {#section-ea76e2bc4e1842638aa97a2d470c8a68}
 

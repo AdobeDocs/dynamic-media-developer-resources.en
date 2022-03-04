@@ -94,7 +94,7 @@ If you do not include `responseFieldArray` or `excludeFieldArray` in a request, 
 
 **Locale**
 
-Since IPS 4.0, the IPS API supports setting the locale context of an operation by passing the `authHeader` locale parameter. If the locale parameter is not present, the HTTP header `Accept-Language` will be used. If this header is also not present, the default locale for the IPS server will be used.
+Since IPS 4.0, the IPS API supports setting the locale context of an operation by passing the `authHeader` locale parameter. If the locale parameter is not present, the HTTP header `Accept-Language` is used. If this header is also not present, the default locale for the IPS server is used.
 
 Certain operations also take explicit locale parameters, which may be different than the operation locale context. For example, the `submitJob` operation takes a `locale` parameter that sets the locale used for job logging and email notification.
 

@@ -20,7 +20,7 @@ Provide a thickness value to add a drop shadow to the decal object. Optional for
 
 ## Default {#section-8029fe4dcbd1427db94a4fef1ccbbfd0}
 
-0,0,0. This indicates that the decal size is to be determined based on catalog::Resolution, and that the object does not have a thickness (thus no drop shadow will be rendered).
+0,0,0. This indicates that the decal size is to be determined based on catalog::Resolution, and that the object does not have a thickness (therefore, no drop shadow is rendered).
 
 ## Examples {#section-7e7166ec9a1e4f4cb026de3342fcddc3}
 

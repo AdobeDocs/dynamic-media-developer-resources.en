@@ -1,16 +1,16 @@
 ---
-description: Window covering materials include both soft window coverings (drapes, valances, café curtains), as well as hard window coverings (shades and blinds).
-solution: Experience Manager
 title: Window coverings
+description: Window covering materials include both soft window coverings (drapes, valances, café curtains), and hard window coverings (shades and blinds).
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: ce6543a1-2438-4661-95bf-ff3d956013bc
 ---
 # Window coverings{#window-coverings}
 
-Window covering materials include both soft window coverings (drapes, valances, café curtains), as well as hard window coverings (shades and blinds).
+Window covering materials include both soft window coverings (drapes, valances, café curtains), and hard window coverings (shades and blinds).
 
-Window covering materials specify a *window covering style file* ( [!DNL .vnw] file extension), a special data file similar to a vignette, containing mask, illumination, layout, and texturing data defining the window covering.
+Window covering materials specify a *window-covering style file* ( [!DNL .vnw] file extension), a special data file similar to a vignette, containing mask, illumination, layout, and texturing data defining the window covering.
 
 [!DNL vnw] files do not include the color and texture (fabric) for the window covering. This information is specified separately, similar to repeatable textures.
 

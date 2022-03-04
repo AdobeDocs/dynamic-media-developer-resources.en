@@ -30,7 +30,7 @@ Date/time value in Java format. Can be either the integer number of milliseconds
 * *[!DNL zzz]* is a 3 or 4 character time zone code such as 'GMT' or 'PST'. Daylight Savings Time must be accounted for in the time zone code (for example, 'PST' for Pacific Standard Time, versus 'PDT' for Pacific Daylight Savings Time). 
 * *[!DNL offset]* is a time zone offset in hours or hours:minutes, relative to GMT. For example, 'PDT' is equivalent to 'GMT -7'.
 
-All elements of string formatted date/time values must be present. If the date/time value is not formatted correctly it is ignored and the modification time of the [!DNL *[!DNL catalog]*.ini] file will be used instead.
+All elements of string formatted date/time values must be present. If the date/time value is not formatted correctly it is ignored and the modification time of the [!DNL *[!DNL catalog]*.ini] file is used instead.
 
 ## Default {#section-562c221d2e8b4a97ab5e9a3605f22140}
 

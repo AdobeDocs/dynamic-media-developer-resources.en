@@ -49,4 +49,4 @@ It is recommended that you turn off scanning for Image Serving directories. Othe
 
 **Digimarc causes performance problems for zoom images**
 
-Do not use Digimarc on images that will be zoomed. The performance will not be acceptable. If necessary, create a separate catalog for images to be used for zooming and disable Digimarc for this catalog.
+Do not use Digimarc on images that are zoomed. The performance will not be acceptable. If necessary, create a separate catalog for images to be used for zooming and disable Digimarc for this catalog.

@@ -28,7 +28,7 @@ The default color space for a particular image or other object is selected from 
 
 ## Input color space {#section-660f661a7e954df4b451e34134195276}
 
-Material images may embed ICC profiles to define the input color space. If no profile is embedded in a source image, `attribute::IccProfileSrc*` of the applicable image catalog corresponding to the pixel type of the source image will be used. If this attribute is not defined in the image catalog, `attribute::IccProfile*` is used. If that catalog attribute is not defined either, the image is not color-managed and only naïve transforms are applied.
+Material images may embed ICC profiles to define the input color space. If no profile is embedded in a source image, `attribute::IccProfileSrc*` of the applicable image catalog corresponding to the pixel type of the source image is used. If this attribute is not defined in the image catalog, `attribute::IccProfile*` is used. If that catalog attribute is not defined either, the image is not color-managed and only naïve transforms are applied.
 
 ## Working color space {#section-645d9cfa5b0347a190a0ece218f5b5e1}
 
@@ -54,7 +54,7 @@ Other material data files, such as cabinet style files ( [!DNL .vnc]) or window 
 
 ## Output color space {#section-4c2c4dfedbb8429ba5cfddc3d3eab6c4}
 
-All render operations take place in the working color space. If the request specifies a different color profile with the `icc=` command, the data will be converted to that color space just before it is encoded and returned to the client. When color management is disabled, naïve conversion is used if necessary to convert to gray-scale or CMYK.
+All render operations take place in the working color space. If the request specifies a different color profile with the `icc=` command, the data is converted to that color space just before it is encoded and returned to the client. When color management is disabled, naïve conversion is used if necessary to convert to gray-scale or CMYK.
 
 ## Embedded color profiles {#section-5ff733832d38429fbe02b3c1e9bb94a9}
 

@@ -1,18 +1,18 @@
 ---
-description: The session catalog is the material catalog which provides session attributes for the request, as well as a default catId value for all src=, vignette=, and icc= commands.
-solution: Experience Manager
 title: Session catalog
+description: The session catalog is the material catalog which provides session attributes for the request, and a default catId value for all src=, vignette=, and icc= commands.
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 36e0571e-7451-423f-a1df-540680381902
 ---
 # Session catalog{#session-catalog}
 
-The session catalog is the material catalog which provides session attributes for the request, as well as a default catId value for all src=, vignette=, and icc= commands.
+The session catalog is the material catalog which provides session attributes for the request, and a default catId value for all `src=`, `vignette=`, and `icc=` commands.
 
 The session catalog is specified as the first path element of the HTTP request path (immediately following the server name). If the first path element does not match attribute::RootId of any catalog, the default catalog is used as a session catalog.
 
-The session catalog provides the following session default values: 
+The session catalog provides the following session default values:
 
 <table id="table_DB5E0DD8E9B440A4964A1326433597C8"> 
  <thead> 

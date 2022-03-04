@@ -38,7 +38,7 @@ The template is registered with `attribute::ErrorImage`:
 
 `ErrorImage=myCatalog/onError`
 
-For this example, the text will be rendered using the default font, font color, and font size.
+For this example, the text is rendered using the default font, font color, and font size.
 
 ## See also {#section-bbf1f85fc0a34033bdda1dd3e4e0bbb6}
 

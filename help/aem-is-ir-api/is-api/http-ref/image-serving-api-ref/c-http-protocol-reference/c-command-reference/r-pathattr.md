@@ -29,7 +29,7 @@ Text-on-path attributes.
 
 Specify `norm` to draw text starting near the first path vertex and `reverse` to draw text in the opposite direction, starting near the last vertex.
 
-*`startPos`* and *`endPos`* allow adjusting where on the path the text will be drawn. 0.0 corresponds to the first vertex in the path and 1.0 to the last vertex; intermediate values express the distance along the path between the first and last vertex.
+*`startPos`* and *`endPos`* allow adjusting where on the path the text is drawn. 0.0 corresponds to the first vertex in the path and 1.0 to the last vertex; intermediate values express the distance along the path between the first and last vertex.
 
 ## Properties {#section-80f266da4e2549d89f022a3f9ff4584d}
 

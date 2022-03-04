@@ -10,7 +10,7 @@ exl-id: 24046950-1dba-4352-a549-43994e799748
 
 Client IP address filter. Allows specification of one or more IP addresses or address ranges.
 
-When specified, requests to this image catalog that originate from a client at an unlisted IP address will be rejected. `localhost` is always implicitly part of the `ClientAddressFilter` definition, even if not explicitly specified. Requests originating from `localhost` are never rejected, regardless of the `ClientAddressFilter` specification.
+When specified, requests to this image catalog that originate from a client at an unlisted IP address is rejected. `localhost` is always implicitly part of the `ClientAddressFilter` definition, even if not explicitly specified. Requests originating from `localhost` are never rejected, regardless of the `ClientAddressFilter` specification.
 
 ## Properties {#section-21a2992f108d42fb8660c0d65aa61e13}
 

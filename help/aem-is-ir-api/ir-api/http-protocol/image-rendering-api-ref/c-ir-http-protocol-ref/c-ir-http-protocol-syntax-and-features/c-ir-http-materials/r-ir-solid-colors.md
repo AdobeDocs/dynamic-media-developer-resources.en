@@ -1,14 +1,14 @@
 ---
-description: This material category includes paints for walls, woodwork and trim, automotive, as well as any other application where textures are not required.
-solution: Experience Manager
 title: Solid colors
+description: This material category includes paints for walls, woodwork, and trim, automotive, and any other application where textures are not required.
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 0f4f2d25-dd99-488b-89d9-88367d5a715d
 ---
 # Solid colors{#solid-colors}
 
-This material category includes paints for walls, woodwork and trim, automotive, as well as any other application where textures are not required.
+This material category includes paints for walls, woodwork, and trim, automotive, and any other application where textures are not required.
 
 For example, you might use solid colors to vary the color on an apparel item where texture changes are not required, or to set the color for the plastic trim and carpeting of an automotive interior. A material is considered a solid color if no `src=` value is present in the MSS.
 

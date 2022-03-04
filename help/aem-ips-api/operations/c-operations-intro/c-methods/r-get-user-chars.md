@@ -26,7 +26,7 @@ Gets a list of the characters used in a particular field.
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
 |  `*`charField`*`  | `xsd:string`  | Yes  | Determines the Trash State to search for.  |
-|  `*`includeInactive`*`  | `xsd:boolean`  | Yes  | Include or exclude inactive users. Non-IPS Admin users must be an active member of at least one company to be authorized to make any API calls. An authorization fault will be returned if the user has no active company memberships.  |
+|  `*`includeInactive`*`  | `xsd:boolean`  | Yes  | Include or exclude inactive users. Non-IPS Admin users must be an active member of at least one company to be authorized to make any API calls. An authorization fault is returned if the user has no active company memberships.  |
 |  `*`includInvalid`*`  | `xsd:boolean`  | No  | Include or exclude invalid users.  |
 |  `*`companyHandleArray`*`  | `types:HandleArray`  | No  | Filter results based on company.  |
 |  `*`groupHandleArray`*`  | `types:HandleArray`  | No  | Filters results based on groups.  |

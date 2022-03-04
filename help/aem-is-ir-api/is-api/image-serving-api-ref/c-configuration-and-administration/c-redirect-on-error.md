@@ -29,7 +29,7 @@ Error redirect is enabled by setting `PS::errorRedirect.rootUrl` to the HTTP dom
 
 >[!NOTE]
 >
->If the secondary server cannot be contacted, a text error response will be returned to the client, even if a default image or error image is configured.
+>If the secondary server cannot be contacted, a text error response is returned to the client, even if a default image or error image is configured.
 
 >[!NOTE]
 >

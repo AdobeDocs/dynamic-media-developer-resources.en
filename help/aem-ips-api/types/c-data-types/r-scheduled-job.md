@@ -25,7 +25,7 @@ A job that is scheduled to run.
 |  `*`locale`*`  | `xsd:string`  |The locale to be used for job log details and email localization. Locales are specified as `<language_code>[- <country_code>]`, where the language code is a lower-case, two-letter code as specified by ISO-639, and the optional country code is an upper-case, two-letter code as specified by ISO-3166. For example, the locale string for English (United States) would be: `en-US`.  |
 |  `*`description`*`  | `xsd:string`  |A description of the job as originally specified in `submitJob`.  |
 |  `*`execSchedule`*`  | `xsd:string`  | When the job is scheduled to run.  |
-|  `*`nextFireTime`*`  | `xsd:dateTime`  | The date, time, and time zone when the job will be fired.  |
+|  `*`nextFireTime`*`  | `xsd:dateTime`  | The date, time, and time zone when the job is fired.  |
 |  `*`timeZone`*`  | `xsd:dateTime`  | The time zone of the scheduled job.  |
 |  `*`triggerState`*`  | `xsd:int`  | Choice of job trigger state.  |
 |  `*`imageServingPublishJob`*`  | `types:ImageServingPublishJob`  | Job details for an image serving publish job.  |

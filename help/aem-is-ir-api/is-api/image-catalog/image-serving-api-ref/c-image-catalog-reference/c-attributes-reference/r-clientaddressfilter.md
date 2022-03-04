@@ -10,7 +10,7 @@ exl-id: 028cef35-2862-452c-872c-b953e8ccb195
 
 Client IP address filter. Allows specification of one or more IP addresses or address ranges.
 
-When specified, requests to this image catalog that originate from a client at an unlisted IP address will be rejected.
+When specified, requests to this image catalog that originate from a client at an unlisted IP address are rejected.
 
 ## Properties {#section-d785265988324af68835410c9ba54147}
 

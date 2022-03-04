@@ -13,7 +13,7 @@ The following options can be applied regardless of the type of sourceFile.
 <table id="simpletable_3BFC3737C891411D84405CEEF6B19542"> 
  <tr class="strow"> 
   <td class="stentry"> <p> <span class="codeph"> -destpath <span class="varname"> string </span> </span> </p> </td> 
-  <td class="stentry"> <p>Folder in which output files are to be placed (including the log file, if <span class="codeph"> -log </span> is specified). May be an absolute path or relative to the current working directory. The folder hierarchy will be created if it does not exist. Does not apply to the file specified with <span class="codeph"> -log </span>. If not specified, output files are written to the folder in which <span class="varname"> sourceFile </span> is located. If <span class="varname"> destFile </span> is specified, it will always be written to that location, and <span class="codeph"> -destpath </span> only applies to the secondary output files. </p> </td> 
+  <td class="stentry"> <p>Folder in which output files are to be placed (including the log file, if <span class="codeph"> -log </span> is specified). May be an absolute path or relative to the current working directory. The folder hierarchy is created if it does not exist. Does not apply to the file specified with <span class="codeph"> -log </span>. If not specified, output files are written to the folder in which <span class="varname"> sourceFile </span> is located. If <span class="varname"> destFile </span> is specified, it will always be written to that location, and <span class="codeph"> -destpath </span> only applies to the secondary output files. </p> </td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p> <span class="codeph"> -image </span> </p> </td> 

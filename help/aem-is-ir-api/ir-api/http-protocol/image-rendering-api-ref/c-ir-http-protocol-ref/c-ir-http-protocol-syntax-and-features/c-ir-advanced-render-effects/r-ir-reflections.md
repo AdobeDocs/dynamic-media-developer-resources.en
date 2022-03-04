@@ -1,7 +1,7 @@
 ---
+title: Reflections
 description: Vignettes can be authored to include near-3D reflection data.
 solution: Experience Manager
-title: Reflections
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: f67ede68-03c0-461f-a16d-a308f76fd24c
@@ -44,6 +44,6 @@ If so authored, the following material attributes are used to define the materia
  </tbody> 
 </table>
 
-The renderer adjusts the range of the `gloss=` and `rough=` attribute according to `type=`. Some material types such as fabric are generally less reflective than material types such as stone or metal, and the same amount of gloss specified for one will result in a different reflection effect than the other. `gloss=`and roughness have a fairly wide gamut if `type=` is not specified or is set to 0.
+The renderer adjusts the range of the `gloss=` and `rough=` attribute according to `type=`. Some material types such as fabric are less reflective than material types such as stone or metal. Furthermore, the same amount of gloss specified for one often results in a different reflection effect than the other. The attribute `gloss=` and roughness have a fairly wide gamut if `type=` is not specified or is set to `0`.
 
-`glossmap=` can be used to control the glossiness of a material on a pixel-by-pixel basis.
+`glossmap=` Used to control the glossiness of a material on a pixel-by-pixel basis.

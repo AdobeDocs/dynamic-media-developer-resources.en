@@ -31,7 +31,7 @@ The url format for the IS proxy is very similar to regular IS requests. Any IS m
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p><span class="codeph"> sizepercent = &lt;number&gt;</span> </p></td> 
-  <td class="stentry"> <p>Specifies the percentage of the device's Memory Limit Embedded Media property to limit the response size to. This will only apply to jpg responses. The quality of the image will be lowered until the response size is within the specified percentage. </p></td> 
+  <td class="stentry"> <p>Specifies the percentage of the device's Memory Limit Embedded Media property to limit the response size to. This will only apply to jpg responses. The quality of the image is lowered until the response size is within the specified percentage. </p></td> 
  </tr> 
 </table>
 

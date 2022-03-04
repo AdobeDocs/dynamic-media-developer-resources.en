@@ -16,7 +16,7 @@ Text string. If specified, must be a valid `icc::Name` value from the ICC profil
 
 ## Default {#section-11f6239e0dd14827abf4a95c1b30161c}
 
-Inherited from `default::IccProfileSrcCmyk` if not defined or if empty. If `attribute::IccProfileSrcCmyk` does not resolve to a valid profile, `attribute::IccProfileCmyk` will be used instead.
+Inherited from `default::IccProfileSrcCmyk` if not defined or if empty. If `attribute::IccProfileSrcCmyk` does not resolve to a valid profile, `attribute::IccProfileCmyk` is used instead.
 
 ## See also {#section-88adddd70265459a9a5d2f50829a4ba7}
 

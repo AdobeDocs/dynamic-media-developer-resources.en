@@ -1,7 +1,7 @@
 ---
+title: Foreign image sources
 description: Image Serving supports access to source images on foreign HTTP and FTP servers.
 solution: Experience Manager
-title: Foreign image sources
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 90f96a76-e9f3-4ad0-84af-bc0d093acf19

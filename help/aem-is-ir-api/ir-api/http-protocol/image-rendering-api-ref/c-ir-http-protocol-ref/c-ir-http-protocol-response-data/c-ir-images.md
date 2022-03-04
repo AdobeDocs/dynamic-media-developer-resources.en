@@ -1,7 +1,7 @@
 ---
+title: Images
 description: Image data is returned if a request successfully completes, and if the request either does not include a req= command, or if req= has one of the following values  img, debug.
 solution: Experience Manager
-title: Images
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 089aaf9d-f414-4ca4-9d6d-7f429de2531e

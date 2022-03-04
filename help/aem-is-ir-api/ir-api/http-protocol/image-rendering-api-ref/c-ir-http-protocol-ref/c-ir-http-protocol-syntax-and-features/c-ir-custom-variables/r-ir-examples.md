@@ -1,7 +1,7 @@
 ---
+title: Examples
 description: This example uses Image Serving to colorize an object and apply a decal containing custom text in one of a set of vignettes.
 solution: Experience Manager
-title: Examples
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 85f11642-e1ff-4bf0-bd21-d419805cff4a
@@ -16,9 +16,9 @@ The `vignette::Modifier` field in the record named *template* in the vignette ma
 
 `$vig=defaultVignette&$text=text_goes_here&$color=220,220,220&vignette=myCat/$vig$&obj=group/object&color=$color$&decal&src=is{?size=300,100&text={\qc\fs36 $text$}}`
 
-All vignettes that will be used are listed in the vignette map of the material catalog `myCat`.
+All used vignettes are listed in the vignette map of the material catalog `myCat`.
 
-The client can now make the following request to retrieve the default image (this uses the variables defined at the beginning of the template):
+The client can now make the following request to retrieve the default image (uses the variables defined at the beginning of the template):
 
 [!DNL `https://server/myCat/template`]
 

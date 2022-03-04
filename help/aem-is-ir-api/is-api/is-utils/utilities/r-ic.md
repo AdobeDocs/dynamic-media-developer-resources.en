@@ -103,7 +103,7 @@ If you are not converting large images you do not have to set the parameters tha
    <p>Set to 0 to crop based on the color of the specified corner pixel; works on premultiplied color data if alpha data is associated with the source image.</p>
    <p>Set to 1 to crop based on alpha data; corner is ignored and 0 is always the seed value; no crop is applied if no alpha data is associated with the source image.</p> 
    <p><i><b>tolerance</b></i> &ndash; Match tolerance. Real value 0.0 to 1.0. Specifies the tolerance for matching pixel component values. Set to 0 for exact matches.</p>
-   <p><i><b>infoFile</b></i> &ndash; Path and name of the XML output file to which crop info data will be written.</p>
+   <p><i><b>infoFile</b></i> &ndash; Path and name of the XML output file to which crop info data is written.</p>
    
    <p>  
   </tr> 

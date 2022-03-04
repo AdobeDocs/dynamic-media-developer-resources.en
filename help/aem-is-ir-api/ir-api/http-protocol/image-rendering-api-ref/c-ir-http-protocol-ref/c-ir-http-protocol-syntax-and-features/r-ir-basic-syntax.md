@@ -1,7 +1,7 @@
 ---
+title: Image Rendering HTTP protocol basic syntax
 description: This section describes the basic syntax of the Dynamic Media Image Rendering HTTP protocol.
 solution: Experience Manager
-title: Image Rendering HTTP protocol basic syntax
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 8bf5920a-7ada-4db5-9796-05c5a17532c8
@@ -73,8 +73,8 @@ The ' `/ir/render`' root context is required for all HTTP requests to Image Rend
 
 **Comments**
 
-Comments may be embedded into request strings anywhere and are identified by a period (.) immediately following the command separator (&). The comment is terminated by the next occurrence of an (un-encoded) command separator. This feature may be used to add information to the request which is not for Image Serving use, such as time stamps, database ids, etc.
+Comments may be embedded into request strings anywhere and are identified by a period (.) immediately following the command separator (&). The comment is terminated by the next occurrence of an (unencoded) command separator. This feature may be used to add information to the request which is not for Image Serving use, such as time stamps, and database ids.
 
 **HTTP decoding**
 
-Image Rendering first extracts *`object`* and *`modifiers`* from the incoming request. *`object`* is then separated into path elements which are individually HTTP-decoded. The *`modifiers`* string is separated into *`command`*= *`value`* pairs, and *`value`* is then HTTP-decoded before command-specific processing.
+Image Rendering first extracts *`object`* and *`modifiers`* from the incoming request. The *`object`* is then separated into path elements which are individually HTTP-decoded. The *`modifiers`* string is separated into *`command`*= *`value`* pairs, and *`value`* is then HTTP-decoded before command-specific processing.

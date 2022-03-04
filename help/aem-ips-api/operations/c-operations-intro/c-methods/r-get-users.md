@@ -20,7 +20,7 @@ Gets an array of users as specified by company, group, and user role handles. Th
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`includeInactive`*`  | `xsd:boolean`  | No  | Include or exclude inactive users. Non-IPS Admin users must be an active member of at least one company to be authorized to make any API calls. An authorization fault will be returned if the user has no active company memberships.  |
+|  `*`includeInactive`*`  | `xsd:boolean`  | No  | Include or exclude inactive users. Non-IPS Admin users must be an active member of at least one company to be authorized to make any API calls. An authorization fault is returned if the user has no active company memberships.  |
 |  `*`includeInvalid`*`  | `xsd:boolean`  | No  | Lets you include/exclude invalid users.  |
 |  `*`companyHandleArray`*`  | `types:HandleArray`  | No  | Filter results by company.  |
 |  `*`groupHandleArray`*`  | `types:HandleArray`  | No  | Filter results by group.  |
