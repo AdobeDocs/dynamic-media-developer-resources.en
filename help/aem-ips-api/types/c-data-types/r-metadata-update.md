@@ -12,7 +12,7 @@ Sets metadata values for a specific asset used with setAssetMetadata. Describes 
 
 >[!NOTE]
 >
->If the single value field is passed, the asset’s tag value will be reset to the specified tag value.
+>If the single value field is passed, the asset’s tag value is reset to the specified tag value.
 
 ## Parameters {#section-2fc9bea56b6d4b72b80d4f04c5f9b862}
 

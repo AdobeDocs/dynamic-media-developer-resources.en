@@ -25,7 +25,7 @@ Enum.
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p>2 </p> </td> 
-  <td class="stentry"> <p>Deselect; any attempts to apply a material or show/hide objects will be ignored. </p> </td> 
+  <td class="stentry"> <p>Deselect; any attempts to apply a material or show/hide objects is ignored. </p> </td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p>3 </p> </td> 

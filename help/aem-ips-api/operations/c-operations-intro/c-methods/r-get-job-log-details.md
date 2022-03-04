@@ -59,7 +59,7 @@ Gets the details of a company job log.
    <td colname="col1"> <span class="codeph"> <span class="varname"> logTypeArray</span> </span> </td> 
    <td colname="col2"> <span class="codeph"> types:StringArray</span> </td> 
    <td colname="col3"> No </td> 
-   <td colname="col4"> One or more Log Type constants. If present, only the specified log types will be returned. By default, all log types are returned. </td> 
+   <td colname="col4"> One or more Log Type constants. If present, only the specified log types are returned. By default, all log types are returned. </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <span class="codeph"> <span class="varname"> recordsPerPage</span> </span> </td> 

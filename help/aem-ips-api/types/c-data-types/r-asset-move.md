@@ -1,5 +1,5 @@
 ---
-description: A handle to an asset and the handle to where it will be moved.
+description: A handle to an asset and the handle to where it is moved.
 solution: Experience Manager
 title: AssetMove
 feature: Dynamic Media Classic,SDK/API,Asset Management
@@ -8,7 +8,7 @@ exl-id: dfddb436-0d58-41d2-8b5e-556517ba0c32
 ---
 # AssetMove{#assetmove}
 
-A handle to an asset and the handle to where it will be moved.
+A handle to an asset and the handle to where it is moved.
 
  Syntax 
 

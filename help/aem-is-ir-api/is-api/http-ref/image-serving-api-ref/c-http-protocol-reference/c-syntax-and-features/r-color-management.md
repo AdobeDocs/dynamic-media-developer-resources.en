@@ -16,17 +16,17 @@ Each image catalog (and the default catalog) can define a set of ICC profiles wh
 
 ## Input color space {#section-9f08e2c1b6aa4fe4815be174972c1944}
 
-Source images may embed ICC profiles to define the input color space. If no profile is embedded in a source image, `attribute::IccProfileSrc*` of the applicable image catalog corresponding to the pixel type of the source image will be used. If this attribute is not defined in the image catalog, `attribute::IccProfile*` is used. If that catalog attribute is not defined either, the image is not color-managed and only naïve transforms will be applied.
+Source images may embed ICC profiles to define the input color space. If no profile is embedded in a source image, `attribute::IccProfileSrc*` of the applicable image catalog corresponding to the pixel type of the source image is used. If this attribute is not defined in the image catalog, `attribute::IccProfile*` is used. If that catalog attribute is not defined either, the image is not color-managed and only naïve transforms are applied.
 
 ## Output color space {#section-b517bca622b64dcfa7defba6035d0716}
 
-The color space of the final image result of a request is defined with the `icc=` command. If `icc=` is not specified, the default output color space (from the request's main catalog) which corresponds to the pixel type of the output image is used as the output color space. If no output profile is defined in the main or default catalog, and if the base layer is an image with an embedded profile matching the output pixel type, then that profile is used for the output color space. Otherwise, the output color space remains undefined -- only naïve color conversions will be applied when converting between pixel types and no color profile can be embedded in the output image.
+The color space of the final image result of a request is defined with the `icc=` command. If `icc=` is not specified, the default output color space (from the request's main catalog) which corresponds to the pixel type of the output image is used as the output color space. If no output profile is defined in the main or default catalog, and if the base layer is an image with an embedded profile matching the output pixel type, then that profile is used for the output color space. Otherwise, the output color space remains undefined -- only naïve color conversions are applied when converting between pixel types and no color profile can be embedded in the output image.
 
 The output color space of a nested/embedded Image Serving request is always the same as the output color space of the outer, embedding request.
 
 ## Solid colors {#section-df03a5c5ca894e6f8b9a5ba02cf6ac03}
 
-Color values specified with `color=`, `bgcolor=`, or the RTF command `\iscolortbl` will be associated with the input color space if the color value includes the suffix 'S', otherwise they are associated with the output color space. Color values specified with `bgc=` or the RTF commands `\colortbl` and `\cmykcolortbl` are always associated with the corresponding default or actual output color space.
+Color values specified with `color=`, `bgcolor=`, or the RTF command `\iscolortbl` are associated with the input color space if the color value includes the suffix 'S', otherwise they are associated with the output color space. Color values specified with `bgc=` or the RTF commands `\colortbl` and `\cmykcolortbl` are always associated with the corresponding default or actual output color space.
 
 >[!NOTE]
 >

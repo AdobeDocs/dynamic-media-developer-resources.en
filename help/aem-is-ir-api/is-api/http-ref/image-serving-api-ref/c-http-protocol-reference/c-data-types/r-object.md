@@ -41,7 +41,7 @@ Otherwise, *`object`* is assumed to be an explicit file path. In this case, if `
 
 Both *`rootId`* and *`objId`* are case-sensitive. *`path`* is case-sensitive on UNIX only.
 
-If a leading '/' is specified, the default catalog will be searched instead of the main catalog. This is primarily useful when an explicit path requires `default::RootPath` rather than the main catalog's `attribute::RootPath`, but can also be used to gain access to entries in the default catalog which would otherwise be overridden by entries in the main catalog.
+If a leading `/` is specified, the default catalog is searched instead of the main catalog. This is primarily useful when an explicit path requires `default::RootPath` rather than the main catalog's `attribute::RootPath`, but can also be used to gain access to entries in the default catalog which would otherwise be overridden by entries in the main catalog.
 
 Refer to *Managing Content* in the *Server Configuration Guide* for details on how *`path`* is translated to a physical file path.
 

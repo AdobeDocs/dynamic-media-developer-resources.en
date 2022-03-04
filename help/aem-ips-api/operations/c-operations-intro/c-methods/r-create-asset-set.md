@@ -45,7 +45,7 @@ Creates a generic asset set with a raw set definition string to be published to 
    <td colname="col1"> <span class="codeph"> <span class="varname"> folderHandle </span> </span> </td> 
    <td colname="col2"> <span class="codeph"> xsd:string </span> </td> 
    <td colname="col3"> Yes </td> 
-   <td colname="col4"> The handle to the folder in which the new asset set will be created. </td> 
+   <td colname="col4"> The handle to the folder in which the new asset set is created. </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <span class="codeph"> <span class="varname"> name </span> </span> </td> 

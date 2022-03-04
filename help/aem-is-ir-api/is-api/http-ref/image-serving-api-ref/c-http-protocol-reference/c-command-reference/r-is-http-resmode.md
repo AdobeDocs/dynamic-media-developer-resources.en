@@ -49,7 +49,7 @@ Request attribute. Applies to all scaling operations involved in creating the fi
 
 ## Example {#section-ee8c3e5a2e3845fe81de5073a8ab7efe}
 
-Retrieve a best-quality rendition of a layered image stored in an image catalog. The image can include text. The image will be further processed in an image editing application, and thus request an alpha-channel with the image.
+Retrieve a best-quality rendition of a layered image stored in an image catalog. The image can include text. The image is further processed in an image editing application, and thus request an alpha-channel with the image.
 
 ` http:// *`server`*/myLayeredImage?fmt=tif-alpha,,lzw&resMode=sharp2&wid=1800`
 

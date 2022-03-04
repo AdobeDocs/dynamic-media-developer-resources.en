@@ -88,7 +88,7 @@ When you use PTIFF files, the following rules of thumb can help you determine th
 
 **Example**
 
-An Image Serving deployment expects to use 30,000 low-resolution legacy images, with an average size of 500x500 RGB pixels. New print-quality image data is expected to be added at a rate of 10,000 per year. The typical CMYK image size will be 4k x 6k bytes. All data will be JPEG compressed at high quality. The total amount of disk space after 3 years of use is estimated as follows:
+An Image Serving deployment expects to use 30,000 low-resolution legacy images, with an average size of 500x500 RGB pixels. New print-quality image data is expected to be added at a rate of 10,000 per year. The typical CMYK image size is 4k x 6k bytes. All data is JPEG compressed at high quality. The total amount of disk space after 3 years of use is estimated as follows:
 
 *`total_space`* = 30,000 x (2k + 0.5k x 0.5k x 3 x 0.1) + 3 x 10,000 x (2k + 4k x 6k x 4 x 0.1) = 2.2 G + 268 GB = approximately 270 GB
 

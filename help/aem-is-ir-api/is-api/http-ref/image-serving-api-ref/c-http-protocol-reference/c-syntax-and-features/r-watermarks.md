@@ -12,7 +12,7 @@ Image Serving implements a simple visual watermarking facility.
 
 A watermark typically is a semi-transparent image, but it may be text, or a more complex, layered composite image. The server will layer the watermark over the reply image after all view attributes ( `wid=`, `hei=`, `align=`, `scl=`, `bgc=`) have been applied.
 
-Watermarking is enabled by setting `attribute::Watermark` to a valid catalog entry which would contain the watermark image or template. If `attribute::Watermark` is set in a named catalog, the server will add the watermark to all image requests which reference the catalog id in the request URL. If `default::Watermark` is set (in the default catalog, [!DNL default.ini]), the watermark will be applied to all image requests regardless of whether they reference a catalog or not.
+Watermarking is enabled by setting `attribute::Watermark` to a valid catalog entry which would contain the watermark image or template. If `attribute::Watermark` is set in a named catalog, the server will add the watermark to all image requests which reference the catalog id in the request URL. If `default::Watermark` is set (in the default catalog, [!DNL default.ini]), the watermark is applied to all image requests regardless of whether they reference a catalog or not.
 
 Watermarks are not applied to images returned in response to thumbnail requests ( `req=tmb`) and certain requests from Dynamic Media viewers.
 

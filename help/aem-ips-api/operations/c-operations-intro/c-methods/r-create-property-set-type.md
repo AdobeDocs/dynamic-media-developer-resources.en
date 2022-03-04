@@ -25,7 +25,7 @@ A property set type specifies various settings used to help manage property sets
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | No  |The handle to the company that owns the property set type. If `companyHandle` is not passed and the caller is an `IpsAdmin`, a global property set type will be created.  |
+|  `*`companyHandle`*`  | `xsd:string`  | No  |The handle to the company that owns the property set type. If `companyHandle` is not passed and the caller is an `IpsAdmin`, a global property set type is created.  |
 |  `*`name`*`  | `xsd:string`  | Yes  | The name of the property set type.  |
 |  `*`propertyType`*`  | `xsd:string`  | Yes  | Choice of property set types.  |
 |  `*`allowMultiple`*`  | `xsd:boolean`  | Yes  | Determines if your program can have multiple property sets.  |
@@ -38,7 +38,7 @@ A property set type specifies various settings used to help manage property sets
 
 ## Examples {#section-13396c9639a6475190e622eae3cdb534}
 
-This code sample creates a property set with a name and type specified by the `PropertySet Types` constant. The handle to the company that owns the property set type. If companyHandle is not passed and the caller is an IpsAdmin, a global property set type will be created.
+This code sample creates a property set with a name and type specified by the `PropertySet Types` constant. The handle to the company that owns the property set type. If companyHandle is not passed and the caller is an IpsAdmin, a global property set type is created.
 
 **Request** 
 

@@ -1,7 +1,7 @@
 ---
+title: Scene coordinates
 description: The scene coordinate space is used to specify sizes of and distances on the texturable object surfaces.
 solution: Experience Manager
-title: Scene coordinates
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: de7f088e-3825-4d2e-924e-001a44db62a0

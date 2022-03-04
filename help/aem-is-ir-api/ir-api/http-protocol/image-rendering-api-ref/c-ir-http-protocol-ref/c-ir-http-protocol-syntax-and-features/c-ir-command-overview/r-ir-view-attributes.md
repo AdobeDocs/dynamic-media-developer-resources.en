@@ -1,14 +1,14 @@
 ---
-description: These commands are position-independent and may occur anywhere in a request.
-solution: Experience Manager
 title: View attributes
+description: These commands are position independent and may occur anywhere in a request.
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 18e1ee40-fe34-435a-be97-849b08618d48
 ---
 # View attributes{#view-attributes}
 
-These commands are position-independent and may occur anywhere in a request.
+These commands are position independent and may occur anywhere in a request.
 
 <table id="simpletable_D30C7420AECD44ADBD7B0728594FF5FA"> 
  <tr class="strow"> 
@@ -61,6 +61,6 @@ These commands are position-independent and may occur anywhere in a request.
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p><span class="codeph"> <a href="../../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-cache.md#reference-a83329ce7c914ee4b518b0bda71f0438" type="reference" format="dita" scope="local"> cache</a></span> </p> </td> 
-  <td class="stentry"> <p>Override the default response caching behavior. </p></td> 
+  <td class="stentry"> <p>Override the default response-caching behavior. </p></td> 
  </tr> 
 </table>

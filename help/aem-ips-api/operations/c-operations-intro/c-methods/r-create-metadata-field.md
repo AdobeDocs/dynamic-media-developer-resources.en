@@ -58,7 +58,7 @@ Lets administrators create new metadata fields to coordinate with content manage
    <td colname="col1"> <span class="codeph"> <span class="varname"> defaultValue</span> </span> </td> 
    <td colname="col2"> <span class="codeph"> xsd:string</span> </td> 
    <td colname="col3"> No </td> 
-   <td colname="col4"> <p>The default value of the metadata field to be created (for example, <span class="codeph"> Scene 7</span>). </p> <p>Default values are not supported for tag field types and must be omitted. If a non-empty default is specified for a tag field type, a fault will be returned. </p> </td> 
+   <td colname="col4"> <p>The default value of the metadata field to be created (for example, <span class="codeph"> Scene 7</span>). </p> <p>Default values are not supported for tag field types and must be omitted. If a non-empty default is specified for a tag field type, a fault is returned. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <span class="codeph"> <span class="varname"> isHidden</span> </span> </td> 

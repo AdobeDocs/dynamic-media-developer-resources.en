@@ -1,7 +1,7 @@
 ---
+title: Cabinets
 description: Cabinets materials specify a cabinet style file (.vnc file extension), a special data file containing photographic representations of cabinets together with parametric layout definitions and other information required for rendering cabinet fronts.
 solution: Experience Manager
-title: Cabinets
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: cdb3ed5e-c396-483d-aea0-2b3f24efe56e

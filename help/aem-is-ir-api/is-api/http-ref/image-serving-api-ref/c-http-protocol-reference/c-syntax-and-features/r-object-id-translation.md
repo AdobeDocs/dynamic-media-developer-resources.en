@@ -44,7 +44,7 @@ Given the example above, the server first looks for the *`locale`* " `de_de`" in
 
 In the above example, `attribute::LocaleMap` includes an empty *`locale`* which defines the default translation rule, used for unknown `locale=` values (i.e. those not explicitly listed in the translation map). If this translation map were applied to the request `/is/image/myCat/myImg?locale=ja`, it would resolve to `myCat/myImg_E`, if it exists, or otherwise `myCat/myImg`.
 
-If a translation map does not specify a default translation rule, an error will be returned for all requests with unknown `locale=` values.
+If a translation map does not specify a default translation rule, an error is returned for all requests with unknown `locale=` values.
 
 ## Examples {#section-cc40bb00ee9248bb8cb23e17d7a5984c}
 
@@ -56,7 +56,7 @@ For this example, we want to support collections for Western and Middle Eastern 
 
 `attribute::LocaleMap: w1,-W,|w2,-W2,-W,|w3,-W,|m1,-M1,-M,|m2,-M2,-M,|,`
 
-The following table illustrates which catalog entries will be considered, and the order in which they are considered for the generic input ID `myImg`: 
+The following table illustrates which catalog entries are considered, and the order in which they are considered for the generic input ID `myImg`: 
 
 <table id="table_97EB13E3DB9B48D3A4184D5ECC8E9F86"> 
  <thead> 

@@ -29,7 +29,7 @@ Flip Layer. Flips the layer horizontally, vertically, or both, after applying cr
 
 May also be applied to text layers.
 
-Some commands, including `extend=`, implicitly apply to layer 0 instead of the composite layer when `layer=comp` is selected. In such scenarios, all commands that are assigned automatically to layer 0 will be applied before the commands which apply to `layer=comp`. Thus, when `layer=comp`, `extend=` is applied before `flip=`.
+Some commands, including `extend=`, implicitly apply to layer 0 instead of the composite layer when `layer=comp` is selected. In such scenarios, all commands that are assigned automatically to layer 0 is applied before the commands which apply to `layer=comp`. Thus, when `layer=comp`, `extend=` is applied before `flip=`.
 
 >[!NOTE]
 >

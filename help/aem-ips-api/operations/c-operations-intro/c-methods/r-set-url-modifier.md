@@ -10,7 +10,7 @@ exl-id: 9e96ffc8-5a38-46b8-9ba8-956c86b32c7a
 
 Sets the Image Serving or Image Rendering protocol commands for the specified asset. These commands modify the representation of the asset without destroying it.
 
- For Image Serving, commands in the `urlModifier` parameter are published in the Modifier catalog field and applied prior to any commands specified on the request URL. Commands in `urlPostApplyModifier` will be published to the `PostModifier` catalog field and will override any commands on the request URL or in `urlModifier`. For Image Rendering, the commands in `urlModifier` and `urlPostApplyModifier` are concatenated and published to the Modifier catalog field. 
+ For Image Serving, commands in the `urlModifier` parameter are published in the Modifier catalog field and applied prior to any commands specified on the request URL. Commands in `urlPostApplyModifier` are published to the `PostModifier` catalog field and override any commands on the request URL or in `urlModifier`. For Image Rendering, the commands in `urlModifier` and `urlPostApplyModifier` are concatenated and published to the Modifier catalog field. 
 
 ## Authorized User Types {#section-fefcd732ccf64c78956606538f96c73d}
 

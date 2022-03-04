@@ -24,7 +24,7 @@ Date/time value in Java format. Can be either the integer number of milliseconds
 
 *[!DNL offset]* is a time zone offset in hours or hours:minutes, relative to GMT. For example, 'PDT' is equivalent to 'GMT -7'.
 
-All elements of string formatted date/time values must be present. If the date/time value is not formatted correctly it is ignored and the modification time of the [!DNL *[!DNL catalog]*.ini] file will be used instead.
+All elements of string formatted date/time values must be present. If the date/time value is not formatted correctly it is ignored and the modification time of the [!DNL *[!DNL catalog]*.ini] file is used instead.
 
 ## Default {#section-65fb29a9ea2044df8cb9fe295eb14872}
 

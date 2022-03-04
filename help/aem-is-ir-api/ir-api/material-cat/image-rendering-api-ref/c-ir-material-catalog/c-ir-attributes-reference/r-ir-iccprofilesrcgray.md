@@ -16,7 +16,7 @@ Text string. If specified, must be a valid `icc::Name` value from the ICC profil
 
 ## Default {#section-02c52805ee13483dba7878aeab51f889}
 
-Inherited from `default::IccProfileSrcGray` if not defined or if empty. If `attribute::IccProfileSrcGray` does not resolve to a valid profile, `attribute::IccProfileGray` will be used instead.
+Inherited from `default::IccProfileSrcGray` if not defined or if empty. If `attribute::IccProfileSrcGray` does not resolve to a valid profile, `attribute::IccProfileGray` is used instead.
 
 ## See also {#section-c361d6f6231942b3aa8b4b496e1d3de3}
 

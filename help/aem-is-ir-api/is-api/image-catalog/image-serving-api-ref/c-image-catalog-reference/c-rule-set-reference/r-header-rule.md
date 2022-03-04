@@ -22,7 +22,7 @@ Header value.
 
 ## Description {#section-fb2a8ad79bc5414d8bb0d0e8199f3269}
 
-Allows adding new HTTP response headers as well as adding or replacing values of pre-defined headers. Names and values must conform to HTTP standards. No additional encoding will be applied.
+Allows adding new HTTP response headers as well as adding or replacing values of pre-defined headers. Names and values must conform to HTTP standards. No additional encoding is applied.
 
 Image Serving substitution variables may be used in the header name and the header value. This allows controlling both strings from the request.
 

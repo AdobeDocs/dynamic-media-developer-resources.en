@@ -1,14 +1,14 @@
 ---
+title: Color values
 description: Color values for color= and bgc= attributes may be specified using either a list of decimal, comma-separated component values, or a hex notation, similar to HTML.
 solution: Experience Manager
-title: Color values
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 608ff0f1-4fbd-4e32-af07-3a62569d14c7
 ---
 # Color values{#color-values}
 
-Color values for color= and bgc= attributes may be specified using either a list of decimal, comma-separated component values, or a hex notation, similar to HTML.
+Color values for `color=` and `bgc=` attributes may be specified using either a list of decimal, comma-separated component values, or a hex notation, similar to HTML.
 
 <table id="simpletable_9B3A231D5BB14A3DB2B42B341E198341"> 
  <tr class="strow"> 
@@ -21,11 +21,11 @@ Color values for color= and bgc= attributes may be specified using either a list
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p><i>hex6</i> </p></td> 
-  <td class="stentry"> <p>Packed six digit hexadecimal RGB color value (RRGGBB). </p></td> 
+  <td class="stentry"> <p>Packed six-digit hexadecimal RGB color value (RRGGBB). </p></td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p><i>hex2</i> </p></td> 
-  <td class="stentry"> <p>Packed two digit hexadecimal gray color value (0…FF). </p></td> 
+  <td class="stentry"> <p>Packed two-digit hexadecimal gray color value (0…FF). </p></td> 
  </tr> 
 </table>
 

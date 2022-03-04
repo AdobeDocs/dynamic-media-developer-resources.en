@@ -89,7 +89,7 @@ The predefined path variable is commonly used in conjunction with `template=`.
 
 ## Default {#section-b02483d15529444586a2e9504805b155}
 
-None. Only variables which have been defined will be substituted by the server (except the pre-defined path variable $object, which will always be substituted). Any occurrences of ` $ *`var`*$` remain literal if `*`var`*`cannot be matched with an existing variable definition.
+None. Only variables which have been defined are substituted by the server (except the pre-defined path variable $object, which will always be substituted). Any occurrences of ` $ *`var`*$` remain literal if `*`var`*`cannot be matched with an existing variable definition.
 
 ## Examples {#section-fba9393df6984247b7e30b3f93992e86}
 

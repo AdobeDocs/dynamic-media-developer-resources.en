@@ -26,7 +26,7 @@ Used by MetadataField/type, saveMetadataFieldParam/fieldType, and createMetadata
 * [!DNL `Int`] 
 * [!DNL `MultiFixedTag`]: Zero or more string values from a closed dictionary. Only admin users can modify the dictionary. 
 * [!DNL `MultiTag`]: Zero or more string values. 
-* [!DNL `SingleFixedTag`]: A single string value from a closed dictionary. If `setAssetMetadata` or `batchSetAssetMetadata` are called with a value not in the dictionary, a fault will be returned. Only admin users can modify the dictionary. 
+* [!DNL `SingleFixedTag`]: A single string value from a closed dictionary. If `setAssetMetadata` or `batchSetAssetMetadata` are called with a value not in the dictionary, a fault is returned. Only admin users can modify the dictionary. 
 
 * [!DNL `SingleTag`]: Any single string value. 
 * [!DNL `String`]

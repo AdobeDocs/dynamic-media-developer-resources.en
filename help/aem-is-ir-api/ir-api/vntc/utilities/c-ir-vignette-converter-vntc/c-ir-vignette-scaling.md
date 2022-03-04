@@ -25,7 +25,7 @@ Four general types of production vignettes are supported.
 
 Effectively, each resolution is saved to the production vignette as an independent view with its own image width and height.
 
-The view size of a single-resolution vignette is specified with either `-width` or `-height` or both. If both values are specified, the vignette will be scaled so that neither dimension is larger than the specified size. If neither value is specified, the output vignette will have the same size as the input vignette. No upscaling will be applied; if the specified size is larger than the size of the input vignette, the output vignette will have the same size as the input vignette.
+The view size of a single-resolution vignette is specified with either `-width` or `-height` or both. If both values are specified, the vignette is scaled so that neither dimension is larger than the specified size. If neither value is specified, the output vignette will have the same size as the input vignette. No upscaling is applied; if the specified size is larger than the size of the input vignette, the output vignette will have the same size as the input vignette.
 
 Effectively the same rules apply to multi-resolution vignettes, with the first resolution level being sized just like a single-resolution vignette. The additional resolutions are specified with additional comma-separated values for either `-width` or `-height`. Values do not need to be sorted. If `-width` specifies multiple values, then `-height` must only provide a single value, and vice versa, otherwise an error is returned.
 

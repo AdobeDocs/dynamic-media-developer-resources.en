@@ -105,7 +105,7 @@ The Digimarc library refuses to apply a Digimarc watermark to an image if one is
 ## Restrictions applicable only to Image Serving {#section-b08ad535e4454265b8157dec244c4faf}
 
 * Foreground colors in the RTF ( `\cf`) command are not supported for PhotoFont text. 
-* Synthesizing bold, italic, and bold/italic will be rejected as an error for PhotoFont text. 
+* Synthesizing bold, italic, and bold/italic is rejected as an error for PhotoFont text. 
 * Vertical text flow is not supported for PhotoFont text. 
 * 16bpc PNG images are not supported for PhotoFont text. 
 * Color corrections for PNG images with embedded color profiles use hard-coded options. Render intent is relative colorimetric and Blackpoint compensation is turned on for PhotoFont text. 

@@ -1,7 +1,7 @@
 ---
+title: Introduction
 description: This document describes the HTTP protocol for Dynamic Media Image Rendering.
 solution: Experience Manager
-title: Introduction
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: c185e45b-a56c-4576-b05d-22cc0025a7c4
@@ -14,7 +14,7 @@ Only the publicly available aspects of the protocol are described. The server ma
 
 **Intended audience**
 
-This documented is intended for experienced programmers and website developers who want to leverage Dynamic Media Image Rendering for a website or a custom application.
+This document is intended for experienced programmers and website developers who want to use Dynamic Media Image Rendering for a website or a custom application.
 
 It is assumed that the reader is familiar with Dynamic Media Image Authoring and Image Rendering, general HTTP protocol standards and conventions, and basic imaging terminology.
 
@@ -23,7 +23,7 @@ It is assumed that the reader is familiar with Dynamic Media Image Authoring and
 <table id="simpletable_E96BA470B3CE4266A9E6ED0440A56C40"> 
  <tr class="strow"> 
   <td class="stentry"> <p>literal </p> </td> 
-  <td class="stentry"> <p>In syntax sections, non-italic text is literal; this does not apply to white space and the symbols [ ] { } | *. </p> </td> 
+  <td class="stentry"> <p>In syntax sections, non-italic text is literal; it does not apply to white space and the symbols [ ] { } | *. </p> </td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p>'literal' </p> </td> 

@@ -1,7 +1,7 @@
 ---
+title: Image Rendering HTTP encoding
 description: Command values must be http-encoded using %xx escape sequences, such that the value strings do not include the reserved characters '=', '&', and '%'.
 solution: Experience Manager
-title: Image Rendering HTTP encoding
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: a1efc4ce-a170-4bdb-8584-407e07113272
@@ -12,7 +12,7 @@ Command values must be http-encoded using %xx escape sequences, such that the va
 
 Otherwise, standard HTTP encoding rules apply. The HTTP specification requires encoding of the unsafe characters such as ' ' (space), '"'(double-quote), '#', '%', '<', and '>', as well as any control characters, such as `<return>` and `<tab>`.
 
-**Caution:** Curly braces { } used as request nesting delimiters must not be encoded. Certain email clients unfortunately encode curly braces in embedded HTTP request. Should this be an issue, Image Rendering allows use of parentheses ( ) instead of curly braces.
+**Caution:** Curly braces { } used as request-nesting delimiters must not be encoded. Certain email clients unfortunately encode curly braces in embedded HTTP request. Should this issue be a problem, Image Rendering allows use of parentheses ( ) instead of curly braces.
 
 ## Example {#section-3edc5b8ee2354220a281b01722ad337a}
 

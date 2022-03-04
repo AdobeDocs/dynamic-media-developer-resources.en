@@ -1,12 +1,12 @@
 ---
+title: Material catalogs
 description: Material catalogs offer several features.
 solution: Experience Manager
-title: Material catalogs *
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 502f80f5-fdd1-468b-89a9-64cc9128d655
 ---
-# Material catalogs *{#material-catalogs}
+# Material catalogs {#material-catalogs}
 
 Material catalogs offer several features.
 
@@ -18,11 +18,11 @@ Material catalogs offer several features.
 
 Even if no specific material catalogs are defined, all features of material catalogs are available via the default catalog ( [!DNL default.ini]).
 
-While render materials may be specified explicitly in requests using material attributes, in many cases it is more desirable to hide the details of materials from the web site by using material catalogs. src= commands accept catalog references instead of explicit file paths. A catalog entry consists of ` [ *[!DNL catId]*/] *[!DNL itemId]*`, where ` *[!DNL catId]*` identifies a material catalog and ` *[!DNL itemId]*` identifies a record in the catalog. If ` *[!DNL catId]*` is not specified, the session catalog is used (see below).
+While render materials may be specified explicitly in requests using material attributes, often it is more desirable to hide the details of materials from the web site by using material catalogs. src= commands accept catalog references instead of explicit file paths. A catalog entry consists of ` [ *[!DNL catId]*/] *[!DNL itemId]*`, where ` *[!DNL catId]*` identifies a material catalog and ` *[!DNL itemId]*` identifies a record in the catalog. If ` *[!DNL catId]*` is not specified, the session catalog is used (see below).
 
-A catalog record is matched successfully if (a) ` *[!DNL catId]*` matches the `attribute::RootId` value of a material catalog and (b) ` *[!DNL recId]*` matches the catalog::Id value in the same catalog. In case of a successful match, the attributes of the material (including `src=`) are set to the data from the catalog record. If the MSS includes additional attributes for this material besides src=, they override the values from the catalog record.
+A catalog record is matched successfully if (a) ` *[!DNL catId]*` matches the `attribute::RootId` value of a material catalog and (b) ` *[!DNL recId]*` matches the catalog::Id value in the same catalog. If there is a successful match, the attributes of the material (including `src=`) are set to the data from the catalog record. If the MSS includes additional attributes for this material besides src=, they override the values from the catalog record.
 
-If ` *[!DNL recId]*` cannot be matched to a catalog entry, then ` *[!DNL catId]*` is replaced with `attribute::RootPath` from the catalog and the resulting path is then assumed to be a simple file path. Other default attributes (e.g. `attribute::Resolution`) may also be inherited from the material catalog.
+If ` *[!DNL recId]*` cannot be matched to a catalog entry, then ` *[!DNL catId]*` is replaced with `attribute::RootPath` from the catalog and the resulting path is then assumed to be a simple file path. Other default attributes (for example, `attribute::Resolution`) may also be inherited from the material catalog.
 
 Vignettes and ICC profiles can be itemized in material catalogs similar to the materials themselves, and given properties. In addition, the vignette map also provides the container for templates.
 

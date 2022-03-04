@@ -14,7 +14,7 @@ While adding new data files is simple and straight-forward, special care must be
 >
 >Data files should never be replaced or deleted while in active use by Image Serving. Errors or even a server crash may occur otherwise.
 
-In all cases, remember that the Platform Server cache and the client cache entries must become stale before the updated data will be seen by the client. Specific cache entries can be updated immediately using the `cache=validate` command.
+In all cases, remember that the Platform Server cache and the client cache entries must become stale before the updated data is seen by the client. Specific cache entries can be updated immediately using the `cache=validate` command.
 
 Changes to font files and ICC profile files are not tracked directly by the cache manager. If such a resource is modified without changing its id, the server cache will not know about the change, and `cache=validate` will not cause the cache entry to be updated. `cache=update` can be used to force regenerating such cache entries.
 

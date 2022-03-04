@@ -1,7 +1,7 @@
 ---
+title: Repeatable textures
 description: Repeatable textures include interior and exterior materials, such as fabrics (both apparel and upholstery), wall-to-wall floor coverings, wallpapers, countertop materials, wood grain textures, roofing and siding materials, and any other generic texture.
 solution: Experience Manager
-title: Repeatable textures
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 3693498b-994a-460a-8b2e-780a1482d37a
@@ -12,7 +12,7 @@ Repeatable textures include interior and exterior materials, such as fabrics (bo
 
 Repeatable textures can be applied to flat, flowline, sketch, plane, wall, and cabinet objects. When applied to a non-texturable object, the object is painted with `color=` (or `bgc=` if `color=` is not specified).
 
-A material is considered a texture if it includes a `src=` attribute specifying an image and if it occurs in a MSS other than decal or wall border.
+A material is considered a texture if it includes a `src=` attribute specifying an image and if it occurs in an MSS other than decal or wall border.
 
 When rendering, the texture is aligned with the object by matching the `anchor=` point of the texture material with the texture origin point of the object (as authored in the vignette).
 

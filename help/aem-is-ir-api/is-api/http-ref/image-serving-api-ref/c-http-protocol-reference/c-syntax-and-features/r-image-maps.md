@@ -43,7 +43,7 @@ All other commands are effectively ignored.
 
 The `SHAPE` and `COORDS` attributes of an `AREA` may be modified during processing of a `req=map` request, all other attributes of the `AREA` element are passed without modification. In most cases this involves changing the `SHAPE` value from `DEFAULT` to `RECT` (this would also add the `COORDS` attribute), or changing the `COORDS` values.
 
-Any `AREA` elements which become empty during processing will be removed entirely. If a map is associated with `layer=comp` it is placed behind all other maps. The data is returned in text form one as or more HTML `AREA` elements. An empty reply string indicates that no image map exists for the specified object(s).
+Any `AREA` elements which become empty during processing are removed entirely. If a map is associated with `layer=comp` it is placed behind all other maps. The data is returned in text form one as or more HTML `AREA` elements. An empty reply string indicates that no image map exists for the specified object(s).
 
 Layer transparency is not considered for map processing. A fully transparent layer can still have an image map associated with it. The map of a partially transparent layer will not be clipped to the transparent regions.
 

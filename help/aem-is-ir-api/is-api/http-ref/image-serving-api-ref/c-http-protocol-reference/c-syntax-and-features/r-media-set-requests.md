@@ -94,7 +94,7 @@ In all cases, the resultant xml response will conform to specified XML document 
 
 ## Inner set type detection {#section-8f46490e467247e69ce284704def06f3}
 
-When the outer set is detected as type media set, the response will contain a set of media set items corresponding to each media set entry in `catalog::ImageSet`. If the optional type parameter is specified for a particular media set entry, it will be mapped to an output type according to the following table:
+When the outer set is detected as type media set, the response will contain a set of media set items corresponding to each media set entry in `catalog::ImageSet`. If the optional type parameter is specified for a particular media set entry, it is mapped to an output type according to the following table:
 
 |  Input type  | Output type  |
 |---|---|
@@ -126,9 +126,9 @@ The `labelkey=` modifier is used together with the `catalog::UserData`field to g
 
 In order to limit the size of the response and prevent self-referential issues, the maximum nesting depth is controlled by the server property `PS::fvctx.nestingLimit`. If this limit is exceeded, an error is returned.
 
-In order to limit the size of the xml responses for large e-catalog sets, private metadata is suppressed for brochure set items according to the server property `PS::fvctx.brochureLimit`. All private metadata associated with the brochure will be exported until the brochure limit is reached. Once the limit is exceeded, private maps and userdata will be suppressed and a corresponding flag will be set to indicate which type of data was suppressed.
+In order to limit the size of the xml responses for large e-catalog sets, private metadata is suppressed for brochure set items according to the server property `PS::fvctx.brochureLimit`. All private metadata associated with the brochure is exported until the brochure limit is reached. After the limit is exceeded, private maps and userdata is suppressed and a corresponding flag is set to indicate which type of data was suppressed.
 
-Nested media sets are not supported. A nested media set is defined as a media set which contains a media set item of type media set. If this condition is detected, an error will be returned.
+Nested media sets are not supported. A nested media set is defined as a media set which contains a media set item of type media set. If this condition is detected, an error is returned.
 
 ## Examples {#section-588c9d33aa05482c86cd2b1936887228}
 
