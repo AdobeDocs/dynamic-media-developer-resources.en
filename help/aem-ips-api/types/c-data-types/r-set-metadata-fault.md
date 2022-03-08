@@ -16,7 +16,7 @@ Warning or error details for a sing update in a batchSetAssetMetadata operation.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`assetHandle`*`  | `xsd:string`  | The asset whose metadata was unsuccessfully set.  |
-|  `*`fieldHandle`*`  | `xsd:string`  | The handle to the metadata field whose value was unsuccessfully set.  |
-|  `*`code`*`  | `xsd:int`  | Fault code.  |
-|  `*`reason`*`  | `xsd:string`  | Fault description (plain-text).  |
+|  assetHandle  | `xsd:string`  | The asset whose metadata was unsuccessfully set.  |
+|  fieldHandle  | `xsd:string`  | The handle to the metadata field whose value was unsuccessfully set.  |
+|  code  | `xsd:int`  | Fault code.  |
+|  reason  | `xsd:string`  | Fault description (plain-text).  |

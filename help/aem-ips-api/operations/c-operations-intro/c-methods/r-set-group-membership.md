@@ -24,9 +24,9 @@ Sets group membership for a user.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`userHandle`*`  | `xsd:string`  | No  | The handle to the user whose group membership you want to set.  |
-|  `*`companyHandle`*`  | `xsd:string`  | No  | Company handle.  |
-|  `*`groupHandleArray`*`  | `types:HandleArray`  | Yes  | The array of handles to groups to which the user to belongs.  |
+|  userHandle  | `xsd:string`  | No  | The handle to the user whose group membership you want to set.  |
+|  companyHandle  | `xsd:string`  | No  | Company handle.  |
+|  groupHandleArray  | `types:HandleArray`  | Yes  | The array of handles to groups to which the user to belongs.  |
 
 **Output (setGroupMembershipReturn)**
 

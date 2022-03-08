@@ -16,4 +16,4 @@ Details for an optimize images job.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`emailSetting`*`  | `xsd:string`  | An email settings field.  |
+|  emailSetting  | `xsd:string`  | An email settings field.  |

@@ -16,5 +16,5 @@ An array of CompanyMetadataInfo elements.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`Code Phrase`*`  | `Code Phrase`  | |
-|  `*`Code Phrase`*`  | `Code Phrase`  | |
+|  Code Phrase  | `Code Phrase`  | |
+|  Code Phrase  | `Code Phrase`  | |

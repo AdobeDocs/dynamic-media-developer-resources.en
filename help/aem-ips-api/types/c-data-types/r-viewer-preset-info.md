@@ -16,5 +16,5 @@ Properties of a viewer preset asset.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`type`*`  | `xsd:string`  | Choice of viewer type.  |
-|  `*`configSettingArray`*`  | `types:ConfigSettingArray`  | Viewer configuration settings array.  |
+|  type  | `xsd:string`  | Choice of viewer type.  |
+|  configSettingArray  | `types:ConfigSettingArray`  | Viewer configuration settings array.  |

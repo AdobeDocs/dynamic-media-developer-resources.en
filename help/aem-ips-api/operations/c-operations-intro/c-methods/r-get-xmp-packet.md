@@ -28,14 +28,14 @@ Retrieves an XMP Metadata packet for the specified asset.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  |The company handle with the packet you want to return (e.g., `c|656`).  |
-|  `*`assetHandle`*`  | `xsd:string`  | Yes  | The asset for which the XMP packet should be retrieved.  |
+|  companyHandle  | `xsd:string`  | Yes  |The company handle with the packet you want to return (e.g., `c|656`).  |
+|  assetHandle  | `xsd:string`  | Yes  | The asset for which the XMP packet should be retrieved.  |
 
 **Output (getXMPPacketReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`compressedPacket`*`  | `xsd:Base 64 binary`  | Yes  | [!DNL zlib-compressed] XMP packet.  |
+|  compressedPacket  | `xsd:Base 64 binary`  | Yes  | [!DNL zlib-compressed] XMP packet.  |
 
 ## Examples {#section-d681af49122e4ca9bcd04110a2e98e6f}
 

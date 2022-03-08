@@ -25,8 +25,8 @@ Sets a user’s membership in one or more companies.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`userHandle`*`  | `xsd:sting`  | No  | User handle.  |
-|  `*`membershipArray`*`  | `types:CompanyMembershipUpdateArray`  | Yes  | Array of companies.  |
+|  userHandle  | `xsd:sting`  | No  | User handle.  |
+|  membershipArray  | `types:CompanyMembershipUpdateArray`  | Yes  | Array of companies.  |
 
 **Output (setCompanyMembershipParam)**
 

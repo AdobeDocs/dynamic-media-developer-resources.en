@@ -28,14 +28,14 @@ Returns all values for a metadata field.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that you want to get data for.  |
-|  `*`metadataKey`*`  | `xsd:string`  | Yes  | Metadata key in dot notation.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company that you want to get data for.  |
+|  metadataKey  | `xsd:string`  | Yes  | Metadata key in dot notation.  |
 
 **Output (getDistinctMetadataValuesReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`valueArray`*`  | `types:ValueArray`  | Yes  | Values of the requested metadata field.  |
+|  valueArray  | `types:ValueArray`  | Yes  | Values of the requested metadata field.  |
 
 ## Examples {#section-0189fa6fb31646cda5ce1b0bc4fcdf46}
 

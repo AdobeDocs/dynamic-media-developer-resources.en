@@ -16,5 +16,5 @@ Updates metadata in batch mode.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`assetHandleArray`*`  | `types:HandleArray`  | Array of asset handles.  |
-|  `*`updateArray`*`  | `types:MetadataUpdateArray`  | Array of metadata update handles.  |
+|  assetHandleArray  | `types:HandleArray`  | Array of asset handles.  |
+|  updateArray  | `types:MetadataUpdateArray`  | Array of metadata update handles.  |

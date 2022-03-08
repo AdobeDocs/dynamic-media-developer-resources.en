@@ -29,14 +29,14 @@ Checks for IPS ID conflicts by comparing asset names against all names a company
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | No  | The handle to the company that contains the user.  |
-|  `*`assetNamesArray`*`  | `types:StringArray`  | Yes  | An array of asset names to check.  |
+|  companyHandle  | `xsd:string`  | No  | The handle to the company that contains the user.  |
+|  assetNamesArray  | `types:StringArray`  | Yes  | An array of asset names to check.  |
 
 **Output (checkAssetNamesReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`inUseNameArray`*`  | `types:StringArray`  | Yes  | An array of asset names in use.  |
+|  inUseNameArray  | `types:StringArray`  | Yes  | An array of asset names in use.  |
 
 ## Examples {#section-bc5d120d74614a63a425ca3acc337219}
 

@@ -1,7 +1,7 @@
 ---
+title: AssetOperationFaultArray
 description: An array of asset operation faults.
 solution: Experience Manager
-title: AssetOperationFaultArray
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Admin
 exl-id: 8bc6bfaa-eecf-4346-af57-25df2a471a1f
@@ -16,4 +16,4 @@ An array of asset operation faults.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:AssetOperationFault`  | An array of asset operation fault items.  |
+|  items  | `types:AssetOperationFault`  | An array of asset operation fault items.  |

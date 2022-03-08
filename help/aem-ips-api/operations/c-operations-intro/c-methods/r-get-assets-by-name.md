@@ -108,7 +108,7 @@ Returns assets based on an array of asset names.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`assetArray`*`  | `types:AssetArray`  | No  | Array of assets that match the filter criteria.  |
+|  assetArray  | `types:AssetArray`  | No  | Array of assets that match the filter criteria.  |
 
 ## Examples {#section-3b7447398e574c88aeaf8ca159cc78dd}
 

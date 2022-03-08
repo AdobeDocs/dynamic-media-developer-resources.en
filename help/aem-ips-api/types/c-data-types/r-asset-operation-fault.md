@@ -1,7 +1,7 @@
 ---
+title: AssetOperationFault
 description: Contains information about warning or error conditions generated during a batch asset operation. The code and reason fields correspond to the fault message fields that would have been thrown for the equivalent non-batch operation.
 solution: Experience Manager
-title: AssetOperationFault
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Admin
 exl-id: c97fc35b-76f8-4ff7-a1ae-e5f9749f376c
@@ -16,6 +16,6 @@ Contains information about warning or error conditions generated during a batch 
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`assetHandle`*`  | `xsd:string`  | Asset handle for the failed operation.  |
-|  `*`code`*`  | `xsd:int`  | Operation fault code.  |
-|  `*`reason`*`  | `xsd:string`  | Fault description or reason.  |
+|  assetHandle  | `xsd:string`  | Asset handle for the failed operation.  |
+|  code  | `xsd:int`  | Operation fault code.  |
+|  reason  | `xsd:string`  | Fault description or reason.  |

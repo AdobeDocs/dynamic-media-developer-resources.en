@@ -16,4 +16,4 @@ Render scene asset properties.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`url`*`  | `xsd:string`  | Image server URL that represents the render scene.  |
+|  url  | `xsd:string`  | Image server URL that represents the render scene.  |

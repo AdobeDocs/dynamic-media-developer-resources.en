@@ -16,5 +16,5 @@ Assets that belong to an image set.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`asset`*`  | `type:Asset`  | Assets in the image set array.  |
-|  `*`pageReset`*`  | `xsd:boolean`  |Starts a new page. Setting is ignored and value is forced to `true` for `eCatalog` and `RenderSet` sets.  |
+|  asset  | `type:Asset`  | Assets in the image set array.  |
+|  pageReset  | `xsd:boolean`  |Starts a new page. Setting is ignored and value is forced to `true` for `eCatalog` and `RenderSet` sets.  |

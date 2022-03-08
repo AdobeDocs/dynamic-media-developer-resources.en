@@ -14,6 +14,6 @@ exl-id: c88202f3-df21-4026-aa92-212d3c05f242
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Handle to the company.  |
-|  `*`role`*`  | `xsd:string`  | The role a user has for each company they belong to.  |
-|  `*`isActive`*`  | `xsd:boolean`  | Sets the user's status for each company they belong to.  |
+|  companyHandle  | `xsd:string`  | Handle to the company.  |
+|  role  | `xsd:string`  | The role a user has for each company they belong to.  |
+|  isActive  | `xsd:boolean`  | Sets the user's status for each company they belong to.  |

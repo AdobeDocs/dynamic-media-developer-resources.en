@@ -25,11 +25,11 @@ Attaches viewer configuration settings to an asset. These can be a viewer preset
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company.  |
-|  `*`assetHandle`*`  | `xsd:string`  | Yes  | Asset handle.  |
-|  `*`name`*`  | `xsd:string`  | Yes  | Asset name.  |
-|  `*`type`*`  | `xsd:string`  | Yes  | The type of asset you want to apply the viewer configuration to.  |
-|  `*`configSettingArray`*`  | `types:ConfigSettingArray`  | Yes  |The array of `ConfigSettings` applied to the asset..  |
+|  companyHandle  | `xsd:string`  | Yes  | Handle to the company.  |
+|  assetHandle  | `xsd:string`  | Yes  | Asset handle.  |
+|  name  | `xsd:string`  | Yes  | Asset name.  |
+|  type  | `xsd:string`  | Yes  | The type of asset you want to apply the viewer configuration to.  |
+|  configSettingArray  | `types:ConfigSettingArray`  | Yes  |The array of `ConfigSettings` applied to the asset..  |
 
 **Output (setViewerConfigSettingsParam)**
 

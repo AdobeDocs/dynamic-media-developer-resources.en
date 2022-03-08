@@ -16,4 +16,4 @@ Array of job log details.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:JobLogDetail`  | An array of job log details.  |
+|  items  | `types:JobLogDetail`  | An array of job log details.  |

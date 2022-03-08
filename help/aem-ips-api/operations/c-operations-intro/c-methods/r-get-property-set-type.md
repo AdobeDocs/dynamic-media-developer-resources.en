@@ -30,8 +30,8 @@ Gets a property set type using a handle to a company and the name of the propert
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | No  | The handle to the company. Optional because a property set type can belong to multiple companies.  |
-|  `*`name`*`  | `xsd:string`  | Yes  | Property set type name.  |
+|  companyHandle  | `xsd:string`  | No  | The handle to the company. Optional because a property set type can belong to multiple companies.  |
+|  name  | `xsd:string`  | Yes  | Property set type name.  |
 
 **Output (getPropertySetTypeReturn)** 
 

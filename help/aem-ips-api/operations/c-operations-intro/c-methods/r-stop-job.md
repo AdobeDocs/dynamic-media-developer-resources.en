@@ -29,8 +29,8 @@ Stops a job in progress.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Company handle.  |
-|  `*`jobHandle`*`  | `xsd:string`  | Yes  | Handle to the job you want to stop.  |
+|  companyHandle  | `xsd:string`  | Yes  | Company handle.  |
+|  jobHandle  | `xsd:string`  | Yes  | Handle to the job you want to stop.  |
 
 **Output (stopJobReturn0**
 

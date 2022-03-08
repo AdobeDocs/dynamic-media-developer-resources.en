@@ -1,7 +1,7 @@
 ---
+title: AssetJobLog
 description: The details of a job log entry associated with a particular asset. Data returned by getAssetJobLogs.
 solution: Experience Manager
-title: AssetJobLog
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Admin
 exl-id: 2c8ebec2-a664-46cd-b843-9893bfa0a9d1
@@ -10,7 +10,7 @@ exl-id: 2c8ebec2-a664-46cd-b843-9893bfa0a9d1
 
 The details of a job log entry associated with a particular asset. Data returned by getAssetJobLogs.
 
- Syntax 
+Syntax 
 
 ## Parameters {#section-5da4d6156b7f4ca88a67202fbf736104}
 

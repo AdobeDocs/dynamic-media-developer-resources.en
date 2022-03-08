@@ -16,9 +16,9 @@ Zoom target definition.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`name`*`  | `xsd:string`  | Target name.  |
-|  `*`xPosition`*`  | `xsd:int`  | The X position of the zoom target.  |
-|  `*`yPosition`*`  | `xsd:int`  | The Y position of the zoom target.  |
-|  `*`width`*`  | `xsd:int`  | Zoom target width.  |
-|  `*`height`*`  | `xsd:int`  | Zoom target height.  |
-|  `*`userData`*`  | `xsd:string`  | Associated user data.  |
+|  name  | `xsd:string`  | Target name.  |
+|  xPosition  | `xsd:int`  | The X position of the zoom target.  |
+|  yPosition  | `xsd:int`  | The Y position of the zoom target.  |
+|  width  | `xsd:int`  | Zoom target width.  |
+|  height  | `xsd:int`  | Zoom target height.  |
+|  userData  | `xsd:string`  | Associated user data.  |

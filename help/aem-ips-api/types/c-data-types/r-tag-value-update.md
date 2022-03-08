@@ -16,5 +16,5 @@ Defines old and new tag field values.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`oldValue`*`  | `xsd:string`  | Original tag field value.  |
-|  `*`newValue`*`  | `xsd:string`  | New tag field value.  |
+|  oldValue  | `xsd:string`  | Original tag field value.  |
+|  newValue  | `xsd:string`  | New tag field value.  |

@@ -25,7 +25,7 @@ Deletes a property set type and its associated property set and properties.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`typeHandle`*`  | `xsd:string`  | Yes  | The handle to the property set type to be deleted.  |
+|  typeHandle  | `xsd:string`  | Yes  | The handle to the property set type to be deleted.  |
 
 **Output (deletePropertySetTypeParam)**
 

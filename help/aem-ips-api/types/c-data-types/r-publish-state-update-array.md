@@ -16,4 +16,4 @@ An array of publish state updates.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:PublishStateUpdate`  | The array of publish state updates.  |
+|  items  | `types:PublishStateUpdate`  | The array of publish state updates.  |

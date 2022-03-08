@@ -50,8 +50,8 @@ Gets all users in an array.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`userArray`*`  | `types:UserArray`  | Yes  | Array of all users.  |
-|  `*`Code Phrase`*`  | `Code Phrase`  |  |  |
+|  userArray  | `types:UserArray`  | Yes  | Array of all users.  |
+|  Code Phrase  | `Code Phrase`  |  |  |
 
 ## Examples {#section-9c9a2d335513478da20652c1b1443731}
 

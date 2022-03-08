@@ -114,7 +114,7 @@ Newer Image Rendering server versions can support pyramid vignettes, which elimi
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`vignetteFormatHandle`*`  | `xsd:string`  | Yes  | The handle to the created vignette format.  |
+|  vignetteFormatHandle  | `xsd:string`  | Yes  | The handle to the created vignette format.  |
 
 ## Examples {#section-0564752d439642b9bb8de2903db6de1e}
 

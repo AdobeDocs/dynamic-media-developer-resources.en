@@ -27,9 +27,9 @@ Updates the set definition for an existing Asset Set.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company with the asset set.  |
-|  `*`assetHandle`*`  | `xsd:string`  | Yes  | Asset set handle  |
-|  `*`setDefinition`*`  | `xsd:string`  | Yes  | Definition string. See below.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company with the asset set.  |
+|  assetHandle  | `xsd:string`  | Yes  | Asset set handle  |
+|  setDefinition  | `xsd:string`  | Yes  | Definition string. See below.  |
 
 **Output (setAssetSetDefinitionReturn)**
 

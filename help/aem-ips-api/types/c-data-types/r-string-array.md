@@ -16,4 +16,4 @@ An array of strings.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `xsd:string`  | An array of strings.  |
+|  items  | `xsd:string`  | An array of strings.  |

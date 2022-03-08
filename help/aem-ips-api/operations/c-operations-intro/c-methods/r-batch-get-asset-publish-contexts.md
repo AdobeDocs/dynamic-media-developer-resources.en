@@ -36,14 +36,14 @@ Returns the publish contexts for assets marked for publication.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company.  |
-|  `*`assetHandleArray`*`  | ` `types:HandleArray``  | Yes  | A list of assets you want to query for active (marked for publish) contexts.  |
+|  companyHandle  | `xsd:string`  | Yes  | Handle to the company.  |
+|  assetHandleArray  | ` `types:HandleArray``  | Yes  | A list of assets you want to query for active (marked for publish) contexts.  |
 
 **Output (batchGetAssetPublishContextsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`assetPublishContextsArray`*`  | `types:assetPublishContextsArray`  | Yes  | An array of publish contexts in which each asset is marked for publish.  |
+|  assetPublishContextsArray  | `types:assetPublishContextsArray`  | Yes  | An array of publish contexts in which each asset is marked for publish.  |
 
 ## Examples {#section-457f6809ccfa425b9a0976313d613f4e}
 

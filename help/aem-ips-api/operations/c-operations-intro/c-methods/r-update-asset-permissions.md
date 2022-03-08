@@ -24,9 +24,9 @@ Updates asset permissions.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Company handle.  |
-|  `*`assetHandle`*`  | `xsd:string`  | Yes  | Asset handle.  |
-|  `*`updateArray`*`  | `types:PermissionUpdateArray`  | Yes  | Permissions you want to apply to the asset.  |
+|  companyHandle  | `xsd:string`  | Yes  | Company handle.  |
+|  assetHandle  | `xsd:string`  | Yes  | Asset handle.  |
+|  updateArray  | `types:PermissionUpdateArray`  | Yes  | Permissions you want to apply to the asset.  |
 
 **Output (updateAssetPermissionsReturn)**
 

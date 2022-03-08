@@ -32,14 +32,14 @@ Gets the original file paths of a company’s assets.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company.  |
-|  `*`assetHandleArray`*`  | `types:HandleArray`  | Yes  | Array of handles to assets whose original file path you want to obtain.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company.  |
+|  assetHandleArray  | `types:HandleArray`  | Yes  | Array of handles to assets whose original file path you want to obtain.  |
 
 **Output (getOriginalFilePathsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`originalFileArray`*`  | `types:StringArray`  | Yes  | The array of strings that represent the original file paths.  |
+|  originalFileArray  | `types:StringArray`  | Yes  | The array of strings that represent the original file paths.  |
 
 ## Examples {#section-a966e783a2ba49f5b6b0f961329ab2f8}
 

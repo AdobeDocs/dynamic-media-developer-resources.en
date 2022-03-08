@@ -27,10 +27,10 @@ Sets the Image Serving or Image Rendering protocol commands for the specified as
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Company handle.  |
-|  `*`assetHandle`*`  | `xsd:string`  | Yes  | Asset handle.  |
-|  `*`urlModifier`*`  | `xsd:string`  | No  |Image Serving or Image Rendering protocol commands to apply prior to request or `urlPostApplyModifier` commands.  |
-|  `*`urlPostApplyModifier`*`  | `xsd:string`  | No  |Image Serving or Image Rendering protocol commands to apply after `urlModifier` and request commands.  |
+|  companyHandle  | `xsd:string`  | Yes  | Company handle.  |
+|  assetHandle  | `xsd:string`  | Yes  | Asset handle.  |
+|  urlModifier  | `xsd:string`  | No  |Image Serving or Image Rendering protocol commands to apply prior to request or `urlPostApplyModifier` commands.  |
+|  urlPostApplyModifier  | `xsd:string`  | No  |Image Serving or Image Rendering protocol commands to apply after `urlModifier` and request commands.  |
 
 **Output (setUrlModifierReturn)**
 

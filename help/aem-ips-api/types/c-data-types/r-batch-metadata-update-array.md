@@ -16,4 +16,4 @@ An array of batch metadata updates.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:BatchMetadataUpdate`  | The array of batch updates.  |
+|  items  | `types:BatchMetadataUpdate`  | The array of batch updates.  |

@@ -31,17 +31,17 @@ Creates an image set.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that the image set belongs to.  |
-|  `*`folderHandle`*`  | `xsd:string`  | Yes  | The handle to the folder.  |
-|  `*`name`*`  | `xsd:string`  | Yes  | Image set name.  |
-|  `*`type`*`  | `xsd:string`  | Yes  | Image set type.  |
-|  `*`thumbAssetHandle`*`  | `xsd:string`  | No  | Handle of the asset that acts as the thumbnail for the new image set. If not specified, IPS tries to use the first image asset referenced by the set.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company that the image set belongs to.  |
+|  folderHandle  | `xsd:string`  | Yes  | The handle to the folder.  |
+|  name  | `xsd:string`  | Yes  | Image set name.  |
+|  type  | `xsd:string`  | Yes  | Image set type.  |
+|  thumbAssetHandle  | `xsd:string`  | No  | Handle of the asset that acts as the thumbnail for the new image set. If not specified, IPS tries to use the first image asset referenced by the set.  |
 
 **Output** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`assetHandle`*`  | `xsd:string`  | Yes  | The handle to the new image set.  |
+|  assetHandle  | `xsd:string`  | Yes  | The handle to the new image set.  |
 
 ## Examples {#section-385fe3b0af8044b0a2451336ec137fc5}
 

@@ -24,9 +24,9 @@ Adds new tag values to the dictionary of an existing tag field.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle of the company containing the tag field.  |
-|  `*`fieldHandle`*`  | `xsd:string`  | Yes  | The handle of the tag field to be modified.  |
-|  `*`valueArray`*`  | `xsd:string`  | Yes  | An array of tag values to add to the field's existing dictionary.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle of the company containing the tag field.  |
+|  fieldHandle  | `xsd:string`  | Yes  | The handle of the tag field to be modified.  |
+|  valueArray  | `xsd:string`  | Yes  | An array of tag values to add to the field's existing dictionary.  |
 
 **Output (addTagFieldValuesParam)**
 

@@ -16,7 +16,7 @@ Describes permission changes.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`groupHandle`*`  | `xsd:string`  | Group handle.  |
-|  `*`permissionType`*`  | `xsd:string`  | Permission type.  |
-|  `*`isAllowed`*`  | `xsd:boolean`  | Determines if the permission update is allowed.  |
-|  `*`isOverride`*`  | `xsd:boolean`  | Determines if the permission overrides another.  |
+|  groupHandle  | `xsd:string`  | Group handle.  |
+|  permissionType  | `xsd:string`  | Permission type.  |
+|  isAllowed  | `xsd:boolean`  | Determines if the permission update is allowed.  |
+|  isOverride  | `xsd:boolean`  | Determines if the permission overrides another.  |

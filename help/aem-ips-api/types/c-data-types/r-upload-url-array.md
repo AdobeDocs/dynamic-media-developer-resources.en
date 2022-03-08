@@ -16,4 +16,4 @@ An array of URL for uploading assets.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:UploadUrl`  | An array of URLs for uploading assets.  |
+|  items  | `types:UploadUrl`  | An array of URLs for uploading assets.  |

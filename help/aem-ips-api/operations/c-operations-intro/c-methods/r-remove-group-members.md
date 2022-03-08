@@ -27,9 +27,9 @@ Removes company users from a specific group.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company with the users you want to work with.  |
-|  `*`groupHandle`*`  | `xsd:string`  | Yes  | Group handle.  |
-|  `*`userHandleArray`*`  | `types:HandleArray`  | Yes  | An array of handles for users whose group memberships you want to remove.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company with the users you want to work with.  |
+|  groupHandle  | `xsd:string`  | Yes  | Group handle.  |
+|  userHandleArray  | `types:HandleArray`  | Yes  | An array of handles for users whose group memberships you want to remove.  |
 
 **Output (removeGroupMembersParam)**
 

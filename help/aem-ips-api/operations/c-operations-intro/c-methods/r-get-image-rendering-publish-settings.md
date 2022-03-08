@@ -25,11 +25,11 @@ Syntax
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company whose image rendering publishing settings you wish to get.  |
-|  `*`contextHandle`*`  | `xsd:string`  | Yes  | Handle to the publish context.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company whose image rendering publishing settings you wish to get.  |
+|  contextHandle  | `xsd:string`  | Yes  | Handle to the publish context.  |
 
 **Output (getImageRenderingPublishSettingsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`publishSettingsArray`*`  | `type:ConfigSettingArray`  | Yes  | Image rendering publishing settings.  |
+|  publishSettingsArray  | `type:ConfigSettingArray`  | Yes  | Image rendering publishing settings.  |

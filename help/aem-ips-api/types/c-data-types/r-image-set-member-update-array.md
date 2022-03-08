@@ -16,4 +16,4 @@ An array of image set member updates.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:ImageSetMemberUpdate`  | The array of image set member updates.  |
+|  items  | `types:ImageSetMemberUpdate`  | The array of image set member updates.  |

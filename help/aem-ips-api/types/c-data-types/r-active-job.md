@@ -1,7 +1,7 @@
 ---
+title: ActiveJob
 description: A job that runs on a server. Also, it is an instance of a scheduled job.
 solution: Experience Manager
-title: ActiveJob
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 3d878207-99e4-4c75-ab12-b38a37c82fb7
@@ -10,13 +10,13 @@ exl-id: 3d878207-99e4-4c75-ab12-b38a37c82fb7
 
 A job that runs on a server. Also, it is an instance of a scheduled job.
 
- Jobs exist in 3 states:
+Jobs exist in three states:
 
-* Scheduled to run. 
-* Currently running. 
+* Scheduled to run.
+* Currently running.
 * Completed running (and have already written information to a job log).
 
-Specify a job type value to return the job type. You can return the following jobs:
+To return the job type, specify a job type value. You can return the following jobs:
 
 * `imageServingPublishJob`
 * `imageRenderingPublishJob`
@@ -159,7 +159,7 @@ Specify a job type value to return the job type. You can return the following jo
   <tr> 
    <td colname="col1"> <span class="codeph"> <span class="varname"> uploadPostJob</span> </span> </td> 
    <td colname="col2"> <span class="codeph"> types:UploadPostJob</span> </td> 
-   <td colname="col3"> Job detail tracking desktop upload. </td> 
+   <td colname="col3"> Job detail, tracking desktop upload. </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <span class="codeph"> <span class="varname"> exportJob</span> </span> </td> 

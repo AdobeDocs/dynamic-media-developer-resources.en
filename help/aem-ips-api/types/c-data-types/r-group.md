@@ -16,7 +16,7 @@ Named set of users used for assigning permissions.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`groupHandle`*`  | `xsd:string`  | Group handle.  |
-|  `*`companyHandle`*`  | `xsd:string`  | Company handle.  |
-|  `*`name`*`  | `xsd:string`  | Group name.  |
-|  `*`is SystemDefined`*`  | `xsd:string`  | Whether the group is defined by the system.  |
+|  groupHandle  | `xsd:string`  | Group handle.  |
+|  companyHandle  | `xsd:string`  | Company handle.  |
+|  name  | `xsd:string`  | Group name.  |
+|  is SystemDefined  | `xsd:string`  | Whether the group is defined by the system.  |

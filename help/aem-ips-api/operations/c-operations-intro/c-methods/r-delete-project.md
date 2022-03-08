@@ -27,8 +27,8 @@ Deletes a project from a company. The links between the assets and the project a
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyName`*`  | `xsd:string`  | Yes  | The name of the company associated with the project.  |
-|  `*`projectHandle`*`  | `xsd:string`  | Yes  | The handle to the project to be deleted.  |
+|  companyName  | `xsd:string`  | Yes  | The name of the company associated with the project.  |
+|  projectHandle  | `xsd:string`  | Yes  | The handle to the project to be deleted.  |
 
 **Output (deleteProjectReturn)**
 

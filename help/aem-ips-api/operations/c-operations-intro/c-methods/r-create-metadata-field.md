@@ -85,7 +85,7 @@ Lets administrators create new metadata fields to coordinate with content manage
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`fieldHandle`*`  | `xsd:string`  | Yes  | The handle to the new metadata field.  |
+|  fieldHandle  | `xsd:string`  | Yes  | The handle to the new metadata field.  |
 
 ## Examples {#section-ba66be30f36b4aeba1bc721b0b92fdfc}
 

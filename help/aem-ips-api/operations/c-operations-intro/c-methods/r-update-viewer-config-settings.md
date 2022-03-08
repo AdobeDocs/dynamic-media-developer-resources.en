@@ -25,9 +25,9 @@ Updates SWF viewer configuration settings.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company.  |
-|  `*`assetHandle`*`  | `xsd:string`  | Yes  | Asset handle.  |
-|  `*`configSettingArray`*`  | `types:ConfigSettingArray`  | Yes  | Array of configuration settings you want to apply to the viewer.  |
+|  companyHandle  | `xsd:string`  | Yes  | Handle to the company.  |
+|  assetHandle  | `xsd:string`  | Yes  | Asset handle.  |
+|  configSettingArray  | `types:ConfigSettingArray`  | Yes  | Array of configuration settings you want to apply to the viewer.  |
 
 **Output (updateViewerConfigSettingsReturn)**
 

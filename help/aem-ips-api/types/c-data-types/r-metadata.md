@@ -16,9 +16,9 @@ A metadata field returned by searchAssets.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`name`*`  | `xsd:string`  | Metadata name.  |
-|  `*`value`*`  | `xsd:string`  | Metadata value.  |
-|  `*`boolVal`*`  | `xsd:boolean`  | Boolean metadata value (for Boolean-typed fields only).  |
-|  `*`longVal`*`  | `xsd:long`  | Long metadata value (for int-typed fields only).  |
-|  `*`doubleVal`*`  | `xsd:double`  | Double metadata value (for float-typed fields only).  |
-|  `*`dateVal`*`  | `xsd:dateTime`  | Date metadata value (for date-typed fields only).  |
+|  name  | `xsd:string`  | Metadata name.  |
+|  value  | `xsd:string`  | Metadata value.  |
+|  boolVal  | `xsd:boolean`  | Boolean metadata value (for Boolean-typed fields only).  |
+|  longVal  | `xsd:long`  | Long metadata value (for int-typed fields only).  |
+|  doubleVal  | `xsd:double`  | Double metadata value (for float-typed fields only).  |
+|  dateVal  | `xsd:dateTime`  | Date metadata value (for date-typed fields only).  |

@@ -30,9 +30,9 @@ Uses a property array to update a property set.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`setHandle`*`  | `xsd:string`  | Yes  | Handle to the property set.  |
-|  `*`replaceProperties`*`  | `xsd:string`  | No  |Set to `true` to replace properties.  |
-|  `*`propertyArray`*`  | `types:PropertyArray`  | Yes  | Array of updated properties for the property set.  |
+|  setHandle  | `xsd:string`  | Yes  | Handle to the property set.  |
+|  replaceProperties  | `xsd:string`  | No  |Set to `true` to replace properties.  |
+|  propertyArray  | `types:PropertyArray`  | Yes  | Array of updated properties for the property set.  |
 
 **Output (updatePropertySetReturn)**
 

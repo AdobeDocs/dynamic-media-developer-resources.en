@@ -16,5 +16,5 @@ For uploading assets via URL.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`sourceUrl`*`  | `xsd:string`  | The source URL the asset is uploaded from.  |
-|  `*`destPath`*`  | `xsd:string`  | The IPS file path and name of the file you want to upload to.  |
+|  sourceUrl  | `xsd:string`  | The source URL the asset is uploaded from.  |
+|  destPath  | `xsd:string`  | The IPS file path and name of the file you want to upload to.  |

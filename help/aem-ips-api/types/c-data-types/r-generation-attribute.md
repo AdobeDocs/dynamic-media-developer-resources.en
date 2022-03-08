@@ -16,5 +16,5 @@ A name-value pair that contains information about an asset generation step. See 
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`name`*`  | `xsd:string`  | Attribute name.  |
-|  `*`value`*`  | `xsd:string`  | Attribute value.  |
+|  name  | `xsd:string`  | Attribute name.  |
+|  value  | `xsd:string`  | Attribute value.  |

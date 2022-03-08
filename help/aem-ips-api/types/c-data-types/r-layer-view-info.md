@@ -16,6 +16,6 @@ Layer view properties.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`url`*`  | `xsd:string`  |Image server URL that represents the template. Combines `urlModifier` and `urlPostAp- plyModifier` fields.  |
-|  `*`urlModifier`*`  | `xsd:string`  |Image serving protocol commands to apply prior to request or `urlPostApplyModifier` commands.  |
-|  `*`urlPostApplyModifier`*`  | `xsd:string`  |Image serving protocol commands to apply after `urlModifier` and request commands.  |
+|  url  | `xsd:string`  |Image server URL that represents the template. Combines `urlModifier` and `urlPostAp- plyModifier` fields.  |
+|  urlModifier  | `xsd:string`  |Image serving protocol commands to apply prior to request or `urlPostApplyModifier` commands.  |
+|  urlPostApplyModifier  | `xsd:string`  |Image serving protocol commands to apply after `urlModifier` and request commands.  |

@@ -16,4 +16,4 @@ An array of companies
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:Company`  | An array of companies.  |
+|  items  | `types:Company`  | An array of companies.  |

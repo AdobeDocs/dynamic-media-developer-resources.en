@@ -14,5 +14,5 @@ exl-id: 6c009573-0ef3-4bc2-9f9f-ff6580b32df0
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`setHandle`*`  | `xsd:string`  | Handle to the property set.  |
-|  `*`permissionsArray`*`  | `types:PermissionUpdateArray`  | An array of permissions.  |
+|  setHandle  | `xsd:string`  | Handle to the property set.  |
+|  permissionsArray  | `types:PermissionUpdateArray`  | An array of permissions.  |

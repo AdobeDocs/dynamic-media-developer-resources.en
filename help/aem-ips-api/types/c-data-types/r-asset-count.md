@@ -1,7 +1,7 @@
 ---
+title: AssetCount
 description: Asset types and count for a company.
 solution: Experience Manager
-title: AssetCount
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Admin
 exl-id: a5d750a3-1b76-4e91-9a2b-c91b41d0de7e
@@ -14,5 +14,5 @@ Asset types and count for a company.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-| `*`assetType`*`  | `xsd:string`  | Type of asset associated with count.  |
-| `*`count`*`  | `xsd:int`  |Number of `assetType` assets in the company.  |
+| assetType  | `xsd:string` | Type of asset associated with count.  |
+| count  | `sd:int` | Number of `assetType` assets in the company.  |

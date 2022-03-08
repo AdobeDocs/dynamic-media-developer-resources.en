@@ -16,4 +16,4 @@ An array of permissions.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:Permission`  | The permissions array.  |
+|  items  | `types:Permission`  | The permissions array.  |

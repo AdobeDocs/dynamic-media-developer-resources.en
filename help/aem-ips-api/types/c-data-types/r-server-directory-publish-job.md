@@ -16,5 +16,5 @@ Publishes all the images, templates, and spin sets that are marked ready to publ
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`emailSettings`*`  | `xsd:string`  | Choice of email settings.  |
-|  `*`httpCompletionUrl`*`  | `xsd:string`  | URL to send a completion notice.  |
+|  emailSettings  | `xsd:string`  | Choice of email settings.  |
+|  httpCompletionUrl  | `xsd:string`  | URL to send a completion notice.  |

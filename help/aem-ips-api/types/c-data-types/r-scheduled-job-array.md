@@ -16,4 +16,4 @@ An array of scheduled jobs.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:ScheduledJobs`  | A scheduled jobs array.  |
+|  items  | `types:ScheduledJobs`  | A scheduled jobs array.  |

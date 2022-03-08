@@ -29,8 +29,8 @@ Restarts a paused job.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company with the job you want to restart.  |
-|  `*`jobHandle`*`  | `xsd:string`  | Yes  | The handle to the paused job.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company with the job you want to restart.  |
+|  jobHandle  | `xsd:string`  | Yes  | The handle to the paused job.  |
 
 **Output (resumeJobReturn)**
 

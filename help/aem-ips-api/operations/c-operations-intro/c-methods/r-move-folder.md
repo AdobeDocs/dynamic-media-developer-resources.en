@@ -27,15 +27,15 @@ Move a folder to a new location.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company.  |
-|  `*`folderHandle`*`  | `xsd:string`  | Yes  | Folder handle.  |
-|  `*`destFolderHandle`*`  | `xsd:string`  | Yes  | Handle to the destination folder.  |
+|  companyHandle  | `xsd:string`  | Yes  | Handle to the company.  |
+|  folderHandle  | `xsd:string`  | Yes  | Folder handle.  |
+|  destFolderHandle  | `xsd:string`  | Yes  | Handle to the destination folder.  |
 
 **Output (moveFolderReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`folderHandle`*`  | `xsd:string`  | Yes  | Handle to the moved folder.  |
+|  folderHandle  | `xsd:string`  | Yes  | Handle to the moved folder.  |
 
 ## Examples {#section-6571c6ab89ce4cb9a139abdb29c6b279}
 

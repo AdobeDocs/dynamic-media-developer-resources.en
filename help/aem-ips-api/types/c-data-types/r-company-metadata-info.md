@@ -16,5 +16,5 @@ Holds information about a company metadata object like ID, name, and type.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`Code Phrase`*`  | `Code Phrase`  | |
-|  `*`Code Phrase`*`  | `Code Phrase`  | |
+|  Code Phrase  | `Code Phrase`  | |
+|  Code Phrase  | `Code Phrase`  | |

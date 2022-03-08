@@ -16,4 +16,4 @@ An array of context state updates.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`ContextStateUpdateArray`*`  | `types:ContextStateUpdate`  | An array of context state updates.  |
+|  ContextStateUpdateArray  | `types:ContextStateUpdate`  | An array of context state updates.  |

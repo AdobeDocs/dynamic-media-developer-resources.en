@@ -27,13 +27,13 @@ Gets projects for a group of related assets.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company.  |
 
 **Output (getProjectsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`projectArray`*`  | `types:ProjectArray`  | Yes  | The array of projects associated with the company.  |
+|  projectArray  | `types:ProjectArray`  | Yes  | The array of projects associated with the company.  |
 
 ## Examples {#section-8b12d0b948f644f68bf9a16060d3849a}
 

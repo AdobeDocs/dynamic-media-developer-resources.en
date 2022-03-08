@@ -107,7 +107,7 @@ jcompany/myRenderSet;jcompany/myRenderSet;1,jcompany/Videos/Somebodys_N08275_flv
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`assetHandle`*`  | `xsd:string`  | Yes  | The handle to the asset set.  |
+|  assetHandle  | `xsd:string`  | Yes  | The handle to the asset set.  |
 
 ## Examples {#section-fed53089de824d67ab96cd9103d384b4}
 

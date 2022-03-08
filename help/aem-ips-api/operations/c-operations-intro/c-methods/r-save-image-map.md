@@ -100,7 +100,7 @@ Create a new image map or edit an existing map.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`imageMapHandle`*`  | `xsd:string`  | Yes  | The handle to the new or edited image map.  |
+|  imageMapHandle  | `xsd:string`  | Yes  | The handle to the new or edited image map.  |
 
 ## Examples {#section-fdac488b640f427c8aa3d549c5032851}
 

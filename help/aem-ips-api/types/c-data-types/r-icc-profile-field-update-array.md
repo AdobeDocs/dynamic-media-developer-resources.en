@@ -16,4 +16,4 @@ An array of ICC profile field update items.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:IccProfileUpdate`  | `IccProfileFieldUpdate` array item.  |
+|  items  | `types:IccProfileUpdate`  | `IccProfileFieldUpdate` array item.  |

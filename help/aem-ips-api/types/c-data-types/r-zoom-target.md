@@ -16,12 +16,12 @@ Properties of a Zoom target.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`zoomTargetHandle`*`  | `xsd:string`  | Zoom target handle.  |
-|  `*`name`*`  | `xsd:string`  | Zoom target name.  |
-|  `*`xPosition`*`  | `xsd:int`  | The X position of the zoom target.  |
-|  `*`yPosition`*`  | `xsd:int`  | The Y position of the zoom target.  |
-|  `*`width`*`  | `xsd:int`  | Zoom target width.  |
-|  `*`height`*`  | `xsd:int`  | Zoom target height.  |
-|  `*`userData`*`  | `xsd:string`  | User data associated with the Zoom target.  |
-|  `*`position`*`  | `xsd:int`  | Allows Zoom targets associated with an asset to be ordered based on position  |
-|  `*`lastModified`*`  | `xsd:dateTime`  | Date of last modification.  |
+|  zoomTargetHandle  | `xsd:string`  | Zoom target handle.  |
+|  name  | `xsd:string`  | Zoom target name.  |
+|  xPosition  | `xsd:int`  | The X position of the zoom target.  |
+|  yPosition  | `xsd:int`  | The Y position of the zoom target.  |
+|  width  | `xsd:int`  | Zoom target width.  |
+|  height  | `xsd:int`  | Zoom target height.  |
+|  userData  | `xsd:string`  | User data associated with the Zoom target.  |
+|  position  | `xsd:int`  | Allows Zoom targets associated with an asset to be ordered based on position  |
+|  lastModified  | `xsd:dateTime`  | Date of last modification.  |

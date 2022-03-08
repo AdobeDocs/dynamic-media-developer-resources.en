@@ -151,7 +151,7 @@ Submits a job to the system.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`jobHandle`*`  | `xsd:string`  | Yes  | Job handle.  |
+|  jobHandle  | `xsd:string`  | Yes  | Job handle.  |
 
 ## Examples {#section-40ac77d14adf4588ba2575be6879b2d2}
 

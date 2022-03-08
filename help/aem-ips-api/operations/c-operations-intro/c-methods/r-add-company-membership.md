@@ -25,8 +25,8 @@ Adds a user to one or more companies.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`userHandle`*`  | `xsd:string`  | No  | The handle to the user whose membership you want to add.  |
-|  `*`membershipArray`*`  | `types:CompanyMembershipUpdateArray`  | Yes  | An array of companies that you're adding the user to.  |
+|  userHandle  | `xsd:string`  | No  | The handle to the user whose membership you want to add.  |
+|  membershipArray  | `types:CompanyMembershipUpdateArray`  | Yes  | An array of companies that you're adding the user to.  |
 
 **Output (addCompanyMembershipReturn)**
 
@@ -34,7 +34,7 @@ The IPS API does not return a response for this operation.
 
 ## Examples {#section-5469f88bac7047cca131faa6b021e437}
 
-This example uses `*`companyHandleArray`*` to add a user to a single company.
+This example uses companyHandleArray to add a user to a single company.
 
 **Request**
 

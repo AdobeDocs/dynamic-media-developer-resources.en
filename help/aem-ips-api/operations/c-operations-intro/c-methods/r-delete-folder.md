@@ -31,8 +31,8 @@ Deletes a folder.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company to which the folder belongs.  |
-|  `*`folderHandle`*`  | `xsd:string`  | Yes  | The handle to the folder to delete.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company to which the folder belongs.  |
+|  folderHandle  | `xsd:string`  | Yes  | The handle to the folder to delete.  |
 
 **Output (deleteFolderParam)**
 

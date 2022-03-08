@@ -16,6 +16,6 @@ Font asset properties.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`originalPath`*`  | `xsd:string`  | Font path.  |
-|  `*`originalFile`*`  | `xsd:string`  | Font name.  |
-|  `*`fileSize`*`  | `xsd:int`  | Font size.  |
+|  originalPath  | `xsd:string`  | Font path.  |
+|  originalFile  | `xsd:string`  | Font name.  |
+|  fileSize  | `xsd:int`  | Font size.  |

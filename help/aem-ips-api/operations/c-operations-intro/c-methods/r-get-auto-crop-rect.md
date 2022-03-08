@@ -28,23 +28,23 @@ Returns a cropped region for an image based on its background color or transpare
 
 >[!NOTE]
 >
->Specify either `*`autoColorCropOptions`*` or `*`autoTransparentCropOptions`*` when calling this method.
+>Specify either autoColorCropOptions or autoTransparentCropOptions when calling this method.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company with the asset you want to work with.  |
-|  `*`assetHandle`*`  | `xsd:string`  | Yes  | The handle to the asset you want to work with.  |
-|  `*`autoColorCropOptions`*`  | `types:AutoColorCropOptions`  | No  |Compute crop rectangle based on color. See [AutoColorCropOptions](../../../types/c-data-types/r-auto-color-crop-options.md#reference-976c3a1f8e47473cae016a4e9e09e4a6).  |
-|  `*`autoTransparentCropOptions`*`  | `types:AutoTransparentCropOptions`  | No  |Compute crop rectangle based on transparency. See [AutoTransparentCropOptions](../../../types/c-data-types/r-auto-transparent-crop-options.md#reference-f4460b3bdf814f4c85e4f097ea4e6e2b).  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company with the asset you want to work with.  |
+|  assetHandle  | `xsd:string`  | Yes  | The handle to the asset you want to work with.  |
+|  autoColorCropOptions  | `types:AutoColorCropOptions`  | No  |Compute crop rectangle based on color. See [AutoColorCropOptions](../../../types/c-data-types/r-auto-color-crop-options.md#reference-976c3a1f8e47473cae016a4e9e09e4a6).  |
+|  autoTransparentCropOptions  | `types:AutoTransparentCropOptions`  | No  |Compute crop rectangle based on transparency. See [AutoTransparentCropOptions](../../../types/c-data-types/r-auto-transparent-crop-options.md#reference-f4460b3bdf814f4c85e4f097ea4e6e2b).  |
 
 **Output (getAutoCropRectReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`xOffset`*`  | `xsd:int`  | Yes  | The starting left pixels coordinate of the computed crop region.  |
-|  `*`yOffset`*`  | `xsd:int`  | Yes  | The starting top pixel coordinate of the computed crop region.  |
-|  `*`width`*`  | `xsd:int`  | Yes  | Width of the computed crop region (in pixels).  |
-|  `*`height`*`  | `xsd:int`  | Yes  | Height of the computed crop region (in pixels).  |
+|  xOffset  | `xsd:int`  | Yes  | The starting left pixels coordinate of the computed crop region.  |
+|  yOffset  | `xsd:int`  | Yes  | The starting top pixel coordinate of the computed crop region.  |
+|  width  | `xsd:int`  | Yes  | Width of the computed crop region (in pixels).  |
+|  height  | `xsd:int`  | Yes  | Height of the computed crop region (in pixels).  |
 
 ## Examples {#section-ba65bd66086d491cad1cea535954ee1f}
 

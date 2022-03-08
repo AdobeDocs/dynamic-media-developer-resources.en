@@ -20,22 +20,22 @@ Gets an array of users as specified by company, group, and user role handles. Th
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`includeInactive`*`  | `xsd:boolean`  | No  | Include or exclude inactive users. Non-IPS Admin users must be an active member of at least one company to be authorized to make any API calls. An authorization fault is returned if the user has no active company memberships.  |
-|  `*`includeInvalid`*`  | `xsd:boolean`  | No  | Lets you include/exclude invalid users.  |
-|  `*`companyHandleArray`*`  | `types:HandleArray`  | No  | Filter results by company.  |
-|  `*`groupHandleArray`*`  | `types:HandleArray`  | No  | Filter results by group.  |
-|  `*`userRoleArray`*`  | `types:StringArray`  | No  | Filter results by user role.  |
-|  `*`charFilterField`*`  | `xsd:string`  | No  |Filter results by field's string prefix (see [!DNL Trash State).]  |
-|  `*`charFilter`*`  | `xsd:string`  | No  | Filter results by a specific character.  |
-|  `*`sortBy`*`  | `xsd:string`  | No  | Choice of user sort fields.  |
-|  `*`recordsPerPage`*`  | `xsd:int`  | No  | Returns specified number of records per page.  |
-|  `*`resultsPage`*`  | `xsd:int`  | No  | Results page.  |
+|  includeInactive  | `xsd:boolean`  | No  | Include or exclude inactive users. Non-IPS Admin users must be an active member of at least one company to be authorized to make any API calls. An authorization fault is returned if the user has no active company memberships.  |
+|  includeInvalid  | `xsd:boolean`  | No  | Lets you include/exclude invalid users.  |
+|  companyHandleArray  | `types:HandleArray`  | No  | Filter results by company.  |
+|  groupHandleArray  | `types:HandleArray`  | No  | Filter results by group.  |
+|  userRoleArray  | `types:StringArray`  | No  | Filter results by user role.  |
+|  charFilterField  | `xsd:string`  | No  |Filter results by field's string prefix (see [!DNL Trash State).]  |
+|  charFilter  | `xsd:string`  | No  | Filter results by a specific character.  |
+|  sortBy  | `xsd:string`  | No  | Choice of user sort fields.  |
+|  recordsPerPage  | `xsd:int`  | No  | Returns specified number of records per page.  |
+|  resultsPage  | `xsd:int`  | No  | Results page.  |
 
 **Output (getUsersReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`userArray`*`  | `types:UserArray`  | Yes  | An array of users.  |
+|  userArray  | `types:UserArray`  | Yes  | An array of users.  |
 
 ## Examples {#section-bc43a5dd7b4c4f048d25fc881554dab2}
 

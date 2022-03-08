@@ -25,8 +25,8 @@ Deletes an image format. Get the image format handle from saveImageFormat.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that contains the image format that you want to delete.  |
-|  `*`imageFormatHandle`*`  | `xsd:string`  | Yes  | The handle to the image format you want to delete.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company that contains the image format that you want to delete.  |
+|  imageFormatHandle  | `xsd:string`  | Yes  | The handle to the image format you want to delete.  |
 
 **Output (deleteImageFormatParam)**
 

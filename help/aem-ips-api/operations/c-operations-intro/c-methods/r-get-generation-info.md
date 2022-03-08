@@ -30,18 +30,18 @@ Returns 2 different types of information based on the parameters passed in. orig
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`Code Phrase`*`  | `xsd:string`  | Yes  | The handle to the company.  |
-|  `*`Code Phrase`*`  | `xsd:string`  | No  | The engine that was used in the generation. See Font Styles.  |
-|  `*`Code Phrase`*`  | `xsd:string`  | No  | The handle of the asset to query for generated assets.  |
-|  `*`Code Phrase`*`  | `xsd:string`  | No  | The handle of the asset to query for assets and engines used in its generation.  |
-|  `*`Code Phrase`*`  | `xsd:StringArray`  | No  | Properties included in the operation.  |
-|  `*`Code Phrase`*`  | `xsd:StringArray`  | No  | Properties excluded from the operation.  |
+|  Code Phrase  | `xsd:string`  | Yes  | The handle to the company.  |
+|  Code Phrase  | `xsd:string`  | No  | The engine that was used in the generation. See Font Styles.  |
+|  Code Phrase  | `xsd:string`  | No  | The handle of the asset to query for generated assets.  |
+|  Code Phrase  | `xsd:string`  | No  | The handle of the asset to query for assets and engines used in its generation.  |
+|  Code Phrase  | `xsd:StringArray`  | No  | Properties included in the operation.  |
+|  Code Phrase  | `xsd:StringArray`  | No  | Properties excluded from the operation.  |
 
 **Output (getGenerationInfoReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`generationArray`*`  | `types:GenerationInfoArray`  | Yes  | Array of generation information.  |
+|  generationArray  | `types:GenerationInfoArray`  | Yes  | Array of generation information.  |
 
 ## Examples {#section-fdffe6ed82d94c7aa90e47f7ce889403}
 

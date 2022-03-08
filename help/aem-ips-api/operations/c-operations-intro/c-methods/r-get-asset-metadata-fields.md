@@ -28,13 +28,13 @@ Returns all metadata fields, grouped by asset type.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company whose metadata you want to retrieve.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company whose metadata you want to retrieve.  |
 
 **Output (getAssetMetadataFieldsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`assetFieldArray`*`  | `types:AssetMetadataFieldsArray`  | Yes  | Array of metadata fields, by asset type.  |
+|  assetFieldArray  | `types:AssetMetadataFieldsArray`  | Yes  | Array of metadata fields, by asset type.  |
 
 ## Examples {#section-d79ab85f29144635b0b61416e52f4f3f}
 

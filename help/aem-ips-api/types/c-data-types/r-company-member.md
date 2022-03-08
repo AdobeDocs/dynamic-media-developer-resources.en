@@ -16,6 +16,6 @@ Describes the different companies a user belongs to.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`user`*`  | `types:User`  | User name.  |
-|  `*`role`*`  | `xsd:string`  | Role the user has for each company they belong to.  |
-|  `*`isActive`*`  | `xsd:boolean`  | Sets the user's status for each company they belong to.  |
+|  user  | `types:User`  | User name.  |
+|  role  | `xsd:string`  | Role the user has for each company they belong to.  |
+|  isActive  | `xsd:boolean`  | Sets the user's status for each company they belong to.  |

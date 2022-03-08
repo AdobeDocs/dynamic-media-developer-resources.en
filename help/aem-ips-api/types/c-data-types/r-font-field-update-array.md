@@ -16,4 +16,4 @@ An array of font field updates.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:FontFieldUpdate`  | An item in the font field update array.  |
+|  items  | `types:FontFieldUpdate`  | An item in the font field update array.  |

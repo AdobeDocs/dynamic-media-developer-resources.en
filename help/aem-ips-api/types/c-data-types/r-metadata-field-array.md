@@ -16,4 +16,4 @@ An array of metadata fields
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:MetadataField`  | Metadata field array.  |
+|  items  | `types:MetadataField`  | Metadata field array.  |

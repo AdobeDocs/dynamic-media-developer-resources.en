@@ -30,14 +30,14 @@ Gets the job logs for an asset. Items returned in the array contain detailed inf
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company to which the asset belongs.  |
-|  `*`assetHandle`*`  | `xsd:string`  | Yes  | The handle to asset with the job logs to be retrieved.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company to which the asset belongs.  |
+|  assetHandle  | `xsd:string`  | Yes  | The handle to asset with the job logs to be retrieved.  |
 
 **Output (getAssetJobLogsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`jobLogArray`*`  | `types:AssetJobLogArray`  | Yes  | Job log array.  |
+|  jobLogArray  | `types:AssetJobLogArray`  | Yes  | Job log array.  |
 
 ## Examples {#section-f03d7f3ec5d043d38227f926fb7609f6}
 

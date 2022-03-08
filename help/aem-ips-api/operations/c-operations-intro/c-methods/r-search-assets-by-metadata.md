@@ -118,8 +118,8 @@ To work around this issue, you can use the `fieldHandles` of the assets that are
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`totalRows`*`  | `xsd:int`  | No  | Number of matches.  |
-|  `*`assetArray`*`  | `types:AssetArray`  | No  | Array of assets returned by the search.  |
+|  totalRows  | `xsd:int`  | No  | Number of matches.  |
+|  assetArray  | `types:AssetArray`  | No  | Array of assets returned by the search.  |
 
 ## metadataConditionArray Details {#section-1af4a4a22f82451eabdf6dfe13d9f27d}
 

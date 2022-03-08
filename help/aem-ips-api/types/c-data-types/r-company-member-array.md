@@ -14,4 +14,4 @@ exl-id: 7f41ffa4-4077-4a27-baf6-e7b83449a868
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:CompanyMember`  | |
+|  items  | `types:CompanyMember`  | |

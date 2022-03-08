@@ -16,4 +16,4 @@ An array of users.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:User`  | An array of users.  |
+|  items  | `types:User`  | An array of users.  |

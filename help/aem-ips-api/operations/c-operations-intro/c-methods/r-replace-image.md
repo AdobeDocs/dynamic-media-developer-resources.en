@@ -27,15 +27,15 @@ Replaces image data for an image asset.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyName`*`  | `xsd:string`  | Yes  | The handle to the company with the image you want to replace.  |
-|  `*`assetHandle`*`  | `xsd:string`  | Yes  | The handle to the asset you want to replace.  |
-|  `*`urlModifier`*`  | `xsd:string`  | Yes  | Image Server commands that generate new image data.  |
+|  companyName  | `xsd:string`  | Yes  | The handle to the company with the image you want to replace.  |
+|  assetHandle  | `xsd:string`  | Yes  | The handle to the asset you want to replace.  |
+|  urlModifier  | `xsd:string`  | Yes  | Image Server commands that generate new image data.  |
 
 **Output (replaceImageReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`assetHandle`*`  | `xsd:string`  | Yes  | Handle to the new asset.  |
+|  assetHandle  | `xsd:string`  | Yes  | Handle to the new asset.  |
 
 ## Examples {#section-cebb93576bde4cb98cb27356ca66783b}
 

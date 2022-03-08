@@ -16,5 +16,5 @@ Thumbnail image update.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`assetHandle`*`  | `xsd:string`  | Asset handle.  |
-|  `*`thumbAssetHandle`*`  | `xsd:string`  | Thumb asset handle.  |
+|  assetHandle  | `xsd:string`  | Asset handle.  |
+|  thumbAssetHandle  | `xsd:string`  | Thumb asset handle.  |

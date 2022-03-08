@@ -16,7 +16,7 @@ Publication history of an asset.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`serverName`*`  | `xsd:string`  | Name of the server that owns the publish history.  |
-|  `*`contextName`*`  | `xsd:string`  | Publish history context name.  |
-|  `*`publishFormat`*`  | `xsd:string`  | Publish format.  |
-|  `*`lastPublished`*`  | `xsd:dateTime`  | Date and time the asset was last published.  |
+|  serverName  | `xsd:string`  | Name of the server that owns the publish history.  |
+|  contextName  | `xsd:string`  | Publish history context name.  |
+|  publishFormat  | `xsd:string`  | Publish format.  |
+|  lastPublished  | `xsd:dateTime`  | Date and time the asset was last published.  |

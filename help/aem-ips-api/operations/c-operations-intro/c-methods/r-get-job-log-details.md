@@ -92,7 +92,7 @@ Gets the details of a company job log.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`jobLogArray`*`  | `types:JobLogArray`  | Yes  | Array of job logs.  |
+|  jobLogArray  | `types:JobLogArray`  | Yes  | Array of job logs.  |
 
 ## Examples {#section-007678b8b8d94e8f91d09f6bc855f394}
 

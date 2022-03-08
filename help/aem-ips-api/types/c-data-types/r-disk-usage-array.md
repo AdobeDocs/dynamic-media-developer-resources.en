@@ -16,4 +16,4 @@ An array of disk usage.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:DiskUsage`  | Array of disk usage.  |
+|  items  | `types:DiskUsage`  | Array of disk usage.  |

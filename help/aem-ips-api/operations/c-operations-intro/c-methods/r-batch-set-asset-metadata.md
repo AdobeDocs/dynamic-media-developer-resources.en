@@ -27,18 +27,18 @@ Sets asset metadata using batch mode.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company whose metadata you want to set in a batch operation.  |
-|  `*`updateArray`*`  | `types:BatchMetadataUpdateArray`  | Yes  | The array of metadata updates applied to the assets.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company whose metadata you want to set in a batch operation.  |
+|  updateArray  | `types:BatchMetadataUpdateArray`  | Yes  | The array of metadata updates applied to the assets.  |
 
 **Output (batchSetAssetMetadataParam)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`successCount`*`  | `xsd:int`  | Yes  | The number of successfully set metadata.  |
-|  `*`warningCount`*`  | `xsd:int`  | Yes  | The number of warnings generated when the operation attempted to set metadata.  |
-|  `*`errorCount`*`  | `xsd:int`  | Yes  | The number of errors generated when the operation attempted to set metadata.  |
-|  `*`warningDetailArray`*`  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets generating warnings when the operation attempted to batch set metadata for the assets.  |
-|  `*`errorDetailArray`*`  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets that generating erros when the operation attempted to batch set metadata for the assets.  |
+|  successCount  | `xsd:int`  | Yes  | The number of successfully set metadata.  |
+|  warningCount  | `xsd:int`  | Yes  | The number of warnings generated when the operation attempted to set metadata.  |
+|  errorCount  | `xsd:int`  | Yes  | The number of errors generated when the operation attempted to set metadata.  |
+|  warningDetailArray  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets generating warnings when the operation attempted to batch set metadata for the assets.  |
+|  errorDetailArray  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets that generating erros when the operation attempted to batch set metadata for the assets.  |
 
 ## Examples {#section-2de798ac920e4b47b971b1729a64395b}
 

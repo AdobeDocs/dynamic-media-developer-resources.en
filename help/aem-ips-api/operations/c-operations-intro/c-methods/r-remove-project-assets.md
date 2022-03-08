@@ -26,19 +26,19 @@ Removes assets from a project. Does not destroy the assets.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company with the assets you want to move.  |
-|  `*`projectHandle`*`  | `xsd:string`  | Yes  | The handle to the project assets you want to move.  |
-|  `*`assetHandleArray`*`  | `types:HandleArray`  | Yes  | Array of handles to the assets you want to move.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company with the assets you want to move.  |
+|  projectHandle  | `xsd:string`  | Yes  | The handle to the project assets you want to move.  |
+|  assetHandleArray  | `types:HandleArray`  | Yes  | Array of handles to the assets you want to move.  |
 
 **Output (removeProjectAssetsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`successCount`*`  | `xsd:int`  | Yes  | Successfully removed asset count.  |
-|  `*`warningCount`*`  | `xsd:int`  | Yes  | The number of warnings generated when the operation attempted to remove assets from the project.  |
-|  `*`errorCount`*`  | `xsd:int`  | Yes  | The number of errors generated when the operation attempted to remove assets from the project.  |
-|  `*`warningDetailArray`*`  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets that generated warnings when the operation attempted to remove them from the project.  |
-|  `*`errorDetailArray`*`  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets that generated errors when the operation attempted to remove them from the project.  |
+|  successCount  | `xsd:int`  | Yes  | Successfully removed asset count.  |
+|  warningCount  | `xsd:int`  | Yes  | The number of warnings generated when the operation attempted to remove assets from the project.  |
+|  errorCount  | `xsd:int`  | Yes  | The number of errors generated when the operation attempted to remove assets from the project.  |
+|  warningDetailArray  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets that generated warnings when the operation attempted to remove them from the project.  |
+|  errorDetailArray  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets that generated errors when the operation attempted to remove them from the project.  |
 
 ## Examples {#section-13546cf0a98e4e1b91b8b7cd5724ced8}
 

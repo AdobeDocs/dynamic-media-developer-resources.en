@@ -31,9 +31,9 @@ Sets metadata values for an asset. Works with an array of metadata updates to se
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company with the asset you want to update.  |
-|  `*`assetHandle`*`  | `xsd:string`  | Yes  | The handle to the asset.  |
-|  `*`updateArray`*`  | `types:MetadataUpdateArray`  | Yes  | Updates in a metadata update array.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company with the asset you want to update.  |
+|  assetHandle  | `xsd:string`  | Yes  | The handle to the asset.  |
+|  updateArray  | `types:MetadataUpdateArray`  | Yes  | Updates in a metadata update array.  |
 
 **Output (setAssetMetadataReturn)**
 

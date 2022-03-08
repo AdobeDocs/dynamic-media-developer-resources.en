@@ -16,6 +16,6 @@ Publishes files to the configured video publish servers.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`emailSetting`*`  | `xsd:string`  | Choice of email settings.  |
-|  `*`httpCompletionUrl`*`  | `xsd:string`  | URL to send a completion notice.  |
-|  `*`contextHandle`*`  | `xsd:string`  | Handle to the publish context.  |
+|  emailSetting  | `xsd:string`  | Choice of email settings.  |
+|  httpCompletionUrl  | `xsd:string`  | URL to send a completion notice.  |
+|  contextHandle  | `xsd:string`  | Handle to the publish context.  |

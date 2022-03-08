@@ -1,7 +1,7 @@
 ---
+title: ActiveJobArray
 description: An array of active jobs.
 solution: Experience Manager
-title: ActiveJobArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 8fccfc0e-f715-4d97-ac29-c88313c3e49f
@@ -16,4 +16,4 @@ An array of active jobs.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:ActiveJob`  | Array of active jobs.  |
+|  items  | `types:ActiveJob`  | Array of active jobs.  |

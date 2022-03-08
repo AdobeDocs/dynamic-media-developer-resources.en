@@ -16,4 +16,4 @@ An array of metadata conditons.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:MetadataCondition`  | The array of metadata conditons.  |
+|  items  | `types:MetadataCondition`  | The array of metadata conditons.  |

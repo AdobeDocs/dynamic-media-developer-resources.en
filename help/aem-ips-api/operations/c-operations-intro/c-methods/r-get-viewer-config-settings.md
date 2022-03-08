@@ -25,12 +25,12 @@ Gets all viewer configuration settings associated with the specified asset.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company.  |
-|  `*`assetHandle`*`  | `xsd:string`  | Yes  | Handle to the asset.  |
+|  companyHandle  | `xsd:string`  | Yes  | Handle to the company.  |
+|  assetHandle  | `xsd:string`  | Yes  | Handle to the asset.  |
 
 **Output (getViewerCoinfigSettingsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`type`*`  | `xsd:string`  | Yes  | Viewer type to which the configuration settings apply.  |
-|  `*`configSettingsArray`*`  | `types:ConfigSettingsArray`  | Yes  | Array of viewer configuration settings.  |
+|  type  | `xsd:string`  | Yes  | Viewer type to which the configuration settings apply.  |
+|  configSettingsArray  | `types:ConfigSettingsArray`  | Yes  | Array of viewer configuration settings.  |

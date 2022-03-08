@@ -16,5 +16,5 @@ Mask file properties.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`maskPath`*`  | `xsd:string`  | Mask file path.  |
-|  `*`maskFile`*`  | `xsd:string`  | Mask file name.  |
+|  maskPath  | `xsd:string`  | Mask file path.  |
+|  maskFile  | `xsd:string`  | Mask file name.  |
