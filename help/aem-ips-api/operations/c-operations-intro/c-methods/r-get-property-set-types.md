@@ -51,7 +51,7 @@ Gets the property set types associated with the specified company, or global pro
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`typeArray`*`  | `types:PropertySetTypeArray`  | Yes  | An array of property set types associated with the specified company, or the global property set types if no company was specified.  |
+|  typeArray  | `types:PropertySetTypeArray`  | Yes  | An array of property set types associated with the specified company, or the global property set types if no company was specified.  |
 
 ## Examples {#section-280c406a90864409856aee44d4069a52}
 

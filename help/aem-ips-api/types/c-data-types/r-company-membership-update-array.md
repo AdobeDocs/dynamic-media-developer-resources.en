@@ -14,4 +14,4 @@ exl-id: 059c3b71-ef0f-4bab-b50c-57e4420e9566
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:CompanyMembershipUpdate`  | |
+|  items  | `types:CompanyMembershipUpdate`  | |

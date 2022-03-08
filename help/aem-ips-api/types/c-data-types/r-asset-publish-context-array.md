@@ -14,4 +14,4 @@ exl-id: 9eefcc8a-4779-4d03-8290-d1482fa09f58
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`AssetPublishContextArray`*`  | `types:AssetPublishContext`  | An array of asset publish contexts.  |
+|  AssetPublishContextArray  | `types:AssetPublishContext`  | An array of asset publish contexts.  |

@@ -25,14 +25,14 @@ Gets the search strings, keywords, and other information about an asset. The res
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company.  |
-|  `*`assetHandle`*`  | `xsd:string`  | Yes  | Handle to the asset.  |
+|  companyHandle  | `xsd:string`  | Yes  | Handle to the company.  |
+|  assetHandle  | `xsd:string`  | Yes  | Handle to the asset.  |
 
 **Output (getSearchStringsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`searchStringArray`*`  | `types:SearchStrings`  | Yes  | An array of asset search strings.  |
+|  searchStringArray  | `types:SearchStrings`  | Yes  | An array of asset search strings.  |
 
 ## Examples {#section-e1f73bff6e4440c489d59cb9aa5384d8}
 

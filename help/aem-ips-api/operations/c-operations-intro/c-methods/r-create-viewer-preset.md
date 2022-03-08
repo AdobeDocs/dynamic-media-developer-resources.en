@@ -25,17 +25,17 @@ Creates a preset view that determines what a user can see. The viewer can be of 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle of the company that contains the viewer presets and assets.  |
-|  `*`folderHandle`*`  | `xsd:string`  | Yes  | The handle of the folder that contains the assets.  |
-|  `*`name`*`  | `xsd:string`  | Yes  | Viewer name.  |
-|  `*`type`*`  | `xsd:string`  | Yes  | Viewer type.  |
-|  `*`configSettingArray`*`  | `types:ConfigSettingArray`  | No  | An array that contains names, values, and handles of images that you're applying presets to.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle of the company that contains the viewer presets and assets.  |
+|  folderHandle  | `xsd:string`  | Yes  | The handle of the folder that contains the assets.  |
+|  name  | `xsd:string`  | Yes  | Viewer name.  |
+|  type  | `xsd:string`  | Yes  | Viewer type.  |
+|  configSettingArray  | `types:ConfigSettingArray`  | No  | An array that contains names, values, and handles of images that you're applying presets to.  |
 
 **Output (createViewerPresetReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`viewerPresetHandle`*`  | `xsd:string`  | Yes  | Handle of the preset to the viewer.  |
+|  viewerPresetHandle  | `xsd:string`  | Yes  | Handle of the preset to the viewer.  |
 
 ## Examples {#section-c88ea63536f3461cbe4677ba53f875dd}
 

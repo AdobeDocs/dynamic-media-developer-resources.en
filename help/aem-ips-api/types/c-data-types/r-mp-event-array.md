@@ -16,4 +16,4 @@ An array of MediaPortal events.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:MPEvent`  | MediaPortal event array.  |
+|  items  | `types:MPEvent`  | MediaPortal event array.  |

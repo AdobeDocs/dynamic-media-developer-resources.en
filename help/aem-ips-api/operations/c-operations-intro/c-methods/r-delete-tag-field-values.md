@@ -22,9 +22,9 @@ Removes tag field values from the dictionary of a tag field.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle of the company containing the tag field.  |
-|  `*`fieldHandle`*`  | `xsd:string`  | Yes  | The handle of the tag field to be modified.  |
-|  `*`valueArray`*`  | `types:StringArray`  | Yes  | An array of tag values to be deleted from the field’s dictionary.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle of the company containing the tag field.  |
+|  fieldHandle  | `xsd:string`  | Yes  | The handle of the tag field to be modified.  |
+|  valueArray  | `types:StringArray`  | Yes  | An array of tag values to be deleted from the field’s dictionary.  |
 
 **Output (deleteTagFieldValuesParam)**
 

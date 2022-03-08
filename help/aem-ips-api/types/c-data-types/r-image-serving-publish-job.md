@@ -16,6 +16,6 @@ Publishes files to the image servers.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`publishType`*`  | `xsd:string`  | One of the available publish types.  |
-|  `*`emailSetting`*`  | `xsd:string`  | Choice of email settings.  |
-|  `*`httpCompletionUrl`*`  | `xsd:string`  | URL to send a completion notice.  |
+|  publishType  | `xsd:string`  | One of the available publish types.  |
+|  emailSetting  | `xsd:string`  | Choice of email settings.  |
+|  httpCompletionUrl  | `xsd:string`  | URL to send a completion notice.  |

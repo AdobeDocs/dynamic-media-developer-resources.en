@@ -1,7 +1,7 @@
 ---
+title: AssetArray
 description: An array of assets.
 solution: Experience Manager
-title: AssetArray
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Admin
 exl-id: d63fa05d-fb98-476f-afbb-8a9ab3115daa
@@ -10,10 +10,10 @@ exl-id: d63fa05d-fb98-476f-afbb-8a9ab3115daa
 
 An array of assets.
 
- Syntax 
+Syntax
 
 ## Parameters {#section-c4889fcc29d64726b3673b7fdf4ec01a}
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:Asset`  | Asset array.  |
+|  items  | `types:Asset`  | Asset array.  |

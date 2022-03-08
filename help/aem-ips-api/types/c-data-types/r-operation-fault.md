@@ -18,5 +18,5 @@ Detail message responding to one the URLs provided in the CDN invalidation reque
 
 |  ** Name** | ** Type** | ** Description** |
 |---|---|---|
-|  `*`code`*`  | `xsd:int`  | Error code provided from the CDN  |
-|  `*`reason`*`  | `xsd:string`  | Error message provided from the CDN  |
+|  code  | `xsd:int`  | Error code provided from the CDN  |
+|  reason  | `xsd:string`  | Error message provided from the CDN  |

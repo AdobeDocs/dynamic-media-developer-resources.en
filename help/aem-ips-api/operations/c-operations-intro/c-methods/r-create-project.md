@@ -27,14 +27,14 @@ Creates a new project.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle of the company associated with the new project.  |
-|  `*`projectName`*`  | `xsd:string`  | Yes  | New project name.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle of the company associated with the new project.  |
+|  projectName  | `xsd:string`  | Yes  | New project name.  |
 
 **Output (createProjectParam)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`projectHandle`*`  | `xsd:string`  | Yes  | The handle to the new project.  |
+|  projectHandle  | `xsd:string`  | Yes  | The handle to the new project.  |
 
 ## Examples {#section-a0cd532b67e346d088fbec141231a0e5}
 

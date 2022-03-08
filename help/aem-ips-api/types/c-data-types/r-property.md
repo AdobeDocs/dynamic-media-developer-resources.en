@@ -16,5 +16,5 @@ A name and value pair.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`name`*`  | `xsd:string`  | Property name.  |
-|  `*`value`*`  | `xsd:string`  | Property value.  |
+|  name  | `xsd:string`  | Property name.  |
+|  value  | `xsd:string`  | Property value.  |

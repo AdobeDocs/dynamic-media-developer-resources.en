@@ -29,8 +29,8 @@ Deletes a current or scheduled job.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company to which the job belongs.  |
-|  `*`jobHandle`*`  | `xsd:string`  | Yes  | The handle to the job to delete.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company to which the job belongs.  |
+|  jobHandle  | `xsd:string`  | Yes  | The handle to the job to delete.  |
 
 **Output**
 

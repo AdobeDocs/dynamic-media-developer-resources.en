@@ -24,10 +24,10 @@ Sets folder permissions.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Company handle.  |
-|  `*`folderHandle`*`  | `xsd:string`  | Yes  | Folder handle.  |
-|  `*`setChildren`*`  | `xsd:boolean`  | Yes  | Sets permissions on children that belong to the folder.  |
-|  `*`permissionArray`*`  | `types:PermissionUpdateArray`  | Yes  | Permissions array.  |
+|  companyHandle  | `xsd:string`  | Yes  | Company handle.  |
+|  folderHandle  | `xsd:string`  | Yes  | Folder handle.  |
+|  setChildren  | `xsd:boolean`  | Yes  | Sets permissions on children that belong to the folder.  |
+|  permissionArray  | `types:PermissionUpdateArray`  | Yes  | Permissions array.  |
 
 **Output (setFolderPermissionsReturn)**
 

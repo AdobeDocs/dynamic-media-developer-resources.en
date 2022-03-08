@@ -18,10 +18,10 @@ Updates an asset set.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that contains the image set you want to modify.  |
-|  `*`assetHandle`*`  | `xsd:string`  | Yes  | The handle to the image set you want to modify.  |
-|  `*`setDefinition`*`  | `xsd:string`  | No  | Resets image set members.  |
-|  `*`thumbAssetHandle`*`  | `xsd:string`  | No  | The handle of the asset that acts as the thumbnail for the image set.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company that contains the image set you want to modify.  |
+|  assetHandle  | `xsd:string`  | Yes  | The handle to the image set you want to modify.  |
+|  setDefinition  | `xsd:string`  | No  | Resets image set members.  |
+|  thumbAssetHandle  | `xsd:string`  | No  | The handle of the asset that acts as the thumbnail for the image set.  |
 
 **Output (updateAssetSetReturn)**
 

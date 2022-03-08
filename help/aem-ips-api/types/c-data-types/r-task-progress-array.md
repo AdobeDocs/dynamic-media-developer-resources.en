@@ -16,4 +16,4 @@ A task progress array. Contains information about video transcoding tasks.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`item`*`  | `types:TaskProgress`  | Task progress items. Minimum occurrence is zero. Maximum occurrence is unbounded.  |
+|  item  | `types:TaskProgress`  | Task progress items. Minimum occurrence is zero. Maximum occurrence is unbounded.  |

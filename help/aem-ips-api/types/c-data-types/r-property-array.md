@@ -16,4 +16,4 @@ An array of properties.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:Property`  | The property array.  |
+|  items  | `types:Property`  | The property array.  |

@@ -32,21 +32,21 @@ Returns folders and subfolders in a hierarchical tree structure. The getFolderTr
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company.  |
-|  `*`accessUserHandle`*`  | `xsd:string`  | No  | Used only by administrators to impersonate a specific user.  |
-|  `*`accessGroupHandle`*`  | `xsd:string`  | No  | Used to filter by a specific group, including any of those to which the company belongs.  |
-|  `*`folderPath`*`  | `xsd:string`  | No  | The root folder to retrieve folders and all subfolders to the leaf level. If excluded, the company root is used.  |
-|  `*`depth`*`  | `xsd:int`  | Yes  | A value of zero gets the top-level folder. Any other value specifies the depth to descend into the tree.  |
-|  `*`assetTypeArray`*`  | `types:StringArray`  | No  | Returns folders that only contain specified asset types.  |
-|  `*`responseFieldArray`*`  | `types:StringArray`  | No  | Contains a list of fields that you want to include in the response.  |
-|  `*`excludeFieldArray`*`  | `types:StringArray`  | No  | Contains a list of fields that you want to exclude in the response.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company.  |
+|  accessUserHandle  | `xsd:string`  | No  | Used only by administrators to impersonate a specific user.  |
+|  accessGroupHandle  | `xsd:string`  | No  | Used to filter by a specific group, including any of those to which the company belongs.  |
+|  folderPath  | `xsd:string`  | No  | The root folder to retrieve folders and all subfolders to the leaf level. If excluded, the company root is used.  |
+|  depth  | `xsd:int`  | Yes  | A value of zero gets the top-level folder. Any other value specifies the depth to descend into the tree.  |
+|  assetTypeArray  | `types:StringArray`  | No  | Returns folders that only contain specified asset types.  |
+|  responseFieldArray  | `types:StringArray`  | No  | Contains a list of fields that you want to include in the response.  |
+|  excludeFieldArray  | `types:StringArray`  | No  | Contains a list of fields that you want to exclude in the response.  |
 
 **Output (getFolderTreeReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`folders`*`  | `types:folders`  | No  | The hierarchy of folders in a tree structure. The response is limited to a maximum of 100,000 folders.  |
-|  `*`permissionSetArray`*`  | `types:PermissionSetArray`  |  |  |
+|  folders  | `types:folders`  | No  | The hierarchy of folders in a tree structure. The response is limited to a maximum of 100,000 folders.  |
+|  permissionSetArray  | `types:PermissionSetArray`  |  |  |
 
 ## Examples {#section-a9fd2edb56574dd9bf8b0f2fd89367e4}
 

@@ -16,4 +16,4 @@ An metadata updates for thumb assets.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:ThumbAssetUpdates`  | An array of thumb asset updates.  |
+|  items  | `types:ThumbAssetUpdates`  | An array of thumb asset updates.  |

@@ -16,6 +16,6 @@ Properties of an SVG file asset.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`originalPath`*`  | `xsd:string`  | File path.  |
-|  `*`originalFile`*`  | `xsd:string`  | File name.  |
-|  `*`fileSize`*`  | `xsd:int`  | File size.  |
+|  originalPath  | `xsd:string`  | File path.  |
+|  originalFile  | `xsd:string`  | File name.  |
+|  fileSize  | `xsd:int`  | File size.  |

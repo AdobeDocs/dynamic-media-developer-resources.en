@@ -24,8 +24,8 @@ Deletes a company's metadata field.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that contains the metadata field to be deleted.  |
-|  `*`fieldHandle`*`  | `xsd:string`  | Yes  | The handle to the metadata field to be deleted.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company that contains the metadata field to be deleted.  |
+|  fieldHandle  | `xsd:string`  | Yes  | The handle to the metadata field to be deleted.  |
 
 **Output (deleteMetadataFieldParam)**
 

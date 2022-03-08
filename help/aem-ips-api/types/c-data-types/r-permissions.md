@@ -16,8 +16,8 @@ Manages rights to access, modify, create, or delete assets by group.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`groupHandle`*`  | `xsd:string`  | Group handle.  |
-|  `*`groupName`*`  | `xsd:string`  | Group name.  |
-|  `*`permissionType`*`  | `xsd:string`  | Choice of permission type.  |
-|  `*`isAllowed`*`  | `xsd:boolean`  | Determines if the permission is allowed.  |
-|  `*`isOverride`*`  | `xsd:boolean`  | Determines if the permission overrides another.  |
+|  groupHandle  | `xsd:string`  | Group handle.  |
+|  groupName  | `xsd:string`  | Group name.  |
+|  permissionType  | `xsd:string`  | Choice of permission type.  |
+|  isAllowed  | `xsd:boolean`  | Determines if the permission is allowed.  |
+|  isOverride  | `xsd:boolean`  | Determines if the permission overrides another.  |

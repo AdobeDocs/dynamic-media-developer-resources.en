@@ -24,14 +24,14 @@ Gets the users that belong to a specific company and group.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company.  |
-|  `*`groupHandle`*`  | `xsd:string`  |  | The handle to the group.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company.  |
+|  groupHandle  | `xsd:string`  |  | The handle to the group.  |
 
 **Output (getGroupMembersReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`userHandleArray`*`  | `type:HandleArray`  | Yes  | An array of user handles.  |
+|  userHandleArray  | `type:HandleArray`  | Yes  | An array of user handles.  |
 
 ## Examples {#section-aaa340dba6b64cce9bcd8303cf999166}
 

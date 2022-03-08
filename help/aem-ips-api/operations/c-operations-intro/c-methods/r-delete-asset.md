@@ -31,8 +31,8 @@ Deletes an asset.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company to which the folder belongs.  |
-|  `*`assetHandle`*`  | `xsd:string`  | Yes  | The handle to the asset to delete.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company to which the folder belongs.  |
+|  assetHandle  | `xsd:string`  | Yes  | The handle to the asset to delete.  |
 
 **Output (deleteAssetParam)**
 

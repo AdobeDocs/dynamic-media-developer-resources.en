@@ -27,15 +27,15 @@ Assign or update assets in a project.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyName`*`  | `xsd:string`  | Yes  | Company handle.  |
-|  `*`projectHandle`*`  | `xsd:string`  | Yes  | Project handle.  |
-|  `*`assetHandleArray`*`  | `types:HandleArray`  | Yes  | The array of asset handles you want to associate with the project.  |
+|  companyName  | `xsd:string`  | Yes  | Company handle.  |
+|  projectHandle  | `xsd:string`  | Yes  | Project handle.  |
+|  assetHandleArray  | `types:HandleArray`  | Yes  | The array of asset handles you want to associate with the project.  |
 
 **Output (setProjectAssetsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`successCount`*`  | `xsd:int`  | Yes  | The number of successfully added assets.  |
+|  successCount  | `xsd:int`  | Yes  | The number of successfully added assets.  |
 
 ## Examples {#section-33c1a909c3dc4aa98da474c23a036596}
 

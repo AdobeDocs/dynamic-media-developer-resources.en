@@ -41,18 +41,18 @@ Allowed thumbnail asset types consist of the following:
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that contains the assets.  |
-|  `*`updateArray`*`  | `types:ThumbAssetUpdateArray`  | Yes  | The array of updates.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company that contains the assets.  |
+|  updateArray  | `types:ThumbAssetUpdateArray`  | Yes  | The array of updates.  |
 
 **Output (batchSetThumbAssetParam)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`successCount`*`  | `xsd:int`  | Yes  | The number of successfully set thumbnails.  |
-|  `*`warningCount`*`  | `xsd:int`  | Yes  | The number of warnings generated when the operation attempted to set the thumbnails.  |
-|  `*`errorCount`*`  | `xsd:int`  | Yes  | The number of errors generated when the operation attempted to set the thumbnails.  |
-|  `*`warningDetailArray`*`  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets that generated warnings when the operation attempted to apply the updates.  |
-|  `*`errorDetailArray`*`  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets that generated errors when the operation attempted to apply the updates.  |
+|  successCount  | `xsd:int`  | Yes  | The number of successfully set thumbnails.  |
+|  warningCount  | `xsd:int`  | Yes  | The number of warnings generated when the operation attempted to set the thumbnails.  |
+|  errorCount  | `xsd:int`  | Yes  | The number of errors generated when the operation attempted to set the thumbnails.  |
+|  warningDetailArray  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets that generated warnings when the operation attempted to apply the updates.  |
+|  errorDetailArray  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets that generated errors when the operation attempted to apply the updates.  |
 
 ## Examples {#section-6de69a8680c24c1486c5f01488393381}
 

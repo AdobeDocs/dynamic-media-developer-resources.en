@@ -16,14 +16,14 @@ Image location coordinates returned by the getPhotoshopPath operation.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`x0`*`  | `xsd:double`  | Upper left x-axis coordinate.  |
-|  `*`y0`*`  | `xsd:double`  | Upper left y-axis coordinate.  |
-|  `*`x1`*`  | `xsd:double`  | Upper right x-axis coordinate.  |
-|  `*`y1`*`  | `xsd:double`  | Upper right y-axis coordinate.  |
-|  `*`x2`*`  | `xsd:double`  | Lower right x-axis coordinate.  |
-|  `*`y2`*`  | `xsd:double`  | Lower right y-axis coordinate.  |
-|  `*`x3`*`  | `xsd:double`  | Lower left x-axis cooridnate.  |
-|  `*`y3`*`  | `xsd:double`  | Lower left y-axis coordinate.  |
+|  x0  | `xsd:double`  | Upper left x-axis coordinate.  |
+|  y0  | `xsd:double`  | Upper left y-axis coordinate.  |
+|  x1  | `xsd:double`  | Upper right x-axis coordinate.  |
+|  y1  | `xsd:double`  | Upper right y-axis coordinate.  |
+|  x2  | `xsd:double`  | Lower right x-axis coordinate.  |
+|  y2  | `xsd:double`  | Lower right y-axis coordinate.  |
+|  x3  | `xsd:double`  | Lower left x-axis cooridnate.  |
+|  y3  | `xsd:double`  | Lower left y-axis coordinate.  |
 
 ## Example {#section-19ed4409ff3a41c9b52a9c9424612927}
 

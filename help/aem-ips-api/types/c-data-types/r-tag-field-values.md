@@ -16,5 +16,5 @@ An array of values for a tag field.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`fieldHandle`*`  | `xsd:string`  | Tag field handle.  |
-|  `*`valueArray`*`  | `xsd:StringArray`  | An array of values for a tag field.  |
+|  fieldHandle  | `xsd:string`  | Tag field handle.  |
+|  valueArray  | `xsd:StringArray`  | An array of values for a tag field.  |

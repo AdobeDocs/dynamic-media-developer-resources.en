@@ -16,7 +16,7 @@ Manual crop options for images.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`left`*`  | `xsd:int`  | The left position of the manual crop in pixels.  |
-|  `*`right`*`  | `xsd:int`  | The right position of the manual crop in pixels.  |
-|  `*`top`*`  | `xsd:int`  | The top position of the manual crop in pixels.  |
-|  `*`bottom`*`  | `xsd:int`  | The bottom position of the manual crop in pixels.  |
+|  left  | `xsd:int`  | The left position of the manual crop in pixels.  |
+|  right  | `xsd:int`  | The right position of the manual crop in pixels.  |
+|  top  | `xsd:int`  | The top position of the manual crop in pixels.  |
+|  bottom  | `xsd:int`  | The bottom position of the manual crop in pixels.  |

@@ -16,4 +16,4 @@ An array of folders.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:Folder`  | Array of folders.  |
+|  items  | `types:Folder`  | Array of folders.  |

@@ -14,9 +14,9 @@ exl-id: 5eb9ca70-5971-412d-92d1-4e9898d556fd
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`keyword`*`  | `xsd:string`  | Keyword.  |
-|  `*`status`*`  | `xsd:boolean`  | Keyword validity.  |
-|  `*`x`*`  | `xsd:int`  | Keyword position on the x axis (in pixels).  |
-|  `*`y`*`  | `xsd:int`  | Keyword position on the y axis (in pixels).  |
-|  `*`width`*`  | `xsd:int`  | Keyword width in pixels.  |
-|  `*`height`*`  | `xsd:int`  | Keyword height in pixels.  |
+|  keyword  | `xsd:string`  | Keyword.  |
+|  status  | `xsd:boolean`  | Keyword validity.  |
+|  x  | `xsd:int`  | Keyword position on the x axis (in pixels).  |
+|  y  | `xsd:int`  | Keyword position on the y axis (in pixels).  |
+|  width  | `xsd:int`  | Keyword width in pixels.  |
+|  height  | `xsd:int`  | Keyword height in pixels.  |

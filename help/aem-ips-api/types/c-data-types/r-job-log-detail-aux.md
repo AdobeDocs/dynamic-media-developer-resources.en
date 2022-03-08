@@ -16,6 +16,6 @@ Contains supplementary messages associated with the main job log message (JobDet
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`logMessage`*`  | `xsd:string`  | An auxiliary message.  |
-|  `*`logType`*`  | `xsd:string`  |Log type: `IPSJobLog.gcUploadWarning` or `IPSJobLog.gcUploadError`.  |
-|  `*`dateCreated`*`  | `xsd:dateTime`  | Auxiliary job log creation date.  |
+|  logMessage  | `xsd:string`  | An auxiliary message.  |
+|  logType  | `xsd:string`  |Log type: `IPSJobLog.gcUploadWarning` or `IPSJobLog.gcUploadError`.  |
+|  dateCreated  | `xsd:dateTime`  | Auxiliary job log creation date.  |

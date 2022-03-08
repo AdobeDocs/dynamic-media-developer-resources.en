@@ -27,15 +27,15 @@ Renames a project.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyName`*`  | `xsd:string`  | Yes  | Handle to the company with the project you want to rename.  |
-|  `*`projectHandle`*`  | `xsd:string`  | Yes  | Handle to the project.  |
-|  `*`projectName`*`  | `xsd:string`  | Yes  | New project name.  |
+|  companyName  | `xsd:string`  | Yes  | Handle to the company with the project you want to rename.  |
+|  projectHandle  | `xsd:string`  | Yes  | Handle to the project.  |
+|  projectName  | `xsd:string`  | Yes  | New project name.  |
 
 **Output (renameProjectParam)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`projectHandle`*`  | `xsd:string`  | Yes  | The handle of the renamed project.  |
+|  projectHandle  | `xsd:string`  | Yes  | The handle of the renamed project.  |
 
 ## Examples {#section-a0a06d9244774795b695a10b92b2a5e7}
 

@@ -16,4 +16,4 @@ An array of image map definitions.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:ImageMapDefinition`  | Array of image map definitions.  |
+|  items  | `types:ImageMapDefinition`  | Array of image map definitions.  |

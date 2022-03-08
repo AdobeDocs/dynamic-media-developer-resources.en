@@ -16,6 +16,6 @@ Properties of a JavaScript file asset.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`originalPath`*`  | `xsd:string`  | Path to the JavaScript file.  |
-|  `*`originalFile`*`  | `xsd:string`  | File name.  |
-|  `*`fileSize`*`  | `xsd:int`  | File size.  |
+|  originalPath  | `xsd:string`  | Path to the JavaScript file.  |
+|  originalFile  | `xsd:string`  | File name.  |
+|  fileSize  | `xsd:int`  | File size.  |

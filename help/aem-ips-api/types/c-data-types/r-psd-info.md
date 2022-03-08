@@ -16,8 +16,8 @@ Photoshop file properties.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`originalPath`*`  | `xsd:string`  | File path.  |
-|  `*`originalFile`*`  | `xsd:string`  | File name.  |
-|  `*`optimizedPath`*`  | `xsd:string`  | File path.  |
-|  `*`optimizedFile`*`  | `xsd:string`  | File name.  |
-|  `*`fileSize`*`  | `xsd:int`  | File size.  |
+|  originalPath  | `xsd:string`  | File path.  |
+|  originalFile  | `xsd:string`  | File name.  |
+|  optimizedPath  | `xsd:string`  | File path.  |
+|  optimizedFile  | `xsd:string`  | File name.  |
+|  fileSize  | `xsd:int`  | File size.  |

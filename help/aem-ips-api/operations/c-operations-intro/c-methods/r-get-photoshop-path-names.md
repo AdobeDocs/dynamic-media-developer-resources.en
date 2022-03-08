@@ -28,14 +28,14 @@ Returns an array of Photoshop path names for the given image.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company that contains the image you want to work with.  |
-|  `*`assetHandle`*`  | `xsd:string`  | Yes  | Handle to the image asset.  |
+|  companyHandle  | `xsd:string`  | Yes  | Handle to the company that contains the image you want to work with.  |
+|  assetHandle  | `xsd:string`  | Yes  | Handle to the image asset.  |
 
 **Output (getPhotoshopPathNamesReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`pathNameArray`*`  | `types:StringArray`  | Yes  | An array of Photoshop path names in an image.  |
+|  pathNameArray  | `types:StringArray`  | Yes  | An array of Photoshop path names in an image.  |
 
 ## Examples {#section-6d316f14b4184d42af4ca3f717b042dd}
 

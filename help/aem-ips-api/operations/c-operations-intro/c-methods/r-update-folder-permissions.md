@@ -24,10 +24,10 @@ Update folder permissions.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Company handle.  |
-|  `*`folderHandle`*`  | `xsd:string`  | Yes  | Folder handle.  |
-|  `*`updateChildren`*`  | `xsd:boolean`  | Yes  | Determines whether to update children with permissions set for the top-level folder.  |
-|  `*`updateArray`*`  | `types:PermissionUpdateArray`  | Yes  | The array of permission updates you want to apply to the folder.  |
+|  companyHandle  | `xsd:string`  | Yes  | Company handle.  |
+|  folderHandle  | `xsd:string`  | Yes  | Folder handle.  |
+|  updateChildren  | `xsd:boolean`  | Yes  | Determines whether to update children with permissions set for the top-level folder.  |
+|  updateArray  | `types:PermissionUpdateArray`  | Yes  | The array of permission updates you want to apply to the folder.  |
 
 **Output (updateFolderPermissionsReturn)**
 

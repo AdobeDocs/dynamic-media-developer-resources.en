@@ -14,6 +14,6 @@ exl-id: 9d226927-3b00-4e11-b279-e866aa649477
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`originalPath`*`  | `xsd:string`  | File path.  |
-|  `*`originalFile`*`  | `xsd:string`  | File name.  |
-|  `*`fileSize`*`  | `xsd:int`  | File size.  |
+|  originalPath  | `xsd:string`  | File path.  |
+|  originalFile  | `xsd:string`  | File name.  |
+|  fileSize  | `xsd:int`  | File size.  |

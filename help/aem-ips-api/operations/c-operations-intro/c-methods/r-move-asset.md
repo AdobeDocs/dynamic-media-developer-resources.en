@@ -27,9 +27,9 @@ Moves an asset to a specific folder.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company.  |
-|  `*`assetHandle`*`  | `xsd:string`  | Yes  | Handle to the asset you want to move.  |
-|  `*`folderHandle`*`  | `xsd:string`  | Yes  | Handle to the destination folder.  |
+|  companyHandle  | `xsd:string`  | Yes  | Handle to the company.  |
+|  assetHandle  | `xsd:string`  | Yes  | Handle to the asset you want to move.  |
+|  folderHandle  | `xsd:string`  | Yes  | Handle to the destination folder.  |
 
 **Output (moveAssetReturn)**
 

@@ -16,10 +16,10 @@ Hierarchical file or asset storage object. Folders can contain one (or more) sub
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`folderHandle`*`  | `xsd:string`  | Folder handle.  |
-|  `*`path`*`  | `xsd:string`  | Folder path.  |
-|  `*`lastModified`*`  | `xsd:dateTime`  | Last modification date.  |
-|  `*`childLastModified`*`  | `xsd:dateTime`  | Last modification date for subfolders and folder child assets.  |
-|  `*`permissionsSetHandle`*`  | `xsd:string`  | Folder permissions handle.  |
-|  `*`hasSubfolder`*`  | `types:Boolean`  | Determines if a folder has subfolders.  |
-|  `*`subfolderArray`*`  | `types:FolderArray`  | An array of subfolders in a folder.  |
+|  folderHandle  | `xsd:string`  | Folder handle.  |
+|  path  | `xsd:string`  | Folder path.  |
+|  lastModified  | `xsd:dateTime`  | Last modification date.  |
+|  childLastModified  | `xsd:dateTime`  | Last modification date for subfolders and folder child assets.  |
+|  permissionsSetHandle  | `xsd:string`  | Folder permissions handle.  |
+|  hasSubfolder  | `types:Boolean`  | Determines if a folder has subfolders.  |
+|  subfolderArray  | `types:FolderArray`  | An array of subfolders in a folder.  |

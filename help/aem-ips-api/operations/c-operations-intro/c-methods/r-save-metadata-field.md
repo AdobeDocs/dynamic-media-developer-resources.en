@@ -90,7 +90,7 @@ Create or edit a metadata field. Omit the optional field handle to create a new 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`fieldHandle`*`  | `xsd:string`  | Yes  | Handle of the new metadata field.  |
+|  fieldHandle  | `xsd:string`  | Yes  | Handle of the new metadata field.  |
 
 ## Examples {#section-4441c26d1f41466ba972b43dd5189e89}
 

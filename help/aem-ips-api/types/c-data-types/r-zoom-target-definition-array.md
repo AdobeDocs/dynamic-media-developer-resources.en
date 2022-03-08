@@ -14,4 +14,4 @@ exl-id: c5e89967-8800-4323-9cd8-d3e4a4ccaae3
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:ZoomTargetDefinition`  | An array of Zoom target definitions.  |
+|  items  | `types:ZoomTargetDefinition`  | An array of Zoom target definitions.  |

@@ -16,4 +16,4 @@ An array of keywords.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:Keywords`  | An array of keywords.  |
+|  items  | `types:Keywords`  | An array of keywords.  |

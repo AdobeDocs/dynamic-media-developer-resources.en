@@ -30,14 +30,14 @@ Gets information about a user. Use the email address and the password of a syste
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`userHandle`*`  | `xsd:string`  | No  | Handle to the user whose information you want to return.  |
-|  `*`email`*`  | `xsd:string`  | No  | User email address.  |
+|  userHandle  | `xsd:string`  | No  | Handle to the user whose information you want to return.  |
+|  email  | `xsd:string`  | No  | User email address.  |
 
 **Output (getUserInfoReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`userInfo`*`  | `types:User`  | Yes  | The first name, last name, email address, and role of a user, as well as whether the user is valid and when the user’s password expires.  |
+|  userInfo  | `types:User`  | Yes  | The first name, last name, email address, and role of a user, as well as whether the user is valid and when the user’s password expires.  |
 
 ## Examples {#section-98d77a2e360a438dbe240099bea26a65}
 

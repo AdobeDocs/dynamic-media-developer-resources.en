@@ -16,5 +16,5 @@ Parameters used to update the publish state of an asset.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`assetHandle`*`  | `xsd:string`  | Asset handle.  |
-|  `*`publishState`*`  | `xsd:string`  | New publish state.  |
+|  assetHandle  | `xsd:string`  | Asset handle.  |
+|  publishState  | `xsd:string`  | New publish state.  |

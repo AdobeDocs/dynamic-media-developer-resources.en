@@ -16,4 +16,4 @@ Array of auxiliary job log detail types.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:JobLogDetailAux`  | An array of auxiliary job log detail types.  |
+|  items  | `types:JobLogDetailAux`  | An array of auxiliary job log detail types.  |

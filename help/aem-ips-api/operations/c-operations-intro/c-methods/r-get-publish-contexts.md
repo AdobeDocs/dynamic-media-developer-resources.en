@@ -67,7 +67,7 @@ exl-id: 7b26e659-71b9-40c4-9df4-94e78c3e4baf
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`publishContextArray`*`  | types:PublishContextArray  | Yes  | An array of publish contexts for a company, filtered by context type if required.  |
+|  publishContextArray  | types:PublishContextArray  | Yes  | An array of publish contexts for a company, filtered by context type if required.  |
 
 ## Examples {#section-23fb7d6a15004b7eb4c3d3bcb37ceb04}
 

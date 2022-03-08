@@ -53,7 +53,7 @@ The IPS API does not return a response for this operation.
 
 ## Examples {#section-f7a1f40c3d7a40ea964b29056c734d81}
 
-This example adds a group to a company with `*`groupHandleArray`*`. This example uses one group only.
+This example adds a group to a company with groupHandleArray. This example uses one group only.
 
 **Request** 
 

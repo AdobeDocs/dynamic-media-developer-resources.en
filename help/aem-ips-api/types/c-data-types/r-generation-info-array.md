@@ -16,4 +16,4 @@ An array of generation properties.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:GenerationInfo`  | An array of generation properties.  |
+|  items  | `types:GenerationInfo`  | An array of generation properties.  |

@@ -12,7 +12,7 @@ Adds a company to the system.
 
 Sends the name of the company to be added to the system and optionally sends whether the company expires.
 
-When this operation is invoked, the system gets a `*`companyInfo`*` type that contains a company handle and descriptive fields. If the company name requested already exists in the system, it throws an `ipsApiFault`.
+When this operation is invoked, the system gets a companyInfo type that contains a company handle and descriptive fields. If the company name requested already exists in the system, it throws an `ipsApiFault`.
 
 ## Authorized User Types {#section-ae926c7672984be79f6102748accab72}
 

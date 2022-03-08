@@ -34,7 +34,7 @@ None.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`propertyArray`*`  | `types:PropertyArray`  | Yes  | An array of system properties.  |
+|  propertyArray  | `types:PropertyArray`  | Yes  | An array of system properties.  |
 
 ## Examples {#section-728cc16fe9954b2daa035b4d4d4b4ce6}
 

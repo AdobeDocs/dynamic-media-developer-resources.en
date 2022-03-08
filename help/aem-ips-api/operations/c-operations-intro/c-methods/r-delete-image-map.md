@@ -31,8 +31,8 @@ Deletes an image map.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that contains the image map to delete.  |
-|  `*`imageMapHandle`*`  | `xsd:string`  | Yes  | The handle to the image map to delete.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company that contains the image map to delete.  |
+|  imageMapHandle  | `xsd:string`  | Yes  | The handle to the image map to delete.  |
 
 **Output (deleteImageMapParam)**
 

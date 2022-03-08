@@ -25,8 +25,8 @@ Removes a user from one or more companies.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`userHandle`*`  | `xsd:string`  | No  | The handle to the user with the membership you want to remove.  |
-|  `*`companyHandleArray`*`  | `types:HandleArray`  | Yes  | The handle to the company that you're removing the user from.  |
+|  userHandle  | `xsd:string`  | No  | The handle to the user with the membership you want to remove.  |
+|  companyHandleArray  | `types:HandleArray`  | Yes  | The handle to the company that you're removing the user from.  |
 
 **Output (removeCompanyMembershipReturn)**
 

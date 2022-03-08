@@ -16,8 +16,8 @@ An entry in a ZIP file.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`name`*`  | `xsd:string`  | Entry name.  |
-|  `*`isDirectory`*`  | `xsd:boolean`  | Determines if the entry is a directory.  |
-|  `*`lastModified`*`  | `xsd:dateTime`  | Date and time of last modification.  |
-|  `*`compressedSize`*`  | `xsd:long`  | Compressed size.  |
-|  `*`uncompressedSize`*`  | `xsd:long`  | Uncompressed size.  |
+|  name  | `xsd:string`  | Entry name.  |
+|  isDirectory  | `xsd:boolean`  | Determines if the entry is a directory.  |
+|  lastModified  | `xsd:dateTime`  | Date and time of last modification.  |
+|  compressedSize  | `xsd:long`  | Compressed size.  |
+|  uncompressedSize  | `xsd:long`  | Uncompressed size.  |

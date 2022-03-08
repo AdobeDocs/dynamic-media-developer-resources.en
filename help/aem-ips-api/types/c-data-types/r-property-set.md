@@ -16,6 +16,6 @@ Type and value for a property set.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`setHandle`*`  | `xsd:string`  | Property set handle.  |
-|  `*`typeHandle`*`  | `xsd:string`  | Handle to the property set type.  |
-|  `*`propertyArray`*`  | `types:PropertyArray`  | Name-value pair. Can contain zero items.  |
+|  setHandle  | `xsd:string`  | Property set handle.  |
+|  typeHandle  | `xsd:string`  | Handle to the property set type.  |
+|  propertyArray  | `types:PropertyArray`  | Name-value pair. Can contain zero items.  |

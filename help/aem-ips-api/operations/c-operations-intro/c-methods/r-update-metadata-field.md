@@ -81,7 +81,7 @@ Update field metadata.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`fieldHandle`*`  | `xsd:string`  | Yes  | Metadata field handle.  |
+|  fieldHandle  | `xsd:string`  | Yes  | Metadata field handle.  |
 
 ## Examples {#section-bb7d93ab6d914ddfa294e08983e589ee}
 

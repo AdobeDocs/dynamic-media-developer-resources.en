@@ -16,6 +16,6 @@ Options specified during upload. Affects how color is managed for the upload.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`colorManagement`*`  | `xsd:string`  | Color management mode choice.  |
-|  `*`sourceProfileHandle`*`  | `xsd:string`  | Source profile handle.  |
-|  `*`outputProfileHandle`*`  | `xsd:string`  | Output profile handle.  |
+|  colorManagement  | `xsd:string`  | Color management mode choice.  |
+|  sourceProfileHandle  | `xsd:string`  | Source profile handle.  |
+|  outputProfileHandle  | `xsd:string`  | Output profile handle.  |

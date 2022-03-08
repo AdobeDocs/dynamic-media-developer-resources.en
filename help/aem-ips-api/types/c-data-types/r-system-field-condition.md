@@ -16,19 +16,19 @@ A system field search condition for the searchAssets operation.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`field`*`  | `xsd:string`  | Choice of Asset Search System Fields.  |
-|  `*`op`*`  | `xsd:string`  | Choice of String Comparison Operators.  |
-|  `*`value`*`  | `xsd:string`  | Value to test against.  |
-|  `*`boolVal`*`  | `xsd:boolean`  | Boolean comparison value.  |
-|  `*`longVal`*`  | `xsd:long`  | Long comparison value.  |
-|  `*`minLong`*`  | `xsd:long`  | Lower boundary of long range.  |
-|  `*`maxLong`*`  | `xsd:long`  | Upper boundary of long range.  |
-|  `*`doubleVal`*`  | `xsd:double`  | Double comparison value.  |
-|  `*`minDouble`*`  | `xsd:double`  | Lower boundary of double range.  |
-|  `*`maxDouble`*`  | `xsd:double`  | Upper boundary of double range.  |
-|  `*`dateVal`*`  | `xsd:dateTime`  | Date comparison value.  |
-|  `*`minDate`*`  | `xsd:dateTime`  | Date range minium.  |
-|  `*`maxDate`*`  | `xsd:dateTime`  | Date range maximum.  |
+|  field  | `xsd:string`  | Choice of Asset Search System Fields.  |
+|  op  | `xsd:string`  | Choice of String Comparison Operators.  |
+|  value  | `xsd:string`  | Value to test against.  |
+|  boolVal  | `xsd:boolean`  | Boolean comparison value.  |
+|  longVal  | `xsd:long`  | Long comparison value.  |
+|  minLong  | `xsd:long`  | Lower boundary of long range.  |
+|  maxLong  | `xsd:long`  | Upper boundary of long range.  |
+|  doubleVal  | `xsd:double`  | Double comparison value.  |
+|  minDouble  | `xsd:double`  | Lower boundary of double range.  |
+|  maxDouble  | `xsd:double`  | Upper boundary of double range.  |
+|  dateVal  | `xsd:dateTime`  | Date comparison value.  |
+|  minDate  | `xsd:dateTime`  | Date range minium.  |
+|  maxDate  | `xsd:dateTime`  | Date range maximum.  |
 
 ## Example {#section-347d4aabfff44530adba03d1dc0b9968}
 

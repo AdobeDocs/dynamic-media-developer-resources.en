@@ -16,6 +16,6 @@ The properties of a template asset.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`url`*`  | `xsd:string`  | Image server URL that represents the template.  |
-|  `*`urlModifier`*`  | `xsd:string`  | |
-|  `*`urlPostApplyModifier`*`  | `xsd:string`  | |
+|  url  | `xsd:string`  | Image server URL that represents the template.  |
+|  urlModifier  | `xsd:string`  | |
+|  urlPostApplyModifier  | `xsd:string`  | |

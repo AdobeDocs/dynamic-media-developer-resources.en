@@ -25,14 +25,14 @@ Sets user attributes (e.g., name, email, role, etc.)
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`userHandle`*`  | `xsd:string`  | No  | User handle.  |
-|  `*`firstName`*`  | `xsd:string`  | Yes  | First name.  |
-|  `*`lastName`*`  | `xsd:string`  | Yes  | Last name.  |
-|  `*`email`*`  | `xsd:string`  | Yes  | User email.  |
-|  `*`defaultRole`*`  | `xsd:string`  | Yes  |Sets the role for a user in each company they belong to. Note, however, the `IpsAdmin` role overrides other per-company settings.  |
-|  `*`passwordExpires`*`  | `xsd:dateTime`  | No  | Set's password expiration date.  |
-|  `*`isValid`*`  | `xsd:boolean`  | Yes  | Determines if user is a valid IPS user.  |
-|  `*`membershipArray`*`  | `types:CompanyMembershipUpdateArray`  | Yes  | An array of company handles.  |
+|  userHandle  | `xsd:string`  | No  | User handle.  |
+|  firstName  | `xsd:string`  | Yes  | First name.  |
+|  lastName  | `xsd:string`  | Yes  | Last name.  |
+|  email  | `xsd:string`  | Yes  | User email.  |
+|  defaultRole  | `xsd:string`  | Yes  |Sets the role for a user in each company they belong to. Note, however, the `IpsAdmin` role overrides other per-company settings.  |
+|  passwordExpires  | `xsd:dateTime`  | No  | Set's password expiration date.  |
+|  isValid  | `xsd:boolean`  | Yes  | Determines if user is a valid IPS user.  |
+|  membershipArray  | `types:CompanyMembershipUpdateArray`  | Yes  | An array of company handles.  |
 
 **Output (setUserInfoReturn)**
 

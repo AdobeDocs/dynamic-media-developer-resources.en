@@ -31,18 +31,18 @@ Determines if a batch of assets are ready to be published.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Company handle.  |
-|  `*`publishStateUpdateArray`*`  | `types:PublishStateUpdateArray`  | Yes  | Array of publish state values for the assets.  |
+|  companyHandle  | `xsd:string`  | Yes  | Company handle.  |
+|  publishStateUpdateArray  | `types:PublishStateUpdateArray`  | Yes  | Array of publish state values for the assets.  |
 
 **Output (setAssetsPublishStateParam)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`successCount`*`  | `xsd:int`  | Yes  | The number of successfully updated assets.  |
-|  `*`warningCount`*`  | `xsd:int`  | Yes  | The number of assets that generated a warning when the operation tried to update them.  |
-|  `*`errorCount`*`  | `xsd:int`  | Yes  | The number of assets that generated an error when the operation tried to delete them.  |
-|  `*`warningDetailArray`*`  | `types:AssetOperationFaultArray`  | No  | Details associated with the asset updates that generated a warning.  |
-|  `*`errorDetailArray`*`  | `types:AssetOperationFaultArray`  | No  | Details associated with the asset updates that generated an error.  |
+|  successCount  | `xsd:int`  | Yes  | The number of successfully updated assets.  |
+|  warningCount  | `xsd:int`  | Yes  | The number of assets that generated a warning when the operation tried to update them.  |
+|  errorCount  | `xsd:int`  | Yes  | The number of assets that generated an error when the operation tried to delete them.  |
+|  warningDetailArray  | `types:AssetOperationFaultArray`  | No  | Details associated with the asset updates that generated a warning.  |
+|  errorDetailArray  | `types:AssetOperationFaultArray`  | No  | Details associated with the asset updates that generated an error.  |
 
 ## Examples {#section-38cfdd3436214a06a1bae16875501d51}
 

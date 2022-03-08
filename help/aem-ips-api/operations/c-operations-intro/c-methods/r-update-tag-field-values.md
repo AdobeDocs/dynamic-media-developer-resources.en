@@ -57,11 +57,11 @@ Updates tag dictionary values for a tag field.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`successCount`*`  | `xsd:int`  | Yes  | The number of successfully updated tag fields.  |
-|  `*`warningCount`*`  | `xsd:int`  | Yes  | The number of warnings generated when the operation attempted to update tag fields.  |
-|  `*`errorCount`*`  | `xsd:int`  | Yes  | The number of errors generated when the operation attempted to update tag fields.  |
-|  `*`warningDetailArray`*`  | `types:TagValueUpdateFaultArray`  | No  | The array of details associated with the assets that generated warnings when the operation attempted to update tag fields.  |
-|  `*`errorDetailArray`*`  | `types:TagValueUpdateFaultArray`  | No  | The array of details associated with the assets that generated errors when the operation attempted to update tag fields.  |
+|  successCount  | `xsd:int`  | Yes  | The number of successfully updated tag fields.  |
+|  warningCount  | `xsd:int`  | Yes  | The number of warnings generated when the operation attempted to update tag fields.  |
+|  errorCount  | `xsd:int`  | Yes  | The number of errors generated when the operation attempted to update tag fields.  |
+|  warningDetailArray  | `types:TagValueUpdateFaultArray`  | No  | The array of details associated with the assets that generated warnings when the operation attempted to update tag fields.  |
+|  errorDetailArray  | `types:TagValueUpdateFaultArray`  | No  | The array of details associated with the assets that generated errors when the operation attempted to update tag fields.  |
 
 ## Examples {#section-bb4dcf97044c4675974c9b8d27674001}
 

@@ -16,4 +16,4 @@ An array of information about a task item.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:TaskItemProgress`  | Task item progress array. Minimum occurrence is zero. Maximum is unbounded.  |
+|  items  | `types:TaskItemProgress`  | Task item progress array. Minimum occurrence is zero. Maximum is unbounded.  |

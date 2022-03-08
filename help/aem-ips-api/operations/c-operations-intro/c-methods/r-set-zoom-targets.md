@@ -27,15 +27,15 @@ Sets the zoom target associated with an asset image. It overwrites existing zoom
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Company handle.  |
-|  `*`assetHandle`*`  | `xsd:string`  | Yes  | Asset with the zoom target you want to set.  |
-|  `*`zoomTargetArray`*`  | `types:ZoomTargetDefinitionArray`  | Yes  | Array of zoom target definitions.  |
+|  companyHandle  | `xsd:string`  | Yes  | Company handle.  |
+|  assetHandle  | `xsd:string`  | Yes  | Asset with the zoom target you want to set.  |
+|  zoomTargetArray  | `types:ZoomTargetDefinitionArray`  | Yes  | Array of zoom target definitions.  |
 
 **Output (setZoomTargetsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`zoomTargetHandleArray`*`  | `types:HandleArray`  | Yes  | The set of handles to the zoom targets created by this operation.  |
+|  zoomTargetHandleArray  | `types:HandleArray`  | Yes  | The set of handles to the zoom targets created by this operation.  |
 
 ## Examples {#section-a2f14c7a1499443e96d099ea8a76c182}
 

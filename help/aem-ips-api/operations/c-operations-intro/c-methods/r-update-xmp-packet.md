@@ -28,15 +28,15 @@ Sets or updates an XMP metadata packet for an asset.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Company handle.  |
-|  `*`assetHandle`*`  | `xsd:string`  | Yes  | Asset handle.  |
-|  `*`compressedPacket`*`  | `xsd:Base 64 binary`  | Yes  | [!DNL zlib-compressed] XMP packet you want to set or update.  |
+|  companyHandle  | `xsd:string`  | Yes  | Company handle.  |
+|  assetHandle  | `xsd:string`  | Yes  | Asset handle.  |
+|  compressedPacket  | `xsd:Base 64 binary`  | Yes  | [!DNL zlib-compressed] XMP packet you want to set or update.  |
 
 **Output (updateXMPPacketReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`success`*`  | `xsd:boolean`  | Yes  |Returns `true` if the packet was updated.  |
+|  success  | `xsd:boolean`  | Yes  |Returns `true` if the packet was updated.  |
 
 ## Examples {#section-38b556b94e5044bf97a954519ff6c212}
 

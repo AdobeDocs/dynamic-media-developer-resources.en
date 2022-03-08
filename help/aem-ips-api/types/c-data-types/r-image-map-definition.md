@@ -16,8 +16,8 @@ Target definition for a click action in the browser.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`name`*`  | `xsd:string`  | The name of the image map definition.  |
-|  `*`shapeType`*`  | `xsd:string`  | One of region shape values.  |
-|  `*`region`*`  | `xsd:string`  |Image map coordinates. The format is based on the HTML `<area>` tag attributes.  |
-|  `*`action`*`  | `xsd:string`  |Other attributes to include in the HTML `<area>` tag, including the `href` URL.  |
-|  `*`enabled`*`  | `xsd:boolean`  | True if the image map is enabled.  |
+|  name  | `xsd:string`  | The name of the image map definition.  |
+|  shapeType  | `xsd:string`  | One of region shape values.  |
+|  region  | `xsd:string`  |Image map coordinates. The format is based on the HTML `<area>` tag attributes.  |
+|  action  | `xsd:string`  |Other attributes to include in the HTML `<area>` tag, including the `href` URL.  |
+|  enabled  | `xsd:boolean`  | True if the image map is enabled.  |

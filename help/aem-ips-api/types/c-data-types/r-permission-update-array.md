@@ -16,4 +16,4 @@ An array of permission updates.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:PermissionUpdateArray`  | The permissions update array.  |
+|  items  | `types:PermissionUpdateArray`  | The permissions update array.  |

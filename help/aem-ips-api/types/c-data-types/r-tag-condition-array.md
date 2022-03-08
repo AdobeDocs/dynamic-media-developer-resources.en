@@ -16,4 +16,4 @@ An array of tag conditions.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:TagCondition`  | An array of tag conditions.  |
+|  items  | `types:TagCondition`  | An array of tag conditions.  |

@@ -24,8 +24,8 @@ Deletes a group.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that belongs to the group that you want to delete.  |
-|  `*`groupHandle`*`  | `xsd:string`  | Yes  | The handle to the group that you want to delete.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company that belongs to the group that you want to delete.  |
+|  groupHandle  | `xsd:string`  | Yes  | The handle to the group that you want to delete.  |
 
 **Output (deleteGroupParam)**
 

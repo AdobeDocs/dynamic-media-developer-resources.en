@@ -16,7 +16,7 @@ Represents a company.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Company handle.  |
-|  `*`name`*`  | `xsd:string`  | Company name.  |
-|  `*`rootPath`*`  | `xsd:string`  | Root path of the company.  |
-|  `*`expires`*`  | `xsd:dateTime`  | Date and time the company expires.  |
+|  companyHandle  | `xsd:string`  | Company handle.  |
+|  name  | `xsd:string`  | Company name.  |
+|  rootPath  | `xsd:string`  | Root path of the company.  |
+|  expires  | `xsd:dateTime`  | Date and time the company expires.  |

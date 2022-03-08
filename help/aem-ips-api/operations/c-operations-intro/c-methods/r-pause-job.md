@@ -29,8 +29,8 @@ Pauses an active job.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company.  |
-|  `*`jobHandle`*`  | `xsd:string`  | Yes  | Handle to the job you want to pause.  |
+|  companyHandle  | `xsd:string`  | Yes  | Handle to the company.  |
+|  jobHandle  | `xsd:string`  | Yes  | Handle to the job you want to pause.  |
 
 **Output (PauseJobReturn)**
 

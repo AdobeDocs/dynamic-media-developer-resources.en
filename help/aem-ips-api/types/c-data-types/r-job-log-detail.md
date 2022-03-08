@@ -16,9 +16,9 @@ Job log information.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`logMessage`*`  | `xsd:string`  | Messages in the job log.  |
-|  `*`logType`*`  | `xsd:string`  | Job log file type.  |
-|  `*`assetName`*`  | `xsd:string`  | Name of asset in the job log (optional).  |
-|  `*`assetType`*`  | `xsd:string`  | Choice of asset type.  |
-|  `*`assetHandle`*`  | `xsd:string`  | Asset handle referenced in the job log.  |
-|  `*`auxArray`*`  | `types:JobLogDetailAuxArray`  | Provides additional detailed job log information beyond the five job log types described above.  |
+|  logMessage  | `xsd:string`  | Messages in the job log.  |
+|  logType  | `xsd:string`  | Job log file type.  |
+|  assetName  | `xsd:string`  | Name of asset in the job log (optional).  |
+|  assetType  | `xsd:string`  | Choice of asset type.  |
+|  assetHandle  | `xsd:string`  | Asset handle referenced in the job log.  |
+|  auxArray  | `types:JobLogDetailAuxArray`  | Provides additional detailed job log information beyond the five job log types described above.  |

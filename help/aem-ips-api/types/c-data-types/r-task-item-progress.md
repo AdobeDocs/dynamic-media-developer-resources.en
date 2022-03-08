@@ -16,7 +16,7 @@ Task item progress information.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`itemName`*`  | `xsd:string`  | Name of the item being processed.  |
-|  `*`progress`*`  | `xsd:double`  | Progress complete %.  |
-|  `*`progressMessage`*`  | `xsd:string`  | Process message.  |
-|  `*`lastProgressUpdate`*`  | `xsd:dateTime`  | Time of last update.  |
+|  itemName  | `xsd:string`  | Name of the item being processed.  |
+|  progress  | `xsd:double`  | Progress complete %.  |
+|  progressMessage  | `xsd:string`  | Process message.  |
+|  lastProgressUpdate  | `xsd:dateTime`  | Time of last update.  |

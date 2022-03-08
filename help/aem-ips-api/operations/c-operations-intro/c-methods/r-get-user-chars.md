@@ -25,19 +25,19 @@ Gets a list of the characters used in a particular field.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`charField`*`  | `xsd:string`  | Yes  | Determines the Trash State to search for.  |
-|  `*`includeInactive`*`  | `xsd:boolean`  | Yes  | Include or exclude inactive users. Non-IPS Admin users must be an active member of at least one company to be authorized to make any API calls. An authorization fault is returned if the user has no active company memberships.  |
-|  `*`includInvalid`*`  | `xsd:boolean`  | No  | Include or exclude invalid users.  |
-|  `*`companyHandleArray`*`  | `types:HandleArray`  | No  | Filter results based on company.  |
-|  `*`groupHandleArray`*`  | `types:HandleArray`  | No  | Filters results based on groups.  |
-|  `*`userRoleArray`*`  | `types:StringArray`  | No  | Filters results based on user role.  |
-|  `*`numChars`*`  | `xsd:int`  | No  | Enable >1 character.  |
+|  charField  | `xsd:string`  | Yes  | Determines the Trash State to search for.  |
+|  includeInactive  | `xsd:boolean`  | Yes  | Include or exclude inactive users. Non-IPS Admin users must be an active member of at least one company to be authorized to make any API calls. An authorization fault is returned if the user has no active company memberships.  |
+|  includInvalid  | `xsd:boolean`  | No  | Include or exclude invalid users.  |
+|  companyHandleArray  | `types:HandleArray`  | No  | Filter results based on company.  |
+|  groupHandleArray  | `types:HandleArray`  | No  | Filters results based on groups.  |
+|  userRoleArray  | `types:StringArray`  | No  | Filters results based on user role.  |
+|  numChars  | `xsd:int`  | No  | Enable >1 character.  |
 
 **Output (getUserCharsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`userCharsArray`*`  | `types:StringArray`  | Yes  | An array of character prefixes.  |
+|  userCharsArray  | `types:StringArray`  | Yes  | An array of character prefixes.  |
 
 ## Examples {#section-3702f165e8b041139a6144f4a76ca25f}
 

@@ -24,9 +24,9 @@ Sets the permissions of a single asset by using a permission asset.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that contains the folder you want to work with.  |
-|  `*`assetHandle`*`  | `xsd:string`  | Yes  | Folder handle.  |
-|  `*`permissionArray`*`  | `types:PermissionsUpdateArray`  | Yes  | Permissions array.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company that contains the folder you want to work with.  |
+|  assetHandle  | `xsd:string`  | Yes  | Folder handle.  |
+|  permissionArray  | `types:PermissionsUpdateArray`  | Yes  | Permissions array.  |
 
 **Output (setAssetPermissonsReturn)**
 

@@ -23,13 +23,13 @@ exl-id: 6e56d68e-b5cf-4044-9c58-f8221fa4490f
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company.  |
 
 **Output (getVignettePublishFormatsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`vignetteFormatArray`*`  | `types:VignettePublishFormatArray`  | Yes  | Array of vignette publish formats.  |
+|  vignetteFormatArray  | `types:VignettePublishFormatArray`  | Yes  | Array of vignette publish formats.  |
 
 ## Examples {#section-2cc32b27cc6243b7b3e273cc05996226}
 

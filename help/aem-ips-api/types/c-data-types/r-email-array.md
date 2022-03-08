@@ -16,4 +16,4 @@ An array used to designate the originator or a list of up to 5 email addresses t
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `xsd:string`  | email addresses.  |
+|  items  | `xsd:string`  | email addresses.  |

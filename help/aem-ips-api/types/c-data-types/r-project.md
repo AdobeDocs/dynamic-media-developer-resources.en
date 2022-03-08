@@ -16,5 +16,5 @@ Set of named assets.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`project Handle`*`  | `xsd:string`  | Project handle.  |
-|  `*`name`*`  | `xsd:string`  | Project name.  |
+|  project Handle  | `xsd:string`  | Project handle.  |
+|  name  | `xsd:string`  | Project name.  |

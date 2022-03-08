@@ -30,10 +30,10 @@ Gets a list of active publish contexts for the specified company. A publish cont
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company to query for active publish contexts  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company to query for active publish contexts  |
 
 **Output (getActivePublishContextsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`contextArray`*`  | `types:StringArray`  | Yes  | The array of active publish contexts, which may include zero or more values from Publish Context.  |
+|  contextArray  | `types:StringArray`  | Yes  | The array of active publish contexts, which may include zero or more values from Publish Context.  |

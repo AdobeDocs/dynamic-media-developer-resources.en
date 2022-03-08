@@ -33,19 +33,19 @@ Unlike an image copy (see [copyImage](../../../operations/c-operations-intro/c-m
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company that contains the asset from which you will derive the new asset.  |
-|  `*`ownerHandle`*`  | `xsd:string`  | Yes  | The handle to the primary Image asset from which the new image is derived.  |
-|  `*`folderHandle`*`  | `xsd:string`  | Yes  | The handle to the folder in which the new derived asset is created.  |
-|  `*`name`*`  | `xsd:string`  | Yes  | The name of the derived asset.  |
-|  `*`type`*`  | `xsd:string`  | Yes  |The asset type of the new derived asset: `AdjustedView` or `LayerView`.  |
-|  `*`urlModifier`*`  | `xsd:string`  | No  |Image serving or image rendering protocol commands applied *before* the request or `urlPostApplyModifier` commands.  |
-|  `*`urlPostApplyModifier`*`  | `xsd:string`  | No  |Image serving or image rendering protocol commands applied *after* to the request or `urlPostApplyModifier` commands.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company that contains the asset from which you will derive the new asset.  |
+|  ownerHandle  | `xsd:string`  | Yes  | The handle to the primary Image asset from which the new image is derived.  |
+|  folderHandle  | `xsd:string`  | Yes  | The handle to the folder in which the new derived asset is created.  |
+|  name  | `xsd:string`  | Yes  | The name of the derived asset.  |
+|  type  | `xsd:string`  | Yes  |The asset type of the new derived asset: `AdjustedView` or `LayerView`.  |
+|  urlModifier  | `xsd:string`  | No  |Image serving or image rendering protocol commands applied *before* the request or `urlPostApplyModifier` commands.  |
+|  urlPostApplyModifier  | `xsd:string`  | No  |Image serving or image rendering protocol commands applied *after* to the request or `urlPostApplyModifier` commands.  |
 
 **Output (createDerivedAssetParam)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`assetHandle`*`  | `xsd:string`  | Yes  | The handle to the derived asset.  |
+|  assetHandle  | `xsd:string`  | Yes  | The handle to the derived asset.  |
 
 ## Examples {#section-5d5ea893a1ef4edc8b3a396f1936e8c9}
 

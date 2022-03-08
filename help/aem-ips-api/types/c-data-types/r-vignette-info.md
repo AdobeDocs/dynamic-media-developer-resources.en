@@ -16,10 +16,10 @@ Properties of a vignette asset.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`originalPath`*`  | `xsd:string`  | Path to the file.  |
-|  `*`originalFile`*`  | `xsd:string`  | File name.  |
-|  `*`fileSize`*`  | `xsd:int`  | File size.  |
-|  `*`imagePath`*`  | `xsd:string`  | Path to the image.  |
-|  `*`imageFile`*`  | `xsd:string`  | |
-|  `*`optimizedPath`*`  | `xsd:string`  | Optimized path to the file.  |
-|  `*`optimizedFile`*`  | `xsd:string`  | Optimized file name.  |
+|  originalPath  | `xsd:string`  | Path to the file.  |
+|  originalFile  | `xsd:string`  | File name.  |
+|  fileSize  | `xsd:int`  | File size.  |
+|  imagePath  | `xsd:string`  | Path to the image.  |
+|  imageFile  | `xsd:string`  | |
+|  optimizedPath  | `xsd:string`  | Optimized path to the file.  |
+|  optimizedFile  | `xsd:string`  | Optimized file name.  |

@@ -24,9 +24,9 @@ Sets tag dictionary values for an existing tag field.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Company handle.  |
-|  `*`fieldHandle`*`  | `xsd:string`  | Yes  | Tag field handle.  |
-|  `*`valueArray`*`  | `types:StringArray`  | Yes  | An array of tag values that replace the field's existing dictionary. Asset associations are maintained when a new value matches an existing value.  |
+|  companyHandle  | `xsd:string`  | Yes  | Company handle.  |
+|  fieldHandle  | `xsd:string`  | Yes  | Tag field handle.  |
+|  valueArray  | `types:StringArray`  | Yes  | An array of tag values that replace the field's existing dictionary. Asset associations are maintained when a new value matches an existing value.  |
 
 **Output (setTagFieldValuesReturn)**
 

@@ -27,8 +27,8 @@ Removes users from an array of groups.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`userHandle`*`  | `xsd:string`  | No  | The handle to the company whose group membership you want to remove.  |
-|  `*`groupHandleArray`*`  | `types:HandleArray`  | Yes  | The array of handles to groups from which you want the company to be removed.  |
+|  userHandle  | `xsd:string`  | No  | The handle to the company whose group membership you want to remove.  |
+|  groupHandleArray  | `types:HandleArray`  | Yes  | The array of handles to groups from which you want the company to be removed.  |
 
 **Output (removeGroupMembershipReturn)**
 

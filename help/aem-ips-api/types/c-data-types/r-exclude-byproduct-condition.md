@@ -16,5 +16,5 @@ Determines which generation engine and generated asset type to exclude from sear
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`engine`*`  | `xsd:string`  | The generation engine that created assets you want to exclude. See Generation Info for values.  |
-|  `*`generatedAssetType`*`  | `xsd:string`  | Excluded asset type. See Asset Types for values.  |
+|  engine  | `xsd:string`  | The generation engine that created assets you want to exclude. See Generation Info for values.  |
+|  generatedAssetType  | `xsd:string`  | Excluded asset type. See Asset Types for values.  |

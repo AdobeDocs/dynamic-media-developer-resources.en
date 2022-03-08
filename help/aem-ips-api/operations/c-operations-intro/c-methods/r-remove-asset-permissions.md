@@ -24,8 +24,8 @@ Removes permissions from selected assets.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company.  |
-|  `*`assetHandle`*`  | `xsd:string`  | Yes  | The handle to the asset with permissions you want to remove.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company.  |
+|  assetHandle  | `xsd:string`  | Yes  | The handle to the asset with permissions you want to remove.  |
 
 **Output (removeAssetPermissionsReturn)**
 

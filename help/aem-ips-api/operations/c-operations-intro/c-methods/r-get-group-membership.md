@@ -28,14 +28,14 @@ Returns the members of a group.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`userHandle`*`  | `xsd:string`  | No  | The handle to the user.  |
-|  `*`companyHandle`*`  | `xsd:string`  | No  | The handle to the company.  |
+|  userHandle  | `xsd:string`  | No  | The handle to the user.  |
+|  companyHandle  | `xsd:string`  | No  | The handle to the company.  |
 
 **Output (getGroupMembershipReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`groupArray`*`  | `types:GroupArray`  | Yes  | Array of groups.  |
+|  groupArray  | `types:GroupArray`  | Yes  | Array of groups.  |
 
 ## Examples {#section-ebb437369f4f4487b3eb2ef0c078b8ae}
 

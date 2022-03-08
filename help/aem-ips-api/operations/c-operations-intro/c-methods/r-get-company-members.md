@@ -25,14 +25,14 @@ Returns the users of a company specified by a company handle.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company whose members you want to obtain.  |
-|  `*`includeInvalid`*`  | `xsd:boolean`  | Yes  | Include invalid companies.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company whose members you want to obtain.  |
+|  includeInvalid  | `xsd:boolean`  | Yes  | Include invalid companies.  |
 
 **Output (getCompanyMembersReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`memberArray`*`  | `types:CompanyMemberArray`  | Yes  | Array of user memberships.  |
+|  memberArray  | `types:CompanyMemberArray`  | Yes  | Array of user memberships.  |
 
 ## Examples {#section-39d8cf3653fd4fe8b842caabac9dedfc}
 

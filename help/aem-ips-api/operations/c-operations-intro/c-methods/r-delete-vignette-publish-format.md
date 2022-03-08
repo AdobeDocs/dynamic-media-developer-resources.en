@@ -23,8 +23,8 @@ Deletes a vignette publish format.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company to which the vignette belongs.  |
-|  `*`vignetteFormatHandle`*`  | `xsd:string`  | Yes  | The handle to the vignette publish format to be deleted.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company to which the vignette belongs.  |
+|  vignetteFormatHandle  | `xsd:string`  | Yes  | The handle to the vignette publish format to be deleted.  |
 
 **Output (deleteVignettePublishFormatParam)**
 

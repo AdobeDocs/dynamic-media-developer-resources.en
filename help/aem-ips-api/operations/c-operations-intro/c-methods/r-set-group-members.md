@@ -24,9 +24,9 @@ Sets the group membership of users that belong to a specific company.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Company handle.  |
-|  `*`groupHandle`*`  | `xsd:string`  | Yes  | Group handle.  |
-|  `*`userHandleArray`*`  | `types:HandleArray`  | Yes  | Array of handles for users whose group membership you want to set.  |
+|  companyHandle  | `xsd:string`  | Yes  | Company handle.  |
+|  groupHandle  | `xsd:string`  | Yes  | Group handle.  |
+|  userHandleArray  | `types:HandleArray`  | Yes  | Array of handles for users whose group membership you want to set.  |
 
 **Output (setGroupMembesReturn)**
 

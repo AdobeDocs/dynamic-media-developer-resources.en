@@ -35,14 +35,14 @@ Syntax
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The Handle to the company  |
-|  `*`folderPath`*`  | `xsd:string`  | Yes  | The root folder used to retrieve folders and all subfolders to the leaf level. If excluded, the company root is used.  |
+|  companyHandle  | `xsd:string`  | Yes  | The Handle to the company  |
+|  folderPath  | `xsd:string`  | Yes  | The root folder used to retrieve folders and all subfolders to the leaf level. If excluded, the company root is used.  |
 
 **Output (createFolderParam)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`folderHandle`*`  | `xsd:string`  | Yes  | Handle of the new folder.  |
+|  folderHandle  | `xsd:string`  | Yes  | Handle of the new folder.  |
 
 ## Examples {#section-e596fbdb44fd43c8b30005cb2a2fdf26}
 

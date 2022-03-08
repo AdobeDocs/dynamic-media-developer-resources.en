@@ -16,5 +16,5 @@ Maps an asset to the PublishContexts in which an asset is marked for publication
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`assetHandle`*`  | `xsd:string`  | Handle to the asset.  |
-|  `*`publishContextArray`*`  | `types:PublishContextArray`  | An array of publish contexts in which the asset is marked for publication.  |
+|  assetHandle  | `xsd:string`  | Handle to the asset.  |
+|  publishContextArray  | `types:PublishContextArray`  | An array of publish contexts in which the asset is marked for publication.  |

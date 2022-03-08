@@ -16,8 +16,8 @@ Photoshop image layer options.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`layerNaming`*`  | `xsd:string`  | Choice of Photoshop Layer Naming Modes.  |
-|  `*`anchor`*`  | `xsd:string`  | Choice of Photoshop Anchor Modes.  |
-|  `*`createTemplate`*`  | `xsd:boolean`  | Whether to create a template from Photoshop layers.  |
-|  `*`extractText`*`  | `xsd:boolean`  | Whether to extract text as text layers.  |
-|  `*`extendLayers`*`  | `xsd:boolean`  | Whether to extend layers to full size of background.  |
+|  layerNaming  | `xsd:string`  | Choice of Photoshop Layer Naming Modes.  |
+|  anchor  | `xsd:string`  | Choice of Photoshop Anchor Modes.  |
+|  createTemplate  | `xsd:boolean`  | Whether to create a template from Photoshop layers.  |
+|  extractText  | `xsd:boolean`  | Whether to extract text as text layers.  |
+|  extendLayers  | `xsd:boolean`  | Whether to extend layers to full size of background.  |

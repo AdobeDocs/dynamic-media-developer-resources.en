@@ -23,13 +23,13 @@ Returns information about a company's structure (number of files, etc.).
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company whose disk usage you want to obtain.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company whose disk usage you want to obtain.  |
 
 **Output (getDiskUsageReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`diskUsageArray`*`  | `types:DiskUsageArray`  | Yes  | Array of company disk use.  |
+|  diskUsageArray  | `types:DiskUsageArray`  | Yes  | Array of company disk use.  |
 
 ## Examples {#section-cb16a97badc94076ad5da277db5ed16a}
 

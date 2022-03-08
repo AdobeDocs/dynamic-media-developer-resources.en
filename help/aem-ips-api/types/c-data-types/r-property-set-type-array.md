@@ -16,4 +16,4 @@ Property set type array.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:PropertySetType`  | The property set type array.  |
+|  items  | `types:PropertySetType`  | The property set type array.  |

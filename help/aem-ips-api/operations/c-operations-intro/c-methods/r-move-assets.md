@@ -27,8 +27,8 @@ Moves multiple assets independently of each other. It accomplishes this using th
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company with assets to be moved.  |
-|  `*`assetMoveArray`*`  | `types:AssetMoveArray`  | Yes  | An asset move array. It contains an asset and an asset destination folder.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company with assets to be moved.  |
+|  assetMoveArray  | `types:AssetMoveArray`  | Yes  | An asset move array. It contains an asset and an asset destination folder.  |
 
 **Output (moveAssetsReturn)** 
 

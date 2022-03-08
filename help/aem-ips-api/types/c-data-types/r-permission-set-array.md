@@ -14,4 +14,4 @@ exl-id: b6019cf9-8c3a-48a7-b7bb-fa2191a958fa
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:PermissionSet`  | Array of permission sets.  |
+|  items  | `types:PermissionSet`  | Array of permission sets.  |

@@ -37,20 +37,20 @@ Syntax
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company.  |
-|  `*`accessUserHandle`*`  | `xsd:string`  | No  | Used by administrators to impersonate a specific user.  |
-|  `*`accessGroupHandle`*`  | `xsd:string`  | No  | Filter by a specific group.  |
-|  `*`folderPath`*`  | `xsd:string`  | No  | The root folder to retrieve folders and all subfolders to the leaf level. If excluded, the company root is used.  |
-|  `*`assetTypeArray`*`  | `types:StringArray`  | No  | Returns folders that only contain specified asset types.  |
-|  `*`responseFieldArray`*`  | `types:StringArray`  | No  | Contains a list of fields that you want to include in the response.  |
-|  `*`excludeFieldArray`*`  | `types:StringArray`  | No  | Contains a list of fields you want to exclude from the response.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company.  |
+|  accessUserHandle  | `xsd:string`  | No  | Used by administrators to impersonate a specific user.  |
+|  accessGroupHandle  | `xsd:string`  | No  | Filter by a specific group.  |
+|  folderPath  | `xsd:string`  | No  | The root folder to retrieve folders and all subfolders to the leaf level. If excluded, the company root is used.  |
+|  assetTypeArray  | `types:StringArray`  | No  | Returns folders that only contain specified asset types.  |
+|  responseFieldArray  | `types:StringArray`  | No  | Contains a list of fields that you want to include in the response.  |
+|  excludeFieldArray  | `types:StringArray`  | No  | Contains a list of fields you want to exclude from the response.  |
 
 **Output (getFoldersReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`folderArray`*`  | `types:FolderArray`  | No  | An array of folders that match the filter criteria. The response is limited to 100,000 folders maximum.  |
-|  `*`permissionsSetArray`*`  | `types:PermissionSetArray`  |  |  |
+|  folderArray  | `types:FolderArray`  | No  | An array of folders that match the filter criteria. The response is limited to 100,000 folders maximum.  |
+|  permissionsSetArray  | `types:PermissionSetArray`  |  |  |
 
 ## Examples {#section-b5cb06e9fb9945ad898dbdc3692b754e}
 

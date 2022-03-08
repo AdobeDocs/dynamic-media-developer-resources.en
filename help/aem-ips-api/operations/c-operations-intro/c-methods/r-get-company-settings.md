@@ -25,13 +25,13 @@ Returns IPS settings for a specific company.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company whose settings you wish to retrieve.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company whose settings you wish to retrieve.  |
 
 **Output (getCompanySettingsReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`settings`*`  | `types:CompanySettings`  | Yes  | Company settings.  |
+|  settings  | `types:CompanySettings`  | Yes  | Company settings.  |
 
 ## Examples {#section-191f78995ecf473a95eadf7296204fd7}
 

@@ -16,4 +16,4 @@ Array of image formats.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:ImageFormat`  | Array of image formats.  |
+|  items  | `types:ImageFormat`  | Array of image formats.  |

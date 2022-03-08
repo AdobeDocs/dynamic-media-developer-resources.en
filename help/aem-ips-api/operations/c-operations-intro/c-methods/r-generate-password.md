@@ -34,7 +34,7 @@ None.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`password`*`  | `xsd:string`  | Yes  | A new password.  |
+|  password  | `xsd:string`  | Yes  | A new password.  |
 
 ## Examples {#section-f580fefdccec46fe95359e3aef0ed17f}
 

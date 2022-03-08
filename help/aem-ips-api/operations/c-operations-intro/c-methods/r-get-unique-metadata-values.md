@@ -28,14 +28,14 @@ Gets unique metadata field values.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company.  |
-|  `*`fieldHandle`*`  | `xsd:string`  | No  | Handle to metadata field.  |
+|  companyHandle  | `xsd:string`  | Yes  | Handle to the company.  |
+|  fieldHandle  | `xsd:string`  | No  | Handle to metadata field.  |
 
 **Output (getUniqueMetadataValuesReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`values`*`  | `type:StringArray`  |  |  |
+|  values  | `type:StringArray`  |  |  |
 
 ## Examples {#section-440f3bc3e5be436cb6ec26117d05f476}
 

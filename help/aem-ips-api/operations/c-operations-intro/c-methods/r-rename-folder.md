@@ -31,15 +31,15 @@ Renames a folder.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company with folders you want to rename.  |
-|  `*`folderHandle`*`  | `xsd:string`  | Yes  | Handle to the folder.  |
-|  `*`folderName`*`  | `xsd:string`  | Yes  | New folder name.  |
+|  companyHandle  | `xsd:string`  | Yes  | Handle to the company with folders you want to rename.  |
+|  folderHandle  | `xsd:string`  | Yes  | Handle to the folder.  |
+|  folderName  | `xsd:string`  | Yes  | New folder name.  |
 
 **Output (renameFolderReturn)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`folderHandle`*`  | `xsd:string`  | Yes  | Handle to the renamed folder.  |
+|  folderHandle  | `xsd:string`  | Yes  | Handle to the renamed folder.  |
 
 ## Examples {#section-98bdd2f88d164f488676e90aba1dc864}
 

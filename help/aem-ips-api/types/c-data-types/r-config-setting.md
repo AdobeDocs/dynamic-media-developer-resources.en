@@ -16,6 +16,6 @@ Used by Dynamic Media developers only.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`name`*`  | `xsd:string`  | Configuration name.  |
-|  `*`value`*`  | `xsd:string`  | Configuration value.  |
-|  `*`handle`*`  | `xsd:string`  | Handle to the stored configuration.  |
+|  name  | `xsd:string`  | Configuration name.  |
+|  value  | `xsd:string`  | Configuration value.  |
+|  handle  | `xsd:string`  | Handle to the stored configuration.  |

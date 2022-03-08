@@ -16,4 +16,4 @@ An array of tag value updates.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:TagValueUpdate`  | An array of tag value updates.  |
+|  items  | `types:TagValueUpdate`  | An array of tag value updates.  |

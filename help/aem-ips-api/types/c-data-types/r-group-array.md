@@ -16,4 +16,4 @@ Array of groups.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  `*`items`*`  | `types:Group`  | Array of groups.  |
+|  items  | `types:Group`  | Array of groups.  |

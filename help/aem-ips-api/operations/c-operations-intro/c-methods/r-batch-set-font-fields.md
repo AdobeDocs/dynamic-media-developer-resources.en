@@ -24,18 +24,18 @@ Sets font metadata fields.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | Handle to the company that contains the fonts.  |
-|  `*`updateArray`*`  | `types:FontFieldUpdateArray`  | Yes  | Array of font field updates.  |
+|  companyHandle  | `xsd:string`  | Yes  | Handle to the company that contains the fonts.  |
+|  updateArray  | `types:FontFieldUpdateArray`  | Yes  | Array of font field updates.  |
 
 **Output (batchSetFontFieldsParam)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`successCount`*`  | `xsd:int`  | Yes  | The number of successfully set font fields.  |
-|  `*`warningCount`*`  | `xsd:int`  | Yes  | Number of warnings generated when the operation attempted to set font fields.  |
-|  `*`errorCount`*`  | `xsd:int`  | Yes  | Number of errors generated when the operation attempted to set font fields.  |
-|  `*`warningDetailArray`*`  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets that generated warnings when the operation attempted to apply the updates.  |
-|  `*`errorDetailArray`*`  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets that generated errors when the operation attempted to apply the updates.  |
+|  successCount  | `xsd:int`  | Yes  | The number of successfully set font fields.  |
+|  warningCount  | `xsd:int`  | Yes  | Number of warnings generated when the operation attempted to set font fields.  |
+|  errorCount  | `xsd:int`  | Yes  | Number of errors generated when the operation attempted to set font fields.  |
+|  warningDetailArray  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets that generated warnings when the operation attempted to apply the updates.  |
+|  errorDetailArray  | `types:AssetOperationFaultArray`  | No  | The array of details associated with the assets that generated errors when the operation attempted to apply the updates.  |
 
 ## Examples {#section-0449c2e4ec534f4b8ee849ec4fe12c4e}
 

@@ -29,8 +29,8 @@ Deletes a zoom target.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  `*`companyHandle`*`  | `xsd:string`  | Yes  | The handle to the company to which the zoom target belongs.  |
-|  `*`zoomTargetHandle`*`  | `xsd:string`  | Yes  | The handle to the zoom target to delete.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company to which the zoom target belongs.  |
+|  zoomTargetHandle  | `xsd:string`  | Yes  | The handle to the zoom target to delete.  |
 
 **Output (deleteZoomTargetParam)**
 
