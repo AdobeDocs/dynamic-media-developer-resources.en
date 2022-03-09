@@ -75,7 +75,7 @@ To use Smart Crop mode you set the `data-mode` attribute to `smart crop`.
 
 **Example** 
 
-```
+```html {.line-numbers}
 <img 
 src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" 
 data-src="https://imageserver.com/is/image/ExampleCo/SmartCropAsset" 
@@ -84,7 +84,7 @@ data-mode="smartcrop">
 
 The associated image element dispatches a `s7responsiveViewer` event during runtime when the breakpoint changes.
 
-```
+```html {.line-numbers}
          responsiveImage.addEventListener("s7responsiveViewer", function (event) { 
            var s7event = event.s7responsiveViewerEvent; 
            if(s7event.type == "breakpointchanged") { 

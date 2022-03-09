@@ -14,7 +14,7 @@ By default, the viewer sends a single tracking HTTP request to configured Image 
 
 In order to integrate with third-party analytics system it is necessary to listen to `trackEvent` viewer callback and process `eventInfo` argument of the callback function as necessary. The following code is an example of such handler function:
 
-```
+```javascript {.line-numbers}
 var panoramicViewer = new s7viewers.PanoramicViewer({
 	"containerId":"s7viewer",
 "params":{

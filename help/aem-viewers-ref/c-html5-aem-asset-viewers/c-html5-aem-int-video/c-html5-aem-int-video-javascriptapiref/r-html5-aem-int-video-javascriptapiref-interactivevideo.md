@@ -37,7 +37,7 @@ None.
 
 ## Example {#section-9e9332aa86b74a5fb321375c03fdc5b3}
 
-```
+```javascript {.line-numbers}
 var interactiveVideoViewer = new s7viewers.InteractiveVideoViewer({ 
  "containerId":"s7viewer", 
 "params":{ 

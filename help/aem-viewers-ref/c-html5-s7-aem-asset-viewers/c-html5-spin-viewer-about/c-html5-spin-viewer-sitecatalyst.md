@@ -22,7 +22,7 @@ The viewer also sends a single tracking HTTP request to the configured Image Ser
 
 To integrate with third-party analytics systems, it is necessary to listen to the `trackEvent` viewer callback and process the `eventInfo` argument of the callback function, as necessary. The following code is an example of such handler function:
 
-```
+```javascript {.line-numbers}
 var spinViewer = new s7viewers.SpinViewer({ 
  "containerId":"s7viewer", 
 "params":{ 

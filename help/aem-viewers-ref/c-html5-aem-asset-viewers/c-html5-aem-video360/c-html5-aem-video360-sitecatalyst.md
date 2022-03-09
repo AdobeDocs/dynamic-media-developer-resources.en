@@ -14,7 +14,7 @@ By default, the viewer sends a single tracking HTTP request to the configured Im
 
 To integrate with third-party analytics systems, it is necessary to listen to the `trackEvent` viewer callback and process the `eventInfo` argument of the callback function as necessary. The following code is an example of such handler function:
 
-```
+```javascript {.line-numbers}
 var interactiveVideoViewer = new s7viewers.InteractiveVideoViewer({ 
  "containerId":"s7viewer", 
 "params":{ 

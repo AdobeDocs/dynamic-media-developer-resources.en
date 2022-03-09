@@ -72,7 +72,7 @@ Visual customization can be achieved by applying custom CSS.
 
 Here is an example of HTML code which opens the viewer in the new window:
 
-```
+```html {.line-numbers}
 <a href="http://s7d1.scene7.com/s7viewers/html5/PanoramicViewer.html?asset=Scene7SharedAssets/PanoramicImage-Sample" target="_blank">Open popup viewer</a>
 ```
 
@@ -109,7 +109,7 @@ You add the viewer to a web page by doing the following:
 
    Relative path looks like the following:
 
-   ```
+   ```html {.line-numbers}
    <script language="javascript" type="text/javascript" src="/s7viewers/html5/js/PanoramicViewer.js"></script>
    ```
 
@@ -129,9 +129,8 @@ You add the viewer to a web page by doing the following:
 
    The following is an example of a defined placeholder DIV element:
 
-   ```
+   ```html {.line-numbers}
    <div id="s7viewer" style="position:relative"></div> 
-   
    ```
 
 1. Setting the viewer size
@@ -140,7 +139,7 @@ You add the viewer to a web page by doing the following:
 
    Sizing in CSS can be put right on the HTML page, or in custom viewer CSS file, which is later assigned to a viewer preset record in AOD or passed explicitly using style command. Refer to Customizing the Viewer section for more information about styling the viewer with CSS. Below is an example of defining static viewer size in HTML page:
    
-   ```
+   ```html {.line-numbers}
    #s7viewer.s7panoramicviewer {
      width: 1024px;
      height: 512px;
@@ -148,11 +147,11 @@ You add the viewer to a web page by doing the following:
    ```
    
    `stagesize` modifier can be passed explicitly with the viewer initialization code with params collection or as an API call as described in the Command Reference section, like this:
-   
-   ```
+
+   ```html {.line-numbers}
    panoramicViewer.setParam("stagesize", "512,256");
    ```
-   
+
    CSS-based approach is recommended and is used in this example.
 
 1. Creating and initializing the viewer.
@@ -165,7 +164,7 @@ You add the viewer to a web page by doing the following:
 
    The following is an example of creating a viewer instance, passing minimum necessary configuration options to the constructor, and calling the `init()` method. This example assumes `panoramicViewer` is the viewer instance, `s7viewer` is the name of placeholder `DIV`, [!DNL http://s7d1.scene7.com/is/image/] is the Image Serving URL, and [!DNL Scene7SharedAssets/PanoramicImage-Sample] is the asset.
 
-   ```
+   ```html {.line-numbers}
    <script type="text/javascript"> 
    var panoramicViewer = new s7viewers.PanoramicViewer({ 
     "containerId":"s7viewer", 
@@ -180,7 +179,7 @@ You add the viewer to a web page by doing the following:
 
    The following code is a complete example of a trivial web page that embeds the Panoramic Viewer with a fixed size:
 
-   ```
+   ```html {.line-numbers}
    <!DOCTYPE html> 
    <html> 
     <head>
@@ -212,7 +211,7 @@ You add the viewer to a web page by doing the following:
 
 With the responsive embedding, the web page normally has some kind of flexible layout in place which dictates the run-time size of the viewer's container DIV. For the purposes of this example let's assume that the web page allows viewer's container DIV to take 80% of the web browser window size, leaving its height unrestricted. The web page HTML code could look like this:
 
-```
+```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -237,7 +236,7 @@ Adding the viewer to such page is similar to the fixed size embedding, with the 
 
 All the steps above are the same as with the fixed size embedding. Container DIV should be added to the existing "holder" DIV. The following code is a complete example, you may see how viewer size changes when browser is resized, and how the viewer aspect ratio matches the asset.
 
-```
+```html {.line-numbers}
 <!DOCTYPE html>
 <html>
 <head>
@@ -276,7 +275,7 @@ The following examples page illustrates more real-life use of responsive design 
 
 If there is responsive design embedding with width and height defined, the web page styling is different; it provides both sizes to the " holder" `DIV` and center it in the browser window. Also, the web page sets the size of the `HTML` and `BODY` element to 100%:
 
-```
+```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -303,7 +302,7 @@ height: 60%;
 
 The rest of embedding steps are identical to responsive embedding with unrestricted height. The resulting example is
 
-```
+```html {.line-numbers}
 <!DOCTYPE html>
 <html>
 <head>
@@ -346,7 +345,7 @@ Instead of using JSON-based initialization, it is possible to use setter-based A
 
 The following example illustrates fixed size embedding with setter-based API:
 
-```
+```html {.line-numbers}
 <!DOCTYPE html>
 <html>
 <head>

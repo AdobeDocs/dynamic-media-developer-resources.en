@@ -92,9 +92,8 @@ Apply custom CSS to achieve a customized appearance for the page.
 
 The following is an example of HTML code that opens the viewer in the new window:
 
-```
- <a 
-href="http://s7d1.scene7.com/s7viewers/html5/ZoomViewer.html?asset=Scene7SharedAssets/ImageSet-Views-Sample" 
+```html {.line-numbers}
+ <a href="http://s7d1.scene7.com/s7viewers/html5/ZoomViewer.html?asset=Scene7SharedAssets/ImageSet-Views-Sample" 
 target="_blank">Open popup viewer</a>
 ```
 
@@ -131,7 +130,7 @@ You add the viewer to a web page by doing the following:
 
    The relative path looks like the following:
 
-   ```
+   ```html {.line-numbers}
    <script language="javascript" type="text/javascript" src="/s7viewers/html5/js/ZoomViewer.js"></script>
    ```
 
@@ -150,7 +149,7 @@ You add the viewer to a web page by doing the following:
 
    The following is an example of a defined placeholder DIV element:
 
-   ```
+   ```html {.line-numbers}
    <div id="s7viewer" style="position:relative"></div>
    ```
 
@@ -164,7 +163,7 @@ You add the viewer to a web page by doing the following:
 
    The following is an example of defining a static outer viewer size in HTML page:
 
-   ```
+   ```html {.line-numbers}
    #s7viewer.s7zoomviewer { 
     width: 640px; 
     height: 480px; 
@@ -179,7 +178,7 @@ You add the viewer to a web page by doing the following:
 
    The following is an example of defining the viewer size for the inner `Container` SDK component so that the main view area does not change its size when switching the asset:
 
-   ```
+   ```html {.line-numbers}
    #s7viewer.s7zoomviewer .s7container { 
     width: 640px; 
     height: 480px; 
@@ -192,7 +191,7 @@ You add the viewer to a web page by doing the following:
 
    You can set the `stagesize` modifier in the viewer preset record in Dynamic Media Classic. Or, you can pass it explicitly with the viewer initialization code with the `params` collection or as an API call as described in the Command Reference section of this Help, as in the following:
 
-   ```
+   ```html {.line-numbers}
     zoomViewer.setParam("stagesize", 
    "640,480");
    ```
@@ -211,7 +210,7 @@ You add the viewer to a web page by doing the following:
 
    The following is an example of creating a viewer instance, passing the minimum necessary configuration options to the constructor, and calling the `init()` method. This example assumes `zoomViewer` is the viewer instance, `s7viewer` is the name of placeholder DIV, `http://s7d1.scene7.com/is/image/` is the Image Serving URL, and `Scene7SharedAssets/ImageSet-Views-Sample` is the asset.
 
-   ```
+   ```html {.line-numbers}
    <script type="text/javascript"> 
    var zoomViewer = new s7viewers.ZoomViewer({ 
     "containerId":"s7viewer", 
@@ -225,7 +224,7 @@ You add the viewer to a web page by doing the following:
 
    The following code is a complete example of a trivial web page that embeds the Video Viewer with a fixed size:
 
-   ```
+   ```html {.line-numbers}
    <!DOCTYPE html> 
    <html> 
    <head> 
@@ -256,7 +255,7 @@ You add the viewer to a web page by doing the following:
 
 With responsive design embedding, the web page normally has some kind of flexible layout in place that dictates the runtime size of the viewer's container `DIV`. For the following example, assume that the web page allows the viewer's container `DIV` to take 40% of the web browser window size, leaving its height unrestricted. The web page HTML code would look like the following:
 
-```
+```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -281,7 +280,7 @@ Adding the viewer to such a page is similar to the steps for fixed size embeddin
 
 All the steps above are the same as with the fixed size embedding. Add the container DIV to the existing `"holder"` DIV. The following code is a complete example. Notice how viewer size changes when the browser is resized, and how the viewer aspect ratio matches the asset.
 
-```
+```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -318,7 +317,7 @@ The following examples page illustrates more real-life uses of responsive design
 
 If there is flexible-size embedding with width and height defined, the web page styling is different. It provides both sizes to the `"holder"` DIV and center it in the browser window. Also, the web page sets the size of the `HTML` and `BODY` element to 100 percent.
 
-```
+```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -345,7 +344,7 @@ height: 60%;
 
 The rest of the embedding steps are identical to the steps used for responsive design embedding with unrestricted height. The resulting example is the following:
 
-```
+```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -388,7 +387,7 @@ Instead of using JSON-based initialization, it is possible to use setter-based A
 
 The following example illustrates using fixed size embedding with setter-based API:
 
-```
+```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
 <head> 

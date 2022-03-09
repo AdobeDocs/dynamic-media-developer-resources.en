@@ -38,7 +38,7 @@ This example uses companyHandleArray to add a user to a single company.
 
 **Request**
 
-```java
+```javascript {.line-numbers}
 <ns1:addCompanyMembershipParam xmlns:ns1="http://www.scene7.com/IpsApi/xsd">
    <ns1:userHandle>621|jduvar@adobe.com</ns1:userHandle>
    <ns1:companyHandleArray>

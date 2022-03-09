@@ -14,7 +14,7 @@ By default, the viewer sends a single tracking HTTP request to configured Image 
 
 To integrate with third-party analytics systems, it is necessary to listen to the `trackEvent` viewer callback and process the `eventInfo` argument of the callback function as necessary. The following code is an example of such handler function:
 
-```
+```java {.line-numbers}
 var carouselViewer = new s7viewers.CarouselViewer({ 
  "containerId":"s7viewer", 
 "params":{ 

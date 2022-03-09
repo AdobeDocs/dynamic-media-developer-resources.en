@@ -40,7 +40,7 @@ This tutorial includes the following order of tasks to help you create a basic z
 
    Consider this fresh page the Bootstrap &ndash; or loader &ndash; code that you use to set up an empty SDK application. Open your favorite text editor and paste the following HTML markup into it:
 
-   ```
+   ```html {.line-numbers}
    <!DOCTYPE html> 
    <html> 
        <head> 
@@ -75,7 +75,7 @@ This tutorial includes the following order of tasks to help you create a basic z
 
    Add the following JavaScript code inside the `script` tag so it initializes the `ParameterManager`. Doing so helps you prepare to create and instantiate SDK components inside the `initViewer` function:
 
-   ```
+   ```javascript {.line-numbers}
    /* We create a self-running anonymous function to encapsulate variable scope. Placing code inside such 
       a function is optional, but this prevents variables from polluting the global object.  */ 
    (function () { 
@@ -119,7 +119,7 @@ Now add style to your viewer.
 
    Add the following `style` block to the bottom of the `head`:
 
-   ```
+   ```html {.line-numbers}
    <style> 
        html, body { 
            width: 100%; 
@@ -144,7 +144,7 @@ Now include the components `Container` and `ZoomView`.
 
    Insert the following `include` statements to the bottom of the `<head>` element—after the [!DNL Utils.js] script is loaded:
 
-   ```
+   ```javascript {.line-numbers}
    <!-- 
        Add an "include" statement with a related module for each component that is needed for that particular  
        viewer. Check API documentation to see a complete list of components and their modules. 
@@ -159,13 +159,13 @@ Now include the components `Container` and `ZoomView`.
 
    Add the following variables to the top of the main anonymous function, just above `s7sdk.Util.init()`:
 
-   ```
+   ```javascript {.line-numbers}
    var container, zoomView;
    ```
 
 1. Insert the following inside the `initViewer` function so you can define some modifiers and instantiate the respective components:
 
-   ```
+   ```javascript {.line-numbers}
    /* Modifiers can be added directly to ParameterManager instance */ 
    params.push("serverurl", "http://s7d1.scene7.com/is/image"); 
    params.push("asset", "Scene7SharedAssets/ImageSet-Views-Sample"); 
@@ -186,7 +186,7 @@ Now include the components `Container` and `ZoomView`.
 
 1. For the above code to run properly, add a `containerResize` event handler and a helper function:
 
-   ```
+   ```javascript {.line-numbers}
    /* Event handler for s7sdk.event.ResizeEvent.COMPONENT_RESIZE events dispatched by Container to resize 
       various view components included in this viewer. */ 
    function containerResize(event) { 
@@ -211,14 +211,14 @@ Now add the components `MediaSet` and `Swatches` to your viewer.
 
    Add the following SDK includes:
 
-   ```
+   ```javascript {.line-numbers}
    s7sdk.Util.lib.include('s7sdk.set.MediaSet'); 
    s7sdk.Util.lib.include('s7sdk.set.Swatches');
    ```
 
 1. Update the variable list with the following:
 
-   ```
+   ```javascript {.line-numbers}
    var mediaSet, container, zoomView, swatches;
    ```
 
@@ -226,7 +226,7 @@ Now add the components `MediaSet` and `Swatches` to your viewer.
 
    Be sure to instantiate the `Swatches` instance after the `ZoomView` and `Container` components, otherwise the stacking order hides the `Swatches`:
 
-   ```
+   ```javascript {.line-numbers}
    // Create MediaSet to manage assets and add event listener to the NOTF_SET_PARSED event 
    mediaSet = new s7sdk.set.MediaSet(null, params, "mediaSet"); 
     
@@ -240,7 +240,7 @@ Now add the components `MediaSet` and `Swatches` to your viewer.
 
 1. Now add the following event handler functions:
 
-   ```
+   ```javascript {.line-numbers}
    /* Event handler for the s7sdk.event.AssetEvent.NOTF_SET_PARSED event dispatched by MediaSet to 
       assign the asset to the Swatches when parsing is complete. */ 
    function onSetParsed(e) { 
@@ -262,7 +262,7 @@ Now add the components `MediaSet` and `Swatches` to your viewer.
 
 1. Position the swatches at the bottom of the viewer by adding the following CSS to the `style` element:
 
-   ```
+   ```CSS {.line-numbers}
    /* Align swatches to bottom of viewer */ 
    .s7swatches { 
        bottom: 0; 
@@ -276,7 +276,7 @@ Now add the components `MediaSet` and `Swatches` to your viewer.
 
    Notice that the swatches are in the lower left of the viewer. To have the swatches to take the entire viewer width, add a call to manually resize the swatches whenever the user resizes their browser. Add the following to the `resizeViewer` function:
 
-   ```
+   ```javascript {.line-numbers}
    swatches.resize(width, swatches.getHeight());
    ```
 
@@ -292,13 +292,13 @@ Now add zoom in, zoom out, and zoom reset buttons to your viewer.
 
    Add the following button components:
 
-   ```
+   ```CSS {.line-numbers}
    s7sdk.Util.lib.include('s7sdk.common.Button');
    ```
 
 1. Update the variable list with the following:
 
-   ```
+   ```javascript {.line-numbers}
    var mediaSet, container, zoomView, swatches, zoomInButton, zoomOutButton, zoomResetButton;
    ```
 
@@ -306,7 +306,7 @@ Now add zoom in, zoom out, and zoom reset buttons to your viewer.
 
    Remember that the order matters, unless you specify the `z-index` in CSS:
 
-   ```
+   ```CSS {.line-numbers}
    /* Create Zoom In, Zoom Out and Zoom Reset buttons */ 
    zoomInButton  = new s7sdk.common.ZoomInButton("s7container", params, "zoomInBtn"); 
    zoomOutButton = new s7sdk.common.ZoomOutButton("s7container", params, "zoomOutBtn"); 
@@ -320,7 +320,7 @@ Now add zoom in, zoom out, and zoom reset buttons to your viewer.
 
 1. Now define some basic styles for the buttons by adding the following to the `style` block at the top of your file:
 
-   ```
+   ```CSS {.line-numbers}
    /* define styles common to all button components and their sub-classes */ 
    .s7button { 
        position:absolute; 
@@ -356,19 +356,19 @@ Now add zoom in, zoom out, and zoom reset buttons to your viewer.
 
    Add the following to the top of the `initViewer` function so you can configure the `Swatches` thumb layout as a single row:
 
-   ```
+   ```javascript {.line-numbers}
    params.push("Swatches.tmblayout", "1,0");
    ```
 
 1. Update the following resize call inside `resizeViewer`:
 
-   ```
+   ```javascript {.line-numbers}
    swatches.resize(swatches.getWidth(), height);
    ```
 
 1. Edit the following `s7swatches` rule in `ZoomViewer.css`:
 
-   ```
+   ```CSS {.line-numbers}
    .s7swatches { 
        top:0 ; 
        bottom: 0; 

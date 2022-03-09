@@ -26,7 +26,7 @@ Depending on the method of publishing Dynamic Media video that you use in Adobe 
 
 * If you publish a Dynamic Media video with embed code, you add `VideoPlayer.ssl` to the list of other viewer configuration parameters in the embed code snippet. For example, to force HTTPS video delivery, you append `&VideoPlayer.ssl=on` as in the following example:
 
-  ```
+  ```html {.line-numbers}
   <style type="text/css"> 
    #s7interactivevideo_div.s7interactivevideoviewer{ 
      width:100%;  

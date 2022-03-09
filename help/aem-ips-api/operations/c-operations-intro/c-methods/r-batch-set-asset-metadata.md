@@ -44,7 +44,7 @@ Sets asset metadata using batch mode.
 
 **Request** 
 
-```java
+```java {.line-numbers}
 <batchSetAssetMetadataParam xmlns="http://www.scene7.com/IpsApi/xsd/2008-01-15">
 <companyHandle>c|6</companyHandle>
 <updateArray>
@@ -78,7 +78,7 @@ Sets asset metadata using batch mode.
 
 **Response** 
 
-```java
+```java {.line-numbers}
 <batchSetAssetMetadataReturn xmlns="http://www.scene7.com/IpsApi/xsd/2008-01-15">
    <successCount>4</successCount>
    <warningCount>0</warningCount>

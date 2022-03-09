@@ -88,7 +88,7 @@ The final POST request for an upload job should set the `endJob` parameter to tr
 
 For a successful POST request, the response body is an XML `uploadPostReturn` document, as the XSD specifies in the following:
 
-```
+```xml {.line-numbers}
 <element name="uploadPostReturn"> 
         <complexType> 
             <sequence> 
@@ -104,7 +104,7 @@ If there is an error processing the POST request, the response body consists of 
 
 ## Example POST request {#section-810fe32abdb9426ba0fea488dffadd1e}
 
-```
+```{.line-numbers}
 POST /scene7/UploadFile HTTP/1.1 
 User-Agent: Jakarta Commons-HttpClient/3.1 
 Host: localhost 
@@ -174,7 +174,7 @@ Content-Transfer-Encoding: binary
 
 ## Example POST response - success {#section-0d515ba14c454ed0b5196ac8d1bb156e}
 
-```
+```{.line-numbers}
 HTTP/1.1 200 OK 
 Content-Type: text/xml;﻿charset=utf-8 
 Content-Length: 204 
@@ -188,7 +188,7 @@ Server: Unknown
 
 ## Example POST response - error {#section-efc32bb371554982858b8690b05090ec}
 
-```
+```{.line-numbers}
 HTTP/1.1 200 OK 
 Content-Type: text/xml;charset=utf-8 
 Content-Length: 210 

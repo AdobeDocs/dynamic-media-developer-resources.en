@@ -47,7 +47,7 @@ This example adds a single asset (referenced by its handle) in an asset handle a
 
 **Request** 
 
-```java
+```java {.line-numbers}
 <addProjectAssetsParam xmlns="http://www.scene7.com/IpsApi/xsd/2008-01-15">
    <companyHandle>c|6</companyHandle>
    <projectHandle>p|6|ProjectTestAPI</projectHandle>
@@ -60,7 +60,7 @@ This example adds a single asset (referenced by its handle) in an asset handle a
 
 **Response** 
 
-```java
+```java {.line-numbers}
 <addProjectAssetsReturn xmlns="http://www.scene7.com/IpsApi/xsd/2008-01-15">
    <successCount>1</successCount>
    <warningCount>0</warningCount>

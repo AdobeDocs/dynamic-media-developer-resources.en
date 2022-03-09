@@ -100,7 +100,7 @@ You can achieve visual customization by applying custom CSS.
 
 The following is an example of HTML code that opens the viewer in a new window:
 
-```
+```html {.line-numbers}
 <a href="https://s7d1.scene7.com/s7viewers/html5/eCatalogViewer.html?asset=Viewers/Pluralist" target="_blank">Open popup viewer</a>
 ```
 
@@ -137,7 +137,7 @@ You add the viewer to a web page by doing the following:
 
    The relative path looks like the following:
 
-   ```
+   ```html {.line-numbers}
    <script language="javascript" type="text/javascript" src="/s7viewers/html5/js/eCatalogViewer.js"></script>
    ```
 
@@ -156,7 +156,7 @@ You add the viewer to a web page by doing the following:
 
    The following is an example of a defined placeholder DIV element:
 
-   ```
+   ```html {.line-numbers}
    <div id="s7viewer" style="position:relative"></div>
    ```
 
@@ -170,7 +170,7 @@ You add the viewer to a web page by doing the following:
 
    The following is an example of defining a static viewer size in HTML page:
 
-   ```
+   ```html {.line-numbers}
    #s7viewer.s7ecatalogviewer { 
     width: 640px; 
     height: 480px; 
@@ -179,7 +179,7 @@ You add the viewer to a web page by doing the following:
 
    You can set the `stagesize` modifier in the viewer preset record in Dynamic Media Classic. Or, you can pass it explicitly with the viewer initialization code with `params` collection, or as an API call as described in the Command Reference section, like the following:
 
-   ```
+   ```html {.line-numbers}
    eCatalogViewer.setParam("stagesize", 
    "640,480");
    ```
@@ -194,7 +194,7 @@ You add the viewer to a web page by doing the following:
 
    The following is an example of creating a viewer instance, passing the minimum necessary configuration options to the constructor, and calling the `init()` method. The example assumes `eCatalogViewer` is the viewer instance; `s7viewer` is the name of placeholder `DIV`; `https://s7d1.scene7.com/is/image/` is the Image Serving URL, and `Viewers/Pluralist` is the asset:
 
-   ```
+   ```html {.line-numbers}
    <script type="text/javascript"> 
    var eCatalogViewer = new s7viewers.eCatalogViewer({ 
     "containerId":"s7viewer", 
@@ -208,7 +208,7 @@ You add the viewer to a web page by doing the following:
 
    The following code is a complete example of a trivial web page that embeds the eCatalog Viewer with a fixed size:
 
-   ```
+   ```html {.line-numbers}
    <!DOCTYPE html> 
    <html> 
    <head> 
@@ -239,7 +239,7 @@ You add the viewer to a web page by doing the following:
 
 With responsive design embedding, the web page normally has some kind of flexible layout in place that dictates the runtime size of the viewer's container `DIV`. For purposes of this example, assume that the web page allows the viewer's container `DIV` to take 40% of the web browser window size, leaving its height unrestricted. The resulting web page HTML code looks like the following:
 
-```
+```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -263,7 +263,7 @@ Adding the viewer to such a page is similar to fixed size embedding, with the on
 
 All the steps above are the same as with fixed size embedding. Add the container `DIV` to the existing " holder" `DIV`. The following code is a complete example. You can see how the viewer size changes when the browser is resized, and how the viewer aspect ratio matches the asset.
 
-```
+```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -299,7 +299,7 @@ The following examples page illustrates more real-life use cases of responsive d
 
 In flexible-size embedding with width and height defined, the web page styling is different. That is, it provides both sizes to the " holder" `DIV` and centers it in the browser window. Also, the web page sets the size of the `HTML` and `BODY` element to 100%:
 
-```
+```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -325,7 +325,7 @@ height: 60%;
 
 The remaining embedding steps are identical to responsive design embedding with unrestricted height. The resulting example is the following:
 
-```
+```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -367,7 +367,7 @@ Instead of using JSON-based initialization it is possible to use setter-based AP
 
 The following example shows fixed size embedding with setter-based API:
 
-```
+```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
 <head> 
