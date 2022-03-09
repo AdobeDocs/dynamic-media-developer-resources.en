@@ -1,7 +1,7 @@
 ---
+title: Using Responsive Image library
 description: To add Responsive Image library to a web page and manage existing images with the library, complete the following steps.
 solution: Experience Manager
-title: Using Responsive Image library
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 2542b9f3-c398-4dbf-afa3-1671fc4fe72a
@@ -52,7 +52,7 @@ It is the responsibility of the web page to style the image element to make it f
 
 The following code is a complete example of a trivial web page that has a single fluid image managed by the Responsive Image library. The example contains extra CSS styling to make the image "responsive" to the web browser window size:
 
-```
+```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
  <head> 
@@ -75,6 +75,7 @@ The following code is a complete example of a trivial web page that has a single
   </script> 
  </body> 
 </html>
+
 ```
 
 **Using Smart Crop**
@@ -86,7 +87,7 @@ There are two Smart Crop modes available in AEM 6.4 and Dynamic Media Viewers 5.
 
 To use Smart Crop mode you set the `data-mode` attribute to `smart crop`. For example:
 
-```
+```html {.line-numbers}
 <img 
 src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" 
 data-src="https://imageserver.com/is/image/ExampleCo/SmartCropAsset" 
@@ -95,7 +96,7 @@ data-mode="smartcrop">
 
 The associated image element dispatches a `s7responsiveViewer` event during runtime when the breakpoint changes.
 
-```
+```javascript {.line-numbers}
          responsiveImage.addEventListener("s7responsiveViewer", function (event) { 
            var s7event = event.s7responsiveViewerEvent; 
            if(s7event.type == "breakpointchanged") { 

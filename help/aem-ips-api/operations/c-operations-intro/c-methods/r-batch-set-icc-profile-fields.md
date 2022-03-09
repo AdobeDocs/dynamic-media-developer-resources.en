@@ -44,7 +44,7 @@ Sets ICC profile metadata fields.
 
 **Request** 
 
-```java
+```java {.line-numbers}
 <batchSetIccProfileFieldsParam xmlns="http://www.scene7.com/IpsApi/xsd/2009-07-31">
    <companyHandle>c|1</companyHandle>
    <updateArray>
@@ -60,7 +60,7 @@ Sets ICC profile metadata fields.
 
 **Response** 
 
-```java
+```java {.line-numbers}
 <batchSetIccProfileFieldsReturn xmlns="http://www.scene7.com/IpsApi/xsd/2009-07-31">
    <successCount>1</successCount>
    <warningCount>0</warningCount>

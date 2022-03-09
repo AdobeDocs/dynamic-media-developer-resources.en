@@ -94,7 +94,7 @@ Updates tag dictionary values for a tag field.
 
 **Response** 
 
-```java
+```java {.line-numbers}
 <updateTagFieldValuesReturn xmlns="http://www.scene7.com/IpsApi/xsd/2010-01-31">
    <successCount>2</successCount>
    <warningCount>0</warningCount>

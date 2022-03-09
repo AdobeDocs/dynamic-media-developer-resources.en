@@ -41,7 +41,7 @@ Sets font metadata fields.
 
 **Request** 
 
-```java
+```javascript {.line-numbers}
 <batchSetFontFieldsParam xmlns="http://www.scene7.com/IpsApi/xsd/2009-07-31">
    <companyHandle>c|1</companyHandle>
    <updateArray>
@@ -60,7 +60,7 @@ Sets font metadata fields.
 
 **Response** 
 
-```java
+```javascript {.line-numbers}
 <batchSetFontFieldsReturn xmlns="http://www.scene7.com/IpsApi/xsd/2009-07-31">
    <successCount>1</successCount>
    <warningCount>0</warningCount>

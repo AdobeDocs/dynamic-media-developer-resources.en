@@ -36,7 +36,7 @@ The IPS API does not return a response for this operation.
 
 **Request** 
 
-```java
+```java {.line-numbers}
 <addTagFieldValuesParam xmlns="http://www.scene7.com/IpsApi/xsd/2010-01-31">
    <companyHandle>c|3</companyHandle>
    <fieldHandle>m|3|ASSET|SingleFixedTag</fieldHandle>

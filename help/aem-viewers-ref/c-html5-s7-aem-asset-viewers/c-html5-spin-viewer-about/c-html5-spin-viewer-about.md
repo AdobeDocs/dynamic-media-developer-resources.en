@@ -90,9 +90,8 @@ You can achieve visual customization by applying custom CSS.
 
 The following is an example of HTML code that opens the viewer in a new window:
 
-```
-<a 
-href="https://s7d1.scene7.com/s7viewers/html5/SpinViewer.html?asset=Scene7SharedAssets/SpinSet_Sample&stagesize=500,400" 
+```html {.line-numbers}
+<a href="https://s7d1.scene7.com/s7viewers/html5/SpinViewer.html?asset=Scene7SharedAssets/SpinSet_Sample&stagesize=500,400" 
 target="_blank">Open popup viewer</a>
 ```
 
@@ -129,7 +128,7 @@ You add the Spin Viewer to a web page by doing the following:
 
    The relative path looks like the following:
 
-   ```
+   ```html {.line-numbers}
     <script language="javascript" type="text/javascript" src="/s7viewers/html5/js/SpinViewer.js"></script>
    ```
 
@@ -148,7 +147,7 @@ You add the Spin Viewer to a web page by doing the following:
 
    The following is an example of a defined placeholder DIV element:
 
-   ```
+   ```html {.line-numbers}
    <div id="s7viewer" style="position:relative"></div>
    ```
 
@@ -162,7 +161,7 @@ You add the Spin Viewer to a web page by doing the following:
 
    The following is an example of defining a static viewer size in HTML page:
 
-   ```
+   ```html {.line-numbers}
    #s7viewer.s7spinviewer { 
     width: 640px; 
     height: 480px; 
@@ -171,7 +170,7 @@ You add the Spin Viewer to a web page by doing the following:
 
    You can set the `stagesize` modifier either in the viewer preset record in Dynamic Media Classic. Or, you can pass it explicitly with the viewer initialization code with `params` collection, or as an API call as described in the Command Reference section, like the following:
 
-   ```
+   ```html {.line-numbers}
     spinViewer.setParam("stagesize", 
    "640,480");
    ```
@@ -188,7 +187,7 @@ You add the Spin Viewer to a web page by doing the following:
 
    The following is an example of creating a viewer instance, passing the minimum necessary configuration options to the constructor and calling the `init()` method. The example assumes `spinViewer` is the viewer instance, `s7viewer` is the name of placeholder `DIV`, [!DNL http://s7d1.scene7.com/is/image/] is the Image Serving URL, and [!DNL Scene7SharedAssets/SpinSet_Sample] is the asset.
 
-   ```
+   ```html {.line-numbers}
    <script type="text/javascript"> 
    var spinViewer = new s7viewers.SpinViewer({ 
     "containerId":"s7viewer", 
@@ -202,7 +201,7 @@ You add the Spin Viewer to a web page by doing the following:
 
    The following code is a complete example of a trivial web page that embeds the Spin Viewer with a fixed size:
 
-   ```
+   ```html {.line-numbers}
    <!DOCTYPE html> 
    <html> 
    <head> 
@@ -227,13 +226,14 @@ You add the Spin Viewer to a web page by doing the following:
    </script> 
    </body> 
    </html>
+
    ```
 
 **Responsive design embedding with unrestricted height**
 
 With responsive design embedding, the web page normally has some kind of flexible layout in place that dictates the runtime size of the viewer's container `DIV`. For purposes of this example, assume that the web page allows the viewer's container `DIV` to take 40% of the web browser window size, leaving its height unrestricted. The resulting web page HTML code looks like the following:
 
-```
+```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -247,6 +247,7 @@ With responsive design embedding, the web page normally has some kind of flexibl
 <div class="holder"></div> 
 </body> 
 </html>
+
 ```
 
 Adding the viewer to such a page is similar to fixed size embedding, with the only difference being that you do not need to explicitly define viewer size.
@@ -257,7 +258,7 @@ Adding the viewer to such a page is similar to fixed size embedding, with the on
 
 All the steps above are the same as with fixed size embedding. Add the container `DIV` to the existing " holder" `DIV`. The following code is a complete example. You can see how the viewer size changes when the browser is resized, and how the viewer aspect ratio matches the asset.
 
-```
+```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -283,6 +284,7 @@ var spinViewer = new s7viewers.SpinViewer({
 </script> 
 </body> 
 </html>
+
 ```
 
 The following examples page illustrates more real-life use cases of responsive design embedding with unrestricted height:
@@ -295,7 +297,7 @@ The following examples page illustrates more real-life use cases of responsive d
 
 If there is flexible-size embedding with width and height defined, the web page styling is different. That is, it provides both sizes to the " holder" `DIV` and centers it in the browser window. Also, the web page sets the size of the `HTML` and `BODY` element to 100%:
 
-```
+```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -317,11 +319,12 @@ height: 60%;
 <div class="holder"></div> 
 </body> 
 </html>
+
 ```
 
 The remaining embedding steps are identical to responsive design embedding with unrestricted height. The resulting example is the following:
 
-```
+```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -355,6 +358,7 @@ var spinViewer = new s7viewers.SpinViewer({
 </script> 
 </body> 
 </html>
+
 ```
 
 **Embedding using Setter-based API**
@@ -363,7 +367,7 @@ Instead of using JSON-based initialization it is possible to use setter-based AP
 
 The following example shows fixed size embedding with setter-based API:
 
-```
+```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -386,4 +390,5 @@ spinViewer.init();
 </script> 
 </body> 
 </html>
+
 ```

@@ -42,6 +42,6 @@ None.
 
 ## Example {#section-9e9332aa86b74a5fb321375c03fdc5b3}
 
-```
+```javascript {.line-numbers}
 <instance>.setVideo("https://s7d9.scene7.com/is/content/Scene7SharedAssets/Glacier_Climber_MP4")
 ```

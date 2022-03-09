@@ -91,7 +91,7 @@ You add the viewer to a web page by doing the following:
 
    The relative path looks like the following:
 
-   ```
+   ```html {.line-numbers}
    <script language="javascript" type="text/javascript" src="/etc/dam/viewers/s7viewers/html5/js/InteractiveVideoViewer.js"></script>
    ```
 
@@ -112,7 +112,7 @@ You add the viewer to a web page by doing the following:
 
    The following is an example of a defined placeholder `DIV` element:
 
-   ```
+   ```html {.line-numbers}
    <div id="s7viewer" style="position:relative"></div>
    ```
 
@@ -126,7 +126,7 @@ You add the viewer to a web page by doing the following:
 
    The following is an example of defining a static viewer size in the HTML page:
 
-   ```
+   ```html {.line-numbers}
    #s7viewer.s7interactivevideoviewer { 
     width: 640px; 
     height: 640px; 
@@ -135,7 +135,7 @@ You add the viewer to a web page by doing the following:
 
    You can set the `stagesize` modifier in the viewer preset record in Experience Manager Assets - On-demand. Or, you can pass it explicitly with the viewer initialization code with `params` collection, or as an API call as described in the Command Reference section, like this:
 
-   ```
+   ```html {.line-numbers}
    interactivevideoviewer.setParam("stagesize", "640,640");
    ```
 
@@ -161,7 +161,7 @@ You add the viewer to a web page by doing the following:
     * The asset is `/content/dam/mac/aodmarketingna/dm-viewers-content/video/Glacier.mp4`. 
     * The interactive data is `is/content/content/dam/mac/aodmarketingna/_VTT/dm-viewers-content/video/Glacier.mp4.svideo.vtt`.
 
-   ```
+   ```html {.line-numbers}
    <script type="text/javascript"> 
    var interactiveVideoViewer = new s7viewers.InteractiveVideoViewer({ 
     "containerId":"s7viewer", 
@@ -179,7 +179,7 @@ You add the viewer to a web page by doing the following:
 
    The following code is a complete example of a trivial web page that embeds the Interactive Video Viewer with a fixed size:
 
-   ```
+   ```html {.line-numbers}
    <!DOCTYPE html> 
    <html> 
    <head> 
@@ -214,7 +214,7 @@ You add the viewer to a web page by doing the following:
 
 With responsive design embedding, the web page normally has some kind of flexible layout in place that dictates the runtime size of the viewer's container `DIV`. For the following example, assume that the web page allows the viewer's container `DIV` to take 40% of the web browser window size, leaving its height unrestricted. The web page HTML code would look like the following:
 
-```
+```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -238,7 +238,7 @@ Adding the viewer to such a page is similar to the steps for fixed size embeddin
 
 All the steps above are the same as with the fixed size embedding. Add the container DIV to the existing `"holder"` DIV. The following code is a complete example. Notice how viewer size changes when the browser is resized, and how the viewer aspect ratio matches the asset.
 
-```
+```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -280,7 +280,7 @@ The following examples page illustrates more real-life uses of responsive design
 
 If there is responsive embedding with width and height defined, the web page styling is different. It provides both sizes to the `"holder"` DIV and center it in the browser window. Also, the web page sets the size of the `HTML` and `BODY` element to 100 percent.
 
-```
+```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -306,7 +306,7 @@ height: 60%;
 
 The rest of the embedding steps are identical to the steps used for responsive embedding with unrestricted height. The resulting example is the following:
 
-```
+```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -352,7 +352,7 @@ Instead of using JSON-based initialization, it is possible to use setter-based A
 
 The following example illustrates using fixed size embedding with the setter-based API:
 
-```
+```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
 <head> 

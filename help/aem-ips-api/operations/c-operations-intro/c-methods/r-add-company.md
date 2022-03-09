@@ -76,7 +76,7 @@ This example demonstrates a request to add a company to the IPS system and the r
 
 **Request**
 
-```java
+```java {.line-numbers}
 <ns1:addCompanyParam xmlns:ns1="http://www.scene7.com/IpsApi/xsd">
    <ns1:companyName>Planetary</ns1:companyName>
 </ns1:addCompanyParam>
@@ -84,7 +84,7 @@ This example demonstrates a request to add a company to the IPS system and the r
 
 **Response**
 
-```java
+```java {.line-numbers}
 <ns1:addCompanyReturn xmlns:ns1="http://www.scene7.com/IpsApi/xsd">
    <ns1:companyInfo>
       <ns1:companyHandle>137</ns1:companyHandle>

@@ -49,7 +49,7 @@ Returns the publish contexts for assets marked for publication.
 
 **Request** 
 
-```java
+```java {.line-numbers}
 <batchGetAssetPublishContextsParam xmlns="http://www.scene7.com/IpsApi/xsd/2011-11-04">
   <companyHandle>c|301</companyHandle>
   <assetHandleArray>
@@ -61,7 +61,7 @@ Returns the publish contexts for assets marked for publication.
 
 **Response** 
 
-```java
+```java {.line-numbers}
 <batchGetAssetPublishContextsReturn xmlns="http://www.scene7.com/IpsApi/xsd/2011-11-04">
   <assetPublishContextsArray>
     <items>

@@ -18,7 +18,7 @@ In either case, the namespace used by the SDK inside the viewer has either `s7vi
 
 For example, if you plan to listen to `StatusEvent.NOTF_VIEW_READY` event and the viewer is served from Experience Manager, the fully qualified event type is `s7viewers.s7sdk.event.StatusEvent.NOTF_VIEW_READY`, and the event listener code looks similar to the following:
 
-```
+```javascript {.line-numbers}
 <instance>.setHandlers({ 
  "initComplete":function() { 
   var smartCropVideoPlayer = <instance>.getComponent("smartCropVideoPlayer"); 

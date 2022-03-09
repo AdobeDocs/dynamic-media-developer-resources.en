@@ -84,7 +84,7 @@ It is also necessary to have the FlyoutZoomView component configured to work in 
 
 The following is an HTML code example that opens the viewer in a new window:
 
-```
+```html {.line-numbers}
  <a href="http://s7d1.scene7.com/s7viewers/html5/FlyoutViewer.html?asset=Scene7SharedAssets/ImageSet-Views-Sample&config=Scene7SharedAssets/Universal_HTML5_Zoom_Inline"target="_blank">Open popup viewer</a>
 ```
 
@@ -123,7 +123,7 @@ You add the viewer to a web page by doing the following:
 
    A relative path looks like the following:
 
-   ```
+   ```html {.line-numbers}
    <script language="javascript" type="text/javascript" src="/s7viewers/html5/js/FlyoutViewer.js"></script>
    ```
 
@@ -144,7 +144,7 @@ You add the viewer to a web page by doing the following:
 
    The following is an example of a defined placeholder DIV element:
 
-   ```
+   ```html {.line-numbers}
    <div id="s7viewer" style="position:relative;z-index:1"></div> 
    
    ```
@@ -159,7 +159,7 @@ You add the viewer to a web page by doing the following:
 
    The following is an example of defining the static outer viewer size in an HTML page:
 
-   ```
+   ```html {.line-numbers}
    #s7viewer.s7flyoutviewer { 
     width: 640px; 
     height: 480px; 
@@ -174,7 +174,7 @@ You add the viewer to a web page by doing the following:
 
    The following is an example of defining the viewer size for the inner `Container` SDK component so that the main view area does not change its size when switching the asset:
 
-   ```
+   ```html {.line-numbers}
    #s7viewer.s7flyoutviewer { 
     width: auto; 
     height: auto; 
@@ -201,7 +201,7 @@ You add the viewer to a web page by doing the following:
 
    The following is an example of creating a viewer instance, passing the minimum necessary configuration options to the constructor and calling the `init()` method. The example assumes `inlineZoomViewer` is the viewer instance; `s7viewer` is the name of placeholder `DIV`; `http://s7d1.scene7.com/is/image/` is the Image Serving URL; and `Scene7SharedAssets/ImageSet-Views-Sample` is the asset:
 
-   ```
+   ```html {.line-numbers}
    <script type="text/javascript"> 
    var inlineZoomViewer = new s7viewers.FlyoutViewer({ 
     "containerId":"s7viewer", 
@@ -213,11 +213,12 @@ You add the viewer to a web page by doing the following:
    } 
    }).init(); 
    </script>
+
    ```
 
    The following code is a complete example of a trivial web page that embeds the Inline Zoom Viewer with a fixed size:
 
-   ```
+   ```html {.line-numbers}
    <!DOCTYPE html> 
    <html> 
    <head> 
@@ -243,13 +244,14 @@ You add the viewer to a web page by doing the following:
    </script> 
    </body> 
    </html>
+
    ```
 
 ## Responsive design embedding with unrestricted height {#section-056cb574713c4d07be6d07cf3c598839}
 
 With responsive design embedding, the web page normally has some kind of flexible layout in place that dictates the runtime size of the viewer's container `DIV`. For the following example, assume that the web page allows the viewer's container `DIV` to take 40% of the web browser window size, leaving its height unrestricted. The web page HTML code would look like the following:
 
-```
+```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -263,6 +265,7 @@ With responsive design embedding, the web page normally has some kind of flexibl
 <div class="holder"></div> 
 </body> 
 </html>
+
 ```
 
 Adding the viewer to such a page is similar to the steps for fixed size embedding. The only difference is that you must override the fixed sizing from the default viewer CSS with the size set in relative units.
@@ -278,7 +281,7 @@ All the steps above are the same as with the fixed size embedding with the follo
 * added `imagereload` parameter with explicit breakpoints; 
 * instead of setting a fixed viewer size using absolute units use CSS that sets the viewer `width` and `height` to 100% as in the following:
 
-```
+```html {.line-numbers}
 #s7viewer.s7flyoutviewer { 
  width: 100%; 
  height: 100%; 
@@ -287,7 +290,7 @@ All the steps above are the same as with the fixed size embedding with the follo
 
 The following code is a complete example. Notice how the viewer size changes when the browser is resized, and how the viewer aspect ratio matches the asset.
 
-```
+```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -320,6 +323,7 @@ var inlineZoomViewer = new s7viewers.FlyoutViewer({
 </script> 
 </body> 
 </html>
+
 ```
 
 The following examples page illustrates more real-life uses of responsive design embedding with unrestricted height:
@@ -332,7 +336,7 @@ The following examples page illustrates more real-life uses of responsive design
 
 If there is flexible-size embedding with width and height defined, the web page styling is different. It provides both sizes to the `"holder"` DIV and centers it in the browser window. Also, the web page sets the size of the `HTML` and `BODY` element to 100 percent.
 
-```
+```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -354,11 +358,12 @@ height: 60%;
 <div class="holder"></div> 
 </body> 
 </html>
+
 ```
 
 The rest of the embedding steps are identical to the steps used for responsive design embedding with unrestricted height. The resulting example is the following:
 
-```
+```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -399,6 +404,7 @@ var inlineZoomViewer = new s7viewers.FlyoutViewer({
 </script> 
 </body> 
 </html>
+
 ```
 
 ## Embedding using Setter-based API {#section-af26f0cc2e5140e8a9bfd0c6a841a6d1}
@@ -407,7 +413,7 @@ Instead of using JSON-based initialization, it is possible to use setter-based A
 
 The following example illustrates using fixed size embedding with setter-based API:
 
-```
+```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -431,4 +437,5 @@ inlineZoomViewer.init();
 </script> 
 </body> 
 </html>
+
 ```

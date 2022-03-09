@@ -18,7 +18,7 @@ By default, the viewer sends a single tracking HTTP request to the configured Im
 
 To integrate with third-party analytics systems, it is necessary to listen to the `trackEvent` viewer callback and process the `eventInfo` argument of the callback function as necessary. The following code is an example of such handler function:
 
-```
+```javascript {.line-numbers}
 var video360Viewer = new s7viewers.Video360Viewer({ 
  "containerId":"s7viewer", 
 "params":{ 

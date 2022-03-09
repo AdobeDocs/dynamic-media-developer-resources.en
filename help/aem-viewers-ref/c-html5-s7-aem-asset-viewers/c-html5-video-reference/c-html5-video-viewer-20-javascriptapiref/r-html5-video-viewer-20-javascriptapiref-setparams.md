@@ -33,6 +33,6 @@ None.
 
 ## Example {#section-9e9332aa86b74a5fb321375c03fdc5b3}
 
-```
+```css{.line-numbers}
 <instance>.setParams("style=customStyle.css&VideoPlayer.playback=progressive")
 ```

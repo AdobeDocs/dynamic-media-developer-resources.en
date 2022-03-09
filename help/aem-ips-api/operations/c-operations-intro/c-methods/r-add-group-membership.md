@@ -57,7 +57,7 @@ This example adds a group to a company with groupHandleArray. This example uses 
 
 **Request** 
 
-```java
+```java {.line-numbers}
 <ns1:addGroupMembershipParam xmlns:ns1="http://www.scene7.com/IpsApi/xsd">
    <ns1:companyHandle>47</ns1:companyHandle>
    <ns1:groupHandleArray><ns1:items>225</ns1:items></ns1:groupHandleArray>

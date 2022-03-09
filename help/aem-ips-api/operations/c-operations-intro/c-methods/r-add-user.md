@@ -46,7 +46,7 @@ The IPS API returns a user handle element that specifies the new user.
 
 **Request**
 
-```java
+```java {.line-numbers}
 <ns1:addUserParam xmlns:ns1="http://www.scene7.com/IpsApi/xsd">
    <ns1:firstName>Joe</ns1:firstName>
    <ns1:lastName>User</ns1:lastName>
@@ -62,7 +62,7 @@ The IPS API returns a user handle element that specifies the new user.
 
 **Response** 
 
-```java
+```java {.line-numbers}
 <ns1:addUserReturn xmlns:ns1="http://www.scene7.com/IpsApi/xsd">
    <ns1:userHandle>525s|juser@scene7.com</ns1:userHandle>
 </ns1:addUserReturn>

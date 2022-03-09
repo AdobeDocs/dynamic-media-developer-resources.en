@@ -21,7 +21,7 @@ For that reason it is important to use a fully qualified SDK namespace when you 
 
 For example, if you plan to listen to `StatusEvent.NOTF_VIEW_READY` event and the viewer is served from Dynamic Media Classic, the fully qualified event type is `s7classic.s7sdk.event.StatusEvent.NOTF_VIEW_READY`, and the event listener code looks similar to the following:
 
-```
+```javascript {.line-numbers}
 <instance>.setHandlers({ 
  "initComplete":function() { 
   var pageView = <instance>.getComponent("pageView"); 

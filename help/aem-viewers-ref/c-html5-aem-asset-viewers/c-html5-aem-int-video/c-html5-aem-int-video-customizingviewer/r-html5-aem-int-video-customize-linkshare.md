@@ -14,7 +14,7 @@ Link share tool consists of a button added to the Social share panel and the mod
 
 The appearance of the link share button is controlled with the following CSS class selector:
 
-```
+```css{.line-numbers}
 .s7video360viewer .s7linkshare
 ```
 
@@ -51,7 +51,7 @@ The button tool tip can be localized. See [Localization of user interface elemen
 
 Example - to set up a link share button that is 28 x 28 pixels, and displays a different image for each of the four different button states:
 
-```
+``` css {.line-numbers}
 .s7video360viewer .s7linkshare { 
  width:28px; 
  height:28px; 
@@ -72,7 +72,7 @@ background-image:url(images/v2/LinkShare_dark_disabled.png);
 
 The background overlay that covers the web page when the active dialog box is controlled with the following CSS class selector:
 
-```
+```css {.line-numbers}
 .s7video360viewer .s7linkdialog .s7backoverlay
 ```
 
@@ -93,7 +93,7 @@ The background overlay that covers the web page when the active dialog box is co
 
 **Example** - to set up a background overlay to be gray with 70% opacity:
 
-```
+```css {.line-numbers}
 .s7video360viewer .s7linkdialog .s7backoverlay { 
  opacity:0.7; 
  background-color:#222222; 
@@ -102,7 +102,7 @@ The background overlay that covers the web page when the active dialog box is co
 
 By default the modal dialog box is displayed centered in the screen on desktop systems and takes the entire web page area on touch devices. In all cases, the positioning and sizing of the dialog box is managed by the component. The dialog box is controlled with the following CSS class selector:
 
-```
+``` css {.line-numbers}
 .s7video360viewer .s7linkdialog .s7dialog
 ```
 
@@ -131,7 +131,7 @@ By default the modal dialog box is displayed centered in the screen on desktop s
 
 **Example** - to set up the dialog box to use the entire browser window and have a white background on touch devices:
 
-```
+``` css {.line-numbers}
 .s7video360viewer.s7touchinput .s7linkdialog .s7dialog { 
  width:100%; 
  height:100%; 
@@ -141,7 +141,7 @@ background-color: #ffffff;
 
 The dialog box header consists of an icon, a title text, and a close button. The header container is controlled with the following CSS class selector:
 
-```
+``` css {.line-numbers}
 .s7video360viewer .s7linkdialog .s7dialogheader
 ```
 
@@ -158,7 +158,7 @@ The dialog box header consists of an icon, a title text, and a close button. The
 
 The icon and the title text are wrapped into an extra container controlled with the following CSS class selector:
 
-```
+``` css {.line-numbers}
 .s7video360viewer .s7linkdialog .s7dialogheader .s7dialogline
 ```
 
@@ -175,7 +175,7 @@ The icon and the title text are wrapped into an extra container controlled with 
 
 Header icon is controlled with the following CSS class selector
 
-```
+```css {.line-numbers}
 .s7video360viewer .s7linkdialog .s7dialogheadericon
 ```
 
@@ -204,7 +204,7 @@ Header icon is controlled with the following CSS class selector
 
 Header title is controlled with the following CSS class selector:
 
-```
+```css {.line-numbers}
 .s7video360viewer .s7linkdialog .s7dialogheadertext
 ```
 
@@ -233,11 +233,11 @@ Header title is controlled with the following CSS class selector:
 
 Close button is controlled with the following CSS class selector:
 
-```
+```css {.line-numbers}
 .s7video360viewer .s7linkdialog .s7closebutton
 ```
 
-**CSS properties of the close button ** 
+**CSS properties of the close button** 
 
 <table id="table_FAECBC489FC442588E50E3DA0AC16DD7"> 
  <tbody> 
@@ -280,7 +280,7 @@ The Close button tool tip and the dialog box title can be localized. See [Locali
 
 **Example** - to set up a dialog box header with padding, 22 x 12 pixels icon, with a bold 16 point title. And finally, a 28 x 28 pixel Close button that is positioned two pixels from the top and two pixels from the right of the dialog box container:
 
-```
+``` css {.line-numbers}
 .s7video360viewer .s7linkdialog .s7dialogheader { 
  padding: 10px; 
 } 
@@ -320,11 +320,11 @@ The Close button tool tip and the dialog box title can be localized. See [Locali
 
 The dialog box footer consists of a Cancel button. The footer container is controlled with the following CSS class selector:
 
-```
+```css {.line-numbers}
 .s7video360viewer .s7linkdialog .s7dialogfooter
 ```
 
-**CSS properties of the dialog box footer ** 
+**CSS properties of the dialog box footer** 
 
 <table id="table_0AF7AAAB846A46D690896AFD68575669"> 
  <tbody> 
@@ -337,7 +337,7 @@ The dialog box footer consists of a Cancel button. The footer container is contr
 
 The footer has an inner container that keeps the button. It is controlled with the following CSS class selector:
 
-```
+```css {.line-numbers}
 .s7video360viewer .s7linkdialog .s7dialogbuttoncontainer
 ```
 
@@ -354,7 +354,7 @@ The footer has an inner container that keeps the button. It is controlled with t
 
 The Select All button is controlled with the following CSS class selector:
 
-```
+```css {.line-numbers}
 .s7video360viewer .s7linkdialog .s7dialogactionbutton
 ```
 
@@ -389,7 +389,7 @@ The button is only available on desktop systems.
 
 The Cancel button is controlled with the following CSS class selector:
 
-```
+```css {.line-numbers}
 .s7video360viewer .s7linkdialog .s7dialogcancelbutton
 ```
 
@@ -422,7 +422,7 @@ The Cancel button is controlled with the following CSS class selector:
 
 In addition, both buttons share a common CSS class which can contain CSS settings that are the same for other dialog box buttons:
 
-```
+```css {.line-numbers}
 .s7video360viewer .s7linkdialog .s7dialogfooter .s7button
 ```
 
@@ -461,7 +461,7 @@ The button tool tips can be localized. See [Localization of user interface eleme
 
 **Example** - to set up a dialog box footer with a 64 x 34 Cancel button, having text color and background colors that are different for each button state:
 
-```
+```css {.line-numbers}
 .s7video360viewer .s7linkdialog .s7dialogfooter { 
     border-top: 1px solid #909090; 
 } 
@@ -521,11 +521,11 @@ The button tool tips can be localized. See [Localization of user interface eleme
 
 The main dialog area (between the header and the footer) contains dialog content. In all cases, the component manages the width of this area—it is not possible to set it in CSS. Main dialog area is controlled with the following CSS class selector:
 
-```
+```css{.line-numbers}
 .s7video360viewer .s7linkdialog .s7dialogviewarea
 ```
 
-**CSS properties of the dialog box viewing area ** 
+**CSS properties of the dialog box viewing area** 
 
 <table id="table_3FF4691D848A4C4D8EF060B7E79DEEDE"> 
  <tbody> 
@@ -546,7 +546,7 @@ The main dialog area (between the header and the footer) contains dialog content
 
 **Example** - to set up a main dialog box area to be 300 pixels height, have a 10 pixel margin, and use a white background:
 
-```
+```css {.line-numbers}
 .s7video360viewer .s7linkdialog .s7dialogviewarea { 
  background-color:#ffffff; 
  margin:10px; 
@@ -556,11 +556,11 @@ The main dialog area (between the header and the footer) contains dialog content
 
 All form content &ndash; such as labels and input fields &ndash; resides inside a container controlled with the following CSS class selector:
 
-```
+```css{.line-numbers}
 .s7video360viewer .s7linkdialog .s7dialogbody
 ```
 
-**CSS properties of the dialog box body ** 
+**CSS properties of the dialog box body** 
 
 <table id="table_5D77F3D5B8CD4B798AA85F722B277F56"> 
  <tbody> 
@@ -573,7 +573,7 @@ All form content &ndash; such as labels and input fields &ndash; resides inside 
 
 **Example** - to set up form content to have ten pixel padding:
 
-```
+```css {.line-numbers}
 .s7interactivevideoviewer .s7linkdialog .s7dialogbody { 
     padding: 10px; 
 }
@@ -587,7 +587,7 @@ All static labels in the dialog box form are controlled with
 
 This class is not suitable for controlling the label size or position because you can apply it to texts in various places of the form user interface.
 
-**CSS properties of the dialog box label. ** 
+**CSS properties of the dialog box label** 
 
 <table id="table_13C7874807314ADD83A23075ABB4C340"> 
  <tbody> 
@@ -614,7 +614,7 @@ The dialog box labels can be localized. See [Localization of user interface elem
 
 **Example** - to set up all labels to be gray, bold with a nine pixel font:
 
-```
+```css {.line-numbers}
 .s7video360viewer .s7linkdialog .s7dialoglabel { 
     color: #666666; 
     font-size: 9pt; 
@@ -624,7 +624,7 @@ The dialog box labels can be localized. See [Localization of user interface elem
 
 The size of the text copy displayed on top of the link is controlled with the following CSS class selector:
 
-```
+```css {.line-numbers}
 .s7video360viewer .s7linkdialog .s7dialoginputwide
 ```
 
@@ -645,7 +645,7 @@ The size of the text copy displayed on top of the link is controlled with the fo
 
 **Example** - to set text copy to be 430 pixels wide and have a 10 pixel padding in the bottom:
 
-```
+```css {.line-numbers}
 .s7video360viewer .s7linkdialog .s7dialoginputwide { 
     padding-bottom: 10px; 
     width: 430px; 
@@ -654,7 +654,7 @@ The size of the text copy displayed on top of the link is controlled with the fo
 
 The share link is wrapped in a container and controlled with the following CSS class selector:
 
-```
+```css {.line-numbers}
 .s7video360viewer .s7linkdialog .s7dialoginputcontainer
 ```
 
@@ -675,7 +675,7 @@ The share link is wrapped in a container and controlled with the following CSS c
 
 **Example** - to set a one pixel grey border around embed code text and have nine pixels of padding:
 
-```
+```css {.line-numbers}
 .s7video360viewer .s7linkdialog .s7dialoginputcontainer { 
     border: 1px solid #CCCCCC; 
     padding: 9px; 
@@ -684,7 +684,7 @@ The share link is wrapped in a container and controlled with the following CSS c
 
 The share link itself is controlled with the following CSS class selector:
 
-```
+```css {.line-numbers}
 .s7video360viewer .s7linkdialog .s7dialoglink
 ```
 
@@ -701,7 +701,7 @@ The share link itself is controlled with the following CSS class selector:
 
 **Example** - to set the share link to be 450 pixels wide:
 
-```
+```css{.line-numbers}
 .s7video360viewer .s7linkdialog .s7dialoglink { 
     width: 450px; 
 }
