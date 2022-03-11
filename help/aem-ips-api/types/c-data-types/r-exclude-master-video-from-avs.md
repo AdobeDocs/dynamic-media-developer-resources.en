@@ -9,7 +9,7 @@ exl-id: e73eab03-fbda-435c-be3c-98781f8630a5
 
 >[!IMPORTANT]
 >
->Adobe is ending support for the `ExcludeMasterVideoFromAVS` parameter September 2022.
+>Adobe is ending support for the `ExcludeMasterVideoFromAVS` parameter September 1, 2022. See also [Deprecated calls](/help/aem-ips-api/c-deprecated-calls.md).
 
 Excludes the primary video from the adaptive video set.
 
@@ -29,7 +29,7 @@ Excludes the primary video from the adaptive video set.
   <tr> 
    <td colname="col1"> <span class="codeph"> true|false</span> </td> 
    <td colname="col2"> <span class="codeph"> xsd:boolean</span> </td> 
-   <td colname="col3"> <p>Excludes the master video file from the adaptive video set. </p> <p>Defaults to true. </p> </td> 
+   <td colname="col3"> <p>Excludes the primary video file from the adaptive video set. </p> <p>Defaults to true. </p> </td> 
   </tr> 
  </tbody> 
 </table>
