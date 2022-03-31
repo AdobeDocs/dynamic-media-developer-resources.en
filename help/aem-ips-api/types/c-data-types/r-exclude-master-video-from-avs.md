@@ -13,6 +13,8 @@ exl-id: e73eab03-fbda-435c-be3c-98781f8630a5
 
 Excludes the primary video from the adaptive video set.
 
+<!-- REMOVE TOPIC MAY 2022 AS PER CQDOC-19165 AND REMOVED FROM TOC -->
+
  Syntax 
 
 ## Parameters {#section-2fc9bea56b6d4b72b80d4f04c5f9b862}

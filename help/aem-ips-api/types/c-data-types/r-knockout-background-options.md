@@ -1,18 +1,29 @@
 ---
-description: Mask (knock-out) the background for selected images. This lets you overlay them in other layers with a transparency outside of subject image. An optional parameter that is off by default.
-solution: Experience Manager
 title: KnockoutBackgroundOptions
+description: Mask (knock-out) the background for selected images. This data type lets you overlay them in other layers with a transparency outside of subject image. An optional parameter that is off by default.
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: aed8cf2e-5a09-43ff-9420-0d0d54059515
 ---
 # KnockoutBackgroundOptions{#knockoutbackgroundoptions}
 
-Mask (knock-out) the background for selected images. This lets you overlay them in other layers with a transparency outside of subject image. An optional parameter that is off by default.
+Mask (knock-out) the background for selected images. This data type lets you overlay them in other layers with a transparency outside of the subject image. 
+
+This data type is optional and off by default.
 
  `KnockoutBackgroundOptions=[corner, tolerance, fill]` 
 
 ## Parameters {#section-3149b49ccb714e6eafa6655354816819}
+
+>[!IMPORTANT]
+>
+>If you are configuring `KnockoutBackgroundOptions` in Adobe Experience Manager, use the following parameters instead: 
+>* `kbCorner`
+>* `kbTolerance`
+>* `kbFillMethod` 
+>
+>For example: `KnockoutBackgroundOptions=kbCorner=UpperLeft&kbTolerance=0.2&kbFillMethod=MatchPixel`
 
 <table id="table_68131DE0A3C84908A43C6F7777F20973"> 
  <thead> 
@@ -26,7 +37,7 @@ Mask (knock-out) the background for selected images. This lets you overlay them 
   <tr> 
    <td colname="col1"> <span class="codeph"> <span class="varname"> corner</span> </span> </td> 
    <td colname="col2"> <span class="codeph"> xsd:string</span> </td> 
-   <td colname="col3">Selects the corner you want to work with. <span class="codeph"> corner</span> accepts these values: 
+   <td colname="col3">Selects the corner that you want to work with. <span class="codeph"> corner</span> accepts these values: 
     <ul id="ul_36C2F07706764A7081010D5521BF3096">
      <li id="li_CBACE5C6AA8C48D3BEE033D3AE03AF3C"><span class="codeph"> UpperLeft</span></li>
      <li id="li_49AC53536B4B4D2CA3DD89E2A2B2E95D"><span class="codeph"> BottomLeft</span></li>
