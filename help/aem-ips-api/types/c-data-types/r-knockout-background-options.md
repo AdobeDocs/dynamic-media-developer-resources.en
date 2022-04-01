@@ -23,7 +23,7 @@ This data type is optional and off by default.
 >* `kbTolerance`
 >* `kbFillMethod` 
 >
->For example: `KnockoutBackgroundOptions=kbCorner=UpperLeft&kbTolerance=0.2&kbFillMethod=MatchPixel`
+>For example: `kbCorner=UpperLeft&kbTolerance=0.2&kbFillMethod=MatchPixel`
 
 <table id="table_68131DE0A3C84908A43C6F7777F20973"> 
  <thead> 
