@@ -1,7 +1,7 @@
 ---
+title: color
 description: Layer Color. Specifies the foreground color and opacity of solid color and effect layers, and the text box fill color for text layers.
 solution: Experience Manager
-title: color
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: b937e699-8e1e-4211-86a6-fdc155a0e3ed

@@ -1,7 +1,7 @@
 ---
+title: CacheValidationPolicy
 description: Server cache validation policy. Specifies when server-side cache entries are validated.
 solution: Experience Manager
-title: CacheValidationPolicy
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: e52577ba-d085-41f5-ad15-48e5a319e344

@@ -14,7 +14,7 @@ Default Digimarc image info. Provides a default value for catalog::DigimarcInfo.
 
 Four comma-separated integer numbers.
 
-See ` [catalog::DigimarcInfo](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-digimarcinfo-cat.md#reference-4925764ed683466bb7af4b807c86f8ba)` for details.
+See [catalog::DigimarcInfo](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-image-svg-data-reference/c-image-data-reference/r-digimarcinfo-cat.md) for details.
 
 ## Default {#section-c77d2620f90148d5ad9041131180d611}
 

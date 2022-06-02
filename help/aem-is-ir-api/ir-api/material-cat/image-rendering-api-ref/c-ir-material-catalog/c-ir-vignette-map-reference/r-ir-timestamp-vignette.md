@@ -16,7 +16,7 @@ If `attribute::UseLastModified` is set, the most recent `vignette::TimeStamp` an
 >
 >The actual file time of the vignette file is never used for this purpose.
 
-`catalog::TimeStamp` is also used for catalog-based cache validation (see ` [attribute::CacheValidationPolicy](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-cachevalidationpolicy.md#reference-2d71679733474d8aa116db6ceba87fa4)`).
+`catalog::TimeStamp` is also used for catalog-based cache validation (see [attribute::CacheValidationPolicy](/help/aem-is-ir-api/ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-cachevalidationpolicy.md).
 
 ## Properties {#section-c4a42c64e44d49238ef2ec31ebd82ac1}
 

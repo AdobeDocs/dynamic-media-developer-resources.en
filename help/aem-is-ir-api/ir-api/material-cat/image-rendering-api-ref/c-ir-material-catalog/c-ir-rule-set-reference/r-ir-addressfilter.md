@@ -16,7 +16,7 @@ None.
 
 ## Data {#section-eb138f192516418a9ef2ab9a38c9ee9e}
 
-Comma-separated list of IP addresses. Each individual address may include an optional netmask suffix to allow specification of IP address ranges. See ` [attribute::ClientAddressFilter](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-clientaddressfilter.md#reference-52a541cec0b0424faf263d1fb4946b5f)` for details.
+Comma-separated list of IP addresses. Each individual address may include an optional netmask suffix to allow specification of IP address ranges. See [attribute::ClientAddressFilter](/help/aem-is-ir-api/ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-clientaddressfilter.md) for details.
 
 ## Description {#section-099b7839c4be40c68cbff29dad14e7d5}
 

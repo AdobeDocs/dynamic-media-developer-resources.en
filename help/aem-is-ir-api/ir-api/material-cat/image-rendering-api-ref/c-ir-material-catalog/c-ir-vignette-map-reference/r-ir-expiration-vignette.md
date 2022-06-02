@@ -10,7 +10,7 @@ exl-id: 5717d568-467e-495b-b963-9b3d42e866a6
 
 Client cache time to live. Number of hours until expiration. Used to manage client and proxy server caching.
 
-See ` [catalog::Expiration](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-material-data-reference/r-ir-expiration-dataref.md#reference-5e93943abff54c93bf85aae3b911a3ce)` for details.
+See [catalog::Expiration](/help/aem-is-ir-api/ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-material-data-reference/r-ir-expiration-dataref.md) for details.
 
 ## Properties {#section-dcdd44cc3f0a4849b968dbd4f1e3768a}
 

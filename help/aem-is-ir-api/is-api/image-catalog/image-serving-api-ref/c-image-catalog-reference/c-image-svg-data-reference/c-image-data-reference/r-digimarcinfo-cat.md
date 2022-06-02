@@ -1,7 +1,7 @@
 ---
+title: DigimarcInfo
 description: Digimarc image info. Enables Digimarc embedding and specifies the type of watermark and any associated image-specific data.
 solution: Experience Manager
-title: DigimarcInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 87f4d8f0-02b9-4511-9151-89c58116c78d

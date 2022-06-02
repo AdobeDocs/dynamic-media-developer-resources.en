@@ -12,7 +12,7 @@ Resampling mode. Default for resMode=. Specifies the resampling and interpolatio
 
 ## Properties {#section-1183a155f33c4eca80f1dc6fb6bda1b5}
 
-Enum. Set to 2 for `'bilin'`, 3 for `'bicub'`, or 4 for `'sharp2'` interpolation mode (see ` [resMode=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-http-resmode.md#reference-851a5b636f8948cfb11456c9b7dab0d3)` for details).
+Enum. Set to 2 for `'bilin'`, 3 for `'bicub'`, or 4 for `'sharp2'` interpolation mode (see [resMode=](/help/aem-is-ir-api/ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-http-resmode.md) for details).
 
 ## Default {#section-ed432a0acc3e4bce926a07e9cfd2c865}
 

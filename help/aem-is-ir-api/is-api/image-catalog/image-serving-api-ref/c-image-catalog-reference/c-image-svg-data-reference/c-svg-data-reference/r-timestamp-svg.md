@@ -10,7 +10,7 @@ exl-id: e36660bb-d2ec-464c-b578-fe862bca5c50
 
 If `attribute::UseLastModified` is set, the `catalog::TimeStamp` value is returned in the HTTP response as a Last-Modified HTTP header. The Last-Modified header is always returned for static contents, even if `attribute::UseLastModified` is not set.
 
-For image and SVG contents, `catalog::TimeStamp` is also used for catalog-based cache validation (see ` [attribute::CacheValidationPolicy](../../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-cachevalidationpolicy.md#reference-e55e52fd749041718a9af69fa2027b57)`).
+For image and SVG contents, `catalog::TimeStamp` is also used for catalog-based cache validation (see [attribute::CacheValidationPolicy](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-cachevalidationpolicy.md).
 
 ## Properties {#section-2298a384b5cb43929542655c5a49beb2}
 

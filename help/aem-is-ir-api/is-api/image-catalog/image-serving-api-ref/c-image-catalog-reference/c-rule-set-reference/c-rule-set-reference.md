@@ -91,7 +91,7 @@ The default behavior can be modified with the `OnMatch` attribute of the `<rule>
 
 ## Overriding catalog attributes {#section-3f1e33a65c5346d1b4a69958c61432f3}
 
-`<rule>` elements can optionally define attributes that override the corresponding catalog attributes when the rule is successfully matched. If multiple matched rules set the same attribute, the last one prevails. Refer to the description of the ` [<rule>](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-rule-set-reference/r-rule-rule.md#reference-af76c0e2b8be48dabb52b71fe7e51ee9)` element for a list of attributes that can be controlled with rules.
+The `rule` element can optionally define attributes that override the corresponding catalog attributes when the rule is successfully matched. If multiple matched rules set the same attribute, the last one prevails. See [rule](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-rule-set-reference/r-rule-rule.md) element for a list of attributes that can be controlled with rules.
 
 ## Regular expressions {#section-3f77bb9a265147b38c645f63ab1bad8b}
 

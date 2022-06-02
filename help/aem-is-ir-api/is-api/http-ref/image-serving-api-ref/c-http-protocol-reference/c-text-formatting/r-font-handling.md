@@ -1,7 +1,7 @@
 ---
+title: Font handling
 description: All fonts referenced in the RTF string must be available in the font map file of the default catalog or the current image catalog, otherwise an error is returned.
 solution: Experience Manager
-title: Font handling
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: f24edd53-4b21-4147-9b50-95e616279aa8
@@ -10,7 +10,7 @@ exl-id: f24edd53-4b21-4147-9b50-95e616279aa8
 
 All fonts referenced in the RTF string must be available in the font map file of the default catalog or the current image catalog, otherwise an error is returned.
 
-Best quality for italic and bold-face text is achieved by registering the corresponding font files. If not available, the server can synthesize bold and/or italic font faces from the standard face. (See ` [attribute::SynthesizeFontStyles](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-synthesizefontstyles.md#reference-1b12ba881b9146c793bcb07407cacb15)`.)
+Best quality for italic and bold-face text is achieved by registering the corresponding font files. If not available, the server can synthesize bold and/or italic font faces from the standard face. (See [attribute::SynthesizeFontStyles](/help/aem-is-ir-api/is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-synthesizefontstyles.md.)
 
 The font face specified with `attribute::DefaultFont` is used when none are specified explicitly in the RTF string.
 
