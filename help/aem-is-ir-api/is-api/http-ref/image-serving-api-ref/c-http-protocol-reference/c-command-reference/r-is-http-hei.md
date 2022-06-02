@@ -19,7 +19,7 @@ View Height. Specifies the height of the response image (view image) when fit is
  </tr> 
 </table>
 
-If both `wid=` and `scl=` are specified, the composite image may be cropped according to the `align=`attribute. When `fit=` is present, `hei=` specifies the exact, the minimum, or the maximum response image height; refer to the description of ` [fit=](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-fit.md#reference-f11bff6d93d143d6b135de3a923bc989)` for details.
+If both `wid=` and `scl=` are specified, the composite image may be cropped according to the `align=`attribute. When `fit=` is present, `hei=` specifies the exact, the minimum, or the maximum response image height; refer to the description of [fit=](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-fit.md) for details.
 
 If `scl=` is not specified, the composite image is scaled to fit. If both `wid=` and `hei=` are specified, and `scl=` is not specified, then the image is scaled to fit entirely within the wid/hei rectangle, leaving as little background area exposed as possible; in this case, the image is positioned within the view rectangle according to the `align=` attribute. The background area is filled with `bgc=`, or, if not specified with `attribute::BkgColor`.
 

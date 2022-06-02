@@ -1,7 +1,7 @@
 ---
+title: quantize
 description: Color quantization. Specifies color-quantization attributes for GIF output conversion.
 solution: Experience Manager
-title: quantize
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 71d59961-848e-4d78-875e-066e842ac1bf
@@ -37,7 +37,7 @@ Color quantization. Specifies color-quantization attributes for GIF output conve
 
 Request attribute. Applies regardless of current layer setting. Used only if `fmt=gif`, `fmt=gif-alpha`, `fmt=png8`, or `fmt=png8-alpha`. Ignored otherwise.
 
-The colors specified with `*`colorList`*` must consist of RGB values in hex6 format (see ` [color](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-color-commandref.md#reference-b044954ec6184253b8831579466b4423)`) without ' `0x`' prefix. No other color specifiers are permitted. *`numColors`* must be between 2-256.
+The colors specified with *`colorList`* must consist of RGB values in hex6 format (see [color](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-color-commandref.md) without `0x` prefix. No other color specifiers are permitted. *`numColors`* must be between 2-256.
 
 ## Default {#section-ca3e817617244e8798ccff67b2023a32}
 

@@ -16,7 +16,7 @@ If `attribute::UseLastModified` is set, the most recent of the `catalog::TimeSta
 >
 >The actual file times of the image or data files attached to this catalog record are never used for this purpose.
 
-`catalog::TimeStamp` is also used for catalog-based cache validation (see ` [attribute::CacheValidationPolicy](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-cachevalidationpolicy.md#reference-2d71679733474d8aa116db6ceba87fa4)`).
+`catalog::TimeStamp` is also used for catalog-based cache validation (see [attribute::CacheValidationPolicy](/help/aem-is-ir-api/ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-cachevalidationpolicy.md)).
 
 ## Properties {#section-42f09e375e72492b87a3a486da7df808}
 

@@ -1,7 +1,7 @@
 ---
+title: textPath
 description: Text path. Specifies the path to be used as the baseline for the text provided with textPs=.
 solution: Experience Manager
-title: textPath
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 1c515786-bbba-44d3-837e-b474af293b7e

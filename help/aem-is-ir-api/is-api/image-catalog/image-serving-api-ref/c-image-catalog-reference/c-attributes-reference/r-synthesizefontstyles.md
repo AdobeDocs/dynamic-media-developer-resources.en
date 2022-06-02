@@ -1,7 +1,7 @@
 ---
+title: SynthesizeFontStyles
 description: Enable synthesized font variations. Controls whether the server should generate an error response or synthesize a bold, italic, or bold/italic font style if such a style is requested but cannot be found in the font map.
 solution: Experience Manager
-title: SynthesizeFontStyles
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 08f20748-71c7-4b9f-9b45-70352f9abf35
