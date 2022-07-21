@@ -28,7 +28,7 @@ By default all ciphers are available. The list is comma separated and can contai
 
 `SSL_RSA_EXPORT_WITH_RC4_40_MD5`
 
-`SSL_RSA_WITH_3DES_EDE_CBC_SHA`
+<!-- WEAK CQDOC-19433 `SSL_RSA_WITH_3DES_EDE_CBC_SHA` -->
 
 `SSL_RSA_WITH_DES_CBC_SHA`
 
@@ -40,10 +40,10 @@ By default all ciphers are available. The list is comma separated and can contai
 
 `TLS_DHE_RSA_WITH_AES_128_CBC_SHA`
 
-`TLS_RSA_WITH_AES_128_CBC_SHA`
+<!-- WEAK CQDOC-19433 `TLS_RSA_WITH_AES_128_CBC_SHA` -->
 
 If any of the values is wrong, Tomcat will enable every single cipher. So it is essential to check with an external tool after configuration to see which ciphers are actually enabled.
 
-As an example the following configuration will enable only the "128-bit" cipher suites and above:
+As an example the following configuration enables only the "128-bit" cipher suites and above:
 
-`ciphers="SSL_DHE_DSS_WITH_3DES_EDE_CBC_SHA,SSL_DHE_DSS_WITH_DES_CBC_SHA,SSL_DHE_RSA_WITH_3DES_EDE_CBC_SHA,SSL_RSA_WITH_3DES_EDE_CBC_SHA,TLS_DHE_DSS_WITH_AES_128_CBC_SHA,TLS_DHE_RSA_WITH_AES_128_CBC_SHA,TLS_RSA_WITH_AES_128_CBC_SHA"`
+`ciphers="SSL_DHE_DSS_WITH_3DES_EDE_CBC_SHA,SSL_DHE_DSS_WITH_DES_CBC_SHA,SSL_DHE_RSA_WITH_3DES_EDE_CBC_SHA,TLS_DHE_DSS_WITH_AES_128_CBC_SHA,TLS_DHE_RSA_WITH_AES_128_CBC_SHA"`
