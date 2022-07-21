@@ -106,6 +106,4 @@ Effective September 30, 2022, Adobe Dynamic Media Viewers will end support for t
 * OpenSSL 0.9.8y
 * Baidu January 2015 -->
 
-<!-- >[!NOTE]
->
->FLASH VIEWERS END-OF-LIFE — Effective January 31, 2017, Adobe Dynamic Media Classic officially ended support for the Flash viewer platform. -->
+<!-- FLASH VIEWERS END-OF-LIFE — Effective January 31, 2017, Adobe Dynamic Media Classic officially ended support for the Flash viewer platform. -->
