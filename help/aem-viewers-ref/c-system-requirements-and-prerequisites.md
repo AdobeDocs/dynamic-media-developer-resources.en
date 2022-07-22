@@ -109,7 +109,7 @@ Adobe Dynamic Media Viewers do not support the following web browser and operati
 
 <!-- CQDOC-19433>
 
-<!-- >[!NOTE]
+<!-- [!NOTE]
 >
 >Effective September 30, 2018, Adobe Dynamic Media Classic Viewers ended support of Transport Layer Security 1.0 (TLS 1.0). As such, Dynamic Media Classic no longer supports viewers on the following browsers/platforms that support TLS 1.0 (Adobe recommends using TLS 1.2 or later):
 >
