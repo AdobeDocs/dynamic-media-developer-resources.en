@@ -107,29 +107,28 @@ Adobe Dynamic Media Viewers do not support the following web browser and operati
 * Safari 8 + iOS 8.4
 * Safari 8 + OS X 10.10 Yosemite
 
-<!-- CQDOC-19433>
+<!-- CQDOC-19433 -->
 
-<!-- [!NOTE]
->
->Effective September 30, 2018, Adobe Dynamic Media Classic Viewers ended support of Transport Layer Security 1.0 (TLS 1.0). As such, Dynamic Media Classic no longer supports viewers on the following browsers/platforms that support TLS 1.0 (Adobe recommends using TLS 1.2 or later):
->
-> * Android™ 2.3.7
-> * Android™ 4.0.4
-> * Android™ 4.1.1
-> * Android™ 4.2.2
-> * Android™ 4.3
-> * Internet Explorer 7 on Window Vista®
-> * Internet Explorer 8 on Windows® XP
-> * Internet Explorer 8-10 on Windows® 7
-> * Internet Explorer 10 on Windows® Phone 8.0
-> * Safari 5.1.9 on Apple OS X 10.6.8
-> * Safari 6.0.4 on Apple OS X 10.8.4
-> * Java™ 6u45
-> * Java™ 7u25
-> * OpenSSL 0.9.8y
-> * Baidu January 2015
+<!-- 
+NOTE
+Effective September 30, 2018, Adobe Dynamic Media Classic Viewers ended support of Transport Layer Security 1.0 (TLS 1.0). As such, Dynamic Media Classic no longer supports viewers on the following browsers/platforms that support TLS 1.0 (Adobe recommends using TLS 1.2 or later):
 
->[!NOTE]
->
->FLASH VIEWERS END-OF-LIFE — Effective January 31, 2017, Adobe Dynamic Media Classic officially ended support for the Flash viewer platform. -->
+* Android™ 2.3.7
+* Android™ 4.0.4
+* Android™ 4.1.1
+* Android™ 4.2.2
+* Android™ 4.3
+* Internet Explorer 7 on Window Vista®
+* Internet Explorer 8 on Windows® XP
+* Internet Explorer 8-10 on Windows® 7
+* Internet Explorer 10 on Windows® Phone 8.0
+* Safari 5.1.9 on Apple OS X 10.6.8
+* Safari 6.0.4 on Apple OS X 10.8.4
+* Java™ 6u45
+* Java™ 7u25
+* OpenSSL 0.9.8y
+* Baidu January 2015
+
+NOTE
+FLASH VIEWERS END-OF-LIFE — Effective January 31, 2017, Adobe Dynamic Media Classic officially ended support for the Flash viewer platform. -->
 
