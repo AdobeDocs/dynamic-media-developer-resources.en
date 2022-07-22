@@ -70,6 +70,8 @@ System requirements for Dynamic Media HTML5 viewers.
 
 ## End of support for TLS 1.0 and 1.1 {#tls}
 
+<!-- CQDOC-19433 -->
+
 Effective September 30, 2022, Adobe Dynamic Media Viewers will end support for the following:
 
 * TLS (Transport Layer Security) 1.0 and 1.1
@@ -91,6 +93,8 @@ Effective September 30, 2022, Adobe Dynamic Media Viewers will end support for t
 
 ## Unsupported web browser and operating system combinations for Dynamic Media Viewers {#browser-os-support}
 
+<!-- CQDOC-19433 -->
+
 Adobe Dynamic Media Viewers do not support the following web browser and operating system combinations:
 
 * Internet Explorer 11 + Windows 7
@@ -102,6 +106,8 @@ Adobe Dynamic Media Viewers do not support the following web browser and operati
 * Safari 7 + OS X 10.9 Mavericks
 * Safari 8 + iOS 8.4
 * Safari 8 + OS X 10.10 Yosemite
+
+<!-- CQDOC-19433>
 
 <!-- >[!NOTE]
 >
