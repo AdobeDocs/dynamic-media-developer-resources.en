@@ -68,27 +68,50 @@ System requirements for Dynamic Media HTML5 viewers.
   * iOS 10
   * Safari 11
 
-**IMPORTANT**
+## End of support for TLS 1.0 and 1.1 {#tls}
+
+<!-- CQDOC-19433 -->
+
 Effective September 30, 2022, Adobe Dynamic Media Viewers will end support for the following:
 
 * TLS (Transport Layer Security) 1.0 and 1.1
 * The following weak ciphers in TLS 1.2:
-  * `TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384`
-  * `TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA`
-  * `TLS_RSA_WITH_AES_256_GCM_SHA384`
-  * `TLS_RSA_WITH_AES_256_CBC_SHA256`
-  * `TLS_RSA_WITH_AES_256_CBC_SHA`
-  * `TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256`
-  * `TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA`
-  * `TLS_RSA_WITH_AES_128_GCM_SHA256`
-  * `TLS_RSA_WITH_AES_128_CBC_SHA256`
-  * `TLS_RSA_WITH_AES_128_CBC_SHA`
-  * `TLS_RSA_WITH_CAMELLIA_256_CBC_SHA`
-  * `TLS_RSA_WITH_CAMELLIA_128_CBC_SHA`
-  * `TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA`
-  * `TLS_RSA_WITH_SDES_EDE_CBC_SHA`
+  * TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
+  * TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+  * TLS_RSA_WITH_AES_256_GCM_SHA384
+  * TLS_RSA_WITH_AES_256_CBC_SHA256
+  * TLS_RSA_WITH_AES_256_CBC_SHA
+  * TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256
+  * TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+  * TLS_RSA_WITH_AES_128_GCM_SHA256
+  * TLS_RSA_WITH_AES_128_CBC_SHA256
+  * TLS_RSA_WITH_AES_128_CBC_SHA
+  * TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+  * TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+  * TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+  * TLS_RSA_WITH_SDES_EDE_CBC_SHA
 
-<!-- Effective September 30, 2018, Adobe Dynamic Media Classic Viewers ended support of Transport Layer Security 1.0 (TLS 1.0). As such, Dynamic Media Classic no longer supports viewers on the following browsers/platforms that support TLS 1.0 (Adobe recommends using TLS 1.2 or later):
+## Unsupported web browser and operating system combinations for Dynamic Media Viewers {#browser-os-support}
+
+<!-- CQDOC-19433 -->
+
+Adobe Dynamic Media Viewers do not support the following web browser and operating system combinations:
+
+* Internet Explorer 11 + Windows 7
+* Internet Explorer 11 + Windows 8.1
+* Internet Explorer 11 + Windows Phone 8.1
+* Internet Explorer 11 + Windows Phone 8.1 Update
+* Safari 6 + iOS 6.0.1
+* Safari 7 + iOS 7.1
+* Safari 7 + OS X 10.9 Mavericks
+* Safari 8 + iOS 8.4
+* Safari 8 + OS X 10.10 Yosemite
+
+<!-- CQDOC-19433 -->
+
+<!-- 
+NOTE
+Effective September 30, 2018, Adobe Dynamic Media Classic Viewers ended support of Transport Layer Security 1.0 (TLS 1.0). As such, Dynamic Media Classic no longer supports viewers on the following browsers/platforms that support TLS 1.0 (Adobe recommends using TLS 1.2 or later):
 
 * Android™ 2.3.7
 * Android™ 4.0.4
@@ -104,6 +127,8 @@ Effective September 30, 2022, Adobe Dynamic Media Viewers will end support for t
 * Java™ 6u45
 * Java™ 7u25
 * OpenSSL 0.9.8y
-* Baidu January 2015 -->
+* Baidu January 2015
 
-<!-- FLASH VIEWERS END-OF-LIFE — Effective January 31, 2017, Adobe Dynamic Media Classic officially ended support for the Flash viewer platform. -->
+NOTE
+FLASH VIEWERS END-OF-LIFE — Effective January 31, 2017, Adobe Dynamic Media Classic officially ended support for the Flash viewer platform. -->
+
