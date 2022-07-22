@@ -68,7 +68,29 @@ System requirements for Dynamic Media HTML5 viewers.
   * iOS 10
   * Safari 11
 
->[!NOTE]
+
+**IMPORTANT**
+Effective September 30, 2022, Adobe Dynamic Media Viewers will end support for the following:
+
+* TLS (Transport Layer Security) 1.0 and 1.1
+* The following weak ciphers in TLS 1.2:
+  * TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
+  * TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+  * TLS_RSA_WITH_AES_256_GCM_SHA384
+  * TLS_RSA_WITH_AES_256_CBC_SHA256
+  * TLS_RSA_WITH_AES_256_CBC_SHA
+  * TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256
+  * TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+  * TLS_RSA_WITH_AES_128_GCM_SHA256
+  * TLS_RSA_WITH_AES_128_CBC_SHA256
+  * TLS_RSA_WITH_AES_128_CBC_SHA
+  * TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+  * TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+  * TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+  * TLS_RSA_WITH_SDES_EDE_CBC_SHA
+
+
+<!-- >[!NOTE]
 >
 >Effective September 30, 2018, Adobe Dynamic Media Classic Viewers ended support of Transport Layer Security 1.0 (TLS 1.0). As such, Dynamic Media Classic no longer supports viewers on the following browsers/platforms that support TLS 1.0 (Adobe recommends using TLS 1.2 or later):
 >
@@ -90,4 +112,4 @@ System requirements for Dynamic Media HTML5 viewers.
 
 >[!NOTE]
 >
->FLASH VIEWERS END-OF-LIFE — Effective January 31, 2017, Adobe Dynamic Media Classic officially ended support for the Flash viewer platform.
+>FLASH VIEWERS END-OF-LIFE — Effective January 31, 2017, Adobe Dynamic Media Classic officially ended support for the Flash viewer platform. -->
