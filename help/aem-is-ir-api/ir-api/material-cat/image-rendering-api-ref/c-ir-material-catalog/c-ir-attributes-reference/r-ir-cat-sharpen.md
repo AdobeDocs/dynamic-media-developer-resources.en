@@ -1,7 +1,7 @@
 ---
+title: Sharpen
 description: Default reply image sharpening. Specifies whether to sharpen reply images if they are scaled before encoding.
 solution: Experience Manager
-title: Sharpen
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 9a540b86-4d00-47db-8a1d-1d2b186ce87b

@@ -1,18 +1,18 @@
 ---
+title: IccBlackPointCompensation
 description: Blackpoint compensation. Specifies whether blackpoint compensation should be applied to color conversions when no explicit selection is made with icc=.
 solution: Experience Manager
-title: IccBlackPointCompensation
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 9d075434-5ef0-4b6a-ad24-1ef9c57e3e47
 ---
 # IccBlackPointCompensation{#iccblackpointcompensation}
 
-Blackpoint compensation. Specifies whether blackpoint compensation should be applied to color conversions when no explicit selection is made with icc=.
+Blackpoint compensation. Specifies whether blackpoint compensation should be applied to color conversions when no explicit selection is made with `icc=`.
 
 ## Properties {#section-21fd20b16bea4a22aecab0ae8b81e332}
 
-Flag. Set to 0 to disable or to 1 to enable blackpoint compensation.
+Flag. Set to `0` to disable or to `1` to enable blackpoint compensation.
 
 ## Default {#section-5bc6703a43a149f18af88b70baae568f}
 

@@ -1,34 +1,34 @@
 ---
-description: Default modification time stamp. Provides a default value for catalog TimeStamp and vignette TimeStamp. If not specified, the server will use the modification date/time of this catalog.ini file.
-solution: Experience Manager
 title: TimeStamp
+description: Default modification time stamp. Provides a default value for catalog TimeStamp and vignette TimeStamp. If not specified, the server uses the modification date/time of this catalog.ini file.
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 0b6d8fa6-0ad9-4f72-8d6d-1427e5d59df3
 ---
 # TimeStamp{#timestamp}
 
-Default modification time stamp. Provides a default value for catalog::TimeStamp and vignette::TimeStamp. If not specified, the server will use the modification date/time of this catalog.ini file.
+Default modification time stamp. Provides a default value for `catalog::TimeStamp` and `vignette::TimeStamp`. If not specified, the server uses the modification date/time of this catalog.ini file.
 
 ## Properties {#section-910e2562b41c47b78ee6216deeabbbd5}
 
-Date/time value in Java format. Can be either the integer number of milliseconds since midnight, January 1, 1970 UTC/GMT or a date/time string value with one of the following formats:
+Date/time value in Java™ format. Can be either the integer number of milliseconds since midnight, January 1, 1970 UTC/GMT, or a date/time string value with one of the following formats:
 
 * *[!DNL mm]*/ *[!DNL dd]*/ *[!DNL yyyy]* *[!DNL hh]*: *[!DNL mm]*: *[!DNL ss]* *[!DNL zzz]* 
 
 * *[!DNL mm]*/ *[!DNL dd]*/ *[!DNL yyyy]* *[!DNL hh]*: *[!DNL mm]*: *[!DNL ss]* GMT *[!DNL offset]*
 
-*[!DNL hh]* is in the range 0 to 23.
+*[!DNL hh]* is in the range 0 – 23.
 
-*[!DNL zzz]* is a 3 or 4 character time zone code such as 'GMT' or 'PST'. Daylight Savings Time must be accounted for in the time zone code (for example, 'PST' for Pacific Standard Time, versus 'PDT' for Pacific Daylight Savings Time).
+*[!DNL zzz]* is a three or four character time zone code such as 'GMT' or 'PST'. Daylight Savings Time must be accounted for in the time zone code (for example, 'PST' for Pacific Standard Time, versus 'PDT' for Pacific Daylight Savings Time).
 
 *[!DNL offset]* is a time zone offset in hours or hours:minutes, relative to GMT. For example, 'PDT' is equivalent to 'GMT -7'.
 
-All elements of string formatted date/time values must be present. If the date/time value is not formatted correctly it is ignored and the modification time of the [!DNL *[!DNL catalog]*.ini] file is used instead.
+All elements of string-formatted date/time values must be present. If the date/time value is not formatted correctly, it is ignored and the modification time of the [!DNL *[!DNL catalog]*.ini] file is used instead.
 
 ## Default {#section-65fb29a9ea2044df8cb9fe295eb14872}
 
-If empty or not defined, the server will use the file modification time of this [!DNL *[!DNL catalog]*.ini] file.
+If empty or not defined, the server uses the file modification time of this [!DNL *[!DNL catalog]*.ini] file.
 
 ## See also {#section-764188f9b1734ad1a6270f5fecd28532}
 

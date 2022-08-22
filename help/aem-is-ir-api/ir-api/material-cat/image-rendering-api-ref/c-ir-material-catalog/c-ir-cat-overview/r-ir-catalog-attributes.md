@@ -1,7 +1,7 @@
 ---
+title: Catalog attributes
 description: The following attributes are recognized in catalog attribute files.
 solution: Experience Manager
-title: Catalog attributes
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 8d344cb7-26b6-413e-9c8d-b1d1f9c94dfc

@@ -1,7 +1,7 @@
 ---
+title: IccProfileSrcGray
 description: Grayscale default input color profile. Specifies the name of the ICC color profile to be used for grayscale material images which do not embed a color profile.
 solution: Experience Manager
-title: IccProfileSrcGray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 8c89f0bb-4912-4838-a9e2-fb5d2f255eae

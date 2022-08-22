@@ -1,7 +1,7 @@
 ---
+title: ErrorDetail
 description: Error message detail. Specifies the level of detail for error messages returned via HTTP as the error.message value.
 solution: Experience Manager
-title: ErrorDetail
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 39d7fc44-7605-4f93-b2f9-0a6e8bc76ec7
@@ -29,7 +29,7 @@ The following values are permitted:
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p>3 </p></td> 
-  <td class="stentry"> <p>Full debug info. Adds Java stack traces when applicable. Error images never include stack traces and instead return level 2 information in <span class="codeph"> $error.message</span>. </p></td> 
+  <td class="stentry"> <p>Full debug info. Adds Java™ stack traces when applicable. Error images never include stack traces and instead return level 2 information in <span class="codeph"> $error.message</span>. </p></td> 
  </tr> 
 </table>
 

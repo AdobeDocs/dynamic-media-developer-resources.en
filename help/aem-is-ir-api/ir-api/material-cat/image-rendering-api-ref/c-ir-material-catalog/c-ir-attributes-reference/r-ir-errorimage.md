@@ -1,22 +1,22 @@
 ---
-description: Error response image. Image Rendering normally returns an error status with a text message when an error occurs. attribute ErrorImage allows configuring an image to be returned in case of error.
+title: ErrorImage
+description: Error response image. Image Rendering normally returns an error status with a text message when an error occurs.
 solution: Experience Manager
-title: ErrorImage *
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: ed48482f-79b0-4c81-b5cd-cf997f27d3ab
 ---
-# ErrorImage *{#errorimage}
+# ErrorImage {#errorimage}
 
-Error response image. Image Rendering normally returns an error status with a text message when an error occurs. attribute::ErrorImage allows configuring an image to be returned in case of error.
+Error response image. Image Rendering normally returns an error status with a text message when an error occurs. The `attribute::ErrorImage` allows configuring an image to be returned if there is an error.
 
-When an error occurs, the server first attempts to interpret the value of `ImageRendering::attribute::ErrorImage`as a simple image file path. If the file cannot be opened, it sends the attribute value and error details to Image Serving, which processes as described in `ImageServing::attribute::ErrorImage`. If Image Serving does not return a valid response image, the standard HTTP error status and text message are sent to the client.
+When an error occurs, the server attempts to interpret the value of `ImageRendering::attribute::ErrorImage`as a simple image file path. If the file cannot be opened, it sends the attribute value and error details to Image Serving, which processes as described in `ImageServing::attribute::ErrorImage`. If Image Serving does not return a valid response image, the standard HTTP error status and text message are sent to the client.
 
 Error images are returned with HTTP status 200.
 
 ## Properties {#section-4a4a7e37ed11483db0b9922dc68ea7db}
 
-Text string. If specified, it must either be an **`ImageServing::catalog::id`** value, a relative path (to **`ImageServing::attribute::RootPath`** or **`ImageRendering::attribute::RootPath`**) or an absolute path to an image file that is accessible by the Image Server.
+Text string. If specified, it must either be an **`ImageServing::catalog::id`** value, a relative path (to **`ImageServing::attribute::RootPath`** or **`ImageRendering::attribute::RootPath`**), or an absolute path to an image file that is accessible by the Image Server.
 
 ## Default {#section-4c463e369dfb4b43a7b2a3bce9619dd4}
 

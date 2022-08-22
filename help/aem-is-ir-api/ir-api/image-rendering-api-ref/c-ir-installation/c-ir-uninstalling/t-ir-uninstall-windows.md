@@ -1,7 +1,7 @@
 ---
+title: Uninstalling on Windows
 description: Follow these instructions to uninstall Image Rendering on a Windows system.
 solution: Experience Manager
-title: Uninstalling on Windows
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 50a3d0d4-acfe-4ed2-af9f-01f8c98d0c12

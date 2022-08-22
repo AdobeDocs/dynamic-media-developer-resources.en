@@ -1,18 +1,18 @@
 ---
-description: Default JPEG encoding quaility. Specifies the default quality setting for JPEG-encoded reply images.
-solution: Experience Manager
 title: JpegQuality
+description: Default JPEG encoding quality. Specifies the default quality setting for JPEG-encoded reply images.
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 1a699a9e-dbf6-4e01-95aa-37a6eb83f4df
 ---
 # JpegQuality{#jpegquality}
 
-Default JPEG encoding quaility. Specifies the default quality setting for JPEG-encoded reply images.
+Default JPEG encoding quality. Specifies the default quality setting for JPEG-encoded reply images.
 
 ## Properties {#section-8b1ed3e0acaa4fbfa050b74c00b9d4dc}
 
-Integer number and flag, separated by a comma. The first value is in the range 1..100 and defines the quality. The second value may be 0 for normal behavior, or 1 to disable the chromaticity down-sampling usually employed by JPEG encoders.
+Integer number and flag, separated by a comma. The first value is in the range 1..100 and defines the quality. The second value may be `0` for normal behavior, or `1` to disable the chromaticity down-sampling employed by JPEG encoders.
 
 ## Default {#section-60900c0fb8c54444b2361513232514db}
 

@@ -1,7 +1,7 @@
 ---
+title: DefaultPix
 description: Default render image size. The server constrains reply images to be no larger than this width and height, if the request does not specify the view size explicitly using wid= or hei=.
 solution: Experience Manager
-title: DefaultPix
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: d60f2b8c-5213-42ad-8ec9-7e7797d74e09

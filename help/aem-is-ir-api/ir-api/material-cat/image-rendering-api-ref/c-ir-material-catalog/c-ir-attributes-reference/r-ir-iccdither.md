@@ -1,18 +1,18 @@
 ---
+title: IccDither
 description: Color conversion dithering. Specifies whether dithering should be used to improve the perceptual quality of color conversions when no explicit selection is made with icc=.
 solution: Experience Manager
-title: IccDither
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: bb1bec31-3f7c-48c8-9456-6359b739a657
 ---
 # IccDither{#iccdither}
 
-Color conversion dithering. Specifies whether dithering should be used to improve the perceptual quality of color conversions when no explicit selection is made with icc=.
+Color conversion dithering. Specifies whether dithering should be used to improve the perceptual quality of color conversions when no explicit selection is made with `icc=`.
 
 ## Properties {#section-646fb48084734c66bf648360f3a5bfd1}
 
-Flag. Set to 0 to disable or to 1 to enable dithering.
+Flag. Set to `0` to disable or to `1` to enable dithering.
 
 ## Default {#section-c9066c361215404d847f4d2c8f1ea3a5}
 

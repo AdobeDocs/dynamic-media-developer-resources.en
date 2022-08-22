@@ -1,14 +1,14 @@
 ---
-description: Catalog identifier. The HTTP path element to be used to identifies this catalog in the vignette, material, or ICC profile object specifier in HTTP requests.
-solution: Experience Manager
 title: RootId
+description: Catalog identifier. The HTTP path element to be used to identify this catalog in the vignette, material, or ICC profile object specifier in HTTP requests.
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: cc34087a-8a19-4ead-b510-f2466efc44a9
 ---
 # RootId{#rootid}
 
-Catalog identifier. The HTTP path element to be used to identifies this catalog in the vignette, material, or ICC profile object specifier in HTTP requests.
+Catalog identifier. The HTTP path element to be used to identify this catalog in the vignette, material, or ICC profile object specifier in HTTP requests.
 
 ## Properties {#section-c33266223d5b47029df756caa4e0df0c}
 
