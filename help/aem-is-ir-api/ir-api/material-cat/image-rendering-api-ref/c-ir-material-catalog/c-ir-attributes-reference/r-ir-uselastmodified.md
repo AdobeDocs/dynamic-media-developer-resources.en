@@ -1,7 +1,7 @@
 ---
+title: UseLastModified
 description: Enable last-modified response headers. Enables or disables inclusion of the Last-Modified header in cacheable HTTP responses emitted by Image Rendering.
 solution: Experience Manager
-title: UseLastModified
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 31dfbc55-0efd-417b-be4a-67c878772388
@@ -18,7 +18,7 @@ Should be enabled only if a distributed caching network, such as Akamai, is used
 >
 >Care must be taken when using Last-Modified headers in a load-balanced environment involving multiple Image Serving/Rendering hosts. Client caching may be defeated and server load increase if for some reason the servers have different time stamps for the same catalog entries. Such a situation can occur as follows:
 
-* Neither `catalog::TimeStamp`, `vignette::TimeStamp`, nor `attribute::TimeStamp` is defined, so that the modification time of the [!DNL catalog.ini] file is used as the default for `catalog::TimeStamp`. 
+* `catalog::TimeStamp`, `vignette::TimeStamp`, or `attribute::TimeStamp` is not defined, so that the modification time of the [!DNL catalog.ini] file is used as the default for `catalog::TimeStamp`. 
 
 * Instead of sharing the material catalog files via a network mount, each server has its own instance of the catalog files on a local file system. 
 * Two or more instances of the same [!DNL catalog.ini] file have different file modification dates, possibly caused by improper copying of the files.

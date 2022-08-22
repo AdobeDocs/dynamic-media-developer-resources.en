@@ -1,12 +1,12 @@
 ---
+title: RootPath
 description: Source data root path. Text string value. Absolute path or relative path segment for the root folder for all vignette, texture, image, and ICC data files referenced by this image catalog.
 solution: Experience Manager
-title: RootPath *
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 0eecb125-8147-4115-883a-cb6c38333270
 ---
-# RootPath *{#rootpath}
+# RootPath{#rootpath}
 
 Source data root path. Text string value. Absolute path or relative path segment for the root folder for all vignette, texture, image, and ICC data files referenced by this image catalog.
 
@@ -16,7 +16,7 @@ Text string. Must be empty, a valid path segment relative to the Image Rendering
 
 ## Default {#section-4a7f3ab22b0c4090b3896d29bd192b8a}
 
-Inherited from `default::RootPath` if not defined. If defined but empty, will not contribute to the source file root path.
+Inherited from `default::RootPath` if not defined. If defined but empty, it does not contribute to the source file root path.
 
 ## See also {#section-92012cc1ce32448ea977e7e0484857e2}
 

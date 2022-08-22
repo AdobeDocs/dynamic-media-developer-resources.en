@@ -1,7 +1,7 @@
 ---
+title: MacroFile
 description: Macro definitions file path. Specifies the file which contains the macro definitions for this material catalog.
 solution: Experience Manager
-title: MacroFile
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 5b926246-54c5-40ca-a8d3-d1a1411d8931

@@ -1,16 +1,16 @@
 ---
+title: TiffEncoding
 description: TIFF encoding format. Specifies the compression format for TIFF images (effectively the default for the third value of the fmt= command).
 solution: Experience Manager
-title: TiffEncoding
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 6a6fa8f5-4497-438d-914c-3f6d4c08ef09
 ---
 # TiffEncoding{#tiffencoding}
 
-TIFF encoding format. Specifies the compression format for TIFF images (effectively the default for the third value of the fmt= command).
+TIFF encoding format. Specifies the compression format for TIFF images (effectively the default for the third value of the `fmt=` command).
 
-Set to 0 for no compression, 1 for LZW, 2 for deflate (ZIP), and 3 for JPEG compression.
+Set to `0` for no compression, `1` for LZW, `2` for deflate (ZIP), and `3` for JPEG compression.
 
 ## Properties {#section-469f5a1225464542866f5353edd92db3}
 

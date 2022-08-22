@@ -1,7 +1,7 @@
 ---
+title: AllowDirectURLs
 description: Allow absolute source URLs.
 solution: Experience Manager
-title: AllowDirectURLs
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: f9ab0c0e-989c-42ce-b9dd-4ca2f6b382d2
@@ -10,7 +10,7 @@ exl-id: f9ab0c0e-989c-42ce-b9dd-4ca2f6b382d2
 
 Allow absolute source URLs.
 
-Set to 1 to allow absolute HTTP URLs (beginning with " `http://`") in `src=` commands. Set to 0 to disallow absolute URLs.
+Set to `1` to allow absolute HTTP URLs (beginning with " `http://`") in `src=` commands. Set to `0` to disallow absolute URLs.
 
 ## Properties {#section-9246bc06c7484f9e8f65a5edb24f6854}
 

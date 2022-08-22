@@ -1,18 +1,18 @@
 ---
+title: Resolution
 description: Default resolution. Provides a default resolution in case a particular catalog record does not contain a valid catalog Resolution value.
 solution: Experience Manager
-title: Resolution
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: cd47f41a-b527-4c78-afb5-b9e9af0868cc
 ---
 # Resolution{#resolution}
 
-Default resolution. Provides a default resolution in case a particular catalog record does not contain a valid catalog::Resolution value.
+Default resolution. Provides a default resolution in case a particular catalog record does not contain a valid `catalog::Resolution` value.
 
 ## Properties {#section-06d519158b9f479896f945747c670736}
 
-Real number, larger than 0. Typically expressed as pixels per inch, but may also be in other units, such as pixels per meter.
+Real number, larger than `0`. Typically expressed as pixels per inch, but may also be in other units, such as pixels per meter.
 
 ## Default {#section-eea922c37c224e1dbcab3bc53ee13aca}
 

@@ -1,7 +1,7 @@
 ---
+title: Catalog data fields
 description: The following catalog data fields are available.
 solution: Experience Manager
-title: Catalog data fields
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: bda5fe2d-6205-4737-a9c7-dc934a2d7b06
