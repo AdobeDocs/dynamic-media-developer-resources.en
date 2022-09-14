@@ -1,7 +1,7 @@
 ---
+title: batchjobbriefstatus
 description: Retrieve summarized status of a submitted job.
 solution: Experience Manager
-title: batchjobbriefstatus
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 1b31bdbb-3c2c-4f7f-ba95-d3e710270be0
