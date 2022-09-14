@@ -1,14 +1,14 @@
 ---
-description: Pixel Coordinates. Used to specify image coordinates, such as image offsets or crop parameters, in form of a pixel offset relative to the top-left corner of an image or layer rectangle.
-solution: Experience Manager
 title: coord
+description: Pixel coordinates. Used to specify image coordinates in the form of a pixel offset relative to the top-left corner of an image or layer rectangle. These are often used in image offsets or crop parameters. 
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 12ca4002-a540-4eb9-bb11-824d7cb41d30
 ---
 # coord{#coord}
 
-Pixel Coordinates. Used to specify image coordinates, such as image offsets or crop parameters, in the form of a pixel offset relative to the top-left corner of an image or layer rectangle.
+Pixel coordinates. Used to specify image coordinates in the form of a pixel offset relative to the top-left corner of an image or layer rectangle. These are often used in image offsets or crop parameters.
 
 <table id="simpletable_A686120953124ACB8803CB9C877252AB"> 
  <tr class="strow"> 
@@ -21,4 +21,4 @@ Pixel Coordinates. Used to specify image coordinates, such as image offsets or c
  </tr> 
 </table>
 
-0,0 refers to the top-left corner of the image or rectangle. Increasing the values moves towards the bottom-right.
+The coordinate `0,0` refers to the top-left corner of the image or rectangle. Increasing the values moves towards the bottom right.
