@@ -31,7 +31,7 @@ Catalog attribute files consist of a set of text records, separated by a single 
 
 White space between tokens is optional.
 
-Records with unknown attribute names are ignored by the Platform Server.
+Records with unknown attribute names are ignored by the [!DNL Platform Server].
 
 Attribute names may consist of any combination of ASCII letters, numbers, as well as "-", "_", and ".".
 

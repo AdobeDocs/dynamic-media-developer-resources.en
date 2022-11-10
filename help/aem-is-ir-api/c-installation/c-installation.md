@@ -11,11 +11,11 @@ exl-id: f5242806-788f-4d91-823f-4eab8fd2666f
 Installing Image Serving includes two major server components: 
 
 * Image Server. A stand-alone, native-code executable.
-* Platform Server. A stand-alone Java™ web application and application server.
+* [!DNL Platform Server]. A stand-alone Java™ web application and application server.
 
 Image Rendering is a part of these two server components.
 
-In the subsequent instructions, `install_root` refers to the root folder in which Image Serving and Image Rendering are installed. And `server:port` refers to the host name or IP address and port number configured as the main listening port for the Platform Server.
+In the subsequent instructions, `install_root` refers to the root folder in which Image Serving and Image Rendering are installed. And `server:port` refers to the host name or IP address and port number configured as the main listening port for the [!DNL Platform Server].
 
 * [Licensing](c-licensing.md)
 * [Contents](c-contents.md)

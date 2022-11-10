@@ -1,6 +1,6 @@
 ---
 title: Deprecated calls
-description: Image Production System API calls and their associated parameters that are no longer used or supported in Dynamic Media.
+description: Image Production System API calls and their associated parameters that are no longer used or supported in [!DNL Dynamic Media].
 solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
@@ -12,7 +12,7 @@ Image Production System API calls and their associated parameters that are no lo
 
 ## Deprecated calls {#topic-654c0466e6434fe4a95953322255b08c}
 
-Image Production System API calls and their associated parameters that are no longer used in Dynamic Media.
+Image Production System API calls and their associated parameters that are no longer used in [!DNL Dynamic Media].
 
 * `ExcludeMasterVideoFromAVS` - Deprecated from [Data types](/help/aem-ips-api/types/c-data-types/c-data-types.md). This parameter excluded the primary video from the adaptive video set. <!-- Adobe is ending support for this parameter on September 1, 2022. -->
 * `addMediaPortalEvent` - Deprecated from [Operations](/help/aem-ips-api/operations/c-operations-intro/c-operations-intro.md). This parameter let you add a Media Portal Event to IPS.  

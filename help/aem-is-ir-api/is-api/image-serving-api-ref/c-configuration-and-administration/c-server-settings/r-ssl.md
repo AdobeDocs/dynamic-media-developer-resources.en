@@ -12,7 +12,7 @@ Use these server settings for SSL.
 
 ## TC::SslPort - Listening Port {#section-c80eb582bf684b3fa7313a77cc606769}
 
-Specifies the listening port for the Platform Server for SSL connections. Default is 8443.
+Specifies the listening port for the [!DNL Platform Server] for SSL connections. Default is 8443.
 
 ## TC::keystoreFile - Keystore File Path {#section-0cdf9b3cfcf249818b22221d01bafebe}
 

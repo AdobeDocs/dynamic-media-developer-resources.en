@@ -1,5 +1,5 @@
 ---
-description: Contains Platform Server settings.
+description: Contains [!DNL Platform Server] settings.
 solution: Experience Manager
 title: PlatformServer.conf
 feature: Dynamic Media Classic,SDK/API
@@ -8,9 +8,9 @@ exl-id: 00d55453-e7e6-4242-be83-7efa12764e5d
 ---
 # PlatformServer.conf{#platformserver-conf}
 
-Contains Platform Server settings.
+Contains [!DNL Platform Server] settings.
 
-This file is a JAVA properties file. Care must be taken to follow the appropriate conventions; otherwise, the Platform Server may fail to start. Use a double backslash '\\' or a single forward slash '/' instead of a backslash '\' in Windows file paths. The backslash is used as an escape character in this type of file.
+This file is a JAVA properties file. Care must be taken to follow the appropriate conventions; otherwise, the [!DNL Platform Server] may fail to start. Use a double backslash '\\' or a single forward slash '/' instead of a backslash '\' in Windows file paths. The backslash is used as an escape character in this type of file.
 
 Changes to this file take effect after the file is saved.
 
@@ -18,7 +18,7 @@ Only settings listed below may be changed in [!DNL PlatformServer.conf]. If a pa
 
 <table id="simpletable_38244750F50A46E5B0077F5F860B125C"> 
  <tr class="strow"> 
-  <td class="stentry"> <p>General Platform Server settings </p> </td> 
+  <td class="stentry"> <p>General [!DNL Platform Server] settings </p> </td> 
   <td class="stentry"> <p> <span class="codeph"> cache.rootPaths=./cache </span> </p> <p> <span class="codeph"> cache.maxEntries=1000000 </span> </p> <p> <span class="codeph"> cache.maxSize=1073741824 </span> </p> <p> <span class="codeph"> isConnection.port=27345 </span> </p> <p> <span class="codeph"> allowDefaultCatalogRequsts=true </span> </p> <p> <span class="codeph"> saveToFile.saveTimeout=60000 </span> </p> <p> <span class="codeph"> staticContent.rootPaths=./static-content </span> </p> </td> 
  </tr> 
  <tr class="strow"> 

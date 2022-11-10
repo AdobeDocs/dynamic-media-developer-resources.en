@@ -100,7 +100,7 @@ To facilitate complex URL modifications, substrings may be captured in the expre
 
 ## Managing rule set files {#section-e8ce976b56404c009496426fd334d23d}
 
-One rule set file can be attached to each material catalog with the catalog attribute `attribute::RuleSetFile`. While you can edit the rule set file at any time, the image server recognizes the changes only when the associated material catalog is reloaded. This happens when the Platform Server is started or restarted and whenever the primary catalog file (which has a [!DNL .ini] file suffix) is modified or 'touched' (to change the file date).
+One rule set file can be attached to each material catalog with the catalog attribute `attribute::RuleSetFile`. While you can edit the rule set file at any time, the image server recognizes the changes only when the associated material catalog is reloaded. This happens when the [!DNL Platform Server] is started or restarted and whenever the primary catalog file (which has a [!DNL .ini] file suffix) is modified or 'touched' (to change the file date).
 
 ## Examples {#section-c4142a41f5cd4ff799a72fbc130c3700}
 

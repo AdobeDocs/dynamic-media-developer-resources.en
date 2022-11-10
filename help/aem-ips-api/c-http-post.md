@@ -1,6 +1,6 @@
 ---
 title: Uploading assets by way of HTTP POSTs to the UploadFile Servlet
-description: Uploading assets into Dynamic Media Classic involves one or more HTTP POST requests that set up a job to coordinate all the log activity associated with the uploaded files.
+description: Uploading assets into [!DNL Dynamic Media] Classic involves one or more HTTP POST requests that set up a job to coordinate all the log activity associated with the uploaded files.
 solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Admin

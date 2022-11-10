@@ -16,7 +16,7 @@ Use these server settings to debug trace logging.
 
 ## SV::log - Server Supervisor Trace Log File Path {#section-3697bc480ff646e79cacc2812c55ef26}
 
-Folder and base file name for Server Supervisor log files. The path can be absolute or relative to *[!DNL install_folder]*. The Server Supervisor will append a hyphen and the current date ( *[!DNL -yyyy-mm-dd]*) to the file name (before the file suffix, if any). It is recommended to send all log files to the same folder as Platform Server log files ( `PS::LogFolder`) to leverage the log file management implemented by the Platform Server ( `PS::LogDays`). Default is [!DNL logs/Supervisor.log].
+Folder and base file name for Server Supervisor log files. The path can be absolute or relative to *[!DNL install_folder]*. The Server Supervisor will append a hyphen and the current date ( *[!DNL -yyyy-mm-dd]*) to the file name (before the file suffix, if any). It is recommended to send all log files to the same folder as [!DNL Platform Server] log files ( `PS::LogFolder`) to leverage the log file management implemented by the [!DNL Platform Server] ( `PS::LogDays`). Default is [!DNL logs/Supervisor.log].
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ Log level can be 1, 2, 3, or 4. Default is 2.
 
 ## IS::Log - Image Server Debug Log File Path {#section-73a3f09b77f2446c9f82207b7d8aec39}
 
-Folder and base file name for Image Server trace log files. The path can be absolute or relative to *[!DNL install_folder]*. The ImageServer will append a hyphen and the current date ( *[!DNL -yyyy-mm-dd]*) to the file name (before the file suffix, if any). It is recommended to send Image Server log files to the same folder as Platform Server log files ( `PS::LogFolder`) to leverage the log file management implemented by the Platform Server (see `PS::LogDays`).
+Folder and base file name for Image Server trace log files. The path can be absolute or relative to *[!DNL install_folder]*. The ImageServer will append a hyphen and the current date ( *[!DNL -yyyy-mm-dd]*) to the file name (before the file suffix, if any). It is recommended to send Image Server log files to the same folder as [!DNL Platform Server] log files ( `PS::LogFolder`) to leverage the log file management implemented by the [!DNL Platform Server] (see `PS::LogDays`).
 
 >[!NOTE]
 >
@@ -38,13 +38,13 @@ Folder and base file name for Image Server trace log files. The path can be abso
 
 Log level can be 1, 2, 3, or 4 (Default is 2)
 
-Level 1 logs events related to start-up, shut-down, and Platform Server connections.
+Level 1 logs events related to start-up, shut-down, and [!DNL Platform Server] connections.
 
 Level 2 also logs connecting to and disconnecting from source images.
 
-Level 3 adds logging of requests for pixel data and delivery of same to the Platform Server.
+Level 3 adds logging of requests for pixel data and delivery of same to the [!DNL Platform Server].
 
-Level 4 records all messages received from the Platform Server.
+Level 4 records all messages received from the [!DNL Platform Server].
 
 Level 3 and 4 should be used for debug purposes only, as the log files can become very large.
 
