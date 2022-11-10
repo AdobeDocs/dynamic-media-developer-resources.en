@@ -30,7 +30,7 @@ Returns assets from IPS.
 
 ## Parameters {#section-bb9cf1ab19ea47acbd9ae58646dbe273}
 
-**Input (getAssetParam)** 
+**Input (getAssetsParam)** 
 
 <table id="table_15CDEFC7F836411C80AA122E3A701C77"> 
  <thead> 
