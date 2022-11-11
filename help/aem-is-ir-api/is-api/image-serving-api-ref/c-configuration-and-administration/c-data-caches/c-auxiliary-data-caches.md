@@ -12,4 +12,4 @@ Intermediate image data produced by nested/embedded Image Serving and Image Rend
 
 Images obtained from foreign HTTP servers are also stored in the response data cache. Such images are validated automatically with the validate utility before the cache entry is generated.
 
-The Platform Server compiles image catalog data for efficient access. This data is stored in `CS::CatalogCacheFolder`.
+The [!DNL Platform Server] compiles image catalog data for efficient access. This data is stored in `CS::CatalogCacheFolder`.

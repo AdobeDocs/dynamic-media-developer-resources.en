@@ -23,7 +23,7 @@ Each image catalog consists of a required catalog attribute file and a set of op
 
 Catalog data files are associated with image catalogs by file references in the catalog attribute file. The same catalog data file can be shared by multiple image catalogs.
 
-Catalog attribute files must have an [!DNL .ini] file suffix and must be located in the Platform Server's catalog folder ( `PlatformServer::catalog.rootPath`). Catalog data files can be located in the same folder or any other folder accessible to the Platform Server.
+Catalog attribute files must have an [!DNL .ini] file suffix and must be located in the [!DNL Platform Server]'s catalog folder ( `PlatformServer::catalog.rootPath`). Catalog data files can be located in the same folder or any other folder accessible to the [!DNL Platform Server].
 
 This document describes the Image Catalog file format for the Dynamic Media Image Serving system. The intended audience is experienced programmers and web site developers who want to leverage Dynamic Media Image Serving for a web or custom application.
 

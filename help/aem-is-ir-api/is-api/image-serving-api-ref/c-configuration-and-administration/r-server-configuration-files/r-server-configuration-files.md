@@ -34,7 +34,7 @@ This document discusses settings for the following configuration files:
   </tr> 
   <tr> 
    <td> <p> <span class="filepath"> PlatformServer.conf</span> </p> </td> 
-   <td> <p>Platform Server configuration. </p> </td> 
+   <td> <p>[!DNL Platform Server] configuration. </p> </td> 
   </tr> 
   <tr> 
    <td> <p> <span class="filepath"> catalog-service.conf</span> </p> </td> 

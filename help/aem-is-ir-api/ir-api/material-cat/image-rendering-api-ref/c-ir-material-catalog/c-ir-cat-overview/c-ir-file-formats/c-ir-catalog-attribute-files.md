@@ -26,7 +26,7 @@ Catalog attribute files consist of a set of text records, separated by a single 
 </table>
 
 * White space between tokens is optional. 
-* Records with unknown attribute names are ignored by the Platform Server. 
+* Records with unknown attribute names are ignored by the [!DNL Platform Server]. 
 * Attribute names can consist of any combination of ASCII letters, numbers, and "-", "_", and "." 
 * If the same attribute name occurs more than once in the same attribute file, the last one encountered prevails. 
 * Use '#' as the first character to mark any record as a comment which the parser ignores.

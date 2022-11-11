@@ -27,7 +27,7 @@ The reason for this error message is that Image Server has failed to allocate th
 
 **Actual disk space used by the cache folder exceeds ` *[!DNL cache.maxSize]*`set in [!DNL PlatformServer.conf]**
 
-This does not indicate a problem. The file system overhead is not included in the Platform Server's disk cache setting. The total amount reported by the system may be substantially more than the setting. It is recommended to reserve twice as much disk space as is specified in ` *[!DNL cache.maxSize]*`.
+This does not indicate a problem. The file system overhead is not included in the [!DNL Platform Server]'s disk cache setting. The total amount reported by the system may be substantially more than the setting. It is recommended to reserve twice as much disk space as is specified in ` *[!DNL cache.maxSize]*`.
 
 **Broken images in the is-docs examples**
 
@@ -37,11 +37,11 @@ The examples also assume that certain settings in [!DNL default.ini] are standar
 
 **Too many cache misses after substantial uptime**
 
-Depending on server usage, performance may be improved by increasing Platform Server disk cache size if disk space is available. Settings can be changed by manually editing configuration files. See documentation.
+Depending on server usage, performance may be improved by increasing [!DNL Platform Server] disk cache size if disk space is available. Settings can be changed by manually editing configuration files. See documentation.
 
 **Log files are taking up too much disk space**
 
-The Image Server and Platform Server start a new log file every day. By default these are placed in [!DNL *[!DNL install_root]*/ImageServing/logs]. Log file size, number of logs kept and log content can be configured. See documentation.
+The Image Server and [!DNL Platform Server] start a new log file every day. By default these are placed in [!DNL *[!DNL install_root]*/ImageServing/logs]. Log file size, number of logs kept and log content can be configured. See documentation.
 
 **If you have anti-virus software installed on your server**
 

@@ -1,6 +1,6 @@
 ---
 title: Starting or stopping on Windows
-description: Several mechanisms exist to start or stop the Image Server and Platform Server on Windows
+description: Several mechanisms exist to start or stop the Image Server and [!DNL Platform Server] on Windows
 solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
@@ -8,7 +8,7 @@ exl-id: 9c7dc74a-5965-428f-9146-6b39c46b318f
 ---
 # Starting or stopping on Windows{#starting-or-stopping-on-windows}
 
-Several mechanisms exist to start or stop the Image Server and Platform Server on Windows.
+Several mechanisms exist to start or stop the Image Server and [!DNL Platform Server] on Windows.
 
 1. Choose one of the following to start or stop Image Serving:
 

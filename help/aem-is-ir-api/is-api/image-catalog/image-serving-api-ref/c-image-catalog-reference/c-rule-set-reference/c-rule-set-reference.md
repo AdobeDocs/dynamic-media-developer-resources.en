@@ -12,7 +12,7 @@ Image Serving supports a simple request preprocessing mechanism which is based o
 
  Collections of pre-processing rules (*rule sets*) can be attached to image catalogs or the default catalog. Rules in the default catalog apply only if the request does not identify a specific main image catalog.
 
-Request pre-processing rules can modify the path and query portions of requests before they are processed by the Platform Server's parser, including manipulating the path, adding commands, changing command values, and applying templates or macros. Rules can also be used to configure and override certain security features which are normally controlled only with catalog attributes, such as request obfuscation, water-marking, as well as limiting service to specific client IP addresses.
+Request pre-processing rules can modify the path and query portions of requests before they are processed by the [!DNL Platform Server]'s parser, including manipulating the path, adding commands, changing command values, and applying templates or macros. Rules can also be used to configure and override certain security features which are normally controlled only with catalog attributes, such as request obfuscation, water-marking, as well as limiting service to specific client IP addresses.
 
 Rule sets are stored as XML document files. The relative or absolute path of the rule set file must be specified in `attribute::RuleSetFile`.
 

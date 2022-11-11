@@ -14,7 +14,7 @@ Log files are typically created and rotated on a daily basis. Older log files in
 
 Important A sufficient amount of disk space must be reserved for log files to avoid running out of disk space. 1-2 GB/day may be required for a heavily used server and default log settings.
 
-The Platform Server and the Image Server create the three types of log files described below.
+The [!DNL Platform Server] and the Image Server create the three types of log files described below.
 
 Other Image Serving components and certain other Dynamic Media packages, such as the Dynamic Media Viewers, may also create log files in the same folder. These log files are for Dynamic Media internal use and may be requested by Dynamic Media technical support for trouble-shooting purposes.
 

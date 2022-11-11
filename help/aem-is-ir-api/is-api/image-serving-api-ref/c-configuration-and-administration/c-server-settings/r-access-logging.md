@@ -14,7 +14,7 @@ Use these server settings for logging access.
 
 ## TC::directory - Log File Folder {#section-5d9e2168d4504bbe9868b7d6051c9d67}
 
-The folder to which the Platform Server writes log files. This can be an absolute path or a path relative to *`install_folder`*. Default is [!DNL  *`install_folder`*/logs].
+The folder to which the [!DNL Platform Server] writes log files. This can be an absolute path or a path relative to *`install_folder`*. Default is [!DNL  *`install_folder`*/logs].
 
 >[!NOTE]
 >
@@ -30,9 +30,9 @@ Name prefix for the file to which access log data is written. The date and the f
 
 ## TC::pattern - Access Log Pattern {#section-22775ea85cee444d8a7d7336a3b1feef}
 
-Specifies the data pattern for Platform Server access log records. The pattern string specifies variables which are substituted with their corresponding values. All other characters in the pattern string are transferred literally to the log record.
+Specifies the data pattern for [!DNL Platform Server] access log records. The pattern string specifies variables which are substituted with their corresponding values. All other characters in the pattern string are transferred literally to the log record.
 
-To use the cache warm-up utility, spaces must be used as field separators. The Platform Server replaces all spaces and '%' characters in field values with `%20` and `%25`, respectively.
+To use the cache warm-up utility, spaces must be used as field separators. The [!DNL Platform Server] replaces all spaces and '%' characters in field values with `%20` and `%25`, respectively.
 
 The following pattern variables are supported: 
 
@@ -126,11 +126,11 @@ The following pattern variables are supported:
   </tr> 
   <tr> 
    <td> <p> <span class="codeph"> %{CacheKey}r </span> </p> </td> 
-   <td> <p>Platform Server cache key (cache file folder/name). </p> </td> 
+   <td> <p>[!DNL Platform Server] cache key (cache file folder/name). </p> </td> 
   </tr> 
   <tr> 
    <td> <p> <span class="codeph"> %{CacheUse}r </span> </p> </td> 
-   <td> <p>Platform Server cache management keyword: <span class="codeph"> { REUSED | CREATED | UPDATED | REMOTE | REMOTE_CREATED | REMOTE_UPDATED | REMOTE_CACHE | VALIDATED | IGNORED | UNDEFINED } </span>. </p> </td> 
+   <td> <p>[!DNL Platform Server] cache management keyword: <span class="codeph"> { REUSED | CREATED | UPDATED | REMOTE | REMOTE_CREATED | REMOTE_UPDATED | REMOTE_CACHE | VALIDATED | IGNORED | UNDEFINED } </span>. </p> </td> 
   </tr> 
   <tr> 
    <td> <p> <span class="codeph"> %{ContentType}r </span> </p> </td> 
@@ -185,7 +185,7 @@ The following pattern variables are supported:
   </tr> 
   <tr> 
    <td> <p> <span class="codeph"> %{SendTime}r </span> </p> </td> 
-   <td> <p>The time it takes Platform Server to send response after writing data to the output stream. </p> </td> 
+   <td> <p>The time it takes [!DNL Platform Server] to send response after writing data to the output stream. </p> </td> 
   </tr> 
   <tr> 
    <td> <p> <span class="codeph"> %{Size}r </span> </p> </td> 

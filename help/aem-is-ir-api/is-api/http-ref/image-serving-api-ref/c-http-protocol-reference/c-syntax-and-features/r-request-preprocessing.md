@@ -12,7 +12,7 @@ Image Serving provides a simple request preprocessor based on regular-expression
 
 Collections of rules (rule sets) can be attached to each image catalog, including the default catalog. Rules are specified with XML-formatted files.
 
-Request preprocessing rules can modify the path and query portions of requests before they are processed by the Platform Server's parser, including manipulating the path, adding commands, changing command values, and applying templates or macros. Rules can also be used to configure and override certain security features which are normally controlled only with catalog attributes, such as request obfuscation, water-marking, as well as limiting HTTP service to specific client IP addresses.
+Request preprocessing rules can modify the path and query portions of requests before they are processed by the [!DNL Platform Server]'s parser, including manipulating the path, adding commands, changing command values, and applying templates or macros. Rules can also be used to configure and override certain security features which are normally controlled only with catalog attributes, such as request obfuscation, water-marking, as well as limiting HTTP service to specific client IP addresses.
 
 Request preprocessing rules are suitable for a variety of applications, some of which are listed below:
 

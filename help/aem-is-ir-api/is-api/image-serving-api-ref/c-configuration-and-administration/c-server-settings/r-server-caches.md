@@ -12,7 +12,7 @@ Use these server settings for server caches.
 
 ## PS::cache.rootPaths - Cache Data Folders {#section-f0aa808304d74ecdb0c3644f11906c53}
 
-The root folder(s) for the Platform Server's disk cache. One or more absolute file paths or paths relative to *[!DNL install_folder]*, separated by semicolons (;). The data for the HTTP response cache is distributed evenly across all specified folders. The caches for the auxiliary caches (compiled image catalogs and foreign image data) are located in the primary cache folder (the first folder in the list).
+The root folder(s) for the [!DNL Platform Server]'s disk cache. One or more absolute file paths or paths relative to *[!DNL install_folder]*, separated by semicolons (;). The data for the HTTP response cache is distributed evenly across all specified folders. The caches for the auxiliary caches (compiled image catalogs and foreign image data) are located in the primary cache folder (the first folder in the list).
 
 ## PS::cache.maxSize - Response Data Cache Size {#section-ed2e1e7ba4bd4e13b77bb20c4cacddb4}
 

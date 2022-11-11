@@ -27,14 +27,14 @@ Use these steps to install Image Serving for the first time on Windows.
    **Important:** The license is based on the MAC address of one of the Network Interface Cards installed on this host. If you disable, remove, or replace this card, the license is no longer recognized as valid. Be sure to obtain a license for the hardware configuration that you use for Image Serving.
 
    You may continue to install IS without a valid license and install the license later. To proceed, select **[!UICONTROL Back]** to return to the [!DNL Authentication] dialog box, and then select **[!UICONTROL Next]**.
-1. Proceed to the "Platform Server Admin Settings" page. Enter new values as needed or accept the defaults.
+1. Proceed to the "[!DNL Platform Server] Admin Settings" page. Enter new values as needed or accept the defaults.
 
    You can configure the following items:
 
    <table id="table_AA5D7674BBBE4AD4B373066AEF413FFD"> 
    <tbody> 
    <tr> 
-      <td> <p> Platform Server HTTP Connection Port </p> </td>
+      <td> <p> [!DNL Platform Server] HTTP Connection Port </p> </td>
       <td> <p>Main HTTP listening port for Image Serving and Image Rendering </p> </td>
    </tr> 
    <tr> 
@@ -42,11 +42,11 @@ Use these steps to install Image Serving for the first time on Windows.
       <td> <p>Admin Listening Port </p> </td>
    </tr> 
    <tr> 
-      <td> <p> Platform Server Cache Size in MB </p> </td>
+      <td> <p> [!DNL Platform Server] Cache Size in MB </p> </td>
       <td> <p>Initial size of the main response cache </p> </td>
    </tr>
    <tr> 
-      <td> <p> Platform Server Cache Location </p> </td>
+      <td> <p> [!DNL Platform Server] Cache Location </p> </td>
       <td> <p>PS cache folder </p> </td>
    </tr>
    </tbody>

@@ -45,7 +45,7 @@ Restart Image Serving after editing this file to ensure that your changes take e
             <stopTimeout>60</stopTimeout>
         </server>
         <server id="ps">
-            <description>Dynamic Media Platform Server</description>
+            <description>Dynamic Media [!DNL Platform Server]</description>
             <profile ref="Java32"/>
             <profile ref="PlatformServer"/>
             <profile ref="Tomcat"/>

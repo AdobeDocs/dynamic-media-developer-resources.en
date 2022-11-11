@@ -28,9 +28,9 @@ There are some restrictions and known issues that should be considered when usin
 * If the last line of text does not fit, the entire line is dropped instead of appearing as cutoff. 
 * `\slmult` and `\sl` behave differently from MS Word and `text=`, they simply take effect for the current and subsequent paragraphs. 
 
-* `\sb` applies to the first paragraph for both MS Word and `text=`, Adobe InDesign and Photoshop do not do this. 
+* `\sb` applies to the first paragraph for both MS Word and `text=`, Adobe InDesign and [!DNL Photoshop] do not do this. 
 
-* `\sa` applies to the last paragraph for both MS Word and `text=`, Adobe InDesign and Photoshop do not do this.
+* `\sa` applies to the last paragraph for both MS Word and `text=`, Adobe InDesign and [!DNL Photoshop] do not do this.
 
 ## Backwards compatibility {#section-a76842f751944f4fb664af296d064122}
 
@@ -84,15 +84,15 @@ The Digimarc library refuses to apply a Digimarc watermark to an image if one is
 
   For Image Serving non-pyramided TIFFs, increase the property value for `MaxNonDsfSize` in the [!DNL install_root/ImageServing/bin/ImageServerRegistry.xml] configuration file. 
 
-* Adobe Photoshop CS3 does not save layered PSD files by default a composite image.
+* Adobe [!DNL Photoshop] CS3 does not save layered PSD files by default a composite image.
 
   *Symptoms*:
 
-  The Adobe Photoshop CS3 layered PSD file displays as black with text stating, "This layered Photoshop file was not saved with a composite image." for the Image Serving reply image or in IPS.
+  The Adobe [!DNL Photoshop] CS3 layered PSD file displays as black with text stating, "This layered [!DNL Photoshop] file was not saved with a composite image." for the Image Serving reply image or in IPS.
 
   *Workaround*:
 
-  Save the Adobe Photoshop CS3 file with maximize compatibility turned on. 
+  Save the Adobe [!DNL Photoshop] CS3 file with maximize compatibility turned on. 
 
 * Assigning ICC Profile to a CMYK/JPEG reply image causes colors to be inverted in some browsers.*Work around*:
 
@@ -110,7 +110,7 @@ The Digimarc library refuses to apply a Digimarc watermark to an image if one is
 * 16bpc PNG images are not supported for PhotoFont text. 
 * Color corrections for PNG images with embedded color profiles use hard-coded options. Render intent is relative colorimetric and Blackpoint compensation is turned on for PhotoFont text. 
 * File-based lookup is not supported when locale translation is enabled in company [!DNL ini] file. 
-* Image Serving does not write non-closed Photoshop paths correctly. 
+* Image Serving does not write non-closed [!DNL Photoshop] paths correctly. 
 * Image Serving does not currently support processing of TIFF files exported using Adobe Media Encoder 4.0.1 or earlier. Adobe Media Encoder is included with Premiere Pro CS4, After Effects CS4 and Creative Suite 4 Production Premium. 
 * Using `text=` with self-sizing layers does not support RTF strings that use more than one setting for line justification.
 

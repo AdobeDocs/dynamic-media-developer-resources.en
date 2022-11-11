@@ -31,12 +31,12 @@ Scene 7 Image Serving consists of the following components:
    <td colname="col2"> <p>J2EE application. Provides server monitoring and email alerting. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Platform Server </p> </td> 
+   <td colname="col1"> <p>[!DNL Platform Server] </p> </td> 
    <td colname="col2"> <p>J2EE application. Manages client connections, logging, communications with other components. HTTP access at <span class="filepath"> /is/image</span>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Caching Service </p> </td> 
-   <td colname="col2"> <p>J2EE application. Manages the Platform Server's data caches. HTTP access at /is/cache. </p> </td> 
+   <td colname="col2"> <p>J2EE application. Manages the [!DNL Platform Server]'s data caches. HTTP access at /is/cache. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Image Server </p> </td> 
@@ -52,7 +52,7 @@ Scene 7 Image Serving consists of the following components:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Dynamic Media Image Rendering (aka. Render Server) </p> </td> 
-   <td colname="col2"> <p>Requires a separate license to activate. HTTP access at <span class="filepath"> /ir/render</span>. All Image Rendering functionality is integrated into the Platform Server and the Image Server, with no separate executable components. </p> </td> 
+   <td colname="col2"> <p>Requires a separate license to activate. HTTP access at <span class="filepath"> /ir/render</span>. All Image Rendering functionality is integrated into the [!DNL Platform Server] and the Image Server, with no separate executable components. </p> </td> 
   </tr> 
  </tbody> 
 </table>
