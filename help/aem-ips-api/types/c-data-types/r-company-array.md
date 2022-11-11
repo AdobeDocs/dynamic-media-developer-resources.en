@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: c3a6849d-f17b-481c-a67c-a239af0a3d10
 ---
-# CompanyArray{#companyarray}
+# [!DNL CompanyArray]{#companyarray}
 
 An array of companies
 

@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 8225b3c7-626d-41b0-acd8-a20170427292
 ---
-# TagValueUpdateFault{#tagvalueupdatefault}
+# [!DNL TagValueUpdateFault]{#tagvalueupdatefault}
 
 The error thrown when a tag value update fails.
 

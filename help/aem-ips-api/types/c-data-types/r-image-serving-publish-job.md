@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: dad6ca6b-6bfe-4788-8ba7-f6cb2a734800
 ---
-# ImageServingPublishJob{#imageservingpublishjob}
+# [!DNL ImageServingPublishJob]{#imageservingpublishjob}
 
 Publishes files to the image servers.
 

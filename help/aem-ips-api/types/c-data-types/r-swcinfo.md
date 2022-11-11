@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 585b044e-740f-4bd9-b01d-873418366662
 ---
-# SwcInfo{#swcinfo}
+# [!DNL SwcInfo]{#swcinfo}
 
 Properties of an SWC file asset.
 

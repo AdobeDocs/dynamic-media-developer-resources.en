@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: deba612e-34ea-4892-8ee7-a2d5acb96299
 ---
-# TaskItemProgressArray{#taskitemprogressarray}
+# [!DNL TaskItemProgressArray]{#taskitemprogressarray}
 
 An array of information about a task item.
 

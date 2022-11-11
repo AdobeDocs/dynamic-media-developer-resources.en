@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 44df6dfa-1485-40c2-8a14-bbf451b87641
 ---
-# AutomatedSetGenerationJob{#automatedsetgenerationjob}
+# [!DNL AutomatedSetGenerationJob]{#automatedsetgenerationjob}
 
 Group files into sets using an asset handle list array.
 
@@ -24,27 +24,27 @@ Group files into sets using an asset handle list array.
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <span class="codeph"> <span class="varname"> assetHandleArray</span> </span> </td> 
+   <td colname="col1"> <span class="codeph"> <span class="varname"> [!DNL assetHandleArray]</span> </span> </td> 
    <td colname="col2"> <span class="codeph"> types:HandleArray</span> </td> 
    <td colname="col3">An array of asset handles used to create the set. <p>By default, 1000 is the maximum number of assets you can have in the array. </p></td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <span class="codeph"> <span class="varname"> destFolder</span> </span> </td> 
+   <td colname="col1"> <span class="codeph"> <span class="varname"> [!DNL destFolder]</span> </span> </td> 
    <td colname="col2"> <span class="codeph"> xsd:string</span> </td> 
    <td colname="col3"> Path to the folder where you want to save the sets. Saves to company root folder by default. </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <span class="codeph"> <span class="varname"> readyForPublish</span> </span> </td> 
+   <td colname="col1"> <span class="codeph"> <span class="varname"> [!DNL readyForPublish]</span> </span> </td> 
    <td colname="col2"> <span class="codeph"> xsd:boolean</span> </td> 
    <td colname="col3"> Sets a flag to indicate if the assets should be published or not. </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <span class="codeph"> <span class="varname"> autoSetCreationOptions</span> </span> </td> 
+   <td colname="col1"> <span class="codeph"> <span class="varname"> [!DNL autoSetCreationOptions]</span> </span> </td> 
    <td colname="col2"> <span class="codeph"> types:AutoSetCreationOptions</span> </td> 
    <td colname="col3">An array of set generation scripts you can run on the uploaded files. See <a href="../../types/c-data-types/r-auto-set-creation-options.md#reference-58b42b39e53345aeb87cd1adc864e7ff" format="dita" scope="local"> AutoSetCreationOptions</a></td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <span class="codeph"> <span class="varname"> emailSetting</span> </span> </td> 
+   <td colname="col1"> <span class="codeph"> <span class="varname"> [!DNL emailSetting]</span> </span> </td> 
    <td colname="col2"> <span class="codeph"> xsd:string</span> </td> 
    <td colname="col3"> <p>Set up an automated email notification for the job. </p> </td> 
   </tr> 

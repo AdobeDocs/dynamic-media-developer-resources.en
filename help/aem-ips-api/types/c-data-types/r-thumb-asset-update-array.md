@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Admin
 exl-id: 58893b74-9a32-47f6-9c97-80db67ae1739
 ---
-# ThumbAssetUpdateArray{#thumbassetupdatearray}
+# [!DNL ThumbAssetUpdateArray]{#thumbassetupdatearray}
 
 An metadata updates for thumb assets.
 

@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Admin
 exl-id: 8bc6bfaa-eecf-4346-af57-25df2a471a1f
 ---
-# AssetOperationFaultArray{#assetoperationfaultarray}
+# [!DNL AssetOperationFaultArray]{#assetoperationfaultarray}
 
 An array of asset operation faults.
 

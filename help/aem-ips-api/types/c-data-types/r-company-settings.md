@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 82e6362d-beab-47ff-bb20-11047f0d8787
 ---
-# CompanySettings{#companysettings}
+# [!DNL CompanySettings]{#companysettings}
 
 Company-specific configuration settings.
 

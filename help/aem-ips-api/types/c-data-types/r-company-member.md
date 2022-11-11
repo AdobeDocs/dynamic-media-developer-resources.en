@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: bce5e6a2-b866-4a54-8e0b-9bc99bf12988
 ---
-# CompanyMember{#companymember}
+# [!DNL CompanyMember]{#companymember}
 
 Describes the different companies a user belongs to.
 

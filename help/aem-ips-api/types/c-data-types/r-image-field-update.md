@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 82bc016b-8a2b-4811-a0b4-1e2a93add3b6
 ---
-# ImageFieldUpdate{#imagefieldupdate}
+# [!DNL ImageFieldUpdate]{#imagefieldupdate}
 
 Updates the image field associated with an image asset.
 
@@ -17,7 +17,7 @@ Updates the image field associated with an image asset.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  assetHandle  | `xsd:string`  | Asset handle.  |
-|  resolution  | `xsd:double`  | Image resolution in pixels per inch.  |
-|  anchorX  | `xsd:int`  | X axis image anchor.  |
-|  anchorY  | `xsd:int`  | Y axis image anchor.  |
-|  userData  | `xsd:string`  |Value of `userData` metadata field, which is published to the image serving user data catalog field.  |
+|  [!DNL resolution]  | `xsd:double`  | Image resolution in pixels per inch.  |
+|  [!DNL anchorX]  | `xsd:int`  | X axis image anchor.  |
+|  [!DNL anchorY]  | `xsd:int`  | Y axis image anchor.  |
+|  [!DNL userData]  | `xsd:string`  |Value of `userData` metadata field, which is published to the image serving user data catalog field.  |

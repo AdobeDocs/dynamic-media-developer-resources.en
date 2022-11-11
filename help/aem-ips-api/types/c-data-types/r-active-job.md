@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 3d878207-99e4-4c75-ab12-b38a37c82fb7
 ---
-# ActiveJob{#activejob}
+# [!DNL ActiveJob]{#activejob}
 
 A job that runs on a server. Also, it is an instance of a scheduled job.
 

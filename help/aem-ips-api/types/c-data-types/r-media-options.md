@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: f37d935d-fe74-4878-8477-d2144d58d982
 ---
-# MediaOptions{#mediaoptions}
+# [!DNL MediaOptions]{#mediaoptions}
 
 Generates thumbnail image for your video.
 

@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 007fc4d8-e513-4936-a88d-4553a940cdb5
 ---
-# GenerationAttribute{#generationattribute}
+# [!DNL GenerationAttribute]{#generationattribute}
 
 A name-value pair that contains information about an asset generation step. See getGenerationInfo.
 

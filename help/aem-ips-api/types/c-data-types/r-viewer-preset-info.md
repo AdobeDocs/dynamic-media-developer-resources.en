@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API,Viewer Presets
 role: Developer,Admin
 exl-id: fe57499a-00c0-4dab-b163-ea24ea6998e8
 ---
-# ViewerPresetInfo{#viewerpresetinfo}
+# [!DNL ViewerPresetInfo]{#viewerpresetinfo}
 
 Properties of a viewer preset asset.
 

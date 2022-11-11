@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 10a1cd09-5cd8-48e6-93cf-da8d04d9941a
 ---
-# CompanyMembership{#companymembership}
+# [!DNL CompanyMembership]{#companymembership}
 
  Syntax 
 
@@ -14,6 +14,6 @@ exl-id: 10a1cd09-5cd8-48e6-93cf-da8d04d9941a
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  company  | `types:Company`  | |
-|  role  | `xsd:string`  | |
+|  [!DNL company]  | `types:Company`  | |
+|  [!DNL role]  | `xsd:string`  | |
 |  isActive  | `xsd:boolean`  | Sets the user's status for each company they belong to.  |

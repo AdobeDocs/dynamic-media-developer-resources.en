@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: b4698637-a897-47fa-92d4-4ab400e56962
 ---
-# EmailConfirmation{#emailconfirmation}
+# [!DNL EmailConfirmation]{#emailconfirmation}
 
 Sends an email to a designated recipient in response to a cdnCacheInvalidation operation.
 

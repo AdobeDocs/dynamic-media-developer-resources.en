@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 80ae6669-6fe7-45a6-9a1d-f8544dd4f878
 ---
-# JobLog{#joblog}
+# [!DNL JobLog]{#joblog}
 
 The job log after the job has run.
 
@@ -25,7 +25,7 @@ The job log after the job has run.
 |  jobSubType  | `xsd:string`  | Additional job information.  |
 |  startDate  | `xsd:dateTime`  | The start date, time, and time zone of the job.  |
 |  endDate  | `xsd:dateTime`  | The end date, time, and time zone of the job.  |
-|  description  | `xsd:string`  |A description of the job as originally specified in `submitJob`.  |
+|  [!DNL description]  | `xsd:string`  |A description of the job as originally specified in `submitJob`.  |
 |  fileSuccessCount  | `xsd:int`  | Number of files successfully processed.  |
 |  fileErrorCount  | `xsd:int`  | Number of files that caused an error.  |
 |  fileWarningCount  | `xsd:int`  | Number of files that generated a warning.  |

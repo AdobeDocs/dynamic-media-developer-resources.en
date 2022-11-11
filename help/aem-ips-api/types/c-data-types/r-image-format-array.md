@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: daf6049f-24e8-4a4b-a9b3-c7f4f2e56f81
 ---
-# ImageFormatArray{#imageformatarray}
+# [!DNL ImageFormatArray]{#imageformatarray}
 
 Array of image formats.
 

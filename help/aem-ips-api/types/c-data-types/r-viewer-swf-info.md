@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API,Viewers
 role: Developer,Admin
 exl-id: 55d5cd83-7c7d-42a5-84ab-35e0c410a8ef
 ---
-# ViewerSwfInfo{#viewerswfinfo}
+# [!DNL ViewerSwfInfo]{#viewerswfinfo}
 
 Properties of a viewer SWF file asset.
 

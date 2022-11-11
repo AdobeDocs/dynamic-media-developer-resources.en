@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: b0656d6c-0f73-4f1d-9e1f-20b07cfe44b9
 ---
-# PublishContext{#publishcontext}
+# [!DNL PublishContext]{#publishcontext}
 
 Defines a publish target for a company.
 

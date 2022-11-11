@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: e61f26c0-7a5d-4217-b940-0cfbb2ad96e9
 ---
-# JobLogArray{#joblogarray}
+# [!DNL JobLogArray]{#joblogarray}
 
 An array of job logs.
 

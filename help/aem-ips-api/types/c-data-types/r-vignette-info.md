@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: f9142082-5f49-4133-aab4-c07a14f8a16b
 ---
-# VignetteInfo{#vignetteinfo}
+# [!DNL VignetteInfo]{#vignetteinfo}
 
 Properties of a vignette asset.
 

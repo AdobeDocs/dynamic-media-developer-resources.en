@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 08125f45-38cb-45bb-bc29-c767f4d0aed9
 ---
-# ZoomTarget{#zoomtarget}
+# [!DNL ZoomTarget]{#zoomtarget}
 
 Properties of a Zoom target.
 

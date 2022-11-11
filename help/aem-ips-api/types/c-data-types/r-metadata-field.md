@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Admin
 exl-id: 97175076-9078-4bc4-b3ea-73c3ea772f6a
 ---
-# MetadataField{#metadatafield}
+# [!DNL MetadataField]{#metadatafield}
 
 User-defined field definitions for specific assets.
 

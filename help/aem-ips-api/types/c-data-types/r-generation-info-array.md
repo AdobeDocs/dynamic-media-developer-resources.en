@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 500a4ba3-57f1-4b51-afe3-91885be13d98
 ---
-# GenerationInfoArray{#generationinfoarray}
+# [!DNL GenerationInfoArray]{#generationinfoarray}
 
 An array of generation properties.
 

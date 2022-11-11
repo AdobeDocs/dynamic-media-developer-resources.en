@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Admin
 exl-id: 76f453d0-27c5-4971-b854-25fc3cefd92c
 ---
-# SetMetadataFaultArray{#setmetadatafaultarray}
+# [!DNL SetMetadataFaultArray]{#setmetadatafaultarray}
 
 An array of metadata faults.
 

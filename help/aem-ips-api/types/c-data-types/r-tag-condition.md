@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: ab1ac4b3-e91e-4c42-8b77-6e4c1d129b1a
 ---
-# TagCondition{#tagcondition}
+# [!DNL TagCondition]{#tagcondition}
 
 Defines search conditions for tag fields.
 

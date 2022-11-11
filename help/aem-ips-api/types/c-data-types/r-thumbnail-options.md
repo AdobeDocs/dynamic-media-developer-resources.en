@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 7d84590d-2227-4d9a-9cb0-0f4b1fcabd8e
 ---
-# ThumbnailOptions{#thumbnailoptions}
+# [!DNL ThumbnailOptions]{#thumbnailoptions}
 
 An optional type that lets you choose a particular video frame to use as the thumbnail image.
 

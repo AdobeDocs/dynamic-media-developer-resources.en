@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: e6e969be-0410-4be7-88d6-491d715fd137
 ---
-# AutoSetCreationOptions{#autosetcreationoptions}
+# [!DNL AutoSetCreationOptions]{#autosetcreationoptions}
 
 Automatic set generation script list for upload jobs. Assumes that every script specified for the upload is applied to all uploaded assets.
 

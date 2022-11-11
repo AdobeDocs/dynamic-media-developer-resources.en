@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 58478e7c-e3a1-4dd5-8ff9-e9752301b93c
 ---
-# ImageMapDefinition{#imagemapdefinition}
+# [!DNL ImageMapDefinition]{#imagemapdefinition}
 
 Target definition for a click action in the browser.
 

@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 4e450d28-ec79-4540-824b-b0121b72c857
 ---
-# ContextStateUpdate{#contextstateupdate}
+# [!DNL ContextStateUpdate]{#contextstateupdate}
 
 Updates publish context state for an asset.
 

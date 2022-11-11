@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: f0c51e67-6927-4b9f-9935-222e6a194c13
 ---
-# PropertySetType{#propertysettype}
+# [!DNL PropertySetType]{#propertysettype}
 
 Valid values for the PropertySetType and createPropertySetTypeParam fields.
 

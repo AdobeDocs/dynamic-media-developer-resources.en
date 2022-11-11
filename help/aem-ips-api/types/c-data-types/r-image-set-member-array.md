@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API,Image Sets
 role: Developer,Admin
 exl-id: 364f9a58-2128-4d1c-bdad-1ae2677e8e48
 ---
-# ImageSetMemberArray{#imagesetmemberarray}
+# [!DNL ImageSetMemberArray]{#imagesetmemberarray}
 
 An array of image set members.
 

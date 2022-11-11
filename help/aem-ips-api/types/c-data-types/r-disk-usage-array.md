@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 8331041e-4b8e-42b4-8bda-e40ca9489704
 ---
-# DiskUsageArray{#diskusagearray}
+# [!DNL DiskUsageArray]{#diskusagearray}
 
 An array of disk usage.
 

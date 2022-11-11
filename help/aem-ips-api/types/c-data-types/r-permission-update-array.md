@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: eeff58a6-d6c0-4772-b735-5ba91afb61fc
 ---
-# PermissionUpdateArray{#permissionupdatearray}
+# [!DNL PermissionUpdateArray]{#permissionupdatearray}
 
 An array of permission updates.
 

@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 9e7b90d6-78da-48ff-8dff-9def3c32e3bc
 ---
-# FontFieldUpdate{#fontfieldupdate}
+# [!DNL FontFieldUpdate]{#fontfieldupdate}
 
 Update information for font properties.
 
@@ -20,7 +20,7 @@ Update information for font properties.
 |  fontName  | `xsd:string`  | Font name.  |
 |  postscriptName  | `xsd:string`  | PostScript font name.  |
 |  rtfName  | `xsd:string`  | Rich Text font name.  |
-|  fontFamily  | `xsd:string`  | Font family name.  |
-|  style  | `xsd:string`  | Font style (see Font Styles for values).  |
+|  [!DNL fontFamily]  | `xsd:string`  | Font family name.  |
+|  [!DNL style]  | `xsd:string`  | Font style (see Font Styles for values).  |
 |  typeName  | `xsd:string`  | Font type name.  |
-|  type  | `xsd:string`  | Font type (see Font Types for values).  |
+|  [!DNL type]  | `xsd:string`  | Font type (see Font Types for values).  |

@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: f30eae15-793f-4e2e-a0dc-1987f0949bd6
 ---
-# RTFInfo{#rtfinfo}
+# [!DNL RTFInfo]{#rtfinfo}
 
 Properties of an RTF file asset.
 

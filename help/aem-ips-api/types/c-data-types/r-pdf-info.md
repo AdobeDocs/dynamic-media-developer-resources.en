@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 033bdcf2-ddb2-48c2-97ab-2f72cc7780c8
 ---
-# PdfInfo{#pdfinfo}
+# [!DNL PdfInfo]{#pdfinfo}
 
 PDF file properties.
 

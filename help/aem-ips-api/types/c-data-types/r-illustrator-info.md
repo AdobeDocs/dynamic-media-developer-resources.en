@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 4ff75141-4de4-4280-9f7a-901bdfc060fb
 ---
-# IllustratorInfo{#illustratorinfo}
+# [!DNL IllustratorInfo]{#illustratorinfo}
 
 Properties of an Adobe Illustrator file.
 

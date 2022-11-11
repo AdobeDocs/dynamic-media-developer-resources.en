@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Admin
 exl-id: bcc7631b-cff3-4cbb-ae3e-f6e0fb670ee0
 ---
-# MetadataConditionArray{#metadataconditionarray}
+# [!DNL MetadataConditionArray]{#metadataconditionarray}
 
 An array of metadata conditons.
 

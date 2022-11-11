@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 68762d4c-b006-4a1a-ab0b-dafde2ab0a80
 ---
-# TagFieldValuesArray{#tagfieldvaluesarray}
+# [!DNL TagFieldValuesArray]{#tagfieldvaluesarray}
 
 An array of tag field values.
 

@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: b6fe49ef-9db8-495c-9d5e-3230889f21ca
 ---
-# ServerDirectoryPublishJob{#serverdirectorypublishjob}
+# [!DNL ServerDirectoryPublishJob]{#serverdirectorypublishjob}
 
 Publishes all the images, templates, and spin sets that are marked ready to publish to a server directory.
 

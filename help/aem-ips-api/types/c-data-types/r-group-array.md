@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: b3ddc10f-e153-4498-afeb-c97d7371e3d3
 ---
-# GroupArray{#grouparray}
+# [!DNL GroupArray]{#grouparray}
 
 Array of groups.
 

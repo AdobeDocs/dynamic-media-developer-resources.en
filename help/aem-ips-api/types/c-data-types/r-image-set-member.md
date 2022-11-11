@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API,Image Sets
 role: Developer,Admin
 exl-id: f0857d98-be79-40a6-8a84-c2c7b4c423c5
 ---
-# ImageSetMember{#imagesetmember}
+# [!DNL ImageSetMember]{#imagesetmember}
 
 Assets that belong to an image set.
 

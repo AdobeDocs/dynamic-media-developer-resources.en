@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Admin
 exl-id: dfddb436-0d58-41d2-8b5e-556517ba0c32
 ---
-# AssetMove{#assetmove}
+# [!DNL AssetMove]{#assetmove}
 
 A handle to an asset and the handle to where it is moved.
 

@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: a19f0047-3219-4929-a850-93bc5757f004
 ---
-# ZipInfo{#zipinfo}
+# [!DNL ZipInfo]{#zipinfo}
 
 Properties of a ZIP archive asset.
 

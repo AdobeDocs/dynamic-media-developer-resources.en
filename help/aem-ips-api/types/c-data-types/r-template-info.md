@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 90d7f116-936d-4e04-b54f-ec9ba37d5477
 ---
-# TemplateInfo{#templateinfo}
+# [!DNL TemplateInfo]{#templateinfo}
 
 The properties of a template asset.
 

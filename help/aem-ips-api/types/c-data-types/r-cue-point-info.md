@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: d773cce9-837d-4ac1-99e6-1033eec93b55
 ---
-# CuePointInfo{#cuepointinfo}
+# [!DNL CuePointInfo]{#cuepointinfo}
 
 Properties of a CuePoint file asset.
 

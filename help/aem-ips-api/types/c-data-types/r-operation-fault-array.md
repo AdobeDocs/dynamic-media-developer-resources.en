@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: b9b92686-a378-4ba0-814b-3354344aa6d2
 ---
-# OperationFaultArray{#operationfaultarray}
+# [!DNL OperationFaultArray]{#operationfaultarray}
 
 An array of messages responding to one the URL provided in the CDN invalidation request.
 

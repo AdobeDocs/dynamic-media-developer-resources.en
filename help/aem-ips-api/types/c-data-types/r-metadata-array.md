@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Admin
 exl-id: 1833237d-4ef9-4899-8d14-317db350b223
 ---
-# MetadataArray{#metadataarray}
+# [!DNL MetadataArray]{#metadataarray}
 
 An array of metadata.
 

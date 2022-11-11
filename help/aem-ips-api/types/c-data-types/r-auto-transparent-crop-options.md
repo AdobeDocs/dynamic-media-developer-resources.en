@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 351f63a4-cc1b-4db9-93df-c21acd02e12a
 ---
-# AutoTransparentCropOptions{#autotransparentcropoptions}
+# [!DNL AutoTransparentCropOptions]{#autotransparentcropoptions}
 
 Options used when automatically cropping images based on transparency.
 

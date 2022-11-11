@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 43f7927d-6341-4d30-9a3c-de1d61b4d667
 ---
-# WindowCoveringInfo{#windowcoveringinfo}
+# [!DNL WindowCoveringInfo]{#windowcoveringinfo}
 
 Properties of a window covering file.
 

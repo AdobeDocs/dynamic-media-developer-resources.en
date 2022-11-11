@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 25199c86-1df0-41af-b210-e7668a60295e
 ---
-# LayerViewInfo{#layerviewinfo}
+# [!DNL LayerViewInfo]{#layerviewinfo}
 
 Layer view properties.
 

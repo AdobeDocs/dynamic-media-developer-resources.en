@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: b6019cf9-8c3a-48a7-b7bb-fa2191a958fa
 ---
-# PermissionSetArray{#permissionsetarray}
+# [!DNL PermissionSetArray]{#permissionsetarray}
 
  Syntax 
 

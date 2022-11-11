@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 6af68714-bdba-485c-89c4-51b79d93405a
 ---
-# MPEventArray{#mpeventarray}
+# [!DNL MPEventArray]{#mpeventarray}
 
 An array of MediaPortal events.
 

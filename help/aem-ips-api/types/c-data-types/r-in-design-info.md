@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 34e7f447-4301-4120-87b6-6f3ddd1c5fb6
 ---
-# InDesignInfo{#indesigninfo}
+# [!DNL InDesignInfo]{#indesigninfo}
 
 InDesign file properties.
 

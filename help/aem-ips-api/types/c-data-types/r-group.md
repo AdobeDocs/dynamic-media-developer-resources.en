@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 843b3fa5-93d3-43db-b6c7-194e7fa4d31a
 ---
-# Group{#group}
+# [!DNL Group]{#group}
 
 Named set of users used for assigning permissions.
 
@@ -18,5 +18,5 @@ Named set of users used for assigning permissions.
 |---|---|---|
 |  groupHandle  | `xsd:string`  | Group handle.  |
 |  companyHandle  | `xsd:string`  | Company handle.  |
-|  name  | `xsd:string`  | Group name.  |
-|  is SystemDefined  | `xsd:string`  | Whether the group is defined by the system.  |
+|  [!DNL name]  | `xsd:string`  | Group name.  |
+|  [!DNL is SystemDefined]  | `xsd:string`  | Whether the group is defined by the system.  |

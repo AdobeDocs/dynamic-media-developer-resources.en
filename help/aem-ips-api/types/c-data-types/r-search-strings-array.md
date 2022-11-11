@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 21033323-8a42-459b-a85b-97a6198dc5d4
 ---
-# SearchStringsArray{#searchstringsarray}
+# [!DNL SearchStringsArray]{#searchstringsarray}
 
 An array of search strings.
 

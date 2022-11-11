@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 28bca473-670f-4588-93fb-a6d6a692ce30
 ---
-# UploadUrlsJob{#uploadurlsjob}
+# [!DNL UploadUrlsJob]{#uploadurlsjob}
 
 Uploads URLs from the location where you want to get files.
 

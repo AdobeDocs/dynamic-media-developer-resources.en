@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: b988a430-8ed6-456b-b37b-b4185c5d3b32
 ---
-# IccProfileFieldUpdate{#iccprofilefieldupdate}
+# [!DNL IccProfileFieldUpdate]{#iccprofilefieldupdate}
 
 Update information for ICC profile properties.
 
@@ -17,6 +17,6 @@ Update information for ICC profile properties.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  assetHandle  | `xsd:string`  | Handle of the ICC Profile asset to update.  |
-|  class  | `xsd:string`  | Profile classes (see “Profile Classes” for values).  |
+|  [!DNL class]  | `xsd:string`  | Profile classes (see “Profile Classes” for values).  |
 |  colorSpace  | `xsd:string`  | Profile color space (see “Color Spaces” for values).  |
 |  pcsType  | `xsd:string`  | Profile connection space (see “Color Spaces” for values).  |

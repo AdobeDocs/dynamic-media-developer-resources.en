@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 65a72938-dffe-4448-93f6-166dd0dfdb90
 ---
-# PropertyArray{#propertyarray}
+# [!DNL PropertyArray]{#propertyarray}
 
 An array of properties.
 

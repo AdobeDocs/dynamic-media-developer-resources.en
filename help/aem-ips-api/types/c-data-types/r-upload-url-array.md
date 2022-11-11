@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: af931740-48da-47c4-af03-349517f4e2a8
 ---
-# UploadUrlArray{#uploadurlarray}
+# [!DNL UploadUrlArray]{#uploadurlarray}
 
 An array of URL for uploading assets.
 

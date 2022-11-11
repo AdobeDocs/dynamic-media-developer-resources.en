@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 998988bc-4842-4153-8b6a-af21a80c4e8b
 ---
-# WordInfo{#wordinfo}
+# [!DNL WordInfo]{#wordinfo}
 
 Properties of a Word file.
 

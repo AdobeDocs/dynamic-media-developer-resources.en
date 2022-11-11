@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 1ed5562a-90f6-483c-98ef-96bc5a5131ed
 ---
-# FontFieldUpdateArray{#fontfieldupdatearray}
+# [!DNL FontFieldUpdateArray]{#fontfieldupdatearray}
 
 An array of font field updates.
 

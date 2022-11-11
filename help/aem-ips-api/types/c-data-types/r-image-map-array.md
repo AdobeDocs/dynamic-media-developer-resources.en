@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: da823ee9-198f-4d52-b77f-ac7d21162fb5
 ---
-# ImageMapArray{#imagemaparray}
+# [!DNL ImageMapArray]{#imagemaparray}
 
 An array of image maps.
 
