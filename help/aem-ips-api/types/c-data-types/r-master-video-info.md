@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API,Video
 role: Developer,Admin
 exl-id: 7ca1ba11-56c0-4655-a144-7c9f6f17fc7c
 ---
-# MasterVideoInfo{#mastervideoinfo}
+# [!DNL MasterVideoInfo]{#mastervideoinfo}
 
 File information for primary video assets.
 

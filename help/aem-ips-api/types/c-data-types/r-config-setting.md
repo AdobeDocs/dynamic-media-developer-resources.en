@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 6d6421ce-1933-4310-b691-817392631969
 ---
-# ConfigSetting{#configsetting}
+# [!DNL ConfigSetting]{#configsetting}
 
 Used by Dynamic Media developers only.
 
@@ -16,6 +16,6 @@ Used by Dynamic Media developers only.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  name  | `xsd:string`  | Configuration name.  |
-|  value  | `xsd:string`  | Configuration value.  |
-|  handle  | `xsd:string`  | Handle to the stored configuration.  |
+|  [!DNL name]  | `xsd:string`  | Configuration name.  |
+|  [!DNL value]  | `xsd:string`  | Configuration value.  |
+|  [!DNL handle]  | `xsd:string`  | Handle to the stored configuration.  |

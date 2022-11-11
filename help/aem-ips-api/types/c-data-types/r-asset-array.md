@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Admin
 exl-id: d63fa05d-fb98-476f-afbb-8a9ab3115daa
 ---
-# AssetArray{#assetarray}
+# [!DNL AssetArray]{#assetarray}
 
 An array of assets.
 

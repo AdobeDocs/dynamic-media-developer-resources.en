@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: be85f9b7-07a0-42e9-8391-45371a1ecaa6
 ---
-# Project{#project}
+# [!DNL Project]{#project}
 
 Set of named assets.
 

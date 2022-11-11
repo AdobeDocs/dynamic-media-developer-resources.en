@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: c88202f3-df21-4026-aa92-212d3c05f242
 ---
-# CompanyMembershipUpdate{#companymembershipupdate}
+# [!DNL CompanyMembershipUpdate]{#companymembershipupdate}
 
  Syntax 
 

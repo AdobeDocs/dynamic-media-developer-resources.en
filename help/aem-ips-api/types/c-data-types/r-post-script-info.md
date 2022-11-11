@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 9d226927-3b00-4e11-b279-e866aa649477
 ---
-# PostScriptInfo{#postscriptinfo}
+# [!DNL PostScriptInfo]{#postscriptinfo}
 
  Syntax 
 

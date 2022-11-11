@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: a6986434-e274-4f5b-b8c8-d300134f8986
 ---
-# JavascriptInfo{#javascriptinfo}
+# [!DNL JavascriptInfo]{#javascriptinfo}
 
 Properties of a JavaScript file asset.
 

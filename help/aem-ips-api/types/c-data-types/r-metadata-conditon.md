@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Admin
 exl-id: 9226fb81-b3ff-41e4-a3cd-d5a40f359be6
 ---
-# MetadataCondition{#metadatacondition}
+# [!DNL MetadataCondition]{#metadatacondition}
 
 Adds a search term for use with searchAssets.
 

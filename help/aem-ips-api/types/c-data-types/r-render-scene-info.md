@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 0ecbeb51-77c5-4d17-a0e8-8f700679125a
 ---
-# RenderSceneInfo{#rendersceneinfo}
+# [!DNL RenderSceneInfo]{#rendersceneinfo}
 
 Render scene asset properties.
 

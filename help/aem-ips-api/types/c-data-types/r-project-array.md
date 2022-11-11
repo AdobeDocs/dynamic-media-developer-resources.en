@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 6f9b5a38-49b1-4975-8ab9-c129a8e07d05
 ---
-# ProjectArray{#projectarray}
+# [!DNL ProjectArray]{#projectarray}
 
 An array of projects.
 

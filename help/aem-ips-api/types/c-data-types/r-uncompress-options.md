@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 89222959-3701-4ea6-bcae-98ceec93764f
 ---
-# UnCompressOptions{#uncompressoptions}
+# [!DNL UnCompressOptions]{#uncompressoptions}
 
 Upload setting to process ZIP and TAR files as primary assets (None) or to extract and upload their contents (UnCompress).
 

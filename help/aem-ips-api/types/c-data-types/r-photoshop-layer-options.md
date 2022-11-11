@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: fae60e86-6ec5-4f19-a76f-7d179dfb5dba
 ---
-# PhotoshopLayerOptions{#photoshoplayeroptions}
+# [!DNL PhotoshopLayerOptions]{#photoshoplayeroptions}
 
 Photoshop image layer options.
 

@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 243449ab-423d-45e8-9011-8165300bc619
 ---
-# ZipEntryArray{#zipentryarray}
+# [!DNL ZipEntryArray]{#zipentryarray}
 
 An array of ZIP entries.
 

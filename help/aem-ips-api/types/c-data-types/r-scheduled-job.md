@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: c0084d10-ce38-4a01-9246-aaec44abc8eb
 ---
-# ScheduledJob{#scheduledjob}
+# [!DNL ScheduledJob]{#scheduledjob}
 
 A job that is scheduled to run.
 

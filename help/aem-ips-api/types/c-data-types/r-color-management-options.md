@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 55535bb0-544d-4a93-9ff4-235f22b8d45a
 ---
-# ColorManagementOptions{#colormanagementoptions}
+# [!DNL ColorManagementOptions]{#colormanagementoptions}
 
 Options specified during upload. Affects how color is managed for the upload.
 

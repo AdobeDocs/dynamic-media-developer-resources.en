@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 5bf316ec-7f92-4384-8a4e-b80610e5839b
 ---
-# PdfSettingsInfo{#pdfsettingsinfo}
+# [!DNL PdfSettingsInfo]{#pdfsettingsinfo}
 
 The properties of a PDF settings file asset.
 

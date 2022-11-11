@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: f71f57db-6717-4a27-b275-19bc4cf59ea4
 ---
-# ZipEntry{#zipentry}
+# [!DNL ZipEntry]{#zipentry}
 
 An entry in a ZIP file.
 

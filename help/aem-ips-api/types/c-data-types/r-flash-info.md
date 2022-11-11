@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: df49d1b9-aedd-4c72-b727-682cea74317e
 ---
-# FlashInfo{#flashinfo}
+# [!DNL FlashInfo]{#flashinfo}
 
 Properties of a Flash file.
 

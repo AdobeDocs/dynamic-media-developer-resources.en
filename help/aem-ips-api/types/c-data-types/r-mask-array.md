@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: a0539a30-051c-4442-abae-99588bdfff10
 ---
-# MaskArray{#maskarray}
+# [!DNL MaskArray]{#maskarray}
 
 An array of masks.
 

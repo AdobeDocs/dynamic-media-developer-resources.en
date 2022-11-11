@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: a21b9d66-14bd-4983-9eb9-54ab1be1261e
 ---
-# PermissionUpdate{#permissionupdate}
+# [!DNL PermissionUpdate]{#permissionupdate}
 
 Describes permission changes.
 

@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 38821d96-d0d2-4f3b-9c31-15d6a8d66e9e
 ---
-# WatermarkInfo{#watermarkinfo}
+# [!DNL WatermarkInfo]{#watermarkinfo}
 
 Properties of a watermark asset.
 

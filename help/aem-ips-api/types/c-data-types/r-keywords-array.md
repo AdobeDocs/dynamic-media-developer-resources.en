@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: ec87de9e-f3d0-404e-b16f-4c5d373e5a6f
 ---
-# KeywordsArray{#keywordsarray}
+# [!DNL KeywordsArray]{#keywordsarray}
 
 An array of keywords.
 

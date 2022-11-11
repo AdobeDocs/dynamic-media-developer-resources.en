@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 74b44b1a-a92e-4c97-a93b-0cd4552f78ec
 ---
-# Folder{#folder}
+# [!DNL Folder]{#folder}
 
 Hierarchical file or asset storage object. Folders can contain one (or more) subfolders.
 
@@ -17,7 +17,7 @@ Hierarchical file or asset storage object. Folders can contain one (or more) sub
 |  Name  | Type  | Description  |
 |---|---|---|
 |  folderHandle  | `xsd:string`  | Folder handle.  |
-|  path  | `xsd:string`  | Folder path.  |
+|  [!DNL path]  | `xsd:string`  | Folder path.  |
 |  lastModified  | `xsd:dateTime`  | Last modification date.  |
 |  childLastModified  | `xsd:dateTime`  | Last modification date for subfolders and folder child assets.  |
 |  permissionsSetHandle  | `xsd:string`  | Folder permissions handle.  |

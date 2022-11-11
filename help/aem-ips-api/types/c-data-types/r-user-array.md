@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 0b06cc8e-5bc7-4d0f-bfdc-24d53cb5deea
 ---
-# UserArray{#userarray}
+# [!DNL UserArray]{#userarray}
 
 An array of users.
 

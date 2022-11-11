@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: b287b822-7994-45af-8ffd-95f1dd12a782
 ---
-# PublishHistory{#publishhistory}
+# [!DNL PublishHistory]{#publishhistory}
 
 Publication history of an asset.
 

@@ -242,8 +242,8 @@ Added additional options to `UploadDirectoryJob` and `UploadUrlsJob` to control 
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1" morerows="1"> <p> <span class="codeph"> PostScriptOptions </span> </p> </td> 
-   <td colname="col2"> <p> <span class="codeph"> process </span> </p> </td> 
+   <td colname="col1" morerows="1"> <p> <span class="codeph"> [!DNL PostScriptOptions] </span> </p> </td> 
+   <td colname="col2"> <p> <span class="codeph"> [!DNL process] </span> </p> </td> 
    <td colname="col3"> <p> 
      <ul id="ul_6BBFF026010F4913BD632B3312E17C4B"> 
       <li id="li_AA1131A68FB242C9A1380DE6F8F318C7"> <p> <span class="codeph"> None </span> </p> </li> 
@@ -261,7 +261,7 @@ Added additional options to `UploadDirectoryJob` and `UploadUrlsJob` to control 
    <td colname="col4"> <p>Takes effect when rasterizing the file into an image. It creates a transparent background if the original file is defined in this way for overlaying logos. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1" morerows="3"> <p> <span class="codeph"> IllustratorOptions </span> </p> </td> 
+   <td colname="col1" morerows="3"> <p> <span class="codeph"> [!DNL IllustratorOptions] </span> </p> </td> 
    <td colname="col2"> <p> <span class="codeph"> process </span> </p> </td> 
    <td colname="col3"> <p> 
      <ul id="ul_C2F1000A01DE41678A8E1DDE0C8A0E97"> 
@@ -275,12 +275,12 @@ Added additional options to `UploadDirectoryJob` and `UploadUrlsJob` to control 
      </ul> </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col2"> <p> <span class="codeph"> resolution </span> </p> </td> 
+   <td colname="col2"> <p> <span class="codeph"> [!DNL resolution] </span> </p> </td> 
    <td colname="col3"> <p> <span class="codeph"> &lt;integer&gt; </span> </p> </td> 
    <td colname="col4"> <p>Rasterizing resolution. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col2"> <p> <span class="codeph"> colorspace </span> </p> </td> 
+   <td colname="col2"> <p> <span class="codeph"> [!DNL colorspace] </span> </p> </td> 
    <td colname="col3"> <p> </p> </td> 
    <td colname="col4"> <p>Target color space for rendering. </p> </td> 
   </tr> 
@@ -304,12 +304,12 @@ Added additional options to `UploadDirectoryJob` and `UploadUrlsJob` to control 
      </ul> </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col2"> <p> <span class="codeph"> resolution </span> </p> </td> 
+   <td colname="col2"> <p> <span class="codeph"> [!DNL resolution] </span> </p> </td> 
    <td colname="col3"> <p> <span class="codeph"> &lt;integer&gt; </span> </p> </td> 
    <td colname="col4"> <p>Rasterizing resolution. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col2"> <p> <span class="codeph"> colorspace </span> </p> </td> 
+   <td colname="col2"> <p> <span class="codeph"> [!DNL colorspace] </span> </p> </td> 
    <td colname="col3"> <p> </p> </td> 
    <td colname="col4"> <p>Target color space for rendering. </p> </td> 
   </tr> 
@@ -339,19 +339,19 @@ Modified the `webservice.gzip.response` configuration property to take one of th
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p> <span class="codeph"> never </span> </p> </td> 
+   <td colname="col1"> <p> <span class="codeph"> [!DNL never] </span> </p> </td> 
    <td colname="col2"> <p>Do not gzip response. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p> <span class="codeph"> soap </span> </p> </td> 
+   <td colname="col1"> <p> <span class="codeph"> [!DNL soap] </span> </p> </td> 
    <td colname="col2"> <p>Gzip response only if authHeader/gzipResponse is true. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p> <span class="codeph"> accept </span> </p> </td> 
+   <td colname="col1"> <p> <span class="codeph"> [!DNL accept] </span> </p> </td> 
    <td colname="col2"> <p>Gzip if authHeader/gzipResponse is true, or no gzipResponse header is present and HTTP Accept-Encoding header includes gzip. (Default). </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p> <span class="codeph"> always </span> </p> </td> 
+   <td colname="col1"> <p> <span class="codeph"> [!DNL always] </span> </p> </td> 
    <td colname="col2"> <p>Always gzip response, regardless of header values. Use this value only for debugging purposes. </p> </td> 
   </tr> 
  </tbody> 

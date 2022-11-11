@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 0d238e6a-175d-4efc-b8a9-6b8bc3b65c34
 ---
-# ExcludeByproductArray{#excludebyproductarray}
+# [!DNL ExcludeByproductArray]{#excludebyproductarray}
 
 Supports byproduct filtering in the searchAssets operation.
 

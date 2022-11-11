@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 7b240693-8b3b-4765-9cd9-a6125da77f54
 ---
-# ConfigSettingArray{#configsettingarray}
+# [!DNL ConfigSettingArray]{#configsettingarray}
 
 An array of configuration settings.
 

@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 140c9261-e590-4889-9be4-29afd19ffa86
 ---
-# PDFOptions{#pdfoptions}
+# [!DNL PDFOptions]{#pdfoptions}
 
 PDF file options.
 

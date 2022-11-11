@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 39146b70-ecd8-42ce-a171-0fb7ac7dd025
 ---
-# PermissonSet{#permissonset}
+# [!DNL PermissonSet]{#permissonset}
 
  Syntax 
 

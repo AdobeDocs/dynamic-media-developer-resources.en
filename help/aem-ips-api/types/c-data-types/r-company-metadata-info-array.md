@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Admin
 exl-id: 424a2f52-9cc2-46d6-817b-6ea64f46a229
 ---
-# CompanyMetadataInfoArray{#companymetadatainfoarray}
+# [!DNL CompanyMetadataInfoArray]{#companymetadatainfoarray}
 
 An array of CompanyMetadataInfo elements.
 

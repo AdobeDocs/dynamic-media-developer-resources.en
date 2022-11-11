@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 29d3dcfe-fddb-4806-b2aa-b96e9bbcff98
 ---
-# AutoColorCropOptions{#autocolorcropoptions}
+# [!DNL AutoColorCropOptions]{#autocolorcropoptions}
 
 Options for automatically cropping images based on color.
 

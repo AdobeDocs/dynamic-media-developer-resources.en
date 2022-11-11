@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: a3c4c1cd-0fcc-4e7a-a4aa-884d0ce2f208
 ---
-# DiskUsage{#diskusage}
+# [!DNL DiskUsage]{#diskusage}
 
 Disk space statistics for an asset or folder.
 

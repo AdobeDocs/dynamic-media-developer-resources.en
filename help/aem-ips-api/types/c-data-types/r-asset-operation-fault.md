@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Admin
 exl-id: c97fc35b-76f8-4ff7-a1ae-e5f9749f376c
 ---
-# AssetOperationFault{#assetoperationfault}
+# [!DNL AssetOperationFault]{#assetoperationfault}
 
 Contains information about warning or error conditions generated during a batch asset operation. The code and reason fields correspond to the fault message fields that would have been thrown for the equivalent non-batch operation.
 

@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Admin
 exl-id: 49c6f355-4b5f-4b98-9a58-5732d56fdccb
 ---
-# SetMetadataFault{#setmetadatafault}
+# [!DNL SetMetadataFault]{#setmetadatafault}
 
 Warning or error details for a sing update in a batchSetAssetMetadata operation.
 

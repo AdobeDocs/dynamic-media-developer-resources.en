@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 76622042-0fb4-4ec4-834b-d64d79af6a94
 ---
-# TagValueUpdateFaultArray{#tagvalueupdatefaultarray}
+# [!DNL TagValueUpdateFaultArray]{#tagvalueupdatefaultarray}
 
 An array of tag value update faults.
 

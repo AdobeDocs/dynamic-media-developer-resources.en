@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 9f5a1d4a-aa23-4761-b21f-0cf16fd2c584
 ---
-# TagConditionArray{#tagconditionarray}
+# [!DNL TagConditionArray]{#tagconditionarray}
 
 An array of tag conditions.
 

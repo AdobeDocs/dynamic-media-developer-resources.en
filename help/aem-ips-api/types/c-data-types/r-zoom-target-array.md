@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: eb397fdc-39e3-4fa2-8891-4c692cbaa9a3
 ---
-# ZoomTargetArray{#zoomtargetarray}
+# [!DNL ZoomTargetArray]{#zoomtargetarray}
 
 An array of Zoom targets.
 

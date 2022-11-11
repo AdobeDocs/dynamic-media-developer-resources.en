@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: b3a65c0c-b2c9-48da-9233-5fbcdd55d986
 ---
-# CssInfo{#cssinfo}
+# [!DNL CssInfo]{#cssinfo}
 
 Properties of an CSS file asset.
 

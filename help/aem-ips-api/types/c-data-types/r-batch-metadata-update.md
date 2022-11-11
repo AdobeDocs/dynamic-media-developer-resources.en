@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Admin
 exl-id: 07998708-f7c2-42bc-b128-c81f86fd1760
 ---
-# BatchMetadataUpdate{#batchmetadataupdate}
+# [!DNL BatchMetadataUpdate]{#batchmetadataupdate}
 
 Updates metadata in batch mode.
 

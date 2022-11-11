@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 9aac2973-bbcb-4914-9bf9-203f0357527c
 ---
-# GenerationInfo{#generationinfo}
+# [!DNL GenerationInfo]{#generationinfo}
 
 PostScript file properties.
 
@@ -16,7 +16,7 @@ PostScript file properties.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  engine  | `xsd:string`  | Generation engine used (see "Generation Info" for values).  |
-|  originator  | `types:Asset`  | Asset record of the primary asset used in the generation.  |
-|  generated  | `types:Asset`  | Asset record of the generated asset.  |
+|  [!DNL engine]  | `xsd:string`  | Generation engine used (see "Generation Info" for values).  |
+|  [!DNL originator]  | `types:Asset`  | Asset record of the primary asset used in the generation.  |
+|  [!DNL generated]  | `types:Asset`  | Asset record of the generated asset.  |
 |  attributeArray  | `types:GenerationAttributeArray`  | Array of attributes associated with the generation process.  |

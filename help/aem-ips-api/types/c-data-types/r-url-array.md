@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 61225fb2-7c25-4f9c-82c9-02bf69995028
 ---
-# UrlArray{#urlarray}
+# [!DNL UrlArray]{#urlarray}
 
 An array of URLS for invalidating CDN cache.
 

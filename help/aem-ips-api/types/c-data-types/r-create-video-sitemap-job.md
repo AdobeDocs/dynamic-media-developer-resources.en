@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 2af7c949-46cf-4570-9043-1b6296a2e467
 ---
-# CreateVideoSitemapJob{#createvideositemapjob}
+# [!DNL CreateVideoSitemapJob]{#createvideositemapjob}
 
 Creates a video site map.
 

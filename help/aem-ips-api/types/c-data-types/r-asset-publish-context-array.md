@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Admin
 exl-id: 9eefcc8a-4779-4d03-8290-d1482fa09f58
 ---
-# AssetPublishContextArray{#assetpublishcontextarray}
+# [!DNL AssetPublishContextArray]{#assetpublishcontextarray}
 
  Syntax 
 

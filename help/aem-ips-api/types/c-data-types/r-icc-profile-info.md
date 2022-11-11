@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 10e04ec2-14af-4d15-9970-f47a2407d077
 ---
-# IccProfileInfo{#iccprofileinfo}
+# [!DNL IccProfileInfo]{#iccprofileinfo}
 
 Properties of an ICC profile asset.
 

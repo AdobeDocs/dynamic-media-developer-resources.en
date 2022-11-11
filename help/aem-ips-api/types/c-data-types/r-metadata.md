@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Admin
 exl-id: 62e3e215-31ea-49fd-937e-d136fdf84aff
 ---
-# Metadata{#metadata}
+# [!DNL Metadata]{#metadata}
 
 A metadata field returned by searchAssets.
 

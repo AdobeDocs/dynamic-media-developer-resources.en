@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: ac86ddcb-dc10-44b8-b007-4f54f7367c41
 ---
-# TaskProgressArray{#taskprogressarray}
+# [!DNL TaskProgressArray]{#taskprogressarray}
 
 A task progress array. Contains information about video transcoding tasks.
 

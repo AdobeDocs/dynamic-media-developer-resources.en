@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 91e760c5-2c6e-47e6-9429-d37ba9d84cdb
 ---
-# MaskInfo{#maskinfo}
+# [!DNL MaskInfo]{#maskinfo}
 
 Mask file properties.
 

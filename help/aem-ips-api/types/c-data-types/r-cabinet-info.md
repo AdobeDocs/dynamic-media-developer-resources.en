@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 78ec00cd-c410-412c-970f-96226563a45a
 ---
-# CabinetInfo{#cabinetinfo}
+# [!DNL CabinetInfo]{#cabinetinfo}
 
 Properties of a cabinet asset.
 

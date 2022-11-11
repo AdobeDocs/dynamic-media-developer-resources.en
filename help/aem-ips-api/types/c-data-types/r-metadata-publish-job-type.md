@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Admin
 exl-id: b90d27c0-9398-4597-bcce-3c36a371df22
 ---
-# MetadataPublishJobType{#metadatapublishjobtype}
+# [!DNL MetadataPublishJobType]{#metadatapublishjobtype}
 
 Publishes metadata to the metadata server.
 

@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Admin
 exl-id: a3d4dd67-07df-47bf-b9e7-1379290654ff
 ---
-# CompanyMetadataInfo{#companymetadatainfo}
+# [!DNL CompanyMetadataInfo]{#companymetadatainfo}
 
 Holds information about a company metadata object like ID, name, and type.
 
@@ -16,5 +16,5 @@ Holds information about a company metadata object like ID, name, and type.
 
 |  Name  | Type  | Description  |
 |---|---|---|
-|  Code Phrase  | `Code Phrase`  | |
-|  Code Phrase  | `Code Phrase`  | |
+|  [!DNL Code Phrase]  | `Code Phrase`  | |
+

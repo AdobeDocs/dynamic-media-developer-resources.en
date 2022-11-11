@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: fd2093b5-9856-4f31-8853-1027194a71df
 ---
-# PostScriptOptions{#postscriptoptions}
+# [!DNL PostScriptOptions]{#postscriptoptions}
 
 PostScript file options.
 

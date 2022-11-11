@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 0e18096c-0666-400b-a562-b6d183bd3334
 ---
-# Mask{#mask}
+# [!DNL Mask]{#mask}
 
 Masks part of an image. The mask is always associated with the image. Get a mask from ImageInfo.
 

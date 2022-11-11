@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: aed8cf2e-5a09-43ff-9420-0d0d54059515
 ---
-# KnockoutBackgroundOptions{#knockoutbackgroundoptions}
+# [!DNL KnockoutBackgroundOptions]{#knockoutbackgroundoptions}
 
 Mask (knock-out) the background for selected images. This data type lets you overlay them in other layers with a transparency outside of the subject image. 
 

@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 7c7675e5-d85c-4320-8b7a-a49af24ac4ff
 ---
-# Property{#property}
+# [!DNL Property]{#property}
 
 A name and value pair.
 

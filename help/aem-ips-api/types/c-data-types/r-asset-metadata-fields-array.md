@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API,Metadata,Asset Management
 role: Developer,Admin
 exl-id: 6353afd0-c564-4866-84ee-d29a5e2d8a86
 ---
-# AssetMetadataFieldsArray{#assetmetadatafieldsarray}
+# [!DNL AssetMetadataFieldsArray]{#assetmetadatafieldsarray}
 
 An array of AssetMetadataFields. Used by getAssetMetadataFields to return all asset metadata fields in a single call with results grouped by asset type.
 

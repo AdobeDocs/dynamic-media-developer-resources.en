@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API,Video
 role: Developer,Admin
 exl-id: 4b295025-6e8d-4329-87c1-63633bf26129
 ---
-# VideoPublishJob{#videopublishjob}
+# [!DNL VideoPublishJob]{#videopublishjob}
 
 Publishes files to the configured video publish servers.
 

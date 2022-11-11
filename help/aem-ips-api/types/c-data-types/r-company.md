@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: e831a081-145a-4fb4-a617-7eecea8d40ed
 ---
-# Company{#company}
+# [!DNL Company]{#company}
 
 Represents a company.
 
@@ -17,6 +17,6 @@ Represents a company.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  companyHandle  | `xsd:string`  | Company handle.  |
-|  name  | `xsd:string`  | Company name.  |
+|  [!DNL name]  | `xsd:string`  | Company name.  |
 |  rootPath  | `xsd:string`  | Root path of the company.  |
-|  expires  | `xsd:dateTime`  | Date and time the company expires.  |
+|  [!DNL expires]  | `xsd:dateTime`  | Date and time the company expires.  |

@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Admin
 exl-id: b6078246-54e1-4119-b4f8-ba6a28577cff
 ---
-# ReprocessAssetsJob{#reprocessassetsjob}
+# [!DNL ReprocessAssetsJob]{#reprocessassetsjob}
 
 Job type to allow reprocessing of previously uploaded primary files, including reripping PDFs and reoptimizing images.
 

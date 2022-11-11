@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: e7de5cf2-4a2c-41e5-ba2b-7052bb5e8101
 ---
-# FolderArray{#folderarray}
+# [!DNL FolderArray]{#folderarray}
 
 An array of folders.
 

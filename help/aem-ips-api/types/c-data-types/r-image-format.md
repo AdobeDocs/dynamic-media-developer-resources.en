@@ -6,7 +6,7 @@ feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 570ada53-17d0-4c8a-8843-ace29de92bf3
 ---
-# ImageFormat{#imageformat}
+# [!DNL ImageFormat]{#imageformat}
 
 Unstructured named set of image output settings.
 
