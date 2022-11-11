@@ -30,7 +30,7 @@ A minimum traffic alert is sent when the average number of requests per second r
 
 ## AS::monitorAlertGenerator.minFreeHeapSpace -Free Heap Space Threshold {#section-ce6705045f6842769030ccb1894594cc}
 
-Specifies the minimum free Java heap space. A priority alert is sent immediately after a Java garbage collection cycle when the free heap space is below this threshold. 50 MB is recommended for safe operation of the Platform Server. Keeping the free heap space above this value reduces the frequency of garbage collection cycles, which may improve overall server performance. Integer value in bytes, 0 or larger.
+Specifies the minimum free Java heap space. A priority alert is sent immediately after a Java garbage collection cycle when the free heap space is below this threshold. 50 MB is recommended for safe operation of the [!DNL Platform Server]. Keeping the free heap space above this value reduces the frequency of garbage collection cycles, which may improve overall server performance. Integer value in bytes, 0 or larger.
 
 ## AS::monitorAlertGenerator.maxOverlap - Maximum Number of Concurrent Requests {#section-ddc6925bff944758ab19bcc9cf3f2589}
 

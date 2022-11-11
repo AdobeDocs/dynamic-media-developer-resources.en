@@ -12,7 +12,7 @@ This documentation explains how to administer the Dynamic Media Image Rendering 
 
 Image Rendering consists of two major components:
 
-* A Java package is deployed with the Image Serving Platform Server and manages client connection, caching, material catalogs. 
+* A Java package is deployed with the Image Serving [!DNL Platform Server] and manages client connection, caching, material catalogs. 
 * A native code module is deployed as an extension library for the Image Server and implements the core image rendering functionalities.
 
 Both components are collectively called the *Render Server*.

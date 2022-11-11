@@ -12,7 +12,7 @@ General Server Settings
 
 ## TC::PsPort - Main Listening Port {#section-d31d3051aa994a76b60b70c3d9f7e89f}
 
-Specifies the main listening port for the Platform Server. This port is also used to access the documentation and example pages for Image Serving, Image Rendering, and the Dynamic Media Viewers (if installed).
+Specifies the main listening port for the [!DNL Platform Server]. This port is also used to access the documentation and example pages for Image Serving, Image Rendering, and the Dynamic Media Viewers (if installed).
 
 ## IS::CacheServerUrl - Caching Service Root Url {#section-bcca227a1f91453b834db4ea050968e2}
 

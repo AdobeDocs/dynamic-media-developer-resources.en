@@ -14,7 +14,7 @@ If a particular attribute cannot be found in a specific image catalog, the serve
 
 In addition, the default catalog provides all attributes and data records (macros, fonts, ICC profiles, request pre-processing rules) when no specific image catalog is involved in an operation.
 
-For correct functioning of the Platform Server the catalog attributes file for the default catalog must be named [!DNL default.ini], must always exist in the catalog folder, and must be fully populated with all required attributes, excluding `attribute::RootId` and the references to the various catalog data files, which are all optional.
+For correct functioning of the [!DNL Platform Server] the catalog attributes file for the default catalog must be named [!DNL default.ini], must always exist in the catalog folder, and must be fully populated with all required attributes, excluding `attribute::RootId` and the references to the various catalog data files, which are all optional.
 
 >[!NOTE]
 >

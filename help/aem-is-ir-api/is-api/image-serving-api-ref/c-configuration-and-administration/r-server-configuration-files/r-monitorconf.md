@@ -10,7 +10,7 @@ exl-id: 09c30680-dd9f-4744-b5ec-105721058883
 
 Contains settings for the monitoring/alerting system.
 
-This file is a JAVA properties file. Care must be taken to follow the appropriate conventions; otherwise the Platform Server may fail to start. Note especially that a double backslash '\\' or a single forward slash '/' must be used instead of a backslash '\' in Windows file paths, since the backslash is used as an escape character in this type of file.
+This file is a JAVA properties file. Care must be taken to follow the appropriate conventions; otherwise the [!DNL Platform Server] may fail to start. Note especially that a double backslash '\\' or a single forward slash '/' must be used instead of a backslash '\' in Windows file paths, since the backslash is used as an escape character in this type of file.
 
 Changes to this file take effect shortly after the file is saved.
 

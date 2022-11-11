@@ -18,6 +18,6 @@ Keep in mind that deleting or replacing a source data file only causes the Rende
 
 The Render Server must be stopped to replace other data files.
 
-Platform Server cache entries are automatically invalidated when material files or vignettes are replaced. Replacing ICC profile files does not invalidate caches.
+[!DNL Platform Server] cache entries are automatically invalidated when material files or vignettes are replaced. Replacing ICC profile files does not invalidate caches.
 
 To avoid the complications of replacing files, it is recommended to give a replacement file a new name and update the corresponding catalog entries. This allows replacing any data file while the server is live and causes server cache entries to become stale automatically with no additional intervention. This approach can be used for all data files managed by image catalogs.

@@ -70,7 +70,7 @@ After the installation, the folder hierarchy in install_root includes the files 
    <td colname="col1"> </td> 
    <td colname="col2"> </td> 
    <td colname="col3"> <p> <span class="filepath"> PsLayers (.exe) </span> </p> </td> 
-   <td colname="col4"> <p>Photoshop text layer variables extraction. </p> </td> 
+   <td colname="col4"> <p>[!DNL Photoshop] text layer variables extraction. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> </td> 

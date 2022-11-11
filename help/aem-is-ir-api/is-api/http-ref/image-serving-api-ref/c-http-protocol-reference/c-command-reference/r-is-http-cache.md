@@ -1,5 +1,5 @@
 ---
-description: Cache Control. Allows selectively disabling client-side caching (browser, proxy servers, network caching systems) and caching in the internal Platform Server cache.
+description: Cache Control. Allows selectively disabling client-side caching (browser, proxy servers, network caching systems) and caching in the internal [!DNL Platform Server] cache.
 solution: Experience Manager
 title: cache
 feature: Dynamic Media Classic,SDK/API
@@ -8,7 +8,7 @@ exl-id: 8b631836-e5a8-4a56-a09a-35bb2474cc84
 ---
 # cache{#cache}
 
-Cache Control. Allows selectively disabling client-side caching (browser, proxy servers, network caching systems) and caching in the internal Platform Server cache.
+Cache Control. Allows selectively disabling client-side caching (browser, proxy servers, network caching systems) and caching in the internal [!DNL Platform Server] cache.
 
  `cache= *`cacheControl`*`
 

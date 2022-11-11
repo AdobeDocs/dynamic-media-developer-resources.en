@@ -28,6 +28,6 @@ The Image Server is installed as a Linux® daemon.
 
 [!DNL  http:// *[!DNL server:port]*/ir/render]
 
-   In the responses, check for the presence of items starting with `imageServer`, which indicate that the Platform Server could successfully communicate with the Image Server.
+   In the responses, check for the presence of items starting with `imageServer`, which indicate that the [!DNL Platform Server] could successfully communicate with the Image Server.
 
 >Additional verification can be performed using the sample pages of the Documentation and Demo packages, if installed.

@@ -26,9 +26,9 @@ Maximum SVG source file size in kBytes. The server returns an error when an atte
 
 Limits the size of images SVGRender can produce. Integer value larger than 0 in millions of pixels. An error is returned if a render operation would exceed the size limit. Default is 4.
 
-## PS::svgProvider.port - Platform Server Listening Port {#section-f7e42a96c2dd4523b46f0557c239e659}
+## PS::svgProvider.port - [!DNL Platform Server] Listening Port {#section-f7e42a96c2dd4523b46f0557c239e659}
 
-The port used for SvgRender to obtain images from the Platform Server to be embedded in SVG renderings.
+The port used for SvgRender to obtain images from the [!DNL Platform Server] to be embedded in SVG renderings.
 
 Important For correct functioning of the SVGRender component, this configuration option must be set to the same value as `TC::PsPort`.
 

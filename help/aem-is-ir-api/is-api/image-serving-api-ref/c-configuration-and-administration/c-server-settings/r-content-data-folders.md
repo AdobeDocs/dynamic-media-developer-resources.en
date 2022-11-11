@@ -20,7 +20,7 @@ The location of static content source data which is intended to be delivered via
 
 Multiple values can be specified-separated by semi-colons-to distribute static contents across multiple file systems. Typically set to the same values as `IS::RootPath`.
 
-The Platform Server tries the root paths in the order specified until the requested file is found.
+The [!DNL Platform Server] tries the root paths in the order specified until the requested file is found.
 
 >[!NOTE]
 >

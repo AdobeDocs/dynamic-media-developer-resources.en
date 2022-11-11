@@ -22,13 +22,13 @@ Both a 32- and a 64-bit version of the Image Server are available for Linux. Spe
 >
 >64-bit mode is not supported on Windows. Only `ImageServer32` may be specified. Otherwise Image Serving will not start.
 
-## SV::PsHeapSize - Platform Server Heap Size {#section-fd83715948764aeda58d6b3a9f9f8be9}
+## SV::PsHeapSize - [!DNL Platform Server] Heap Size {#section-fd83715948764aeda58d6b3a9f9f8be9}
 
-The Java heap size for the Platform Server. Defaults to " `512m`" (512 Mbytes).
+The Java heap size for the [!DNL Platform Server]. Defaults to " `512m`" (512 Mbytes).
 
 ## IS::TcpPort, PS::isConnection.port - Image Server Listening Port {#section-5421bfd2ca2a4a979faf812b6fdb2887}
 
-Specifies the port used for communication between the Platform Server and the Image Server. Make sure to specify a port number which is not used otherwise on the host system.
+Specifies the port used for communication between the [!DNL Platform Server] and the Image Server. Make sure to specify a port number which is not used otherwise on the host system.
 
 >[!NOTE]
 >

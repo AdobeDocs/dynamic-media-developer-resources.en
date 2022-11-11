@@ -10,7 +10,7 @@ exl-id: 55e55381-3828-4937-8746-a74e82d6ca38
 
 Contains settings related to managing image catalogs.
 
-This file is a JAVA properties file. Care must be taken to follow the appropriate conventions; otherwise the Platform Server may fail to start. Use a double backslash '\\' or a single forward slash '/' instead of a backslash '\' in Windows file paths. The backslash is used as an escape character in this type of file.
+This file is a JAVA properties file. Care must be taken to follow the appropriate conventions; otherwise the [!DNL Platform Server] may fail to start. Use a double backslash '\\' or a single forward slash '/' instead of a backslash '\' in Windows file paths. The backslash is used as an escape character in this type of file.
 
 Changes to this file take effect shortly after the file is saved.
 

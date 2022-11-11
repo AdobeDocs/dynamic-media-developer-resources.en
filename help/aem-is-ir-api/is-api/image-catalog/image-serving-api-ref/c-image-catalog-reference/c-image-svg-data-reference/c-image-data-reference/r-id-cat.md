@@ -8,7 +8,7 @@ exl-id: 37945115-c93d-4f59-b3d3-a2c4ee7fc990
 ---
 # Id {#id}
 
-Index key value by which records in the image data file are looked up by the Platform Server.
+Index key value by which records in the image data file are looked up by the [!DNL Platform Server].
 
 Typically, a short and unique image identifier, such as a SKU number, possibly with some sort of image suffix, if a SKU has multiple images. May also be a more complex string that looks more like a file path, to support easy retro-fitting of web sites with Image Serving.
 

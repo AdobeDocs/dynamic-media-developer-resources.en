@@ -38,11 +38,11 @@ Image Serving control script. This script is used to start, stop, or restart the
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> restart { ps | is | svg } </span> </p> </td> 
-   <td colname="col2"> <p> Restarts Tomcat/Platform Server, the Image Server, or SVG. </p> </td> 
+   <td colname="col2"> <p> Restarts Tomcat/[!DNL Platform Server], the Image Server, or SVG. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> status [ ps | is | svg ] </span> </p> </td> 
-   <td colname="col2"> <p>Returns uptime and current memory usage information for the Image Server, Tomcat/Platform Server, and SVGserver, or status for just the specified sever; an informational message is returned instead if the Server Supervisor is not running. </p> </td> 
+   <td colname="col2"> <p>Returns uptime and current memory usage information for the Image Server, Tomcat/[!DNL Platform Server], and SVGserver, or status for just the specified sever; an informational message is returned instead if the Server Supervisor is not running. </p> </td> 
   </tr> 
  </tbody> 
 </table>

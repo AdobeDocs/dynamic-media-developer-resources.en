@@ -10,9 +10,9 @@ exl-id: 72b343ba-0d4b-405a-ace3-d44c4d4c44b0
 
 Contains platform server settings.
 
-When modifying this XML file, care must be taken to maintain valid XML syntax, otherwise the Platform Server may fail to start.
+When modifying this XML file, care must be taken to maintain valid XML syntax, otherwise the [!DNL Platform Server] may fail to start.
 
-For changes to take effect, the Platform Server must be restarted after editing this file.
+For changes to take effect, the [!DNL Platform Server] must be restarted after editing this file.
 
 The following diagram illustrates which settings may be changed in this file. Refer to the corresponding sections earlier in this document for a description of these settings. Note that this diagram is not a complete representation of [!DNL server.xml].
 
