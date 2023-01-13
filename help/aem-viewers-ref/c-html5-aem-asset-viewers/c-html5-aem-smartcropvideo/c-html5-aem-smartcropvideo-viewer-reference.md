@@ -1,6 +1,6 @@
 ---
 title: Smart Crop Video Viewer
-description: The Smart Crop Video Viewer is a video player that plays streaming and progressive video encoded in the H.264 format with the addition of smart crop support. It is delivered from Dynamic Media Classic or Adobe Experience Manager with Dynamic Media.
+description: The Smart Crop Video Viewer plays streaming and progressive video encoded in the H.264 format with the addition of smart crop support. It is delivered from Dynamic Media Classic or Adobe Experience Manager with Dynamic Media.
 keywords: responsive
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
@@ -70,7 +70,7 @@ Sharing tools are not available in full screen mode because of web browser secur
 
 Different web pages have different needs for viewer behavior. Sometimes a web page provides a link that, when selected opens the viewer in a separate browser window. In other cases, it is necessary to embed the viewer directly on the hosting page. In the latter case, the web page may have a static page layout, or use responsive design that displays differently on different devices or for different browser window sizes. To accommodate these needs, the viewer supports three primary operation modes: popup, fixed size embedding, and responsive design embedding.
 
-Embedding multiple videos on the same page is supported on tablet and mobile devices. Usually, only one video can be played at a time. When a user starts playing one video, and then tries to play another video, the first video is automatically paused. The video that was auto-paused remembers its current playback time, so the user can always get back to it and resume play. The only exception this rule is in Chrome browser on Android™ 4.x devices, which can play videos in parallel.
+Embedding multiple videos on the same page is supported on tablet and mobile devices. Usually, only one video can be played at a time. When a user starts playing one video, and then tries to play another video, the first video is automatically paused. The video that was auto-paused remembers its current playback time, so the user can always get back to it and resume play. The only exception this rule is in Chrome browser on Android&trade; 4.x devices, which can play videos in parallel.
 
 **About pop-up mode**
 
