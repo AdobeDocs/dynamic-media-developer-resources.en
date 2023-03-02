@@ -9,7 +9,7 @@ exl-id: 937be8a2-307e-47bb-9fc8-d354f780a214
 ---
 # Smart Crop Video{#smart-crop-video}
 
-The Smart Crop Video Viewer is a video player that plays streaming and progressive video encoded in the H.264 format with the addition of smart crop support. It is delivered from Dynamic Media Classic or Experience Manager with Dynamic Media.
+The Smart Crop Video Viewer plays streaming and progressive video encoded in the H.264 format with the addition of smart crop support. It is delivered from Dynamic Media Classic or Experience Manager with Dynamic Media.
 
 See [System requirements and prerequisites](../../c-system-requirements-and-prerequisites.md#concept-9282e5b777de42cdaf72ef7ebd646842).
 
