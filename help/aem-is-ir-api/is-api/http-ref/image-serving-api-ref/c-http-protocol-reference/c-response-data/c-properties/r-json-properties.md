@@ -1,7 +1,8 @@
 ---
+title: JSONP properties
 description: If jsonp is specified as the response format, the reply data is formatted using JSONP (JavaScript Object Notation with Padding), wrapped in a JavaScript function call.
 solution: Experience Manager
-title: JSONP properties
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 2294eb37-b362-438f-94bc-eb24ca641752
@@ -45,12 +46,12 @@ Requests that support JSONP response format lets you specify the name of the JS 
 
 `req=...,json [&handler = reqHandler]`
 
-`<reqHandler>` is the name of the JS handler that is present in the JSONP response. Only a-z, A-Z, and 0-9 characters are allowed. Optional. Default is `s7jsonResponse`.
+The `<reqHandler>` syntax is the name of the JS handler that is present in the JSONP response. Only a-z, A-Z, and 0-9 characters are allowed. Optional. Default is `s7jsonResponse`.
 
 The Dynamic Media Image Serving Viewers package includes a utility to request and parse JSONP-formatted data from Image Serving.
 
 See [https://en.wikipedia.org/wiki/JSONP](https://en.wikipedia.org/wiki/JSONP) for more information about the JSONP format.
 
-See [www.json.org](https://www.json.org) for more information about the JSON format.
+See [www.json.org](https://www.json.org/json-en.html) for more information about the JSON format.
 
 See also [req](../../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-req/r-req.md#reference-907cdb4a97034db7ad94695f25552e76).
