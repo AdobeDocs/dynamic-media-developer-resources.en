@@ -1,7 +1,8 @@
 ---
+title: Serving static (non-image) contents
 description: You can use Image Serving to manage non-image content in catalogs and serve it via a separate /is/content context.
 solution: Experience Manager
-title: Serving static (non-image) contents
+
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: adc3d972-b02d-40db-992e-acaa06b848ff
@@ -107,13 +108,13 @@ Static content catalogs are similar to image catalogs, but support fewer data fi
 
 ## Filtering static content {#section-4c41bf41ff994910840c1352683d1f37}
 
-This mechanism can help ensure that clients receive only contents appropriate for their needs. Assuming that the static content is tagged with appropriate `catalog::UserType` values, the client can add the `type=` command to the request. Image Serving compares the value provided with the `type=` command to the value of `catalog::UserType` and, in case of a mismatch, return an error instead of potentially inappropriate contents.
+This mechanism can help ensure that clients receive only contents appropriate for their needs. Assuming that the static content is tagged with appropriate `catalog::UserType` values, the client can add the `type=` command to the request. Image Serving compares the value provided with the `type=` command to the value of `catalog::UserType` and, if there is a mismatch, returns an error instead of potentially inappropriate contents.
 
 ## Video caption files {#section-1ad25e10399e43eaa8ecb09b531dbf1a}
 
 You can encapsulate video caption files (WebVTT), CSS, or any text file in JSONP format. The JSON response is described below.
 
-* For WebVTT files, the mime type of the response is text/javascript. JSON is not returned; instead, Javascript is returned that calls a method with JSON. Both the ID and handler are optional. 
+* For WebVTT files, the mime type of the response is text/javascript. JSON is not returned; instead, JavaScript is returned that calls a method with JSON. Both the ID and handler are optional. 
 * For CSS files, the mime type of the response is text/javascript. Both the ID and handler are optional. 
 * By default, UTF-8 encoding is applied to ensure that it is decoded correctly. The default size limit is 2 MB.
 
@@ -121,7 +122,7 @@ You can also use tracks for other kinds of timed metadata. The source data for e
 
 See [https://en.wikipedia.org/wiki/JSONP](https://en.wikipedia.org/wiki/JSONP) for more information about the JSONP format.
 
-See [www.json.org](https://www.json.org) for more information about the JSON format.
+See [www.json.org](https://www.json.org/json-en.html) for more information about the JSON format.
 
 ## See also {#section-7b28631016044a22a3a6762fd64771e9}
 
