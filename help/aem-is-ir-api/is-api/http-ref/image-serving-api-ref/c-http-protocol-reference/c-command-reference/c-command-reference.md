@@ -1,7 +1,7 @@
 ---
+title: Command reference
 description: This section describes the HTTP protocol commands.
 solution: Experience Manager
-title: Command reference
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 959cb193-d0b7-4aa9-a747-fa17484f80c7
@@ -10,7 +10,19 @@ exl-id: 959cb193-d0b7-4aa9-a747-fa17484f80c7
 
 This section describes the HTTP protocol commands.
 
-**For Dynamic Media in AEM only**: Beyond the basic image settings that are available in the user interface, [!DNL Dynamic Media] in AEM ( [!DNL Adobe Experience Manager]) supports numerous advanced image modifications that you can specify in the **Image Modifiers** field. These parameters are defined below. Be aware, however, that the following functionality is not supported in Dynamic Media in AEM.
+>[!TIP]
+>
+>Try out and discover the benefits of Dynamic Media image modifiers and Smart Imaging, using Dynamic Media [_Snapshot_](https://snapshot.scene7.com/).
+>
+> Snapshot is a visual demonstration tool, designed to illustrate the power of Dynamic Media for optimized and dynamic image delivery. Experiment with test images or Dynamic Media URLs, to visually observe the output of various Dynamic Media image modifiers, and Smart Imaging optimizations for the following:
+>* File size (with WebP and AVIF delivery)
+>* Network bandwidth
+>* DPR (Device Pixel Ratio) 
+>
+>To learn how easy it is to use Snapshot, play the [Snapshot training video](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/images/dynamic-media-snapshot.html?lang=en ) (3 minutes and 17 seconds).
+
+
+**For Dynamic Media in Adobe Experience Manager only** &ndash; Beyond the basic image settings that are available in the user interface, [!DNL Dynamic Media] in AEM ( [!DNL Adobe Experience Manager]) supports numerous advanced image modifications that you can specify in the **Image Modifiers** field. These parameters are defined below. Be aware, however, that the following functionality is not supported in Dynamic Media in AEM.
 
 * Color correction commands: `icc=` and `iccEmbed=`. 
 * Basic templating and text rendering commands: `text= textAngle= textAttr= textFlowPath= textFlowXPath= textPath=` and `textPs=`. 
