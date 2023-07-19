@@ -1,14 +1,14 @@
 ---
-description: Id
-solution: Experience Manager
 title: Id
+description: Typically, a short and unique identifier, such as a SKU number, possibly with some sort of suffix, such as if a SKU has multiple images or has locale-specific variations.
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: d7b37180-cc93-41cd-bf14-5c262b046fbc
 ---
 # Id{#id}
 
- Typically a short and unique identifier, such as a SKU number, possibly with some sort of suffix, such as if a SKU has multiple images or has locale-specific variations. May also be a more complex string which looks more like a file path, to support easy retrofitting of web sites with Image Serving.
+Typically, a short and unique identifier, such as a SKU number, possibly with some sort of suffix, such as if a SKU has multiple images or has locale-specific variations. May also be a more complex string which looks more like a file path, to support easy retrofitting of web sites with Image Serving.
 
 >[!NOTE]
 >
