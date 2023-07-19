@@ -1,7 +1,7 @@
 ---
-description: Expiration
-solution: Experience Manager
 title: Expiration
+description: Used to manage client and proxy server caching. The server calculates the expiration time/date of the HTTP response data by adding this value to the time/date of transmission.
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: ee329834-a2a0-44fd-a0a5-7bf5a8e0a5a5

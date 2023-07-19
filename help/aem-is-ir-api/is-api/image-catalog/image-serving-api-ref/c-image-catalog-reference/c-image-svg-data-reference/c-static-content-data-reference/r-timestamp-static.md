@@ -1,7 +1,7 @@
 ---
-description: TimeStamp
-solution: Experience Manager
 title: TimeStamp
+description: If `attribute::UseLastModified` is set, the `catalog::TimeStamp` value is returned in the HTTP response as a Last-Modified HTTP header. The Last-Modified header is always returned for static contents, even if `attribute::UseLastModified` is not set.
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 3c47b14d-b629-474d-952a-b09e1b1162b4

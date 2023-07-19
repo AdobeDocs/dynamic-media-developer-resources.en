@@ -1,7 +1,7 @@
 ---
-description: Path
-solution: Experience Manager
 title: Path
+description: The server uses the path resolution rules to find the data file.
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 9f273f32-1699-4bc3-8dd0-f1dfefaa6e27
