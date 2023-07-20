@@ -2,6 +2,8 @@
 description: Adobe Dynamic Media Image Serving and Image Rendering API Home
 solution: Experience Manager
 title: Adobe Dynamic Media Image Serving and Image Rendering API Home
+feature: Dynamic Media Classic,SDK/API
+role: Developer,User
 exl-id: a21b5a40-88d1-4e20-8770-fb35037bd7fd
 ---
 # Adobe Dynamic Media Image Serving and Image Rendering API Home{#adobe-scene-image-serving-and-image-rendering-api-home}
