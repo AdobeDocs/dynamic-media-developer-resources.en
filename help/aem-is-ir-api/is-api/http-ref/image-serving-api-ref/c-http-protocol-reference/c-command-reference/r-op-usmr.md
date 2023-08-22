@@ -1,7 +1,7 @@
 ---
+title: op_usmR
 description: Unsharp-mask. Unsharp masks the layer or the final view image, after all scaling, if layer=comp.
 solution: Experience Manager
-title: op_usmR
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 51a779be-568b-40e5-99d9-e875023a2b2c

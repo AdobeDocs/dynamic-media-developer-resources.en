@@ -1,7 +1,7 @@
 ---
+title: align
 description: Align Image with View. Aligns the composite image (possibly after scaling, if scl= is specified as well) within the view rectangle defined by wid= and hei=.
 solution: Experience Manager
-title: align
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 01001cc6-1a60-4d6b-a27f-ea5822be6d11

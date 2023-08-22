@@ -1,7 +1,7 @@
 ---
+title: size
 description: Layer size. Specifies the size or maximum layer size for a layer, before rotate=, perspective=, and extend= are applied to the layer.
 solution: Experience Manager
-title: size
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 55feeb32-b69d-4b95-80fb-c77f2612d255

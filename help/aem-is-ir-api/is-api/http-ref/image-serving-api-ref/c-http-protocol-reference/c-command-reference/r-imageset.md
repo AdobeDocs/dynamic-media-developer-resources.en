@@ -1,7 +1,7 @@
 ---
+title: imageSet
 description: Image Set. Specifies an image set value for use when generating req=set response.
 solution: Experience Manager
-title: imageSet
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 318c658d-7126-40f6-870b-11294a3f6f5f

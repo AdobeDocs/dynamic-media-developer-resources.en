@@ -1,7 +1,7 @@
 ---
+title: hei
 description: View Height. Specifies the height of the response image (view image) when fit is not present in the request.
 solution: Experience Manager
-title: hei
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: c812c7f0-4ac1-42cb-be47-7baebd8caf60

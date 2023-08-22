@@ -1,7 +1,7 @@
 ---
+title: textAttr
 description: Text layer attributes. Specifies additional attributes for text layers which are not available as rtf commands.
 solution: Experience Manager
-title: textAttr
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 0c8a3d2a-2524-436a-8bc7-60241af0fd17

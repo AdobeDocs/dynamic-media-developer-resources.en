@@ -1,7 +1,7 @@
 ---
+title: maskUse
 description: Image mask usage. Specifies how the mask or alpha channel of the image is used for operations on the image (for example, colorize=). When specified in an effect layer, it allows applying the effect to the background area of parent layer or to the entire parent layer rectangle.
 solution: Experience Manager
-title: maskUse
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: e99101a1-1747-454c-b0c0-3af3335c0497

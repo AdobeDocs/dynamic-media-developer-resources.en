@@ -1,7 +1,7 @@
 ---
+title: op_grow
 description: Dilate/erode image. Applies a morphological dilate (radius > 0) or erode (radius < 0) to the image data.
 solution: Experience Manager
-title: op_grow
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 4c5bef4e-f80e-454d-8e93-30bf33d7ec9e

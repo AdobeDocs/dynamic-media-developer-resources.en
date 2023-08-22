@@ -1,7 +1,7 @@
 ---
+title: textFlowPath
 description: Text flow area. Specifies one or more regions into which text specified with textPs= should be flowed.
 solution: Experience Manager
-title: textFlowPath
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: b5575d17-150b-421c-b298-077b577eb95c

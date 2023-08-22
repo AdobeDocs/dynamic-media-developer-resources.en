@@ -1,7 +1,7 @@
 ---
+title: op_saturation
 description: Adjust saturation. Changes the saturation of each visible pixel of the layer or composite image.
 solution: Experience Manager
-title: op_saturation
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: cd71e27e-6ccc-4ade-9bcf-af8e41bcf381

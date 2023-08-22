@@ -1,7 +1,7 @@
 ---
+title: textPs
 description: Layer text (Adobe Photoshop compatible). Specifies the text body for a text layer.
 solution: Experience Manager
-title: textPs
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 95f343ce-bea3-425e-9a25-d1d141a976d9

@@ -1,7 +1,7 @@
 ---
+title: op_contrast
 description: Adjust contrast. Adjusts the image contrast by increasing the brightness of pixels with more than 50% brightness, and reducing the brightness of pixels with less than 50% brightness.
 solution: Experience Manager
-title: op_contrast
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 0216f22e-a3b3-4dda-89c2-9c6c2c81cab3

@@ -1,7 +1,7 @@
 ---
+title: textAngle
 description: Text render direction. Specifies the angle at which text specified with textPs= is laid out and rendered into the text box (defined with size= or textFlowPath=).
 solution: Experience Manager
-title: textAngle
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 102dbdc0-77b8-4c60-b456-6cf693e0b38b

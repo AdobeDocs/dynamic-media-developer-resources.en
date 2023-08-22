@@ -1,7 +1,7 @@
 ---
+title: wid
 description: View width. Specifies the width of the response image (view image) when fit= is not present in the request.
 solution: Experience Manager
-title: wid
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: ba22c79b-da59-4993-aa1c-2c990a0c4be5

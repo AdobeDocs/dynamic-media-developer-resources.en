@@ -1,7 +1,7 @@
 ---
+title: iccEmbed
 description: Embed Color Profile. Specifies whether the working ICC color profile or the profile specified with icc= should be embedded in the reply image.
 solution: Experience Manager
-title: iccEmbed
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: bc5637f6-5452-4bfb-bf30-def6f153f4ad

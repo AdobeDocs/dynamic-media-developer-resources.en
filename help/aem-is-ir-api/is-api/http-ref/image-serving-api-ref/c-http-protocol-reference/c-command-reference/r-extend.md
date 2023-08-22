@@ -1,7 +1,7 @@
 ---
+title: extend
 description: Extend layer. Adds margins to a layer or crops the layer rectangle.
 solution: Experience Manager
-title: extend
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 03db6555-6851-49d4-b0de-5570bf56ad76

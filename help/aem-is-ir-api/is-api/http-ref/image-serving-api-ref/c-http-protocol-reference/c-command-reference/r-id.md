@@ -1,7 +1,7 @@
 ---
+title: id
 description: Image/Metadata Version. When working with content that changes frequently, servers in caching networks such as Akamai, browser caches, and corporate proxy server caches may store Image Serving responses which may be out of date for periods of time.
 solution: Experience Manager
-title: id
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 3cdd27e4-14d2-42ef-aedb-9c1f7c39b4c6

@@ -1,7 +1,7 @@
 ---
-description: Progressive JPEG scan. Progressive JPEG displays an image in such a way that it initially shows a blurry/low-quality photo in its entirety. As the scanning passes continue, it becomes clearer as the image's data becomes more fully downloaded. This parameter lets you set the number of scans it takes (3, 4, or 5) for the entire image to appear.
-solution: Experience Manager
 title: pscan
+description: Progressive JPEG scan. Progressive JPEG displays an image in such a way that it initially shows a blurry/low-quality photo in its entirety.
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 1afd3a60-e0b6-47d1-b7e4-98a3145782a2

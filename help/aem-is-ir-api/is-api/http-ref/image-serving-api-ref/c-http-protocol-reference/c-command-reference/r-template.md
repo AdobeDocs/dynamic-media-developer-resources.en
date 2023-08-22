@@ -1,7 +1,7 @@
 ---
+title: template
 description: Compositing template. Allows specifying a compositing template located in a catalog other than the main catalog.
 solution: Experience Manager
-title: template
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 56ebf2a1-f2c3-4b3f-8d0a-9383f1411440

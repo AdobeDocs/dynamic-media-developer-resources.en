@@ -1,7 +1,7 @@
 ---
+title: cropPathE
 description: Lets you crop to the bounding box of an embedded named path. This cropping, in turn, changes the size of the image.
 solution: Experience Manager
-title: cropPathE
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 78e9f994-d638-49a7-ac42-3146e47210e3

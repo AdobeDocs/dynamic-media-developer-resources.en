@@ -1,7 +1,7 @@
 ---
+title: map
 description: Image Map Data. Provides image map data for this layer. Overrides any data from catalog Map for this layer.
 solution: Experience Manager
-title: map
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 7c1fbb50-98ec-4d9a-b608-93d60d687069
