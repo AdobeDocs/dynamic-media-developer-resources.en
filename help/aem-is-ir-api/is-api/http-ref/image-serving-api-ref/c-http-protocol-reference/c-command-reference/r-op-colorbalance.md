@@ -1,7 +1,7 @@
 ---
+title: op_colorbalance
 description: Adjust color balance. Adjusts the value of each RGB color component separately.
 solution: Experience Manager
-title: op_colorbalance
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 93476778-97b0-4ad5-b22a-093239e845f0

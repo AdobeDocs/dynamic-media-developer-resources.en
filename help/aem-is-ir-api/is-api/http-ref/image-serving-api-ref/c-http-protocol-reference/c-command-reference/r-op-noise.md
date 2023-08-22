@@ -1,7 +1,7 @@
 ---
+title: op_noise
 description: Add noise. Adds random noise to the foreground image data, or to the foreground of an effect layer.
 solution: Experience Manager
-title: op_noise
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: eeadd3ab-80ff-4f9b-b5b7-4f3da6feebde

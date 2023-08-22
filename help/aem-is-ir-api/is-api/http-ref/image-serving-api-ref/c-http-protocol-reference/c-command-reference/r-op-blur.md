@@ -1,7 +1,7 @@
 ---
+title: op_blur
 description: Blur image. Applies a blur filter to the image data.
 solution: Experience Manager
-title: op_blur
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: cd68c109-ee99-4ef7-aac0-7d2e6d408cc0

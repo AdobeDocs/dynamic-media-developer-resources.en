@@ -1,7 +1,7 @@
 ---
+title: crop
 description: Crop Image. Specifies a rectangular crop region, expressed either in pixels or normalized relative to the full-resolution source image or mask image.
 solution: Experience Manager
-title: crop
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: d1ea63c1-95f0-4a4e-b65d-eb535eef0205

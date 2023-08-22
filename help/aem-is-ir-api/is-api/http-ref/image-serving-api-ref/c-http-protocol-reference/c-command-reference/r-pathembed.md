@@ -1,7 +1,7 @@
 ---
+title: pathEmbed
 description: Embed paths data. Specifies whether Photoshop paths from the layer 0 source image file should be included in the response image.
 solution: Experience Manager
-title: pathEmbed
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: a3b305eb-0313-4c58-bd47-4f87e09d0e0b

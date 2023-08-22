@@ -1,7 +1,7 @@
 ---
+title: op_hue
 description: Adjust hue. Shifts the hue of each visible pixel of the layer or composite image by the specified amount.
 solution: Experience Manager
-title: op_hue
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: b436bd31-12a9-42ed-9ad3-5ff91e3ccce9

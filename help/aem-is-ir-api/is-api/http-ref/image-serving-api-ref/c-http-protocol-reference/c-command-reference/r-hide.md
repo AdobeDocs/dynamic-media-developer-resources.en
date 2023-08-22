@@ -1,7 +1,7 @@
 ---
+title: hide
 description: Hide Layer. Allows hiding a layer without removing it from the request string.
 solution: Experience Manager
-title: hide
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: bf70af48-53d6-4c4a-9d16-3696bbfe86ff

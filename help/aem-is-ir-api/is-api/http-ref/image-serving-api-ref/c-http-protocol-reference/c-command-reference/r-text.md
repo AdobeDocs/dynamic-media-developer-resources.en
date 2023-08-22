@@ -1,7 +1,7 @@
 ---
+title: text
 description: Layer text. Specifies text and formatting content for a text layer.
 solution: Experience Manager
-title: text
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 3966b180-bef1-4fad-af71-ba42bbdffd59

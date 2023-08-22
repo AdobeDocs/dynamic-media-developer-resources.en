@@ -1,7 +1,7 @@
 ---
+title: bgc
 description: View Background Color. Specifies the background color for the composite image (view image).
 solution: Experience Manager
-title: bgc
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 39ca0d63-55c6-40be-88b6-cf73828cc355

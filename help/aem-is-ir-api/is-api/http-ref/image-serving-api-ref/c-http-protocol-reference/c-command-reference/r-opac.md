@@ -1,7 +1,7 @@
 ---
+title: opac
 description: Adjust image opacity. Allows decreasing the foreground opacity of an image, text, solid color, or effect layer.
 solution: Experience Manager
-title: opac
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 38e0e1dc-46c0-48a4-b676-f7e6d262392f

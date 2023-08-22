@@ -1,7 +1,7 @@
 ---
+title: op_colorize
 description: Colorize image. Colorizes the image data while preserving shadows and highlights.
 solution: Experience Manager
-title: op_colorize
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 1abbde32-867a-4596-a46b-12ec50d59170

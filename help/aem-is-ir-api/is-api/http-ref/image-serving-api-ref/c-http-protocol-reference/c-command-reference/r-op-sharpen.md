@@ -1,7 +1,7 @@
 ---
+title: op_sharpen
 description: Sharpen image. Applies a basic sharpening filter to the layer or to the final view image, after all scaling, if layer=comp.
 solution: Experience Manager
-title: op_sharpen
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 62e7d91c-935f-410f-a971-ffb3cfff31d6

@@ -1,7 +1,7 @@
 ---
+title: scl
 description: Scale view. Scales the composite image by the inverse of invFactor.
 solution: Experience Manager
-title: scl
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 297d187c-3a52-45ff-b73d-0b0e4b956080

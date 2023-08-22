@@ -1,7 +1,7 @@
 ---
+title: xmpEmbed
 description: Embed XMP metadata. Specifies whether XMP metadata should be included in the response image.
 solution: Experience Manager
-title: xmpEmbed
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 353b6ac4-1141-4f17-a3ad-ad48b321b36f
