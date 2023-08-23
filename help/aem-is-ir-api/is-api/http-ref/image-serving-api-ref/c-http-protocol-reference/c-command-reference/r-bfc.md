@@ -29,4 +29,4 @@ Request attribute. Has no effect if not requesting a JPEG or PNG file.
 
 ## See also {#section-64b3f153c6d94ab58f46e77324697818}
 
-[Bfc](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-bfc.md#reference-5217a41d9d7447d6b0624077eb38d3de)
+[Bfc](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-attributes-reference/r-bfc.md#reference-5217a41d9d7447d6b0624077eb38d3de), [dpr](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-dpr.md), [network](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-network.md), [Smart Imaging](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/imaging-faq.html?lang=en)
