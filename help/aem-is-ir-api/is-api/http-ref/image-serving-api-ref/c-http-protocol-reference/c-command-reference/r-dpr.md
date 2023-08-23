@@ -39,6 +39,8 @@ Owing to DPR optimization, when the resultant image is greater than the MaxPix D
 |816 x 500 | 3 | 2448 x 1500 |
 |816 x 500 | 4 | 3264 x 2000 |
 
+DPR values are based on the detected client-side values of the bundled CDN. These values are sometimes inaccurate. For example, iPhone5 with `dpr=2`, and iPhone12 with dpr=3, both show `dpr=2`. Still, for high-resolution devices, sending `dpr=2` is better than sending `dpr=1`. The best way to overcome this inaccuracy, however, is to use client-side DPR to give you 100% accurate values. And it works for any device, whether it is Apple or any other device that was launched. See [Use Smart Imaging with client-side Device Pixel Ratio](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/client-side-dpr.html?lang=en).
+
 ## Properties
 
 
@@ -55,4 +57,4 @@ Owing to DPR optimization, when the resultant image is greater than the MaxPix D
 
 ## See also
 
-[network](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-network.md), [Smart Imaging](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/imaging-faq.html?lang=en)
+[bfc](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-bfc.md), [network](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-network.md), [Smart Imaging](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/imaging-faq.html?lang=en)
