@@ -43,7 +43,7 @@ DPR values are based on the detected client-side values of the bundled CDN. Thes
 
 ## Properties
 
-
+A request attribute. It has no effect if `dpr` is off or if `dprValue=1`.
 
 ## Default
 
