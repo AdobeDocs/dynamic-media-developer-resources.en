@@ -25,7 +25,7 @@ Network bandwidth values are based on the detected client-side values of the bun
 
 ## Properties
 
-
+A request attribute. It has no effect if network conditions are excellent.
 
 ## Default
 
