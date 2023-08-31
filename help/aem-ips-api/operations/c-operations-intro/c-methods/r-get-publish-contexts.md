@@ -1,7 +1,7 @@
 ---
+title: getPublishContexts
 description: getPublishContexts
 solution: Experience Manager
-title: getPublishContexts
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 7b26e659-71b9-40c4-9df4-94e78c3e4baf
@@ -52,7 +52,7 @@ exl-id: 7b26e659-71b9-40c4-9df4-94e78c3e4baf
    <td colname="col1"> <span class="codeph"> <span class="varname"> contextType</span> </span> </td> 
    <td colname="col2"> <span class="codeph"> xsd:string</span> </td> 
    <td colname="col3"> No </td> 
-   <td colname="col4">The type of publish context you want to return. Includes: 
+   <td colname="col4">The type of publishing context that you want to return. Includes: 
     <ul id="ul_21EDF8F0026E402EAE8226A0CADEE652">
      <li id="li_06DB502952D943198F16C06C59816268"><span class="codeph"> ImageServing</span></li>
      <li id="li_E67A42934E8F4689A148CE125F7372AE"><span class="codeph"> ImageRendering</span></li>
@@ -67,7 +67,7 @@ exl-id: 7b26e659-71b9-40c4-9df4-94e78c3e4baf
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  publishContextArray  | types:PublishContextArray  | Yes  | An array of publish contexts for a company, filtered by context type if required.  |
+|  publishContextArray  | types:PublishContextArray  | Yes  | An array of publish contexts for a company, filtered by context type if necessary.  |
 
 ## Examples {#section-23fb7d6a15004b7eb4c3d3bcb37ceb04}
 

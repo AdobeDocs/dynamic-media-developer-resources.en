@@ -1,7 +1,7 @@
 ---
+title: hei
 description: View height. Specifies the height of the reply image.
 solution: Experience Manager
-title: hei
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: dcc9311d-4157-490b-9fc4-47060ddb0e37
@@ -19,17 +19,17 @@ View height. Specifies the height of the reply image.
  </tr> 
 </table>
 
-Raster formats are rendered using the Default View Size (or the DefaultPix setting). Click **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]**, then enter your Width and Height values. Smaller sizes provide better performance. You must save your settings and perform an Image Serving Publish to apply a change.
+Raster formats are rendered using the Default View Size (or the DefaultPix setting). Select **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]**, then enter your Width and Height values. Smaller sizes provide better performance. Save your settings and perform an Image Serving Publish to apply a change.
 
 If you apply a `scale=1` command, a raster format request is rendered at the size specified in the FXG.
 
 ## Default {#section-76ee3daa77cb468ab310821357cc9404}
 
-If neither `wid=`, `hei=`, nor `scale=` are specified, the reply image is the default view size specified in the FXG file.
+If `wid=`, `hei=`, or `scale=` are not specified, the reply image is the default view size specified in the FXG file.
 
 ## Example {#section-a91c14d31e71481ba054412d9f642885}
 
-[!DNL http://server/is/agm/myRootId/myImageId?hei=200]
+[!DNL `http://server/is/agm/myRootId/myImageId?hei=200`]
 
 Unless a format is specified, the image is rendered as a SWF file. In this case, height and width have no meaning, because the SWF usually expands to the size of the browser window. As a result, hei and wid only apply to raster or PDF formats. Raster formats include:
 

@@ -1,7 +1,7 @@
 ---
+title: Text string localization
 description: Text string localization allows image catalogs to contain multiple locale-specific representations for the same string value.
 solution: Experience Manager
-title: Text string localization
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: f105c7f2-b544-4c08-bb91-4916e485572d
@@ -10,7 +10,7 @@ exl-id: f105c7f2-b544-4c08-bb91-4916e485572d
 
 Text string localization allows image catalogs to contain multiple locale-specific representations for the same string value.
 
- The server returns to the client the representation matching the locale specified with `locale=`, thereby avoiding client-side localization and allowing applications to switch locales simply by sending the appropriate `locale=` value with the IS text requests.
+ The server returns to the client the representation matching the locale specified with `locale=`, avoiding client-side localization, and allowing applications to switch locales simply by sending the appropriate `locale=` value with the IS text requests.
 
 ## Scope {#section-a03f48e3bc0e4ab281909a2bd441a3c2}
 
@@ -26,7 +26,7 @@ Text string localization is applied to all string elements which include the loc
  <tbody> 
   <tr> 
    <td> <p> <span class="codeph"> catalog::ImageSet </span> </p> </td> 
-   <td> <p>Any sub-element containing a translatable string (delimited by any combination of separators ',' ';' ':' and/or the start/end of the field). </p> <p> A <span class="codeph"> 0xrrggbb </span> color value at the beginning of a localizable field is excluded from localization and passed through without modification. </p> </td> 
+   <td> <p>Any subelement containing a translatable string (delimited by any combination of separators ',' ';' ':' and/or the start/end of the field). </p> <p> A <span class="codeph"> 0xrrggbb </span> color value at the beginning of a localizable field is excluded from localization and passed through without modification. </p> </td> 
   </tr> 
   <tr> 
    <td> <p> <span class="codeph"> catalog::Map </span> </p> </td> 
@@ -73,11 +73,11 @@ Localization-enabled *`string`* elements in the image catalog consist of one or 
  </tr> 
 </table>
 
-*`locId`* must be ASCII and may not include '^'.
+The *`locId`* must be ASCII and may not include '^'.
 
-'^' may occur anywhere in sub-strings with or without HTTP-encoding. The server matches the entire *`localizationToken`* `^loc=locId^` pattern to separate substrings.
+The '^' may occur anywhere in substrings with or without HTTP-encoding. The server matches the entire *`localizationToken`* `^loc=locId^` pattern to separate substrings.
 
-*`stringElements`* which do not include at least one *`localizationToken`* are not considered for localization.
+The *`stringElements`*, which do not include at least one *`localizationToken`*, are not considered for localization.
 
 ## The translation map {#section-f7ce3df91b724adf95cee44eac4915d4}
 
@@ -97,7 +97,7 @@ Let's say `catalog::UserData` for `myCat/myItem` contains the following (line br
 
 `val1=111?? str1=Default1^loc=N^Dutch1^loc=D^German1?? val2=value2?? str2=^loc=E^English2^loc=N^Dutch2^loc=D^German2?? str3=Default3^loc=N^Dutch3^loc=D^German3`
 
-The server would return the following in response to our example request:
+The server would return the following in response to the example request:
 
 `val1=111 str1=Dutch1 val2=value2 str2=Dutch2 str3=Dutch3`
 
@@ -105,7 +105,7 @@ The server would return the following in response to our example request:
 
 In the above example, `attribute::LocaleStrMap` has an entry with an empty *`locale`* value. The server uses this entry to handle all `locale=` values which are not explicitly specified otherwise in the translation map.
 
-The example translation map specifies that in such a case the *`defaultString`* should be returned if available. Thus, the following would be returned if this translation map were applied to the request `/is/image/myCat/myItem?req=&locale=ja`:
+The example translation map specifies that in such a case the *`defaultString`* should be returned, if available. Therefore, the following is returned if this translation map is applied to the request `/is/image/myCat/myItem?req=&locale=ja`:
 
 `val1=111 str1=Default1 val2=value2 str2= str3=Default3`
 
@@ -113,11 +113,11 @@ The example translation map specifies that in such a case the *`defaultString`* 
 
 **Language families**
 
-Multiple *`locId`* values may be associated with each *`locale`* in the translation map. This allows supporting country-specific or region-specific variations (e.g US English vs UK English) for select *`stringElements`* while handling most contents with common base locales (e.g. International English).
+Multiple *`locId`* values may be associated with each *`locale`* in the translation map. The reason is that it allows supporting country-specific or region-specific variations (for example, US English versus UK English) for select *`stringElements`* while handling most contents with common base locales (for example, International English).
 
-For our example, we want to add support for US-specific English ( `*`locId`* EUS`) and UK-specific English ( `*`locId`* EUK`), to support the occasional alternative spelling. If EUK or EUS do not exist, we would fall back to E. Similarly, Austrian-specific German variants ( `DAT`) could be made available where needed while returning common German *`localizedStrings`* (marked with `D`) most of the time.
+For the example, support is added for US-specific English ( `*`locId`* EUS`) and UK-specific English ( `*`locId`* EUK`), to support the occasional alternative spelling. If EUK or EUS does not exist, it falls back to E. Similarly, Austrian-specific German variants ( `DAT`) could be made available where needed while returning common German *`localizedStrings`* (marked with `D`) most of the time.
 
-`attribute::LocaleStrMap` would look like this:
+The `attribute::LocaleStrMap` would look like this:
 
 `en,E|en_us,EUS,E|en_uk,EUK,E|de,D|de_at,DAT,D|de_de,D`
 
@@ -143,7 +143,7 @@ The following table describes the output for some representative *`stringElement
    <td> <p>English </p> <p>UK-English </p> <p>German </p> <p>Austrian </p> <p>- </p> </td> 
   </tr> 
   <tr valign="top"> 
-   <td> <p> <span class="codeph"> ^ loc=en^English^loc=USE^US-English^loc=D^German^loc=DDE^Deutsch </span> </p> <p> Note that for this example the <span class="varname"> locId </span> DDE does not exist in <span class="codeph"> attribute::LocaleStrMap </span>, and thus the substring associated with this <span class="varname"> locId </span> is never returned. </p> </td> 
+   <td> <p> <span class="codeph"> ^ loc=en^English^loc=USE^US-English^loc=D^German^loc=DDE^Deutsch </span> </p> <p> For this example, the <span class="varname"> locId </span> DDE does not exist in <span class="codeph"> attribute::LocaleStrMap </span>, and thus the substring associated with this <span class="varname"> locId </span> is never returned. </p> </td> 
    <td> <p> en, en_uk </p> <p> en_us </p> <p> de, de_at, de_de </p> <p>all others </p> </td> 
    <td> <p>English </p> <p>US-English </p> <p>German </p> <p>- </p> </td> 
   </tr> 

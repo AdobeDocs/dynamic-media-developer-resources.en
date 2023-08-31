@@ -1,7 +1,7 @@
 ---
+title: quantize
 description: Color quantization. Specifies color-quantization attributes for GIF output conversion.
 solution: Experience Manager
-title: quantize
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 67247016-a038-4ed4-90ed-751eaf9c4881
@@ -23,11 +23,11 @@ Color quantization. Specifies color-quantization attributes for GIF output conve
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p> <span class="codeph"> <span class="varname"> numColors </span> </span> </p> </td> 
-  <td class="stentry"> <p>Number of output colors (integer) included in the ' <span class="codeph"> adaptive </span>' palette. </p> <p> <span class="codeph"> <span class="varname"> numColors </span> </span> must be between 2 and 256. </p> </td> 
+  <td class="stentry"> <p>Number of output colors (integer) included in the ' <span class="codeph"> adaptive </span>' palette. </p> <p> <span class="codeph"> <span class="varname"> numColors </span> </span> must be from 2 through 256. </p> </td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p> <span class="codeph"> <span class="varname"> colorList </span> </span> </p> </td> 
-  <td class="stentry"> <p>Comma-separated list of forced RGB colors in hex6 format. Allows you to specify forced colors to be included in an ' <span class="codeph"> adaptive </span>' palette. If the number of colors specified is less than <span class="codeph"> numColors </span>, additional colors are calculated based on the image content. </p> <p>Used only if <span class="codeph"> fmt=gif </span> or <span class="codeph"> fmt=gif-alpha </span>. Ignored otherwise. The colors specified with <span class="codeph"> <span class="varname"> colorList </span> </span> must be RGB values in hex6 format (see <span class="codeph"> color </span>); no other color specifiers are permitted. </p> </td> 
+  <td class="stentry"> <p>Comma-separated list of forced RGB colors in hex6 format. Lets you specify forced colors to be included in an ' <span class="codeph"> adaptive </span>' palette. If the number of colors specified is less than <span class="codeph"> numColors </span>, additional colors are calculated based on the image content. </p> <p>Used only if <span class="codeph"> fmt=gif </span> or <span class="codeph"> fmt=gif-alpha </span>. Ignored otherwise. The colors specified with <span class="codeph"> <span class="varname"> colorList </span> </span> must be RGB values in hex6 format (see <span class="codeph"> color </span>); no other color specifiers are permitted. </p> </td> 
  </tr> 
 </table>
 
@@ -39,8 +39,8 @@ Color quantization. Specifies color-quantization attributes for GIF output conve
 
 Generate a GIF thumbnail using the ' `web`' palette and no dithering:
 
-[!DNL http://server/myRootId/myImageId?req=tmb&fmt=gif&quantize=web,off]
+[!DNL `http://server/myRootId/myImageId?req=tmb&fmt=gif&quantize=web,off`]
 
-Convert image to a bi-tonal GIF with key-color transparency and force colors to black and white:
+Convert the image to a bi-tonal GIF with key-color transparency and force colors to black and white:
 
-[!DNL http://server/is/agm/myRootId/myImageId?fmt=gif-alpha&wid=100&quantize=adaptive,off,2,000000,ffffff]
+[!DNL `http://server/is/agm/myRootId/myImageId?fmt=gif-alpha&wid=100&quantize=adaptive,off,2,000000,ffffff`]

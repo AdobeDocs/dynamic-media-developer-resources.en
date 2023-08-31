@@ -1,7 +1,7 @@
 ---
+title: MetadataField
 description: User-defined field definitions for specific assets.
 solution: Experience Manager
-title: MetadataField
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Admin
 exl-id: 97175076-9078-4bc4-b3ea-73c3ea772f6a
@@ -66,7 +66,7 @@ User-defined field definitions for specific assets.
   <tr> 
    <td colname="col1"> <span class="codeph"> <span class="varname"> initialTagValue</span> </span> </td> 
    <td colname="col2"> <span class="codeph"> xsd:string</span> </td> 
-   <td colname="col3"> Allows you create a set of shared enumerated values that selected tags can point to. </td> 
+   <td colname="col3"> It lets you create a set of shared specified values that selected tags can point to. </td> 
   </tr> 
  </tbody> 
 </table>

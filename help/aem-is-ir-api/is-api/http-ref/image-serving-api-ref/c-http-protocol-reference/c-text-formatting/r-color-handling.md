@@ -1,7 +1,7 @@
 ---
+title: Color handling
 description: The RTF specification permits RGB color values specified with &bsol;colortbl. Each component is provided separately with the &bsol;red, &bsol;green, and &bsol;blue commands.
 solution: Experience Manager
-title: Color handling
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 590ed0f1-8d78-4afc-ac9e-c28272cd24a6
@@ -12,21 +12,21 @@ The RTF specification permits RGB color values specified with `\colortbl`. Each 
 
 The proprietary RTF extension command `\cmykcolortbl` allows specifying CMYK colors, with each color component provided with the `\cyan`, `\magenta`, `\yellow`, and `\black` commands.
 
-Color component values for `\colortbl` are in the range 0 to 255. Component values for `\cmykcolortbl` are in the range 0 to 100.
+Color component values for `\colortbl` are in the range 0&ndash;255. Component values for `\cmykcolortbl` are in the range 0&ndash;100.
 
-The RTF extension command `\*\iscolortbl`, supported by `textPs=`, provides a way to specify a color table with standard Image Serving color values, with full RGB, gray, CMYK and alpha support. It has the following syntax:
+The RTF extension command `\*\iscolortbl`, supported by `textPs=`, provides a way to specify a color table with standard Image Serving color values, with full RGB, gray, CMYK, and alpha support. It has the following syntax:
 
 ` {\&#42;\iscolortbl; *[!DNL colors]*;}`
 
 *[!DNL colors]* one or more IS color values, separated with ';'
 
-More than one type of color table may be specified in the same `text=` or `textPs=` RTF string. Each color table can have a different number of entries. Image Serving will attempt to find colors in this order: `\iscolortbl` before `\cmykcolortbl` (only if the pixel type of the text layer is CMYK) before `\colortbl`. For `textPs=` only, colors are accurately converted between CMYK and RGB, if so required (e.g. when RGB colors are specified but CMYK output is required). If no color for a particular index value is found, the default color (black) is used.
+More than one type of color table may be specified in the same `text=` or `textPs=` RTF string. Each color table can have a different number of entries. Image Serving attempts to find colors in this order: `\iscolortbl` before `\cmykcolortbl` (only if the pixel type of the text layer is CMYK) before `\colortbl`. For `textPs=` only, colors are accurately converted between CMYK and RGB, if so required (for example, when RGB colors are specified but CMYK output is required). If no color for a particular index value is found, the default color (black) is used.
 
 Refer to [color](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-data-types/r-is-http-color.md) for a description of the syntax of IS color values.
 
 ## Restrictions {#section-c5173e672d854e4aa9656844f7fc4d0e}
 
-`text=` does not support `\*\iscolortbl`. `textPs=` does not support `\cmykcolortbl`.
+The modifier `text=` does not support `\*\iscolortbl`. The modifier `textPs=` does not support `\cmykcolortbl`.
 
 Color selections are ignored when rendering Photofonts.
 

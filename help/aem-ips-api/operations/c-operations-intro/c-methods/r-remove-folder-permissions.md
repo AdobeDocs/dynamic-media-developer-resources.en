@@ -1,7 +1,7 @@
 ---
+title: removeFolderPermissions
 description: Removes folder permissions.
 solution: Experience Manager
-title: removeFolderPermissions
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 10830980-d504-4610-96c9-730937453256
@@ -50,7 +50,7 @@ Removes folder permissions.
    <td colname="col3"> Yes </td> 
    <td colname="col4"> <p>When <span class="codeph"> true</span>: 
      <ul id="ul_1305D060E0F34A61AA3C827E43F296E6"> 
-      <li id="li_AB8705F3CEAD4B8A8F1C28291A6F7EC8">Permissions removal propagates through all of the folder permission operations. </li> 
+      <li id="li_AB8705F3CEAD4B8A8F1C28291A6F7EC8">Permissions removal propagates through all folder permission operations. </li> 
      </ul> </p> <p>When <span class="codeph"> false</span>: 
      <ul id="ul_19AEE80F1FC84B64AD623E050C12A0CD"> 
       <li id="li_B8B78851004C43DB8CB7958E380AF510">The operation affects the specified folder only. </li> 
@@ -65,7 +65,7 @@ The IPS API does not return a response for this operation.
 
 ## Examples {#section-04390f0ec7cc460cb5d34d518e33e7a5}
 
-This code sample removes permissions from a folder and its sub-folders. Set `updateChildren` to `false` if you need to remove permissions from the parent folder only.
+This code sample removes permissions from a folder and its subfolders. Set `updateChildren` to `false` to remove permissions from the parent folder only.
 
 **Request** 
 

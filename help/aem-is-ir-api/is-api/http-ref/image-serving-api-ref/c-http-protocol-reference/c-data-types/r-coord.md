@@ -1,6 +1,6 @@
 ---
 title: coord
-description: Pixel coordinates. Used to specify image coordinates in the form of a pixel offset relative to the top-left corner of an image or layer rectangle. These are often used in image offsets or crop parameters. 
+description: Pixel coordinates. Used to specify image coordinates in the form of a pixel offset relative to the top-left corner of an image or layer rectangle. These coordinates are often used in image offsets or crop parameters. 
 solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
@@ -8,7 +8,7 @@ exl-id: 12ca4002-a540-4eb9-bb11-824d7cb41d30
 ---
 # coord{#coord}
 
-Pixel coordinates. Used to specify image coordinates in the form of a pixel offset relative to the top-left corner of an image or layer rectangle. These are often used in image offsets or crop parameters.
+Pixel coordinates. Used to specify image coordinates in the form of a pixel offset relative to the top-left corner of an image or layer rectangle. These coordinates are often used in image offsets or crop parameters.
 
 <table id="simpletable_A686120953124ACB8803CB9C877252AB"> 
  <tr class="strow"> 

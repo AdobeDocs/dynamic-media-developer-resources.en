@@ -1,7 +1,7 @@
 ---
-description: Default image modification time stamp. Provides a default value for catalog TimeStamp.
-solution: Experience Manager
 title: TimeStamp
+description: Default image modification time stamp. It provides a default value for catalog TimeStamp.
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: e137f795-e0f7-4b72-b7e8-188e254bbb45
@@ -10,23 +10,23 @@ exl-id: e137f795-e0f7-4b72-b7e8-188e254bbb45
 
 Default image modification time stamp. Provides a default value for catalog::TimeStamp.
 
- If not specified, the server will use the modification date/time of this [!DNL *`catalog`*.ini] file.
+ If not specified, the server uses the modification date/time of this [!DNL *`catalog`*.ini] file.
 
 ## Properties {#section-647066e62ce44a84b627fdd0b2f7cfec}
 
-Date/time value. Can be either the integer number of milliseconds since midnight, January 1, 1970 UTC/GMT or a date/time string value with one of the following formats:
+Date/time value. It can be either the integer number of milliseconds since midnight, January 1, 1970 UTC/GMT, or a date/time string value with one of the following formats:
 
-*`mm`*/ *`dd`*/ *`yyyy`* *`hh`*: *`mm`*: *`ss zzz`*
+The date/time value *`mm`*/ *`dd`*/ *`yyyy`* *`hh`*: *`mm`*: *`ss zzz`*
 
-*`mm`*/ *`dd`*/ *`yyyy`* *`hh`*: *`mm`*: *`ss`* GMT *`offset`*
+The date/time value *`mm`*/ *`dd`*/ *`yyyy`* *`hh`*: *`mm`*: *`ss`* GMT *`offset`*
 
-*`hh`* is in the range 0 to 23.
+The time value *`hh`* is in the range 0&ndash;23.
 
-*`zzz`* is a 3 or 4 character time zone code such as `GMT` or `PST`. Daylight savings time must be accounted for in the time zone code (e.g. `PST` for Pacific Standard Time, vs `PDT` for Pacific Daylight Savings Time).
+The time value *`zzz`* is a three or four character time zone code such as `GMT` or `PST`. Daylight savings time must be accounted for in the time zone code (for example, `PST` for Pacific Standard Time, vs `PDT` for Pacific Daylight Savings Time).
 
-*`offset`* is a time zone offset in hours or hours:minutes, relative to GMT. For example, `PDT` is equivalent to `GMT -7`.
+The time value *`offset`* is a time zone offset in hours or hours:minutes, relative to GMT. For example, `PDT` is equivalent to `GMT -7`.
 
-All elements of string formatted date/time values must be present. If the date/time value is not formatted correctly it is ignored and the modification time of the [!DNL *`catalog`*.ini] file is used instead.
+All elements of string-formatted date/time values must be present. If the date/time value is not formatted correctly, it is ignored and the modification time of the [!DNL *`catalog`*.ini] file is used instead.
 
 ## Default {#section-ac465313c97943ed97d41ea852329177}
 

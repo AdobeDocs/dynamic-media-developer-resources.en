@@ -1,14 +1,14 @@
 ---
-description: A process that re-rips an existing PDF asset.
-solution: Experience Manager
 title: RipPdfsJob
+description: A process that rerips an existing PDF asset.
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 7a787b45-3cda-44f2-8357-8b6217b679e0
 ---
 # [!DNL RipPdfsJob]{#rippdfsjob}
 
-A process that re-rips an existing PDF asset.
+A process that rerips an existing PDF asset.
 
 >[!NOTE]
 >
@@ -98,7 +98,7 @@ A process that re-rips an existing PDF asset.
   <tr> 
    <td colname="col1"> <p><span class="codeph"> <span class="varname"> postVideoPublishJob</span> </span> </p> </td> 
    <td colname="col2"> <p><span class="codeph"> types:VideoPublishJob</span> </p> </td> 
-   <td colname="col3"> <p>Job details for a video publish job to be run after the upload is complete. </p> </td> 
+   <td colname="col3"> <p>Job details for a video publishing job to be run after the upload is complete. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p><span class="codeph"> <span class="varname"> inDesignOptions</span> </span> </p> </td> 
@@ -108,7 +108,7 @@ A process that re-rips an existing PDF asset.
   <tr> 
    <td colname="col1"> <p><span class="codeph"> <span class="varname"> knockoutBackground</span> </span> </p> </td> 
    <td colname="col2"> <p><span class="codeph"> types:KnockoutBackgroundOptions</span> </p> </td> 
-   <td colname="col3"> <p>Mask the background for selected images. This lets you overlay them in other layers with a transparency outside of subject image. </p> <p>Optional. </p> <p>See<a href="../../types/c-data-types/r-knockout-background-options.md#reference-9196371848964d91842b337640791c9c" format="dita" scope="local"> KnockoutBackgroundOptions</a> </p> </td> 
+   <td colname="col3"> <p>Mask the background for selected images. This ability lets you overlay them in other layers with a transparency outside of the subject image. </p> <p>Optional. </p> <p>See<a href="../../types/c-data-types/r-knockout-background-options.md#reference-9196371848964d91842b337640791c9c" format="dita" scope="local"> KnockoutBackgroundOptions</a> </p> </td> 
   </tr> 
  </tbody> 
 </table>

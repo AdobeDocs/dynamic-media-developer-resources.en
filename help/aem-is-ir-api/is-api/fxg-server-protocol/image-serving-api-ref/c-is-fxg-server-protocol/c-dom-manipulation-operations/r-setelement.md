@@ -1,7 +1,7 @@
 ---
+title: setElement
 description: Set XML to a s7 elementID.
 solution: Experience Manager
-title: setElement
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 979e6070-6e24-4caf-9d87-2c80b734c996
@@ -12,7 +12,7 @@ Set XML to a s7:elementID.
 
  `setElement.elementID=<XML>`
 
-If a FXG node element has a `s7:elementID` defined, the `<XML>` value is replaced as a child element. The `<XML>` must be encoded.
+If an FXG node element has a `s7:elementID` defined, the `<XML>` value is replaced as a child element. The `<XML>` must be encoded.
 
 ## Example {#section-f23a998b18994dd3b5d4e1965718db9f}
 

@@ -1,8 +1,7 @@
 ---
+title: TableOfContents.maxitems
 description: TableOfContents.maxitems
 solution: Experience Manager
-title: TableOfContents.maxitems
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: c2e559d9-96c7-4d0f-8aa6-a60d9e42c7c4
@@ -15,7 +14,7 @@ exl-id: c2e559d9-96c7-4d0f-8aa6-a60d9e42c7c4
  <tbody> 
   <tr> 
    <td> <p> <span class="codeph"><span class="varname"> maxitems</span></span> </p> </td> 
-   <td> <p>The maximum number of items in the drop-down table of contents. </p> <p>Additionally, you can decrease the number of visible items in the drop-down in case it becomes cropped by the outer container. </p> <p>When set to <span class="codeph"> 0</span> that component shows as many items as possible given the container it is added to. </p> </td> 
+   <td> <p>The maximum number of items in the drop-down table of contents. </p> <p>Also, you can decrease the number of visible items in the drop-down in case it becomes cropped by the outer container. </p> <p>When set to <span class="codeph"> 0</span> that component shows as many items as possible given the container it is added to. </p> </td> 
   </tr> 
  </tbody> 
 </table>

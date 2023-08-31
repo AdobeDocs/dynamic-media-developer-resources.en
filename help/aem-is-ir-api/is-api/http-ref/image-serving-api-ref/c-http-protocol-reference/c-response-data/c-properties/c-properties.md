@@ -1,7 +1,7 @@
 ---
+title: Properties
 description: Property data is returned in response to several req= types.
 solution: Experience Manager
-title: Properties
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 748f68a1-f3ec-4249-a257-1115bcb3ee4c

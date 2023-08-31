@@ -2,7 +2,7 @@
 
 ## Documentation Philosophy
 
-We know that Adobe Dynamic Media users are working in highly competitive environments, striving to create digital experiences that will set them apart from their competitors. Therefore it is vital that when Adobe delivers advanced new tools, that these tools are complemented with accurate and clear documentation to allow the customer to immediately leverage their Dynamic Media investment and maximize ROI.
+Adobe knows that Adobe Dynamic Media users are working in highly competitive environments, striving to create digital experiences that set them apart from their competitors. Therefore it is vital that when Adobe delivers advanced new tools, that these tools are complemented with accurate and clear documentation to allow the customer to immediately leverage their Dynamic Media investment and maximize ROI.
 
 The goal of the documentation is to put up-to-date documentation into the hands of users as soon as possible. Therefore we prioritize accurate, usable documentation and strive to continually update and improve it.
 
@@ -22,7 +22,7 @@ The documentation covers standard use cases. Use cases beyond the scope of stand
 
 ### We do not generally document bugs or their workarounds.
 
-The documentation covers standard use cases. For this reason, bugs, effects caused by bugs, and workarounds for bugs are not generally not documented.
+The documentation covers standard use cases. For this reason, bugs, effects caused by bugs, and workarounds for bugs are not not documented.
 
 Exceptions to this rule apply to the release notes where known issues can be listed with possible solutions that have been approved by Product Management.
 
@@ -30,15 +30,15 @@ Exceptions to this rule apply to the release notes where known issues can be lis
 
 Any ideas you may have to improve the documentation are welcome as contributions. However comments, issues, and pull requests are intended for *contributions* only. They are not intended to be used to answer your questions about how to use Dynamic Media, implement your project, or solve technical problems.
 
-Any questions about the usage of Dynamic Media or technical errors you may have should be reported through the [Experience Cloud Enterprise Support portal](https://helpx.adobe.com/contact/enterprise-support.ec.html) or discussed in the [Experience Manager community.](https://forums.adobe.com/community/experience-cloud/marketing-cloud/experience-manager)
+Any questions about the usage of Dynamic Media or technical errors you may have should be reported through the [Experience Cloud Enterprise Support portal](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support) or discussed in the [Experience Manager community.](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)
 
-***Documentation contributions are not a replacement for Adobe Customer Care*** and any such contributions seeking answers to support-related questions will be rejected.
+***Documentation contributions are not a replacement for Adobe Customer Care*** and any such contributions seeking answers to support-related questions are rejected.
 
 ### Contributions must clearly reference affected documentation pages.
 
-If you create an issue to suggest improvements to the documentation, you must include links to the pages affected. If you create an issue by using the **Edit this page** link on a documentation page, the issue will be created with a link to the page automatically.
+If you create an issue to suggest improvements to the documentation, you must include links to the pages affected. If you create an issue by using the **Edit this page** link on a documentation page, the issue is created with a link to the page automatically.
 
-This does not apply to pull requests since pull requests by their nature reference the affected page(s).
+This process does not apply to pull requests because pull requests, by their nature, reference the affected pages.
 
 ## Documentation Guidelines
 
@@ -54,11 +54,11 @@ Following these guidelines makes the review of your contribution easier and ther
 * Keep sentences as simple as possible.
 * Keep the language clear and concise.
 
-Remember, readers of the documentation are worldwide and can not be expected to be native or fluent English speakers. Avoid colloquialisms and keep the language as clear and simple as possible.
+Remember, readers of the documentation are worldwide, and cannot be expected to be native or fluent English speakers. Avoid colloquialisms and keep the language as clear and simple as possible.
 
-#### Follow Microsoft Manual of Style
+#### Follow the Microsoft&reg; Manual of Style
 
-[The Microsoft Manual of Style](https://docs.microsoft.com/en-us/style-guide/welcome/) is a freely available documentation style guide that focuses on software documentation and Dynamic Media documentation follows this guide wherever possible.
+[The Microsoft&reg; Manual of Style](https://learn.microsoft.com/en-us/style-guide/welcome/) is a freely available documentation style guide that focuses on software documentation and Dynamic Media documentation follows this guide wherever possible.
 
 ### Formatting
 
@@ -68,11 +68,11 @@ Remember, readers of the documentation are worldwide and can not be expected to 
 |Filename, path, user-input, parameter-values|`monospaced`|
 |Code, command line|```Code Block```|
 
-### Screen Shots
+### Screenshots
 
-Screen shots are to be used judiciously and only when a textual description is insufficient.
+Screenshots are to be used judiciously and only when a textual description is insufficient.
 
-Markers or other annotations in screenshots (like red frames, arrows or text) should not be used. This way the screenshots are easier to re-use or replicate in localized versions of the documentation.
+Markers or other annotations in screenshots (like red frames, arrows, or text) should not be used. The reason is because screenshots are easier to reuse or replicate in localized versions of the documentation.
 
 ### Version-Specific References
 
