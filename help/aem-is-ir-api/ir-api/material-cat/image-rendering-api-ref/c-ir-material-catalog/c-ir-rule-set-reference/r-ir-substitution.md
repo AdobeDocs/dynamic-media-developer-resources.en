@@ -1,7 +1,7 @@
 ---
+title: substitution
 description: Substitution string element. Optional in <rule> elements.
 solution: Experience Manager
-title: substitution
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: ea44d940-e8dd-4a25-a082-3ed3c0f57e45
@@ -20,13 +20,13 @@ Substitution string.
 
 ## Description {#section-b6ab78ca5b0b4d508c71e553566cc9f3}
 
-Defines a replacement string for the matched string or sub-string in the path or query.
+Defines a replacement string for the matched string or substring in the path or query.
 
-If the pattern expression includes sub-expressions (delimited with parentheses), the first matched sub-string is replaced with the substitution string. If the pattern expression does not include sub-expressions, the entire matched string is substituted.
+If the pattern expression includes subexpressions (delimited with parentheses), the first matched substring is replaced with the substitution string. If the pattern expression does not include subexpressions, the entire matched string is substituted.
 
 If `<expression>` is empty or absent, the substitution string is appended to the path or query.
 
-If `<substitution>` is empty, the matched string or sub-string is removed. If `<substitution>` is not specified, the path or query string is not modified.
+If `<substitution>` is empty, the matched string or substring is removed. If `<substitution>` is not specified, the path or query string is not modified.
 
 ## Note {#section-90fe89bb17a04804b7ff3c93df082892}
 

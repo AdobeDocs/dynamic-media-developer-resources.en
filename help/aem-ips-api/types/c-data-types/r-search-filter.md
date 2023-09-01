@@ -1,7 +1,7 @@
 ---
+title: SearchFilter
 description: Filters that help you define search criteria to make searches more efficient.
 solution: Experience Manager
-title: SearchFilter
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: b3a26966-33c9-48ca-b0ed-d05fc0e2050f
@@ -26,7 +26,7 @@ Filters that help you define search criteria to make searches more efficient.
   <tr> 
    <td colname="col1"> <span class="codeph"> <span class="varname"> folder</span> </span> </td> 
    <td colname="col2"> <span class="codeph"> xsd:string</span> </td> 
-   <td colname="col3"> Specify the folder you want to search. Leave blank to search across and entire company. </td> 
+   <td colname="col3"> Specify the folder that you want to search. Leave blank to search across and entire company. </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <span class="codeph"> <span class="varname"> includeSubfolders</span> </span> </td> 
@@ -40,22 +40,22 @@ Filters that help you define search criteria to make searches more efficient.
   <tr> 
    <td colname="col1"> <span class="codeph"> <span class="varname"> assetTypeArray</span> </span> </td> 
    <td colname="col2"> <span class="codeph"> type:StringArray</span> </td> 
-   <td colname="col3">A list of asset types that you want to return in a search. For example, <span class="codeph"> image</span>. </td> 
+   <td colname="col3">A list of asset types that you want to return in a search. For example, the <span class="codeph"> image</span>. </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <span class="codeph"> <span class="varname"> excludeAssetTypeArray</span> </span> </td> 
    <td colname="col2"> <span class="codeph"> type:StringArray</span> </td> 
-   <td colname="col3"> Specify an asset type to exclude from a search. For example, image. </td> 
+   <td colname="col3"> Specify an asset type to exclude from a search. For example, the image. </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <span class="codeph"> <span class="varname"> assetSubTypeArray</span> </span> </td> 
    <td colname="col2"> <span class="codeph"> type:StringArray</span> </td> 
-   <td colname="col3">A list of asset sub-types you want to return in a search. For example, for an <span class="codeph"> AssetSet</span>, you can search for the <span class="codeph"> MediaType</span> sub-type. </td> 
+   <td colname="col3">A list of asset subtypes you want to return in a search. For example, for an <span class="codeph"> AssetSet</span>, you can search for the <span class="codeph"> MediaType</span> subtype. </td> 
   </tr> 
   <tr> 
    <td colname="col1"><span class="codeph"><span class="varname"> strictSubTypeCheck</span></span> </td> 
    <td colname="col2"><span class="codeph"> xsd:boolean</span> </td> 
-   <td colname="col3"> <p>An optional boolean flag that specifies whether to return assets with no subtype when <span class="codeph"> assetSubTypeArray</span> is passed. </p> <p>If true, then only assets with one of the specified subtypes is returned. </p> <p>If false, then assets with no subtype are also returned. </p> <p>Defaults is false. </p> </td> 
+   <td colname="col3"> <p>An optional boolean flag that specifies whether to return assets with no subtype when <span class="codeph"> assetSubTypeArray</span> is passed. </p> <p>If true, then only assets with one of the specified subtypes is returned. </p> <p>If false, then assets with no subtype are also returned. </p> <p>Default is false. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <span class="codeph"> <span class="varname"> excludeByproducts</span> </span> </td> 
@@ -69,7 +69,7 @@ Filters that help you define search criteria to make searches more efficient.
   <tr> 
    <td colname="col1"> <span class="codeph"> <span class="varname"> projectHandle</span> </span> </td> 
    <td colname="col2"> <span class="codeph"> xsd:string</span> </td> 
-   <td colname="col3"> Handle to the project you want to search. </td> 
+   <td colname="col3"> Handle to the project that you want to search. </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <span class="codeph"> <span class="varname"> publishState</span> </span> </td> 

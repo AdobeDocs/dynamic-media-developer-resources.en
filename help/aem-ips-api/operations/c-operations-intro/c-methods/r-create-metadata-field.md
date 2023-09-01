@@ -1,14 +1,14 @@
 ---
-description: Lets administrators create new metadata fields to coordinate with content management systems or for template operations. Examples of created metadata fields include keywords, information about the author of the image, or copyright holder information.
-solution: Experience Manager
 title: createMetadataField
+description: It lets administrators create metadata fields to coordinate with content management systems or for template operations. Examples of created metadata fields include keywords, information about the author of the image, or copyright holder information.
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Admin
 exl-id: eac7fa54-ebe2-4f42-a478-d9a6fb54d1b6
 ---
 # createMetadataField{#createmetadatafield}
 
-Lets administrators create new metadata fields to coordinate with content management systems or for template operations. Examples of created metadata fields include keywords, information about the author of the image, or copyright holder information.
+It lets administrators create metadata fields to coordinate with content management systems or for template operations. Examples of created metadata fields include keywords, information about the author of the image, or copyright holder information.
 
  Syntax 
 
@@ -34,7 +34,7 @@ Lets administrators create new metadata fields to coordinate with content manage
    <td colname="col1"> <span class="codeph"> <span class="varname"> companyName</span> </span> </td> 
    <td colname="col2"> <span class="codeph"> xsd:string</span> </td> 
    <td colname="col3"> Yes </td> 
-   <td colname="col4"> Name of the company the metadata field belongs to. </td> 
+   <td colname="col4"> The name of the company that the metadata field belongs to. </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <span class="codeph"> <span class="varname"> assetType</span> </span> </td> 
@@ -76,7 +76,7 @@ Lets administrators create new metadata fields to coordinate with content manage
    <td colname="col1"> <span class="codeph"> <span class="varname"> initialTagValue</span> </span> </td> 
    <td colname="col2"> <span class="codeph"> xsd:string</span> </td> 
    <td colname="col3"> No </td> 
-   <td colname="col4"> Allows you create a set of shared enumerated values that selected tags can point to. </td> 
+   <td colname="col4"> It lets you create a set of shared specific values that selected tags can point to. </td> 
   </tr> 
  </tbody> 
 </table>

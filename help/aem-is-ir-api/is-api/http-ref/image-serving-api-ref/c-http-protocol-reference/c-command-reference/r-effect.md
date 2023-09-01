@@ -21,15 +21,15 @@ Select Effect Layer. Selects an effect layer and starts a new layer segment in t
 
 All commands within the new segment are applied to the specified effect layer. An effect layer segment is terminated by the next `layer=` or `effect=` command or by the end of the request.
 
-*`n`* must be less than 0 for outer layer effects (i.e. effects behind the parent layer) and greater than 0 for inner layer effects (i.e. effects within the parent layer). Effect layer numbers do not have to be consecutive.
+The value *`n`* must be less than 0 for outer layer effects (that is, effects behind the parent layer) and greater than 0 for inner layer effects (that is, effects within the parent layer). Effect layer numbers do not have to be consecutive.
 
-The effect layer number specifies the z-order, in case of multiple effect layers for the same parent layer. Higher-numbered layers are placed on top of lower-numbered layers.
+The effect layer number specifies the z-order, if there are multiple effect layers for the same parent layer. Higher-numbered layers are placed on top of lower-numbered layers.
 
 Effect layers may be attached to `layer=comp`.
 
 ## Properties {#section-e11f795deff345779ce280a82cf221ca}
 
-Effect layer command. *`n`* must not be 0.
+Effect layer command. The value *`n`* must not be 0.
 
 ## Default {#section-84bbe1cfe7a94040827c994323ac59d4}
 

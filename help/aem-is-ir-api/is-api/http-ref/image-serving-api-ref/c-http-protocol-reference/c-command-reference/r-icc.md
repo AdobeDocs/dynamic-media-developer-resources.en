@@ -31,15 +31,15 @@ Output Color Profile.
  </tr> 
 </table>
 
-*`object`* specifies the output color space profile to which the image should be converted if it is different than the working profile. *`profile`* must be either a valid `icc::Name` defined in the ICC profile map of an image catalog or default catalog, or a relative path to a profile file (typically with [!DNL .icc] or [!DNL .icm] suffix). See [ *`object`*](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-data-types/r-object.md#reference-2591bd24548d462782c68d138ef795a0) for additional information.
+The value *`object`* specifies the output color space profile to which the image should be converted if it is different from the working profile. The value *`profile`* must be either a valid `icc::Name` defined in the ICC profile map of an image catalog or default catalog, or a relative path to a profile file (typically with [!DNL .icc] or [!DNL .icm] suffix). See [ *`object`*](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-data-types/r-object.md#reference-2591bd24548d462782c68d138ef795a0) for additional information.
 
 >[!NOTE]
 >
->*`object`* may not include ',' characters, even if HTTP-encoded.
+>The value *`object`* may not include ',' characters, even if HTTP-encoded.
 
-*`renderIntent`* allows overriding the default rendering intent.
+The value *`renderIntent`* allows overriding the default rendering intent.
 
-*`blackpointComp`* enables blackpoint compensation if the output profile supports this feature.
+The value *`blackpointComp`* enables blackpoint compensation if the output profile supports this feature.
 
 >[!NOTE]
 >
@@ -47,17 +47,17 @@ Output Color Profile.
 
 Note
 
-*`dither`* enables dithering (actually error diffusion), which may avoid or reduce color banding artifacts.
+The modifier *`dither`* enables dithering (actually error diffusion), which may avoid or reduce color banding artifacts.
 
 ## Properties {#section-9fcd3e7bd1fd43c887b0f18a2f3c7259}
 
-Request attribute. The server will return an error if an image type is specified with `fmt=` which does not match *`profile`*.
+Request attribute. The server returns an error if an image type is specified with `fmt=` which does not match *`profile`*.
 
-*`renderIntent`* and *`blackpointComp`* are ignored if not compatible with the specified ICC profile. CMYK output device profiles are more likely to support different rendering intents.
+The modifiers *`renderIntent`* and *`blackpointComp`* are ignored if not compatible with the specified ICC profile. CMYK output device profiles are more likely to support different rendering intents.
 
 ## Default {#section-0b9fe2eb428447df8ae9948f11ab5aae}
 
-If color management is enabled and `icc=` is not specified, the server will deliver the image converted to the output profile ( `attribute::IccProfile*`) matching the image type specified with `fmt=`.
+If color management is enabled and `icc=` is not specified, the server delivers the image converted to the output profile ( `attribute::IccProfile*`) matching the image type specified with `fmt=`.
 
 If not specified, *`renderIntent`* is inherited from `attribute::IccRenderIntent`, *`blackpointComp`* is inherited from `attribute::IccBlackPointCompensation`, and *`dither`* is inherited from `attribute::IccDither`.
 

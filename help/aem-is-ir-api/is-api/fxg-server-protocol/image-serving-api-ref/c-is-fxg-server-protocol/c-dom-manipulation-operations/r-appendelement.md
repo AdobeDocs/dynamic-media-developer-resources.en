@@ -1,7 +1,7 @@
 ---
+title: appendElement
 description: Append XML to a s7 elementID.
 solution: Experience Manager
-title: appendElement
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: f93bc31e-c0ae-4375-bb6a-eba6f11945b2
@@ -12,7 +12,7 @@ Append XML to a s7:elementID.
 
  `appendElement.elementID=<XML>`
 
-If a FXG node element has a `s7:elementID` defined, the `<XML>` value is appended as a child element. The `<XML>` must be encoded.
+If an FXG node element has a `s7:elementID` defined, the `<XML>` value is appended as a child element. The `<XML>` must be encoded.
 
 ## Example {#section-4368570aa198485d91b73b4d0741478f}
 

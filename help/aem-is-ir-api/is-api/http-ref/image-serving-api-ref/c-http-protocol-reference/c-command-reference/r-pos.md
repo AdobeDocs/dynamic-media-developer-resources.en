@@ -25,11 +25,11 @@ posN= *`coordN`*
  </tr> 
 </table>
 
-In case of image, text, and solid color layers, `pos=` specifies the position of a layer anchor relative to the layer 0 anchor. `posN=` coordinate values are normalized relative to the actual layer 0 rect size.
+If there is an image, text, and solid color layers, `pos=` specifies the position of a layer anchor relative to the layer 0 anchor. The `posN=` coordinate values are normalized relative to the actual layer 0 rect size.
 
-In case of effect layers, `pos=` shifts the effect layer relative to the parent layer.
+If there are effect layers, `pos=` shifts the effect layer relative to the parent layer.
 
-Positive values move the layer towards the right/bottom, negative towards the left/top. `posN=0.5,0.5` moves the layer by half the layer 0 width and height down and right.
+Positive values move the layer towards the right/bottom, and negative towards the left/top. In `posN=0.5,0.5`, it moves the layer by half the layer 0 width and height down and right.
 
 ## Properties {#section-51a60cdc52d040538fef378ace7c2e7d}
 
@@ -37,7 +37,7 @@ Layer attribute. Ignored if `layer=0` or `layer=comp`.
 
 ## Default {#section-70a6bc71ded5494e843194dfb6bf5a6c}
 
-`posN=0,0`. This places the layer anchor at the same location as the layer 0 anchor if this is an image, text, or solid color layer. Positions an effect layer directly over or under its parent layer.
+`posN=0,0`. This coordinate places the layer anchor at the same location as the layer 0 anchor if this is an image, text, or solid color layer. Positions an effect layer directly over or under its parent layer.
 
 ## Example {#section-a89a02c22f6b4260bfcf7c842cd6069d}
 

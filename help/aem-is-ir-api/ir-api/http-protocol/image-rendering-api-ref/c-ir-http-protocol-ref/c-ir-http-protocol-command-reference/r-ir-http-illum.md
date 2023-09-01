@@ -1,6 +1,6 @@
 ---
 title: illum
-description: Illumination map selector. Specifies the illumination map this material prefers to be rendered with.
+description: Illumination map selector. Specifies the illumination map that this material prefers to be rendered with.
 solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
@@ -8,7 +8,7 @@ exl-id: e1af2397-8eae-4b77-abb1-61ba8cb866f3
 ---
 # illum{#illum}
 
-Illumination map selector. Specifies the illumination map this material prefers to be rendered with.
+Illumination map selector. Specifies the illumination map that this material prefers to be rendered with.
 
  `illum=-1|0|1|2`
 

@@ -19,7 +19,7 @@ Rotate image. Rotates the image, text, or solid color layer by the specified ang
  </tr> 
 </table>
 
-Positive angles rotate clockwise. The layer anchor point ( `anchor=` or `catalog::Anchor`) serves as the center-of-rotation. The layer rectangle is enlarged and fitted around the rotated data as needed to avoid cropping. Rotation is applied after filling the layer's background area with `color=`. `bgColor=` can be used to add background color to the bounding rectangle after rotation.
+Positive angles rotate clockwise. The layer anchor point ( `anchor=` or `catalog::Anchor`) serves as the center-of-rotation. The layer rectangle is enlarged and fitted around the rotated data as needed to avoid cropping. Rotation is applied after filling the layer's background area with `color=`. The modifier `bgColor=` can be used to add background color to the bounding rectangle after rotation.
 
 ## Properties {#section-8b5a9bb9062f48dbb8d4e9953ff39e39}
 
@@ -31,13 +31,13 @@ Layer command. Applies to the current layer or to layer 0 if `layer=comp`. Ignor
 
 ## Example {#section-e8ab3ba8a8624b43aeaaa8f089fc2f00}
 
-Place an "On Sale" label near the top-left corner of images in an image catalog. The label image is already sized correctly for the 300x300 view and should be rotated 30 degrees to the left. Fill the text box with a white, semi-opaque color to enhance the label.
+Place an "On Sale" label near the top-left corner of images in an image catalog. The label image is already sized correctly for the 300x300 view and should be rotated 30° to the left. To enhance the label, fill the text box with a white, semi-opaque color.
 
 `http:// *`server`*/myRootId/myImageId?scl=1&size=300,300&origin=-0.5,-0.5 &layer=1&src=labelImage&origin=-0.5,-0.5&rotate=-30&color=ffffff40`
 
-We apply `size=` to layer 0 to set the view size, rather than using `wid=` and `hei=`. This allows `myImageId` to be resized while not changing the final size of `labelImage`. We also need to specify `scl=1`, otherwise the composite image might be scaled to `attribute::DefaultPix` (unless that is set to 0,0). `color=` adds the semi-opaque background color to the text box before rotation.
+Apply `size=` to layer 0 to set the view size, rather than using `wid=` and `hei=`. This method allows `myImageId` to be resized while not changing the final size of `labelImage`. Also, specify `scl=1`, otherwise the composite image might be scaled to `attribute::DefaultPix` (unless that is set to 0,0). The modifier `color=` adds the semi-opaque background color to the text box before rotation.
 
-The origin for both layers is set to the top-left corners, to achieve the desired alignment. Note that the origin point for layer 1 applies to `labelImage`after it has been rotated.
+The origin for both layers is set to the top-left corner to achieve the desired alignment. The origin point for layer 1 applies to `labelImage`after it is rotated.
 
 See [Example A](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-templates/r-example-a.md#reference-c78ea82e8a1646738e764fa6685dfbac) in [Templates](../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-templates/c-templates.md#concept-3cd2d2adae0e41b2979b9640244d4d3e) for an example of rotated text.
 

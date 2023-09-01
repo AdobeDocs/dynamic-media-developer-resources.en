@@ -1,7 +1,7 @@
 ---
+title: UnCompressOptions
 description: Upload setting to process ZIP and TAR files as primary assets (None) or to extract and upload their contents (UnCompress).
 solution: Experience Manager
-title: UnCompressOptions
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 89222959-3701-4ea6-bcae-98ceec93764f
@@ -12,7 +12,7 @@ Upload setting to process ZIP and TAR files as primary assets (None) or to extra
 
 >[!NOTE]
 >
->`None` is default.
+>The setting `None` is the default.
 
 ## Parameters {#section-10e49e27f60743da970a4ff1c4587eab}
 
@@ -28,11 +28,11 @@ Upload setting to process ZIP and TAR files as primary assets (None) or to extra
   <tr> 
    <td colname="col1"> <span class="codeph"> <span class="varname"> process</span> </span> </td> 
    <td colname="col2"> <span class="codeph"> xsd:string</span> </td> 
-   <td colname="col3"> <p>Controls ZIP and TAR archive file processing. Provides 2 options: 
+   <td colname="col3"> <p>Controls ZIP and TAR archive file processing. It provides two options: 
      <ul id="ul_F34E2F3B9B74450CA7E76BD9FD7137C2">
       <li id="li_E982468ED814446593B0C0A3F3D729FB"><span class="codeph"> None:</span> Process as primary assets. </li>
-      <li id="li_4A45DA99592B4EF7A1FE0A946A835104"><span class="codeph"> UnCompress:</span> Extract and process contents. </li>
-     </ul><p>Note: String constants are case sensitive. Use <span class="codeph"> UnCompress</span>, not <span class="codeph"> uncompress</span> or <span class="codeph"> unCompress</span>. </p></p> </td> 
+      <li id="li_4A45DA99592B4EF7A1FE0A946A835104"><span class="codeph"> UnCompress:</span> Extract and process the contents. </li>
+     </ul><p>Note: String constants are case-sensitive. Use <span class="codeph"> UnCompress</span>, not <span class="codeph"> uncompress</span>, or <span class="codeph"> unCompress</span>. </p></p> </td> 
   </tr> 
  </tbody> 
 </table>

@@ -1,6 +1,6 @@
 ---
 title: rect
-description: Final view rectangle. Allows the final view image to be disassembled into several strips or tiles, which can be delivered separately and reassembled by the client seamlessly, with no artifacts along the edges.
+description: Final view rectangle. It allows the final view image to be disassembled into several strips or tiles, which can be delivered separately and reassembled by the client seamlessly, with no artifacts along the edges.
 solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
@@ -8,7 +8,7 @@ exl-id: 1870001b-7904-470f-9582-984d453509ca
 ---
 # rect{#rect}
 
-Final view rectangle. Allows the final view image to be disassembled into several strips or tiles, which can be delivered separately and reassembled by the client seamlessly, with no artifacts along the edges.
+Final view rectangle. It allows the final view image to be disassembled into several strips or tiles, which can be delivered separately and reassembled by the client seamlessly, with no artifacts along the edges.
 
  `rect= *`coord`*, *`size`*[, *`scale`*]`
 
@@ -31,11 +31,11 @@ Using this command, Image Serving can deliver large images via HTTP which would 
 
 >[!NOTE]
 >
->For best results when JPEG compression is used, the strip or tile size should be a multiple of the JPEG encoding tile size (16x16 pixels).
+>For best results, when JPEG compression is used, the strip or tile size should be a multiple of the JPEG encoding tile size (16x16 pixels).
 
 ## Example {#section-932fcfcb41d74a29bc929e4430c49601}
 
-Separate a printable CMYK image into several full-resolution strips to reduce the download file sizes. If we were to request a contiguous image:
+Separate a printable CMYK image into several full-resolution strips to reduce the download file sizes. If you requested a contiguous image:
 
 `http://server/is/image/cat/imageId?scl=1&op_usm=.9,2&bgc=ffffff&fmt=tif&icc=WebCoated`
 
@@ -47,15 +47,15 @@ The text response includes these properties:
 
 `image.width=2000 image.height=2400 image.version=37JK6NTvpvC42F5gOuLEVY`
 
-Based on this information, we decide that we want four 600x2000 pixel strips. The `rect=` command is used to describe the strip sizes and positions.
+Based on this information, four 600x2000 pixel strips are desired. The `rect=` command is used to describe the strip sizes and positions.
 
-Since this image is changed frequently, we will include the `id=` command to minimize the chance that we end up with one or more strips from an older version of the image which may have been cached in a CDN or proxy server. The value of the `image.version` property is used for this purpose.
+Because this image is changed frequently, the `id=` command is included. Doing so minimizes the chance of ending up with one or more strips from an older version of the image which may have been cached in a CDN or proxy server. The value of the `image.version` property is used for this purpose.
 
 `http://server/is/image/cat/imageId?scl=1&op_usm=.9,2&bgc=ffffff&id=37JK6NTvpvC42F5gOuLEVY&rect=0,0,2000,600 http://server/is/image/cat/imageId?scl=1&op_usm=.9,2&bgc=ffffff&id=37JK6NTvpvC42F5gOuLEVY&rect=0,600,2000,600 http://server/is/image/cat/imageId?scl=1&op_usm=.9,2&bgc=ffffff&id=37JK6NTvpvC42F5gOuLEVY&rect=0,1200,2000,600 http://server/is/image/cat/imageId?scl=1&op_usm=.9,2&bgc=ffffff&id=37JK6NTvpvC42F5gOuLEVY&rect=0,1800,2000,600`
 
 ## Properties {#section-aae223cee13e46d38b74680c048d945b}
 
-View attribute. Applies regardless of the current layer setting.
+View attribute. It applies regardless of the current layer setting.
 
 Any areas of the ROI extending outside the view image are padded with `bgc=`.
 

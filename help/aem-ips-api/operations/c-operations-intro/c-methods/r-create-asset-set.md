@@ -1,7 +1,7 @@
 ---
+title: createAssetSet
 description: Creates a generic asset set with a raw set definition string to be published to an Image Server.
 solution: Experience Manager
-title: createAssetSet
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Admin
 exl-id: 4565eb4f-eeb7-4b98-bfef-1a59e9a931af
@@ -39,7 +39,7 @@ Creates a generic asset set with a raw set definition string to be published to 
    <td colname="col1"> <span class="codeph"> <span class="varname"> companyHandle </span> </span> </td> 
    <td colname="col2"> <span class="codeph"> xsd:string </span> </td> 
    <td colname="col3"> Yes </td> 
-   <td colname="col4"> The handle to the company that will contain the asset set. </td> 
+   <td colname="col4"> The handle to the company that contains the asset set. </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <span class="codeph"> <span class="varname"> folderHandle </span> </span> </td> 
@@ -63,7 +63,7 @@ Creates a generic asset set with a raw set definition string to be published to 
    <td colname="col1"> <span class="codeph"> <span class="varname"> setDefinition </span> </span> </td> 
    <td colname="col2"> <span class="codeph"> xsd:string </span> </td> 
    <td colname="col3"> No </td> 
-   <td colname="col4"> The parameters in the set definition string. <p>These must resolve to the format specified by the target viewer. </p> </td> 
+   <td colname="col4"> The parameters in the set definition string. <p>These parameters must resolve to the format specified by the target viewer. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <span class="codeph"> <span class="varname"> thumbAssetHandle </span> </span> </td> 
@@ -76,7 +76,7 @@ Creates a generic asset set with a raw set definition string to be published to 
 
 **Substitution Functions for setDefinition**
 
-You can specify substitution functions in line which are resolved during catalog lookup or publication. Substitution strings have the format `${<substitution_func>}`. Available functions are enumerated below. 
+You can specify substitution functions inline which are resolved during catalog lookup or publication. Substitution strings have the format `${<substitution_func>}`. Available functions are outlined below. 
 
 >[!NOTE]
 >
@@ -87,7 +87,7 @@ You can specify substitution functions in line which are resolved during catalog
 |  `getFilePath([asset_handle>])`  | The asset's primary source file path.  |
 |  `getCatalogId([<asset_handle>])`  | The asset's catalog ID.  |
 |  `getMetaData([<asset_handle>], [<metadata_field_handle>])`  | Metadata values for the asset.  |
-|  `getThumbCatalogId([<asset_handle>])`  | The asset's catalog ID (for image-based assets only).The associated thumb asset's catalog ID (for other assets). If an associated thumb asset is not available, the function returns an empty string.  |
+|  `getThumbCatalogId([<asset_handle>])`  | The asset's catalog ID (for image-based assets only). The associated thumb asset's catalog ID (for other assets). If an associated thumb asset is not available, the function returns an empty string.  |
 
 **Sample Media setDefinition String** 
 
@@ -97,7 +97,7 @@ ${getCatalogId([a|1664|22|1664])};${getCatalogId([a|1664|22|1664])};1,${getFileP
 
 ```
 
-At catalog lookup or publish time, this is resolved to a string similar to the following: 
+At catalog lookup, or publish time, this process is resolved to a string similar to the following: 
 
 ```java
 jcompany/myRenderSet;jcompany/myRenderSet;1,jcompany/Videos/Somebodys_N08275_flv.flv;jcomp any/myimg-1;2;20090703 10:05:53

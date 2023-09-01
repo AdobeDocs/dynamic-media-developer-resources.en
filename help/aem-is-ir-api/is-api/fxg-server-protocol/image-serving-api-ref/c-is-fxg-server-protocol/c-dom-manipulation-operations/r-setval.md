@@ -1,18 +1,18 @@
 ---
-description: Set text node value for s7 elementID.
-solution: Experience Manager
 title: setVal
+description: Set the text node value for s7 elementID.
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 03ec2ffb-ad9a-4135-bc31-2d71284955f6
 ---
 # setVal{#setval}
 
-Set text node value for s7:elementID.
+Set the text node value for s7:elementID.
 
  `setVal.elementID= *[!DNL value]*`
 
-If a FXG node element has a `s7:elementID` defined, the text value for that node can be manipulated.
+If an FXG node element has a `s7:elementID` defined, the text value for that node can be manipulated.
 
 ## Example {#section-f574fd66dedd4a219aa537d7bdabea23}
 

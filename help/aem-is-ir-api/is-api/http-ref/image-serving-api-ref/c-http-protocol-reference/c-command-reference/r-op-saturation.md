@@ -31,6 +31,6 @@ Layer command. Applies to the current layer or to the composite image if `layer=
 
 ## Example {#section-033b272f1b7e4efeb94e841fd8095357}
 
-Manipulate a color photograph to achieve a "high-key" appearance:
+Manipulate a color photograph so you can achieve a "high-key" appearance:
 
 `http://server/myRootId/myImageId?op_saturation=-60&op_brightness=45&op_contrast=-35`

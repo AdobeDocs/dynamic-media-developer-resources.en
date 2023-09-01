@@ -28,16 +28,16 @@ Color quantization. Specifies color-quantization attributes for GIF output conve
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> colorList </span> </span> </p> </td> 
-   <td colname="col2"> <p>A comma-separated list of forced RGB colors in hex6 format </p> <p>Lets you specify colors to include in an <span class="codeph"> adaptive </span> palette. If the number of colors specified is less than <span class="codeph"> <span class="varname"> numColors </span> </span>, additional colors are calculated based on the image content. </p> </td> 
+   <td colname="col2"> <p>A comma-separated list of forced RGB colors in hex6 format </p> <p>Lets you specify the colors to include in an <span class="codeph"> adaptive </span> palette. If the number of colors specified is less than <span class="codeph"> <span class="varname"> numColors </span> </span>, additional colors are calculated based on the image content. </p> </td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Properties {#section-8ab5035055b24b858270d260912a7f3d}
 
-Request attribute. Applies regardless of current layer setting. Used only if `fmt=gif`, `fmt=gif-alpha`, `fmt=png8`, or `fmt=png8-alpha`. Ignored otherwise.
+Request attribute. It applies regardless of the current layer setting. Used only if `fmt=gif`, `fmt=gif-alpha`, `fmt=png8`, or `fmt=png8-alpha`. Ignored otherwise.
 
-The colors specified with *`colorList`* must consist of RGB values in hex6 format (see [color](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-color-commandref.md) without `0x` prefix. No other color specifiers are permitted. *`numColors`* must be between 2-256.
+The colors specified with *`colorList`* must consist of RGB values in hex6 format (see [color](/help/aem-is-ir-api/is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-color-commandref.md) without `0x` prefix. No other color specifiers are permitted. The modifier *`numColors`* must be 2&ndash;256.
 
 ## Default {#section-ca3e817617244e8798ccff67b2023a32}
 
@@ -47,11 +47,11 @@ The colors specified with *`colorList`* must consist of RGB values in hex6 forma
 
 Generate a GIF thumbnail using the `web` palette and no dithering:
 
-` http:// *`server`*/myRootId/myImageId?req=tmb&fmt=gif&quantize=web,off`
+`http:// *`*Server*`*/myRootId/myImageId?req=tmb&fmt=gif&quantize=web,off`
 
-Convert image to a bi-tonal GIF with key-color transparency and force colors to black and white:
+Convert the image to a bi-tonal GIF with key-color transparency and force colors to black and white:
 
-` http:// *`server`*/myRootId/myImageId?fmt=gif-alpha&wid=100&quantize=adaptive,off,2,000000,ffffff`
+`http:// *`*Server*`*/myRootId/myImageId?fmt=gif-alpha&wid=100&quantize=adaptive,off,2,000000,ffffff`
 
 ## See also {#section-ea5e8de6084540cf86010370a4d0f01f}
 

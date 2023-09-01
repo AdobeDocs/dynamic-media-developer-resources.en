@@ -25,7 +25,7 @@ Layer Clip Path. Specifies a clip path for the current layer.
  </tr> 
 </table>
 
-Any parts of the layer that fall outside the area defined by `clipPath=` are rendered transparent.
+Any parts of the layer that falls outside the area defined by `clipPath=` are rendered transparent.
 
 `*`pathName`*` is the name of a path embedded in the layer source image. The path is automatically transformed to maintain relative alignment with the image contents. If more than one `*`pathName`*` is specified, the server clips the image to the intersection of these paths. Any `*`pathName`*` not found in the source image is ignored.
 
@@ -37,13 +37,13 @@ Any parts of the layer that fall outside the area defined by `clipPath=` are ren
 
 If `size=` is specified and not 0,0, the layer is presized. In this case, path coordinates are relative to the upper-left corner of the layer rectangle and the layer is positioned based on `origin=` or its default. Any regions of the path outside the layer rectangle remain transparent.
 
-If `size=` is not specified for a solid color or text layer, the layer is considered self-sizing with the extent of the path determining its size. If `origin=` is not specified, it defaults to (0,0) of the path coordinate space. This effectively allows path coordinates to be specified relative to the origin of layer 0.
+If `size=` is not specified for a solid color or text layer, the layer is considered self-sizing with the extent of the path determining its size. If `origin=` is not specified, it defaults to (0,0) of the path coordinate space. This workflow process effectively allows path coordinates to be specified relative to the origin of layer 0.
 
 >[!NOTE]
 >
 >`scale=`, `rotate=`, and `anchor=` commands are not permitted for self-sizing solid color layers.
 
-`*`pathDefinition`*` accepts a string similar to the value of the `d=` attribute of the SVG `<path>` element, except that commas are used instead of spaces to separate values. `*`pathDefinition`*` can include one or more closed-loop sub-paths.
+`*`pathDefinition`*` accepts a string similar to the value of the `d=` attribute of the SVG `<path>` element, except that commas are used instead of spaces to separate values. `*`pathDefinition`*` can include one or more closed-loop subpaths.
 
 The following path commands are supported in `*`pathDefinition`*`: 
 
@@ -99,13 +99,13 @@ If a subpath begins with a relative moveto ('m'), it is relative to one of the f
 
 * The starting point of the previous subpath, if it was closed with 'z' or 'Z'. 
 * The end point of the previous subpath, if it was not closed explicitly. 
-* 0,0, if this is the first subpath.
+* 0,0, if it is the first subpath.
 
 ## Properties {#section-d4127db0dac54e3cbd44f7ea1e001960}
 
 Layer attribute. Applies to the current layer or to the composite image if `layer=comp`. Effect layers ignore it.
 
-`clipPathE=` is ignored if no path with the specified name is found in the layer source image, or if the layer source is not an image.
+The modifier `clipPathE=` is ignored if no path with the specified name is found in the layer source image, or if the layer source is not an image.
 
 ## Default {#section-076c35ea37fa4a44ada253b4c2dec1dd}
 

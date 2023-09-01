@@ -1,14 +1,14 @@
 ---
-description: Debug request. This debug command parses and preprocesses the request, execute image catalog lookups, catalog Modifier inclusions, macro and variable substitutions, etc, just like req=img.
-solution: Experience Manager
 title: resolve
+description: Debug request. This debug command parses and preprocesses the request, execute image catalog lookups, catalog Modifier inclusions, macro and variable substitutions, and so on, just like req=img.
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: ef357c19-e725-4904-b635-102e75ff7518
 ---
 # resolve{#resolve}
 
-Debug request. This debug command parses and preprocesses the request, execute image catalog lookups, catalog::Modifier inclusions, macro and variable substitutions, etc, just like req=img.
+Debug request. This debug command parses and preprocesses the request, execute image catalog lookups, catalog::Modifier inclusions, macro and variable substitutions, and so on, just like req=img.
 
  `req=resolve`
 

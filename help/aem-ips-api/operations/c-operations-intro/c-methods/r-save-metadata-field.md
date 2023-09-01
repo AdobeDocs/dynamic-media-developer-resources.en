@@ -1,14 +1,14 @@
 ---
-description: Create or edit a metadata field. Omit the optional field handle to create a new metadata field.
-solution: Experience Manager
 title: saveMetadataField
+description: Create or edit a metadata field. Omit the optional field handle to create a metadata field.
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Admin
 exl-id: 56a45324-5027-4375-a790-c965f682e4b9
 ---
 # saveMetadataField{#savemetadatafield}
 
-Create or edit a metadata field. Omit the optional field handle to create a new metadata field.
+Create or edit a metadata field. Omit the optional field handle to create a metadata field.
 
 >[!NOTE]
 >
@@ -94,7 +94,7 @@ Create or edit a metadata field. Omit the optional field handle to create a new 
 
 ## Examples {#section-4441c26d1f41466ba972b43dd5189e89}
 
-This code sample creates a new metadata field constrained by the Asset Type and Metadata Field Types string constants. If the `fieldHandle` element has a valid field handle value, it changes the metadata values and gets the same field handle that you specified in the request.
+This code sample creates a metadata field constrained by the Asset Type and Metadata Field Types string constants. If the `fieldHandle` element has a valid field handle value, it changes the metadata values and gets the same field handle that you specified in the request.
 
 **Request** 
 
