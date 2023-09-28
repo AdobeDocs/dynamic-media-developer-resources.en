@@ -1,18 +1,18 @@
 ---
-description: The settings in this section apply to the media set responses obtained by req=set modifier.
-solution: Experience Manager
 title: Media set responses
+description: The settings in this section apply to the media set responses obtained by the req=set modifier.
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin,User
 exl-id: e3833726-d345-4741-8096-d74f299ac9fc
 ---
 # Media set responses{#media-set-responses}
 
-The settings in this section apply to the media set responses obtained by req=set modifier.
+The settings in this section apply to the media set responses obtained by the `req=set` modifier.
 
 ## PS::fvctx.useCatalogRecordValidation - Caching Policy {#section-9accb087d16548a988993bb30395a6f6}
 
-This property controls the caching policy when determining whether or not set response retrieved from cache needs to be re-generated. If property is disabled, the timestamp of the [!DNL catalog.ini] file is used for validation. If property is enabled, the latest `catalog::LastModified` timestamp from all referenced records is used for validation.
+This property controls the caching policy when determining whether a set response retrieved from a cache must be regenerated. If the property is disabled, the timestamp of the [!DNL catalog.ini] file is used for validation. If property is enabled, the latest `catalog::LastModified` timestamp from all referenced records is used for validation.
 
 ## PS::fvctx.nestingLimit - Nesting Limit {#section-280210341f1647fea02590e7069934d2}
 
