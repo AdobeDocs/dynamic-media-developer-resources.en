@@ -1,7 +1,7 @@
 ---
+title: header
 description: HTTP response header element. Optional in <rule> elements.
 solution: Experience Manager
-title: header
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 40849602-16b2-471b-9128-14653e84a45a
@@ -14,7 +14,7 @@ HTTP response header element. Optional in `<rule>` elements.
 
 **`Name` = "*text*"** : Required. Specifies the name of the HTTP header.
 
-**`Action` = "set" | `"add"`**: Optional. Default is `"set"`, which replaces any current header value. Specify `"add"` to append the header value, separated with a comma.
+**`Action` = "set" | `"add"`**: Optional. Default is `"set"`, which replaces any current header value. Specify `"add"` so you can append the header value, separated with a comma.
 
 ## Data {#section-a387f541396c49d99c29692a38032914}
 
@@ -22,7 +22,7 @@ Header value.
 
 ## Description {#section-fb2a8ad79bc5414d8bb0d0e8199f3269}
 
-Allows adding new HTTP response headers as well as adding or replacing values of pre-defined headers. Names and values must conform to HTTP standards. No additional encoding is applied.
+Allows adding new HTTP response headers and adding or replacing values of pre-defined headers. Names and values must conform to HTTP standards. No additional encoding is applied.
 
 Image Serving substitution variables may be used in the header name and the header value. This allows controlling both strings from the request.
 

@@ -19,7 +19,7 @@ Static content type filter. Specifies a filter string for static content deliver
  </tr> 
 </table>
 
-The server will compare val with the value of `catalog::Type` of the requested static content item. The item is returned to the client if the values match (case-sensitive), otherwise an error is returned.
+The server compares `val` with the value of `catalog::Type` of the requested static content item. The item is returned to the client if the values match (case-sensitive), otherwise an error is returned.
 
 ## Properties {#section-529b088434a44a9f86a64ef548d2925b}
 

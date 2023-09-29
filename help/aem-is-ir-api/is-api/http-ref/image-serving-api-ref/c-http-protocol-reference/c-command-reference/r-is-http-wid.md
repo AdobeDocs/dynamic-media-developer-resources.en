@@ -10,7 +10,7 @@ exl-id: ba22c79b-da59-4993-aa1c-2c990a0c4be5
 
 View width. Specifies the width of the response image (view image) when fit= is not present in the request.
 
- ` wid= *`val`*`
+ `wid= *`val`*`
 
 <table id="simpletable_E217453246F5441C896C1F69EA4D4218"> 
  <tr class="strow"> 
@@ -29,21 +29,21 @@ If `scl=` is not specified, the composite image is scaled to fit. If both `wid=`
 
 ## Default {#section-976d4c8554a34c899f85d172f6ac6f58}
 
-If neither `wid=`, `hei=`, nor `scl=` are specified, the reply image will either have the size of the composite image or `attribute::DefaultPix`, whichever is smaller.
+If neither `wid=`, `hei=`, nor `scl=` are specified, the reply image either has the size of the composite image or `attribute::DefaultPix`, whichever is smaller.
 
 ## Properties {#section-c93b7ce1b0d2475f80b06264b45d1285}
 
-View attribute. Applies regardless of the current layer setting.
+View attribute. It applies regardless of the current layer setting.
 
 ## Example {#section-82bc98b7c15a451bbe9b915d414c0470}
 
-Request an image to fit into a 200x200 rectangle; top-right align the image if it is not square. Any background area is filled with `attribute::BkgColor`.
+Request an image so it can fit into a 200x200 rectangle; top-right align the image if it is not square. Any background area is filled with `attribute::BkgColor`.
 
-` http:// *`server`*/myRootId/myImageId?wid=200&hei=200&align=1,-1`
+` http:// *`Server`*/myRootId/myImageId?wid=200&hei=200&align=1,-1`
 
-The same image, delivered at a fixed width of 200 pixels, but with a variable height to maintain the aspect ratio of the image. In this case, the returned image never has any background fill areas. Note that in this case align= would have no effect at all.
+The same image, delivered at a fixed width of 200 pixels, but with a variable height to maintain the aspect ratio of the image. In this case, the returned image never has any background fill areas. In this case, `align=` would have no effect at all.
 
-` http:// *`server`*/myRootId/myImageId?wid=200`
+` http:// *`Server`*/myRootId/myImageId?wid=200`
 
 ## See also {#section-4e9659238d6545498378ca8b1f3ec4ae}
 

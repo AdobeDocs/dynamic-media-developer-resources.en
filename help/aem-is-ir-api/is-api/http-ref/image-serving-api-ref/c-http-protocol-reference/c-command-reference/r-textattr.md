@@ -15,7 +15,7 @@ Text layer attributes. Specifies additional attributes for text layers which are
 <table id="simpletable_0072BF7DF52B4959A14EDEF60A6EBDEE"> 
  <tr class="strow"> 
   <td class="stentry"> <p> <span class="codeph"> <span class="varname"> res </span> </span> </p> </td> 
-  <td class="stentry"> <p>Provides a means for scaling the text layer without changing font sizes. Higher resolution values increase the size of the rendered text relative to the canvas size; smaller values reduce the text size. Text resolution in dots per inch (int greater than 0). </p> </td> 
+  <td class="stentry"> <p>It provides a means for scaling the text layer without changing font sizes. Higher resolution values increase the size of the rendered text relative to the canvas size; smaller values reduce the text size. Text resolution in dots per inch (int greater than 0). </p> </td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p> <span class="codeph"> <span class="varname"> antiAliasing </span> </span> </p> </td> 
@@ -49,17 +49,17 @@ Text layer attributes. Specifies additional attributes for text layers which are
     <table id="simpletable_2CFC06DB37154C7C92614FDF7A818DB5"> 
      <tr class="strow"> 
       <td class="stentry"> <p> <span class="codeph"> fixedRes </span> </p> </td> 
-      <td class="stentry"> <p>Use the specified resolution. </p> <p>Use if the text is to be rendered in an exact size relative to the compositing canvas. Text may be clipped to the layer size (if specified) if the text box is too small. This is the only <span class="varname"> resMode </span> option supported by <span class="codeph"> textPs= </span>. </p> </td> 
+      <td class="stentry"> <p>Use the specified resolution. </p> <p>Use if the text is to be rendered in an exact size relative to the composited canvas. Text may be clipped to the layer size (if specified) if the text box is too small. This is the only <span class="varname"> resMode </span> option supported by <span class="codeph"> textPs= </span>. </p> </td> 
      </tr> 
      <tr class="strow"> 
       <td class="stentry"> <p> <span class="codeph"> autoRes </span> </p> </td> 
-      <td class="stentry"> <p>Adjust the resolution automatically to best fill the layer rect with the text. </p> <p>Use to automatically adjust the text size so that the text box is filled as much as possible, without risk of truncation. If word wrap is enabled, text may be rewrapped at the final resolution. <span class="varname"> res </span> is ignored if <span class="codeph"> autoRes </span> is selected. Not supported by <span class="codeph"> textPs= </span>. </p> </td> 
+      <td class="stentry"> <p>Adjust the resolution automatically to best fill the layer rect with the text. </p> <p>Use to automatically adjust the text size so that the text box is filled as much as possible, without risk of truncation. If word wrap is enabled, text may be rewrapped at the final resolution. The <span class="varname"> res </span> is ignored if <span class="codeph"> autoRes </span> is selected. Not supported by <span class="codeph"> textPs= </span>. </p> </td> 
      </tr> 
      <tr class="strow"> 
       <td class="stentry"> <p> <span class="codeph"> maxRes </span> </p> </td> 
-      <td class="stentry"> <p>Use the specified resolution; decrease it if necessary to prevent text being truncated to the layer rect. </p> <p>Use to render text at the exact specified resolution, as long as no clipping occurs. In case of clipping, the resolution is automatically decreased to ensure that all text is contained fully inside the text box. If word wrap is enabled, text may be rewrapped at the final resolution. Not supported by <span class="codeph"> textPs= </span>. </p> </td> 
+      <td class="stentry"> <p>Use the specified resolution; decrease it if necessary to prevent text being truncated to the layer rect. </p> <p>Use to render text at the specified resolution, as long as no clipping occurs. If there is clipping, the resolution is automatically decreased to ensure that all text is contained fully inside the text box. If word wrap is enabled, text may be rewrapped at the final resolution. Not supported by <span class="codeph"> textPs= </span>. </p> </td> 
      </tr> 
-    </table> </p> <p>If the text layer size is not specified with size= or if only the width is specified, 'autoRes' and 'maxRes' settings are ignored and the specified resolution is used to render the text. </p> </td> 
+    </table> </p> <p>If the text layer size is not specified with size= or if only the width is specified, 'autoRes' and 'maxRes' settings are ignored. In such cases, the specified resolution is used to render the text. </p> </td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p> <span class="codeph"> <span class="varname"> wordWrap </span> </span> </p> </td> 
@@ -71,11 +71,11 @@ Text layer attributes. Specifies additional attributes for text layers which are
      </tr> 
      <tr class="strow"> 
       <td class="stentry"> <p> <span class="codeph"> wrap </span> </p> </td> 
-      <td class="stentry"> <p>Enable standard word-wrap. </p> <p>Breaks long words if necessary. <span class="codeph"> textPs= </span> only supports <span class="codeph"> wrap </span>. </p> </td> 
+      <td class="stentry"> <p>Enable standard word-wrap. </p> <p>It breaks long words, if necessary. <span class="codeph"> textPs= </span> only supports <span class="codeph"> wrap </span>. </p> </td> 
      </tr> 
      <tr class="strow"> 
       <td class="stentry"> <p> <span class="codeph"> nbWrap </span> </p> </td> 
-      <td class="stentry"> <p>Enable non-breaking word-wrap. </p> <p>Never breaks a word, even if it gets truncated at the end. Typically used in conjunction with <span class="codeph"> autoRes </span> or <span class="codeph"> maxRes </span> to ensure that long words are never broken. </p> </td> 
+      <td class="stentry"> <p>Enable non-breaking word-wrap. </p> <p>Never breaks a word, even if it gets truncated at the end. Typically used with <span class="codeph"> autoRes </span> or <span class="codeph"> maxRes </span> to ensure that long words are never broken. </p> </td> 
      </tr> 
     </table> </p> <p>Both <span class="codeph"> wrap </span> and <span class="codeph"> nbwrap </span> auto-wrap on word boundaries and hyphens. </p> </td> 
  </tr> 

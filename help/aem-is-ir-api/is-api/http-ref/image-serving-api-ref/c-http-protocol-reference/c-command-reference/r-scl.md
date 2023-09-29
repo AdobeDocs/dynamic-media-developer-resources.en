@@ -19,7 +19,7 @@ Scale view. Scales the composite image by the inverse of invFactor.
  </tr> 
 </table>
 
-No scaling is applied when `scl=1`. *`invFactor`* larger than 1.0 down-scales and smaller than 1.0 enlarges the composite image.
+No scaling is applied when `scl=1`. An *`invFactor`* value that is larger than 1.0 down-scales and smaller than 1.0 enlarges the composite image.
 
 If `scl=` is specified, and `wid=` and/or `hei=` are present as well, the image is cropped to `wid=` and/or `hei=` after scaling.
 
@@ -29,11 +29,11 @@ If `scl=` is specified, and `wid=` and/or `hei=` are present as well, the image 
 
 ## Properties {#section-60af012719db477db4a4703e9a6da5f5}
 
-View Attribute. Applies regardless of current layer setting.
+View Attribute. It applies regardless of the current layer setting.
 
 ## Default {#section-32502fa218a24e1f9c65f41c0260b56a}
 
-If neither `wid=`, `hei=`, nor `scl=` are specified, the reply image will either have the size of the composite image or `attribute::DefaultPix`, whichever is smaller.
+If neither `wid=`, `hei=`, nor `scl=` are specified, the reply image either has the size of the composite image or `attribute::DefaultPix`, whichever is smaller.
 
 ## Example {#section-a33f6239476a4b438d939656ad99aa76}
 

@@ -1,7 +1,7 @@
 ---
+title: TimeStamp
 description: File modification time stamp. Specifies the date/time the image and/or data files attached to this catalog record were last modified.
 solution: Experience Manager
-title: TimeStamp
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: ecc7617c-c390-4f82-905d-45b825d0176d
@@ -16,25 +16,25 @@ If `attribute::UseLastModified` is set, the most recent of the `catalog::TimeSta
 >
 >The actual file times of the image or data files attached to this catalog record are never used for this purpose.
 
-`catalog::TimeStamp` is also used for catalog-based cache validation (see [attribute::CacheValidationPolicy](/help/aem-is-ir-api/ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-cachevalidationpolicy.md)).
+The `catalog::TimeStamp` is also used for catalog-based cache validation (see [attribute::CacheValidationPolicy](/help/aem-is-ir-api/ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-cachevalidationpolicy.md)).
 
 ## Properties {#section-42f09e375e72492b87a3a486da7df808}
 
-Date/time value in Java format. Can be either the integer number of milliseconds since midnight, January 1, 1970 UTC/GMT or a date/time string value with one of the following formats:
+Date/time value in Java&trade; format. It can be either the integer number of milliseconds since midnight, January 1, 1970 UTC/GMT, or a date/time string value with one of the following formats:
 
 *[!DNL mm]*/ *[!DNL dd]*/ *[!DNL yyyy]* *[!DNL hh]*: *[!DNL mm]*: *[!DNL ss]* *[!DNL zzz]*
 
 *[!DNL mm]*/ *[!DNL dd]*/ *[!DNL yyyy]* *[!DNL hh]*: *[!DNL mm]*: *[!DNL ss]* GMT *[!DNL offset]*
 
-* *[!DNL hh]* is in the range 0 to 23. 
-* *[!DNL zzz]* is a 3 or 4 character time zone code such as 'GMT' or 'PST'. Daylight Savings Time must be accounted for in the time zone code (for example, 'PST' for Pacific Standard Time, versus 'PDT' for Pacific Daylight Savings Time). 
+* *[!DNL hh]* is in the range 0&ndash;23. 
+* *[!DNL zzz]* is a three or four character time zone code such as 'GMT' or 'PST'. Daylight Savings Time must be accounted for in the time zone code. For example, 'PST' for Pacific Standard Time, versus 'PDT' for Pacific Daylight Savings Time. 
 * *[!DNL offset]* is a time zone offset in hours or hours:minutes, relative to GMT. For example, 'PDT' is equivalent to 'GMT -7'.
 
-All elements of string formatted date/time values must be present. If the date/time value is not formatted correctly it is ignored and the modification time of the *catalog*.ini file is used instead.
+All elements of string-formatted date/time values must be present. If the date/time value is not formatted correctly, it is ignored and the modification time of the *catalog*.ini file is used instead.
 
 ## Default {#section-e2c126c9e7294662b23944ab8d14866b}
 
-`attribute::TimeStamp` is the field is empty or not present.
+The `attribute::TimeStamp` is the field that is empty or not present.
 
 ## See also {#section-876f1d1b50dc4501b605820015a29451}
 

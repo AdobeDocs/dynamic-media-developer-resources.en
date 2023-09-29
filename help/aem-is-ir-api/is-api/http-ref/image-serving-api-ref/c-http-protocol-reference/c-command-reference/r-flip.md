@@ -15,11 +15,11 @@ Flip Layer. Flips the layer horizontally, vertically, or both, after applying cr
 <table id="simpletable_072CA0E24B7146D48AEFD70E51E849C2"> 
  <tr class="strow"> 
   <td class="stentry"> <p> <span class="codeph"> lr </span> </p> </td> 
-  <td class="stentry"> <p>Flip layer horizontally (left-right). </p> </td> 
+  <td class="stentry"> <p>Flip the layer horizontally (left-right). </p> </td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p> <span class="codeph"> ud </span> </p> </td> 
-  <td class="stentry"> <p>Flip layer vertically (up-down). </p> </td> 
+  <td class="stentry"> <p>Flip the layer vertically (up-down). </p> </td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p> <span class="codeph"> lrud </span> </p> </td> 
@@ -27,13 +27,13 @@ Flip Layer. Flips the layer horizontally, vertically, or both, after applying cr
  </tr> 
 </table>
 
-May also be applied to text layers.
+It may also be applied to text layers.
 
 Some commands, including `extend=`, implicitly apply to layer 0 instead of the composite layer when `layer=comp` is selected. In such scenarios, all commands that are assigned automatically to layer 0 is applied before the commands which apply to `layer=comp`. Thus, when `layer=comp`, `extend=` is applied before `flip=`.
 
 >[!NOTE]
 >
->The flipped layer is positioned based on the layer anchor; different flip= values will result in different layer positions when the anchor is not located at the center of the layer.
+>The flipped layer is positioned based on the layer anchor. Different `flip=` values result in different layer positions when the anchor is not at the center of the layer.
 
 ## Properties {#section-294da2af7be746b5adfc35e29ee68217}
 

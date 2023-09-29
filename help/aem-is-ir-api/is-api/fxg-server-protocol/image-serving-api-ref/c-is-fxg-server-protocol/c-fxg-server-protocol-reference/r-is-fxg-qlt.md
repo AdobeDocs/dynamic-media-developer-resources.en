@@ -1,7 +1,7 @@
 ---
+title: qlt
 description: Jpeg quality. Specifies JPEG encoding attributes to control the compression level. This in turn varies the file size (amount of the reply data), and, indirectly, the visual quality of the resultant image.
 solution: Experience Manager
-title: qlt
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 8801a650-303c-47a3-8136-c8b2b7a80e9d
@@ -10,7 +10,7 @@ exl-id: 8801a650-303c-47a3-8136-c8b2b7a80e9d
 
 Jpeg quality. Specifies JPEG encoding attributes to control the compression level. This in turn varies the file size (amount of the reply data), and, indirectly, the visual quality of the resultant image.
 
- ` qlt= *`quality`*[, *`chroma`*]`
+ ` qlt= *`Quality`*[, *`chroma`*]`
 
 <table id="simpletable_D080D15922CE4EF4B707282A4D45739A"> 
  <tr class="strow"> 
@@ -29,8 +29,8 @@ Higher quality values increase file size and quality, lower values decrease file
 
 Set the `chroma` flag to disable the RGB chromaticity down-sampling employed by typical JPEG encoders. This may increase the perceived sharpness of edges in an image when the edge is defined by a change in hue rather than brightness. Setting this flag may cause a slight increase in file size. Experiment with this setting if text seems slightly blurry.
 
-`chroma` is ignored if the output pixel type is CMYK or gray.
+The `chroma` is ignored if the output pixel type is CMYK or gray.
 
 ## Example {#section-a6c263f15c29424a86ef267c96a6630a}
 
-[!DNL http://server/is/agm/myRootId/myImageId?fmt=jpg&qlt=80]
+`http://server/is/agm/myRootId/myImageId?fmt=jpg&qlt=80`

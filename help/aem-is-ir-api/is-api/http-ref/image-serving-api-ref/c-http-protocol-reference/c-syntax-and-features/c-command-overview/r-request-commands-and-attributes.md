@@ -1,14 +1,14 @@
 ---
-description: These commands apply regardless of where in the request they appear.
-solution: Experience Manager
 title: Request commands
+description: These commands apply regardless of where in the request that they appear.
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 3f794f46-e7f0-4899-90fa-898a698dd629
 ---
 # Request commands{#request-commands}
 
-These commands apply regardless of where in the request they appear.
+These commands apply regardless of where in the request that they appear.
 
 <table id="simpletable_3F7C17FB9E374EFDAD01EB24F57EC367"> 
  <tr class="strow"> 
@@ -33,7 +33,7 @@ These commands apply regardless of where in the request they appear.
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p> <a href="../../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-pathembed.md#reference-9ccf0771d6634cf68c1c9c33cd428301" type="reference" format="dita" scope="local"> pathEmbed</a> </p></td> 
-  <td class="stentry"> <p>Embeds Photoshop paths data in the reply image. </p></td> 
+  <td class="stentry"> <p>Embeds Photoshop path data in the reply image. </p></td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p> <a href="../../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-xmpembed.md#reference-46ecf40a40a0442fa62de3a85dcb03e8" type="reference" format="dita" scope="local"> xmpEmbed</a> </p></td> 
@@ -73,6 +73,6 @@ These commands apply regardless of where in the request they appear.
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p> <a href="../../../../../../is-api/http-ref/image-serving-api-ref/c-http-protocol-reference/c-command-reference/r-req/r-imageset-req.md#reference-c42935490db84830b31e9e649895dee3" type="reference" format="dita" scope="local"> imageSet</a> </p> </td> 
-  <td class="stentry"> <p>Specifies image set to use for this request. </p></td> 
+  <td class="stentry"> <p>Specifies the image set to use for this request. </p></td> 
  </tr> 
 </table>

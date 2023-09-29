@@ -1,7 +1,7 @@
 ---
+title: coordN
 description: Normalized Coordinates. Used to specify relative positions within an image, such as image offsets or crop parameters, normalized to the size of the image.
 solution: Experience Manager
-title: coordN
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 3a97a520-5049-4b26-826e-ae913f0ac511
@@ -23,6 +23,6 @@ Normalized Coordinates. Used to specify relative positions within an image, such
 
 Positive values move towards the bottom-right.
 
-In many cases, the reference position is the center of the image. In this case, 0,0 corresponds to the center of the image, -0.5,-0.5 to the top-left corner, and 0.5,0.5 to the bottom-right corner.
+Often, the reference position is the center of the image. In this case, `0,0` corresponds to the center of the image, `-0.5,-0.5` to the top-left corner, and `0.5,0.5` to the bottom-right corner.
 
-Also used to specify image sizes or rectangle size relative to the size of layer 0. In this case, the values must be greater than 0. 0 may indicate that a specific default value should be used. 1,1 specifies a size equal to that of layer 0.
+It is also used to specify image size or rectangle size relative to the size of layer 0. In this case, the value must be greater than 0. 0 may indicate that a specific default value should be used. A value of `1,1` specifies a size equal to that of layer 0.
