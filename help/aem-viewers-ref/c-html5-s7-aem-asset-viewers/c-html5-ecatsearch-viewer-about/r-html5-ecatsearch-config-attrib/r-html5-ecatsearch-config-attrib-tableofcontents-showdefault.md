@@ -1,8 +1,7 @@
 ---
+title: TableOfContents.showdefault
 description: TableOfContents.showdefault
 solution: Experience Manager
-title: TableOfContents.showdefault
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: cc494d35-8d9b-44f8-874b-dfc88b65f547
@@ -15,7 +14,7 @@ exl-id: cc494d35-8d9b-44f8-874b-dfc88b65f547
  <tbody> 
   <tr> 
    <td> <p> <span class="codeph"> 0|1</span> </p> </td> 
-   <td> <p> When set to <span class="codeph"> 1</span> the component populates the drop-down panel with elements for all pages, even for those that do not have label defined. </p> <p>When set to <span class="codeph"> 0</span> only items with explicit labels show in the drop-down panel. </p> </td> 
+   <td> <p> When set to <span class="codeph"> 1</span>, the component populates the drop-down panel with elements for all pages, even for those that do not have labels defined. </p> <p>When set to <span class="codeph"> 0</span> only items with explicit labels show in the drop-down panel. </p> </td> 
   </tr> 
  </tbody> 
 </table>

@@ -1,18 +1,18 @@
 ---
-description: All configuration files are located in install_folder/conf and are editable with most text editors. The server may need to be restarted for changes to take effect.
-solution: Experience Manager
 title: Server configuration files
+description: All configuration files are in the install_folder/conf and are editable with most text editors. Restart the server for the changes to take effect.
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin,User
 exl-id: 6261844c-b63d-477b-8a48-963be868aa22
 ---
 # Server configuration files{#server-configuration-files}
 
-All configuration files are located in install_folder/conf and are editable with most text editors. The server may need to be restarted for changes to take effect.
+All configuration files are in the `install_folder/conf` and are editable with most text editors. Restart the server for the changes to take effect.
 
 >[!NOTE]
 >
->Most server configuration files contain additional properties and values which are not described in this document. Such properties are for internal server use and must not be modified unless specifically instructed by Dynamic Media technical support.
+>Most server configuration files contain additional properties and values which are not described in this document. Such properties are for internal server use and must not be modified unless instructed by Dynamic Media technical support.
 
 This document discusses settings for the following configuration files: 
 

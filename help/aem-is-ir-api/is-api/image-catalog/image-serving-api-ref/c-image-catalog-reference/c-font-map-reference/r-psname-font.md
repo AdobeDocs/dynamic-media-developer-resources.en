@@ -1,16 +1,16 @@
 ---
-description: Postscript font face name. The Postscript font face name.
-solution: Experience Manager
 title: PsName
+description: The name of the Postscript font face name.
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 8d48dead-e544-4fd1-8e8a-70933389b668
 ---
 # PsName{#psname}
 
-Postscript font face name. The Postscript font face name.
+The name of the Postscript font face.
 
- At this time, only the FXG renderer can reference fonts by their Postscript names.
+ Currently, only the FXG renderer can reference fonts by their Postscript names.
 
 ## Properties {#section-a560f8bfc69a4d88aeb0b53c1625153b}
 

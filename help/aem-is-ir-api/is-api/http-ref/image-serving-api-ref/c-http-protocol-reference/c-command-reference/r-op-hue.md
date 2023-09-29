@@ -1,6 +1,6 @@
 ---
 title: op_hue
-description: Adjust hue. Shifts the hue of each visible pixel of the layer or composite image by the specified amount.
+description: Adjusts the image hue. Shifts the hue of each visible pixel of the layer or composite image by the specified amount.
 solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
@@ -8,7 +8,7 @@ exl-id: b436bd31-12a9-42ed-9ad3-5ff91e3ccce9
 ---
 # op_hue{#op-hue}
 
-Adjust hue. Shifts the hue of each visible pixel of the layer or composite image by the specified amount.
+Adjusts the image hue. Shifts the hue of each visible pixel of the layer or composite image by the specified amount.
 
  `op_hue= *`adj`*`
 
@@ -19,7 +19,7 @@ Adjust hue. Shifts the hue of each visible pixel of the layer or composite image
  </tr> 
 </table>
 
-Based on a 360 degree hue range.
+Based on a 360-degree hue range.
 
 ## Properties {#section-55779644700b4c808a624cdf5a04447e}
 

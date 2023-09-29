@@ -1,20 +1,20 @@
 ---
-description: Illumination map selector. Allows explicit selection of the illumination map to be used when rendering this material.
-solution: Experience Manager
 title: Illum
+description: Illumination map selector. It allows explicit selection of the illumination map to be used when rendering this material.
+solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 5e74b3e8-6289-4114-aa11-a6f91671363e
 ---
 # Illum{#illum}
 
-Illumination map selector. Allows explicit selection of the illumination map to be used when rendering this material.
+Illumination map selector. It allows explicit selection of the illumination map to be used when rendering this material.
 
 ## Properties {#section-162bcf562ca844ccba9e81e267508cca}
 
 Enum. Set to -1 for automatic selection of the illumination map based on the value of catalog::Gloss.
 
-Set to 0, 1, or 2 to select illumination map A, B, or C. The renderer will choose the closest illumination map available in the vignette.
+Set to 0, 1, or 2 to select illumination map A, B, or C. The renderer chooses the closest illumination map available in the vignette.
 
 ## Default {#section-ac386d31ef90423b8a367010a60bddc7}
 

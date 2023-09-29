@@ -1,7 +1,7 @@
 ---
+title: Size
 description: Decal size. Width, height, and thickness of a decal material object.
 solution: Experience Manager
-title: Size
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 964cb4c1-5256-40eb-94ea-761916174b79
@@ -12,7 +12,7 @@ Decal size. Width, height, and thickness of a decal material object.
 
 ## Properties {#section-967bf1112eec4032a91ed0c8a7b10a07}
 
-Three real numbers separated by commas. Must not be negative. Set unused values to 0. Trailing zeros may be omitted.
+Three real numbers separated by commas. It must not be negative. Set unused values to 0. Trailing zeros may be omitted.
 
 Specify both width and height only if the image should be stretched to fit the specified size (the aspect ratio may change). Set either width or height to scale the image proportionally. Set both width and height to 0 to use `catalog::Resolution`to determine the object size.
 
@@ -31,7 +31,7 @@ Provide a thickness value to add a drop shadow to the decal object. Optional for
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p>0,5,1 </p></td> 
-  <td class="stentry"> <p>The decal is 5 inches wide, the height is determined by the aspect ratio of the image, and a drop shadow is rendered based on a 1 inch thickness. </p></td> 
+  <td class="stentry"> <p>The decal is 5 inches wide, the height is determined by the aspect ratio of the image, and a drop shadow is rendered based on a 1-inch thickness. </p></td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p>0,0,.5 </p></td> 
