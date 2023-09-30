@@ -4,7 +4,7 @@ description: Learn about using network bandwidth optimization to adjust the imag
 solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
-
+exl-id: 7df6eeed-1856-40e1-bd5d-8f06efc7f700
 ---
 # network{#network}
 

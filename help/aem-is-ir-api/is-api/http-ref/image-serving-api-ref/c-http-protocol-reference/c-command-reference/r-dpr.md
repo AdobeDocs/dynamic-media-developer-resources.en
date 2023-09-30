@@ -4,7 +4,7 @@ description: Device Pixel Ratio (DPR)&mdash;also known as CSS pixel ratio&mdash;
 solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
-
+exl-id: d64ca9ed-7d8e-4a13-9c9d-acb7de3e31ed
 ---
 # dpr{#dpr}
 
