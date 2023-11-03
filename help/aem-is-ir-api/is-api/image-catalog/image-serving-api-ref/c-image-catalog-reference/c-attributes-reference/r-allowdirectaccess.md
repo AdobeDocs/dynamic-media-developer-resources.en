@@ -39,11 +39,11 @@ The following types can be controlled:
 
 * Allow direct access for all object types except `IS` and `STATIC``AllowDirectAccess=exclude:IS,STATIC`
 
-* Allow direct access for *no* object types (i.e. include none)
+* Allow direct access for *no* object types (that is, include none)
 
   `AllowDirectAccess=include:`
 
-* Allow direct access for *all* object types (i.e. exclude none)
+* Allow direct access for *all* object types (that is, exclude none)
 
   `AllowDirectAccess=exclude:`
 

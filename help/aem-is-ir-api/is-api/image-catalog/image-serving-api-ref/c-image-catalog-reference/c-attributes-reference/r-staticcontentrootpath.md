@@ -18,7 +18,7 @@ Text string. Must be empty, a valid relative file path segment, or an absolute p
 
 ## Default {#section-0f741f90fd8d4758a43162c2b5c8a3a3}
 
-Inherited from `default::StaticContentsRootPath` if not defined. If defined but empty, will not contribute to the source file root path.
+Inherited from `default::StaticContentsRootPath` if not defined. If defined but empty, it does not contribute to the source file root path.
 
 ## See also {#section-9af8846d20d242789df67877f84ed8a7}
 

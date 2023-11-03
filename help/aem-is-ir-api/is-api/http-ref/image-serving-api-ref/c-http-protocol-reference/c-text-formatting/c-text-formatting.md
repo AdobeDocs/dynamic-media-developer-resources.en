@@ -14,7 +14,7 @@ Image Serving provides several alternatives to render text, accessible with the 
 
 >[!NOTE]
 >
->In addition to the differences listed elsewhere, `text=` produces subtle differences in the rendered text when compared with `textPs=`. For example, underlines do not have the same thickness and position and synthesized italics are rendered at a slightly different angle. If text does not fit into the available space, `text=` may partially crop the last line, while `textPs=` will only render complete lines.
+>In addition to the differences listed elsewhere, `text=` produces subtle differences in the rendered text when compared with `textPs=`. For example, underlines do not have the same thickness and position and synthesized italics are rendered at a slightly different angle. If text does not fit into the available space, `text=` may partially crop the last line, while `textPs=` only renders complete lines.
 
 All text commands accept formatted text based on a subset of the RTF (Rich Text Format) specification. Each text layer may specify a different text command.
 
@@ -103,7 +103,7 @@ The following table lists the key features available for each text command:
    <td> <p>\stextFlow </p> </td> 
   </tr> 
   <tr> 
-   <td> <p>Photofont® support </p> </td> 
+   <td> <p>Photofont&reg; support </p> </td> 
    <td> <p>no </p> </td> 
    <td> <p>yes </p> </td> 
    <td> Font Handling </td> 
@@ -147,7 +147,7 @@ Some word processors generate rather large files, which include substantial prea
 
 Language-encoding based on UTF-8 and ISO standards is supported in RTF strings as an alternative to the standard RTF character encoding mechanisms. This allows applications to send non-English text to the server without knowledge of RTF encoding.
 
-All non-HTTP compliant characters must be properly escaped, if the string is to be transmitted via http. Only '=', '&', and '%' need to be escaped if the string is incorporated into the `catalog::Modifiers` field of an image catalog record. Control characters, including `<CR>`, `<LF>`, and `<TAB>` should always be removed.
+All non-HTTP compliant characters must be properly escaped, if the string is to be transmitted by way of http. Only '=', '&', and '%' need to be escaped if the string is incorporated into the `catalog::Modifiers` field of an image catalog record. Control characters, including `<CR>`, `<LF>`, and `<TAB>` should always be removed.
 
 The Image Serving text engines interpret a sub-set of commands defined by the Rich Text Format (RTF) Specification, version 1.6. This sub-set is focused on font/character formatting, simple paragraph formatting, and support for international fonts and character sets. More advanced formatting constructs, such as style sheets and tables, are not supported at this time.
 

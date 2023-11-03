@@ -22,7 +22,7 @@ The folder to which the [!DNL Platform Server] writes log files. This can be an 
 
 ## TC::maxDays - Number of Days to Keep Log Files {#section-45cbecffc5694c87b7d5c176a44a4885}
 
-The number of days log files should be preserved. New log files are created every day at midnight. At this time, the server will delete all files in the log file folder that are older than the specified number of days, including those written by the Image Server or Render Server. Default is 10.
+The number of days log files should be preserved. New log files are created every day at midnight. At this time, the server deletes all files in the log file folder that are older than the specified number of days, including those written by the Image Server or Render Server. Default is 10.
 
 ## TC::prefix - Access Log File Name {#section-1003856323b844049632710a5a056aa7}
 

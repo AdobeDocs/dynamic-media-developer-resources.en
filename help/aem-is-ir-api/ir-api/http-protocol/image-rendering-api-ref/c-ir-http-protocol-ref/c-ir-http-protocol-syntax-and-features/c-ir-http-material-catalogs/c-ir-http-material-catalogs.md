@@ -16,7 +16,7 @@ Material catalogs offer several features.
 * Provide defaults for certain request attributes, such as the JPEG quality or a default reply image size. 
 * Manage vignettes, ICC profiles, and request templates.
 
-Even if no specific material catalogs are defined, all features of material catalogs are available via the default catalog ( [!DNL default.ini]).
+Even if no specific material catalogs are defined, all features of material catalogs are available by way of the default catalog ( [!DNL default.ini]).
 
 While render materials may be specified explicitly in requests using material attributes, often it is more desirable to hide the details of materials from the web site by using material catalogs. src= commands accept catalog references instead of explicit file paths. A catalog entry consists of ` [ *[!DNL catId]*/] *[!DNL itemId]*`, where ` *[!DNL catId]*` identifies a material catalog and ` *[!DNL itemId]*` identifies a record in the catalog. If ` *[!DNL catId]*` is not specified, the session catalog is used (see below).
 

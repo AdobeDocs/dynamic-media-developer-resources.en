@@ -99,7 +99,7 @@ To return the job type, specify a job type value. You can return the following j
   <tr> 
    <td colname="col1"> <span class="codeph"> <span class="varname"> progress</span> </span> </td> 
    <td colname="col2"> <span class="codeph"> xsd:int</span> </td> 
-   <td colname="col3"> Job progress (i.e., how close the job is to completion). </td> 
+   <td colname="col3"> Job progress (that is, how close the job is to completion). </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <span class="codeph"> <span class="varname"> progressMessage</span> </span> </td> 

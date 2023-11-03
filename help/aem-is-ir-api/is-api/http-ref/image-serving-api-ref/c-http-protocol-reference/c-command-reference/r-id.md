@@ -21,7 +21,7 @@ Image/Metadata Version. When working with content that changes frequently, serve
 
 Image Serving includes a versioning mechanism which can help reduce the chance that an outdated cache entry is used by an application. This mechanism involves using `req=props` to obtain version identifier strings for image data and metadata (such as image map or zoom target data). The version identifier string is then added to cacheable Image Serving requests with the `id=` command.
 
-When a source image or metadata changes, the corresponding version id value will also change. Including an up-to-date version id value with the `id=` command ensures that old cache entries will no longer be accessed.
+When a source image or metadata changes, the corresponding version id value also changes. Including an up-to-date version id value with the `id=` command ensures that old cache entries can no longer be accessed.
 
 The following table lists the version identifier strings to be used for each `req=` type: 
 

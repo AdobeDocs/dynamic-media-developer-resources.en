@@ -30,11 +30,11 @@ System requirements for Dynamic Media HTML5 viewers.
 **Client browser minimum requirements for component viewers:**
 
 * Supported on the following operating system versions or later:
-  * Microsoft® Windows® 7
+  * Microsoft&reg; Windows&reg; 7
   * macOS X 10.12
 * Supported on the following browser/platform versions or later:
-  * Android™ OS 4.x
-  * BlackBerry® 10 on native browsers. Only video playback is supported.
+  * Android&trade; OS 4.x
+  * BlackBerry&reg; 10 on native browsers. Only video playback is supported.
   * Chrome 82
   * Edge
   * Firefox 77
@@ -45,7 +45,7 @@ System requirements for Dynamic Media HTML5 viewers.
   * Safari 11
 * Internet Explorer on mobile devices is not supported.
 * *PanoramicViewer* is supported on the following browser/platform versions or later:
-  * Android™ 4.4 (phone devices only)
+  * Android&trade; 4.4 (phone devices only)
   * Chrome 82
   * Edge
   * Firefox 77
@@ -53,14 +53,14 @@ System requirements for Dynamic Media HTML5 viewers.
   * iOS 10
   * Safari 11
 * *Video360Viewer* and *DimensionalViewer* is supported on the following browser/platform versions or later:
-  * Android™ 5 (phone devices only)
+  * Android&trade; 5 (phone devices only)
   * Chrome 82
   * Edge
   * Firefox 77
   * iOS 12
   * Safari 12
 * *ZoomVerticalViewer* is supported on the following browser/platform versions or later:
-  * Android™ 4.x
+  * Android&trade; 4.x
   * Chrome 82
   * Edge
   * Firefox 77
@@ -72,7 +72,7 @@ System requirements for Dynamic Media HTML5 viewers.
 
 <!-- CQDOC-19433 -->
 
-Effective September 30, 2022, Adobe Dynamic Media Viewers will end support for the following:
+Effective September 30, 2022, Adobe Dynamic Media Viewers have ended support for the following:
 
 * TLS (Transport Layer Security) 1.0 and 1.1
 * The following weak ciphers in TLS 1.2:
@@ -113,19 +113,19 @@ Adobe Dynamic Media Viewers do not support the following web browser and operati
 NOTE
 Effective September 30, 2018, Adobe Dynamic Media Classic Viewers ended support of Transport Layer Security 1.0 (TLS 1.0). As such, Dynamic Media Classic no longer supports viewers on the following browsers/platforms that support TLS 1.0 (Adobe recommends using TLS 1.2 or later):
 
-* Android™ 2.3.7
-* Android™ 4.0.4
-* Android™ 4.1.1
-* Android™ 4.2.2
-* Android™ 4.3
-* Internet Explorer 7 on Window Vista®
-* Internet Explorer 8 on Windows® XP
-* Internet Explorer 8-10 on Windows® 7
-* Internet Explorer 10 on Windows® Phone 8.0
+* Android&trade; 2.3.7
+* Android&trade; 4.0.4
+* Android&trade; 4.1.1
+* Android&trade; 4.2.2
+* Android&trade; 4.3
+* Internet Explorer 7 on Window Vista&reg;
+* Internet Explorer 8 on Windows&reg; XP
+* Internet Explorer 8-10 on Windows&reg; 7
+* Internet Explorer 10 on Windows&reg; Phone 8.0
 * Safari 5.1.9 on Apple OS X 10.6.8
 * Safari 6.0.4 on Apple OS X 10.8.4
-* Java™ 6u45
-* Java™ 7u25
+* Java&trade; 6u45
+* Java&trade; 7u25
 * OpenSSL 0.9.8y
 * Baidu January 2015
 

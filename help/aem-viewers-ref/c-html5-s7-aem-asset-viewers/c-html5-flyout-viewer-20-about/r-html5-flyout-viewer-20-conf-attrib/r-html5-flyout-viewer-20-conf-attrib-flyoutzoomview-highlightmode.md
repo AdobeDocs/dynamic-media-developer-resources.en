@@ -18,7 +18,7 @@ exl-id: b35285a2-7319-4ed7-9681-12a6acda8fa5
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> showtime </span> </span> </p> </td> 
-   <td colname="col2"> <p> Sets the time (in seconds) it takes the highlight or cursor to fade in after it is activated by the user. Fade in is applied only on touch devices; on desktop systems it is ignored by the component. </p> <p>Fade in applies to the following UI elements: highlight frame, fixed cursor, overlay (in case <span class="codeph"> overlay </span> parameter is set to <span class="codeph"> 1 </span>). Flyout view animation begins only after highlight/cursor fade in animation completes. There is no fade out animation. When the user deactivates the flyout, corresponding UI elements (cursor, highlight, and overlay) hide instantly. </p> </td> 
+   <td colname="col2"> <p> Sets the time (in seconds) it takes the highlight or cursor to fade in after it is activated by the user. Fade in is applied only on touch devices; on desktop systems it is ignored by the component. </p> <p>Fade in applies to the following UI elements: highlight frame, fixed cursor, overlay (in case <span class="codeph"> overlay </span> parameter is set to <span class="codeph"> 1 </span>). Flyout view animation begins only after highlight/cursor fade in animation completes. There is no fade-out animation. When the user deactivates the flyout, corresponding UI elements (cursor, highlight, and overlay) hide instantly. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> onimage|free </span> </p> </td> 

@@ -753,7 +753,7 @@ The To field is narrower because it allocates space for the Remove email button 
  </tbody> 
 </table>
 
-Example - To set up a form to have a one pixel grey border with nine pixels of padding around all input fields. To have the same border in red color for fields which fail validation. And finally, to have 250 pixels wide To field, and the rest of the input fields 300 pixels wide:
+Example - To set up a form to have a one pixel gray border with nine pixels of padding around all input fields. To have the same border in red color for fields which fail validation. And finally, to have 250 pixels wide To field, and the rest of the input fields 300 pixels wide:
 
 ```
 .s7ecatalogsearchviewer .s7emaildialog .s7dialoginputcontainer { 

@@ -33,7 +33,7 @@ Source Object Specifier. Image, SVG, and ICC profile objects may be specified as
 
 *`rootId`* identifies an image catalog. (See [Image Catalog](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-overview/c-overview.md#concept-9ce2b6a133de45f783e95cabc5810ac3) for details.) If *`rootId`* is specified in the URL path, that catalog becomes the *main catalog* for this request. Otherwise the default catalog is used as the main catalog. Multiple different image catalogs can be used in the same request.
 
-The server initially assumes that *`rootId`* is omitted in `src=`, `mask=`, and `icc=` commands and will attempt to find a catalog entry in the main catalog. Effectively, the server tries to use the entire *`object`* string as *`objId.`*
+The server initially assumes that *`rootId`* is omitted in `src=`, `mask=`, and `icc=` commands and attempts to find a catalog entry in the main catalog. Effectively, the server tries to use the entire *`object`* string as *`objId.`*
 
 If a catalog entry is found, it is used; otherwise, the server next attempts to match the *`rootId`* of an image catalog. If a catalog is identified, it is searched for *`objId`*. If and entry is found, it is used.
 
@@ -53,7 +53,7 @@ Refer to *Managing Content* in the *Server Configuration Guide* for details on h
 
 Refer to the description of the IC (Image Converter) utility for a complete list of supported file formats.
 
-Applications which require image data in multiple different resolutions will perform best when using the Dynamic Media pyramid TIFF (PTIF) multi-resolution format. The IC utility is used to create PTIF images from any supported image format.
+Applications that require image data in multiple different resolutions perform best when using the Dynamic Media pyramid TIFF (PTIF) multi-resolution format. The IC utility is used to create PTIF images from any supported image format.
 
 ## Examples {#section-728ca9b566b54ea1afdf8f5f0a031a57}
 

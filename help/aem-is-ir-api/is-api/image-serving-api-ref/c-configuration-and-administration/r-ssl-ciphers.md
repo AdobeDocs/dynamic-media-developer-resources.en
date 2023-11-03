@@ -42,7 +42,7 @@ By default all ciphers are available. The list is comma separated and can contai
 
 <!-- WEAK CQDOC-19433 `TLS_RSA_WITH_AES_128_CBC_SHA` -->
 
-If any of the values is wrong, Tomcat will enable every single cipher. So it is essential to check with an external tool after configuration to see which ciphers are actually enabled.
+If any of the values is wrong, Tomcat enables every single cipher. So it is essential to check with an external tool after configuration to see which ciphers are actually enabled.
 
 As an example the following configuration enables only the "128-bit" cipher suites and above:
 

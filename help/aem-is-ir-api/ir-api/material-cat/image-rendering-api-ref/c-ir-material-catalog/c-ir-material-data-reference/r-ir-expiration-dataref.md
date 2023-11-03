@@ -12,11 +12,11 @@ Client cache time to live. Number of hours until expiration. Used to manage clie
 
 The server calculates the expiration time/date of the NTTP response data by adding this value to the time/date of transmission.
 
-Browsers manage caches using expiration times of files. Before passing a request to the server, the browser will check its cache to see if the file has already been down-loaded. If so, and if the file has not yet expired, the browser will send a conditional GET request (for example with the If-Modified-Since HTTP request header) rather than a normal GET request. The server has the option of responding with a '304' status and not transmitting the image. The browser will then simply load the file from its cache. This may substantially increase overall performance for frequently accessed data.
+Browsers manage caches using expiration times of files. Before passing a request to the server, the browser checks its cache to see if the file has already been down-loaded. If so, and if the file has not yet expired, the browser sends a conditional GET request (for example with the If-Modified-Since HTTP request header) rather than a normal GET request. The server has the option of responding with a '304' status and not transmitting the image. The browser then simply loads the file from its cache. This may substantially increase overall performance for frequently accessed data.
 
-The server will set the expires HTTP response header to the current date/time plus the smallest of vignette::Expiration and all catalog::Expiration values for the vignette and all materials involved in the render operation.
+The server sets the expires HTTP response header to the current date/time plus the smallest of vignette::Expiration and all catalog::Expiration values for the vignette and all materials involved in the render operation.
 
-The expiration is set primarily for image data responses. Certain types of responses will always be marked for immediate expiration (or tagged as non-cacheable), including all error responses or property replies.
+The expiration is set primarily for image data responses. Certain types of responses are always marked for immediate expiration (or tagged as non-cacheable), including all error responses or property replies.
 
 ## Properties {#section-e87e8f6b6d224c6ea2eeaad695c04be8}
 

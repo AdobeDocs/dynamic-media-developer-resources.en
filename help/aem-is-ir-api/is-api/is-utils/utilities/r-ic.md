@@ -10,7 +10,7 @@ exl-id: ab653aae-532b-4f3d-8541-f6296fbf9172
 
 Image Conversion utility.
 
- `ic` is a command line tool that converts image files to the optimized Pyramid TIFF format (PTIFF). While Image Serving can process images without conversion, we recommend that you convert all images larger than 512x512 pixels to PTIFF. This conversion ensures optimal server performance and resource usage and minimizes response times.
+ `ic` is a command-line tool that converts image files to the optimized Pyramid TIFF format (PTIFF). While Image Serving can process images without conversion, we recommend that you convert all images larger than 512x512 pixels to PTIFF. This conversion ensures optimal server performance and resource usage and minimizes response times.
 
 It is recommended that PTIFF files that contain photographic content be JPEG-encoded (specify `-jpegcompress`). Computer-generated contents can benefit from lossless compression (either `-deflatecompress` or `-lzwcompress`). Unless a color conversion or pixel type conversion is required, JPEG source image data is transferred to the PTIFF without decoding, to avoid quality degradation. In this case, the specified compression options apply only to the lower resolution pyramid levels.
 
@@ -324,6 +324,6 @@ Convert all images in *`srcFolder`* to JPEG-encoded pyramid TIFFs and place in *
 
 `ic -convert -jpegcompress -jpegquality 90 -overwrite -continueOnError srcFolder destFolder`
 
-Convert all images in *`srcFolder`*. The encoded image data of JPG files is used for the full-resolution level, loss-less LZW compression for the remainder of the image pyramid of these images as well as for the entire output image of all non-JPG input files. The pixel types, embedded color profiles, XMP metadata, etc. are maintained.
+Convert all images in *`srcFolder`*. The encoded image data of JPG files is used for the full-resolution level, loss-less LZW compression for the remainder of the image pyramid of these images as well as for the entire output image of all non-JPG input files. The pixel types, embedded color profiles, XMP metadata, and so on. are maintained.
 
 `ic -convert -lzwcompress -embedXmpData -embedColorProfile -maintainpixeltype -overwrite -continueOnError srcFolder destFolder`

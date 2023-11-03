@@ -14,7 +14,7 @@ Image exists.
 
 *`reqId`* unique request identifier
 
-Returns a single property named `catalogRecord.exists`. The property value is set to "1" if the specified catalog entry exists in the image or default catalog, otherwise it is set to "0". `req=exists` requests against the `/is/content` context will indicate the presence or absence of a specified record in the static content catalog.
+Returns a single property named `catalogRecord.exists`. The property value is set to "1" if the specified catalog entry exists in the image or default catalog, otherwise it is set to "0". `req=exists` requests against the `/is/content` context indicates the presence or absence of a specified record in the static content catalog.
 
 Other commands in the request string are ignored. The HTTP response is cacheable with the TTL based on `attribute::NonImgExpiration`.
 

@@ -39,7 +39,7 @@ Replaces image data for an image asset.
 
 ## Examples {#section-cebb93576bde4cb98cb27356ca66783b}
 
-This code sample replaces an image and and applies a `urlModifier` with a command that specifies that the Image Server will take no action upon replacement.
+This code sample replaces an image and applies a `urlModifier` with a command that specifies that the Image Server take no action on replacement.
 
 **Request** 
 

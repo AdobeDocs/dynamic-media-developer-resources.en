@@ -123,7 +123,7 @@ This mechanism supports the same image file formats which are supported by the I
 
 >[!NOTE]
 >
->Image Serving will automatically run the validate utility when a foreign image is first used, to ensure that the image is valid and has not been corrupted during transmission. This may cause a slight delay on first access. For best performance, it is recommended to limit the size of such images and/or use an image file format that compresses well.
+>Image Serving automatically runs the validate utility when a foreign image is first used, to ensure that the image is valid and has not been corrupted during transmission. This may cause a slight delay on first access. For best performance, it is recommended to limit the size of such images and/or use an image file format that compresses well.
 
 ## Restrictions {#section-fb68e3f0d40947feb94d7bf183b64929}
 

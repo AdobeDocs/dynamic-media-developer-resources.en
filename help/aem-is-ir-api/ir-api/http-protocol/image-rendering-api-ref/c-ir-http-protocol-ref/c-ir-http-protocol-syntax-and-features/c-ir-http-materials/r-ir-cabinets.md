@@ -10,7 +10,7 @@ exl-id: cdb3ed5e-c396-483d-aea0-2b3f24efe56e
 
 Cabinets materials specify a cabinet style file (.vnc file extension), a special data file containing photographic representations of cabinets together with parametric layout definitions and other information required for rendering cabinet fronts.
 
- [!DNL vnc] files may either include a repeatable wood grain texture, or the texture can be provided externally via a second argument to `src=`. Certain [!DNL vnc] files allow colorizing or texturing selected areas of cabinet fronts (typically used for laminate cabinet styles).
+ [!DNL vnc] files may either include a repeatable wood grain texture, or the texture can be provided externally by way of a second argument to `src=`. Certain [!DNL vnc] files allow colorizing or texturing selected areas of cabinet fronts (typically used for laminate cabinet styles).
 
 Cabinet materials can only be applied to cabinet objects.
 

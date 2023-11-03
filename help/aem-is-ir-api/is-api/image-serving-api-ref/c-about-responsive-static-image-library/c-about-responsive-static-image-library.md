@@ -69,4 +69,4 @@ The simplest use case of the Responsive Image Library is to define a list of bre
 * iOS 6 or later. 
 * Certified on iPhone3GS or later and iPad2 or later (native browsers only). 
 * Android™ OS 2.3 or later. 
-* Internet Explorer on mobile devices is not supported currently.
+* Internet Explorer on mobile devices is not currently supported.

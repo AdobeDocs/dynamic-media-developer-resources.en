@@ -12,11 +12,11 @@ Forwards the supplied list of URLs to the Dynamic Media CDN (Content Distributio
 
 ## cdnCacheInvalidation: About {#section-4f70d2bc79d64288b961836ab17e9690}
 
-CDN cache invalidation forces all HTTP requests for these URLs to be revalidated against the current published data on the Dynamic Media network after this invalidation request is processed through the CDN network. Any URLs that are not connected to the Dynamic Media service URL structure and directly matching the Dynamic Media company root ID assigned when the company is created will result in an API fault for the entire request. Any invalid URLs that the CDN does not support that it considers invalid will also result in an API fault for the entire request.
+CDN cache invalidation forces all HTTP requests for these URLs to be revalidated against the current published data on the Dynamic Media network after this invalidation request is processed through the CDN network. Any URLs that are not connected to the Dynamic Media service URL structure and directly matching the Dynamic Media company root ID assigned when the company is created result in an API fault for the entire request. Any invalid URLs that the CDN does not support that it considers invalid also results in an API fault for the entire request.
 
 **Frequency of Use: Rules**
 
-The rules governing the frequency of the use of this feature are controlled by Dynamic Media's CDN partners. The CDN retains the discretion to degrade the responsiveness of these invalidations to maintain optimum performance of its service to its users. Should Dynamic Media be notified of overuse of this feature we will need to resort to disabling the feature on either a per company basis or entirely across the service.
+The rules governing the frequency of the use of this feature are controlled by Dynamic Media's CDN partners. The CDN retains the discretion to degrade the responsiveness of these invalidations to maintain optimum performance of its service to its users. Should Dynamic Media be notified of overuse of this feature, Adobe must resort to disabling the feature on either a per company basis or entirely across the service.
 
 **Confirmation Emails**
 

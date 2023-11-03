@@ -185,7 +185,7 @@ The following is user interface elements reference documentation that applies to
 * [Favorites view](r-html5-ecatsearch-customize-favoritesview.md)
 * [First page button](r-html5-ecatsearch-customize-firstpagebutton.md)
 * [Focus highlight](r-html5-ecatsearch-customize-focushighlight.md)
-* [Full screen button](r-html5-ecatsearch-customize-fullscreenbutton.md)
+* [full-screen button](r-html5-ecatsearch-customize-fullscreenbutton.md)
 * [Icon effect](r-html5-ecatsearch-customize-iconeffect.md)
 * [Info panel popup](r-html5-ecatsearch-customize-infopanelpopup.md)
 * [Image map effect](r-html5-ecatsearch-customize-imagemapeffect.md)

@@ -10,7 +10,7 @@ exl-id: 2455d07f-a158-4335-a14c-213f8b3dd265
 
 Layers are composited in the order specified by the layer= command, where higher-numbered layers hide lower-numbered ones.
 
-Layer 0 constitutes the background layer, which is always required and which defines the size of the composite image. Any of the layer types is permitted for layer 0. The size of layer 0 must be defined, either explicitly using `size=` or implicitly, based on the content image or text. Any areas of other layers which fall outside the area of layer 0 will not be included in the output image.
+Layer 0 constitutes the background layer, which is always required and which defines the size of the composite image. Any of the layer types is permitted for layer 0. The size of layer 0 must be defined, either explicitly using `size=` or implicitly, based on the content image or text. Any areas of other layers which fall outside the area of layer 0 are not included in the output image.
 
 >[!NOTE]
 >

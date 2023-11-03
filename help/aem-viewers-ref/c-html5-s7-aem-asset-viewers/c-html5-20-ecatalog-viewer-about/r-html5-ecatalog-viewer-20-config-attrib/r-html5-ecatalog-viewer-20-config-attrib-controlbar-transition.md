@@ -14,7 +14,7 @@ exl-id: abe8affb-cbcd-4072-b2ed-91a398b1d678
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> none|fade </span> </p> </td> 
-   <td colname="col2"> <p> Specifies the effect type that is used to show or hide the control bar and its content. Use <span class="codeph"> none </span> for instant show and hide; <span class="codeph"> fade </span> provides a gradual fade in and fade out effect (not supported on Internet Explorer 8). </p> </td> 
+   <td colname="col2"> <p> Specifies the effect type that is used to show or hide the control bar and its content. Use <span class="codeph"> none </span> for instant show and hide; <span class="codeph"> fade </span> provides a gradual fade in and fade-out effect (not supported on Internet Explorer 8). </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> delaytohide </span> </span> </p> </td> 
@@ -22,7 +22,7 @@ exl-id: abe8affb-cbcd-4072-b2ed-91a398b1d678
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> duration </span> </span> </p> </td> 
-   <td colname="col2"> <p> Sets the duration of the fade in and fade out animation, in seconds. </p> </td> 
+   <td colname="col2"> <p> Sets the duration of the fade in and fade-out animation, in seconds. </p> </td> 
   </tr> 
  </tbody> 
 </table>

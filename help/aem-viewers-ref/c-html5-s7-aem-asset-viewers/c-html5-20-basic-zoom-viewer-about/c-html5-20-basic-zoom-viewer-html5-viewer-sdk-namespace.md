@@ -8,7 +8,7 @@ exl-id: 4ccdf8c2-6cf5-4cb3-af61-fab50f410566
 ---
 # Viewer SDK namespace{#viewer-sdk-namespace}
 
-The viewer is built of many Viewer SDK components. Usually, the web page does not need to interact with SDK components API directly; all common needs are covered in the viewer API itself.
+The viewer is built of many Viewer SDK components. Usually, the web page does not need to interact with the SDK components API directly; all common needs are covered in the viewer API itself.
 
 However, some advanced use cases require that the web page reference an inner SDK component using the `getComponent()` viewer API and then use all the flexibility of the APIs of SDK itself.
 
@@ -29,7 +29,7 @@ For example, if you plan to listen to the `StatusEvent.NOTF_VIEW_READY` event an
   }, false); 
 } 
 }); 
-The same code for viewer served from Dynamic Media Classic will look like this: 
+The same code for viewer served from Dynamic Media Classic looks like this: 
 <instance>.setHandlers({ 
  "initComplete":function() { 
   var zoomView = <instance>.getComponent("zoomView"); 

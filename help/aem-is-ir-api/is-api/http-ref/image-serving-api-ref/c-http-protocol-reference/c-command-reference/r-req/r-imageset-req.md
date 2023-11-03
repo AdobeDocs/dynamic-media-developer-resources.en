@@ -23,7 +23,7 @@ Image set data from image catalog. Returns image set data for the image catalog 
  </tr> 
 </table>
 
-The content of `catalog::ImageSet` is returned without further modification (except string localization, if applicable), followed by a single line terminator (CR/LF). If the URL path does not resolve to a valid catalog entry, the response consists only of a single line terminator.
+The content of `catalog::ImageSet` is returned without further modification (except string localization, if applicable), followed by a single-line terminator (CR/LF). If the URL path does not resolve to a valid catalog entry, the response consists only of a single-line terminator.
 
 Other commands in the request string are ignored. The HTTP response is cacheable with the TTL based on `catalog::NonImgExpiration`.
 

@@ -29,7 +29,7 @@ Layer origin.
 >
 >The layer rect always includes any modification by `extend=`.
 
-Defines the alignment point of the layer rectangle, which is used to position the layer rectangle relative to layer 0 via `pos=`. `originN=0,0` positions the layer origin at the center of the layer rectangle. `originN=-0.5,-0.5` and `origin=0,0` is the top-left corner, and `originN=0.5,0.5` is the bottom-right corner of the layer rectangle.
+Defines the alignment point of the layer rectangle, which is used to position the layer rectangle relative to layer 0 by way of `pos=`. `originN=0,0` positions the layer origin at the center of the layer rectangle. `originN=-0.5,-0.5` and `origin=0,0` is the top-left corner, and `originN=0.5,0.5` is the bottom-right corner of the layer rectangle.
 
 ## Properties {#section-60f639e36ada43d1abc6bfc100afc925}
 

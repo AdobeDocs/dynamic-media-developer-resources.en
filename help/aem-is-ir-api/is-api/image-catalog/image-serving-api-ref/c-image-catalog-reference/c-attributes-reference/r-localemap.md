@@ -19,7 +19,7 @@ ID translation map. Specifies the rules used for translating generic image ids t
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p><span class="varname"> locId</span> </p></td> 
-  <td class="stentry"> <p>Locale ID (not case sensitive). </p></td> 
+  <td class="stentry"> <p>Locale ID (not case-sensitive). </p></td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p><span class="varname"> locSuffix</span> </p></td> 
@@ -39,7 +39,7 @@ ID translation, when enabled, is applied to all ids referencing image catalog an
 
 ## Properties {#section-f4c6f058bc5348ee9a3fb19e394b37e3}
 
-One or more items, separated with |, where each item consists of two or more, comma-separated string values. *`locId`* and `locale=` are compared. Not case sensitive.
+One or more items, separated with |, where each item consists of two or more, comma-separated string values. *`locId`* and `locale=` are compared. Not case-sensitive.
 
 ## See also {#section-19fba6d5be59439c8bf8ec7513c1a6da}
 

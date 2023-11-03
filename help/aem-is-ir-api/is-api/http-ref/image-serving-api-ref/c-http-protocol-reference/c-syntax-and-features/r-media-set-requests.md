@@ -90,11 +90,11 @@ When an `req=set` request is received, the type of response to generate is deter
     * Assume file-based video if file extension is in following set: mp3, mp4, flv, f4v, swf, xml 
     * Assume file-based image otherwise
 
-In all cases, the resultant xml response will conform to specified XML document with set root node corresponding to the detected type.
+In all cases, the resultant xml response conforms to the specified XML document with set root node corresponding to the detected type.
 
 ## Inner set type detection {#section-8f46490e467247e69ce284704def06f3}
 
-When the outer set is detected as type media set, the response will contain a set of media set items corresponding to each media set entry in `catalog::ImageSet`. If the optional type parameter is specified for a particular media set entry, it is mapped to an output type according to the following table:
+When the outer set is detected as type media set, the response contains a set of media set items corresponding to each media set entry in `catalog::ImageSet`. If the optional type parameter is specified for a particular media set entry, it is mapped to an output type according to the following table:
 
 |  Input type  | Output type  |
 |---|---|

@@ -1,5 +1,5 @@
 ---
-description: Catalog annotation string. Text string that can be used to identify the catalog version, publish date, etc.
+description: Catalog annotation string. Text string that can be used to identify the catalog version, publish date, and so on.
 solution: Experience Manager
 title: PublishInfo
 feature: Dynamic Media Classic,SDK/API
@@ -8,7 +8,7 @@ exl-id: 32bd12cf-f149-489f-ae74-f1da051d0730
 ---
 # PublishInfo{#publishinfo}
 
-Catalog annotation string. Text string that can be used to identify the catalog version, publish date, etc.
+Catalog annotation string. Text string that can be used to identify the catalog version, publish date, and so on.
 
 The contents of this field is returned with `req=catalogprops`. This attribute is not used otherwise.
 

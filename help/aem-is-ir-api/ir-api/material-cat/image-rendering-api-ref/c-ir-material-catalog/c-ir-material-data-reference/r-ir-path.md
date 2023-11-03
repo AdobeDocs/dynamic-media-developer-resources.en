@@ -22,7 +22,7 @@ Text string. Required for texture and decal materials, optional for cabinet and 
 
 Image Rendering supports the same source image formats as Dynamic Media Image Serving.
 
-Applications which require image data in multiple different resolutions will perform best when using the Dynamic Media pyramid TIFF (PTIFF) multi-resolution format. Image Serving includes the Image Converter (IC) utility which creates PTIFF images from any supported format.
+Applications that require image data in multiple different resolutions perform best when using the Dynamic Media pyramid TIFF (PTIFF) multi-resolution format. Image Serving includes the Image Converter (IC) utility which creates PTIFF images from any supported format.
 
 Refer to the description of the IC utility in the Image Serving documentation for a complete list of supported file formats.
 

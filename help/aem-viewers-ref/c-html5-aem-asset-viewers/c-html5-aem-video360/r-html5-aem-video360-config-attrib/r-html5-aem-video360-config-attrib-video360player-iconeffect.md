@@ -28,7 +28,7 @@ Configuration attribute for Video360 Viewer.
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"><span class="varname"> autoHide</span></span> </p> </td> 
-   <td colname="col2"> <p> Sets the number of seconds that the IconEffect stays fully visible before it auto-hides. That is, the time after the fade in animation is completed and before the fade out animation starts. Set to <span class="codeph"> 0</span> to disable auto-hide behavior. </p> </td> 
+   <td colname="col2"> <p> Sets the number of seconds that the IconEffect stays fully visible before it auto-hides. That is, the time after the fade in animation is completed and before the fade-out animation starts. Set to <span class="codeph"> 0</span> to disable auto-hide behavior. </p> </td> 
   </tr> 
  </tbody> 
 </table>

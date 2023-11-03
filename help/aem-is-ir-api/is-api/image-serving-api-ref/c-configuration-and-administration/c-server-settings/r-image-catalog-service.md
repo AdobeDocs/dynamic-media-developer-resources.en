@@ -24,4 +24,4 @@ Time in msec the catalog service waits after a [!DNL catalog.ini] file is change
 
 ## CS::catalog.refreshInterval - Catalog File Check Frequency {#section-517fefc1d8784777a1026abec8630d58}
 
-Frequency at which the catalog service will check for changes to image catalogs. Integer value in msec.
+Frequency at which the catalog service checks for changes to image catalogs. Integer value in msec.

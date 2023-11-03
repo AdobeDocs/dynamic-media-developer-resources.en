@@ -12,4 +12,4 @@ In the URL or catalog::Modifier command sequence, a layer definition sequence st
 
 All commands within the layer definition sequence are associated with the layer.
 
-The `layer=` command specifies a layer number, which must be an integer 0 or larger. All commands in layer definition sequences with the same layer number are applied to the same layer. If the same command occurs more than once, the last instance will prevail.
+The `layer=` command specifies a layer number, which must be an integer 0 or larger. All commands in layer definition sequences with the same layer number are applied to the same layer. If the same command occurs more than once, the last instance prevails.

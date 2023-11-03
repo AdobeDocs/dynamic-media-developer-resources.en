@@ -271,7 +271,7 @@ The appearance of individual thumbnails is controlled with the following CSS cla
  </tbody> 
 </table>
 
-Example - To set up thumbnails that are 215 x 129 pixels, have a light grey default border, and a dark grey selected border:
+Example - To set up thumbnails that are 215 x 129 pixels, have a light gray default border, and a dark gray selected border:
 
 ```
 .s7ecatalogsearchviewer .s7searchpanel .s7swatches .s7thumb { 
@@ -306,7 +306,7 @@ The appearance of the thumbnail label is controlled with the following CSS class
  </tbody> 
 </table>
 
-Example - To set up labels that use 12 pixel, grey, Helvetica® font:
+Example - To set up labels that use 12 pixel, gray, Helvetica® font:
 
 ```
 .s7ecatalogsearchviewer .s7searchpanel .s7swatches .s7label { 

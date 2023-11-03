@@ -10,7 +10,7 @@ exl-id: e8ec11af-9448-4796-a43d-0fb9841469dd
 
 User data. The server returns the contents of this field to the client in response to req=userdata.
 
-New lines can be escaped with '??'. The server will replace '??' with `<cr><lf>` before returning the contents of this field.
+New lines can be escaped with '??'. The server replaces '??' with `<cr><lf>` before returning the contents of this field.
 
 ## Properties {#section-4e3904e047a84cc790ce77c56d3e0b21}
 

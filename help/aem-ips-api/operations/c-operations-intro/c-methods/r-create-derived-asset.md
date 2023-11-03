@@ -16,7 +16,7 @@ Creates a new asset derived from an existing primary source image asset.
 
 Derived assets specify Image Server protocol commands that modify the representation of the owner image. The `AdjustedView` derived type helps apply simple modifications to a single image (for example, by specifying a crop rectangle), while the `LayerView` helps create a multilayer view which may include text or additional images.
 
-Unlike an image copy (see [copyImage](../../../operations/c-operations-intro/c-methods/r-copy-image.md#reference-0785131e690b4ad08be69172023f35d0)), a derived image is linked to its owner image. Changes to the owner image modifies associated derived assets. Deleting the owner image will delete any associated derived images.
+Unlike an image copy (see [copyImage](../../../operations/c-operations-intro/c-methods/r-copy-image.md#reference-0785131e690b4ad08be69172023f35d0)), a derived image is linked to its owner image. Changes to the owner image modifies associated derived assets. Deleting the owner image deletes any associated derived images.
 
 ## Authorized User Types {#authorized-user-types}
 
@@ -33,7 +33,7 @@ Unlike an image copy (see [copyImage](../../../operations/c-operations-intro/c-m
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  companyHandle  | `xsd:string`  | Yes  | The handle to the company that contains the asset from which you will derive the new asset.  |
+|  companyHandle  | `xsd:string`  | Yes  | The handle to the company that contains the asset from which you derive the new asset.  |
 |  ownerHandle  | `xsd:string`  | Yes  | The handle to the primary Image asset from which the new image is derived.  |
 |  folderHandle  | `xsd:string`  | Yes  | The handle to the folder in which the new derived asset is created.  |
 |  name  | `xsd:string`  | Yes  | The name of the derived asset.  |

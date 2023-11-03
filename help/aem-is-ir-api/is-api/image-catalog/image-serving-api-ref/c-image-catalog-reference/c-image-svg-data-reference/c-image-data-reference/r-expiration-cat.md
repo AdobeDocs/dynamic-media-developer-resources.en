@@ -20,7 +20,7 @@ Expiration is used for these response types:
 * `req=userdata` 
 * `req=map`
 
-Certain types of responses (e.g. error responses) are always marked for immediate expiration (or tagged as non-cacheable), while others (e.g. property or default image responses) use special expiration settings ( `attribute::NonImgExpiration` and `attribute::DefaultExpiration`).
+Certain types of responses (for example, error responses) are always marked for immediate expiration (or tagged as non-cacheable), while others (for example, property or default image responses) use special expiration settings ( `attribute::NonImgExpiration` and `attribute::DefaultExpiration`).
 
 ## Properties {#section-7f5173d090cf48df8fa1a2c72b8c8c60}
 

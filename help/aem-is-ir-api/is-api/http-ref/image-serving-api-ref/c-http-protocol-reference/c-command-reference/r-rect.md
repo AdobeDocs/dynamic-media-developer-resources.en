@@ -27,7 +27,7 @@ Final view rectangle. It allows the final view image to be disassembled into sev
  </tr> 
 </table>
 
-Using this command, Image Serving can deliver large images via HTTP which would otherwise exceed the size limit configured with `attribute::MaxPix`.
+Using this command, Image Serving can deliver large images by way of HTTP which would otherwise exceed the size limit configured with `attribute::MaxPix`.
 
 >[!NOTE]
 >

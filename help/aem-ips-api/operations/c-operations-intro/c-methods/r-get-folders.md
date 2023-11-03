@@ -12,7 +12,7 @@ Returns all folders and subfolders, starting at the folder path. The getFolders 
 
 ## Purpose of Folders {#section-66e344d5333f42f1b060a0cba25935c3}
 
-A folder enables you to organize subfolders and assets. All folder and asset names must be unique. Folders and assets that share the same name will cause a namespace conflict, even if they're in different folder hierarchies. 
+A folder enables you to organize subfolders and assets. All folder and asset names must be unique. Folders and assets that share the same name cause a namespace conflict, even if they are in different folder hierarchies. 
 Syntax 
 
 ## Authorized User Types {#section-0dc7e17cb60f4cf7bcdb76648e5d2f8e}

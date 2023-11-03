@@ -20,7 +20,7 @@ Overridden by `anchor=`(which in turn can be overridden with `origin=`).
 
 ## Default {#section-ca3a4cc837d643519eff15951f2b47a1}
 
-The center point of the image is used if this field is not present or if it is empty, and if this is a valid image record (i.e. if `catalog::Path` is valid).
+The center point of the image is used if this field is not present or if it is empty, and if this is a valid image record (that is, if `catalog::Path` is valid).
 
 ## See also {#section-f605d29c3f5d48ad8e2a374f11886f19}
 

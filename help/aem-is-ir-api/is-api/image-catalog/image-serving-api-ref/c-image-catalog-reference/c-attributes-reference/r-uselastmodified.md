@@ -20,7 +20,7 @@ Should be enabled only if a distributed caching network or other caching system 
 >
 >* Neither `catalog::TimeStamp` nor `attribute::TimeStamp`, so that the modification time of the [!DNL catalog.ini] file is used as the default for `catalog::TimeStamp`. 
 >
->* Instead of sharing the image catalog files via a network mount, each server has its own instance of the catalog files on a local file system. 
+>* Instead of sharing the image catalog files by way of a network mount, each server has its own instance of the catalog files on a local file system. 
 >* Two or more instances of the same [!DNL catalog.ini] file have different file modification dates, possibly caused by improper copying of the files. 
 >
 

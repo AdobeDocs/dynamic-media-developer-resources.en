@@ -35,11 +35,11 @@ See [Command reference common to all viewers - Configuration attributes](../../r
 
 ## Interacting with Video Viewer {#section-ab66eb6955aa4a8aa6d14a3b3acfed3f}
 
-Video Viewer provides a set of standard user interface controls for video playback, like a play/pause button, video scrubber video time bubble, played time/total time indicator, volume control, full screen button, and closed caption toggle. All these controls are grouped into a control bar at the bottom of the viewer user interface.
+Video Viewer provides a set of standard user interface controls for video playback, like a play/pause button, video scrubber video time bubble, played time/total time indicator, volume control, full-screen button, and closed caption toggle. All these controls are grouped into a control bar at the bottom of the viewer user interface.
 
 On touch devices, volume control is hidden from the user interface, because it is only possible to control volume using the hardware buttons.
 
-When the viewer operates in pop-up mode, the full screen button is not available in the user interface.
+When the viewer operates in pop-up mode, the full-screen button is not available in the user interface.
 
 It is possible to navigate the content of a video quickly when video chapter is activated. Video chapters are displayed as markers in the video scrubber track and show the chapter title and associated description on a mouse rollover or with a single tap on touch systems. Users can seek to a particular chapter by selecting a chapter marker or selecting the chapter description bubble.
 
@@ -55,7 +55,7 @@ The Video Viewer supports social media sharing tools. They are available as a si
 
 The sharing toolbar contains an icon for each type of sharing channel supported such as Facebook, Twitter, email share, embed code share and link share. When email share, embed share, or link share tools are activated, the viewer displays a modal dialog box with a corresponding data entry form. When Facebook or Twitter are called, the viewer redirects the user to a standard sharing dialog box from a social media service. Also when a sharing tool is activated video playback is paused automatically.
 
-Sharing tools are not available in full screen mode because of web browser security restrictions.
+Sharing tools are not available in full-screen mode because of web browser security restrictions.
 
 ## Embedding Video Viewer {#section-6bb5d3c502544ad18a58eafe12a13435}
 
@@ -131,7 +131,7 @@ You add the viewer to a web page by doing the following:
 
    The placeholder DIV is a positioned element, meaning that the `position` CSS property is set to `relative` or `absolute`.
 
-   Ensure that the full screen feature functions properly in Internet Explorer. Check to make sure that there are no other elements in the DOM that have a higher stacking order than your placeholder DIV.
+   Ensure that the full-screen feature functions properly in Internet Explorer. Check to make sure that there are no other elements in the DOM that have a higher stacking order than your placeholder DIV.
 
    The following is an example of a defined placeholder DIV element:
 

@@ -32,7 +32,7 @@ The email address that should be used in the **[!UICONTROL From]** email field.
 
 ## AS::monitorAlertGenerator.alertInterval - Monitoring Interval {#section-99cb2e3380c1499e9d5aec3671ed73c7}
 
-The monitoring system will accumulate alert conditions during the alert interval and send an alert email containing all accumulated alerts at the end of each interval. Milliseconds, integer value, 60000 or larger. Typically set to 5 or 10 minutes.
+The monitoring system accumulates alert conditions during the alert interval and send an alert email containing all accumulated alerts at the end of each interval. Milliseconds, integer value, 60000 or larger. Typically set to 5 or 10 minutes.
 
 ## AS::monitorAlertGenerator.heapSpaceResetInterval - Heap Space Alert Interval {#section-fd5a2bf04ed44fdcaef20f77084151a8}
 

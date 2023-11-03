@@ -8,7 +8,7 @@ exl-id: e2c79bdc-5d70-46d9-85f4-ffebd7621944
 ---
 # Serving static (non-image) content{#serving-static-non-image-content}
 
-Image Serving provides a mechanism to manage non-image contents in catalogs and serve it via a separate `context /is/content`. The mechanism allows for configuring the TTL for each item separately.
+Image Serving provides a mechanism to manage non-image contents in catalogs and serve it by way of a separate `context /is/content`. The mechanism allows for configuring the TTL for each item separately.
 
 ## Basic syntax {#section-a986baaca8644d04bcd0ddf781ae916e}
 
@@ -107,7 +107,7 @@ Static content catalogs are similar to image catalogs, but support fewer data fi
 
 ## Filtering static content {#section-896c37cf68bc446eb0766fb378898262}
 
-This mechanism can help ensure that clients receive only contents appropriate for their needs. Assuming that the static content is tagged with appropriate `catalog::UserType`values, the client can add the `type=` command to the request. Image Serving will compare the value provided with the `type=` command to the value of `catalog::UserType` and, in case of a mismatch, return an error instead of potentially inappropriate contents.
+This mechanism can help ensure that clients receive only contents appropriate for their needs. Assuming that the static content is tagged with appropriate `catalog::UserType`values, the client can add the `type=` command to the request. Image Serving compares the value provided with the `type=` command to the value of `catalog::UserType` and, in case of a mismatch, return an error instead of potentially inappropriate contents.
 
 ## See also {#section-91c7b686aacf4d3ca974f35a3fe3d6ec}
 

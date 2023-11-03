@@ -10,7 +10,7 @@ exl-id: ce08ed97-33b7-4d28-8f7f-3f3ef8598ad6
 
 Sharpening. Sharpening attribute, determines when the material is sharpened during rendering.
 
-The type and amount of sharpening is controlled by the vignette via a default material template or with `catalog::RenderSettings`.
+The type and amount of sharpening is controlled by the vignette by way of a default material template or with `catalog::RenderSettings`.
 
 ## Properties {#section-aac81b1a611b4bca90b8544eae7896df}
 

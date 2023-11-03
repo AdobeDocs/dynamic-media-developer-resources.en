@@ -66,7 +66,7 @@ The primary use cases are web pages oriented for desktops or tablet devices, and
 
 Fixed size embedding is used when the viewer does not change its size after initial load. This functionality is the best choice for web pages that have a static layout.
 
-Responsive design embedding assumes that the viewer needs resizing at runtime in response to the size change of its container `DIV`. The most common use case is adding a viewer to a web page that uses a flexible page layout.
+Responsive design embedding assumes that the viewer needs to resize at runtime in response to the size change of its container `DIV`. The most common use case is adding a viewer to a web page that uses a flexible page layout.
 
 In responsive design embedding mode, the viewer behaves differently depending on the way web page sizes its container `DIV`. If the web page sets only the width of the container `DIV`, leaving its height unrestricted, the viewer automatically chooses its height according to the aspect ratio of the asset that is used. This functionality ensures that the asset fits perfectly into the view without any padding on the sides. This use case is the most common for web pages using responsive web design layout frameworks like Bootstrap and Foundation.
 

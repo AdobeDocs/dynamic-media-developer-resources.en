@@ -1,14 +1,14 @@
 ---
-title: Full screen button
-description: Causes the viewer to enter or exit full screen mode when selected by the user. This button appears in the main control bar. This button is not displayed if the viewer works in pop-up mode and the system does not support native full screen. You can size, skin, and positioned the button by CSS.
+title: full-screen button
+description: Causes the viewer to enter or exit full-screen mode when selected by the user. This button appears in the main control bar. This button is not displayed if the viewer works in pop-up mode and the system does not support native full-screen. You can size, skin, and positioned the button by CSS.
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: a4b6fdc0-1047-46c6-bf77-4536819b7fcd
 ---
-# Full screen button{#full-screen-button}
+# full-screen button{#full-screen-button}
 
-Causes the viewer to enter or exit full screen mode when selected by the user. This button appears in the main control bar. This button is not displayed if the viewer works in pop-up mode and the system does not support native full screen. You can size, skin, and positioned the button by CSS.
+Causes the viewer to enter or exit full-screen mode when selected by the user. This button appears in the main control bar. This button is not displayed if the viewer works in pop-up mode and the system does not support native full-screen. You can size, skin, and positioned the button by CSS.
 
 <!--<a id="section_061E550C1C1D4DB2BD663A898895B38C"></a>-->
 
@@ -63,11 +63,11 @@ The appearance of the button is controlled with the following CSS class selector
 
 >[!NOTE]
 >
->This button supports both the `state` and `selected` attribute selectors, which can be used to apply different skins to different button states. In particular, `selected='true'` corresponds to the "full screen" state and `selected='false'` corresponds to the "normal" state.
+>This button supports both the `state` and `selected` attribute selectors, which can be used to apply different skins to different button states. In particular, `selected='true'` corresponds to the "full-screen" state and `selected='false'` corresponds to the "normal" state.
 
 The button tool tip can be localized. See [Localization of user interface elements](../../../c-html5-s7-aem-asset-viewers/c-html5-ecatsearch-viewer-about/c-html5-ecatsearch-viewer-localization.md#concept-cbfc39344c494eb7b9f6a272cff0cc74) for more information.
 
-Example - To set up a full screen button that is 28 x 28 pixels, and positioned 4 pixels from the bottom and 5 pixels from the right edge of the main control bar. And finally, displays a different image for each of the four different button states when selected or not selected.
+Example - To set up a full-screen button that is 28 x 28 pixels, and positioned 4 pixels from the bottom and 5 pixels from the right edge of the main control bar. And finally, displays a different image for each of the four different button states when selected or not selected.
 
 ```
 .s7ecatalogsearchviewer .s7fullscreenbutton { 

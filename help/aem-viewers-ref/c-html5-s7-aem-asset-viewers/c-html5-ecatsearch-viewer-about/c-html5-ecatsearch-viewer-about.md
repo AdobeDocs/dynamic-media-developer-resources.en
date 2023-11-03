@@ -1,5 +1,5 @@
 ---
-description: eCatalog Search Viewer is a catalog viewer that displays electronic brochures in a spread by spread or page by page manner, The eCatalog lets users navigate through the catalog using additional user interface elements or dedicated thumbnails mode. Users can also zoom in on every page for greater detail.
+description: eCatalog Search Viewer is a catalog viewer that displays electronic brochures in a spread by spread or page by page manner. The eCatalog lets users navigate through the catalog using additional user interface elements or dedicated thumbnails mode. Users can also zoom in on every page for greater detail.
 keywords: responsive
 solution: Experience Manager
 title: eCatalog Search
@@ -9,9 +9,9 @@ exl-id: 915e628e-65e7-44c6-a2aa-d4ae7ed03b8e
 ---
 # eCatalog Search{#ecatalog-search}
 
-eCatalog Search Viewer is a catalog viewer that displays electronic brochures in a spread by spread or page by page manner, The eCatalog lets users navigate through the catalog using additional user interface elements or dedicated thumbnails mode. Users can also zoom in on every page for greater detail.
+eCatalog Search Viewer is a catalog viewer that displays electronic brochures in a spread by spread or page by page manner. The eCatalog lets users navigate through the catalog using additional user interface elements or dedicated thumbnails mode. Users can also zoom in on every page for greater detail.
 
-This viewer works with ecatalogs and supports optional image maps and social sharing tools. It has zoom tools, catalog navigation tools, full screen support, thumbnails, and an optional close button. The viewer also supports social sharing tools, Print, Download, and Favorites. It is designed to work on desktops and mobile devices.
+This viewer works with ecatalogs and supports optional image maps and social sharing tools. It has zoom tools, catalog navigation tools, full-screen support, thumbnails, and an optional close button. The viewer also supports social sharing tools, Print, Download, and Favorites. It is designed to work on desktops and mobile devices.
 
 The user can also do a keyword-based or phrase-based search over the catalog contents.
 
@@ -78,9 +78,9 @@ This viewer also supports both touch input and mouse input on Windows devices wi
 
 ## Social media sharing tools with eCatalog Search Viewer {#section-eb575084a99647c3a9591f439f40b412}
 
-The eCatalog Search Viewer supports social sharing tools They are available as a button in the main control bar which expands into a sharing tool bar when a user clicks or taps on it.
+The eCatalog Search Viewer supports social sharing tools. They are available as a button in the main control bar which expands into a sharing tool bar when a user clicks or taps on it.
 
-The sharing tool bar contains icons for each type of sharing channel supported which includes Facebook, Twitter, email share, embed code share, and link share. When email share, embed share, or link share tools are activated, the viewer displays a modal dialog box with a corresponding data entry form. When Facebook or Twitter is called, the viewer redirects the user to a standard sharing dialog from a social service. Sharing tools are not available in full screen mode because of web browser security restrictions.
+The sharing tool bar contains icons for each type of sharing channel supported which includes Facebook, Twitter, email share, embed code share, and link share. When email share, embed share, or link share tools are activated, the viewer displays a modal dialog box with a corresponding data entry form. When Facebook or Twitter is called, the viewer redirects the user to a standard sharing dialog from a social service. Sharing tools are not available in full-screen mode because of web browser security restrictions.
 
 The viewer's Search feature is available as a looking glass icon in the main toolbar. Clicking or tapping the icon activates the Search panel with an input field. After entering a keyword or phrase and pressing Enter, the viewer renders search results in the panel and highlights found words in the main view.
 

@@ -12,7 +12,7 @@ Property data consists of a text string representing one or more properties.
 
 A property consists of a property name and a property value, separated by =.
 
-Multiple properties are separated by line separators, which may be either `??` or `<CR><LF>`. If the entire property data string is not enclosed in quotation marks, the server replaces each occurrence of `??` with `<CR><LF>` before transmitting the data to the client. Property names may consist of letters, numbers, '.', '-', and '_'. Property names are not case sensitive.
+Multiple properties are separated by line separators, which may be either `??` or `<CR><LF>`. If the entire property data string is not enclosed in quotation marks, the server replaces each occurrence of `??` with `<CR><LF>` before transmitting the data to the client. Property names may consist of letters, numbers, '.', '-', and '_'. Property names are not case-sensitive.
 
 Property values must not include line separators.
 

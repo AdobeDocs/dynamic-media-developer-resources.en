@@ -25,7 +25,7 @@ grout= *`color`*[, *`width`*]
 
 For maximum control of the grout appearance, the following requirements apply:
 
-* The tile must be square or rectangular; no other shapes are supported currently.
+* The tile must be square or rectangular; no other shapes are currently supported.
 * The image must contain a single tile only.
 * The default grout in the image (if any) must have the same thickness on all four edges.
 * The thickness of the default grout must be specified in the material catalog ( `catalog::GroutWidth`).

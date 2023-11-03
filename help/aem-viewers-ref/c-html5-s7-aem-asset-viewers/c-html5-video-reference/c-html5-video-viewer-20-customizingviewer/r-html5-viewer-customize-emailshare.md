@@ -751,7 +751,7 @@ Most input fields that spread from the label on the left up to the right edge of
  </tbody> 
 </table>
 
-Example - To set up a form to have a one pixel grey border with nine pixels of padding around all input fields. To have the same border in red color for fields which fail validation, to have 250 pixels wide "To" input field, and the rest of the input fields 300 pixels wide:
+Example - To set up a form to have a one pixel gray border with nine pixels of padding around all input fields. To have the same border in red color for fields which fail validation, to have 250 pixels wide "To" input field, and the rest of the input fields 300 pixels wide:
 
 ```
 .s7videoviewer .s7emaildialog .s7dialoginputcontainer { 

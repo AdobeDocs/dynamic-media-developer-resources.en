@@ -101,7 +101,7 @@ None.
 
 ## Example {#section-675865444f8a4d35b9fc6e58b36e3438}
 
-A MSS for a colorized cabinet with a separate repeatable texture:
+An MSS for a colorized cabinet with a separate repeatable texture:
 
 `…&obj=cabinets&src=cabs/maple02.vnc,cabs/maple.jpg&res=40&color=185,105,35&…`
 

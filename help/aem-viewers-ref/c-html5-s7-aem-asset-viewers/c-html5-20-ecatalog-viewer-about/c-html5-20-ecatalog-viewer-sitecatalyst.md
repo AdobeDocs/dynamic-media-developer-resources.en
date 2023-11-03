@@ -70,7 +70,7 @@ The viewer tracks the following SDK user events:
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> SWATCH </span> </p> </td> 
-   <td colname="col2"> <p> an image is change by clicking or tapping on a swatch. </p> </td> 
+   <td colname="col2"> <p> an image is changed by clicking or tapping on a swatch. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> PAGE </span> </p> </td> 

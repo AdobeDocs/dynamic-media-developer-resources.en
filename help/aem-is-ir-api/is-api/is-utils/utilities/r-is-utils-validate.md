@@ -1,5 +1,5 @@
 ---
-description: Image validation utility. This command line utility verifies image files to make sure they are valid and can be read without difficulty by Image Serving.
+description: Image validation utility. This command-line utility verifies image files to make sure they are valid and can be read without difficulty by Image Serving.
 solution: Experience Manager
 title: validate
 feature: Dynamic Media Classic,SDK/API
@@ -8,7 +8,7 @@ exl-id: 78d50fe9-95c6-4335-98d8-3322839ee02d
 ---
 # validate{#validate}
 
-Image validation utility. This command line utility verifies image files to make sure they are valid and can be read without difficulty by Image Serving.
+Image validation utility. This command-line utility verifies image files to make sure they are valid and can be read without difficulty by Image Serving.
 
 All non-PTIFF image files must pass validate before the file is made available to Image Serving as a source image. PTIFF images should be validated after potentially unreliable copy operations.
 

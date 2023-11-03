@@ -34,7 +34,7 @@ The following table describes each type of standard alert.
   <tr> 
    <td> <p>Minimum Traffic </p> </td> 
    <td> <p>Traf </p> </td> 
-   <td> <p>Generated when the overall request rate falls below the specified threshold. Typically indicates a server communication issue (e.g. when a server is taken off line). </p> </td> 
+   <td> <p>Generated when the overall request rate falls below the specified threshold. Typically indicates a server communication issue (for example, when a server is taken off line). </p> </td> 
   </tr> 
   <tr> 
    <td> <p>Error Rate </p> </td> 

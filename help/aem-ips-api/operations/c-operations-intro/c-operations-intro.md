@@ -68,7 +68,7 @@ By default, operations that require access permissions (read, write, delete) ope
 
 **responseFieldArray and excludeFieldArray**
 
-Some operations allow the caller to restrict which fields are included in the response. Limiting fields can help reduce the time and memory required to process the request and reduce the size of the response data. The caller can request a specific list of fields by passing a `responseFieldArray` parameter, or with an enumerated a list of excluded fields via the `excludeFieldArray` parameter.
+Some operations allow the caller to restrict which fields are included in the response. Limiting fields can help reduce the time and memory required to process the request and reduce the size of the response data. The caller can request a specific list of fields by passing a `responseFieldArray` parameter, or with an enumerated a list of excluded fields by way of the `excludeFieldArray` parameter.
 
 Both `responseFieldArray` and `excludeFieldArray` specify fields by using a node path separated by `/`. For example, to specify that `searchAssets` returns only the name, last modified date, and metadata for each asset refer to the following: 
 
@@ -96,7 +96,7 @@ If you do not include `responseFieldArray` or `excludeFieldArray` in a request, 
 
 Since IPS 4.0, the IPS API supports setting the locale context of an operation by passing the `authHeader` locale parameter. If the locale parameter is not present, the HTTP header `Accept-Language` is used. If this header is also not present, the default locale for the IPS server is used.
 
-Certain operations also take explicit locale parameters, which may be different than the operation locale context. For example, the `submitJob` operation takes a `locale` parameter that sets the locale used for job logging and email notification.
+Certain operations also take explicit locale parameters, which may be different from the operation locale context. For example, the `submitJob` operation takes a `locale` parameter that sets the locale used for job logging and email notification.
 
 Locale parameters use the format `<language_code>[-<country_code>]`
 

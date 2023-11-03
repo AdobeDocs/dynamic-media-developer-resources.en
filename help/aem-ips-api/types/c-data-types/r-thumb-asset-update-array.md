@@ -1,5 +1,5 @@
 ---
-description: An metadata updates for thumb assets.
+description: A metadata update for thumb assets.
 solution: Experience Manager
 title: ThumbAssetUpdateArray
 feature: Dynamic Media Classic,SDK/API,Asset Management
@@ -8,7 +8,7 @@ exl-id: 58893b74-9a32-47f6-9c97-80db67ae1739
 ---
 # [!DNL ThumbAssetUpdateArray]{#thumbassetupdatearray}
 
-An metadata updates for thumb assets.
+A metadata update for thumb assets.
 
  Syntax 
 

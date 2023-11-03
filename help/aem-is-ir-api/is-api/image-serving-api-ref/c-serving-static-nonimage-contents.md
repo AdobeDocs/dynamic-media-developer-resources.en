@@ -1,6 +1,6 @@
 ---
 title: Serving static (non-image) contents
-description: You can use Image Serving to manage non-image content in catalogs and serve it via a separate /is/content context.
+description: You can use Image Serving to manage non-image content in catalogs and serve it by way of a separate /is/content context.
 solution: Experience Manager
 
 feature: Dynamic Media Classic,SDK/API
@@ -9,7 +9,7 @@ exl-id: adc3d972-b02d-40db-992e-acaa06b848ff
 ---
 # Serving static (non-image) contents{#serving-static-non-image-contents}
 
-You can use Image Serving to manage non-image content in catalogs and serve it via a separate /is/content context.
+You can use Image Serving to manage non-image content in catalogs and serve it by way of a separate /is/content context.
 
 This capability allows for configuring the TTL for each item separately.
 

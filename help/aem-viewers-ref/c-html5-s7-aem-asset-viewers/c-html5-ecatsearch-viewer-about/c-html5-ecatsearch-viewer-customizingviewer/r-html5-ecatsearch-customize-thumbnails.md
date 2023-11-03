@@ -127,7 +127,7 @@ On touch devices, when rotated to portrait mode, the viewer may size thumbnails 
 >
 >Thumbnail supports the `state` attribute selector, which can be used to apply different skins to different thumbnail states. In particular, `state="selected"` corresponds to the thumbnail for the image that is currently displayed in the main view, `state="default"` corresponds to the rest of thumbnails, and `state="over"` is used on mouse hover.
 
-Example - to set up thumbnails that are 120 x 85 pixels, have a white background, a light gray standard border, and a dark grey selected border.
+Example - to set up thumbnails that are 120 x 85 pixels, have a white background, a light gray standard border, and a dark gray selected border.
 
 ```
 .s7ecatalogsearchviewer .s7thumbnailgridview .s7thumb { 

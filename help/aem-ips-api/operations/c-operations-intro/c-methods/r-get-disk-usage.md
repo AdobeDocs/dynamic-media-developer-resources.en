@@ -1,5 +1,5 @@
 ---
-description: Returns information about a company's structure (number of files, etc.).
+description: Returns information about a company's structure (number of files, and so on.).
 solution: Experience Manager
 title: getDiskUsage
 feature: Dynamic Media Classic,SDK/API
@@ -8,7 +8,7 @@ exl-id: 06fdd9f5-5021-4f0b-b312-4465df9bda25
 ---
 # getDiskUsage{#getdiskusage}
 
-Returns information about a company's structure (number of files, etc.).
+Returns information about a company's structure (number of files, and so on.).
 
 ## Authorized User Types {#authorized-user-types}
 

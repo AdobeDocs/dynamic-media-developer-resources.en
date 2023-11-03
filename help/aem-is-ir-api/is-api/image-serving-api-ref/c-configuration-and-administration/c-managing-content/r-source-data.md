@@ -39,6 +39,6 @@ All `*`rootPath`*` segments can be empty, relative, or absolute path segments.
 
 `*`catalogPath`*` is either an absolute or relative file path/name. `*`requestPath`*` must be a relative file path/name.
 
-`Multiple IS::RootPath` values can be defined in ImageServerRegistry.xml (or by way of the admin interface). This allows source data files to be distributed across multiple file systems. The Image Server will try alternate paths in the order specified until the data file is found.
+`Multiple IS::RootPath` values can be defined in ImageServerRegistry.xml (or by way of the admin interface). This allows source data files to be distributed across multiple file systems. The Image Server tries alternate paths in the order specified until the data file is found.
 
 New data files of any kind can be added anytime without stopping the server.

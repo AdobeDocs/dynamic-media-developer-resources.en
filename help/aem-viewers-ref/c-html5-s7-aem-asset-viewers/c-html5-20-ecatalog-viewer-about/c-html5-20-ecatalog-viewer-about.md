@@ -19,7 +19,7 @@ Viewer type 507.
 
 See [System requirements and prerequisites](../../c-system-requirements-and-prerequisites.md#concept-9282e5b777de42cdaf72ef7ebd646842).
 
-This viewer works with ecatalogs and supports optional image maps and social sharing tools. It has zoom tools, catalog navigation tools, full screen support, thumbnails, and an optional close button. The viewer also supports social sharing tools, Print, Download, and Favorites. It is designed to work on desktops and mobile devices.
+This viewer works with ecatalogs and supports optional image maps and social sharing tools. It has zoom tools, catalog navigation tools, full-screen support, thumbnails, and an optional close button. The viewer also supports social sharing tools, Print, Download, and Favorites. It is designed to work on desktops and mobile devices.
 
 ## Demo URL {#section-e1c3106f5b3e445d9b95be337c2f94e2}
 
@@ -80,7 +80,7 @@ This viewer is fully keyboard accessible as described in [Keyboard accessibility
 
 The eCatalog Viewer supports social sharing tools. They are available as a button in the main control bar which expands into a sharing tool bar when a user clicks or taps on it.
 
-The sharing tool bar contains icons for each type of sharing channel supported which includes Facebook, Twitter, email share, embed code share, and link share. When email share, embed share, or link share tools are activated, the viewer displays a modal dialog box with a corresponding data entry form. When Facebook or Twitter is called, the viewer redirects the user to a standard sharing dialog from a social service. Sharing tools are not available in full screen mode because of web browser security restrictions.
+The sharing tool bar contains icons for each type of sharing channel supported which includes Facebook, Twitter, email share, embed code share, and link share. When email share, embed share, or link share tools are activated, the viewer displays a modal dialog box with a corresponding data entry form. When Facebook or Twitter is called, the viewer redirects the user to a standard sharing dialog from a social service. Sharing tools are not available in full-screen mode because of web browser security restrictions.
 
 ## Embedding eCatalog Viewer {#section-6bb5d3c502544ad18a58eafe12a13435}
 

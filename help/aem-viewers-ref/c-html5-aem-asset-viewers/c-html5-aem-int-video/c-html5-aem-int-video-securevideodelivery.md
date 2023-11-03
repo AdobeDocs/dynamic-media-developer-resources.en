@@ -53,12 +53,12 @@ Depending on the method of publishing [!DNL Dynamic Media] video that you use in
      s7interactivevideoviewer.setHandlers({  
      "quickViewActivate": function(inData) { 
        var sku=inData.sku; //SKU for product ID 
-      //To pass other parameter from the hotspot, you will need to add custom parameter during the hotspot setup as parameterName=value 
+      //To pass other parameter from the hotspot, you must add custom parameter during the hotspot setup as parameterName=value 
       loadQuickView(sku); //Replace this call with your quickview plugin 
       //Please refer to your quickviewer plugin for the quickview call 
       },  
   "initComplete":function() {  
-      //--- Attach quickview popup to viewer container so popup will work in fullscreen mode --- 
+      //--- Attach quickview pop-up to viewer container so pop-up works in fullscreen mode --- 
       var popup = document.getElementById('quickview_div'); // get custom quick view container 
       popup.parentNode.removeChild(popup); // remove it from current DOM 
       var sdkContainerId = s7interactivevideoviewer.getComponent("container").getInnerContainerId(); // get viewer container component 

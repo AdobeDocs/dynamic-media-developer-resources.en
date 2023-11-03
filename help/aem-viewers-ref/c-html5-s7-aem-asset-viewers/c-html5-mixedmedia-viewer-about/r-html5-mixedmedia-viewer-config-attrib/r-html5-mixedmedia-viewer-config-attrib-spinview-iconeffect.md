@@ -26,7 +26,7 @@ exl-id: 473207d2-7e26-4ea3-940e-5a21f29a2b91
   </tr> 
   <tr> 
    <td colname="col1"> <p><span class="codeph"><span class="varname"> autoHide</span></span> </p> </td> 
-   <td colname="col2"> <p>Sets the number of seconds that the <span class="codeph"> iconeffect</span> stays fully visible before it auto hides. That is, the time after the fade-in animation is completed but before the fade out animation starts. A setting of <span class="codeph"> 0</span> disables the auto-hide behavior. </p> </td> 
+   <td colname="col2"> <p>Sets the number of seconds that the <span class="codeph"> iconeffect</span> stays fully visible before it auto-hides. That is, the time after the fade-in animation is completed but before the fade-out animation starts. A setting of <span class="codeph"> 0</span> disables the auto-hide behavior. </p> </td> 
   </tr> 
  </tbody> 
 </table>

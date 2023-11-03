@@ -42,11 +42,11 @@ The appearance of this button is controlled with the following CSS class selecto
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> width </span> </p> </td> 
-   <td colname="col2"> <p> The width of the full screen button. </p> </td> 
+   <td colname="col2"> <p> The width of the full-screen button. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> height </span> </p> </td> 
-   <td colname="col2"> <p>The height of the full screen button. </p> </td> 
+   <td colname="col2"> <p>The height of the full-screen button. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> background-image </span> </p> </td> 

@@ -19,7 +19,7 @@ User data from image catalog. Returns user data for the image catalog entry spec
  </tr> 
 </table>
 
-The contents of `catalog::UserData` are returned. When 'text' format is specified, all instances of `??` in `catalog::UserData`are replaced by line terminators, and a single line terminator (CR/LF) is appended to the end. If the URL path does not resolve to a valid catalog entry, the response consists only of a single line terminator. Appropriate formatting is applied when 'xml' or 'json' format is requested.
+The contents of `catalog::UserData` are returned. When 'text' format is specified, all instances of `??` in `catalog::UserData`are replaced by line terminators, and a single-line terminator (CR/LF) is appended to the end. If the URL path does not resolve to a valid catalog entry, the response consists only of a single-line terminator. Appropriate formatting is applied when 'xml' or 'json' format is requested.
 
 Other commands in the request string are ignored.
 

@@ -673,7 +673,7 @@ The share link is wrapped in a container and controlled with the following CSS c
  </tbody> 
 </table>
 
-Example - to set a one pixel grey border around embed code text and have nine pixels of padding:
+Example - to set a one pixel gray border around embed code text and have nine pixels of padding:
 
 ```
 .s7ecatalogviewer .s7linkdialog .s7dialoginputcontainer { 

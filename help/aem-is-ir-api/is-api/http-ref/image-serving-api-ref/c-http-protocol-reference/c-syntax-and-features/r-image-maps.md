@@ -10,9 +10,9 @@ exl-id: 9a685f9d-205d-43b3-b5fe-3ae324fe153e
 
 IS provides mechanisms to simplify use of HTML image maps. The JAVA-based and Flash-based viewers in IS also include limited support for image maps.
 
-Source image maps are provided to IS either via `catalog::Map` or with the `map=` command, and processed maps are retrieved using the `req=map` command.
+Source image maps are provided to IS either by way of `catalog::Map` or with the `map=` command, and processed maps are retrieved using the `req=map` command.
 
-An image map consists of one or more HTML AREA elements, properly delimited with '<' and '>'. If provided via catalog::Map, all pixel coordinates values are assumed to be in the original image resolution and relative to the top left corner of the (unmodified) source image. When provided via a `map=` command, the coordinate values are assumed to be layer coordinates, relative to the top-left corner of the layer (after `rotate=` and `extend=`).
+An image map consists of one or more HTML AREA elements, properly delimited with '<' and '>'. If provided by way of catalog::Map, all pixel coordinates values are assumed to be in the original image resolution and relative to the top left corner of the (unmodified) source image. When provided by way of a `map=` command, the coordinate values are assumed to be layer coordinates, relative to the top-left corner of the layer (after `rotate=` and `extend=`).
 
 >[!NOTE]
 >
@@ -20,7 +20,7 @@ An image map consists of one or more HTML AREA elements, properly delimited with
 
 IS generates a composite image map from the source image maps of each constituent layer by applying the spatial transformations (such as scaling and rotation) to the map coordinates, and then assembling the processed layer maps in the appropriate z-order (front to back) and with the appropriate positioning.
 
-The following commands are considered for image map processing when provided in conjunction with `req=map` (either directly in the request, via catalog templates, or in `catalog::Modifier` strings):
+The following commands are considered for image map processing when provided in conjunction with `req=map` (either directly in the request, by way of catalog templates, or in `catalog::Modifier` strings):
 
 * `align=` 
 * `wid=` 
@@ -45,7 +45,7 @@ The `SHAPE` and `COORDS` attributes of an `AREA` may be modified during processi
 
 Any `AREA` elements which become empty during processing are removed entirely. If a map is associated with `layer=comp` it is placed behind all other maps. The data is returned in text form one as or more HTML `AREA` elements. An empty reply string indicates that no image map exists for the specified object(s).
 
-Layer transparency is not considered for map processing. A fully transparent layer can still have an image map associated with it. The map of a partially transparent layer will not be clipped to the transparent regions.
+Layer transparency is not considered for map processing. A fully transparent layer can still have an image map associated with it. The map of a partially transparent layer is not clipped to the transparent regions.
 
 ## See also {#see-also}
 

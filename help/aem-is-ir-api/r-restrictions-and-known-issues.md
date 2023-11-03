@@ -12,7 +12,7 @@ There are some restrictions and known issues that should be considered when usin
 
 ## Documentation errata {#section-b1579410b11e41e488c7de9ecc7e8d5c}
 
-* The number of lines will not exceed the maximum of the `\copyfitmaxlines` setting and the number of explicit lines in the text input. 
+* The number of lines does not exceed the maximum of the `\copyfitmaxlines` setting and the number of explicit lines in the text input. 
 * Matching curly brackets and parenthesis are required in image sets. If curly brackets and parenthesis are not matched, they need to be URL encoded. 
 * Server-side global response time alert includes error responses. 
 * The `id=` command is currently required when using the `rect=` command with an image or mask request.
@@ -36,7 +36,7 @@ There are some restrictions and known issues that should be considered when usin
 
 * Escaping the underscore character ( `\_`) in an RTF string does not work with all fonts using `textPs=` 
 
-* Supporting not case sensitive macro handling. 
+* Supporting not case-sensitive macro handling. 
 * Catalog cache has been reduced from 60 seconds to 10 seconds. 
 * The error redirect feature now only redirects requests referencing corrupt images, fonts, color profiles, and images that are published in a catalog, but not found on disk. 
 * `posN=`, `anchor=`, `anchorN=`, `origin=`, and `originN=` now return a parsing error if any of the modifier values are greater than 2147483648. 
@@ -59,7 +59,7 @@ The Digimarc library refuses to apply a Digimarc watermark to an image if one is
 
   Server A has defined `errorRedirect.rootUrl=10.10.10.10` .
 
-  Server B, that has the IP address of 10.10.10.10, sets the `<addressfilter>` tag value in the ruleset file to include its IP address (10.10.10.10). 
+  Server B that has the IP address of 10.10.10.10, sets the `<addressfilter>` tag value in the ruleset file to include its IP address (10.10.10.10). 
 
 * Point text and text path with positioning may exhibit clipping. 
 * `text=` only applies `\sa` and `\sb` to the entire text block and not per paragraph. 

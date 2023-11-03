@@ -1,6 +1,6 @@
 ---
 title: Spin
-description: Spin Viewer is an image viewer that provides a 360-degree view of the image or even multi-dimensional view if appropriate spin set is being used. It has zoom and spin tools, full screen support, and an optional close button. It is designed to work on desktops and mobile devices.
+description: Spin Viewer is an image viewer that provides a 360-degree view of the image or even multi-dimensional view if appropriate spin set is being used. It has zoom and spin tools, full-screen support, and an optional close button. It is designed to work on desktops and mobile devices.
 keywords: responsive
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
@@ -9,7 +9,7 @@ exl-id: 4c802d42-ea5b-4f28-b6ef-2689aa16839d
 ---
 # Spin{#spin}
 
-Spin Viewer is an image viewer that provides a 360-degree view of the image or even multi-dimensional view if appropriate spin set is being used. It has zoom and spin tools, full screen support, and an optional close button. It is designed to work on desktops and mobile devices.
+Spin Viewer is an image viewer that provides a 360-degree view of the image or even multi-dimensional view if appropriate spin set is being used. It has zoom and spin tools, full-screen support, and an optional close button. It is designed to work on desktops and mobile devices.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ Spin Viewer represents a main JavaScript file and a set of helper files (a singl
 
 Spin Viewer can be used both in pop-up mode using production-ready HTML page provided with IS-Viewers or in embedded mode, where it is integrated into target web page using documented API.
 
-Configuration and skinning are similar to that of the other viewers. All skinning can be achieved via custom CSS.
+Configuration and skinning are similar to that of the other viewers. All skinning can be achieved by way of custom CSS.
 
 See [Command reference common to all viewers - Configuration attributes](../../r-html5-viewer-20-cmdref-configattrib/r-html5-viewer-20-cmdref-configattrib.md#concept-850e0f2c49b949deb7cfbfd330d329bd) and [Command reference common to all Viewers - URL](../../c-html5-viewer-20-cmdref-url/c-html5-viewer-20-cmdref-url.md#concept-9b337f349b7b406b8c33c7ee96b3e226)
 

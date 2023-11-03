@@ -74,7 +74,7 @@ The Expiration attribute only overrides the default attribute value; it is ignor
 
 If both `<expression>` and `<substitution>` are specified, and captured substrings are not used, the first matched sub-string is replaced with `<substitution>`.
 
-If `<expression>` is not specified, any path will match and `<substitution>` is appended to the end of the path.
+If `<expression>` is not specified, any path matches and `<substitution>` is appended to the end of the path.
 
 If `<substitution>` is not specified, the matched substring is removed.
 

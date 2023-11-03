@@ -19,7 +19,7 @@ String translation map. Refers to a locId that can be mapped to any number of in
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p> <span class="varname"> locale </span> </p> </td> 
-  <td class="stentry"> <p>Locale (not case sensitive). </p> </td> 
+  <td class="stentry"> <p>Locale (not case-sensitive). </p> </td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p> <span class="varname"> locId </span> </p> </td> 

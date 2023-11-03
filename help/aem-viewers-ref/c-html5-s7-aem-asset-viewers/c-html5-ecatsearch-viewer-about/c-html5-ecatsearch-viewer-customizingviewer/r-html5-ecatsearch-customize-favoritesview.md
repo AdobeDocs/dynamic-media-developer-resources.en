@@ -35,7 +35,7 @@ The position and the height of the Favorites view is managed by the view; in CSS
  </tbody> 
 </table>
 
-Example - to set up a Favorites view that is 100 pixels wide with a semi-transparent grey background.
+Example - to set up a Favorites view that is 100 pixels wide with a semi-transparent gray background.
 
 ```
 .s7ecatalogsearchviewer .s7favoritesview { 
@@ -98,7 +98,7 @@ The appearance of individual thumbnail is controlled with the following CSS clas
 >
 >Thumbnail supports the `state` attribute selector, which can be used to apply different skins to different thumbnail states. In particular, `state="selected"` corresponds to the thumbnail recently selected by the user. While `state="default"` corresponds to the rest of the thumbnails. And `state="over"` is used on mouse hover.
 
-Example - To set up thumbnails that are 75 x 75 pixels, have a light grey default border, and a dark grey selected border.
+Example - To set up thumbnails that are 75 x 75 pixels, have a light gray default border, and a dark gray selected border.
 
 ```
 .s7ecatalogsearchviewer .s7favoritesview .s7thumb { 

@@ -20,7 +20,7 @@ Text string. Required for image records, may be empty for template records. If s
 
 Refer to the description of the Image Converter (IC) utility for a complete list of supported file formats.
 
-Applications that require image ata in multiple different resolutions will perform best when using the Dynamic Media pyramid TIFF (PTIFF) multi-resolution format. The IC utility is used to create PTIFF images from any supported image format.
+Applications that require image ata in multiple different resolutions perform best when using the Dynamic Media pyramid TIFF (PTIFF) multi-resolution format. The IC utility is used to create PTIFF images from any supported image format.
 
 ## Default {#path-default}
 

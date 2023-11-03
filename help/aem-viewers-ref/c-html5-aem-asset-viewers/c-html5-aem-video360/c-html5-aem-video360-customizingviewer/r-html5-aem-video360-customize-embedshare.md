@@ -680,7 +680,7 @@ The embed code is wrapped into container and controlled with the following CSS c
  </tbody> 
 </table>
 
-**Example** - to set a one pixel grey border around embed code text, make it 430 pixels wide, and have a ten pixel padding:
+**Example** - to set a one pixel gray border around embed code text, make it 430 pixels wide, and have a ten pixel padding:
 
 ```
 .s7video360viewer .s7embeddialog .s7dialoginputcontainer { 
@@ -908,7 +908,7 @@ The size and position of the panel is controlled by the component. It is not pos
  </tbody> 
 </table>
 
-**Example** - to set the combo box panel to have a one pixel grey border:
+**Example** - to set the combo box panel to have a one pixel gray border:
 
 ```
 .s7video360viewer .s7embeddialog .s7comboboxdropdown { 
@@ -1034,7 +1034,7 @@ Each custom size input field is wrapped in a container that renders a border and
  </tbody> 
 </table>
 
-**Example** - To set the custom size input fields to have a one pixel grey border, margin, padding, and be 70 pixels wide:
+**Example** - To set the custom size input fields to have a one pixel gray border, margin, padding, and be 70 pixels wide:
 
 ```
 .s7video360viewer .s7embeddialog .s7dialogcustomsize { 
@@ -1132,7 +1132,7 @@ Scroll bar track is the area between the top and bottom scroll buttons. The comp
  </tbody> 
 </table>
 
-**Example** - to set up a scroll bar track that is 28 pixels wide and has a grey background:
+**Example** - to set up a scroll bar track that is 28 pixels wide and has a gray background:
 
 ```
 .s7video360viewer .s7embeddialog .s7scrollbar .s7scrolltrack { 

@@ -14,7 +14,7 @@ Catalog data files can be maintained readily using applications which support ta
 
 Essentially a two-dimensional table, a catalog data file consists of a header record which identifies the data columns and any number of data records (rows). Fields in both header and data records are separated by single `<TAB>` characters. Records are separated by a single `<CR>` (ASCII code `0xD`), a single `<LF>` (ASCII code `0xA`), or a `<CR><LF>` pair.
 
-The header record must contain the exact names for each data field. Empty fields are not permitted in the header row. Data field names are not case sensitive. All field names must be unique.
+The header record must contain the exact names for each data field. Empty fields are not permitted in the header row. Data field names are not case-sensitive. All field names must be unique.
 
 No white space other than the `<TAB>` field separators is permitted in header and data records.
 

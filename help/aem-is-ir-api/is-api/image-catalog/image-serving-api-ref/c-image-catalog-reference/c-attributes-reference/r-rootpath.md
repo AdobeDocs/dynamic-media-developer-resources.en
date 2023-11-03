@@ -18,7 +18,7 @@ Text string. Must be empty, a valid relative folder path, or a valid absolute pa
 
 ## Default {#section-7d66ff9a3d7a4e3b834769269cb01f4f}
 
-Inherited from `default::RootPath` if not defined. If defined but empty, will not contribute to the source file root path.
+Inherited from `default::RootPath` if not defined. If defined but empty, it does not contribute to the source file root path.
 
 ## See also {#section-6bf4ffc4987843a9a2dbe81b43076437}
 

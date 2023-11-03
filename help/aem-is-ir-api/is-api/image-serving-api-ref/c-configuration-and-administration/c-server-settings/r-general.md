@@ -20,11 +20,11 @@ Specifies the HTTP root path to allow the Image Server access to the caching ser
 
 ## IS::RemoteUrlDefaultExpiration - Remote Image Source Default TTL {#section-e4c31228b459492cacd2f482d9575f71}
 
-The TTL for cached images obtained via HTTP from a remote source using the `src={…}` construct. Only used when the remote server does not include an Expiration header in its HTTP response. Integer value in seconds.
+The TTL for cached images obtained by way of HTTP from a remote source using the `src={…}` construct. Only used when the remote server does not include an Expiration header in its HTTP response. Integer value in seconds.
 
 ## IS::RemoteUrlTimeout - Remote Image Source Timeout {#section-437646c479cc4bea81dae42100a3c50a}
 
-The time the Image Server will wait for a remote server to deliver the requested image file via HTTP before returning an error. Integer value in seconds.
+The time the Image Server waits for a remote server to deliver the requested image file by way of HTTP before returning an error. Integer value in seconds.
 
 ## PS::allowDefaultCatalogRequests - Enable/Disable Default Catalog Requests {#section-484e442a115a49b4ac269d1718b351e1}
 

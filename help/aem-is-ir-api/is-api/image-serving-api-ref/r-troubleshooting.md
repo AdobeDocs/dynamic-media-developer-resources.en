@@ -33,7 +33,7 @@ This does not indicate a problem. The file system overhead is not included in th
 
 This occurs if Image Server is not running. It also occurs if the catalog root path or image root path has been changed from the installation default, but the example images and catalogs have not been moved to the new locations. Check the Image Server Root Path value in configuration files. If necessary, move the demo folder that contains the example images to the current image root, and move [!DNL sample*.*] to the current catalog root.
 
-The examples also assume that certain settings in [!DNL default.ini] are standard (e.g. obfuscation or locking must not be enabled).
+The examples also assume that certain settings in [!DNL default.ini] are standard (for example, obfuscation or locking must not be enabled).
 
 **Too many cache misses after substantial uptime**
 
@@ -45,8 +45,8 @@ The Image Server and [!DNL Platform Server] start a new log file every day. By d
 
 **If you have anti-virus software installed on your server**
 
-It is recommended that you turn off scanning for Image Serving directories. Otherwise, scanning high volume read/write directories (such as cache, images, fonts, profiles and catalog directories) will cause problems.
+It is recommended that you turn off scanning for Image Serving directories. Otherwise, scanning high volume read/write directories (such as cache, images, fonts, profiles and catalog directories) can cause problems.
 
 **Digimarc causes performance problems for zoom images**
 
-Do not use Digimarc on images that are zoomed. The performance will not be acceptable. If necessary, create a separate catalog for images to be used for zooming and disable Digimarc for this catalog.
+Do not use Digimarc on images that are zoomed. The performance is not acceptable. If necessary, create a separate catalog for images to be used for zooming and disable Digimarc for this catalog.

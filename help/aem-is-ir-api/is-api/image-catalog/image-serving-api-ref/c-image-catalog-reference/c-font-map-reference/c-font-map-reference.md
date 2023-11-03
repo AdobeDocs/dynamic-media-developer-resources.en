@@ -10,7 +10,7 @@ exl-id: b04e89ee-ae69-41c0-bd62-0929d21980c0
 
 If a font map is required for an image catalog, the relative or absolute path of the font map file must be specified in attribute::FontMapFile.
 
-Entries in the font map of a specific image catalog will override entries in the font map of the default catalog.
+Entries in the font map of a specific image catalog override entries in the font map of the default catalog.
 
 Image Serving supports Adobe Type 1, OpenType, and TrueType fonts.
 
