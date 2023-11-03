@@ -10,7 +10,7 @@ exl-id: 228b4228-8c42-4e42-9fb1-d6aea61b9c4a
 
 Creates a layered image that can have multiple text and image layers.
 
- The `urlModifier` parameter specifies the Image Server protocol commands stored in the Image Server catalog applied prior to any user-supplied commands on the URL. The `urlPostApplyModifier` parameter specifies protocol commands applied after any URL commands, which will override any conflicting user-supplied settings. 
+ The `urlModifier` parameter specifies the Image Server protocol commands stored in the Image Server catalog applied prior to any user-supplied commands on the URL. The `urlPostApplyModifier` parameter specifies protocol commands applied after any URL commands, which overrides any conflicting user-supplied settings. 
 
 ## Authorized User Types {#section-9fb615d8e75f452eab2893cc3decfbe6}
 
@@ -31,7 +31,7 @@ Creates a layered image that can have multiple text and image layers.
 |  name  | `xsd:string`  | Yes  | Template name.  |
 |  type  | `xsd:string`  | Yes  | Template type.  |
 |  urlModifier  | `xsd:string`  | Yes  | Specifies the Image Server commands stored in the IS catalog that are applied prior to any user-supplied commands on the URL.  |
-|  urlPostApplyModifier  | `xsd:string`  | No  | Specifies protocol commands applied after any URL commands, which will override any conflicting user-supplied settings.  |
+|  urlPostApplyModifier  | `xsd:string`  | No  | Specifies protocol commands applied after any URL commands, which overrides any conflicting user-supplied settings.  |
 
 **Output (createTemplateParam)** 
 

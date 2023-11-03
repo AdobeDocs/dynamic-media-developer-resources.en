@@ -26,7 +26,7 @@ Creates a video site map.
   <tr> 
    <td colname="col1"> <span class="codeph"> <span class="varname"> forceUpdate</span> </span> </td> 
    <td colname="col2"> <span class="codeph"> xsd:boolean</span> </td> 
-   <td colname="col3">Generates the site map when set to <span class="codeph"> true</span>. <p><p>Note: If the Sitemap Generation Configuration is set to manual and <span class="codeph"> forceUpdate</span> is not set, the site map will not be generated. </p></p></td> 
+   <td colname="col3">Generates the site map when set to <span class="codeph"> true</span>. <p><p>Note: If the Sitemap Generation Configuration is set to manual and <span class="codeph"> forceUpdate</span> is not set, the site map is not generated. </p></p></td> 
   </tr> 
  </tbody> 
 </table>

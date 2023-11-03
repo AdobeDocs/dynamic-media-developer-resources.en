@@ -31,9 +31,9 @@ The variable name *`var`* is not case-sensitive and may consist of any combinati
 
 >[!NOTE]
 >
->*`value`* must be single-pass URL-encoded for safe HTTP transmission. Double-encoding is required if *`value`* is retransmitted via HTTP. This is the case when *`value`* is substituted into a nested foreign request or into the href attribute of an SVG `<image>` element.
+>*`value`* must be single-pass URL-encoded for safe HTTP transmission. Double-encoding is required if *`value`* is retransmitted by way of HTTP. This is the case when *`value`* is substituted into a nested foreign request or into the href attribute of an SVG `<image>` element.
 
-Variable references consist of the variable name delimited by leading and trailing '$' ($*var*$). References may occur anywhere in the value portion of any IS commands (i.e. between the '=' following the command name and the subsequent '&' or the end of the request). Custom variables cannot be applied to the `layer=` and `effect=` commands. Multiple variables are permitted in the same command value. The server substitutes each occurrence of ` $ *`var`*$` with *`value`*.
+Variable references consist of the variable name delimited by leading and trailing '$' ($*var*$). References may occur anywhere in the value portion of any IS commands (that is, between the '=' following the command name and the subsequent '&' or the end of the request). Custom variables cannot be applied to the `layer=` and `effect=` commands. Multiple variables are permitted in the same command value. The server substitutes each occurrence of ` $ *`var`*$` with *`value`*.
 
 Variable references may not be nested. Any occurrences of ` $ *`var`*$` within *`value`* are not substituted.
 
@@ -75,7 +75,7 @@ Variable values which are to be substituted into foreign requests typically must
 
 The *`object`* specified in the request path is assigned to the pre-defined variable `*`$object`*`. ' ` $ *`object`*$`' may be placed anywhere in the request, in the template referenced by the request, or in a nested/embedded request where such object is permitted, including the value of `src=` and `mask=`, and the path of a nested/embedded request.
 
-For example, the following request will reuse the image specified in the path as the source of a layer in a nested request:
+For example, the following request reuses the image specified in the path as the source of a layer in a nested request:
 
 `/is/image/a/b?…&layer=3&src=is{…&src=$object$}&…`
 
@@ -89,7 +89,7 @@ The predefined path variable is commonly used in conjunction with `template=`.
 
 ## Default {#section-b02483d15529444586a2e9504805b155}
 
-None. Only variables which have been defined are substituted by the server (except the pre-defined path variable $object, which will always be substituted). Any occurrences of ` $ *`var`*$` remain literal if `*`var`*`cannot be matched with an existing variable definition.
+None. Only variables which have been defined are substituted by the server (except the pre-defined path variable $object, which is always substituted). Any occurrences of ` $ *`var`*$` remain literal if `*`var`*`cannot be matched with an existing variable definition.
 
 ## Examples {#section-fba9393df6984247b7e30b3f93992e86}
 

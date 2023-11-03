@@ -24,7 +24,7 @@ See also [init](../../../c-html5-aem-asset-viewers/c-html5-aem-int-video/c-html5
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> data </span> </p> </td> 
-   <td colname="col2"> <p> { <span class="codeph"> JSON </span>} JSON object with the following optional fields (case sensitive): </p> <p> 
+   <td colname="col2"> <p> { <span class="codeph"> JSON </span>} JSON object with the following optional fields (case-sensitive): </p> <p> 
      <ul id="ul_924FB99ACF0F43699CD229593F1C1384"> 
       <li id="li_F3CFEF28BCB7450991EFE0BD4EB28E36"> <span class="codeph"> posterimage </span> - Image to display on the first frame before the video starts playing. See <a href="../../../c-html5-aem-asset-viewers/c-html5-aem-int-video/r-html5-aem-int-video-config-attrib/r-html5-aem-int-video-config-attrib-videoplayer-posterimage.md#reference-8e8e2b3e7e9c4ee8b6dadf90cef494f7" format="dita" scope="local"> VideoPlayer.posterimage </a>. </li> 
       <li id="li_D6C3E543C70942C582020780E2DF74C8"> <span class="codeph"> caption </span> - location of the new caption file. If not specified, the caption button is not visible in the user interface. </li> 

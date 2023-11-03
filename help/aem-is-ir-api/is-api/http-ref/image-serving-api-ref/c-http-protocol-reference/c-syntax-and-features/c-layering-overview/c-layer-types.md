@@ -16,7 +16,7 @@ Image layers must have a `src=` command which specifies the image to be used as 
 
 ## Text layers {#section-dc2aec6416a340bcb20c1f884323c8d0}
 
-Must have a `text=` or `textPs=` command which provides the text content in form of a rich-text-formatted (RTF) text fragment. Text layers can be self-sizing to their content, or may be given explicit sizes, (for example, if text is to be wrapped to a specific width, or if the text must be constrained within a specific area). `textPs=` support flowing of text into arbitrary shapes defined with `textFlowPath=` and onto arbitrary paths defined with `textPath=`. `textPs=` also supports rendering text into the text box or specified shape at arbitrary angles ( `textAngle=`).
+Must have a `text=` or `textPs=` command which provides the text content in form of a rich-text-formatted (RTF) text fragment. Text layers can be self-sizing to their content, or may be given explicit sizes. For example, if text is to be wrapped to a specific width, or if the text must be constrained within a specific area. `textPs=` support flowing of text into arbitrary shapes defined with `textFlowPath=` and onto arbitrary paths defined with `textPath=`. `textPs=` also supports rendering text into the text box or specified shape at arbitrary angles ( `textAngle=`).
 
 ## Solid color layers {#section-56dfb672756643dda08dc93294809eb0}
 

@@ -59,7 +59,7 @@ The appearance of tooltips is controlled with the following CSS class selector:
 >
 >In case tooltip styles are customized from within the embedding web page, all properties must contain the `!IMPORTANT` rule. This rule is not necessary if tooltips are customized within the viewer's CSS file.
 
-Example - To set up tooltips that have a grey border with a three pixel corner radius, black background, and white text in Arial®, 11 pixels:
+Example - To set up tooltips that have a gray border with a three pixel corner radius, black background, and white text in Arial®, 11 pixels:
 
 ```
 .s7tooltip { 

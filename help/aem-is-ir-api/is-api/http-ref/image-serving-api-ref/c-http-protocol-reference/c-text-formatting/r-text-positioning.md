@@ -1,6 +1,6 @@
 ---
 title: Text positioning
-description: The text= renderer positions text fundamentally different than the textPs= renderer when applied to pre-sized layers (i.e. when size= is specified as well).
+description: The text= renderer positions text fundamentally different from the textPs= renderer when applied to pre-sized layers (that is, when size= is specified as well).
 solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
@@ -8,7 +8,7 @@ exl-id: 092444bf-9964-4d97-b06e-3add033da284
 ---
 # Text positioning{#text-positioning}
 
-The `text=` renderer positions text fundamentally different than the textPs= renderer when applied to pre-sized layers (i.e. when size= is specified as well).
+The `text=` renderer positions text fundamentally different from the textPs= renderer when applied to pre-sized layers (that is, when size= is specified as well).
 
  Self-sizing `text=`and `textPs=` layers have similar appearance and positioning.
 
@@ -28,7 +28,7 @@ The following examples are for pre-sized text. Behavior for self-sizing text is 
 
 `/is/image/?size=230,50&bgc=f0f0f0&fmt=png&text=\fs40Normal%20Normal%20Normal`
 
-** `textPs=` renders text tightly aligned to the top of the text box, which results in slight clipping, even for common fonts such as Arial®:**
+** `textPs=` renders text tightly aligned to the top of the text box, which results in slight clipping, even for common fonts such as Arial&reg;:**
 
 ![Text positioning example two image](assets/tp02.png)
 

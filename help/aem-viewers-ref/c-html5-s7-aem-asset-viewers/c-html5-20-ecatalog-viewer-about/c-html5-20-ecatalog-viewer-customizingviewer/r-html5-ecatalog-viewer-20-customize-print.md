@@ -129,7 +129,7 @@ By default the modal dialog is displayed centered in the screen on desktop syste
  </tbody> 
 </table>
 
-Example - to set up a dialog box to have a grey background:
+Example - to set up a dialog box to have a gray background:
 
 ```
 .s7ecatalogsearchviewer .s7printdialog .s7dialog { 
@@ -804,7 +804,7 @@ The horizontal divider between the page range selection and the print layout sec
  </tbody> 
 </table>
 
-Example - To set up a 430 pixel width grey divider with a 10 pixel vertical padding on both sides, and a ten pixel margin at the top:
+Example - To set up a 430 pixel width gray divider with a 10 pixel vertical padding on both sides, and a ten pixel margin at the top:
 
 ```
 .s7ecatalogsearchviewer .s7printdialog .s7horizontaldivider { 

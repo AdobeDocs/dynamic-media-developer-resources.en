@@ -10,7 +10,7 @@ exl-id: 57941e90-1462-43e6-80db-6b111e004f9b
 
 Certain content that the Flyout Viewer displays is subject to localization. This content includes user interface element tool tips and information messages that are displayed by the flyout zoom view on load.
 
-Every textual content in the viewer that can be localized is represented by a special Viewer SDK identifier called SYMBOL. Any SYMBOL has a default associated text value for the English locale ( `"en"`) supplied with the out-of-the-box viewer. It may also have user-defined values set for as many locales as needed.
+Every textual content in the viewer that can be localized is represented by a special Viewer SDK identifier called SYMBOL. Any SYMBOL has a default-associated text value for the English locale ( `"en"`) supplied with the out-of-the-box viewer. It may also have user-defined values set for as many locales as needed.
 
 When the viewer starts, it checks the current locale to see if there is a user-defined value for each supported SYMBOL for the locale. If there is, it uses the user-defined value; otherwise, it falls back to the out-of-the-box default text.
 

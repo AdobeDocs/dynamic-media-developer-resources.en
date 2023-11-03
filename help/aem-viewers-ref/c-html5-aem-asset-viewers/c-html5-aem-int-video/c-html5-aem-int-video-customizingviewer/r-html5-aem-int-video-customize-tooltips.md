@@ -61,7 +61,7 @@ The appearance of tooltips is controlled with the following CSS class selector:
 
 ## Example {#section-59e009fd05b14019936aba04d7ca779d}
 
-To set up tooltips that have a grey border with a three pixel corner radius, black background, and white text in Arial®, 11 pixels:
+To set up tooltips that have a gray border with a three pixel corner radius, black background, and white text in Arial®, 11 pixels:
 
 ```
 .s7tooltip { 

@@ -20,8 +20,8 @@ Set to 'Yes' if a cache entry provided by a peer server should be copied to the 
 
 ## PS::cacheCluster.queryTimeout - Query Timeout {#section-8d2b10e15b3e44078d2d9bdb7c25bde0}
 
-When requesting a cache entry from peer servers, the server will wait until one server responds that it has this particular data item, or until all peer servers have responded that they do not have the data item, or until the time specified with this setting (in msec) has expired.
+When requesting a cache entry from peer servers, the server waits until one server responds that it has this particular data item, or until all peer servers have responded that they do not have the data item, or until the time specified with this setting (in msec) has expired.
 
 ## PS::cacheCluster.fetchTimeout - Fetch Timeout {#section-41c42a29a26f43dc9cff50ad9fae1f14}
 
-Specifies the maximum number of msec the server will wait for the actual cache data to be delivered from the peer server. If the full data has not been delivered before the timeout expires, the server assumes that the peer has become unavailable. The cache entry is then generated locally.
+Specifies the maximum number of msec the server waits for the actual cache data to be delivered from the peer server. If the full data has not been delivered before the timeout expires, the server assumes that the peer has become unavailable. The cache entry is then generated locally.

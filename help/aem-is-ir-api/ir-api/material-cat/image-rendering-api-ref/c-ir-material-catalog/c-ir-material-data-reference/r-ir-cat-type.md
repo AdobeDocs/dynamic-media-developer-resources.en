@@ -99,7 +99,7 @@ Enum. Optional for all materials. Ignored if the vignette has no 3D reflection r
 
 ## Default {#section-247f73b22cb846b7b7d7cc6e8af949ca}
 
-0; the server will determine a suitable default based on other material attributes.
+0; the server determines a suitable default based on other material attributes.
 
 ## See also {#section-a51850093b7140e683a0f8b07845843c}
 

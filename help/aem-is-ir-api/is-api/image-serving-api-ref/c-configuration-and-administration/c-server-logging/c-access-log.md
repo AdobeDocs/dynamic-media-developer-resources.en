@@ -14,6 +14,6 @@ The access log is configured in server.xml.
 
 >[!NOTE]
 >
->In addition to client traffic for Image Serving ( [!DNL /is/image/*]) and Image Rendering ( [!DNL /ir/render/*]), the access log may include certain internal traffic: access to the [!DNL Platform Server] catalog system ( [!DNL /is-catalog/*]), cache sharing and error redirect requests ( [!DNL /is/cache/*]), access to other packages deployed to the [!DNL Platform Server], such as the Dynamic Media Viewers ( [!DNL /is-viewers/*]), static traffic and static contents requests serviced by the [!DNL Platform Server] (e.g. [!DNL /is-docs/*]).
+>In addition to client traffic for Image Serving ( [!DNL /is/image/*]) and Image Rendering ( [!DNL /ir/render/*]), the access log may include certain internal traffic: access to the [!DNL Platform Server] catalog system ( [!DNL /is-catalog/*]), cache sharing and error redirect requests ( [!DNL /is/cache/*]), access to other packages deployed to the [!DNL Platform Server], such as the Dynamic Media Viewers ( [!DNL /is-viewers/*]), static traffic and static contents requests serviced by the [!DNL Platform Server] (for example, [!DNL /is-docs/*]).
 
 Requests with [!DNL /is-catalog] and [!DNL /is/cache] root paths should always be excluded from any client traffic analysis.

@@ -10,7 +10,7 @@ exl-id: 75a9e83a-2f6e-4bfa-8881-52f8fe06f2fd
 
 Configuration attributes documentation for Video360 Viewer.
 
-Any configuration command can be set in URL or using `setParam()`, or `setParams()`, or both, API methods. Any configuration attribute can be also specified in the server-side configuration record.
+Any configuration command can be set in URL or using `setParam()`, or `setParams()`, or both, API methods. Any configuration attribute can also be specified in the server-side configuration record.
 
 Some configuration commands may be prefixed with the class name or instance name of corresponding Viewer SDK component. An instance name of the component is dynamic and depends on the ID of the viewer container DOM element passed to `setContainerId()` API method. Documentation includes an optional prefix for such commands. For example, `playback` command is documented as follows:
 

@@ -1,5 +1,5 @@
 ---
-description: Catalog identifier. The HTTP path element to be used to identifies this catalog in a request's image object specifier.
+description: Catalog identifier. The HTTP path element used to identify this catalog in a request's image object specifier.
 solution: Experience Manager
 title: RootId
 feature: Dynamic Media Classic,SDK/API
@@ -8,7 +8,7 @@ exl-id: 9224f06d-28a9-4a23-9a3a-735b2b9f87ff
 ---
 # RootId{#rootid}
 
-Catalog identifier. The HTTP path element to be used to identifies this catalog in a request's image object specifier.
+Catalog identifier. The HTTP path element used to identify this catalog in a request's image object specifier.
 
 ## Properties {#section-9a49da71de634378a06d2347790898a0}
 

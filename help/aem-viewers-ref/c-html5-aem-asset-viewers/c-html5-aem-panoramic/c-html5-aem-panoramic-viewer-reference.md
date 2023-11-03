@@ -23,7 +23,7 @@ Viewer type 514.
 
 HTML5 Panoramic Viewer represents a main JavaScript file and a set of helper files downloaded by the viewer in runtime. The set of helper files is a single JavaScript include with all HTML5 Viewer SDK components used by this particular viewer, assets, CSS.
 HTML5 Panoramic Viewer can be used both in popup mode using production-ready HTML page provided with IS-Viewers or in embedded mode, where it is integrated into target web page using documented API.
-Configuration and skinning are similar to that of the other HTML5 viewers. All skinning can be achieved via custom CSS.
+Configuration and skinning are similar to that of the other HTML5 viewers. All skinning can be achieved by way of custom CSS.
 
 See [Command reference common to all viewers - Configuration attributes](../../r-html5-viewer-20-cmdref-configattrib/r-html5-viewer-20-cmdref-configattrib.md#concept-850e0f2c49b949deb7cfbfd330d329bd) and [Command reference common to all Viewers - URL](../../c-html5-viewer-20-cmdref-url/c-html5-viewer-20-cmdref-url.md#concept-9b337f349b7b406b8c33c7ee96b3e226)
 

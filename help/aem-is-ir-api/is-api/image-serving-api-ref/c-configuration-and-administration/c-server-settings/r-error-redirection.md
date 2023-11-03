@@ -20,8 +20,8 @@ The root URL ( [!DNL HTTP:// *[!DNL domain]*[: *[!DNL port]*]]) for the secondar
 
 ## PS::errorRedirect.connectTimeout - Redirect Connection Timeout {#section-3971be8f720d4b32a2cc7860b4085971}
 
-Maximum time (in msec) the server will wait for a connection with the secondary server to be established before returning an error to the client.
+Maximum time (in msec) the server waits for a connection with the secondary server to be established before returning an error to the client.
 
 ## PS::errorRedirect.socketTimeout - Redirect Response Timeout {#section-69d8579f748d4044bca99dfb64dd523c}
 
-Maximum time (in msec) the server will wait for the secondary server to return data before abandoning the redirect request and returning an error to the client.
+Maximum time (in msec) the server waits for the secondary server to return data before abandoning the redirect request and returning an error to the client.

@@ -36,7 +36,7 @@ Typically, the working color space is defined by the ICC color profile embedded 
 
 All render operations are executed in the working color space.
 
-**Important:** The ICC profile for the working color space must support input and output transformations. If an output-only profile is used as a working color space IR will not be able to convert materials to it. Such a color profile may still be used if materials exist in the same working color space. Attempting to apply materials in other color spaces will fail.
+**Important:** The ICC profile for the working color space must support input and output transformations. If an output-only profile is used as a working color space IR is unable to convert materials to it. Such a color profile may still be used if materials exist in the same working color space. Attempting to apply materials in other color spaces fail.
 
 ## Explicit color values {#section-31727bf1b23e477ca92572fbbf422d2f}
 
@@ -48,7 +48,7 @@ Material image files (texture and decal images) can have RGB, gray-scale, or CMY
 
 Material images obtained from nested Image Serving or Image Rendering requests typically include a color profile. If this is not the case, the images are associated with the default input color space corresponding to the pixel type.
 
-If the color space of the image file is different than the working color space, accurate color conversion is used to convert to the working color space. Naïve type conversion is used when no profile is embedded and no default input profile is defined.
+If the color space of the image file is different from the working color space, accurate color conversion is used to convert to the working color space. Naïve type conversion is used when no profile is embedded and no default input profile is defined.
 
 Other material data files, such as cabinet style files ( [!DNL .vnc]) or window covering files ( [!DNL .vnw]) do not embed color profiles and are always assumed to be in the working color space.
 

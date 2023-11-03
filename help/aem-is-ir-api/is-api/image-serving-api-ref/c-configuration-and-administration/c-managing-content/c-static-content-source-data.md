@@ -20,4 +20,4 @@ All ` *[!DNL rootPath]*` segments can be empty, relative, or absolute path segme
 
 ` *[!DNL catalogPath]*` is either an absolute or relative file path/name. *[!DNL requestPath]* must be a relative file path/name.
 
-Multiple `PS::staticContent.rootPaths` values can be defined in [!DNL PlatformServer.conf]. This allows source data files to be distributed across multiple file systems. The [!DNL Platform Server] will try alternate paths in the order specified until the data file is found.
+Multiple `PS::staticContent.rootPaths` values can be defined in [!DNL PlatformServer.conf]. This allows source data files to be distributed across multiple file systems. The [!DNL Platform Server] tries alternate paths in the order specified until the data file is found.

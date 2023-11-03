@@ -120,7 +120,7 @@ The appearance of individual thumbnail is controlled with the following CSS clas
 >
 >Thumbnail supports the `state` attribute selector, which is used to apply different skins to different thumbnail states. In particular, `state="selected"` corresponds to the thumbnail for the image that is currently displayed in the main view, `state="default"` corresponds to the rest of the thumbnails, and `state="over"` is used on mouse hover.
 
-Example - to set up thumbnails that are 56 x 56 pixels, have a light grey default border, and a dark grey selected border:
+Example - to set up thumbnails that are 56 x 56 pixels, have a light gray default border, and a dark gray selected border:
 
 ```
 .s7flyoutviewer .s7swatches .s7thumb { 

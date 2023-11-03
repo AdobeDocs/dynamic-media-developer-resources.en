@@ -1,5 +1,5 @@
 ---
-description: For uploading assets via URL.
+description: For uploading assets by way of URL.
 solution: Experience Manager
 title: UploadUrl
 feature: Dynamic Media Classic,SDK/API
@@ -8,7 +8,7 @@ exl-id: f13fc27c-a91f-4823-8d65-664854af98ae
 ---
 # [!DNL UploadUrl]{#uploadurl}
 
-For uploading assets via URL.
+For uploading assets by way of URL.
 
  Syntax 
 

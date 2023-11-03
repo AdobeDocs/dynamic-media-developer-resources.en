@@ -19,7 +19,7 @@ Select object by name. Selects the specified vignette group by name and starts a
  </tr> 
 </table>
 
-Subgroups or individual objects may be selected using a fully qualified group path (i.e. by specifying the name of the target group or object preceded by all parent groups, separated by / (forward slashes).
+Subgroups or individual objects may be selected using a fully qualified group path (that is, by specifying the name of the target group or object preceded by all parent groups, separated by / (forward slashes).
 
 If no group/object with the specified name is found, the action specified in `attribute::OnObjFail` is taken.
 

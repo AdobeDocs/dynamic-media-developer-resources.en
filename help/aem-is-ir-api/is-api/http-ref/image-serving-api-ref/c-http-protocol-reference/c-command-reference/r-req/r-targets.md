@@ -23,7 +23,7 @@ Zoom targets data from image catalog. Returns zoom target data for the image cat
  </tr> 
 </table>
 
-The contents of `catalog::Targets` are returned. When 'text' format is requested, all instances of `??` in `catalog::Targets` are replaced by line terminators, and a single line terminator ( `CR/LF`) is appended to the end. If the URL path does not resolve to a valid catalog entry, the response consists only of a single line terminator. Appropriate formatting is applied when 'xml' or 'json' format is requested.
+The contents of `catalog::Targets` are returned. When 'text' format is requested, all instances of `??` in `catalog::Targets` are replaced by line terminators, and a single-line terminator ( `CR/LF`) is appended to the end. If the URL path does not resolve to a valid catalog entry, the response consists only of a single-line terminator. Appropriate formatting is applied when 'xml' or 'json' format is requested.
 
 Other commands in the request string are ignored.
 

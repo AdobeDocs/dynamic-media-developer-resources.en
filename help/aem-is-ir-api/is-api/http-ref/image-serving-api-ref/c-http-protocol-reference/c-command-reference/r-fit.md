@@ -35,7 +35,7 @@ In the following description of the mode options, it is assumed that *`xScale`* 
  <tbody> 
   <tr valign="top"> 
    <td colname="col1"> <p> <span class="codeph"> fit </span> </p> </td> 
-   <td colname="col2"> <p>Scales the composite image so that it fits into the space allocated with <span class="codeph"> wid= </span> and <span class="codeph"> hei= </span>, with minimal whitespace and no cropping. The response image will have the exact size specified with <span class="codeph"> wid= </span> and <span class="codeph"> hei= </span>. The smaller of <span class="varname"> xScale </span> and <span class="varname"> yScale </span> is applied. </p> </td> 
+   <td colname="col2"> <p>Scales the composite image so that it fits into the space allocated with <span class="codeph"> wid= </span> and <span class="codeph"> hei= </span>, with minimal whitespace and no cropping. The response image has the exact size specified with <span class="codeph"> wid= </span> and <span class="codeph"> hei= </span>. The smaller of <span class="varname"> xScale </span> and <span class="varname"> yScale </span> is applied. </p> </td> 
   </tr> 
   <tr valign="top"> 
    <td colname="col1"> <p> <span class="codeph"> constrain </span> </p> </td> 

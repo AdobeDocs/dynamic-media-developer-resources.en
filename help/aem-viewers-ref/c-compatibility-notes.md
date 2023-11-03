@@ -18,7 +18,7 @@ Compatibility notes for operating systems, browsers, and mobile devices.
 
 ## General {#section-7b9a9fcba85148d1802b7b3016b48e02}
 
-* Browser side scaling causes UI and images to become blurry as user zooms into page. User interface formatting also displays incorrectly depending on zoom and carries over to full screen.
+* Browser side scaling causes UI and images to become blurry as user zooms into page. User interface formatting also displays incorrectly depending on zoom and carries over to full-screen.
 * Due to the size limitation on mobile devices, the Mixed Media Viewer uses slide gesture to swap frames in embedded image sets instead of tapping the embedded swatches component. Component is there as a visual indicator.
 * In Internet Explorer browsers and some touch devices, full-screen mode does not occupy the entire device screen. Instead, it resizes the application to the size of the browser window.
 * Close button does not work under iOS 8.0 and iOS 8.1 but works under iOS 8.2.
@@ -30,7 +30,7 @@ Compatibility notes for operating systems, browsers, and mobile devices.
 
 ## Galaxy S4 {#section-7effabfea75b488399e0f71cab4ce76b}
 
-* Device detected as tablet in portrait mode with Full Screen checked in browser settings.
+* Device detected as tablet in portrait mode with full-screen checked in browser settings.
 
 ## Galaxy Nexus {#section-9340b0b026bd48e8a8a6b837b59c6dc5}
 

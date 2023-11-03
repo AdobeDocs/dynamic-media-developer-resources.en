@@ -9,7 +9,7 @@ exl-id: 19749c74-5c31-4dcf-ab07-0e7f10176a86
 
 Certain content that the Interactive Image Viewer displays is subject to localization. This content includes user interface element tool tips and an information message that is displayed by the flyout zoom view on load.
 
-Every textual content in the viewer that can be localized is represented by the special Viewer SDK identifier called SYMBOL. Any SYMBOL has a default associated text value for an English locale ( `"en"`) supplied with the out-of-the-box viewer, and may have user-defined values set for as many locales as needed.
+Every textual content in the viewer that can be localized is represented by the special Viewer SDK identifier called SYMBOL. Any SYMBOL has a default-associated text value for an English locale ( `"en"`) supplied with the out-of-the-box viewer, and may have user-defined values set for as many locales as needed.
 
 When the viewer starts, it checks the current locale to see if there is a user-defined value for each supported SYMBOL for such locale. If there is, it uses the user-defined value; otherwise, it falls back to the out-of-the-box default text.
 

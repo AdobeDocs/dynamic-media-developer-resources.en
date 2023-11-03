@@ -10,9 +10,9 @@ exl-id: eacf0553-8cec-4a1d-80a5-6fe37b92b5bf
 
 Image set data. Provides a mechanism to define sorted sets of images and control attributes used by the Dynamic Media viewers.
 
-An image set consists of a sorted, comma-separated list of items, with each item consisting of one or more sub-items (image ids, swatch ids, media file paths, labels, etc), separated by semi-colons and/or colons.
+An image set consists of a sorted, comma-separated list of items. Each item consists of one or more subitems (image ids, swatch ids, media file paths, labels, and so on), separated by semi-colons, or colons, or both.
 
-Curly braces `{ }` and parentheses `( )` may be used to delimit certain content (such as color values) or indicate nested sets. Braces or parentheses used this way must not be encoded and must always appear as matched pairs, otherwise a catalog parsing error will occur.
+Curly braces `{ }` and parentheses `( )` may be used to delimit certain content (such as color values) or indicate nested sets. Braces or parentheses used this way must not be encoded and must always appear as matched pairs, otherwise a catalog parsing error occurs.
 
 >[!NOTE]
 >
@@ -46,7 +46,7 @@ Each item in a basic swatch set consists of a reference to an image record and a
 |  `*`imageId`*`  | IS image reference (catalog/id)  |
 |  `*`swatchId`*`  | IS image reference (catalog/id)  |
 |  `*`solidColorSpecifier`*`  | ` '{0x' *`rrggbb`* [ *`label`*]'}'`  |
-|  `*`rrggbb`*`  | Packed 6 digit hex RGB color value for solid color swatches  |
+|  `*`rrggbb`*`  | Packed 6-digit hex RGB color value for solid color swatches  |
 |  `*`label`*`  | Optional text label for solid color swatches  |
 
 **Hierarchical Swatch Sets**
@@ -75,7 +75,7 @@ Each item in a two-dimensional spin set can consist of a simple image, a referen
 
 **Page Sets**
 
-Each item in a page set can consist of up to three page images separated with colons.
+Each item in a page set can consist of up to three-page images separated with colons.
 
 |  `*`pageSet`*`  | `*`pageItem`* &#42;[ , *`pageItem`* ]`  |
 |---|---|

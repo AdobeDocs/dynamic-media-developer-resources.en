@@ -17,7 +17,7 @@ Catalog attribute files consist of a set of text records, separated by a single 
 <table id="simpletable_8454AD549FDA421BA1469CDA44132773"> 
  <tr class="strow"> 
   <td class="stentry"> <p> <span class="codeph"> <span class="varname"> name </span> </span> </p> </td> 
-  <td class="stentry"> <p>Attribute name; may consist of one or more letters, number, '-', and '_'; not case sensitive. </p> </td> 
+  <td class="stentry"> <p>Attribute name; may consist of one or more letters, number, '-', and '_'; not case-sensitive. </p> </td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p> <span class="codeph"> <span class="varname"> value </span> </span> </p> </td> 

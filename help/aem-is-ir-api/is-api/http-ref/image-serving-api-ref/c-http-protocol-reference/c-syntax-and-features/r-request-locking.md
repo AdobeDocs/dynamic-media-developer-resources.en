@@ -10,7 +10,7 @@ exl-id: 7ac727ef-3775-4884-b9db-bfae171a0f9d
 
 To reduce opportunity for tampering with requests, a simple locking facility is provided.
 
- If attribute::RequestLock is set, a lock value must be appended to the request, in form of `&xxxx`, with xxxx being a four digit hex value. This hex value is generated using a simple hashing algorithm applied to the *modifiers* portion of the request (after the '?' which separates the URL path from the *modifiers*). This must be done after the request is fully http-encoded, but before it is (optionally) obfuscated. After de-obfuscating the request, the server will use the same hashing algorithm on the modifier string (excluding the last 5 characters, which contain the lock value). If the generated key does not match the lock, the request is rejected.
+ If attribute::RequestLock is set, a lock value must be appended to the request, in form of `&xxxx`, with xxxx being a four digit hex value. This hex value is generated using a simple hashing algorithm applied to the *modifiers* portion of the request (after the '?' which separates the URL path from the *modifiers*). This must be done after the request is fully http-encoded, but before it is (optionally) obfuscated. After de-obfuscating the request, the server uses the same hashing algorithm on the modifier string (excluding the last 5 characters, which contain the lock value). If the generated key does not match the lock, the request is rejected.
 
 >[!IMPORTANT]
 >

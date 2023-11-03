@@ -11,7 +11,7 @@ exl-id: 65a54308-f9db-4458-a9c3-ccb1433af43c
 
 Mixed Media Viewer is a media viewer. It supports media sets that contain images, swatch sets, spin sets, videos, and Adaptive Video Sets.
 
-A thumbnail at the bottom of the viewer represents each media set element, along with its asset type indicator. When a swatch set element is selected, a secondary row of swatches appears to allow the selection of color variation within the swatch set. Images and swatch set elements support zooming in continuous or inline mode; spin sets support both zooming and spinning. Videos and Adaptive Video Sets support all basic playback controls as long as any optional closed captions are displayed on top of the video content. A user can switch to full screen anytime by clicking the full screen button. The viewer has optional close button. It is designed to work on desktops and mobile devices.
+A thumbnail at the bottom of the viewer represents each media set element, along with its asset type indicator. When a swatch set element is selected, a secondary row of swatches appears to allow the selection of color variation within the swatch set. Images and swatch set elements support zooming in continuous or inline mode; spin sets support both zooming and spinning. Videos and Adaptive Video Sets support all basic playback controls as long as any optional closed captions are displayed on top of the video content. A user can switch to full-screen anytime by clicking the full-screen button. The viewer has optional close button. It is designed to work on desktops and mobile devices.
 
 The Mixed Media Viewer uses HTML5 streaming video playback in HLS format in its default configuration whenever the underlying system supports that. On systems that do not support HTML5 streaming the viewer falls back to HTML5 progressive video delivery.
 
@@ -154,7 +154,7 @@ You add the viewer to a web page by doing the following:
 
    The placeholder DIV is a positioned element, meaning that the `position` CSS property is set to `relative` or `absolute`.
 
-   Ensure that the full screen feature functions properly in Internet Explorer. Check to make sure that there are no other elements in the DOM that have a higher stacking order than your placeholder DIV.
+   Ensure that the full-screen feature functions properly in Internet Explorer. Check to make sure that there are no other elements in the DOM that have a higher stacking order than your placeholder DIV.
 
    The following is an example of a defined placeholder DIV element:
 

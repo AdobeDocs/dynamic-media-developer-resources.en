@@ -20,7 +20,7 @@ Both a 32- and a 64-bit version of the Image Server are available for Linux. Spe
 
 >[!NOTE]
 >
->64-bit mode is not supported on Windows. Only `ImageServer32` may be specified. Otherwise Image Serving will not start.
+>64-bit mode is not supported on Windows. Only `ImageServer32` may be specified. Otherwise Image Serving does not start.
 
 ## SV::PsHeapSize - [!DNL Platform Server] Heap Size {#section-fd83715948764aeda58d6b3a9f9f8be9}
 
@@ -42,7 +42,7 @@ The approximate limit for in-memory image data, expressed as a percentage of phy
 
 The maximum number of threads the Image Server uses for processing image data. Default is 0, which allows the Image Server to optimize the thread count automatically.
 
-Some operating systems have threading models with a high context-switching overhead. In such a circumstance the overall server performance may improve when a specific thread count is selected (e.g. one thread per CPU). Some experimentation may be required to find the optimal setting. Refer to the Image Serving release notes and to the operating system documentation for additional information.
+Some operating systems have threading models with a high context-switching overhead. In such a circumstance the overall server performance may improve when a specific thread count is selected (for example, one thread per CPU). Some experimentation may be required to find the optimal setting. Refer to the Image Serving release notes and to the operating system documentation for additional information.
 
 ## IS::NumberOfTextServers - Number of Text Server Instances {#section-971e20a90c1a473598fba738ed95671a}
 

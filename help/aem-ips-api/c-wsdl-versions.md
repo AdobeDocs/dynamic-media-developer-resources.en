@@ -225,7 +225,7 @@ Where `base64()` applies the standard Base64 encoding, `<IPS_user_email>` is the
 
 Send the Authorization header preemptively with the initial request. If no authentication credentials are included in the request, `IpsApiService` does not respond with a status code of `401 (Unauthorized)`. Instead, a status code of `500 (Internal Server Error)` is returned with a SOAP fault body stating that the request could not be authenticated.
 
-Before IPS 3.8, authentication via SOAP header was implemented using the `AuthUser` and `AuthPassword` elements in the namespace `http://www.scene7.com/IpsApi`. For example:
+Before IPS 3.8, authentication by way of SOAP header was implemented using the `AuthUser` and `AuthPassword` elements in the namespace `http://www.scene7.com/IpsApi`. For example:
 
 ```
 <soap:Header xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"> 

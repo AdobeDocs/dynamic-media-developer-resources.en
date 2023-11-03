@@ -1,6 +1,6 @@
 ---
 title: Image Server examples
-description: This page will link to Image Server examples.
+description: This page should link to Image Server examples.
 solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
@@ -9,7 +9,7 @@ hidefromtoc: yes
 ---
 # Image Server examples{#image-server-examples}
 
-This topic will link to Image Server examples.
+This topic should link to Image Server examples.
 <!-- As of August 29 (and likely months or years before this date), none of the links below work anymore! -->
 
 

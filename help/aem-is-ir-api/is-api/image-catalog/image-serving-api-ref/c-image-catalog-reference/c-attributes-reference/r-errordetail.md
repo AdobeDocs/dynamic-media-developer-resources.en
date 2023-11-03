@@ -1,5 +1,5 @@
 ---
-description: Error message detail. Specifies the level of detail for error messages returned via HTTP as the error.message value.
+description: Error message detail. Specifies the level of detail for error messages returned by way of HTTP as the error.message value.
 solution: Experience Manager
 title: ErrorDetail
 feature: Dynamic Media Classic,SDK/API
@@ -8,7 +8,7 @@ exl-id: 08a363d0-918d-48e9-aef0-5a8554c2708a
 ---
 # ErrorDetail{#errordetail}
 
-Error message detail. Specifies the level of detail for error messages returned via HTTP as the error.message value.
+Error message detail. Specifies the level of detail for error messages returned by way of HTTP as the error.message value.
 
  The following values are permitted:
 

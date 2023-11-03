@@ -10,7 +10,7 @@ exl-id: cee6a4d4-4099-4bc8-9d67-00a1e963a139
 
 The main control bar is the rectangular area on desktop systems and tablets that contain all user interface controls (except Large Page buttons) available for the eCatalog Search viewer.
 
- On mobile phones, it still keeps Thumbnails, Table of Contents, Download, Print, Favorites, Social share, Full Screen, and Close buttons. However, First Page and Last Page buttons, and Page Indicator are removed from the main control bar and added to the secondary control bar instead. By default, the main control bar is displayed in the top of the viewer area on desktop systems and mobile phones, and moved to the bottom of the viewer area on tablets. It always takes the entire available viewer width. It is possible to change its color, height, and vertical position in the CSS, relative to the viewer container.
+ On mobile phones, it still keeps Thumbnails, Table of Contents, Download, Print, Favorites, Social share, full-screen, and Close buttons. However, First Page and Last Page buttons, and Page Indicator are removed from the main control bar and added to the secondary control bar instead. By default, the main control bar is displayed in the top of the viewer area on desktop systems and mobile phones, and moved to the bottom of the viewer area on tablets. It always takes the entire available viewer width. It is possible to change its color, height, and vertical position in the CSS, relative to the viewer container.
 
 The appearance of the main control bar is controlled with the following CSS class selector:
 

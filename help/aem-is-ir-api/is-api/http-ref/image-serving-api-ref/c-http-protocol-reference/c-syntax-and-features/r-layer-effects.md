@@ -16,11 +16,11 @@ Any number of layer effects can be attached to a single parent layer.
 
 ## Inner and outer effects {#section-2dade7ee98e041d1b4d1725e6f98a515}
 
-*Inner effects* are rendered on top of the parent layer, and are visible only in opaque areas of the parent layer. *Outer effects* are rendered behind the parent layer (thus they will never be visible within opaque areas of the parent layer) and can be positioned anywhere within the compositing canvas. An inner or outer effect is chosen by assigning a positive or negative effect layer number with the `effect=` command. The `effect=` command also controls the z-ordering amongst multiple effect layers attached to the same parent layer.
+*Inner effects* are rendered on top of the parent layer, and are visible only in opaque areas of the parent layer. *Outer effects* are rendered behind the parent layer (thus they are never visible within opaque areas of the parent layer) and can be positioned anywhere within the compositing canvas. An inner or outer effect is chosen by assigning a positive or negative effect layer number with the `effect=` command. The `effect=` command also controls the z-ordering amongst multiple effect layers attached to the same parent layer.
 
 ## Relationship to parent layer {#section-eb8bfc4f754a42fc973b562821d6f2d3}
 
-Effect layers are automatically sized and positioned to coincide with the parent layer (i.e. the effect layer inherits the `size=` and `origin=` values of the parent layer). `pos=` can be used to shift the effect layer away from the parent layer, as is typically required for drop and inner shadow effects. While for standard layers `pos=` specifies an offset between the origins of this layer and layer 0, for effect layers `pos=` specifies the offset between the origins of the effect layer and the parent layer.
+Effect layers are automatically sized and positioned to coincide with the parent layer (that is, the effect layer inherits the `size=` and `origin=` values of the parent layer). `pos=` can be used to shift the effect layer away from the parent layer, as is typically required for drop and inner shadow effects. While for standard layers `pos=` specifies an offset between the origins of this layer and layer 0, for effect layers `pos=` specifies the offset between the origins of the effect layer and the parent layer.
 
 ## Supported commands and attributes {#section-035fc6bcba7d4e7ab4bd46687c1d8879}
 
@@ -75,7 +75,7 @@ Add a three pixel wide, red border with 50% opacity to a layer:
 
 `…&effect=-1&op_grow=3&color=255,0,0,128&…`
 
-The border will follow the contours of the image's alpha channel or mask. Setting `effect=1` would place the border on the inside edge instead.
+The border follows the contours of the image's alpha channel or mask. Setting `effect=1` would place the border on the inside edge instead.
 
 Add a bluish drop shadow to an image, using the default effect settings (except for the color):
 

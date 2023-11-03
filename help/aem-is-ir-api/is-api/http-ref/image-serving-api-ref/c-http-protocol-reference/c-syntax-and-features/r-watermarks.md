@@ -10,23 +10,23 @@ exl-id: e744be3f-9753-4513-8f37-055fa03077cc
 
 Image Serving implements a simple visual watermarking facility.
 
-A watermark typically is a semi-transparent image, but it may be text, or a more complex, layered composite image. The server will layer the watermark over the reply image after all view attributes ( `wid=`, `hei=`, `align=`, `scl=`, `bgc=`) have been applied.
+A watermark typically is a semi-transparent image, but it may be text, or a more complex, layered composite image. The server layers the watermark over the reply image after all view attributes ( `wid=`, `hei=`, `align=`, `scl=`, `bgc=`) have been applied.
 
-Watermarking is enabled by setting `attribute::Watermark` to a valid catalog entry which would contain the watermark image or template. If `attribute::Watermark` is set in a named catalog, the server will add the watermark to all image requests which reference the catalog id in the request URL. If `default::Watermark` is set (in the default catalog, [!DNL default.ini]), the watermark is applied to all image requests regardless of whether they reference a catalog or not.
+Watermarking is enabled by setting `attribute::Watermark` to a valid catalog entry which would contain the watermark image or template. If `attribute::Watermark` is set in a named catalog, the server adds the watermark to all image requests which reference the catalog id in the request URL. If `default::Watermark` is set (in the default catalog, [!DNL default.ini]), the watermark is applied to all image requests regardless of whether they reference a catalog or not.
 
 Watermarks are not applied to images returned in response to thumbnail requests ( `req=tmb`) and certain requests from Dynamic Media viewers.
 
 ## Scaling and alignment {#section-89ef9e5926ae438abbd8e70332749b76}
 
-When a watermark is specified, the server will first generate the composite image (the *target image*) to which the watermark needs to be applied (before applying the view transforms). The server then generates the composite image for the watermark just like any other image (the *watermark image*).
+When a watermark is specified, the server first generates the composite image (the *target image*) to which the watermark needs to be applied (before applying the view transforms). The server then generates the composite image for the watermark just like any other image (the *watermark image*).
 
 Unlike standard images, `sizeN=` may be specified for layer=0 or layer=comp of the watermark image. This allows scaling of the watermark image relative to the target image. If `sizeN=` is not specified, the watermark image retains its pixel size when being merged with the target image.
 
 Request commands (such as `fmt=`) and view commands (such as `wid=`) are ignored in watermark records, with the exception of `align=`. `align=` can be used to position the watermark image relative to the watermark image relative to the target image. This allows positioning of the watermark relative to a corner or edge of the target image.
 
-After scaling and aligning, the server will layer the watermark image over the target image using the `blendMode=` and `opac=` values specified for `layer=0` or `layer=comp` of the watermark image. Finally, the request and view commands specified for the target image are applied to construct the reply image.
+After scaling and aligning, the server layers the watermark image over the target image using the `blendMode=` and `opac=` values specified for `layer=0` or `layer=comp` of the watermark image. Finally, the request and view commands specified for the target image are applied to construct the reply image.
 
-Note that the watermark image will never extend over any blank space added to the reply image by the `wid=` and `hei=` commands.
+Note that the watermark image never extends over any blank space added to the reply image by the `wid=` and `hei=` commands.
 
 ## Example {#section-0408c977d7324d4cb0e76a91cdfa2acd}
 

@@ -37,7 +37,7 @@ Material attribute. Only used by decals; ignored by all other materials. `res=` 
 
 ## Example {#section-04fdc2b60b9e4071b672bf6a913738ad}
 
-A MSS for a decal, which is sized based on resolution, rotated by 20 deg clockwise, and has a thickness of 2.5 inches, for an appropriate drop shadow effect:
+An MSS for a decal, which is sized based on resolution, rotated by 20 deg clockwise, and has a thickness of 2.5 inches, for an appropriate drop shadow effect:
 
 `…&decal&src=myDecal.png&res=34&rotate=20&size=0,0,2.5&…`
 

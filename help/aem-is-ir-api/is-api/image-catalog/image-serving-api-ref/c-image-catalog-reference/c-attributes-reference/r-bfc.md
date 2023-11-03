@@ -17,7 +17,7 @@ Browser Format Conversion. Specifies whether browser format conversion functiona
 <table id="simpletable_998CF426296945FEA48D19E33B71A17E"> 
  <tr class="strow"> 
   <td class="stentry"> <p> <span class="codeph"> true|false </span> </p> </td> 
-  <td class="stentry"> <p>Specifies whether browser format conversion functionality-converting JPEG or PNG images to smaller browser specific file formats-is on ( <span class="codeph"> true </span>) or off ( <span class="codeph"> false </span>). </p> </td> 
+  <td class="stentry"> <p>Specifies whether browser format conversion functionality-converting JPEG or PNG images to smaller browser-specific file formats-is on ( <span class="codeph"> true </span>) or off ( <span class="codeph"> false </span>). </p> </td> 
  </tr> 
 </table>
 

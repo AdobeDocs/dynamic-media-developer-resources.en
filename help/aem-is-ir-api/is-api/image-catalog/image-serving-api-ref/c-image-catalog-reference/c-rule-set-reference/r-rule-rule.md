@@ -47,7 +47,7 @@ Request rule element. One or more rules are optional in the `<ruleset>` element.
 
 **`Name = "text"`**: Optional. Used to identify the `<rule>` element in debug logs and error messages.
 
-`  *`Attribute`* ="value"`: Optional. `<rule>` elements may define any of the following attributes in any combination. If specified, and the rule is successfully matched, they will override the corresponding catalog attributes for this request. Default is `RequestType="is"`. 
+`  *`Attribute`* ="value"`: Optional. `<rule>` elements may define any of the following attributes in any combination. If specified, and the rule is successfully matched, they override the corresponding catalog attributes for this request. Default is `RequestType="is"`. 
 
 <table id="table_67AED5BEADDF4DAC99B5EF46438C1ABC"> 
  <thead> 

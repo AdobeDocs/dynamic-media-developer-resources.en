@@ -36,11 +36,11 @@ Specify either a complete Image Serving request, starting with `http://`, or a r
 
 >[!NOTE]
 >
->Images embedded in SVG are not resized automatically at this time. Make sure that all image hrefs include the necessary Image Serving commands to set the desired image size (e.g. `wid=`). If the image size is not set explicitly, `attribute::DefaultPix` is applied.
+>Images embedded in SVG are not resized automatically at this time. Make sure that all image hrefs include the necessary Image Serving commands to set the desired image size (for example, `wid=`). If the image size is not set explicitly, `attribute::DefaultPix` is applied.
 
 ## Color management {#section-ea76e2bc4e1842638aa97a2d470c8a68}
 
-All color values embedded in SVG files and passed to SVG templates via substitution variables are assumed to exist in the `sRgb` color space.
+All color values embedded in SVG files and passed to SVG templates by way of substitution variables are assumed to exist in the `sRgb` color space.
 
 No color conversion is performed when images are embedded into the SVG. To ensure color fidelity, make sure to specify `icc=sRgb` for all embedded image requests.
 
@@ -60,7 +60,7 @@ This SVG template might be used as follows:
 
 SVG files must be stand-alone and must not reference any secondary files or resources, with the exception of external images referenced with Image Serving or Image Rendering requests (see above).
 
-Only static content is rendered. Animation, interactive features, such as buttons, etc. may be present but may not be rendered as expected.
+Only static content is rendered. Animation, interactive features, such as buttons, and so on. may be present but may not be rendered as expected.
 
 ICC profile-based color specifications are not supported at this time.
 

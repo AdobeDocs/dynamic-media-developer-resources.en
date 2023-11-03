@@ -14,7 +14,7 @@ Custom variables may be used to further simplify template use. Templates are oft
 
 Templates are stored as records in image catalogs, with the template body in the `catalog::Modifier` field, and the `catalog::Path` field empty or specifying a static background image which cannot be changed dynamically.
 
-Templates are specified with the `template=` command or in the path component of the request URL. For most applications it is recommended to use the `template=` command to specify templates. The `template=`command must not occur in the `catalog::PostModifier` field and may only occur in the `catalog::Modifier` field in a nested IS request (i.e. in a `src=is{...}` construct). Template records may not be referenced in `src=` or `mask=`commands.
+Templates are specified with the `template=` command or in the path component of the request URL. For most applications it is recommended to use the `template=` command to specify templates. The `template=`command must not occur in the `catalog::PostModifier` field and may only occur in the `catalog::Modifier` field in a nested IS request (that is, in a `src=is{...}` construct). Template records may not be referenced in `src=` or `mask=`commands.
 
 Any `src=` or `mask=`commands embedded in the template may resolve to the main catalog of the request or to a different image catalog. If no `rootId` is specified explicitly, the main catalog is assumed. The template specified with `template=` may also be located in the main catalog or a different image catalog.
 

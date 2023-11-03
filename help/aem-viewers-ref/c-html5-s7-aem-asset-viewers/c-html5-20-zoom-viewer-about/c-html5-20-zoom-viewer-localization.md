@@ -1,6 +1,6 @@
 ---
 title: Localization of user interface elements
-description: Certain content that the Video Viewer displays is subject to localization, including zoom buttons and a full screen button.
+description: Certain content that the Video Viewer displays is subject to localization, including zoom buttons and a full-screen button.
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
@@ -8,9 +8,9 @@ exl-id: c386a09c-21ce-4105-b416-e6ae50219af0
 ---
 # Localization of user interface elements{#localization-of-user-interface-elements}
 
-Certain content that the Video Viewer displays is subject to localization, including zoom buttons and a full screen button.
+Certain content that the Video Viewer displays is subject to localization, including zoom buttons and a full-screen button.
 
-Every textual content in the viewer that can be localized is represented by a special Viewer SDK identifier called SYMBOL. Any SYMBOL has a default associated text value for the English locale ( `"en"`) supplied with the out-of-the-box viewer. It may also have user-defined values set for as many locales as needed.
+Every textual content in the viewer that can be localized is represented by a special Viewer SDK identifier called SYMBOL. Any SYMBOL has a default-associated text value for the English locale ( `"en"`) supplied with the out-of-the-box viewer. It may also have user-defined values set for as many locales as needed.
 
 When the viewer starts, it checks the current locale to see if there is a user-defined value for each supported SYMBOL for the locale. If there is, it uses the user-defined value; otherwise, it falls back to the out-of-the-box default text.
 
@@ -76,11 +76,11 @@ The following SYMBOLs are supported:
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> FullScreenButton.TOOLTIP_SELECTED </span> </p> </td> 
-   <td colname="col2"> <p>Full screen button in normal state. </p> </td> 
+   <td colname="col2"> <p>full-screen button in normal state. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> FullScreenButton.TOOLTIP_UNSELECTED </span> </p> </td> 
-   <td colname="col2"> <p>Full screen button in full screen state. </p> </td> 
+   <td colname="col2"> <p>full-screen button in full-screen state. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> ScrollLeftButton.TOOLTIP </span> </p> </td> 

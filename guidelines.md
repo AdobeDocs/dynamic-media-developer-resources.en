@@ -22,7 +22,7 @@ The documentation covers standard use cases. Use cases beyond the scope of stand
 
 ### We do not generally document bugs or their workarounds.
 
-The documentation covers standard use cases. For this reason, bugs, effects caused by bugs, and workarounds for bugs are not not documented.
+The documentation covers standard use cases. For this reason, bugs, effects caused by bugs, and workarounds for bugs are not documented.
 
 Exceptions to this rule apply to the release notes where known issues can be listed with possible solutions that have been approved by Product Management.
 
@@ -66,7 +66,7 @@ Remember, readers of the documentation are worldwide, and cannot be expected to 
 |---|---|
 |UI Element or option|**bold**|
 |Filename, path, user-input, parameter-values|`monospaced`|
-|Code, command line|```Code Block```|
+|Code, command-line|```Code Block```|
 
 ### Screenshots
 

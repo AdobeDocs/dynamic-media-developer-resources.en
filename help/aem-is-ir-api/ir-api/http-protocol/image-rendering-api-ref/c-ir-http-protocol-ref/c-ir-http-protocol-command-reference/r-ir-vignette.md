@@ -29,7 +29,7 @@ Vignette file. Specifies the vignette to use for the request.
 
 Can either specify a vignette map entry or a vignette file. Remote URLs are not permitted.
 
-`vignette=` Can be used as an alternative to specifying the vignette in the request URL path. Used to specify vignettes via variables in templates.
+`vignette=` Can be used as an alternative to specifying the vignette in the request URL path. Used to specify vignettes by way of variables in templates.
 
 If *`catId`* is not specified, the session catalog is used.
 

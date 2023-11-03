@@ -21,11 +21,11 @@ The following types of requests are redirected:
 
   Static content requests are redirected when it can't be found on disk, even if the referenced static content does not have a catalog record.
 
-Error redirect will not happen in any other case.
+Error redirect does not happen in any other case.
 
-When enabled and when such an error occurs during the processing of the request, the primary server will send the request to the secondary server for processing. The response, regardless of whether it indicates success or failure, is then forwarded directly to the client. The primary server marks log entries of such forwarded requests with cache use `REMOTE`. The response data is not cached locally by the primary server.
+When enabled and when such an error occurs during the processing of the request, the primary server sends the request to the secondary server for processing. The response, regardless of whether it indicates success or failure, is then forwarded directly to the client. The primary server marks log entries of such forwarded requests with cache use `REMOTE`. The response data is not cached locally by the primary server.
 
-Error redirect is enabled by setting `PS::errorRedirect.rootUrl` to the HTTP domain name and port number of the secondary server. In addition, the connection timeout is configured with `PS::errorRedirect.connectTimeout` and the maximum time the primary server will wait for a response from the secondary server before returning an error to the client is configured with `PS::errorRedirect.socketTimeout`.
+Error redirect is enabled by setting `PS::errorRedirect.rootUrl` to the HTTP domain name and port number of the secondary server. In addition, the connection timeout is configured with `PS::errorRedirect.connectTimeout` and the maximum time the primary server waits for a response from the secondary server before returning an error to the client is configured with `PS::errorRedirect.socketTimeout`.
 
 >[!NOTE]
 >

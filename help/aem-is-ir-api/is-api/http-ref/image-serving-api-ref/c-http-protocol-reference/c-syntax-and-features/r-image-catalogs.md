@@ -18,7 +18,7 @@ Image catalogs offer the following features:
 * Provide defaults for certain request attributes, such as the JPEG quality or whether a watermark is to be applied. 
 * Manage fonts, ICC profiles, macro definitions, and request templates
 
-Even if no specific image catalogs are defined, all features of image catalogs are available via the default catalog ( [!DNL default.ini]).
+Even if no specific image catalogs are defined, all features of image catalogs are available by way of the default catalog ( [!DNL default.ini]).
 
 If `*`rootId`*` in the request's URL path matches `attribute::RootId` of a specific image catalog, that catalog becomes the main catalog for this request. The main catalog provides the default attributes and settings for the entire request. If no match is found, the default catalog is used instead.
 

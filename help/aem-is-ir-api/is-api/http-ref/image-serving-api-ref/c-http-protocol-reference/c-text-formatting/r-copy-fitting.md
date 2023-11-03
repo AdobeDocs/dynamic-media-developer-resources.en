@@ -1,5 +1,5 @@
 ---
-description: textPs= implements a proprietary copy-fitting algorithm which will automatically adjust the font size(s) to optimally fill the text area with text, minimizing extra space at the bottom while avoiding overflow.
+description: textPs= implements a proprietary copy-fitting algorithm which automatically adjusts the font sizes to optimally fill the text area with text, minimizing extra space at the bottom while avoiding overflow.
 solution: Experience Manager
 title: Copy-fitting
 feature: Dynamic Media Classic,SDK/API
@@ -8,7 +8,7 @@ exl-id: d1a560f3-f92c-4143-b80a-e1674c8a4207
 ---
 # Copy-fitting{#copy-fitting}
 
-textPs= implements a proprietary copy-fitting algorithm which will automatically adjust the font size(s) to optimally fill the text area with text, minimizing extra space at the bottom while avoiding overflow.
+textPs= implements a proprietary copy-fitting algorithm which automatically adjusts the font sizes to optimally fill the text area with text, minimizing extra space at the bottom while avoiding overflow.
 
 Copy-fitting can be enabled and controlled collectively for the entire text layer, on a paragraph basis, even for an individual text span.
 
@@ -20,11 +20,11 @@ Copy-fitting is disabled by specifying `\copyfit` with a size equal to or smalle
 
 ## Limiting the number of lines {#section-e5aee0f039e04842afc3d6884ed681ac}
 
-In addition to specifying the range of font sizes, the behavior of the copy-fitting algorithm can be further controlled with the `\copyfitlines` or `\copyfitmaxlines` commands, which limit the number of lines the algorithm will generate. Both commands accept a line count parameter or 0, to not limit the number of lines in the copy-fitted region.
+In addition to specifying the range of font sizes, the behavior of the copy-fitting algorithm can be further controlled with the `\copyfitlines` or `\copyfitmaxlines` commands, which limit the number of lines the algorithm generates. Both commands accept a line count parameter or 0, to not limit the number of lines in the copy-fitted region.
 
 `\copyfitlines` permits text to overflow to additional lines when it does not fit into the specified number of lines. Explicit line breaks in the text segment to be copy-fitted are always honored.
 
-`\copyfitmaxlines` always truncates extra output lines which exceed the specified limit. The specified number of lines will never be exceeded, even if explicit line breaks are present. For this release of Image Serving, no more than N-1 `\line` markers may be present in the copy-fitted text span. Behavior is undefined if this limit is exceeded.
+`\copyfitmaxlines` always truncates extra output lines which exceed the specified limit. The specified number of lines are never exceeded, even if explicit line breaks are present. For this release of Image Serving, no more than N-1 `\line` markers may be present in the copy-fitted text span. Behavior is undefined if this limit is exceeded.
 
 ## Examples {#section-f4ddbbfade444560be30a813d90c2c1b}
 
@@ -34,7 +34,7 @@ The following examples assume that bodies of text are provided with variables na
 
 `{\fs10\copyfit100 $A${\fs20\copyfit200 $B$}$C$}`
 
-*[!DNL $B$]* will always be rendered twice as large as the rest of the text. When much text is specified, *[!DNL $A$]* and *[!DNL $C$]* is rendered with `\fs10` and *[!DNL $B$]* with `\fs20`. With little text, *[!DNL $A$]* and *[!DNL $C$]* will use `\fs100` and *[!DNL $B$]* `\fs200`.
+*[!DNL $B$]* is always rendered twice as large as the rest of the text. When much text is specified, *[!DNL $A$]* and *[!DNL $C$]* is rendered with `\fs10` and *[!DNL $B$]* with `\fs20`. With little text, *[!DNL $A$]* and *[!DNL $C$]* use `\fs100` and *[!DNL $B$]* `\fs200`.
 
 **Converge to a common large font size if only a small amount of text is drawn:**
 

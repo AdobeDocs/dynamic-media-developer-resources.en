@@ -65,7 +65,7 @@ Layer command. Substitution variable references are not supported in `layer=`.
 
   This applies to all permutations, not only to layer names but to layer modifiers in general. 
 
-* All merging and overriding rules should work exactly as when same layer is referenced in multiple sources (request, pre or post modifier catalog records, macros, etc.).
+* All merging and overriding rules should work exactly as when same layer is referenced in multiple sources (request, pre or post modifier catalog records, macros, and so on.).
 
 ## Example {#section-cc40de6a0a754178aa752601539c815b}
 

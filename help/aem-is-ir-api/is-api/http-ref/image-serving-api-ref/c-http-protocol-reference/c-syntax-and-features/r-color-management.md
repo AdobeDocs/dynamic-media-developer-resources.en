@@ -48,7 +48,7 @@ Image Serving generally attempts to delay color conversions during processing. I
 
 >[!NOTE]
 >
->The commands `op_brightness=`, `op_colorbalance=`, `op_colorize=`, `op_contrast=`, `op_hue=`, and `op_saturation=` are RGB operations. These operations maintain color fidelity only if the layer color space has RGB pixel type. If other than RGB, the data is converted to RGB using naïve color conversion, and the result will have limited color fidelity. The layer color space for such layers should be considered indeterminate.
+>The commands `op_brightness=`, `op_colorbalance=`, `op_colorize=`, `op_contrast=`, `op_hue=`, and `op_saturation=` are RGB operations. These operations maintain color fidelity only if the layer color space has RGB pixel type. If other than RGB, the data is converted to RGB using naïve color conversion, and the result has limited color fidelity. The layer color space for such layers should be considered indeterminate.
 
 Color conversion options are provided with `icc=` or, if `icc=` is not specified, with `attribute::IccRenderIntent`, `attribute::IccBlackPointCompensation`, and `attribute::IccDither`.
 
@@ -70,7 +70,7 @@ Only CMYK, RGB, and gray-scale color spaces are supported at this time.
 
 ## Included ICC color profiles {#section-98b4a7d9f9814e8ba27d6dcf3dcf850c}
 
-Image Serving includes most standard Adobe ICC profiles in the default image catalog. These profiles can be accessed by either their common names (e.g. as seen in Photoshop) or with a somewhat shorter identifier. The following table lists all standard ICC profiles. When referencing a profile in the `icc=` command by its common name, spaces must be encoded as `%20`.
+Image Serving includes most standard Adobe ICC profiles in the default image catalog. These profiles can be accessed by either their common names (for example, as seen in Photoshop) or with a somewhat shorter identifier. The following table lists all standard ICC profiles. When referencing a profile in the `icc=` command by its common name, spaces must be encoded as `%20`.
 
 Additional profiles may be added to the standard profiles, either to the default catalog or a specific image catalog. Refer to the [ICC Profile Map Reference](../../../../../is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-icc-profile-map-reference/c-icc-profile-map-reference.md#concept-57b9148ce55249cd825cb7ee19ed057c) for details.
 

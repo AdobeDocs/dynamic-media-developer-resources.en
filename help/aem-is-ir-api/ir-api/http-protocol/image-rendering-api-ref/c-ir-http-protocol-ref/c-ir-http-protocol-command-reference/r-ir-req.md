@@ -294,7 +294,7 @@ The following properties may be included in the response:
 
 Returns the contents of `vignette::UserData`. The server replaces all occurrences of `'??'` in `vignette::UserData` with line terminators ( `<cr><lf>`). The reply is formatted as text data with the response MIME type set to <text/plain>.
 
-If the object specified in the URL path does not resolve to a valid vignette map entry, or if the `vignette::UserData` is empty, the reply will only contain a line terminator ( `CR/LF`).
+If the object specified in the URL path does not resolve to a valid vignette map entry, or if the `vignette::UserData` is empty, the reply only contains a line terminator ( `CR/LF`).
 
 Any other commands in the request string are ignored.
 

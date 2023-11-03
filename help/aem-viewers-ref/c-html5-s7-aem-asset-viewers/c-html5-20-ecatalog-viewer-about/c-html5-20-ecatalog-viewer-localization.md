@@ -1,6 +1,6 @@
 ---
 title: Localization of user interface elements
-description: Certain content that the eCatalog Viewer displays is subject to localization, including zoom buttons, page change buttons, thumbnail button, full screen button, close button, and scroll bar buttons.
+description: Certain content that the eCatalog Viewer displays is subject to localization, including zoom buttons, page change buttons, thumbnail button, full-screen button, close button, and scroll bar buttons.
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
@@ -8,9 +8,9 @@ exl-id: 1d7e9eba-b30c-4f85-b551-6842f73dc22c
 ---
 # Localization of user interface elements{#localization-of-user-interface-elements}
 
-Certain content that the eCatalog Viewer displays is subject to localization, including zoom buttons, page change buttons, thumbnail button, full screen button, close button, and scroll bar buttons.
+Certain content that the eCatalog Viewer displays is subject to localization, including zoom buttons, page change buttons, thumbnail button, full-screen button, close button, and scroll bar buttons.
 
-Every textual content in the viewer that can be localized is represented by a special Viewer SDK identifier called SYMBOL. Any SYMBOL has a default associated text value for the English locale ( `"en"`) supplied with the out-of-the-box viewer, and may also have user-defined values set for as many locales as needed.
+Every textual content in the viewer that can be localized is represented by a special Viewer SDK identifier called SYMBOL. Any SYMBOL has a default-associated text value for the English locale ( `"en"`) supplied with the out-of-the-box viewer, and may also have user-defined values set for as many locales as needed.
 
 When the viewer starts, it checks the current locale to see if there is a user-defined value for each supported SYMBOL in the locale. If there is, it uses the user-defined value; otherwise, it falls back to the out-of-the-box default text.
 
@@ -76,11 +76,11 @@ The following SYMBOLs are supported (assuming containerId is theID of the viewer
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> FullScreenButton.TOOLTIP_SELECTED </span> </p> </td> 
-   <td colname="col2"> <p>Full screen button in normal state. </p> </td> 
+   <td colname="col2"> <p>full-screen button in normal state. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> FullScreenButton.TOOLTIP_UNSELECTED </span> </p> </td> 
-   <td colname="col2"> <p>Full screen button in full screen state. </p> </td> 
+   <td colname="col2"> <p>full-screen button in full-screen state. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> ScrollUpButton.TOOLTIP </span> </p> </td> 

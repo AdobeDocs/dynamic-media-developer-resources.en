@@ -1,6 +1,6 @@
 ---
 title: type
-description: Static content type filter. Specifies a filter string for static content delivered via /is/content.
+description: Static content type filter. Specifies a filter string for static content delivered by way of /is/content.
 solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
@@ -8,7 +8,7 @@ exl-id: 9015d5f4-e42c-43e0-af85-fc9c278448e7
 ---
 # type{#type}
 
-Static content type filter. Specifies a filter string for static content delivered via /is/content.
+Static content type filter. Specifies a filter string for static content delivered by way of /is/content.
 
  `type= *`val`*`
 
@@ -23,7 +23,7 @@ The server compares `val` with the value of `catalog::Type` of the requested sta
 
 ## Properties {#section-529b088434a44a9f86a64ef548d2925b}
 
-Only supported for static content (non-image) requests served via. Ignored if `catalog::Type` is empty or not defined.
+Only supported for static content (non-image) requests served by way of. Ignored if `catalog::Type` is empty or not defined.
 
 ## Default {#section-e9e8f51d0a01452183ccb510efd87d46}
 

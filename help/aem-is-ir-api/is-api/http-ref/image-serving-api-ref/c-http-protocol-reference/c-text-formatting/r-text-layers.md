@@ -27,7 +27,7 @@ Common rules and definitions are as follows:
 
 ## Point text (self-sizing) {#section-db99ec98eb114458b2dbc9911a58f74a}
 
-Photoshop-style point text is simulated when `textPs=` is specified without `size=`, `textPath=`, or `textFlowPath=`. The layer size is determined horizontally by the width of the rendered text and vertically by the line spacing. Text will never wrap automatically.
+Photoshop-style point text is simulated when `textPs=` is specified without `size=`, `textPath=`, or `textFlowPath=`. The layer size is determined horizontally by the width of the rendered text and vertically by the line spacing. Text never wraps automatically.
 
 If neither `anchor=` nor `origin=` are specified, the first line of the text is positioned immediately above the layer origin; paragraphs marked with `\ql` are positioned to the right of the layer origin, paragraphs which include `\qr` are rendered to the left of the origin, and paragraphs with `\qc` are centered horizontally around the origin. Standard layer positioning rules apply if `anchor=` or `origin=` are specified.
 
@@ -69,7 +69,7 @@ The following RTF commands are ignored:
 
 If `size=` is specified together with `textFlowPath=`, the layer size is pre-determined. (0,0) of the pixel coordinate space used to define the path(s) is located at the top-left corner of the layer rectangle.
 
-The `textFlowPath=` regions may be located outside the layer rectangle. Text will always be flowed and rendered into all path regions, even if this results in text being rendered outside the layer rectangle. `extend=0,0,0,0`can be used to crop the rendered text to the layer rectangle.
+The `textFlowPath=` regions may be located outside the layer rectangle. Text is always flowed and rendered into all path regions, even if this results in text being rendered outside the layer rectangle. `extend=0,0,0,0`can be used to crop the rendered text to the layer rectangle.
 
 For layer positioning purposes, the layer rectangle is based on the specified `size=`, regardless of how much text is actually rendered, even if some of it is located outside the layer rectangle. Standard layer positioning applies.
 
@@ -99,7 +99,7 @@ Any text after the first `\par` or `\line` is ignored.
 
 If `size=` is specified together with `textPath=`, the layer size is pre-determined. (0,0) of the pixel coordinate space used to define the path(s) is located at the top-left corner of the layer rectangle.
 
-The paths may be located partially or entirely outside the layer rectangle. Text will always be applied and rendered along the entire path, even if outside the layer rectangle. `extend=0,0,0,0` can be used to crop the rendered text to the layer rectangle.
+The paths may be located partially or entirely outside the layer rectangle. Text is always applied and rendered along the entire path, even if outside the layer rectangle. `extend=0,0,0,0` can be used to crop the rendered text to the layer rectangle.
 
 For layer positioning purposes, the layer rectangle is based on the specified `size=`, even if some of the text is rendered outside the layer rectangle. Standard layer positioning applies.
 

@@ -12,7 +12,7 @@ The Viewer SDK provides a set of JavaScript-based components for custom viewer d
 
 For example, the SDK provides interactive zooming and panning. It also provides 360° view and video playback of assets that were uploaded to Adobe Dynamic Media through the backend application called Dynamic Media Classic.
 
-Even though the components rely on HTML5 functionality, they are designed to work on Android™ and Apple iOS devices, and desktops, including Internet Explorer and later. This kind of experience means that you are able to provide a single workflow for all supported platforms.
+Even though the components rely on HTML5 functionality, they are designed to work on Android&trade; and Apple iOS devices, and desktops, including Internet Explorer and later. This kind of experience means that you are able to provide a single workflow for all supported platforms.
 
 The SDK consists of UI Components that make up viewer content. You can style these components through CSS, and non-UI components that have some kind of supporting role, like set definition fetching and parsing or tracking. All component behaviors are customizable through modifiers that you can specify in various ways, for example, as `name=value` pairs in the URL.
 
@@ -109,7 +109,7 @@ This tutorial includes the following order of tasks to help you create a basic z
 
 1. Save the file as an empty template. You can use any filename you want.
 
-   You will use this empty template file as a reference when you create any viewers in the future. This template works locally and when served from a web server.
+   You can use this empty template file as a reference when you create any viewers in the future. This template works locally and when served from a web server.
 
 Now add style to your viewer.
 
@@ -172,8 +172,8 @@ Now include the components `Container` and `ZoomView`.
     
    /* Create a viewer container as a parent component for other user interface components that  
       are part of the viewer application and associate event handlers for resize and  
-      full screen notification. The advantage of using Container as the parent is the  
-      component's ability to resize and bring itself and its children to full screen. */ 
+      full-screen notification. The advantage of using Container as the parent is the  
+      component's ability to resize and bring itself and its children to full-screen. */ 
    container = new s7sdk.common.Container(null, params, "s7container"); 
    container.addEventListener(s7sdk.event.ResizeEvent.COMPONENT_RESIZE, containerResize, false); 
     

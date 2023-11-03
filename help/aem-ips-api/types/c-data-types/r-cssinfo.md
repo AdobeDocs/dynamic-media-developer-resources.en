@@ -1,5 +1,5 @@
 ---
-description: Properties of an CSS file asset.
+description: Properties of a CSS file asset.
 solution: Experience Manager
 title: CssInfo
 feature: Dynamic Media Classic,SDK/API
@@ -8,7 +8,7 @@ exl-id: b3a65c0c-b2c9-48da-9233-5fbcdd55d986
 ---
 # [!DNL CssInfo]{#cssinfo}
 
-Properties of an CSS file asset.
+Properties of a CSS file asset.
 
  Syntax 
 

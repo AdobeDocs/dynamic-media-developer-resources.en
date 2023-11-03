@@ -1,5 +1,5 @@
 ---
-description: If a request cannot be completed successfully, the server will either return an error image or an HTTP response status other than 200 together with an error message.
+description: If a request cannot be completed successfully, the server either returns an error image or an HTTP response status other than 200 together with an error message.
 solution: Experience Manager
 title: Errors
 feature: Dynamic Media Classic,SDK/API
@@ -8,7 +8,7 @@ exl-id: 9314782f-703b-4e9c-a026-62970d1c752f
 ---
 # Errors{#errors}
 
-If a request cannot be completed successfully, the server will either return an error image or an HTTP response status other than 200 together with an error message.
+If a request cannot be completed successfully, the server either returns an error image or an HTTP response status other than 200 together with an error message.
 
 The response status value depends on the type of the error; for most common errors it is '403'. Error responses for non-image request types conform to the format specified with `req=`. (May not be consistently implemented at this time.)
 

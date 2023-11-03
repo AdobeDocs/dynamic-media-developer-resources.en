@@ -10,7 +10,7 @@ exl-id: fc20cbc2-9d66-4c52-80c2-9ba7c3b54744
 
 The image returned to the client in response to a `req=img` request is derived from the composite image by considering the following values: `wid=`, `hei=`, `fit=`, `scl=`, `rgn=`, `attribute::DefaultPix`, `attribute::MaxPix`, and the size of the composite image.
 
-If `wid=` and `hei=` are specified, and `scl=` is not, composite image is scaled so that it fits fully within the view rect defined by `wid=` and `hei=`. If the aspect ratio of the view rect is different than that of the composite image, then the scaled composite image is aligned within the view rect using the `align=` value, if specified, or it is centered otherwise. Any space not covered by image data is filled with `bgc=` or, if not specified, with `attribute::BkgColor`.
+If `wid=` and `hei=` are specified, and `scl=` is not, composite image is scaled so that it fits fully within the view rect defined by `wid=` and `hei=`. If the aspect ratio of the view rect is different from that of the composite image, then the scaled composite image is aligned within the view rect using the `align=` value, if specified, or it is centered otherwise. Any space not covered by image data is filled with `bgc=` or, if not specified, with `attribute::BkgColor`.
 
 If `scl=` is specified, the composite image is scaled by that scale factor. If `wid=` and/or `hei=` is specified as well, the scaled image is then cropped to `wid=` and/or `hei=` or extra space is added, as needed. `align=` specifies where the image is cropped or extra space is added, and any extra space is filled with `bgc=` or `attribute::BkgColor`.
 

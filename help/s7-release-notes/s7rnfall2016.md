@@ -40,7 +40,7 @@ For complete documentation, see [https://experienceleague.adobe.com/docs/dynamic
 * Removed **Create Dynamic Media Classic (Scene7) Admin** user feature from User Management because of security concerns.
 * FTP WebAdmin now supports OKTA authentication.
 * Removed the feature of the default password that got created for new Media Portal users.
-* Bug fix involving the temporary password that was generated when a new user was added. The password did not fulfill necessary password requirements.
+* Bug fix involving the temporary password that was generated when a new user was added. The password did not fulfill the necessary password requirements.
 * Resolved issues of WebAdmin root disk full.
 * Bug fix involving the disabling of a user not being reflected immediately in the user interface.
 * Bug fix involving the deletion of a user which did not let you re-create the user later.
@@ -85,15 +85,15 @@ For complete documentation, see [Viewers Reference Guide](https://experienceleag
 
 **Compatibility notes**
 
-* BlackBerry®
+* BlackBerry&reg;
 
   * Incompatibility with older AVS sets. Clients must reupload AVS sets to allow playback.
 
 * General
 
-  * Browser side scaling may cause UI and images to become blurry as user zooms into page. UI formatting may also display incorrectly depending on zoom. This effect carries over to full screen.
+  * Browser side scaling may cause UI and images to become blurry as user zooms into page. UI formatting may also display incorrectly depending on zoom. This effect carries over to full-screen.
   * Due to size limitation on mobile devices, the Mixed Media Viewer uses slide gesture to swap frames in embedded image sets instead of tapping the embedded swatches component. The component is there as a visual indicator.
-  * In Internet Explorer browsers and some touch devices, full screen mode does not occupy entire device screen. Instead, it resizes application to the size of the browser window.
+  * In Internet Explorer browsers and some touch devices, full-screen mode does not occupy entire device screen. Instead, it resizes application to the size of the browser window.
   * The Close button does not work iOS 8.0 and 8.1 but no longer occurs in iOS 8.2
 
 * Galaxy SIII
@@ -103,7 +103,7 @@ For complete documentation, see [Viewers Reference Guide](https://experienceleag
 
 * Galaxy S4
 
-  * Device detected as tablet in portrait mode with Full Screen checked in browser settings.
+  * Device detected as tablet in portrait mode with full-screen checked in browser settings.
 
 * Galaxy Nexus
 
@@ -122,15 +122,15 @@ For complete documentation, see [Viewers Reference Guide](https://experienceleag
 
   * Internet Explorer 9: custom poster images do not display.
   * `IntialBitRate` modifier is only supported with software HLS and Flash HDS playback. It does not work when playback is using the native player.
-  * OGG and WebM progressive playback not supported currently.
+  * OGG and WebM progressive playback not currently supported.
   * Browser scaling can cause the video player to display at an incorrect size (include Windows OS control panel Display settings).
   * Video seek using HLS streaming on Safari may be inconsistent.
 
 * Internet Explorer
 
-  * Quirks mode is not supported currently.
-  * Compatibility mode is not supported currently.
-  * Internet Explorer on mobile is not supported currently.
+  * Quirks mode is not currently supported.
+  * Compatibility mode is not currently supported.
+  * Internet Explorer on mobile is not currently supported.
 
 * iOS
 
@@ -156,13 +156,13 @@ For complete documentation, see [Viewers Reference Guide](https://experienceleag
 
   * Watermarks, obfuscation, and locking are not supported.
   * Image presets are not supported.
-  * Adding or removing viewer from the DOM using `display:none` CSS or by dynamically detaching it from the parent node is not supported currently.
+  * Adding or removing viewer from the DOM using `display:none` CSS or by dynamically detaching it from the parent node is not currently supported.
 
 * HTML5 All Viewers
 
   * Embedding viewer in table may result in incorrect sizing or placement of viewer in non-native fullscreen mode. Suggest using DIVs instead.
   * Parameters with explicit instance names in the code require instance names in the URL as well to be overwritten (for example, `zoomView.iconfeffect=0`).
-  * Image Serving command crop is not supported currently.
+  * Image Serving command crop is not currently supported.
   * The Close button works only if the viewer is open in the child window.
   * The `iscommands` modifier does not support Image Serving modifiers that affect image size.
 
@@ -187,12 +187,12 @@ For complete documentation, see [Viewers Reference Guide](https://experienceleag
   * The poster image may encounter "max size" error. Company must increase limit setting for Image Serving Publish.
   * Video captions require a company ruleset if hosting the HTML page is served from an external server (not a Scene7 server). Contact Adobe Support for assistance.
   * Analytics tracking may report incorrect play percentage due to buffering
-  * Black frame instead of poster image may show on iPad or Android™ devices.
-  * Black frame may flash on screen during viewer load on iPad or Android™ devices.
+  * Black frame instead of poster image may show on iPad or Android&trade; devices.
+  * Black frame may flash on screen during viewer load on iPad or Android&trade; devices.
   * Black borders are shown on side of VideoPlayer component when background is set to white/transparent on iPad devices.
   * Last frame of video may be distorted on iPad using iOS 7.
   * Occasional macroblocking may occur during video seek in HLS streaming mode in Chrome, Firefox, and Internet Explorer browsers.
-    * Poster image may not show in Microsoft® Edge browser for the first time visitor.
+    * Poster image may not show in Microsoft&reg; Edge browser for the first time visitor.
     * Poster image may hide after video load in Internet Explorer 9 when progressive playback is used.
 
 ## Scene7 HTML5 Viewer SDK 3.0.2 {#section-30e2392859c442d1aab2766d0f1d1580}
@@ -211,7 +211,7 @@ The User Guide is in the Adobe HTML5 Viewer SDK folder of the client install. Co
   * Added HLS streaming video playback as a default video delivery method for most desktop systems. Flash-based HDS video streaming is still available as an alternative playback option.
   * Added SearchManager, SearchPanel, SearchEffect, and SearchButton components to support new Search feature in eCatalog viewers.
   * Added support for devices with both mouse and touch input running on Chrome browser.
-  * Refactored Android™ version detection to support future versions of the OS.
+  * Refactored Android&trade; version detection to support future versions of the OS.
   * Add support for right-to-left orientation in eCatalog-specific SDK components.
 
 * ControlBar
@@ -224,13 +224,13 @@ The User Guide is in the Adobe HTML5 Viewer SDK folder of the client install. Co
 
 **Compatibility notes**
 
-* Android™ 4.x
+* Android&trade; 4.x
 
   * To disable the default, blue highlight the following CSS rule must be added for component:
 
       `-webkit-tap-highlight-color: rgba(0,0,0,0);`
 
-* BlackBerry®
+* BlackBerry&reg;
 
   * Video play may cease when changing bit rate streams in AVS sets.
 
@@ -240,7 +240,7 @@ The User Guide is in the Adobe HTML5 Viewer SDK folder of the client install. Co
 
 * Galaxy SIII
 
-  * Viewer sometimes fails to load into full screen.
+  * Viewer sometimes fails to load into full-screen.
   * Pageview suffers from a memory leak on device currently.
   * Double tap gesture zooms viewer and page when browser side scaling is active.
 
@@ -259,9 +259,9 @@ The User Guide is in the Adobe HTML5 Viewer SDK folder of the client install. Co
 
 * Internet Explorer
 
-  * On IE 10 and older full screen mode does not occupy entire screen, instead it just resizes application to the size of the browser window.
+  * On IE 10 and older full-screen mode does not occupy entire screen, instead it just resizes application to the size of the browser window.
   * Quirks render mode is not supported.
-  * Internet Explorer on mobile is not supported currently.
+  * Internet Explorer on mobile is not currently supported.
   * Util.js may fail to load if included asynchronously.
   * IconEffect icon blocks click events on SpinView and ZoomView components.
 
@@ -273,9 +273,9 @@ The User Guide is in the Adobe HTML5 Viewer SDK folder of the client install. Co
 
 * Touch devices
 
-  * Full screen mode does not occupy entire device screen, instead it just resizes application to the size of the browser window.
+  * full-screen mode does not occupy entire device screen, instead it just resizes application to the size of the browser window.
   * Custom cursors do not work on touch devices.
-  * Page scaling on touch devices is not supported currently. Embedding HTML5 viewers require viewport meta tag with appropriate settings.
+  * Page scaling on touch devices is not currently supported. Embedding HTML5 viewers require viewport meta tag with appropriate settings.
 
 * Xoom
 
@@ -288,7 +288,7 @@ The User Guide is in the Adobe HTML5 Viewer SDK folder of the client install. Co
   * In versions 2.7.2 and earlier, some components were added to the DOM using `insertBefore()` API. As a result, such components would put themselves in the bottom of the stacking order, no matter when component instance is created relative to other components. With the 2.8.1 release all components are using `appendChild()` API now, which means that the component stacking order would match the order of instance creation.
 
   * Using `iscommand` modifier to set image alpha channel format is not supported. Use component `FMT` parameter instead.
-  * CSS transform property is not supported currently.
+  * CSS transform property is not currently supported.
 
 * Touch devices
 
@@ -336,7 +336,7 @@ The User Guide is in the Adobe HTML5 Viewer SDK folder of the client install. Co
 
   * Video frame not updated if seek is set to 100 percent with the fallback set to auto.
   * Occasional macro blocking may occur during video seek in HLS streaming mode in Chrome, Firefox, and Internet Explorer browsers.
-  * Poster image may not show in Microsoft® Edge browser for the first time visitor.
+  * Poster image may not show in Microsoft&reg; Edge browser for the first time visitor.
   * Poster image may hide after video load in Internet Explorer 9 when progressive playback is used.
 
 ## Dynamic Media Image Serving 6.3.2 and Image Rendering 6.3.2 {#section-19a3e96f52c74757bcdea0f8a11001f2}

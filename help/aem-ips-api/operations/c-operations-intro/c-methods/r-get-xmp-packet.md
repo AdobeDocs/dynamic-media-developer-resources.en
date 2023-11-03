@@ -28,7 +28,7 @@ Retrieves an XMP Metadata packet for the specified asset.
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  companyHandle  | `xsd:string`  | Yes  |The company handle with the packet you want to return (e.g., `c|656`).  |
+|  companyHandle  | `xsd:string`  | Yes  |The company handle with the packet you want to return (for example, `c|656`).  |
 |  assetHandle  | `xsd:string`  | Yes  | The asset for which the XMP packet should be retrieved.  |
 
 **Output (getXMPPacketReturn)** 

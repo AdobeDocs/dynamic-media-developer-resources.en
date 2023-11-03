@@ -1,20 +1,20 @@
 ---
-description: The viewer supports full screen operation mode.
+description: The viewer supports full-screen operation mode.
 
 
 solution: Experience Manager
-title: Full screen support
+title: full-screen support
 
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: b4196444-10a9-4391-b3ac-d8f12deb173f
 ---
-# Full screen support{#full-screen-support}
+# full-screen support{#full-screen-support}
 
-The viewer supports full screen operation mode.
+The viewer supports full-screen operation mode.
 
-On modern desktop browsers, except Internet Explorer 10 and older, and on some touch devices, the viewer uses "native" full screen mode. This mode means that the entire device screen is occupied by the viewer content.
+On modern desktop browsers, except Internet Explorer 10 and older, and on some touch devices, the viewer uses "native" full-screen mode. This mode means that the entire device screen is occupied by the viewer content.
 
-On iOS devices and on older Internet Explorer browsers, the viewer uses "simulated" full screen mode instead. In this mode, the viewer simply resizes to take the full area of the web browser window. Also, the web browser user interface and other windows are still visible on the screen.
+On iOS devices and on older Internet Explorer browsers, the viewer uses "simulated" full-screen mode instead. In this mode, the viewer simply resizes to take the full area of the web browser window. Also, the web browser user interface and other windows are still visible on the screen.
 
-An end user enters and leaves full screen mode by pressing the Full Screen button in the viewer user interface. When "native" full screen mode is used on desktop, it is also possible to exit it by pressing **Esc**.
+An end user enters and leaves full-screen mode by pressing the full-screen button in the viewer user interface. When "native" full-screen mode is used on desktop, it is also possible to exit it by pressing **Esc**.

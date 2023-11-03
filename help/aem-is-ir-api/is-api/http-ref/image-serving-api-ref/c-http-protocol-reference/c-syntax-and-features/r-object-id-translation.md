@@ -10,7 +10,7 @@ exl-id: 7a3bd6a1-2ad4-4da2-944c-489b7d18fdc1
 
 Image Serving provides a mechanism to translate external object ids to locale-specific object (catalog) IDs. The primary application is for providing locale-specific content and content shared amongst multiple locales without the client application needing to know the locale-specific object IDs.
 
-The application can be written using only global object IDs and Image Serving will automatically substitute locale-specific images and other content where available.
+The application can be written using only global object IDs and Image Serving automatically substitutes locale-specific images and other content where available.
 
 The *`locale`* is specified in Image Serving requests with the `locale=` command.
 
@@ -42,7 +42,7 @@ Given the example above, the server first looks for the *`locale`* " `de_de`" in
 
 ## Unknown locales {#section-b2f3c83f2dc845d69b5908107b775537}
 
-In the above example, `attribute::LocaleMap` includes an empty *`locale`* which defines the default translation rule, used for unknown `locale=` values (i.e. those not explicitly listed in the translation map). If this translation map were applied to the request `/is/image/myCat/myImg?locale=ja`, it would resolve to `myCat/myImg_E`, if it exists, or otherwise `myCat/myImg`.
+In the above example, `attribute::LocaleMap` includes an empty *`locale`* which defines the default translation rule, used for unknown `locale=` values (that is, those not explicitly listed in the translation map). If this translation map were applied to the request `/is/image/myCat/myImg?locale=ja`, it would resolve to `myCat/myImg_E`, if it exists, or otherwise `myCat/myImg`.
 
 If a translation map does not specify a default translation rule, an error is returned for all requests with unknown `locale=` values.
 

@@ -8,7 +8,7 @@ exl-id: 570f8eee-a7dd-40aa-b732-03f97d2544c0
 ---
 # Viewer SDK namespace{#viewer-sdk-namespace}
 
-The viewer is built of many Viewer SDK components. Usually, the web page does not need to interact with SDK components API directly; all common needs are covered in the viewer API itself.
+The viewer is built of many Viewer SDK components. Usually, the web page does not need to interact with the SDK components API directly; all common needs are covered in the viewer API itself.
 
 However, some advanced use cases require that the web page reference an inner SDK component using the `getComponent()` viewer API and then use all the flexibility of the APIs of SDK itself.
 

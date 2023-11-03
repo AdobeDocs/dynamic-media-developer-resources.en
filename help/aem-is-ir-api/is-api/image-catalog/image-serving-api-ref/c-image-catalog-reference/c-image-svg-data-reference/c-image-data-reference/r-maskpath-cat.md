@@ -22,7 +22,7 @@ If both a main image ( `catalog::Path`) and a mask image ( `catalog::MaskPath`) 
 
 `mask=` in the request overrides `catalog::MaskPath`.
 
-`catalog::MaskPath` overrides the alpha channel in the main image ( `catalog::Path`), if present, and if the alpha channel is unassociated (i.e. not pre-multiplied). If the image alpha is pre-multiplied, `catalog::MaskPath` is ignored and the alpha channel is always used.
+`catalog::MaskPath` overrides the alpha channel in the main image ( `catalog::Path`), if present, and if the alpha channel is unassociated (that is, not pre-multiplied). If the image alpha is pre-multiplied, `catalog::MaskPath` is ignored and the alpha channel is always used.
 
 ## Default {#section-78533e35bfec469ba087cb68a35bb81b}
 

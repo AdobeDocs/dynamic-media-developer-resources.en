@@ -48,7 +48,7 @@ Note however that serving video encoded with such high-quality settings requires
 
 ## Interacting with Video360 Viewer {#section-642e66ca38cd4032992840ec6c0b0cd2}
 
-HTML5 Video360 Viewer provides a set of standard user interface controls for video playback, like play/pause button, video scrubber video time bubble, played time/total time indicator, volume control, and full screen button. All these controls are grouped into control bar in the bottom of viewer user interface.
+HTML5 Video360 Viewer provides a set of standard user interface controls for video playback, like play/pause button, video scrubber video time bubble, played time/total time indicator, volume control, and full-screen button. All these controls are grouped into control bar in the bottom of viewer user interface.
 
 On touch devices, the volume control is hidden from the user interface, because it is only possible to control the volume using the device's hardware buttons.
 
