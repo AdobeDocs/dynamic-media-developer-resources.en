@@ -6,6 +6,7 @@ product: adobe dynamic media classic
 type: Documentation
 git-repo: https://github.com/AdobeDocs/dynamic-media-developer-resources.en
 index: yes
+recommendations: noDisplay
 ---
 
 # Metadata for internal use
