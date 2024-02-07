@@ -13,11 +13,11 @@ The main class of the Flyout Viewer is FlyoutViewer. It is declared in the s7vie
 In all the following examples, `<instance>` stands for the actual name of the JavaScript viewer object that is instantiated from the `s7viewers.FlyoutViewer` class. 
 
 * [dispose](r-html5-flyout-viewer-20-javascriptapiref-dispose.md)
-* [FlyoutViewer](r-html5-flyout-viewer-20-javascriptapiref-.flyoutviewer.md)
+* [FlyoutViewer](r-html5-flyout-viewer-20-javascriptapiref-flyoutviewer.md)
 * [getComponent](r-html5-flyout-viewer-20-javascriptapiref-getcomponent.md)
 * [init](r-html5-flyout-viewer-20-javascriptapiref-init.md)
 * [setAsset](r-html5-flyout-viewer-20-javascriptapiref-setasset.md)
-* [setContainerId](r-html5-flyout-viewer-20-javascriptapiref-.setcontainerid.md)
+* [setContainerId](r-html5-flyout-viewer-20-javascriptapiref-setcontainerid.md)
 * [setHandlers](r-html5-flyout-viewer-20-javascriptapiref-sethandlers.md)
 * [setLocalizedTexts](r-html5-flyout-viewer-20-javascriptapiref-setlocalizedtexts.md)
 * [setParam](r-html5-flyout-viewer-20-javascriptapiref-setparam.md)
