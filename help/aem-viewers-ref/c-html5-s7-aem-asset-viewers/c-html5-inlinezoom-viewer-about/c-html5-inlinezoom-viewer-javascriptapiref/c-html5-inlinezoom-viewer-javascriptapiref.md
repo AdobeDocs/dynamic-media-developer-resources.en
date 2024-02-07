@@ -17,7 +17,7 @@ In all the following examples, `<instance>` stands for the actual name of the Ja
 * [getComponent](r-html5-inlinezoom-viewer-javascriptapiref-getcomponent.md)
 * [init](r-html5-inlinezoom-viewer-javascriptapiref-init.md)
 * [setAsset](r-html5-inlinezoom-viewer-javascriptapiref-setasset.md)
-* [setContainerId](r-html5-inlinezoom-viewer-javascriptapiref-.setcontainerid.md)
+* [setContainerId](r-html5-inlinezoom-viewer-javascriptapiref-setcontainerid.md)
 * [setHandlers](r-html5-inlinezoom-viewer-javascriptapiref-sethandlers.md)
 * [setLocalizedTexts](r-html5-inlinezoom-viewer-javascriptapiref-setlocalizedtexts.md)
 * [setParam](r-html5-inlinezoom-viewer-javascriptapiref-setparam.md)
