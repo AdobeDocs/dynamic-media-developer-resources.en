@@ -12,7 +12,7 @@ Response Image Format.
 
 `fmt=format[,` `[`*`pixelType`*`]`,`[`*`compression`*`]]`
 
-*`format`* &ndash; avif-alpha | avif | eps | f4m | gif-alpha | gif | jpeg | jpeg2000-alpha | jpeg2000 | jpegxr-alpha | jpegxr | jpg | m3u8 | pdf | pjpeg | png-alpha | png | png8-alpha | png8 | swf-alpha | swf | swf3-alpha | swf3 | tif-alpha | tif | web-alpha | webp
+*`format`* &ndash; avif-alpha | avif | eps | f4m | gif-alpha | gif | heic | jpeg | jpeg2000-alpha | jpeg2000 | jpegxr-alpha | jpegxr | jpg | m3u8 | pdf | pjpeg | png-alpha | png | png8-alpha | png8 | swf-alpha | swf | swf3-alpha | swf3 | tif-alpha | tif | web-alpha | webp
 
 |*`format`*| Description |
 |---|---|
@@ -22,6 +22,7 @@ Response Image Format.
 | `f4m` | Flash Streaming Server manifest format. |
 | `gif-alpha` | GIF with 2 to 255 colors plus key-color transparency. |
 | `gif` | GIF with 2 to 256 colors. |
+| `heic` | Lossless HEIC. This format is downloaded by default from the browser if it is not supported. |
 | `jpeg` | Lossy JPEG. |
 | `jpeg2000-alpha` | Lossy and lossless JPEG 2000 with alpha channel. |
 | `jpeg2000` | Lossy and lossless JPEG 2000. |
@@ -51,7 +52,7 @@ Response Image Format.
 | `gray` | Return gray-scale image data. |
 | `rgb` | Return RGB image data. |
 
-*`compression`* &ndash; none | lzw | zip | jpeg | lossy | lossless
+*`compression`* &ndash; jpeg | lossy | lossless | lzw | none | zip | 
 | *`compression`* | Description | 
 |---|---|
 | `jpeg` | JPEG compression (lossy). |
