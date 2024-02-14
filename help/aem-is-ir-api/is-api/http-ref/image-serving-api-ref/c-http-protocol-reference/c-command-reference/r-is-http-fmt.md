@@ -56,8 +56,8 @@ Response Image Format.
 | *`compression`* | Description | 
 |---|---|
 | `jpeg` | JPEG compression (lossy). |
-| `lossy` | WebP, JPEG 2000, and JPEG XR compression (lossy). |
-| `lossless` | WebP, JPEG 2000, and JPEG XR compression (lossless). |
+| `lossy` | JPEG 2000, and JPEG XR compression (lossy), and WebP. |
+| `lossless` | HEIC, JPEG 2000, and JPEG XR compression (lossless), and WebP. |
 | `lzw` | LZW (Lempel-Ziv-Welch) compression (lossless). |
 | `none` | Uncompressed. |
 | `zip` | "Deflate" compression (lossless). |
