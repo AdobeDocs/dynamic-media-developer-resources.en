@@ -732,7 +732,7 @@ user-guide-description: Customize Dynamic Media viewers for use on desktop and t
     + [Support for Adobe Analytics tracking](c-html5-aem-asset-viewers/c-html5-aem-carousel/c-html5-aem-carousel-analytics.md)
     + [Assistive technology support](c-html5-aem-asset-viewers/c-html5-aem-carousel/c-html5-aem-carousel-assistive.md)
     + [Localization of user interface elements](c-html5-aem-asset-viewers/c-html5-aem-carousel/c-html5-aem-carousel-localization.md)
-    + [Hotspot and Image maps support](c-html5-aem-asset-viewers/c-html5-aem-carousel/c-html5-aem-carousel-hotspot--image-support.md)
+    + [Hotspot and Image maps support](c-html5-aem-asset-viewers/c-html5-aem-carousel/c-html5-aem-carousel-hotspot-image-support.md)
     + [Preload image](c-html5-aem-asset-viewers/c-html5-aem-carousel/c-html5-aem-carousel-preload-image.md)
     + [Viewer SDK namespace](c-html5-aem-asset-viewers/c-html5-aem-carousel/c-html5-aem-carousel-namespace.md)
   + Interactive Image {#interactive-images}
