@@ -87,18 +87,60 @@ The following table lists the valid combinations of *`format`*and *`pixelType`*,
  </thead>
  <tbody> 
   <tr valign="top"> 
+   <td> <p> avif, avif-alpha </p> </td> 
+   <td> <p>rgb</p> </td> 
+   <td> <p> <span class="codeph"> &lt;image/avif&gt; </span> </p> </td> 
+   <td> <p>No </p> </td> 
+   <td> <p> <span class="codeph"> <span class="varname"> compression </span> </span> ( <span class="codeph"> lossy </span>, <span class="codeph"> lossless </span>) </p> <p> <span class="codeph"> qlt= </span> is ignored for <span class="codeph"> lossless </span>. </p> <p>Because there is no concept of chrominance downsampling with the WebP format, if you use a second value with <span class="codeph"> qlt </span> (for example, <span class="codeph"> qlt=80,1 </span>) the second value ( <span class="codeph"> 1 </span>) is ignored. </p> </td> 
+  </tr>
+  <tr valign="top"> 
+   <td colname="col1"> <p> eps </p> </td> 
+   <td colname="col2"> <p>rgb, gray, cmyk </p> </td> 
+   <td colname="col3"> <p> <span class="codeph"> &lt;image/eps&gt; </span> </p> </td> 
+   <td colname="col4"> <p>Yes </p> </td> 
+   <td colname="col5"> <p> <span class="codeph"> pathEmbed= </span> </p> </td> 
+  </tr>
+  <tr valign="top"> 
+   <td colname="col1"> <p> gif, gif-alpha </p> </td> 
+   <td colname="col2"> <p>rgb, gray </p> <p>Data is converted to palette after conversion to gray or rgb. </p> </td> 
+   <td colname="col3"> <p> <span class="codeph"> &lt;image/gif&gt; </span> </p> </td> 
+   <td colname="col4"> <p>No </p> </td> 
+   <td colname="col5"> <p> <span class="codeph"> quantize= </span> </p> </td> 
+  </tr>
+  <tr valign="top"> 
+   <td colname="col1"> <p> heic </p> </td> 
+   <td colname="col2"> <p>rgb </p> <p> </p> </td> 
+   <td colname="col3"> <p> <span class="codeph"> &lt;image/heic&gt; </span> </p> </td> 
+   <td colname="col4"> <p>No </p> </td> 
+   <td colname="col5"> <p> </p> </td> 
+  </tr> 
+  <tr valign="top"> 
+   <td> <p>jpeg2000, jpeg2000-alpha </p> </td> 
+   <td> <p>rgb, gray </p> </td> 
+   <td> <p> <span class="codeph"> &lt;image/jp2&gt; </span> </p> </td> 
+   <td> <p>No </p> </td> 
+   <td> <p> <span class="codeph"> <span class="varname"> compression </span> </span> ( <span class="codeph"> lossy </span>, <span class="codeph"> lossless </span>) </p> <p> <span class="codeph"> qlt= </span> is ignored for <span class="codeph"> lossless </span>. </p> <p>Because there is no concept of chrominance downsampling with the WebP format, if you use a second value with <span class="codeph"> qlt </span> (for example, <span class="codeph"> qlt=80,1 </span>) the second value ( <span class="codeph"> 1 </span>) is ignored. </p> </td> 
+  </tr>
+  <tr valign="top"> 
    <td colname="col1"> <p> jpeg, jpg, pjpeg </p> </td> 
    <td colname="col2"> <p>rgb, gray, cmyk </p> </td> 
    <td colname="col3"> <p> <span class="codeph"> &lt;image/jpeg&gt; </span> </p> </td> 
    <td colname="col4"> <p>Yes </p> </td> 
    <td colname="col5"> <p> <span class="codeph"> pathEmbed= </span>, <span class="codeph"> pscan= </span>, <span class="codeph"> qlt= </span>, <span class="codeph"> xmpEmbed= </span> </p> <p>The <span class="codeph"> pscan= </span> parameter applies only to pjpeg format. </p> </td> 
-  </tr> 
+  </tr>
   <tr valign="top"> 
-   <td colname="col1"> <p> png, png-alpha </p> </td> 
-   <td colname="col2"> <p>rgb, gray </p> </td> 
-   <td colname="col3"> <p> <span class="codeph"> &lt;image/png&gt; </span> </p> </td> 
+   <td> <p>jpegxr, jpegxr-alpha </p> </td> 
+   <td> <p>rgb </p> </td> 
+   <td> <p> <span class="codeph"> &lt;image/vnd.ms-photo&gt; </span> </p> </td> 
+   <td> <p>No </p> </td> 
+   <td> <p> <span class="codeph"> <span class="varname"> compression </span> </span> ( <span class="codeph"> lossy </span>, <span class="codeph"> lossless </span>) </p> <p> <span class="codeph"> qlt= </span> is ignored for <span class="codeph"> lossless </span>. </p> <p>Because there is no concept of chrominance downsampling with the WebP format, if you use a second value with <span class="codeph"> qlt </span> (for example, <span class="codeph"> qlt=80,1 </span>) the second value ( <span class="codeph"> 1 </span>) is ignored. </p> </td> 
+  </tr>
+  <tr valign="top"> 
+   <td colname="col1"> <p> pdf </p> </td> 
+   <td colname="col2"> <p>rgb, gray, cmyk </p> </td> 
+   <td colname="col3"> <p> <span class="codeph"> &lt;application/pdf&gt; </span> </p> </td> 
    <td colname="col4"> <p>Yes </p> </td> 
-   <td colname="col5"> <p> </p> </td> 
+   <td colname="col5"> <span class="codeph"> <span class="varname"> compression </span> </span> <p> ( <span class="codeph"> none|zip|jpeg </span>), <span class="codeph"> qlt= </span> </p> <p> <span class="codeph"> qlt= </span> is ignored unless <span class="codeph"> <span class="varname"> compression </span> </span> is set to <span class="codeph"> jpeg </span>. </p> </td> 
   </tr> 
   <tr valign="top"> 
    <td colname="col1"> <p>png8, png8-alpha </p> </td> 
@@ -108,6 +150,20 @@ The following table lists the valid combinations of *`format`*and *`pixelType`*,
    <td colname="col5"> <p> </p> </td> 
   </tr> 
   <tr valign="top"> 
+   <td colname="col1"> <p> png, png-alpha </p> </td> 
+   <td colname="col2"> <p>rgb, gray </p> </td> 
+   <td colname="col3"> <p> <span class="codeph"> &lt;image/png&gt; </span> </p> </td> 
+   <td colname="col4"> <p>Yes </p> </td> 
+   <td colname="col5"> <p> </p> </td> 
+  </tr>
+  <tr valign="top"> 
+   <td colname="col1"> <p> swf,swf3, swf-alpha, swf-alpha3 </p> </td> 
+   <td colname="col2"> <p>rgb, gray </p> </td> 
+   <td colname="col3"> <p> <span class="codeph"> &lt;application/x-shockwave-flash&gt; </span> </p> </td> 
+   <td colname="col4"> <p>No </p> <p> <p>Note:  The Adobe Flash Player ignores embedded ICC profiles. </p> </p> </td> 
+   <td colname="col5"> <p> <span class="codeph"> qlt= </span>, <span class="codeph"> attribute::TrustedDomains </span> </p> </td> 
+  </tr>
+  <tr valign="top"> 
    <td colname="col1"> <p> tif, tif-alpha </p> </td> 
    <td colname="col2"> <p>rgb, gray, cmyk </p> </td> 
    <td colname="col3"> <p> <span class="codeph"> &lt;image/tiff&gt; </span> </p> </td> 
@@ -115,60 +171,11 @@ The following table lists the valid combinations of *`format`*and *`pixelType`*,
    <td colname="col5"> <span class="codeph"> <span class="varname"> compression </span> </span> <p> ( <span class="codeph"> none|lzw|zip|jpeg </span>) </p> <p>'tiff' only; 'tiff-alpha' does not support jpeg compression. </p> <p> <span class="codeph"> qlt= </span> </p> <p> <span class="codeph"> qlt= </span> is ignored unless <span class="varname"> compression </span> is set to <span class="codeph"> jpeg </span>. </p> <p>, pathEmbed=, xmpEmbed= </p> </td> 
   </tr> 
   <tr valign="top"> 
-   <td colname="col1"> <p> swf,swf3, swf-alpha, swf-alpha3 </p> </td> 
-   <td colname="col2"> <p>rgb, gray </p> </td> 
-   <td colname="col3"> <p> <span class="codeph"> &lt;application/x-shockwave-flash&gt; </span> </p> </td> 
-   <td colname="col4"> <p>No </p> <p> <p>Note:  The Adobe Flash Player ignores embedded ICC profiles. </p> </p> </td> 
-   <td colname="col5"> <p> <span class="codeph"> qlt= </span>, <span class="codeph"> attribute::TrustedDomains </span> </p> </td> 
-  </tr> 
-  <tr valign="top"> 
-   <td colname="col1"> <p> pdf </p> </td> 
-   <td colname="col2"> <p>rgb, gray, cmyk </p> </td> 
-   <td colname="col3"> <p> <span class="codeph"> &lt;application/pdf&gt; </span> </p> </td> 
-   <td colname="col4"> <p>Yes </p> </td> 
-   <td colname="col5"> <span class="codeph"> <span class="varname"> compression </span> </span> <p> ( <span class="codeph"> none|zip|jpeg </span>), <span class="codeph"> qlt= </span> </p> <p> <span class="codeph"> qlt= </span> is ignored unless <span class="codeph"> <span class="varname"> compression </span> </span> is set to <span class="codeph"> jpeg </span>. </p> </td> 
-  </tr> 
-  <tr valign="top"> 
-   <td colname="col1"> <p> eps </p> </td> 
-   <td colname="col2"> <p>rgb, gray, cmyk </p> </td> 
-   <td colname="col3"> <p> <span class="codeph"> &lt;image/eps&gt; </span> </p> </td> 
-   <td colname="col4"> <p>Yes </p> </td> 
-   <td colname="col5"> <p> <span class="codeph"> pathEmbed= </span> </p> </td> 
-  </tr> 
-  <tr valign="top"> 
-   <td colname="col1"> <p> gif, gif-alpha </p> </td> 
-   <td colname="col2"> <p>rgb, gray </p> <p>Data is converted to palette after conversion to gray or rgb. </p> </td> 
-   <td colname="col3"> <p> <span class="codeph"> &lt;image/gif&gt; </span> </p> </td> 
-   <td colname="col4"> <p>No </p> </td> 
-   <td colname="col5"> <p> <span class="codeph"> quantize= </span> </p> </td> 
-  </tr> 
-  <tr valign="top"> 
    <td> <p>webp, webp-alpha </p> </td> 
    <td> <p>rgb </p> </td> 
    <td> <p> <span class="codeph"> &lt;image/webp&gt; </span> </p> </td> 
    <td> <p>No </p> </td> 
    <td> <p> <span class="codeph"> <span class="varname"> compression </span> </span> ( <span class="codeph"> lossy </span>, <span class="codeph"> lossless </span>) </p> <p> <span class="codeph"> qlt= </span> is ignored for <span class="codeph"> lossless </span>. </p> <p>Because there is no concept of chrominance downsampling with the WebP format, if you use a second value with <span class="codeph"> qlt </span> (for example, <span class="codeph"> qlt=80,1 </span>) the second value ( <span class="codeph"> 1 </span>) is ignored. </p> </td> 
-  </tr> 
-  <tr valign="top"> 
-   <td> <p>jpeg2000, jpeg2000-alpha </p> </td> 
-   <td> <p>rgb, gray </p> </td> 
-   <td> <p> <span class="codeph"> &lt;image/jp2&gt; </span> </p> </td> 
-   <td> <p>No </p> </td> 
-   <td> <p>Same as above. </p> </td> 
-  </tr> 
-  <tr valign="top"> 
-   <td> <p>jpegxr, jpegxr-alpha </p> </td> 
-   <td> <p>rgb </p> </td> 
-   <td> <p> <span class="codeph"> &lt;image/vnd.ms-photo&gt; </span> </p> </td> 
-   <td> <p>No </p> </td> 
-   <td> <p>Same as above. </p> </td> 
-  </tr>
-  <tr valign="top"> 
-   <td> <p> avif, avif-alpha </p> </td> 
-   <td> <p>rgb</p> </td> 
-   <td> <p> <span class="codeph"> &lt;image/avif&gt; </span> </p> </td> 
-   <td> <p>No </p> </td> 
-   <td> <p>Same as above. </p> </td> 
   </tr> 
  </tbody> 
 </table>
