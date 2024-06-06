@@ -515,7 +515,7 @@ Example - To set up a dialog box footer with 64 x 34 Cancel button and a 96 x 34
 }
 ```
 
-The main dialog area (between the header and the footer) contains dialog content. In all cases, the component manages the width of this area, it is not possible to set it in CSS. The main dialog area is controlled with the following CSS class selector:
+The main dialog area, between the header and the footer, contains dialog content. In all cases, the component manages the width of this area, it is not possible to set it in CSS. The main dialog area is controlled with the following CSS class selector:
 
 ```
 .s7ecatalogsearchviewer .s7printdialog .s7dialogviewarea

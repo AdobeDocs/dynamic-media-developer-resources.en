@@ -520,7 +520,7 @@ The button tool tip can be localized. See [Localization of user interface elemen
 
 ```
 
-The main dialog area (between the header and the footer) contains scrollable dialog content and scroll panel on the right. In all cases, the component manages the width of this area, it is not possible to set it in CSS. Main dialog area is controlled with the following CSS class selector:
+The main dialog area, between the header and the footer, contains scrollable dialog content and scroll panel on the right. In all cases, the component manages the width of this area, it is not possible to set it in CSS. Main dialog area is controlled with the following CSS class selector:
 
 ```
 .s7video360viewer .s7embeddialog .s7dialogviewarea

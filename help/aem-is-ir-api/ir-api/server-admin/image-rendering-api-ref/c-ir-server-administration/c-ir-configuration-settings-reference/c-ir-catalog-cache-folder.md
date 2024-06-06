@@ -10,4 +10,4 @@ exl-id: 060c8b49-f9d9-498a-a07a-5ecd61af2677
 
 The root folder for the catalog system cache.
 
-Can either be an absolute path or a path relative to [!DNL *[!DNL install_folder]*]. Defaults is [!DNL ./cache], which corresponds to [!DNL *[!DNL install_folder]*/cache].
+Can either be an absolute path or a path relative to [!DNL *[!DNL install_folder]*]. Default is [!DNL ./cache], which corresponds to [!DNL *[!DNL install_folder]*/cache].

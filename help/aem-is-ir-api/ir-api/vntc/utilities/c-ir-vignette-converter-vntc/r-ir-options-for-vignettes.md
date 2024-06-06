@@ -33,7 +33,7 @@ The following options control the processing of vignette files. They are ignored
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p><span class="codeph"> -imagemap</span> </p></td> 
-  <td class="stentry"> <p>Enable extraction of the image map file from the vignette. The map data is written to a HTML file containing only a <span class="codeph"> &lt;map&gt;</span> element. The output file is named the same as the output image file, but with an <span class="filepath"> .htm</span> suffix. A warning message is generated and no file is created if the command is specified but no map data is present in the vignette. </p></td> 
+  <td class="stentry"> <p>Enable extraction of the image map file from the vignette. The map data is written to an HTML file that contains only a <span class="codeph"> &lt;map&gt;</span> element. The output file is named the same as the output image file, but with an <span class="filepath"> .htm</span> suffix. A warning message is generated and no file is created if the command is specified but no map data is present in the vignette. </p></td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p><span class="codeph"> -profile</span> </p></td> 

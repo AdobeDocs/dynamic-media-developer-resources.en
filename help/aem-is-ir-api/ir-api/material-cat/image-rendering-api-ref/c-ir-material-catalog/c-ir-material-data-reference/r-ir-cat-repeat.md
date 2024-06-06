@@ -35,27 +35,27 @@ The following values are permitted for repeatable texture materials:
  </tr> 
  <tr class="- topic/strow strow"> 
   <td class="- topic/stentry stentry"> <p>4 </p></td> 
-  <td class="- topic/stentry stentry"> <p>Quarter-drop wallpaper hang. </p></td> 
+  <td class="- topic/stentry stentry"> <p>Quarter-drop wallpaper hanging. </p></td> 
  </tr> 
  <tr class="- topic/strow strow"> 
   <td class="- topic/stentry stentry"> <p>5 </p></td> 
-  <td class="- topic/stentry stentry"> <p>Third-drop wallpaper hang. </p></td> 
+  <td class="- topic/stentry stentry"> <p>Third-drop wallpaper hanging. </p></td> 
  </tr> 
  <tr class="- topic/strow strow"> 
   <td class="- topic/stentry stentry"> <p>6 </p></td> 
-  <td class="- topic/stentry stentry"> <p>Half-drop wallpaper hang. </p></td> 
+  <td class="- topic/stentry stentry"> <p>Half-drop wallpaper hanging. </p></td> 
  </tr> 
  <tr class="- topic/strow strow"> 
   <td class="- topic/stentry stentry"> <p>7 </p></td> 
-  <td class="- topic/stentry stentry"> <p>Fifth-drop wallpaper hang. </p></td> 
+  <td class="- topic/stentry stentry"> <p>Fifth-drop wallpaper hanging. </p></td> 
  </tr> 
  <tr class="- topic/strow strow"> 
   <td class="- topic/stentry stentry"> <p>8 </p></td> 
-  <td class="- topic/stentry stentry"> <p>Reversing wallpaper hang. </p></td> 
+  <td class="- topic/stentry stentry"> <p>Reversing wallpaper hanging. </p></td> 
  </tr> 
  <tr class="- topic/strow strow"> 
   <td class="- topic/stentry stentry"> <p>9 </p></td> 
-  <td class="- topic/stentry stentry"> <p>Random wallpaper hang. </p></td> 
+  <td class="- topic/stentry stentry"> <p>Random wallpaper hanging. </p></td> 
  </tr> 
  <tr class="- topic/strow strow"> 
   <td class="- topic/stentry stentry"> <p>10 </p></td> 

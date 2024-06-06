@@ -19,7 +19,7 @@ Common rules and definitions are as follows:
 * Self-sizing text layers are layers which do not include a `size=` command or for which `size=0,0` is specified. 
 
 * The layer size of self-sizing text layers is determined by the actual text rendered. 
-* The default layer anchor of self-sizing text layers generally is *not* at the center of the layer (see below). 
+* The default layer anchor of self-sizing text layers is generally *not* at the center of the layer (see below). 
 * If `anchor=` or `origin=` is specified for self-sizing text layers, the position of the text layer is influenced by the text content. 
 
 * When `size=` is specified, parts of character glyphs may be rendered outside the layer rectangle. 
