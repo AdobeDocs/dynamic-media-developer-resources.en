@@ -1,16 +1,16 @@
 ---
-title: `name`
+title: name
 description: Name of command macro.
 solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: b5aa907b-aa95-4573-bc05-65d84c173f25
 ---
-# `name`{#name}
+# name{#name}
 
 Name of command macro.
 
- `&$ *name*$`
+ `&$ *`name`*$`
 
 <table id="simpletable_A07C4682275F461BA1F3B7752CE3FAE1"> 
  <tr class="strow"> 
