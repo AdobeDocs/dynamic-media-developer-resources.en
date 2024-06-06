@@ -1,7 +1,7 @@
 ---
+title: name
 description: Name of command macro.
 solution: Experience Manager
-title: name
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: b5aa907b-aa95-4573-bc05-65d84c173f25
@@ -19,4 +19,4 @@ Name of command macro.
  </tr> 
 </table>
 
-*`name`* is not case-sensitive and may consist of any combination of letters, numbers , '-', '_', and '.' characters.
+The command *`name`* is not case-sensitive and may consist of any combination of letters, numbers, `-` (hyphen), `_` (underscore), and `.` (period) characters.

@@ -31,27 +31,27 @@ Texture repeat mode. Specifies the repeat mode for repeatable texture materials.
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p>4 </p> </td> 
-  <td class="stentry"> <p>Quarter-drop wallpaper hang. </p> </td> 
+  <td class="stentry"> <p>Quarter-drop wallpaper hanging. </p> </td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p>5 </p> </td> 
-  <td class="stentry"> <p>Third-drop wallpaper hang. </p> </td> 
+  <td class="stentry"> <p>Third-drop wallpaper hanging. </p> </td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p>6 </p> </td> 
-  <td class="stentry"> <p>Half-drop wallpaper hang. </p> </td> 
+  <td class="stentry"> <p>Half-drop wallpaper hanging. </p> </td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p>7 </p> </td> 
-  <td class="stentry"> <p>Fifth-drop wallpaper hang. </p> </td> 
+  <td class="stentry"> <p>Fifth-drop wallpaper hanging. </p> </td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p>8 </p> </td> 
-  <td class="stentry"> <p>Reverse wallpaper hang. </p> </td> 
+  <td class="stentry"> <p>Reverse wallpaper hanging. </p> </td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p>9 </p> </td> 
-  <td class="stentry"> <p>Random wallpaper hang. </p> </td> 
+  <td class="stentry"> <p>Random wallpaper hanging. </p> </td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p>10 </p> </td> 
@@ -95,7 +95,7 @@ Texture repeat mode. Specifies the repeat mode for repeatable texture materials.
  </tr> 
 </table>
 
-The random quilting modes (14…18) can be used to synthesize textures from images which are not readily repeatable; the algorithm creates fully random or partially random textures based on the original image.
+The random quilting modes (14…18) can be used to synthesize textures from images that are not readily repeatable; the algorithm creates fully random or partially random textures based on the original image.
 
 ## Properties {#section-262bf540930d4890b678ea00cefe1909}
 

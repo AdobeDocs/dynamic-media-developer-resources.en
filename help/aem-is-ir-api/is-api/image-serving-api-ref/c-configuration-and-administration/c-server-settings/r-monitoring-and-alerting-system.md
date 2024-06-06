@@ -36,7 +36,7 @@ The monitoring system accumulates alert conditions during the alert interval and
 
 ## AS::monitorAlertGenerator.heapSpaceResetInterval - Heap Space Alert Interval {#section-fd5a2bf04ed44fdcaef20f77084151a8}
 
-Minimum time after an heap space alert before another one is emitted. Interval time in msec. Integer value, 0 or larger.
+Minimum time after a heap space alert before another one is emitted. Interval time in msec. Integer value, 0 or larger.
 
 ## AS::monitorAlertGenerator.minTrafficForAlerts - Minimum Traffic to Enable Alerting {#section-8b4db2d6f96642309ca35c49eb3ab230}
 

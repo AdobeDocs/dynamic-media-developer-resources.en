@@ -515,7 +515,7 @@ Example - to set up a dialog box footer with 64 x 34 Cancel button and an 82 x 3
 }
 ```
 
-The main dialog area (between the header and the footer) contains scrollable dialog content and scroll panel on the right. In all cases, the component manages the width of this area, it is not possible to set it in CSS. Main dialog area is controlled with the following CSS class selector:
+The main dialog area, between the header and the footer, contains scrollable dialog content and scroll panel on the right. In all cases, the component manages the width of this area, it is not possible to set it in CSS. Main dialog area is controlled with the following CSS class selector:
 
 ```
 .s7videoviewer .s7emaildialog .s7dialogviewarea

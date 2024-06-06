@@ -1,5 +1,5 @@
 ---
-description: Image validation utility. This command-line utility verifies image files to make sure they are valid and can be read without difficulty by Image Serving.
+description: Image validation utility. This command-line utility verifies image files to make sure that they are valid and Image Serving can read them without difficulty.
 solution: Experience Manager
 title: validate
 feature: Dynamic Media Classic,SDK/API
@@ -8,9 +8,9 @@ exl-id: 78d50fe9-95c6-4335-98d8-3322839ee02d
 ---
 # validate{#validate}
 
-Image validation utility. This command-line utility verifies image files to make sure they are valid and can be read without difficulty by Image Serving.
+Image validation utility. This command-line utility verifies image files to make sure they are valid and can be read by Image Serving without difficulty.
 
-All non-PTIFF image files must pass validate before the file is made available to Image Serving as a source image. PTIFF images should be validated after potentially unreliable copy operations.
+All non-PTIFF image files must pass validation before the file is made available to Image Serving as a source image. PTIFF images should be validated after potentially unreliable copy operations.
 
 ## Usage {#usage}
 
@@ -48,7 +48,7 @@ All non-PTIFF image files must pass validate before the file is made available t
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p> <span class="codeph"> -validatecolorprofile </span> </p> </td> 
-  <td class="stentry"> <p>Verifies the embedded color profile for validity. By default, the profile body is not checked. </p> </td> 
+  <td class="stentry"> <p>Verifies the embedded color profile for validity. By default, the body profile is not checked. </p> </td> 
  </tr> 
  <tr class="strow"> 
   <td class="stentry"> <p> <span class="codeph"> -reject16BitPerComponent </span> </p> </td> 

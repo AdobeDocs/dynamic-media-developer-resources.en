@@ -13,7 +13,7 @@ This release—Image Serving 6.6.1 and Image Rendering 6.6.1—supersedes Image 
 ## Known issues and behavior changes {#section-9dbc05206187477f926a78e8108a34e1}
 
 * Use of the question mark character in asset IDs is no longer supported, even if the character is URL encoded. 
-* Dynamic banner `/xfl/flash/` requests are no longer supported and now return a http 404 error code. 
+* Dynamic banner `/xfl/flash/` requests are no longer supported and now return an HTTP 404 error code. 
 * W2P `/is/agm/` requests are no longer supported. 
 * Some error messages no longer render to the browser. As such, you need to review the trace log to debug.
 
