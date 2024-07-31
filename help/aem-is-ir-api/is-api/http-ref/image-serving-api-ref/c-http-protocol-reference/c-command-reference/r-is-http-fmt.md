@@ -46,13 +46,15 @@ Response Image Format.
 | `webp` | Lossy and lossless WebP. |
 
 *`pixelType`* &ndash; rgb | gray | cmyk
+
 | *`pixelType`* | Description | 
 |---|---|
 | `cmyk` | Return CMYK image data. |
 | `gray` | Return gray-scale image data. |
 | `rgb` | Return RGB image data. |
 
-*`compression`* &ndash; jpeg | lossy | lossless | lzw | none | zip | 
+*`compression`* &ndash; jpeg | lossy | lossless | lzw | none | zip
+
 | *`compression`* | Description | 
 |---|---|
 | `jpeg` | JPEG compression (lossy). |
