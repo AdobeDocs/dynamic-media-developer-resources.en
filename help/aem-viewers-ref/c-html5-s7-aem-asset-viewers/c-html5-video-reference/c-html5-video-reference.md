@@ -21,7 +21,7 @@ Viewer type 506.
 
 ## Demo URL {#section-e1c3106f5b3e445d9b95be337c2f94e2}
 
-[https://s7d9.scene7.com/s7viewers/html5/VideoViewer.html?asset=Scene7SharedAssets/Glacier_Climber_MP4](https://s7d9.scene7.com/s7viewers/html5/VideoViewer.html?asset=Scene7SharedAssets/Glacier_Climber_MP4)
+[https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html)
 
 ## Using Video Viewer {#section-f21ac23d3f6449ad9765588d69584772}
 
@@ -61,7 +61,7 @@ Sharing tools are not available in full-screen mode because of web browser secur
 
 Different web pages have different needs for viewer behavior. Sometimes a web page provides a link that, when selected opens the viewer in a separate browser window. In other cases, it is necessary to embed the viewer directly on the hosting page. In the latter case, the web page may have a static page layout, or use responsive design that displays differently on different devices or for different browser window sizes. To accommodate these needs, the viewer supports three primary operation modes: popup, fixed size embedding, and responsive design embedding.
 
-Embedding multiple videos on the same page is supported on tablet and mobile devices. Usually, only one video can be played at a time. When a user starts playing one video, and then tries to play another video, the first video is automatically paused. The video that was auto-paused remembers its current playback time, so the user can always get back to it and resume play. The only exception this rule is in Chrome browser on Android™ 4.x devices, which can play videos in parallel.
+Embedding multiple videos on the same page is supported on tablet and mobile devices. Usually, only one video can be played at a time. When a user starts playing one video, and then tries to play another video, the first video is automatically paused. The video that was auto-paused remembers its current playback time, so the user can always get back to it and resume play. The only exception this rule is in Chrome browser on Android&trade; 4.x devices, which can play videos in parallel.
 
 **About pop-up mode**
 

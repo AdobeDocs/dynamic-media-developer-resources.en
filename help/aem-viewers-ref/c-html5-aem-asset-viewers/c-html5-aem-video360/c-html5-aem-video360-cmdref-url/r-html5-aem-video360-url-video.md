@@ -29,8 +29,10 @@ Required. (Unless `asset` parameter is used. See [External Video Support](../../
 
 None.
 
+<!--
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
 ```
 video=https://s7d9.scene7.com/is/content/Viewers/space_station_360-AVS
 ```
+-->

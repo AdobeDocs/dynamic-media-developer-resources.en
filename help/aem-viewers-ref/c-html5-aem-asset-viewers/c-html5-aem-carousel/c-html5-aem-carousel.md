@@ -18,7 +18,11 @@ Viewer type is 511.
 
 ## Demo URL {#section-c0ad383db6a444979dc7eeb1ec4cf54d}
 
+[https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html)
+
+<!--
 [https://experienceleague.adobe.com/tools/dynamic-media-demo/viewers-ref/carousel/CarouselViewerDemo.html](https://experienceleague.adobe.com/tools/dynamic-media-demo/viewers-ref/carousel/CarouselViewerDemo.html)
+-->
 
 ## System Requirements {#section-b7270cc4290043399681dc504f043609}
 
@@ -60,11 +64,13 @@ It is recommended that you use an out-of-the-box HTML page for pop-up operation 
 
 You can achieve visual customization by applying custom CSS.
 
+<!--
 The following is an example of HTML code that opens the viewer in a new window:
 
 ```html {.line-numbers}
 <a href="https://demos-pub.assetsadobe.com/etc/dam/viewers/s7viewers/html5/CarouselViewer.html?asset=/content/dam/dm-public-facing-live-demo-page/04_shoppable_carousel/05_shoppable_banner&serverurl=https://adobedemo62-h.assetsadobe.com/is/image" target="_blank">Open popup viewer</a>
 ```
+-->
 
 **About fixed size embedding mode and responsive design embedding mode**
 
@@ -155,6 +161,7 @@ You add the viewer to a web page by doing the following:
 
    At the same time, the container element should not necessarily be part of the web page layout yet. For example, it may be hidden using `display:none` style assigned to it. In this case, the viewer delays its initialization process until the moment when the web page brings the container element back to the layout. When this functionality occurs, the viewer load automatically resumes.
 
+
    The following is an example of creating a viewer instance, passing minimum necessary configuration options to the constructor and calling the `init()` method. The example assumes `carouselViewer` is the viewer instance; `s7viewer` is the name of placeholder `DIV`; `https://adobedemo62-h.assetsadobe.com/is/image` is the Image Serving URL, and `/content/dam/dm-public-facing-live-demo-page/04_shoppable_carousel/05_shoppable_banner` is the asset:
 
    ```javascript {.line-numbers}
@@ -168,6 +175,7 @@ You add the viewer to a web page by doing the following:
    }).init(); 
    </script>
    ```
+   
 
    The following code is a complete example of a trivial web page that embeds the Carousel Viewer with a fixed size:
 
@@ -200,7 +208,9 @@ You add the viewer to a web page by doing the following:
 
 **Responsive design embedding with unrestricted height**
 
-With responsive design embedding, the web page normally has some kind of flexible layout in place that dictates the runtime size of the viewer's container `DIV`. For the following example, assume that the web page allows the viewer's container `DIV` to take 40% of the web browser window size. And, its height is left unrestricted. The web page HTML code would look like the following:
+With responsive design embedding, the web page normally has some kind of flexible layout in place that dictates the runtime size of the viewer's container `DIV`. 
+
+For the following example, assume that the web page allows the viewer's container `DIV` to take 40% of the web browser window size. And, its height is left unrestricted. The web page HTML code would look like the following:
 
 ```html {.line-numbers}
 <!DOCTYPE html> 
@@ -261,6 +271,7 @@ The following examples page illustrates more real-life uses of responsive design
 **Flexible size Embedding with Width and Height Defined**
 
 In flexible-size embedding with width and height defined, the web page styling is different. It provides both sizes to the `"holder"` DIV and center it in the browser window. Also, the web page sets the size of the `HTML` and `BODY` element to 100 percent.
+
 
 ```html {.line-numbers}
 <!DOCTYPE html> 
@@ -324,9 +335,11 @@ var carouselViewer = new s7viewers.CarouselViewer({
 </html>
 ```
 
+
 **Embedding Using Setter-based API**
 
 Instead of using JSON-based initialization, it is possible to use setter-based API and no-args constructor. Using this API constructor does not take any parameters and configuration parameters are specified using `setContainerId()`, `setParam()`, and `setAsset()` API methods with separate JavaScript calls.
+
 
 The following example illustrates using fixed size embedding with the setter-based API:
 
@@ -354,3 +367,4 @@ carouselViewer.init();
 </body> 
 </html>
 ```
+

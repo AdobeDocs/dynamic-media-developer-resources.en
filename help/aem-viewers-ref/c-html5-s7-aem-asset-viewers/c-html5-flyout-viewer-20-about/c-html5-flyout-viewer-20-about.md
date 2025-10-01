@@ -21,7 +21,7 @@ See [System requirements and prerequisites](../../c-system-requirements-and-prer
 
 ## Demo URL {#section-e1c3106f5b3e445d9b95be337c2f94e2}
 
-[https://s7d9.scene7.com/s7viewers/html5/FlyoutViewer.html?asset=Scene7SharedAssets/ImageSet-Views-Sample](https://s7d9.scene7.com/s7viewers/html5/FlyoutViewer.html?asset=Scene7SharedAssets/ImageSet-Views-Sample)
+[https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html)
 
 ## Using Flyout Viewer {#section-f21ac23d3f6449ad9765588d69584772}
 
@@ -116,7 +116,7 @@ You add the viewer to a web page by doing the following:
 
    The placeholder DIV is a positioned element, meaning that the `position` CSS property is set to `relative` or `absolute`.
 
-   It is the responsibility of the web page to specify the proper `z-index` for the placeholder DIV element. Doing so ensures that the viewer’s flyout portion appears on top of the other web page elements.
+   It is the responsibility of the web page to specify the proper `z-index` for the placeholder DIV element. Doing so ensures that the viewer's flyout portion appears on top of the other web page elements.
 
    The following is an example of a defined placeholder DIV element:
 

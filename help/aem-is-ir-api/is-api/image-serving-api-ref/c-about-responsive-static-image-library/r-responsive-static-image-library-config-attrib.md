@@ -15,19 +15,20 @@ Configuration attributes are defined as attributes directly on an IMG element th
 Optional.
 
 URL to the image that Image Serving serves up. If the URL is not present, the library uses the value that is set in `src` attribute as fall back. This attribute serves the initial image and the dynamic image that the Responsive Image library manages from different locations.
-
+ <!--
 **Example** 
 
 ```
 <img data-src="https://s7d9.scene7.com/is/image/Scene7SharedAssets/Backpack_B" data-breakpoints="360,720,940">
 ```
-
+-->
 ## src {#section-5dbc1f9a3c274705adb9702e4c7af0b1}
 
 If `data-src` is set, `src` is optional, and can contain any URL that you want to add. For example, it can contain a URL to the same Image Serving-based image that the library uses. Or, it can contain a GIF placeholder, or even a data URI to avoid an extra server round trip on startup.
 
 If `data-src` is not set, `src` is mandatory and must contain a URL to the image that Image Serving serves up.
 
+<!--
 **Example**
 
 Using data URI for the `src` attribute and Image Serving URL for the `data-src` attribute:
@@ -35,6 +36,7 @@ Using data URI for the `src` attribute and Image Serving URL for the `data-src` 
 ```
 <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://s7d9.scene7.com/is/image/Scene7SharedAssets/Backpack_B" data-breakpoints="360,720,940">
 ```
+-->
 
 ## data-breakpoints {#section-3bf62a89ff3e40569848c1fe3ac7886c}
 
@@ -46,6 +48,7 @@ You can use any supported Image Serving command except for those view commands t
 
 Multiple Image Serving commands or Image Preset names are separated with " `&`" character. If an Image Serving command has a comma in its value, such comma is replaced with `%2C`. Image Preset names are wrapped in dollar signs ( `$`).
 
+<!--
 **Examples**
 
 **Using breakpoints only**
@@ -63,6 +66,8 @@ Multiple Image Serving commands or Image Preset names are separated with " `&`" 
 **Using Image Presets & Image Serving commands**
 
 `<img src="https://s7d9.scene7.com/is/image/Scene7SharedAssets/Backpack_B" data-breakpoints="360:qlt=50,940:$ResponsiveImage_High$">`
+
+-->
 
 ## data-mode {#section-97caf43cf5ab4ca8b1b866d8f394a9a4}
 
