@@ -209,6 +209,7 @@ You add the viewer to a web page by doing the following:
 -->
 
 <!--
+
    ```html {.line-numbers}
    <script type="text/javascript"> 
    var video360Viewer = new s7viewers.Video360Viewer({ 
@@ -221,6 +222,7 @@ You add the viewer to a web page by doing the following:
    }).init(); 
    </script>
    ```
+
 -->
 
 <!--
@@ -397,7 +399,9 @@ var video360Viewer = new s7viewers.Video360Viewer({
 </body> 
 </html>
 ```
+
 -->
+
 
 <!--
 **Embedding Using Setter-based API**
@@ -405,9 +409,11 @@ var video360Viewer = new s7viewers.Video360Viewer({
 Instead of using JSON-based initialization, it is possible to use setter-based API and no-args constructor. Using this API constructor does not take any parameters and configuration parameters are specified using `setContainerId()`, `setParam()`, and `setAsset()` API methods with separate JavaScript calls.
 
 The following example illustrates using fixed size embedding with the setter-based API:
+
 -->
 
 <!--
+
 ```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
@@ -433,4 +439,6 @@ video360Viewer.init();
 </body> 
 </html>
 ```
+
 -->
+
