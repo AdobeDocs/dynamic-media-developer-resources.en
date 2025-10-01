@@ -15,9 +15,11 @@ See [System requirements and prerequisites](../../c-system-requirements-and-prer
 
 Viewer type 514.
 
+<!--
 ## Demo URL {#section-e1c3106f5b3e445d9b95be337c2f94e2}
 
 [http://s7d1.scene7.com/s7viewers/html5/PanoramicViewer.html?asset=Scene7SharedAssets/PanoramicImage-Sample](http://s7d1.scene7.com/s7viewers/html5/PanoramicViewer.html?asset=Scene7SharedAssets/PanoramicImage-Sample)
+-->
 
 ## Using Panoramic Viewer {#section-f21ac23d3f6449ad9765588d69584772}
 
@@ -217,7 +219,7 @@ With the responsive embedding, the web page normally has some kind of flexible l
 <head> 
 <style type="text/css"> 
 .holder {
-	width: 80%;
+    width: 80%;
 }
 </style>
 </head>
@@ -243,7 +245,7 @@ All the steps above are the same as with the fixed size embedding. Container DIV
 <script type="text/javascript" src="http://s7d1.scene7.com/s7viewers/html5/js/PanoramicViewer.js"></script>
 <style type="text/css">
 .holder {
-	width: 80%;
+    width: 80%;
 }
 </style>
 </head>
@@ -253,10 +255,10 @@ All the steps above are the same as with the fixed size embedding. Container DIV
 </div>
 <script type="text/javascript">
 var panoramicViewer = new s7viewers.PanoramicViewer({
-	"containerId":"s7viewer",
+    "containerId":"s7viewer",
 "params":{
-	"asset":"Scene7SharedAssets/PanoramicImage-Sample",
-	"serverurl":"http://s7d1.scene7.com/is/image/"
+    "asset":"Scene7SharedAssets/PanoramicImage-Sample",
+    "serverurl":"http://s7d1.scene7.com/is/image/"
 }
 }).init();
 </script>
@@ -309,14 +311,14 @@ The rest of embedding steps are identical to responsive embedding with unrestric
 <script type="text/javascript" src="http://s7d1.scene7.com/s7viewers/html5/js/PanoramicViewer.js"></script>
 <style type="text/css">
 html, body {
-	width: 100%;
-	height: 100%;
+    width: 100%;
+    height: 100%;
 }
 .holder {
-	position: absolute;
-	left: 20%;
-	top: 20%;
-	width: 60%;
+    position: absolute;
+    left: 20%;
+    top: 20%;
+    width: 60%;
 height: 60%;
 }
 </style>
@@ -327,10 +329,10 @@ height: 60%;
 </div>
 <script type="text/javascript">
 var panoramicViewer = new s7viewers.PanoramicViewer({
-	"containerId":"s7viewer",
+    "containerId":"s7viewer",
 "params":{
-	"asset":"Scene7SharedAssets/PanoramicImage-Sample",
-	"serverurl":"http://s7d1.scene7.com/is/image/"
+    "asset":"Scene7SharedAssets/PanoramicImage-Sample",
+    "serverurl":"http://s7d1.scene7.com/is/image/"
 }
 }).init();
 </script>
@@ -352,8 +354,8 @@ The following example illustrates fixed size embedding with setter-based API:
 <script language="text/javascript" src="http://s7d1.scene7.com/s7viewers/html5/js/PanoramicViewer.js"></script>
 <style type="text/css">
 #s7viewer.s7panoramicviewer {
-	width: 1024;
-	height: 512;
+    width: 1024;
+    height: 512;
 }
 </style>
 </head>

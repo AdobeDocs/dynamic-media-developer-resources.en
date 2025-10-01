@@ -145,10 +145,7 @@ For complete documentation, see [Viewers Reference Guide](https://experienceleag
 
 **Known issues and restrictions**
 
-* The Image Serving modifiers from `iscommands` are not added to the `req=set` request by design. Modifiers that only affect image display work fine. Modifiers affecting size must be used in a complex asset. For example,
-
-  `https://s7d9.scene7.com/s7viewers/html5/BasicZoomViewer.html?asset= {Scene7SharedAssets/Backpack_B?extendn=0.5%252C0.5%252C0.5%252C0.5}`
-
+* The Image Serving modifiers from `iscommands` are not added to the `req=set` request by design. Modifiers that only affect image display work fine. Modifiers affecting size must be used in a complex asset. 
 * [Flyout] IE9 sometimes remains on screen after mouse off.
 * Browser scaling leads to wrong resizing.
 * iPad 2: Large eCatalog asset crashes Safari on iOS.

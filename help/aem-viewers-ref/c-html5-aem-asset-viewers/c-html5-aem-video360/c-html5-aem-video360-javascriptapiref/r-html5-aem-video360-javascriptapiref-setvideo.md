@@ -31,8 +31,10 @@ See also [init](../../../c-html5-s7-aem-asset-viewers/c-html5-video-reference/c-
 
 None.
 
+<!--
 ## Example {#section-9e9332aa86b74a5fb321375c03fdc5b3}
 
 ```
 <instance>.setVideo("https://s7d9.scene7.com/is/content/Viewers/space_station_360")
 ```
+-->

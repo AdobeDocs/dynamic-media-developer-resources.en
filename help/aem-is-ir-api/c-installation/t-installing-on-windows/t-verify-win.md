@@ -19,5 +19,6 @@ After you install Dynamic Media Image Serving, you should verify the installatio
 
 [!DNL  http:// *[!DNL server:port]*/ir/render]
 
-   Check for the presence of " `imageServer.`" items in the response, which indicate that the Image Server is listening.
+Check for the presence of " `imageServer.`" items in the response, which indicate that the Image Server is listening.
+
 >Additional verification can be performed using the sample pages of the Documentation and Demo packages, if installed.

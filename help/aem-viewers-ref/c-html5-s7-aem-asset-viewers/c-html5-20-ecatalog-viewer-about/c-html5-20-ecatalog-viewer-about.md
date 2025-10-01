@@ -21,9 +21,11 @@ See [System requirements and prerequisites](../../c-system-requirements-and-prer
 
 This viewer works with ecatalogs and supports optional image maps and social sharing tools. It has zoom tools, catalog navigation tools, full-screen support, thumbnails, and an optional close button. The viewer also supports social sharing tools, Print, Download, and Favorites. It is designed to work on desktops and mobile devices.
 
+<!--
 ## Demo URL {#section-e1c3106f5b3e445d9b95be337c2f94e2}
 
 [https://s7d1.scene7.com/s7viewers/html5/eCatalogViewer.html?asset=Viewers/Pluralist](https://s7d1.scene7.com/s7viewers/html5/eCatalogViewer.html?asset=Viewers/Pluralist)
+-->
 
 ## Using eCatalog Viewer {#section-e6c68406ecdc4de781df182bbd8088b4}
 

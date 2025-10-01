@@ -40,8 +40,10 @@ See also [init](../../../c-html5-s7-aem-asset-viewers/c-html5-video-reference/c-
 
 None.
 
+<!--
 ## Example {#section-9e9332aa86b74a5fb321375c03fdc5b3}
 
 ```javascript {.line-numbers}
-<instance>.setVideo("https://s7d9.scene7.com/is/content/Scene7SharedAssets/Glacier_Climber_MP4")
+<instance>.setVideo("https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html")
 ```
+-->

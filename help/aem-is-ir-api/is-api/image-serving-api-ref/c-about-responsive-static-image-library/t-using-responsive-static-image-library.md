@@ -26,11 +26,13 @@ To add Responsive Image library to a web page and manage existing images with th
 
    It is also suggested that you put the existing image URL into the `data-src` attribute. Then, set up the existing `src` attribute to have a 1x1 GIF image encoded as Data URI. Doing so, reduces the number of HTTP requests that are sent by the web page at load time. Note, however, that if SEO (search engine optimization) is needed, it is better to set up a `title` attribute on the image instance.
 
+<!--
    The following is an example of defining `data-breakpoints` attribute for the image and using a 1x1 GIF encoded as Data URI:
 
    ```
    <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://s7d9.scene7.com/is/image/Scene7SharedAssets/Backpack_B" data-breakpoints="360,720,940">
    ```
+-->
 
 1. Call the `s7responsiveImage` API function for every image instance that the library manages.
 
@@ -50,6 +52,7 @@ The library supports working with many image instances on the web page simultane
 
 It is the responsibility of the web page to style the image element to make it flexible in size. The Responsive Image library itself does not differentiate between fixed-size and "fluid" images. If applied to a fixed-size image it loads the new image only once.
 
+<!--
 The following code is a complete example of a trivial web page that has a single fluid image managed by the Responsive Image library. The example contains extra CSS styling to make the image "responsive" to the web browser window size:
 
 ```html {.line-numbers}
@@ -77,6 +80,7 @@ The following code is a complete example of a trivial web page that has a single
 </html>
 
 ```
+-->
 
 **Using Smart Crop**
 

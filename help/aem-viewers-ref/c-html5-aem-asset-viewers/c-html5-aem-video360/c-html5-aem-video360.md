@@ -20,9 +20,12 @@ The Video360 Viewer uses HTML5 streaming video playback in HLS format in its def
 
 Viewer type is 517.
 
+<!--
 ## Demo URLs {#section-c0ad383db6a444979dc7eeb1ec4cf54d}
 
 [https://s7d9.scene7.com/s7viewers/html5/Video360Viewer.html?asset=Viewers/space_station_360-AVS](https://s7d9.scene7.com/s7viewers/html5/Video360Viewer.html?asset=Viewers/space_station_360-AVS)
+
+-->
 
 ## System Requirements {#section-b7270cc4290043399681dc504f043609}
 
@@ -78,7 +81,7 @@ The viewer is fully keyboard accessible. See [Keyboard accessibility and navigat
 
 Different web pages have different needs for viewer behavior. Sometimes a web page provides a link that, when selected opens the viewer in a separate browser window. In other cases, it is necessary to embed the viewer directly on the hosting page. In the latter case, the web page may have a static page layout, or use responsive design that displays differently on different devices or for different browser window sizes. To accommodate these needs, the viewer supports three primary operation modes: popup, fixed size embedding, and responsive design embedding.
 
-Embedding multiple videos on the same page is supported on tablet and mobile devices. Usually, only one video can be played at a time. When a user starts playing one video, and then tries to play another video, the first video is automatically paused. The video that was auto-paused remembers its current playback time, so the user can always get back to it and resume play. The only exception this rule is in Chrome browser on Android™ 4.x devices, which can play videos in parallel.
+Embedding multiple videos on the same page is supported on tablet and mobile devices. Usually, only one video can be played at a time. When a user starts playing one video, and then tries to play another video, the first video is automatically paused. The video that was auto-paused remembers its current playback time, so the user can always get back to it and resume play. The only exception this rule is in Chrome browser on Android&trade; 4.x devices, which can play videos in parallel.
 
 **About pop-up mode**
 
@@ -92,11 +95,15 @@ It is recommended that you use an out-of-box HTML page for pop-up operation mode
 
 You can achieve visual customization by applying custom CSS.
 
+<!--
 The following is an example of HTML code that opens the viewer in a new window:
+-->
 
+<!--
 ```html {.line-numbers}
 <a href="https://s7d9.scene7.com/s7viewers/html5/Video360Viewer.html?asset=Viewers/space_station_360-AVS" target="_blank">Open popup viewer</a>
 ```
+-->
 
 **About fixed size embedding mode and responsive design embedding mode**
 
@@ -191,6 +198,7 @@ You add the viewer to a web page by doing the following:
 
    At the same, the container element should not necessarily be part of the web page layout yet. For example, it may be hidden using `display:none` style assigned to it. In this case, the viewer delays its initialization process until the moment when the web page brings the container element back to the layout. When that happens, the viewer load automatically resumes.
 
+<!--
    The following is an example of creating a viewer instance, passing the minimum necessary configuration options to the constructor and calling the `init()` method. The example assumes the following:
 
     * The viewer instance is `video360Viewer`. 
@@ -198,6 +206,9 @@ You add the viewer to a web page by doing the following:
     * The Image Serving URL is `https://s7d9.scene7.com/is/image`. 
     * The video server URL is `https://s7d9.scene7.com/is/content`. 
     * The asset is `Viewers/space_station_360-AVS`.
+-->
+
+<!--
 
    ```html {.line-numbers}
    <script type="text/javascript"> 
@@ -212,8 +223,13 @@ You add the viewer to a web page by doing the following:
    </script>
    ```
 
-   The following code is a complete example of a trivial web page that embeds the Video360 Viewer with a fixed size:
+-->
 
+<!--
+   The following code is a complete example of a trivial web page that embeds the Video360 Viewer with a fixed size:
+-->
+
+<!--
    ```html {.line-numbers}
    <!DOCTYPE html> 
    <html> 
@@ -240,12 +256,16 @@ You add the viewer to a web page by doing the following:
    </script> 
    </body> 
    </html>
-   ```
-
+ ```
+ -->
+   
+<!--  
 **Responsive design embedding with unrestricted height**
 
 With responsive design embedding, the web page normally has some kind of flexible layout in place that dictates the runtime size of the viewer's container `DIV`. For the following example, assume that the web page allows the viewer's container `DIV` to take 40% of the web browser window size, leaving its height unrestricted. The web page HTML code would look like the following:
+-->
 
+<!--
 ```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
@@ -261,15 +281,21 @@ With responsive design embedding, the web page normally has some kind of flexibl
 </body> 
 </html>
 ```
+-->
 
+<!--
 Adding the viewer to such a page is similar to the steps for fixed size embedding. The only difference is that you do not need to explicitly define the viewer size.
 
 1. Adding the viewer JavaScript file to your web page. 
 1. Defining the container DIV. 
 1. Creating and initializing the viewer.
 
-All the steps above are the same as with the fixed size embedding. Add the container DIV to the existing `"holder"` DIV. The following code is a complete example. Notice how viewer size changes when the browser is resized, and how the viewer aspect ratio matches the asset.
+All the steps above are the same as with the fixed size embedding. Add the container DIV to the existing `"holder"` DIV. 
 
+The following code is a complete example. Notice how viewer size changes when the browser is resized, and how the viewer aspect ratio matches the asset.
+-->
+
+<!--
 ```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
@@ -298,11 +324,15 @@ var video360Viewer = new s7viewers.Video360Viewer({
 </body> 
 </html>
 ```
+-->
 
+<!--
 **Responsive Embedding with Width and Height Defined**
 
 If there is responsive embedding with width and height defined, the web page styling is different. It provides both sizes to the `"holder"` DIV and center it in the browser window. Also, the web page sets the size of the `HTML` and `BODY` element to 100 percent.
+-->
 
+<!--
 ```html {.line-numbers}
 <!DOCTYPE html> 
 <html> 
@@ -326,8 +356,12 @@ height: 60%;
 </body> 
 </html>
 ```
+-->
 
-The rest of the embedding steps are identical to the steps used for responsive embedding with unrestricted height. The resulting example is the following:
+<!--
+The rest of the embedding steps are identical to the steps used for responsive embedding with unrestricted height. 
+
+The resulting example is the following:
 
 ```html {.line-numbers}
 <!DOCTYPE html> 
@@ -366,11 +400,19 @@ var video360Viewer = new s7viewers.Video360Viewer({
 </html>
 ```
 
+-->
+
+
+<!--
 **Embedding Using Setter-based API**
 
 Instead of using JSON-based initialization, it is possible to use setter-based API and no-args constructor. Using this API constructor does not take any parameters and configuration parameters are specified using `setContainerId()`, `setParam()`, and `setAsset()` API methods with separate JavaScript calls.
 
 The following example illustrates using fixed size embedding with the setter-based API:
+
+-->
+
+<!--
 
 ```html {.line-numbers}
 <!DOCTYPE html> 
@@ -397,3 +439,6 @@ video360Viewer.init();
 </body> 
 </html>
 ```
+
+-->
+
