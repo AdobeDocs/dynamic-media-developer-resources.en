@@ -22,6 +22,7 @@ URL to the image that Image Serving serves up. If the URL is not present, the li
 <img data-src="https://s7d9.scene7.com/is/image/Scene7SharedAssets/Backpack_B" data-breakpoints="360,720,940">
 ```
 -->
+
 ## src {#section-5dbc1f9a3c274705adb9702e4c7af0b1}
 
 If `data-src` is set, `src` is optional, and can contain any URL that you want to add. For example, it can contain a URL to the same Image Serving-based image that the library uses. Or, it can contain a GIF placeholder, or even a data URI to avoid an extra server round trip on startup.
