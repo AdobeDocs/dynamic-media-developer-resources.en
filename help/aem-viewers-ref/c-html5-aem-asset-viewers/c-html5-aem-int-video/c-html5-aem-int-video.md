@@ -275,7 +275,11 @@ The following examples page illustrates more real-life uses of responsive design
 
 [Live demos](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html)
 
+<!--
+
 [Alternate demo location](https://experienceleague.adobe.com/tools/dynamic-media-demo/vlist/vlist.html)
+
+-->
 
 **Responsive Embedding with Width and Height Defined**
 

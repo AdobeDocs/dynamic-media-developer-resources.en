@@ -35,7 +35,9 @@ Constructor, creates an HTML 5 Carousel Viewer instance.
 
 None.
 
-## Example {#section-9e9332aa86b74a5fb321375c03fdc5b3}
+<!-- ## Example {#section-9e9332aa86b74a5fb321375c03fdc5b3} -->
+
+<!--
 
 ```javascript {.line-numbers}
 var carouselViewer = new s7viewers.CarouselViewer({ 
@@ -60,3 +62,5 @@ defaultLocale:"en"
 } 
 });
 ```
+
+-->

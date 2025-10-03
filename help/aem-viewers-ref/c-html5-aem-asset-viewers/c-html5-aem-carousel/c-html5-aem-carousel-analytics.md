@@ -12,7 +12,11 @@ exl-id: 9e321684-4861-4d81-b55c-66c77635930e
 
 By default, the viewer sends a single tracking HTTP request to configured Image Server with the viewer type and version information.
 
-To integrate with third-party analytics systems, it is necessary to listen to the `trackEvent` viewer callback and process the `eventInfo` argument of the callback function as necessary. The following code is an example of such handler function:
+To integrate with third-party analytics systems, it is necessary to listen to the `trackEvent` viewer callback and process the `eventInfo` argument of the callback function as necessary. 
+
+<!-- The following code is an example of such handler function: -->
+
+<!--
 
 ```java {.line-numbers}
 var carouselViewer = new s7viewers.CarouselViewer({ 
@@ -35,6 +39,8 @@ var carouselViewer = new s7viewers.CarouselViewer({
 } 
 });
 ```
+
+-->
 
 The viewer tracks the following SDK user events:
 

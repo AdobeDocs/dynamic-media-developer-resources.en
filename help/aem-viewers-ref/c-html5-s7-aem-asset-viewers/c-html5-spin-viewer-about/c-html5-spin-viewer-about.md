@@ -291,7 +291,11 @@ The following examples page illustrates more real-life use cases of responsive d
 
 [Live demos](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html)
 
+<!--
+
 [Alternate demo location](https://experienceleague.adobe.com/tools/dynamic-media-demo/vlist/vlist.html)
+
+-->
 
 **Flexible size embedding with width and height defined**
 
