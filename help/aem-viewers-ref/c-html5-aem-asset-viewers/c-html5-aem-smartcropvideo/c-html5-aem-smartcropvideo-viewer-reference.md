@@ -19,11 +19,11 @@ The Smart Crop Video Viewer uses HTML5 streaming video playback in HLS format in
 
 Viewer type 518.
 
-<!--
+
 ## Demo URL {#section-e1c3106f5b3e445d9b95be337c2f94e2}
 
 [https://s7d9.scene7.com/s7viewers/html5/SmartCropVideoViewer.html?asset=html5automation/frisbee-AVS](https://s7d9.scene7.com/s7viewers/html5/SmartCropVideoViewer.html?asset=html5automation/frisbee-AVS)
--->
+
 
 ## Using Smart Crop Video Viewer {#section-f21ac23d3f6449ad9765588d69584772}
 
@@ -294,7 +294,11 @@ The following examples page illustrates more real-life use of responsive design 
 
 [Live demos](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html)
 
+<!--
+
 [Alternate demo location](https://experienceleague.adobe.com/tools/dynamic-media-demo/vlist/vlist.html)
+
+-->
 
 **Responsive design embedding with width and height defined**
 

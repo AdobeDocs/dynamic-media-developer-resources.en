@@ -21,7 +21,7 @@ Viewer type is 511.
 [https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html)
 
 <!--
-[https://experienceleague.adobe.com/tools/dynamic-media-demo/viewers-ref/carousel/CarouselViewerDemo.html](https://experienceleague.adobe.com/tools/dynamic-media-demo/viewers-ref/carousel/CarouselViewerDemo.html)
+[https://experienceleague.adobe.com/tools/dynamic-media-demo/viewers-ref/carousel/CarouselViewerDemo.html](/dynamic-media-demo/viewers-ref/carousel/CarouselViewerDemo.html)
 -->
 
 ## System Requirements {#section-b7270cc4290043399681dc504f043609}
@@ -161,8 +161,13 @@ You add the viewer to a web page by doing the following:
 
    At the same time, the container element should not necessarily be part of the web page layout yet. For example, it may be hidden using `display:none` style assigned to it. In this case, the viewer delays its initialization process until the moment when the web page brings the container element back to the layout. When this functionality occurs, the viewer load automatically resumes.
 
+<!--
 
    The following is an example of creating a viewer instance, passing minimum necessary configuration options to the constructor and calling the `init()` method. The example assumes `carouselViewer` is the viewer instance; `s7viewer` is the name of placeholder `DIV`; `https://adobedemo62-h.assetsadobe.com/is/image` is the Image Serving URL, and `/content/dam/dm-public-facing-live-demo-page/04_shoppable_carousel/05_shoppable_banner` is the asset:
+
+-->
+
+<!--
 
    ```javascript {.line-numbers}
    <script type="text/javascript"> 
@@ -175,9 +180,14 @@ You add the viewer to a web page by doing the following:
    }).init(); 
    </script>
    ```
-   
 
+-->
+   
+<!--
    The following code is a complete example of a trivial web page that embeds the Carousel Viewer with a fixed size:
+-->
+
+<!--
 
    ```html {.line-numbers}
    <!DOCTYPE html> 
@@ -205,6 +215,8 @@ You add the viewer to a web page by doing the following:
    </body> 
    </html>
    ```
+-->
+
 
 **Responsive design embedding with unrestricted height**
 
@@ -234,7 +246,11 @@ Adding the viewer to such a page is similar to the steps for fixed size embeddin
 1. Defining the container `DIV`. 
 1. Creating and initializing the viewer.
 
-All the steps above are the same as with the fixed size embedding. Add the container `DIV` to the existing `"holder"` `DIV`. The following code is a complete example. Notice how the viewer size changes when the browser is resized, and how the viewer aspect ratio matches the asset.
+All the steps above are the same as with the fixed size embedding. Add the container `DIV` to the existing `"holder"` `DIV`. 
+
+<!-- The following code is a complete example. Notice how the viewer size changes when the browser is resized, and how the viewer aspect ratio matches the asset. -->
+
+<!--
 
 ```html {.line-numbers}
 <!DOCTYPE html> 
@@ -264,14 +280,21 @@ var carouselViewer = new s7viewers.CarouselViewer({
 </html>
 ```
 
-The following examples page illustrates more real-life uses of responsive design embedding with unrestricted height:
+-->
 
-[https://experienceleague.adobe.com/tools/dynamic-media-demo/viewers-ref/carousel/CarouselViewer-responsive-unrestricted-height.html](https://experienceleague.adobe.com/tools/dynamic-media-demo/viewers-ref/carousel/CarouselViewer-responsive-unrestricted-height.html)
+<!-- The following examples page illustrates more real-life uses of responsive design embedding with unrestricted height: -->
+
+<!--
+
+[https://experienceleague.adobe.com/tools/dynamic-media-demo/viewers-ref/carousel/CarouselViewer-responsive-unrestricted-height.html](/dynamic-media-demo/viewers-ref/carousel/CarouselViewer-responsive-unrestricted-height.html)
+
+-->
 
 **Flexible size Embedding with Width and Height Defined**
 
-In flexible-size embedding with width and height defined, the web page styling is different. It provides both sizes to the `"holder"` DIV and center it in the browser window. Also, the web page sets the size of the `HTML` and `BODY` element to 100 percent.
+In flexible-size embedding with width and height defined, the web page styling is different. It provides both sizes to the `"holder"` DIV and centers it in the browser window. Also, the web page sets the size of the `HTML` and `BODY` element to 100 percent.
 
+<!--
 
 ```html {.line-numbers}
 <!DOCTYPE html> 
@@ -335,13 +358,16 @@ var carouselViewer = new s7viewers.CarouselViewer({
 </html>
 ```
 
+-->
+
 
 **Embedding Using Setter-based API**
 
 Instead of using JSON-based initialization, it is possible to use setter-based API and no-args constructor. Using this API constructor does not take any parameters and configuration parameters are specified using `setContainerId()`, `setParam()`, and `setAsset()` API methods with separate JavaScript calls.
 
+<!-- The following example illustrates using fixed size embedding with the setter-based API: -->
 
-The following example illustrates using fixed size embedding with the setter-based API:
+<!--
 
 ```html {.line-numbers}
 <!DOCTYPE html> 
@@ -367,4 +393,6 @@ carouselViewer.init();
 </body> 
 </html>
 ```
+
+-->
 

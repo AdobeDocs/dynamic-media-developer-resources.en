@@ -180,9 +180,14 @@ You add the viewer to a web page by doing the following:
    }
    ```
 
-   You can see the behavior with a fixed outer viewer area on the following sample page. Notice that when you switch between sets, the outer viewer size does not change:
+<!-- You can see the behavior with a fixed outer viewer area on the following sample page. Notice that when you switch between sets, the outer viewer size does not change:-->
+
+<!--
 
    [https://experienceleague.adobe.com/tools/dynamic-media-demo/viewers-ref/mixedmedia/MixedMediaViewer-fixed-outer-area.html](https://experienceleague.adobe.com/tools/dynamic-media-demo/viewers-ref/mixedmedia/MixedMediaViewer-fixed-outer-area.html)
+
+-->
+
 
    To make the main view dimensions static, define the viewer size in absolute units for the inner `Container` SDK component using `.s7mixedmediaviewer .s7container` CSS selector, or by using `stagesize` modifier.
 
@@ -194,10 +199,14 @@ You add the viewer to a web page by doing the following:
     height: 480px; 
    }
    ```
+   
+   <!-- The following sample page shows viewer behavior with a fixed main view size. Notice that when you switch between sets, the main view remains static and the web page content moves vertically: -->
 
-   The following sample page shows viewer behavior with a fixed main view size. Notice that when you switch between sets, the main view remains static and the web page content moves vertically:
+   <!--
 
    [https://experienceleague.adobe.com/tools/dynamic-media-demo/viewers-ref/mixedmedia/MixedMediaViewer-fixed-main-view.html](https://experienceleague.adobe.com/tools/dynamic-media-demo/viewers-ref/mixedmedia/MixedMediaViewer-fixed-main-view.html)
+
+   -->
 
    You can set the `stagesize` modifier either in the viewer preset record in Dynamic Media Classic, or pass it explicitly with the viewer initialization code with `params` collection. Or, as an API call as described in the Command Reference section of this Help, as in the following:
 
@@ -328,7 +337,11 @@ The following examples page illustrates more real-life uses of responsive design
 
 [Live demos](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html)
 
+<!--
+
 [Alternate demo location](https://experienceleague.adobe.com/tools/dynamic-media-demo/vlist/vlist.html)
+
+-->
 
 ## Flexible size embedding with width and height defined {#section-0a329016f9414d199039776645c693de}
 

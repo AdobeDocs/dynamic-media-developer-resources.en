@@ -18,7 +18,13 @@ Viewer type is 508.
 
 ## Demo URL {#section-c0ad383db6a444979dc7eeb1ec4cf54d}
 
+[https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html)
+
+<!--
+
 [https://experienceleague.adobe.com/tools/dynamic-media-demo/shoppable-banner/InteractiveImage.html](https://experienceleague.adobe.com/tools/dynamic-media-demo/shoppable-banner/InteractiveImage.html)
+
+-->
 
 ## System Requirements {#section-b7270cc4290043399681dc504f043609}
 
@@ -240,9 +246,13 @@ var interactiveImage = new s7viewers.InteractiveImage({
 
 ```
 
-The following examples page illustrates more real-life uses of responsive design embedding with unrestricted height:
+<!-- The following examples page illustrates more real-life uses of responsive design embedding with unrestricted height: -->
+
+<!--
 
 [https://experienceleague.adobe.com/tools/dynamic-media-demo/shoppable-banner/InteractiveImage-responsive-unrestricted-height.html](https://experienceleague.adobe.com/tools/dynamic-media-demo/shoppable-banner/InteractiveImage-responsive-unrestricted-height.html)
+
+-->
 
 **Flexible size Embedding with Width and Height Defined**
 

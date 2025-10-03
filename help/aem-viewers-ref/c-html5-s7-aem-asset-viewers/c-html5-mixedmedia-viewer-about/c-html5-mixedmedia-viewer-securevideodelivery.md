@@ -16,15 +16,25 @@ If the viewer works in configuration as outlined at the beginning of this sectio
 
 Depending on the method of publishing Dynamic Media video that you use in Adobe Experience Manager, the `VideoPlayer.ssl` configuration attribute is applied differently as demonstrated in the following:
 
-* If you publish a Dynamic Media video with a URL, you append `VideoPlayer.ssl` to the URL. For example, to force secure video delivery, you append `&VideoPlayer.ssl=on` to the end of the following viewer URL example:
+* If you publish a Dynamic Media video with a URL, you append `VideoPlayer.ssl` to the URL. 
+
+<!-- For example, to force secure video delivery, you append `&VideoPlayer.ssl=on` to the end of the following viewer URL example: -->
+
+<!--
 
   ```
   https://demos-pub.assetsadobe.com/etc/dam/viewers/s7viewers/html5/MixedMediaViewer.html?asset=%2Fcontent%2Fdam%2FGeometrixx-Outdoors-New-Launch%2Fbackpack%2Fbackpack_mixed_media&config=/etc/dam/presets/viewer/MixedMedia_light&serverUrl=https%3A%2F%2Fadobedemo62-h.assetsadobe.com%2Fis%2Fimage%2F&contenturl=%2F&config2=/etc/dam/presets/analytics&videoserverurl=https://gateway-na.assetsadobe.com/DMGateway/public/demoCo&VideoPlayer.ssl=on
   ```
 
+-->
+
   See also [(Linking URLs to your Web Application](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/linking-urls-to-yourwebapplication.html?lang=en#dynamic). 
 
-* If you publish a Dynamic Media video with embed code, you add `VideoPlayer.ssl` to the list of other viewer configuration parameters in the embed code snippet. For example, to force HTTPS video delivery, you append `&VideoPlayer.ssl=on` as in the following example:
+* If you publish a Dynamic Media video with embed code, you add `VideoPlayer.ssl` to the list of other viewer configuration parameters in the embed code snippet. 
+
+<!-- For example, to force HTTPS video delivery, you append `&VideoPlayer.ssl=on` as in the following example: -->
+
+<!--
 
   ```
   <style type="text/css"> 
@@ -49,5 +59,7 @@ Depending on the method of publishing Dynamic Media video that you use in Adobe 
    }).init(); 
   </script>
   ```
+
+-->
 
   See also [(Embedding the Video on a Web Page](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/linking-urls-to-yourwebapplication.html#dynamic).
