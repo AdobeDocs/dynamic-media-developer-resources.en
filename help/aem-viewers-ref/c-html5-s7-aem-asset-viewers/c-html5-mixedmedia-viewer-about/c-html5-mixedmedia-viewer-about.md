@@ -199,6 +199,7 @@ You add the viewer to a web page by doing the following:
     height: 480px; 
    }
    ```
+   
    <!-- The following sample page shows viewer behavior with a fixed main view size. Notice that when you switch between sets, the main view remains static and the web page content moves vertically: -->
 
    <!--
