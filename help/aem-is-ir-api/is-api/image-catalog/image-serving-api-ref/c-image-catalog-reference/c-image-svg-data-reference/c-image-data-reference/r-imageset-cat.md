@@ -42,7 +42,7 @@ Each item in a basic swatch set consists of a reference to an image record and a
 |  `*`basicSwatchSet`*`  | `*`swatchItem`*&#42;[',' *`swatchItem`*]`  |
 |---|---|
 |  `*`swatchItem`*`  | `*`imageId`*[';' *`swatch`*]`  |
-|  `*`swatch`*`  | `*`swatchId`*|solidColorSpecifier`  |
+|  `*`swatch`*`  | `*`swatchId`*`\|`solidColorSpecifier`  |
 |  `*`imageId`*`  | IS image reference (catalog/id)  |
 |  `*`swatchId`*`  | IS image reference (catalog/id)  |
 |  `*`solidColorSpecifier`*`  | ` '{0x' *`rrggbb`* [ *`label`*]'}'`  |
@@ -55,7 +55,7 @@ Each item in a hierarchical swatch set can consist of a basic swatch item or a r
 
 |  `*`hierarchicalSwatchSet`*`  | `*`hierarchicalSwatchItem`* &#42;[ ',' *`hierarchicalSwatchItem`* ]`  |
 |---|---|
-|  `*`hierarchicalSwatchItem`*`  | `*`swatchItem`* | { *`basicSwatchSetId`* ';' *`swatch`* }`  |
+|  `*`hierarchicalSwatchItem`*`  | `*`swatchItem`*` \| `{` *`basicSwatchSetId`* ';' *`swatch`* `}`  |
 |  `*`basicSwatchSetId`*`  | IS reference (catalog/id) to a catalog record defining a basic swatch set  |
 
 **Basic Spin Sets**
@@ -70,7 +70,7 @@ Each item in a two-dimensional spin set can consist of a simple image, a referen
 
 |  `*`2dSpinItem`*`  | `*`2dSpinSet`* *`2dSpinItem`* &#42;[ ',' *`2dSpinItem`* ]`  |
 |---|---|
-|  `*`2dSpinItem`*`  | `*`imageId`* | { '{' *`basicSpinSet`* '}' } | *`basicSpinSetId`*`  |
+|  `*`2dSpinItem`*`  | `*`imageId`*` \| `{` '{' *`basicSpinSet`* '}' `}` \| `*`basicSpinSetId`*`  |
 |  `*`basicSpinSetId`*`  | IS reference (catalog/id) to a catalog record defining a basic spin set  |
 
 **Page Sets**
@@ -87,12 +87,12 @@ Each item in a media set can consist of an image, basic swatch set, hierarchical
 
 |  `*`mediaSet`*`  | `*`item`* &#42;[ , *`item`* ]`  |
 |---|---|
-|  `*`item`*`  | ` { *`videoItem`* | *`recutItem`* | *`imageItem`*}} | *`setItem`* } [ ; [ *`ID`* ] [ ; [ *`reserved`* ] ] ]`  |
+|  `*`item`*`  | `{ *`videoItem`*` \| *`recutItem`* \| *`imageItem`*`}}` \| *`setItem`* `}` `[` ; `[` *`ID`* `]` `[` ; `[` *`reserved`* `] ] ]`  |
 |  `*`videoItem`*`  | `*`video`* ; *`swatchId`*`  |
 |  `*`recutItem`*`  | `*`recut`* ; *`swatchId`*`  |
 |  `*`imageItem`*`  | `*`imageId`* ; [ *`swatchId`* ]`  |
-|  `*`setItem`*`  | ` { *`setId`* | { '{' *`inlineSet`* '}' } } ; *`swatchId`*`  |
-|  `*`ID`*`  | `media type identifier [ img | basic | advanced_image | img | img_set | advanced_imageset | advanced_swatchset | spin | video ]`  |
+|  `*`setItem`*`  | `{ *`setId`*` \| `{` '{' *`inlineSet`* '}' `} }` ; *`swatchId`*  |
+|  `*`ID`*`  | `media type identifier` `[` img \| basic \| advanced_image \| img \| img_set \| advanced_imageset \| advanced_swatchset \| spin \| video `]`  |
 |  `*`swatchId`*`  | IS image id  |
 |  `*`video`*`  | Video/animation file path or static catalog id  |
 |  `*`recut`*`  | Recut definition XML file path or static catalog id  |

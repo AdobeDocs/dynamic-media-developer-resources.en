@@ -3,7 +3,7 @@ title: Support for Adobe Analytics tracking
 description: The eCatalog Viewer supports Adobe Analytics tracking out of the box.
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
-role: Developer,User,Data Engineer,Data Architect
+role: Developer,User
 exl-id: 714e8001-06dc-49b1-838f-ab9772f2527c
 ---
 # Support for Adobe Analytics tracking{#support-for-adobe-analytics-tracking}

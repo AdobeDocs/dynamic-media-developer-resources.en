@@ -2,7 +2,8 @@
 title: Smart Crop Video Viewer
 description: The Smart Crop Video Viewer plays streaming and progressive video encoded in the H.264 format with the addition of smart crop support. It is delivered from Dynamic Media Classic or Adobe Experience Manager with Dynamic Media.
 keywords: responsive
-solution: Experience Manager
+solution: Experience Manager, Experience Manager Assets
+feature-set: Experience Manager, Experience Manager Assets
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 exl-id: 937be8a2-307e-47bb-9fc8-d354f780a214

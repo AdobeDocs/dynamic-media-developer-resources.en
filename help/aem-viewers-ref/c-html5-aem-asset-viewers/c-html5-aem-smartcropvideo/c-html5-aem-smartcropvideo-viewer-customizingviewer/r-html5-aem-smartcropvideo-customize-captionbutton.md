@@ -1,7 +1,8 @@
 ---
 title: Caption button
 description: This button toggles closed caption display on and off. It is not visible if the caption parameter is not specified.
-solution: Experience Manager
+solution: Experience Manager, Experience Manager Assets
+feature-set: Experience Manager, Experience Manager Assets
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 exl-id: 86b610e9-fea2-45b3-9b74-7ddd558fc267

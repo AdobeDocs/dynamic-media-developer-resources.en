@@ -1,7 +1,8 @@
 ---
 title: SmartCropVideoPlayer.initialbitrate
 description: Configuration attribute for Smart Crop Video Viewer.
-solution: Experience Manager
+solution: Experience Manager, Experience Manager Assets
+feature-set: Experience Manager, Experience Manager Assets
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 exl-id: 4fc4fefa-b094-4e2e-b8ec-a439f8a1a56c

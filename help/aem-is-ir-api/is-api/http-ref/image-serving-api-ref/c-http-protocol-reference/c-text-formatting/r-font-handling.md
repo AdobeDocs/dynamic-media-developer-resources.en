@@ -16,7 +16,8 @@ The font face specified with `attribute::DefaultFont` is used when none are spec
 
 Image Serving supports TrueType, OpenType&reg;, Adobe Type 1 (Windows only) fonts.
 
-<!-- THIS APPEARS TO BE VERY OLD OUTDATED INFORMATION; URL IS DEAD TOO ## Photofont&reg; font support {#section-74560ae898cf4708aba4c8b4093f5f00}
+<!--
+ THIS APPEARS TO BE VERY OLD OUTDATED INFORMATION; URL IS DEAD TOO ## Photofont&reg; font support {#section-74560ae898cf4708aba4c8b4093f5f00}
 
 Photofont&reg; fonts support `textPs=`, with the following restrictions:
 
@@ -28,7 +29,8 @@ Photofont&reg; fonts support `textPs=`, with the following restrictions:
 * Photofont fonts with multiple glyphs per image are not supported 
 * Naïve color conversion is applied unless the Photofont glyph images embed color profiles; in this case, relative colorimetric render intent and blackpoint compensation are always applied
 
-See [https://www.photofont.com](https://www.photofont.com) for additional information. -->
+See [https://www.photofont.com](https://www.photofont.com) for additional information.
+-->
 
 ## See also {#section-6cb8a802aa044836bbe449d559093f3a}
 

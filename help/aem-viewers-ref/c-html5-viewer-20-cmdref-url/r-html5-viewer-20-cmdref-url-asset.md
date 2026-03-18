@@ -56,7 +56,7 @@ or
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> multiDimensionalSpinSet </span> </span> </p> </td> 
-   <td colname="col2"> <p>Specifies an explicit multi-dimensional spin set using the following syntax: </p> <p> <span class="codeph"> (( <span class="varname"> horizontalSpinSet </span>)[,( <span class="varname"> horizontalSpinSet </span>)]) </span> </p> <p> where <span class="codeph"> <span class="varname"> horizontalSpinSet </span> </span> is a comma-separated list of frames for a given horizontal axis. All <span class="codeph"> <span class="varname"> horizontalSpinSet </span> </span> should have the same number of frames. </p> <p> <p>Note:  This feature is supported in Adobe Dynamic Media Classic; it is not supported in Adobe Experience Manager Assets. </p> </p> </td> 
+   <td colname="col2"> <p>Specifies an explicit multi-dimensional spin set using the following syntax: </p> <p> <pre><code>(( horizontalSpinSet )&lbrack;[,( horizontalSpinSet )&rbrack;)</code></pre> </p> <p> where <span class="codeph"> <span class="varname"> horizontalSpinSet </span> </span> is a comma-separated list of frames for a given horizontal axis. All <span class="codeph"> <span class="varname"> horizontalSpinSet </span> </span> should have the same number of frames. </p> <p> <p>Note:  This feature is supported in Adobe Dynamic Media Classic; it is not supported in Adobe Experience Manager Assets. </p> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> <span class="varname"> modifiers </span> </span> </p> </td> 

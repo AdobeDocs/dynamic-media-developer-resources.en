@@ -13,7 +13,8 @@ This topic should link to Image Server examples.
 <!-- As of August 29 (and likely months or years before this date), none of the links below work anymore! -->
 
 
-<!-- DEAD LINKS * [adjust1](https://crc.scene7.com/is-docs/examples/adjust1.htm)
+<!--
+ DEAD LINKS * [adjust1](https://crc.scene7.com/is-docs/examples/adjust1.htm)
 * [adjust2](https://crc.scene7.com/is-docs/examples/adjust2.htm)
 * [advanced](https://crc.scene7.com/is-docs/examples/advanced.htm)
 * [anchors](https://crc.scene7.com/is-docs/examples/anchors.htm)
@@ -26,4 +27,5 @@ This topic should link to Image Server examples.
 * [templates](https://crc.scene7.com/is-docs/examples/templates.htm)
 * [text](https://crc.scene7.com/is-docs/examples/text.htm)
 * [view-quality](https://crc.scene7.com/is-docs/examples/view-quality.htm)
-* [view-size](https://crc.scene7.com/is-docs/examples/view-size.htm) -->
+* [view-size](https://crc.scene7.com/is-docs/examples/view-size.htm)
+-->

@@ -47,7 +47,7 @@ Response Image Format.
 
 *`pixelType`* &ndash; rgb | gray | cmyk
 
-| *`pixelType`* | Description | 
+| *`pixelType`* | Description |
 |---|---|
 | `cmyk` | Return CMYK image data. |
 | `gray` | Return gray-scale image data. |
@@ -55,7 +55,7 @@ Response Image Format.
 
 *`compression`* &ndash; jpeg | lossy | lossless | lzw | none | zip
 
-| *`compression`* | Description | 
+| *`compression`* | Description |
 |---|---|
 | `jpeg` | JPEG compression (lossy). |
 | `lossy` | JPEG 2000, and JPEG XR compression (lossy), and WebP. |

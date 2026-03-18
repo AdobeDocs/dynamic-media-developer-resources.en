@@ -1,7 +1,8 @@
 ---
 title: Localization of user interface elements
 description: Certain content that the Smart Crop Video Viewer displays is subject to localization. This content includes user interface element tool tips and an error message that is displayed when the video cannot be played.
-solution: Experience Manager
+solution: Experience Manager, Experience Manager Assets
+feature-set: Experience Manager, Experience Manager Assets
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 exl-id: e5019948-d8ed-4bb2-b652-2936b6f694c9

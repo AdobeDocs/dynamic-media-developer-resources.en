@@ -2,8 +2,9 @@
 title: Panoramic Viewer
 description: HTML5 Panoramic Viewer is an image viewer that displays a panoramic image. The purpose of this viewer is to display a spherical panorama, also known as equirectangular image. It supports auto-panning and panning by gyroscopic movement. It is designed to work on desktops and mobile devices. Virtual reality viewing mode is available on supporting mobile devices.
 keywords: responsive
-solution: Experience Manager
-feature: Dynamic Media Classic,Viewers,SDK/API,Panoramic
+solution: Experience Manager, Experience Manager Assets
+feature-set: Experience Manager, Experience Manager Assets
+feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,User
 ---
 # Panoramic{#panoramic}

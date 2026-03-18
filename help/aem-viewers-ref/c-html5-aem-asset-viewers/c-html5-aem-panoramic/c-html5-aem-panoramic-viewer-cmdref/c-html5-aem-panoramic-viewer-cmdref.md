@@ -2,10 +2,13 @@
 title: Command reference – Configuration attributes
 description: Configuration attributes documentation for Panoramic Viewer.
 solution: Experience Manager
-feature: Dynamic Media Classic,Viewers,SDK/API,Panoramic
 role: Developer,User
 ---
 # Command reference – Configuration attributes{#command-reference-configuration-attributes}
+
+<!--
+feature: Dynamic Media Classic,Viewers,SDK/API
+-->
 
 Configuration attributes documentation for Panoramic Viewer.
 

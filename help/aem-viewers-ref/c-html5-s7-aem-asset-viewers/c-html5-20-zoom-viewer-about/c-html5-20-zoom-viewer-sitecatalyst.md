@@ -3,7 +3,7 @@ title: Support for Adobe Analytics tracking
 description: Support for Adobe Analytics tracking
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
-role: Developer,User,Data Engineer,Data Architect
+role: Developer,User
 exl-id: 5f927a4b-b9c8-4750-9d1c-c252d87fd236
 ---
 # Support for Adobe Analytics tracking{#support-for-adobe-analytics-tracking}

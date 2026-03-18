@@ -130,5 +130,6 @@ Effective September 30, 2018, Adobe Dynamic Media Classic Viewers ended support 
 * Baidu January 2015
 
 NOTE
-FLASH VIEWERS END-OF-LIFE — Effective January 31, 2017, Adobe Dynamic Media Classic officially ended support for the Flash viewer platform. -->
+FLASH VIEWERS END-OF-LIFE — Effective January 31, 2017, Adobe Dynamic Media Classic officially ended support for the Flash viewer platform.
+-->
 

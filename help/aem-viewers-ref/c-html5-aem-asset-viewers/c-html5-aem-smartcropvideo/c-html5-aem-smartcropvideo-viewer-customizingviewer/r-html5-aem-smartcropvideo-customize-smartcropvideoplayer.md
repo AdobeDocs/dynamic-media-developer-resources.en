@@ -1,7 +1,8 @@
 ---
 title: Video player
 description: The smart crop video player is the rectangular area where the video content is displayed within the viewer.
-solution: Experience Manager
+solution: Experience Manager, Experience Manager Assets
+feature-set: Experience Manager, Experience Manager Assets
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 ---

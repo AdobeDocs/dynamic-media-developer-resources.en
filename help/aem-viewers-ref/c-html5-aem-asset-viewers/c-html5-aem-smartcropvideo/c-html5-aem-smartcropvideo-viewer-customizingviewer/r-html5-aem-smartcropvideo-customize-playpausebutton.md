@@ -1,7 +1,8 @@
 ---
 title: Play/Pause button
 description: The play/pause button causes the smart crop video player to play or pause the video content when a user clicks it.
-solution: Experience Manager
+solution: Experience Manager, Experience Manager Assets
+feature-set: Experience Manager, Experience Manager Assets
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 exl-id: 03b819cc-a709-496a-9edb-29813b13e979

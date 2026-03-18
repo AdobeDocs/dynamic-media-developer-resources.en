@@ -24,11 +24,11 @@ Retrieves an XMP Metadata packet for the specified asset.
 
 ## Parameters {#section-b4075df0e4414b00b961d978d5471db9}
 
-**Input (getXMPPacketParam** 
+**Input (getXMPPacketParam)** 
 
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
-|  companyHandle  | `xsd:string`  | Yes  |The company handle with the packet you want to return (for example, `c|656`).  |
+|  companyHandle  | `xsd:string`  | Yes  |The company handle with the packet you want to return (for example, `c`\|`656`).  |
 |  assetHandle  | `xsd:string`  | Yes  | The asset for which the XMP packet should be retrieved.  |
 
 **Output (getXMPPacketReturn)** 

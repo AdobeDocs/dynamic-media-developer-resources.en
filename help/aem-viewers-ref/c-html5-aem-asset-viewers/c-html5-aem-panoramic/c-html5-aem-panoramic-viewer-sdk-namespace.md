@@ -1,8 +1,9 @@
 ---
 title: Viewer SDK namespace
 description: Viewer SDK namespace
-solution: Experience Manager
-feature: Dynamic Media Classic,Viewers,SDK/API,Panoramic
+solution: Experience Manager, Experience Manager Assets
+feature-set: Experience Manager, Experience Manager Assets
+feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,User
 exl-id: 3360a3bd-8a4a-4bf9-98bf-ada7c35c58f4
 ---

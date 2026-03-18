@@ -33,6 +33,8 @@ In addition, the default catalog provides all attributes and data records (ICC p
 
 For correct functioning of the Render Server, the catalog attributes file for the default catalog must be named [!DNL default.ini]. It must also always exist in the catalog folder, and must be fully populated with all required attributes, excluding `attribute::RootId` and the references to the various catalog data files, which are all optional.
 
-<!-- **See also**
+<!--
+ **See also**
 
-`PlatformServer::ir.catalogRootPath` -->
+`PlatformServer::ir.catalogRootPath`
+-->

@@ -1,7 +1,8 @@
 ---
 title: ControlBar.transition
 description: Configuration attribute for Smart Crop Video Viewer.
-solution: Experience Manager
+solution: Experience Manager, Experience Manager Assets
+feature-set: Experience Manager, Experience Manager Assets
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 exl-id: 7b4db11b-e9ac-4a52-9206-083989128bc6

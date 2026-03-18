@@ -1,8 +1,9 @@
 ---
 title: setHandlers
 description: JavaScript API reference for Panoramic Viewer
-solution: Experience Manager
-feature: Dynamic Media Classic,Viewers,SDK/API,Panoramic
+solution: Experience Manager, Experience Manager Assets
+feature-set: Experience Manager, Experience Manager Assets
+feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,User
 exl-id: 90775d4a-386b-4b56-b75e-8afafe749645
 ---
