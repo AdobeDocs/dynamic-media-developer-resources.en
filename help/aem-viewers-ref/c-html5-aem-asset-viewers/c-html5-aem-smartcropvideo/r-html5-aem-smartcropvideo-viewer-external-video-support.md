@@ -1,7 +1,8 @@
 ---
 title: External video support
 description: The viewer supports playing video hosted outside of Dynamic Media Classic or Adobe Experience Manager - Dynamic Media.
-solution: Experience Manager
+solution: Experience Manager, Experience Manager Assets
+feature-set: Experience Manager, Experience Manager Assets
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 exl-id: 2ab5a083-5995-440a-a9a6-6642277b8a58

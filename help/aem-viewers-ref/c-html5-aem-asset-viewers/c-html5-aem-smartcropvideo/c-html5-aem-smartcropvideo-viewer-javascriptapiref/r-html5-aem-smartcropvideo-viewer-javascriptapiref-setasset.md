@@ -1,7 +1,8 @@
 ---
 title: setAsset
 description: JavaScript API reference for Smart Crop Video Viewer.
-solution: Experience Manager
+solution: Experience Manager, Experience Manager Assets
+feature-set: Experience Manager, Experience Manager Assets
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 exl-id: 70e2a0c7-8614-432a-9e20-c6d60441bb6c

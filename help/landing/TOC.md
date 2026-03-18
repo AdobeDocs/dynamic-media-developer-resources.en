@@ -8,14 +8,15 @@ user-guide-title: Adobe Dynamic Media Developer Resources
 breadcrumb-title: Dynamic Media Developer Resources
 user-guide-description: Access Dynamic Media developer resources such as the Viewers Reference Guide, Image Production System API, Image Serving and Rendering API, and archived Scene7 release notes.
 feature-set: Experience Manager Assets
-index: y
+index: true
 ---
 
 # Dynamic Media Developer Resources{#landing}
 
 + [Home](home.md)
 
-<!--This TOC may not be necessary. Not sure, so leaving it in.
+<!--
+This TOC may not be necessary. Not sure, so leaving it in.
 + [Viewers Reference Guide](/help/aem-viewers-ref/homeviewers.md)
 + [IS/IR API](/help/aem-is-ir-api/homeisir.md)
 + [IPS API](/help/aem-ips-api/c-overview.md)

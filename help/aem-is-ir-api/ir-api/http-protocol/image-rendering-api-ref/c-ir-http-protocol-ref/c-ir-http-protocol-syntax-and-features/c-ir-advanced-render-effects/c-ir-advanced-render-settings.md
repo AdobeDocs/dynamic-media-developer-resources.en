@@ -374,8 +374,12 @@ These settings are controlled interactively in Image Authoring. It is possible t
  </tbody> 
 </table>
 
-<!-- RB: I don't know why this is in here; it was added by someone else: 
-Alternate Shader Rendering (default on) checkbox provides a more precise Advanced Shader diffuse rendering pipeline. For a number of effects it also provides an alternate Advanced Shader rendering pipeline. Note that the underlying OpenGL hardware must provide support for the Advanced (Per-Pixel) GLSL Shaders for this option to be vailable; else this checkbox is automatically disabled. -->
+<!--
+ RB: I don't know why this is in here; it was added by someone else: 
+Alternate Shader Rendering (default on) checkbox provides a more precise Advanced Shader diffuse rendering pipeline. For a number of effects it also provides an alternate Advanced Shader rendering pipeline. Note that the underlying OpenGL hardware must provide support for the Advanced (Per-Pixel) GLSL Shaders for this option to be vailable; else this checkbox is automatically disabled.
+-->
 
-<!-- RB: I don't know why this is in here; it was added by someone else:
-It should probably also go into the different renders - Render Effects and Alternate Shader - or link to descriptions of each. -->
+<!--
+ RB: I don't know why this is in here; it was added by someone else:
+It should probably also go into the different renders - Render Effects and Alternate Shader - or link to descriptions of each.
+-->

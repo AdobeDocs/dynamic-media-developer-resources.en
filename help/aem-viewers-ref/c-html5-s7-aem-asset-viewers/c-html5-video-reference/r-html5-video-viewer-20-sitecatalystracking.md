@@ -3,7 +3,7 @@ title: Support for Adobe Analytics tracking
 description: The Video Viewer supports Adobe Analytics tracking out-of-the-box.
 solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Video
-role: Developer,User,Data Engineer,Data Architect
+role: Developer,User
 exl-id: 2cc7087d-ed02-4560-b9ce-533af2b11a24
 ---
 # Support for Adobe Analytics tracking{#support-for-adobe-analytics-tracking}

@@ -8,7 +8,7 @@ user-guide-description: View documentation about IS (Image Serving) and IR (Imag
 
 # Dynamic Media Image Serving and Rendering API {#image-serving-api}
 
-+ [Dynamic Media Image Serving and Image Rendering API Home](homeisir.md)<!-- (https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/homeisir.html) -->
++ [Dynamic Media Image Serving and Image Rendering API Home](homeisir.md)
 + [About this release](r-about-this-release.md)
 + [System requirements and prerequisites](r-requirements-and-prerequisites.md)
 + [Disk space requirements and recommendations](r-disk-space-reqs.md)
@@ -759,3 +759,9 @@ user-guide-description: View documentation about IS (Image Serving) and IR (Imag
       + [Options for cabinet style files](ir-api/vntc/utilities/c-ir-vignette-converter-vntc/r-ir-options-for-cabinet-style-files.md)
       + [Returns](ir-api/vntc/utilities/c-ir-vignette-converter-vntc/r-ir-returns.md)
       + [Output](ir-api/vntc/utilities/c-ir-vignette-converter-vntc/r-ir-output.md)
+
+<!--
+Comment from the first link in the TOC:
+(https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/homeisir.html)
+Comments within the TOC can cause rendering problems.
+-->

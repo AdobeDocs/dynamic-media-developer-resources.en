@@ -1,7 +1,8 @@
 ---
 title: SmartCropVideoPlayer.preload
 description: Indicates whether the viewer begins loading video content before the playback starts.
-solution: Experience Manager
+solution: Experience Manager, Experience Manager Assets
+feature-set: Experience Manager, Experience Manager Assets
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 exl-id: 7a83a02e-7b75-4f15-b8c1-aa7b64e6d3bd

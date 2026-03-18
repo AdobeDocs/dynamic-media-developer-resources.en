@@ -1,7 +1,8 @@
 ---
 title: Social share
 description: The social share tool appears in the top-right corner by default. It consists of a button and a panel which expands when user clicks or taps on a button and contains individual sharing tools.
-solution: Experience Manager
+solution: Experience Manager, Experience Manager Assets
+feature-set: Experience Manager, Experience Manager Assets
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 exl-id: 650e1a57-9b0e-4132-a9b0-42c33cacdc04

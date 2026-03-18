@@ -1,7 +1,8 @@
 ---
 title: VideoTime.timepattern
 description: Configuration attribute for Smart Crop Video Viewer.
-solution: Experience Manager
+solution: Experience Manager, Experience Manager Assets
+feature-set: Experience Manager, Experience Manager Assets
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 exl-id: b63818e2-8da0-4965-b7d6-5ecd7ab5cdca

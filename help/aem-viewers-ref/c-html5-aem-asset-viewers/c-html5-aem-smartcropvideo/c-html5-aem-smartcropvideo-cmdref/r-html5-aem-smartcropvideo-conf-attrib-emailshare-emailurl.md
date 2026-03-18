@@ -1,7 +1,8 @@
 ---
 title: EmailShare.emailurl
 description: Configuration attribute for Smart Crop Video Viewer.
-solution: Experience Manager
+solution: Experience Manager, Experience Manager Assets
+feature-set: Experience Manager, Experience Manager Assets
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 exl-id: 1d6e7be8-19c0-474d-b8ea-c4cbb8d8a45b

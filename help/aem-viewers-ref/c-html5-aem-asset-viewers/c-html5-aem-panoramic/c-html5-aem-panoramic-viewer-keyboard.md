@@ -1,8 +1,9 @@
 ---
 title: Keyboard Accessibility and Navigation
 description: All features exposed in the viewer user interface are keyboard accessible.
-solution: Experience Manager
-feature: Dynamic Media Classic,Viewers,SDK/API,Panoramic
+solution: Experience Manager, Experience Manager Assets
+feature-set: Experience Manager, Experience Manager Assets
+feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,User
 exl-id: d54fd841-2246-4d2e-8bf9-7da56f2487f3
 ---

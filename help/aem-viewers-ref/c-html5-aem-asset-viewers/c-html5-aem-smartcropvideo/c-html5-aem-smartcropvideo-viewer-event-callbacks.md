@@ -1,7 +1,8 @@
 ---
 title: Event callbacks
 description: Event callbacks
-solution: Experience Manager
+solution: Experience Manager, Experience Manager Assets
+feature-set: Experience Manager, Experience Manager Assets
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 exl-id: 21962c01-f224-408d-8072-1c7f5d78ac4b

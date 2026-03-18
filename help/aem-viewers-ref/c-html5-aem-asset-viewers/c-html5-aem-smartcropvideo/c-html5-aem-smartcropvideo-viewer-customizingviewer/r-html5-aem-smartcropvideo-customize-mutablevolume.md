@@ -1,7 +1,8 @@
 ---
 title: Mutable volume
 description: The mutable volume control initially appears as a button that lets a user mute or unmute the smart crop video player sound.
-solution: Experience Manager
+solution: Experience Manager, Experience Manager Assets
+feature-set: Experience Manager, Experience Manager Assets
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 exl-id: e0a3e849-842b-4137-acc2-34301e89518f

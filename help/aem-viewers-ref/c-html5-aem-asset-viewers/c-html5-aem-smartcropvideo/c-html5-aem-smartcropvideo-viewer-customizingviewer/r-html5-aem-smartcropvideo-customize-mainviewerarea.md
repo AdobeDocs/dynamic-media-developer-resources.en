@@ -1,7 +1,8 @@
 ---
 title: Main viewer area
 description: The main view area is occupied by the smart crop video. It usually sets to fit the available device screen when no size is specified.
-solution: Experience Manager
+solution: Experience Manager, Experience Manager Assets
+feature-set: Experience Manager, Experience Manager Assets
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 exl-id: c8ea6698-e425-491f-8413-2260ddf40c33

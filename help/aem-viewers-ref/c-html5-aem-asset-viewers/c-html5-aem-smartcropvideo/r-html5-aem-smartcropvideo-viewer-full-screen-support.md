@@ -1,7 +1,8 @@
 ---
 title: full-screen support
 description: The viewer supports full-screen operation mode.
-solution: Experience Manager
+solution: Experience Manager, Experience Manager Assets
+feature-set: Experience Manager, Experience Manager Assets
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 exl-id: fbf2b9cb-9187-4ce9-99d5-07ca20b7fa7d

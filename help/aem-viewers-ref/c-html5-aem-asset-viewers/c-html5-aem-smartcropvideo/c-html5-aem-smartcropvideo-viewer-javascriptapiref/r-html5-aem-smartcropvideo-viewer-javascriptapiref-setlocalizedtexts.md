@@ -1,7 +1,8 @@
 ---
 title: setLocalizedTexts
 description: setLocalizedTexts
-solution: Experience Manager
+solution: Experience Manager, Experience Manager Assets
+feature-set: Experience Manager, Experience Manager Assets
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 exl-id: 313069b6-f114-487a-8322-55b4dff43f68

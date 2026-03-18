@@ -34,7 +34,7 @@ Owing to DPR optimization, when the resultant image is greater than the MaxPix D
 
 | Requested image size | DPR value | Delivered image size |
 |-|-|-|
-|816 x 500 | 1 | 816 x 500 | 
+|816 x 500 | 1 | 816 x 500 |
 |816 x 500 | 2 | 1632 x 1000 |
 |816 x 500 | 3 | 2448 x 1500 |
 |816 x 500 | 4 | 3264 x 2000 |
