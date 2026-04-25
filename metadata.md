@@ -3,9 +3,11 @@ cloud: Experience Cloud
 description: Dynamic Media Classic
 solution: Dynamic Media Classic
 product: adobe dynamic media classic
+landing-page-name: experience-manager
+landing-page-breadcrumb-title: AEM
 type: Documentation
 git-repo: https://github.com/AdobeDocs/dynamic-media-developer-resources.en
-index: yes
+index: true
 recommendations: noDisplay
 ---
 
