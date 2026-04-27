@@ -504,7 +504,7 @@ user-guide-description: View documentation about IS (Image Serving) and IR (Imag
       + [ruleset](is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-rule-set-reference/r-ruleset-rule.md)
       + [substitution](is-api/image-catalog/image-serving-api-ref/c-image-catalog-reference/c-rule-set-reference/r-substitution-rule.md)
    + [Image server proxy](is-api/image-serving-api-ref/r-image-server-proxy.md)
-   + [Image Server examples](is-api/image-serving-api-ref/r-examples-is.md)
+   + {hide-from-toc} [Image Server examples](is-api/image-serving-api-ref/r-examples-is.md)
    + Responsive Static Image Library {#responsive-static-image-library}
       + [Responsive Static Image library](is-api/image-serving-api-ref/c-about-responsive-static-image-library/c-about-responsive-static-image-library.md)
       + [Using Responsive Image library](is-api/image-serving-api-ref/c-about-responsive-static-image-library/t-using-responsive-static-image-library.md)
