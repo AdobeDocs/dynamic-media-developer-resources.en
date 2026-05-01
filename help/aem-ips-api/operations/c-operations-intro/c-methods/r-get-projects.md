@@ -5,6 +5,15 @@ title: getProjects
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: d7262ed7-7419-4d6b-86ed-f3ad4657d654
+TQID: https://experienceleague.adobe.com/hZaii5qJ5vXg6poZedw5xrsQBGn95C4vYdEekGBbfvM
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # getProjects{#getprojects}
 

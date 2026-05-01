@@ -4,6 +4,15 @@ description: Adobe Dynamic Media developer resources
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: be0763ba-f343-4dd0-8146-1facb4cd5b0b
+TQID: https://experienceleague.adobe.com/shNargpX188RiLR-ToHcLx3t1QxympjXfvY4E2amqbw
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # [!DNL Dynamic Media] Developer Resources{#dynamic-media-developer-resource}
 

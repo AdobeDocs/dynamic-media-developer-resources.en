@@ -6,6 +6,15 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: 3c451400-4f44-4887-a045-46b064570b01
+TQID: https://experienceleague.adobe.com/KfdBQmUdSbuPVvoL7C7L-oTkZjIhy8OSInMxNqBhsYw
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Customizing eCatalog Viewer{#customizing-ecatalog-viewer}
 

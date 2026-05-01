@@ -5,6 +5,15 @@ title: generatePassword
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 80e7642f-4aec-4ff0-a090-e59b7a065c39
+TQID: https://experienceleague.adobe.com/BhTuwhskY-ZE0tGXS8yyG3UvnbN-Y3-0ej16rcx9yWk
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # generatePassword{#generatepassword}
 

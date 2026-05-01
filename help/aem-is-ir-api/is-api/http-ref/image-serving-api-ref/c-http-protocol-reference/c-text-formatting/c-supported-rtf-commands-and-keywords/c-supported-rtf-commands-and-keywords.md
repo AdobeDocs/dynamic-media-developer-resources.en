@@ -5,6 +5,18 @@ title: Supported RTF commands and keywords
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: a63bc7f1-34a9-485d-aadd-c65e3e26034a
+TQID: https://experienceleague.adobe.com/blA3HdylvWunUaCSS6j4JOvQ2b-alVmo5YBYSDVXYC4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Supported RTF commands and keywords{#supported-rtf-commands-and-keywords}
 

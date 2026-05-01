@@ -5,6 +5,15 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,User
 exl-id: 366deb3d-061e-454c-bcd1-e31965613a5c
+TQID: https://experienceleague.adobe.com/xaMJc4fw24R6DqM0VecPmw6x9aGJgGffJHGut8L0-ZE
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # FlyoutViewer{#flyoutviewer}
 

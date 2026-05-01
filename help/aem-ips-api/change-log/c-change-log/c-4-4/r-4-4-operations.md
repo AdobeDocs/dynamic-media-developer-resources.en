@@ -5,6 +5,18 @@ title: Operations  New and Modified
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: f51bb85e-5585-49ad-87c6-57c5e62531c7
+TQID: https://experienceleague.adobe.com/Vd3yyLc614dR73YzTT-B4qhGwgS26o6JBjOTJei9Zxc
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
 ---
 # Operations: New and Modified{#operations-new-and-modified}
 

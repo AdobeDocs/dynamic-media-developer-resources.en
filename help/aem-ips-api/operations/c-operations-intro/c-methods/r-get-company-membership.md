@@ -5,6 +5,15 @@ title: getCompanyMembership
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 53af8a97-208c-4c44-93d6-aa36a459af51
+TQID: https://experienceleague.adobe.com/m8HE0NGjcH0n1-8bMWBjkybP-BdEAi3MKLS3azDYvQQ
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # getCompanyMembership{#getcompanymembership}
 

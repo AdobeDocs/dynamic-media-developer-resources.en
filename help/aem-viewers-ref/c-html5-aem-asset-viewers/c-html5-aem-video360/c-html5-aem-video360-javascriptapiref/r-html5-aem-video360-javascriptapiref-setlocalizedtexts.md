@@ -5,6 +5,15 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,360 VR Video
 role: Developer,User
 exl-id: b0434886-defa-47d4-9853-bfd73c64d036
+TQID: https://experienceleague.adobe.com/cF63ONAl14taEvMx0aq19VxdsKuqz-jOw5I7u0rjtFs
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # setLocalizedTexts{#setlocalizedtexts}
 

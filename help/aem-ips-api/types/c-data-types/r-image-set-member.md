@@ -5,6 +5,15 @@ title: ImageSetMember
 feature: Dynamic Media Classic,SDK/API,Image Sets
 role: Developer,Admin
 exl-id: f0857d98-be79-40a6-8a84-c2c7b4c423c5
+TQID: https://experienceleague.adobe.com/WpG9vBymglopLM7OXsgRTU9ie6j8sfWUGyvf-FWR8uY
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # [!DNL ImageSetMember]{#imagesetmember}
 

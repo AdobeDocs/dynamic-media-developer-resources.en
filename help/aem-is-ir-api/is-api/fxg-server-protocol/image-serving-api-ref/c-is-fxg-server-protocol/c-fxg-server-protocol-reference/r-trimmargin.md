@@ -5,6 +5,18 @@ title: trimMargin
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: dc6e31f8-d3be-44d3-8342-a4ef4b3fd61b
+TQID: https://experienceleague.adobe.com/mORFOBC58y3a7xNau3T3YwEk-uOl4Ob4uXZORVBXYiA
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # trimMargin{#trimmargin}
 

@@ -2,10 +2,18 @@
 description: PageView.zoomstep
 solution: Experience Manager
 title: PageView.zoomstep
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: d92e56ae-2bb6-46f6-b0f7-64b867492a37
+TQID: https://experienceleague.adobe.com/btgvCA2HRMVGSDRFv1N3x59oIntgZJBIfK0NIzb5IW4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # PageView.zoomstep{#pageview-zoomstep}
 

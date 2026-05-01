@@ -5,6 +5,15 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,User
 exl-id: 70517201-9d59-4d9c-986d-a6e9655b7956
+TQID: https://experienceleague.adobe.com/NcRKh5UQTlVFZ4qvUolKji9WazkKRUQDeWToC81NW-I
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Hotspots and Image maps{#hotspots-and-image-maps}
 

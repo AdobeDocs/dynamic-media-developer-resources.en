@@ -2,10 +2,18 @@
 description: PageView.frametransition
 solution: Experience Manager
 title: PageView.frametransition
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: 19239fa8-65a8-487f-9370-42bb93d862d5
+TQID: https://experienceleague.adobe.com/mx-kO2Rlsxu4Xccqc0HeUEXIdYJ3FJSfDmudBwrZp84
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # PageView.frametransition{#pageview-frametransition}
 

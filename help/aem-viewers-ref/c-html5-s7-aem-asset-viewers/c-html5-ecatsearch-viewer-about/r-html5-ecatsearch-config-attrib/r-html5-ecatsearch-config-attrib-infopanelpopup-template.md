@@ -2,10 +2,18 @@
 description: InfoPanelPopup.template
 solution: Experience Manager
 title: InfoPanelPopup.template
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: b792cddb-f3d2-4609-95b7-105d76fb3d6f
+TQID: https://experienceleague.adobe.com/BxQ0tzIYBOMxh21D7ak4RgTDcOZfz21OflZK-ng2kK0
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # InfoPanelPopup.template{#infopanelpopup-template}
 

@@ -5,6 +5,15 @@ title: batchSetImageFields
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 8ea6dbb8-4d32-43e5-961f-31110f983663
+TQID: https://experienceleague.adobe.com/qKLDU16J-NO9i5c6wsA8CyhwFxP55zyb1rddwI-1Zlo
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # batchSetImageFields{#batchsetimagefields}
 

@@ -5,6 +5,15 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: cf769b2d-be4e-4d93-9620-00a438157693
+TQID: https://experienceleague.adobe.com/VbpjjjFx1ceb1yeUyAqhxg-2p2VIM1AEx-E9PTshhL8
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # PageView.maxloadradius{#pageview-maxloadradius}
 

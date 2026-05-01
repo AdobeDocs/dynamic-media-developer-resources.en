@@ -5,6 +5,15 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: 68df87db-b3c7-4a42-9ab6-742d96261ecd
+TQID: https://experienceleague.adobe.com/Qj6bwvuU1jzmTWEIZSV-u-yBQ1zTeMbw3Y6m49TX16A
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # SpinView.sensitivity{#spinview-sensitivity}
 

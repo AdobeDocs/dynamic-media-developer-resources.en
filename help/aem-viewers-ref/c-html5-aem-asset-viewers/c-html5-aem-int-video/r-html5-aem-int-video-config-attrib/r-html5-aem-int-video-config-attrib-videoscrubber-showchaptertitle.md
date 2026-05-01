@@ -5,6 +5,15 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: a687a025-37cc-42cf-8cf7-893179d399ac
+TQID: https://experienceleague.adobe.com/GoQ2-vfHf4SA6gMWYqHvGmOFH3485H6EiAStiGirWLY
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # VideoScrubber.showchaptertitle{#videoscrubber-showchaptertitle}
 

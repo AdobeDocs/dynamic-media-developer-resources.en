@@ -5,6 +5,15 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: 873fc387-1d2a-4d74-b85e-fcbb13b691c5
+TQID: https://experienceleague.adobe.com/y1gh4uKwJWNPCPeaxzRYzN1D31qcNaXwSMAtsXRoTgo
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Image map effect{#image-map-effect}
 

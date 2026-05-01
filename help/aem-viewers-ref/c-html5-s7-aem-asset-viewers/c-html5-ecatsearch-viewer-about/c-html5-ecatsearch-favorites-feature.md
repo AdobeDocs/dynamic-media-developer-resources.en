@@ -2,10 +2,18 @@
 description: Search feature
 solution: Experience Manager
 title: Search feature
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: d9bee7a6-332f-481b-b0aa-9caa0b6d982c
+TQID: https://experienceleague.adobe.com/tpgSQFhHph9YuN7TJa8JCAJ8AWRpLv3PrpzDLzrEJk4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Search feature{#search-feature}
 

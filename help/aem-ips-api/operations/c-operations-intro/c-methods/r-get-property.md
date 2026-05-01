@@ -5,6 +5,15 @@ title: getProperty
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 2297b785-28c7-49c6-8891-00986f35ea88
+TQID: https://experienceleague.adobe.com/tHn1ypcQz0d6L0aCJx-iysJkcq9cQy-o2Em74UZo28s
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # getProperty{#getproperty}
 

@@ -2,10 +2,18 @@
 description: FavoritesView.favoritesThumbView
 solution: Experience Manager
 title: FavoritesView.favoritesThumbView
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: 3a0a7482-315f-4192-aa6d-e9cc1415194f
+TQID: https://experienceleague.adobe.com/zYwdqd-7Qgdl9rq4xfgN1zmlVx46yVNO5VuFhHB5RC0
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # FavoritesView.favoritesThumbView{#favoritesview-favoritesthumbview}
 

@@ -2,10 +2,18 @@
 description: PageView.iscommand
 solution: Experience Manager
 title: PageView.iscommand
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: fd1fa0f2-d666-4470-8b5b-673f3c4327e0
+TQID: https://experienceleague.adobe.com/MmqoBSTfkUBKP24XReSfXG5vqGQ54iJGgG71cHf9bMU
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # PageView.iscommand{#pageview-iscommand}
 

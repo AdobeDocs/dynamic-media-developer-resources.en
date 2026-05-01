@@ -5,6 +5,15 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: d5aa9e9d-4d7e-428c-a43f-d2b4c9e59777
+TQID: https://experienceleague.adobe.com/csRs47Zu5rC0W1yqm7qAzO2S-liqbwwbh8vgMaTZl2Q
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Zoom reset button{#zoom-reset-button}
 

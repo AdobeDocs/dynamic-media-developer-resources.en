@@ -5,6 +5,15 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Videos
 role: Developer,User
 exl-id: 5a7272fe-e753-44cd-aaf0-0811a2662279
+TQID: https://experienceleague.adobe.com/875WbbeVbDHQrh0s0NSw7hUD7DPdUQvg7lj8Qg-WC3Y
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # InteractiveSwatches.autoscroll{#interactiveswatches-autoscroll}
 

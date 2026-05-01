@@ -5,6 +5,15 @@ title: Generation Info
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 0293d28e-a023-4a79-9a3b-fc7b5cfbc98a
+TQID: https://experienceleague.adobe.com/5AKc7Syp6A8ryKW2op6DtVTL8S-8R6EXW7nuPakmdd8
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Generation Info{#generation-info}
 

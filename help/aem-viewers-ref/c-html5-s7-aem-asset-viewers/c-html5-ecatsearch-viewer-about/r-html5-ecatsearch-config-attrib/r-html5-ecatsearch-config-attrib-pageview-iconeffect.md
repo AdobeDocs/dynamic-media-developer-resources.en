@@ -2,10 +2,18 @@
 description: PageView.iconEffect
 solution: Experience Manager
 title: PageView.iconEffect
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: eb2196cb-b771-4828-8390-cd9e3fe6c57e
+TQID: https://experienceleague.adobe.com/InSNowUzY181cpcsY5Ftv2aSKTJhMCJxgWlbJVd-QMg
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # PageView.iconEffect{#pageview-iconeffect}
 

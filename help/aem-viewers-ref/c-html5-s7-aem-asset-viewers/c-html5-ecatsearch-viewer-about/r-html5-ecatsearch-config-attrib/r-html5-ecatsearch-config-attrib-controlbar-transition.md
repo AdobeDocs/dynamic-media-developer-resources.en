@@ -2,10 +2,18 @@
 description: ControlBar.transition
 solution: Experience Manager
 title: ControlBar.transition
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: 2e08a62b-9499-41f8-927b-89bed972b4eb
+TQID: https://experienceleague.adobe.com/6i5-8e7yAbJquEXOA4iXgeFVGWTateSerL5HklwSfcY
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # ControlBar.transition{#controlbar-transition}
 

@@ -5,6 +5,15 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: 6b94e583-fb2a-4010-bfc6-4fa901252e4e
+TQID: https://experienceleague.adobe.com/FOcJ11okdDEknXSEMV0r1RgAerR3aRQVnZGX4-k15Fk
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Next page button{#next-page-button}
 

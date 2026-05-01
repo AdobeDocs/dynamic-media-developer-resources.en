@@ -5,6 +5,15 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,User
 exl-id: 34c8c7b9-0369-4d13-95f5-ad129e913453
+TQID: https://experienceleague.adobe.com/-L4BxDGQuABnBpwqT5-U-v0JsYyvCSHF7SoixyHtC-Q
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # FlyoutZoomView.preloadtiles{#flyoutzoomview-preloadtiles}
 

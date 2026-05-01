@@ -2,10 +2,18 @@
 description: SearchPanel.fmt
 solution: Experience Manager
 title: SearchPanel.fmt
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: a713b8f1-e834-457d-b038-eb30b25f905f
+TQID: https://experienceleague.adobe.com/znf4ys-zEdFuHAYjC6759DGsPQYwRrJAzEExFRwksmE
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # SearchPanel.fmt{#searchpanel-fmt}
 

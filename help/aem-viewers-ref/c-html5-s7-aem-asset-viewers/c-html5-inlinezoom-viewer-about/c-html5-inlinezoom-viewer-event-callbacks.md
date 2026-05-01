@@ -5,6 +5,15 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Inline Zoom
 role: Developer,User
 exl-id: c54c54ae-f98f-4cd4-8c36-c7e2a9f3c6df
+TQID: https://experienceleague.adobe.com/mridR0EOcJMfTMPzPeSNHVKFiYg-fRSQUUnyvEFLfgc
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Event callbacks{#event-callbacks}
 

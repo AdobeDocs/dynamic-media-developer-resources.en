@@ -2,10 +2,18 @@
 description: ImageMapEffect.mode
 solution: Experience Manager
 title: ImageMapEffect.mode
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: 3772ff80-3a51-4dd9-85a7-12242518080c
+TQID: https://experienceleague.adobe.com/pR3DDvXcw-F0L-E6oIxAZtob8fG6th2HbZtv8MJZUQs
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # ImageMapEffect.mode{#imagemapeffect-mode}
 

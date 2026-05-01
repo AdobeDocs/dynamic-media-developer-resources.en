@@ -2,10 +2,18 @@
 description: InitialFrame
 solution: Experience Manager
 title: InitialFrame
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: 15241738-a1b6-4723-b6fc-ebc8f7dedb03
+TQID: https://experienceleague.adobe.com/JeX8iSVgPoyBVnapPCJ-2X5zI696UbAPOXFrxHuEy4s
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # InitialFrame{#initialframe}
 

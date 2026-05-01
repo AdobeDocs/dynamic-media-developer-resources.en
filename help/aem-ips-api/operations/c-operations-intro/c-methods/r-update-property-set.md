@@ -5,6 +5,15 @@ title: updatePropertySet
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: bbe6a664-b6e1-4b46-867d-a134070b13da
+TQID: https://experienceleague.adobe.com/TI-OOVHJuKZrkk-myTvi5fkovYSMS0-EQODzpPBkQvE
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # updatePropertySet{#updatepropertyset}
 

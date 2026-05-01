@@ -5,6 +5,15 @@ title: getViewerConfigSettings
 feature: Dynamic Media Classic,SDK/API,Viewer Presets
 role: Developer,Admin
 exl-id: c0438238-8aab-4478-926a-fc0e11732fc1
+TQID: https://experienceleague.adobe.com/NKsjXs9Z-uiQJvmX2JpR564-atU6sfuE3yUJ74rWOVE
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # getViewerConfigSettings{#getviewerconfigsettings}
 

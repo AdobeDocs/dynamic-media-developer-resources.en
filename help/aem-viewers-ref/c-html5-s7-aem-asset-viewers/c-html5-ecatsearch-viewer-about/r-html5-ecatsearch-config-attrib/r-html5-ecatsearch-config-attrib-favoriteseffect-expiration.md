@@ -2,10 +2,18 @@
 description: FavoritesEffect.expiration
 solution: Experience Manager
 title: FavoritesEffect.expiration
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: 22fcbeb7-2377-4933-864f-ee434ec69ad0
+TQID: https://experienceleague.adobe.com/RmyRQ2vJq7EiBcmwNfYE39YXXIRlq4-ITeAif5TZ1Ks
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # FavoritesEffect.expiration{#favoriteseffect-expiration}
 

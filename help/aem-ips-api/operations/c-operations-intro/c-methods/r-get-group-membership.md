@@ -5,6 +5,15 @@ title: getGroupMembership
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 847e4982-219d-47fd-b94c-f7d520ba1367
+TQID: https://experienceleague.adobe.com/lc-1-1FG7DQ--Ylwa42elyFxZ9m4drwjmmk4gWIxW00
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # getGroupMembership{#getgroupmembership}
 

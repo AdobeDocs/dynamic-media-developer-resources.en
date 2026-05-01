@@ -5,6 +5,15 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,User
 exl-id: 7a8d7205-d3bf-4ca8-b80a-9072436a3df5
+TQID: https://experienceleague.adobe.com/h-iYGQMtKT4KTV-Q2ua3IwufMijHwndD4ceGrPhpVTI
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Installing multiple viewers on the same server{#installing-multiple-viewers-on-the-same-server}
 

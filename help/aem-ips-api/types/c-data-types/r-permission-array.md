@@ -5,6 +5,15 @@ title: PermissionArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 2d96a0ac-038a-4813-97b2-bdf3f3f0c6e2
+TQID: https://experienceleague.adobe.com/CfS0UTQGKlziSUfI1HA3bq-g1WDxy-ncaPy-xl44Wfo
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # [!DNL PermissionArray]{#permissionarray}
 

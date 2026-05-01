@@ -5,6 +5,15 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,User
 exl-id: 848eaed7-c150-4537-96a4-f2614162d58f
+TQID: https://experienceleague.adobe.com/QfWq--8uXpcbZUEO3pCFGCRq0hBfFKDZClPMSmzENe0
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # CarouselView.iscommand{#carouselview-iscommand}
 

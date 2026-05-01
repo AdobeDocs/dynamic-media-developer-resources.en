@@ -5,6 +5,15 @@ title: createViewerPreset
 feature: Dynamic Media Classic,SDK/API,Viewer Presets
 role: Developer,Admin
 exl-id: b24536d9-df66-4c94-8467-6f46e66a1b36
+TQID: https://experienceleague.adobe.com/gL4gUGfv3j-NMG7xKl-myOHCRlMK6NrEpBsO7AORplg
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # createViewerPreset{#createviewerpreset}
 

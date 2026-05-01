@@ -5,6 +5,15 @@ title: Project
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: be85f9b7-07a0-42e9-8391-45371a1ecaa6
+TQID: https://experienceleague.adobe.com/ncOw2ISdw-5C-RAT5lCHMH8mpt5i8EEiCf-mGKW98Zc
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # [!DNL Project]{#project}
 

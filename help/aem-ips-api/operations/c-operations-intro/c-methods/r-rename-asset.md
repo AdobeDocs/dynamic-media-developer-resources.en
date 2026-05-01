@@ -5,6 +5,15 @@ title: renameAsset
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Admin
 exl-id: f3fff3c1-1b48-4d86-8a81-f75be00fc329
+TQID: https://experienceleague.adobe.com/dkl6sa-krxLveXkLsrp4k2kVSRKltRe4iT-5n2FIpvU
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # renameAsset{#renameasset}
 

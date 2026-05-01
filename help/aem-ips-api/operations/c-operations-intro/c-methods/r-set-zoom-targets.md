@@ -5,6 +5,15 @@ title: setZoomTargets
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 1b4ac729-00cf-4ea2-9098-60b4af3c7e6d
+TQID: https://experienceleague.adobe.com/lgb1J5J5OfSUI14AllhS-7VZHJ95A-sZbxNt38zzxqY
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # setZoomTargets{#setzoomtargets}
 

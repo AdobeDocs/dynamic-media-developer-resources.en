@@ -2,10 +2,18 @@
 description: PageView.fmt
 solution: Experience Manager
 title: PageView.fmt
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: 690aed79-c242-402d-86c0-470a91fbb034
+TQID: https://experienceleague.adobe.com/ib-BtTivK20m9TM-lSC-Fo-RYDDxng0hzuORo-9uKe8
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # PageView.fmt{#pageview-fmt}
 

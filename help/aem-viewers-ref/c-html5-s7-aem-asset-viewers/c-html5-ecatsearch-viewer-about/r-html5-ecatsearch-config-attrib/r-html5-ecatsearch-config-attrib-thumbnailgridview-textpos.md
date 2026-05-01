@@ -2,10 +2,18 @@
 description: ThumbnailGridView.textpos
 solution: Experience Manager
 title: ThumbnailGridView.textpos
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: a79aa5c7-5691-4695-ac6d-d461ce0b1206
+TQID: https://experienceleague.adobe.com/JJTHfzfjf6tF-Zfa09H7vS5thSS3po-wMIAn3ZjxaFc
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # ThumbnailGridView.textpos{#thumbnailgridview-textpos}
 

@@ -5,6 +5,15 @@ title: PsdInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 620cf7a3-ae69-4d1e-af3d-64fe7f0302c8
+TQID: https://experienceleague.adobe.com/BJrMZpqcxeI3U2pxETxk6U9T1nUqNvU0D3eyL9UbxtY
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # [!DNL PsdInfo]{#psdinfo}
 

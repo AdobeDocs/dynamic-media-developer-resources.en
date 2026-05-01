@@ -5,6 +5,15 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: 5a34ad67-3a4c-408c-8e20-bbab87bbd470
+TQID: https://experienceleague.adobe.com/oXiw1I9SoHpQ3Ufdm-gDB7DiJ8VdnqP4w5XO-3M58LU
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # setParam{#setparam}
 

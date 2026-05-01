@@ -5,6 +5,15 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: c2292b5b-5b4e-4368-9495-9108042ec2f1
+TQID: https://experienceleague.adobe.com/ku9VNYxTVc2xq-zjrDQG9VlBuO1Jd7JQ9NPeq2t9TCQ
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # ZoomView.singleclick{#zoomview-singleclick}
 

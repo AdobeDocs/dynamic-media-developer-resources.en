@@ -5,6 +5,15 @@ title: CompanyMember
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: bce5e6a2-b866-4a54-8e0b-9bc99bf12988
+TQID: https://experienceleague.adobe.com/11OT1oLlVHlhzqUVos62R7Y0q3ahoF7akTPjByOu5Mg
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # [!DNL CompanyMember]{#companymember}
 

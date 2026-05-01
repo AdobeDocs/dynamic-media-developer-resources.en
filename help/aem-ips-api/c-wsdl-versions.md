@@ -5,6 +5,18 @@ title: IPS Web Service WSDL versions
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: d7a6079e-286e-4e62-b2ff-551ef4a5815c
+TQID: https://experienceleague.adobe.com/qPQD7m6H9WGq-MbY76zVAXKZSu4EsJ3kGNC7fcoNxN4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # IPS Web Service WSDL versions{#ips-web-service-wsdl-versions}
 

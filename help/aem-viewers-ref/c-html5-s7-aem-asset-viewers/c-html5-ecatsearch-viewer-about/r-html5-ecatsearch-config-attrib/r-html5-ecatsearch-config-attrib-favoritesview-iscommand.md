@@ -1,13 +1,19 @@
 ---
 description: The Image Serving command string that is applied to all thumbnails.
-
-
 solution: Experience Manager
 title: FavoritesView.iscommand
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: 114cc5b7-32b9-4d16-ab93-a66f3ec666e0
+TQID: https://experienceleague.adobe.com/DA-9zV7oDwb3xjmWnuS-itwtzU4H1iqCpeDnSQnjTHM
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # FavoritesView.iscommand{#favoritesview-iscommand}
 

@@ -5,6 +5,15 @@ title: updateFolderPermissions
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 4e4f382e-4339-4b9d-a721-d33a4fa8be6b
+TQID: https://experienceleague.adobe.com/lctixR7-S-YN2jimA-C-P22FpQa2tEhsBSYZZQSEVsw
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # updateFolderPermissions{#updatefolderpermissions}
 

@@ -5,6 +5,15 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,User
 exl-id: fce8ab8a-4db0-4902-8e82-26f201a88dbe
+TQID: https://experienceleague.adobe.com/G-WbOh-U6aZ19PeN0f3IEH34jypFzWf-6zYo99ZEANY
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Zoom reset button{#zoom-reset-button}
 

@@ -5,6 +5,15 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,User
 exl-id: 2cb2e719-ee56-45e5-a509-7e13bb3c2165
+TQID: https://experienceleague.adobe.com/EJd8lIwsBxjh6ZPg4uD0SH9wV7Xd7hIc1BUG3ow6P8Q
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Focus highlight{#focus-highlight}
 

@@ -2,10 +2,18 @@
 description: Managing page labels
 solution: Experience Manager
 title: Managing page labels
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: 73c3904f-678f-47c4-b895-86671402df79
+TQID: https://experienceleague.adobe.com/3TvQn8euqduLAuxKv0FQ7ZcDBL50H1VyfkANJMyDJFc
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Managing page labels{#managing-page-labels}
 

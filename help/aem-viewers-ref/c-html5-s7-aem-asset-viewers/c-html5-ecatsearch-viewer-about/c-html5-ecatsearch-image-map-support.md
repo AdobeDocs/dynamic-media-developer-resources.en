@@ -1,13 +1,19 @@
 ---
 description: The eCatalog Search Viewer supports the rendering of image map icons above the main view.
-
-
 solution: Experience Manager
 title: Image map support
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: 58e7523f-1615-4da4-bb09-a995bf427bfc
+TQID: https://experienceleague.adobe.com/8QmSoEKZQcjWRbtyR62DBQSZ06lHULL8fojheppQsRI
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Image map support{#image-map-support}
 

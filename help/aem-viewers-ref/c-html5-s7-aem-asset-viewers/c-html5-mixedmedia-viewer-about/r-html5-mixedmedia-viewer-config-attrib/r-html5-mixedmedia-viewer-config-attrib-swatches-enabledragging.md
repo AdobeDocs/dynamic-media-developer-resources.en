@@ -5,6 +5,15 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Mixed Media Sets
 role: Developer,User
 exl-id: fd432573-677f-4c46-9cc1-88089496ce75
+TQID: https://experienceleague.adobe.com/nt1Q8QosUXc5kCxev8KiE-ty92Uk6ZMT6Aow40sb0Lo
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Swatches.enabledragging{#swatches-enabledragging}
 

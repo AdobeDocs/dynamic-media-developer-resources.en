@@ -4,6 +4,15 @@ description: Certain content that the Interactive Image Viewer displays is subje
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,User
 exl-id: 19749c74-5c31-4dcf-ab07-0e7f10176a86
+TQID: https://experienceleague.adobe.com/PfyMiUU-dgTKAF-JBQu3R1tyAo-LT2rDX4epuZ4utnA
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Localization of user interface elements{#localization-of-user-interface-elements}
 

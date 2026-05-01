@@ -5,6 +5,15 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,User
 exl-id: 75521239-a0be-4aa0-b65d-9a1f7d902cf2
+TQID: https://experienceleague.adobe.com/2XVOvOuUK4rBYm5bOBROV-WawzU8EJYh50aUbj3SOT4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # SetIndicator.autohide{#setindicator-autohide}
 
