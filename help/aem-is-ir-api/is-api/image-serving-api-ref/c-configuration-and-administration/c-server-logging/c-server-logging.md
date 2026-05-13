@@ -5,7 +5,7 @@ title: Server logging
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin,User
 exl-id: 5be30dd6-e540-4189-9379-7465ac7198ce
-TQID: https://experienceleague.adobe.com/9CDhwgLXFqpIfa6m6SVZ6Y0FGTC5rO45pbwpIFo9eF8
+TQID: 'https://experienceleague.adobe.com/9I1gAXWb1Rpuml9WCCVPVC7FrpVazWN79Sk0-bb-tDc'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

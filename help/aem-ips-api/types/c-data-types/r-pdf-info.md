@@ -5,10 +5,13 @@ title: PdfInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 033bdcf2-ddb2-48c2-97ab-2f72cc7780c8
-TQID: https://experienceleague.adobe.com/0o7VmM4x8crv2rVcO96J4Wb3q7PfcfIUcFlNHuTk5Qw
+TQID: 'https://experienceleague.adobe.com/eV7u57B3Ra4QuKC1UiB0BhL3lQlJEauERSxORIy7bq0'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

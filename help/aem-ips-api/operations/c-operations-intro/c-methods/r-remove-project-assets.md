@@ -5,10 +5,13 @@ title: removeProjectAssets
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Admin
 exl-id: 6bf169ec-c724-4ac0-a2bf-67af2ebba21a
-TQID: https://experienceleague.adobe.com/gYf-duuoCirx92crCp7Jl-uvUQ1-Gjoo-Mfeu44Upmw
+TQID: 'https://experienceleague.adobe.com/GHGyYEF5H3Me5jKtkfd15Ok8KEk2hrRuVxrKCF7cZ-E'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

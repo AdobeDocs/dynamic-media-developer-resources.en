@@ -6,10 +6,13 @@ feature-set: Experience Manager, Experience Manager Assets
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
 exl-id: 92c25a5a-2103-4906-8ff7-ffc8e0541464
-TQID: https://experienceleague.adobe.com/kxg3WhZ2hSJ9Vj8xCortvzjX9Ieps2aTcqd-R5e2-iw
+TQID: 'https://experienceleague.adobe.com/ubkdFfGXDww1szTb1wxiK2iNdnI1JylU1eTOvUI66io'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

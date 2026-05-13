@@ -5,7 +5,7 @@ title: Video attributes
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: c6bf2736-df10-41a2-b3ec-c930d6881f20
-TQID: https://experienceleague.adobe.com/TzOCZjgE3osrDXCrmFv-I8X3wm48zGtIiwwr8AVQA9U
+TQID: 'https://experienceleague.adobe.com/Hl4-Qs7B4LTqaWm1v2KANT66gLqAQDOw2tBKeqSYpvw'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

@@ -5,10 +5,13 @@ title: Assistive technology support
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search,Accessibility
 role: Developer,User
 exl-id: fbfc9415-6ab8-466c-9a1f-d33565eff2a4
-TQID: https://experienceleague.adobe.com/Be1ZQBVXwvn65AuuKzZM-qngV4AkbsQfMGky6nhaFt0
+TQID: 'https://experienceleague.adobe.com/iaM1o85zC7GNh-RZcMYfjGk99eb8RfobLSGLzwtbOqk'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

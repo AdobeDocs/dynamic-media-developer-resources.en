@@ -5,7 +5,7 @@ title: printerMark
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: f61c7311-a2e9-4eb7-ae05-276a4eec980b
-TQID: https://experienceleague.adobe.com/dZPOT1PFUeJWjTAfdqhPBR8-2K6Y4TvhqZ4-m4WVTAc
+TQID: 'https://experienceleague.adobe.com/tit-a3stXGj0fZoMgi15lPIk-MtZSvUDOqlcayfNlwk'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

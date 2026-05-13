@@ -5,7 +5,7 @@ title: ThumbBkgColor
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 88acf5ad-2973-42f9-9aaa-901e66b07f53
-TQID: https://experienceleague.adobe.com/7NzPiudoSS3UATRp1Fskc39nkWc-l6IzjK12-3pwbPg
+TQID: 'https://experienceleague.adobe.com/ExdSGafazvDJ0iqMeDvUjD7EFGZ8TKkNn-0klzizVUI'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

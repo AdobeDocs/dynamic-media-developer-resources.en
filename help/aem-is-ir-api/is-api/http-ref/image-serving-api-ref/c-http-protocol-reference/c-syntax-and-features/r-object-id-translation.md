@@ -5,7 +5,7 @@ title: Object ID translation
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 7a3bd6a1-2ad4-4da2-944c-489b7d18fdc1
-TQID: https://experienceleague.adobe.com/qhmqbl-Ris0nhIIR5UKvX9hareYWx6RT4GQy8pI5fgI
+TQID: 'https://experienceleague.adobe.com/jeFY6jJ5HJ4mPK6ng93G9PZ6ENSlk7Wtj8S-GTdMJbM'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

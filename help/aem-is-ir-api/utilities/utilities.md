@@ -4,7 +4,7 @@ title: Utilities
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: a2bd12b1-a64b-4314-bac9-66aae807356d
-TQID: https://experienceleague.adobe.com/WHYAmIsYva4Hz3tfCFJtoHBUR-9RVr883vwWY-64Bx4
+TQID: 'https://experienceleague.adobe.com/RV4oS2LLAAhNS7mYAEd0ebScd-U3KWG96uBPWxuqlhw'
 product_v2:
   - id: beaff0dd-a904-4c6b-8290-b527cd877d75
     internal-label: Dynamic Media Classic

@@ -5,10 +5,13 @@ title: saveImageFormat
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: cafbd715-237b-4454-920e-643f0c84e208
-TQID: https://experienceleague.adobe.com/OnchTPYSZ70BE3l6zn7-VgIqFYYo-lE6vPXQVBNfV6k
+TQID: 'https://experienceleague.adobe.com/kP25DoK-SIRIYh69I8tE07KH4dI-GFZf9JjUZjG-lFw'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

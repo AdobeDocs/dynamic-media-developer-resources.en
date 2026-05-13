@@ -5,10 +5,13 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Interactive Images
 role: Developer,User
 exl-id: 59b8a88e-0139-4981-bfb9-f2dc1ac2337d
-TQID: https://experienceleague.adobe.com/bRjlgNIqbyFpkLr7wFOocrtaPg8CdHi4g8KV-C3024c
+TQID: 'https://experienceleague.adobe.com/rANyVj9GuwAbFPrO2-xVCD0cvvo4kZutjyDrkj60yVU'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

@@ -5,7 +5,7 @@ title: ThumbType
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: ac29ac3a-8c6b-4c87-954f-37d1ddec76f5
-TQID: https://experienceleague.adobe.com/WR24RDJeKEKVJHishB0EHh-rx0MmFAgWe7wZVPx3x6k
+TQID: 'https://experienceleague.adobe.com/BoSwS4iXsvygzR69-5lupAwyynicSlYGRnITnpnSZuc'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

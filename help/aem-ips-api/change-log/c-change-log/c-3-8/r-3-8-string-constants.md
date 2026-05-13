@@ -5,10 +5,13 @@ title: String Constants  New and Modified
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 38f28e0f-edda-4786-9627-c0ef49645237
-TQID: https://experienceleague.adobe.com/KcR3VtzW8IB8UjIA-pZjB7F-Jytpbr6bDjf-9xl3mfU
+TQID: 'https://experienceleague.adobe.com/oCEWJmVWZd3WtUopY7g8mGA1j8kvVM-F8sOQ1icLFhU'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

@@ -5,7 +5,7 @@ title: Expiration
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 5717d568-467e-495b-b963-9b3d42e866a6
-TQID: https://experienceleague.adobe.com/mBtUjTVzXF6IecKNTwrRb9j3WaT3dxxcD5xhGBBJuqI
+TQID: 'https://experienceleague.adobe.com/VHARdBKoak-pB54FrPO6u0Gpmd-1sQZUF-78j3ixB2U'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

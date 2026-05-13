@@ -5,10 +5,13 @@ title: UploadPostJob
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 60163016-fe96-4ac2-9208-da8192042d0f
-TQID: https://experienceleague.adobe.com/6AJLyRiJI5Xl-0S1WA8KpQH6INeZbpnlYS7wOfc6Mb8
+TQID: 'https://experienceleague.adobe.com/HyBhZzT6yi-kgeyJmPZT4clh4FrdwhYqGCo1uZv1riI'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

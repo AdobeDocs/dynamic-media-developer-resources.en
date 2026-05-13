@@ -5,7 +5,7 @@ title: Deleting or replacing source data files
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin,User
 exl-id: 9daf8534-a844-4f4a-8e99-8dc751acd550
-TQID: https://experienceleague.adobe.com/oz3mWOtrQbODR3ZqAsULX11q2mLcZsuAmDo3IKkUKCE
+TQID: 'https://experienceleague.adobe.com/clXDwtsKfD4WkpgNvoJoXG19WvFkcOhdjtTGmoArpv4'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

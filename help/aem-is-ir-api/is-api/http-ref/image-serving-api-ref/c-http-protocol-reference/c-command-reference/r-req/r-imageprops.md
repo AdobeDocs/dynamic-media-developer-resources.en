@@ -5,7 +5,7 @@ title: imageprops
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: b4337c20-8e47-4d61-b234-19434f5c5216
-TQID: https://experienceleague.adobe.com/C-koOFR8bVRqCyf1TWodH6vqrUZpG873NCfYN5qV3gQ
+TQID: 'https://experienceleague.adobe.com/idRlUDsoqYYoak6kMyqn9-IeJHBShjjqaHvtDKgRUhw'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

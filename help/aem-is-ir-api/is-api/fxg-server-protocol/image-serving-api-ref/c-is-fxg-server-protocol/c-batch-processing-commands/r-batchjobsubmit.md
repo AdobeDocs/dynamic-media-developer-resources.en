@@ -5,7 +5,7 @@ title: batchjobsubmit
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 4ab2f6e4-cd68-4f1e-ab54-6f5e9bfc87cb
-TQID: https://experienceleague.adobe.com/ddF6Kn57Un8LSgcXyfQqx0tUlWftpRy6FADTkJBW2fk
+TQID: 'https://experienceleague.adobe.com/VJxy5jZsZC1MOo8LI5LSaMxtdDRqrFJSdqPXBRmBVvw'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
@@ -17,6 +17,9 @@ role_v2:
     internal-label: User
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
 ---
 # batchjobsubmit{#batchjobsubmit}
 

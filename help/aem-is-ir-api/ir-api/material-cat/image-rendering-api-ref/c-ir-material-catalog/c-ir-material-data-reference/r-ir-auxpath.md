@@ -5,7 +5,7 @@ title: AuxPath
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 55f82596-72f0-48c4-9b3a-f10ea5f610f1
-TQID: https://experienceleague.adobe.com/0lc0-B-gES-tjihAmUDt0EagFGbfoxEmePDce2Pn72g
+TQID: 'https://experienceleague.adobe.com/p1AZ2QZmQpKM9D-gvBCxavzsdWlLjb-MSO-kluc05oE'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

@@ -5,7 +5,7 @@ title: ThumbHorizAlign
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 9a51f92a-ffb9-4460-a910-9f2fefe3eae5
-TQID: https://experienceleague.adobe.com/9k2hQWRwudqHUtYp-q1BpupdFNHAV2Fyfg7vOk7LaTc
+TQID: 'https://experienceleague.adobe.com/uT78mGcR1NrckwtfWSKjmRDtiAq-YFU5--KtT--I8eM'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

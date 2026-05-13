@@ -5,7 +5,7 @@ title: Watermark
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 54c27ea0-e87f-41ce-ae8d-71c9fabe412e
-TQID: https://experienceleague.adobe.com/-XZGjMj-ZfJvCrMN44vGWrNZhgMUizV5X4rLu72YLAA
+TQID: 'https://experienceleague.adobe.com/zajYc7BBw0BfJ6qvnTFiHY79quRa91-LdY3j1YynxVc'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

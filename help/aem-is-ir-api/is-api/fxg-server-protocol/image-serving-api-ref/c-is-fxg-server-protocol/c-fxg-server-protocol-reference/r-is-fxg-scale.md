@@ -5,7 +5,7 @@ title: scale
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 89701a15-a0b6-460d-b0c1-5e25f3305380
-TQID: https://experienceleague.adobe.com/a-BnQdn22cOjQWjeayJzKc2gK3muEKYULXLFEhmnfgw
+TQID: 'https://experienceleague.adobe.com/MDIhDdn2fZiZgZMlEpdEZOwH0dAot4WGBGw2UcHij1I'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

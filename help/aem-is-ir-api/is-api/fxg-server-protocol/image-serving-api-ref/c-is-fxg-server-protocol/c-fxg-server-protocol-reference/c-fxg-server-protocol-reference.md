@@ -5,7 +5,7 @@ title: FXG server protocol reference
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: a3b3d5d9-d7c9-44a6-97a5-8e3e2c4abef0
-TQID: https://experienceleague.adobe.com/DCL-m2xFDb9W3sd8gg5sCrqZO3eNCmMlR0ij530ufKg
+TQID: 'https://experienceleague.adobe.com/P3ZP8Esg9nWehs8uA4KUhqNu33YxAIt6OJLkMurD-A4'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

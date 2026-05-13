@@ -5,7 +5,7 @@ title: Font map reference
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: b04e89ee-ae69-41c0-bd62-0929d21980c0
-TQID: https://experienceleague.adobe.com/XWK-ktNLBVgk8-NKy17Ls-OZln7voQFpSkhQzRqDxyI
+TQID: 'https://experienceleague.adobe.com/hjuchcbrZqzwExijsBPGEbJnnptodIFEl71twXGdBMY'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

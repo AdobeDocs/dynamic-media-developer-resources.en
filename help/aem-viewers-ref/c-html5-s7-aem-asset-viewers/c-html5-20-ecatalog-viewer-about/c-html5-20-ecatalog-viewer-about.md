@@ -6,10 +6,13 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: 8e243fa5-e375-41ce-8b49-2571023130c1
-TQID: https://experienceleague.adobe.com/pCiS3O596iFLvBFRVUyHkFzc5PSfpniqP6-dZECWC0o
+TQID: 'https://experienceleague.adobe.com/5GsrFdmaPBW7cSQgxSUOHE-LPoasGx7TOX3dUpF0DEg'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

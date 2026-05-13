@@ -5,7 +5,7 @@ title: Monitoring and alerting system
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin,User
 exl-id: fe672d1b-93e5-466a-a329-3032095c6ba8
-TQID: https://experienceleague.adobe.com/vNmaS6PpCazzPuvrwSCXQ6jbhBtfT0xKzpagjoWJ4ZQ
+TQID: 'https://experienceleague.adobe.com/n8Xw2xwdJNYlTVQusHBqP0aEpMYyPuE135TR30FLZKQ'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
@@ -20,6 +20,8 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
 topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---

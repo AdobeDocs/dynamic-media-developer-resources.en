@@ -5,7 +5,7 @@ title: The 'playlog' utility
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: e0213978-3a1d-44b4-82bf-4527b980b29e
-TQID: https://experienceleague.adobe.com/tofwKDV-LmCPLtYXAm5MFptBYqewgPM9ib4rdK40c8o
+TQID: 'https://experienceleague.adobe.com/z8SkpY0A2aAo5ULL61m5uUiesuovSrcVjhzNRGbkAUQ'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

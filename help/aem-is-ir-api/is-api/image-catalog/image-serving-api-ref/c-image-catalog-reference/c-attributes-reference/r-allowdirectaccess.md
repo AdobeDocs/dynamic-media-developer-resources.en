@@ -5,7 +5,7 @@ title: AllowDirectAccess
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: b4000bdf-c21a-4976-82a7-70b2261dee0b
-TQID: https://experienceleague.adobe.com/sG2E9eE9IslTo21GhbloZMzZtc4EcEk-JhpRjUnWXjI
+TQID: 'https://experienceleague.adobe.com/h2bcjdutPEZID471oI-MWfxG4trg87bIeyAxvoMyKEA'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

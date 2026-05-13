@@ -5,7 +5,7 @@ title: LocaleMap
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: c1d74154-721b-46cc-9f0b-8dae5647b179
-TQID: https://experienceleague.adobe.com/iBK6MxjuLbgVEIT1V334-P-jMCcTALNFMFylkARHV54
+TQID: 'https://experienceleague.adobe.com/LqHo03WC7EWKP7jt4l1X6kJffXcOQSd8unCxbdjOig4'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

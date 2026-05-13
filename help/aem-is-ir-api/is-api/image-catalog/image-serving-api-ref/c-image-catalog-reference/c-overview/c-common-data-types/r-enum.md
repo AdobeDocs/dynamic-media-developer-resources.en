@@ -5,7 +5,7 @@ title: Enum
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: df7170f5-652c-422a-9f2a-3cb02aa1eaa0
-TQID: https://experienceleague.adobe.com/4B6HwbhJB2xaoPnALT0SFGY0-t7tIKxREonHrbjBabg
+TQID: 'https://experienceleague.adobe.com/QCWWrLbQQWXkiPrt7iUMbSZzd5HAxy2SDbYK0--gVsA'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

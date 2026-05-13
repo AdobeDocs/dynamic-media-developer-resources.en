@@ -5,7 +5,7 @@ title: Command reference – Configuration attributes
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 8cc645f8-03fe-4ac7-b23f-36536b60fdf6
-TQID: https://experienceleague.adobe.com/aFndbYSb92FuslZxxrawAoJJrhOuUxfP3EFHVhVXTwU
+TQID: 'https://experienceleague.adobe.com/nOar-x6dy8Z9czsPjxlOzin8WJTnt26b3Lv32voi5e8'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

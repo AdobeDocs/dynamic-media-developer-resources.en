@@ -5,10 +5,13 @@ title: XmpKeywords
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: f1ad16c8-cba2-4ef0-9558-6a4086c71393
-TQID: https://experienceleague.adobe.com/1N195p9XI-tsU-unLyskARgPWxXINBvRMCJDh6w-JUg
+TQID: 'https://experienceleague.adobe.com/AuwtfcH1-ttamanNAIG0FaNqp-edryeuw-XsYnPfpps'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

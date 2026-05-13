@@ -5,7 +5,7 @@ title: getComponent
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: cb988fbc-2496-4844-984a-0980b0548441
-TQID: https://experienceleague.adobe.com/xNKyGxAbqJiErKQOb-TCTzMYkR8qx8Rd6Dxy5wJtsPM
+TQID: 'https://experienceleague.adobe.com/DazcWXLiAHHSwVOpNgUJho8rBoZ48tOTaauSV-aP2xA'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

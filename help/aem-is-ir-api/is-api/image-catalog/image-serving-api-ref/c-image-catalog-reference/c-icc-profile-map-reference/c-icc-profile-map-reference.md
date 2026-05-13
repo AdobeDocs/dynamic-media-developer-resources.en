@@ -5,7 +5,7 @@ title: ICC profile map reference
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: f6b75a15-55b4-44e7-a409-2eaed4e752c5
-TQID: https://experienceleague.adobe.com/wjVOJziF-sWTqiMA3qQ-fN0kyFX-fRiUufZCzXpvWjA
+TQID: 'https://experienceleague.adobe.com/3AxdPhYrKkuPEbsY8rEYIpob0Jul8OBZWY0KPnrWN4s'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

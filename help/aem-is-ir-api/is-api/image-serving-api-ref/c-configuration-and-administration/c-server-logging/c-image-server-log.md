@@ -5,7 +5,7 @@ title: Image Server log
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin,User
 exl-id: bf5d1e3c-fed3-4145-8b7a-e85b986df641
-TQID: https://experienceleague.adobe.com/UASxSr3e6e8FbhW0lfN-Znt-M6KkyqtXMj7tPKUsdm0
+TQID: 'https://experienceleague.adobe.com/C76WMDk60aMHWt7xPn33sVCFtnhbf9htrr1qdecZ8PE'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

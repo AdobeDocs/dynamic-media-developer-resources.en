@@ -5,7 +5,7 @@ title: Substitution Variables
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 539d8863-e94d-45dc-bb8c-3db7bead0051
-TQID: https://experienceleague.adobe.com/Ck-HwD4vFVUskVCh8LfreLTGyGLOplUbZLFcdzBw8V8
+TQID: 'https://experienceleague.adobe.com/-IHIbaXxoDEGqbV2inp4RlmWpH-8js7Dn9b-CK1paxg'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

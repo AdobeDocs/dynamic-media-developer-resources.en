@@ -5,10 +5,13 @@ title: InfoPanelPopup.template
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: b792cddb-f3d2-4609-95b7-105d76fb3d6f
-TQID: https://experienceleague.adobe.com/BxQ0tzIYBOMxh21D7ak4RgTDcOZfz21OflZK-ng2kK0
+TQID: 'https://experienceleague.adobe.com/VRC82qSYkgsI0ceaXdKtfGq-aYlw-Y0M-nRtq1pjg7A'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

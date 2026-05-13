@@ -5,7 +5,7 @@ title: MetricsPath
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 0f1f98a5-b53b-4e20-b4c8-e70482b01a04
-TQID: https://experienceleague.adobe.com/m65-zV0etyW6Zmr7dGitS3x6US-78Uqf1WnfQCQPauI
+TQID: 'https://experienceleague.adobe.com/XPXcnrT94IfPupctNoxqN7-qYCuxdeoqXQeBkM1Un4k'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

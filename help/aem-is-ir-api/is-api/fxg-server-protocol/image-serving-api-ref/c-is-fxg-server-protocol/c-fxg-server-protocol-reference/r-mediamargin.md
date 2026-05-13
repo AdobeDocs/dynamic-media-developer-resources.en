@@ -5,7 +5,7 @@ title: mediaMargin
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 5bba0dc2-a496-4380-9def-12f9e683eafb
-TQID: https://experienceleague.adobe.com/m5FTYUW0fRPrWfp-ih6ulRQgvuiKvpVt95GtvkoIVJs
+TQID: 'https://experienceleague.adobe.com/xbnVRTqP7h5vs3Cdlur8ge1nPz7rjGzpChCFDwue6U0'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

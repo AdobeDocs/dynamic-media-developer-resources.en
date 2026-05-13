@@ -5,7 +5,7 @@ title: Standard alerts
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin,User
 exl-id: eb691988-9f03-463f-bed5-2c230431f537
-TQID: https://experienceleague.adobe.com/dfDLOUBgCZKYRHMqgjaFdWPXIw-nju0-9rAN1X7U0iY
+TQID: 'https://experienceleague.adobe.com/EJzmjshgrIk8hpvZvljpsWTHSI-mG67UNAg2NVjBcZg'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

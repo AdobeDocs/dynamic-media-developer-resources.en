@@ -5,7 +5,7 @@ title: Catalog folder (ir.catalogRootPath)
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin,User
 exl-id: 0eb64a65-e3b6-47b2-8456-39f8f8e077e1
-TQID: https://experienceleague.adobe.com/V2c2vBJEZnvVQeQtdOa5puflTzXCjR2gywDe3JdmzEY
+TQID: 'https://experienceleague.adobe.com/QbVKjGBL2loUaCklCBrXnzAy4oV-2KLmN8dSN-AVsEo'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

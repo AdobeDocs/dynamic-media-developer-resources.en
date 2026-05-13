@@ -5,7 +5,7 @@ title: DefaultFont
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 6ca7f540-a01a-483d-99b7-50e2915861cf
-TQID: https://experienceleague.adobe.com/T-p1MsbVYMotTwH7DXpDWamDa7jo5LPg3FXCghcInxg
+TQID: 'https://experienceleague.adobe.com/n3AkdXljQ2lMxuufbR-WRqu-Tkvwzp79QHxyq6MQfR0'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

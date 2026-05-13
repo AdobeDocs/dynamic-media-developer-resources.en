@@ -5,7 +5,7 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,User
 exl-id: 2b4b0b31-3c88-42a4-8a81-5534691e318f
-TQID: https://experienceleague.adobe.com/8dJigwG36ryNNuZUurfNye7m7b2S30gA9gtFBtb907c
+TQID: 'https://experienceleague.adobe.com/CCEDwYvJrM4a9IQEN-CIH00bl1k-9fGrMhljanVIoNc'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

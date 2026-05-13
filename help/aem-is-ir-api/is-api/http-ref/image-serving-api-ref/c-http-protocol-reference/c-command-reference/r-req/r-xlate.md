@@ -5,7 +5,7 @@ title: xlate
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: bf5b3cb7-9792-4eca-a1aa-55aa4089b4d4
-TQID: https://experienceleague.adobe.com/DbkkFCvuh4SUHbO2Gty1HiKaJHLiqAG3zoLs4yITG48
+TQID: 'https://experienceleague.adobe.com/Ac-h7oQm6fF01YUOz2RQ25dyqLj02shurvkxulWJUHk'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

@@ -5,7 +5,7 @@ title: SVG support
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 60e40195-710f-4f03-b152-52eaa10c5b21
-TQID: https://experienceleague.adobe.com/LcHZg07JSf6ypRFdNpfw-bEoeukw88WUygL0Dp0ho-k
+TQID: 'https://experienceleague.adobe.com/yN93vSajgH09FJqxpDsa1j3fFlBR9EdCREXvhUy8q2U'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

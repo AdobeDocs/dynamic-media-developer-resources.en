@@ -5,7 +5,7 @@ title: FullMatch
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 1a267c48-a8eb-426a-a70a-bdb9f5f20efb
-TQID: https://experienceleague.adobe.com/JauAMzt5ODs1xI2-sFD-HO3-MPEkJokwHeZjHRIboG0
+TQID: 'https://experienceleague.adobe.com/5eTvORUSVsXHReAaiVMGSizooDQ9Wq--dXrBo0c9C7c'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

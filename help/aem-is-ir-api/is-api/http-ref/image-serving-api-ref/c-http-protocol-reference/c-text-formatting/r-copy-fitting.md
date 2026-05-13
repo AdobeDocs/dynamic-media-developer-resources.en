@@ -5,7 +5,7 @@ title: Copy-fitting
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: d1a560f3-f92c-4143-b80a-e1674c8a4207
-TQID: https://experienceleague.adobe.com/jQcfYEDUc1YpDWYOufK5uYj0MJl8r5TeIdVSA-vyX1k
+TQID: 'https://experienceleague.adobe.com/9SthkANFoXF9ANPH2-3Yk9P--7VBJoZy-zscJ0rkTnE'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

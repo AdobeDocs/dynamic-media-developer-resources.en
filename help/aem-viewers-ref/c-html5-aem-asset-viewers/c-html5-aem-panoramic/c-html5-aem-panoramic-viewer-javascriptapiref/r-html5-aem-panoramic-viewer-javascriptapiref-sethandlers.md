@@ -6,6 +6,10 @@ feature-set: Experience Manager, Experience Manager Assets
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,User
 exl-id: 90775d4a-386b-4b56-b75e-8afafe749645
+TQID: 'https://experienceleague.adobe.com/BVnqG7dsjPf9ldhfOwTnByGvC6XyB-ASuvL--fNJEkE'
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
 ---
 # setHandlers{#sethandlers}
 

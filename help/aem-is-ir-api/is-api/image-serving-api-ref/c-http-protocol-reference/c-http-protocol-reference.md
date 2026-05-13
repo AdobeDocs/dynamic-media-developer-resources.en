@@ -5,7 +5,7 @@ title: HTTP protocol reference
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: b80d10a8-3b10-4daa-8559-dc36f7a54382
-TQID: https://experienceleague.adobe.com/fW0iJdpp5GwG8VWAdoSd4-w9ZEaoyXHq9VemWe2gEnc
+TQID: 'https://experienceleague.adobe.com/zc2PLxB9rUlgLPZ6WPHAAAFQqDO7j8nAMKuJAByhqRA'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

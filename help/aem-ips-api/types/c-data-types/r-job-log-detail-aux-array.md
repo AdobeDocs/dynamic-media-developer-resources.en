@@ -5,10 +5,13 @@ title: JobLogDetailAuxArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 69662118-8dbc-47ce-a6e3-0f2edf0109ac
-TQID: https://experienceleague.adobe.com/lHUXoTeztUj-ed0XecI9S7xMAr6UjaFq20So3rs4FvY
+TQID: 'https://experienceleague.adobe.com/MFLshcwJ-Xwn-UfmiN9LOSXqA5f3auh1lplSlKF5fNY'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

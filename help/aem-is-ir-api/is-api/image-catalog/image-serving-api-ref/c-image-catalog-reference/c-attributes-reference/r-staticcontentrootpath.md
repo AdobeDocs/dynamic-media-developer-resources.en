@@ -5,7 +5,7 @@ title: StaticContentRootPath
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 55ca44cd-4330-47e6-94cc-58c078d34bbd
-TQID: https://experienceleague.adobe.com/Vo6IZTto-eTFDfCSpfvaWs3rL0AluTyYS26lhfIYOx4
+TQID: 'https://experienceleague.adobe.com/u9O8XaMdnb02UPw1uIjhYjzpFvMk-tFfh3UqlcVnNcc'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

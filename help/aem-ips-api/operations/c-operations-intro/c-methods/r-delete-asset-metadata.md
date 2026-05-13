@@ -5,10 +5,13 @@ title: deleteAssetMetadata
 feature: Dynamic Media Classic,SDK/API,Metadata,Asset Management
 role: Developer,Admin
 exl-id: ce9b8dff-efc0-4427-9f50-10269647187f
-TQID: https://experienceleague.adobe.com/OaM-FsaLOWtBn9XC-7AZZVJ9m0092j-IJozqpg-QOgA
+TQID: 'https://experienceleague.adobe.com/Zw0f8pUYdTe5cRNHQjbC0z1g7tU5JruxdKqju1mdoQc'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

@@ -5,7 +5,7 @@ title: Image size limits
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin,User
 exl-id: 75ec58ee-8c98-46cb-96b2-79d1c32e576f
-TQID: https://experienceleague.adobe.com/IbHDMrOwsdEyddIX3s4VREczjFMuPkC7LBBvuDnQHKw
+TQID: 'https://experienceleague.adobe.com/-xOEUXOC5tk9b9miYQWTmC73EsZbSo9Zzn8AedEksEI'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

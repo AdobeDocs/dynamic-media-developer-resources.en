@@ -5,7 +5,7 @@ title: Supported RTF commands and keywords
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: a63bc7f1-34a9-485d-aadd-c65e3e26034a
-TQID: https://experienceleague.adobe.com/blA3HdylvWunUaCSS6j4JOvQ2b-alVmo5YBYSDVXYC4
+TQID: 'https://experienceleague.adobe.com/sU-gJR0x3wsmnEzrxZjeN-UGb78J7sux-s2UU1xjQ9s'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

@@ -5,7 +5,7 @@ title: Image layer commands
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 142e3fbb-93d6-4072-8e49-b7a7484106d8
-TQID: https://experienceleague.adobe.com/7-0ckpoKVTtnboXXomKh19Yra7OVAv6p21IMSBu9IgQ
+TQID: 'https://experienceleague.adobe.com/6pcWQ1ziVwQ3e1s0ONKDSbBviAZ2IBnLV-l87s9oYIo'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

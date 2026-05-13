@@ -5,7 +5,7 @@ title: Static contents data
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: df47cbb2-0ed6-4fbd-988e-be5b7a7ad657
-TQID: https://experienceleague.adobe.com/yby4-d91lowQFzRSMIz7t0dL-IM9OY30zeTBTSEpWPM
+TQID: 'https://experienceleague.adobe.com/J4dYnZWEK6vn3Mlqdn20GMegBsOKigmjntQSgkX8eYQ'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

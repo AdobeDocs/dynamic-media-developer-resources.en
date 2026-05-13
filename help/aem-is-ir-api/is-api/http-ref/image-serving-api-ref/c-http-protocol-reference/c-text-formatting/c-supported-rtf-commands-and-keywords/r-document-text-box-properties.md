@@ -5,7 +5,7 @@ title: Document (text box) properties
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: e9d21a39-4d98-4115-8179-ab5acf713c80
-TQID: https://experienceleague.adobe.com/PRWw7-z4b1MEqmbnvKppcO-44F6SHVaJl1Wj388rJh0
+TQID: 'https://experienceleague.adobe.com/U8T6F0KmGyopf6rXM0-zssY-hpfKPVUHWt-vO8aA7xM'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

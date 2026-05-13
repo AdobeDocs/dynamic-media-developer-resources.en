@@ -5,7 +5,7 @@ title: Source image operations
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 2024e193-3c46-4c51-971d-c7d335657ac8
-TQID: https://experienceleague.adobe.com/FjxnS1AwH1IJx--kiMPESgLkfcni8aNWYzzHDrT22T8
+TQID: 'https://experienceleague.adobe.com/8oZd46pleiSkC9GYK1-6-SeD4oI0bzd8e8hV1nrJaog'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

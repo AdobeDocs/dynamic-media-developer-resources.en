@@ -5,7 +5,7 @@ title: monitor.conf
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin,User
 exl-id: 09c30680-dd9f-4744-b5ec-105721058883
-TQID: https://experienceleague.adobe.com/SRwbS9pYI4Vi1l50zxnSm7bHNxUR16einviv4FVItYc
+TQID: 'https://experienceleague.adobe.com/xln1mw8Nx10vZMAf8Nu3K3V0CYh4c5Aajj5VWIoUs6s'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

@@ -5,7 +5,7 @@ title: MaxPix
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 0fd990cf-a54f-4574-8328-8988368d5875
-TQID: https://experienceleague.adobe.com/l3i-dQ-gzAsR4kFPwiHgwSdcx58uY8mJoXU3q0qMgVw
+TQID: 'https://experienceleague.adobe.com/lX4ooC7B0VIJDRr0yZJVmp45qnXbSuimMZSyU9rWLcw'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
@@ -17,6 +17,9 @@ role_v2:
     internal-label: User
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
 ---
 # MaxPix{#maxpix}
 

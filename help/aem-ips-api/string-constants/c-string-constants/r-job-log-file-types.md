@@ -5,10 +5,13 @@ title: Job Log File Types
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: a6dce340-0dc4-4ecf-9aa1-0ed8f446fb8c
-TQID: https://experienceleague.adobe.com/Pr9tZo5FvmngufQXJYJ78XwiY9yYKvPzGZRcPfG-lkY
+TQID: 'https://experienceleague.adobe.com/ZvB2lB2OaXGOsbFu4y9qq9l--byOuoc7DnAikytSv1Q'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

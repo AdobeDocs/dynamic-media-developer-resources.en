@@ -5,7 +5,7 @@ title: Rule set reference
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 194600d0-72d9-47fb-8525-598beb2ce17d
-TQID: https://experienceleague.adobe.com/jueLmhGhOwNQEVyLPPIsbg77YbgL2pZyaE1I9ScSVBY
+TQID: 'https://experienceleague.adobe.com/HxgWcboIyA2RYuXbHMKaUiRQFL8IDNKegdOqMgz2plE'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

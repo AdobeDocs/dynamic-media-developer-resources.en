@@ -5,7 +5,7 @@ title: Resolution
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 0f9430ce-65b9-44be-8d0e-58dbb529c5c2
-TQID: https://experienceleague.adobe.com/uwVlcJC9nslLjRBrB1M4mnILfGBsntBBm3nsAid0hN4
+TQID: 'https://experienceleague.adobe.com/RCL0vkINbpi5Q11qLAwZuUPOF2itp0NCkVTukIlqDhs'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

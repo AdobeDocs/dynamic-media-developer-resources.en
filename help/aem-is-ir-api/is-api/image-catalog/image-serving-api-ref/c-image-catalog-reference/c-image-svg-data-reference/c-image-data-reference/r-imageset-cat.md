@@ -5,7 +5,7 @@ title: ImageSet
 feature: Dynamic Media Classic,SDK/API,Image Sets
 role: Developer,User
 exl-id: eacf0553-8cec-4a1d-80a5-6fe37b92b5bf
-TQID: https://experienceleague.adobe.com/jfcMfVCGqFU-YSfJBK-LqmsWeoW6zYu2rWUuN2VIaSA
+TQID: 'https://experienceleague.adobe.com/wh25AlzBQv0W-lEugybS8B-cIYYFoK8o9I2uGb52Ui4'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

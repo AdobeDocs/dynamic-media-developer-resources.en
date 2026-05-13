@@ -5,10 +5,13 @@ title: LayerViewInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 25199c86-1df0-41af-b210-e7668a60295e
-TQID: https://experienceleague.adobe.com/pR94YxsaTlc6RR-oUX1noTsSYb4OYBbNeXv7igrHvRU
+TQID: 'https://experienceleague.adobe.com/cx-B-BmcEP6vefJY5tsrNMZcwWIKM-pW0CYfP7BjxMM'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

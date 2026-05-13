@@ -5,7 +5,7 @@ title: Adobe Dynamic Media Image Serving and Image Rendering API Home
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: a21b5a40-88d1-4e20-8770-fb35037bd7fd
-TQID: https://experienceleague.adobe.com/F4fCB1H-IHiNRyGUQyOOoAiDPZ6WyDqeWRbOarlecUw
+TQID: 'https://experienceleague.adobe.com/7cfWxuPnQ99LbHMoEWMzV1Snk7uYwn8tsJNAnFT-uRQ'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

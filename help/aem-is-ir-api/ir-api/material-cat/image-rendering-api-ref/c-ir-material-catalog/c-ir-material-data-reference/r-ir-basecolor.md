@@ -5,7 +5,7 @@ title: BaseColor
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 57de25f9-ed99-4d4c-ac0e-08d382e8a36f
-TQID: https://experienceleague.adobe.com/iPZfXZbh1pdo90euwLLt4Z3-xyNUW1aIxcPIz8D-6Vo
+TQID: 'https://experienceleague.adobe.com/m8Q2EVcHDmyTgZGv2AdIEoYfu9r9D38ha4kk-6OXE7w'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

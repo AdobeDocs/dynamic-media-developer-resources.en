@@ -5,7 +5,7 @@ title: JpegQuality
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: c2a7f7f9-0c2c-4421-9dbc-d5c1e936f0f1
-TQID: https://experienceleague.adobe.com/Ti8lEdmfEVgXPGqgAGaF9s4BQweOoU1o8Wtk5Via8eU
+TQID: 'https://experienceleague.adobe.com/eiTYLhEUblxZFnJJf5cWgrHF4qglIYB72m-COXeGc5A'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

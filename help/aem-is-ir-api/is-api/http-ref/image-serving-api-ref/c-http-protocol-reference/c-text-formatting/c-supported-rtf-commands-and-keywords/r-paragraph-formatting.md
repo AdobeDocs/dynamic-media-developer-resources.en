@@ -5,7 +5,7 @@ title: Paragraph formatting
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: a2235082-714c-4ae3-ae06-c91ea2fb5abb
-TQID: https://experienceleague.adobe.com/lsGXvGtt-tO1-tRgkYz4tJMGxgvBbRJXEmTo5ngSAYU
+TQID: 'https://experienceleague.adobe.com/bksi7t36irm8XQqI0LtJl3kNaSCZANRzbCKf80o-eNM'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

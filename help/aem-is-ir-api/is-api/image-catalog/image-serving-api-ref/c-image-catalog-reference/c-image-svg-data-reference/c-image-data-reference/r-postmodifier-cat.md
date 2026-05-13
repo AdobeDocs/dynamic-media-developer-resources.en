@@ -5,7 +5,7 @@ title: PostModifier
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 7d6c9408-1f09-464d-8a69-eabdf7c0117d
-TQID: https://experienceleague.adobe.com/sdQ-VjoFQiWK1XnlZ67FqFoZfnY4IlB7ugNg2DwvtCQ
+TQID: 'https://experienceleague.adobe.com/hPHoHlBkRN-eXFvLzZ2LpWhmtiT4lGyehTvwFw9ItJo'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

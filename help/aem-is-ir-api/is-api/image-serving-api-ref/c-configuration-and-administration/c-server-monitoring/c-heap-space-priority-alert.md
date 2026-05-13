@@ -5,7 +5,7 @@ title: Heap space priority alert
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin,User
 exl-id: 32951003-386f-4ea2-a5a0-f4d2e6d95ba5
-TQID: https://experienceleague.adobe.com/LnLTFZU8IJy3lQCayPVijWAUuxxynX9GtHcxb9L0oPw
+TQID: 'https://experienceleague.adobe.com/zCx9aodQa-gcTc0iFuK3N0fJf43EdyCWk8cYIawYPaM'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
@@ -20,6 +20,8 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
 topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---

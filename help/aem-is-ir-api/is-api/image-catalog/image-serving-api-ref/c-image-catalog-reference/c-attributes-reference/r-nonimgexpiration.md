@@ -5,7 +5,7 @@ title: NonImgExpiration
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: c61e2781-dfaa-4f3d-958d-5ffa755a3e4d
-TQID: https://experienceleague.adobe.com/CwFAUZ5u90vAvGdmvM0QXAE8eIFZTaCWnfZ6X7SG1BA
+TQID: 'https://experienceleague.adobe.com/A21KkwsYFIMp9Pw0WyX-c-3UVlFg2FacObh2jjRVTwA'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

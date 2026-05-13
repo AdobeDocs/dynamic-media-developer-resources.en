@@ -5,7 +5,7 @@ title: Response cache validation
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin,User
 exl-id: d2baa6e6-2700-450f-af1e-88b6d33d0e0c
-TQID: https://experienceleague.adobe.com/EGtC8l3XpDwewsbWvDHuEnlGV-m1JDVRm1Lv3V-Ei5U
+TQID: 'https://experienceleague.adobe.com/VnvYNkc3yijayG8tnJKHsp94Qto8VZj9OkIgfIv1Kc0'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

@@ -5,10 +5,13 @@ title: getAssetsByName
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Admin
 exl-id: e48574e3-9d16-45fb-b4c8-98b5e092e611
-TQID: https://experienceleague.adobe.com/HDsX6-Pc-cFfU0lpSb1EWgVsVKIYC7-0n1hWYkrq8HE
+TQID: 'https://experienceleague.adobe.com/hJVemfdh3AVxYKwN-4-c60ZH7wOL-njnclcIlmM-Q-A'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

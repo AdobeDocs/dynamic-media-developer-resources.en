@@ -5,10 +5,13 @@ title: ImageMapDefinition
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 58478e7c-e3a1-4dd5-8ff9-e9752301b93c
-TQID: https://experienceleague.adobe.com/J8sReSQifxEHnOHWP3i47yaXPRJyC9nNlbs-6tiNQjo
+TQID: 'https://experienceleague.adobe.com/x27LpaNACQ5k-n09O-9Bhw7aecAjWQ6wNkLt8XewVXs'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

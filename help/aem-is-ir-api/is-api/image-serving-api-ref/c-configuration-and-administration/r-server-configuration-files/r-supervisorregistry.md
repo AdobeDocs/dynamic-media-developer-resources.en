@@ -5,7 +5,7 @@ title: SupervisorRegistry.xml
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin,User
 exl-id: cc6a16fb-fd70-431f-aad6-adb99d4da062
-TQID: https://experienceleague.adobe.com/Q9bZ2XRnMEILi3NU1f4bk3wsxNonOJg0LTw1qeXIQ-Y
+TQID: 'https://experienceleague.adobe.com/qyUCxihoFJTI45NV-4jZbTkGDqGmwnhcLrqxPsE-j3M'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

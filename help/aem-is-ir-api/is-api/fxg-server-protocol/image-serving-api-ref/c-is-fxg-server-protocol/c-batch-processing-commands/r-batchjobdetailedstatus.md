@@ -5,7 +5,7 @@ title: batchjobdetailedstatus
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: fd385327-29af-448c-9a25-75098b578272
-TQID: https://experienceleague.adobe.com/L1vkzLsmi3uRpVNnP9PFvWd5M7i9J3xPgaD55iokCl0
+TQID: 'https://experienceleague.adobe.com/-KwrpZVglPaJUe2XKkpjej-Y8KG0X7VzGF-cR-m2rV8'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

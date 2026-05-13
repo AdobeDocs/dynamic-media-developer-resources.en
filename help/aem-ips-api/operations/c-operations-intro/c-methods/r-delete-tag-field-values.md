@@ -5,10 +5,13 @@ title: deleteTagFieldValues
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 2694bd6d-b1ba-4146-a155-12829d9dfa47
-TQID: https://experienceleague.adobe.com/-codkJziKNGGFb3hNkee74oqKvVkJb54Lfytbb-6bQs
+TQID: 'https://experienceleague.adobe.com/SRTriQHWMLXJtkGeS-sCDZE3-1bu1TKNkKjxgESYOi4'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

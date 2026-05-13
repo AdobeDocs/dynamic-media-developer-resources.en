@@ -5,7 +5,7 @@ title: Location of utilities
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 014a17b9-f12e-4179-8b44-4b0090769743
-TQID: https://experienceleague.adobe.com/g2IuAVf6SneiL-DXi1Qb5rkGYy1PYbE2GOEipkiROqU
+TQID: 'https://experienceleague.adobe.com/2P-lVb-4Bd63ecZpzZO0Ei9-IdU8TZSBabn04FWxs9c'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

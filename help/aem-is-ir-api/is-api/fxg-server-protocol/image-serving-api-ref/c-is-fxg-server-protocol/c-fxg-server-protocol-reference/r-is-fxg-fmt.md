@@ -5,7 +5,7 @@ title: fmt
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: e179fc51-0461-4000-99eb-4390c35d5606
-TQID: https://experienceleague.adobe.com/jj915QUOY5dI7-xf5HzudS2zygFT9X6-bJtPbr-c3LA
+TQID: 'https://experienceleague.adobe.com/tqpsn2LTwuUX-SDJTtMKhfpF391ZjjxohgfJn4a-Mdo'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

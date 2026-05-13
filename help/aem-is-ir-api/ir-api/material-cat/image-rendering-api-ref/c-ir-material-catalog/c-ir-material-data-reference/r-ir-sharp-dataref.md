@@ -5,7 +5,7 @@ title: Sharp
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: ce08ed97-33b7-4d28-8f7f-3f3ef8598ad6
-TQID: https://experienceleague.adobe.com/Tch6jk-Igk12zbgmjHGT5sHSo5wZS10v9BYg4JEwsHg
+TQID: 'https://experienceleague.adobe.com/e9pUY-R7wpieviEUxzGeuyGduEKTLGf4cZz57Kc2Qhs'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

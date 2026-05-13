@@ -5,7 +5,7 @@ title: DefaultThumbPix
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: c1413da0-a68d-4345-928f-b532991966a8
-TQID: https://experienceleague.adobe.com/hVXVHZCC0gbjAIKX7aCZILkJMAFzwiMGPnxlomrgBMs
+TQID: 'https://experienceleague.adobe.com/GapTE3HrLMpk0vTGpJEihwZ45W6U3rZFnd9jYGcg9co'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

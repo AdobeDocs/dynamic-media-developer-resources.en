@@ -5,7 +5,7 @@ title: VideoSize
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: e70db18f-a8fd-4e47-85e3-a0f1f9a945d9
-TQID: https://experienceleague.adobe.com/rwKcgSqdR70seRMK7F5SVBDDHCIWbj795iH6Ai9kPRY
+TQID: 'https://experienceleague.adobe.com/nehjlmCKES3AmROSrUGuxYET6qoiu6dj5oBkApzq3No'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

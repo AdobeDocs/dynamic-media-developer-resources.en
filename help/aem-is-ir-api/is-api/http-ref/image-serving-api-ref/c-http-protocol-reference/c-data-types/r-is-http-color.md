@@ -5,7 +5,7 @@ title: color
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: eba88ff0-877d-432e-bbd6-9172f5b460e9
-TQID: https://experienceleague.adobe.com/4PJVEA0AVvxGwjsov-CUQx0hrFHfSeDDb1BsHUimoQ8
+TQID: 'https://experienceleague.adobe.com/3NfMrvwXTP9A-KoxjVPtps-0rhO5xNd04WUlrdCQEo8'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

@@ -5,7 +5,7 @@ title: BkgColor
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: f008c834-30fb-4a49-8e6c-1110e55af280
-TQID: https://experienceleague.adobe.com/OLkF6-HD4wJrlvAdByfPNiO7aV3ER5p1J8vxaR0a1Zs
+TQID: 'https://experienceleague.adobe.com/mFjbkO74VxvbmeOfojkH26Vvq5pHy4pmJpIzJ4PmkoM'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

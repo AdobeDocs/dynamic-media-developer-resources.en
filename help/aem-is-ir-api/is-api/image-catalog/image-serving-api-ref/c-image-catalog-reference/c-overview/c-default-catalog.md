@@ -5,7 +5,7 @@ title: Default catalog
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: db42fb67-aa6f-4217-bc69-45b01bbd0b10
-TQID: https://experienceleague.adobe.com/Y5-d90lY6vhgu0tVrtRrg3c-xWEfLe6rvnTxJtxi2T8
+TQID: 'https://experienceleague.adobe.com/qbfEwBJ-eQmCbBR0MJQhP7x3ZEd30nfLJHWjBVoXIjc'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

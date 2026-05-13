@@ -5,7 +5,7 @@ title: FontMapFile
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: e922d51b-f92e-4cbc-a7c1-5e54e44afd50
-TQID: https://experienceleague.adobe.com/6seBP-UTr5YYsfwtBujcbu-j7H09w63qIL-2rLRQt-A
+TQID: 'https://experienceleague.adobe.com/3LmhHh9mFC4K6ZvJCBIfEtt0eWZ7d0wtQGW6ubScOpE'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

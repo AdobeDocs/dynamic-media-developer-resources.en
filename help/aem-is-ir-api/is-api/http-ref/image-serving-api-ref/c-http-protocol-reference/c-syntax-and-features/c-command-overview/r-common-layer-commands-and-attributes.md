@@ -5,7 +5,7 @@ title: Common layer commands
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: c95d198c-757f-405e-ba08-094cd402c929
-TQID: https://experienceleague.adobe.com/ZR9-9UL7GTGCL0PT54bB5555TGgUgybOsUk1SGmwC5I
+TQID: 'https://experienceleague.adobe.com/G0cmUcGA4L4g1-pfGgi0mZvr3macOhjkUfQPQ9ifQkg'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

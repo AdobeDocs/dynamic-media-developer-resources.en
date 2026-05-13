@@ -5,7 +5,7 @@ title: Macro definitions
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 0d95d288-8bd5-4ba8-a673-2a84f39a5dc6
-TQID: https://experienceleague.adobe.com/dytJVcYg8VDShOoK11eKbQAM5ZMEaPLO2y5anYYVA6k
+TQID: 'https://experienceleague.adobe.com/iNuYKDcHJcE-Mcbegq3CbLgT-FWOECtoCqL-JKA6wBM'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

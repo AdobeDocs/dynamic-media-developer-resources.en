@@ -5,7 +5,7 @@ title: Catalog cache folder (ir.catalogCacheRoot)
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin,User
 exl-id: 060c8b49-f9d9-498a-a07a-5ecd61af2677
-TQID: https://experienceleague.adobe.com/mtXlTgkD0EdUMqk5wdcePmwSaI4GFGkxvRmIF5ZmjBs
+TQID: 'https://experienceleague.adobe.com/9Js2bppCTjsidsBWtGs-eRJDg58f5FcbfA4Tww2Kqdg'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

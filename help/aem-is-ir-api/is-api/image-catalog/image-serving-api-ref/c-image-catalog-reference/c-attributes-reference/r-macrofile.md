@@ -5,7 +5,7 @@ title: MacroFile
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 36ac95db-691b-4d11-b6ce-24860c9b194c
-TQID: https://experienceleague.adobe.com/zuFALfIscrsEBkIm6wuK9SzDSpCGVOmn--mWJCaCzrc
+TQID: 'https://experienceleague.adobe.com/lrlyeTUBs6Zee3dw0ECPnw7tDWs-4IOlC1IegjjGqsc'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

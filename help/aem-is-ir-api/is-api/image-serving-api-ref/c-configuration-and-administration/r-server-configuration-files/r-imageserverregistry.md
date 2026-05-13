@@ -5,7 +5,7 @@ title: ImageServerRegistry.xml
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin,User
 exl-id: 4483c5e8-5123-4d0f-bf9a-4ef8d8cec5a9
-TQID: https://experienceleague.adobe.com/xcvTv7a83EW7pkxfr9lpxRoNdEz2ZUmkKLjo0ITI0sU
+TQID: 'https://experienceleague.adobe.com/UdMACutToNmpsXnhU0jAaItCZJ8r0RTxirjaqXSpa0c'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

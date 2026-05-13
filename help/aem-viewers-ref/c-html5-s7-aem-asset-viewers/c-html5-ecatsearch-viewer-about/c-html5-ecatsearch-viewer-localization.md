@@ -5,10 +5,13 @@ title: Localization of user interface elements
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: c44bfb38-a523-4399-8dbd-936830bb7cac
-TQID: https://experienceleague.adobe.com/Acd1p0DU0r5bf-Y3LnvcDdbV0Kc7P4m5FPMzDdRiu8g
+TQID: 'https://experienceleague.adobe.com/k-ToJzA2bXCcIYGLiXJtPFESV9Bl-HrVhky1nSfmVao'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

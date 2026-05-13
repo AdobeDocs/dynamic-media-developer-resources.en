@@ -5,7 +5,7 @@ solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 2f95a35a-db00-4ee9-8ecc-d746293d485e
-TQID: https://experienceleague.adobe.com/YjbuM0LzmLwmJ1v9Mexre-0vewE6Cxo9sHLNd1HlCOI
+TQID: 'https://experienceleague.adobe.com/S5sFkjcrGRuzzQXX1mHeos2SXqBliw2mQzP-SsEGgvM'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
@@ -17,6 +17,9 @@ role_v2:
     internal-label: User
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
 ---
 # Request nesting and embedding{#request-nesting-and-embedding}
 

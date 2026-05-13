@@ -6,6 +6,10 @@ solution: Experience Manager, Experience Manager Assets
 feature-set: Experience Manager, Experience Manager Assets
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,User
+TQID: 'https://experienceleague.adobe.com/lqrLpEdrL5vfhuF9GPmw-Yp1-FZmoEC-H-NlG0Z-i2Q'
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
 ---
 # Panoramic{#panoramic}
 

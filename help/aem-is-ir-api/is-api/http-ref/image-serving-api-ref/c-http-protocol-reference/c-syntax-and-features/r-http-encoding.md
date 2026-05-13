@@ -5,7 +5,7 @@ title: Image Serving HTTP encoding
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: aec8463f-f72a-4203-89ab-8a4f0ad9d6f9
-TQID: https://experienceleague.adobe.com/MGSHzBruz2RYi4KqzS-rpkXSoE2LMcdz7sc-a1P6-qE
+TQID: 'https://experienceleague.adobe.com/vQIQQhMGQZWbIeWUgnpqCtZj5Rx3Nl-1xUMatQwzeIU'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

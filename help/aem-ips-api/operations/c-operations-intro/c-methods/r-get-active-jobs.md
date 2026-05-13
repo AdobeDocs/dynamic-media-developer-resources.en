@@ -5,10 +5,13 @@ title: getActiveJobs
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 55e92ebc-d153-49b5-bf2e-c69d042e15b6
-TQID: https://experienceleague.adobe.com/SyJf8d7jb5roLgwwMB5dn00ssXXUILTttPMRMbcCk28
+TQID: 'https://experienceleague.adobe.com/YTwzh2h9wVPuURKL5nNFoac2SruwYXDw9oWtd-vzowc'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

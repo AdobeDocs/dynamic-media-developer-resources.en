@@ -5,10 +5,13 @@ title: Restricted Use
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 6602c5bc-9f75-4885-ae14-cab14e6afa5e
-TQID: https://experienceleague.adobe.com/fAlmh87lhieY6Q0Zu1-k7tLVuQECbAldgHn65R-DPCs
+TQID: 'https://experienceleague.adobe.com/X-Q28iVTM95SDSwlSy3yhmJcfJv0TC3LtxXPRv8RCpg'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

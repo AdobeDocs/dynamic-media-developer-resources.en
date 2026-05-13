@@ -5,7 +5,7 @@ title: Text (Java) properties
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 46f5dbc8-fbdc-4204-a6a0-60f34378c3e1
-TQID: https://experienceleague.adobe.com/ooogJuWAnwUnyvlWupgzCjumOt7eUINpp0hSaATdtnk
+TQID: 'https://experienceleague.adobe.com/WNIuNvCPLdbeweHB5gkcFfeZu2WDDUk53us6SHtmO-A'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

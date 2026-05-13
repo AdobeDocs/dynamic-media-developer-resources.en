@@ -5,7 +5,7 @@ title: PlatformServer.conf
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin,User
 exl-id: 00d55453-e7e6-4242-be83-7efa12764e5d
-TQID: https://experienceleague.adobe.com/ykpEFIMKtUNwkixmX2Nb8gzrTeaMF3mLhR-7jfW-7q8
+TQID: 'https://experienceleague.adobe.com/DpX2C7E58x30jn3W4mQSJS9FDlbZgQl0xJgtkppxePk'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

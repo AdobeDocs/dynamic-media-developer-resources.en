@@ -5,7 +5,7 @@ title: PrintResolution
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: b61c63c4-09ca-43fe-b711-8b06d766aefb
-TQID: https://experienceleague.adobe.com/eCSpJXQoOCejEumM7EUKRA-LZMBfcDoUCOMjdGWMuZ4
+TQID: 'https://experienceleague.adobe.com/qKSxZAEtPT3seBb3DMGZTr6Zw6TjdVe0Imm4RA4-Ndo'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

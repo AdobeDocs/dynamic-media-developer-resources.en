@@ -5,7 +5,7 @@ title: View transform for thumbnails
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 7db6736f-0b49-4c4f-89c5-e89d4752f339
-TQID: https://experienceleague.adobe.com/d7WBX4YTHhcW8IOpn-PBeVj-7uFobTGnF2B-nFm5pug
+TQID: 'https://experienceleague.adobe.com/yx1jgWnx-cwMDmBY2NOzYEyEjCqehPqGBK31MvGo-4o'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

@@ -5,10 +5,13 @@ title: batchSetFontFields
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: f38aa861-2a81-4663-967e-72611122f51b
-TQID: https://experienceleague.adobe.com/1pXEG7YJDCoQKzf1n6oWSwhHyd1BD-SjTpF1JW622GU
+TQID: 'https://experienceleague.adobe.com/IkKqBLa2j-YKPTp5Nsttxb8GgpPgcSee1zG0asjxNyQ'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

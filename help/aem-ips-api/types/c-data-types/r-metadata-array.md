@@ -5,10 +5,13 @@ title: MetadataArray
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Admin
 exl-id: 1833237d-4ef9-4899-8d14-317db350b223
-TQID: https://experienceleague.adobe.com/sALdjaDPYiMGui2uCw7zZLC-hwk5eJ2Fv26QBgDHl28
+TQID: 'https://experienceleague.adobe.com/G4HMwV1fWkRKHjl-hIWogLzoELgOaWMoanR2NoiLm3c'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

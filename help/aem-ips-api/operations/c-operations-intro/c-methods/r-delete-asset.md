@@ -5,10 +5,13 @@ title: deleteAsset
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Admin
 exl-id: dacea36e-3d40-4aaf-94fd-f0709830caf9
-TQID: https://experienceleague.adobe.com/XplMpqzM-mTWUkfbAbrgwnR-fwjx3EcZV1awBrKVRLQ
+TQID: 'https://experienceleague.adobe.com/aZnVNkDpTGXy7OrqVts-KHyOB-gdsA8XYlICQ-JC6aM'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

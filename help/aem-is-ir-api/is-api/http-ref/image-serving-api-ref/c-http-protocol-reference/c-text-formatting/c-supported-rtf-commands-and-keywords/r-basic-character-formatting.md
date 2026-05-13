@@ -5,7 +5,7 @@ title: Basic character formatting
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: d3bd6d4d-d7bd-4c9b-bc9e-7edaaac6378e
-TQID: https://experienceleague.adobe.com/-aTdc5X5Y22H5J9Mf0TRGlt-FyWT86rwYNcQ6spxxEA
+TQID: 'https://experienceleague.adobe.com/-QEj-7BWb1yXOLxH25Ay6qBDcMJhI8D6VdHNs0bLgUE'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

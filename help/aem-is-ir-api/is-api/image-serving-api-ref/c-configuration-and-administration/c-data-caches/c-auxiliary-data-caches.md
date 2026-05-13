@@ -5,7 +5,7 @@ title: Auxiliary data caches
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin,User
 exl-id: 39906c86-fd9e-4961-a8ba-2ac44c4214a2
-TQID: https://experienceleague.adobe.com/4bX0Sy16KhG15IEvL24nn1qvEpBBx5M4mLfIrcwqaVM
+TQID: 'https://experienceleague.adobe.com/oRZFSXKaBE9q7liBPRVCheL-NPTriPJkWZFqgMBcoaQ'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

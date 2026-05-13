@@ -5,7 +5,7 @@ title: Common operations
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: f30a9653-7aed-4233-8361-18ca6561d420
-TQID: https://experienceleague.adobe.com/QMyQZ-YLlXfFGUcfLeR1NrBJxXbWsg1By2-pFej5GA8
+TQID: 'https://experienceleague.adobe.com/9mnmonp3Oddwqeuwny6mmliC2luvNJnBNEleRU1Km4E'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

@@ -5,10 +5,13 @@ title: getPhotoshopPathNames
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 11d4c0d0-a3a3-4324-a4a6-1dd7b7e673da
-TQID: https://experienceleague.adobe.com/q4DVe90HCs8C6bE0Mcja9ViKGcHHCYq2E2bSkOWNcYY
+TQID: 'https://experienceleague.adobe.com/BxFBNXpa9ilc4lXeXiuuvCQb9ChImZWt13-pJ3b3osk'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

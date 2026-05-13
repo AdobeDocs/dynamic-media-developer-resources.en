@@ -5,7 +5,7 @@ title: Vignette scaling
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: f9f92254-41d8-4d22-a168-78b49dd55478
-TQID: https://experienceleague.adobe.com/GoeHZoi31gwbsdsEJmqGu2jU8Sha9KKdQflM1tr6l7c
+TQID: 'https://experienceleague.adobe.com/wyDLZwxCnjFWoMtnYBHVDONCy551mbAruNRRuqrEaGE'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

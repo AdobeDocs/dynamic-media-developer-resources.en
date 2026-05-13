@@ -5,7 +5,7 @@ title: Gloss
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 72c5d2f9-a7e6-4ad3-aebe-6a1b1fa5453f
-TQID: https://experienceleague.adobe.com/vvQJ-VoK4XjPyzwel8JCLDX3TuDL5hqBNDFeibmLMmM
+TQID: 'https://experienceleague.adobe.com/Q1mOPjFXFnSPVRsvYpKs3a-15g1BfxQRCsFaMRBZNTw'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

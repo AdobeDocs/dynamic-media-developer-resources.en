@@ -5,7 +5,7 @@ title: Common thumbnail attributes
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 1289f251-61f0-4355-9dd2-f9b0690e355c
-TQID: https://experienceleague.adobe.com/Nm6SzOE1RzSPHrZcqPMuVBmoEHNkaZA1PfbOIfn9GUs
+TQID: 'https://experienceleague.adobe.com/Jw6-mNXCY-K1Mju5c-Q55pUU2yoFn-2BXbAgoKUhHzA'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

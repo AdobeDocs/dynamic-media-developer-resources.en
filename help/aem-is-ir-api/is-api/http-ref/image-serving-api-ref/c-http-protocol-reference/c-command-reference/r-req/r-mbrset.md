@@ -5,7 +5,7 @@ title: mbrSet
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 0568a4a1-7d6a-453e-83bc-05c0cde0c0f8
-TQID: https://experienceleague.adobe.com/AkZw3S6R4uagF0TydQlTDTHZm9B3PYppv0g-pDFKhlQ
+TQID: 'https://experienceleague.adobe.com/j8HXFZEv-TJINp20XNewqo82k-Yy39Aey4FU4Tm8AVc'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

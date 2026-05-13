@@ -5,7 +5,7 @@ title: Italic
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 46575243-4472-44fe-89ce-30d9c875c7d2
-TQID: https://experienceleague.adobe.com/RUymWAUvVM49BsUgHuXZHSLvSjHUrIxKl5Vey0Aqbuk
+TQID: 'https://experienceleague.adobe.com/r-bZjcePqqLjlJqvYUkteBTHL4qWwt7fm2EDK-slTng'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

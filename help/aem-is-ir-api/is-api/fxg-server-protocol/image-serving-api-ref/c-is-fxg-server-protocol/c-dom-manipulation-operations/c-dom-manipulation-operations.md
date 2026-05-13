@@ -5,7 +5,7 @@ title: FXG DOM manipulation operations
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 99325deb-2eb2-4c3b-ba5e-1ed64f36ba23
-TQID: https://experienceleague.adobe.com/K1uPxB3YwGR2M4yQDg0DZTvzJuvSBoA-Iu8uKYkemnM
+TQID: 'https://experienceleague.adobe.com/0LgxEKAkRh-W0Kt5qWfZbxxbEAC5SrbznUx2oEJPbHQ'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

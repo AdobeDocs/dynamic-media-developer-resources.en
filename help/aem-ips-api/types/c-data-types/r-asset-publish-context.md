@@ -5,10 +5,13 @@ title: AssetPublishContexts
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Admin
 exl-id: fa94e3ce-b210-4d0d-88f1-0b245d5a52b5
-TQID: https://experienceleague.adobe.com/4Ab9-HSYHkBgScdZI-XGjzRfKvYHyvWfP-k4mxlKpOk
+TQID: 'https://experienceleague.adobe.com/wEvgo3j1jaqecSkN1kz61WnjiQ1AiXQwtMj027-mCp0'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

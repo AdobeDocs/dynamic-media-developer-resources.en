@@ -5,10 +5,13 @@ title: ThumbnailGridView.align
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: 1d7dd7f5-a5b4-43aa-9682-61f22a078f88
-TQID: https://experienceleague.adobe.com/avxyL24V-sifEo76gX6BsM1up-1-moYXf4jnBlqVQ2k
+TQID: 'https://experienceleague.adobe.com/jy84aXBvo2LXfc4k1-y5F4-Ug34tDl4sOMyPr6kD1Ps'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

@@ -5,10 +5,13 @@ title: saveImageMap
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 91e40549-9b26-41f2-a3ab-7e9bec8f9ba7
-TQID: https://experienceleague.adobe.com/PAx1fTPrGHyK9bMgqqB2tMu88kRVKhzJyxy8dJRiWhg
+TQID: 'https://experienceleague.adobe.com/ZSA0CvygWjE-RgySjcXudpqzrfaYZ2LUqeqbnlRLWbc'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

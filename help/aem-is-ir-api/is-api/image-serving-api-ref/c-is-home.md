@@ -5,7 +5,7 @@ title: Image Serving API
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: c2bc6728-e8c4-43f6-a3e7-33c9336774b2
-TQID: https://experienceleague.adobe.com/4ldA51C2clvsAc6gB-fz2OEI6NxvypqZD-mA1mNpxi8
+TQID: 'https://experienceleague.adobe.com/ytPvAMb7LNZL4bs8N-i1GA1-wsYnmESbIXM2zAYs77M'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

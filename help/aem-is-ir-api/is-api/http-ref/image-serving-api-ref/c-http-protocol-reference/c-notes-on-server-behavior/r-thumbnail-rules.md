@@ -5,7 +5,7 @@ title: Thumbnail rules
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: d81dc4ad-dd59-4235-996e-58996f009d88
-TQID: https://experienceleague.adobe.com/dkVbMmY4lJolmlDAIV9HQw8k62B4WDAMUw1bquGm5k0
+TQID: 'https://experienceleague.adobe.com/2HjWzEcMFnTFzwDWz-Ld7wZ6FsFcq3gwaUFcSWgxPko'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

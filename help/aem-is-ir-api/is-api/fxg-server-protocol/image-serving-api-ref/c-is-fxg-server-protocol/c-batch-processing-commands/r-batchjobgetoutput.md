@@ -5,7 +5,7 @@ title: batchjobgetoutput
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 3fb48c39-b15a-45b7-9aca-ed33f9c46c93
-TQID: https://experienceleague.adobe.com/RMvgmmOZ4BCHf1EevIdeQmgGc7gdVKNvMHpiiNJNnqA
+TQID: 'https://experienceleague.adobe.com/NxpHJlKxPQZT5YilheQ-MR0YfYO685pscRk76T1aU0A'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

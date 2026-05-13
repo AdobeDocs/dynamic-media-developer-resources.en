@@ -5,7 +5,7 @@ title: Image Rendering color management *
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: fa772ab2-8a32-4c1a-9ee3-c1cf4a0b3095
-TQID: https://experienceleague.adobe.com/1krsyX4R8sfAu3nrS654TXdm40nxsAKRZ9MTPugZw6k
+TQID: 'https://experienceleague.adobe.com/jreocUOYeYBrId4tPQljML7YhWzxf10tefkkuXONlf4'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

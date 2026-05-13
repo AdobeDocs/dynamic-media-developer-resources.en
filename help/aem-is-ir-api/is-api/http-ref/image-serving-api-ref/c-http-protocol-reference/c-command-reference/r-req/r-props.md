@@ -5,7 +5,7 @@ title: props
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 9933d1dc-ae16-4d17-80ca-a1068cd73b0c
-TQID: https://experienceleague.adobe.com/Z5Y3lqXmO6A6AZD-jAoJGiywYqB6AslOreWl7IEJJnw
+TQID: 'https://experienceleague.adobe.com/grTKxMVRKQ8-casDC-aGK6xeQQwqsg2sRLRBGlTrXdc'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

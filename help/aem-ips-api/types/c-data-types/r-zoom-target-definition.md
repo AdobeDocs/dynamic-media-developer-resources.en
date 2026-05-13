@@ -5,10 +5,13 @@ title: ZoomTargetDefinition
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 57916dec-8676-41aa-834b-37775a0f6d02
-TQID: https://experienceleague.adobe.com/XAN3731yEA0TUny449-kL1rIaoe6eDf3TCudqEhd7yU
+TQID: 'https://experienceleague.adobe.com/8Tvte1c4Pu-X3PPzqr2AenZ6QKUIbCArcGpzXhoP87g'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

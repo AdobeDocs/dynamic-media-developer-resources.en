@@ -5,10 +5,13 @@ title: PageView.doubleclick
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: e6baef83-b4a8-4bef-bb13-263f3875030d
-TQID: https://experienceleague.adobe.com/p02ioFun5IXuDoYl54ijwqJn1-pSX9-VFP-e-KGBHqM
+TQID: 'https://experienceleague.adobe.com/TezA2ok7gtbTfgitLMsY4e3FF2pHsEGw-rmABoYCPPA'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

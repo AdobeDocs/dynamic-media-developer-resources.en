@@ -5,7 +5,7 @@ title: trimMargin
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: dc6e31f8-d3be-44d3-8342-a4ef4b3fd61b
-TQID: https://experienceleague.adobe.com/mORFOBC58y3a7xNau3T3YwEk-uOl4Ob4uXZORVBXYiA
+TQID: 'https://experienceleague.adobe.com/xrj1Qk8XDpN0r45H5uB2rkq6cq2xP8sn5LobTtKtxG4'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

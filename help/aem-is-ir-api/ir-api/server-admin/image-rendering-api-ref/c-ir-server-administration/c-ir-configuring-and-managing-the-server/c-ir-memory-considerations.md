@@ -5,7 +5,7 @@ title: Memory considerations
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin,User
 exl-id: 62eaa41c-a61c-4bcd-8dd9-9c3423bf82ef
-TQID: https://experienceleague.adobe.com/HMHACZNPh6aB-7rl7Cqk-CbvfxP6O5DRQR6eFMX177k
+TQID: 'https://experienceleague.adobe.com/l41dx4mMn82TvImVVCJJKgJZbP-mWT5KbnzfZ5xFJqg'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

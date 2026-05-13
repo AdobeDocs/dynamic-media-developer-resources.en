@@ -5,7 +5,7 @@ title: Defining SSL ciphers
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin,User
 exl-id: 7734ba02-4442-4a3d-acbf-e14d8ad66279
-TQID: https://experienceleague.adobe.com/5q5jagcG8FH81s4XHYxbA-BUD9Q82lKZYmRnUMyJh-g
+TQID: 'https://experienceleague.adobe.com/ZFBdAmbRRWCrrgGiXxdwCqMT9FYDNzoMc4IMQCwGCtw'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

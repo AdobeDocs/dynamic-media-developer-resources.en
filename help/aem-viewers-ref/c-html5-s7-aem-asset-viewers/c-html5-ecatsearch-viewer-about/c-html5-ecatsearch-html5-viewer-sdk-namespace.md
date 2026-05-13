@@ -5,7 +5,7 @@ title: Viewer SDK namespace
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: aaad8f43-f6f2-440f-a6c4-52db585b48da
-TQID: https://experienceleague.adobe.com/ezM56Efi8ezf09UpjVnlaC2py6PJLkVKnx6BW-DxSHI
+TQID: 'https://experienceleague.adobe.com/wS6VG2Eo73QO7-kbRLVCZ-DOrSWUb6XOB92J-zP7QV8'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

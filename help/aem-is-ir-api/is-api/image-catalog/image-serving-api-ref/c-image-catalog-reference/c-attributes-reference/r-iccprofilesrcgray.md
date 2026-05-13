@@ -5,7 +5,7 @@ title: IccProfileSrcGray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 54290f71-36b2-4b37-ac04-4fe85c1f34ab
-TQID: https://experienceleague.adobe.com/7rC4vLHQWMdUPjftRDfaVkeKYgpFkCZKYLsvDbRDiDQ
+TQID: 'https://experienceleague.adobe.com/T6hvJ0NuHHHN3io1u0BbkQMbaIZEPXpwZJddf-VR7So'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

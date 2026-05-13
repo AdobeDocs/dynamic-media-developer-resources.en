@@ -4,6 +4,10 @@ description: Excludes the primary video from the adaptive video set.
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: e73eab03-fbda-435c-be3c-98781f8630a5
+TQID: 'https://experienceleague.adobe.com/PbBix9CqLIU1x1aN1OgSEc6uy0d7p6n5YadU3XkweIE'
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
 ---
 # ExcludeMasterVideoFromAVS{#excludemastervideofromavs}
 

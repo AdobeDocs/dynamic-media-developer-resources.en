@@ -5,7 +5,7 @@ title: DefaultPix
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 709fb2a1-1b9d-421e-9a65-5f5c74390ce3
-TQID: https://experienceleague.adobe.com/hAks9b6Kgkt9iIAQHTWJl0R7pVP5h-igXpzUn8I42Zw
+TQID: 'https://experienceleague.adobe.com/R8zszzJJqviiIiIBt4GHGUmg5cX1yDxuhT6zoHllQKw'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

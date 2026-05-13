@@ -5,10 +5,13 @@ title: deleteMetadataField
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 1922fc1b-2abc-4d31-985a-65c788af4d46
-TQID: https://experienceleague.adobe.com/oaB-IiXmVwTeSMPoT6QdyTM-gZcIlMzzfwHT4F9KRjc
+TQID: 'https://experienceleague.adobe.com/GnKkb-vTCdD5PwU111sxefzxR7FN74hk3i66c3gcH9I'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

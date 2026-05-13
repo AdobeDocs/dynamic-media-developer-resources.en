@@ -5,7 +5,7 @@ title: The compositing canvas
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 38b2349f-714a-4304-bd33-5ce171b6d3a1
-TQID: https://experienceleague.adobe.com/W97nQwmRq6O-N9cZwwaPeDZpPhNXnYUNJsE0zx9N2XU
+TQID: 'https://experienceleague.adobe.com/62uvC05pApoYR5lY4A-KA5RHmW8Xz0r2-2yvOpdAkOo'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

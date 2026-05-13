@@ -5,7 +5,7 @@ title: Cache clustering
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin,User
 exl-id: d1bea565-ac4e-4717-a53f-cbe706664598
-TQID: https://experienceleague.adobe.com/lGDN6323HGzKh-gFGpqKJCkSPII-el5p7UXAZ7N5gb0
+TQID: 'https://experienceleague.adobe.com/J1QtNEy9i67oveb1oS2V6-fagqrrlC30oih8AS1g-N4'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

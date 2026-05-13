@@ -5,10 +5,13 @@ title: MetadataDelete
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Admin
 exl-id: bc53bf99-bc57-4329-a213-0f8e365abe97
-TQID: https://experienceleague.adobe.com/aXZJ5Z9sS-bb1RKFMpH6Daed8QbnPyQBHcrGYLLKD94
+TQID: 'https://experienceleague.adobe.com/KL42VxcfqGn8Z-eE6NFWLR1Tqwit54Kb5tlvAFAV8Ho'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

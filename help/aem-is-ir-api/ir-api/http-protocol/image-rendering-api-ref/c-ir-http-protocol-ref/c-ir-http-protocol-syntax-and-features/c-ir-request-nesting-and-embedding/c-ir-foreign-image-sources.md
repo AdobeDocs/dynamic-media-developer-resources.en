@@ -5,7 +5,7 @@ solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 90f96a76-e9f3-4ad0-84af-bc0d093acf19
-TQID: https://experienceleague.adobe.com/Ip-93K9uPOME7NzRebmj-fo8RUyl3VpQXqQpzsvbT-Y
+TQID: 'https://experienceleague.adobe.com/doS6fbVfaXGtLVNBAmOkB-TquNmOc5B2B--IewouFDY'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

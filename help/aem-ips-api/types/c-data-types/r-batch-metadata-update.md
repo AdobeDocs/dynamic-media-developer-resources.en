@@ -5,10 +5,13 @@ title: BatchMetadataUpdate
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Admin
 exl-id: 07998708-f7c2-42bc-b128-c81f86fd1760
-TQID: https://experienceleague.adobe.com/k8Mx4D6ReuMISDgDc-4a8R5uZU7qcO66Rw8yfYHlV44
+TQID: 'https://experienceleague.adobe.com/6kgizIARuZbhQ-LOyDvKUiJ7YYvUIjjXisjxfB4or7o'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

@@ -5,7 +5,7 @@ title: Request obfuscation
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 358d714b-703d-418b-90c0-5940f5388c7d
-TQID: https://experienceleague.adobe.com/T1za-PBml9lszEyvxWkTzDEaYMU1k1966aDrTogfqD4
+TQID: 'https://experienceleague.adobe.com/77Q5rV3cP4KoBz3rFKlEmBlumS0TBthuLbLQBETPitE'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

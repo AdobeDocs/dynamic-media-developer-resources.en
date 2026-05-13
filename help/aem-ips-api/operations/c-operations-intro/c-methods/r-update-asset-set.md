@@ -5,10 +5,13 @@ title: updateAssetSet
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Admin
 exl-id: af7899c4-a95f-42c8-858e-ed1592c6f5b6
-TQID: https://experienceleague.adobe.com/Htyl1u04XqYmxWrUfb5wfiBtRjs07e57wGY7rR1YUjM
+TQID: 'https://experienceleague.adobe.com/D74n9esGrb36fQcp35KsbB2DNEuddDt4EaKTH4uLlek'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

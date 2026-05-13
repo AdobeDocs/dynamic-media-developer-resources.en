@@ -5,10 +5,13 @@ title: createImageSet
 feature: Dynamic Media Classic,SDK/API,Image Sets
 role: Developer,Admin
 exl-id: 01ccc705-97e4-4e75-a322-e24bb78cb496
-TQID: https://experienceleague.adobe.com/OkI38CO33dLt8vK1mgTNtMTTHfhor-aVxhEZhQk5fwg
+TQID: 'https://experienceleague.adobe.com/os4DfkGa5cTZfMN1vc5HeA8Qvauvwb5Q0dZ2P3HFI-c'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

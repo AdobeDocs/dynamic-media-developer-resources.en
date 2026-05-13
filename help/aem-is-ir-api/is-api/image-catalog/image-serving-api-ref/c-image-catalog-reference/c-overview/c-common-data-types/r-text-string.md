@@ -5,7 +5,7 @@ title: Text string
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 7e5d5741-292f-43fd-8ba0-7a333f350a40
-TQID: https://experienceleague.adobe.com/-CdW9He9LjHpney1jEgE3-jJKxyzk1tjNNOygto0YdA
+TQID: 'https://experienceleague.adobe.com/N-CQG8GgN-9CeUWkhD3h9iCqOnawVM3HKIlxGGlrEec'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

@@ -5,7 +5,7 @@ title: PublishInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 32bd12cf-f149-489f-ae74-f1da051d0730
-TQID: https://experienceleague.adobe.com/QlcZFMJEK7NllMa9meWBtNqkCv-sqhkSlc6ohw0mqZY
+TQID: 'https://experienceleague.adobe.com/3ITeAh84dzPQz7cxxgj1FwRZXmr8QKril2nF9fbNENA'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

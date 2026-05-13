@@ -5,7 +5,7 @@ title: Image Serving HTTP protocol basic syntax
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: ac75d6d0-a71e-45a0-89ee-b952a0202793
-TQID: https://experienceleague.adobe.com/gryknP0NKNSxGRJ4E76O-8QAZdSoRNHJgl8tPdTw1zI
+TQID: 'https://experienceleague.adobe.com/fB60CyCuBYstiJJesDefrK1DW7w-2t0PJqqt-iLgZOA'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

@@ -4,7 +4,7 @@ title: VideoCaptionInfo
 feature: Dynamic Media Classic,SDK/API,Video
 role: Developer,Admin
 exl-id: 75788ce3-7b89-4c7a-81b0-d36b13a89463
-TQID: https://experienceleague.adobe.com/EP0eokM9Rxe1m7h9ESJnOXKkelHXPIHMICBDcjDwt8c
+TQID: 'https://experienceleague.adobe.com/GmF2NHubL5VgHae33EXE2y6tS41Qa18k71OTa48TX7c'
 product_v2:
   - id: beaff0dd-a904-4c6b-8290-b527cd877d75
     internal-label: Dynamic Media Classic

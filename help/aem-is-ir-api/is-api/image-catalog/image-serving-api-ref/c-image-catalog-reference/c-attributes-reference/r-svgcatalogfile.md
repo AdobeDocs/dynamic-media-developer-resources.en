@@ -5,7 +5,7 @@ title: SvgCatalogFile
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 654579a2-33ff-4633-a6d0-3c03ec8d5aed
-TQID: https://experienceleague.adobe.com/QhCY1O-PSYvNNtTe0-HCAUY-C8RqfPtDy4jKSIdWT6g
+TQID: 'https://experienceleague.adobe.com/m1-nKj-KiVQlN70GYy1AFAAQN-M1wnxTGmmj-e3t9AY'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

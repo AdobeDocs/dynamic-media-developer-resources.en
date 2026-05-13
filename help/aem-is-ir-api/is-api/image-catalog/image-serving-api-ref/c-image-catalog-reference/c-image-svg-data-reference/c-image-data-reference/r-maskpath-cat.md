@@ -5,7 +5,7 @@ title: MaskPath
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: b67e0b62-d2cc-4b05-bd09-65b206466df5
-TQID: https://experienceleague.adobe.com/0Dk-YbzhilHLDG30zC8vkrRkiz0VbUgNLp7B-WTsyuQ
+TQID: 'https://experienceleague.adobe.com/tUXD-vnkr3qkaH3B-dE-e9wfSPXAcnwRbqG9KuJej9E'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

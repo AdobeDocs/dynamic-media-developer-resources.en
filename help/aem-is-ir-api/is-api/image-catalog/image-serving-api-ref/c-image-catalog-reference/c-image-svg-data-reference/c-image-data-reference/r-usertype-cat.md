@@ -5,7 +5,7 @@ title: UserType
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: a97837be-ffc3-4759-8167-81a24dd54947
-TQID: https://experienceleague.adobe.com/tlgOQPb53Awb314-gXPEJykPOl23hh-NOam39axq9t0
+TQID: 'https://experienceleague.adobe.com/7vONum-8R4cjTeM02lSlPZRgq2F08F1bY1efRccjtUU'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

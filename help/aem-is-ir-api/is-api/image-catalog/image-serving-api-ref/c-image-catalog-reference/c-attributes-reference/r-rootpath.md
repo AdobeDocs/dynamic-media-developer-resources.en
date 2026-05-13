@@ -5,7 +5,7 @@ title: RootPath
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 06662b27-fb10-41d0-a14c-48025d7e9137
-TQID: https://experienceleague.adobe.com/98pIouggJLWljBPBx6J-s2sIrOfjMsZ51YWD5U4aRXA
+TQID: 'https://experienceleague.adobe.com/WFDqweSZS1tNJppprC8pJblN-7LBKRM-IHt2Vfj3oW0'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
@@ -17,6 +17,9 @@ role_v2:
     internal-label: User
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # RootPath{#rootpath}
 

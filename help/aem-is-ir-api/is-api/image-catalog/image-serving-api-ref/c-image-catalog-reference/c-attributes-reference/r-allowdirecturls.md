@@ -5,7 +5,7 @@ title: AllowDirectUrls
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: e160101a-9bb7-452f-b892-c2aa65e26e94
-TQID: https://experienceleague.adobe.com/t96v4kVcoq9dXubA4lnjzRpi5IMLQon7uLQcDoB2ecQ
+TQID: 'https://experienceleague.adobe.com/vyvpvk5XLf-vdqHasiuWGJns5QuigFezdB0nKwbsVgI'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

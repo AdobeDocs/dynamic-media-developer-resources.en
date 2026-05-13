@@ -5,7 +5,7 @@ title: DefaultLocale
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: a7f40099-c89c-4653-aa50-f0475257a82b
-TQID: https://experienceleague.adobe.com/IfRaGRZ1ywgtNhSv6J8SWaaP1XpjBvLi9L5IrdEvEic
+TQID: 'https://experienceleague.adobe.com/GKPkkiXZ1gunb-BEpZItozDToyBh2YRPMtNS2Go6W1k'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

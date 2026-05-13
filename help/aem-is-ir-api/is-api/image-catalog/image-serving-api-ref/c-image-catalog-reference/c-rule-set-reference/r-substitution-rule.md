@@ -5,7 +5,7 @@ title: substitution
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: d0f1c558-b745-41dc-bf65-1bf1fdcb88d3
-TQID: https://experienceleague.adobe.com/sdV68Y21YjAJ1b6fhJkdzd6o11KvPNkW3dzmbO-wv58
+TQID: 'https://experienceleague.adobe.com/ZdC23CxEXKYN0d-h7nM8588KTS5Vy6BTh0kl5Iseq0w'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

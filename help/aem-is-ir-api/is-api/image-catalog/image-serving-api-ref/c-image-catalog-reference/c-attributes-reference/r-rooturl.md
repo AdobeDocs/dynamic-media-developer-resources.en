@@ -5,7 +5,7 @@ title: RootUrl
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 72560180-53e5-4293-9dd3-c0cd196551dc
-TQID: https://experienceleague.adobe.com/avHZxBI6R4N69TGWlzL-QWgUTxVcIn-ATy1BaBc90JY
+TQID: 'https://experienceleague.adobe.com/c-jvMp3XvBjonacYBfmA7b8MnA83SKi2lsO9YJLPqis'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

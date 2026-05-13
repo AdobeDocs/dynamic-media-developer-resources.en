@@ -5,10 +5,13 @@ title: String Comparison Operators
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 97256368-aaf8-437f-9c2a-8265249f87dd
-TQID: https://experienceleague.adobe.com/-ImY8PfddNjZqIVMuXq2TQEAl2XjxGZyT8j02s59rKs
+TQID: 'https://experienceleague.adobe.com/TlH1ro-rYljUVdPxkMj-Oovj9jOJ0MjGfwjBloe09vI'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

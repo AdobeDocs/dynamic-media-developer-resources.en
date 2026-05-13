@@ -5,7 +5,7 @@ title: IccBlackPointCompensation
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 9cf6a415-cc82-40e9-a8b9-a687ca95560e
-TQID: https://experienceleague.adobe.com/UgoKT0nAmlA7DnqTdLjw2UbabqKaUt-V8cDbXUHZ1Eg
+TQID: 'https://experienceleague.adobe.com/254lmacsJwh33atKJ5MRbyjMEf739-ol-BTA9CxE5Nk'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

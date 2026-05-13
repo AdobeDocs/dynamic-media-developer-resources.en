@@ -5,10 +5,13 @@ title: ThumbnailGridView.textpos
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: a79aa5c7-5691-4695-ac6d-d461ce0b1206
-TQID: https://experienceleague.adobe.com/JJTHfzfjf6tF-Zfa09H7vS5thSS3po-wMIAn3ZjxaFc
+TQID: 'https://experienceleague.adobe.com/NdfUbKRzNuOlG225gPNn6I9606Q6f4Bn89Yw-ezxIEM'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

@@ -5,7 +5,7 @@ title: Options for vignettes
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 7f9c2b43-9264-46a4-9519-64148aebf258
-TQID: https://experienceleague.adobe.com/tGVKX8eWUXxEPZJYoD9AfC2ywbgVbS3P4P-FSqdgZLo
+TQID: 'https://experienceleague.adobe.com/f9Fkiw7Rxx8O0tLFlmnfETYXNNHI7Yui-2t2lNegrIM'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

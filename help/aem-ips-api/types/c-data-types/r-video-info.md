@@ -5,10 +5,13 @@ title: VideoInfo
 feature: Dynamic Media Classic,SDK/API,Video
 role: Developer,Admin
 exl-id: 4f01d54b-1799-40f8-8c46-f170ceffdd25
-TQID: https://experienceleague.adobe.com/0JpYoZtfXP-dBcDa9oyYlPsEQEFX2ZRkkHP4e9HowVo
+TQID: 'https://experienceleague.adobe.com/ijbPoZ4-t1WRIN63MwmNEVmSxdoAuL-tYvmbwznjMO0'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

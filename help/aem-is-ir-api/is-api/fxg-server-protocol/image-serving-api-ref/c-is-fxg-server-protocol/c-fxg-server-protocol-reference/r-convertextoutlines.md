@@ -5,7 +5,7 @@ title: convertTextToOutlines
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: b9bff788-f859-4817-9e29-b9edc579eee7
-TQID: https://experienceleague.adobe.com/Vfw3mcTJfCPOtXZVekk3G95YrOgJuSpWeGQcHb8onuw
+TQID: 'https://experienceleague.adobe.com/QnHcATBjRon2b-IuldovmEhBJ0PEc7MnuNTPrIvvoa4'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

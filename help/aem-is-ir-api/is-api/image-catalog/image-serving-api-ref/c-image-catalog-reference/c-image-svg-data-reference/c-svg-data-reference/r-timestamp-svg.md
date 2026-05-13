@@ -5,7 +5,7 @@ title: TimeStamp
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: e36660bb-d2ec-464c-b578-fe862bca5c50
-TQID: https://experienceleague.adobe.com/WSTr-NEqlSLIFr07t9w8zaJJ3Eh3fcG92RqNeVbhGC4
+TQID: 'https://experienceleague.adobe.com/n-LXS-OEhuBOkse44eQ0HTHV-Bx5BRH3AjgE0xInqK8'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

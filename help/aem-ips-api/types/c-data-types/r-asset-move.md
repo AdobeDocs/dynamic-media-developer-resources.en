@@ -5,10 +5,13 @@ solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Admin
 exl-id: dfddb436-0d58-41d2-8b5e-556517ba0c32
-TQID: https://experienceleague.adobe.com/tEZJJhSidhyC-U9x0D1-MmSb5xAwMnL-Jg2DFuJvNAk
+TQID: 'https://experienceleague.adobe.com/r9CbFkSYT0wGlWjRSVvg-0S5H4n6dZorBqilmlksSqA'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

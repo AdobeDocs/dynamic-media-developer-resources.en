@@ -5,7 +5,7 @@ title: Restrictions and known issues
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: fd32456b-9d99-4e82-a61c-2fc4d7030630
-TQID: https://experienceleague.adobe.com/dy8Mj4p9AFImTYgziGtzeF-jYqdJatIAjxQ26Ze7Dwo
+TQID: 'https://experienceleague.adobe.com/TCVO43J9ABVIbKSBwPE6jSfMR8I-2sc-7Nj-gGDEyPM'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

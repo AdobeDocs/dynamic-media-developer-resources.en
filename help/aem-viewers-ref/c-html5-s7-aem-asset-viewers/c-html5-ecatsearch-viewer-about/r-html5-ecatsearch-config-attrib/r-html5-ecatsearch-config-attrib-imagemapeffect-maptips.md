@@ -5,10 +5,13 @@ title: ImageMapEffect.mapTips
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: 922649e9-865a-4b53-8507-a21611a6d0ac
-TQID: https://experienceleague.adobe.com/zymSc4icJIul07XHnADjXxJgRqyu7WszXn6HAVoEqwY
+TQID: 'https://experienceleague.adobe.com/LpXkQc7-5Q4FJ2jbtyNpkokwsmRJlJlhVzvfGgf-F1E'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

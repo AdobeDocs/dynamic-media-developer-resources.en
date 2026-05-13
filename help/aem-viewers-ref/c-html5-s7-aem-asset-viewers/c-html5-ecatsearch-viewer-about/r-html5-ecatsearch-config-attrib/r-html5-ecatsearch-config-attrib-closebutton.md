@@ -5,10 +5,13 @@ title: Closebutton
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: 4f5f84d0-1b5a-4fb3-91ab-44b4542c6ef1
-TQID: https://experienceleague.adobe.com/CB1FKE6D6-QlAW-2a8p4m-torglV8MePHsOGWm-Sjeg
+TQID: 'https://experienceleague.adobe.com/F3tJX6H7AWn87RyNM9-fV6H1RsXxhcGbXSH0Uegt9P8'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

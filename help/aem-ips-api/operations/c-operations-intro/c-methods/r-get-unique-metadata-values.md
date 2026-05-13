@@ -5,10 +5,13 @@ title: getUniqueMetadataValues
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Admin
 exl-id: ac5f5667-6c94-425c-bc01-f9df48d16e00
-TQID: https://experienceleague.adobe.com/m9AKmMqvTd2vptR-Cl7SyeK9eFucsAazh7675AD7JWE
+TQID: 'https://experienceleague.adobe.com/iDDSEPmoOHPlfCBx2wN9AEM4xlwC-s6SAPKVDUd6iEk'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

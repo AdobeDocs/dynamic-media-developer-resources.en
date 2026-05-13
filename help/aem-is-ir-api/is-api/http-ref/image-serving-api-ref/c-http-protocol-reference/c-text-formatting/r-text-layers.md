@@ -5,7 +5,7 @@ title: Text layers
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 6793eb7d-6c10-4136-b6d4-186a698a8e52
-TQID: https://experienceleague.adobe.com/s7AA2cHng7w7yAxaDuW2qn08qhTu1b-vN--i8-BsnDM
+TQID: 'https://experienceleague.adobe.com/cIgicI7IPJKVWkhlyocD7g7nuXbJXaTAborYvt3Muyg'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

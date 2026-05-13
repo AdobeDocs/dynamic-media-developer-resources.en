@@ -5,10 +5,13 @@ title: Operations  New and Modified
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 1f11a686-7239-4922-a608-5330864184ac
-TQID: https://experienceleague.adobe.com/WKfo6HcSzdISYtkQARjI66xauE9eO1gUQj6ML5p9ebI
+TQID: 'https://experienceleague.adobe.com/nt-KwoxJw8bSbt076MIIZlXW2YbMzwVURLwE-94hlDU'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

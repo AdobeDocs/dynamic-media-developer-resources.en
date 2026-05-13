@@ -5,7 +5,8 @@ title: Batch processing commands
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 40a5b597-3db2-4846-903e-1a47a999610b
-TQID: https://experienceleague.adobe.com/6bdhUNOvbM7ouWD4xHnhCMbM5T3di7LkBBclxqKm4OY
+autotag-review: '2026-05-13T20:31:47.239Z'
+TQID: 'https://experienceleague.adobe.com/nKZstMD6h-3nfTVFK8W-3UAG9N-SDxF57v5p0p0f340'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
@@ -17,6 +18,9 @@ role_v2:
     internal-label: User
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Batch processing commands{#batch-processing-commands}
 

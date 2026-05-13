@@ -5,10 +5,13 @@ title: setImageRenderingPublishSettings
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 7b0fe5d2-2779-417f-a5fe-577def2e0158
-TQID: https://experienceleague.adobe.com/cacTZ9-BZWIjwsjgMrGXnGxxH3tlf5XzEd6a3WRGY8A
+TQID: 'https://experienceleague.adobe.com/aBe1guw2TjMqkJn3K1nsXtmEZ9YzeEh-TT0rZcdkJSk'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

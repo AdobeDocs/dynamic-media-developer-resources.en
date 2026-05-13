@@ -5,7 +5,7 @@ title: Vignette map reference
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 77e4d131-f043-4091-8bf7-f85cc0e98002
-TQID: https://experienceleague.adobe.com/3H38TY2LxS6bxjUFqJFLx-XC9NiJkItcIblPVEZgzDc
+TQID: 'https://experienceleague.adobe.com/iXHQzFAGPwZHo46-SkvkUA26yG6as84sduMfCINzpAQ'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

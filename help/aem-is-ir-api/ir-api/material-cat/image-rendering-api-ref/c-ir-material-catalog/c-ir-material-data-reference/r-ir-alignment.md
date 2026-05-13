@@ -5,7 +5,7 @@ title: Alignment
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 19f94b45-5412-46d5-9a01-d7536bc92e00
-TQID: https://experienceleague.adobe.com/hh3y6n5GzF5sF3HW5V4PlJLONi9QzKQx6XZHs-A5I3o
+TQID: 'https://experienceleague.adobe.com/cHzmKDpsPrqcauXaQPswq2zvqARgrNoQBXj6clTadiM'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

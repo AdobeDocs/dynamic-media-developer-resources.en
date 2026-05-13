@@ -5,7 +5,7 @@ title: imageRes
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: bd9c83c3-b1b5-4649-8975-1452e4dd59b1
-TQID: https://experienceleague.adobe.com/ze0HVWzIoYb5JglROnDfB1s8gMrXdKoqkfXMkWoGuJw
+TQID: 'https://experienceleague.adobe.com/8srUqfWjlNqE8z7LPKCCAe-pRUXG9ov23OZj0-l0N5Q'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

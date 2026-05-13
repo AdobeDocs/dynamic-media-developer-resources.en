@@ -5,7 +5,7 @@ title: Data caching
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin,User
 exl-id: c7be9254-0dd4-4ec3-8448-86a18b9bea0d
-TQID: https://experienceleague.adobe.com/VgMqvjlzNt5ck5RI-ETd6fs4PKZQ9-z1bXEaFbU6GzU
+TQID: 'https://experienceleague.adobe.com/irRmL6olYd2pzmUyyrGHlg5E-v61jJwjEWtx-tCaFBk'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

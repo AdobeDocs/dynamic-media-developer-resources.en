@@ -5,7 +5,7 @@ title: Defaults for catalog fields
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 8d4e666c-468b-4907-911a-9df324f7d2bf
-TQID: https://experienceleague.adobe.com/aDzd98vsueaYXPzkG-bR0-H-FSsdpOx1pMqsu9FW7Ow
+TQID: 'https://experienceleague.adobe.com/WU6vSD3xFxrDgxgC9SCsBig2mWAHrDpb9Zw81sla1TE'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

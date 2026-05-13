@@ -5,10 +5,13 @@ title: ImageFormatArray
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: daf6049f-24e8-4a4b-a9b3-c7f4f2e56f81
-TQID: https://experienceleague.adobe.com/kXdVaQd5x2I-Qmce8EY-AkVeGiiwGDYk-rZBaGzZ9P4
+TQID: 'https://experienceleague.adobe.com/Zkoc0QlZXJi0G6UpIbFdJPPT-dLPAEVhim-MPgHqXHI'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

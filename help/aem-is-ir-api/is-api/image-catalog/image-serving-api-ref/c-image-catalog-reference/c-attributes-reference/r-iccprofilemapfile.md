@@ -5,7 +5,7 @@ title: IccProfileMapFile
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 3a84dc64-3167-4419-a25d-c2f475552f07
-TQID: https://experienceleague.adobe.com/3Gffud0YLd7K9TTObvwrahTNva02Lt5qVHUiFVNqlJg
+TQID: 'https://experienceleague.adobe.com/U4IU0PQ7LqR-hG3SqyHkvHGFZdWIsGPPGX93yyWdp-A'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

@@ -5,10 +5,13 @@ title: SetMetadataFault
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Admin
 exl-id: 49c6f355-4b5f-4b98-9a58-5732d56fdccb
-TQID: https://experienceleague.adobe.com/tRfupdEKg3R7Za-yGGiiS0MWFGX-ekim578ca6K2sh4
+TQID: 'https://experienceleague.adobe.com/kqC7eTmOZHNIYAn8yTKr-q-rJMQMzqBC9moArFK9no4'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

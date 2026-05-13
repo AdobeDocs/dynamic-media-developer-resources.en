@@ -5,10 +5,13 @@ title: ThumbAssetUpdate
 feature: Dynamic Media Classic,SDK/API,Asset Management
 role: Developer,Admin
 exl-id: ef51d01c-1434-40ac-a383-b07ef49c3bab
-TQID: https://experienceleague.adobe.com/8-SgmyK3eHxjgb5COen5DVeUbagUppHVzTTv0MX3dwk
+TQID: 'https://experienceleague.adobe.com/3LFi3h5SFaS3iw2nBuaCGW2-a5PNsKskIX6W5b6u-U8'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

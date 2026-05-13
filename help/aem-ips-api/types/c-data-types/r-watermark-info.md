@@ -5,10 +5,13 @@ title: WatermarkInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 38821d96-d0d2-4f3b-9c31-15d6a8d66e9e
-TQID: https://experienceleague.adobe.com/CPR0vQ7KtnPJIzasNoDBbt9hJGNXI4LQrLNug2ZROBs
+TQID: 'https://experienceleague.adobe.com/w5q4rw3l5obY78yGfc7PqY23csfRueM2TxYUvcmGb2w'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

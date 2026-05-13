@@ -5,10 +5,13 @@ title: TableOfContents.bearing
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: d8b88ea2-38fe-41b8-89cb-c3603c513142
-TQID: https://experienceleague.adobe.com/WaHiOWSTnymBCyu9ZDmerqgc5ub-hnCgD-1x8X1CnR4
+TQID: 'https://experienceleague.adobe.com/LSZTGA6CTiPoNdKYO481BFXT-ApEDcF4QOf1nsh-8fo'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

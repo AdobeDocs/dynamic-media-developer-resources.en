@@ -5,7 +5,7 @@ title: AudioBitRate
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 7aa411e9-3f26-4f2a-b908-546993adf743
-TQID: https://experienceleague.adobe.com/qAtyiHK9vM2ZlfwZGl4ERB3XcdO9aLxkTZfJUw09ILU
+TQID: 'https://experienceleague.adobe.com/cBy7sESCiK7Ur4efWHzdjOQvA-U3v8Pod8jucVdD1Wc'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

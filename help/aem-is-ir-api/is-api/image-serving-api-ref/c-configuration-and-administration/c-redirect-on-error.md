@@ -5,7 +5,7 @@ title: Redirect on error
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin,User
 exl-id: c5541bf3-3296-4ce3-a2ff-9f6336f78ea9
-TQID: https://experienceleague.adobe.com/QqtCYE2quk8h5R-Cw1RhNXYKBE7lKMYxgzeeNfX9RPE
+TQID: 'https://experienceleague.adobe.com/jNvJP4nJ7W1thf-ZDbSCzry54H8wI4DVGK8FW6koNCw'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

@@ -5,7 +5,7 @@ title: Anchor
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 1336330e-86e5-418d-bea3-0c09368e3528
-TQID: https://experienceleague.adobe.com/fDF2on9KHSbgP2qGpwp8vna95XJ0q0Bs5m4lgqxVjiA
+TQID: 'https://experienceleague.adobe.com/-TWQdh61Hkdr81vXooodDafEwQHTMvQdSQSf--HuPIg'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

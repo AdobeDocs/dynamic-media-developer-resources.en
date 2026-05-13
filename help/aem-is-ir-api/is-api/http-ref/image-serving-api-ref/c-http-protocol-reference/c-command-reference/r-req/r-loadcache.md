@@ -5,7 +5,7 @@ title: loadcache
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 653842e9-bed1-462a-bb1f-39ac1ac9512c
-TQID: https://experienceleague.adobe.com/G0zh5UPLAoG28tpFj6Mkq1pwtRyqTGMKV4wpiRlOHnk
+TQID: 'https://experienceleague.adobe.com/Llp-0huLGkxBVxSgRngyAtNKqeHuZ02xJu71MM-Nqww'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

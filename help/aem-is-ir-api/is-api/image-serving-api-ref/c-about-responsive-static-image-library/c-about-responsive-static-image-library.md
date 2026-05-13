@@ -5,7 +5,8 @@ title: About Responsive Image library
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: f853b9b4-917c-4744-b2a5-25fde2532356
-TQID: https://experienceleague.adobe.com/ICeD6nPVMerQOPgScm6Mdesf0PvvRUCLtM646hLGrbY
+autotag-review: '2026-05-13T20:34:09.471Z'
+TQID: 'https://experienceleague.adobe.com/JywTlBUHeKoE0YCexVkpvuMA1hcBS8HngaxyhzEAFZk'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
@@ -17,6 +18,9 @@ role_v2:
     internal-label: User
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # About Responsive Image library{#about-responsive-image-library}
 

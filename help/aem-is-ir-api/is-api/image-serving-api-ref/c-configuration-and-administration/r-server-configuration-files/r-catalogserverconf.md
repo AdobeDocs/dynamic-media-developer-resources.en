@@ -5,7 +5,7 @@ title: catalog-server.conf
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin,User
 exl-id: 55e55381-3828-4937-8746-a74e82d6ca38
-TQID: https://experienceleague.adobe.com/X1ecysEtAHxyHiNqw7-0qB2rr-rpgspzJ1GwVrNtwBM
+TQID: 'https://experienceleague.adobe.com/GdtVY3WMO9F6C5vzkOHdVoMW-f6-L1cJGUt1KUCvLJ8'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

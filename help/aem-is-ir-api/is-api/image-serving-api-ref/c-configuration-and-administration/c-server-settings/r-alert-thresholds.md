@@ -5,7 +5,7 @@ title: Alert thresholds
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin,User
 exl-id: 1ae76692-2688-4902-82a0-d0751408eee7
-TQID: https://experienceleague.adobe.com/sutb8-6yPKaEJhfxNzdHb48WO3UgSEdqppMR1nltu6k
+TQID: 'https://experienceleague.adobe.com/mu--4-idJqrtGhbeVu3GP3LxJ4ZRL6zn1XZxTH7DLw4'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

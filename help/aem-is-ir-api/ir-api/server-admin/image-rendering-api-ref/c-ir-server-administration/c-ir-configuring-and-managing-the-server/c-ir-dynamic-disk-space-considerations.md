@@ -5,7 +5,7 @@ title: Dynamic disk space considerations
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin,User
 exl-id: 7d335c1e-416e-4790-9a33-cd31ed112f82
-TQID: https://experienceleague.adobe.com/VAJcQskQ-xSY6O-Oqbch2oV4QAK9-ySlMNslTECyzMw
+TQID: 'https://experienceleague.adobe.com/oLzT7KxvbMU3Z4J4sLyagK3XEHHoKQ271sbirr4GGuA'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

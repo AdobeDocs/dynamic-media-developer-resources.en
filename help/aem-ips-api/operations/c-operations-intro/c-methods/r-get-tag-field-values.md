@@ -5,10 +5,13 @@ title: getTagFieldValues
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 12836783-4f9d-41d3-9b42-6e25238d7ed5
-TQID: https://experienceleague.adobe.com/gQwH2RvWrWMpoYyLU8tSyhtV8YlRemuffeMz5U1P6Y4
+TQID: 'https://experienceleague.adobe.com/b7chzlIT9c4eWbl-MEVgdmvpymwnOieDHgm3a-lMnH4'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

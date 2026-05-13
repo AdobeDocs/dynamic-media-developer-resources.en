@@ -5,7 +5,7 @@ title: Media set requests
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 71efed33-6248-4d23-ab4e-2caec3449171
-TQID: https://experienceleague.adobe.com/TFMHpAvw0Zftvr7dG4AQRePKq4CVeDdV-0R5OFDuIjY
+TQID: 'https://experienceleague.adobe.com/mcwY5R2hIttDyWKya6b3Jyvt2zwMdLyS4Xp8otY0c34'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

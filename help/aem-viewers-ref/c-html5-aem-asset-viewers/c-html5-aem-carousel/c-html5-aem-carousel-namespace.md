@@ -5,7 +5,7 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Carousel Banners
 role: Developer,User
 exl-id: 1712f08c-70e6-483e-a4e5-614448f35374
-TQID: https://experienceleague.adobe.com/sfGsSvMOgsdj9f25VJ8h1GZy5eH-pJZGYDkmZl-EWAM
+TQID: 'https://experienceleague.adobe.com/TrC4O1mBgXxr2S4FV77RahvUL-VG2v6rnrRYzjMsC9Q'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

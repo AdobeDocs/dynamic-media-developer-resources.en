@@ -5,10 +5,13 @@ title: User Roles
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: f94443ba-7715-4790-bd2a-120e0cb8848e
-TQID: https://experienceleague.adobe.com/waJOO8kvApmOx-dzzrGqp4nFBKBrktEgSZKxveyyFeQ
+TQID: 'https://experienceleague.adobe.com/Xg5C14tZ98DFtwkPVFueHph5Nxx3-I-B-WLDmQB8QeI'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

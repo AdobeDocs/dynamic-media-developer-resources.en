@@ -5,7 +5,7 @@ title: Deleting or replacing data files
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin,User
 exl-id: 1624e1b5-ba79-45db-8309-457a44fddab8
-TQID: https://experienceleague.adobe.com/KSJn-SHE1w5NgxUlrJDIF3rpq-A3qhIG5G4gZ9qLhCw
+TQID: 'https://experienceleague.adobe.com/RLwRWtyvlbeSlQy4woV6-a-nrq3Sz1q7gviUsTrL2Q4'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

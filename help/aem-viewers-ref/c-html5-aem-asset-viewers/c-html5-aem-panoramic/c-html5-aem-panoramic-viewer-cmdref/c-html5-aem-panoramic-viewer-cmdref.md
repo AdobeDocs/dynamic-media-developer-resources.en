@@ -3,6 +3,10 @@ title: Command reference – Configuration attributes
 description: Configuration attributes documentation for Panoramic Viewer.
 solution: Experience Manager
 role: Developer,User
+TQID: 'https://experienceleague.adobe.com/-6kskMStr-k7aFwy9GpQE-wjq4iAgwuEqzP2H1BWk2U'
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
 ---
 # Command reference – Configuration attributes{#command-reference-configuration-attributes}
 

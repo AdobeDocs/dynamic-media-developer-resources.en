@@ -5,10 +5,13 @@ title: RenderSceneInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 0ecbeb51-77c5-4d17-a0e8-8f700679125a
-TQID: https://experienceleague.adobe.com/KEXAS3PlJVL9h3g9owBc-q7MKRkBopWgHPy-C2-jHus
+TQID: 'https://experienceleague.adobe.com/VohJZKqQnhqVq0SRDw1Xfo-oxV-aVSo78oUW9Imgu50'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

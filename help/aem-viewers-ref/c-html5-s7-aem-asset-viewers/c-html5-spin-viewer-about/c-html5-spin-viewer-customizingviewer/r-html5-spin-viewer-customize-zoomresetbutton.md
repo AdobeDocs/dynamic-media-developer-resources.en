@@ -5,10 +5,13 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Spin Sets
 role: Developer,User
 exl-id: fce8ab8a-4db0-4902-8e82-26f201a88dbe
-TQID: https://experienceleague.adobe.com/G-WbOh-U6aZ19PeN0f3IEH34jypFzWf-6zYo99ZEANY
+TQID: 'https://experienceleague.adobe.com/j5-0lqkdSsXWkT2lyEB3--28RvbHXe6vDa7pB-7tpbk'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

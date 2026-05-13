@@ -5,7 +5,7 @@ title: ThumbRes
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 0abb680e-8944-4ad8-9b6c-d0a7559fdd1b
-TQID: https://experienceleague.adobe.com/gQLqvBVHSroLmS5XX7U-AJivW6-Qf9R4z2-NHxl3V0s
+TQID: 'https://experienceleague.adobe.com/xMGMMjCIDWQJbJtLzatEiSEgdD5hQOkaOhKJbMYUyB0'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

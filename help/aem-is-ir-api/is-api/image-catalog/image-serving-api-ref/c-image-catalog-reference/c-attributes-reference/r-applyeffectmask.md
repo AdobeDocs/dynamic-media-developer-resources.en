@@ -5,7 +5,7 @@ title: ApplyEffectMask
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 51965151-03c9-4dbf-ba03-80bfa495439e
-TQID: https://experienceleague.adobe.com/REApLMGQ0VAULLeT2jE-hqoQ6UNEIXArO2-P9yFuCC8
+TQID: 'https://experienceleague.adobe.com/OGHd3Qbck6Sp9m7Ruvm3teqonsum-6KmjWbbU7bY01s'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

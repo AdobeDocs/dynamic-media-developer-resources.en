@@ -5,7 +5,7 @@ title: Configuring SVG
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin,User
 exl-id: 9013e13f-818f-41b4-80b6-2615d9a8742f
-TQID: https://experienceleague.adobe.com/d1OjO-WHx6BhLQihMKMdI9xYhWIvdf21u4o-IEXrS0g
+TQID: 'https://experienceleague.adobe.com/e6eoh1OQJoWFv0-C1xQTqygrGY4Z7m6IkefFblj-yuE'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

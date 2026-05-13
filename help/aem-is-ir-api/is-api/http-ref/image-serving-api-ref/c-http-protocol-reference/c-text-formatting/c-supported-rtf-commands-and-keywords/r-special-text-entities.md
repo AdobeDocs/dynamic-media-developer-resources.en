@@ -5,7 +5,7 @@ title: Special text entities
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 3798dd83-897a-441c-a7c4-ef7325b20f16
-TQID: https://experienceleague.adobe.com/POn-ptgXM5jP1diwCP9AxGGMdDnvyTicm-DDLOoUltU
+TQID: 'https://experienceleague.adobe.com/WkEyXKu8K2l9NFlwZWsXE-NC8xJRNPEUdKijo58bagE'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

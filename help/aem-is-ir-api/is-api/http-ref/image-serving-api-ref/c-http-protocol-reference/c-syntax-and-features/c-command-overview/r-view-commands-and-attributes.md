@@ -5,7 +5,7 @@ title: View commands
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: c1dcabd3-d2bc-4ca1-a909-fcfe0d2feff6
-TQID: https://experienceleague.adobe.com/3iF5Yg5NsM0mcUK8aGNacdE9lvETqEoGUd9bntmoaLM
+TQID: 'https://experienceleague.adobe.com/K-64QrtrPP9fdI78-l5LawFm-qKtIQth6CucRl03ej4'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

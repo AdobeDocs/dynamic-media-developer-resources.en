@@ -5,7 +5,7 @@ title: validate
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 88424371-45a0-43bb-af49-2e8568b7b44c
-TQID: https://experienceleague.adobe.com/jssIn1I6szyF-ine0VkGPjDaKAJqsbsLtmEgpoyWvK0
+TQID: 'https://experienceleague.adobe.com/TfgOIjG2q1CKAulErZYftqmKnCocuSF-H-dQTj4xsFI'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

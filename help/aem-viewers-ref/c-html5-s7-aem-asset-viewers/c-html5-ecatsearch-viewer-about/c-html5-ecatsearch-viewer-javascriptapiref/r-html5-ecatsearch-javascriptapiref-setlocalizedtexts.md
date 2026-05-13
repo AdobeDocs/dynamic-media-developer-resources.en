@@ -5,10 +5,13 @@ title: setLocalizedTexts
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: dfd57bde-70cd-483f-bcd4-680186e4a733
-TQID: https://experienceleague.adobe.com/hBi8a-USnbUdi7hTWkHl-OA6wSouOmeRYHdHjTXwO-c
+TQID: 'https://experienceleague.adobe.com/8vfgUcsl-dqD6gmB0-oskWtsSmMgn8zyJBX7tbFFzrs'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

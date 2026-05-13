@@ -5,7 +5,7 @@ title: ThumbVertAlign
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: bb1aa398-5638-4109-bf05-bc51ace4146d
-TQID: https://experienceleague.adobe.com/ezxV1II8wzF7aA4Vl49mcWLnWGzLuYZCvqbCDEJ9nN0
+TQID: 'https://experienceleague.adobe.com/nXtO03u9PYt4WcYfV2hYC-Jv5GanZltT37YJlnOF0YU'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

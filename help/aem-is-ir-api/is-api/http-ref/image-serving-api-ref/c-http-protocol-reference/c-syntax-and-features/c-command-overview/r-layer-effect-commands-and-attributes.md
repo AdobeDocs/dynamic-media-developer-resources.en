@@ -5,7 +5,7 @@ title: Layer effect commands
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 483b1f24-9cd2-45e0-9d18-0dc0fbe8abcf
-TQID: https://experienceleague.adobe.com/iIiDmYDeHby9O-wnKG5m6VZBqWPa9UKGArlc4C4br4w
+TQID: 'https://experienceleague.adobe.com/u1qkxtTAaUanB6U9-GCMJ-JP35rsK1u-yage6QvTBRg'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

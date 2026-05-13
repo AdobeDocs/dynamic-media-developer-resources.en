@@ -5,7 +5,7 @@ title: Reserved characters
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 76483f3f-f98b-471d-9c5d-49fa22eaf8a3
-TQID: https://experienceleague.adobe.com/7edSR5WBnIvRMSm0-DsnMy6vEufeSQQW6gKQFAlOTnY
+TQID: 'https://experienceleague.adobe.com/6TZRC5--KMRFGR550J9XIthoQruVkwE1UyiISlpMxTg'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

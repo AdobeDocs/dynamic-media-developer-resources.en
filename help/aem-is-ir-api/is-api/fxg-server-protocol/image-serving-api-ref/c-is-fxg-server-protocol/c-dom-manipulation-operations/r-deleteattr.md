@@ -5,7 +5,7 @@ title: deleteAttr
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 7cecd0aa-c928-4652-a92f-f21ebcf83304
-TQID: https://experienceleague.adobe.com/4ltrp4Qu5tA1m-NPL4bdp4IJDAI5hdF6Rr1A2MbTvbg
+TQID: 'https://experienceleague.adobe.com/dQN741iV4LtlEeq3R4tAnPcBHK-AHrzD-jv7AQ4a5ls'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

@@ -5,7 +5,7 @@ title: TrustedDomains
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 925ac9d1-203c-4814-a701-71060bf47c20
-TQID: https://experienceleague.adobe.com/pPZFVZxrLSMKBFEAQ-K-q5AbQDrxLP8z7yCKrJF5Rfc
+TQID: 'https://experienceleague.adobe.com/xGn-usdBOB3NjRaffq6w0SJDlDerpeQJHGhKej-L3Cw'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

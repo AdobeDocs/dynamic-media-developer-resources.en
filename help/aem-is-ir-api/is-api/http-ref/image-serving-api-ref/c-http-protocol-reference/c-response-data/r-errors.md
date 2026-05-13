@@ -5,7 +5,7 @@ title: Errors
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 9314782f-703b-4e9c-a026-62970d1c752f
-TQID: https://experienceleague.adobe.com/-hLxptQkMUodR7CYTnR5laPYdjGk7auxb3iSHAy1S74
+TQID: 'https://experienceleague.adobe.com/qqe0JDlFGu08lAe-K3Ww9AtefwQInwBzZswiXsvqryo'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

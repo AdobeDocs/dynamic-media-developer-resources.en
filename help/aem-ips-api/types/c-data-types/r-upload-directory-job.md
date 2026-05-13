@@ -5,10 +5,13 @@ title: UploadDirectoryJob
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: a23f1bc2-aa6a-4c1d-aab5-7f6dbd08682c
-TQID: https://experienceleague.adobe.com/N7ErF2-A-JbS6RAwVn-4T69BVOJxsu-f9ylXZS9zmnQ
+TQID: 'https://experienceleague.adobe.com/N4NfPdlJBLtpWOK7jCWvk8y-ZR7cJX6M9HdgHMNCgYI'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

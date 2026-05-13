@@ -5,10 +5,13 @@ title: Viewer Type
 feature: Dynamic Media Classic,SDK/API,Viewers
 role: Developer,Admin
 exl-id: 35a11828-d188-4025-8133-154437ba2466
-TQID: https://experienceleague.adobe.com/liAdqHKzAxL7lyffB5hijhzg7A5A5e2h93UN2u3mJXo
+TQID: 'https://experienceleague.adobe.com/ARlfIPa-w7gSYRprxyqOgE6nit8Ew2pE-mBFv7s2ZAY'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

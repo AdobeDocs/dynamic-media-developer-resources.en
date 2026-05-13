@@ -5,7 +5,7 @@ title: Common data types
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: f9654c04-62c7-4820-a7e0-9242c8673e7d
-TQID: https://experienceleague.adobe.com/JUU6SoqAmLNbe-aJR-fBv9LxdWRZlrhRUuiZCl0gv-M
+TQID: 'https://experienceleague.adobe.com/YEeWR-aEIbMmhcGu-pRoMNnQp-2G47BaBgTnYvlaSmc'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

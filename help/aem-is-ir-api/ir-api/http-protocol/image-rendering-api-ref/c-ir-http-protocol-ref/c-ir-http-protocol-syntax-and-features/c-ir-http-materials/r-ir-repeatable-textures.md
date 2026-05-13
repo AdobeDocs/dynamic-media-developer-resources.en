@@ -5,7 +5,7 @@ solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 3693498b-994a-460a-8b2e-780a1482d37a
-TQID: https://experienceleague.adobe.com/qCt-8oX1aE5dgUjPy1diBlYNTCvrreUalakCX0n1XVM
+TQID: 'https://experienceleague.adobe.com/hWfVo7g-LL9l-G8FkN4HZ4B1X7uX85LlklZFjNBsjZI'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
@@ -17,6 +17,9 @@ role_v2:
     internal-label: User
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
 ---
 # Repeatable textures{#repeatable-textures}
 

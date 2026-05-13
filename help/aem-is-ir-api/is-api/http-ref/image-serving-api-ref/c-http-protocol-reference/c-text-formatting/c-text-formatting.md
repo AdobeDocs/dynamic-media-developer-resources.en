@@ -5,7 +5,7 @@ title: Text formatting
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 2c120ed1-b556-4caf-a30e-63ae48cc2104
-TQID: https://experienceleague.adobe.com/X8kBGL-1CgAXql-9NGiO7qtwUPeS7TB87w-yD6XdidY
+TQID: 'https://experienceleague.adobe.com/OzCs0opEKfoih79LE4UuXEOJnN4Zh6iBtQNdRxCddAE'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

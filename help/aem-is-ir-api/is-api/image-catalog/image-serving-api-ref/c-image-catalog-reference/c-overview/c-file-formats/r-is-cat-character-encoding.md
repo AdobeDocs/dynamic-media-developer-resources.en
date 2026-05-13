@@ -5,7 +5,7 @@ title: Character encoding
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: e6e50c2a-53d3-4776-a3f6-4a9d3407e562
-TQID: https://experienceleague.adobe.com/WYtL0FwwyjwCM1LEcucWKuy3fgzhyZJuDQ2KYm94gsA
+TQID: 'https://experienceleague.adobe.com/tsIJu-zCT-NlV6SD1I1pPYQ0DfqNcu9jSCBVXCcQ9tE'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

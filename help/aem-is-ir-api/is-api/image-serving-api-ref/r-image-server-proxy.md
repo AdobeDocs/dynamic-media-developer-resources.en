@@ -5,7 +5,7 @@ title: Image server proxy
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 0389a4af-a412-42eb-b7b4-716e47d623a0
-TQID: https://experienceleague.adobe.com/U3ISWM8Lz2pfV3ZdSweR9x4G4Il5ArZiSsSlNbdjTfs
+TQID: 'https://experienceleague.adobe.com/wJ6wQsus1QmfFbZ4FCM1nAmPdWacySEWaV9vfAA1fyg'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

@@ -5,10 +5,13 @@ title: ThumbnailGridView.maxloadradius
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: acbcea10-950d-4f98-be5a-5aead9f4e0d9
-TQID: https://experienceleague.adobe.com/keq662OWspD0zkBaoObLB9VTVQN1fxW2pj1pIoFu1fs
+TQID: 'https://experienceleague.adobe.com/-J-cOB6Ce-rcuug-ZhhgSQVWG48T81TvGiBTOGBV-Zc'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

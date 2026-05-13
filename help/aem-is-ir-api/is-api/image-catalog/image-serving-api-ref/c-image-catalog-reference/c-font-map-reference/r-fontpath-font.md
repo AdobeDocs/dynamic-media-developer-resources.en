@@ -5,7 +5,7 @@ title: FontPath
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 251ded53-47db-4855-a40b-7078dfc24d87
-TQID: https://experienceleague.adobe.com/pNmuTM2hO0kOBdzROBcLcFAnFj0wWy8cfpnDxR7DvA8
+TQID: 'https://experienceleague.adobe.com/NubwXDAA8lHPpcL1EmNTwTnBoWM4LlmM4OVaWPelhaY'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

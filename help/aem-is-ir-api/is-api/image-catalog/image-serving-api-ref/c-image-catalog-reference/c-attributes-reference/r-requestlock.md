@@ -5,7 +5,7 @@ title: RequestLock
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 7a2b2529-4e8f-44aa-800e-87bdd6fe2519
-TQID: https://experienceleague.adobe.com/o-q2gjLj2e-7iRLVvZjd1HjNTNUsI48BY7fh-LetsU8
+TQID: 'https://experienceleague.adobe.com/Cfgt-t8J4x1JRcxnzhEpMe9tzOfaKr5FrrA0SFu-URw'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

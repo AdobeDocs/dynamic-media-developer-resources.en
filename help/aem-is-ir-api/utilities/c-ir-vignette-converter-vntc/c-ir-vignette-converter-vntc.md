@@ -5,7 +5,7 @@ title: Vignette converter (vntc)
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: dfcd031b-cbaa-4377-af9e-569c1017d592
-TQID: https://experienceleague.adobe.com/dIGPTHSWTO8EMviJMIZTpP-Jxq4rJKglpsfMwPyHQH4
+TQID: 'https://experienceleague.adobe.com/LcammRP0w5FyrmNSSSK6bK1qCo4u-5uD2MYDlaktejA'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

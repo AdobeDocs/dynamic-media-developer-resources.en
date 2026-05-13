@@ -5,7 +5,7 @@ title: RenderSettings
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 37b806f8-e314-4532-a28c-1cc4ab939f09
-TQID: https://experienceleague.adobe.com/wvAt0-Qj9djXQNO5wuYXqeF3xSd-fH7IjIVVr0IuOME
+TQID: 'https://experienceleague.adobe.com/GLp5qu7JNeLOqZco8TW7jkmeUvq9uL3P8AqtGyIKtFI'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

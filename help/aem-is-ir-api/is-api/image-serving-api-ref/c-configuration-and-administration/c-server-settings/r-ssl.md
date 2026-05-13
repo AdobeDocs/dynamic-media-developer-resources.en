@@ -5,7 +5,7 @@ title: SSL
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin,User
 exl-id: 4a5c52cc-de47-48e0-ac92-6ee66a58a7ea
-TQID: https://experienceleague.adobe.com/sh8faETFMmUY7TQdW-mh6ZbOvCBNkBdyNBbZKft6-xU
+TQID: 'https://experienceleague.adobe.com/VOdDIzV6b9J9AZ-qZyAj3AI77MukT1BbSzM-UM-B5N4'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

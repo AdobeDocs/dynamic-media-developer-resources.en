@@ -5,7 +5,7 @@ title: IccProfileCmyk
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 2bf83cf5-3fc9-42aa-a143-4b56e43ee4d1
-TQID: https://experienceleague.adobe.com/eUQqXpKs8P2x4rSfyzLyal6T9-n81-ArZEOYszqUbVI
+TQID: 'https://experienceleague.adobe.com/G0UbfC77naL9ki0QEcpEYCX5Z4Tr3wt7YL2bQi8ZNEI'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

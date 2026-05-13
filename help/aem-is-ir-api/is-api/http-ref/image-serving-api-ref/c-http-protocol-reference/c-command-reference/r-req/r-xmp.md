@@ -5,7 +5,7 @@ title: xmp
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 91e252dd-22e2-4c4e-bc92-67762114c2ce
-TQID: https://experienceleague.adobe.com/smWFhSlIpbkBn7Gw3HkSTKG-nFOEA-7HgbOtAAvbe2g
+TQID: 'https://experienceleague.adobe.com/yPJzG9VRk975dHWzRc6o-OX5njAccH8CcwpR-J--uHk'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

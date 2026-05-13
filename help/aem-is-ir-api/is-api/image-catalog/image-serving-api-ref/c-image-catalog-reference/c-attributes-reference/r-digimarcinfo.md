@@ -5,7 +5,7 @@ title: DigimarcInfo
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 2c46a563-d1e1-44c9-9bde-22128d023828
-TQID: https://experienceleague.adobe.com/Nkm-Z9DqvyUoI9WxAfyWCud1Tf8vNCV7sLR9XvnsIqw
+TQID: 'https://experienceleague.adobe.com/fxLHtJPkmXgKZztHOT24xq4AGqhWWTNY5BppfRRU13o'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

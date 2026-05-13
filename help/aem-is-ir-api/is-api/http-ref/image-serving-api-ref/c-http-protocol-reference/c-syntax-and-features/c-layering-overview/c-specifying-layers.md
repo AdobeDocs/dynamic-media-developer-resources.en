@@ -5,7 +5,7 @@ title: Specifying layers
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: bedd5dac-7577-4c8a-9dc3-43aa4438e53a
-TQID: https://experienceleague.adobe.com/FPe4WKQAQm9rmpQTD-cDA7vN0ey-Gsney1l6czRHbtA
+TQID: 'https://experienceleague.adobe.com/jNFpOYrBFWWc53JvzwENSjpM-SkIpenxxWPUgGX-p0Q'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

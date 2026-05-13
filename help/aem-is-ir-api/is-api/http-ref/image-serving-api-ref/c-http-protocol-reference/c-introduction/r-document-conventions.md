@@ -5,7 +5,7 @@ title: Document conventions
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: e93de3fa-dde1-4d79-93aa-9ad800840cfc
-TQID: https://experienceleague.adobe.com/pKwNHTNrtQPyHWJ8LCqJaxxOLVknaeo4qwQVawvsjvo
+TQID: 'https://experienceleague.adobe.com/NuClwLkfN7-tuVMYcn610qL7-bQOQbVz940uTPAxk-g'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

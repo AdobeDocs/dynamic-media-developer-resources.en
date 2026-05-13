@@ -5,7 +5,7 @@ title: Content data folders
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin,User
 exl-id: 9aa4121f-25f8-49d0-a304-7ae756c046f5
-TQID: https://experienceleague.adobe.com/Cph3iNIq7m7jse1D4QscLRaugTH4ftqtuIz8bbLbcqw
+TQID: 'https://experienceleague.adobe.com/IM1zNaaqC0zD36pUobHIL0Z-rlcrZoujnPbpBtOXq1Y'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

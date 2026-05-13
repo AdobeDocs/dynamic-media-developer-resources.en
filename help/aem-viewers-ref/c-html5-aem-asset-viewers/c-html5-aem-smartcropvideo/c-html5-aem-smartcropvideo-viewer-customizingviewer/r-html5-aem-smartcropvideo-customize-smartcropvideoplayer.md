@@ -5,6 +5,10 @@ solution: Experience Manager, Experience Manager Assets
 feature-set: Experience Manager, Experience Manager Assets
 feature: Dynamic Media Classic,Viewers,SDK/API,Smart Crop,Video
 role: Developer,User
+TQID: 'https://experienceleague.adobe.com/rIAk03o-xH-YQkln2YFJfSKqxoTK0ziIXG86NgrlJnM'
+product_v2:
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
 ---
 # Video player{#video-player}
 

@@ -5,10 +5,13 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: c386a09c-21ce-4105-b416-e6ae50219af0
-TQID: https://experienceleague.adobe.com/Fyjv3JiHIfUa6l42VEOHsA6IcPVyCJloPoIMqOc0RzQ
+TQID: 'https://experienceleague.adobe.com/5hQZ-XHITbIg6-bvxeMNMi71rau9xVOk3tsUIkQWyrk'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

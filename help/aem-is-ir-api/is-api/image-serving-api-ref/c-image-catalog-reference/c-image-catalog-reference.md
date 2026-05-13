@@ -5,7 +5,7 @@ title: Image catalog reference
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: c41a0581-1025-4fad-a157-5e371a7d398a
-TQID: https://experienceleague.adobe.com/1SYlvPcKMfrEW4u-5KkGzZq3NuLFHmBKpPwRabuK1zQ
+TQID: 'https://experienceleague.adobe.com/5glkf7Cg0P97ieayUl3OCWzdMVJBRRf5GFHgvQS5qMA'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager

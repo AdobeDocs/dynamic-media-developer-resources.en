@@ -5,7 +5,7 @@ title: ProfilePath
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: f3ab11a6-d14d-426b-aaa8-af14f062532c
-TQID: https://experienceleague.adobe.com/UT33UQqysD-tNGM1UVDsmLshM0-itzJzS-jgihq0U6Y
+TQID: 'https://experienceleague.adobe.com/C3uB6Yc8WhwxatyX03ER3e664mFtrs7lIFH3aP3lZ1w'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
