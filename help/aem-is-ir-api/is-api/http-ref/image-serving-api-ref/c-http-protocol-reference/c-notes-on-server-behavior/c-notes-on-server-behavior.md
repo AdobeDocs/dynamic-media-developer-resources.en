@@ -5,6 +5,7 @@ title: Notes on server behavior
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 88bc0ff2-604d-4065-9a53-0884457f0e14
+autotag-review: '2026-05-13T21:59:59.880Z'
 TQID: 'https://experienceleague.adobe.com/sXX38Gh0okaxd-72qHnUwI-oDxYmkPOm7XOP3dawvf0'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8

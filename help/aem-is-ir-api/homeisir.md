@@ -5,6 +5,7 @@ title: Adobe Dynamic Media Image Serving and Image Rendering API Home
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: a21b5a40-88d1-4e20-8770-fb35037bd7fd
+autotag-review: '2026-05-13T22:13:10.983Z'
 TQID: 'https://experienceleague.adobe.com/7cfWxuPnQ99LbHMoEWMzV1Snk7uYwn8tsJNAnFT-uRQ'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8

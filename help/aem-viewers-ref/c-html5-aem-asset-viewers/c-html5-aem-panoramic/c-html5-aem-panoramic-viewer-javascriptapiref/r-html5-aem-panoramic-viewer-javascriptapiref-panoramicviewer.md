@@ -5,10 +5,14 @@ solution: Experience Manager, Experience Manager Assets
 feature-set: Experience Manager, Experience Manager Assets
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,User
+autotag-review: '2026-05-13T22:09:54.686Z'
 TQID: 'https://experienceleague.adobe.com/zSYqLmLn-LQhkIIrPe31JIouevTWijICBcrmY3fol1M'
 product_v2:
-  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
-    internal-label: Dynamic Media Classic
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 ---
 # PanoramicViewer{#panoramicviewer}
 
