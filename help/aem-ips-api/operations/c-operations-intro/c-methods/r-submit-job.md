@@ -5,6 +5,18 @@ title: submitJob
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: b1dc7a0e-da9a-4086-822b-5274bd62eadf
+TQID: 'https://experienceleague.adobe.com/RtEWl0OGJGwGT-0CfZPNXr1-zCFt--3ZcJQshdBA6Nk'
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # submitJob{#submitjob}
 

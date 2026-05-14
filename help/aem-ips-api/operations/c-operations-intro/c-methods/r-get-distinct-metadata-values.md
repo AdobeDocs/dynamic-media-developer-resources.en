@@ -5,6 +5,18 @@ title: getDistinctMetadataValues
 feature: Dynamic Media Classic,SDK/API,Metadata
 role: Developer,Admin
 exl-id: 1987d8b0-64e4-49be-af45-98e4c6542e5f
+TQID: https://experienceleague.adobe.com/k5qqGZml4RAzJ2UCgtsIbI0dpxwYnl1561znBOgBrv8
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
 ---
 # getDistinctMetadataValues{#getdistinctmetadatavalues}
 

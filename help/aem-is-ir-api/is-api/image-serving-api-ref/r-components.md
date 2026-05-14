@@ -1,10 +1,22 @@
 ---
 title: Image Serving components
-description: Dynamic Media Image Serving consists of the following components. 
+description: Dynamic Media Image Serving consists of the following components.
 solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 67dd37f3-b11e-42d6-b308-7c1e76a8f2a9
+TQID: 'https://experienceleague.adobe.com/T6NzrpcCTHA4MgFfCDtOxUPxTrcUAmX1zMG9jia4Zb8'
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Image Serving components{#image-serving-components}
 

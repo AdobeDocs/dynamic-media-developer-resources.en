@@ -5,6 +5,18 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Zoom
 role: Developer,User
 exl-id: 18663c1f-5645-41c7-bf26-241ad7c2c3b5
+TQID: 'https://experienceleague.adobe.com/W0lFtb8zJT9kM0P5mosV3dwGFoRp97gDFzq6-KKNdVA'
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Zoom reset button{#zoom-reset-button}
 

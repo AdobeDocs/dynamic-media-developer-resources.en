@@ -5,6 +5,18 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,Flyout
 role: Developer,User
 exl-id: bf928c22-23e9-4df3-b2d7-0841c64baf19
+TQID: 'https://experienceleague.adobe.com/iTifzWseBM5X6r7i7dnP5TQ-NkwNnH-aDjPl-v7gjHM'
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Main viewer area{#main-viewer-area}
 

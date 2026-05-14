@@ -1,10 +1,29 @@
 ---
 title: Scene7 Fall 2016 Release
-description: "The latest release notes for Adobe Scene7 Fall 2016 release, part of the Adobe Experience Manager solution in the Adobe Experience Cloud."
+description: The latest release notes for Adobe Scene7 Fall 2016 release, part of the Adobe Experience Manager solution in the Adobe Experience Cloud.
 solution: Experience Manager
 feature: Dynamic Media Classic
 role: Developer,User
 exl-id: 23091ef7-750a-4ec2-9d03-1d713f436991
+TQID: 'https://experienceleague.adobe.com/7dGuE-LQMFsuKbGCEDMxHE9KE2rU5ptUSn3v0VDIAw0'
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
 ---
 # Scene7 Fall 2016 Release{#scene-fall-release}
 

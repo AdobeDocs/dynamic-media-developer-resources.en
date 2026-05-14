@@ -5,6 +5,18 @@ title: Advanced text formatting
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: fd0e94dc-34ce-4fc1-8d52-f8647c8312b8
+TQID: 'https://experienceleague.adobe.com/ZTUWB5N6T-I3DnokCqX--dj9g-807-D9Fv8l20opVkg'
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Advanced text formatting{#advanced-text-formatting}
 

@@ -1,13 +1,22 @@
 ---
 description: Configuration attributes documentation for eCatalog Viewer.
-
-
 solution: Experience Manager
 title: Command reference – Configuration attributes
-
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: e8ce40c9-d1c0-454f-b8fa-ba19e3fe2091
+TQID: 'https://experienceleague.adobe.com/S8ZeVKc8YwkQUC1rMsG24BtgHkFdXtWZzKYJMXnm61w'
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Command reference – Configuration attributes{#command-reference-configuration-attributes}
 

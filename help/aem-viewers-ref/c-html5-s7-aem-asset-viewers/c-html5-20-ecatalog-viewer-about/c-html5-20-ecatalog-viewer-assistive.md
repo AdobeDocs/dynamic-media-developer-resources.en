@@ -5,6 +5,21 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog,Accessibility
 role: Developer,User
 exl-id: 46ccea4e-4314-453e-a987-68644467ab12
+TQID: 'https://experienceleague.adobe.com/EJ5RQ10U5YYX05-6NG9nHRUs2B9xGlEmJotPEsz-jDc'
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
 ---
 # Assistive technology support{#assistive-technology-support}
 

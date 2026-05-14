@@ -6,6 +6,14 @@ solution: Experience Manager, Experience Manager Assets
 feature-set: Experience Manager, Experience Manager Assets
 feature: Dynamic Media Classic,Viewers,SDK/API
 role: Developer,User
+autotag-review: '2026-05-13T22:16:12.254Z'
+TQID: 'https://experienceleague.adobe.com/lqrLpEdrL5vfhuF9GPmw-Yp1-FZmoEC-H-NlG0Z-i2Q'
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 ---
 # Panoramic{#panoramic}
 

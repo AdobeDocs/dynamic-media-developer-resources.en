@@ -1,10 +1,22 @@
 ---
 title: coord
-description: Pixel coordinates. Used to specify image coordinates in the form of a pixel offset relative to the top-left corner of an image or layer rectangle. These coordinates are often used in image offsets or crop parameters. 
+description: Pixel coordinates. Used to specify image coordinates in the form of a pixel offset relative to the top-left corner of an image or layer rectangle. These coordinates are often used in image offsets or crop parameters.
 solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 12ca4002-a540-4eb9-bb11-824d7cb41d30
+TQID: 'https://experienceleague.adobe.com/0Cot50VbvUeGJBfaWktoez0Q-EI0OdkA5SOfmbF3ojA'
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # coord{#coord}
 

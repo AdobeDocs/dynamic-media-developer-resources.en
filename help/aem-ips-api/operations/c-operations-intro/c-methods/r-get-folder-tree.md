@@ -5,6 +5,18 @@ title: getFolderTree
 feature: Dynamic Media Classic,SDK/API
 role: Developer,Admin
 exl-id: 1afe63ca-d11a-4fa5-a26b-90a23bee1b68
+TQID: 'https://experienceleague.adobe.com/mQG2mkd1VPM1pKrzUr3L3dYCNb-N2-x0qu8B059CY90'
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # getFolderTree{#getfoldertree}
 

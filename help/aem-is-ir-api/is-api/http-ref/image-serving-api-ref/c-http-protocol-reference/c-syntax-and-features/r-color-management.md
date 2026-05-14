@@ -5,6 +5,18 @@ solution: Experience Manager
 feature: Dynamic Media Classic,SDK/API
 role: Developer,User
 exl-id: 0c9a489c-36e0-4934-b9c5-33414a9ce0b8
+TQID: 'https://experienceleague.adobe.com/IzOzGIHXhgknu9Wms73sua9vEF17EemCmaWPByRAp5M'
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Image Serving color management{#image-serving-color-management}
 
