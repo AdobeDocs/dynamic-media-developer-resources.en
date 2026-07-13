@@ -32,3 +32,4 @@ Used by ViewerPresetInfo.
 * [!DNL `AdvancedZoom`] 
 * [!DNL `Spin`] 
 * [!DNL `All custom types`]
+

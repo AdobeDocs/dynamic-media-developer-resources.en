@@ -86,3 +86,4 @@ This code sample updates a vignette publish format and returns the handle to the
    <vignetteFormatHandle>v|21|283</vignetteFormatHandle>
 </updateVignettePublishFormatReturn>
 ```
+

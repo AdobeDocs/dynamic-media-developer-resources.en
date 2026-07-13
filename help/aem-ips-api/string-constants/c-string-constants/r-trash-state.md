@@ -29,3 +29,4 @@ Used by searchAssetReturn/trashState.
 * [!DNL `NotInTrash`] 
 * [!DNL `InTrash`] 
 * [!DNL `InEmptiedTrash`]
+

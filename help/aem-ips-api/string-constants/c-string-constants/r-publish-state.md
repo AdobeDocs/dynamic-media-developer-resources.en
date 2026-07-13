@@ -28,3 +28,4 @@ Used by searchAssetsParam/publishState, setAssetPublishStateParam/publishState a
 
 * [!DNL `MarkedForPublish`] 
 * [!DNL `NotMarkedForPublish`]
+

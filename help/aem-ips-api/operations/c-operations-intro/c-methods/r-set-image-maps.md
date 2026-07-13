@@ -77,3 +77,4 @@ This code sample sets 2 image maps for an image asset. The code specifies shape 
    </imageMapArray>
 </setImageMapsParam>
 ```
+

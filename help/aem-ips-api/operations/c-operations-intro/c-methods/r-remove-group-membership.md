@@ -64,3 +64,4 @@ This code sample removes a user from a group.
 **Response**
 
 None.
+

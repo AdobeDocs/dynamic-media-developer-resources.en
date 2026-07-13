@@ -70,3 +70,4 @@ This code sample specifies a company handle, a folder handle, and a permission a
 **Response**
 
 None.
+

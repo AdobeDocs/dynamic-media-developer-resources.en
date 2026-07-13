@@ -46,3 +46,4 @@ Attaches viewer configuration settings to an asset. These can be a viewer preset
 **Output (setViewerConfigSettingsParam)**
 
 The IPS API does not return a response for this operation.
+

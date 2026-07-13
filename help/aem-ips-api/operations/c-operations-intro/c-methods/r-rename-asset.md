@@ -73,3 +73,4 @@ This code sample renames an asset
 **Response**
 
 None.
+

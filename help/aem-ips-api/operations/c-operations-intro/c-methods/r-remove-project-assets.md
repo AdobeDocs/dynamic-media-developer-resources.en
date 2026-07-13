@@ -68,3 +68,4 @@ This code sample removes 2 assets from a project (specified by the project handl
    </assetHandleArray>
 </removeProjectAssetsParam>
 ```
+

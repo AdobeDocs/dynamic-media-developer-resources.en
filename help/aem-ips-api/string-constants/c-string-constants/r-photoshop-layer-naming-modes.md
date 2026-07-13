@@ -30,3 +30,4 @@ Used by PhotoshopOptions/layerNaming.
 * [!DNL `AppendNumber`] 
 * [!DNL `AppendName`] 
 * [!DNL `Folders`]
+

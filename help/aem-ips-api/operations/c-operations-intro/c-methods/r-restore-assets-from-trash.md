@@ -77,3 +77,4 @@ This code sample restores assets from the trash. The response indicates the oper
    <errorCount>0</errorCount>
 </restoreAssetsFromTrashReturn
 ```
+

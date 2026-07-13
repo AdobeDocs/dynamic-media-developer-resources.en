@@ -41,3 +41,4 @@ Used by ActiveJob/type and ScheduledJob/type.
 * `MetadataUpload`
 * `ImageOptimization`
 * `Cleanup`
+

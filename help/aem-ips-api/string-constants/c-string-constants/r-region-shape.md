@@ -28,3 +28,4 @@ Used by ImageMap/shapeType and saveImageMapParam/shapType.
 
 * [!DNL `Rectangle`] 
 * [!DNL `Polygon`]
+

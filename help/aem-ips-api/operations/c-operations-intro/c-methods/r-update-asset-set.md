@@ -59,3 +59,4 @@ Updates an asset set.
 ```java
 <updateAssetSetReturn xmlns="http://www.scene7.com/IpsApi/xsd/2014-04-03"/>
 ```
+

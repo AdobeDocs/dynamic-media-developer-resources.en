@@ -30,3 +30,4 @@ Used by AutoCropColorOptions/corner.
 * [!DNL `BottomRight`] 
 * [!DNL `UpperLeft`] 
 * [!DNL `UpperRight`]
+

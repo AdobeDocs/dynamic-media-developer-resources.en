@@ -120,3 +120,4 @@ This code sample updates assigns a new name and default value to a metadata fiel
    <fieldHandle>m|21|IMAGE|updateMetadataField</fieldHandle>
 </updateMetadataFieldReturn>
 ```
+

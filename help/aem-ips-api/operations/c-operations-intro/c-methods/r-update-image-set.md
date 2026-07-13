@@ -72,3 +72,4 @@ Updates an image set.
 ```java
 <updateImageSetReturn xmlns="http://www.scene7.com/IpsApi/xsd/2014-04-03"/>
 ```
+

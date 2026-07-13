@@ -35,3 +35,4 @@ Used by getJobLogsParam/sortBy
 * [!DNL `FileErrorCount`] 
 * [!DNL `FileWarningCount`] 
 * [!DNL `FileSuccessCount`]
+

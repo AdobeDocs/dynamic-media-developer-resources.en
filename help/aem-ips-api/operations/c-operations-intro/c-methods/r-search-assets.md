@@ -280,3 +280,4 @@ This code sample searches for image assets that belong to a specific company. Th
     </assetArray>
 </searchAssetsReturn>
 ```
+

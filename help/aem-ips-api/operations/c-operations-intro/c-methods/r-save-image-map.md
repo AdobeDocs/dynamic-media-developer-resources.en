@@ -140,3 +140,4 @@ This code sample creates a new image map for an asset. It uses a shape type dete
    <imageMapHandle>34191|8|554</imageMapHandle> 
 </saveImageMapReturn>
 ```
+

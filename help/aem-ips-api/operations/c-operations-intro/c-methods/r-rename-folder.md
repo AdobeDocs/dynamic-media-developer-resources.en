@@ -74,3 +74,4 @@ This code sample renames a folder.
    <folderHandle>MyCompany/My Newly Renamed PDF Folder/</folderHandle>
 </renameFolderReturn>
 ```
+

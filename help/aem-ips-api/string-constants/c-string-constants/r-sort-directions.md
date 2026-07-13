@@ -28,3 +28,4 @@ Used by searchAssetsParam/sortDirection and getJobLogsParam/sortDirection.
 
 * [!DNL `Ascending`]
 * [!DNL `Descending`]
+

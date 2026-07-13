@@ -88,3 +88,4 @@ This code sample defines an array of zoom targets by name, position (x and y axi
    </zoomTargetHandleArray>
 </setZoomTargetsReturn>
 ```
+
