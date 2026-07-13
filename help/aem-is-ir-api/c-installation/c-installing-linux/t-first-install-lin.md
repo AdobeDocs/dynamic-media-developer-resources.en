@@ -81,3 +81,4 @@ This procedure shows how to install Image Serving for the first time on Linux®.
 >[!NOTE]
 >
 >If the license is installed after installing Image Serving, the Image Server must be started manually before use.
+

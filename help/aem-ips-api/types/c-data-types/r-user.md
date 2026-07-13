@@ -35,3 +35,4 @@ A user of resources and types in the system.
 |  defaultRole  | `xsd:string`  |Sets the role for a user in each company they belong to. However, the user role `IpsAmin` overrides other user roles.  |
 |  isValid  | `xsd:boolean`  | Determines if the user is valid.  |
 |  passwordExpires  | `xsd:dateTime`  | Sets password expiration date.  |
+

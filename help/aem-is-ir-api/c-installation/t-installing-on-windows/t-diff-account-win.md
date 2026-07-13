@@ -33,3 +33,4 @@ After installation, set up services to run under the other user account.
 1. Select **[!UICONTROL Security Settings]** > **[!UICONTROL Local Policies]** > **[!UICONTROL User Rights Assignment]**.
 1. Double-click the **[!UICONTROL Log on as a service]** policy.
 1. Select **[!UICONTROL Add…]** and select the User or Group, then select **[!UICONTROL Ok]** to confirm.
+

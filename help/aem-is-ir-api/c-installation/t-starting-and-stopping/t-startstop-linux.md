@@ -28,3 +28,4 @@ There are two options for starting or stopping Image Serving on Linux®.
 * The following alternative should be familiar to system administrators:
 
   `/sbin/service ImageServing {start|stop|status}`
+

@@ -30,3 +30,4 @@ Thumbnail image update.
 |---|---|---|
 |  assetHandle  | `xsd:string`  | Asset handle.  |
 |  thumbAssetHandle  | `xsd:string`  | Thumb asset handle.  |
+

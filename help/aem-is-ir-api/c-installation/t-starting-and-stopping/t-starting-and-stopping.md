@@ -24,3 +24,4 @@ This section provides instruction for starting and stopping Image Serving in Win
 
 * [Starting or stopping on Windows](t-startstop-windows.md)
 * [Starting or stopping on Linux®](t-startstop-linux.md)
+

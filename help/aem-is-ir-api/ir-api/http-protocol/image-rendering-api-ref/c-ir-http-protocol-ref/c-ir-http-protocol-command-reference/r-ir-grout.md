@@ -55,3 +55,4 @@ If `grout=` is not specified, the grout in the image is not modified. If `grout=
 ## See also {#section-8d472906a44943f5a8557e98f2fbc71f}
 
 [Color Values](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-syntax-and-features/r-ir-color-values.md#reference-657f95c0841742d2a55a48bc938303f6)
+

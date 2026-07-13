@@ -26,3 +26,4 @@ Several mechanisms exist to start or stop the Image Server and [!DNL Platform Se
 
 * The Windows Service Control Panel can be used to start, stop, restart, and verify status of the `Dynamic Media Image Serving` service.
 * **[!UICONTROL Start Menu]**> **[!UICONTROL All Programs]**> **[!UICONTROL Dynamic Media (Scene7)]**> **[!UICONTROL Image Serving]**> **[!UICONTROL Control Service]** provides commands to Start, Stop, and Restart the `Dynamic Media Image Serving` service.
+

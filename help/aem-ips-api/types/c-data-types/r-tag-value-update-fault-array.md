@@ -29,3 +29,4 @@ An array of tag value update faults.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `types:TagValueUpdateFault`  | An array of tag value update faults (error messages).  |
+

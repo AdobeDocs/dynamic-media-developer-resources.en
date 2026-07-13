@@ -30,3 +30,4 @@ Defines old and new tag field values.
 |---|---|---|
 |  oldValue  | `xsd:string`  | Original tag field value.  |
 |  newValue  | `xsd:string`  | New tag field value.  |
+

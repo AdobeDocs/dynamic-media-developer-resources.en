@@ -26,3 +26,4 @@ Image Serving can be installed on 64-bit Windows.
 * [Installing under a different user account than   administrator](t-diff-account-win.md)
 * [Updating from IS 4.7.4 or later](t-update-win.md)
 * [Verifying the installation](t-verify-win.md)
+

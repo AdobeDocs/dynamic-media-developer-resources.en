@@ -46,3 +46,4 @@ Material attribute. Ignored if the current object selection or the material does
 ## Default {#section-bd45105b1e614f96ad5d521e3ef65736}
 
 `opac=100`, for a fully opaque material (if the image does not include an alpha channel).
+

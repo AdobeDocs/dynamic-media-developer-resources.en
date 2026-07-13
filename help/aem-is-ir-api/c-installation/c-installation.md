@@ -35,3 +35,4 @@ In the subsequent instructions, `install_root` refers to the root folder in whic
 * [Installing on Windows](t-installing-on-windows/t-installing-on-windows.md)
 * [Installing on Linux®](c-installing-linux/c-installing-linux.md)
 * [Starting and stopping Image Serving](t-starting-and-stopping/t-starting-and-stopping.md)
+

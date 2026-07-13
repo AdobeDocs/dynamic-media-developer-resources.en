@@ -50,3 +50,4 @@ Material attribute. Ignored by solid color, wallpaper, cabinet, and window treat
 ## See also {#section-f73c00e9368b478dac1fd15bb4367a12}
 
 [anchor=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-http-anchor.md#reference-d53923d785c9442997dc7f2199524c26)
+

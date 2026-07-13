@@ -29,3 +29,4 @@ An array of Zoom targets.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `types:ZoomTarget`  | Array of Zoom targets.  |
+
