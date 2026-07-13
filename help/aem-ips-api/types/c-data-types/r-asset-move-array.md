@@ -29,3 +29,4 @@ Array of asset moves.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `type:AssetMove`  | Array of asset moves.  |
+

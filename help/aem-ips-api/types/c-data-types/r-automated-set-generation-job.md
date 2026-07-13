@@ -88,3 +88,4 @@ The `emailSetting` parameter includes the following options:
   </sequence>
 </complexType>
 ```
+

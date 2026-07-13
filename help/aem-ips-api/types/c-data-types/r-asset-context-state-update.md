@@ -28,3 +28,4 @@ Set a new set of publish state flags for the publish context associated with an 
 |---|---|---|
 |  assetHandle  | `xsd:string`  | Handle to the asset that you want to update.  |
 |  contextStateUpdateArray  | `types:ContextStateUpdateArray`  | An array of publish contact states for the asset that you want to update.  |
+

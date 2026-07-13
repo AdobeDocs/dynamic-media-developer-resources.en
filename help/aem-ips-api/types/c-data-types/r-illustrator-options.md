@@ -32,3 +32,4 @@ Options for an Adobe Illustrator file.
 |  [!DNL resolution]  | `xsd:string`  | File resolution.  |
 |  colorSpace  | `xsd:string`  | Target color space.  |
 |  [!DNL alpha]  | `xsd:boolean`  | Whether to rasterize the file into an image. If so, create a transparent background if the original file is defined in this way for creating overlaying logos.  |
+

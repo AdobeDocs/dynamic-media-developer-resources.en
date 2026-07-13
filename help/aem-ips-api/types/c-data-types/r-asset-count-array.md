@@ -29,3 +29,4 @@ Syntax
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `types:AssetCount`  | Array of asset counts.  |
+

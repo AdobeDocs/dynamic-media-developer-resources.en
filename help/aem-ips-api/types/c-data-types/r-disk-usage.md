@@ -33,3 +33,4 @@ Disk space statistics for an asset or folder.
 |  imageCount  | `xsd:int`  | Number of stored images.  |
 |  diskSpaceUsage  | `xsd:long`  | Total file side in kilobytes.  |
 |  lastModified  | `xsd:dateTime`  |Date, time, and time zone the `DiskUsage` type was last modified.  |
+

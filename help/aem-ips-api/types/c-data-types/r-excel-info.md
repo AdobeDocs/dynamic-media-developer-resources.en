@@ -31,3 +31,4 @@ Properties of a Microsoft Excel file.
 |  originalPath  | `xsd:string`  | Path to the file.  |
 |  originalFile  | `xsd:string`  | File name.  |
 |  fileSize  | `xsd:int`  | File size.  |
+

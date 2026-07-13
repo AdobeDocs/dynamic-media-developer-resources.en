@@ -29,3 +29,4 @@ An array of active jobs.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `types:ActiveJob`  | Array of active jobs.  |
+

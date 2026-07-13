@@ -31,3 +31,4 @@ Used by Dynamic Media developers only.
 |  [!DNL name]  | `xsd:string`  | Configuration name.  |
 |  [!DNL value]  | `xsd:string`  | Configuration value.  |
 |  [!DNL handle]  | `xsd:string`  | Handle to the stored configuration.  |
+

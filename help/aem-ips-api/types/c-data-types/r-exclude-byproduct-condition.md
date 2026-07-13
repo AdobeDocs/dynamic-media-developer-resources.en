@@ -30,3 +30,4 @@ Determines which generation engine and generated asset type to exclude from sear
 |---|---|---|
 |  [!DNL engine]  | `xsd:string`  | The generation engine that created assets you want to exclude. See Generation Info for values.  |
 |  generatedAssetType  | `xsd:string`  | Excluded asset type. See Asset Types for values.  |
+

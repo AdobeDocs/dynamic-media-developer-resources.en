@@ -29,3 +29,4 @@ An array of image set members.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `types:ImageSetMember`  | The array of image set members.  |
+

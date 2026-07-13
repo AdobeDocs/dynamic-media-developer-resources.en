@@ -32,3 +32,4 @@ PostScript file properties.
 |  [!DNL originator]  | `types:Asset`  | Asset record of the primary asset used in the generation.  |
 |  [!DNL generated]  | `types:Asset`  | Asset record of the generated asset.  |
 |  attributeArray  | `types:GenerationAttributeArray`  | Array of attributes associated with the generation process.  |
+

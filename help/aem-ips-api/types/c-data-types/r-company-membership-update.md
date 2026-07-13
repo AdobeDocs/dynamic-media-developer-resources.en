@@ -29,3 +29,4 @@ role_v2:
 |  companyHandle  | `xsd:string`  | Handle to the company.  |
 |  role  | `xsd:string`  | The role a user has for each company they belong to.  |
 |  isActive  | `xsd:boolean`  | Sets the user's status for each company they belong to.  |
+

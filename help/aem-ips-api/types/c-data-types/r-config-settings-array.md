@@ -29,3 +29,4 @@ An array of configuration settings.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `types:ConfigSetting`  | An array of configuration settings.  |
+

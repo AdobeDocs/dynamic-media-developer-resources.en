@@ -29,3 +29,4 @@ An array of image maps.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `types:ImageMap`  | The image map array.  |
+

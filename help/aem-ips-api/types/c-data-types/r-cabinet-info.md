@@ -35,3 +35,4 @@ Properties of a cabinet asset.
 |  imageFile  | `xsd:string`  | File name of cabinet associated with the vignette.  |
 |  optimizedPath  | `xsd:string`  | Path to the IPS-optimized cabinet.  |
 |  optimizedFile  | `xsd:string`  | IPS-optimized cabinet file.  |
+

@@ -29,3 +29,4 @@ role_v2:
 |  [!DNL company]  | `types:Company`  | |
 |  [!DNL role]  | `xsd:string`  | |
 |  isActive  | `xsd:boolean`  | Sets the user's status for each company they belong to.  |
+

@@ -62,3 +62,4 @@ Properties of an Animated GIF file asset.
   </tr> 
  </tbody> 
 </table>
+

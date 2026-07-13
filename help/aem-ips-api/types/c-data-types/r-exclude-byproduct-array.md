@@ -29,3 +29,4 @@ Supports byproduct filtering in the searchAssets operation.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `types:ExcludeByproductCondition`  | Item in the array.  |
+

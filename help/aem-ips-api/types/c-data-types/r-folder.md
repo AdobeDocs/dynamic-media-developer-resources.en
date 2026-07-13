@@ -35,3 +35,4 @@ Hierarchical file or asset storage object. Folders can contain one (or more) sub
 |  permissionsSetHandle  | `xsd:string`  | Folder permissions handle.  |
 |  hasSubfolder  | `types:Boolean`  | Determines if a folder has subfolders.  |
 |  subfolderArray  | `types:FolderArray`  | An array of subfolders in a folder.  |
+

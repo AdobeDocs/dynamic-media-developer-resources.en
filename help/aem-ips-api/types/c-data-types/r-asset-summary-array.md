@@ -29,3 +29,4 @@ An array of asset summaries.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `types:AssetSummary`  | Array of asset summaries.  |
+

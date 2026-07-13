@@ -40,3 +40,4 @@ Company-specific configuration settings.
 |  diskSpaceWarningMin  | `xsd:int`  | Minimum amount of image directory free disk space before a warning is sent out.  |
 |  emailTrashCleanupWarning  | `xsd:boolean`  | Determines whether to send emails before trash can items are automatically deleted.  |
 |  javascriptUploadEnabled  | `types:Asset`  | Determines whether to upload JavaScript files. This option is a potential security risk, so use with care.  |
+

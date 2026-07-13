@@ -29,3 +29,4 @@ An array of folders.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `types:Folder`  | Array of folders.  |
+

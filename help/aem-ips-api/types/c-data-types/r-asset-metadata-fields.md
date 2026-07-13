@@ -33,3 +33,4 @@ Returns metadata field definitions for specified asset types.
 |---|---|---|
 |  assetType  | `xsd:string`  | Asset type associated with field definitions (see "Asset Types" for values).  |
 |  fieldArray  | `types:MetadataFieldArray`  | Array of metadata field definitions associated with the asset type specified in `assetType`.  |
+

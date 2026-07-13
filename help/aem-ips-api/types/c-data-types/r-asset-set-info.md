@@ -29,3 +29,4 @@ Properties for AssetSet type assets.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  setDefinition  | `xsd:string`  | Asset set definition formatted according to the requirements of the targeted IS Viewer. Can contain optional IPS substitution parameters.  |
+

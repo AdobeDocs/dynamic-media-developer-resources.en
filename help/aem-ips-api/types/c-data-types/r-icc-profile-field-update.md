@@ -32,3 +32,4 @@ Update information for ICC profile properties.
 |  [!DNL class]  | `xsd:string`  | Profile classes (see “Profile Classes” for values).  |
 |  colorSpace  | `xsd:string`  | Profile color space (see “Color Spaces” for values).  |
 |  pcsType  | `xsd:string`  | Profile connection space (see “Color Spaces” for values).  |
+

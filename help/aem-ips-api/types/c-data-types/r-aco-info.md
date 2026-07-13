@@ -31,3 +31,4 @@ Properties of an ACO asset.
 |  originalPath  | `xsd:string`  | ACO file path.  |
 |  originalFile  | `xsd:string`  | ACO file name.  |
 |  fileSize  | `xsd:int`  | ACO file size.  |
+

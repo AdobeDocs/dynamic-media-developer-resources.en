@@ -27,3 +27,4 @@ An array of asset context state updates.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `types:AssetsContextStateUpdate`  | An array of asset context state updates.  |
+

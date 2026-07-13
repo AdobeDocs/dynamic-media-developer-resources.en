@@ -43,3 +43,4 @@ Metadata search results that contain summarized information about an asset.
 |  metadataArray  | `types:MetadataArray`  | An array of metadata values associated with the asset.  |
 |  score  | `xsd:double`  | Defines the precision if there is a similarity search (0 = no match, 1 = exact match).  |
 |  scoreDetail  | `xsd:string`  | It holds detailed information about similar areas as a result of a similarity search.  |
+

@@ -36,3 +36,4 @@ Updates the image field associated with an image asset.
 |  [!DNL anchorX]  | `xsd:int`  | X axis image anchor.  |
 |  [!DNL anchorY]  | `xsd:int`  | Y axis image anchor.  |
 |  [!DNL userData]  | `xsd:string`  |Value of `userData` metadata field, which is published to the image serving user data catalog field.  |
+

@@ -28,3 +28,4 @@ Asset types and count for a company.
 |---|---|---|
 | assetType  | `xsd:string` | Type of asset associated with count.  |
 | count  | `sd:int` | Number of `assetType` assets in the company.  |
+

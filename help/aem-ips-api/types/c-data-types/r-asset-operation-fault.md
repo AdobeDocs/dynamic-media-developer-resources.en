@@ -31,3 +31,4 @@ Contains information about warning or error conditions generated during a batch 
 |  assetHandle  | `xsd:string`  | Asset handle for the failed operation.  |
 |  code  | `xsd:int`  | Operation fault code.  |
 |  reason  | `xsd:string`  | Fault description or reason.  |
+

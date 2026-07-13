@@ -32,3 +32,4 @@ Syntax
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `types:AssetMetadataFields`  | An `AssetMetadataFields` array item.  |
+

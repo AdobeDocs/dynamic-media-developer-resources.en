@@ -36,3 +36,4 @@ Target for a click action in the browser.
 |  [!DNL position]  | `xsd:string`  |Position in the format of the HTML `<area>` element’s [!DNL coords] attribute. For example: `coords ="0,0,84,128"`.  |
 |  [!DNL enabled]  | `xsd:boolean`  | True if image map is enabled.  |
 |  lastModified  | `xsd:dateTime`  | Date and time the image map was last modified.  |
+

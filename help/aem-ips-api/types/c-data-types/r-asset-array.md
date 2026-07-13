@@ -29,3 +29,4 @@ Syntax
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `types:Asset`  | Asset array.  |
+

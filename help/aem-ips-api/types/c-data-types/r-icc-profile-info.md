@@ -31,3 +31,4 @@ Properties of an ICC profile asset.
 |  originalPath  | `xsd:string`  | ICC profile path.  |
 |  originalFile  | `xsd:string`  | Name of the original ICC profile.  |
 |  fileSize  | `xsd:int`  | ICC profile size.  |
+
