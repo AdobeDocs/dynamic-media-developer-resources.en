@@ -35,3 +35,4 @@ Represents a company.
 |  [!DNL name]  | `xsd:string`  | Company name.  |
 |  rootPath  | `xsd:string`  | Root path of the company.  |
 |  [!DNL expires]  | `xsd:dateTime`  | Date and time the company expires.  |
+

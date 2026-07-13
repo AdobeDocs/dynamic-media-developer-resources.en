@@ -31,3 +31,4 @@ Properties of a CuePoint file asset.
 |  originalPath  | `xsd:string`  | CuePoint file path.  |
 |  originalFile  | `xsd:string`  | CuePoint file name.  |
 |  fileSize  | `xsd:int`  | CuePoint file size.  |
+

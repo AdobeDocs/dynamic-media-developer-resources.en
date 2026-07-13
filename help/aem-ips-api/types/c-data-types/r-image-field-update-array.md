@@ -29,3 +29,4 @@ An array of image field updates.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `types:ImageFieldUpdate`  | Array of image field updates.  |
+

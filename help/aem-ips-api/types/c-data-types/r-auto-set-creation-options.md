@@ -29,3 +29,4 @@ Automatic set generation script list for upload jobs. Assumes that every script 
 |  Name  | Type  | Description  |
 |---|---|---|
 |  autoSetsArray  | `types:HandleArray`  | Array of [!DNL PropertySet] handles defining the automatic set generation scripts applied during upload.  |
+

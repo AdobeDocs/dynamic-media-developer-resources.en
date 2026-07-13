@@ -31,3 +31,4 @@ Properties of an audio file asset.
 |  originalPath  | `xsd:string`  | Path to the audio file.  |
 |  originalFile  | `xsd:string`  | File name.  |
 |  fileSize  | `xsd:int`  | File size.  |
+

@@ -31,3 +31,4 @@ An array of handles.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `xsd:string`  | An array of handles.  |
+

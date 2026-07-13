@@ -36,3 +36,4 @@ Update information for font properties.
 |  [!DNL style]  | `xsd:string`  | Font style (see Font Styles for values).  |
 |  typeName  | `xsd:string`  | Font type name.  |
 |  [!DNL type]  | `xsd:string`  | Font type (see Font Types for values).  |
+

@@ -31,3 +31,4 @@ Font asset properties.
 |  originalPath  | `xsd:string`  | Font path.  |
 |  originalFile  | `xsd:string`  | Font name.  |
 |  fileSize  | `xsd:int`  | Font size.  |
+

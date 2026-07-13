@@ -31,3 +31,4 @@ Properties of a CSS file asset.
 |  originalPath  | `xsd:string`  | Path to the CSS file.  |
 |  originalFile  | `xsd:string`  | File name.  |
 |  fileSize  | `xsd:int`  | File size.  |
+

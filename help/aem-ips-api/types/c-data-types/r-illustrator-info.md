@@ -31,3 +31,4 @@ Properties of an Adobe Illustrator file.
 |  originalPath  | `xsd:string`  | File path.  |
 |  originalFile  | `xsd:string`  | File name.  |
 |  fileSize  | `xsd:int`  | File size.  |
+

@@ -33,3 +33,4 @@ Updates metadata in batch mode.
 |---|---|---|
 |  assetHandleArray  | `types:HandleArray`  | Array of asset handles.  |
 |  updateArray  | `types:MetadataUpdateArray`  | Array of metadata update handles.  |
+

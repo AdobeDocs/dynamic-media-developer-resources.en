@@ -29,3 +29,4 @@ Syntax
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `types:AssetJobLog`  | Array of asset job logs.  |
+

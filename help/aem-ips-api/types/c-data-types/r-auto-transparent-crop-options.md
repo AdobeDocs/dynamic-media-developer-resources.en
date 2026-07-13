@@ -46,3 +46,4 @@ Options used when automatically cropping images based on transparency.
   </tr> 
  </tbody> 
 </table>
+

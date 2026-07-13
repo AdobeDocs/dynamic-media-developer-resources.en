@@ -29,3 +29,4 @@ Array of generation attributes.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `types:GenerationAttribute`  | The array of generation attributes.  |
+

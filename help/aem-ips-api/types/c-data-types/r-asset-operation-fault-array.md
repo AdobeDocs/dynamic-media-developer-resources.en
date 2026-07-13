@@ -29,3 +29,4 @@ An array of asset operation faults.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `types:AssetOperationFault`  | An array of asset operation fault items.  |
+

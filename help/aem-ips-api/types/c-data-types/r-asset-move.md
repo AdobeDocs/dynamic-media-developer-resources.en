@@ -30,3 +30,4 @@ A handle to an asset and the handle to where it is moved.
 |---|---|---|
 |  assetHandle  | `xsd:string`  | The handle to the asset you want to move.  |
 |  folderHandle  | `xsd:string`  | The handle to the destination folder.  |
+

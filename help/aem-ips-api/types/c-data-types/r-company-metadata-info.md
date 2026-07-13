@@ -33,3 +33,4 @@ Holds information about a company metadata object like ID, name, and type.
 |---|---|---|
 |  [!DNL Code Phrase]  | `Code Phrase`  | |
 
+

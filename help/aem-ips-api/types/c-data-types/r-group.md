@@ -32,3 +32,4 @@ Named set of users used for assigning permissions.
 |  companyHandle  | `xsd:string`  | Company handle.  |
 |  [!DNL name]  | `xsd:string`  | Group name.  |
 |  [!DNL is SystemDefined]  | `xsd:string`  | Whether the group is defined by the system.  |
+

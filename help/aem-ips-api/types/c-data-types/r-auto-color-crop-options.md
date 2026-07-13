@@ -51,3 +51,4 @@ Options for automatically cropping images based on color.
   </tr> 
  </tbody> 
 </table>
+

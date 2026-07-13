@@ -31,3 +31,4 @@ Unstructured named set of image output settings.
 |  imageFormatHandle  | `xsd:string`  | Image format handle.  |
 |  name  | `xsd:string`  | Image format name.  |
 |  urlModifier  | `xsd:string`  | Image server URL that represents the image format.  |
+

@@ -29,3 +29,4 @@ Array of groups.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `types:Group`  | Array of groups.  |
+
