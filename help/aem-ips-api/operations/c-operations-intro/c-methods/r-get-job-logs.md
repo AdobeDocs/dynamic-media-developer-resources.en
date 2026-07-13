@@ -91,3 +91,4 @@ This code sample returns IPS job logs for a specific company. You can also use i
    </jobLogArray>
 </getJobLogsReturn>
 ```
+

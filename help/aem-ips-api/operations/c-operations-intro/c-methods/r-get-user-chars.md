@@ -84,3 +84,4 @@ The User Char Filter Fields string constant determines the type of user characte
    </userCharsArray>
 </getUserCharsReturn>
 ```
+

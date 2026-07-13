@@ -70,3 +70,4 @@ This code sample returns all active jobs of a company running in IPS. In this ca
    <jobArray></jobArray>
 </getActiveJobsReturn>
 ```
+

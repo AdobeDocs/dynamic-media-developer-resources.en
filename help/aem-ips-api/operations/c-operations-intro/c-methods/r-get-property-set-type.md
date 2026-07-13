@@ -95,3 +95,4 @@ This code sample returns a property set type by name.
       <allowMultiple>false</allowMultiple></type>
 </getPropertySetTypeReturn>
 ```
+

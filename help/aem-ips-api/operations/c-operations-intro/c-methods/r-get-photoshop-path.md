@@ -83,3 +83,4 @@ Returns coordinates for the quadrilateral enclosing the named Photoshop path.
 >[!MORELIKETHIS]
 >
 >* [PerspectiveQuad](../../../types/c-data-types/r-perspective-quad.md#reference-3c1f780f9c264e5b870b1ade24566204)
+

@@ -76,3 +76,4 @@ This sample code creates a folder at the root of a company. The response returns
    <folderHandle xmlns="http://www.scene7.com/IpsApi/xsd">MyCompany/SpinSets/</folderHandle>
 </ns1:createFolderReturn>
 ```
+

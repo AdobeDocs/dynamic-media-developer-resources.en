@@ -66,3 +66,4 @@ This code sample removes a user from the specified company. Remove multiple user
 **Response**
 
 None.
+

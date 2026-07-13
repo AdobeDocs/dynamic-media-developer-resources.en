@@ -64,3 +64,4 @@ None.
 **Related Topic:**
 
 [saveImageFormat](../../../operations/c-operations-intro/c-methods/r-save-image-format.md#reference-d15c27f533ef41e38b54a539a304bd1d)
+

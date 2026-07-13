@@ -80,3 +80,4 @@ This code sample returns all the members of a company in a user array. The respo
    </memberArray>
 </getCompanyMembersReturn>
 ```
+

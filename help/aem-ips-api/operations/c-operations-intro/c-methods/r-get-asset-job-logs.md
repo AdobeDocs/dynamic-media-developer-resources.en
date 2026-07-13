@@ -88,3 +88,4 @@ This code sample retrieves the job logs of a specific asset. The response return
    </jobLogArray>
 </getAssetJobLogsReturn>
 ```
+

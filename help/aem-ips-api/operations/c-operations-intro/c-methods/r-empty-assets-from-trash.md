@@ -77,3 +77,4 @@ This code sample uses the company’s handle and an asset handle array that cont
    <errorCount>0</errorCount>
 </emptyAssetsFromTrashReturn>
 ```
+

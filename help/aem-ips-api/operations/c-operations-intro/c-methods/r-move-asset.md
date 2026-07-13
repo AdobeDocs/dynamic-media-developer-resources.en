@@ -64,3 +64,4 @@ This code sample moves an asset to a folder.
 **Response**
 
 None.
+

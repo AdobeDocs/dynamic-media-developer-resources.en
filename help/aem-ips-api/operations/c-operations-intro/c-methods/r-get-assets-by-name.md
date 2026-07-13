@@ -160,3 +160,4 @@ This code sample returns two image type assets.
    </assetArray>
 </getAssetsByNameReturn>
 ```
+

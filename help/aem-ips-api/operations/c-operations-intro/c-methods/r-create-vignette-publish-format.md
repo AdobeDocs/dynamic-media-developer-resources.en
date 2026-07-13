@@ -158,3 +158,4 @@ This code creates vignette publish format. The creation request specifies a name
    <vignetteFormatHandle>v|21|282</vignetteFormatHandle>
 </createVignettePublishFormatReturn>
 ```
+

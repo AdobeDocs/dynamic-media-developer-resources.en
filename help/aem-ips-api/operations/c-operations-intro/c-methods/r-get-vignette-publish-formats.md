@@ -72,3 +72,4 @@ This code sample returns two vignette publish formats associated with a specific
    </vignetteFormatArray>
 </getVignettePublishFormatsReturn>
 ```
+

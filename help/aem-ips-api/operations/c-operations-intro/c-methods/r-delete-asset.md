@@ -66,3 +66,4 @@ This sample code deletes any type of asset from a specific company. It requires 
 **Response**
 
 None.
+

@@ -67,3 +67,4 @@ This code sample returns all image formats for the specified company.
    <imageFormatArray></imageFormatArray>
 </getImageFormatsReturn>
 ```
+

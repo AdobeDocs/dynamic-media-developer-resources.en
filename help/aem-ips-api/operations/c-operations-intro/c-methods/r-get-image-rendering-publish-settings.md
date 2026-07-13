@@ -45,3 +45,4 @@ Syntax
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
 |  publishSettingsArray  | `type:ConfigSettingArray`  | Yes  | Image rendering publishing settings.  |
+

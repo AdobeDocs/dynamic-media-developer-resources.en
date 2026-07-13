@@ -83,3 +83,4 @@ This code sample returns information about assets generated from a specific asse
    </generationArray>
 </getGenerationInfoReturn>
 ```
+

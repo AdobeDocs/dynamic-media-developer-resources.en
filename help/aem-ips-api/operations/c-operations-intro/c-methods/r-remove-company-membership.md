@@ -62,3 +62,4 @@ This code sample removes a user from a company. Omit the optional user handle to
 **Response**
 
 None.
+

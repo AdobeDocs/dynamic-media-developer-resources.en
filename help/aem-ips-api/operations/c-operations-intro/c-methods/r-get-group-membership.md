@@ -69,3 +69,4 @@ This code sample returns all the members of a group. Because the company and use
       <items>
          <groupHandle>225</groupHandle><companyHandle>47</companyHandle><name>MyGroup</name><isSystemDefined>false</isSystemDefined></items></groupArray></getGroupMembershipReturn>
 ```
+
