@@ -96,3 +96,4 @@ It is assumed that the reader is familiar with Dynamic Media Image Authoring and
   <td class="stentry"> <p>White space (spaces or tabs) is not allowed in HTTP requests. This document occasionally uses white space between syntactic elements for clarity only. </p> </td> 
  </tr> 
 </table>
+

@@ -44,3 +44,4 @@ The Vignette Converter limits itself by default to at most 3 GB of memory. When 
 ## See also {#section-3c756bf17b634543904fdd928adeafb2}
 
 Image Authoring Documentation
+

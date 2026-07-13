@@ -24,3 +24,4 @@ vntc returns the following values, depending on whether an error is encountered 
 
 * 0 if no errors are encountered. 
 * 1 if any errors (fatal or non-fatal) are encountered.
+

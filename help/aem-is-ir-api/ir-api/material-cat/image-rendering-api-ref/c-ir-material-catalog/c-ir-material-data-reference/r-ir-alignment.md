@@ -33,3 +33,4 @@ Enum. Set to 0 for default or center-matched alignment, 1 for continuous alignme
 ## See also {#section-3848d074c5a54c9885e7dc074f6eeec1}
 
 [align=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-align.md#reference-4d63baa522ce42f9b15167ba34c5c6a7)
+

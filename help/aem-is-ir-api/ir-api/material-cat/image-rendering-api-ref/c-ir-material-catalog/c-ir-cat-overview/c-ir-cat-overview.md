@@ -53,3 +53,4 @@ For correct functioning of the Render Server, the catalog attributes file for th
 
 `PlatformServer::ir.catalogRootPath`
 -->
+

@@ -148,3 +148,4 @@ The following properties are generated:
   <td class="stentry"> <p>Warning message (such as when <span class="codeph"> -imagemap</span> is specified but no map data is found in the vignette). </p></td> 
  </tr> 
 </table>
+

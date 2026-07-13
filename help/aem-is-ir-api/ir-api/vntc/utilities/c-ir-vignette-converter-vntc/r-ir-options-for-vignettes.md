@@ -64,3 +64,4 @@ The following options control the processing of vignette files. They are ignored
   <td class="stentry"> <p>One or more output vignette widths in pixels. Ignored if <span class="codeph"> -info</span> is specified. <span class="varname"> ival</span> may be 0, which denotes the height of the input vignette. See <a href="../../../../ir-api/vntc/utilities/c-ir-vignette-converter-vntc/c-ir-vignette-scaling.md#concept-e373a29c2f954df98d704c7723804585" type="concept" format="dita" scope="local"> Vignette Scaling</a> for detailed information. </p></td> 
  </tr> 
 </table>
+

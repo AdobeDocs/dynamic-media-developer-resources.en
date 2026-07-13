@@ -25,3 +25,4 @@ If an ICC profile map is required for an image catalog, the relative or absolute
  Entries in the ICC profile map of a specific material catalog override entries in the ICC profile map of the default catalog.
 
 Image Rendering supports color profile files that conform to the ICC Specification.
+

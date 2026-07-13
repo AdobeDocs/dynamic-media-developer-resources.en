@@ -33,3 +33,4 @@ None.
 ## See also {#section-18bdd258f6de456098bd5637064bd1b5}
 
 [attribute::RootPath](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-rootpath.md#reference-a4d7c96b62e14fcbad1740c702f160f3)
+

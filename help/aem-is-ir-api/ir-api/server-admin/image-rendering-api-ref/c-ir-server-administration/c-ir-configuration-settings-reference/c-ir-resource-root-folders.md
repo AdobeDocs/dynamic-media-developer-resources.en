@@ -28,3 +28,4 @@ topic_v2:
 A list of paths, delimited by semi-colons, serve as roots for all data files with relative file paths.
 
 It can either be absolute paths or paths relative to *[!DNL install_folder]*. When multiple paths are specified, the server tries each root in the given order until the file is found. The default is [!DNL ./resources], for a default root path of [!DNL install_folder/resources].
+

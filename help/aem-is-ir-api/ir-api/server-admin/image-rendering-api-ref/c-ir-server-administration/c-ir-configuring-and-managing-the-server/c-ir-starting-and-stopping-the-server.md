@@ -28,3 +28,4 @@ topic_v2:
 Image Rendering is embedded into Image Serving's Image Server and [!DNL Platform Server] components.
 
  Refer to the Image Serving Documentation for further information.
+

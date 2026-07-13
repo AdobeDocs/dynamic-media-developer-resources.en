@@ -45,3 +45,4 @@ If `<substitution>` is empty, the matched string or substring is removed. If `<s
 The substitution string must not contain literal < and & characters. These reserved characters can be encoded with `&` and `<`, respectively, or the entire string can be enclosed in an XML `CDATA` section:
 
 `<substitution><![CDATA[&text=<Hello, world!>]]></ substitution>`
+

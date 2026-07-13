@@ -172,3 +172,4 @@ The following fields are recognized in ICC color profile map files:
   <td class="stentry"> <p>ICC color profile file path. </p></td> 
  </tr> 
 </table>
+

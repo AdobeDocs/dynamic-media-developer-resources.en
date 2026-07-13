@@ -35,3 +35,4 @@ Color. Ignored by solid color and cabinet materials.
 ## See also {#section-befd1fb832c447579185b62ac39df67b}
 
 [bgc=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-bgc.md#reference-3f5c78cea01c4a85aa582076d23aebb0)
+

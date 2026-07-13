@@ -32,3 +32,4 @@ For best performance, memory paging (swapping) should be avoided.
 Image Rendering shares the memory management of Image Server. When using Image Rendering, additional memory should be allocated. 30 to 50% of physical memory may be reasonable.
 
 Refer to the Image Serving documentation for information on how to change the Image Server memory allocation (ImageServer::PhysicalMemory).
+

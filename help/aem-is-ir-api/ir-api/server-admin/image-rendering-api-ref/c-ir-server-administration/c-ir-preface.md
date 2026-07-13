@@ -61,3 +61,4 @@ Items described in this documentation are often prefixed by the following item t
   <td class="stentry"> <p>A name prefixed with 'default::' refers to an attribute of the default image catalog. </p></td> 
  </tr> 
 </table>
+

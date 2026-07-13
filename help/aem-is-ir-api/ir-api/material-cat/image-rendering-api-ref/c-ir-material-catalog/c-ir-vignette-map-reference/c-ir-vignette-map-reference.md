@@ -23,3 +23,4 @@ role_v2:
 If a vignette map is required for a material catalog, the relative or absolute path of the vignette map file must be specified in attribute::VignetteMapFile.
 
 Entries in the vignette map file of a specific material catalog override entries in the vignette map file of the default catalog.
+
