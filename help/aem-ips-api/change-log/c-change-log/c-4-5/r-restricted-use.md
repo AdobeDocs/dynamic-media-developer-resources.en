@@ -115,3 +115,4 @@ These operations and types are subject to disabling, change or deprecation with 
 * Changed `setImageRenderingPublishSettings` to include an optional `contextHandle`parameter 
 
 * Changed `submitJob` to include an optional `createVideoSitemap` job type
+

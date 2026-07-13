@@ -38,3 +38,4 @@ Thrown when a user cannot be authenticated.
 |---|---|---|
 |  `code`  | `xsd:int`  | Fault ID  |
 |  `reason`  | `xsd:string`  | An informative message describing the fault.  |
+

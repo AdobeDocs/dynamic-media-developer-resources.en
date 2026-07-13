@@ -59,3 +59,4 @@ Describes new and changed data types for the IPS API version 4.5.
 
 * `MetadataUpdate` 
 * `UploadUrlsJob` requires a `urlArray` and adds an optional `numUrls` count
+

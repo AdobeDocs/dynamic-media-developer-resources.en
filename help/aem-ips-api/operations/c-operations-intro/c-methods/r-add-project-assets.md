@@ -79,3 +79,4 @@ This example adds a single asset (referenced by its handle) in an asset handle a
    <errorCount>0</errorCount>
 </addProjectAssetsReturn>
 ```
+

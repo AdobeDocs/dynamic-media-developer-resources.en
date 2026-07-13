@@ -60,3 +60,4 @@ Describes new and changed operations methods for the IPS API version 3.7.
 
 * Added `excludeFieldArray` and `getUniqueMetadataValues`. 
 * Made `fieldHandle` a required parameter.
+

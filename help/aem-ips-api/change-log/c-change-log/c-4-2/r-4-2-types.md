@@ -69,3 +69,4 @@ Parameters added:
 
 * `preservePublishState` 
 * `preserveCrop`
+

@@ -45,3 +45,4 @@ Thrown when an authenticated user has insufficient permissions to accomplish a t
 |---|---|---|
 |  `code`  | `xsd:int`  | Fault ID  |
 |  `reason`  | `xsd:string`  | An informative message describing the fault.  |
+

@@ -90,3 +90,4 @@ Allowed thumbnail asset types consist of the following:
    <errorCount>0</errorCount>
 </batchSetThumbAssetReturn>
 ```
+

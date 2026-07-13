@@ -43,3 +43,4 @@ Describes new and changed operations methods for the IPS API version 3.8.
 **getJobLogs**
 
 * The optional `userHandle` parameter lets you retrieve job logs submitted by a specific user.
+

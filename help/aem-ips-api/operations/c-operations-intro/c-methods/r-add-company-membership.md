@@ -62,3 +62,4 @@ This example uses companyHandleArray to add a user to a single company.
 **Response**
 
 None.
+

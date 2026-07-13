@@ -94,3 +94,4 @@ Describes new and changed operations methods for the IPS API version 6.
 
 * Removed `getXMPPanelViewDefinition`. 
 * Removed `searchAssetsByFulltext` and `searchAssetsBySimilarity`.
+
