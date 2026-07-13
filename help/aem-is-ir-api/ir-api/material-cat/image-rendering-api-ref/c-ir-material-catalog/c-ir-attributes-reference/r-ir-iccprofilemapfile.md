@@ -33,3 +33,4 @@ Empty, which indicates that this material catalog does not include private ICC p
 ## See also {#section-972aa8d0fba74ee8b999ee3458320d4d}
 
 [ICC Profile Map](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-icc-profile-map-reference/c-ir-icc-profile-map-reference.md#concept-8c2a7d205b8544ccaa159f5b66710012)
+

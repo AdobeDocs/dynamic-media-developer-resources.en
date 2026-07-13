@@ -35,3 +35,4 @@ Inherited from `default::Format` if not defined or if empty.
 ## See also {#section-d6dc53ae28ab4133a9f8f9ec0bc159a6}
 
 [fmt=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-fmt.md#reference-4c743f67d56b47c5b774fcc900ff758c)
+

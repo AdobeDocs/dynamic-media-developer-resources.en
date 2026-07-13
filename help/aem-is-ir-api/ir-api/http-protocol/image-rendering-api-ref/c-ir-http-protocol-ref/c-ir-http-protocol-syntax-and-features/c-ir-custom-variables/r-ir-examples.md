@@ -39,3 +39,4 @@ The following request specifies certain content to render:
 [!DNL `https://server/myCat/template?$vig=specialCup&$text=Happy%20Birthday!\line%20Pauline&$color=230,20,20`]
 
 Refer to Image Serving Documentation for details about the Image Serving `text=` command.
+

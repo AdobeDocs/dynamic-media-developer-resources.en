@@ -46,3 +46,4 @@ Also ignored are `attribute::MaxPix` and `attribute::DefaultPix` of the image ca
 If the result image of the nested request includes mask (alpha) data, it is always passed to the material. Use a solid color background image layer to avoid unwanted alpha.
 
 The image result of an embedded IS request can be cached optionally by including `cache=on`. By default, caching of intermediate data is disabled. Caching should be enabled only when the intermediate image is reused in a different request within a reasonable time period. Standard server-side cache management applies. Data is cached in a lossless format.
+

@@ -52,3 +52,4 @@ Objects are collected into *object groups*, similar to a file system. Grouping i
 
 * [Scene coordinates](c-ir-scene-coordinates.md)
 * [Material resolution](c-ir-material-resolution.md)
+

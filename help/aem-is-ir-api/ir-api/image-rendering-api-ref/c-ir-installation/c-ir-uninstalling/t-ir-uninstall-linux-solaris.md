@@ -42,3 +42,4 @@ Follow these instructions to uninstall Image Rendering on a LinuxÂ® or Solarisâ„
 
 1. Delete any directories or files that were not removed in step 2. 
 
+

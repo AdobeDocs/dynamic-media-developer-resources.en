@@ -21,3 +21,4 @@ role_v2:
 # Attributes reference{#attributes-reference}
 
 All catalog attributes are optional, except catalog::RootId. All attributes are required in the default catalog attribute file (default.ini).
+

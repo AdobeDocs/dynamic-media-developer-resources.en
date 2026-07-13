@@ -29,3 +29,4 @@ Text string value. Absolute file path or path relative to the catalog folder.
 ## Default {#section-7a1f82b4188e41a3915a78744cada9fb}
 
 Empty, which indicates that this material catalog does not include any material data.
+

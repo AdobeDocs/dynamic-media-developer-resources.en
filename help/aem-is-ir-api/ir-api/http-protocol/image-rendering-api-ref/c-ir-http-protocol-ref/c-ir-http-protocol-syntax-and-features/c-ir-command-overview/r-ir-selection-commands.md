@@ -42,3 +42,4 @@ These commands are used to select vignette groups, objects, sub-areas of groups 
   <td class="stentry"> <p>Select a sub-area of the selected group or object. </p></td> 
  </tr> 
 </table>
+

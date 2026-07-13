@@ -23,3 +23,4 @@ role_v2:
 There is no default.
 
 Only defined variables are substituted by the server. Any occurrences of `$ *[!DNL name]*$` that do not match any defined custom variable remain literal.
+

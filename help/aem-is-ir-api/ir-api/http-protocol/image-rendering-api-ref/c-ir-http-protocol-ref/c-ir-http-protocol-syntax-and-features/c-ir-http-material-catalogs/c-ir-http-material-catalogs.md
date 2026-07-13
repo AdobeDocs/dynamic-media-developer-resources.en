@@ -41,3 +41,4 @@ Vignettes and ICC profiles can be itemized in material catalogs similar to the m
 **See also**
 
 Material Catalog Reference, [ `src=`](../../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-src.md#reference-62c98abad22149d68d405ed6aaff8272), `attribute::RootId`, `attribute::RootPath`, `attribute::VignettePath`
+

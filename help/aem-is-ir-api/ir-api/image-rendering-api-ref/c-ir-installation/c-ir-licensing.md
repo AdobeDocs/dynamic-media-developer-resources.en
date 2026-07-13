@@ -23,3 +23,4 @@ role_v2:
 A Dynamic Media Image Rendering license key is required and must be installed on each system on which Image Rendering is installed.
 
 Image Rendering does not run without a valid license. The installation procedure includes steps to obtain and install the license key.
+

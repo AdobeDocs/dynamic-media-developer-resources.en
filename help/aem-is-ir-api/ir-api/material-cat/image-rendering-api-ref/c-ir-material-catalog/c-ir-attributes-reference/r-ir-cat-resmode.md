@@ -33,3 +33,4 @@ Inherited from `default::ResMode` if not defined or if empty.
 ## See also {#section-34b71c295b4349dfb4379823a2de83c2}
 
 [resMode=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-http-resmode.md#reference-851a5b636f8948cfb11456c9b7dab0d3)
+

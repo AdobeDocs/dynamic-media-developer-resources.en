@@ -26,3 +26,4 @@ The commands supported by Image Rendering are listed below, grouped by category.
 * [Selection commands](r-ir-selection-commands.md)
 * [Material attributes](r-ir-material-attributes.md)
 * [Miscellaneous commands](r-ir-miscellaneous-commands.md)
+

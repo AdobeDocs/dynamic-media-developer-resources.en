@@ -25,3 +25,4 @@ The resolution value of a repeatable texture or other material defines the size 
 Texture resolution values are specified in pixels per inch (or whichever units that the vignette dictates for its scene coordinate space).
 
 The material resolution is specified with `res=`.
+

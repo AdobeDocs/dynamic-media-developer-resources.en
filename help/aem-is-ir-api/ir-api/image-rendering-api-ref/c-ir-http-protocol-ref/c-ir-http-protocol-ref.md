@@ -21,3 +21,4 @@ role_v2:
 # HTTP protocol reference{#http-protocol-reference}
 
 This document describes the HTTP protocol for Dynamic Media Image Rendering.
+

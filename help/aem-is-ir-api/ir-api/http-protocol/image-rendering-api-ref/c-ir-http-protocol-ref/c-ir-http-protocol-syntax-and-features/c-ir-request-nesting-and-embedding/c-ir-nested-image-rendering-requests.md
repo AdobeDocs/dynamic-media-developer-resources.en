@@ -43,3 +43,4 @@ The following commands are ignored when specified in nested requests (either in 
 Also ignored are `attribute::MaxPix` and `attribute::DefaultPix` of the material catalog that applies to the nested render request.
 
 The image result of a nested IR request can be cached optionally by including `cache=on`. By default, caching of intermediate data is disabled. Caching should be enabled only when the intermediate image is reused in a different request within a reasonable time period. Standard server-side cache management applies. Data is cached in a lossless format.
+

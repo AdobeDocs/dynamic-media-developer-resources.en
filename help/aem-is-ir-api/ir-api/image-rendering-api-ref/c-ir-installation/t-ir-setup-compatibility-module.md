@@ -45,3 +45,4 @@ Open Explorer and go to `C:\Program Files\Scene7\ImageServing\webapps\ir`.
 Select all files and folders and copy those inside `C:\Program Files\Scene7\ImageServing\webapps\ROOT`. 
 
 Then edit the file `c:\Program Files\Scene7\ImageServing\webapps\ROOT\WEB-INF\web.xml`, uncommenting the `<servlet>` and `<servlet-mapping>` tags.
+

@@ -21,3 +21,4 @@ role_v2:
 # Advanced Render effects{#advanced-render-effects}
 
 Several advanced render effects are available.
+

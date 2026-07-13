@@ -25,3 +25,4 @@ If it ever becomes necessary, you can uninstall Image Rendering.
 Uninstall might remove some user documents in the installation folder. Back up all files you want to keep before uninstalling.
 
 Before you uninstall, log in to your server host with administrative or root privileges.
+

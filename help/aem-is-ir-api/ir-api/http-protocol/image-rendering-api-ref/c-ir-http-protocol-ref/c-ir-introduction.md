@@ -104,3 +104,4 @@ It is assumed that the reader is familiar with Dynamic Media Image Authoring and
 ** *`MSS`* ** Material Specification Segment: a set of material attributes between two selection commands in the request.
 
 ** *`vignette`* ** An image prepared in Dynamic Media Image Authoring for use with Image Rendering.
+

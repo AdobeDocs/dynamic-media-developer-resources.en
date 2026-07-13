@@ -36,3 +36,4 @@ Unless otherwise noted, all material attributes are optional, with suitable defa
 * [Decals](r-ir-decals.md)
 * [Cabinets](r-ir-cabinets.md)
 * [Window coverings](r-ir-window-coverings.md)
+
