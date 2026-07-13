@@ -63,3 +63,4 @@ This code sample makes the user a member of a group. Add a user to multiple grou
 **Response**
 
 None.
+

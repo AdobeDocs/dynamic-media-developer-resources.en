@@ -130,3 +130,4 @@ Used by JobLogDetail/logType and JobLog/logType.
 * [!DNL `OriginalJobName`] 
 * [!DNL `TotalFileCount`] 
 * [!DNL `RecoverTrashSuccess`]
+

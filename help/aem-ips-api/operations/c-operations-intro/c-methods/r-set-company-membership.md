@@ -62,3 +62,4 @@ This code sample adds a user to a company. Specify multiple companies in the com
 **Response**
 
 None.
+

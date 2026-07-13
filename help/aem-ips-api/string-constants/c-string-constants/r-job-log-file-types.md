@@ -60,3 +60,4 @@ Used by JobLogDetial/assetType.
 * [!DNL `Aco`] 
 * [!DNL `PsdTemplate`] 
 * [!DNL `Zip`]
+

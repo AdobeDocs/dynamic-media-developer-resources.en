@@ -80,3 +80,4 @@ This code sample updates a property set with properties in the property array.
 **Response**
 
 None.
+

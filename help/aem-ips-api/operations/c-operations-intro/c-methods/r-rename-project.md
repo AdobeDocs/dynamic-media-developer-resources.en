@@ -70,3 +70,4 @@ This code sample renames a project and returns the project handle.
    <projectHandle>p|6|ProjectTestAPI</projectHandle>
 </renameProjectReturn>
 ```
+

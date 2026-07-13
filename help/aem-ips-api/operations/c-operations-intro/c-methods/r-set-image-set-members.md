@@ -98,3 +98,4 @@ This code sample uses a member array to set the members of an image set.
 **Response**
 
 None.
+

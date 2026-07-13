@@ -73,3 +73,4 @@ This code sample creates an image format. In this example, `urlModifier` was det
    <imageFormatHandle>47|301</imageFormatHandle> 
 </saveImageFormatReturn>
 ```
+

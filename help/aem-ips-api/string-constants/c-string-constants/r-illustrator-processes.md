@@ -28,3 +28,4 @@ Used by Illustrator/processes.
 
 * [!DNL `None`] 
 * [!DNL `Rasterize`]
+

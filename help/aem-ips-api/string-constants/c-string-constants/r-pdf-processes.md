@@ -29,3 +29,4 @@ Used by PDFOptions/type.
 * [!DNL `None`] 
 * [!DNL `Rasterize`] 
 * [!DNL `Thumbnail`]
+

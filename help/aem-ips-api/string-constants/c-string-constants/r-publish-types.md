@@ -29,3 +29,4 @@ Used by ImageServingPublishJob/publishType.
 * [!DNL `Full`] 
 * [!DNL `FullWithSearch`] 
 * [!DNL `Incremental`]
+

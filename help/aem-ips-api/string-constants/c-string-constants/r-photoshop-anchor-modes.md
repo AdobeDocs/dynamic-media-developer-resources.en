@@ -35,3 +35,4 @@ used by PhotoshopOptions/anchor.
 * [!DNL `Southeast`] 
 * [!DNL `East`] 
 * [!DNL `Northeast`]
+

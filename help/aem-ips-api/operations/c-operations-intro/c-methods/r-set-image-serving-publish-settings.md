@@ -33,3 +33,4 @@ For Scene 7 developers only. Refer to the Image Rendering Material Catalog Refer
 |  CompanyHandle  | `xsd:string`  | Yes  | Company handle.  |
 |  publishSettingsArray  | `types:ConfigSettingArray`  | Yes  | For Scene 7 developers only.  |
 |  contextHandle  | `xsd:string`  | No  | Handle to the publish context.  |
+
