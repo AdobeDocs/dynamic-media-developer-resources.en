@@ -32,3 +32,4 @@ This section contains information to help you set up and manage the Image Render
 >Image Serving must be properly configured and functional for correct functioning of Image Rendering.
 
 For more information, see Material Catalog Reference, HTTP Protocol Reference , Release Notes, Image Serving Documentation
+

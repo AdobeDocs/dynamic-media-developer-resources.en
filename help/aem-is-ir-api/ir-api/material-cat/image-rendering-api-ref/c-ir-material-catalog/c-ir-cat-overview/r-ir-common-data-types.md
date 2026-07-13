@@ -45,3 +45,4 @@ Signed floating point value (for example, `0, 12.5, 245 , -2.34e4`). 0 or negati
 **Text string**
 
 String delimiters are optional, unless the string contains any `<CR>`, `<LF>`, or `<TAB>` characters. Either single and double quotation marks may be used as delimiters. If quotation marks are used, any such quotation mark embedded within the string must be escaped by using two consecutive quotation marks (for example, ' `This month''s Special`').
+

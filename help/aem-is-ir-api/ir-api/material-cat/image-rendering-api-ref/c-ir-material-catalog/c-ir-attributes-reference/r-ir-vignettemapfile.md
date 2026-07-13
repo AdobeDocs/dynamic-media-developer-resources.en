@@ -33,3 +33,4 @@ Empty, which indicates that this material catalog does not include a vignette ma
 ## See also {#section-e77e22ed4aaa4b99919f07afc5ecc404}
 
 [Vignette Map Reference](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-vignette-map-reference/c-ir-vignette-map-reference.md#concept-f9486269f2b04d4cb6750f3af7bf0eb7)
+

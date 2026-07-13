@@ -28,3 +28,4 @@ topic_v2:
 Image Rendering consumes disk space for caching and logging purposes.
 
 See Logging and Caching for additional information.
+

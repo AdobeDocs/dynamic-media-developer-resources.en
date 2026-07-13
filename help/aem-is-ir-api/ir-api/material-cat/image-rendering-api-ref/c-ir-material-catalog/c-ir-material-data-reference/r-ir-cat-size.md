@@ -54,3 +54,4 @@ Provide a thickness value to add a drop shadow to the decal object. Optional for
 ## See also {#section-31a164e781d14e92bd9d379d3c329e92}
 
 [catalog::Resolution](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-attributes-reference/r-ir-resolution.md#reference-09fe14e6bfbf4db6b7f4369fffecc806)
+

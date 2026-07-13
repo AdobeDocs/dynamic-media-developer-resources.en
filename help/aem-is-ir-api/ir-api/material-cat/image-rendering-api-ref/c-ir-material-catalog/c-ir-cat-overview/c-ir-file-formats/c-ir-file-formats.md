@@ -21,3 +21,4 @@ role_v2:
 # File formats{#file-formats}
 
 Both catalog attribute files and catalog data files are plain text files.
+

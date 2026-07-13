@@ -26,3 +26,4 @@ topic_v2:
 # Managing content{#managing-content}
 
 This section contains information about managing material catalogs and source data.
+

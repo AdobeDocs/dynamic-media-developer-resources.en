@@ -118,3 +118,4 @@ The following values are permitted for repeatable texture materials:
 ## See also {#section-a08887a91db34ed3b183899c69c9f74f}
 
 [repeat=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-http-repeat.md#reference-37749da8233f42599ecf4731055fb7d8)
+

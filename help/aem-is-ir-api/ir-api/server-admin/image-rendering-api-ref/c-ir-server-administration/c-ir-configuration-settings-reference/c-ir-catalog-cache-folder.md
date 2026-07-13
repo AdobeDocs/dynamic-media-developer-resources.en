@@ -28,3 +28,4 @@ topic_v2:
 The root folder for the catalog system cache.
 
 Can either be an absolute path or a path relative to [!DNL *[!DNL install_folder]*]. Default is [!DNL ./cache], which corresponds to [!DNL *[!DNL install_folder]*/cache].
+

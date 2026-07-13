@@ -33,3 +33,4 @@ Empty, which indicates that this material catalog does not have private request 
 ## See also {#section-84ba472b7ba0457f9f607a21ab44da16}
 
 [Rule Set Reference](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-rule-set-reference/c-ir-rule-set-reference.md#concept-2369f884d9724727aaf436b5b0261dbe)
+

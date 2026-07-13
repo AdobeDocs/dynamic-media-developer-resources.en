@@ -212,3 +212,4 @@ The following attributes are recognized in catalog attribute files.
   <td class="stentry"> Enable/disable color conversion dithering.</td> 
  </tr> 
 </table>
+

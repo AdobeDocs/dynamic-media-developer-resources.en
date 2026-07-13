@@ -28,3 +28,4 @@ topic_v2:
 Image Rendering sends log messages to the Image Serving log mechanisms.
 
  Refer to Image Serving documentation for a description of logging system configuration and features.
+

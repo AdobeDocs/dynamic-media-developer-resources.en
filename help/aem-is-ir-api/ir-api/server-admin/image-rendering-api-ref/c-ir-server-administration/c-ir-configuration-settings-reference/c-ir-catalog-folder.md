@@ -28,3 +28,4 @@ topic_v2:
 Location of the material catalog folder (where all catalog.ini files must be located).
 
 Can either be an absolute path or a path relative to [!DNL *[!DNL install_folder]*]. Default is [!DNL ./catalog], which corresponds to [!DNL *[!DNL install_folder]*/catalog].
+

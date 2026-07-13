@@ -42,3 +42,4 @@ Catalog attribute files consist of a set of text records, separated by a single 
 * Attribute names can consist of any combination of ASCII letters, numbers, and `-`, `_`, and `.` characters. 
 * If the same attribute name occurs more than once in the same attribute file, the last one encountered prevails. 
 * Use `#` as the first character to mark any record as a comment that the parser ignores.
+

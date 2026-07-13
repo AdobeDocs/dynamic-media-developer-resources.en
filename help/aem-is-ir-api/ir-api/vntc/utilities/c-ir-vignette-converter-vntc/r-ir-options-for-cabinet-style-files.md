@@ -28,3 +28,4 @@ The following options control the processing of cabinet-style files. They are ig
   <td class="stentry"> <p>Specifies the target resolution for cabinet style files. Real value in pixels per inch. If not specified, the production cabinet style file has the same resolution as the source file. </p></td> 
  </tr> 
 </table>
+
