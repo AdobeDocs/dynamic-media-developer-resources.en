@@ -61,3 +61,4 @@ This example uses addGroupMembersParam to add a user to a single company. The IP
 **Response**
 
 None.
+

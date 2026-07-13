@@ -79,3 +79,4 @@ The IPS API returns a user handle element that specifies the new user.
    <ns1:userHandle>525s|juser@scene7.com</ns1:userHandle>
 </ns1:addUserReturn>
 ```
+

@@ -80,3 +80,4 @@ Describes new and changed types for the IPS API version 6.
 * In `Folder`, changed `permissions` to `permissionsSetHandle`. 
 
 * In `AssetSummary`, `type` and `name` are now optional.
+

@@ -179,3 +179,4 @@ topic_v2:
 * [updateViewerConfigSettings](r-update-viewer-config-settings.md)
 * [updateVignettePublishFormat](r-update-vignette-publish-format.md)
 * [updateXMPPacket](r-update-xmp-packet.md)
+

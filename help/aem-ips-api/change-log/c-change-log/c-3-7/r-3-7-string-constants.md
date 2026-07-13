@@ -45,3 +45,4 @@ Describes new and changed string constants for the IPS API version 3.7.
 **Asset Types**
 
 * Added `Zip`.
+

@@ -89,3 +89,4 @@ This example sets data in the fields of two images in an update array. In the ar
    <errorCount>0</errorCount>
 </batchSetImageFieldsReturn>
 ```
+

@@ -100,3 +100,4 @@ Sets asset metadata using batch mode.
    <errorCount>0</errorCount>
 </batchSetAssetMetadataReturn>
 ```
+

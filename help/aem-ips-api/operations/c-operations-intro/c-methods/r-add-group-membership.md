@@ -79,3 +79,4 @@ This example adds a group to a company with groupHandleArray. This example uses 
 **Response**
 
 None.
+

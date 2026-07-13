@@ -127,3 +127,4 @@ The sample code copies an image specified by company, asset, folder handle, and 
    <assetHandle>a|943|1|580</assetHandle>
 </copyImageReturn>
 ```
+

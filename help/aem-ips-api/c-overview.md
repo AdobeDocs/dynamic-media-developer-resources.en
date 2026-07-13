@@ -35,3 +35,4 @@ The IPS API uses standard SOAP and HTTP protocols and is compatible with any cli
 >* [Data Types](types/c-data-types/c-data-types.md#concept-dcf2ce73ff334e22bc4c634e3a0a50a6)
 >* [String Constants](string-constants/c-string-constants/c-string-constants.md)
 >* [Faults](faults/c-faults/c-faults.md#concept-28c5e495f39443ecab05384d8cf8ab6b)
+

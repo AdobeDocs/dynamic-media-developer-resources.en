@@ -42,3 +42,4 @@ Describes new and changed data types for the IPS API version 3.7.
 **Asset**
 
 * Added `ZipInfo`.
+

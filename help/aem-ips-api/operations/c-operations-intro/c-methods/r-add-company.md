@@ -106,3 +106,4 @@ This example demonstrates a request to add a company to the IPS system and the r
    </ns1:companyInfo>
 </ns1:addCompanyReturn>
 ```
+

@@ -78,3 +78,4 @@ This sample code requests the asset names in use for a specified company. The re
    </inUseNameArray>
 </checkAssetNamesReturn>
 ```
+

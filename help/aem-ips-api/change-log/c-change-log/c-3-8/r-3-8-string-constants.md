@@ -44,3 +44,4 @@ Describes new and changed string constants for the IPS API version 3.8.
 
 * Used by: `createImageSetParam/type`. 
 * Values: `InDesign` and `Flash`.
+
