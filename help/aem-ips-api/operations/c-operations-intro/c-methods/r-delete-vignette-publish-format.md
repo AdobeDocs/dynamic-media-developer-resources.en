@@ -61,3 +61,4 @@ This code sample deletes a vignette publish format specified by its handle.
 **Response**
 
 None.
+

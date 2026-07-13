@@ -75,3 +75,4 @@ This code sample returns all companies in IPS in an array. Note, the sample resp
    </ns1:companyArray>
 </ns1:getAllCompaniesReturn>
 ```
+

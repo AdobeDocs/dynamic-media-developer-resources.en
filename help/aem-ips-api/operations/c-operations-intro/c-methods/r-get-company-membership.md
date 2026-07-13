@@ -78,3 +78,4 @@ This code sample takes a user handle and gets all the user’s company membershi
     </membershipArray>
 </getCompanyMembershipReturn>
 ```
+

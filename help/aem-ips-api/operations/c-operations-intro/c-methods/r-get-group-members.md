@@ -67,3 +67,4 @@ This code sample returns a user handle array containing all users that belong to
    </userHandleArray>
 </getGroupMembersReturn>
 ```
+

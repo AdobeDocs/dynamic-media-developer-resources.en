@@ -71,3 +71,4 @@ This code sample returns the publish history of an asset. An asset has never bee
    <pubHistoryArray/>
 </getAssetPublishHistoryReturn>
 ```
+

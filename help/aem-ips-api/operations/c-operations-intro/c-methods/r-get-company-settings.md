@@ -87,3 +87,4 @@ This code sample returns all IPS settings for a specific company.
    </settings>
 </getCompanySettingsReturn>
 ```
+

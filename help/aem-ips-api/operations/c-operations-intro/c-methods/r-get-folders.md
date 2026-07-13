@@ -99,3 +99,4 @@ This code sample returns an array that contains all the folders for a company al
    </folderArray>
 </getFoldersReturn>
 ```
+

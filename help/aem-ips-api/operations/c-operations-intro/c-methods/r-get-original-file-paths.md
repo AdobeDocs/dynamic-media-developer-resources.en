@@ -79,3 +79,4 @@ This code sample returns the file paths of assets specified with unique asset ha
    </originalFileArray>
 </getOriginalFilePathsReturn>
 ```
+

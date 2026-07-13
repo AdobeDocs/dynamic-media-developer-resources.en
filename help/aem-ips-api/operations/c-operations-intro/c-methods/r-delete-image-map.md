@@ -66,3 +66,4 @@ This code sample deletes an image map from a company. You must obtain the image 
 **Response**
 
 None
+

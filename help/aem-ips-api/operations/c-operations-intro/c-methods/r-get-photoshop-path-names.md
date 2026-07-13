@@ -70,3 +70,4 @@ Returns an array of Photoshop path names for the given image.
   </pathNameArray>
 </getPhotoshopPathNamesReturn>
 ```
+

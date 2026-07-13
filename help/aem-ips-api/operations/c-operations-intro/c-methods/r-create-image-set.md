@@ -78,3 +78,4 @@ This code sample creates an image set specified by company, folder, name, and ty
 </createImageSetReturn>
 
 ```
+

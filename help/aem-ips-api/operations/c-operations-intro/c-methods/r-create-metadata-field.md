@@ -126,3 +126,4 @@ This code sample creates a string type metadata field called `createMetadataFiel
    <fieldHandle>m|21|IMAGE|createMetadataField</fieldHandle>
 </createMetadataFieldReturn>
 ```
+

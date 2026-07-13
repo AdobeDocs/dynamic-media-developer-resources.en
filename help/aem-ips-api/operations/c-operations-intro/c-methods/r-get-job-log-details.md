@@ -157,3 +157,4 @@ This code sample returns all the job log details for a specific company. The fir
    </jobLogArray>
 </getJobLogDetailsReturn>
 ```
+

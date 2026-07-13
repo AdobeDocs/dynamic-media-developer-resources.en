@@ -68,3 +68,4 @@ Move a folder to a new location.
    <folderHandle>f|test/DestFolder/MoveTest/</folderHandle>
 </moveFolderReturn>
 ```
+

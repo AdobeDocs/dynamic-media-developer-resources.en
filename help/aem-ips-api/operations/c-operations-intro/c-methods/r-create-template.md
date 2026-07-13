@@ -75,3 +75,4 @@ This code sample creates a template in a folder specified by a handle, with a na
    <assetHandle>a|153393|2|2061</assetHandle>
 </createTemplateReturn>
 ```
+

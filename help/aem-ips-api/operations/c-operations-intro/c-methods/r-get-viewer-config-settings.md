@@ -46,3 +46,4 @@ Gets all viewer configuration settings associated with the specified asset.
 |---|---|---|---|
 |  type  | `xsd:string`  | Yes  | Viewer type to which the configuration settings apply.  |
 |  configSettingsArray  | `types:ConfigSettingsArray`  | Yes  | Array of viewer configuration settings.  |
+

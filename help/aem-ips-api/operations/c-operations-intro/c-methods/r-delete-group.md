@@ -59,3 +59,4 @@ This sample code deletes a group from a company. It requires a group handle, whi
 **Response**
 
 None.
+

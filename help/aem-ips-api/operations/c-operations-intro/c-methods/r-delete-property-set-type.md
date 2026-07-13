@@ -58,3 +58,4 @@ This code sample uses the type’s handle as a field in the `deletePropertySetTy
 **Response**
 
 None.
+

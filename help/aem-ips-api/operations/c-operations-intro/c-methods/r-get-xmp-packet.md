@@ -76,3 +76,4 @@ Retrieves an XMP Metadata packet for the specified asset.
    </compressedPacket>
 </getXMPPacketReturn>
 ```
+

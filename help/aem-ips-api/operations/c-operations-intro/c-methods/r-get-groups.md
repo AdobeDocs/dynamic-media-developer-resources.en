@@ -68,3 +68,4 @@ This code returns an array that contains all the groups that belong to a specifi
    </groupArray>
 </getGroupsReturn>
 ```
+

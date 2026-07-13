@@ -109,3 +109,4 @@ This code sample returns all information about a company by using a company name
    </ns1:companyInfo>
 </ns1:getCompanyInfoReturn>
 ```
+

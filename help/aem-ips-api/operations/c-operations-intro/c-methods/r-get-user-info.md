@@ -76,3 +76,4 @@ This code sample returns information for the default IPS user.
    </ns1:userInfo> 
 </ns1:getUserInfoReturn>
 ```
+

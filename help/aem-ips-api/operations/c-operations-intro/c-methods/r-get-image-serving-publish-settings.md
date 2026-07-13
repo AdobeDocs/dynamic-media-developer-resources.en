@@ -45,3 +45,4 @@ For internal use only. Users should refer to the Image Serving Image Catalog Ref
 |  Name  | Type  | Required  | Description  |
 |---|---|---|---|
 |  publishSettingArray  | `xsd:string`  | Yes  | Array of image server publish settings.  |
+

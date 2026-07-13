@@ -82,3 +82,4 @@ This code sample uses the company’s handle as a field in the `getAssetCountsPa
    </countArray>
 </getAssetCountsReturn>
 ```
+

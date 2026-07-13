@@ -69,3 +69,4 @@ This code sample generates a password. It is unusual because the request is simp
    <password>1\7aQRn]</password>
 </generatePasswordReturn>
 ```
+
