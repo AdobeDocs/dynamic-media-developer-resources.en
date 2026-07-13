@@ -33,3 +33,4 @@ Empty, which indicates that this material catalog does not have private macro de
 ## See also {#section-22638a9ff5e9493ea93222e5f49febde}
 
 [Macro Definitions](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-macro-definition-reference/c-ir-macro-definition-reference.md#concept-477b77fa187147bfa55fa67134d4a453)
+

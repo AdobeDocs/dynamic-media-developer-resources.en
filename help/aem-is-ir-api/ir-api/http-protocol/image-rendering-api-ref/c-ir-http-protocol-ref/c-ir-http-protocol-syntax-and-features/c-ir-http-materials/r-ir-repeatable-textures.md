@@ -96,3 +96,4 @@ In addition to these basic attributes, repeatable textures support the following
   </tr> 
  </tbody> 
 </table>
+

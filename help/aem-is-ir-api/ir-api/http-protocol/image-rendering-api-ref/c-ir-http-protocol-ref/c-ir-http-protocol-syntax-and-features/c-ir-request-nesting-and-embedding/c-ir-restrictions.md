@@ -25,3 +25,4 @@ Some restrictions apply for nesting and embedding.
 For good server performance, the resolution of images returned by nested requests should reasonably match the texture resolution of the objects to which the material is being applied.
 
 Foreign images are cached locally. Any changes to such images are detected only after the local cache entry becomes stale (based on the expires HTTP header).
+

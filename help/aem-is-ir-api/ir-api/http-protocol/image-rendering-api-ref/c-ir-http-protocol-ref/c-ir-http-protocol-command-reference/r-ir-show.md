@@ -42,3 +42,4 @@ None, for no change in object visibility.
 ## See also {#section-2a1a37a35dfb41758897164e14f0105f}
 
 [hide=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-hide.md#reference-681b9782f90a45b18ed50292ab2c096c)
+

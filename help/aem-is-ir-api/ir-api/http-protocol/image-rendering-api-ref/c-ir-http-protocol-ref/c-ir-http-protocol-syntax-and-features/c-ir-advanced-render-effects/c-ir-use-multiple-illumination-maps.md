@@ -31,3 +31,4 @@ Up to three illumination maps can be authored for each vignette. The illuminatio
 **Explicit selection with `illum=`** - If `illum=` is specified and set to `0`, `1`, or `2`, the renderer uses the corresponding illumination map; `gloss=` is ignored for selecting the illumination map.
 
 If the vignette contains only one illumination map, the renderer uses that map and ignore the `illum=` and `gloss=` commands.
+

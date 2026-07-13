@@ -90,3 +90,4 @@ Comments may be embedded into request strings anywhere and are identified by a p
 **HTTP decoding**
 
 Image Rendering first extracts *`object`* and *`modifiers`* from the incoming request. The *`object`* is then separated into path elements which are individually HTTP-decoded. The *`modifiers`* string is separated into *`command`*= *`value`* pairs, and *`value`* is then HTTP-decoded before command-specific processing.
+

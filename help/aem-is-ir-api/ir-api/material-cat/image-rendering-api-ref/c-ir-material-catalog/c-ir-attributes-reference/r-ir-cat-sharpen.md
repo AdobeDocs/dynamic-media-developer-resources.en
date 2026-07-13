@@ -33,3 +33,4 @@ Inherited from `default::Sharpen` if not defined or if empty.
 ## See also {#section-85393c62428f49739a2510f9427d3607}
 
 [sharpen=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-http-sharpen.md#reference-13034d22d176483cb99ccafc2a4f6a6e)
+

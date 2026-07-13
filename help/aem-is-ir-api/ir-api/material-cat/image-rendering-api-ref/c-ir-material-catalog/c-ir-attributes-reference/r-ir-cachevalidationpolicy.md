@@ -37,3 +37,4 @@ Inherited from `default::CacheValidationPolicy` if not defined or if empty.
 ## See also {#section-b374e4d908e24af8995b2b376ca1be8b}
 
 [catalog::TimeStamp](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-material-data-reference/r-ir-timestamp-dataref.md#reference-6daf7973dc4f4b4e9e8165756db7c319)
+

@@ -25,3 +25,4 @@ Any `$var$` references that occur anywhere within the curly braces of an embedde
 Allows embedded foreign requests to be placed in a template in an image catalog.
 
 Variable values which are to be substituted into foreign requests typically must be double-encoded, because no re-encoding is applied before the server attempts to transmit the final foreign url.
+

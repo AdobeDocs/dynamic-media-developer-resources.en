@@ -35,3 +35,4 @@ This section describes the HTTP protocol syntax and featuring for Dynamic Media 
 * [Image Rendering color management *](c-ir-color-management.md)
 * [Color values](r-ir-color-values.md)
 * [Image Rendering HTTP encoding](c-ir-http-encoding.md)
+

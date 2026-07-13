@@ -81,3 +81,4 @@ All color profiles used by the server must conform to the ICC specification. ICC
 While output profiles can be specified by file path/name in the `icc=` command, it is recommended to register all profile files in the ICC Profile Map of the default catalog or a specific material catalog and use shortcut identifiers ( `icc::Name`) instead of file paths.
 
 Working profiles must be registered in the ICC Profile Map of the material catalog or the default catalog.
+

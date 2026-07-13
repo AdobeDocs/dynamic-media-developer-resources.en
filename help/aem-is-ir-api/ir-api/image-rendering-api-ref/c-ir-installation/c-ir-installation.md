@@ -21,3 +21,4 @@ role_v2:
 # Configuration{#configuration}
 
 You must configure Image Rendering before you can use it.
+

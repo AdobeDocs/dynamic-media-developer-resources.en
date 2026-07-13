@@ -29,3 +29,4 @@ To specify a foreign URL for a `src=` or a `mask=` command; simply delimit the e
 Full absolute URLs (if `attribute::AllowDirectUrls` is set) and URLs relative to `attribute::RootUrl` are permitted. An error occurs if an absolute URL is embedded and attribute:: `AllowDirectUrls` is 0, or if a relative URL is specified and `attribute::RootUrl` is empty.
 
 Foreign images are cached by the server according to the caching headers included with the HTTP response.
+

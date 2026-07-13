@@ -53,3 +53,4 @@ After some experimentation in Image Authoring, it is determined that unsharp-mas
 ## See also {#section-930116e735024a008c994547ba36ee40}
 
 [catalog::RenderSettings](../../../../../ir-api/material-cat/image-rendering-api-ref/c-ir-material-catalog/c-ir-material-data-reference/r-ir-rendersettings-dataref.md#reference-9ce753ae4096455eadcc12ac064de711)
+

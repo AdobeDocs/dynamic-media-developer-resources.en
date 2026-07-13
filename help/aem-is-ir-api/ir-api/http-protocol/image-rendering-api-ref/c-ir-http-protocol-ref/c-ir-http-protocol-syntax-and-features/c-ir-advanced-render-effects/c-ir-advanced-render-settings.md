@@ -395,3 +395,4 @@ Alternate Shader Rendering (default on) checkbox provides a more precise Advance
  RB: I don't know why this is in here; it was added by someone else:
 It should probably also go into the different renders - Render Effects and Alternate Shader - or link to descriptions of each.
 -->
+

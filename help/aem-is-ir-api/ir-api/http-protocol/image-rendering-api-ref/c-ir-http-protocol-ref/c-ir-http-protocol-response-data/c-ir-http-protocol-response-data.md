@@ -21,3 +21,4 @@ role_v2:
 # HTTP protocol response data{#http-protocol-response-data}
 
 Image Rendering generates HTTP/1.1 response headers.
+

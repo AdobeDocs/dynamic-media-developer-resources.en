@@ -39,3 +39,4 @@ Variables are referenced by embedding the variable name (enclosed by a leading a
 Custom variables may not be nested. Any occurrences of `$ [!DNL name]$` within `[!DNL string]` are not substituted. For example, the request fragment `$var2=apple&$var1=my$var2$tree&text=$var1$` resolves to `text=my$var2$tree`.
 
 `$` is not a reserved character; it may occur otherwise in the request. For example, `src=my$texture$file.tif` is a valid command (assuming that a material catalog entry or texture file named `[!DNL my$texture$file.tif]` exists), while `wid=$number$` is not, because `wid=` requires a numeric argument.
+

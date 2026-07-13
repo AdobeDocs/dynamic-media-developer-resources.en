@@ -31,3 +31,4 @@ The Image Rendering API Reference contains information about setting up and usin
 * [Set up and configure Image Rendering](c-ir-installation/c-ir-setup-ir.md)
 * [Uninstalling Image Rendering](c-ir-installation/c-ir-uninstalling/c-ir-uninstalling.md)
 * [Server administration](c-ir-server-administration/c-ir-server-administration.md)
+

@@ -27,3 +27,4 @@ Opacity information can be provided simply by using an RGB image with an alpha c
 Wall borders also support RGBA images, primarily to support die-cut borders.
 
 The [!DNL vnw] files which define window-coverings can include an opacity channel. It is combined by the renderer with the alpha channel of the repeatable texture and the `opacity=` value to provide a full range of opacity effects for sheer and translucent window treatments.
+

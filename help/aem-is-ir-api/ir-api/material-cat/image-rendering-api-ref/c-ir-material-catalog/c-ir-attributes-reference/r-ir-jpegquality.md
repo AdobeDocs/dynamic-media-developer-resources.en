@@ -33,3 +33,4 @@ Inherited from `default::JpegQuality` if not defined or if empty.
 ## See also {#section-8928a28fcbfe401cad4d4021a7a1c268}
 
 [qlt=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-qlt.md#reference-27b91c226eb241d0a14a29af3b3afdbd)
+

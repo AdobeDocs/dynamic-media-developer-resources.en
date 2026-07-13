@@ -39,3 +39,4 @@ String values may contain JAVA-style escape characters, such as `\n`, `\t`, `\:`
 **See also**
 
 [req=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-req.md#reference-792b1a663fb64261bd2de2a209b847fb)
+

@@ -59,3 +59,4 @@ If so authored, the following material attributes are used to define the materia
 The renderer adjusts the range of the `gloss=` and `rough=` attribute according to `type=`. Some material types such as fabric are less reflective than material types such as stone or metal. Furthermore, the same amount of gloss specified for one often results in a different reflection effect than the other. The attribute `gloss=` and roughness have a fairly wide gamut if `type=` is not specified or is set to `0`.
 
 `glossmap=` Used to control the glossiness of a material on a pixel-by-pixel basis.
+
