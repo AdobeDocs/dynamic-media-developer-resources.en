@@ -27,3 +27,4 @@ The Image Serving install folder (install_folder) is install_root/ImageServing.
 In this document, *[!DNL install_folder]* may be represented by ' [!DNL ./]'.
 
 All file paths are case-sensitive on UNIX® and case-insensitive on Windows.
+

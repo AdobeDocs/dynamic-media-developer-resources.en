@@ -42,3 +42,4 @@ Can be specified anywhere in the request.
 ## Default {#section-b482aa22ec0a4fba87b3f9007ab6d9ce}
 
 The print resolution embedded in the vignette.
+

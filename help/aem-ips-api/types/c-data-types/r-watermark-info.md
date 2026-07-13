@@ -31,3 +31,4 @@ Properties of a watermark asset.
 |  url  | `xsd:string`  | Image server URL that represents the template.  |
 |  urlModifier  | `xsd:string`  | |
 |  urlPostApplyModifier  | `xsd:string`  | |
+

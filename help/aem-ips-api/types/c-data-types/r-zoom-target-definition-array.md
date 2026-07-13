@@ -27,3 +27,4 @@ role_v2:
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `types:ZoomTargetDefinition`  | An array of Zoom target definitions.  |
+

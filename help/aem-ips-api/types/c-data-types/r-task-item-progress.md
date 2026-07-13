@@ -32,3 +32,4 @@ Task item progress information.
 |  progress  | `xsd:double`  | Progress complete %.  |
 |  progressMessage  | `xsd:string`  | Process message.  |
 |  lastProgressUpdate  | `xsd:dateTime`  | Time of last update.  |
+

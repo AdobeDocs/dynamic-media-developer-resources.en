@@ -42,3 +42,4 @@ None.
 ## See also {#section-9567d0d8f980430480c272315d70327e}
 
 [req=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-req.md#reference-792b1a663fb64261bd2de2a209b847fb)
+

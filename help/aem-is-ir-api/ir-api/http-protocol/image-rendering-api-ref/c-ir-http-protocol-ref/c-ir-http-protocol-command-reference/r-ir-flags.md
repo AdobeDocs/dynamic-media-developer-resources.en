@@ -44,3 +44,4 @@ Material attribute. Ignored if not a cabinet material, or if the target cabinet 
 ## Default {#section-4c134b02a1da4ffb9841233f98f6e97c}
 
 `flags=0` For no glass doors.
+

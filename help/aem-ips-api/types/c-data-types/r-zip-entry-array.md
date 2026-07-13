@@ -29,3 +29,4 @@ An array of ZIP entries.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `types:ZipEntry`  | An array of ZIP entries.  |
+

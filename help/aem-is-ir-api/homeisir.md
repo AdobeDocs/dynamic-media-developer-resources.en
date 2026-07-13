@@ -22,3 +22,4 @@ role_v2:
 # Adobe Dynamic Media Image Serving and Image Rendering API Home{#adobe-scene-image-serving-and-image-rendering-api-home}
 
 This documentation includes information about Image Serving and Image Rendering APIs, and related technologies. If you work on Dynamic Media Classic integration with AEM, you should refer to the Image Serving portion of this API.
+

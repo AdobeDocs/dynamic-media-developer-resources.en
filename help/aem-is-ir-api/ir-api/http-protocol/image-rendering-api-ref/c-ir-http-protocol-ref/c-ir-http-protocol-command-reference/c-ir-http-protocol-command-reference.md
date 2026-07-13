@@ -21,3 +21,4 @@ role_v2:
 # HTTP protocol command reference {#http-protocol-command-reference}
 
 This command reference provides details about the HTTP protocol commands.
+

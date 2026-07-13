@@ -47,3 +47,4 @@ Use this procedure when upgrading Dynamic Media Image Serving.
 During an update, the [!DNL ImageServing/conf/server.xml] file is updated to the latest settings. If you have changed or added any values, you should save your existing [!DNL server.xml] and reimplement your changes after the upgrade.
 
 After an update install, consider warming up the HTTP response cache before taking the server live. Refer to the description of the `playlog` utility for details.
+

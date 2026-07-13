@@ -42,3 +42,4 @@ Material attribute. Ignored if the vignette does not define multiple illuminatio
 ## See also {#section-9132e60381c64aa3a8ed1319690db55e}
 
 [gloss=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-http-gloss.md#reference-325aef2ee51e4e1584a06047427340ca)
+

@@ -71,3 +71,4 @@ Use these steps to install Image Serving for the first time on Windows.
 1. Select **[!UICONTROL Back]** to make changes, or select **[!UICONTROL Next]** to start the installation.
 
 1. Select **[!UICONTROL Finish]** to exit the installation wizard.
+

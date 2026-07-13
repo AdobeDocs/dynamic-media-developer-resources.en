@@ -34,3 +34,4 @@ Properties of a viewer SWF file asset.
 |  originalPath  | `xsd:string`  | Relative path to the originally uploaded viewer SWF file.  |
 |  originalFile  | `xsd:string`  | File name of the original viewer SWF file.  |
 |  fileSize  | `xsd:int`  | File size.  |
+

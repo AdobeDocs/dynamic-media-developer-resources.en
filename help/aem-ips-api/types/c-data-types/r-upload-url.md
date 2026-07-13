@@ -30,3 +30,4 @@ For uploading assets by way of URL.
 |---|---|---|
 |  sourceUrl  | `xsd:string`  | The source URL the asset is uploaded from.  |
 |  destPath  | `xsd:string`  | The IPS file path and name of the file you want to upload to.  |
+

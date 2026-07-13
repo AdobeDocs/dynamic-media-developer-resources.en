@@ -35,3 +35,4 @@ Properties of a vignette asset.
 |  imageFile  | `xsd:string`  | |
 |  optimizedPath  | `xsd:string`  | Optimized path to the file.  |
 |  optimizedFile  | `xsd:string`  | Optimized file name.  |
+

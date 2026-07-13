@@ -34,3 +34,4 @@ Zoom target definition.
 |  width  | `xsd:int`  | Zoom target width.  |
 |  height  | `xsd:int`  | Zoom target height.  |
 |  userData  | `xsd:string`  | Associated user data.  |
+

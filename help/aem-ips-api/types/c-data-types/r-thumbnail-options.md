@@ -52,3 +52,4 @@ An optional type that lets you choose a particular video frame to use as the thu
       </sequence>
 </complexType>
 ```
+

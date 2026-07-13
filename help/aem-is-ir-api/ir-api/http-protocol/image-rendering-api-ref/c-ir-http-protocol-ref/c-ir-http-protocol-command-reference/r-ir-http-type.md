@@ -120,3 +120,4 @@ Material attribute. Ignored if the vignette does not include 3-D reflection data
 ## See also {#section-7cf808b0bb3d4b4fbb7b9a850d5a038b}
 
 [gloss=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-http-gloss.md#reference-325aef2ee51e4e1584a06047427340ca) , [rough=](../../../../../ir-api/http-protocol/image-rendering-api-ref/c-ir-http-protocol-ref/c-ir-http-protocol-command-reference/r-ir-rough.md#reference-00add846b09f4dc39420bda1ca414180)
+

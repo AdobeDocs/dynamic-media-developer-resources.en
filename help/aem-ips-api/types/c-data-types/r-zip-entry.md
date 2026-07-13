@@ -33,3 +33,4 @@ An entry in a ZIP file.
 |  lastModified  | `xsd:dateTime`  | Date and time of last modification.  |
 |  compressedSize  | `xsd:long`  | Compressed size.  |
 |  uncompressedSize  | `xsd:long`  | Uncompressed size.  |
+

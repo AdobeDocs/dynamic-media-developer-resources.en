@@ -32,3 +32,4 @@ A metadata update for thumb assets.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `types:ThumbAssetUpdates`  | An array of thumb asset updates.  |
+

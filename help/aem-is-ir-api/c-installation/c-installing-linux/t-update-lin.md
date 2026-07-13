@@ -42,3 +42,4 @@ The [!DNL webapps] folder can be deleted on upgrade. Please back up the [!DNL we
 During an update, the [!DNL ImageServing/conf/server.xml] file is updated to the latest settings. If you have changed or added any values, save your existing [!DNL server.xml] and reimplement your changes after the upgrade.
 
 After an update install, consider warming up the HTTP response cache before taking the server live. Refer to the description of the [!DNL playlog] utility for details.
+

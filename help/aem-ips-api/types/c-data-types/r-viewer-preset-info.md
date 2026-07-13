@@ -30,3 +30,4 @@ Properties of a viewer preset asset.
 |---|---|---|
 |  type  | `xsd:string`  | Choice of viewer type.  |
 |  configSettingArray  | `types:ConfigSettingArray`  | Viewer configuration settings array.  |
+

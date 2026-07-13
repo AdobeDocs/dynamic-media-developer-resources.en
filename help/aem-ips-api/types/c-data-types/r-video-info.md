@@ -35,3 +35,4 @@ Video asset properties.
 |  imageFile  | `xsd:string`  | File name of the video file.  |
 |  optimizedPath  | `xsd:string`  | Path to the IPS optimized video file.  |
 |  optimizedFile  | `xsd:string`  | File name of the IPS optimized video file.  |
+
