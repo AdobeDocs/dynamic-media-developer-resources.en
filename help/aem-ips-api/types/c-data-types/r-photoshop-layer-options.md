@@ -33,3 +33,4 @@ Photoshop image layer options.
 |  createTemplate  | `xsd:boolean`  | Whether to create a template from Photoshop layers.  |
 |  extractText  | `xsd:boolean`  | Whether to extract text as text layers.  |
 |  extendLayers  | `xsd:boolean`  | Whether to extend layers to full size of background.  |
+

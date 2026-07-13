@@ -30,3 +30,4 @@ Mask file properties.
 |---|---|---|
 |  maskPath  | `xsd:string`  | Mask file path.  |
 |  maskFile  | `xsd:string`  | Mask file name.  |
+

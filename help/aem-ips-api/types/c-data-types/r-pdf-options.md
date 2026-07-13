@@ -34,3 +34,4 @@ PDF file options.
 |  pdfCatalog  | `xsd:boolean`  | Whether to combine a multiple page PDF into an eCatalog after rendering (default is true).  |
 |  extractSearchWords  | `xsd:boolean`  | Whether to extract search words from the PDF file.  |
 |  extractLinks  | `xsd:boolean`  | Whether to extract PDF links into image maps assigned to the rasterized pages within IPS.  |
+

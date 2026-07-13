@@ -49,3 +49,4 @@ A MediaPortal event.
 |  float2  | `xsd:double`  | Holder for float information (optional).  |
 |  float3  | `xsd:double`  | Holder for float information (optional).  |
 |  time1  | `xsd:dateTime`  | Holder for date/timestamp information (optional).  |
+

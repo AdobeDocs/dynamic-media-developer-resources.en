@@ -32,3 +32,4 @@ Describes permission changes.
 |  permissionType  | `xsd:string`  | Permission type.  |
 |  isAllowed  | `xsd:boolean`  | Determines if the permission update is allowed.  |
 |  isOverride  | `xsd:boolean`  | Determines if the permission overrides another.  |
+

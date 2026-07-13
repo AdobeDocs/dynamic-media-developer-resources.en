@@ -28,3 +28,4 @@ role_v2:
 |---|---|---|
 |  PermissionSetHandle  | `xsd:string`  | Handle to a permissions set.  |
 |  permissionArray  | `types:PermissionArray`  | An array of permissions.  |
+

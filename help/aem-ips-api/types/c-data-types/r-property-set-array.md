@@ -29,3 +29,4 @@ An array of property sets.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `types:PropertySet`  | Property set array.  |
+

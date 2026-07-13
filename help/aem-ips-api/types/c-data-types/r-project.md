@@ -30,3 +30,4 @@ Set of named assets.
 |---|---|---|
 |  project Handle  | `xsd:string`  | Project handle.  |
 |  name  | `xsd:string`  | Project name.  |
+

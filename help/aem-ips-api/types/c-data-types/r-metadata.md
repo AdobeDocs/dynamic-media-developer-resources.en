@@ -37,3 +37,4 @@ A metadata field returned by searchAssets.
 |  longVal  | `xsd:long`  | Long metadata value (for int-typed fields only).  |
 |  doubleVal  | `xsd:double`  | Double metadata value (for float-typed fields only).  |
 |  dateVal  | `xsd:dateTime`  | Date metadata value (for date-typed fields only).  |
+

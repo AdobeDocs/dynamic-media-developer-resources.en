@@ -30,3 +30,4 @@ Parameters used to update the publish state of an asset.
 |---|---|---|
 |  assetHandle  | `xsd:string`  | Asset handle.  |
 |  publishState  | `xsd:string`  | New publish state.  |
+

@@ -33,3 +33,4 @@ PostScript file options.
 |  colorspace  | `xsd:string`  | PostScript colorspace mode.  |
 |  alpha  | `xsd:boolean`  | Whether to rasterize the file into an image. If so, it creates a transparent background if the original file if is defined in this way. Generally used to create overlaying logos.  |
 |  extractSearchWords  | `xsd:boolean`  | Whether to extract search words from the PostScript file.  |
+

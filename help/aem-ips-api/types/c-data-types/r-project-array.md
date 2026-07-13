@@ -29,3 +29,4 @@ An array of projects.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `types:Project`  | The project array.  |
+

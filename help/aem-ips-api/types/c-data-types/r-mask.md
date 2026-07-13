@@ -33,3 +33,4 @@ Masks part of an image. The mask is always associated with the image. Get a mask
 |  maskPath  | `xsd:string`  | Relative path to the mask.  |
 |  maskFile  | `xsd:string`  | Mask file.  |
 |  lastModified  | `types:dateTime`  | The date, time, and time zone the mask was last modified.  |
+

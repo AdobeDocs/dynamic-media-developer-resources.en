@@ -29,3 +29,4 @@ An array of tag conditions.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `types:TagCondition`  | An array of tag conditions.  |
+

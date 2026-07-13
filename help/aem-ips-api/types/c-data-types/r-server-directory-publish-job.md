@@ -30,3 +30,4 @@ Publishes all the images, templates, and spin sets that are marked ready to publ
 |---|---|---|
 |  emailSettings  | `xsd:string`  | Choice of email settings.  |
 |  httpCompletionUrl  | `xsd:string`  | URL to send a completion notice.  |
+

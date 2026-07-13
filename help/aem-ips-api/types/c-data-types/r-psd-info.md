@@ -36,3 +36,4 @@ Photoshop file properties.
 |  optimizedPath  | `xsd:string`  | File path.  |
 |  optimizedFile  | `xsd:string`  | File name.  |
 |  fileSize  | `xsd:int`  | File size.  |
+

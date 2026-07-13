@@ -31,3 +31,4 @@ The properties of a PDF settings file asset.
 |  originalPath  | `xsd:string`  | File path.  |
 |  originalFile  | `xsd:string`  | File name.  |
 |  fileSize  | `xsd:int`  | File size.  |
+

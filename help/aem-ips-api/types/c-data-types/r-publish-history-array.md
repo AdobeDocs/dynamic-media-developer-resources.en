@@ -29,3 +29,4 @@ An array of publish histories.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `types:PublishHistory`  | The publish history array.  |
+
