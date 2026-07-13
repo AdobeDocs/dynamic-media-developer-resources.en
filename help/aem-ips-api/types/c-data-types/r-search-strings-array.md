@@ -29,3 +29,4 @@ An array of search strings.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `types:SearchStrings`  | An array of search strings.  |
+

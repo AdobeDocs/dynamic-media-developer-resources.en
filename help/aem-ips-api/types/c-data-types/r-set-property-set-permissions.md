@@ -31,3 +31,4 @@ topic_v2:
 |---|---|---|
 |  setHandle  | `xsd:string`  | Handle to the property set.  |
 |  permissionsArray  | `types:PermissionUpdateArray`  | An array of permissions.  |
+

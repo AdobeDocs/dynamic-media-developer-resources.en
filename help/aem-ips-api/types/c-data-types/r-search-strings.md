@@ -37,3 +37,4 @@ Search string record extracted from a PDF file.
 |  height  | `xsd:int`  | Search string height.  |
 |  fontName  | `xsd:string`  | Name of the font used in the search string.  |
 |  pointSize  | `xsd:string`  | Font size.  |
+

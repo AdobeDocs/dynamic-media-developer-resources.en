@@ -58,3 +58,4 @@ The `PerspectiveQuad` type returns data in this order:
 >[!MORELIKETHIS]
 >
 >* [getPhotoshopPath](../../operations/c-operations-intro/c-methods/r-get-photoshop-path.md#reference-545f902f84194951ac04e947fdc803b9)
+

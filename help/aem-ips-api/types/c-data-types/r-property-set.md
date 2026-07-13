@@ -31,3 +31,4 @@ Type and value for a property set.
 |  setHandle  | `xsd:string`  | Property set handle.  |
 |  typeHandle  | `xsd:string`  | Handle to the property set type.  |
 |  propertyArray  | `types:PropertyArray`  | Name-value pair. Can contain zero items.  |
+

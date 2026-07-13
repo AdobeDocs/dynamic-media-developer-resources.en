@@ -32,3 +32,4 @@ topic_v2:
 |  originalPath  | `xsd:string`  | File path.  |
 |  originalFile  | `xsd:string`  | File name.  |
 |  fileSize  | `xsd:int`  | File size.  |
+

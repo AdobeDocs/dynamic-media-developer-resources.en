@@ -29,3 +29,4 @@ An array of masks.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `types:Mask`  | Array of masks.  |
+

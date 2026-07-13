@@ -32,3 +32,4 @@ role_v2:
 |  y  | `xsd:int`  | Keyword position on the y axis (in pixels).  |
 |  width  | `xsd:int`  | Keyword width in pixels.  |
 |  height  | `xsd:int`  | Keyword height in pixels.  |
+

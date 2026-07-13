@@ -32,3 +32,4 @@ An array of metadata to delete from the asset.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `type:Metadata`  | An array of metadata parameters to delete.  |
+

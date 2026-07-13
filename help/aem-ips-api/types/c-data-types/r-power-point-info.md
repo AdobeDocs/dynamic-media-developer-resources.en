@@ -31,3 +31,4 @@ PowerPoint file options.
 |  originalPath  | `xsd:string`  | File path.  |
 |  originalFile  | `xsd:string`  | File name.  |
 |  fileSize  | `xsd:int`  | File size.  |
+

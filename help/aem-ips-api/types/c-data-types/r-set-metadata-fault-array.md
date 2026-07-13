@@ -32,3 +32,4 @@ An array of metadata faults.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `types:SetMetadataFault`  | An array of metadata faults.  |
+

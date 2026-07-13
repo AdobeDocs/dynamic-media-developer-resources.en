@@ -32,3 +32,4 @@ An array of metadata updates.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  items  | `types:MetadataUpdate`  | Array of metadata updates.  |
+

@@ -30,3 +30,4 @@ A name and value pair.
 |---|---|---|
 |  name  | `xsd:string`  | Property name.  |
 |  value  | `xsd:string`  | Property value.  |
+

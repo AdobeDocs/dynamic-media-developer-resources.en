@@ -35,3 +35,4 @@ Warning or error details for a sing update in a batchSetAssetMetadata operation.
 |  fieldHandle  | `xsd:string`  | The handle to the metadata field whose value was unsuccessfully set.  |
 |  code  | `xsd:int`  | Fault code.  |
 |  reason  | `xsd:string`  | Fault description (plain-text).  |
+

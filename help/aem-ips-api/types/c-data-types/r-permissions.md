@@ -33,3 +33,4 @@ Manages rights to access, modify, create, or delete assets by group.
 |  permissionType  | `xsd:string`  | Choice of permission type.  |
 |  isAllowed  | `xsd:boolean`  | Determines if the permission is allowed.  |
 |  isOverride  | `xsd:boolean`  | Determines if the permission overrides another.  |
+

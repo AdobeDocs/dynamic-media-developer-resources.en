@@ -31,3 +31,4 @@ Properties of an SWC file asset.
 |  originalPath  | `xsd:string`  | Path to the SWC file.  |
 |  originalFile  | `xsd:string`  | File name.  |
 |  fileSize  | `xsd:int`  | File size.  |
+

@@ -50,3 +50,4 @@ The job log after the job has run.
 |  fatalError  | `xsd:boolean`  | Whether the job generated a fatal error.  |
 |  detailTotalRows  | `xsd:int`  |The total number of rows matching the query, which may be larger than the size of `detailArray` due to page size limits.  |
 |  detailArray  | `types:JobLogDetailArray`  | The array of details about the logged job.  |
+

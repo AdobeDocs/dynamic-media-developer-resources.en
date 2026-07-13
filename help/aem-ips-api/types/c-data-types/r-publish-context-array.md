@@ -29,3 +29,4 @@ An array of publish contexts.
 |  Name  | Type  | Description  |
 |---|---|---|
 |  PublishContextArray  | `types:PublishContext`  | An array of publish contexts.  |
+

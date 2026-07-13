@@ -31,3 +31,4 @@ File information for primary video assets.
 |  originalPath  | `xsd:string`  | File path.  |
 |  originalFile  | `xsd:string`  | File name.  |
 |  fileSize  | `xsd:int`  | File size.  |
+

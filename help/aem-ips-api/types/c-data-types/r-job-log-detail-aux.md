@@ -31,3 +31,4 @@ Contains supplementary messages associated with the main job log message (JobDet
 |  logMessage  | `xsd:string`  | An auxiliary message.  |
 |  logType  | `xsd:string`  |Log type: `IPSJobLog.gcUploadWarning` or `IPSJobLog.gcUploadError`.  |
 |  dateCreated  | `xsd:dateTime`  | Auxiliary job log creation date.  |
+

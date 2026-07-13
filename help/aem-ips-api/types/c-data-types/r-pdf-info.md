@@ -31,3 +31,4 @@ PDF file properties.
 |  originalPath  | `xsd:string`  | File path.  |
 |  originalFile  | `xsd:int`  | File name.  |
 |  fileSize  | `xsd:int`  | File size.  |
+

@@ -30,3 +30,4 @@ Assets that belong to an image set.
 |---|---|---|
 |  asset  | `type:Asset`  | Assets in the image set array.  |
 |  pageReset  | `xsd:boolean`  |Starts a new page. Setting is ignored and value is forced to `true` for `eCatalog` and `RenderSet` sets.  |
+
