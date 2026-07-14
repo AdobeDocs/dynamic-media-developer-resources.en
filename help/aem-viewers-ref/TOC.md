@@ -3,7 +3,7 @@ cloud: Experience Cloud
 user-guide-title: Dynamic Media Viewers Reference Guide
 feature-set: Experience Manager Assets
 user-guide-description: Customize Dynamic Media viewers for use on desktop and touchscreen devices. Include interactive images and videos, carousels, spin sets, and more.
-nudge: true
+nudge: yes
 ---
 
 # Dynamic Media Viewers Reference Guide {#library}
