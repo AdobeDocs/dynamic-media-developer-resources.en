@@ -48,3 +48,4 @@ Optional.
 ## Example {#section-319450f834e5406fb1bca77372e03b4b}
 
 [!DNL `mode=auto`]
+

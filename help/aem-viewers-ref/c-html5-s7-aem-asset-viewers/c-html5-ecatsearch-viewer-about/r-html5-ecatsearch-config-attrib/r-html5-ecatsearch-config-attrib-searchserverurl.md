@@ -44,3 +44,4 @@ Optional.
 ```
 searchServerUrl=https://s7search1.scene7.com/s7search/
 ```
+
