@@ -54,4 +54,3 @@ Optional.
 ## Example {#section-95db1bfcccf241089654363203b19977}
 
 [!DNL `iconeffect=0`]
-

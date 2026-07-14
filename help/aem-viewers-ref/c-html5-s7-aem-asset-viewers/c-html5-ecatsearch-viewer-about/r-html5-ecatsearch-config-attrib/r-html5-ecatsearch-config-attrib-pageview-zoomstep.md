@@ -46,4 +46,3 @@ Optional.
 ## Example {#section-1e20672d42c845bd84f02f88cbc53efc}
 
 [!DNL `zoomstep=2,3`]
-

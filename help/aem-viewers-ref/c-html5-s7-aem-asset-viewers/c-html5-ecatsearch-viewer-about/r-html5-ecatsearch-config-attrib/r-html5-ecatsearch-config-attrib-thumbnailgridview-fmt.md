@@ -42,4 +42,3 @@ Optional.
 ## Example {#section-5cde7b856ba646c293cfd3d79e47c507}
 
 [!DNL `fmt-png-alpha`]
-

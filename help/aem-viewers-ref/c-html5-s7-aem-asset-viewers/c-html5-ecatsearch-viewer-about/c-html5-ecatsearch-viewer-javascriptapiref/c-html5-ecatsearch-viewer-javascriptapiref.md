@@ -34,4 +34,3 @@ In all the following examples, `<instance>` stands for the actual name of the Ja
 * [setLocalizedTexts](r-html5-ecatsearch-javascriptapiref-setlocalizedtexts.md)
 * [setParam](r-html5-ecatsearch-javascriptapiref-setparam.md)
 * [setParams](r-html5-ecatsearch-javascriptapiref-setparams.md)
-

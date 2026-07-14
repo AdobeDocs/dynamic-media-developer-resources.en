@@ -77,4 +77,3 @@ Example - to set up a 100 x 100 pixel zoom indicator with different art for desk
  background-image:url(images/v2/IconEffect_pinch.png); 
 }
 ```
-

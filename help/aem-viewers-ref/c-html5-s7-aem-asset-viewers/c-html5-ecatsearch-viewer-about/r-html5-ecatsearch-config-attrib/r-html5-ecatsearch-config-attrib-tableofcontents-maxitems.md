@@ -42,4 +42,3 @@ Optional.
 ## Example {#section-3a1a91fac1614b6db464626f7b32771a}
 
 [!DNL `maxitems=10`]
-

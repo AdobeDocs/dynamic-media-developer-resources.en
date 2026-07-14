@@ -42,4 +42,3 @@ Optional.
 ## Example {#section-b548ed09b52b4b65888ac891af08d725}
 
 [!DNL `rollover=1`]
-

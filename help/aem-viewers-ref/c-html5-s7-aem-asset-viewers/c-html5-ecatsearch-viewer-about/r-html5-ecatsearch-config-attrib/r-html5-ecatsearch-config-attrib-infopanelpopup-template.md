@@ -57,4 +57,3 @@ None.
 Assuming that the info server response returns the product name as variable `$1$` and product image URL is returned as variable `$2$`.
 
 `template=<info><![CDATA[Product description:$1$<br>Product image:<img src="$2$">]]></info>`
-

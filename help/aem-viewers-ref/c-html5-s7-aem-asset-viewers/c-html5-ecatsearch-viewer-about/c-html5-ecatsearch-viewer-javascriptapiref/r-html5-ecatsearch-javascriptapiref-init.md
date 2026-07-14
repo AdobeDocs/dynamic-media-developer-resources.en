@@ -43,4 +43,3 @@ None.
 ```
 <instance>.init()
 ```
-

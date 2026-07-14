@@ -66,4 +66,3 @@ Sharpening modifier added to all images in the set:
 ```
  <instance>.setAsset("Viewers/Pluralist?op_sharpen=1")
 ```
-

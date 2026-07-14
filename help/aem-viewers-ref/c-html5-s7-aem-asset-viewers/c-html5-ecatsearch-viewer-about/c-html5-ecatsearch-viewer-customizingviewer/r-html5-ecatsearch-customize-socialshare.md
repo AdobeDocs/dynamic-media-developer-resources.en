@@ -131,4 +131,3 @@ Example - set up a panel to have transparent color:
  background-color: transparent; 
 }
 ```
-

@@ -101,4 +101,3 @@ background-image:url(images/v2/ZoomOutButton_dark_down.png);
 background-image:url(images/v2/ZoomOutButton_dark_disabled.png); 
 }
 ```
-

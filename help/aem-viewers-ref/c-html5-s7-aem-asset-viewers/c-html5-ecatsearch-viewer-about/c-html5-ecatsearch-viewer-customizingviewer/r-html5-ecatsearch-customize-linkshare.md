@@ -718,4 +718,3 @@ Example - to set the share link to be 450 pixels wide:
     width: 450px; 
 }
 ```
-
