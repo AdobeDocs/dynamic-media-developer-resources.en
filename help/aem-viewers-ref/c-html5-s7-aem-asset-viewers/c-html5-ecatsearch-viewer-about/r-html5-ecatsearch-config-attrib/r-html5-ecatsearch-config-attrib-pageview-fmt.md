@@ -42,3 +42,4 @@ Optional.
 ## Example {#section-7de29e43bb3640e4aa1f8984b4afddad}
 
 [!DNL `fmt=png-alpha`]
+

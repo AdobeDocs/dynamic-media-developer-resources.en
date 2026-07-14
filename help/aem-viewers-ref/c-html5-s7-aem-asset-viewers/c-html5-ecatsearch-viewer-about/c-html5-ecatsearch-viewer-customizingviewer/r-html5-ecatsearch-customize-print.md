@@ -5,7 +5,7 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog Search
 role: Developer,User
 exl-id: c5939cdc-fa4e-4f19-b2a9-21b389492c4f
-TQID: 'https://experienceleague.adobe.com/K6---N-n2HEfIOrD-tD8qndgz94GaNSi94PDfk5K4KM'
+TQID: 'https://experienceleague.adobe.com/K6%2D%2D%2DN-n2HEfIOrD-tD8qndgz94GaNSi94PDfk5K4KM'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
@@ -827,3 +827,4 @@ Example - to set up a 430 pixel-wide gray divider with a 10 pixel vertical paddi
     width: 430px; 
 }
 ```
+

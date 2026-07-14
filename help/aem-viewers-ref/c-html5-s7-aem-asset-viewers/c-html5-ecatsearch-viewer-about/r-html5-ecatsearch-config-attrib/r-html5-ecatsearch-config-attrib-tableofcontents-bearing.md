@@ -46,3 +46,4 @@ Optional.
 ## Example {#section-68ff51c4e2b740c995fc5109cc0063bd}
 
 [!DNL `bearing=fit-vertical,0.5`]
+

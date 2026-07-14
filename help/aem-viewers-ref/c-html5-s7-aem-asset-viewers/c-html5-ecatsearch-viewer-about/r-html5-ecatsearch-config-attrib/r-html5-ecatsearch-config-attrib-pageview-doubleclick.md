@@ -42,3 +42,4 @@ Optional.
 ## Example {#section-986e7672f3694b7aa7572fb4428172ca}
 
 [!DNL `doubleclick=zoom`]
+

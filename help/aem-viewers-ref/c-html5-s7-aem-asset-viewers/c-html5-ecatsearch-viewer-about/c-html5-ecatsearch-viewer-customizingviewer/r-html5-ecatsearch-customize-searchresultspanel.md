@@ -401,3 +401,4 @@ Example - To set up a scroll up button that is 125 x 35 pixels and has different
 .s7ecatalogsearchviewer .s7searchpanel .s7scrolldownbutton[state='disabled'] { 
  background-image:url(images/sdk/searchpanel_scroll_down_disabled.png);
 ```
+

@@ -45,3 +45,4 @@ None.
 ```
 <instance>.dispose()
 ```
+

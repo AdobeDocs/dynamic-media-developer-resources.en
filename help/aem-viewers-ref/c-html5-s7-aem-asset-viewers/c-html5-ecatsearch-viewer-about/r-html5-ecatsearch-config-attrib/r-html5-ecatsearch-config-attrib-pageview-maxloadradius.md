@@ -20,7 +20,7 @@ role_v2:
 ---
 # PageView.maxloadradius{#pageview-maxloadradius}
 
- [!DNL `[PageView.|<containerId>_pageView.]maxloadradius=-1|0| *`preloadnbr`*`]
+`[PageView.|<containerId>_pageView.]maxloadradius=-1|0| *`preloadnbr`*`
 
 <table id="table_985ADD6C9BD04C629A84C9C625CCCFEB"> 
  <tbody> 
@@ -37,8 +37,9 @@ Optional.
 
 ## Default {#section-f0d5211aa2494f27a5a85e4a54b24ea2}
 
-[!DNL `1`]
+`1`
 
 ## Example {#section-4e27dfc1e2ce4dd7a4996dc575ab7a93}
 
-[!DNL `maxloadradius=0`]
+`maxloadradius=0`
+
