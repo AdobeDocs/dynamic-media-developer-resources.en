@@ -827,3 +827,4 @@ Example - to set up a 430 pixel-wide gray divider with a 10 pixel vertical paddi
     width: 430px; 
 }
 ```
+

@@ -469,3 +469,4 @@ Example - set up scroll buttons that are 28 x 32 pixels and have different artwo
  background-image:url(images/v2/ThumbnailScrollDownButton_dark_up.png); 
 }
 ```
+

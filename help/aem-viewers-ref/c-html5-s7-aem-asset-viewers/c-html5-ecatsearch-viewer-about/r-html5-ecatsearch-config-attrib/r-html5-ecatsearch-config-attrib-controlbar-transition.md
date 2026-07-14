@@ -50,3 +50,4 @@ Optional. This command is ignored on touch devices, where the control bar auto-h
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
 [!DNL `transition=none`]
+

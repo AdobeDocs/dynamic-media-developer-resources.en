@@ -189,3 +189,4 @@ The button tool tip can be localized. See [Localization of user interface elemen
  background-image:url(images/v2/ControlBarRightButton_dark_disabled_touch.png); 
 }
 ```
+

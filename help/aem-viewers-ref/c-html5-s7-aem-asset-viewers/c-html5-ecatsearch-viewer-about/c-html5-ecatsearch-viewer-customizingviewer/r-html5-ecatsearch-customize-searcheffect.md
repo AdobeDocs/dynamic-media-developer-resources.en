@@ -52,3 +52,4 @@ Example - to set up search result regions with a semi-transparent, yellow fill:
  background: rgba(255,255,0, 0.5); 
 }
 ```
+

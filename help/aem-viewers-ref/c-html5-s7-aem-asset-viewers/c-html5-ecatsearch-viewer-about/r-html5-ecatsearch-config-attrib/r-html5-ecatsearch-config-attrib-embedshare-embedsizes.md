@@ -50,3 +50,4 @@ Optional.
 ## Example {#section-7621c8ebd4144bc08a537d01bd9c3f2f}
 
 [!DNL `embedsizes=800,600;640,480,1`]
+
