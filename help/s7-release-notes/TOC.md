@@ -10,6 +10,7 @@ feature: Dynamic Media Classic
 role: Developer,User
 user-guide-title: Adobe Dynamic Media Classic release notes
 user-guide-description: The latest release notes for Adobe Dynamic Media Classic, part of the Adobe Experience Manager solution in the Adobe Experience Cloud.
+nudge: true
 ---
 
 # Dynamic Media Release Notes {#release-notes}
