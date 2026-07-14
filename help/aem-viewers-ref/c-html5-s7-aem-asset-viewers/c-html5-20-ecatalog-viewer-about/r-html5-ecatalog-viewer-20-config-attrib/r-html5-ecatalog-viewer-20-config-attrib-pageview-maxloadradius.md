@@ -5,7 +5,7 @@ solution: Experience Manager
 feature: Dynamic Media Classic,Viewers,SDK/API,eCatalog
 role: Developer,User
 exl-id: 02925e09-f1ab-4afb-a900-d216efd323fe
-TQID: 'https://experienceleague.adobe.com/BTz86cHc382RcPQ---RcZqenmf5Dm5zKsbtJizSE6-U'
+TQID: 'https://experienceleague.adobe.com/BTz86cHc382RcPQ%2D%2D%2DRcZqenmf5Dm5zKsbtJizSE6-U'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
@@ -20,7 +20,7 @@ role_v2:
 ---
 # PageView.maxloadradius{#pageview-maxloadradius}
 
-` [PageView.|<containerId>_pageView.]maxloadradius=-1|0| *`preloadnbr`*`
+`[PageView.|<containerId>_pageView.]maxloadradius=-1|0| *`preloadnbr`*`
 
 <table id="table_985ADD6C9BD04C629A84C9C625CCCFEB"> 
  <tbody> 
