@@ -30,3 +30,4 @@ Documentation about IS (Image Serving) and IR (Image Rendering) APIs, and relate
 The IPS (Image Production System) Web Service API enables external applications and third-party developers to programmatically access IPS assets and functionality.
 * [[!DNL Dynamic Media] Classic Release Notes](/help/s7-release-notes/s7rn2017.md)
 The latest release notes for Adobe [!DNL Dynamic Media] Classic-part of the [!DNL Adobe Experience Manager] solution in the [!DNL Adobe Experience Cloud].
+
