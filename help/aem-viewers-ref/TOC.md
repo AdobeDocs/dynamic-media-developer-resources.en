@@ -3,7 +3,7 @@ cloud: Experience Cloud
 user-guide-title: Dynamic Media Viewers Reference Guide
 feature-set: Experience Manager Assets
 user-guide-description: Customize Dynamic Media viewers for use on desktop and touchscreen devices. Include interactive images and videos, carousels, spin sets, and more.
-nudge: yes
+nudge: true
 ---
 
 # Dynamic Media Viewers Reference Guide {#library}
@@ -37,7 +37,7 @@ nudge: yes
   + Basic Zoom {#basic-zoom}
     + [Basic Zoom Viewer](c-html5-s7-aem-asset-viewers/c-html5-20-basic-zoom-viewer-about/c-html5-20-basic-zoom-viewer-about.md)
     + Command reference - Configuration attributes {#command-reference-configuration-attributes-basic-zoom}
-      + [Command reference – Configuration attributes](c-html5-s7-aem-asset-viewers/c-html5-20-basic-zoom-viewer-about/r-html5-basic-zoom-viewer-20-config-attrib/r-html5-basic-zoom-viewer-20-config-attrib.md)
+      + [Command reference - Configuration attributes](c-html5-s7-aem-asset-viewers/c-html5-20-basic-zoom-viewer-about/r-html5-basic-zoom-viewer-20-config-attrib/r-html5-basic-zoom-viewer-20-config-attrib.md)
       + [closebutton](c-html5-s7-aem-asset-viewers/c-html5-20-basic-zoom-viewer-about/r-html5-basic-zoom-viewer-20-config-attrib/r-html5-basic-zoom-viewer-20-config-attrib-closebutton.md)
       + [ZoomView.doubleclick](c-html5-s7-aem-asset-viewers/c-html5-20-basic-zoom-viewer-about/r-html5-basic-zoom-viewer-20-config-attrib/r-html5-basic-zoom-viewer-20-config-attrib-zoomview-doubleclick.md)
       + [ZoomView.enableHD](c-html5-s7-aem-asset-viewers/c-html5-20-basic-zoom-viewer-about/r-html5-basic-zoom-viewer-20-config-attrib/r-html5-basic-zoom-viewer-20-config-attrib-zoomview-enablehd.md)
@@ -83,7 +83,7 @@ nudge: yes
   + eCatalog {#ecatalog}
     + [eCatalog](c-html5-s7-aem-asset-viewers/c-html5-20-ecatalog-viewer-about/c-html5-20-ecatalog-viewer-about.md)
     + Command reference - Configuration-attributes {#command-reference-configuration-attributes-ecatalog}
-      + [Command reference – Configuration attributes](c-html5-s7-aem-asset-viewers/c-html5-20-ecatalog-viewer-about/r-html5-ecatalog-viewer-20-config-attrib/r-html5-ecatalog-viewer-20-config-attrib.md)
+      + [Command reference - Configuration attributes](c-html5-s7-aem-asset-viewers/c-html5-20-ecatalog-viewer-about/r-html5-ecatalog-viewer-20-config-attrib/r-html5-ecatalog-viewer-20-config-attrib.md)
       + [Closebutton](c-html5-s7-aem-asset-viewers/c-html5-20-ecatalog-viewer-about/r-html5-ecatalog-viewer-20-config-attrib/r-html5-ecatalog-viewer-20-config-attrib-closebutton.md)
       + [ControlBar.transition](c-html5-s7-aem-asset-viewers/c-html5-20-ecatalog-viewer-about/r-html5-ecatalog-viewer-20-config-attrib/r-html5-ecatalog-viewer-20-config-attrib-controlbar-transition.md)
       + [direction](c-html5-s7-aem-asset-viewers/c-html5-20-ecatalog-viewer-about/r-html5-ecatalog-viewer-20-config-attrib/r-html5-ecatalog-viewer-20-config-attrib-direction.md)
@@ -193,7 +193,7 @@ nudge: yes
   + eCatalog Search {#ecatalog-search}
     + [eCatalog Search](c-html5-s7-aem-asset-viewers/c-html5-ecatsearch-viewer-about/c-html5-ecatsearch-viewer-about.md)
     + Command reference - Configuration attributes {#command-reference-configuration-attributes-ecatalog-search}
-      + [Command reference – Configuration attributes](c-html5-s7-aem-asset-viewers/c-html5-ecatsearch-viewer-about/r-html5-ecatsearch-config-attrib/r-html5-ecatsearch-config-attrib.md)
+      + [Command referenceC - onfiguration attributes](c-html5-s7-aem-asset-viewers/c-html5-ecatsearch-viewer-about/r-html5-ecatsearch-config-attrib/r-html5-ecatsearch-config-attrib.md)
       + [Closebutton](c-html5-s7-aem-asset-viewers/c-html5-ecatsearch-viewer-about/r-html5-ecatsearch-config-attrib/r-html5-ecatsearch-config-attrib-closebutton.md)
       + [ControlBar.transition](c-html5-s7-aem-asset-viewers/c-html5-ecatsearch-viewer-about/r-html5-ecatsearch-config-attrib/r-html5-ecatsearch-config-attrib-controlbar-transition.md)
       + [direction](c-html5-s7-aem-asset-viewers/c-html5-ecatsearch-viewer-about/r-html5-ecatsearch-config-attrib/r-html5-ecatsearch-config-attrib-direction.md)
@@ -312,7 +312,7 @@ nudge: yes
   + Flyout {#flyout}
     + [Flyout](c-html5-s7-aem-asset-viewers/c-html5-flyout-viewer-20-about/c-html5-flyout-viewer-20-about.md)
     + Command reference - Configuration attributes {#command-reference-configuration-attributes-flyout}
-      + [Command reference – Configuration attributes](c-html5-s7-aem-asset-viewers/c-html5-flyout-viewer-20-about/r-html5-flyout-viewer-20-conf-attrib/r-html5-flyout-viewer-20-conf-attrib.md)
+      + [Command reference - Configuration attributes](c-html5-s7-aem-asset-viewers/c-html5-flyout-viewer-20-about/r-html5-flyout-viewer-20-conf-attrib/r-html5-flyout-viewer-20-conf-attrib.md)
       + [FlyoutZoomView.flyouttransition](c-html5-s7-aem-asset-viewers/c-html5-flyout-viewer-20-about/r-html5-flyout-viewer-20-conf-attrib/r-html5-flyout-viewer-20-conf-attrib-flyoutzoomview-flyouttransition.md)
       + [FlyoutZoomView.fmt](c-html5-s7-aem-asset-viewers/c-html5-flyout-viewer-20-about/r-html5-flyout-viewer-20-conf-attrib/r-html5-flyout-viewer-20-conf-attrib-flyoutzoomview-fmt.md)
       + [FlyoutZoomView.frametransition](c-html5-s7-aem-asset-viewers/c-html5-flyout-viewer-20-about/r-html5-flyout-viewer-20-conf-attrib/r-html5-flyout-viewer-20-conf-attrib-flyoutzoomview-frametransition.md)
@@ -359,7 +359,7 @@ nudge: yes
   + Inline Zoom {#inline-zoom}
     + [Inline Zoom](c-html5-s7-aem-asset-viewers/c-html5-inlinezoom-viewer-about/c-html5-inlinezoom-viewer-about.md)
     + Command reference - Configuration attributes {#command-reference-configuration-attributes-inline-zoom}
-      + [Command reference – Configuration attributes](c-html5-s7-aem-asset-viewers/c-html5-inlinezoom-viewer-about/r-html5-inlinezoom-viewer-conf-attrib/r-html5-inlinezoom-viewer-conf-attrib.md)
+      + [Command reference - Configuration attributes](c-html5-s7-aem-asset-viewers/c-html5-inlinezoom-viewer-about/r-html5-inlinezoom-viewer-conf-attrib/r-html5-inlinezoom-viewer-conf-attrib.md)
       + [FlyoutZoomView.flyouttransition](c-html5-s7-aem-asset-viewers/c-html5-inlinezoom-viewer-about/r-html5-inlinezoom-viewer-conf-attrib/r-html5-inlinezoom-viewer-conf-attrib-flyoutzoomview-flyouttransition.md)
       + [FlyoutZoomView.fmt](c-html5-s7-aem-asset-viewers/c-html5-inlinezoom-viewer-about/r-html5-inlinezoom-viewer-conf-attrib/r-html5-inlinezoom-viewer-conf-attrib-flyoutzoomview-fmt.md)
       + [FlyoutZoomView.frametransition](c-html5-s7-aem-asset-viewers/c-html5-inlinezoom-viewer-about/r-html5-inlinezoom-viewer-conf-attrib/r-html5-inlinezoom-viewer-conf-attrib-flyoutzoomview-frametransition.md)
@@ -404,7 +404,7 @@ nudge: yes
   + Mixed Media {#mixed-media}
     + [Mixed Media](c-html5-s7-aem-asset-viewers/c-html5-mixedmedia-viewer-about/c-html5-mixedmedia-viewer-about.md)
     + Command reference - Configuration attributes {#command-reference-configuration-attributes-mixed-media}
-      + [Command reference – Configuration attributes](c-html5-s7-aem-asset-viewers/c-html5-mixedmedia-viewer-about/r-html5-mixedmedia-viewer-config-attrib/r-html5-mixedmedia-viewer-config-attrib.md)
+      + [Command reference - Configuration attributes](c-html5-s7-aem-asset-viewers/c-html5-mixedmedia-viewer-about/r-html5-mixedmedia-viewer-config-attrib/r-html5-mixedmedia-viewer-config-attrib.md)
       + [closebutton](c-html5-s7-aem-asset-viewers/c-html5-mixedmedia-viewer-about/r-html5-mixedmedia-viewer-config-attrib/r-html5-mixedmedia-viewer-config-attrib-closebutton.md)
       + [ControlBar.transition](c-html5-s7-aem-asset-viewers/c-html5-mixedmedia-viewer-about/r-html5-mixedmedia-viewer-config-attrib/r-html5-mixedmedia-viewer-config-attrib-controlbar-transition.md)
       + [FlyoutZoomView.fmt](c-html5-s7-aem-asset-viewers/c-html5-mixedmedia-viewer-about/r-html5-mixedmedia-viewer-config-attrib/r-html5-mixedmedia-viewer-config-attrib-flyoutzoomview-fmt.md)
@@ -512,7 +512,7 @@ nudge: yes
   + Spin {#spin}
     + [Spin Viewer](c-html5-s7-aem-asset-viewers/c-html5-spin-viewer-about/c-html5-spin-viewer-about.md)
     + Command reference - Configuration attributes {#command-reference-configuration-attributes-spin}
-      + [Command reference – Configuration attributes](c-html5-s7-aem-asset-viewers/c-html5-spin-viewer-about/r-html5-spin-viewer-config-attrib/r-html5-spin-viewer-config-attrib.md)
+      + [Command reference - Configuration attributes](c-html5-s7-aem-asset-viewers/c-html5-spin-viewer-about/r-html5-spin-viewer-config-attrib/r-html5-spin-viewer-config-attrib.md)
       + [closebutton](c-html5-s7-aem-asset-viewers/c-html5-spin-viewer-about/r-html5-spin-viewer-config-attrib/r-html5-spin-viewer-config-attrib-closebutton.md)
       + [SpinView.doubleclick](c-html5-s7-aem-asset-viewers/c-html5-spin-viewer-about/r-html5-spin-viewer-config-attrib/r-html5-spin-viewer-config-attrib-spinview-doubleclick.md)
       + [SpinView.fmt](c-html5-s7-aem-asset-viewers/c-html5-spin-viewer-about/r-html5-spin-viewer-config-attrib/r-html5-spin-viewer-config-attrib-spinview-fmt.md)
@@ -561,7 +561,7 @@ nudge: yes
   + Video {#video}
     + [Video](c-html5-s7-aem-asset-viewers/c-html5-video-reference/c-html5-video-reference.md)
     + Command reference - Configuration attributes {#command-reference-configuration-attributes-video}
-      + [Command reference – Configuration attributes](c-html5-s7-aem-asset-viewers/c-html5-video-reference/c-html5-video-cmdref/c-html5-video-cmdref.md)
+      + [Command reference - Configuration attributes](c-html5-s7-aem-asset-viewers/c-html5-video-reference/c-html5-video-cmdref/c-html5-video-cmdref.md)
       + [ControlBar.transition](c-html5-s7-aem-asset-viewers/c-html5-video-reference/c-html5-video-cmdref/r-html5-video-viewer-conf-attrib-controlbar-transition.md)
       + [EmailShare.emailurl](c-html5-s7-aem-asset-viewers/c-html5-video-reference/c-html5-video-cmdref/r-html5-video-viewer-conf-attrib-emailshare-emailurl.md)
       + [EmbedShare.embedsizes](c-html5-s7-aem-asset-viewers/c-html5-video-reference/c-html5-video-cmdref/r-html5-video-viewer-conf-attrib-embedshare-embedsizes.md)
@@ -584,7 +584,7 @@ nudge: yes
       + [VideoScrubber.timepattern](c-html5-s7-aem-asset-viewers/c-html5-video-reference/c-html5-video-cmdref/r-html5-video-viewer-conf-attrib-videoscrubber-timepattern.md)
       + [VideoTime.timepattern](c-html5-s7-aem-asset-viewers/c-html5-video-reference/c-html5-video-cmdref/r-html5-video-viewer-conf-attrib-videotime-timepattern.md)
     + Command reference - URL {#command-reference-url-video}
-      + [Command reference – URL](c-html5-s7-aem-asset-viewers/c-html5-video-reference/c-html5-video-cmdref-url/c-html5-video-cmdref-url.md)
+      + [Command reference - URL](c-html5-s7-aem-asset-viewers/c-html5-video-reference/c-html5-video-cmdref-url/c-html5-video-cmdref-url.md)
       + [caption](c-html5-s7-aem-asset-viewers/c-html5-video-reference/c-html5-video-cmdref-url/r-html5-video-viewer-url-caption.md)
       + [navigation](c-html5-s7-aem-asset-viewers/c-html5-video-reference/c-html5-video-cmdref-url/r-html5-video-viewer-url-navigation.md)
       + [video](c-html5-s7-aem-asset-viewers/c-html5-video-reference/c-html5-video-cmdref-url/r-html5-video-viewer-url-video.md)
@@ -633,7 +633,7 @@ nudge: yes
   + Zoom {#zoom}
     + [Zoom](c-html5-s7-aem-asset-viewers/c-html5-20-zoom-viewer-about/c-html5-20-zoom-viewer-about.md)
     + Command reference - Configuration attributes {#command-reference-configuration-attributes-zoom}
-      + [Command reference – Configuration attributes](c-html5-s7-aem-asset-viewers/c-html5-20-zoom-viewer-about/r-html5-zoom-viewer-20-config-attrib/r-html5-zoom-viewer-20-config-attrib.md)
+      + [Command reference - Configuration attributes](c-html5-s7-aem-asset-viewers/c-html5-20-zoom-viewer-about/r-html5-zoom-viewer-20-config-attrib/r-html5-zoom-viewer-20-config-attrib.md)
       + [closebutton](c-html5-s7-aem-asset-viewers/c-html5-20-zoom-viewer-about/r-html5-zoom-viewer-20-config-attrib/r-html5-zoom-viewer-20-config-attrib-closebutton.md)
       + [Swatches.align](c-html5-s7-aem-asset-viewers/c-html5-20-zoom-viewer-about/r-html5-zoom-viewer-20-config-attrib/r-html5-zoom-viewer-20-config-attrib-swatches-align.md)
       + [Swatches.buttomsnapmode](c-html5-s7-aem-asset-viewers/c-html5-20-zoom-viewer-about/r-html5-zoom-viewer-20-config-attrib/r-html5-zoom-viewer-20-config-attrib-swatches-buttonsnapmode.md)
@@ -693,7 +693,7 @@ nudge: yes
   + Carousel {#carousel}
     + [Carousel](c-html5-aem-asset-viewers/c-html5-aem-carousel/c-html5-aem-carousel.md)
     + Command reference - Configuration attributes {#command-reference-configuration-attributes-carousel}
-      + [Command reference – Configuration attributes](c-html5-aem-asset-viewers/c-html5-aem-carousel/r-html5-aem-carousel-conf-attrib/r-html5-aem-carousel-conf-attrib.md)
+      + [Command reference - Configuration attributes](c-html5-aem-asset-viewers/c-html5-aem-carousel/r-html5-aem-carousel-conf-attrib/r-html5-aem-carousel-conf-attrib.md)
       + [CarouselView.autoplay](c-html5-aem-asset-viewers/c-html5-aem-carousel/r-html5-aem-carousel-conf-attrib/r-html5-aem-carousel-config-attrib-carouselview-autoplay.md)
       + [CarouselView.frametransition](c-html5-aem-asset-viewers/c-html5-aem-carousel/r-html5-aem-carousel-conf-attrib/r-html5-aem-carousel-config-attrib-carouselview-frametransition.md)
       + [CarouselView.iscommand](c-html5-aem-asset-viewers/c-html5-aem-carousel/r-html5-aem-carousel-conf-attrib/r-html5-aem-carousel-config-attrib-carouselview-iscommand.md)
@@ -704,7 +704,7 @@ nudge: yes
       + [SetIndicator.mode](c-html5-aem-asset-viewers/c-html5-aem-carousel/r-html5-aem-carousel-conf-attrib/r-html5-aem-carousel-config-attrib-setindicator-mode.md)
       + [ControlBar.transition](c-html5-aem-asset-viewers/c-html5-aem-carousel/r-html5-aem-carousel-conf-attrib/r-html5-aem-carousel-config-attrib-controlbar-transition.md)
     + Command reference - URL {#command-reference-url-carousel}
-      + [Command reference – URL](c-html5-aem-asset-viewers/c-html5-aem-carousel/c-html5-aem-carousel-cmdref-url/c-html5-aem-carousel-cmdref-url.md)
+      + [Command reference - URL](c-html5-aem-asset-viewers/c-html5-aem-carousel/c-html5-aem-carousel-cmdref-url/c-html5-aem-carousel-cmdref-url.md)
       + [preloadimage**](c-html5-aem-asset-viewers/c-html5-aem-carousel/c-html5-aem-carousel-cmdref-url/r-html5-aem-carousel-cmdref-url-preloadimage.md)
     + JavaScript API reference for Carousel Viewer {#jsapi-carousel}
       + [JavaScript API reference for Carousel Viewer](c-html5-aem-asset-viewers/c-html5-aem-carousel/c-html5-aem-carousel-javascriptapiref/c-html5-aem-carousel-javascriptapiref.md)
@@ -739,12 +739,12 @@ nudge: yes
   + Interactive Image {#interactive-images}
     + [Interactive Image](c-html5-aem-asset-viewers/c-html5-aem-interactive-images/c-html5-aem-interactive-images.md)
     + Command reference - Configuration attributes {#command-reference-configuration-attributes-interactive-images}
-      + [Command reference – Configuration attributes](c-html5-aem-asset-viewers/c-html5-aem-interactive-images/r-html5-aem-interactive-image-conf-attrib/r-html5-aem-interactive-image-conf-attrib.md)
+      + [Command reference - Configuration attributes](c-html5-aem-asset-viewers/c-html5-aem-interactive-images/r-html5-aem-interactive-image-conf-attrib/r-html5-aem-interactive-image-conf-attrib.md)
       + [ZoomView.enableHD](c-html5-aem-asset-viewers/c-html5-aem-interactive-images/r-html5-aem-interactive-image-conf-attrib/r-html5-aem-interactive-image-config-attrib-zoomview-enablehd.md)
       + [ZoomView.fmt](c-html5-aem-asset-viewers/c-html5-aem-interactive-images/r-html5-aem-interactive-image-conf-attrib/r-html5-aem-interactive-image-config-attrib-zoomview-fmt.md)
       + [ZoomView.iscommand](c-html5-aem-asset-viewers/c-html5-aem-interactive-images/r-html5-aem-interactive-image-conf-attrib/r-html5-aem-interactive-image-config-attrib-zoomview-iscommand.md)
     + Command reference - URL {#command-reference-interactive-images}
-      + [Command reference – URL](c-html5-aem-asset-viewers/c-html5-aem-interactive-images/c-html5-aem-int-image-cmdref-url/c-html5-aem-int-image-cmdref-url.md)
+      + [Command reference - URL](c-html5-aem-asset-viewers/c-html5-aem-interactive-images/c-html5-aem-int-image-cmdref-url/c-html5-aem-int-image-cmdref-url.md)
       + [preloadimage](c-html5-aem-asset-viewers/c-html5-aem-interactive-images/c-html5-aem-int-image-cmdref-url/r-html5-aem-int-image-cmdref-url-preloadimage.md)
     + JavaScript API reference for Interactive Image Viewer {#jsapi-interactive-image}
       + [JavaScript API reference for Interactive Image Viewer](c-html5-aem-asset-viewers/c-html5-aem-interactive-images/c-html5-aem-interactive-image-javascriptapiref/c-html5-aem-interactive-image-javascriptapiref.md)
@@ -774,7 +774,7 @@ nudge: yes
   + Interactive Video {#interactive-video}
     + [Interactive Video](c-html5-aem-asset-viewers/c-html5-aem-int-video/c-html5-aem-int-video.md)
     + Command reference - Configuration attributes {#command-reference-configuration-attributes-interactive-video}
-      + [Command reference – Configuration attributes](c-html5-aem-asset-viewers/c-html5-aem-int-video/r-html5-aem-int-video-config-attrib/r-html5-aem-int-video-config-attrib.md)
+      + [Command reference - Configuration attributes](c-html5-aem-asset-viewers/c-html5-aem-int-video/r-html5-aem-int-video-config-attrib/r-html5-aem-int-video-config-attrib.md)
       + [CallToAction.align](c-html5-aem-asset-viewers/c-html5-aem-int-video/r-html5-aem-int-video-config-attrib/r-html5-aem-int-video-config-attrib-calltoaction-align.md)
       + [CallToAction.direction](c-html5-aem-asset-viewers/c-html5-aem-int-video/r-html5-aem-int-video-config-attrib/r-html5-aem-int-video-config-attrib-calltoaction-direction.md)
       + [CallToAction.enabledragging](c-html5-aem-asset-viewers/c-html5-aem-int-video/r-html5-aem-int-video-config-attrib/r-html5-aem-int-video-config-attrib-calltoaction-enabledragging.md)
@@ -811,7 +811,7 @@ nudge: yes
       + [VideoScrubber.timepattern](c-html5-aem-asset-viewers/c-html5-aem-int-video/r-html5-aem-int-video-config-attrib/r-html5-aem-int-video-config-attrib-videoscrubber-timepattern.md)
       + [VideoTime.timepattern](c-html5-aem-asset-viewers/c-html5-aem-int-video/r-html5-aem-int-video-config-attrib/r-html5-aem-int-video-config-attrib-videotime-timepattern.md)
     + Command reference - URL {#command-reference-url-interactive-video}
-      + [Command reference – URL](c-html5-aem-asset-viewers/c-html5-aem-int-video/c-html5-aem-int-video-cmdref-url/c-html5-aem-int-video-cmdref-url.md)
+      + [Command reference - URL](c-html5-aem-asset-viewers/c-html5-aem-int-video/c-html5-aem-int-video-cmdref-url/c-html5-aem-int-video-cmdref-url.md)
       + [caption](c-html5-aem-asset-viewers/c-html5-aem-int-video/c-html5-aem-int-video-cmdref-url/r-html5-aem-int-video-cmdref-url-caption.md)
       + [interactivedata](c-html5-aem-asset-viewers/c-html5-aem-int-video/c-html5-aem-int-video-cmdref-url/r-html5-aem-int-video-cmdref-url-interactivedata.md)
       + [navigation](c-html5-aem-asset-viewers/c-html5-aem-int-video/c-html5-aem-int-video-cmdref-url/r-html5-aem-int-video-cmdref-url-navigation.md)
@@ -859,7 +859,7 @@ nudge: yes
   + Smart Crop Video {#smartcropvideo}
     + [Smart Crop Video](c-html5-aem-asset-viewers/c-html5-aem-smartcropvideo/c-html5-aem-smartcropvideo-viewer-reference.md)
     + Command reference - Configuration attributes {#command-reference-configuration-attributes-smartcropvideo}
-      + [Command reference – Configuration attributes](c-html5-aem-asset-viewers/c-html5-aem-smartcropvideo/c-html5-aem-smartcropvideo-cmdref/c-html5-aem-smartcropvideo-cmdref.md)
+      + [Command reference - Configuration attributes](c-html5-aem-asset-viewers/c-html5-aem-smartcropvideo/c-html5-aem-smartcropvideo-cmdref/c-html5-aem-smartcropvideo-cmdref.md)
       + [ControlBar.transition](c-html5-aem-asset-viewers/c-html5-aem-smartcropvideo/c-html5-aem-smartcropvideo-cmdref/r-html5-aem-smartcropvideo-conf-attrib-controlbar-transition.md)
       + [EmailShare.emailurl](c-html5-aem-asset-viewers/c-html5-aem-smartcropvideo/c-html5-aem-smartcropvideo-cmdref/r-html5-aem-smartcropvideo-conf-attrib-emailshare-emailurl.md)
       + [EmbedShare.embedsizes](c-html5-aem-asset-viewers/c-html5-aem-smartcropvideo/c-html5-aem-smartcropvideo-cmdref/r-html5-aem-smartcropvideo-conf-attrib-embedshare-embedsizes.md)
@@ -882,7 +882,7 @@ nudge: yes
       + [VideoScrubber.timepattern](c-html5-aem-asset-viewers/c-html5-aem-smartcropvideo/c-html5-aem-smartcropvideo-cmdref/r-html5-aem-smartcropvideo-conf-attrib-videoscrubber-timepattern.md)
       + [VideoTime.timepattern](c-html5-aem-asset-viewers/c-html5-aem-smartcropvideo/c-html5-aem-smartcropvideo-cmdref/r-html5-aem-smartcropvideo-conf-attrib-videotime-timepattern.md)
     + Command reference - URL {#command-reference-url-smartcropvideo}
-      + [Command reference – URL](c-html5-aem-asset-viewers/c-html5-aem-smartcropvideo/c-html5-aem-smartcropvideo-cmdref-url/c-html5-aem-smartcropvideo-cmdref-url.md)
+      + [Command reference - URL](c-html5-aem-asset-viewers/c-html5-aem-smartcropvideo/c-html5-aem-smartcropvideo-cmdref-url/c-html5-aem-smartcropvideo-cmdref-url.md)
       + [caption](c-html5-aem-asset-viewers/c-html5-aem-smartcropvideo/c-html5-aem-smartcropvideo-cmdref-url/r-html5-aem-smartcropvideo-url-caption.md)
       + [video](c-html5-aem-asset-viewers/c-html5-aem-smartcropvideo/c-html5-aem-smartcropvideo-cmdref-url/r-html5-aem-smartcropvideo-url-video.md)
       + [videoServerUrl](c-html5-aem-asset-viewers/c-html5-aem-smartcropvideo/c-html5-aem-smartcropvideo-cmdref-url/r-html5-aem-smartcropvideo-url-videoserverurl.md)
@@ -929,7 +929,7 @@ nudge: yes
   + Video360 {#video360}
     + [Video360](c-html5-aem-asset-viewers/c-html5-aem-video360/c-html5-aem-video360.md)
     + Command reference - Configuration attributes {#command-reference-configuration-attributes-video360}
-      + [Command reference – Configuration attributes](c-html5-aem-asset-viewers/c-html5-aem-video360/r-html5-aem-video360-config-attrib/r-html5-aem-video360-config-attrib.md)
+      + [Command reference - Configuration attributes](c-html5-aem-asset-viewers/c-html5-aem-video360/r-html5-aem-video360-config-attrib/r-html5-aem-video360-config-attrib.md)
       + [ControlBar.transition](c-html5-aem-asset-viewers/c-html5-aem-video360/r-html5-aem-video360-config-attrib/r-html5-aem-video360-conf-attrib-controlbar-transition.md)
       + [EmbedShare.embedsizes](c-html5-aem-asset-viewers/c-html5-aem-video360/r-html5-aem-video360-config-attrib/r-html5-aem-video360-conf-attrib-embedshare-embedsizes.md)
       + [SocialShare.bearing](c-html5-aem-asset-viewers/c-html5-aem-video360/r-html5-aem-video360-config-attrib/r-html5-aem-video360-conf-attrib-socialshare-bearing.md)
@@ -949,7 +949,7 @@ nudge: yes
       + [VideoScrubber.timepattern](c-html5-aem-asset-viewers/c-html5-aem-video360/r-html5-aem-video360-config-attrib/r-html5-aem-video360-conf-attrib-videoscrubber-timepattern.md)
       + [VideoTime.timepattern](c-html5-aem-asset-viewers/c-html5-aem-video360/r-html5-aem-video360-config-attrib/r-html5-aem-video360-conf-attrib-videotime-timepattern.md)
     + Command reference - URL {#command-reference-url-video360}
-      + [Command reference – URL](c-html5-aem-asset-viewers/c-html5-aem-video360/c-html5-aem-video360-cmdref-url/c-html5-aem-video360-cmdref-url.md)
+      + [Command reference - URL](c-html5-aem-asset-viewers/c-html5-aem-video360/c-html5-aem-video360-cmdref-url/c-html5-aem-video360-cmdref-url.md)
       + [video](c-html5-aem-asset-viewers/c-html5-aem-video360/c-html5-aem-video360-cmdref-url/r-html5-aem-video360-url-video.md)
       + [videoServerUrl](c-html5-aem-asset-viewers/c-html5-aem-video360/c-html5-aem-video360-cmdref-url/r-html5-aem-video360-url-videoserverurl.md)
     + JavaScript API reference for Video360 Viewer {#jsapi-video360}
@@ -992,12 +992,12 @@ nudge: yes
     + [External video support](c-html5-aem-asset-viewers/c-html5-aem-video360/c-html5-aem-video360-external-video-support.md)
     + [Viewer SDK namespace](c-html5-aem-asset-viewers/c-html5-aem-video360/c-html5-aem-video360-viewer-sdk-namespace.md)
 + Command reference common to all viewers - Configuration attributes {#command-reference-common-to-all-viewers-config-attrib}
-  + [Command reference common to all viewers – Configuration attributes](r-html5-viewer-20-cmdref-configattrib/r-html5-viewer-20-cmdref-configattrib.md)
+  + [Command reference common to all viewers - Configuration attributes](r-html5-viewer-20-cmdref-configattrib/r-html5-viewer-20-cmdref-configattrib.md)
   + [stageSize](r-html5-viewer-20-cmdref-configattrib/r-html5-viewer-20-cmdref-configattrib-stagesize.md)
   + [style](r-html5-viewer-20-cmdref-configattrib/r-html5-viewer-20-cmdref-configattrib-style.md)
   + [title](r-html5-viewer-20-cmdref-configattrib/r-html5-viewer-20-cmdref-configattrib-title.md)
 + Command reference common to all viewers - URL {#command-reference-common-to-all-viewers-url}
-  + [Command reference common to all viewers – URL](c-html5-viewer-20-cmdref-url/c-html5-viewer-20-cmdref-url.md)
+  + [Command reference common to all viewers - URL](c-html5-viewer-20-cmdref-url/c-html5-viewer-20-cmdref-url.md)
   + [asset](c-html5-viewer-20-cmdref-url/r-html5-viewer-20-cmdref-url-asset.md)
   + [caption](c-html5-viewer-20-cmdref-url/r-html5-viewer-20-cmdref-url-caption.md)
   + [config](c-html5-viewer-20-cmdref-url/r-html5-viewer-20-cmdref-url-config.md)
