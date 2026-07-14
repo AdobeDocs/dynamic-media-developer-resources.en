@@ -64,4 +64,3 @@ Example - to set up a viewer with a white background ( `#FFFFFF`) and make its s
  height: 288px;  
 }
 ```
-

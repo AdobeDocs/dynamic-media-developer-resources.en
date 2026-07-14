@@ -42,4 +42,3 @@ Optional.
 ## Example {#section-41c69a5b36b84d8889b8f4fbd2d4cdad}
 
 [!DNL `showdefault=0`]
-

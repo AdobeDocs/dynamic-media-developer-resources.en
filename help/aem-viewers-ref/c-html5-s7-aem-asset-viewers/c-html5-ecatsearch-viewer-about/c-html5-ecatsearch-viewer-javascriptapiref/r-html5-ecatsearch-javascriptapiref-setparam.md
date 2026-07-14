@@ -52,4 +52,3 @@ None.
 ```
 [!DNL <instance>.setParam("style", "customStyle.css")]
 ```
-

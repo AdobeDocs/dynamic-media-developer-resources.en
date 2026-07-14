@@ -63,4 +63,3 @@ Example - to set up a gray secondary control bar that is 72 pixels tall and is p
  height: 72px; 
 }
 ```
-

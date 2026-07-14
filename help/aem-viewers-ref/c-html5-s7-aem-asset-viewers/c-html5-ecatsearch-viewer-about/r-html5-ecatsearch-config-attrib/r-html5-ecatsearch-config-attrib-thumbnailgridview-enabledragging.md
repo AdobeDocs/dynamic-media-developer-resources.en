@@ -46,4 +46,3 @@ Optional.
 ## Example {#section-e67c8807762e471bb03d6a8fb20e19d4}
 
 [!DNL `enabledragging=0`]
-

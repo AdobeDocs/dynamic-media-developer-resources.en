@@ -404,4 +404,3 @@ Example - to set up scroll buttons which are 28 x 32 pixels and have different a
  background-image:url(images/v2/ThumbnailScrollDownButton_dark_up.png); 
 }
 ```
-

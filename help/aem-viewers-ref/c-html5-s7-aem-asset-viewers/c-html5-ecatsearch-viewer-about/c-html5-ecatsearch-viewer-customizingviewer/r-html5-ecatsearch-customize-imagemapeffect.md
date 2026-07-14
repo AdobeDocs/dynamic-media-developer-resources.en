@@ -122,4 +122,3 @@ Example - set up a transparent image map region with `1` pixel black border :
  background: RGBA(0,0,0,0);  
 }
 ```
-

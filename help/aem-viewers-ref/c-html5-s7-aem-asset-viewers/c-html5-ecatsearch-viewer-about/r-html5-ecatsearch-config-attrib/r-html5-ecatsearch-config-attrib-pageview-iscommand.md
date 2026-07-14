@@ -48,4 +48,3 @@ When specified in the viewer URL.
 When specified in the config data.
 
 [!DNL `iscommand=op_sharpen=1&op_colorize=0xff0000`]
-

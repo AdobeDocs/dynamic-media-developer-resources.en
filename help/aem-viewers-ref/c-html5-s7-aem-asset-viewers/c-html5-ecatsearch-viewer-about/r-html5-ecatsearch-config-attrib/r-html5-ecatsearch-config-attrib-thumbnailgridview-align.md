@@ -42,4 +42,3 @@ Optional.
 ## Example {#section-6867c2975b7747cd8aa023c2a20c794f}
 
 [!DNL `align=center`]
-

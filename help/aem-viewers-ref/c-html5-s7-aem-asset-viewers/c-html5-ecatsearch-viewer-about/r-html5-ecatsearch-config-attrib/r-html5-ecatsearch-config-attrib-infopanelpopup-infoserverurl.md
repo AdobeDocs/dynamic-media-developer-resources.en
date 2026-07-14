@@ -46,4 +46,3 @@ None.
 ## Example {#section-4f70fa4705c54452893c72c9da7e998a}
 
 [!DNL `infoServerUrl= http://s7info1.scene7.com/s7info/s7/$3$/$4$/$1$`]
-

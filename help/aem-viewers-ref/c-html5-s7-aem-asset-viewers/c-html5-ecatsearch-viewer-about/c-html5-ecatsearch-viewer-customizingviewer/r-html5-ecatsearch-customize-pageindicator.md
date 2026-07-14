@@ -87,4 +87,3 @@ Example - to set up a page indicator that is 56 x 28 pixels, horizontally center
  font-size:14px; 
 }
 ```
-
