@@ -52,3 +52,4 @@ None.
 ```
 <instance>.setParam("style", "customStyle.css")
 ```
+

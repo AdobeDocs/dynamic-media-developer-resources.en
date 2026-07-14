@@ -27,3 +27,4 @@ On modern desktop browsers, except Internet Explorer 10 and older, and on some t
 On iOS devices and on older Internet Explorer browsers, the viewer uses "simulated" full-screen mode instead. In this mode, the viewer simply resizes to take the full area of the web browser window. Also, the web browser user interface and other windows are still visible on the screen.
 
 An end user enters and leaves full-screen mode by pressing the full-screen button in the viewer user interface. When "native" full-screen mode is used on desktop, it is also possible to exit it by pressing **Esc**.
+

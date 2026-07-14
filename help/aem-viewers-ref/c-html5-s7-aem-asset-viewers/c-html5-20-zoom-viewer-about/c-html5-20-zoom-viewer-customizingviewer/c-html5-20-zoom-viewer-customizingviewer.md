@@ -191,3 +191,4 @@ background-position: -0px -560px;
 ## Common User Interface Elements {#section-d6330c9be8c444aa9b2a07886e3dbc2a}
 
 The following is user interface elements reference documentation that applies to Video Viewer:
+

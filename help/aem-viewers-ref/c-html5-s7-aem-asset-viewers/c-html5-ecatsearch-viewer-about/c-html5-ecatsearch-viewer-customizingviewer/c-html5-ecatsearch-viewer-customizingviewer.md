@@ -227,3 +227,4 @@ The following is user interface elements reference documentation that applies to
 * [Zoom in button](r-html5-ecatsearch-customize-zoominbutton.md)
 * [Zoom out button](r-html5-ecatsearch-customize-zoomoutbutton.md)
 * [Zoom reset button](r-html5-ecatsearch-customize-zoomresetbutton.md)
+
