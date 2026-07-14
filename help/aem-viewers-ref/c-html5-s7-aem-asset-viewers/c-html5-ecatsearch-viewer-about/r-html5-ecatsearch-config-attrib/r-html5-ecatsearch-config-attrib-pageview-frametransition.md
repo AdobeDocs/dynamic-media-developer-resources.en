@@ -51,3 +51,4 @@ Optional.
 ## Example {#section-b877011e5f6240718e9451be8f622c02}
 
 [!DNL `frametransition=auto,1`]
+
