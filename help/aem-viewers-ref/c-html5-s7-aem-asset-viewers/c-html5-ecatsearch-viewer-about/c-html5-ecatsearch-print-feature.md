@@ -29,3 +29,4 @@ The quality of the print can be adjusted using the `printquality` configuration 
 >[!NOTE]
 >
 >The Print feature is only available on desktop systems, except Internet Explorer 9.
+

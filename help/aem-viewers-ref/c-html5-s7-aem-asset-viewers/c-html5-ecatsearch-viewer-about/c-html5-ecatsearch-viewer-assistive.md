@@ -42,3 +42,4 @@ Drop-down lists are activated by buttons with additional `aria-haspopup` attribu
 Search user interface is grouped in the element with the role `search`. Search input field has the role `searchbox` and references the informative label controlled by `SearchPanel.INFO_PROMPT` localization symbol with `aria-describedby` attribute.
 
 Modal dialog boxes have the role `dialog`. The dialog box's header element is referenced by the `aria-labelledby` attribute.
+

@@ -27,3 +27,4 @@ The Search feature is triggered by activating a Search button in the main tool b
 Search results are displayed as thumbnails of pages where search text was found. Additionally, the viewer shows a total number of pages and hits found during the search. The user can click or tap on a search result thumbnail to navigate to the corresponding page of the catalog.
 
 Finally, the viewer highlights search hits in the main view using semi-transparent yellow regions.
+

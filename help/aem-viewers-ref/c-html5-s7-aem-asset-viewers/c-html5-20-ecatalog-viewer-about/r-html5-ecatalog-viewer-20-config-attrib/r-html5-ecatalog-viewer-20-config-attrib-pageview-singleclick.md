@@ -42,3 +42,4 @@ Optional.
 ## Example {#section-5f63781afec94e0189e135995f686c20}
 
 `singleclick=zoom`
+

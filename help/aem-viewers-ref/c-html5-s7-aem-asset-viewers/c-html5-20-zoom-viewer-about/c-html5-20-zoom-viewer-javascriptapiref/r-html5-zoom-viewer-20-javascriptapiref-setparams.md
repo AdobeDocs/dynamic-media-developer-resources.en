@@ -48,3 +48,4 @@ None.
 ```
 <instance>.setParams("ZoomView.zoomfactor=2,3&ZoomView.iscommand=op_sharpen%3d1")
 ```
+

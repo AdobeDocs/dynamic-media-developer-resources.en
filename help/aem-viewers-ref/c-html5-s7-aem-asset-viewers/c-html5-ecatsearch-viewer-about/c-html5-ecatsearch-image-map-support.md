@@ -61,3 +61,4 @@ where `*`idx`*` is a zero-based index of the catalog spread.
 The following is an example of an `href` attribute for an image map that points to the 3D spread in the eCatalog:
 
 `href=target:2`
+

@@ -80,3 +80,4 @@ On desktop systems the component supports `cursortype` attribute selector which 
 * `slide`
 
   Displayed when the user performs image swap by doing a horizontal swipe or flick.
+

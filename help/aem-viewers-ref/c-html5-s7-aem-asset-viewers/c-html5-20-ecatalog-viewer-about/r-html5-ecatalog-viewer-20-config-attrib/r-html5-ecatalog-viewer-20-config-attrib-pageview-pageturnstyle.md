@@ -64,3 +64,4 @@ Optional.
 ## Examples {#section-bb97b2aac37a43eba11d263ce7049363}
 
 `pageturnstyle=20,FF0000,1,1,00FF00,0000FF`
+

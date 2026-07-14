@@ -72,3 +72,4 @@ Sharpening modifier added to all images in the set as follows:
 ```
  <instance>.setAsset("Scene7SharedAssets/ImageSet-Views-Sample?op_sharpen=1")
 ```
+

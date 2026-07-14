@@ -23,3 +23,4 @@ role_v2:
 The main class of the Zoom Viewer is BasicZoomViewer. It is declared in the s7viewers namespace. This JavaScript API covers constructor, methods, and call backs of this particular class.
 
 In all the following examples, `<instance>` stands for the actual name of the JavaScript viewer object that is instantiated from the `s7viewers.ZoomViewer` class.
+

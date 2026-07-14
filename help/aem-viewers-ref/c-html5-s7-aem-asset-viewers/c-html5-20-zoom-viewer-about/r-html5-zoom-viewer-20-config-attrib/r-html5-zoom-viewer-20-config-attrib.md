@@ -35,3 +35,4 @@ Which means you can use the command as
 * `cont_zoomView.zoomstep` (qualified with component ID, assuming `cont` is the ID of the container element)
 
 See also [Command reference common to all viewers - Configuration attributes](../../../r-html5-viewer-20-cmdref-configattrib/r-html5-viewer-20-cmdref-configattrib.md#concept-850e0f2c49b949deb7cfbfd330d329bd)
+
