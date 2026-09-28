@@ -12,6 +12,11 @@ product_v2:
 feature_v2:
   - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
     internal-label: APIs
+  - id: ed762d86-a04b-452b-a08f-86359bb8ff27
+    internal-label: Configuration and operations
+subfeature_v2:
+  - id: e0d8c871-755b-4042-bb9e-9b9a2648e9fe
+    internal-label: Accessibility
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
