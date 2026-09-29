@@ -108,7 +108,7 @@ You add the viewer to a web page by doing the following:
 
    Creating a viewer requires that you add a script tag in the HTML head. Before you can use the viewer API, be sure that you include `FlyoutViewer.js`. `FlyoutViewer.js` is in the following [!DNL html5/js/] subfolder of your standard IS-Viewers deployment:
 
-[!DNL <s7viewers_root>/html5/js/FlyoutViewer.js]
+   [!DNL <s7viewers_root>/html5/js/FlyoutViewer.js]
 
    You can use a relative path if the viewer is deployed on one of the Adobe Dynamic Media servers and it is served from the same domain. Otherwise, you specify a full path to one of Adobe Dynamic Media servers that have the IS-Viewers installed.
 
