@@ -144,7 +144,7 @@ You add the viewer to a web page by doing the following:
 
    Creating a viewer requires that you add a script tag in the HTML head. Before you can use the viewer API, be sure that you include [!DNL Video360Viewer.js]. The [!DNL Video360Viewer.js] file is located under the [!DNL html5/js/] subfolder of your standard IS-Viewers deployment:
 
-[!DNL <s7viewers_root>/etc/dam/viewers/s7viewers/html5/js/Video360Viewer.js]
+   [!DNL <s7viewers_root>/etc/dam/viewers/s7viewers/html5/js/Video360Viewer.js]
 
    You can use a relative path if the viewer is deployed on one of the Adobe Dynamic Media Classic servers and it is served from the same domain. Otherwise, you specify a full path to one of Adobe Dynamic Media Classic servers that have the IS-Viewers installed.
 
