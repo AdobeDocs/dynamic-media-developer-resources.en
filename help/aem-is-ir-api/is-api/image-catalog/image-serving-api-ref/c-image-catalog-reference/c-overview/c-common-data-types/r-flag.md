@@ -21,7 +21,7 @@ topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
   - id: da31900f-0b2e-4267-a5f8-69290b954752
-    internal-label: Customer experience management (Topic)
+    internal-label: Customer experience management
 ---
 # Flag{#flag}
 
